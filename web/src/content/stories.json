@@ -1,0 +1,402 @@
+[
+  {
+    "sector": "Luxury & hospitality",
+    "slug": "luxury-and-hospitality",
+    "stories": [
+      {
+        "company": "Rolex",
+        "founder": "Hans Wilsdorf",
+        "failureStudy": false
+      },
+      {
+        "company": "The Leela",
+        "founder": "Capt. C.P. Krishnan Nair",
+        "failureStudy": false
+      },
+      {
+        "company": "Taj",
+        "founder": "Jamsetji Tata",
+        "failureStudy": false
+      },
+      {
+        "company": "Oberoi",
+        "founder": "M.S. Oberoi",
+        "failureStudy": false
+      },
+      {
+        "company": "Hermès",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "LVMH",
+        "founder": "Bernard Arnault",
+        "failureStudy": false
+      },
+      {
+        "company": "Titan/Tanishq",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Conglomerates",
+    "slug": "conglomerates",
+    "stories": [
+      {
+        "company": "Tata",
+        "founder": "Jamsetji → J.R.D. → Ratan",
+        "failureStudy": false
+      },
+      {
+        "company": "Reliance",
+        "founder": "Dhirubhai",
+        "failureStudy": false
+      },
+      {
+        "company": "Aditya Birla",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Mahindra",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Adani",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Godrej",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Consumer / FMCG / D2C",
+    "slug": "consumer-fmcg-d2c",
+    "stories": [
+      {
+        "company": "Amul",
+        "founder": "Verghese Kurien",
+        "failureStudy": false
+      },
+      {
+        "company": "Nirma",
+        "founder": "Karsanbhai Patel",
+        "failureStudy": false
+      },
+      {
+        "company": "Haldiram's",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Paper Boat",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "boAt",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Mamaearth",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Lenskart",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Sugar",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Bikaji",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Parle",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Tech & internet",
+    "slug": "tech-and-internet",
+    "stories": [
+      {
+        "company": "Apple",
+        "founder": "Steve Jobs",
+        "failureStudy": false
+      },
+      {
+        "company": "Zomato",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Swiggy",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Flipkart",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Paytm",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Zerodha",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Zoho",
+        "founder": "Sridhar Vembu",
+        "failureStudy": false
+      },
+      {
+        "company": "Freshworks",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "PhysicsWallah",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Byju's",
+        "founder": null,
+        "failureStudy": true
+      }
+    ]
+  },
+  {
+    "sector": "B2B & industrial",
+    "slug": "b2b-and-industrial",
+    "stories": [
+      {
+        "company": "Pidilite",
+        "founder": "Balvant Parekh, Fevicol",
+        "failureStudy": false
+      },
+      {
+        "company": "Asian Paints",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Bharat Forge",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "IndiaMART",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Infra.Market",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Moglix",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Ofbusiness",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Chemicals & pharma",
+    "slug": "chemicals-and-pharma",
+    "stories": [
+      {
+        "company": "Deepak Nitrite",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Aarti Industries",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Sun Pharma",
+        "founder": "Dilip Shanghvi",
+        "failureStudy": false
+      },
+      {
+        "company": "Cipla",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Dr. Reddy's",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Agriculture",
+    "slug": "agriculture",
+    "stories": [
+      {
+        "company": "Amul",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Jain Irrigation",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "DeHaat",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Ninjacart",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Country Delight",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Finance",
+    "slug": "finance",
+    "stories": [
+      {
+        "company": "HDFC",
+        "founder": "H.T. Parekh",
+        "failureStudy": false
+      },
+      {
+        "company": "Kotak",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Bajaj Finance",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "CRED",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Razorpay",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "B2G / infrastructure",
+    "slug": "b2g-infrastructure",
+    "stories": [
+      {
+        "company": "L&T",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "BEL",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Tata Advanced Systems",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Bharat Biotech",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "IdeaForge",
+        "founder": null,
+        "failureStudy": false
+      }
+    ]
+  },
+  {
+    "sector": "Global",
+    "slug": "global",
+    "stories": [
+      {
+        "company": "Toyota",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "IKEA",
+        "founder": "Ingvar Kamprad",
+        "failureStudy": false
+      },
+      {
+        "company": "Nike",
+        "founder": "Phil Knight",
+        "failureStudy": false
+      },
+      {
+        "company": "Red Bull",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Starbucks",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Amazon",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Tesla/SpaceX",
+        "founder": null,
+        "failureStudy": false
+      },
+      {
+        "company": "Juicero/Theranos",
+        "founder": null,
+        "failureStudy": true
+      }
+    ]
+  }
+]

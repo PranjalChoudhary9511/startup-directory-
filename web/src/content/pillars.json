@@ -1,0 +1,3842 @@
+[
+  {
+    "number": 1,
+    "slug": "problem",
+    "title": "Problem",
+    "plannedTracks": 45,
+    "note": null,
+    "question": "Is this a problem worth solving?",
+    "color": "#E4572E",
+    "modules": [
+      {
+        "number": 1,
+        "title": "Problem thinking foundations",
+        "isFree": true,
+        "plannedTracks": 7,
+        "deliverable": "A list of 20 problems you've personally noticed, scored.",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Problems vs ideas: why founders fall in love with the wrong thing",
+            "story": "Juicero vs Zomato",
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "Anatomy of a problem: who, when, how often, how painful",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Hair-on-fire, painkiller, vitamin: ranking problems",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "First-principles thinking for founders",
+            "story": "SpaceX and rocket costs",
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Root causes: 5 Whys and fishbone, in real businesses",
+            "story": "Toyota",
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Symptoms vs causes: why the Tata Nano saw the right problem and still lost",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          },
+          {
+            "number": 7,
+            "title": "Founder–problem fit: why you, why this",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.07",
+            "slug": "01-07"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Where problems hide",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": "30-day problem journal (minimum 30 entries).",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Scratch your own itch",
+            "story": "Zerodha: Nithin Kamath, the frustrated trader",
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "The Excel sheet at work is a startup",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "Problems in boring industries: chemicals, packaging, agri, logistics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "Bharat vs India: Tier-2/3 and rural lenses",
+            "story": "Meesho",
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Shifts that create problems: regulation, technology, demographics",
+            "story": "UPI",
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Copy, paste, adapt: global models in India, and when they fail",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "The problem journal: a 30-day observation habit",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Talking to customers",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": "20 interview notes + a synthesis board.",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Why surveys lie and conversations don't",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "The Mom Test, Indian edition",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Finding 20 people to interview in 7 days",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Writing your interview script",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Running the interview: silence, follow-ups, stories",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Observation and shadowing: watch, don't ask",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Interviewing B2B buyers and government officials",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          },
+          {
+            "number": 8,
+            "title": "Synthesising interviews: affinity mapping",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.08",
+            "slug": "03-08"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Measuring the problem",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": "Problem scorecard for your top 3 problems.",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Frequency × intensity × willingness to pay",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "What are people doing today? Alternatives and workarounds",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Jobs to be done",
+            "story": "Christensen's milkshake",
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Who feels the pain vs who pays (B2B, parents, government)",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Sizing a problem on a napkin",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Red flags: problems that look big but aren't",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Framing the problem statement",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": "Problem Brief v1.",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Writing a sharp problem statement",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "\"How might we…\": reframing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "Narrowing to a beachhead: the smallest winnable market",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Personas that aren't fiction",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "Problem hypotheses, and how to kill them",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "When the real problem was next door",
+            "story": "Slack from Glitch, Instagram from Burbn",
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "The problem-solver's toolkit",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": "Issue tree for your chosen problem.",
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Structured thinking: MECE and issue trees",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Second-order thinking",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Inversion: how would we make this problem worse?",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Constraints as advantage: jugaad done right",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Decisions under uncertainty",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "Systems thinking: loops and bottlenecks",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.06",
+            "slug": "06-06"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Problems decoded, case studies",
+        "isFree": false,
+        "plannedTracks": 5,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Zomato: from menu cards to food delivery",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "Zerodha: the brokerage problem",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Amul: the milk-middleman problem",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "Airbnb: the trust-between-strangers problem",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Juicero and Quibi: expensive non-problems",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          }
+        ]
+      }
+    ],
+    "deliverable": "Final Problem Brief (problem, who, evidence from 20+ interviews, current alternatives, score)."
+  },
+  {
+    "number": 2,
+    "slug": "solution",
+    "title": "Solution",
+    "plannedTracks": 45,
+    "note": null,
+    "question": "What's the smallest thing that truly solves it?",
+    "color": "#F2A541",
+    "modules": [
+      {
+        "number": 1,
+        "title": "From problem to solution",
+        "isFree": true,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Solution-first thinking is a trap",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "Diverge, then converge: generating 30 solutions",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Borrowing solutions from other industries",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "The value proposition canvas",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Unfair advantage and differentiation",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "10× better, or don't bother",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "The MVP",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What an MVP is, and isn't",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Concierge MVP: do it by hand first",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "Wizard-of-Oz MVP",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "Landing-page and pre-order MVPs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "The WhatsApp Business MVP",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Physical prototypes on a budget",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "Service MVPs for B2B",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          },
+          {
+            "number": 8,
+            "title": "Choosing the right MVP for your problem",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.08",
+            "slug": "02-08"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Testing and validation",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Designing an experiment: hypothesis, metric, threshold",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Pre-sales: the only validation that counts",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Smoke tests with ads",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Usability testing with 5 users",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Vanity signals vs real signals",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Iterate, persevere or pivot",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Product–market fit: how it feels, how to measure it",
+            "story": "Sean Ellis 40% test",
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Product design basics",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "User journeys and flows",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Prioritising features: MoSCoW, RICE, Kano",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Designing for Bharat: language, low bandwidth, trust",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Simplicity as strategy",
+            "story": "iPod: \"1,000 songs in your pocket\"",
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Pricing is part of the product",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Packaging the offer: bundles, tiers, guarantees",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          },
+          {
+            "number": 7,
+            "title": "Writing a solution spec",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.07",
+            "slug": "04-07"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Business model design",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "The business model canvas",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Revenue models: one-time, subscription, commission, ads, freemium",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "D2C vs marketplace vs SaaS vs services",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Asset-light vs asset-heavy",
+            "story": "OYO vs Taj",
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "Network effects and moats",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "Razor-and-blade and ecosystem models",
+            "story": "Gillette, Apple",
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          },
+          {
+            "number": 7,
+            "title": "Choosing a model for Indian price points",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.07",
+            "slug": "05-07"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Physical products and manufacturing",
+        "isFree": false,
+        "plannedTracks": 5,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "From sketch to sample",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Working with contract manufacturers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Quality control",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Certifications: FSSAI, BIS/ISI and other licences",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "IP basics: patents, trademarks, design registration",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Solutions decoded, case studies",
+        "isFree": false,
+        "plannedTracks": 5,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "iPhone: integrating existing technology into something new",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "Rolex Oyster: solving accuracy and waterproofing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Lenskart: home try-on as the solution",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "Paper Boat: nostalgia as a product",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Tata Nano: brilliant engineering, wrong framing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          }
+        ]
+      }
+    ],
+    "deliverable": "Solution Spec + MVP test results (what you built, who tested it, what they paid or committed)."
+  },
+  {
+    "number": 3,
+    "slug": "market-research",
+    "title": "Market Research",
+    "plannedTracks": 45,
+    "note": null,
+    "question": "Who pays, how much, who supplies, who competes?",
+    "color": "#2A9D8F",
+    "modules": [
+      {
+        "number": 1,
+        "title": "Research foundations",
+        "isFree": true,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Why asking an AI chatbot isn't market research",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "Primary vs secondary research",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Research questions that actually matter",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "TAM, SAM, SOM, done honestly",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Top-down vs bottom-up sizing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Where Indian data lives: MOSPI, RBI, Census, annual reports, DRHPs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Secondary research in depth",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Reading annual reports and DRHPs (IPO documents)",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Industry reports: what to trust",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "Government data portals and trade data",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "Google Trends, keyword data, social listening",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Competitor teardowns from public filings",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Building a research dossier",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Competitor analysis",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Direct, indirect and substitute competitors",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Feature and pricing matrices",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Mystery shopping",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Mining reviews (Amazon, Play Store, Google Maps)",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Positioning maps",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Finding white space",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Suppliers and sourcing",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "How supply chains actually work",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Finding suppliers: IndiaMART, TradeIndia, Alibaba",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Trade fairs and industrial clusters",
+            "story": "Tiruppur, Moradabad, Surat, Rajkot…",
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Visiting a factory: what to look for",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "MOQs, samples and lead times",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Costing a product: from bill of materials to landed cost",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          },
+          {
+            "number": 7,
+            "title": "Import basics: IEC, HS codes, duties",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.07",
+            "slug": "04-07"
+          },
+          {
+            "number": 8,
+            "title": "Building a supplier shortlist",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.08",
+            "slug": "04-08"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Negotiation",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Fundamentals: BATNA and ZOPA",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Negotiating with suppliers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "Negotiating with distributors and retailers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Payment terms, credit and advances",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "The cultural side of Indian business negotiation",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "A full negotiation, role-played and decoded",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Customer and demand research",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Surveys done right: sampling and bias",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Field research: markets, mandis, kirana visits",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Price research: Van Westendorp and willingness to pay",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Segmenting a market",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Regional differences across India",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "Channel research: where customers actually buy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.06",
+            "slug": "06-06"
+          },
+          {
+            "number": 7,
+            "title": "Demand signals: search volume, pre-orders, waitlists",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.07",
+            "slug": "06-07"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Synthesis and case studies",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Turning research into decisions",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "Writing the market report",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Reliance Jio: reading the data market",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "Nykaa: spotting the beauty-retail gap",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "New Coke: when research misleads",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          },
+          {
+            "number": 6,
+            "title": "Patanjali: a distribution and pricing read",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.06",
+            "slug": "07-06"
+          }
+        ]
+      }
+    ],
+    "deliverable": "Market Report (sizing, segments, 5 competitors decoded, 5 supplier quotes, landed-cost sheet, pricing evidence)."
+  },
+  {
+    "number": 4,
+    "slug": "build-with-ai",
+    "title": "Build with AI",
+    "plannedTracks": 85,
+    "note": null,
+    "question": "How do I build my business infrastructure myself?",
+    "color": "#5B5FEF",
+    "modules": [
+      {
+        "number": 1,
+        "title": "AI foundations for founders",
+        "isFree": true,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What AI can and can't do for a founder",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "How large language models work, in plain words",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Claude, ChatGPT, Gemini, Grok, DeepSeek: which one for what",
+            "story": null,
+            "kind": "screen",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "Prompting fundamentals: role, context, task, format",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Advanced prompting: examples, chains, critique loops",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Hallucinations and fact-checking",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          },
+          {
+            "number": 7,
+            "title": "Data privacy: what never to paste into AI",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.07",
+            "slug": "01-07"
+          },
+          {
+            "number": 8,
+            "title": "Building your personal AI workflow",
+            "story": null,
+            "kind": "screen",
+            "code": "01.08",
+            "slug": "01-08"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "AI for research and thinking",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "AI as a research assistant: deep-research tools",
+            "story": null,
+            "kind": "screen",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Summarising reports and DRHPs with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "AI for interview synthesis",
+            "story": null,
+            "kind": "screen",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "AI for competitor tracking",
+            "story": null,
+            "kind": "screen",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "AI in spreadsheets: formulas, analysis, models",
+            "story": null,
+            "kind": "screen",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "AI for writing: emails, proposals, decks",
+            "story": null,
+            "kind": "screen",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "AI for pitch decks",
+            "story": null,
+            "kind": "screen",
+            "code": "02.07",
+            "slug": "02-07"
+          },
+          {
+            "number": 8,
+            "title": "Custom assistants: Claude Projects, GPTs, Gems",
+            "story": null,
+            "kind": "screen",
+            "code": "02.08",
+            "slug": "02-08"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Websites without code",
+        "isFree": false,
+        "plannedTracks": 10,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Anatomy of a website: domain, hosting, DNS",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Buying a domain and setting up business email",
+            "story": null,
+            "kind": "screen",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "What makes a landing page convert",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Building with AI site builders",
+            "story": null,
+            "kind": "screen",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Shopify for D2C",
+            "story": null,
+            "kind": "screen",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "WordPress and WooCommerce basics",
+            "story": null,
+            "kind": "screen",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Writing website copy with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "03.07",
+            "slug": "03-07"
+          },
+          {
+            "number": 8,
+            "title": "Product photos and images with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "03.08",
+            "slug": "03-08"
+          },
+          {
+            "number": 9,
+            "title": "SEO basics for your site",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.09",
+            "slug": "03-09"
+          },
+          {
+            "number": 10,
+            "title": "Launch checklist: speed, mobile, legal pages",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.10",
+            "slug": "03-10"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Building with AI coding",
+        "isFree": false,
+        "plannedTracks": 12,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Frontend, backend, database: the mental model",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Vibe coding: what it is and where it breaks",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Setting up Claude Code, Cursor and GitHub",
+            "story": null,
+            "kind": "screen",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Your first app with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Databases with Supabase",
+            "story": null,
+            "kind": "screen",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "User login and authentication",
+            "story": null,
+            "kind": "screen",
+            "code": "04.06",
+            "slug": "04-06"
+          },
+          {
+            "number": 7,
+            "title": "Deploying to the internet",
+            "story": null,
+            "kind": "screen",
+            "code": "04.07",
+            "slug": "04-07"
+          },
+          {
+            "number": 8,
+            "title": "Forms, emails and notifications",
+            "story": null,
+            "kind": "screen",
+            "code": "04.08",
+            "slug": "04-08"
+          },
+          {
+            "number": 9,
+            "title": "Reading and fixing errors with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "04.09",
+            "slug": "04-09"
+          },
+          {
+            "number": 10,
+            "title": "Security basics: keys, secrets, backups",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.10",
+            "slug": "04-10"
+          },
+          {
+            "number": 11,
+            "title": "When to hire a developer, and how to brief one",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.11",
+            "slug": "04-11"
+          },
+          {
+            "number": 12,
+            "title": "Project: build your MVP web app",
+            "story": null,
+            "kind": "screen",
+            "code": "04.12",
+            "slug": "04-12"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Payments and commerce",
+        "isFree": false,
+        "plannedTracks": 10,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "How online payments work in India: UPI, cards, net-banking",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Choosing a gateway: Razorpay, Cashfree, PhonePe, Stripe",
+            "story": null,
+            "kind": "screen",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "KYC and the business documents a gateway needs",
+            "story": null,
+            "kind": "screen",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Razorpay payment links and pages",
+            "story": null,
+            "kind": "screen",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "Integrating checkout on your site",
+            "story": null,
+            "kind": "screen",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "Subscriptions and UPI AutoPay",
+            "story": null,
+            "kind": "screen",
+            "code": "05.06",
+            "slug": "05-06"
+          },
+          {
+            "number": 7,
+            "title": "COD, prepaid and RTO in Indian D2C",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.07",
+            "slug": "05-07"
+          },
+          {
+            "number": 8,
+            "title": "Shipping integrations: Shiprocket, Delhivery",
+            "story": null,
+            "kind": "screen",
+            "code": "05.08",
+            "slug": "05-08"
+          },
+          {
+            "number": 9,
+            "title": "GST invoices and payment reconciliation",
+            "story": null,
+            "kind": "screen",
+            "code": "05.09",
+            "slug": "05-09"
+          },
+          {
+            "number": 10,
+            "title": "Refunds, chargebacks and fraud",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.10",
+            "slug": "05-10"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Automation and operations",
+        "isFree": false,
+        "plannedTracks": 10,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Automation thinking: map the process before you automate it",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Zapier, Make and n8n basics",
+            "story": null,
+            "kind": "screen",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "WhatsApp Business and the WhatsApp API",
+            "story": null,
+            "kind": "screen",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Setting up a CRM (HubSpot, Zoho or Sheets)",
+            "story": null,
+            "kind": "screen",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Automated lead capture → follow-up",
+            "story": null,
+            "kind": "screen",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "AI chatbots for customer support",
+            "story": null,
+            "kind": "screen",
+            "code": "06.06",
+            "slug": "06-06"
+          },
+          {
+            "number": 7,
+            "title": "Invoicing and accounting tools (Zoho Books, Tally)",
+            "story": null,
+            "kind": "screen",
+            "code": "06.07",
+            "slug": "06-07"
+          },
+          {
+            "number": 8,
+            "title": "Inventory and order management",
+            "story": null,
+            "kind": "screen",
+            "code": "06.08",
+            "slug": "06-08"
+          },
+          {
+            "number": 9,
+            "title": "Dashboards: knowing your numbers daily",
+            "story": null,
+            "kind": "screen",
+            "code": "06.09",
+            "slug": "06-09"
+          },
+          {
+            "number": 10,
+            "title": "Notion as your company operating system",
+            "story": null,
+            "kind": "screen",
+            "code": "06.10",
+            "slug": "06-10"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "AI for content and creative",
+        "isFree": false,
+        "plannedTracks": 10,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "The AI creative stack",
+            "story": null,
+            "kind": "screen",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "AI image generation for brands",
+            "story": null,
+            "kind": "screen",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "AI video and avatars: when to use them, when not to",
+            "story": null,
+            "kind": "screen",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "AI voice and dubbing into Indian languages",
+            "story": null,
+            "kind": "screen",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Canva + AI for everyday design",
+            "story": null,
+            "kind": "screen",
+            "code": "07.05",
+            "slug": "07-05"
+          },
+          {
+            "number": 6,
+            "title": "Scripting reels with AI",
+            "story": null,
+            "kind": "screen",
+            "code": "07.06",
+            "slug": "07-06"
+          },
+          {
+            "number": 7,
+            "title": "Editing with CapCut / Descript + AI",
+            "story": null,
+            "kind": "screen",
+            "code": "07.07",
+            "slug": "07-07"
+          },
+          {
+            "number": 8,
+            "title": "Ad-creative variations at scale",
+            "story": null,
+            "kind": "screen",
+            "code": "07.08",
+            "slug": "07-08"
+          },
+          {
+            "number": 9,
+            "title": "Copyright and disclosure rules for AI content",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.09",
+            "slug": "07-09"
+          },
+          {
+            "number": 10,
+            "title": "Keeping your brand voice human",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.10",
+            "slug": "07-10"
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "AI agents and advanced use",
+        "isFree": false,
+        "plannedTracks": 9,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What AI agents are",
+            "story": null,
+            "kind": "cinematic",
+            "code": "08.01",
+            "slug": "08-01"
+          },
+          {
+            "number": 2,
+            "title": "Building a simple agent without code",
+            "story": null,
+            "kind": "screen",
+            "code": "08.02",
+            "slug": "08-02"
+          },
+          {
+            "number": 3,
+            "title": "AI for sales prospecting",
+            "story": null,
+            "kind": "screen",
+            "code": "08.03",
+            "slug": "08-03"
+          },
+          {
+            "number": 4,
+            "title": "AI for hiring and HR tasks",
+            "story": null,
+            "kind": "screen",
+            "code": "08.04",
+            "slug": "08-04"
+          },
+          {
+            "number": 5,
+            "title": "APIs explained for non-coders",
+            "story": null,
+            "kind": "cinematic",
+            "code": "08.05",
+            "slug": "08-05"
+          },
+          {
+            "number": 6,
+            "title": "Using AI APIs inside your product",
+            "story": null,
+            "kind": "screen",
+            "code": "08.06",
+            "slug": "08-06"
+          },
+          {
+            "number": 7,
+            "title": "AI costs: tokens, pricing, keeping it cheap",
+            "story": null,
+            "kind": "cinematic",
+            "code": "08.07",
+            "slug": "08-07"
+          },
+          {
+            "number": 8,
+            "title": "AI-native business models",
+            "story": null,
+            "kind": "cinematic",
+            "code": "08.08",
+            "slug": "08-08"
+          },
+          {
+            "number": 9,
+            "title": "How to learn any new AI tool fast",
+            "story": null,
+            "kind": "cinematic",
+            "code": "08.09",
+            "slug": "08-09"
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Capstone, your business infrastructure",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Capstone brief",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.01",
+            "slug": "09-01"
+          },
+          {
+            "number": 2,
+            "title": "Planning your build week",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.02",
+            "slug": "09-02"
+          },
+          {
+            "number": 3,
+            "title": "Build: the website",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.03",
+            "slug": "09-03"
+          },
+          {
+            "number": 4,
+            "title": "Build: payments",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.04",
+            "slug": "09-04"
+          },
+          {
+            "number": 5,
+            "title": "Build: automations",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.05",
+            "slug": "09-05"
+          },
+          {
+            "number": 6,
+            "title": "Build: your content system",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.06",
+            "slug": "09-06"
+          },
+          {
+            "number": 7,
+            "title": "Testing with real users",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.07",
+            "slug": "09-07"
+          },
+          {
+            "number": 8,
+            "title": "Demo and review",
+            "story": null,
+            "kind": "cinematic",
+            "code": "09.08",
+            "slug": "09-08"
+          }
+        ]
+      }
+    ],
+    "deliverable": "a live website with a working payment gateway, a CRM, 2 automations and an AI support assistant."
+  },
+  {
+    "number": 5,
+    "slug": "branding",
+    "title": "Branding",
+    "plannedTracks": 45,
+    "note": null,
+    "question": "What do we stand for, and how do we look, sound and package it?",
+    "color": "#D6457A",
+    "modules": [
+      {
+        "number": 1,
+        "title": "What a brand really is",
+        "isFree": true,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Brand vs logo vs marketing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "Why brands command a price",
+            "story": "Rolex, Apple",
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "A brand is a promise kept",
+            "story": "Tata and trust",
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "Personal brand vs company brand",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Branding in B2B and \"boring\" industries",
+            "story": "Fevicol, Asian Paints",
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "How Indian brands get built differently",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Positioning",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Positioning: the battle for the mind",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Choosing a category, or creating one",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "Writing your positioning statement",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "Differentiation customers actually notice",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Price positioning: premium, value, mass",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Repositioning: when and how",
+            "story": "Cadbury Dairy Milk for adults",
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "The Tata Nano's \"cheapest car\" trap",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Naming and visual identity",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Naming a company",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Trademark search and registration in India",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Logo design principles",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Colour and typography",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Visual identity systems",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "The brand guidelines document",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Designing with AI vs hiring a designer",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Voice and story",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Brand voice and tone",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Your brand story and founder story",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Storytelling frameworks for brands",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "The messaging hierarchy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Branding in regional languages",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Amul: 50+ years of topical ads",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Packaging",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Packaging as the silent salesman",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Packaging design principles",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "Materials, costs and suppliers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Legal labelling: Legal Metrology and FSSAI",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "The D2C unboxing experience",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "Sustainable packaging",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          },
+          {
+            "number": 7,
+            "title": "Paper Boat and Bombay Shaving Company: packaging decoded",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.07",
+            "slug": "05-07"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Brand experience",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Every touchpoint is the brand",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Customer service as branding",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Retail and offline brand presence",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Community-led brands",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Brand partnerships and collaborations",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "Measuring a brand: awareness, recall, NPS",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.06",
+            "slug": "06-06"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Brands decoded, case studies",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Rolex: Hans Wilsdorf and the Oyster",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "The Leela: building a luxury brand from zero, in your sixties",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Apple: \"Think Different\"",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "boAt: building an Indian D2C brand",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Fevicol: making glue unforgettable",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          },
+          {
+            "number": 6,
+            "title": "Tanishq: building trust in jewellery",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.06",
+            "slug": "07-06"
+          }
+        ]
+      }
+    ],
+    "deliverable": "Brand Kit (name + trademark check, positioning statement, logo, colours, type, voice guide, packaging mock-up)."
+  },
+  {
+    "number": 6,
+    "slug": "marketing",
+    "title": "Marketing",
+    "plannedTracks": 50,
+    "note": null,
+    "question": "How do the right people find out, and come back?",
+    "color": "#3F8F4F",
+    "modules": [
+      {
+        "number": 1,
+        "title": "Marketing foundations",
+        "isFree": true,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "What marketing actually is",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "The funnel: awareness → consideration → conversion → retention",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Zero budget vs paid",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "Marketing for B2C vs B2B vs B2G",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Your first 100 customers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Pick 1–2 channels, not 10",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Content and organic social",
+        "isFree": false,
+        "plannedTracks": 9,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Content strategy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Instagram reels that grow",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "YouTube long-form and Shorts",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "LinkedIn for founders",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Hooks, retention and storytelling in short video",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Building in public",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "Content in regional languages",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          },
+          {
+            "number": 8,
+            "title": "Content calendars and batching",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.08",
+            "slug": "02-08"
+          },
+          {
+            "number": 9,
+            "title": "Measuring organic: what to track",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.09",
+            "slug": "02-09"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Meta ads",
+        "isFree": false,
+        "plannedTracks": 10,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "How Meta's ad system works",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Business Manager, Pixel and Conversions API setup",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Campaign structure: objective, ad set, ad",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Audiences: broad, interest, lookalike, retargeting",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Creative that converts: formats and angles",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Writing ad copy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Budgets, bidding and the learning phase",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          },
+          {
+            "number": 8,
+            "title": "Reading results: CTR, CPC, CPM, CPA, ROAS",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.08",
+            "slug": "03-08"
+          },
+          {
+            "number": 9,
+            "title": "Scaling winners, killing losers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.09",
+            "slug": "03-09"
+          },
+          {
+            "number": 10,
+            "title": "Project: run a ₹3,000 test campaign",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.10",
+            "slug": "03-10"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Google and search",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "SEO fundamentals",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Keyword research",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Google Ads search campaigns",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Google Business Profile for local businesses",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "YouTube ads",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Marketplace ads (Amazon, Flipkart)",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Influencers, community and PR",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Influencer marketing in India",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Finding and negotiating with creators",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "Affiliate and referral programmes",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Building community: WhatsApp, Discord, events",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "PR and getting press",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "Guerrilla and offline marketing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Growth and retention",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Growth loops vs funnels",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Email and WhatsApp marketing",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Conversion-rate optimisation",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Retention and repeat purchase",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Analytics: GA4, Meta events, attribution",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "Launch strategy: launch week and Product Hunt",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.06",
+            "slug": "06-06"
+          },
+          {
+            "number": 7,
+            "title": "Marketing budget: CAC and LTV",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.07",
+            "slug": "06-07"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Campaigns decoded, case studies",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Zomato: a voice on social and in notifications",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "CRED: the \"Indiranagar ka gunda\" campaign",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Mamaearth: influencer-led D2C growth",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "Dollar Shave Club: one video",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Red Bull: owning a lifestyle",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          },
+          {
+            "number": 6,
+            "title": "Jio: free as a marketing strategy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.06",
+            "slug": "07-06"
+          }
+        ]
+      }
+    ],
+    "deliverable": "a 30-day content plan, 10 published posts, and one ₹3,000 Meta test campaign with real results."
+  },
+  {
+    "number": 7,
+    "slug": "sales",
+    "title": "Sales",
+    "plannedTracks": 50,
+    "note": null,
+    "question": "How do we close revenue through every channel?",
+    "color": "#1F6FB2",
+    "modules": [
+      {
+        "number": 1,
+        "title": "Sales foundations",
+        "isFree": true,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Selling is helping people buy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "The sales process: prospect → close → retain",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Why the founder must sell first",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "Objection handling basics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Pricing conversations",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Sales psychology: trust, urgency, proof",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "D2C and online sales",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "D2C economics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Your own website vs marketplaces",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "Selling on Amazon and Flipkart",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "Quick commerce: Blinkit, Zepto, Instamart",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Social commerce: Instagram, WhatsApp, Meesho",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Product pages that convert",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "Subscriptions and repeat sales",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          },
+          {
+            "number": 8,
+            "title": "Customer support that sells",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.08",
+            "slug": "02-08"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Offline and retail",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "India's distribution system: C&F agent → distributor → retailer",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "Getting into kirana stores",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Modern trade: DMart, Reliance Retail, chains",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Distributor margins and terms",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Building a field sales team",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Exhibitions and trade shows",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Franchising",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "B2B sales",
+        "isFree": false,
+        "plannedTracks": 9,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "How businesses buy: committees and cycles",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Ideal customer profiles and lead lists",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Cold emails that get replies",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "Cold calls and LinkedIn outreach",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Discovery calls",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Demos and proposals",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          },
+          {
+            "number": 7,
+            "title": "Negotiating and closing B2B deals",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.07",
+            "slug": "04-07"
+          },
+          {
+            "number": 8,
+            "title": "Contracts, POs and payment terms",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.08",
+            "slug": "04-08"
+          },
+          {
+            "number": 9,
+            "title": "Account management and upselling",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.09",
+            "slug": "04-09"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "B2G sales",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "How the government buys in India",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "GeM: registering and selling",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "Tenders: CPPP, eligibility, EMD",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Writing a winning bid",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "MSME and startup benefits in public procurement",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "Selling to PSUs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          },
+          {
+            "number": 7,
+            "title": "Payment cycles and managing government risk",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.07",
+            "slug": "05-07"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Sales systems",
+        "isFree": false,
+        "plannedTracks": 7,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "CRM and pipeline management",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.01",
+            "slug": "06-01"
+          },
+          {
+            "number": 2,
+            "title": "Sales metrics: conversion, cycle length, deal size",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.02",
+            "slug": "06-02"
+          },
+          {
+            "number": 3,
+            "title": "Hiring your first salesperson",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.03",
+            "slug": "06-03"
+          },
+          {
+            "number": 4,
+            "title": "Commissions and incentives",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.04",
+            "slug": "06-04"
+          },
+          {
+            "number": 5,
+            "title": "Scripts and playbooks",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.05",
+            "slug": "06-05"
+          },
+          {
+            "number": 6,
+            "title": "Channel partners and resellers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.06",
+            "slug": "06-06"
+          },
+          {
+            "number": 7,
+            "title": "Export sales basics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "06.07",
+            "slug": "06-07"
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Sales decoded + capstone",
+        "isFree": false,
+        "plannedTracks": 6,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Eureka Forbes: the door-to-door machine",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.01",
+            "slug": "07-01"
+          },
+          {
+            "number": 2,
+            "title": "Zoho: B2B from a small town to the world",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.02",
+            "slug": "07-02"
+          },
+          {
+            "number": 3,
+            "title": "Rolex: scarcity as a sales strategy",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.03",
+            "slug": "07-03"
+          },
+          {
+            "number": 4,
+            "title": "IndiaMART: building a B2B marketplace",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.04",
+            "slug": "07-04"
+          },
+          {
+            "number": 5,
+            "title": "Steve Jobs, Macworld 2007: the launch as a sales pitch",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.05",
+            "slug": "07-05"
+          },
+          {
+            "number": 6,
+            "title": "**Capstone: make your first sale**",
+            "story": null,
+            "kind": "cinematic",
+            "code": "07.06",
+            "slug": "07-06"
+          }
+        ]
+      }
+    ],
+    "deliverable": "a sales playbook + proof of your first paying customer."
+  },
+  {
+    "number": 8,
+    "slug": "money",
+    "title": "Money & Operations",
+    "plannedTracks": 40,
+    "note": "after launch",
+    "question": "Do the numbers work, and are we legal?",
+    "color": "#7A5C3E",
+    "modules": [
+      {
+        "number": 1,
+        "title": "Unit economics",
+        "isFree": true,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "CAC",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.01",
+            "slug": "01-01"
+          },
+          {
+            "number": 2,
+            "title": "LTV",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.02",
+            "slug": "01-02"
+          },
+          {
+            "number": 3,
+            "title": "Gross vs contribution margin",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.03",
+            "slug": "01-03"
+          },
+          {
+            "number": 4,
+            "title": "Break-even",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.04",
+            "slug": "01-04"
+          },
+          {
+            "number": 5,
+            "title": "Pricing for margin",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.05",
+            "slug": "01-05"
+          },
+          {
+            "number": 6,
+            "title": "Cash flow",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.06",
+            "slug": "01-06"
+          },
+          {
+            "number": 7,
+            "title": "Working capital",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.07",
+            "slug": "01-07"
+          },
+          {
+            "number": 8,
+            "title": "Building a financial model in Sheets",
+            "story": null,
+            "kind": "cinematic",
+            "code": "01.08",
+            "slug": "01-08"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Setting up the company",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Sole proprietorship vs LLP vs Pvt Ltd vs OPC",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.01",
+            "slug": "02-01"
+          },
+          {
+            "number": 2,
+            "title": "Incorporation step by step",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.02",
+            "slug": "02-02"
+          },
+          {
+            "number": 3,
+            "title": "DPIIT startup recognition",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.03",
+            "slug": "02-03"
+          },
+          {
+            "number": 4,
+            "title": "GST registration",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.04",
+            "slug": "02-04"
+          },
+          {
+            "number": 5,
+            "title": "Business bank account",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.05",
+            "slug": "02-05"
+          },
+          {
+            "number": 6,
+            "title": "Udyam (MSME) registration",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.06",
+            "slug": "02-06"
+          },
+          {
+            "number": 7,
+            "title": "Founders' agreement and equity split",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.07",
+            "slug": "02-07"
+          },
+          {
+            "number": 8,
+            "title": "ESOP basics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "02.08",
+            "slug": "02-08"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Compliance",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "GST returns",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.01",
+            "slug": "03-01"
+          },
+          {
+            "number": 2,
+            "title": "TDS",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.02",
+            "slug": "03-02"
+          },
+          {
+            "number": 3,
+            "title": "Annual ROC filings",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.03",
+            "slug": "03-03"
+          },
+          {
+            "number": 4,
+            "title": "Contracts every startup needs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.04",
+            "slug": "03-04"
+          },
+          {
+            "number": 5,
+            "title": "Protecting IP",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.05",
+            "slug": "03-05"
+          },
+          {
+            "number": 6,
+            "title": "Labour-law basics",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.06",
+            "slug": "03-06"
+          },
+          {
+            "number": 7,
+            "title": "Data privacy under the DPDP Act",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.07",
+            "slug": "03-07"
+          },
+          {
+            "number": 8,
+            "title": "Taxes for founders",
+            "story": null,
+            "kind": "cinematic",
+            "code": "03.08",
+            "slug": "03-08"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Funding",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "Bootstrapping",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.01",
+            "slug": "04-01"
+          },
+          {
+            "number": 2,
+            "title": "Grants and schemes",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.02",
+            "slug": "04-02"
+          },
+          {
+            "number": 3,
+            "title": "Angels",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.03",
+            "slug": "04-03"
+          },
+          {
+            "number": 4,
+            "title": "VCs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.04",
+            "slug": "04-04"
+          },
+          {
+            "number": 5,
+            "title": "Term sheets",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.05",
+            "slug": "04-05"
+          },
+          {
+            "number": 6,
+            "title": "Valuation",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.06",
+            "slug": "04-06"
+          },
+          {
+            "number": 7,
+            "title": "The pitch deck",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.07",
+            "slug": "04-07"
+          },
+          {
+            "number": 8,
+            "title": "Lessons from Shark Tank India pitches",
+            "story": null,
+            "kind": "cinematic",
+            "code": "04.08",
+            "slug": "04-08"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Team and operations",
+        "isFree": false,
+        "plannedTracks": 8,
+        "deliverable": null,
+        "tracks": [
+          {
+            "number": 1,
+            "title": "First hires",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.01",
+            "slug": "05-01"
+          },
+          {
+            "number": 2,
+            "title": "Culture",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.02",
+            "slug": "05-02"
+          },
+          {
+            "number": 3,
+            "title": "OKRs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.03",
+            "slug": "05-03"
+          },
+          {
+            "number": 4,
+            "title": "Working with freelancers",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.04",
+            "slug": "05-04"
+          },
+          {
+            "number": 5,
+            "title": "Payroll",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.05",
+            "slug": "05-05"
+          },
+          {
+            "number": 6,
+            "title": "SOPs",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.06",
+            "slug": "05-06"
+          },
+          {
+            "number": 7,
+            "title": "Scaling operations",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.07",
+            "slug": "05-07"
+          },
+          {
+            "number": 8,
+            "title": "Founder mental health",
+            "story": null,
+            "kind": "cinematic",
+            "code": "05.08",
+            "slug": "05-08"
+          }
+        ]
+      }
+    ],
+    "deliverable": "a unit-economics model + company setup checklist."
+  }
+]
