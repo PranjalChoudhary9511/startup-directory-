@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --canvas: #faf8f3;
+  --paper: #ffffff;
+  --ink: #141414;
+  --muted: #6b675f;
+  --line: #e6e1d6;
+  --accent: #e2711d;
+  --accent-ink: #ffffff;
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-display);
+  --font-mono: var(--font-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--canvas);
+  color: var(--ink);
+}
+
+/* Small uppercase section label, e.g. "PICK YOUR PATH". */
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
