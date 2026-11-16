@@ -1,0 +1,189 @@
+{
+  "slug": "babylon",
+  "name": "Babylon Health",
+  "region": "global",
+  "country": "United Kingdom",
+  "city": "London",
+  "sector": "Digital health / telemedicine",
+  "founded": 2013,
+  "died": 2023,
+  "status": "sold-for-parts",
+  "brandColor": "#4b3dd0",
+  "founders": [
+    { "name": "Ali Parsa", "role": "Founder and CEO" }
+  ],
+  "epitaph": "A doctor in every pocket. A deficit in every member.",
+  "oneLiner": "An app for video GP visits and an AI symptom checker, which later took on the full medical bills of US patients for a fixed fee.",
+  "causeOfDeath": "In the US it was paid a fixed fee per patient but spent about 99% of it on their medical bills, and its biggest customer walked away.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 4200,
+  "endValueUsdM": null,
+  "moneyNote": "Peak: $4.2B equity value at the 2021 SPAC deal (TechCrunch). Raised: 'over $600M' as a private company plus $229.3M at the SPAC listing, plus loans from AlbaCore; no clean total published. End: the UK business was sold to eMed for an undisclosed price; shareholders got nothing.",
+  "moneySrc": [3, 4, 7],
+  "inOneMinute": [
+    "Babylon promised **AI-powered healthcare for everyone on earth**, starting with a GP app in the UK. Investors valued it at $4.2 billion in 2021.",
+    "In the US it was paid a fixed fee per patient and paid their bills. It spent **about 99% of that money** on medical claims.",
+    "Its biggest customer, almost half its revenue, quit in August 2023. Within weeks it was **sold for parts**. Shareholders got nothing."
+  ],
+  "killerLine": "If you are paid a **fixed price** but your costs are **not in your control**, every new customer can make you poorer.",
+  "numbers": [
+    { "value": "$4.2 billion", "label": "value when it listed in New York via a SPAC, 2021", "src": [3] },
+    { "value": "99.1%", "label": "of its US value-based care revenue spent on patients' medical bills (2022)", "src": [4] },
+    { "value": "48.1%", "label": "of 2022 revenue came from one customer, Centene", "src": [8] },
+    { "value": "~$5,000", "label": "its US stock-market value at the very end", "src": [6] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a doctor in your pocket",
+      "body": "Seeing a GP (a family doctor) in Britain can mean waiting days. Ali Parsa started Babylon in London to fix that. You opened an app and **talked to a doctor on video**, often within hours. Babylon also built an AI chatbot that asked about your symptoms and suggested what to do next. Big names backed it: its $25 million Series A in 2016 included the founders of DeepMind, Google's AI lab. Parsa's mission was huge: \"to put accessible and affordable healthcare into the hands of everyone on earth.\" By 2019 Babylon said it handled about 4,000 consultations a day and covered 4.3 million people. A **$550 million round** valued it at over $2 billion.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "The rise: big claims and a big bet on America",
+      "body": "At a 2018 event in London, Babylon claimed its AI gave health advice \"on-par with top-rated practicing clinicians.\" Some doctors called this misleading, and in 2020 the UK medical device regulator wrote to one critic that his concerns were \"all valid and ones that we share.\" Then Babylon made its biggest move: America. In 2021 it agreed to merge with a SPAC (a listed shell company that exists only to merge with a private one) called Alkuri. The deal valued Babylon at **$4.2 billion**. About 85% of future revenue was expected to come from the US. The deal closed on 21 October 2021 and brought in $229.3 million. Revenue soared, from $79 million in 2020 to **$1.1 billion in 2022**.",
+      "src": [1, 3, 4, 7]
+    },
+    {
+      "title": "The cracks: the fixed-fee trap",
+      "body": "Most of that US revenue came from **value-based care**. Here is how it worked. An insurer paid Babylon a fixed amount per patient every month. In return, Babylon had to pay for that patient's healthcare, including hospital bills. If patients stayed healthy, Babylon kept the difference. If they got sick, Babylon paid. In 2022, Babylon spent **99.1%** of this revenue on patients' medical bills. That left almost nothing for doctors' salaries, software, offices and everything else. So more revenue meant more loss: Babylon lost $221 million in 2022. Its top ten customers made up 91.2% of revenue, and one, the insurer Centene, alone was **48.1%**. In March 2023, its annual report warned of \"substantial doubt\" about its ability to keep going.",
+      "src": [4, 7, 8]
+    },
+    {
+      "title": "The fall: forty days in 2023",
+      "body": "In June 2023 the New York Stock Exchange warned Babylon that its share price and value were too low, and Babylon said it would not fix this. Its lender, AlbaCore, planned to hand the business to another health-tech company, MindMaze. Shareholders would get **nothing**. On 4 August, Centene told Babylon it would not renew its contracts. On 7 August, the MindMaze deal collapsed and Babylon said it was **exiting the US**. On 8 August Centene ended the contracts immediately. The US business went into Chapter 7 (closing down and selling everything under US bankruptcy law), and the UK company went into administration. On 31 August the UK business was sold to eMed. By then, Babylon's US shares were worth a total of just over $5,000.",
+      "src": [5, 6, 8, 9]
+    }
+  ],
+  "timeline": [
+    { "date": "Jan 2016", "event": "Raises a $25 million Series A; backers include DeepMind's founders.", "kind": "start", "src": [0] },
+    { "date": "2018", "event": "Claims its AI gives advice on par with top doctors. Critics call it misleading.", "kind": "warning", "src": [1] },
+    { "date": "Aug 2019", "event": "Raises $550 million at a valuation above $2 billion to expand to the US and Asia.", "kind": "money", "src": [2] },
+    { "date": "Jun 2021", "event": "Agrees to merge with SPAC Alkuri at a $4.2 billion equity value.", "kind": "peak", "src": [3] },
+    { "date": "21 Oct 2021", "event": "SPAC deal closes; Babylon lists in New York, raising $229.3 million.", "kind": "money", "src": [7] },
+    { "date": "2022", "event": "Revenue hits $1.1 billion, but 99.1% of US value-based care revenue goes on medical bills. Net loss: $221 million.", "kind": "warning", "src": [4] },
+    { "date": "Mar 2023", "event": "Annual report warns of \"substantial doubt\" about its ability to continue.", "kind": "crisis", "src": [7] },
+    { "date": "Jun 2023", "event": "NYSE delisting notice. Lender AlbaCore plans to transfer the business to MindMaze, with nothing for shareholders.", "kind": "crisis", "src": [9] },
+    { "date": "Aug 2023", "event": "Centene ends its contracts (48.1% of revenue). MindMaze deal collapses. Babylon exits the US.", "kind": "end", "src": [5, 8] },
+    { "date": "31 Aug 2023", "event": "UK business sold to eMed. Remaining Babylon companies to be wound down.", "kind": "end", "src": [6, 10] }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["2019", "2020", "2021", "2022"],
+      "series": [
+        { "name": "Revenue", "values": [16, 79.3, 320.8, 1109.7] },
+        { "name": "Net loss", "values": [null, 213.0, 83.4, 221.4] }
+      ],
+      "takeaway": "Revenue grew about 70 times in three years. Babylon still lost money every year, because most of that revenue was passed straight on as medical bills.",
+      "src": [3, 4]
+    },
+    {
+      "title": "How much of each US care dollar went on medical bills",
+      "unit": "% of value-based care revenue",
+      "kind": "line",
+      "labels": ["2020", "2021", "2022"],
+      "series": [
+        { "name": "Medical claims as % of value-based care revenue", "values": [96.5, 100.4, 99.1] }
+      ],
+      "takeaway": "Out of every $100 an insurer paid Babylon, about $99 went straight to patients' medical bills. In 2021 it was more than $100.",
+      "src": [4]
+    }
+  ],
+  "rounds": [
+    { "date": "Jan 2016", "round": "Series A", "amountUsdM": 25, "valuationUsdM": null, "investors": ["Kinnevik", "Hoxton Ventures", "Demis Hassabis", "Mustafa Suleyman"], "src": [0] },
+    { "date": "Aug 2019", "round": "Series C", "amountUsdM": 550, "valuationUsdM": 2000, "investors": ["Public Investment Fund (Saudi Arabia)", "ERGO Fund (Munich Re)", "Kinnevik", "Vostok New Ventures"], "src": [2] },
+    { "date": "Oct 2021", "round": "SPAC merger with Alkuri Global + PIPE", "amountUsdM": 229.3, "valuationUsdM": 4200, "investors": ["Alkuri Global Acquisition Corp"], "src": [3, 7] }
+  ],
+  "causes": [
+    { "key": "unit-economics", "weight": 40 },
+    { "key": "business-model", "weight": 25 },
+    { "key": "burn", "weight": 20 },
+    { "key": "funding-dried", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Took on risk it could not control",
+      "explain": "In value-based care, Babylon got a fixed fee per patient and paid their medical bills, including hospital stays. It spent **99.1% of that revenue on claims** in 2022, and over 100% in 2021. An app and a chatbot could not stop people getting seriously ill. **Growing that business only grew the losses.**",
+      "src": [4, 7]
+    },
+    {
+      "title": "One customer held the keys",
+      "explain": "Centene alone was **48.1% of revenue** in 2022, and the top ten customers were 91.2%. When Centene declined to renew and then ended the contracts in August 2023, half the company vanished overnight. Babylon itself had warned it relied on \"a limited number of customers.\" **Concentration is fine early, deadly late.**",
+      "src": [7, 8]
+    },
+    {
+      "title": "Changed countries and business models at once",
+      "explain": "Babylon started as a UK app for GP visits. Through the 2021 SPAC it bet on the US, where about 85% of revenue was expected, in a completely different business: **insuring patients' total healthcare costs**. New country, new customers, new kind of risk, all in one jump, with gross margins of about 15%.",
+      "src": [3, 4]
+    },
+    {
+      "title": "Marketing ran ahead of the evidence",
+      "explain": "Babylon claimed its AI advice was \"on-par with top-rated practicing clinicians.\" Critics called such claims misleading, and a UK regulator said a doctor's concerns were \"all valid.\" In health, **trust is the product**. Bold claims bring attention, but they also invite scrutiny you must be able to survive.",
+      "src": [1]
+    }
+  ],
+  "warningSigns": [
+    "Does one customer bring in more than a quarter of your revenue?",
+    "Are you paid a fixed price for something whose cost you cannot control?",
+    "Does every extra rupee of revenue come with almost a rupee of direct cost?",
+    "Are you changing your country, your customers and your business model at the same time?",
+    "Are your marketing claims bigger than the evidence you could show a sceptical expert?",
+    "Does your survival depend on a lender or one investor agreeing to keep you going?"
+  ],
+  "lessons": [
+    {
+      "title": "Know which risk you are actually selling",
+      "detail": "Babylon was good at video consultations. In the US it ended up selling insurance risk, which is a very different skill. Before signing a 'we take the risk' deal, ask: can I really control the cost? If not, you are a gambler, not a service provider."
+    },
+    {
+      "title": "Revenue is not the same as money you keep",
+      "detail": "Babylon's revenue crossed $1.1 billion, but about 99% of its US care revenue went straight out as medical bills. Always look at gross margin (revenue minus direct costs) first. A ₹10 crore business with 40% margin beats a ₹100 crore one with 1%."
+    },
+    {
+      "title": "Cap your biggest customer",
+      "detail": "Many Indian B2B startups depend on one big client or one government contract. Set a rule, like no customer above 25% of revenue, and work actively to add more customers before the big one has the power to end you."
+    },
+    {
+      "title": "Do one big change at a time",
+      "detail": "Moving to a new market, a new type of customer, or a new pricing model is each a major bet. Do them one by one, prove each works, then take the next step. Doing all three at once leaves you no way to tell what is broken."
+    },
+    {
+      "title": "In health, claim only what you can prove",
+      "detail": "If you build health-tech, publish careful evidence, invite doctors to test you, and use modest words. Regulators, doctors and patients remember overclaims long after the launch event."
+    }
+  ],
+  "quote": {
+    "text": "Our mission at Babylon is to put accessible and affordable healthcare into the hands of everyone on earth",
+    "who": "Dr Ali Parsa, founder and CEO of Babylon",
+    "context": "Announcing its $550 million funding round, August 2019",
+    "src": [2]
+  },
+  "afterlife": {
+    "text": "On 31 August 2023, substantially all of Babylon's remaining UK business was bought by eMed, a US healthcare company, and continued serving NHS GP at Hand and private patients. The US business went through Chapter 7 liquidation, and the UK company entered administration run by Alvarez & Marsal. The sale gave nothing to Babylon's shareholders; the remaining Babylon companies were to be wound down. At the end, the US-listed shares were worth a combined total of just over $5,000, down from a $4.2 billion valuation two years earlier.",
+    "src": [6, 10]
+  },
+  "sources": [
+    { "label": "TechCrunch: Babylon Health raises $25M Series A (Jan 2016)", "url": "https://techcrunch.com/2016/01/13/babylon-health/" },
+    { "label": "TechCrunch: UK's MHRA says it has 'concerns' about Babylon Health (Mar 2021)", "url": "https://techcrunch.com/2021/03/05/uks-mhra-says-it-has-concerns-about-babylon-health-and-flags-legal-gap-around-triage-chatbots/" },
+    { "label": "TechCrunch: Babylon Health confirms $550M raise (Aug 2019)", "url": "https://techcrunch.com/2019/08/02/babylon-health-confirms-550m-raise-to-expand-its-ai-based-health-services-to-the-us-and-asia/" },
+    { "label": "TechCrunch: This SPAC is betting a British healthcare company can shake up the US market (Jun 2021)", "url": "https://techcrunch.com/2021/06/07/this-spac-is-betting-that-a-british-healthcare-company-can-shake-up-the-us-market/" },
+    { "label": "Babylon Holdings 10-K MD&A for 2022 (via InsuranceNewsNet)", "url": "https://insurancenewsnet.com/oarticle/babylon-holdings-ltd-10-k-managements-discussion-and-analysis-of-financial-condition-and-resultsof-operations" },
+    { "label": "Babylon press release, 7 Aug 2023: MindMaze deal will not proceed (SEC Exhibit 99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1866390/000186639023000112/exhibit9917aug2023.htm" },
+    { "label": "TechCrunch: The fall of Babylon, bankrupt and sold for parts (Aug 2023)", "url": "https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/" },
+    { "label": "Babylon Holdings Form 10-K for 2022, SEC (Mar 2023)", "url": "https://www.sec.gov/Archives/edgar/data/1866390/000186639023000055/bbln-20221231.htm" },
+    { "label": "Babylon Form 8-K: Centene contract non-renewal and termination (Aug 2023)", "url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1866390/000110465923090578/tm2323561d1_8k.htm" },
+    { "label": "Babylon press release, 28 Jun 2023: NYSE notice and proposed MindMaze transaction (SEC Exhibit 99.1)", "url": "https://www.sec.gov/Archives/edgar/data/1866390/000186639023000107/exhibit991tojune2820238-k.htm" },
+    { "label": "Babylon Form 8-K: sale of UK business to eMed (31 Aug 2023)", "url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1866390/000110465923097308/tm2325256d1_8k.htm" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Babylon's chatbot 'beat' doctors on a medical exam (2018).", "note": "Widely reported in 2018 and widely disputed by doctors at the time. We could not read the original exam claim or its critiques directly, so we only quote the 'on-par with top-rated practicing clinicians' line reported by TechCrunch." },
+      { "claim": "eMed paid £500,000 for Babylon's UK assets.", "note": "Reported in some accounts but not in Babylon's own filing, which gave no price. endValue is left blank." },
+      { "claim": "Peak valuation: $2 billion or $4.2 billion?", "note": "The last private round (2019) valued it at about $2B. The 2021 SPAC deal set an equity value of about $4.2B. We use $4.2B as the peak." },
+      { "claim": "2021 net loss of $83.4M looks small compared with 2020 and 2022.", "note": "This is the reported net loss in the 10-K. Net loss can be moved by one-off accounting items; Babylon's adjusted EBITDA loss for 2021 was $212.2M." }
+    ]
+  }
+}

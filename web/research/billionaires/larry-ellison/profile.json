@@ -1,0 +1,692 @@
+{
+  "name": "Larry Ellison",
+  "title": "The Dropout Who Skipped Version One",
+  "subtitle": "Handed to relatives at nine months and told he would amount to nothing, he quit college twice, put in $1,200, and built Oracle from a research paper no company had turned into a product.",
+  "hook": "Larry Ellison's first product skipped a number on purpose. In 1979 his tiny company shipped its database as ==Version 2==. As he later said with a laugh: \"Who in the world would buy software called Version 1 from four guys in California?\" He had helped start that company with just ==$1,200==. Then on 10 September 2025, aged 81, a jump in Oracle's shares added about ==$89 billion== to his fortune in a single day, a record on Bloomberg's rich list, and for a few hours he was **the richest person alive**.",
+  "hookSrc": [
+    6,
+    7,
+    8,
+    10,
+    11,
+    41
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Larry_Ellison_picture_%28cropped%29.png/960px-Larry_Ellison_picture_%28cropped%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_picture_(cropped).png",
+    "caption": "Larry Ellison speaking on stage, in a photo released by Oracle's press team.",
+    "author": "Oracle PR Hartmann Studios",
+    "license": "CC BY 2.0",
+    "year": null
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Larry_Ellison_and_Exadata.jpg/960px-Larry_Ellison_and_Exadata.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_and_Exadata.jpg",
+      "caption": "Larry Ellison with the Sun Oracle Database Machine, also known as Exadata, in October 2009.",
+      "author": "Oracle Corporate Communications",
+      "license": "CC BY 2.0",
+      "year": 2009
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Oracle_Headquarters_Redwood_Shores.jpg/960px-Oracle_Headquarters_Redwood_Shores.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_Redwood_Shores.jpg",
+      "caption": "Oracle's headquarters at Redwood Shores, California, in November 2009. The company's official head office is now in Austin, Texas.",
+      "author": "Håkan Dahlström",
+      "license": "CC BY 2.0",
+      "year": 2009
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ellison-Spithill-Ford.jpg/960px-Ellison-Spithill-Ford.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ellison-Spithill-Ford.jpg",
+      "caption": "BMW Oracle Racing team owner Larry Ellison, helmsman James Spithill and actor Harrison Ford watch the American flag raised on the schooner America, August 2009.",
+      "author": "Port of San Diego from San Diego, CA",
+      "license": "CC BY 2.0",
+      "year": 2009
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/USA-17-flying-cropped.jpg/960px-USA-17-flying-cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:USA-17-flying-cropped.jpg",
+      "caption": "BMW Oracle Racing's America's Cup yacht USA-17 sailing off Valencia, Spain, on 22 January 2010.",
+      "author": "Pedro de Arechavaleta",
+      "license": "CC BY-SA 3.0",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Oracle_Team_USA_in_the_2013_America%27s_Cup.JPG/960px-Oracle_Team_USA_in_the_2013_America%27s_Cup.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Oracle_Team_USA_in_the_2013_America%27s_Cup.JPG",
+      "caption": "Oracle Racing chasing Team New Zealand on the first downwind leg of the second race of the 2013 America's Cup.",
+      "author": "Donan.raven",
+      "license": "CC BY-SA 3.0",
+      "year": 2013
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lanai_from_Hawaiian_Airlines_Flight_from_Honolulu_to_Kona_%284%29_%284549399764%29.jpg/960px-Lanai_from_Hawaiian_Airlines_Flight_from_Honolulu_to_Kona_%284%29_%284549399764%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lanai_from_Hawaiian_Airlines_Flight_from_Honolulu_to_Kona_(4)_(4549399764).jpg",
+      "caption": "The Hawaiian island of Lanai seen from a flight in April 2010, two years before Ellison bought 98% of it.",
+      "author": "Ken Lund from Reno, Nevada, USA",
+      "license": "CC BY-SA 2.0",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rising_Sun.jpg/960px-Rising_Sun.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rising_Sun.jpg",
+      "caption": "Rising Sun, the yacht built for Larry Ellison in 2004 and later owned by David Geffen, photographed in Genoa, Italy, in 2012.",
+      "author": "Christopher Schriner",
+      "license": "CC BY-SA 3.0",
+      "year": 2012
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larry_Ellison_-_American_AI_investment.png/960px-Larry_Ellison_-_American_AI_investment.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_-_American_AI_investment.png",
+      "caption": "Larry Ellison, aged 80, speaking at a White House press conference on AI on 21 January 2025.",
+      "author": "The White House",
+      "license": "Public domain",
+      "year": 2025
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "17 August 1944, New York City (the Bronx, per his Academy of Achievement biography).",
+      "src": [
+        0,
+        1,
+        43
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "A two-bedroom apartment on Chicago's South Side, raised by his mother's aunt and uncle. He did not know he was adopted until he was 12.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "University of Illinois, then University of Chicago. He left both without a degree and says he never took a computer science class.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "label": "First jobs",
+      "value": "In California, technician work at Fireman's Fund and Wells Fargo, then programming at Amdahl and Ampex.",
+      "src": [
+        0,
+        8
+      ]
+    },
+    {
+      "label": "First company (age)",
+      "value": "Software Development Laboratories, later Oracle, in June 1977. He was 32 and put in $1,200.",
+      "src": [
+        4,
+        6
+      ]
+    },
+    {
+      "label": "Main company today",
+      "value": "Oracle. Executive Chair and Chief Technology Officer since September 2014, after 37 years as CEO.",
+      "src": [
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "label": "Source of wealth",
+      "value": "About 40% of Oracle, plus nearly 50% of Paramount Skydance. Forbes put him at $171.6 billion on 1 November 2026, against more than $400 billion in September 2025. By September 2026 he had pledged 413 million Oracle shares against personal loans.",
+      "src": [
+        5,
+        12
+      ]
+    },
+    {
+      "label": "Children",
+      "value": "Forbes lists four. Two work in public: David Ellison, who heads Paramount, and Megan Ellison, who founded Annapurna Pictures.",
+      "src": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "label": "Lives in",
+      "value": "Manalapan, Florida, USA, according to Forbes. In December 2020 he told Oracle staff he had moved to Hawaii, to work from Lanai.",
+      "src": [
+        12,
+        27,
+        28
+      ]
+    },
+    {
+      "label": "Known for",
+      "value": "Founding Oracle, maker of the first commercial SQL relational database, two America's Cup wins (2010 and 2013), and owning 98% of the island of Lanai.",
+      "src": [
+        8,
+        25,
+        29,
+        30,
+        40
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "No personal email, phone number or confirmed personal social account is published for Larry Ellison, so ignore any site selling his \"verified email\". If you are a founder, the honest door is Oracle's startup page and free cloud tier; if your work fits what he funds today (health, food, clean energy or government AI), write to the Ellison Institute of Technology, and if you are a student, look hard at the fully funded Ellison Scholars places at Oxford. Press goes to Oracle Public Relations and shareholder questions go to Investor Relations. The Corporate Secretary route is only for genuine issues about Oracle, so a pitch deck sent there or to the Austin head office is unlikely to get anywhere, and neither is a DM to a lookalike account. Write five lines: who you are, what you built, the one number that proves it, the single thing you are asking for, and why this team should care.",
+    "channels": [
+      {
+        "kind": "phone",
+        "label": "Head office switchboard",
+        "value": "+1 (737) 867-1000",
+        "url": "tel:+17378671000",
+        "whose": "Oracle Corporation",
+        "src": [
+          4
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Principal executive office (head office)",
+        "value": "2300 Oracle Way, Austin, Texas 78741, USA",
+        "url": null,
+        "whose": "Oracle Corporation",
+        "src": [
+          4,
+          5
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press and media enquiries",
+        "value": "oraclepublicrelations_ww@oracle.com",
+        "url": "mailto:oraclepublicrelations_ww@oracle.com",
+        "whose": "Oracle Public Relations",
+        "src": [
+          15
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Investor relations",
+        "value": "investor_us@oracle.com",
+        "url": "mailto:investor_us@oracle.com",
+        "whose": "Oracle Investor Relations",
+        "src": [
+          16
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Investor relations",
+        "value": "+1 512 501 7078",
+        "url": "tel:+15125017078",
+        "whose": "Oracle Investor Relations",
+        "src": [
+          16
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Board of directors, via the Corporate Secretary (genuine issues about Oracle only)",
+        "value": "Corporate_Secretary@oracle.com",
+        "url": "mailto:Corporate_Secretary@oracle.com",
+        "whose": "Oracle Corporation",
+        "src": [
+          5
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Contact page, with US sales line +1 800 633 0738",
+        "value": "https://www.oracle.com/corporate/contact/",
+        "url": "https://www.oracle.com/corporate/contact/",
+        "whose": "Oracle Corporation",
+        "src": [
+          17,
+          42
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Cloud for startups, including Always Free services",
+        "value": "https://www.oracle.com/in/cloud/oracle-for-startups/",
+        "url": "https://www.oracle.com/in/cloud/oracle-for-startups/",
+        "whose": "Oracle Corporation",
+        "src": [
+          19
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "India headquarters",
+        "value": "Oracle India Private Limited, F-01/02, First Floor, Salcon Rasvillas, D-1, District Centre, Saket, New Delhi 110017, India",
+        "url": null,
+        "whose": "Oracle India",
+        "src": [
+          18
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "India sales line",
+        "value": "+91 80 3713 2100",
+        "url": "tel:+918037132100",
+        "whose": "Oracle India",
+        "src": [
+          18,
+          42
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "General enquiries",
+        "value": "oxford@eit.org",
+        "url": "mailto:oxford@eit.org",
+        "whose": "Ellison Institute of Technology Oxford, founded by Larry Ellison",
+        "src": [
+          21,
+          22
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Main line",
+        "value": "+44 1865 649525",
+        "url": "tel:+441865649525",
+        "whose": "Ellison Institute of Technology Oxford",
+        "src": [
+          21
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Oxford office",
+        "value": "Winchester House, The Oxford Science Park, Heatley Road, Littlemore, Oxford OX4 4GE, UK",
+        "url": null,
+        "whose": "Ellison Institute of Technology Oxford",
+        "src": [
+          21
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Ellison Scholars, fully funded Oxford study (2027 undergraduate applications are closed)",
+        "value": "scholars@eit.org",
+        "url": "mailto:scholars@eit.org",
+        "whose": "Ellison Institute of Technology Oxford",
+        "src": [
+          23,
+          24
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Corporate office of Sensei, the wellness company he co-founded with Dr David Agus",
+        "value": "info@sensei.com",
+        "url": "mailto:info@sensei.com",
+        "whose": "Sensei",
+        "src": [
+          33,
+          34
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Contact form for the land and resource company behind his Lanai plans",
+        "value": "https://pulamalanai.com/",
+        "url": "https://pulamalanai.com/",
+        "whose": "Pulama Lanai",
+        "src": [
+          35,
+          36
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "x",
+        "handle": "@oracle",
+        "url": "https://x.com/oracle",
+        "whose": "Oracle (company)",
+        "src": [
+          20
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "Oracle",
+        "url": "https://www.linkedin.com/company/oracle/",
+        "whose": "Oracle (company)",
+        "src": [
+          20
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "Oracle",
+        "url": "https://www.youtube.com/oracle/",
+        "whose": "Oracle (company)",
+        "src": [
+          20
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "Oracle",
+        "url": "https://www.facebook.com/Oracle/",
+        "whose": "Oracle (company)",
+        "src": [
+          20
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@EITOxford",
+        "url": "https://twitter.com/EITOxford",
+        "whose": "Ellison Institute of Technology Oxford (institute)",
+        "src": [
+          21
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "eitoxford",
+        "url": "https://www.linkedin.com/company/eitoxford/",
+        "whose": "Ellison Institute of Technology Oxford (institute)",
+        "src": [
+          21
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@eit_oxford",
+        "url": "https://www.instagram.com/eit_oxford",
+        "whose": "Ellison Institute of Technology Oxford (institute)",
+        "src": [
+          21
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "EITOxford",
+        "url": "https://www.facebook.com/EITOxford",
+        "whose": "Ellison Institute of Technology Oxford (institute)",
+        "src": [
+          21
+        ]
+      },
+      {
+        "platform": "other",
+        "handle": "eit.org on Bluesky",
+        "url": "https://bsky.app/profile/eit.org",
+        "whose": "Ellison Institute of Technology Oxford (institute)",
+        "src": [
+          21
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@sensei",
+        "url": "https://www.instagram.com/sensei/",
+        "whose": "Sensei (company)",
+        "src": [
+          33
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@BNPPARIBASOPEN",
+        "url": "https://x.com/BNPPARIBASOPEN",
+        "whose": "BNP Paribas Open (tournament he owns)",
+        "src": [
+          31,
+          32
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Built primary-first: Oracle's FY2026 Form 10-K and September 2026 proxy statement (roles, head office, phone, board route, pledged shares), Oracle's own contact, media and investor pages, the official sites of EIT and his other ventures, and his own words in the 1995 Smithsonian oral history and his 2007 OpenWorld keynote as reported by the Philippine Star. Life facts were cross-checked across Britannica, the Academy of Achievement, the Computer History Museum and Forbes. Photo authors and licences come from the Wikimedia Commons API. WebFetch got HTTP 403 from some oracle.com pages. Oracle's press, contact, India and startup details were then read from oracle.com through Exa and, for the social links, plain curl, rather than from a separate source, so the fact-checker should re-verify them by hand. Contact-finder and data-broker sites appeared in search results and were rejected as sources.",
+    "disputed": [
+      {
+        "claim": "Birthplace",
+        "note": "The Academy of Achievement and Business Insider say the Bronx. The New York Times review of Softwar says the Lower East Side. Britannica says only New York City. We say New York City and credit the Bronx to the Academy."
+      },
+      {
+        "claim": "Was there a Version 1?",
+        "note": "The Computer History Museum and the 2007 keynote report say there was no V1. Oracle's own timeline says a Version 1 was written in 1978 but never officially released. Either way, the first product sold carried the number 2, so we say it skipped a number."
+      },
+      {
+        "claim": "Starting money",
+        "note": "The Computer History Museum says Ellison bet $2,000. The 2007 keynote report splits it as his $1,200 and Bob Miner's $800. In 1995 Ellison said four people invested $2,000. We use $1,200 as his share of $2,000."
+      },
+      {
+        "claim": "Number of founders",
+        "note": "Oracle's timeline names Ellison, Miner and Oates. The Computer History Museum caption also shows Bruce Scott at the founding. The 2007 report says Scott and Oates were hired by Ellison and Miner."
+      },
+      {
+        "claim": "Where he worked before Oracle",
+        "note": "The Academy of Achievement calls his co-founders Amdahl colleagues. Oracle's timeline places them at Ampex, and the 2007 keynote report says he left Ampex for Precision Instruments, which then outsourced work to the new firm. We follow Oracle and his own account."
+      },
+      {
+        "claim": "Oracle's first customer",
+        "note": "The 2007 report and Oracle veteran Ken Jacobs say the CIA, with a first sale reported at $48,000. Britannica says the US Air Force at Wright-Patterson Air Force Base. This fragment does not name a first customer."
+      },
+      {
+        "claim": "The one-day gain in September 2025",
+        "note": "Bloomberg reported $101 billion during trading and $89 billion at the close, when CNN says he finished about $1 billion behind Musk. CNBC cited a gain of over $100 billion and put Musk above $437 billion on Forbes's tally. We use the closing figure, and 'richest person' holds on Bloomberg's index only, for a few hours."
+      },
+      {
+        "claim": "Price of Lanai",
+        "note": "Forbes says $300 million. Reuters in 2012 said the price was undisclosed, with earlier media estimates of $500 million to $600 million. The glance gives no price."
+      },
+      {
+        "claim": "Where he lives",
+        "note": "Forbes now lists Manalapan, Florida. His December 2020 email said he had moved to Hawaii. We found no statement from him about a later move, so the glance gives both with their sources."
+      },
+      {
+        "claim": "Number of children",
+        "note": "Forbes lists four. Wikipedia's infobox says seven, which we could not trace to a reliable source and did not use. Only David and Megan are named here."
+      },
+      {
+        "claim": "Oracle's head office",
+        "note": "Fortune reports Ellison called Nashville the 'world headquarters' in 2024, but Oracle's 2026 10-K and proxy still give Austin as the principal executive office. We list Austin, as filed."
+      },
+      {
+        "claim": "His X account",
+        "note": "@larryellison carried his rare posts, including the July 2025 Giving Pledge post quoted by Fortune. A March 2026 report from a smaller tech site, not corroborated by major press that we could find, said the profile had vanished. Third-party mirrors show an account under that handle with a 2026 join date and no posts. We could not confirm it is his, so it is not listed."
+      },
+      {
+        "claim": "Portrait date",
+        "note": "Commons dates this file 26 January 2016, but it is credited to an older-looking Flickr upload, so year is left null rather than guessed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Academy of Achievement: Larry J. Ellison biography",
+      "url": "https://achievement.org/achiever/larry-j-ellison/"
+    },
+    {
+      "label": "Britannica: Larry Ellison",
+      "url": "https://kids.britannica.com/scholars/article/Larry-Ellison/600327"
+    },
+    {
+      "label": "New York Times: Speak, Oracle (2004 review of Softwar)",
+      "url": "https://www.nytimes.com/2004/02/15/books/speak-oracle.html"
+    },
+    {
+      "label": "Smithsonian oral history with Larry Ellison (1995)",
+      "url": "https://www.americanhistory.si.edu/comphist/le1.html"
+    },
+    {
+      "label": "Oracle Form 10-K, fiscal year ended 31 May 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm"
+    },
+    {
+      "label": "Oracle proxy statement, 25 September 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm"
+    },
+    {
+      "label": "Philippine Star: Ellison recounts early days of Oracle (2007, on his OpenWorld keynote)",
+      "url": "https://www.philstar.com/business/technology/2007/11/26/29693/ellison-recounts-early-days-oracle"
+    },
+    {
+      "label": "Computer History Museum: Databases, Revolution exhibit",
+      "url": "https://www.computerhistory.org/revolution/memory-storage/8/265"
+    },
+    {
+      "label": "Oracle Profit magazine: 30th anniversary timeline",
+      "url": "https://www.oracle.com/us/corporate/profit/p27anniv-timeline-151918.pdf"
+    },
+    {
+      "label": "Computer History Museum: RDBMS Workshop on Oracle (2007 transcript)",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/12/102746581-05-01-acc.pdf"
+    },
+    {
+      "label": "Bloomberg: Ellison tops Musk as world's richest man (10 Sept 2025)",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-10/oracle-co-founder-larry-ellison-closes-in-on-elon-musk-as-world-s-richest-man"
+    },
+    {
+      "label": "CNN Business: Musk briefly lost his title as world's richest person (10 Sept 2025)",
+      "url": "https://www.cnn.com/2025/09/10/investing/elon-musk-larry-ellison-wealth"
+    },
+    {
+      "label": "Forbes profile: Larry Ellison (real-time data, read 2 Nov 2026)",
+      "url": "https://www.forbes.com/profile/larry-ellison/"
+    },
+    {
+      "label": "Forbes: What we know about David Ellison (July 2025)",
+      "url": "https://www.forbes.com/sites/conormurray/2025/07/25/what-we-know-about-david-ellison-soon-to-be-paramount-chief-and-major-hollywood-honcho/"
+    },
+    {
+      "label": "Reuters: The Ellison kids (2011)",
+      "url": "https://www.reuters.com/article/technology/the-ellison-kids-billionaire-producers-making-their-mark-on-hollywood-idUS2903989845/"
+    },
+    {
+      "label": "Oracle News: Media Contacts",
+      "url": "https://www.oracle.com/news/media-contacts/"
+    },
+    {
+      "label": "Oracle Investor Relations home page",
+      "url": "https://investor.oracle.com/home/"
+    },
+    {
+      "label": "Oracle: Contact us",
+      "url": "https://www.oracle.com/corporate/contact/"
+    },
+    {
+      "label": "Oracle India: Contact page",
+      "url": "https://www.oracle.com/in/corporate/contact/"
+    },
+    {
+      "label": "Oracle: Cloud Infrastructure for Startups",
+      "url": "https://www.oracle.com/in/cloud/oracle-for-startups/"
+    },
+    {
+      "label": "Oracle India: corporate page (official social links)",
+      "url": "https://www.oracle.com/in/corporate/"
+    },
+    {
+      "label": "Ellison Institute of Technology Oxford: home and contact",
+      "url": "https://eit.org/"
+    },
+    {
+      "label": "EIT: strategic alliance with University of Oxford (Dec 2024)",
+      "url": "https://eit.org/news/university-of-oxford-and-ellison-institute-of-technology-join-forces-to-address-humanitys-greatest-challenges-in-a-transformative-strategic-alliance"
+    },
+    {
+      "label": "EIT: Education and Scholarships FAQs",
+      "url": "https://eit.org/education-and-scholarships/faqs"
+    },
+    {
+      "label": "Ellison Scholars application portal",
+      "url": "https://ellisonscholars.eit.org/undergraduate"
+    },
+    {
+      "label": "Reuters: Ellison buys Hawaii's sixth-largest island (2012)",
+      "url": "https://www.reuters.com/article/larry-ellison-hawaii-oracle-lanai/oracle-ceo-larry-ellison-buys-hawaiis-sixth-largest-island-idINDEE85K02K20120621/"
+    },
+    {
+      "label": "Forbes: Inside Larry Ellison's real estate portfolio (2021)",
+      "url": "https://www.forbes.com/sites/noahkirsch/2021/04/10/inside-larry-ellisons-1-billion-real-estate-portfolio/"
+    },
+    {
+      "label": "CRN: Larry Ellison has moved to Hawaii as Oracle heads to Texas",
+      "url": "https://www.crn.com/news/cloud/larry-ellison-has-moved-to-hawaii-as-oracle-heads-to-texas"
+    },
+    {
+      "label": "The Repository (USA Today Network): The hotels owned by Larry Ellison (Aug 2024)",
+      "url": "https://indeonline.com/story/business/real-estate/2024/08/16/heres-a-look-at-the-hotels-owned-by-oracle-billionaire-larry-ellison/74826505007/"
+    },
+    {
+      "label": "BBC Sport: Oracle Team USA beat Team New Zealand in decider (2013)",
+      "url": "https://www.bbc.com/sport/sailing/24274103"
+    },
+    {
+      "label": "Reuters: Capping an epic comeback, Oracle wins the America's Cup (2013)",
+      "url": "https://www.reuters.com/article/sports/capping-an-epic-comeback-oracle-wins-the-america-s-cup-idUSBRE98O17G/"
+    },
+    {
+      "label": "Indian Wells Tennis Garden: History",
+      "url": "https://indianwellstennisgarden.com/about/history/"
+    },
+    {
+      "label": "BNP Paribas Open: Contact us",
+      "url": "https://bnpparibasopen.com/contact"
+    },
+    {
+      "label": "Sensei: Contact us",
+      "url": "https://sensei.com/contact-us/"
+    },
+    {
+      "label": "Sensei: Our story",
+      "url": "https://sensei.com/sensei-story/"
+    },
+    {
+      "label": "Pulama Lanai: official site",
+      "url": "https://pulamalanai.com/"
+    },
+    {
+      "label": "South China Morning Post: Why Ellison is turning Lanai into a health utopia (2021)",
+      "url": "https://www.scmp.com/magazines/style/luxury/article/3126886/why-larry-ellison-turning-lanai-hawaii-health-utopia-oracle"
+    },
+    {
+      "label": "Fortune: Oracle's Nashville world headquarters (Jan 2026)",
+      "url": "https://fortune.com/2026/01/15/oracle-nashville-world-headquarters-reported-recruitment-struggles-tech/"
+    },
+    {
+      "label": "Fortune: Ellison amends his Giving Pledge commitment (July 2025)",
+      "url": "https://fortune.com/2025/07/16/larry-ellison-mark-zuckerberg-world-rich-list-oracle-ai/"
+    },
+    {
+      "label": "PiunikaWeb: Ellison appears to have deactivated his X account (March 2026)",
+      "url": "https://piunikaweb.com/2026/03/24/x-backer-larry-ellison-leaves-platform/"
+    },
+    {
+      "label": "Britannica: Oracle Corp.",
+      "url": "https://kids.britannica.com/scholars/article/Oracle-Corp/443888"
+    },
+    {
+      "label": "Business Insider: Ellison dethrones Musk as world's richest (Sept 2025)",
+      "url": "https://www.businessinsider.com/larry-ellison-net-worth-elon-musk-richest-person-oracle-stock-2025-9"
+    },
+    {
+      "label": "Oracle: Global contacts",
+      "url": "https://www.oracle.com/corporate/contact/global.html"
+    },
+    {
+      "label": "Business Insider: The rise of Oracle founder Larry Ellison (2016)",
+      "url": "https://www.businessinsider.com/rise-of-oracle-founder-larry-ellison-2016-2"
+    },
+    {
+      "label": "CNBC: Larry Ellison is over $100 billion richer after Oracle earnings (Sept 2025)",
+      "url": "https://www.cnbc.com/2025/09/10/larry-ellison-is-over-100-billion-richer-after-oracle-earnings-report.html"
+    }
+  ]
+}

@@ -1,0 +1,2632 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "Every venture, win or lose",
+      "title": "Every Company He Built, Bought or Buried",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most billionaire stories hide the failures. This chapter does not. Below is every company, major project and abandoned plan of Gautam Adani's that we could trace to a reliable source, in rough order of when it began. Two money words will keep coming up: a lakh is 100,000 and a crore is 10 million, so ₹100 crore is ₹1 billion.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Read them as one chain, not a list. A trader needed a jetty, the jetty needed cargo, the cargo was coal, the coal needed a power plant, and the power plant needed wires. The group's own timeline calls this the ==power of adjacencies==, meaning each new business grows out of the one next to it. __Watch how rarely he starts from zero.__",
+          "src": [
+            0,
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The trading years"
+        },
+        {
+          "t": "venture",
+          "name": "Diamond brokerage, Zaveri Bazaar",
+          "years": "c. 1981–1982",
+          "outcome": "shut",
+          "idea": "Match diamond buyers with sellers in Mumbai's old jewellery market and keep a commission. A broker sells trust and speed, not stones.",
+          "decision": "After about three years as a sorter at Mahendra Brothers, he chose to work for himself rather than climb inside someone else's firm. He later said he had wanted to do something on his own.",
+          "howStarted": "A one-man brokerage in Zaveri Bazaar. His first recalled trade was with a Japanese buyer, and it earned him a ₹10,000 commission.",
+          "funding": "No figure for starting money has been published. A broker holds no stock, so the business needed very little capital.",
+          "whatHappened": "He left in 1982 when his elder brother asked him to return to Gujarat. The early-life chapters of this book tell that story in full.",
+          "lesson": "Pick a first business that needs almost no capital. It lets you learn customers at the price of your time alone.",
+          "src": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Family PVC film factory, Ahmedabad",
+          "years": "c. 1982–c. 1985",
+          "outcome": "pivoted",
+          "idea": "A small plant making PVC film, a thin plastic sheet, owned by his elder brother.",
+          "decision": "He gave up a growing brokerage to help the family when the unit hit trouble. Business Standard says that trouble was an acute shortage of raw material.",
+          "howStarted": "He ran the plant as a young manager. Faced with the shortage, he got a government trading house to import the raw material the factory could not find.",
+          "funding": "Bought by his brother. The price has not been made public.",
+          "whatHappened": "The factory itself never became big. What mattered was the lesson that small Indian factories could not get imported plastic, and that lesson became his next business.",
+          "lesson": "Your worst supply headache may be other people's headache too. That is a market.",
+          "src": [
+            3,
+            6,
+            4
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Polymer import trading",
+          "years": "1985–1988",
+          "outcome": "merged",
+          "idea": "Import polymers, the plastic granules factories melt and shape, and sell them to small-scale industries that could not get supplies.",
+          "decision": "India's 1985 trade policy loosened import rules. He moved at once because he already knew who needed the material and why.",
+          "howStarted": "A trading desk in Gujarat serving the same kind of small factories he had just been running. Business Standard says that by 1985 he was also importing coal, oilseeds and synthetic fibre raw materials, and exporting farm goods and textiles.",
+          "funding": "No figure is public.",
+          "whatHappened": "The desk grew into the commodity house he named Adani Exports in 1988.",
+          "lesson": "Be ready before the rules change. When a door opens, the person who already knows the customers walks through first.",
+          "src": [
+            3,
+            6,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Exports, now Adani Enterprises",
+          "years": "1988–present",
+          "outcome": "public",
+          "idea": "A commodity trading house that buys anywhere and sells anywhere, and later an incubator, a parent company that hatches new businesses and spins them off.",
+          "decision": "The Times of India says he realised in the late 1980s that trading was his forte. Gujarat's state export corporation offered credit lines to exporters, so he built on borrowed credit. When that corporation later tightened lending, he had to find other ways to finance trades, and he calls that the moment the group was truly born.",
+          "howStarted": "A partnership firm in Ahmedabad in 1988, promoted by Gautam and his brother Rajesh. It became Adani Exports Ltd on 2 March 1993. A company-history compilation says it was then exporting frozen foods, dyes, plastics and farm goods to 28 countries.",
+          "funding": "No starting capital figure could be traced to a reliable source. Early growth ran on credit lines from Gujarat State Export Corporation. The IPO on 1 November 1994 sold shares at ₹150 and was oversubscribed 25 times. An IPO is when a private company first sells shares to the public. The compilation records 12.5 lakh public shares, which works out to about ₹19 crore.",
+          "whatHappened": "Revenue reached ₹643 crore in FY95, with ₹24 crore profit. By 1998 it was the country's top net foreign exchange earner among companies, by the group's own account. It became Adani Enterprises in 2006. In 2022 the company claimed ₹150 invested at the IPO had grown past ₹9 lakh. Two decades after the credit squeeze, the group bought the same state corporation.",
+          "lesson": "Credit is a lifeline until the lender changes its mind. Build a second way to fund yourself before you need it.",
+          "src": [
+            7,
+            8,
+            0,
+            1,
+            9,
+            3,
+            10
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We could grow so much because we didn’t take the easy road. We were born again in the true sense.",
+          "who": "Gautam Adani, on losing easy credit, to The Times of India",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He bought the company that once cut his credit. Remember that."
+        },
+        {
+          "t": "h",
+          "text": "Salt, marsh and the accident that made him"
+        },
+        {
+          "t": "venture",
+          "name": "Cargill salt and jetty joint venture",
+          "years": "c. 1990–c. 1993",
+          "outcome": "failed",
+          "idea": "American commodities giant Cargill wanted several million tonnes of Indian salt a year. The plan was salt farms in Kutch and a jetty to ship the salt out.",
+          "decision": "Adani's biographer says Cargill first looked at Kandla port, then chose Mundra after studying NASA maps and advice on water depth. Mundra had deep water, year-round access and was close to Gulf free trade zones. They agreed a 50:50 joint venture worth about ₹100 crore.",
+          "howStarted": "In October 1992 he hired Malay Mahadevia, a dentist friend, to run it. Mahadevia read up on chemical engineering and asked friends how salt technology worked. By some accounts, Adani hired a plane to show a doubtful official the marshes he wanted to buy.",
+          "funding": "Adani bought the land. TIME reported he spent $11,000 in 1993 and was left with 4,500 acres. He says the state charged 10 paise per square metre at the start.",
+          "whatHappened": "Cargill backed out. Public reports do not give its reason. He was left holding barren, marshy land, with the last nine miles to the port under water.",
+          "lesson": "When a partner leaves, look at what you still own. His biggest business began as a failed deal's leftovers.",
+          "src": [
+            2,
+            3,
+            11,
+            6,
+            12
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Mundra Port, now Adani Ports and SEZ",
+          "years": "1994–present",
+          "outcome": "public",
+          "idea": "First a private jetty for his own cargo, then a full commercial port with its own railway and a special economic zone, a tax-friendly industrial area, on the land around it.",
+          "decision": "The Gujarat Maritime Board approved a captive jetty in January 1994, and in 1995 the state launched a port policy built on public-private partnerships. He had also noticed that ports earn well from land and storage, not just ships, so he kept buying land.",
+          "howStarted": "Mahadevia, the dentist, ran the build for years while still practising dentistry. Gujarat Adani Port Ltd was formed on 26 May 1998. The first ship was a small tanker, MT Alpha-2, in 1998. On 17 February 2001 the state signed a 30-year concession, a licence to build and run the port.",
+          "funding": "A joint company with a Gujarat state body that first held 26%, which it later sold to Adani. A compilation of company records puts the first project at ₹340 crore. The 2007 IPO sold shares at ₹440, raised ₹1,771 crore and was oversubscribed 116 times, a record then claimed by the company.",
+          "whatHappened": "Capacity went from 13 million tonnes in 2005-06 to 147 million in 2014-15. In FY26 the company handled 500.8 million tonnes across 19 ports. It aims for 1 billion tonnes by 2030. On Bloomberg's count it is now his single most valuable holding, at $29.6 billion.",
+          "lesson": "Own the scarce thing around the product. Anyone can build a berth later, but the land behind it was bought in 1993.",
+          "src": [
+            13,
+            7,
+            6,
+            14,
+            15,
+            2,
+            3,
+            9,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Wilmar, maker of Fortune oil",
+          "years": "1999–2025",
+          "outcome": "sold",
+          "idea": "Refine imported edible oil right at the port, so tankers unload next to the factory, and sell it in branded packs to Indian kitchens.",
+          "decision": "Outlook Business says he left a Mundra Port brochure with a Wilmar employee during a visit to a Wilmar site. Wilmar's co-founder Kuok Khoon Hong followed up. The two discussed a 1,000-tonne-a-day refinery and settled on 600.",
+          "howStarted": "Incorporated in Ahmedabad on 22 January 1999. Its first project was a 600-tonne-a-day refinery at Mundra, running from 2000. The Fortune brand came out in fiscal 2001.",
+          "funding": "A 50:50 joint venture. A compilation of company records says the agreed equity was $6 million. The 2022 IPO raised ₹3,600 crore (US$482 million) and was subscribed 17 times.",
+          "whatHappened": "Fortune became India's top-selling consumer pack oil. But FY24 profit was just ₹171 crore on ₹51,500 crore of revenue, a margin of 0.33%. On 30 December 2024 Adani agreed to exit its roughly 44% for about $2 billion, weeks after the US indictment. The company is now called AWL Agri Business.",
+          "lesson": "Big revenue is not big profit. He sold India's favourite cooking oil because the same money earned more in infrastructure.",
+          "src": [
+            3,
+            20,
+            21,
+            22,
+            9,
+            23,
+            24,
+            25,
+            1,
+            26
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Early power deals: Eastern Generation and the Anjar plant",
+          "years": "1997–c. 1999",
+          "outcome": "failed",
+          "idea": "Coal-fired power projects with a partner called Eastern Generation, plus a 54 MW naphtha-fuelled plant at Anjar in Kutch.",
+          "decision": "A company-history compilation records a 1997 memorandum with Eastern Generation and a letter of intent for Anjar. The motive is not on record, though Adani Power had been incorporated in 1996.",
+          "howStarted": "Adani Eastern Generation Company was set up in 1998 as a 50:50 venture, according to the same compilation.",
+          "funding": "Not disclosed.",
+          "whatHappened": "We found no record that either was built. Outlook Business dates the group's real entry into power generation to 2006. Treat this as an abandoned first attempt, and note that this conclusion comes from silence in the record, not from an announcement.",
+          "lesson": "An early failure in an industry does not close the door. He came back about nine years later with a coal business and his own port.",
+          "src": [
+            9,
+            27,
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Salt failed. Oil got sold. Power failed once. He kept the land each time."
+        },
+        {
+          "t": "p",
+          "text": "Meanwhile the trading desk had found the cargo that would tie everything together. By 2010 he was India's largest importer of coal for power utilities, and Mundra was adding a coal import terminal.",
+          "src": [
+            6,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Coal trading and mine services",
+          "years": "1999–present",
+          "outcome": "running",
+          "idea": "Buy coal around the world and deliver it on schedule to Indian customers, a line the group calls integrated resource management. Later, run coal mines for state utilities for a fee.",
+          "decision": "His port needed volume and India needed coal. The group's timeline dates this business to 1999, and by 2010 Business Standard called him the country's largest coal importer.",
+          "howStarted": "Inside Adani Exports. A 2003 tie-up with a Chinese supplier, Shanxi Corporation, is recorded in a company-history compilation. The group also bought into Indonesian coal, and a regulator's 2013 dissent noted that Adani Enterprises held 74% of the Indonesian company it imported through.",
+          "funding": "Run inside the flagship. Amounts for individual steps were not separately published.",
+          "whatHappened": "Mining services shipped 49.4 million tonnes in FY26. Indian investigators have also long probed whether the group's coal imports were overvalued. Adani denies wrongdoing, and the case was still before the Supreme Court in the latest reports we could read (2023).",
+          "lesson": "Control supply and demand together when you can. It also means every regulator will look hard at the price between your own companies.",
+          "src": [
+            0,
+            1,
+            6,
+            9,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "City gas, now Adani Total Gas",
+          "years": "2001–present",
+          "outcome": "public",
+          "idea": "Pipe natural gas to homes and sell compressed gas to vehicles, under city-by-city licences.",
+          "decision": "Bloomberg's account of his pattern: pick sectors the government wants developed and where competition is still thin.",
+          "howStarted": "The group's timeline dates the start of the business to 2001. By 2010 it held licences for 11 cities.",
+          "funding": "It sat inside Adani Enterprises until it was split off and listed as a separate company in 2018. First-stage amounts were not published. TotalEnergies bought 37.4% in a deal announced in 2019.",
+          "whatHappened": "In FY26 it ran 705 CNG stations and served 1.10 million homes. Business Today pointed out in 2021 that it was valued at ₹1.48 lakh crore with ₹471 crore in profit, while a bigger rival with higher profit was worth far less.",
+          "lesson": "Utility licences compound slowly, and a high share price is not the same as a big business. Check profit before you admire a valuation.",
+          "src": [
+            0,
+            1,
+            6,
+            32,
+            33,
+            29,
+            34
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Agri Logistics, grain silos",
+          "years": "2005–present",
+          "outcome": "running",
+          "idea": "Store and move India's wheat in modern automated silos and special rail wagons, instead of open and old warehouses.",
+          "decision": "Food Corporation of India, the state grain buyer, wanted a private pilot. Biographer R.N. Bhaskar traces the idea to the corporation's grain operations at Mundra.",
+          "howStarted": "A 20-year build, own and operate agreement with the state food corporation in 2005, covering silos at Moga in Punjab and Kaithal in Haryana, with field depots in five other cities.",
+          "funding": "The Financial Express reported ₹600 crore invested by 2008. The source of that money was not stated.",
+          "whatHappened": "Its customer was the government's own grain buyer, on a long contract. By October 2022 total silo capacity had reached 15.25 lakh tonnes across 24 locations.",
+          "lesson": "A boring contract with one reliable buyer can fund bigger dreams. Not every business has to excite anyone.",
+          "src": [
+            35,
+            2,
+            36
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Agri Fresh, Farm-Pik apples",
+          "years": "2006–present",
+          "outcome": "running",
+          "idea": "Buy apples directly from Himachal Pradesh growers, keep them fresh for months in controlled-atmosphere stores, and sell them year-round under the brand Farm-Pik.",
+          "decision": "Himachal changed its farm market law in 2005, letting private firms buy directly from growers. A teaching case says apples were chosen because they grow far from most buyers, are less price sensitive, and store for up to seven months.",
+          "howStarted": "Stores near Shimla in 2006. Staff contacted farmers directly, posted a price for the week, and gave out reusable crates to reduce bruising.",
+          "funding": "A wholly owned subsidiary of Adani Enterprises, so parent money. No amount has been published.",
+          "whatHappened": "It built 22,400 tonnes of storage and says it buys from about 17,000 growers in 700 villages. We found no separate profit figures for it.",
+          "lesson": "A law change creates a gap for about a season. Read new rules like a business plan.",
+          "src": [
+            37,
+            38
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The giant bets on power and coal"
+        },
+        {
+          "t": "venture",
+          "name": "Adani Power",
+          "years": "2006–present",
+          "outcome": "public",
+          "idea": "He was already a big coal importer and owned a port. So he would burn the coal himself at Mundra and sell electricity on long contracts.",
+          "decision": "In February 2006 Gujarat's power buyer invited bids. Adani first bid ₹3.70 a unit, then revised down to ₹2.89 and won. In 2007 the Gujarat High Court called allowing that revision “discriminatory and arbitrary”. For a second tender he was the only bidder, at ₹2.35. Neither price moved with the cost of coal.",
+          "howStarted": "A 4,620 MW complex next to the port. Vneet Jaain joined in 2006 after a four-hour talk at a Delhi guest house. In 2010 Adani hired a telecom man, Ravi Sharma, to run the unit as chief executive.",
+          "funding": "The 2009 IPO sold 30.17 crore shares at ₹100, about ₹3,016 crore, against a planned ₹43,139 crore for four projects.",
+          "whatHappened": "This company nearly died, and that story has its own chapter. By July 2025 it ran 18,150 MW and targeted 30,670 MW by 2030. FY26 profit was ₹12,971 crore.",
+          "lesson": "Never sign a fixed selling price on top of a floating cost. It is the most expensive sentence in this book.",
+          "src": [
+            3,
+            28,
+            6,
+            27,
+            39,
+            40,
+            29,
+            11
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Carmichael mine and Abbot Point, Australia (now Bravus and NQXT)",
+          "years": "2010–present",
+          "outcome": "running",
+          "idea": "Own the coal in Queensland, the rail line, and the export port, then ship cheap coal to his Indian power plants.",
+          "decision": "Coal prices were the risk in his power business, so he tried to own the source. Business Standard reported he would source coal at $45 a tonne, against a $76 international average in 2009. He signed the first deal the same week his mother died.",
+          "howStarted": "He bought mining rights from Linc Energy in 2010, then a 99-year lease on Abbot Point port in 2011. Reports of the price differ, as our fact-check notes show.",
+          "funding": "The plan was A$16.5 billion. More than 30 banks and lenders declined to fund it, so in 2018 Adani said it would pay for a smaller A$2 billion mine itself.",
+          "whatHappened": "The plan shrank from 60 million tonnes a year to 10, after what Reuters called a sustained campaign that scared off lenders, insurers and engineers. Coal first shipped around December 2021, seven years late. In 2025 Guardian Australia found the mine had paid no corporate tax after over three years of extraction. The company was renamed Bravus in 2020.",
+          "lesson": "A project can survive but still miss its purpose. Ask what happens if the world stops wanting what you plan to sell.",
+          "src": [
+            6,
+            41,
+            42,
+            43,
+            44,
+            32,
+            45,
+            46
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the same Australian port has changed hands inside his empire twice. Adani Ports bought the Abbot Point lease in 2011 at an enterprise value of A$1.829 billion. It sold the asset to the family side in 2013 at A$2.051 billion to cut its debt. Then in December 2025 it bought it back at A$3.975 billion, paying with new shares to a family-linked seller, after approval by a majority of minority shareholders.",
+          "src": [
+            46,
+            18
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same port, three prices, one family. Learn the words “related party”."
+        },
+        {
+          "t": "venture",
+          "name": "Adani Transmission, now Adani Energy Solutions",
+          "years": "2015–present",
+          "outcome": "public",
+          "idea": "Power plants need wires. Build the lines, then buy more lines, then sell electricity directly to a city's homes.",
+          "decision": "Adani Power had already built its own lines, including a roughly 1,000 km high-voltage link across three states in under 24 months. Those lines became the start of a separate business.",
+          "howStarted": "Separated from Adani Enterprises and listed in 2015. It then bought transmission assets from GMR and Reliance Infrastructure in 2016 and 2017.",
+          "funding": "Demerger first, which means splitting one listed company into two. It paid ₹18,800 crore for Reliance Infrastructure's Mumbai power business in 2018, and later brought in Abu Dhabi's IHC for ₹3,850 crore. A 2025 share sale to institutions raised ₹8,773 crore.",
+          "whatHappened": "The Mumbai deal cut Anil Ambani's company's debt from ₹22,000 crore to ₹7,500 crore and handed Adani around 3 million customers. By March 2026 the network stood at 27,949 circuit km, including lines under construction.",
+          "lesson": "Rivals in debt sell good assets. Keep cash and credit ready for the day they must.",
+          "src": [
+            3,
+            47,
+            48,
+            49,
+            50,
+            17
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Green Energy",
+          "years": "2015–present",
+          "outcome": "public",
+          "idea": "Build giant solar and wind farms in India, and sell the power on long contracts to state-backed buyers.",
+          "decision": "Lenders were turning away from his Australian coal project. Bloomberg noted he kept raising funds partly by pivoting to green energy.",
+          "howStarted": "In 2015 the group had only 40 MW of solar running. It then built a 648 MW single-location plant at Kamuthi in Tamil Nadu.",
+          "funding": "Demerged and listed in June 2018. TotalEnergies bought half of a solar portfolio and 20% of the company for $2.5 billion in total by its own figures, with the 20% announced in January 2021. IEEFA, a think tank critical of coal, described aggressive use of debt across the group.",
+          "whatHappened": "Shares rose about 2,400% from listing to October 2020. By 1 April 2026 it had 19.3 GW running, including 9.4 GW at Khavda in Kutch, where it plans 30 GW by 2029 on land five times the size of Paris. This is also the company at the centre of the US case covered later.",
+          "lesson": "Follow where cheap capital wants to go. Just remember the money can leave as fast as it came.",
+          "src": [
+            32,
+            48,
+            51,
+            33,
+            52,
+            53
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Solar manufacturing and green hydrogen (Adani New Industries)",
+          "years": "2017–present",
+          "outcome": "running",
+          "idea": "Make solar panels and wind turbines in India, and later produce green hydrogen, a clean fuel made with renewable power.",
+          "decision": "Our reading: a group building giant solar farms needs panels, so this looks like the same adjacency logic. The company has not published a decision memo.",
+          "howStarted": "Solar panel manufacturing started in 2017 inside Adani Enterprises.",
+          "funding": "Parent money. A planned $50 billion, 10-year hydrogen push was to include TotalEnergies taking a 25% stake, announced in June 2022.",
+          "whatHappened": "TotalEnergies put that hydrogen investment on hold in February 2023 after the Hindenburg report. Panel making kept growing, with module sales of 4,904 MW in FY26. Hydrogen remains more plan than business in the reports we read.",
+          "lesson": "Sell the shovels too. When your own farms need panels, your first customer already exists.",
+          "src": [
+            1,
+            54,
+            55
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Defence and Aerospace",
+          "years": "c. 2015–present",
+          "outcome": "running",
+          "idea": "Build military equipment in India, starting with drones and small arms made with foreign partners.",
+          "decision": "Bloomberg's account says that when Prime Minister Modi pledged to build up local defence manufacturing, Adani quickly built capacity by partnering with defence contractors.",
+          "howStarted": "A partnership with Israel's Elbit Systems. A company-history compilation records India's first private drone plant opening with Elbit in 2018.",
+          "funding": "Inside Adani Enterprises. No amount has been published.",
+          "whatHappened": "It is now listed among the group's incubating businesses, though it is not separately reported in the figures we could read.",
+          "lesson": "When a government announces a national priority, ask who can already deliver. Then partner with whoever holds the know-how.",
+          "src": [
+            32,
+            9,
+            56
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Capital and Adani Housing",
+          "years": "2017–2023",
+          "outcome": "sold",
+          "idea": "Lend to small businesses and home buyers.",
+          "decision": "A financial services arm fitted the group's push into new sectors, and it was built as a private family investment, not through the listed firms.",
+          "howStarted": "Started lending in 2017 under Gaurav Gupta as managing director. It grew to more than 170 branches in eight states and over 2,500 staff.",
+          "funding": "Adani family private investment. Amounts not published.",
+          "whatHappened": "Sold in July 2023 to Bain Capital, for ₹1,440 crore for 90%. Bain committed fresh money too, and Gupta kept 10%. The sale came six months after the Hindenburg report, while the group was conserving cash.",
+          "lesson": "Knowing when to sell a side bet can matter more than starting it. Money tied up in the wrong place is a cost.",
+          "src": [
+            57,
+            58,
+            59
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Airports, cement, media: buying the big names"
+        },
+        {
+          "t": "venture",
+          "name": "Adani Airports",
+          "years": "2019–present",
+          "outcome": "running",
+          "idea": "Run airports as more than runways: a consumer business reaching what the group called a 300-million-strong base of fliers and non-fliers.",
+          "decision": "In 2018 the government opened six airports to private bidders and set no limit on how many one bidder could win. Adani had little or no airport experience. It offered the highest fee per passenger everywhere, in Ahmedabad more than 10 times the lowest bid. The government said the process was transparent. Critics questioned it.",
+          "howStarted": "Bids won in 2019, beating GMR, Fairfax, NIIF and others. Handovers ran from October 2020 to October 2021. It lost one contest, Jewar near Delhi, to Zurich Airport.",
+          "funding": "Adani Airport Holdings is owned by Adani Enterprises. For Mumbai it first tried to buy minority stakes in March 2019, was blocked by GVK, then bought GVK's debt and converted it into shares, for about ₹15,000 crore overall according to reports.",
+          "whatHappened": "It took control of Mumbai in July 2021 after a two-year fight, which made it India's largest private airport operator. The ₹19,650 crore Navi Mumbai airport opened to flights on 25 December 2025. FY26 traffic across eight airports was 95.3 million passengers.",
+          "lesson": "If you lack experience in a field, buy the people and the hardest asset. Just know that paying above everyone else is a bet you must later earn back.",
+          "src": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            55
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "AdaniConneX, data centres",
+          "years": "2021–present",
+          "outcome": "running",
+          "idea": "Combine the group's land, power lines and renewable energy with a specialist's know-how to build data centres.",
+          "decision": "He already had what data centres hungrily consume: clean power, real estate and undersea cable landing spots. EdgeConneX brought what the group lacked.",
+          "howStarted": "A 50:50 joint venture announced on 23 February 2021, starting at Chennai, Navi Mumbai, Noida, Vizag and Hyderabad.",
+          "funding": "Both partners said they would invest significant capital. Amounts were not specified.",
+          "whatHappened": "In October 2025 Google announced an AI hub of about $15 billion at Visakhapatnam, with AdaniConneX as a partner. In February 2026 the group pledged $100 billion for AI-ready data centres by 2035. That is a promise, not yet a result. The FY26 milestones the group listed were 17 MW at Chennai and 4.8 MW at Hyderabad.",
+          "lesson": "Look for what your existing assets could feed. A power company is one partner away from being an AI company.",
+          "src": [
+            67,
+            68,
+            69,
+            70,
+            29
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Yangon container terminal, Myanmar",
+          "years": "2019–2023",
+          "outcome": "sold",
+          "idea": "Build a terminal on the Yangon River on a 50-year deal, as one link in a chain of ports from India to Southeast Asia.",
+          "decision": "Announced in May 2019, with a planned $290 million. The land was leased from Myanmar Economic Corporation, a military-controlled company.",
+          "howStarted": "A Singapore unit of Adani Ports ran it, with ITD Cementation building. About $90 million went upfront on the land lease.",
+          "funding": "Adani Ports' own balance sheet, about $127 million by May 2021.",
+          "whatHappened": "After the February 2021 coup, the US sanctioned the landlord and key investors pressed for an exit. In May 2022 the company said a sale would recover its full investment. In May 2023 it sold for just $30 million to Solar Energy Ltd, a little-known firm, and wrote off ₹1,273 crore.",
+          "lesson": "Know exactly who your landlord is. Your partner's reputation becomes your risk the day politics changes.",
+          "src": [
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Sportsline, cricket",
+          "years": "2019–present",
+          "outcome": "running",
+          "idea": "Own cricket teams, the one thing in India that everyone watches.",
+          "decision": "Bid for a new IPL team in 2021 as the league grew from eight teams to ten.",
+          "howStarted": "Sports arm founded in 2019, with teams in a veterans league and in the UAE's ILT20.",
+          "funding": "Not separately disclosed.",
+          "whatHappened": "The ₹5,100 crore IPL bid lost to CVC Capital's ₹5,625 crore. In January 2023 it paid ₹1,289 crore for the Women's Premier League team in Ahmedabad, the top bid in the auction, and named it Gujarat Giants.",
+          "lesson": "Losing an auction by ₹525 crore can be the best outcome. The next auction is often cheaper.",
+          "src": [
+            75,
+            76
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Ambuja Cements and ACC",
+          "years": "2022–present",
+          "outcome": "public",
+          "idea": "Buy into cement at scale overnight. Then use the group's ports, coal, power and rail to cut the cost of each bag.",
+          "decision": "In May 2022 he struck his largest ever deal for Swiss firm Holcim's India business, having no cement plants of his own. His aim was to become the largest and most efficient maker by 2030.",
+          "howStarted": "An offshore company owned by the family made the purchase in Mauritius. The whole board and top management of both companies resigned soon after takeover, and his son Karan was named to run it.",
+          "funding": "$4.5 billion of loans from 14 international banks, with $3 billion planned as family equity, part of it reportedly raised from a Gulf sovereign fund. The headline value was $10.5 billion, but few shareholders sold into the open offer, so the final bill was about $6.5 billion. Ambuja's new board then approved ₹20,000 crore of new money through warrants.",
+          "whatHappened": "Capacity rose from about 68 to 109 million tonnes a year by buying Sanghi, Penna and Orient and adding plants, with 155 targeted by March 2028. It is India's second-largest maker, behind UltraTech.",
+          "lesson": "A rule called an open offer forces buyers to offer to all shareholders. Budget for it, and enjoy it if few accept.",
+          "src": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "NDTV",
+          "years": "2022–present",
+          "outcome": "public",
+          "idea": "Build what the group called a next-generation media platform, starting from one of India's best-known news brands.",
+          "decision": "A loan made years earlier was the way in. In 2009-10 the NDTV founders borrowed over ₹400 crore from a little-known firm, VCPL, then indirectly controlled by Reliance. In exchange, VCPL got warrants, rights to convert the loan into 99.9% of the founders' holding company, which owned 29.18% of NDTV.",
+          "howStarted": "On 23 August 2022 an Adani company bought VCPL for ₹113.74 crore and used the warrants the same day. NDTV said this happened without the founders' knowledge or consent.",
+          "funding": "Adani Enterprises' cash. The purchase, the warrants for ₹1.99 crore, and an open offer at ₹294 a share worth up to ₹493 crore.",
+          "whatHappened": "NDTV tried to block it for about four months. The founders then sold most of their remaining shares and kept 5%. Adani's holding reached 64.71% and later 69.02%. It is the clearest case in this book of a company taken without its founders' agreement.",
+          "lesson": "Read every clause before you borrow. A founder's control can be lost through a loan signed thirteen years earlier.",
+          "src": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            10,
+            56
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "this exercise of rights by VCPL was executed without any input from, conversation with, or consent of the NDTV founders",
+          "who": "NDTV statement, 23 August 2022",
+          "src": [
+            89
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Founders: read this one twice. A forgotten loan became a hostile takeover."
+        },
+        {
+          "t": "h",
+          "text": "Abroad, and the bets that went nowhere"
+        },
+        {
+          "t": "venture",
+          "name": "Haifa Port and Colombo West terminal",
+          "years": "2022–present",
+          "outcome": "running",
+          "idea": "Take the port playbook overseas, to the Mediterranean and the Indian Ocean trade routes.",
+          "decision": "Haifa came through a two-year Israeli privatisation tender. The company places Haifa and Colombo on what it calls the East-West trade corridor.",
+          "howStarted": "Adani Ports won Haifa in July 2022 with local partner Gadot, holding 70% to its 30%. Colombo West started commercial work in April 2025.",
+          "funding": "Haifa's bid was 4.1 billion shekels, $1.18 billion, with about 75% expected to be debt. For Colombo, a US government agency offered $553 million in 2023. Adani withdrew the request in December 2024, after the US indictment, and paid from its own funds.",
+          "whatHappened": "Colombo handled 1.06 million standard containers in FY26. Haifa posted its highest-ever quarterly revenue in the April to June 2025 quarter. Both sit in the group's aim of about 15% of cargo from abroad by 2030.",
+          "lesson": "Keep one way to pay on hand. Walking away from cheap US money only works if you have your own.",
+          "src": [
+            90,
+            91,
+            92,
+            29,
+            46,
+            18,
+            93,
+            94
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Godda power plant, for Bangladesh",
+          "years": "2017–present",
+          "outcome": "running",
+          "idea": "Build a 1,600 MW coal plant in Jharkhand, India, and sell every unit to another country for 25 years.",
+          "decision": "Signed in 2017 with Sheikh Hasina's government without a tender, Reuters reported. Bangladeshi power agency documents seen by Reuters show it costs far more than the country's other coal deals. Sources quoted by The Economic Times called the power among the most competitively priced.",
+          "howStarted": "Units started on 6 April and 26 June 2023.",
+          "funding": "Housed in an Adani Power subsidiary, later merged into the parent. Project figures were not in the reports we read.",
+          "whatHappened": "Bangladesh fell behind on payments. Adani cut supply by more than half in late 2024 over dues of about $800 million. Sources told The Economic Times the dues were cleared by mid-2025, but new disputes went to arbitration, and a Bangladesh court halted that in November 2025 pending a review of the deal.",
+          "lesson": "Selling to one customer in another country ties your fate to its politics and its dollars.",
+          "src": [
+            95,
+            96,
+            97,
+            98
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We will not let any power producer hold us hostage,",
+          "who": "Muhammad Fauzul Kabir Khan, Bangladesh power adviser, to Reuters",
+          "src": [
+            95
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Dharavi redevelopment",
+          "years": "2022–present",
+          "outcome": "running",
+          "idea": "Rebuild Dharavi, one of the world's largest slum clusters, in central Mumbai. Rehouse residents and earn from selling new space.",
+          "decision": "The fourth attempt by the state in 18 years. Winning needed high financial muscle, with a minimum net worth of ₹20,000 crore.",
+          "howStarted": "Won in November 2022 with a ₹5,069 crore bid, against DLF's ₹2,025 crore. The state keeps 20% of the project company.",
+          "funding": "₹5,069 crore as promised upfront investment, part of a project first put at ₹20,000 crore.",
+          "whatHappened": "Still early. About 58,000 families live there, and the work will take many years.",
+          "lesson": "Problems that defeat everyone else for decades are rare openings, if you can survive a decade of work.",
+          "src": [
+            99
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Mundra Petrochem, green PVC plant",
+          "years": "2021–present",
+          "outcome": "pivoted",
+          "idea": "A ₹34,900 crore plant to turn coal into PVC, to cut India's imports. PVC is also what his brother's little film factory made in 1982.",
+          "decision": "India used about 3.5 million tonnes a year and made only 1.4 million, with demand rising 7% a year.",
+          "howStarted": "Mundra Petrochem set up as a subsidiary of Adani Enterprises in 2021, on port land.",
+          "funding": "Not disclosed beyond the project cost. Bloomberg's report put the coal-to-PVC plant at $4 billion.",
+          "whatHappened": "After the Hindenburg report, vendors got emails to “suspend all activities”. By 2026 brokers again listed PVC among the group's newer ventures, in a changed plan we could not fully detail.",
+          "lesson": "Big plans are the first thing to go when cash gets tight. Keep projects you can pause without penalty.",
+          "src": [
+            100,
+            101,
+            102,
+            56
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The deals he dropped in 2023",
+          "years": "2022–2023",
+          "outcome": "failed",
+          "idea": "A shopping list of cheap, troubled or strategic assets: DB Power, Macquarie's road companies, SKS Power, PTC India and Future Retail.",
+          "decision": "After the Hindenburg report he chose to save cash and prepay debt instead of buying anything. Bankers said the group had been offered nearly every asset for sale until that year.",
+          "howStarted": "DB Power was signed as a ₹7,017 crore memorandum in August 2022. Its deadline was extended four times.",
+          "funding": "None was finally spent.",
+          "whatHappened": "DB Power's deadline ran out on 15 February 2023. The group also ended the ₹3,100 crore Macquarie roads deal, did not bid for SKS or PTC, and made no offer for Future Retail.",
+          "lesson": "In a crisis, cash is oxygen. Cancelling your own plans quickly is a strength.",
+          "src": [
+            103,
+            59
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani Data Networks, 5G spectrum",
+          "years": "2022–2025",
+          "outcome": "sold",
+          "idea": "Buy 5G airwaves to run private networks at the group's own airports and ports, not a consumer phone service.",
+          "decision": "The 2022 auction let companies buy spectrum directly, and the group wanted its own secure networks.",
+          "howStarted": "Bought 400 MHz in the 26 GHz band for ₹212 crore in July 2022.",
+          "funding": "Adani Enterprises. It had reportedly paid just over ₹55 crore by the time it left.",
+          "whatHappened": "It never found enough use for the airwaves, missed rollout deadlines and was fined at least twice. In April 2025 it transferred the rights to Bharti Airtel, ending the telecom idea for now.",
+          "lesson": "Do not buy a tool before you have the job. Being able to afford something does not mean you need it.",
+          "src": [
+            104,
+            105
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Adani One super app (Adani Digital Labs)",
+          "years": "2022–2025",
+          "outcome": "merged",
+          "idea": "One app for flights, trains, shopping, payments and rewards, starting from airport passengers.",
+          "decision": "Bloomberg's account says it was modelled on apps like WeChat. The group already had millions of travellers through its airports.",
+          "howStarted": "Launched in 2022 as Adani One, in a separate unit. Its reported goal was up to 500 million users by 2030.",
+          "funding": "About $100 million over two to three years, according to a summary of Bloomberg's report.",
+          "whatHappened": "It reportedly reached about 30 million users by March 2024 without lasting use or clear revenue. In 2025 Bloomberg reported a retreat, with the unit merged into airports and senior staff leaving. Tata and Reliance's similar apps also struggled.",
+          "lesson": "Physical scale does not transfer to apps. Getting people through an airport gate does not make them open your app at home.",
+          "src": [
+            106,
+            107
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Kutch Copper",
+          "years": "2024–present",
+          "outcome": "running",
+          "idea": "Build the world's largest single-location custom copper smelter at Mundra, to cut India's imports for electric vehicles, solar and wires.",
+          "decision": "PTI described copper as a strategic fit with the group's energy investments. The smelter sits in his own port town.",
+          "howStarted": "Set up under Adani Enterprises. The first unit shipped its first copper cathodes on 28 March 2024.",
+          "funding": "About $1.2 billion from Adani Enterprises for the first phase.",
+          "whatHappened": "Bloomberg reported the smelter only began processing mined ore in June 2025, after delays from a global shortage of copper ore. A second phase is planned to reach 1 million tonnes a year.",
+          "lesson": "Check your raw material before you build the plant. It is the same issue that hit Adani Power.",
+          "src": [
+            108,
+            109,
+            110
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Kenya airport and power lines; Sri Lanka wind farms",
+          "years": "2024–2025",
+          "outcome": "failed",
+          "idea": "Run Nairobi's main airport and build Kenyan power lines. Separately, build two wind farms in Sri Lanka, estimated at $1 billion.",
+          "decision": "Kenya's was a government procurement process expected to give Adani control of the airport. Sri Lanka's projects went through government review and price talks.",
+          "howStarted": "Proposals with each government, at different stages.",
+          "funding": "Not disclosed.",
+          "whatHappened": "A day after the US indictment, on 21 November 2024, Kenya's president ordered more than $2.5 billion of deals cancelled. In February 2025 Adani withdrew in Sri Lanka, calling the projects “financially unviable” after Colombo sought a lower power price.",
+          "lesson": "Reputation is a working asset. A single headline can cancel deals you spent years building.",
+          "src": [
+            111,
+            112
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Jaiprakash Associates",
+          "years": "2025–present",
+          "outcome": "running",
+          "idea": "Buy a debt-laden conglomerate out of bankruptcy.",
+          "decision": "Vedanta offered more in total, around ₹16,000 crore against ₹14,535 crore. But Adani offered over ₹6,000 crore upfront and the rest in two years, and creditors chose that.",
+          "howStarted": "Creditors approved the bid in November 2025, and the tribunal approved it on 17 March 2026.",
+          "funding": "Adani Enterprises. Paid over time as described.",
+          "whatHappened": "Vedanta has appealed. As of our last reading in March 2026, the appeal was still pending.",
+          "lesson": "Certainty can beat price. Sellers often prefer faster cash to a bigger promise.",
+          "src": [
+            113
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There are smaller pieces too. The group's road arm operated the Ganga Expressway in 2026, and it owns real estate through Adani Realty. Both are run through the same incubator model that created everything above. Count the failures in this chapter and you will find something odd: most of the ones that hurt were not bad businesses. They were businesses that depended on one fuel, one government, one landlord, or one partner.",
+          "src": [
+            55,
+            99
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Failures are the cheap part of the tuition",
+          "text": "The Cargill exit gave him Mundra. The 5G and super-app bets cost little against his group's size and he closed them. The one that did real damage, Adani Power's fixed-price coal bet, was too large to walk away from. Keep your experiments small enough to survive, and only bet big on what you already understand."
+        }
+      ]
+    },
+    {
+      "id": "the-big-bets",
+      "kicker": "1988–2015",
+      "title": "Salt, Marsh and a Cheque for ₹3 Crore",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sometime in 1994, a soya trader named Atul Chaturvedi quoted Adani a price for a deal. He later admitted that he padded it by ₹200 a tonne, and casually asked for ₹3 crore upfront. Nothing was signed, and his own company was short of cash, so he let the matter drop.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Days later an envelope reached his Bhopal office. Inside was a cheque for ==₹3 crore== from Adani Exports. When he called to check, Adani's reply was short: “Tumse toh baat hui thi na”, meaning “We did speak about this, right?” Three years later, Chaturvedi joined the group, and he went on to run Adani Wilmar.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "What I liked about Adani was that he kept his word,",
+          "who": "Atul Chaturvedi, to Outlook Business",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A spoken deal, honoured with ₹3 crore. That is how trust compounds."
+        },
+        {
+          "t": "p",
+          "text": "That was the trader's edge in the early years. By September 1992 he was running a ₹300 crore trading business. The group's financing leaned on credit lines from a state export corporation, and he is frank that money was the limit. “Dreams were infinite but finances finite,” he told The Times of India.",
+          "src": [
+            3,
+            7
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The land nobody wanted"
+        },
+        {
+          "t": "p",
+          "text": "When Cargill walked away, most traders would have written off the salt plan and the land. Adani did not. In 1995 Gujarat launched a new policy to develop six ports through public-private partnerships, and Mundra was one of them. __The failed salt deal had quietly left him standing in the right place when the rule changed.__",
+          "src": [
+            7,
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His biographer records a second insight. As a trader, Adani had paid demurrage, the fee a port charges when cargo sits too long, and he saw that ports earn serious money from land and storage. So he kept buying. Group president Saurin Shah says demurrage was the single number he watched most closely in his trading and shipping days.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "He would happily take a Rs 5 crore loss on a trade—which he said provided invaluable learning opportunities—but would bring the house down if even Rs 500 had been paid as demurrage.",
+          "who": "Saurin Shah, Adani Group president, in R.N. Bhaskar’s biography",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "How cheap was the land? Adani gave the numbers himself in 2014, when Rahul Gandhi and others accused him of getting it for ₹1 from Narendra Modi's government. He said Chimanbhai Patel's Congress government charged ==10 paise per square metre== in 1993, Keshubhai Patel's BJP government charged ₹1 in 1995, Shankersinh Vaghela charged ₹1.5, and Modi's government charged an average of ₹15 for about 5,000 acres. He said only a third of his 15,946 acres came during Modi's years.",
+          "src": [
+            12,
+            114
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Not a single acre has been taken from any farmer…",
+          "who": "Gautam Adani, to PTI, 2014",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Both things can be true at once. His biographer argues the price was simply what barren marsh was worth in 1993. It was also a set of government decisions that later proved enormously valuable to one buyer. As a founder, notice how often Indian infrastructure begins with a state deciding who gets what, and keep your records clean, because someone will ask you about the price 20 years later.",
+          "src": [
+            12,
+            2,
+            6
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Ten paise a square metre. Worth a fortune once a port arrived."
+        },
+        {
+          "t": "example",
+          "text": "For example: at 10 paise a square metre, one acre (about 4,047 square metres) cost about ₹405. That is his own stated 1993 price. The ₹5 crore trading loss Saurin Shah mentions would have covered more than 1 lakh acres at that price. His whole land bank in 2014 was 15,946 acres, bought at rising prices over the years.",
+          "src": [
+            12,
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Failing on purpose, sort of"
+        },
+        {
+          "t": "p",
+          "text": "In 1999 a crowd stood on a Mundra berth to watch an employee's ==₹4 crore== experiment. His idea was a floating wall of pontoons to break the waves, so ships could dock on more days. Within minutes the pontoons began crashing together, and in about two hours the whole thing had sunk. The man expected to be fired, and then felt a pat on his shoulder.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Well tried",
+          "who": "Gautam Adani to the engineer, as recalled by Malay Mahadevia",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stories like this come from his own executives, so read them as friendly witnesses. There are several. A young trader who lost a couple of crore in a day on castor seeds offered to quit, and Adani is believed to have told him: “After such a costly learning, I can’t afford to lose you.” More than 17 years later that man was a general manager in the chairman's office. __A company learns what failure costs from how the boss reacts on the worst day.__",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The kidnapping, and the Taj"
+        },
+        {
+          "t": "p",
+          "text": "On the evening of 1 January 1998, Adani and a companion, Shantilal Patel, were driving from Karnavati Club when, according to the police case, gunmen stopped the car and took them away blindfolded. Police alleged the ransom demand was ==₹15 crore==, and that the two men were released after it was paid. Those tried were acquitted: six in 2005 for lack of evidence, and two in 2018. Adani did not appear to testify in that last trial, asking the court to rely on his earlier statement, and witnesses could not identify the two men.",
+          "src": [
+            115,
+            116
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ten years later came another close call. On 26 November 2008 he was at the Chambers restaurant inside Mumbai's Taj Mahal Hotel when terrorists attacked, and he spent about two frightening hours hiding in the dark until troops got the diners out. Neither event slowed the building.",
+          "src": [
+            6
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Kidnapped in 1998, trapped at the Taj in 2008. He kept building."
+        },
+        {
+          "t": "h",
+          "text": "Raising money like Dhirubhai"
+        },
+        {
+          "t": "p",
+          "text": "Between 2007 and 2010, Adani went to investors again and again. The Mundra IPO in November 2007 was oversubscribed 116 times. In 2007 he also raised $250 million through a foreign currency convertible bond, a loan that can later turn into shares. In 2009, Adani Power's IPO was subscribed 21 times, and in 2010 Adani Enterprises raised $850 million through a QIP, a fast share sale to large institutions.",
+          "src": [
+            1,
+            16,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "A merchant banker explained the pattern simply: investors who made money on Mundra came back for power. By August 2010 he had raised over ₹10,000 crore from the market, and his three listed companies were worth ₹1,01,878 crore. Business Standard compared him to Dhirubhai Ambani, then pointed out the difference: unlike Dhirubhai, he had so far been mostly a trader, with few assets of his own.",
+          "src": [
+            6
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The Mundra port acted as a catalyst for the growth of the Adani empire. Credit must go to Adani's risk-taking abilities,",
+          "who": "A retired Gujarat state official, to Business Standard",
+          "src": [
+            6
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Rivals on the coast were real but rarely matched him. Business Standard wrote in 2015 that no Indian company came close across both containers and bulk cargo. Essar's terminals mostly served its own needs. Nikhil Gandhi, who promoted the rival Pipavav port, publicly praised Adani's courage to turn plans into reality. Tata Power built its own huge plant in Mundra, and later shared Adani's coal troubles.",
+          "src": [
+            13,
+            6,
+            117
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2015 he did one more clever thing: he split Adani Enterprises. Ports, power and transmission became separately listed companies, each owned directly by existing shareholders. A demerger like this lets investors buy the piece they like, and it lets each piece borrow on its own. He has used this pattern since, with green energy and gas in 2018.",
+          "src": [
+            0,
+            48,
+            1
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "₹300 crore",
+              "label": "Trading business, September 1992",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "116x",
+              "label": "Mundra Port IPO subscription, 2007",
+              "src": [
+                16
+              ]
+            },
+            {
+              "value": "₹1,771 crore",
+              "label": "Raised at the 2007 port IPO",
+              "src": [
+                14
+              ]
+            },
+            {
+              "value": "₹1,01,878 crore",
+              "label": "Combined value of his 3 listed firms, Aug 2010",
+              "src": [
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1992",
+              "text": "Hires a dentist friend to run the Cargill salt project.",
+              "src": [
+                3
+              ]
+            },
+            {
+              "when": "1994",
+              "text": "Adani Exports IPO, 25 times subscribed. Jetty approved at Mundra.",
+              "src": [
+                0,
+                15
+              ]
+            },
+            {
+              "when": "1 Jan 1998",
+              "text": "Kidnapped, according to the police case. All accused later acquitted.",
+              "src": [
+                115
+              ]
+            },
+            {
+              "when": "Oct 1998",
+              "text": "First berths open. MT Alpha-2 is the first ship.",
+              "src": [
+                15,
+                0
+              ]
+            },
+            {
+              "when": "2001",
+              "text": "Signs the 30-year port concession.",
+              "src": [
+                14
+              ]
+            },
+            {
+              "when": "2007",
+              "text": "Port IPO at ₹440.",
+              "src": [
+                14
+              ]
+            },
+            {
+              "when": "2009",
+              "text": "Adani Power IPO at ₹100.",
+              "src": [
+                27
+              ]
+            },
+            {
+              "when": "2015",
+              "text": "Splits the flagship into separately listed companies.",
+              "src": [
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Turn every deal you lose into an asset",
+          "text": "Cargill took its money home, and Adani kept the land, the local knowledge and a team that had learned salt and jetties. When your partner leaves, list what is still yours. You may be holding more than you think."
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "2010–2022",
+      "title": "The Coal Bet That Nearly Broke Him",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In November 2010, TIME magazine visited Mundra. Adani told its reporter that his power plant had one simple risk: unless you completely goof up on fuel, it was a sure bet. Then he added a line that reads differently today.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "From the first day that we start generating, we start making money,",
+          "who": "Gautam Adani, to TIME, November 2010",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He had signed to sell power to Gujarat at ==₹2.35 a unit== on one contract and ₹2.89 on another. Those prices were not designed to move when coal prices did. The plan rested on cheap Indonesian coal. Then, in 2010, Indonesia issued new rules that raised the price of its coal. In a petition, Adani said this raised its coal cost by ==153%==, and that it would lose ₹790 crore a year on the Gujarat contract alone.",
+          "src": [
+            28,
+            117,
+            118
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fixed selling price, floating cost. Read this page twice, first-time founders."
+        },
+        {
+          "t": "p",
+          "text": "So he went to the regulators and asked for a higher price, called compensatory tariff, on the grounds that a foreign law had changed. In 2013 the electricity regulator agreed, and an appeals tribunal later upheld that. Adani Power began booking the extra money as revenue, even though it had not been paid yet. A dissenting regulator pointed out something awkward.",
+          "src": [
+            117,
+            118,
+            28
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Adani Enterprises held 74% of shares in the Indonesian coal company through which the coal was being imported,",
+          "who": "S Jayaraman, regulator, in his 2013 dissent",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In other words, part of the higher coal price may have flowed to another Adani company. Then on ==11 April 2017== the Supreme Court set aside the earlier rulings. It said a rise in coal price does not excuse a company from a contract it signed knowing that risk. It did leave open relief for changes in Indian law, like a domestic coal shortage. Adani Power fell 16% that day.",
+          "src": [
+            28,
+            117,
+            118
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "It is clear that an unexpected rise in the price of coal will not absolve the generating companies from performing their part of the contract",
+          "who": "Supreme Court of India, 11 April 2017",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "h",
+          "text": "₹1 for 51%"
+        },
+        {
+          "t": "p",
+          "text": "The bill was brutal. Adani Power reversed ==₹4,364 crore== of income it had already booked, made a cash loss of ₹1,109 crore in FY17, and saw its debt climb to 6.18 times its net worth. The rating agency CARE noted heavy repayments ahead, and that the promoter family had put in ₹1,702 crore that year with no firm promise for the next. By September 2017 Bloomberg Quint was reporting that the Mundra unit's debt stood at ₹21,707 crore and its market value at just ₹106 crore.",
+          "src": [
+            118,
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the most extraordinary offer in this book. The company offered ==51% of its Mundra plant to Gujarat's power utility for ₹1==. Lenders led by State Bank of India later backed away from the talks, and by mid-2018 Business Standard reported Adani Power Mundra might have to seek bankruptcy protection at the National Company Law Tribunal. The plant's output had sunk to 37% of its capacity in the March 2018 quarter, and loan dues were reported above ₹22,000 crore.",
+          "src": [
+            119,
+            120,
+            28
+          ]
+        },
+        {
+          "t": "note",
+          "text": "India's largest private coal plant, offered for one rupee. Sit with that."
+        },
+        {
+          "t": "p",
+          "text": "Rescue came from governments, not markets. In October 2018 the Supreme Court allowed the regulator to amend the contracts of Gujarat's three imported-coal plants, those of Tata, Adani and Essar, so that future fuel costs could pass through to buyers, with a cap. On 3 December 2018 the Gujarat government accepted a committee's report and allowed the higher cost to pass on to consumers. Scroll, which investigated this in 2019, reported that the change would raise prices for consumers and saved the project from bankruptcy. Adani declined to answer its questions, saying the matter was before the courts.",
+          "src": [
+            121,
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "__Our reading: he survived partly because the plant was too large and too important to fail.__ That is a real advantage, but not one you can plan to have. Tata Power sat in the same trap with the same Indonesian coal. In a separate case, the Supreme Court also ruled that Adani Power's termination of a ₹2.35 contract was valid, because its bid had relied on a state miner's promise of coal that never came. Knowing which risks you can survive, before you sign, is the real lesson.",
+          "src": [
+            117,
+            121,
+            28,
+            122
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Too big to fail is not a strategy you can copy."
+        },
+        {
+          "t": "h",
+          "text": "The mine that shrank"
+        },
+        {
+          "t": "p",
+          "text": "At the same time, his Australian dream was stalling. He bought the Carmichael rights in 2010, picturing a 60 million tonne a year mine, a railway of around 400 km and a ==A$16 billion== bill. Then a campaign called Stop Adani started pressing banks, insurers and contractors, and it became an issue in Australia's 2019 election. More than 30 banks and lenders declined to finance it.",
+          "src": [
+            41,
+            42,
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2018 he cut the plan. He announced that the group would self-fund a mine shrunk to 10 million tonnes a year, one-sixth of the plan. Coal finally began to move in late 2021. Guardian Australia later pointed out that the company had pledged $22 billion in taxes and royalties, but had paid no corporate tax more than three years into production. For the group, the prize had shrunk from a giant mine feeding its Indian plants to a modest export business.",
+          "src": [
+            41,
+            43,
+            45
+          ]
+        },
+        {
+          "t": "h",
+          "text": "₹33.82"
+        },
+        {
+          "t": "p",
+          "text": "By 2020 Adani Power's share price had been stuck for years well below its ₹100 IPO price. IEEFA, a think tank critical of coal, called it a rare failure in the group's rise. In May and June 2020 the family proposed buying out every public shareholder and delisting the company from the stock exchange, at a floor price of ==₹33.82 a share==. The whole public stake would have cost about ₹3,264 crore. Shareholders approved it.",
+          "src": [
+            123,
+            124,
+            48,
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The stock exchanges never gave their approval. While the paperwork sat, the share price went up more than tenfold, hitting ₹432.80 in August 2022. In September 2022 the family withdrew the offer, saying it was no longer commercially viable. If you had sold at ₹33.82, you would have missed that rise.",
+          "src": [
+            123
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the family tried to buy out all public shareholders for about ₹3,264 crore in 2020. In just the July to September 2026 quarter, Adani Power reported a net profit of ₹6,919 crore. That is more than double the entire buyout price, earned in three months.",
+          "src": [
+            124,
+            102
+          ]
+        },
+        {
+          "t": "p",
+          "text": "How did it turn? The company used the Gujarat fix as a base and then went shopping in India's bankruptcy courts. It bought struggling plants at what it calls attractive valuations and repaired them: Raigarh and Raipur in 2019, Mahan in 2022, Coastal Energen (now Mutiara) and Lanco Amarkantak (now Korba) in 2024, then Vidarbha for ₹4,000 crore in 2025. Rising demand for power helped. FY26 profit was ₹12,971 crore.",
+          "src": [
+            125,
+            40,
+            29
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same plants, better demand. Timing and luck count. Admit it."
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "₹2.35",
+              "label": "Per-unit price he bid on one Gujarat contract, 2006",
+              "src": [
+                28
+              ]
+            },
+            {
+              "value": "₹4,364 crore",
+              "label": "Income reversed after Supreme Court ruling, FY17",
+              "src": [
+                118
+              ]
+            },
+            {
+              "value": "₹1",
+              "label": "His offer price for 51% of Mundra plant, 2017",
+              "src": [
+                119
+              ]
+            },
+            {
+              "value": "₹6,919 crore",
+              "label": "Adani Power net profit, Q2 FY27 alone",
+              "src": [
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2006–07",
+              "text": "Wins Gujarat power contracts at fixed prices.",
+              "src": [
+                28
+              ]
+            },
+            {
+              "when": "2010",
+              "text": "Indonesia changes coal pricing rules.",
+              "src": [
+                117
+              ]
+            },
+            {
+              "when": "2013",
+              "text": "Regulator allows compensatory tariff. Supreme Court reverses in April 2017.",
+              "src": [
+                117
+              ]
+            },
+            {
+              "when": "2017",
+              "text": "Offers 51% of Mundra plant for ₹1.",
+              "src": [
+                119
+              ]
+            },
+            {
+              "when": "Jun 2018",
+              "text": "Bankruptcy route reported as possible.",
+              "src": [
+                120
+              ]
+            },
+            {
+              "when": "Dec 2018",
+              "text": "Gujarat allows fuel costs to pass to consumers.",
+              "src": [
+                28
+              ]
+            },
+            {
+              "when": "Jun 2020",
+              "text": "Delisting offer at ₹33.82.",
+              "src": [
+                124
+              ]
+            },
+            {
+              "when": "Sep 2022",
+              "text": "Offer withdrawn after shares rise more than tenfold.",
+              "src": [
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Write down the one assumption that could kill you",
+          "text": "In 2010 Adani himself named fuel as the one thing that could go wrong, after he had already signed fixed prices. Before you sign a long contract, ask what happens if your biggest cost doubles. If the answer is “we die”, change the contract or change the plan."
+        }
+      ]
+    },
+    {
+      "id": "the-bombshell",
+      "kicker": "2023–2026",
+      "title": "The Report, the Indictment, the Comeback",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A short seller is an investor who profits when a share price falls. On ==24 January 2023==, a US short seller called Hindenburg Research published its report on the Adani Group, then valued at about $218 billion. It said its two-year investigation showed stock manipulation and accounting fraud, and that it held short positions itself. The group called the report baseless, and a later 413-page response called it a calculated attack on India.",
+          "src": [
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The timing could not have been worse. Adani Enterprises was about to launch an FPO, a follow-on public offer in which a listed company sells new shares, for ==₹20,000 crore==, or $2.45 billion, the biggest of its kind in India. Within two days of trading, seven group companies lost $48 billion. On the first day, the offer got just 1% of the bids it needed. Abu Dhabi's International Holding Company stepped in with $400 million, and the sale scraped through on 31 January.",
+          "src": [
+            129,
+            127,
+            130
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The next day the shares crashed anyway. Adani Enterprises fell 28% and Credit Suisse stopped accepting group bonds as loan security. Late that night, the company did something unusual. It cancelled a fully subscribed share sale, and gave the money back.",
+          "src": [
+            130,
+            127
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "For me, the interest of my investors is paramount and everything else is secondary.",
+          "who": "Gautam Adani, video message, 2 February 2023",
+          "src": [
+            131
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By early February the group's market value had dropped by more than half at its worst, hitting a record low of about ==$82 billion== combined. Adani fell from the third-richest person in the world to outside the top 25 on Forbes' list. Reuters later put the sell-off at $150 billion, The Times of India at $140 billion. Hindenburg's claims were never tested in a trial, and the group denied them all.",
+          "src": [
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Third richest to outside the top 25. Five weeks. Debt makes things fast."
+        },
+        {
+          "t": "h",
+          "text": "How he survived it"
+        },
+        {
+          "t": "p",
+          "text": "His first problem was a kind of loan called a margin loan. The family had pledged shares as security for borrowings, and when prices fall, lenders demand more security or sell the shares. So the first move was to pay them back early. By 12 March 2023 the family had prepaid ==$2.15 billion== of share-backed loans, plus $500 million on the Ambuja purchase, and pledged holdings fell sharply.",
+          "src": [
+            136,
+            132
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His second move was to stop buying. DB Power, PTC India, SKS Power and Macquarie's roads all went, and a ₹34,900 crore plastics plant was paused. His third was to find a single loud believer. In March 2023, Rajiv Jain of US fund GQG Partners bought shares in four Adani firms for ==₹15,446 crore==, about $1.9 billion. Eleven weeks later that stake was worth ₹23,049 crore. GQG kept buying.",
+          "src": [
+            59,
+            100,
+            136,
+            132
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One outside investor can change a story. Know who would call you back."
+        },
+        {
+          "t": "p",
+          "text": "Then the courts. A six-member Supreme Court committee reported in May 2023 that it could not conclude there was a regulatory failure on price manipulation, though Financial Express noted this was not a clean chit. On 3 January 2024 the Supreme Court refused to order a special investigation and left the matter with SEBI, India's market regulator. Then, a year after the crash, the group's market value had risen 112% from the low. __A crisis met with cash and speed can leave you stronger on paper, though the questions do not go away.__",
+          "src": [
+            136,
+            137,
+            132
+          ]
+        },
+        {
+          "t": "p",
+          "text": "SEBI's answers came slowly. On 18 September 2025 it closed two matters without penalty, covering alleged transactions with related companies. A day later Reuters reported more than a dozen cases were still open. On 28 September 2026 SEBI ruled it could not prove that Gautam's brother Vinod Adani controlled two offshore funds that held group shares, and dropped that case. It fined two other people ₹20 lakh each for not giving correct information, saying one had made a deliberate attempt to mislead. Separately, Gautam Adani, four group companies and 13 others paid ₹1.48 crore to settle the same shareholding rules case, without admitting or denying anything.",
+          "src": [
+            138,
+            134,
+            139,
+            140,
+            141,
+            142
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Having considered the matter holistically, I find that the allegations made against noticees are not established,",
+          "who": "Kamlesh Chandra Varshney, SEBI whole-time member, 18 September 2025",
+          "src": [
+            138
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By then Hindenburg itself had gone. Its founder Nathan Anderson announced in January 2025 that he was disbanding the firm. He wrote that “We shook some empires that we felt needed shaking”. Closing did not prove the report right or wrong, in either direction.",
+          "src": [
+            128,
+            133
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The Brooklyn indictment"
+        },
+        {
+          "t": "p",
+          "text": "Then came a harder blow. On ==20 November 2024== US prosecutors in Brooklyn unsealed an indictment charging Gautam Adani, his nephew Sagar and former Adani Green chief executive Vneet Jaain with securities and wire fraud. They said a wider group had agreed to pay about $265 million in bribes to Indian officials to win solar power contracts, and had then misled US investors about it. The SEC filed a civil case too. These were allegations, which Adani denied, and he was not charged under the US bribery statute itself.",
+          "src": [
+            143,
+            53,
+            144,
+            145,
+            146
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The damage was immediate and practical. Kenya's president cancelled over $2.5 billion in deals the very next day. TotalEnergies, a 20% owner of Adani Green, said it had not been told of the investigation and paused new money. Adani Ports dropped its $553 million request to a US agency for Colombo, and Adani Green pulled out of its Sri Lanka wind projects. By December he had agreed to sell out of Fortune oil for $2 billion.",
+          "src": [
+            111,
+            147,
+            92,
+            112,
+            24
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Until such time when the accusations against the Adani group individuals and their consequences have been clarified, TotalEnergies will not make any new financial contribution",
+          "who": "TotalEnergies statement, 25 November 2024",
+          "src": [
+            147
+          ]
+        },
+        {
+          "t": "p",
+          "text": "A separate problem surfaced too. In May 2026 Adani Enterprises agreed to pay ==$275 million== to the US Treasury's sanctions office, OFAC. OFAC said the company had bought liquefied petroleum gas from a Dubai trader between November 2023 and June 2025, that the gas came from Iran, and that “Red flags should have put AEL on notice”. The first cargo, worth $5.67 million, came on a 25-year-old tanker, with papers naming Oman as its origin. OFAC called the apparent violations egregious. The company settled without admitting them, and told exchanges the LPG trade was under 1.5% of its revenue.",
+          "src": [
+            148,
+            149,
+            150
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2026 the American case turned. By May, Adani had settled the SEC case, without admitting wrongdoing, for $6 million, with $12 million from Sagar. The Justice Department, now under the Trump administration, asked to drop the charges with prejudice, which means they cannot be brought again. Adani had pledged in late 2024 to invest $10 billion in the US, and reports asked whether that mattered. The judge asked Adani in court whether anything had been promised in exchange.",
+          "src": [
+            151,
+            152,
+            153,
+            154,
+            145
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On ==10 August 2026== Judge Nicholas Garaufis dismissed the fraud charges against Gautam Adani, Sagar Adani and Jaain. He accepted just one of the government's reasons: that the anti-bribery language in Adani Green's documents was generic enough to be mere puffery, the kind of vague claim no investor could rely on. He also made clear this was no endorsement of the department's decision and no opinion on whether the allegations were true. He called the way the decision was reached “highly unusual”.",
+          "src": [
+            145,
+            155,
+            154,
+            156
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So how should you read this? No jury ever heard the evidence, and no court decided whether bribes were paid. Adani is free of the charges and did not admit guilt. On 3 September 2026 the same judge refused to drop the case against the five other accused, because the government had not given enough evidence for its reasons. The Justice Department went to an appeals court on 28 September, and that fight was still running at the time of our last reading in October.",
+          "src": [
+            156,
+            146,
+            145
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Dismissed is not the same as disproved. Nor is it proof of guilt."
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "24 Jan 2023",
+              "text": "Hindenburg publishes its report.",
+              "src": [
+                126
+              ]
+            },
+            {
+              "when": "1 Feb 2023",
+              "text": "Fully subscribed ₹20,000 crore FPO cancelled.",
+              "src": [
+                130
+              ]
+            },
+            {
+              "when": "Mar 2023",
+              "text": "GQG buys ₹15,446 crore of shares. Pledged loans prepaid.",
+              "src": [
+                136
+              ]
+            },
+            {
+              "when": "3 Jan 2024",
+              "text": "Supreme Court declines to order a special probe.",
+              "src": [
+                137
+              ]
+            },
+            {
+              "when": "20 Nov 2024",
+              "text": "US indictment unsealed.",
+              "src": [
+                143
+              ]
+            },
+            {
+              "when": "18 Sep 2025",
+              "text": "SEBI closes two Hindenburg-linked matters.",
+              "src": [
+                138
+              ]
+            },
+            {
+              "when": "May 2026",
+              "text": "SEC settlement, OFAC settlement, DOJ asks to drop case.",
+              "src": [
+                151,
+                148
+              ]
+            },
+            {
+              "when": "10 Aug 2026",
+              "text": "Fraud charges against Adani dismissed with prejudice.",
+              "src": [
+                155
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "In a crisis, act on cash first and story second",
+          "text": "Within seven weeks of the report, Adani repaid the loans that could have forced his shares onto the market, returned ₹20,000 crore, and cancelled deal after deal. Whatever you think of the allegations, that order is worth copying. Fix what can kill you this month before you argue about reputation."
+        },
+        {
+          "t": "lesson",
+          "title": "Do not treat a compliance rule as paperwork",
+          "text": "A 25-year-old tanker, a Dubai trader and a $5.67 million first shipment became a $275 million settlement. OFAC's point was that the paperwork looked clean, but the red flags were visible. Assign someone to look for what the documents do not say."
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "kicker": "As of 2 November 2026",
+      "title": "Where the Money Actually Sits",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Ask how rich Gautam Adani is and you can get four very different answers in the same week. Forbes's real-time page for him showed ==$77.7 billion== on 1 November 2026. Its India's Richest list, measured on 30 September, gave “Gautam Adani & family” ==$112.7 billion==, and put him back at number one in India after three years. Bloomberg's index had him at ==$109 billion== on 31 October, ranked 18th in the world. Hurun's Indian list in September said about $96 billion.",
+          "src": [
+            157,
+            84,
+            158,
+            19,
+            159
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Why the gap? Most of this wealth is not money in a bank. It is a share of companies, multiplied by a share price that changes every second, minus debt that outsiders cannot fully see. Lists also differ on who counts: Forbes's India list explicitly covers a fortune he shares with his family. __Remember this whenever you read a billionaire's net worth: it is an opinion about share prices, not a bank balance.__",
+          "src": [
+            19,
+            158
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$29.6B",
+              "label": "Adani Ports stake, Bloomberg estimate, 31 Oct 2026",
+              "src": [
+                19
+              ]
+            },
+            {
+              "value": "$28.3B",
+              "label": "Adani Power stake, Bloomberg, 31 Oct 2026",
+              "src": [
+                19
+              ]
+            },
+            {
+              "value": "$26.3B",
+              "label": "Adani Enterprises stake, Bloomberg, 31 Oct 2026",
+              "src": [
+                19
+              ]
+            },
+            {
+              "value": "$14.1B",
+              "label": "Adani Green stake, Bloomberg, 31 Oct 2026",
+              "src": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Below those sit $12.8 billion in Adani Energy Solutions, $2.32 billion in Adani Total Gas, and $1.75 billion in Ambuja Cements, plus private holdings such as Adani Properties at $4.69 billion, all on Bloomberg's estimate. The pieces add up to more than the headline $109 billion, which suggests Bloomberg subtracts something like debts, in a breakdown we could not read in full. In the flagship, the family held 71.97% in September 2026, with 47.43% held by Gautam and his brother Rajesh on behalf of the S.B. Adani Family Trust.",
+          "src": [
+            19,
+            160
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The power company that nearly died is now his second-biggest stake."
+        },
+        {
+          "t": "h",
+          "text": "How the fortune actually grew"
+        },
+        {
+          "t": "p",
+          "text": "For most of his career he was rich, not record-breaking. The leap came in a few strange years. His fortune was $32.4 billion in December 2020, up $21.1 billion that year. From January 2020 to June 2021, group shares rose between 122% and 819%, while the Sensex rose 27%. By June 2021, Business Today put his wealth at $77 billion, and it asked directly why the shares had risen so much.",
+          "src": [
+            32,
+            34
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in June 2021 Adani Total Gas was valued at ₹1.48 lakh crore on ₹471 crore of profit. Gujarat Gas, a much larger rival, was worth ₹36,921 crore on ₹1,275 crore of profit. One analyst in 2020 called it “FOMO syndrome”, the fear of missing out. Business Today said the family then owned 56% to 75% of the listed firms, so ratings like that made it far richer on paper.",
+          "src": [
+            34,
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He peaked at about ==$150 billion== in 2022, briefly one of the richest people on the planet. After the Hindenburg report it fell far faster than it rose. That swing shows the risk in the structure. Forbes describes his growth as debt-financed acquisitions and close ties to Prime Minister Modi. He has said he got no special favours and keeps good relations across parties, and The Times of India notes the group invests in states run by different parties. Read those claims side by side and judge for yourself.",
+          "src": [
+            159,
+            133,
+            84,
+            12,
+            7
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The market is having FOMO syndrome when it comes to Adani stocks,",
+          "who": "Sanjiv Bhasin, IIFL Securities, to Bloomberg, December 2020",
+          "src": [
+            32
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The machine underneath"
+        },
+        {
+          "t": "p",
+          "text": "Strip away the share prices and there is still a very large machine. In FY26, the group reported EBITDA of ==₹94,834 crore==. EBITDA means operating earnings before interest, tax and wear on assets, a rough measure of cash generated. It spent ₹1,52,967 crore on new projects in one year, which it says is the highest ever by any Indian company and about equal to what it built in its first 25 years.",
+          "src": [
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It reports net debt of 3.3 times EBITDA, meaning roughly 3.3 years of those earnings would repay its debts if nothing else were paid. It also says its cost of borrowing fell from 10.3% in FY19 to 7.8%. When it needed fresh equity it raised ₹24,930 crore through a rights issue, and the company says it was oversubscribed by 30%. A rights issue offers new shares to existing owners. These are the company's own figures, so read them as its best case.",
+          "src": [
+            55,
+            29,
+            161
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "₹94,834 crore",
+              "label": "Group EBITDA, FY26",
+              "src": [
+                55
+              ]
+            },
+            {
+              "value": "₹7,85,098 crore",
+              "label": "Gross asset base, March 2026",
+              "src": [
+                55
+              ]
+            },
+            {
+              "value": "3.3x",
+              "label": "Net debt to EBITDA, FY26",
+              "src": [
+                55
+              ]
+            },
+            {
+              "value": "₹12,99,150 crore",
+              "label": "Listed market value reported in FY26 annual report",
+              "src": [
+                162
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Rivals, in plain sight"
+        },
+        {
+          "t": "p",
+          "text": "The rival in the headlines is Mukesh Ambani. Adani went from second place back to first on Forbes's India list in 2026, with a $20.7 billion rise that year. In cement he is chasing UltraTech, and he said in 2022 he aimed to be the largest by 2030. In airports he beat GMR in 2019, and lost Jewar to Zurich. In power, Business Today's 2021 comparison with Tata Power showed the gap in valuation and debt.",
+          "src": [
+            159,
+            158,
+            79,
+            61,
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Our reading: he wins mostly by being willing to pay more and wait longer than others, in sectors where the government hands out licences. When that works, as in airports, he ends up as the largest private operator. When it does not, as in Yangon or Carmichael, he takes the loss or cuts the plan. Now he is making his biggest bet yet: $100 billion toward AI data centres by 2035, with Google's Vizag hub at its centre. Whether it pays is unknown, but the pattern is familiar. __He is again betting that the thing everyone will need is the thing he already controls: land, power and wires.__",
+          "src": [
+            60,
+            63,
+            71,
+            41,
+            69,
+            68
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same trick since Mundra: own the boring thing everyone will need."
+        },
+        {
+          "t": "h",
+          "text": "What he got right and wrong"
+        },
+        {
+          "t": "p",
+          "text": "What he got right: he found one geographic advantage and kept stacking businesses on it. He moved faster than rivals, and he kept his word on deals, and he backed people through expensive mistakes. He turned a lost partner into a port, and in 2023 he chose survival over pride in a matter of days.",
+          "src": [
+            3,
+            2,
+            59,
+            130
+          ]
+        },
+        {
+          "t": "p",
+          "text": "What he got wrong: he signed a fixed price on a floating cost and nearly lost his power company. He built an Australian mine that shipped about seven years late, at one-sixth of its planned size. He leased land in Myanmar from a company that later fell under US sanctions. His flagship paid $275 million to settle over Iranian-origin gas, without admitting the allegations. Each time the group was big enough to survive. You will not be, so learn from his costs, not his recoveries.",
+          "src": [
+            118,
+            41,
+            71,
+            148
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Dec 2020",
+              "text": "Fortune reaches $32.4 billion on Bloomberg.",
+              "src": [
+                32
+              ]
+            },
+            {
+              "when": "Jun 2021",
+              "text": "Reaches $77 billion, Business Today reports.",
+              "src": [
+                34
+              ]
+            },
+            {
+              "when": "2022",
+              "text": "Peaks near $150 billion.",
+              "src": [
+                159
+              ]
+            },
+            {
+              "when": "Feb 2023",
+              "text": "Group market value hits record low of $82 billion.",
+              "src": [
+                132
+              ]
+            },
+            {
+              "when": "Oct 2025",
+              "text": "Google names AdaniConneX a partner for its Vizag AI hub.",
+              "src": [
+                68
+              ]
+            },
+            {
+              "when": "Sep 2026",
+              "text": "Returns to No. 1 in India on Forbes at $112.7 billion.",
+              "src": [
+                158
+              ]
+            },
+            {
+              "when": "Oct 2026",
+              "text": "Bloomberg estimate near $109 billion.",
+              "src": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Own the thing beside the thing",
+          "text": "Every Adani business began by looking at what the last one needed. A port needs coal. Coal needs a plant. A plant needs wires. Wires need customers. If you are starting up, ask what your first customers must buy next, and whether you can be the one who sells it."
+        },
+        {
+          "t": "lesson",
+          "title": "Make your debt boring before it makes you famous",
+          "text": "Part of the fear in 2023 came from share-backed loans. Borrowed money makes your rise faster, and your fall faster too. If a lender can force you to sell at the worst moment, you do not fully control your own company."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Adani Group: Our Journey (official timeline)",
+      "url": "https://www.adani.com/about-us/our-journey"
+    },
+    {
+      "label": "Adani Enterprises: Growth Story timeline",
+      "url": "https://www.adanienterprises.com/about-us/timeline"
+    },
+    {
+      "label": "The Telegraph India: extract from R.N. Bhaskar, Gautam Adani: Reimagining Business in India and the World (4 Nov 2022)",
+      "url": "https://www.telegraphindia.com/culture/books/why-mundra-port-is-the-throbbing-heart-of-gautam-adanis-mega-ventures/cid/1896168"
+    },
+    {
+      "label": "Outlook Business, V Keshavdev: Gautam Adani (The Boss, 10 Jul 2015)",
+      "url": "https://www.outlookbusiness.com/specials/the-boss/gautam-adani-1237"
+    },
+    {
+      "label": "Outlook Business / PTI: Gautam Adani says regrets not completing college education (8 Jan 2023)",
+      "url": "https://www.outlookbusiness.com/news/gautam-adani-says-regrets-not-completing-college-education-news-251874"
+    },
+    {
+      "label": "ANI via LatestLY: Father's trading through oral commitments imbibed our power of trust, says Gautam Adani (9 Jan 2023)",
+      "url": "https://www.latestly.com/agency-news/business-news-fathers-trading-through-oral-commitments-imbibed-our-power-of-trust-says-gautam-adani-4688542.html"
+    },
+    {
+      "label": "Business Standard, Ranju Sarkar and Kalpesh Damor: Adani's gameplan for the big league (24 Aug 2010)",
+      "url": "https://www.business-standard.com/article/companies/adani-s-gameplan-for-the-big-league-110082400007_1.html"
+    },
+    {
+      "label": "The Times of India, Harit Mehta: Meet Gautam Adani (25 Sep 2022)",
+      "url": "https://timesofindia.indiatimes.com/times-special/meet-gautam-adani/articleshow/94426787.cms"
+    },
+    {
+      "label": "Adani Enterprises: Prospectus, public issue of NCDs (27 Aug 2024)",
+      "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Others/240827IgniteProspectus-Consolidated-filing-version.pdf"
+    },
+    {
+      "label": "Pocketful: Adani Enterprises company history (broker's compilation of filings; treated as a weaker source)",
+      "url": "https://www.pocketful.in/stocks/adani-enterprises-ltd/history"
+    },
+    {
+      "label": "Adani Enterprises: stock exchange disclosure and release on RRPR Holding and NDTV (23 Aug 2022)",
+      "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Corporate-Announcement/FY-2021-22-Announcements/FY-2022-23-Announcement/441-ACQOFRRPL23082022.pdf"
+    },
+    {
+      "label": "TIME, Jyoti Thottam: Raising India: Why More Infrastructure Isn't Enough (22 Nov 2010)",
+      "url": "https://time.com/archive/6597977/raising-india-why-more-infrastructure-isnt-enough/"
+    },
+    {
+      "label": "The Indian Express / PTI: Adani says got no special favours from Modi govt (27 Apr 2014)",
+      "url": "https://indianexpress.com/article/business/business-others/adani-says-got-no-special-favours-from-modi-govt/"
+    },
+    {
+      "label": "Business Standard, Jyoti Mukul: Can Adani hold on to his pole position in ports? (1 Oct 2015)",
+      "url": "https://www.business-standard.com/article/companies/can-adani-hold-on-to-his-pole-position-in-ports-115100100670_1.html"
+    },
+    {
+      "label": "Mundra Port and SEZ: IPO Prospectus, filed with SEBI (2007)",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/1291953481172.pdf"
+    },
+    {
+      "label": "Moneycontrol: Company history of Adani Ports and SEZ (reproducing prospectus milestones)",
+      "url": "https://www.moneycontrol.com/company-facts/mundraportspecialeconomiczone/history/MPS"
+    },
+    {
+      "label": "Mundra Port and SEZ: Annual Report 2007-08",
+      "url": "https://www.adaniports.com/-/media/project/ports/investor/investor-downloads/annual-report/ar-2008.pdf"
+    },
+    {
+      "label": "Adani Ports Integrated Annual Report 2025-26: overview page",
+      "url": "https://www.adaniports.com/digital-reports/ports/2026/driven-by-synergies.html"
+    },
+    {
+      "label": "Adani Ports media release: APSEZ completes acquisition of NQXT Australia (23 Dec 2025)",
+      "url": "https://www.adaniports.com/newsroom/media-releases/apsez-completes-acquisition-of-nqxt-australia"
+    },
+    {
+      "label": "Bloomberg Billionaires Index: Gautam Adani profile (last updated 31 Oct 2026)",
+      "url": "https://www.bloomberg.com/billionaires/profiles/gautam-s-adani/"
+    },
+    {
+      "label": "Wilmar International: History and Milestones",
+      "url": "https://www.wilmar-international.com/about-us/history-milestones"
+    },
+    {
+      "label": "Adani Wilmar: Red Herring Prospectus (19 Jan 2022)",
+      "url": "https://icicisecurities.com/Upload/ArticleAttachments/Adani%20Wilmar%20Limited_RHP.pdf"
+    },
+    {
+      "label": "Axis Capital IPO note on Adani Wilmar, hosted by Chittorgarh (2022)",
+      "url": "https://www.chittorgarh.net/reports/ipo_notes/adani-wilmar-ipo-note-axis-capital.pdf"
+    },
+    {
+      "label": "Business Today, Krishna Gopalan: Why Adani exited the FMCG joint venture (3 Jan 2025)",
+      "url": "https://www.businesstoday.in/latest/corporate/story/why-adani-exited-the-fmcg-joint-venture-adani-wilmar-459414-2025-01-03"
+    },
+    {
+      "label": "Reuters: India's Adani group to exit consumer goods joint venture with Wilmar (30 Dec 2024)",
+      "url": "https://www.reuters.com/world/india/indias-adani-group-exit-wilmar-joint-venture-2024-12-30/"
+    },
+    {
+      "label": "Adani Enterprises media release: AEL to exit Adani Wilmar JV (30 Dec 2024)",
+      "url": "https://www.adanienterprises.com/newsroom/media-releases/ael-to-exit-adani-wilmar-jv"
+    },
+    {
+      "label": "AWL Agri Business: About Us",
+      "url": "https://www.awl.in/about-us/"
+    },
+    {
+      "label": "Adani Power: Investor FAQs",
+      "url": "https://www.adanipower.com/investors/investor-faqs"
+    },
+    {
+      "label": "Scroll.in, M Rajshekhar: How Gujarat BJP government saved Adani Power's Mundra project from bankruptcy (6 Mar 2019)",
+      "url": "https://scroll.in/article/915109/adani-power-project-was-on-the-brink-of-bankruptcy-but-the-bjp-government-in-gujarat-saved-it"
+    },
+    {
+      "label": "Adani Portfolio: Result Snapshot FY26 compendium (Jun 2026)",
+      "url": "https://www.adanigreenenergy.com/-/media/project/greenenergy/investor-downloads/adani-portfolio-updates/adani-portfolio-fy26-results-compendium.pdf"
+    },
+    {
+      "label": "Reuters, Arpan Chaturvedi and Aditya Kalra: India seeks to restart stalled Adani coal imports probe (17 Nov 2023)",
+      "url": "https://www.reuters.com/world/india/india-seeks-restart-stalled-adani-coal-imports-probe-2023-11-17/"
+    },
+    {
+      "label": "The Indian Express, Jay Mazoomdaar: Coal over-invoicing case: 4 years on, DRI vs Adani in SC (13 Oct 2023)",
+      "url": "https://indianexpress.com/article/india/coal-over-invoicing-case-4-years-on-dri-vs-adani-in-sc-to-be-heard-with-jeweller-smuggling-case-8980648/"
+    },
+    {
+      "label": "Bloomberg via Business Standard: From being held to ransom to rivalling Ambani's fortunes (14 Dec 2020)",
+      "url": "https://www.business-standard.com/article/companies/from-being-held-to-ransom-to-rivalling-ambani-s-fortunes-adani-s-journey-120121400103_1.html"
+    },
+    {
+      "label": "TotalEnergies: Statement on its investments in India (3 Feb 2023)",
+      "url": "https://totalenergies.com/newsroom/totalenergies-statement-its-investments-india/?lang=eng"
+    },
+    {
+      "label": "Business Today, Nevin John: Adani's Valuation Binge (24 Jun 2021)",
+      "url": "https://www.businesstoday.in/magazine/corporate/story/adani-valuation-binge-299519-2021-06-24"
+    },
+    {
+      "label": "The Financial Express, Sandip Das: Pvt hand to modernise grain storage (24 Jul 2008)",
+      "url": "https://prelaunch.financialexpress.com/archive/pvt-hand-to-modernise-grain-storage/339553/"
+    },
+    {
+      "label": "Adani Ports media release: Adani Agri Logistics secures LoA from FCI for silo complexes (14 Oct 2022)",
+      "url": "https://www.adaniports.com/newsroom/media-releases/adani-agri-logistics-secures-loa-from-fci-for-silo-complexes"
+    },
+    {
+      "label": "Farm-Pik (Adani Agri Fresh): About Us",
+      "url": "https://www.farmpik.com/aboutus"
+    },
+    {
+      "label": "Pandey, Baker and Pandey: Supply Chain Re-engineering in the Fresh Produce Industry: A Case Study of Adani Agrifresh (2013)",
+      "url": "https://doi.org/10.22004/ag.econ.144676"
+    },
+    {
+      "label": "SP Tulsian: Adani Power IPO analysis of draft prospectus (13 May 2008)",
+      "url": "https://www.sptulsian.com/f/ipo-analysis/adani-power"
+    },
+    {
+      "label": "Adani Group media release: Adani Power completes the acquisition of 600 MW Vidarbha Power (8 Jul 2025)",
+      "url": "https://www.adani.com/newsroom/media-releases/adani-power-completes-the-acquisition-of-600-mw-vidarbha-power"
+    },
+    {
+      "label": "Reuters, Sonali Paul: India's Adani nears first coal shipment from shunned Australian mine (27 Dec 2021)",
+      "url": "https://www.reuters.com/markets/commodities/indias-adani-nears-first-coal-shipment-shunned-australian-mine-2021-12-27/"
+    },
+    {
+      "label": "The Conversation, Samantha Hepburn: Adani's new mini version of its mega mine still faces some big hurdles (3 Dec 2018)",
+      "url": "https://theconversation.com/adanis-new-mini-version-of-its-mega-mine-still-faces-some-big-hurdles-108038"
+    },
+    {
+      "label": "Bravus Mining and Resources: About (Adani's Australian company)",
+      "url": "https://www.bravus.com.au/about/"
+    },
+    {
+      "label": "IEEFA, Tim Buckley: Briefing Note on the Adani Group (Feb 2014)",
+      "url": "https://ieefa.org/wp-content/uploads/2014/02/Adani-Enterprises-Carmichael-Proposal-February-2014-Observations_IEEFA.pdf"
+    },
+    {
+      "label": "The Guardian, Jonathan Barrett: Despite $22bn promise, Adani has paid zero corporate tax in Australia (29 Jul 2025)",
+      "url": "https://www.theguardian.com/australia-news/2025/jul/29/adani-australia-corporate-tax-carmichael-coal-mine-abbot-point-queensland-ntwnfb"
+    },
+    {
+      "label": "Adani Ports: Acquisition of NQXT Australia, investor presentation (17 Apr 2025)",
+      "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Investor-Downloads/Investors-Presentation/Acquisition-of-NQXT-Australia-17042025.pdf"
+    },
+    {
+      "label": "Adani Energy Solutions: Timeline",
+      "url": "https://www.adanienergysolutions.com/about-us/timeline"
+    },
+    {
+      "label": "IEEFA: The Economic Case for Adani to Lead India's Domestic Energy Strategy (Nov 2020)",
+      "url": "https://ieefa.org/wp-content/uploads/2020/11/The-Economic-Case-for-Adani-To-Lead-Indias-Domestic-Energy-Strategy_November-2020.pdf"
+    },
+    {
+      "label": "Press Trust of India via Business Standard: RInfra completes Rs 18,800-cr Mumbai power biz sale to Adani (29 Aug 2018)",
+      "url": "https://www.business-standard.com/article/pti-stories/rinfra-completes-rs-18-800-cr-mumbai-power-biz-sale-to-adani-118082900980_1.html"
+    },
+    {
+      "label": "Adani Energy Solutions: Q4 FY26 operational highlights",
+      "url": "https://www.adanienergysolutions.com/-/media/project/transmission/investor/documents/quarterly-operational-highlights/aesl_q4fy26_provisional-operational-highlights_vf.pdf"
+    },
+    {
+      "label": "TotalEnergies press release: Total to acquire 20 percent of AGEL (18 Jan 2021)",
+      "url": "https://totalenergies.com/newsroom/total-to-acquire-20-percent-of-agel-the-largest-solar-developer-in-the-world/?lang=eng"
+    },
+    {
+      "label": "Adani Green Energy media release: Delivers on 5 GW commitment in FY26 (1 Apr 2026)",
+      "url": "https://www.adanigreenenergy.com/newsroom/media-releases/adani-green-energy-delivers-on-5-gw-commitment-in-fy26"
+    },
+    {
+      "label": "US Securities and Exchange Commission: SEC charges three senior executives (press release 2024-181, 20 Nov 2024; allegations)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-181"
+    },
+    {
+      "label": "The Economic Times: No fresh funds into Adani firms till clarity on accusations: TotalEnergies (25 Nov 2024)",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/no-fresh-funds-into-adani-firms-till-clarity-on-accusations-totalenergies/articleshow/115669729.cms"
+    },
+    {
+      "label": "Adani Group media release: Adani Portfolio reports highest ever capex by any Indian corporate (2 Jun 2026)",
+      "url": "https://www.adani.com/newsroom/media-releases/adani-portfolio-reports-highest-ever-capex-by-any-indian-corporate"
+    },
+    {
+      "label": "Adani Portfolio: Credit Update Q3 FY26 (Feb 2026)",
+      "url": "https://www.adani.com/-/media/project/adaniv1/investors/compendium/2026/q3/adani-portfolio-q3fy26-credit-summary-v1.pdf"
+    },
+    {
+      "label": "Business Standard, Dev Chatterjee: Bain to buy 90% stake in Adani Capital and Adani Housing for Rs 1,440 cr (23 Jul 2023)",
+      "url": "https://www.business-standard.com/companies/news/bain-to-buy-90-stake-in-adani-capital-and-adani-housing-for-rs-1-600-cr-123072300469_1.html"
+    },
+    {
+      "label": "Reuters: Bain to buy 90% stake in Adani Capital and Adani Housing (23 Jul 2023)",
+      "url": "https://www.reuters.com/markets/deals/bain-buy-90-stake-adani-capital-adani-housing-2023-07-23/"
+    },
+    {
+      "label": "Business Standard, Dev Chatterjee: Adani group pulls out of M&As; plans to focus on debt prepayments (2 Jun 2023)",
+      "url": "https://www.business-standard.com/companies/news/adani-group-pulls-out-of-m-as-plans-to-focus-on-debt-prepayments-123060200842_1.html"
+    },
+    {
+      "label": "The Federal, Sindhu Bhattacharya: Under Hindenburg cloud, questions rise on Adani's 6 airport deals (11 Feb 2023)",
+      "url": "https://thefederal.com/business/under-hindenburg-cloud-questions-rise-on-adanis-6-airport-deals"
+    },
+    {
+      "label": "Moneycontrol, Piyush Pandey: Ports, power, renewables and now airports (3 Sep 2020)",
+      "url": "https://www.moneycontrol.com/news/business/ports-power-renewables-and-now-airports-adani-groups-big-bold-infrastructure-bets-5794621.html"
+    },
+    {
+      "label": "The Hindu BusinessLine, Forum Gandhi: Adani takes over MIAL, Navi Mumbai airports after a 2-year tussle with GVK (31 Aug 2020)",
+      "url": "https://www.thehindubusinessline.com/companies/gvk-in-deal-with-adani-group-for-mumbai-international-airport/article32484211.ece"
+    },
+    {
+      "label": "The Economic Times: Adani takes over Mumbai International Airport (13 Jul 2021)",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/adani-takes-over-mumbai-international-airport-becomes-indias-largest-airport-operator/articleshow/84380504.cms"
+    },
+    {
+      "label": "Adani Enterprises media release: AAHL takes control of Mumbai International Airport (13 Jul 2021)",
+      "url": "https://www.adanienterprises.com/newsroom/media-releases/aahl-takes-control-of-mumbai-international-airport"
+    },
+    {
+      "label": "The Times of India: Navi Mumbai International Airport begins operations (25 Dec 2025)",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/navi-mumbai-international-airport-begins-operations-48-flights-4k-passengers-on-day-one-first-indigo-flight-lands-from-bengaluru/articleshow/126175619.cms"
+    },
+    {
+      "label": "News On AIR: PM Modi unveils Rs 19,650 crore Navi Mumbai airport (8 Oct 2025)",
+      "url": "https://newsonair.gov.in/pm-modi-unveils-%E2%82%B919650-cr-navi-mumbai-airport-a-new-milestone-in-indias-aviation-sector/"
+    },
+    {
+      "label": "Adani Enterprises media release: AdaniConneX, a new data center joint venture (23 Feb 2021)",
+      "url": "https://www.adanienterprises.com/newsroom/media-releases/adaniconnex-a-new-data-center-joint-venture-formed-between-adani-enterprises-and-edgeconnex"
+    },
+    {
+      "label": "Adani Group media release: Adani and Google partner to build India's largest data centre campus in Visakhapatnam (14 Oct 2025)",
+      "url": "https://www.adani.com/newsroom/media-releases/adani-and-google-partner-to-build-indias-largest-data-centre-campus-in-visakhapatnam"
+    },
+    {
+      "label": "Adani Group media release: Adani commits USD 100 Bn to sovereign AI infrastructure (17 Feb 2026)",
+      "url": "https://www.adani.com/newsroom/media-releases/adani-commits-usd-100-bn-to-sovereign-ai-infrastructure"
+    },
+    {
+      "label": "CNBC, Sam Meredith: India's Adani to invest $100 billion in AI data centers by 2035 (17 Feb 2026)",
+      "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html"
+    },
+    {
+      "label": "Mint: US sanctions see Adani exit Myanmar port with $120 mn hit (4 May 2023)",
+      "url": "https://www.livemint.com/companies/news/adani-group-s-apsez-takes-120m-hit-as-it-sells-myanmar-port-project-for-30m-following-us-sanctions-on-mec-11683219364578.html"
+    },
+    {
+      "label": "ETInfra, P Manoj: Adani Ports sells $150 million Myanmar terminal for $30 million (4 May 2023)",
+      "url": "https://infra.economictimes.indiatimes.com/news/ports-shipping/adani-ports-sells-150-million-myanmar-terminal-for-30-million/99982320"
+    },
+    {
+      "label": "Reuters: India's Adani Ports sells Myanmar port for a discounted $30 million (4 May 2023)",
+      "url": "https://www.reuters.com/business/indias-adani-ports-completes-myanmar-port-sale-30-mln-2023-05-04/?taid=64536614e664fc000164f1dc"
+    },
+    {
+      "label": "Adani Ports: FY23 press release and investor presentation",
+      "url": "https://www.adaniports.com/-/media/project/ports/investor/investor-downloads/operational-highlights/press-release-and-investor-presentation.pdf"
+    },
+    {
+      "label": "ESPNcricinfo, Nagraj Gollapudi: Breaking down the WPL auction (25 Jan 2023)",
+      "url": "https://www.cricinfo.com/story/wpl-breaking-down-the-bids-for-women-s-ipl-1355887"
+    },
+    {
+      "label": "ESPNcricinfo, Vishal Dikshit: Who are the two new WPL team owners? (25 Jan 2023)",
+      "url": "https://www.espncricinfo.com/story/who-are-the-two-new-wpl-team-owners-adani-sportsline-and-capri-global-1355869"
+    },
+    {
+      "label": "Reuters: Adani to become India's No. 2 cement maker with $10.5 billion Holcim deal (16 May 2022)",
+      "url": "https://www.reuters.com/business/adani-group-acquire-holcims-india-business-639-billion-2022-05-15/"
+    },
+    {
+      "label": "Latham and Watkins: Latham advises Adani on financing and completed acquisition of Ambuja Cements and ACC (20 Sep 2022)",
+      "url": "https://www.lw.com/en/news/2022/09/latham-advises-adani-financing-and-completed-acquisition-of-ambuja-cements-and-acc"
+    },
+    {
+      "label": "The Hindu / PTI: Adani names son Karan to run cement firms; injects Rs 20,000 crore in Ambuja Cement (16 Sep 2022)",
+      "url": "https://www.thehindu.com/business/Industry/adani-completes-acquisition-of-ambuja-cements-and-acc/article65899080.ece"
+    },
+    {
+      "label": "Mint: Adanis bring in $3bn as promoter equity for the Holcim deal (16 May 2022)",
+      "url": "https://www.livemint.com/companies/news/adanis-to-infuse-3-bn-in-equity-to-fund-holcim-deal-11652726184072.html"
+    },
+    {
+      "label": "Business Standard, Dev Chatterjee: Adani raises $5.25 bn from global banks to fund acquisition of Ambuja, ACC (31 Jul 2022)",
+      "url": "https://www.business-standard.com/article/companies/adani-raises-5-25-bn-from-global-banks-to-acquire-ambuja-cements-acc-122073100635_1.html"
+    },
+    {
+      "label": "ACC Limited: Investor presentation (30 Jan 2026)",
+      "url": "https://nsearchives.nseindia.com/corporate/ACC_1_30012026150406_ACC_Investor_Presentation.pdf"
+    },
+    {
+      "label": "Adani Group media release: Ambuja Cements board approves amalgamation of ACC and Orient Cement (22 Dec 2025)",
+      "url": "https://www.adani.com/newsroom/media-releases/ambuja-cements-limited-board-approves-amalgamation-of-acc-limited-and-orient-cement-limited"
+    },
+    {
+      "label": "Forbes: Gautam Adani and family, 2026 India's Richest profile (as of 30 Sep 2026)",
+      "url": "https://www.forbes.com/profile/gautam-adani/"
+    },
+    {
+      "label": "Reuters, M Sriram: Explainer: The bitter takeover battle between India's Adani and news network NDTV (24 Aug 2022)",
+      "url": "https://www.reuters.com/business/media-telecom/how-indias-adani-group-moved-stealthily-acquire-ndtv-stake-2022-08-24/"
+    },
+    {
+      "label": "The Hindu, Prashanth Perumal J: Explained: What's next on Adani's proposal to acquire NDTV? (27 Aug 2022)",
+      "url": "https://www.thehindu.com/news/national/explained-whats-next-on-adanis-proposal-to-acquire-ndtv/article65818500.ece"
+    },
+    {
+      "label": "Reuters: Billionaire Adani to control nearly 65% of NDTV as founders sell (23 Dec 2022)",
+      "url": "https://www.reuters.com/business/media-telecom/indias-ndtv-founders-transfer-most-their-stake-adani-2022-12-23/"
+    },
+    {
+      "label": "The Indian Express, George Mathew and Sandeep Singh: Adani's open offer route to take control of NDTV (26 Nov 2022)",
+      "url": "https://indianexpress.com/article/explained/explained-economics/adani-group-ndtv-takeover-open-offer-roys-8291086/"
+    },
+    {
+      "label": "Press Trust of India via Business Standard: Adani firms make open offer for acquiring 26% stake in NDTV (23 Aug 2022)",
+      "url": "https://www.business-standard.com/article/companies/adani-firms-make-open-offer-for-26-stake-in-ndtv-122082300923_1.html"
+    },
+    {
+      "label": "Reuters, Ari Rabinovitch and Jonathan Saul: Israel sells Haifa Port to India's Adani Ports, Israel's Gadot for $1.2 bln (14 Jul 2022)",
+      "url": "https://www.reuters.com/business/indias-adani-ports-israels-gadot-buy-haifa-port-israels-finmin-2022-07-14/"
+    },
+    {
+      "label": "Adani Ports: Acquisition of Haifa Port Company, investor meet presentation (29 Jul 2022)",
+      "url": "https://www.adaniports.com/-/media/Project/Ports/Investor/Investor-Downloads/Investors-Presentation/Investor-Meet-29-7-2022.pdf"
+    },
+    {
+      "label": "Reuters: Adani Ports withdraws DFC funding request for Colombo port project (10 Dec 2024)",
+      "url": "https://www.reuters.com/business/finance/adani-ports-withdraws-dfc-funding-request-colombo-port-project-2024-12-10/"
+    },
+    {
+      "label": "Adani Ports: media releases list (Adani's Colombo Terminal commences operations, 7 Apr 2025)",
+      "url": "https://www.adaniports.com/newsroom/media-releases"
+    },
+    {
+      "label": "Adani Ports: Q1 FY26 earnings call transcript",
+      "url": "https://www.adaniports.com/-/media/project/ports/investor/transcripts/q1-fy26-call-transcript.pdf"
+    },
+    {
+      "label": "Reuters, Ruma Paul: India's Adani Power cuts Bangladesh supply by over 60% on payment dispute (8 Nov 2024)",
+      "url": "https://www.reuters.com/business/energy/indias-adani-power-cuts-bangladesh-supply-by-over-60-payment-dispute-2024-11-08/"
+    },
+    {
+      "label": "Reuters, Krishna N. Das: Adani, under bribery scrutiny, pressed by Bangladesh to reopen power deal (19 Dec 2024)",
+      "url": "https://www.reuters.com/business/energy/adani-under-bribery-scrutiny-pressed-by-bangladesh-reopen-power-deal-2024-12-19/"
+    },
+    {
+      "label": "Reuters: Bangladesh court halts arbitration with India's Adani Power over dues (19 Nov 2025)",
+      "url": "https://www.reuters.com/world/asia-pacific/bangladesh-court-halts-arbitration-with-indias-adani-power-over-dues-2025-11-19/"
+    },
+    {
+      "label": "The Economic Times: Bangladesh resolves Adani's power purchase pact, payment concerns (1 Jul 2025)",
+      "url": "https://economictimes.indiatimes.com/industry/energy/power/bangladesh-resolves-adanis-power-purchase-pact-payment-concerns/articleshow/122182478.cms"
+    },
+    {
+      "label": "The Hindu, Sonam Saigal: Adani Group wins Dharavi redevelopment project with Rs 5,069 crore bid (29 Nov 2022)",
+      "url": "https://www.thehindu.com/news/cities/mumbai/adani-group-wins-dharavi-redevelopment-project-with-5069-crore-bid/article66199979.ece"
+    },
+    {
+      "label": "The Hindu / PTI: Adani Group suspends work on Rs 34,900 cr petchem project (19 Mar 2023)",
+      "url": "https://www.thehindu.com/business/Industry/hindenburg-fallout-adani-group-suspends-work-on-34900-cr-petchem-project/article66638077.ece"
+    },
+    {
+      "label": "Bloomberg via Business Standard: Adani group pulls back on grand ambitions after the Hindenburg bombshell (30 Mar 2023)",
+      "url": "https://www.business-standard.com/companies/news/adani-group-to-pull-out-from-petrochemicals-after-hindenburg-bombshell-123033000110_1.html"
+    },
+    {
+      "label": "The Economic Times, Veer Sharma: Adani group stocks jump up to 3% (29 Oct 2026)",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-jump-up-to-3-add-rs-23000-crore-to-total-m-cap-whats-behind-the-surge/articleshow/135293658.cms"
+    },
+    {
+      "label": "DT Next / PTI: Adani Power's Rs 7K cr deal to buy DB Power assets falls through (16 Feb 2023)",
+      "url": "https://www.dtnext.in/news/business/adani-powers-7k-cr-deal-to-buy-db-power-assets-falls-through"
+    },
+    {
+      "label": "The Indian Express, Soumyarendra Barik: Why Adani group is transferring 5G spectrum to Airtel (23 Apr 2025)",
+      "url": "https://indianexpress.com/article/business/adani-group-5g-spectrum-airtel-telecom-ambitions-9960586/"
+    },
+    {
+      "label": "Reuters: India's Airtel to buy 5G spectrum from Adani (22 Apr 2025)",
+      "url": "https://www.reuters.com/world/india/indias-airtel-buy-5g-spectrum-adani-2025-04-22/"
+    },
+    {
+      "label": "Bloomberg, Anto Antony and P R Sanjai: Adani retreats from super app ambitions as digital unit falters (23 Jul 2025)",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/adani-pulls-back-from-super-app-plan-as-losses-mount-fires-executives"
+    },
+    {
+      "label": "BizTrapper: Adani Group halts super app project, summarising Bloomberg's report (24 Jul 2025; weaker source, used only with Bloomberg)",
+      "url": "https://biztrapper.com/news/adani-group-halts-super-app-project-after-heavy-losses-and-internal-mismanagement-probe-report-662"
+    },
+    {
+      "label": "Adani Enterprises media release: Adani's copper unit in Mundra begins operations (28 Mar 2024)",
+      "url": "https://www.adanienterprises.com/newsroom/media-releases/adanis-copper-unit-in-mundra-begins-operations"
+    },
+    {
+      "label": "Bloomberg, Julian Luk and Archie Hunter: India's new copper plant finally starts amid ore shortage (18 Jun 2025)",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-18/india-s-new-copper-plant-finally-starts-amid-acute-ore-shortage"
+    },
+    {
+      "label": "The Indian Express / PTI: Adani commences phase-1 operations at $1.2-billion copper plant in Mundra (29 Mar 2024)",
+      "url": "https://indianexpress.com/article/india/adani-commences-phase-1-operations-at-1-2-billion-copper-plant-in-mundra-9239107/"
+    },
+    {
+      "label": "Reuters, George Obulutsa and Aaron Ross: Kenya drops over $2.5 billion of Adani deals after US indictment (21 Nov 2024)",
+      "url": "https://www.reuters.com/markets/deals/kenya-cancels-proposed-deals-with-adani-group-2024-11-21/"
+    },
+    {
+      "label": "Reuters, Uditha Jayasinghe: India's Adani to pull out of Sri Lanka wind power projects (13 Feb 2025)",
+      "url": "https://www.reuters.com/sustainability/climate-energy/indias-adani-says-withdraw-wind-power-projects-sri-lanka-2025-02-13/"
+    },
+    {
+      "label": "The Indian Express, George Mathew: Vedanta challenges NCLT nod to Adani's bid to acquire Jaiprakash Associates (23 Mar 2026)",
+      "url": "https://indianexpress.com/article/business/vedanta-challenges-nclt-nod-to-adanis-bid-to-acquire-jaiprakash-associates-10595762/"
+    },
+    {
+      "label": "India.com / IANS: Gautam Adani denies allegations of receiving land at Re 1 from Gujarat Chief Minister Narendra Modi (29 Apr 2014)",
+      "url": "https://www.india.com/business/gautam-adani-denies-allegations-of-receiving-land-at-re1-from-gujarat-chief-minister-narendra-modi-47063/"
+    },
+    {
+      "label": "The Indian Express: Two accused of abducting Gautam Adani 20 years ago acquitted (1 Dec 2018)",
+      "url": "https://indianexpress.com/article/cities/ahmedabad/two-accused-of-abducting-gautam-adani-20-years-ago-acquitted-5473592/"
+    },
+    {
+      "label": "NDTV / PTI: Gujarat court acquits two in 1998 kidnapping of industrialist Gautam Adani (1 Dec 2018)",
+      "url": "https://www.ndtv.com/india-news/gujarat-court-acquits-two-in-1998-kidnapping-of-industrialist-gautam-adani-1956529"
+    },
+    {
+      "label": "The Economic Times, Samanwaya Rautray: Tata, Adani can't charge compensatory tariff: Supreme Court (Apr 2017)",
+      "url": "https://economictimes.indiatimes.com/industry/energy/power/tata-adani-cant-charge-compensatory-tariff-supreme-court/articleshow/58135620.cms"
+    },
+    {
+      "label": "CARE Ratings: Adani Power rating rationale (16 Jun 2017)",
+      "url": "https://www.careratings.com/upload/CompanyFiles/PR/Adani%20Power%20Ltd.-06-16-2017.pdf"
+    },
+    {
+      "label": "The Hindu BusinessLine: Adani Power losses widen to Rs 516 cr for Q1 (10 Aug 2017)",
+      "url": "https://www.thehindubusinessline.com/companies/adani-power-losses-widen-to-rs-516-cr-for-q1/article9810521.ece"
+    },
+    {
+      "label": "Business Standard: Adani Power Mundra likely to approach NCLT for bankruptcy protection (1 Jun 2018)",
+      "url": "https://www.business-standard.com/article/companies/adani-power-mundra-likely-to-approach-nclt-for-bankruptcy-protection-118053101541_1.html"
+    },
+    {
+      "label": "The Indian Express, Anupam Chatterjee: Supreme Court provides relief to three Gujarat power plants (30 Oct 2018)",
+      "url": "https://indianexpress.com/article/business/supreme-court-provides-relief-to-three-gujarat-power-plants-5424431/"
+    },
+    {
+      "label": "Supreme Court of India, Digital Supreme Court Reports: judgment on Adani Power's termination of a Gujarat power purchase agreement",
+      "url": "https://digiscr.sci.gov.in/view_judgment?id=MTQxOTk="
+    },
+    {
+      "label": "The Hindu BusinessLine: Promoters withdraw Adani Power's delisting offer (17 Sep 2022)",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/promoters-withdraw-adani-powers-delisting-offer/article65902194.ece"
+    },
+    {
+      "label": "CNBC-TV18 / PTI: Adani Power board approves delisting (22 Jun 2020)",
+      "url": "https://www.cnbctv18.com/market/stocks/adani-power-board-approves-delisting-from-bse-nse-6181661.htm"
+    },
+    {
+      "label": "Adani Power: investor presentation (Jun 2025, via Business Standard filings)",
+      "url": "https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/09062025/7985662e-ff7a-41ac-9614-508ed8973794.pdf"
+    },
+    {
+      "label": "Hindenburg Research: Adani Group: How The World's 3rd Richest Man Is Pulling The Largest Con In Corporate History (24 Jan 2023; allegations, denied by the group)",
+      "url": "https://hindenburgresearch.com/adani/"
+    },
+    {
+      "label": "CNBC-TV18: Timeline: A look at the turn of events at Adani Enterprises (2 Feb 2023)",
+      "url": "https://www.cnbctv18.com/market/stocks/adani-enterprises-fpo-called-off-timeline-with-hindenburg-row-15828411.htm"
+    },
+    {
+      "label": "Reuters, Lisa Pauline Mattackal: Hindenburg's short bets that shook markets (16 Jan 2025)",
+      "url": "https://www.reuters.com/business/hindenburgs-short-bets-that-shook-markets-2025-01-16/"
+    },
+    {
+      "label": "Reuters: India's Adani slammed by $48 bln stock rout, putting share sale at risk (27 Jan 2023)",
+      "url": "https://www.reuters.com/business/indias-adani-kicks-off-245-bln-share-sale-while-under-short-seller-attack-2023-01-27/"
+    },
+    {
+      "label": "The Indian Express, Soumyarendra Barik: Adani Group calls off FPO: What exactly is happening? (1 Feb 2023)",
+      "url": "https://indianexpress.com/article/explained/explained-economics/adani-group-calls-off-fpo-to-return-money-to-investors-what-exactly-has-happened-8418613/"
+    },
+    {
+      "label": "AP News, Sheikh Saaliq and Krutika Pathi: India's Adani scraps $2.5B share sale after fraud claims (2 Feb 2023)",
+      "url": "https://apnews.com/article/india-business-fraud-ed5912fe32fd98263a93dbd604452bb8"
+    },
+    {
+      "label": "Bloomberg via Business Standard: A year after Hindenburg saga, Adani biz emerges fundamentally stronger (22 Jan 2024)",
+      "url": "https://www.business-standard.com/companies/news/a-year-after-hindenburg-saga-adani-biz-emerges-fundamentally-stronger-124012200051_1.html"
+    },
+    {
+      "label": "The Times of India, Partha Sinha: Hindenburg, which dealt Adani a $140bn m-cap blow, to disband (17 Jan 2025)",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/hindenburg-which-dealt-adani-a-140bn-m-cap-blow-to-disband/articleshow/117313260.cms"
+    },
+    {
+      "label": "Reuters via Business Recorder: India regulator still reviewing more than a dozen allegations against Adani, sources say (19 Sep 2025)",
+      "url": "https://www.brecorder.com/news/40383595"
+    },
+    {
+      "label": "Reuters, Aftab Ahmed: Adani's market losses top $100 bln as crisis shockwaves spread (2 Feb 2023)",
+      "url": "https://www.reuters.com/world/india/adani-group-chairman-says-withdrew-share-sale-insulate-investors-losses-2023-02-02/"
+    },
+    {
+      "label": "The Financial Express: Value of GQG investment in 4 Adani firms zooms 49% since March 3 (23 May 2023)",
+      "url": "https://www.financialexpress.com/market/value-of-gqg-investment-in-4-adani-firms-zooms-49-since-march-3-3097889/"
+    },
+    {
+      "label": "Mint, Alka Jain: SC says petitions lack adequate research: chronology of Adani saga (3 Jan 2024)",
+      "url": "https://www.livemint.com/news/india/adanihindenburg-verdict-sc-says-petitions-lack-adequate-research-chronology-of-adani-saga-11704258204630.html"
+    },
+    {
+      "label": "Business Standard, Khushboo Tiwari: Sebi gives Adani group clean chit, dismisses Hindenburg allegations (18 Sep 2025)",
+      "url": "https://www.business-standard.com/markets/news/sebi-clears-adani-group-dismisses-hindenburg-allegations-125091801259_1.html"
+    },
+    {
+      "label": "The Hindu / PTI: SEBI drops shareholding case against Vinod Adani, finds no proof he controlled offshore funds (29 Sep 2026)",
+      "url": "https://www.thehindu.com/business/sebi-drops-shareholding-case-against-vinod-adani-finds-no-proof-he-controlled-offshore-funds/article71523152.ece"
+    },
+    {
+      "label": "The Times of India, Trisha Mahajan: Gautam Adani, 4 group firms settle with Sebi in minimum public shareholding case (28 Sep 2026)",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gautam-adani-4-group-firms-settle-with-sebi-in-minimum-public-shareholding-violation-case/articleshow/134547086.cms"
+    },
+    {
+      "label": "SEBI: Final order in the matter of Adani Group Companies for alleged MPS violation (28 Sep 2026)",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/ORDER_1790584774.pdf"
+    },
+    {
+      "label": "SEBI: Settlement order in the matter of Adani Group Companies (28 Sep 2026)",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1790605373798.pdf"
+    },
+    {
+      "label": "US Attorney's Office, Eastern District of New York: Billionaire chairman of conglomerate and seven others indicted (20 Nov 2024; allegations)",
+      "url": "https://www.justice.gov/usao-edny/pr/billionaire-chairman-conglomerate-and-seven-other-senior-business-executives-indicted"
+    },
+    {
+      "label": "Reuters, Luc Cohen and Jonathan Stempel: Billionaire Gautam Adani charged in US with bribery, fraud (20 Nov 2024)",
+      "url": "https://www.reuters.com/legal/chair-indias-adani-group-indicted-united-states-2024-11-20/"
+    },
+    {
+      "label": "LiveLaw Business, Kirit Singhania: US court dismisses criminal charges against Gautam and Sagar Adani, raises concerns over DOJ process (11 Aug 2026)",
+      "url": "https://www.livelawbiz.com/top-stories/us-court-partly-allows-dojs-decision-to-drop-265-million-bribery-case-against-gautam-adani-reserves-decision-on-fcpa-charges-545219"
+    },
+    {
+      "label": "Michael Volkov, Corruption, Crime and Compliance: DOJ takes the Adani dismissal fight to the Second Circuit (21 Oct 2026)",
+      "url": "https://blog.volkovlaw.com/2026/10/when-the-government-wants-out-and-the-judge-wants-answers-doj-takes-the-adani-dismissal-fight-to-the-second-circuit/"
+    },
+    {
+      "label": "Reuters, America Hernandez: TotalEnergies pauses business with Adani (25 Nov 2024)",
+      "url": "https://www.reuters.com/business/energy/totalenergies-says-it-will-make-no-new-financial-contribution-adani-group-2024-11-25/"
+    },
+    {
+      "label": "US Treasury, OFAC: Enforcement release: Adani Enterprises Limited settles for $275,000,000 (18 May 2026)",
+      "url": "https://ofac.treasury.gov/system/files/2026-05/20260518_ael.pdf"
+    },
+    {
+      "label": "US Treasury, OFAC: Settlement agreement with Adani Enterprises Limited (May 2026)",
+      "url": "https://ofac.treasury.gov/media/935636/download?inline="
+    },
+    {
+      "label": "Adani Enterprises: stock exchange disclosure on OFAC settlement (May 2026)",
+      "url": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Corporate-Announcement/AELSEIntimationReg30OFACDisclosure.pdf"
+    },
+    {
+      "label": "Reuters, Dan Rosenzweig-Ziff and Andrew Goudsward: US Justice Dept close to dropping charges against Gautam Adani (14 May 2026)",
+      "url": "https://www.reuters.com/legal/government/us-authorities-move-resolve-fraud-cases-against-indias-adani-bloomberg-news-2026-05-14/"
+    },
+    {
+      "label": "The Economic Times: US court dismisses criminal charges against Gautam Adani, Sagar Adani, Vneet Jaain (11 Aug 2026)",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/us-court-dismisses-criminal-charges-against-gautam-adani-sagar-adani-vneet-jaain-over-alleged-solar-bribery-scheme/articleshow/133140496.cms"
+    },
+    {
+      "label": "Hindustan Times, Shashank Mattoo: US court ends all criminal charges against Gautam Adani, Sagar Adani and Vneet Jaain (10 Aug 2026)",
+      "url": "https://www.hindustantimes.com/world-news/us-news/us-judge-dismisses-criminal-case-against-indian-billionaire-gautam-adani-101786391925041.html"
+    },
+    {
+      "label": "Reuters, Luc Cohen: US judge dismisses criminal case against Indian billionaire Adani (10 Aug 2026)",
+      "url": "https://www.reuters.com/legal/government/us-judge-dismisses-criminal-case-against-indian-billionaire-adani-2026-08-10/"
+    },
+    {
+      "label": "US District Court, E.D.N.Y.: Memorandum and Order, USA v. Adani et al, 24-cr-433 (10 Aug 2026, GovInfo)",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-nyed-1_24-cr-00433/USCOURTS-nyed-1_24-cr-00433-2"
+    },
+    {
+      "label": "The Wire: US judge denies DOJ bid to drop bribery charges against Gautam Adani's co-defendants (5 Sep 2026)",
+      "url": "https://thewire.in/law/us-judge-gautam-adani-bribery-charges-co-defendants-india-claim"
+    },
+    {
+      "label": "Forbes: Gautam Adani real-time profile (uri gautam-adani-1, as of 1 Nov 2026)",
+      "url": "https://www.forbes.com/profile/gautam-adani-1/"
+    },
+    {
+      "label": "Forbes press release: Gautam Adani returns to the No. 1 spot on Forbes list of India's 100 richest (30 Sep 2026)",
+      "url": "https://www.forbes.com/sites/forbespr/2026/09/30/gautam-adani-returns-to-the-no-1-spot-on-forbes-list-of-indias-100-richest/"
+    },
+    {
+      "label": "The Financial Express: Adani reclaims India's richest spot after 3 years despite $37 bn drop from his peak (1 Oct 2026)",
+      "url": "https://www.financialexpress.com/business/news/adani-reclaims-indias-richest-spot-after-3-years-despite-37-bn-drop-from-his-peak/4351245/"
+    },
+    {
+      "label": "Value Research: Adani Enterprises shareholding pattern (Sep 2026 quarter)",
+      "url": "https://www.valueresearchonline.com/stocks/40886/adani-enterprises-ltd/shareholding/"
+    },
+    {
+      "label": "Adani Enterprises media release: Announces 9M FY26 results (3 Feb 2026)",
+      "url": "https://www.adanienterprises.com/newsroom/media-releases/adani-enterprises-ltd-announces-9m-fy26-results"
+    },
+    {
+      "label": "Adani Enterprises Integrated Annual Report 2025-26: Adani Portfolio of Companies",
+      "url": "https://www.adanienterprises.com/digital-reports/enterprises/2026/adani-portfolio-of-companies.html"
+    }
+  ],
+  "factCheck": {
+    "method": "Built from primary documents wherever they could be opened: the Mundra Port 2007 prospectus filed with SEBI, Adani Enterprises' 2024 prospectus, SEBI's September 2025 and September 2026 orders, the US Justice Department and SEC releases of November 2024, the OFAC enforcement release and settlement agreement of May 2026, the Eastern District of New York order of 10 August 2026 as listed on GovInfo, company annual reports, investor decks and FY26 results. These were cross-checked against established press: Reuters, Bloomberg (often via Business Standard), TIME, The Times of India, The Economic Times, Business Standard, Mint, The Hindu, The Indian Express, The Hindu BusinessLine, Business Today and AP. Scene-level stories come from Outlook Business's 2015 profile (named executives on the record) and an authorised extract of R.N. Bhaskar's 2022 biography in The Telegraph; these are friendly witnesses and are flagged as such in the text. Company figures are labelled as the company's own. Wikipedia and social posts were used only as leads and are never cited. Pocketful's company history is a broker's compilation of filings: it is labelled as such in the text and used only for early details we could not find elsewhere. BizTrapper is used only as a summary of a paywalled Bloomberg report. Some Reuters and Bloomberg pages could be read only as headlines plus summaries or search excerpts; quotes from those pages are only what those excerpts show. All US and SEBI matters are described with their outcomes as of our last reading (21 October 2026 for the US co-defendant appeal). Share prices and fortunes are as of the dates given, up to 1 November 2026.",
+    "disputed": [
+      {
+        "claim": "Gautam Adani net worth in autumn 2026",
+        "note": "Forbes real-time page (uri gautam-adani-1): $77.7B on 1 Nov 2026. Forbes India Richest list (\"& family\"): $112.7B on 30 Sep 2026. Bloomberg: $109B on 31 Oct 2026. Hurun India (as reported by Financial Express): about $96B in Sep 2026. We show all four and say they use different dates and scope. We cannot fully explain why Forbes real-time differs so much from its own list."
+      },
+      {
+        "claim": "Bloomberg stake values vs other estimates",
+        "note": "Bloomberg lists Ambuja Cements at $1.75B, while an estimate built from exchange data (311 Institute, not cited) values the promoter stake near $6.3B. We do not know the reason; Bloomberg may net off debt. We quote Bloomberg as Bloomberg. The parts we could read also add up to more than its $109B headline."
+      },
+      {
+        "claim": "What Adani paid for land at Mundra",
+        "note": "TIME (2010): $11,000 in 1993, leaving 4,500 acres. Adani (2014, PTI): 10 paise per square metre in 1993. 4,500 acres is about 18.2 million square metres, which at 10 paise is about ₹18 lakh, which looks like more than $11,000 at 1990s exchange rates. Land was bought in stages, so the figures may refer to different parcels. Both are shown with attribution."
+      },
+      {
+        "claim": "Year he returned to the family plastics business",
+        "note": "Business Standard (2010): 1980. Outlook Business (2015): 1982. Part 1 of this book uses 1982; so do we."
+      },
+      {
+        "claim": "Starting capital of Adani Exports",
+        "note": "Wikipedia says ₹5 lakh, but we could not trace that to a source we could open. The text says the figure could not be confirmed."
+      },
+      {
+        "claim": "Size of the 1994 IPO",
+        "note": "The ₹150 price and 25x subscription come from the company. The 12.5 lakh share count comes only from Pocketful. The ₹19 crore total is our arithmetic and is not a published figure."
+      },
+      {
+        "claim": "Mundra Port IPO proceeds",
+        "note": "SEBI prospectus: ₹1,771 crore at ₹440. Business Standard (2010) says ₹1,700 crore. Business Standard (2015) says ₹402 crore, which appears to confuse the 4.025 crore share count. We use the prospectus."
+      },
+      {
+        "claim": "When operations began at Mundra",
+        "note": "Group timeline has a 1995 entry for the port and an Adani Enterprises timeline says \"commenced operations\" in 1995. Prospectus history: berths operational October 1998, commercial operations October 2001. We use 1998 for the first ship and 2001 for the concession."
+      },
+      {
+        "claim": "Adani Power IPO subscription",
+        "note": "Company timeline: 21 times. Outlook Business: about 38 times. We use the company figure."
+      },
+      {
+        "claim": "Income written off by Adani Power in 2017",
+        "note": "CARE Ratings: ₹4,364 crore reversed on a standalone basis. Business Standard: about ₹4,400 crore. The Economic Times: ₹9,000 crore recognised. We use CARE."
+      },
+      {
+        "claim": "Price of the Australian assets",
+        "note": "Business Standard (2010): a $2.7 billion agreement with Linc Energy. IEEFA (2014): about A$525 million for the coal rights from Linc and Mineralogy. Adani Ports deck: Abbot Point enterprise value A$1.829 billion in 2011. The text avoids a single combined number."
+      },
+      {
+        "claim": "Carmichael original cost and scaled-down size",
+        "note": "Reuters: around A$16 billion. The Conversation: A$16.5 billion. Reuters and Bravus give 60 million then 10 million tonnes a year; The Conversation (2018) reported up to 15 million initially. We use Reuters and Bravus for the size."
+      },
+      {
+        "claim": "Financing of the Holcim deal",
+        "note": "Latham and The Hindu: $4.5 billion from 14 banks. Business Standard: $5.25 billion. Mint (before the deal, unnamed sources): close to $7 billion of debt planned, $3 billion family equity. We use $4.5 billion, from the law firm that advised on the financing."
+      },
+      {
+        "claim": "Market value lost after the Hindenburg report",
+        "note": "Reuters (Sep 2025): $150 billion. The Times of India and PTI: $140 billion. Hindenburg stated a group value of $218 billion; Bloomberg gave a low of $82 billion. We show the range."
+      },
+      {
+        "claim": "US SEC settlement amount",
+        "note": "Reuters (14 May 2026) described a $15 million settlement. The Economic Times, Hindustan Times and LiveLaw report $6 million for Gautam Adani and $12 million for Sagar Adani, $18 million in total. We use the later, more detailed reports."
+      },
+      {
+        "claim": "Size of alleged bribes",
+        "note": "US Attorney release: more than $250 million. Reuters and The Economic Times: about $265 million. Both are allegations, never proven in court."
+      },
+      {
+        "claim": "PVC project status",
+        "note": "Reports in 2023 said suspended and unlikely to proceed. An October 2026 brokerage comment and 2026 group documents mention PVC among newer businesses. We could not confirm the current scale or plan."
+      },
+      {
+        "claim": "Eastern Generation and Anjar outcome",
+        "note": "Only Pocketful records these plans, and no source says they were cancelled. Marked as failed because we found no later record of them and Outlook Business dates the real power entry to 2006."
+      }
+    ]
+  }
+}

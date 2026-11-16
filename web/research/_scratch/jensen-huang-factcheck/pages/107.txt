@@ -1,0 +1,53 @@
+ 
+ XML
+ 22
+ R9.htm
+ IDEA: XBRL DOCUMENT
+ v3.21.1 
+ Business Combination 
+ 3 Months Ended 
+ May 02, 2021
+ Business Combinations [Abstract] 
+ &#160; 
+ Business Combination 
+ Business Combination Pending Acquisition of Arm Limited 
+ On September 13, 2020, we entered into a Share Purchase Agreement, or the Purchase Agreement, with Arm Limited, or Arm, and SoftBank Group Capital Limited and SVF Holdco (UK) Limited, or together, SoftBank, for us to acquire, from SoftBank, all allotted and issued ordinary shares of Arm in a transaction valued at $40&#160;billion. We paid $2&#160;billion in cash at signing, or the Signing Consideration, and will pay upon closing of the acquisition $10&#160;billion in cash and issue to SoftBank 44.3&#160;million shares of our common stock, which had an aggregate value of $21.5&#160;billion as of the date of the Purchase Agreement. The transaction includes a potential earn out, which is contingent on the achievement of certain financial performance targets by Arm during the fiscal year ending March 31, 2022. If the financial targets are achieved, SoftBank can elect to receive either up to an additional $5&#160;billion in cash or up to an additional 10.3&#160;million shares of our common stock. We will issue up to $1.5&#160;billion in restricted stock units to Arm employees after closing. The $2&#160;billion 
+ paid upon signing was allocated between advanced consideration for the acquisition of $1.36&#160;billion and the prepayment of intellectual property licenses from Arm of $0.17&#160;billion and royalties of $0.47&#160;billion, both with a 20-year term. The closing of the acquisition is subject to customary closing conditions, including receipt of specified governmental and regulatory consents and approvals and the expiration of any related mandatory waiting period, and Arm's implementation of the reorganization and distribution of Arm's IoT Services Group and certain other assets and liabilities. We are engaged with regulators in the United States, the United Kingdom, the European Union, China and other jurisdictions. If the Purchase Agreement is terminated under certain circumstances, we will be refunded $1.25&#160;billion of the Signing Consideration. The Signing Consideration was allocated on a fair value basis and any refund of the Signing Consideration will use stated values in the Purchase Agreement. We believe the closing of the acquisition will likely occur in the first quarter of calendar year 2022. 
+ Acquisition of Mellanox Technologies, Ltd. 
+ On April 27, 2020, we completed the acquisition of all outstanding shares of Mellanox for a total purchase consideration of $7.13&#160;billion. Mellanox is a supplier of high-performance interconnect products for computing, storage and communications applications. We acquired Mellanox to optimize data center workloads to scale across the entire computing, networking, and storage stack. 
+ Supplemental Unaudited Pro Forma Information 
+ The following unaudited pro forma financial information summarizes the combined results of operations for NVIDIA and Mellanox as if the companies were combined as of the beginning of fiscal year 2020: 
+ Pro Forma 
+ &#160; Three Months Ended 
+ &#160; April 26, 2020 
+ (In millions) 
+ Revenue $ 3,509&#160; 
+ Net income $ 918&#160; 
+ The unaudited pro forma information includes adjustments related to amortization of acquired intangible assets, adjustments to stock-based compensation expense, fair value of acquired inventory, and transaction costs. The unaudited pro forma information presented above is for informational purposes only and is not necessarily indicative of our consolidated results of operations of the combined business had the acquisition occurred at the beginning of fiscal year 2020 or of the results of our future operations of the combined businesses. 
+ X 
+ - Definition The entire disclosure for a business combination (or series of individually immaterial business combinations) completed during the period, including background, timing, and recognized assets and liabilities. The disclosure may include leverage buyout transactions (as applicable).
+ + References Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef -Publisher FASB -Name Accounting Standards Codification -Topic 805 -URI http://asc.fasb.org/topic&trid=2303972 
+ + Details 
+ Name: 
+ us-gaap_BusinessCombinationDisclosureTextBlock 
+ Namespace Prefix: 
+ us-gaap_ 
+ Data Type: 
+ nonnum:textBlockItemType 
+ Balance Type: 
+ na 
+ Period Type: 
+ duration 
+ X 
+ - References No definition available.
+ + Details 
+ Name: 
+ us-gaap_BusinessCombinationsAbstract 
+ Namespace Prefix: 
+ us-gaap_ 
+ Data Type: 
+ xbrli:stringItemType 
+ Balance Type: 
+ na 
+ Period Type: 
+ duration 

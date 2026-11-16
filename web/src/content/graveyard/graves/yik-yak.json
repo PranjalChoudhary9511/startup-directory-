@@ -1,0 +1,398 @@
+{
+  "slug": "yik-yak",
+  "name": "Yik Yak",
+  "region": "global",
+  "country": "United States",
+  "city": "Atlanta",
+  "sector": "Anonymous local social app",
+  "founded": 2013,
+  "died": 2017,
+  "status": "sold-for-parts",
+  "brandColor": "#3dbd98",
+  "founders": [
+    {
+      "name": "Tyler Droll",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Brooks Buffington",
+      "role": "Co-founder and COO"
+    }
+  ],
+  "epitaph": "Heard by everyone nearby. Then by no one.",
+  "oneLiner": "An app that let you post anonymous messages seen by everyone within a few kilometres, loved on US college campuses.",
+  "causeOfDeath": "Anonymous posts fuelled bullying and threats, schools banned it, and a fix that added usernames drove users away before it found a business model.",
+  "raisedUsdM": 73.5,
+  "peakValuationUsdM": 400,
+  "endValueUsdM": 1,
+  "moneyNote": "$73.5M raised across three 2014 rounds (Global Venturing, The Verge). Valuation reported at $300M–$400M in Nov 2014. Square paid $1M for some engineers and an IP licence (SEC filing).",
+  "moneySrc": [
+    1,
+    2,
+    3
+  ],
+  "inOneMinute": [
+    "Yik Yak showed you **anonymous posts from everyone nearby**. College students loved it, and within a year investors valued it at up to $400 million.",
+    "The same anonymity brought **bullying, racist posts and threats** that shut schools. Campuses and districts banned it again and again.",
+    "Its fixes, like usernames, pushed fans away. Downloads fell 76% in 2016, and **Square paid just $1 million** for its engineers in 2017."
+  ],
+  "killerLine": "If your product can hurt people, **trust and safety is the product**, not a feature you add after the headlines.",
+  "numbers": [
+    {
+      "value": "$400M",
+      "label": "top valuation, about a year after launch",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "value": "$73.5M",
+      "label": "raised from investors in 2014",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "value": "-76%",
+      "label": "fall in downloads, 2016 vs 2015",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$1M",
+      "label": "what Square paid for engineers and an IP licence",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a noticeboard for your campus",
+      "body": "Tyler Droll and Brooks Buffington were graduates of Furman University in South Carolina who met in a class on coding iPhone apps. In late 2013 they released Yik Yak. It was simple: you opened the app and saw **short, anonymous posts from people within a few kilometres of you**. Others voted posts up or down. On a college campus, that felt magical. You could joke about the dining hall, complain about an exam, or share what was happening at a party, and the whole campus would see it. No followers to build, no profile to manage. Within about a year, Yik Yak was **the ninth most downloaded social app in the US**.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "The rise: three rounds in one year",
+      "body": "Investors raced in. In April 2014, Yik Yak raised $1.5 million. In June, another $10 million. In November 2014, Sequoia Capital, one of the most famous investors in Silicon Valley, led a **$62 million round** that valued the company at $300 million to $400 million. In total, Yik Yak had raised **$73.5 million in its first year**. The founders deserve credit: they had found a feeling no big app offered, the local, anonymous campus chat. But the growth came almost entirely from students, and the app still had no real way to make money. Everything depended on keeping users excited and safe.",
+      "src": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: bullying and bomb threats",
+      "body": "Anonymity also brought out the worst in people. Teenagers used Yik Yak to bully classmates, and some posts threatened whole schools: threats closed Mira Costa High School in California for two days. In March 2014, Chicago schools disabled it. Yik Yak responded by putting **geofences** (invisible digital fences that switch the app off in an area) around US middle and high schools. That was a responsible move, but it cut off a big part of its young audience. On campuses, the problems kept coming: racist posts, harassment, and threats that led to arrests and **campus-wide bans**. Researchers also showed ways to unmask anonymous users. Each scandal made parents, colleges and some students lose trust in the app.",
+      "src": [
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The fall: the fix that broke it",
+      "body": "To clean things up, Yik Yak made users pick **permanent usernames (handles)**. But anonymity was the whole point, so many fans stopped posting, and the change was later made optional. It also tried a group-messaging pivot, which failed. In 2016, **downloads fell 76%** compared with 2015. In December 2016 it laid off about 60% of its staff, and its CTO left. In April 2017, an SEC filing showed Square would pay **$1 million** to hire several engineers and license some of Yik Yak's technology. On 28 April 2017 the founders announced the shutdown, and the app went offline on 5 May 2017.",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Nov 2013",
+      "event": "Furman graduates Tyler Droll and Brooks Buffington release Yik Yak",
+      "kind": "start",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Mar 2014",
+      "event": "Chicago schools disable it; Yik Yak geofences US middle and high schools",
+      "kind": "warning",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Apr 2014",
+      "event": "Raises $1.5M seed",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2014",
+      "event": "Raises $10M more",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Nov 2014",
+      "event": "Sequoia leads $62M round at a $300M–$400M valuation",
+      "kind": "peak",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2015",
+      "event": "Racist posts and threats lead to campus bans and arrests; usernames forced, then made optional",
+      "kind": "warning",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "2016",
+      "event": "Downloads fall 76% compared with 2015",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Dec 2016",
+      "event": "Lays off about 60% of staff",
+      "kind": "crisis",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Apr 2017",
+      "event": "SEC filing: Square pays $1M for engineers and an IP licence",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "5 May 2017",
+      "event": "App goes offline",
+      "kind": "end",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "Aug 2021",
+      "event": "New owners relaunch Yik Yak in the US with a one-strike bullying rule",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Feb 2023",
+      "event": "Rival anonymous app Sidechat takes over Yik Yak",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Apr 2014",
+      "round": "Seed",
+      "amountUsdM": 1.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Vaizra Investments",
+        "DCM",
+        "Kevin Colleran",
+        "Azure Capital Partners"
+      ],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2014",
+      "round": "Series A",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [
+        "DCM",
+        "Renren Lianhe Holdings",
+        "Tim Draper"
+      ],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Nov 2014",
+      "round": "Series B",
+      "amountUsdM": 62,
+      "valuationUsdM": 400,
+      "investors": [
+        "Sequoia Capital"
+      ],
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 35
+    },
+    {
+      "key": "business-model",
+      "weight": 25
+    },
+    {
+      "key": "focus",
+      "weight": 25
+    },
+    {
+      "key": "regulation",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Growth first, safety later",
+      "explain": "Yik Yak spread fast on campuses before it had strong tools to stop bullying and threats. **Schools and districts banned it repeatedly**, and some posts led to arrests. Every scandal taught parents, colleges and students that the app was dangerous. Once a product is known as unsafe, winning back trust is far harder than building it in from the start.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "Broke the core feature to fix it",
+      "explain": "Forcing permanent usernames was meant to calm the abuse. But **anonymity was why people loved Yik Yak**. Fans left, and the company had to back down. Changing the one thing users came for, without testing it on a small group first, gave Yik Yak the worst of both worlds.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "No business model behind a $400M price",
+      "explain": "Yik Yak raised $73.5 million in one year on the strength of downloads. It never found a strong way to earn money from its users. When **downloads fell 76% in 2016**, there was no revenue to fall back on, and the company sold its engineers for $1 million.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "A pivot that confused users",
+      "explain": "As growth slowed, Yik Yak tried to become a group-messaging app. **The pivot failed** and pulled the team's attention away from fixing the original product. Users who liked the local feed got a different app they hadn't asked for, and the real problems, safety and falling downloads, stayed unsolved.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are schools, colleges or parents complaining about your product in the news?",
+    "Would it take you hours or days to remove a threat or a bullying post?",
+    "Are you about to change your core feature for everyone without testing it on a small group first?",
+    "Is your growth coming from just one kind of user (say, college students) who could leave together?",
+    "Would you have no income at all if downloads stopped growing next quarter?"
+  ],
+  "lessons": [
+    {
+      "title": "Put safety in the first version",
+      "detail": "If your app lets strangers post, plan reporting, auto-removal of heavily downvoted posts and quick bans before you launch. The 2021 Yik Yak relaunch did exactly this with a one-strike rule."
+    },
+    {
+      "title": "Test big changes on 5% of users",
+      "detail": "Never flip a core feature for everyone at once. Release it to a small group, measure if they post more or less, then decide."
+    },
+    {
+      "title": "Fast funding is not proof of a business",
+      "detail": "Three rounds in one year made Yik Yak look unstoppable. Ask yourself what people would pay for, or what advertisers would buy, before celebrating a valuation."
+    },
+    {
+      "title": "Protect minors before regulators make you",
+      "detail": "Yik Yak's school geofences were a good, responsible step. If teens could misuse your product, build age checks and blocks early, even if it costs you users."
+    },
+    {
+      "title": "Diversify your user base",
+      "detail": "Yik Yak lived on US campuses. When students went quiet, there was nobody else. Find a second group of users who love your product for a different reason."
+    }
+  ],
+  "quote": {
+    "text": "The time has come... for our paths to part ways, as we've decided to make our next moves as a company.",
+    "who": "Tyler Droll and Brooks Buffington, Yik Yak co-founders",
+    "context": "Their blog post announcing the shutdown, 28 April 2017, as reported by The Verge",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Square (now Block) hired several Yik Yak engineers. In February 2021 a new, unnamed team bought the rights to the brand, and on 16 August 2021 Yik Yak returned to the US App Store with phone-number sign-up, a one-strike bullying rule and auto-removal of heavily downvoted posts. It got about 3.5 million installs. In February 2023, rival anonymous app Sidechat took it over, to many users' annoyance.",
+    "src": [
+      4,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "The Verge: Yik Yak, once valued at $400 million, shuts down and sells off engineers for $1 million (Apr 2017)",
+      "url": "https://www.theverge.com/2017/4/28/15480052/yik-yak-shut-down-anonymous-messaging-app-square"
+    },
+    {
+      "label": "TechCrunch: Yik Yak shuts down after Square paid $1 million for its engineers (Apr 2017)",
+      "url": "https://techcrunch.com/2017/04/28/yik-yak-shuts-down-after-square-paid-1-million-for-its-engineers"
+    },
+    {
+      "label": "Global Venturing: Yik Yak posts $62m Series B (Nov 2014)",
+      "url": "https://globalventuring.com/blog/2014/11/27/yik-yak-posts-62m-series-b/"
+    },
+    {
+      "label": "International Business Times: Controversial gossip app Yik Yak valued at hundreds of millions (Nov 2014)",
+      "url": "https://ibtimes.com/controversial-gossip-app-yik-yak-valued-hundreds-millions-dollars-1728438"
+    },
+    {
+      "label": "TechCrunch: Yik Yak is back (Aug 2021)",
+      "url": "https://techcrunch.com/2021/08/16/yik-yak-is-back/"
+    },
+    {
+      "label": "Wikipedia: Yik Yak, for dated school bans, rounds and layoffs (with original citations)",
+      "url": "https://en.wikipedia.org/wiki/Yik_Yak"
+    },
+    {
+      "label": "TechCrunch: Anonymous app Sidechat picks up rival Yik Yak (Mar 2023)",
+      "url": "https://techcrunch.com/2023/03/16/anonymous-app-sidechat-picks-up-rival-yik-yak-and-users-arent-happy/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Yik Yak's valuation",
+        "note": "WSJ reported $300M–$400M for the Nov 2014 round; other reports say 'over $350M' or 'about $400M'. We use $400M as the top of the reported range."
+      },
+      {
+        "claim": "Square's price",
+        "note": "Bloomberg first reported under $3M; the SEC filing showed about $1M."
+      },
+      {
+        "claim": "Who sold the brand to the 2021 owners",
+        "note": "Business Insider said the rights came from Square; TechCrunch said the seller was not named."
+      }
+    ]
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "slug": "blackrock",
+  "company": "BlackRock",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#000000",
+    "secondary": "#6E6A65",
+    "accent": "#FF4713",
+    "ink": "#141414",
+    "paper": "#F4F2EE",
+    "note": "BlackRock's identity is black type on white (brand-colour references list only black); the orange-red #FF4713 is the accent used on blackrock.com's arrow icons. The warm grey, ink and paper are our own tints."
+  },
+  "tagline": "A bond trader who lost $100 million built the world's biggest money manager around one rule: understand the risk before you count the profit.",
+  "hook": "In 1986 Larry Fink's bond desk lost about $100 million in a single quarter. Within two years he was out of First Boston and starting again in one room, with the firm's first computer server squeezed between the coffee machine and the fridge. That firm, BlackRock, now looks after $15.5 trillion of other people's money.",
+  "hookSrc": [
+    5,
+    6,
+    10,
+    26
+  ],
+  "cast": [
+    {
+      "name": "Robert Kapito",
+      "role": "Co-founder in 1988 and today BlackRock's President, running its day-to-day operations. Before BlackRock he was a vice president in First Boston's Mortgage Products Group, working with Fink. Wharton (1979) and Harvard MBA (1983).",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Robert_Steven_Kapito_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Robert_Steven_Kapito_(cropped).jpg",
+        "caption": "Rob Kapito at the Woodrow Wilson Awards, April 2010, where Larry Fink was honoured.",
+        "author": "Wilson Center",
+        "license": "CC BY-SA 3.0",
+        "year": 2010
+      },
+      "src": [
+        28,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Susan (Sue) Wagner",
+      "role": "Co-founder. She was BlackRock's chief operating officer and head of corporate strategy, led its alternative-investment and international client businesses, and was vice chair from 2006 until she retired in July 2012. She has sat on Apple's board since 2014.",
+      "photo": null,
+      "src": [
+        29,
+        0
+      ]
+    },
+    {
+      "name": "Stephen Schwarzman",
+      "role": "Co-founder of Blackstone. In 1988 Blackstone gave Fink's team a $5 million credit line for a 50% stake. When Fink wanted to give shares to new hires, Schwarzman refused to let Blackstone's stake shrink, and in 1994 he sold the unit to PNC for $240 million. He later called it 'a heroic mistake'. The two have since made up.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/StephenSchwarzman.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:StephenSchwarzman.jpg",
+        "caption": "Stephen Schwarzman speaking at the World Economic Forum in Davos, January 2008.",
+        "author": "Copyright World Economic Forum (www.weforum.org), swiss-image.ch/Photo by Remy Steinegger",
+        "license": "CC BY-SA 2.0",
+        "year": 2008
+      },
+      "src": [
+        7
+      ]
+    },
+    {
+      "name": "Charlie Hallac",
+      "role": "BlackRock's first employee in 1988. He bought the firm's first computer server and wedged it between the coffee machine and the refrigerator in its one-room office. He went on to be the first architect of Aladdin, BlackRock's risk and portfolio system, later became co-president, and died of cancer in September 2015, aged 50.",
+      "photo": null,
+      "src": [
+        10,
+        33,
+        34
+      ]
+    }
+  ],
+  "founder": {
+    "name": "Larry Fink",
+    "role": "Co-founder, Chairman & CEO, BlackRock",
+    "born": "2 Nov 1952, Los Angeles, California (raised in Van Nuys)",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Laurence_Douglas_Fink_(cropped).jpg",
+      "caption": "Larry Fink at the Woodrow Wilson Awards in New York, April 2010.",
+      "author": "Wilson Center",
+      "license": "CC BY-SA 3.0",
+      "year": 2010
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Finkcalatrava.jpg/1280px-Finkcalatrava.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Finkcalatrava.jpg",
+        "caption": "Woodrow Wilson Awards, 2010: Larry Fink with the architect Santiago Calatrava; BlackRock co-founder Rob Kapito is also in the group.",
+        "author": "Wilson Center",
+        "license": "CC BY-SA 3.0",
+        "year": 2010
+      }
+    ],
+    "background": "Larry Fink was born in Los Angeles in 1952 and grew up in Van Nuys, in the San Fernando Valley. In his own words: 'My dad owned a shoe store. My mom taught English.' His parents did not come from much money, but they saved and invested, and retired with enough to live well past 100. They had met at UCLA, and Larry followed them there in the summer of 1972. He took a political science degree in 1974 and an MBA in 1976, and two of his professors encouraged him to try for a finance career in New York.",
+    "backgroundSrc": [
+      2,
+      3,
+      9,
+      32,
+      35,
+      36,
+      37
+    ],
+    "journey": [
+      {
+        "year": "1952",
+        "kind": "life",
+        "title": "Born into a shopkeeper's family",
+        "detail": "Born in Los Angeles on 2 November. His father owned a shoe store and his mother taught English; they saved what they could and invested it.",
+        "src": [
+          2,
+          9,
+          35
+        ]
+      },
+      {
+        "year": "1972",
+        "kind": "life",
+        "title": "Arrives at UCLA",
+        "detail": "He says he arrived in Westwood 'mostly clueless', at the university where his parents had met, and where his brother and his wife also studied.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "year": "1974",
+        "kind": "life",
+        "title": "Political science graduate",
+        "detail": "BA in political science from UCLA. He then stayed on for an MBA with a focus on real estate.",
+        "src": [
+          1,
+          32,
+          36,
+          37
+        ]
+      },
+      {
+        "year": "1976",
+        "kind": "job",
+        "title": "Bond trader at First Boston, New York",
+        "detail": "With his UCLA MBA done, he joined the investment bank First Boston and quickly became one of Wall Street's first traders of mortgage-backed securities.",
+        "src": [
+          32,
+          4,
+          6
+        ]
+      },
+      {
+        "year": "Early 1980s",
+        "kind": "job",
+        "title": "Selling the first Freddie Mac CMO",
+        "detail": "He pitched the first collateralised mortgage obligation that Freddie Mac ever did, turning a little-known mortgage trade into a big business for the bank.",
+        "src": [
+          5,
+          8
+        ]
+      },
+      {
+        "year": "1983–84",
+        "kind": "job",
+        "title": "Managing director and management committee",
+        "detail": "He became First Boston's youngest managing director and, at 31, joined its management committee. He co-headed the taxable fixed-income division and, by some estimates, added about $1 billion to the bank's profits.",
+        "src": [
+          1,
+          4,
+          32,
+          35
+        ]
+      },
+      {
+        "year": "1986",
+        "kind": "failure",
+        "title": "The $100 million quarter",
+        "detail": "His desk had bet that interest rates would rise. They fell, the hedges failed, and the desk lost about $100 million in one quarter.",
+        "src": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "year": "1988",
+        "kind": "failure",
+        "title": "Out of First Boston",
+        "detail": "Sidelined after the loss, he was out of the bank by 1988. He later described his New York career as success followed by 'crushing failure'.",
+        "src": [
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "year": "1988",
+        "kind": "attempt",
+        "title": "A bond shop inside Blackstone",
+        "detail": "Banker Bruce Wasserstein introduced him to Blackstone. With seven partners he started Blackstone Financial Management on a $5 million credit line, giving Blackstone half the business.",
+        "src": [
+          0,
+          1,
+          7
+        ]
+      },
+      {
+        "year": "1988",
+        "kind": "attempt",
+        "title": "One fund, one computer",
+        "detail": "The first product was a $100 million fund, mostly mortgage bonds. First employee Charlie Hallac bought the firm's first server and wedged it between the coffee machine and the fridge; he went on to design Aladdin.",
+        "src": [
+          8,
+          10,
+          33
+        ]
+      },
+      {
+        "year": "1994",
+        "kind": "failure",
+        "title": "The split with Schwarzman",
+        "detail": "Fink wanted to give shares to new hires; Schwarzman would not shrink Blackstone's stake. Blackstone sold the unit, by then called BlackRock, to PNC for $240 million.",
+        "src": [
+          7,
+          8
+        ]
+      },
+      {
+        "year": "1999",
+        "kind": "breakthrough",
+        "title": "BlackRock goes public",
+        "detail": "On 1 October 1999 it listed on the New York Stock Exchange at $14 a share, valuing the firm at about $895 million, with broad employee ownership.",
+        "src": [
+          0,
+          8,
+          9
+        ]
+      },
+      {
+        "year": "2006",
+        "kind": "breakthrough",
+        "title": "Merger with Merrill Lynch's fund arm",
+        "detail": "Merging with Merrill Lynch Investment Managers created a firm with nearly $1 trillion under management and more than 4,500 staff in 18 countries.",
+        "src": [
+          11
+        ]
+      },
+      {
+        "year": "2008",
+        "kind": "job",
+        "title": "Hired by the government in the crash",
+        "detail": "The New York Fed hired BlackRock to manage the toxic assets it took from Bear Stearns and AIG. The Fed's loans were repaid in full, and the three portfolios made net gains of about $12 billion for the public.",
+        "src": [
+          15
+        ]
+      },
+      {
+        "year": "2009",
+        "kind": "breakthrough",
+        "title": "Buys Barclays Global Investors and iShares",
+        "detail": "BlackRock agreed to pay $6.6 billion in cash plus about 37.8 million shares; by completion Barclays valued the price at $15.2 billion. When the deal closed on 1 December 2009 it managed about $3.2 trillion, the most in the world.",
+        "src": [
+          12,
+          13,
+          14,
+          30
+        ]
+      },
+      {
+        "year": "2012",
+        "kind": "attempt",
+        "title": "The yearly letter to CEOs",
+        "detail": "He began writing an annual letter to the bosses of companies BlackRock invests in. His 2020 letter said climate change had become a defining factor in companies' long-term prospects.",
+        "src": [
+          17,
+          18
+        ]
+      },
+      {
+        "year": "2022–23",
+        "kind": "failure",
+        "title": "The ESG backlash",
+        "detail": "Florida pulled $2 billion from BlackRock in December 2022 over its climate stance. In June 2023 Fink said he had stopped using the word ESG because it had been weaponised.",
+        "src": [
+          19,
+          20
+        ]
+      },
+      {
+        "year": "2026",
+        "kind": "now",
+        "title": "$15.5 trillion and still in charge",
+        "detail": "Still chairman and CEO 38 years after the founding, and co-chair of the World Economic Forum's board of trustees since August 2025.",
+        "src": [
+          26,
+          27,
+          1
+        ]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Check your risk when you are winning",
+        "explain": "He jokes that First Boston should have fired him the quarter before the loss, when his desk made $130 million it did not understand either. His lesson: study a portfolio as hard when it makes money as when it loses.",
+        "src": [
+          5,
+          6
+        ]
+      },
+      {
+        "idea": "Build the risk tools first",
+        "explain": "After the loss he was determined to build the best risk tools he could. One of BlackRock's first purchases in 1988 was a computer server, and Hallac went on to design Aladdin to measure the risk in what the firm held. Today other institutions pay to use it; BlackRock's technology services and subscriptions brought in about $2 billion in 2025.",
+        "src": [
+          5,
+          10,
+          33,
+          25
+        ]
+      },
+      {
+        "idea": "Give the team a real stake",
+        "explain": "He split from Blackstone rather than stop giving shares to the people he hired, and BlackRock went public with broad employee ownership.",
+        "src": [
+          7,
+          0
+        ]
+      },
+      {
+        "idea": "Stay a student",
+        "explain": "He told UCLA graduates he keeps pushing himself to learn, because the moment he becomes too confident or stops wanting to learn, he should not be in the job.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "idea": "Ordinary savers should own the market",
+        "explain": "He often points to his parents, a shopkeeper and a teacher who saved and invested. His 2026 letter argues more people should own a share of growth through retirement saving.",
+        "src": [
+          2
+        ]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "One public letter a year",
+        "detail": "Since 2012 he has written an annual letter, first to the CEOs of companies BlackRock invests in and now as a chairman's letter to investors, setting out what BlackRock expects.",
+        "src": [
+          17,
+          18,
+          2
+        ]
+      }
+    ],
+    "darkestHour": {
+      "title": "1986–88: from star trader to the man who lost $100 million",
+      "story": "By his early thirties Fink was a star at First Boston: its youngest managing director, on the management committee and co-head of bond trading. In 1986 his desk bet that interest rates would rise. Rates fell, the hedges did not work, and the desk lost about $100 million in a single quarter. He was sidelined, and by 1988 he was out of the bank. He has described it as success followed by 'crushing failure'. What he did next shaped everything: he built a firm around tools to measure risk, starting with a single server in a one-room office, so that he would never again hold positions he did not understand.",
+      "src": [
+        3,
+        4,
+        5,
+        6,
+        10,
+        32,
+        35
+      ]
+    },
+    "genuineness": {
+      "story": "In the early 1990s Fink kept giving shares to the people he was hiring. Each grant shrank Blackstone's stake, from 50% to about 35% by 1992, and Schwarzman said no more. Fink chose to leave the shelter of Blackstone rather than drop the idea. Blackstone sold the firm in 1994, and when BlackRock listed in 1999 it did so with broad employee ownership. Years later Schwarzman called the sale 'a heroic mistake', and the two men reconciled; Fink has attended his birthday parties.",
+      "src": [
+        7,
+        0,
+        8
+      ]
+    },
+    "now": "Fink is still chairman and CEO, 38 years after co-founding BlackRock, which managed $15.5 trillion at the end of September 2026. Since August 2025 he has also been co-chair of the World Economic Forum's board of trustees. His 2026 letter argues that wealth is reaching too few people and that more ordinary savers should own a share of growth. In India, BlackRock's 50:50 venture with Jio Financial Services launched its first mutual funds in 2025.",
+    "nowSrc": [
+      1,
+      2,
+      26,
+      27,
+      22,
+      23
+    ]
+  },
+  "numbers": [
+    {
+      "value": "$15.49 trillion",
+      "label": "Assets under management (other people's money it invests)",
+      "asOf": "Sep 2026",
+      "src": [
+        26,
+        31
+      ]
+    },
+    {
+      "value": "$24.2 billion",
+      "label": "Revenue for the year",
+      "asOf": "FY2025",
+      "src": [
+        25
+      ]
+    },
+    {
+      "value": "$698 billion",
+      "label": "New money clients added in one year (a record)",
+      "asOf": "FY2025",
+      "src": [
+        25
+      ]
+    },
+    {
+      "value": "$5.47 trillion",
+      "label": "Held in its ETFs, mostly iShares",
+      "asOf": "Dec 2025",
+      "src": [
+        25
+      ]
+    },
+    {
+      "value": "$2.0 billion",
+      "label": "Technology services and subscription revenue, led by its Aladdin software",
+      "asOf": "FY2025",
+      "src": [
+        25
+      ]
+    },
+    {
+      "value": "~24,900",
+      "label": "Employees in more than 30 countries",
+      "asOf": "Dec 2025",
+      "src": [
+        25
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1988",
+      "title": "Started inside Blackstone",
+      "detail": "Fink and seven partners launch Blackstone Financial Management. It is profitable within months, and by 1989 its assets have quadrupled to $2.7 billion.",
+      "src": [
+        0,
+        1,
+        7
+      ]
+    },
+    {
+      "year": "1992",
+      "title": "Renamed BlackRock",
+      "detail": "Renamed BlackRock Financial Management in July 1992. By 1991 it already managed $9 billion for clients such as Chrysler and General Electric.",
+      "src": [
+        8
+      ]
+    },
+    {
+      "year": "1994",
+      "title": "Sold to PNC for $240 million",
+      "detail": "After the row over staff shares, Blackstone sells the business, then managing $23 billion, to PNC Bank.",
+      "src": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": "1999",
+      "title": "Stock market listing",
+      "detail": "Shares sold at $14 on 1 October 1999; PNC keeps about 70%.",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": "2006",
+      "title": "Merrill Lynch Investment Managers",
+      "detail": "Announced 15 February 2006, the merger creates a firm with nearly $1 trillion under management.",
+      "src": [
+        11
+      ]
+    },
+    {
+      "year": "2008",
+      "title": "Cleaning up the crash",
+      "detail": "Picked by the New York Fed to manage the Maiden Lane portfolios of Bear Stearns and AIG assets.",
+      "src": [
+        15
+      ]
+    },
+    {
+      "year": "2009",
+      "title": "Barclays Global Investors and iShares",
+      "detail": "Closed on 1 December 2009, making BlackRock the world's largest money manager, with about $3.2 trillion. Barclays took a 19.9% economic stake.",
+      "src": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "year": "2023",
+      "title": "Jio BlackRock announced",
+      "detail": "On 26 July 2023 BlackRock and Jio Financial Services agree a 50:50 Indian asset-management venture, each planning to put in an initial $150 million.",
+      "src": [
+        22
+      ]
+    },
+    {
+      "year": "2025",
+      "title": "JioBlackRock's first funds",
+      "detail": "Its first three funds raise ₹17,800 crore from more than 90 institutions and 67,000 retail investors in a three-day offer that closed on 2 July 2025.",
+      "src": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": "2025",
+      "title": "Record year",
+      "detail": "A record $698 billion of net new money takes assets to $14.0 trillion by December 2025.",
+      "src": [
+        25
+      ]
+    },
+    {
+      "year": "2026",
+      "title": "$15.5 trillion",
+      "detail": "Assets reach $15.49 trillion at 30 September 2026 after $205 billion of new money in one quarter.",
+      "src": [
+        26,
+        31
+      ]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "BlackRock does not invest its own money. Pension funds, insurers, governments and ordinary savers give it money to invest, and it charges a small yearly fee on the amount it looks after. In 2025 these 'base fees' (including lending out the shares it holds) brought in $19.2 billion of its $24.2 billion revenue. It earns extra when some funds beat their targets ($1.4 billion), sells technology and data subscriptions led by its Aladdin software ($2.0 billion), and collects distribution fees on funds sold through others ($1.4 billion).",
+    "flows": [
+      {
+        "from": "Savers, pension funds and institutions",
+        "to": "BlackRock",
+        "what": "A small yearly fee on every dollar it manages (about 79% of revenue)"
+      },
+      {
+        "from": "Funds that beat their targets",
+        "to": "BlackRock",
+        "what": "Performance fees, about 6% of revenue"
+      },
+      {
+        "from": "Banks, insurers and pension funds",
+        "to": "BlackRock",
+        "what": "Subscriptions to the Aladdin risk and portfolio software"
+      },
+      {
+        "from": "Investors buying funds through brokers and banks",
+        "to": "BlackRock",
+        "what": "Distribution fees"
+      },
+      {
+        "from": "BlackRock",
+        "to": "Clients",
+        "what": "The returns on their investments, minus fees"
+      }
+    ],
+    "src": [
+      25
+    ]
+  },
+  "failures": [
+    {
+      "year": "1994",
+      "title": "The partners fall out",
+      "whatHappened": "Blackstone owned about 35% of the bond business by 1992. Fink wanted to give shares to new hires; Schwarzman refused, and Blackstone sold the whole unit to PNC for $240 million. For Blackstone it was a disaster: by 2013 Schwarzman's own former stake would have been worth more than $4 billion.",
+      "lesson": "Agree early, in writing, how you will share ownership as the team grows. Fights over equity can split a winning company.",
+      "src": [
+        7
+      ]
+    },
+    {
+      "year": "2006–10",
+      "title": "Stuyvesant Town",
+      "whatHappened": "BlackRock's property arm and Tishman Speyer paid a record $5.4 billion for 110 apartment buildings in Manhattan, using $4.4 billion of loans. The plan was to turn rent-regulated flats into pricier ones, but conversions went slowly, tenants fought back, and a court ruled about $200 million of rent rises improper. In January 2010 the owners missed a $16 million payment and handed the buildings to creditors, when they were valued at as little as $2 billion.",
+      "lesson": "A deal built on borrowed money and hopeful growth breaks fast when the growth does not come.",
+      "src": [
+        16
+      ]
+    },
+    {
+      "year": "2022–25",
+      "title": "Caught in the ESG fight",
+      "whatHappened": "Fink's letters pushed companies on climate. Republican-led states pushed back: Florida pulled $2 billion in December 2022 and Texas's school fund ended an $8.5 billion mandate in March 2024. BlackRock later left the Net Zero Asset Managers group, and Texas took it off its boycott list in 2025.",
+      "lesson": "When you manage money for millions of different people, taking public positions has a price. Know who your customers are before you speak for them.",
+      "src": [
+        19,
+        20,
+        21
+      ]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "BlackRock and Blackstone are the same company.",
+      "fact": "BlackRock began in 1988 inside Blackstone as Blackstone Financial Management, but the two split in 1994. Today they are separate, unrelated firms.",
+      "src": [
+        7,
+        8
+      ]
+    },
+    {
+      "myth": "BlackRock owns $15 trillion.",
+      "fact": "That is clients' money. BlackRock invests it for them and keeps a small fee; its own revenue in 2025 was $24.2 billion.",
+      "src": [
+        25,
+        26
+      ]
+    },
+    {
+      "myth": "Aladdin is a secret AI that controls the markets.",
+      "fact": "Aladdin is risk and portfolio software whose story starts with one server in a one-room office in 1988. BlackRock rents it to other institutions, and in 2025 all its technology services and subscriptions brought in about $2 billion, around 8% of revenue.",
+      "src": [
+        10,
+        33,
+        25
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "My dad owned a shoe store. My mom taught English.",
+      "who": "Larry Fink, 2026 Chairman's Letter to Investors",
+      "src": [
+        2
+      ]
+    },
+    {
+      "text": "I went to New York, and that choice at first would lead to success. And then crushing failure.",
+      "who": "Larry Fink, UCLA commencement address (2016)",
+      "src": [
+        3
+      ]
+    },
+    {
+      "text": "That was certainly a heroic mistake.",
+      "who": "Stephen Schwarzman, on selling BlackRock (2013)",
+      "src": [
+        7
+      ]
+    },
+    {
+      "text": "But awareness is rapidly changing, and I believe we are on the edge of a fundamental reshaping of finance.",
+      "who": "Larry Fink, letter to CEOs (2020)",
+      "src": [
+        18
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Turn your worst failure into your product",
+      "detail": "Fink lost $100 million because he could not see his own risk. One of BlackRock's first purchases was a computer server, and the risk tool built from that start, Aladdin, now leads a technology business earning about $2 billion a year. The thing that hurt you most can become the thing you sell."
+    },
+    {
+      "title": "Ask questions when you are winning",
+      "detail": "The quarter before his big loss, Fink's desk made $130 million he did not understand. If your startup's numbers suddenly jump, find out exactly why before you celebrate or spend."
+    },
+    {
+      "title": "Share ownership with the people who build it",
+      "detail": "Fink walked away from Blackstone rather than stop giving shares to his team. Schwarzman held on to his stake and later called selling BlackRock a 'heroic mistake'. ESOPs for early employees are cheap compared with losing them."
+    },
+    {
+      "title": "Rent out your tools",
+      "detail": "BlackRock built Aladdin for itself, then sold it to competitors. If you build strong internal software, ask whether other companies in your industry would pay to use it."
+    },
+    {
+      "title": "Pair global skill with local reach",
+      "detail": "In India BlackRock did not go alone. It joined Jio Financial Services 50:50, and their first funds raised ₹17,800 crore in three days. A partner who already reaches millions of customers can save you years."
+    }
+  ],
+  "moments": [],
+  "sources": [
+    {
+      "label": "BlackRock: Our history (founders, IPO with broad employee ownership)",
+      "url": "https://www.blackrock.com/corporate/about-us/blackrock-history"
+    },
+    {
+      "label": "BlackRock: Larry Fink, Chairman and CEO (official biography)",
+      "url": "https://www.blackrock.com/corporate/about-us/leadership/larry-fink"
+    },
+    {
+      "label": "Larry Fink's 2026 Annual Chairman's Letter to Investors (BlackRock)",
+      "url": "https://www.blackrock.com/corporate/investor-relations/larry-fink-annual-chairmans-letter"
+    },
+    {
+      "label": "UCLA Newsroom: UCLA graduates of 2016 are told that 'the world needs you' (Fink's commencement speech)",
+      "url": "https://newsroom.ucla.edu/stories/ucla-graduates-of-2016-are-told-that-the-world-needs-you"
+    },
+    {
+      "label": "Fox Business: Business Leaders: BlackRock's Laurence Fink (2012)",
+      "url": "https://www.foxbusiness.com/features/business-leaders-blackrocks-laurence-fink"
+    },
+    {
+      "label": "Euromoney: Larry Fink, the pioneer who fought his way to the top (5 Jun 2009)",
+      "url": "https://www.euromoney.com/article/b1322hr4fx8gh0/larry-fink-the-pioneer-who-fought-his-way-to-the-top"
+    },
+    {
+      "label": "Moneywise via Yahoo Finance: 'I screwed up': Larry Fink lost $100M in a single quarter (2026; quotes his 2010 Vanity Fair interview)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html"
+    },
+    {
+      "label": "National Mortgage News (Bloomberg): Steve Schwarzman says selling BlackRock in 1994 was 'heroic' error (30 Sep 2013)",
+      "url": "https://www.nationalmortgagenews.com/news/steve-schwarzman-says-selling-blackrock-in-1994-was-heroic-error"
+    },
+    {
+      "label": "International Directory of Company Histories (Encyclopedia.com): BlackRock Inc.",
+      "url": "https://encyclopedia.com/books/politics-and-business-magazines/blackrock-inc"
+    },
+    {
+      "label": "Reference for Business: BlackRock Inc. company history",
+      "url": "https://www.referenceforbusiness.com/history2/25/BlackRock-Inc.html"
+    },
+    {
+      "label": "Financial Planning (Bloomberg): Charles S. Hallac, BlackRock's co-president, dies at 50 (10 Sep 2015), quoting BlackRock's statement on the first server",
+      "url": "https://www.financial-planning.com/news/charles-s-hallac-blackrocks-co-president-dies-at-50"
+    },
+    {
+      "label": "SEC filing: BlackRock and Merrill Lynch Investment Managers merger press release (15 Feb 2006)",
+      "url": "https://www.sec.gov/Archives/edgar/data/65100/000095012306001862/y17664exv99w1.htm"
+    },
+    {
+      "label": "SEC filing: BlackRock completes merger with Barclays Global Investors (1 Dec 2009)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001364742/000134100409002413/blackrock_ex99-1.htm"
+    },
+    {
+      "label": "Barclays RNS: Barclays completes the sale of BGI to BlackRock (1 Dec 2009)",
+      "url": "https://www.investegate.co.uk/announcement/rns/barclays--barc/barclays-completes-the-sale-o/1826098"
+    },
+    {
+      "label": "Asia Asset Management: BlackRock to buy Barclays Global Investors (12 Jun 2009)",
+      "url": "https://www.asiaasset.com/analysis/blackrock-to-buy-barclays-global-investors/"
+    },
+    {
+      "label": "Federal Reserve Bank of New York: Maiden Lane transactions",
+      "url": "https://www.newyorkfed.org/markets/maidenlane.html"
+    },
+    {
+      "label": "NBC News (AP): Huge NYC real estate deal goes sour (25 Jan 2010)",
+      "url": "https://www.nbcnews.com/id/wbna35056236"
+    },
+    {
+      "label": "GlobeScan: Analysis of Larry Fink's 2020 annual letter to CEOs",
+      "url": "https://globescan.com/analysis-larry-finks-annual-letter-ceos-2020/"
+    },
+    {
+      "label": "BlackRock: Larry Fink's 2020 letter to CEOs, 'A Fundamental Reshaping of Finance'",
+      "url": "https://www.blackrock.com/corporate/investor-relations/2020-larry-fink-ceo-letter"
+    },
+    {
+      "label": "Rethinking65 (Reuters): BlackRock's Fink says he's stopped using 'weaponised' term ESG (27 Jun 2023)",
+      "url": "https://rethinking65.com/2023/06/27/blackrocks-fink-says-hes-stopped-using-weaponised-term-esg/"
+    },
+    {
+      "label": "Fox Business: Texas pulls $8.5B from BlackRock (19 Mar 2024)",
+      "url": "https://foxbusiness.com/politics/texas-pulls-8-5-billion-blackrock-stunning-blow-esg-movement"
+    },
+    {
+      "label": "ESG Today: BlackRock removed from Texas boycott list after leaving climate groups (4 Jun 2025)",
+      "url": "https://www.esgtoday.com/blackrock-removed-from-texas-anti-esg-boycott-list-after-leaving-climate-groups/"
+    },
+    {
+      "label": "Business Today: Jio Financial Services and BlackRock to form $300-mn JV (26 Jul 2023)",
+      "url": "https://www.businesstoday.in/latest/corporate/story/jio-financial-services-and-blackrock-to-form-300-mn-jv-to-offer-investment-solutions-391411-2023-07-26"
+    },
+    {
+      "label": "Angel One: Jio BlackRock raises ₹17,800 crore in debut NFO (7 Jul 2025)",
+      "url": "https://www.angelone.in/news/jio-blackrock-raises-17800-crore-rs-in-debut-nfo-across-debt-mutual-funds"
+    },
+    {
+      "label": "The Week (PTI): JioBlackRock AMC launches NFO for 5 index funds (5 Aug 2025)",
+      "url": "https://www.theweek.in/wire-updates/business/2025/08/05/dcm30-biz-jiofin-mf.html"
+    },
+    {
+      "label": "BlackRock Form 10-K for 2025 (filed 25 Feb 2026), via Boardroom Alpha",
+      "url": "https://www.boardroomalpha.com/sec/blk-10-k-2026-02-25-0001193125-26-071966"
+    },
+    {
+      "label": "SEC filing: BlackRock third-quarter 2026 earnings release (14 Oct 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002012383/000119312526420979/blk-ex99_1.htm"
+    },
+    {
+      "label": "Swissinfo (Reuters): World Economic Forum clears Schwab, names Fink as co-chair (15 Aug 2025)",
+      "url": "https://www.swissinfo.ch/eng/world-economic-forum-clears-schwab%2C-names-fink-as-co-chair/89843055"
+    },
+    {
+      "label": "BlackRock: Rob Kapito, President (official biography)",
+      "url": "https://www.blackrock.com/corporate/about-us/leadership/rob-kapito"
+    },
+    {
+      "label": "Apple: Sue Wagner, Board of Directors",
+      "url": "https://www.apple.com/leadership/sue-wagner/"
+    },
+    {
+      "label": "SEC filing: BlackRock 8-K on agreement to acquire Barclays Global Investors (Jun 2009)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001364742/000134100409001192/blackrock_8k.htm"
+    },
+    {
+      "label": "Pulse 2.0: BlackRock AUM hits $15.5 trillion after $205 billion of quarterly inflows (14 Oct 2026)",
+      "url": "https://pulse2.com/blackrock-q3-2026-results"
+    },
+    {
+      "label": "SEC filing: Anthracite Mortgage Capital Form S-11/A (1997), biography of Laurence D. Fink (BA political science UCLA 1974, MBA 1976, joined First Boston 1976, co-head of Taxable Fixed Income)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001050112/000095017297001126/0000950172-97-001126.txt"
+    },
+    {
+      "label": "BlackRock: Charlie Hallac, in memoriam (official biography: initial architect of Aladdin)",
+      "url": "https://www.blackrock.com/corporate/about-us/leadership/charlie-hallac"
+    },
+    {
+      "label": "National Mortgage News: Charles Hallac, BlackRock co-president with MBS background, dies at 50 (9 Sep 2015)",
+      "url": "https://www.nationalmortgagenews.com/news/charles-hallac-blackrock-co-president-with-mbs-background-dies-at-50"
+    },
+    {
+      "label": "Business Insider via Yahoo Finance: Billionaire BlackRock CEO Larry Fink (13 Jul 2024): born 2 Nov 1952, grew up in Van Nuys, youngest MD, management committee at 31",
+      "url": "https://ca.finance.yahoo.com/news/billionaire-blackrock-ceo-larry-fink-095902016.html"
+    },
+    {
+      "label": "UCLA Newsroom: Laurence Fink, alumnus and head of BlackRock, to deliver UCLA College commencement address (2016): 'a native of Van Nuys'",
+      "url": "https://newsroom.ucla.edu/releases/laurence-fink-alumnus-and-head-of-blackrock-to-deliver-ucla-college-commencement-address"
+    },
+    {
+      "label": "Museum of American Finance: Laurence D. Fink (BA in political science, UCLA, 1974)",
+      "url": "https://www.moaf.org/about/people/fink_laurence"
+    }
+  ],
+  "factCheck": {
+    "method": "Researched from 34 sources, led by primary ones: BlackRock's own history, biographies, 2020 and 2026 letters, its 2025 10-K and Q3 2026 earnings release, SEC filings for the 2006 and 2009 mergers, the Barclays and New York Fed records, and Fink's UCLA commencement speech. Each key date and number was checked against a second source where one could be read (Euromoney, Fox Business, Bloomberg via National Mortgage News, the International Directory of Company Histories). Quotes were matched word for word to the letter, speech or article that carries them. Several richer profiles (Vanity Fair 2010, The Economist 2023, Fortune 2008, CNBC) could not be opened, so details found only there were left out. Photos were checked through the Commons API and by eye; one Commons file named after Fink turned out to show someone else and was not used. None of the six films has creator-written chapters, so there are no moments. Then independently re-checked claim by claim against the cited source plus a second source (39 sources in all). That pass replaced Wikipedia with primary or reputable sources for Fink's upbringing and degree (a 1997 SEC filing biography, UCLA Newsroom, the Museum of American Finance, Business Insider, and the CSUN English department's 2012 memorial to his mother, identified by her 1930 birth year, English teaching and husband Fred, all of which match Fink's own letter); replaced BlackRock's blocked 2015 Hallac release with Bloomberg's report quoting it; corrected the hook and timeline so Fink is out of First Boston 'by 1988' rather than 'pushed out' in 1986; softened 'first purchase' to 'one of the first purchases'; dropped 'interim' from his WEF title to match the WEF and BlackRock; and rewrote the Stuyvesant Town cause to match the AP report. Quotes were re-matched word for word; photo captions were trimmed to what the Commons records support.",
+    "disputed": [
+      {
+        "claim": "When the BlackRock name was adopted",
+        "note": "The International Directory of Company Histories says July 1992; Bloomberg (2013) says the unit changed its name from Blackstone Financial Management during the 1994 sale process."
+      },
+      {
+        "claim": "Year of the PNC sale",
+        "note": "Bloomberg says Schwarzman agreed to sell in June 1994; the Directory's key-dates list and BlackRock's own timeline put the PNC deal in 1995, when it closed."
+      },
+      {
+        "claim": "How much Blackstone and Schwarzman owned",
+        "note": "Bloomberg says Blackstone held about 40% in 1989 and 35% in 1992, and Schwarzman personally more than 9% at the sale. Some summaries wrongly give Schwarzman 35%."
+      },
+      {
+        "claim": "The First Boston loss",
+        "note": "Most accounts say about $100 million in one quarter of 1986 (Moneywise says the second quarter); a few say about $90 million. Euromoney dates his 'ouster' to 1986; Moneywise says he was out 'by 1988', and other accounts say he was sidelined for about two years before resigning in early 1988. We say he was out by 1988."
+      },
+      {
+        "claim": "His father's job",
+        "note": "Fink himself says his father owned a shoe store. A Fox Business profile calls him 'the son of a shoemaker'. We use Fink's own words."
+      },
+      {
+        "claim": "Birth date",
+        "note": "Business Insider (2024) gives 2 November 1952; a few low-quality pages say 2 December. BlackRock's own biography gives no birth date. Van Nuys is confirmed by UCLA Newsroom ('a native of Van Nuys') and Business Insider."
+      },
+      {
+        "claim": "Price of Barclays Global Investors",
+        "note": "The 2009 agreement was $6.6 billion cash plus 37.8 million BlackRock shares, widely reported as about $13.5 billion at announcement. Barclays valued the consideration at $15.2 billion on completion, after BlackRock's shares rose."
+      },
+      {
+        "claim": "Fink's ESG words (June 2023)",
+        "note": "Reuters quoted him saying the term had been 'weaponised' by the far left and far right; other outlets quoted him saying it had been 'misused'. We describe the remark rather than quote it."
+      },
+      {
+        "claim": "Stuyvesant Town investor losses",
+        "note": "One blog says the pension fund CalPERS lost about $500 million; we found no second source, so it is left out."
+      },
+      {
+        "claim": "First Boston start",
+        "note": "BlackRock's bio dates his MBA to 1976, and a 1997 SEC filing biography, Fox and Moneywise say he joined First Boston in 1976; the exact month is not given."
+      },
+      {
+        "claim": "When he joined First Boston's management committee",
+        "note": "No dated source gives the year. Business Insider says he joined at 31, which with a November 1952 birth means late 1983 or 1984. It also says he became the youngest managing director at 28; one other account says 27, so we leave the age out."
+      }
+    ]
+  }
+}

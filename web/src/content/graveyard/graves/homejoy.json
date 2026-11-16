@@ -1,0 +1,378 @@
+{
+  "slug": "homejoy",
+  "name": "Homejoy",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "On-demand home cleaning",
+  "founded": 2010,
+  "died": 2015,
+  "status": "shut-down",
+  "brandColor": "#00b2a9",
+  "founders": [
+    {
+      "name": "Adora Cheung",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Aaron Cheung",
+      "role": "Co-founder, VP of Growth"
+    }
+  ],
+  "epitaph": "Cleaned up nicely. Couldn't keep the regulars.",
+  "oneLiner": "An app and website for booking a home cleaner online in a few clicks, at a set hourly price, across cities in the US, Canada and Europe.",
+  "causeOfDeath": "Cheap first cleans won customers who didn't stay, good cleaners left with the best clients, and worker lawsuits scared off the investors it needed.",
+  "raisedUsdM": 40,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "TechCrunch: about $40M raised in total (seed, then Series A and B in 2013). It closed without a sale; Google hired part of its tech team, terms not disclosed.",
+  "moneySrc": [
+    1,
+    4
+  ],
+  "inOneMinute": [
+    "Homejoy let you **book a home cleaner online in minutes**. Y Combinator's Paul Graham called it the fastest-growing YC company he knew.",
+    "It hooked customers with **$19 first cleans** and spread to 31+ cities in three countries. But many customers didn't come back, and good cleaners went private.",
+    "When cleaners sued to be treated as employees, investors backed off. Unable to raise more money, **Homejoy shut down on 31 July 2015**."
+  ],
+  "killerLine": "In a marketplace, **if your best workers and best customers can easily meet without you, they will.** Give both a reason to stay.",
+  "numbers": [
+    {
+      "value": "$19",
+      "label": "promotional first cleaning, vs about $85 at rivals",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "25%",
+      "label": "Homejoy's cut of each cleaning job",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "31+",
+      "label": "cities across the US, Canada and the UK at its peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~$40M",
+      "label": "raised in total before it closed",
+      "src": [
+        1,
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: book a cleaner in two clicks",
+      "body": "Siblings Adora and Aaron Cheung joined Y Combinator, a famous startup school, in 2010 with an idea first called Pathjoy. In 2012 it became a simple service: **book a vetted home cleaner online, at a fixed hourly price**, without calling around. Think of it as an early Urban Company, but just for cleaning. Adora was so committed that she did the first cleaning jobs herself, and kept doing at least one a month until late 2013. That taught her how long jobs really took and what customers cared about. Cleaners were independent contractors (paid per job, not employees). Homejoy kept about **25% of each job** and the cleaner got the rest. Customers loved the convenience.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The rise: the fastest-growing YC company",
+      "body": "Growth was explosive. Paul Graham, who ran Y Combinator, publicly called it **the fastest-growing YC company he knew**. He also wrote that Adora struggled at first to find an investor to lead a round, which he believed was partly because she was a woman. The numbers won. Homejoy raised $1.7 million in early 2013, then **$38 million** in late 2013 from Google Ventures, Redpoint and others, about $40 million in all. It had over 100 employees and thousands of cleaners in 30 markets. In April 2014 it reached the UK, and soon served 31+ cities in three countries. Adora said her biggest worry was keeping quality high while growing fast.",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: customers and cleaners slip away",
+      "body": "To win customers, Homejoy offered first cleans for as little as **$19**, when other companies charged about $85. Many people grabbed the deal and didn't return at full price. When Homejoy raised prices in 2014, it lost customers. Pay for cleaners was low, which, one analysis argued, attracted inexperienced workers and led to **uneven quality**. When a customer did find a great cleaner, both had a reason to skip the app: the cleaner could keep the whole fee instead of 75%, and the customer kept a cleaner they trusted. Meanwhile, expansion to Canada and Europe cost money. In December 2014, Homejoy paused Canada and France. In May 2015 its finance chief resigned, as rival Handy discussed buying it.",
+      "src": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The fall: lawsuits and an empty bank",
+      "body": "Cleaners filed lawsuits saying they should be classified as **employees, not contractors**, which would mean benefits, insurance and higher costs. Around the same time, California's labour regulator ruled against Uber on a similar question. Investors grew nervous about the whole sector. Homejoy could not raise its next round (a Series C). Talks with Handy did not produce a deal. On 17 July 2015, Adora Cheung announced that Homejoy would **close its doors on 31 July**. It stopped taking bookings and refunded unused credits. Google hired part of its technical team. One analyst later argued that even with contractors, the numbers never worked, because the business leaked its best relationships.",
+      "src": [
+        0,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Mar 2010",
+      "event": "Adora and Aaron Cheung join Y Combinator with Pathjoy",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2012",
+      "event": "Home-cleaning service starts; Adora does the first jobs herself",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2013",
+      "event": "Raises $1.7M seed and renames itself Homejoy",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2013",
+      "event": "Announces $38M from Google Ventures, Redpoint and others; 30 markets",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Apr 2014",
+      "event": "Launches in the UK; reaches 31+ cities in three countries",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "Raises prices and loses customers",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Dec 2014",
+      "event": "Pauses operations in Canada and France",
+      "kind": "warning",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "May 2015",
+      "event": "In acquisition talks with rival Handy; finance chief resigns",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "17 Jul 2015",
+      "event": "Announces shutdown, citing worker-classification lawsuits; can't raise a Series C",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "31 Jul 2015",
+      "event": "Homejoy closes; Google hires part of its tech team",
+      "kind": "end",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Mar 2013",
+      "round": "Seed",
+      "amountUsdM": 1.7,
+      "valuationUsdM": null,
+      "investors": [
+        "Andreessen Horowitz",
+        "First Round Capital",
+        "Resolute.VC"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Late 2013",
+      "round": "Series A and Series B (announced together)",
+      "amountUsdM": 38,
+      "valuationUsdM": null,
+      "investors": [
+        "Google Ventures",
+        "Redpoint Ventures",
+        "Max Levchin",
+        "First Round Capital"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 35
+    },
+    {
+      "key": "regulation",
+      "weight": 25
+    },
+    {
+      "key": "funding-dried",
+      "weight": 20
+    },
+    {
+      "key": "over-expansion",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Discounts brought the wrong customers",
+      "explain": "A **$19 first clean**, when rivals charged about $85, brought in lots of bargain hunters. Many didn't return at full price, and when Homejoy raised prices in 2014, it lost customers. Growth built on deep discounts can vanish the moment the discount ends.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Made it easy to go around the app",
+      "explain": "Homejoy kept 25% of each job. Once a customer found a cleaner they liked, both had **reasons to deal directly**. Cleaning is a repeat, trust-based relationship, so the app was most useful only for the first visit, exactly when it had spent the most to win the customer.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Low pay, uneven quality",
+      "explain": "One analysis argued Homejoy's **pay for cleaners did not make sense**, attracting less experienced workers and pushing out skilled ones. Uneven cleans meant unhappy customers and more churn (customers leaving), even as CEO Adora Cheung said quality was her biggest worry.",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "title": "Went abroad before the base was solid",
+      "explain": "Homejoy expanded to Canada, the UK and France while its US business still lost money. Each new market needed **heavy upfront marketing**. By December 2014 it paused Canada and France, after spending to enter them. Each paused market meant money already spent on ads, staff and recruiting cleaners was largely lost.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Ignored the legal risk in its model",
+      "explain": "Its business depended on treating cleaners as contractors. When cleaners sued and regulators ruled against Uber on a similar question, **investors became wary of the whole sector**. With no profit and no new money, the lawsuits became the final blow.",
+      "src": [
+        4,
+        5
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do most customers disappear after their first discounted order?",
+    "Can your best service providers easily take your best customers off-platform?",
+    "Are your providers paid so little that the experienced ones leave?",
+    "Are you entering new countries while your home market still loses money?",
+    "Would a single court ruling on how you classify workers break your business model?"
+  ],
+  "lessons": [
+    {
+      "title": "Measure repeat customers, not first orders",
+      "detail": "Track what share of customers book again within 30 and 90 days at full price. If that number is low, more marketing will only make the problem bigger."
+    },
+    {
+      "title": "Give both sides a reason to stay",
+      "detail": "For repeat services, add value that disappears if people go direct: insurance, guaranteed replacements, easy rescheduling, training and steady work for providers."
+    },
+    {
+      "title": "Pay for quality",
+      "detail": "In services, your workers are your product. Paying a bit more to keep skilled, trained people usually costs less than losing customers to bad experiences."
+    },
+    {
+      "title": "Price legal risk into your plan",
+      "detail": "If your model depends on a grey area (worker status, licences, data use), get legal advice early and model what happens to your costs if the rule goes against you."
+    },
+    {
+      "title": "Avoid discount addiction",
+      "detail": "A trial offer is fine, but set it so you can still earn on the second order. Introduce your real price early so customers who stay are customers who value you."
+    }
+  ],
+  "quote": {
+    "text": "It's great to grow fast, but you also want to grow fast and maintain that quality.",
+    "who": "Adora Cheung, co-founder and CEO of Homejoy",
+    "context": "Speaking to TechCrunch in December 2013, after raising $38 million",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "After the shutdown, Homejoy helped users contact their cleaners directly, and Google hired part of its technical team to work on home services. Rival Handy, which had raised more and grown bigger, carried on. The worker-status debate that helped end Homejoy became one of the biggest questions in the gig economy. In India, home-services platforms today face the same core puzzles of worker pay, quality and customers going direct.",
+    "src": [
+      0,
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Homejoy (citing Forbes, Fast Company, TechCrunch, Re/code)",
+      "url": "https://en.wikipedia.org/wiki/Homejoy"
+    },
+    {
+      "label": "TechCrunch: Homejoy raises $38M as it looks to expand beyond home cleaning (Dec 2013)",
+      "url": "https://techcrunch.com/2013/12/05/homejoy-38-m/"
+    },
+    {
+      "label": "TechCrunch: Homejoy says it will 'pause' operations in Canada (Dec 2014)",
+      "url": "https://techcrunch.com/2014/12/14/homejoy-canada-pause/"
+    },
+    {
+      "label": "TechCrunch: Handy in talks to acquire Homejoy (May 2015)",
+      "url": "https://techcrunch.com/2015/05/20/handy-homejoy/"
+    },
+    {
+      "label": "TechCrunch: Homejoy is shutting down at the end of the month (Jul 2015)",
+      "url": "https://techcrunch.com/2015/07/17/homejoy-is-shutting-down-at-the-end-of-the-month/"
+    },
+    {
+      "label": "TechCrunch: Why Homejoy failed, and the future of the on-demand economy (Jul 2015)",
+      "url": "https://techcrunch.com/2015/07/31/why-homejoy-failed-and-the-future-of-the-on-demand-economy/"
+    },
+    {
+      "label": "Paul Graham: Female Founders (essay, 2014)",
+      "url": "http://www.paulgraham.com/ff.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Only about 25% of customers returned after a month",
+        "note": "A widely quoted figure from a 2015 Forbes report; we could not read the original, so it is left out of the story."
+      },
+      {
+        "claim": "Lawsuits killed Homejoy",
+        "note": "The company cited worker-classification lawsuits; former staff and analysts argued the business was not profitable anyway because of churn, leakage and expansion costs."
+      },
+      {
+        "claim": "Founding year",
+        "note": "It entered Y Combinator as Pathjoy in 2010 but started its cleaning operations in 2012."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+import fs from "node:fs";
+const dir = "C:/Users/Pranjal Choudhary/Desktop/start-up derectory/web/research/_scratch/mukesh-ambani-factcheck/";
+const UA = { "user-agent": "firstrupee-books-check/1.0 (education)" };
+const show = (name, t, re, c = 170) => { const m = new RegExp(re, "i").exec(t); console.log(`[${name}] /${re}/ ` + (m ? t.slice(Math.max(0, m.index - c), m.index + m[0].length + c) : "NOT FOUND")); };
+const j = await (await fetch("https://www.jio.com/help/contact-us", { headers: UA })).text();
+const jt = j.replace(/<[^>]+>/g, " ").replace(/\\u003c[^>]*>/g, " ").replace(/\s+/g, " ");
+show("jio", jt, "business@jio\\.com");
+show("jio", jt, "jpl\\.investorrelations@jio\\.com");
+const r3 = fs.readFileSync(dir + "pages/3.txt", "utf8");
+show("ril", r3, "fraud");
+show("ril", fs.readFileSync(dir + "pages/4.txt", "utf8"), "fraud");
+const ch = fs.readFileSync(dir + "pagesx/chemanager.txt", "utf8");
+show("chem", ch, "Apollo");
+show("chem", ch, "rejects?");
+show("154", fs.readFileSync(dir + "pages/154.txt", "utf8"), "unsustainable");
+show("scroll", fs.readFileSync(dir + "pagesx/scroll.txt", "utf8"), "employee");
+show("tele", fs.readFileSync(dir + "pagesx/telegraphshale.txt", "utf8"), "15,691", 300);
+show("bs126", fs.readFileSync(dir + "pagesx/bs126.txt", "utf8"), "Marcellus", 200);
+show("56", fs.readFileSync(dir + "pages/56.txt", "utf8"), "Covid|pandemic");
+show("60", fs.readFileSync(dir + "pages/60.txt", "utf8"), "secured");
+show("59", fs.readFileSync(dir + "pages/59.txt", "utf8"), "October");
+show("53", fs.readFileSync(dir + "pages/53.txt", "utf8"), "non-binding|unsolicited");
+show("54", fs.readFileSync(dir + "pages/54.txt", "utf8"), "unsolicited|November");
+show("etkg", fs.readFileSync(dir + "pagesx/etkg.txt", "utf8"), "24\\.8");
+show("toimodi", fs.readFileSync(dir + "pagesx/toimodi.txt", "utf8"), "designation");
+const u = "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo&iiprop=extmetadata&titles=" + encodeURIComponent("File:Secretary Clinton Meets With Business Leaders in Mumbai (3730888811).jpg");
+await new Promise((r) => setTimeout(r, 15000));
+try { const x = await (await fetch(u, { headers: UA })).json(); console.log(x.query.pages[0].imageinfo[0].extmetadata.ImageDescription.value.replace(/<[^>]+>/g, " ")); } catch (e) { console.log("commons busy"); }

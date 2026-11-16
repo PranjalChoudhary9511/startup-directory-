@@ -1,0 +1,1684 @@
+Shane Greenstein  The Reference Wars
+
+                           The Reference Wars:
+    Encyclopædia Britannica's Decline and Encarta's Emergence
+
+                                                   April 4, 2016
+
+                                       Shane Greenstein1
+                      Technology Operations and Management Unit
+
+                                   Harvard Business School
+                                      Boston, MA. 02163
+
+                                                     Abstract
+
+         The experience of Encyclopædia Britannica provides the canonical example of the
+decline of an established firm at the outset of the digital age. Competition from Microsoft's
+Encarta in 1993 led to sharp declines in the sales of books, which led to the distressed sale of
+the firm in 1996. This essay offers new source material about the actions at both Encarta and
+Britannica, and it offers a novel interpretation of events. Britannica's management did not
+misperceive the opportunities and threats, and Britannica did not lack technical prowess. This
+narrative stresses that Britannica's management faced organizational diseconomies of scope
+between supporting lines of business in the old and new markets, which generated internal
+conflicts. These conflicts hindered the commercialization of new technology and hastened its
+decline.
+
+Key words: Digital, diseconomies, encyclopedias, CD-ROM, Britannica
+
+1 I have received many helpful comments from Craig Bartholomew, Charles Benton, Jane Bradbury, Tim Bresnahan,
+Michelle Devereux, Joshua Gans, Alfonso Gambardella, Rebecca Henderson, Robert McHenry, Tom Panelas, Lanny
+Passaro, Terry Passaro, Scott Stern, Randall Stross, Hal Varian, and anonymous reviewers. I am grateful for funding
+to write a case about Britannica from the Kellogg School of Management, which raised my curiosity about these
+events, and started me down this path. Kate Adams and Alicia Shems provided wonderful editorial assistance. All
+remaining errors are mine alone.
+
+                                                               0
+Shane Greenstein  The Reference Wars
+
+                                         Introduction
+
+         The rapid decline of the venerable Encyclopædia Britannica provides the canonical
+example of the decline of an established firm from digital technology. The firm reached its peak
+revenue in 1990 and 1991 (see Table 1), and had not experienced an unprofitable year since the
+1930s.2 Yet, revenues declined rapidly after Microsoft launched Encarta in 1993, a new CD-ROM
+encyclopedia. Britannica book sales fell by 50% in three years, which led it to put itself up for
+sale in 1995. More than a year later it sold to a new owner for $130 million. Britannica's rapid
+decline startled contemporaries, and the reference wars became a focal example for
+demonstrating how digital technology could visit major trauma on established firms.
+
+         This study analyzes Britannica's strategic investments and commercialization activities in
+the first half of the 1990s. Enough time has passed to revisit these events and, informed with
+new detail, infer the general lessons. Were contemporaries correct to treat Britannica's
+experience as a harbinger of broader patterns in the transformation brought about by digital
+technology? As this essay stresses, additional source material has become available, and this is
+the first study to use it.3 A deeper fact base supports a different theoretical understanding of
+what happened, as well as leads to distinct conclusions about why Britannica declined.
+
+         A long-standing puzzle lies at the core of any analysis of Britannica's experience. An
+established and leading firm would seem to have enormous advantages over its competitors in
+a new market. Established and leading firms bring refined processes, existing distribution and
+production, and favorable branding. Why would a successful firm come to have severe
+difficulties organizing for a new market?
+
+         Of particular importance for explaining Britannica's decline are theories that stress its
+inherited capabilities, especially inherited technological (in)abilities and inherited
+(mis)perceptions about the potential for new market opportunities.4 Prior to their competition,
+Microsoft and Britannica focused on very different markets - Personal Computer software and
+
+2 The statement about peak sales and uninterrupted growth is the shared understanding among every person
+interviewed for this article, which included several high level executives who would have been familiar with
+general trends at the organization. However, there is little public data available about Britannica's sales in the
+1980s, as it was a private firm. Only after it encountered market difficulties did its finances receive some public
+exposure, which is summarized in Table 1. See, e.g., Melcher, 1997.
+3 This source material includes several subsequent public accounts by participants in events, especially after
+Encarta folded. This essay also includes original source material based on interviews conducted by the author.
+4 A large literature stresses the importance of these gaps. For work on gaps in technical capabilities, see Foster, R.,
+1986, Henderson. R. And K. Clark, 1990, Henderson, 1993, or Teece, et al. 1997. For work on their evolution, see
+e.g. Henderson, 1993, Dosi, G., and R. R. Nelson. 2010, Adner and Zemsky, 2005, Cassiman and Ueda, 2006, Stein
+1997, Klepper, 1997, Jovanovic, 1982. For work on changing perceptions in the context of a theory of disruption,
+see Clayton Christensen, 1997, Joseph Bower and Clayton Christensen, 1997, Gavetti and Tripsas, 2000. For broad
+overview, see Tushman and Anderson, 2004.
+
+                                                               1
+Shane Greenstein  The Reference Wars
+
+reference book publishing-- and managed very different commercial challenges, so such
+heterogeneity in inheritance appears to be a good candidate for interpreting events in
+encyclopedias on CD-ROMs. Testing such theories requires extensive information, however, and
+underlies another motivation for the essay. A new - indeed, recently increased - fact base
+provides an opportunity to revisit these hypotheses and question the prevailing view.
+
+         To illustrate the prevailing view, consider Blown to Bits, written by Evans and Wurster
+(2000), two consultants from the Boston Consulting Group. Britannica's decline plays a
+prominent role in the book. They use Britannica's decline as their leading example, devoting the
+opening pages (p 2-5) to it, and they do stress that inherited misperception and technical
+inabilities as reasons for Britannica's decline.
+
+         Their writing portrays Britannica's management as myopic and ill-prepared. At the
+outset they stress, "The CD-ROM came from nowhere and destroyed the printed encyclopedia
+business." (p 2) They also state, "Judging from their inaction, Britannica's executives at first
+seemed to have viewed the CD-ROM encyclopedia as an irrelevance..." (p 2-3), and "Britannica
+executives reluctantly considered creating they own CD-ROM..."(p 3). The authors conclude
+that events are "more than a parable about dangers of complacency" and "Britannica's
+executives initially scoffed at Encarta" (p 4). Their words and tone also illustrates that they
+viewed Britannica as technically inept. One discussion contrasts the different approaches at
+Microsoft and Britannica to storage issues, stating "Encarta... could fit easily onto a CD-ROM...,"
+while Britannica faced problems putting its 40 million words on a CD-ROM. While other books
+examined these events, none addressed these assertions about perception and technical
+ability.5
+
+         This study will come to a contrasting conclusion. The narrative shows that Britannica's
+management faced challenges, accurately perceived the opportunities and threats, and took
+action that did succeed in addressing many of the technical challenges. The narrative shows, in
+particular, that for several years the "skunk works" at Britannica and Microsoft had similar
+technical prowess. A skunk works is a divisional home for creative researchers, housed away
+from the main operations of the organization.6 Moreover, the above remarks about storage is a
+misleading comparison because the phrase, "could easily fit onto a CD-ROM" is inaccurate. In
+fact, as discussed below, storage constraints also limited Microsoft's ability to include
+recordings, pictures, and video clips. The narrative stresses that both firms faced these storage
+
+5 Shapiro and Varian (1999) use Britannica to illustrate properties of the costs of information goods and to
+illustrate several principles for pricing information goods, focusing on pricing issues in 1995 and 1996. The
+discussions do not focus on the factors shaping Britannica's decline.
+6 Typically the development projects involve something of value to the future of the organization but are not
+directly connected to its present operational or service missions. The phrase, skunk works, originated from the
+aeronautics industry.
+
+                                                               2
+Shane Greenstein  The Reference Wars
+
+constraints, and Microsoft made a different set of choices than Britannica. A more interesting
+question has escaped attention: why did Microsoft make different choices than Britannica?
+
+         The narrative directs attention at commercialization activity around new products using
+new technologies. The phrase `commercialization of technology' means the embodying of
+technology in the design of sellable products and services, and the development of
+accompanying branding, distribution, and production required to operationalize the flow of
+physical goods into users hands so that it generates revenue. Stating the paper's core
+hypothesis succinctly, commercialization of technology created a new business, and that
+required integrating the divisions for an established market and a new market together, and
+integrating those two businesses generated many conflicts that ultimately interfered with an
+effective response to the new market. These difficulties arose because the shared assets
+possessed attributes well suited to the old market, and sharing assets across the old and new
+created problems for efforts in both lines of business.
+
+         The narrative also shows that (in)capabilities and (mis)perceptions did not play a major
+role. Instead, internal conflicts emerged after Britannica experienced technical success and
+attempted to integrate new business lines based on digital technology into the existing
+organization. Notably, a technical gap in the final product emerged endogenously, as the firm
+commercialized technology, and as Britannica executives attempted to manage the costs of
+conflict.
+
+         This study of Britannica builds on the analysis in Bresnahan, Greenstein, and Henderson
+(2012), hereafter BGH, which argues that organizational diseconomies of scope can play a key
+role in fostering disadvantages for incumbent firms facing competition from new technology.
+Organizational diseconomies of scope arise from conflict between two lines of business. One
+line is an established market, while the other is an innovative market. The latter is associated
+with the firm's response to new technical possibilities. In BGH, organizational diseconomies of
+scope play a crucial role in the moment when the old still thrives and the new first appears. If
+established firms hold assets that are necessarily shared across all market activities, such assets
+may be well-suited to an old market and may not be well-suited to the new market without
+modification. That premise employs a broad conception of a firm's necessarily shared assets,
+and includes such assets as the firm's reputation and branding with users and business
+partners, its relational contracts with its own employees or others in a supply chain or
+distributional channel, its credit rating with lenders, and, as with a publisher with a long history,
+also its content. BGH hypothesizes that sharing assets causes conflict, and conflict can cause
+behavior that leads established firms to react ineffectively to a competitive episode.
+
+         As BGH stresses, standard principles in organizational economics lie behind conflicts
+sharing those assets: Effective innovations involve both effort that cannot be easily monitored
+
+                                                               3
+Shane Greenstein  The Reference Wars
+
+and outcomes that cannot be specified in such a way that top management could write
+enforceable contracts around them. Hence, under many circumstances executives cannot give
+perfect high-powered incentives to everyone in an organization at once. Those standard
+principles do not imply that firms should give up on all innovative opportunities, even in the
+face of potential conflict. Rather, for a wide set of plausible circumstances, firms should
+rationally attempt to innovate "inside their boundaries," and in ways that do not impose costs
+on existing practices for creating value from those assets. This further implies that divisional
+managers must make choices as to how much effort to invest in activities complementary to
+the firm's assets. Such investments are necessarily sub-optimal because senior managers
+cannot write perfect contracts to optimize effort across two divisions. For example, when there
+are two divisions, senior managers cannot give the division manager of either division "whole-
+firm" incentives.7 Lack of whole-firm incentives may lead to conflict between divisions assigned
+to two lines of business.
+
+         BGH extensively analyzes two case studies to illustrate the role of organizational
+diseconomies of scope. BGH focuses on IBM's response to the introduction of the personal
+computer (PC) and on Microsoft's response to the introduction of the browser. In each episode,
+the incumbent firm encountered challenges caused by the creation of a new potential market
+and, to avoid conflicts, first attempted to develop a response outside of normal operational
+practice. The incumbent firm formed a skunk works. The skunk works addressed the technical
+challenges and succeeded, and the commercialization of the new technology raised additional
+challenges around integrating the new technology.
+
+         In addition to adding a new fact base and interpretation of events, this article adds an
+additional example to illustrate the BGH framework. The events behind Britannica's decline
+have many parallels to the cases in BGH. This article shows that Britannica's skunk works
+achieves many of its technical goals, and the management correctly perceives the general
+market opportunities and threats. Once again, the locus of challenges for the established firm
+arises from the commercialization of the new technology, and the integration of the
+commercialization efforts into the organization, and, once again, the challenges emerge
+because the organization must necessarily share the same assets across all its businesses.
+
+         Events around Britannica display a key difference. Unlike the examples in BGH, the
+connections between diseconomies and firm failure occur with less delay and with such speed
+that it could not support any illusion about the durability of the old market. In both the cases of
+
+7 There rarely are contractual instruments to resolve all incentive issues, because employees maneuver to control
+key assets with retaining rights of residual control. This is taken for granted in many papers. See e.g., Baker,
+Gibbons, Murphy (2002), Anand and Galetovic (2000), and Anton and Yao (1995). BGH also discuss these issues at
+length.
+
+                                                               4
+Shane Greenstein  The Reference Wars
+
+PC and the browser, the established firm considers all options and settles into the comfortable
+profitability of the old, while it retreats from the new market, ceding the fast growing and
+highly profitable markets to others. Only later does it lose out in the old. In Britannica's case,
+however, even the best outcome in the new market would have been a decline in sales and
+profitability, so it has to choose among the best of what appear to be bad options in both old
+and new markets. As executives begin to manage this uncomfortable situation, the situation
+goes from bad to worse in the old market. The demand for the old falls at almost the same time
+that Britannica fails to succeed in the new. As it happens, even with a much close connection
+between action and results - when no rational manager could maintain an illusion about the
+prospects for growth in the old market - management still chose to not favor the new market.
+That sequence of events highlights the key role of commercialization.
+
+         Though events at Britannica have received attention from business and strategy
+scholars, this narrative is the first major revision of the prevailing analysis. There have been
+period news articles about Britannica's decline: when Britannica went up for sale in 19958; after
+the new ownership put in place a strategy in 19979; and periodically thereafter as the
+organization struggled with new initiatives, as well as after the organization ceased publication
+of books in 2012.10 None of these news articles altered the prevailing view. For analysis of
+competition, the most extensive analysis can be found in two high-selling and well-known
+strategy books published in the late 1990s, Blown to Bits: How the New of Information
+Transforms Strategy (Evans and Wurster 2000), and Information Rules: A Strategic Guide to the
+Network Economy (Shapiro and Varian 1999). More extensive studies of Encarta tend to focus
+on Microsoft's strengths rather than Britannica's actions (e.g., Stross, 1996, 2009), and do not
+use additional information that has become available since Encarta's shuttering (see numerous
+footnotes below). To the knowledge of the author, there has not been any additional research
+of Britannica's decline, except for one business school case in which the author participated.11
+
+         The narrative begins by explaining how Britannica was organized, and then it explains
+how Microsoft came to be interested in the market for CD-ROM encyclopedias. It then analyzes
+the choices faced by both firms as they commercialized new technology. The narrative uses
+theoretical implications of diseconomies of scope to inform its analysis. The narrative ends with
+a short epilogue that reinforces the main points.
+
+8 Among several, articles appears in the Landler (1995).
+9 Among many, the best known appears in Business Week in October, 1997 (Melcher, 1997).
+10 Among many, consider, for example, Bosman (2012).
+11 Greenstein, Shane, and Michelle Devereux (2009). During the writing of the first draft of that case study in 2006
+the present author's curiosity was piqued to investigate further. The present article uses some material from the
+update.
+
+                                                               5
+Shane Greenstein  The Reference Wars
+
+                           When Microsoft met Britannica12
+
+         This story begins in 1985, soon after Microsoft announced the development and release
+of Windows 1.0, and Bill Gates likened a possible high-price high-demand CD-ROM
+encyclopedia as similar to the highly successful Word product for Apple's PC.13 Gates was eager
+to diversify Microsoft's businesses, innovate, and invest in new projects. At that point Microsoft
+was an ambitious entrepreneurial upstart with $140 million in revenue. After being told to find
+a suitable partner, Microsoft executive Min Lee approached Britannica to suggest a partnership
+on a multimedia CD-ROM version of the esteemed encyclopedia, while offering to pay a royalty
+for nonexclusive rights to use the encyclopedia's contents.14
+
+         Britannica quickly refused Lee's overture. Looking back with uncharitable hindsight and
+with no examination of alternative views, Evans and Wurster (2000) interpret this refusal as
+evidence of management's myopia. Their reasoning? A decade later, after Britannica's first
+sales decline in competition with Encarta, the deal is a symbol of "what might have been."15
+Taken out of context, that pejorative conclusion is flawed on multiple levels. Twenty-twenty
+hindsight conveniently forgets the circumstances and outlook at the time of the decision. There
+were multiple reasons for Britannica to reject a partnership with Microsoft.
+
+         There was a fundamental asymmetry to the offer from Microsoft. Microsoft stood to
+gain a great deal from a partnership, while the partner stood to gain very little in the short run
+from a partnership with Microsoft. Larry Grinnell, Britannica's director of public relations, said,
+"The Encyclopædia Britannica has no plans to be on a home computer. And since the market is
+so small, only 4 or 5 percent of households have computers, we would not want to hurt our
+traditional way of selling."16
+
+         There also was not any obvious benefit to Britannica's business. It involved a traditional
+way of selling aimed to support a full-time, rather than part-time, work force.17 A full time
+workforce was viewed as a competitive advantage, making Britannica better at sales and
+
+12 This section begins with Microsoft's first inquiries into the encyclopedia business. For more background on the
+state of the market, and the operations at Britannica see Greenstein and Devereux (2009).
+13 Stross, 1996.
+14 Stross, 1996, 80. Also confirmed during interview of Craig Bartholomew, July 18, 2009.
+15 Evans and Wurster, 2000, 2.
+16 The quote comes from Auchter, 1999. After a period of growth affiliated with improving computers for a
+hobbyist market, the personal computer market exploded with the introduction of the IBM PC, which was aimed at
+business users. Much of the initial demand for personal computers in the 1980s arose in business applications
+(Bresnahan and Greenstein, 1999, Bresnahan, Greenstein, and Henderson, 2012). US government surveys about
+home use of personal computers showed that only 8% of US households had a personal computer in 1984, while
+15% did so in 1989, and almost 23% did by 1993 (Newburger, 2001).
+17 This contrast to World Book, for example, which was largely sold by school teachers during their summer break
+as well as during the school year.
+
+                                                               6
+Shane Greenstein  The Reference Wars
+
+distribution than other firms. Britannica's approximately 2,000 sales representatives were
+trained to pitch the Encyclopedia during house calls. These were not cold call sales to homes.
+Instead, all sales calls were generated by leads designed to select potential buyers with a high
+probability of making a purchase.18 Britannica believed that customers valued the privacy and
+convenience of having a knowledgeable encyclopedia representative come to their homes to
+explain how Britannica could contribute to their children's' education. Britannica hired people
+it viewed as well-suited to the task, trained them with talking points and scripts, and provided
+them with strong incentives. An effective salesman could expect to convert a third or more of
+its leads.
+
+         Said simply, Britannica feared the reaction of its valuable asset, namely, its sales
+organization. It reasoned that if its sales force learned that the company was going to market a
+new encyclopedia product in a different form and with another firm, they would desert in due
+time, resulting in sharply falling sales for Britannica.19 "The company was driven by the sales
+organization, and the notion of selling just the information without the books at a cheaper price
+was abhorrent to them," said a Britannica former vice president for research and
+development.20
+
+         In addition, Britannica executives also could anticipate some obvious dangers that
+would require attention, should such a partnership go forward, and provided another reason to
+avoid partnering with another firm. It suspected that sales of a less expensive CD-ROM version
+of its contents could not come close to the current premium that Britannica commanded with
+the print version, reducing the company's strong profit margins. In the 1980s Britannica's
+encyclopedias commanded a price point of $1500-$2,000 versus $5-$75 for a dictionary and
+$5-$40 for an almanac. According to a 1989 internal strategy memo at Microsoft, "No other
+broad-appeal content product in any category in any medium has a well-established single-user
+price point anywhere close to this."21
+
+         There was also a potential inconsistency with brand. A multimedia CD-ROM
+encyclopedia could easily be no better than a child's toy, something just one step above a video
+game.22 Such a product would not fit with Britannica's serious, intellectual image. Britannica
+had a large educational unit, and pursued many projects with that unit, such as books and
+
+18 These leads would be generated at a variety of channels, including such varied media as television and magazine
+commercials, and representatives at professional meetings. The former would display a telephone number that a
+potential buyer would call, and then a visit would be arranged.
+19 Stross, 1996, 80.
+20 Barth, 2006.
+21 Randall E. Stross, 1996. Britannica tended to command a price between $1500 and $2000. The cost of printing
+was approximately $250, and the sales commission tended to be $500 to $600. Treating the commissions as
+variable expense, that means the variable profits were quite high.
+22 Evans and Wurster, 2000, 2.
+
+                                                               7
+Shane Greenstein                                                  The Reference Wars
+
+movies for schools. It did so in a way that preserved implied authority of the Britannica name
+above that of its younger, less prestigious, competitors.
+
+         Finally, Britannica executives in 1985 expected that a multimedia reference source
+would require years to gain popularity, and the home PC was far from a household staple in
+1985. The home market had not shown strong adoption, and forecasts for PC diffusion to
+homes widely varied. With such an uncertain forecast, a deal with Microsoft or any firm
+appeared premature.
+
+         It also should be recognized that sales of Britannica continued to grow in the 1980s.
+There was little to suggest that management should reconsider its earlier decision, or that their
+earlier decision lacked sense.
+
+         Britannica's decision also was not out of line with the view of any of its competitors.
+Unsurprisingly, therefore, after being rebuffed by Britannica, Microsoft approached others, and
+met with similar resistance. The second-largest producer, World Book, also turned down
+Microsoft, and so did Collier's. Microsoft worked its way down the ranks of the encyclopedia
+world, and received the same response everywhere. Encyclopedia publishers were not
+persuaded by pitches that the product would be a "valuable addition to [buyers'] regular
+encyclopedia and not a replacement for it . . . [and that] 50 percent of purchasers of a new
+computer would buy a CD-ROM encyclopedia."23
+
+         As will be described later, only one existing player chose the partnership, and it was
+years later, and this partner was in dire financial condition. After Microsoft approached other
+firms, it finally settled on a deal in 1989 with the nearly defunct Funk & Wagnall's, a brand that
+had survived as a "periodic promotional item in the aisles of supermarkets."24 To get the only
+deal available, Microsoft even negotiated to rewrite the encyclopedia text if necessary, though
+it had not wanted to take on this task. 25
+
+         Hindsight also conveniently underspecifies the counter-factual scenario, and presumes a
+deal between Microsoft and any encyclopedia company would have worked extremely well for
+all the parties involved. Such a scenario is Panglossian at best, especially in light of the
+numerous challenges such partners would have faced and the deeply different experiences
+both organizations brought to the situation. Any partnership would have required frequent
+renegotiation, and would have been filled with tension. On simple theoretical grounds it seems
+
+23 Stross, 1996, 83.
+24 Evans and Wurster, 2000, 2.
+25 Stross, 1996, 81.
+
+                                                               8
+Shane Greenstein     The Reference Wars
+
+optimistic, therefore, to believe such a partnership between Microsoft and Britannica would
+have sailed along smoothly in a jointly profitable arrangement.
+
+         Moreover, as further evidence for this pessimism, the narrative below describes an
+actual partnership between the two companies (in the early 1990s). Microsoft found it
+unsatisfying, and it did not last. As a result of this dissatisfaction, in the future Microsoft
+decided to go its own way without any partnership. It is easy to conclude that an arrangement
+in 1985 would not have gone any better.
+
+         A retrospective also look mischaracterizes the choices available to Britannica's
+management, giving the impression that executives had to partner with Microsoft or do
+nothing. In fact, it had an additional option, namely, develop a CD-ROM encyclopedia under its
+own control and not in partnership with any other organization. This was, in fact, the choice
+made by management only a couple short years later.
+
+         The appeal of this option is not difficult to understand. Management retained rights
+over all content, over its framing, over its branding, over many aspects of the business. That
+permitted management to fund the investment entirely, keeping both the upsides and
+downsides under its auspices, and it allowed management the option to control actions that
+mitigated potential downsides of the initiative. In light of the numerous uncertainties in the
+near term, it is not surprising it would choose to internalize the risks rather than partner with a
+young software firm from the Seattle area, or partner with any other computer firm at the
+time.
+
+         Summarizing, Evans and Wurster (2000) interpret this refusal as evidence of
+management's myopia, and the interpretation flies in the face of the evidence. Every other
+leading firm made the same choice. Moreover, Britannica's management eventually did
+develop a CD-ROM, and invest heavily in developing it, so it is not possible to conclude the
+management was asleep.
+
+                      Alternative Formats for Encyclopedias
+
+         Despite the initial decision at Britannica in 1985, concerns about alternative formats for
+encyclopedias were never far from the minds of top management. Customers frequently asked
+about it in the 1980s. From 1983 onwards, the Britannica sales promotion department made a
+set of talking points available to the field salespeople if a potential customer indicated they
+
+                  9
+Shane Greenstein  The Reference Wars
+
+would wait for an electronic version and, thus, delay purchasing books at that moment.26 (See
+Exhibit 1) For example, a key talking point was the following: "The main reason most people
+give for wanting a computerized Encyclopedia is to be able to find things quickly. A computer
+does, indeed, search and sort information very well. But most systems available today use the
+key word search. For example, if a person wants to look up orange, the result will be a listing of
+every place the word appears, whether or not it is a significant entry and regardless of whether
+it refers to the color orange; Orange County, California; the fruit; or William of Orange. It is then
+the user's responsibility to determine which, if any of these, refers to the item being sought."
+
+         The sales department and editorial department took different actions. The management
+of the editorial department began investing in CD-ROM development a few years after Lee's
+overture. Britannica executives started building a multimedia encyclopedia and eventually
+launched the first multimedia CD-ROM encyclopedia.
+
+         In an unsurprising choice, to avoid taking commercial risks with Encyclopædia
+Britannica, the management chose to issue the CD-ROM under the Compton name. This brand
+was owned by the Britannica organization, but was less expensive and less prestigious.
+Britannica demonstrated the NewMedia version of Compton's Encyclopedia in April 1989, with
+graphics and sound bites from famous narrators such as Patrick Stewart, who was at that time
+known for his role as Captain Jean-Luc Picard on Star Trek: The Next Generation.
+
+         This was not the myopic investment supported by an incompetent executive team. It
+comes so early that it is impossible to interpret it as myopic.27 In a year-end wrap-up,
+BusinessWeek dubbed the Compton Multi-Media Encyclopedia one of the top ten new products
+of the year. A DOS and MAC version became available in 1991, which will be subsequently
+discussed.28
+
+         The beginnings of strategic conflict between old and new are most apparent in the
+decision to price the CD-ROM. Britannica gave the disk away to purchasers of a print
+Encyclopedia, but stand-alone buyers paid a hefty $895.29 The pricing decision followed the
+general strategy for the CD-ROM: Management and the sales force viewed the disk as a "sales
+closer," not as an investment into a new medium, and certainly not as a stand-alone
+
+26 Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July 26,
+2006). See the sidebar at http://www.howtoknow.com/sidebar1.html.
+27 Indeed, a reader of Blown to Bits (2000) would never know that, in fact, Britannica entered the market for CD-
+ROM encyclopedias several years prior to Microsoft's debut of Encarta (1989 versus 1993), and was one of the
+earliest entrants among established encyclopedia firms. Nor would a reader know that Microsoft's approach
+reacted to Britannica's experiments. Such facts are simply missing from the one-sided analysis in the book.
+28 Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July
+26, 2006). See the sidebar at http://www.howtoknow.com/sidebar1.html.
+29 Stross, 2000, 86. The price came down relatively quickly for schools, which received discounted sets in the range
+of $295-$395. Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               10
+Shane Greenstein                                                   The Reference Wars
+
+commercial market. Such an approach limited the internal tensions with the sales force's
+concern about cannibalizing book revenue.
+
+         The sales force had other difficulties: It had been hired for selling books, not for
+supporting an application on PCs. The change required costly training. Many employees could
+not, or did not, know how to support the disk: "I conducted over a year of training with the
+sales force and taught them step by step how to use the demo on it; they didn't know how to
+operate the computers in the potential buyers' homes," said Deline, a former employee at
+Encyclopædia Britannica Educational Corporation.30
+
+         Ultimately, the pricing decision was unsuccessful for several reasons. First, at the price
+point offered to stand-alone buyers, the CD-ROM by itself was feasible only for the high end of
+the market, but Compton's did not have the reputation to appeal to that market. Second, the
+book-buying customers did not view the disk as a valuable freebie. Compton's did not have the
+reputation for providing the breadth and depth of information that its more expensive
+counterpart did. Third and important, the CD-ROM proved costlier to develop and execute than
+the core product. "When you're working in a new medium, you can't expect to get things
+produced cheaply. Britannica was not prepared for that," said Suzy Deline.31
+
+         This example begins to illustrate how organizational diseconomies of scope at Britannica
+shaped its production and distributional activities in the new market. As an early entrant, the
+company had a variety of options for how it commercialized the new technology. Initially it
+chose features for the new that avoided the costs of conflict, and that made exploration
+consistent with the existing business. These features of the choice were most apparent in the
+branding, distribution, and pricing choices: For branding, it chose not to risk its primary and
+most valuable brand, Britannica, and chose to use its secondary brand, Compton. For
+distribution, it chose to use existing distribution channels--not a third party or PC retailer, as
+was common for most PC software. This choice necessitated additional expenses to train its
+workforce. For pricing, Britannica initially chose a price point that did not suit the new
+market--attempting to sell the product as a complement to the books and not a substitute for
+them.
+
+         By October, when Compton's officially launched the Multimedia PC, Britannica's
+management changed parts of its approach, taking on a business partner for some aspects of
+the distribution and marketing. This launch was a large coordinated attempt to advance the
+technology of both hardware and software, with many firms involved. Indeed, Compton's
+launch partner was Microsoft, and at that time Microsoft's only offerings were Multimedia
+
+30 Suzy Deline, July 12, 2006.
+31 Suzy Deline, July 12, 2006.
+
+                                                               11
+Shane Greenstein  The Reference Wars
+
+Bookshelf (a reference shelf with the much slimmer Columbia Concise Encyclopedia), Cinemania
+(a movie guide), and Multimedia Beethoven (focused on the Ninth Symphony). Compton's was
+cheaper and available as a stand-alone product by then, but the price remained high, between
+$395 and $595.32
+
+         Once again, conflict inside Britannica shaped decisions. Britannica did change the
+distribution channel, reflecting industry norms. Yet, it did not change the price enough to make
+it appeal to consumers. Even though one in six US households had a PC by this point, and these
+households disproportionately possessed desirable traits, such as high income and high
+education, with the benefit of hindsight it is not surprising management's choices did not sell
+very much.33
+
+         More to the point, the managers at Britannica encountered many difficulties in trying to
+maintain two sales organizations who used two different channel strategies. Electronic formats,
+CDs in this illustration, did not easily fit into this existing sales channel, despite the managers'
+attempts to do so. Perhaps most striking, management grappled with several attempts to
+maintain their existing organization while also trying to introduce the new formats they had
+developed. Rather than develop a new channel for its CD, which would have produced
+numerous conflicts with existing sales channels, management struggled to use the existing sales
+channels. This led to several compromises, mostly in the pricing of the CD and its bundling with
+other products. These compromises did not work very effectively for the new market.
+
+         Was the resistance of the sales division myopic? This was the most profitable division of
+the organization. Their resistance arises from the need to maintain present commissions, retain
+the workforce, and maintain their positive outlook, which is necessary for continuing success
+under any environment. At most, such a short-term outlook can illustrate a particular form of
+myopia at one division, because it does not consider the consequences this behavior has for
+experiments that will shape the future of the entire organization. Nonetheless, those concerns
+are also quite understandable, since the sales organization generated a substantial amount of
+revenue and profit, and the future was uncertain. More to the point, this distribution channel
+supported a set of business processes for profiting from Britannica's reputation, and required a
+relational contract with the personnel who carried it out. Varying from prior understandings
+risked those relational understandings, and Britannica's actions also can be as interpreted as
+symptoms of a key trade-off, of giving one of two divisions the proper incentives to consider
+the returns of the other.
+
+32 Craig Bartholomew, discussion, July 18, 2009.
+33 After a few years, Britannica decided not to make a long-term investment in the CD-ROM, selling the NewMedia
+unit to the Chicago Tribune for $57 million in 1993. See Auchter, 1999, for a brief description.
+
+                                                               12
+Shane Greenstein  The Reference Wars
+
+         Step back from the detail to reflect on what the narrative has revealed about the role of
+inherited perceptions of Britannica's management. When events in the 1980s are examined out
+of context it is possible to explain Britannica's decisions as arising from misperceptions about
+the prospects for the CD-ROM business. This explanation becomes much more implausible
+when examined in light of many other factors within Britannica and in the market environment.
+It also appears inconsistent with the action of an executive team, who acted in ways consistent
+with strategic considerations and operations of a profitable business. Moreover, many actions
+taken by the same team appear to arise from those same strategic considerations, and would
+lead the team to eventually enter the CD-ROM market.
+
+         While the above discussion cannot rule out misperceptions as an explanation, it
+becomes far less likely in the face of a simple alternative explanation, which is grounded in the
+organization's historical strengths, and features of the setting. This discussion also began the
+steps towards an explanation that stresses the role of commercialization in shaping
+management's views. That is also the spirit of the next section, which discusses the role of
+inherited technical (in)abilities.
+
+                                       Technical gaps
+
+         Technical gaps between the products from Microsoft and Britannica eventually did play
+a role in sales. How should they be understood, as inherited, or as something that arose
+endogenously, shaped by conflict in commercial objectives and strategic goals? This section
+examines this question.
+
+         One technical limit was clearly inherited, and placed Britannica at a disadvantage. Its
+text was so large it challenged the capacity of most PCs in the early 1990s.34 In addition, there
+were many problems related to finding the right search technology, as well as the appropriate
+structure for the text, photographs, and graphics. Many technical issues had never been
+addressed before, and not on this scale. As recounted by retired editor-in-chief, Robert
+McHenry, about the (later) 1993-1994 efforts,
+
+                  "Britannica text included a great many `special characters,' including
+                  letter forms and diacritics used in non-English words (often proper
+                  names), mathematical symbols, and scientific notation. Translating
+                  raw Britannica text into ASCII or into the larger--but still limited--
+                  character sets used in Windows and other platforms was difficult
+
+34 Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July
+26, 2006). See the sidebar at http://www.howtoknow.com/sidebar1.html.
+
+                                                               13
+Shane Greenstein  The Reference Wars
+
+                  and error-prone, and the results were judged unsatisfactory by the
+                  Britannica editors."35
+
+         Many other technical capabilities were endogenous, and arose from investments by the
+organization. For example, Britannica's management changed the assignment of its skunk
+works over time. In April 1993 the Advanced Technology Group was formally organized,
+providing structure for informal initiatives that had been going on for some time within the
+Compton group. It included personnel who were veterans of the Compton group, as well as
+others, and shared space in Compton's Carlsbad, California, office. In August of 1993 it moved
+to La Jolla, California, near the University of California at San Diego.
+
+         The group enjoyed considerable freedom in its endeavors for the next year, due mainly
+to its physical distance from Chicago and senior management's immediate and pressing interest
+in direct sales. It was kept distant from the sales organization and received excited feedback
+from its own staff, the Chicago technical staff, and the editors.36
+
+         Experiments continued, particularly with formats consistent with the Internet. For some
+time the members of this group debated a variety of potential ways to make Britannica
+available in a networking format. There were a daunting set of technical choices related to
+hardware and software. The efforts of the skunk works cannot be characterized as myopic.
+Through the initiatives of this group, eb.com was registered on April 13, 1993, which is a
+symptom of how this group addressed frontier issues with a forward-looking approach.37
+
+         The Advanced Technology Group achieved a notable technical milestone at an early
+turning point, when employee John Dimm, saw a pre-alpha version of the National Center for
+Supercomputing Applications' (NCSA) Mosaic browser in June 1993 at a bookseller's convention
+in Miami. By September, Mosaic was formally released. By December, the Advanced
+Technology Group had the whole article database up and running in HTML (viewable at
+www.eb.com/eb.htm).
+
+         In January 1994 Britannica Online was demonstrated in the Chicago office and at a
+computer science class at the University of California San Diego. On February 8, John Markoff
+published an article on the front page of the New York Times' business section entitled,
+"Britannica's 44 Million Words Are Going On Line." This article generated many hits to the Web
+site and numerous leads for beta testers. More development work continued, refining the
+
+35 Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July
+26, 2006). See the sidebar at http://www.howtoknow.com/sidebar1.html.
+36 Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July
+26, 2006). See the sidebar at http://www.howtoknow.com/sidebar1.html.
+37 April 1993 is quite early for an online experiment. For example, the National Science Foundation (NSF) would not
+fully privatize the Internet backbone until the middle of 1995, and Netscape had not yet been founded.
+
+                                                               14
+Shane Greenstein  The Reference Wars
+
+search and display capabilities of the site. On September 1994, Britannica Online 1.0 was
+formally released.
+
+         The accomplishments of Britannica Online came very early in the history of the Web,
+and should be understood as one of the earliest such technical successes in the online world. By
+comparison, Netscape did not release a beta version of its browser until November 1994, and
+Netscape's first official release was later still, in February 1995. Microsoft released its first
+browser (a repackaged licensed version of Mosaic) with its launch of Windows95 in August of
+1995 and did not announce its Internet strategy until December of 1995. Britannica's Advanced
+Technology Group had accomplished an enormous achievement ahead of almost every other
+potential content provider and commercial application. From a technical standpoint Britannica
+Online was well positioned to take advantage of the Web's growth.
+
+         These technical milestones also should be understood in context. The skunk works
+accomplished what it had been set up to do for the online environment. It anticipated the
+future and built prototypes to address it.
+
+         Once again, while the technical issues were non-trivial, these events suggest that a
+technological gap was not the most salient reason why Britannica declined. Moreover,
+management was not "complacent" in any common sense meaning of the term. It had
+arranged for technical talent to build prototypes on the frontier of what was technically
+possible.
+
+         Rather, the key issues lay elsewhere, in the commercialization of the new technology at
+Britannica. As the pricing and initial branding decisions for the CD-ROM illustrate, Britannica
+faced challenges commercializing a CD-ROM in ways consistent with its existing offerings and
+organization. As it would turn out, commercializing the online channel did not face such issues,
+but simply did not generate anywhere near as much revenue as the decline in book sales.
+
+         Before turning to this detail, however, it is useful to contrast the technical
+developments at Britannica with those at Microsoft. This will reinforce the observations about
+the endogeneity of the product features.
+
+                                    Sleepless in Seattle
+
+         Microsoft took a distinct approach to developing an encyclopedia on a CD-ROM. While
+differences in technical capabilities between Microsoft and Britannica played a role in those
+choices, the organizational conflicts and commercial interests of the firms played a far greater
+role.
+
+                                                               15
+Shane Greenstein  The Reference Wars
+
+         As had already been illustrated, Microsoft never considered developing its own
+encyclopedia content. Finding the high quality of contributors and editors it needed to be
+successful would have been far too expensive and taken far too long.
+
+         Signing with Funk & Wagnall's had not been part of the original plan. Once Microsoft
+had done so, several challenges became more salient for Min Lee's development group. First
+they decided that there was not enough value in the text to simply reformat it on a CD and
+resell it.
+
+         For what happened next it is important to understand that an online encyclopedia was a
+pet project for the CEO, Bill Gates, and as such, it possessed different qualities and goals than
+the skunk works at Britannica. At Britannica, the skunk works division aspired to translate the
+core product, encyclopedias, into a new technical format affiliated with CD-ROMs. The skunk
+works at Microsoft, in contrast, aspired to develop an encyclopedia for CD-ROMs to
+complement their other businesses, namely, PC operating systems and PC applications.
+
+         Despite being a pet project of the CEO (or, perhaps, because it was one), Encarta also
+did not escape scrutiny. Min Lee's efforts were not well regarded by Microsoft's board. The
+board cancelled funding for project in November 1990 and removed Lee from responsibility for
+the project. He would never again be affiliated with it. Once again, these are not the actions of
+an irrational company hell-bent on entering the online encyclopedia market in spite of the
+costs. Every step was calculated, trading off potential risks, costs, and returns; poor early
+results, combined with the absence of a clear strategy, almost pulled the plug on the entire
+effort.
+
+         As it happened, the cancellation had not yet been carried out when Craig Bartholomew
+wrote a short memo in February 1991 proposing a new approach to building the project.
+Bartholomew had come from the publishing industry before joining Microsoft, and had a
+distinct take on the possibilities and the appropriate positioning for a CD-ROM encyclopedia.38
+This memo eventually found its way to the desk of Bill Gates, and after reading Bartholomew's
+suggestions, Gates successfully sought the board's approval to re-fund the effort. As a reward
+for his initiative and innovative ideas, in April 1991, Craig Bartholomew was appointed the new
+head of the development team, reporting to Tom Corddry, who was in charge of multimedia
+publishing.39 Bartholomew ended up heading Encarta for its entire life as a product - until
+Microsoft shuttered it in 2009.
+
+38 Bartholomew's path to the head of the Encarta project was unlikely. In 1988, after six years in the book
+publishing industry, he joined Microsoft and first worked on the developer network for the CD-ROM consumer
+division, which explored developing applications for the CD-ROM, part of a program at Microsoft to enhance PC
+sales and help change the dominant form of PC software (i.e., substitute CD-ROM for floppy disks).
+39 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               16
+Shane Greenstein  The Reference Wars
+
+         The online encyclopedia project was not a priority for Microsoft, and so, without much
+controversy, Gates did not invest a great deal of resources in it. For the first six months, until
+October 1991, Encarta's staff consisted of four and a half full-time positions.40 As a benchmark
+for how small this was, recognize that Windows 3.0 had hundreds of full-time employees
+dedicated to it.
+
+         Two main challenges framed the explorations by the group thereafter: Branding and
+value creation. For branding, the group eventually decided to drop the Funk & Wagnall's name,
+given its poor brand cachet, and replace it with a new name, Encarta.41 The group also
+reaffirmed that there was not enough value in the text simply to reformat it on a CD and resell
+it; something had to be added or changed. Under Bartholomew's leadership, the group pursued
+a new direction for creating value beyond merely putting existing text on a CD-ROM.
+
+         Bartholomew was aware that Compton did not act as a "pull-through," and this was part
+of the motivation for continuing to fund Encarta in 1991.42 A "pull-through" for PCs motivates
+customers who otherwise might have hesitated to make the purchase. Families in particular
+were targeted, as they wanted to give their children an advantage in school, but a PC purchase
+often stretched their budgets. At that point the model for this conception was Grolier's CD-
+ROM, which came bundled with the purchase of an Apple Mac. The IBM PC had no equivalent
+match other than the offering from Compton's, which the Microsoft team regarded as
+inadequate to the task. Importantly, they viewed it as priced too high to serve as a pull-
+through.43
+
+         Compton's failures motivated the direction of Microsoft's innovative efforts with
+Encarta. The Encarta team decided to do more than build a lower-priced version of Compton's
+product, in order to differentiate Encarta from the traditional encyclopedias currently on the
+market.44 This was making a virtue of necessity, since they believed Funk & Wagnall's text was
+not as good as Compton's, and they would not be able to match it on that dimension of quality.
+The team aimed to stress Microsoft's core competency above all else--multimedia software
+presentation. In other words, Encarta could invest in choice graphics and sound to build
+something different.
+
+40 Stross, 1996, 86.
+41 The renaming occurred in fall 1992, after Lee had departed and Bartholomew was in charge. The name was
+chosen through a process of elimination. There was no enthusiasm for "Encarta," but Bartholomew recalled that
+"the other choices were just worse--Fountia, FountX, and Cyclus . . . The early incarnations were called the MME
+[MS Multimedia Encyclopedia]." Craig Bartholomew, discussion, July 18, 2009.
+42 Craig Bartholomew, discussion, July 18, 2009.
+43 Craig Bartholomew, discussion, July 18, 2009.
+44 Stross, 1996, 81.
+
+                                                               17
+Shane Greenstein  The Reference Wars
+
+         After settling on this broad approach, the team explored further and concluded that
+they had been unexpectedly fortunate. They concluded that the reading level of Britannica was
+well beyond the capabilities of a typical school child; "it was written by experts for experts."45
+They thought World Book better met its target audience, as did Funk & Wagnall's text.
+
+         The group conducted lead-user studies, which showed that intensive users of
+encyclopedias rarely stuck to one entry. Instead users sought a deeper understanding of a topic
+by moving among different entries. That observation motivated developing better search
+technologies, references with hyperlinking, and content that facilitated searching multiple
+entries.46
+
+         As the team further developed its plans to develop links and cross-references, it
+concluded that the text might turn out to be an advantage for Encarta's purposes. As explained
+by Corddry many years later,
+
+                  "The text from Funk and Wagnall's was far superior to Britannica's
+                  as a starting point for a digital encyclopedia because it was much
+                  more nearly "structured data," meaning that the architecture of the
+                  text was very consistent from one article to the next. This allowed
+                  us to add a lot of "contextual" value--to compute the relatedness
+                  of every article to every other article, and build what was at the time
+                  a uniquely useful set of links and navigational tools across the entire
+                  content."47
+
+         Encarta's team set off on a course designed to highlight the computer's capabilities at
+that time.48 To create an attractive reference source, Microsoft stressed ease of use and
+included search capability; functionality for hyperlinks across articles; and embedded (though
+gritty) video, voice, and graphics that the team anticipated would grab users' attention.
+
+         The team acquired short videos and recordings of other extraordinary sounds.
+Consistent with their approach to marketing the product, the Encarta team decided to include
+multimedia that helped grab attention in, and drive sales at, third party outlets, where they
+expected users to take no more than a few minutes to examine the product. It chose to put
+priority on video and sound which made for an impressive demonstration at the store. For
+example, Neil Armstrong's first steps on the moon was thought to be a video that would grab
+
+45 Craig Bartholomew, discussion, July 18, 2009.
+46 Craig Bartholomew, discussion, July 18, 2009.
+47 Comments by Tom Corddry, March 31, 2009, http://bits.blogs.nytimes.com/2009/03/30/microsoft-encarta-dies-
+after-long-battle-with-wikipedia (accessed July 28, 2009).
+48 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               18
+Shane Greenstein  The Reference Wars
+
+attention. Similar reasoning favored recordings of Einstein's voice and some of the earliest
+recordings of Thomas Edison.
+
+         The team also aspired to differentiate by including less static information. Steve Ballmer,
+COO of Microsoft, stressed that the information in a traditional encyclopedia did not change
+frequently. The team became familiar with his mantra for this point, "Ducks are still ducks.
+Lincoln is still dead."49 To meet this goal Encarta's team sought to stretch the definition of an
+encyclopedia, principally by including two categories of topics that tended to be unrepresented
+in mainstream encyclopedias--popular culture and business events. This was where the Encarta
+designers sought to take advantage of a known competitive weakness in traditional
+encyclopedias.
+
+         These choices illustrate an important observation about the distinct priorities of
+Microsoft in comparison to Britannica, as the endogenous response to their respective
+competitive position. Faced with issues over its relevancy and newness, Britannica published a
+"book of the year."50 It did not conceive of the topics within the CD-ROM as flexible, as
+Bartholomew's team would do. Britannica also already presumed it had branded appeal to
+users. It did not conceive of reimagining the content of an encyclopedia to make it appealing in
+a different way. Microsoft's design arose endogenously out of the need to compete with a
+leading product, and because Microsoft viewed direct competition with the leader (by
+replicating the appealing attributes of the leader) as a failing strategy. The new technical
+features served to differentiate the new entrant from the leader.
+
+         These new directions brought the Microsoft team up against storage capacity limits, and
+led them to a different solution than the one Britannica had taken. Consider the observations of
+Jon Kertzer, one of the earliest employees in the team to face the challenges of how to encode
+music in a CD-ROM. The storage capacity of a CD-ROM imposed limits: "We only had a limited
+amount of space. A CD-ROM is 700-750 megabytes, and there was always a fight between
+different parts of the project about how much disk space you would get. And maybe we got 200
+megabytes, and there was limited good quality compression back then. This was before the era
+of MP3."51
+
+         How did the Encarta team deal with these capacity limits? Their choices built on a
+different set of priorities about how to design a product, which had evolved as the team
+
+49 Craig Bartholomew, discussion, July 18, 2009.
+50 The book of the year was explicitly designed to address user's perception that encyclopedias became dated.
+User questions to staff about topics not included in the encyclopedias gave editorial staff a good sense about
+which current events elicited the most interest from users. Discussion with former head of South American Sales,
+Lanny Passaro, and former head librarian, Terry Passaro, August 6, 2008.
+51 Museum of History and Industry, "Speaking of Seattle," Interview with Jon Kertzer, July 31, 2002, pp. 17-18,
+http://www.seattlehistory.org/include/techpdfs/Jon%20Kertzer%20FINAL.pdf (accessed July 28, 2009).
+
+                                                               19
+Shane Greenstein  The Reference Wars
+
+pursued this new direction. Priorities had to be consistent with Encarta's marketing plan, which
+would build on Microsoft's experience in selling software. For example, they limited pictures
+and videos to those they assessed would help display the product.
+
+         Once again, notice the contrast with Britannica. Microsoft chose to face the risks of
+launching in spite of storage limits, while Britannica chose to experiment with another brand it
+owned, where the storage issues were not as severe as it faced with its flagship product. Those
+different decisions do not illustrate that both firms faced different technical constraints. In fact,
+they were similar, and their capabilities in their skunk works were also similar. Rather, they
+reached distinct outcomes due to something fundamental about the two firms' strategies and
+willingness to incur risks in commercial markets.
+
+         By 1992 Microsoft was no longer the small upstart it had been in 1985. Personal
+computers would be in 23% of U.S. households by the next year52, and all forecasters predicted
+more use in more households over the next few years. With the success of Windows 3.0 and
+Office, Microsoft was now the largest applications provider for the IBM PC architecture, as well
+as for the Apple architecture.
+
+         The Encarta team chose to sell its product much like other successful application
+software did, through third-party retailers such as Egghead and CompUSA, the largest retailers
+at the time. Marketing received only a small budget, in keeping with standard practice at
+Microsoft. Namely, it was done through public relations, in-store promotions, Sunday circulars,
+magazine reviews, and occasionally newspaper reviews. Once again, this was a very different
+channel strategy than any encyclopedia had ever used. Encarta expected to start with this
+standard pragmatic approach and learn from experience.
+
+         Microsoft was finally ready to release Encarta in March 1993, after it missed the first
+proposed release date of September 1992. Despite all the planning, it was a disastrous launch.
+The first version of Encarta sold less than 10,000 copies. Only an eternal optimist could have
+interpreted these events as positive signs that a CD-ROM would become a successful product.
+According to Bartholomew, this first version "failed fast."53
+
+         As it turned out, that turned out to be important. The Encarta team learned from its
+experience, and the failure did not interfere with its ability to put those lessons to use on the
+next launch. Encarta team members realized why the release could not and would not generate
+high sales. Errors had resulted from their own naïve misunderstanding of the market. First, the
+timing was poor. Encarta had missed the holiday retailing season in October, November, and
+December, when the bulk of sales occur. Second, at $295, the price was simply too high to
+
+52 Newburger, 2001.
+53 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               20
+Shane Greenstein  The Reference Wars
+
+attract much interest. The price point had to be lower. Third, some technical issues needed
+attention. In some areas Encarta delivered some of its information unnecessarily slowly.
+
+         In retrospect, concluded Bartholomew and his team, Encarta had been lucky. The failure
+was so fast, most reviewers and potential users did not notice. The brand had not acquired any
+(negative) reputation.54 That gave the team time to take corrective actions without attracting
+wide attention. Also the team was fortunate to have the support of the CEO. In many
+organizations, such failure would preclude a second try. Gates continued to have an appetite
+for the project, for the costs and risks, and encouraged the team to learn from its experience.
+
+         The next release came in October 1993, just before the holiday shopping season. This
+release sold for $99 and included faster capabilities. The price was ostensibly a temporary
+"holiday promotion," but, once lowered, it stayed there.55 As with many of its other multi-
+media choices, the team continued to pay additional attention to promotional aspects, such as
+demonstrations in stores. This time it paid off handsomely with a video of the Rabin/Arafat
+signing ceremony for the Olso Accords from September 13, 1993, only a month earlier.
+Bartholomew recalled that it took great effort to include such a recent event, and it was
+regarded as "revolutionary to get it in there."56 As it turned out, such current events grabbed
+the attention of potential buyers, as had been hoped.
+
+         While standard technical reviewers of software were not "wowed,"57 potential buyers
+were. Buyers noticed the songs, movies, bright pictures, and the current events. The linking
+between entries also received kudos. Entries were presented in plain and easy-to-use formats.
+Moreover, the use of text from Funk & Wagnall's never seemed to bother the target customer,
+families with school-age children. The multimedia parts of Encarta appealed to users in this
+category, as did the lower price.
+
+         In the 1993 holiday season alone, Encarta sold 120,000 copies. Production could not
+keep up with initial demand.58 It sold 350,000 copies in its first year, and 1 million the following
+year.59 By the norms of encyclopedias, this was extraordinary fast growth, and, in terms of unit
+volume, it was an unprecedented scale of sales. With just under a quarter of an estimated 95
+million households owning a PC, these sales figures translate into approximate one in twenty of
+household PC users owning Encarta after that first full year of sales. By the norms of new
+software, it also was fast.
+
+54 Craig Bartholomew, discussion, July 18, 2009.
+55 Stross, 1996, 103-104.
+56 Craig Bartholomew, discussion, July 18, 2009.
+57 Walt Mossberg, the well-known IT reviewer for the Wall Street Journal, was not impressed. Stross, 1996, 90.
+58 Craig Bartholomew, discussion, July 18, 2009.
+59 Stross, 2009. "Digital Domain: Encyclopedic Knowledge, Then vs. Now," New York Times, May 3, 2009.
+
+                                                               21
+Shane Greenstein  The Reference Wars
+
+         After the success of 1993, Encarta set on a path to grow from its shoestring origins. It
+would operate altogether differently than any encyclopedia that had come before. Explained
+Corddry,
+
+                  "By the standards of the print encyclopedia world, Microsoft
+                  invested heavily in expanding and updating the content of Encarta
+                  right from the beginning. We consciously invested in the
+                  contextual value . . . in expanding the core content, in creating the
+                  world's first truly global encyclopedia, and in an efficient update
+                  cycle. We had enough "multimedia" in the original product to keep
+                  the reviewers happy, but focused on the overall usefulness of the
+                  whole product much more than on the relative handful of video
+                  clips, etc."60
+
+         The organization grew into a unique business. Similar to an encyclopedia, the variable
+costs were low while the fixed costs were high.61 However, the level of those costs supported a
+very different price point for the end product because the low price point supported high
+volumes. The cost of materials for the CD and packaging was quite low, sometimes $5 a box.
+The fixed expenses arose from editorial staff, programmers, and additional staff needed to
+update the content, as well as to tailor the product to different languages and countries.62
+Much like in traditional encyclopedia businesses, therefore, the business strategy became
+oriented toward generating sufficient sales volume to support revenue that covered the fixed
+costs of the operation--again, with one key difference, the unit volumes were in the millions
+instead of the low hundreds of thousands.
+
+         The technical needs of Encarta shaped personnel hiring practices, and made these
+distinct from the hiring of editors at Britannica. Once again, the endogeneity of technical
+capabilities played a role. Many encyclopedia editors had learned habits and processes that did
+not translate well into the PC setting. They had learned to edit to fit, that is, edit the text for
+entries to fit into proscribed length (regarded as non-value-added work in the quote below).
+While Encarta faced constraints fitting its multimedia content--photos and videos--on a CD-
+ROM, it faced a very different set of editorial trade-offs. As explained by Corddry,
+
+60 Comments by Tom Corddry, http://bits.blogs.nytimes.com/2009/03/30/microsoft-encarta-dies-after-long-battle-
+with-wikipedia.
+61 Shapiro and Varian (1999) stress this aspect of the business, stating, "The first copy of information is costly to
+produce but cheap to reproduce"(p 20-21). They further assert that the dominant component of Britannica's fixed
+costs are sunk, and the variable costs face few capacity limits, so marginal costs generally do not increase with
+volume (p 21).
+62 At its peak, Encarta would employ 225 regular employees. Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               22
+Shane Greenstein  The Reference Wars
+
+                  "The senior editors at [print encyclopedias] estimated that at least
+                  half of the total editorial effort was devoted to this sort of non-
+                  value-adding work. At Encarta, by contrast, nearly all the editorial
+                  work added value--writing new articles, updating, expanding and
+                  improving existing articles, and, of course, adding the sorts of
+                  elements that computers could support that were truly valuable:
+                  the sound of a bassoon, the way gravity works in orbital models,
+                  and so forth."63
+
+         Bartholomew and Corddry sought editors possessing skills consistent with the
+differentiating factors behind Encarta. Bartholomew and Corddry aspired to hire employees
+with skills in creative editing. That facilitated new thinking about adding topics and material
+that had never before been added to an encyclopedia, such as pieces of pop culture and any
+other material that would be attractive to users.64
+
+                       Interpreting events in light of theories
+
+         It is useful to step back and assess once again. It should be readily apparent that
+Britannica was not a monolithic company, but one with distinct divisions, each of which
+contained different points of view, and who conflicted with each other. The company's
+management did invest and develop some frontier technical skills. Its skunk works successfully
+developed a CD-ROM for Compton's at an early moment, before almost any other participant.
+It also did develop an online presentation of its flagship product, again at a very early moment
+in the development of such format. More to the point, both of these are laudable technical
+achievements, and in spite of them, the organization had a difficult commercial experience.
+
+         Most actions do not fit the standard model of myopic managerial decision making.
+While it is not possible to gain records into what management believed, their actions,
+complemented with interview, provide sufficient evidence to reject simplistic assessments
+based on a theory that management held false beliefs. For instance, there was no period of
+time in which the entrant served a differentiated customer that Britannica ignored, nor was
+there a period of time that Britannica did not work on its product while Microsoft grew and
+improved Encarta. There also was no myopia at Britannica about which customers the entrant
+and new product was trying to serve or about the threat posed by the CD-ROM in the near
+
+63 Comments by Tom Corddry, http://bits.blogs.nytimes.com/2009/03/30/microsoft-encarta-dies-after-long-battle-
+with-wikipedia.
+64 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               23
+Shane Greenstein      The Reference Wars
+
+term. It is simply impossible to sustain a view that the key executives maintained beliefs about
+its customers that later turned out to be false.
+
+         Rather, actions reveal that tolerance for commercial risk differed at the two firms, and
+so did the orientation towards launching a product for the new commercial opportunity.
+Microsoft canceled the project, then relaunched the product with a different strategy, and after
+its first fail, it learned from its experience. That shows a tolerance for risk, albeit not an infinite
+tolerance, as illustrated by the unwillingness to devote more than a four people to the project
+initially. Then Microsoft found a successful formula and built on it, immediately gaining
+prominence in the market by selling large volumes. There also was tolerance for some risks at
+Britannica. Its Advanced Technology Group also launched and learned, but with one key
+difference. Britannica's management trimmed the set of actions it took during
+commercialization, trying to avoid exploring commercial actions that raised conflicts with the
+division of its own profitable product. That demonstrates an unwillingness to tolerate risking
+current (and sometimes profitable) operations to the needs of a new product.
+
+         As discussed, Britannica's team conceived of the product design in terms that did not
+lead it to explore what became Microsoft's successful design. The importance of that
+conceptual difference is only apparent in retrospect, and at the outset even Microsoft's
+executives did not perceive it. They too sought partnerships with the leading encyclopedias and
+conceived of their differentiation strategy only after making a deal with one that was perceived
+to be of lower quality. At that point the different motivations of the two organizations played a
+key role, motivating different risk-taking commercialization behavior and different strategies
+for exploring new designs and new pricing models.
+
+         What about the role of inherited technical prowess? Both Britannica and Microsoft
+developed the ability to embed sound and video. Microsoft put that skill into the service of
+exploring a product that was not highest in quality, just as Britannica had done with Compton's.
+
+         And, yet, events do suggest unique technical prowess eventually helped Microsoft
+launch its product. How should this be interpreted? Overall, this is best thought of as an
+endogenous response to the needs of Microsoft's commercialization strategy, not an inherited
+capability. As the narrative showed, what mattered was the difference in strategic priorities for
+the use of that technical skill. Microsoft oriented its efforts toward developing a pull-through
+product for PCs, and that did play a role in in the design and launch of the product. Microsoft
+focused on using multi-media to demonstrate the product to buyers in third-party outlets.
+Those priorities also led Microsoft to a lower price more readily than Britannica did for
+Compton's (or for a CD-ROM with the flagship content, as discussed below). Another difference
+became salient in personnel decisions once Microsoft began scaling production at Encarta.
+
+                  24
+Shane Greenstein                                                   The Reference Wars
+
+         Where does this discussion leave us? Rather than stressing inherited technical
+(in)abilities, the analysis has drawn a sharp conceptual distinction between exploration during
+invention and commercialization. Microsoft invested in technologies, to be sure, but the salient
+differences with Britannica did not arise with the technical skills of its talent, who did not
+appreciably differ in core inventing skills from those at Britannica. Instead, note how Microsoft
+took risks to further its commercial aims, commercializing their product to help the company's
+other businesses, and requiring invention to be consistent with the commercial approach. Also
+notice that the conflicts inside Britannica did not deter it from investing in inventing new
+media, but it did prevent them from taking risks with its flagship product, and it did lead to
+difficulties integrating the results from its inventive skunk works as it tried to commercialize the
+inventions. It led to a distribution strategy designed to fit internal demands of another line of
+business. Rather, that inadequate response is consistent with organizational diseconomies of
+scope imposing costs on the new product during commercialization.
+
+         We have now reviewed the inherited perceptions and technical abilities at Britannica,
+and concluded that the inadequacies and shortcoming of both do not provide satisfactory
+explanation for the organization's decline. The narrative turns to the events after the launch of
+Encarta, and shows how diseconomies of scope provides a more satisfactory explanation for
+events.
+
+                                     Competitive Crisis
+
+         Britannica's growth had flattened during the recession of 1991 and 1992. Encarta
+turned that flattening into a dive. The entire Encyclopædia Britannica could not fit on one CD-
+ROM, but a moderately modified set of entries could.65 In 1994, as sales at Britannica continued
+to plummet, executives finally decided to release a CD-ROM version of the Encyclopædia
+Britannica.
+
+         This action highlights an important internal conflict. It shows an increasing tolerance for
+risk at the editorial side of the firm. However, its sales force balked, and in ways that limited
+how the firm executed the launch. To say it succinctly, organizational diseconomies of scope
+played a role in the pricing and distribution.
+
+         The resistance of the sale force was understandable. The CD-ROM version could not
+possibly generate the sales commission levels that the print version could, so the sales force
+would dislike it in any format.66 What was the point of releasing a product the sales force would
+
+65 Evans and Wurster, 2000, 2.
+66 Evans and Wurster, 2000, 3.
+
+                                                               25
+Shane Greenstein  The Reference Wars
+
+not sell enthusiastically? The sales force still supported a profitable product and the biggest
+advantage Britannica had over its competitors.
+
+         Management also faced an issue with the attitude of its sales force, who had been
+taught to foster Encyclopædia Britannica's reputation for achieving the highest quality. Encarta
+used text from Funk & Wagnall's, which everyone in the industry believed was less
+authoritative. Many doubted that Encarta had anything to do with the decline in sales. An
+attitude that had been a strength for the sales force now made it hesitant to see the urgency of
+pushing a CD offering Britannica. Stated simply, an attribute fostered for the old product
+became a hindrance when it was shared with the new.
+
+         Here, as elsewhere, management faced two costly choices: make investments to
+dramatically change attributes for the existing organization, or make investments consistent
+with the organization supporting the established product, which imposes costs on the new. This
+is the essence of the choice of an executive facing organizational diseconomies of scope.
+Interpreted through this lens, in retrospect it is apparent that management faced no good
+option. By this point, it would not have been possible to maintain the illusion that sales for the
+old product could still grow.
+
+         Once again, however, consistency with the old won out over the needs of the new
+market. The management of Britannica adopted a policy whose ineffectiveness should not
+come as a surprise with the benefit of hindsight. It decided to gain the full cooperation of their
+sales force by releasing the Encyclopædia Britannica CD-ROM as a free add-on to the print
+version. If potential buyers wanted the CD-ROM on its own, they could purchase it for a mere
+$1,200.67
+
+         After a short trial, it was clear that this plan would not gain any market traction, and
+executives reconsidered. Britannica dropped the price of the CD-ROM to $995 in 1995 and to
+$200 in 1996. By then, however, it had become too late: Microsoft had now hired the largest
+team of editors on any encyclopedia and was rapidly improving the content.68 Encarta had
+begun to dominate. It was one step ahead of others in the multimedia encyclopedia market and
+had begun segmenting the market with standard (inexpensive) and deluxe (on two CDs)
+editions. Later, it would also offer a reference library.
+
+         The pricing of Britannica's CD in 1995 deservers some scrutiny, as it could be interpreted
+as evidence that the management did not properly perceive the market situation. To assess
+whether these were pricing decisions emerging from a rational calculation, the decisive
+question is whether Britannica had any better alternative, which management missed. Even
+
+67 Melcher, 1997.
+68 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               26
+Shane Greenstein  The Reference Wars
+
+with the benefit of hindsight, this is a challenging question, because sales had declined but not
+dropped to nothing. In other words, selling Britannica's books were still generating positive
+variable profits, albeit, the level of sales could support only a smaller sales force.
+
+         To illustrate the issues, consider lowering the price of Britannica's CD-ROM to, say,
+$100. Under what circumstances would that have yielded a better outcome? For this
+illustration, presume it was sold through third party retailers, and presume the margin on such
+a product to be as high as $90 or more. Such a low price would have had two direct effects.
+Encarta already was taking sales from Britannica's books, so a low price for Britannica's CD-
+ROM would have taken away some Encarta sales, which is the intended effect, and, necessarily,
+it would have taken away more Britannica book sales, which is an undesirable effect. In other
+words, lowering the price set up a trade-off of one profitable product for another. Britannica
+would have had to sell many CDs to make up for every book sale it took away, arguably, seven
+or eight CDs for every book they used to sell.69 While this was within the realm of plausible, in
+the face of competition from Encarta, this would have been a difficult goal to reach.70
+
+         The above strategic alternative has another implicit organizational cost. It would have
+generated defections among the sales force, as it pits the new division of Britannica in direct
+competition with the old. Defections would have hastened the abandonment of door-to-door
+sales altogether, potentially taking even more book sales with the exit of employees. More to
+the point, this was a risky path for management, because once the sales force left it became
+very costly to reassemble from scratch. Irreversibility damaging the most valuable asset of the
+organization, and reducing its distributional advantages, was a very big risk.
+
+         In summary, it is not surprising management hesitated to go down an alternative path
+that would have led it to reduce its profitable old division sooner. Instead, it chose to minimize
+the costs of organizational scope diseconomies in the short run, which imposed a cost on its
+efforts in the new market. It is not hard to see why this could have appeared to be the best of a
+set of bad options, at least at first, before experience demonstrated its futility.
+
+         This discussion about pricing also highlights one of the key features of the
+circumstances. Whether oriented towards the old or the new market, all circumstances were
+
+69 Because books were priced at $1500, and the cost of production was $250, and sales margins were between
+$500 and $600, headquarters received between $650 and $750 on every book sale. At a $90 margin, then seven
+books would yield $630 and eight would yield $720.
+70 A back of the envelope calculation shows why this was a challenging bar to meet. For the sake of illustration,
+consider if Britannica lost all fifty thousand book sales due to the one million copies of Encarta sold. That suggested
+a substitution of (1,000,000/50,000) twenty CDs for every book. If Encarta and Britannica split those evenly, then
+Britannica could expect to sell ten CDs for every book it failed to sell. If Britannica was the least bit pessimistic,
+since it did not match Encarta's use of multi-media, then a smaller ratio was possible and likely. Hence, it was easy
+to conclude that lowering the price to $99 would not yield sufficient CD sales to make up for the losses in books.
+
+                                                               27
+Shane Greenstein  The Reference Wars
+
+less profitable for Britannica's management than those it had enjoyed only a few years earlier.
+In all directions it faced a set of bad options in which it had to reorganize the sale and
+distribution of its books. Even a marginal change in this organization potentially altered the
+relational contract between employees and executives - i.e., questioned a series of
+understandings about how the operation worked. In this sense it is an analytical error to
+blithely observe that the costs of books were fixed and sunk, as a static economic analysis might
+do, and presume that this is the only relevant factors in decision making.71 The variable costs of
+distributional assets were high, and any change potentially made these variable costs higher.
+
+         Another potential illustration of scope diseconomies arose in the online market, and this
+example offers an important contrast. Conflict played a much smaller role, and, accordingly, the
+team faced fewer problems meeting market needs, just as would be expected of a managerial
+team deploying technology to meet a new market opportunity. In this new online market, the
+first releases of the product aimed at libraries, both in universities and businesses. The product
+created little conflict with the existing lines of business, and so created no internal conflict.
+Accordingly, the experience with the online Britannica went well on many levels. Initially the
+online site aimed at institutions that were previous Britannica subscribers, such as libraries at
+universities. The release in September 1994 was an immediate success, and even generated
+more sales from previous non-subscribers at universities that heard about the service. In short,
+these events illustrate that Britannica was capable of producing and distributing a new product
+at the frontier of digital technology when it was consistent with existing lines of business.
+
+         Unfortunately for Britannica's future, in the fall of 1995 Britannica Online was made
+available to individual subscribers, but the outcome - in terms of total revenue - never
+matched the company's high hopes. There was little home demand for the online product, and
+it did not act as a pull-product for home Internet access. Like many others who entered the
+commercial web with name brands and well-made plans, Britannica became one of many firms
+who failed to generate a large volume of subscription home service for its product. Altogether,
+the total revenues from sales to institutions never became large in comparison to home sales,
+and the success within this market segment did not approach levels of revenue compensating
+for the decline in home book sales.
+
+         In retrospect, it is easy to take pity on those at the Advanced Technology Group. Almost
+from its formal founding, the team at the Advanced Technology Group forecast the growth of
+the Internet and the Web and made ambitious plans for improvements. After its success in the
+Fall of 1994, the group sketched an ambitious plan for evolving the online site. These involved
+
+71 This is the sense in which the discussion in Shapiro and Varian (1999), page 20-21, is incomplete. For example,
+Shapiro and Varian do not analyze how the costs of developing and distributing each distinct format for Britannica
+- on books, on CD ROMs, and online - shape the cost of designing and distributing the other.
+
+                                                               28
+Shane Greenstein  The Reference Wars
+
+advances in the search capability, organization of information, and updating of articles in
+response to news events, among many other technical and functional improvements. As it
+turned out, most of these were not realized in part due to Britannica's growing financial
+difficulties.
+
+         Though the members of this group anticipated the future, and had developed leading
+prototypes for it, they had the misfortune to be affiliated with an organization whose core
+funding base eroded rapidly. They never got to implement their aspirations. When a strategy
+finally did emerge much later, it lay in a different direction than those devised by the Advanced
+Technology Group.72
+
+         By 1995, sales at Britannica was well on its way to falling by 50% from its peak in 1990
+(see Table 1),73 and its lenders expressed an unwillingness to finance the organization with
+more working capital.74 The unusual ownership arrangement for Britannica also played a role at
+this stage. William Benton, its powerful and former owner, had set up full ownership for
+Britannica as part of the William Benton Foundation. The sole beneficiary of the foundation was
+the University of Chicago, which willingly accepted the donations when times were good, but
+did not want to invest further in the unprofitable organization as it encountered these
+troubles.75
+
+         When Britannica went up for sale, Microsoft was invited to consider making an offer,
+but declined.76 It took more than a year to find a buyer, and Britannica eventually was sold for
+$135 million in 1996. To an observer who had not watched the buildup to this point, this was a
+shockingly low value for an organization that had been profitable five years earlier.
+
+                 Diseconomies of scope in retrospect
+
+         For market drama, there were few launches as successful as Encarta's in the fall of 1993
+and throughout 1994, a sudden success that gives it an air of inevitability in retrospect. Popular
+reports at the time fostered a misleading conclusion by omitting any but contemporary detail. It
+
+72 The story of the path not taken is told by Robert McHenry, "The Building of Britannica Online,"
+http://www.howtoknow.com/BOL7.html, http://www.howtoknow.com/BOL8.html, and
+http://www.howtoknow.com/BOL9.html (accessed July 26, 2006).
+73 Britannica's sales had already plunged to 51,000 in 1994, more than half of their peak in 1990. Landler (1995).
+74 The company lost $4.6 million in 1992, $15m in 1993, and $2.8m in 1994 (on revenue of $453m). Landler (1995).
+75 As part of this arrangement, employees at Britannica had complete access to the University of Chicago library
+system. Over time the donations accumulated, and Britannica became one of the largest total donors to the
+university. The University received $125 million in donations from this arrangement. See Landler (1995).
+76 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               29
+Shane Greenstein                                                                   The Reference Wars
+
+omitted the most recent history, which illuminates the pervasive uncertainty within Microsoft
+prior to the eventually successful project, the altering of strategy in response to learning, and
+the endogenous determination of Encarta's key attributes in response to the competitive
+position of the firms. Indeed, many of these aspects remained hidden to the general public until
+Stross (1996) described some of them. Another set of details - such as Encarta's technical
+struggles, and its first failed launch - have never been disclosed until this narrative did so.77
+
+         Analysis with the benefit of hindsight should not follow the errors of contemporaries.
+Moreover, it is intellectually lazy to simply assume that Microsoft's success arose due to
+inadequate actions at Britannica, its nearest rival. That assumes Britannica's actions caused
+Microsoft's success, which provides an excuse for not look deeper into the facts of the
+situation. It leads down a misleading path.
+
+         Popular portrayals also omit organizational diseconomies of scope at Britannica. Such
+organizational diseconomies made the firm vulnerable for a more decisive entrant that was
+better aligned to the market. Britannica necessarily shared assets across all its market activities.
+These assets were well-suited to book publishing and door-to-door sales, but were not well-
+suited to the new market without modification. Conceived broadly, the firm's assets suited the
+old and not the new, and included such assets as the firm's reputation and branding with users
+and business partners, its relational contracts with its own employees or others in their
+established distributional channel, and also the tone and substance of the content of the firm's
+product.
+
+         Stated simply, the established business imposed extra costs on developing the CD-ROM
+encyclopedia. It led Britannica's management to commercialize it in a way that altered the new
+business to suit the established one. Even though managing the challenges was already difficult,
+the organization added the cost of coordinating its actions with a profitable division in the rest
+of the firm. Although this approach was not doomed to failure, it did make decline in sales
+more likely if the marketplace did not value the benefits of increased coordination, which is
+what happened. Said succinctly, despite inheriting many seemingly valuable assets from the
+existing organization, coordinating the new with the old - while preserving the aspects of the
+assets that supported the old - put Britannica at a disadvantage in the new.
+
+         Informed of this broader context, it would be impossible to explain Britannica's actions
+without understanding the role such diseconomies played. Those diseconomies arose because
+all businesses within Britannica shared several assets. Britannica's encyclopedia had a
+reputation for being an authoritative source of information, and that shaped numerous
+management decisions. Britannica's organization contained skills that were appropriate for its
+
+77 Special thanks goes to Craig Bartholomew, who shared many of his observations.
+                                                               30
+Shane Greenstein  The Reference Wars
+
+leading position, so it developed new capabilities for the new product away from the old, in a
+skunk works. Meanwhile, the company maintained a compensation system with its full-time
+employees on its most profitable product line, and the management tried to work with that
+system instead of altering it.
+
+         The study also illustrates that technical achievement, by itself, is often not sufficient for
+success in a new market place. In this case, Britannica's skunk works could have been valuable
+if there had been sufficient time to integrate the online content back into the product line of
+the parent company. As it turned out, Encarta grew so quickly that it made it impossible for
+Britannica to integrate the old with the new in a single organization. Would Encyclopædia
+Britannica have succeeded at selling its online product to households had Encarta not come
+along? There is no way to know.
+
+         This analysis yields one other insight. Focusing on diseconomies of scope generates an
+explanation for why Britannica lost half its sales, which starts in 1993 with Encarta's entry.
+Armed with this explanation, it is also possible to understand how other portrayals err by
+highlighting later events, by which point the key events have already occurred.
+
+         Evans and Wurster (2000), for example, start with a premise - about technical inability
+and misperception - that takes them down a misleading path of analysis, once that flies in the
+face many facts. Later in their analysis, it is not surprising they state that lower distribution
+costs for information can destroy value by accident, which is true as a general statement. Then
+the authors become specific and state that events in Encyclopedias can be viewed "as a casual
+byproduct of promotion economics in the computer industry" (p 138). Once again, this
+statement is very misleading. Encarta (eventually) did become included in PC sales as a
+promotional item, but this practice became common after the largest decline in Britannica's
+sales, suggesting it was not the key factor in Britannica's decline.
+
+         Shapiro and Varian (1999) also focus on later events, and as a result, develop an
+incomplete explanation. They characterize Britannica's pricing of subscription services and CD-
+ROMs in 1995 and 1996 (p 20).78 They use prices at Microsoft's Encarta to illustrate how
+Microsoft bet on its distribution skills, marketing expertise, and channel control (p 27-28).
+These observations accurately portray challenging pricing issues from 1995 to 1996 (when
+
+78 They argue that Britannica's experience illustrates several lessons: Pricing strategies should reflect the lower
+creation and distribution costs of digital versions of information (p 30); Britannica attempted to differentiate from
+rivals, based on high quality content (p 26); Personalized pricing of information is a smart approach (p 40); High
+quality high price goods do not always compete effectively against low quality low price (p 50); It can be futile to
+engage in "survival pricing," namely, cutting price to spur sales when a firm already is on the losing end of a direct
+fight with another rival (p 288).
+
+                                                               31
+Shane Greenstein  The Reference Wars
+
+Encarta was priced somewhere between $49.95 and $99.0079, and when Britannica's online and
+CD-ROM pricing were under severe downward pressure). Though this is accurate, their
+discussion is quiet about Britannica's earlier experience, and does not explain why Britannica
+already had lost half of its sales by 1995. In this sense, it overlooks a large number of crucial
+earlier decisions that created the experience of 1995.
+
+                                     Epilogue
+
+         This narrative ends with a short epilogue about events outside the window of the
+narrative. These are worth reviewing, however, because these later events illustrate and
+reinforce the main point about the role of diseconomies of scope. These cover both Encarta and
+Britannica.
+
+         After 1995, and almost in concert, as Britannica's troubles multiplied, Encarta thrived.
+Encarta's line of business grew into a large international operation during the next few years,
+supporting multiple languages in a global production and distribution chain. Eventually, more
+than half of Encarta's sales came from outside the United States.80 Microsoft also quickly
+expanded it range of offerings of multi-media software products. These pull-products became
+organized under the umbrella of Microsoft Home, encompassing a range of titles in reference,
+entertainment, education (for kids), and productivity home software.
+
+         Encarta enjoyed prosperity for many years. Eventually the Internet and its abundance of
+information induced changes in Encarta's model. Microsoft developed a hybrid version that
+allowed users to update the encyclopedia's contents monthly by downloading content through
+the Internet. Eventually, the whole product went online. Ironically, many of Encarta's actions
+mirrored the type of plans Britannica's Advanced Technology Group had outlined, when it had
+anticipated a more prosperous future for its online offering.
+
+         While there had been benefits to developing the new product inside of Microsoft, it
+eventually became a burden for Encarta. The PC distribution channel increasingly moved to a
+direct sale to consumers. Encarta became part of a standard purchase of an original equipment
+manufacturer, which helped increase sales volumes but placed pressure on pricing.81 Moreover,
+while it was a popular site for many years, Encarta did not generate a large amount of
+
+79 Shapiro and Varian quote a price of $49.95, and Landler (1995) states that Encarta was available for $99. The
+latter was the official price, and also the price for the second version of Encarta in the fall of 1993. Discussion with
+former head of Encarta, Craig Bartholomew, July 18, 2009.
+80 Craig Bartholomew, discussion, July 18, 2009.
+81 Craig Bartholomew, discussion, July 18, 2009.
+
+                                                               32
+Shane Greenstein  The Reference Wars
+
+advertising revenue for Microsoft in its online format. In time, Encarta lost its leading place
+among online reference sites to Wikipedia, and many other sources on the Web. In 2009
+Microsoft discontinued the product and online site and the entire division was shuttered. At
+that point Craig Bartholomew left Microsoft.
+
+         Finally, in one last irony for Microsoft, only a few years after Encarta's entry, it found
+itself on the receiving end of an unexpected entry into its home market. Organizational
+diseconomies of scope between the old (operating systems and applications) and the new
+(Internet browsers and applications) played a major role in Microsoft's behavior during the
+browser wars and during its aftermath. Once it became an established firm, Microsoft could not
+escape the very factors that it had exploited as entrant.82
+
+         This is more than just an irony. It illustrates a generality: organizational diseconomies of
+scope arises from the combination of (a) an established firm's competitive position and (b) the
+interaction of the features of its necessarily shared assets with the new potential.
+
+         Meanwhile, despite losing half its sales in half a decade and another major fraction after
+selling to a new owner, Encyclopædia Britannica did not declare bankruptcy, nor disappear. The
+new owner took over, and in a bid to free the new strategic direction from the constraints of
+the old organization, the new owner quickly let go of most of the door-to-door sales force. As
+expected, this reduced sales further (to more than 80% of sales at peak83).
+
+         The new directions pursued by Britannica's new owners never made much additional
+revenue, suggesting the cautionary approach of prior management had had its merits.
+Nonetheless, the organization continued to operate: Its book sales stayed at a fraction of their
+prior peak, and both Compton's and Encyclopædia Britannica continued to be viable
+businesses, even in printed form. By 2012, revenues were 10% of its former peak.
+
+         The reason for continuing to sell books with a skeleton sales force is exactly as Shapiro
+and Varian's analysis would predict: The cost of maintaining and updating an already existing
+set of text is small. Britannica could cover these types of costs with a small volume of sales.
+
+         Eventually book revenue dipped too low. On March 13, 2012, Britannica announced it
+would cease publishing its encyclopedia in book format, ending production after 244
+continuous years, and henceforth make its services available only in digital format.84 Yet again,
+contemporary observers attributed the decline to the inexorable rise of the Internet, and the
+
+82 These events are covered extensively in Bresnahan, Greenstein, and Henderson, 2012.
+83 Melcher, 1997.
+84 See the company's announcement, at http://www.Britannica.com/blogs/2012/03/change/, accessed May, 2014,
+or Bosman (2012). Online licensing accounted for 15% of revenue and educational curriculum accounted for most
+of the other 85%, with books accounting for less than 1% of revenue for the organization.
+
+                                                               33
+Shane Greenstein      The Reference Wars
+
+popularity of Wikipedia. At the same time, Britannica did not close altogether: Even today
+Britannica continues supporting digital formats for its content, licensing its online product, as
+well as selling a CD-ROM.
+
+         The contrasting fates of Encarta after 2009 and Britannica's after 2012 shed some light
+on their earlier circumstances. It shows that the causes of decline at low volumes are distinct
+from those at high volumes of sales. It also shows that the business calculations about whether
+to go forward also differ at high and low volumes of sales.
+
+         Perhaps a little more philosophically, events in 2012, like those twenty years earlier,
+illustrate how, when unenviable circumstances visit a business, most managers do the best they
+can with what they have at their doorstep. Sometimes that is enough, and sometimes not, even
+when managers have foreseen the potential for difficulties, and have had a full array of
+technical tools at their disposal. Moreover, even with excellent foresight and frontier technical
+capabilities, diseconomies of scope can interfere with executing a coherent strategy at
+challenging moments.
+
+                                    References
+
+Adner, Ron, and Peter Zemsky. 2005. "Disruptive Technologies and the Emergence of
+Competition." RAND Journal of Economics 36 (2): 229- 54.
+
+Anton, James J., and Dennis Yao. 1995. "Start- Ups, Spin- Offs, and Internal Projects." Journal of
+Law, Economics and Organization 11 (2): 362- 78.
+
+Anand, Bharat, and Alexander Galetovic. 2000. "Information, Non- Excludability, and Financial
+Market Structure." Journal of Business 73 (3): 357- 402.
+
+Auchter, Dorothy. 1999. "The Evolution of Encyclopædia Britannica," Reference Services Review
+27 (3): 297.
+
+Baker, George, Robert Gibbons, and Kevin Murphy. 2002. "Relational Contracts and the Theory
+of the Firm." Quarterly Journal of Economics 117 (1): 39- 84.
+
+Barth, Steve. 2006. "Britannica on the Virtual Bookshelf." Knowledge Management Magazine,
+http://www.kmmagazine.com (accessed July 5, 2006).
+
+Bosman, J. 2012. After 244 years Encyclopaedia Britannica stops the presses. New York Times
+(3/13).
+
+                  34
+Shane Greenstein  The Reference Wars
+
+Bower, Joseph, & Clayton Christensen. 1997. "Disruptive Technologies: Catching the Wave" in
+(Ed) John Seely Brown, Seeing Differently: Insights on Innovation, Harvard Business Review
+Book.
+
+Bresnahan, Timothy, and Shane Greenstein. 1999. "Technological Competition and the
+Structure of the Computing Industry," Journal of Industrial Economics. March, pp 1-40.
+
+Bresnahan, Timothy, Shane Greenstein, and Rebecca Henderson, 2012. "Schumpeterian
+Economies and Diseconomies of Scope: Illustrations from the Histories of IBM and Microsoft."
+In (Eds) Josh Lerner and Scott Stern, The Rate and Direction of Technical Change, 50 Year
+Anniversary, University of Chicago Press. Pp 203-276.
+
+Cassiman, Bruno, and Masako Ueda. 2006. "Optimal Project Rejection and New Firm Start-
+ups." Management Science 52 (2): 262- 75.
+
+Clayton Christensen. 1997. The Innovator's Dilemma. Boston: Harvard Business School Press.
+
+Dosi, Giovanni, and R. R. Nelson. 2010. "Technical Change and Industrial Dynamics as
+Evolutionary Processes." In Bronwyn Hall and Nathan Rosenberg, Handbook of the Economics
+of Innovation, Vol. 1, pp51-128. Amsterdam; Elsevier.
+
+Evans, Philip, and Thomas S. Wurster. 2000. Blown to Bits: How the New Economics of
+Information Transforms Strategy, Boston: Harvard Business School Press.
+
+Foster, Richard. 1985 "The S-Curve: A New Forecasting Tool." Innovation: The Attacker's
+Advantage, Summit Books, 1986, chapter 4, pp 88-111.
+
+Gavetti, Giovanni, and Mary Tripsas. 2000. "Capabilities, Cognition, and Intertia: Evidence from
+Digital Imaging." Strategic Management Journal. 21: 1147-1161.
+
+Greenstein, Shane, and Michelle Devereux. 2009. The Crisis at Encyclopeadia Britannica.
+
+Henderson. Rebecca & Kim Clark. 1990, "Architectural Innovation: the Reconfiguration of
+Existing Product Technologies and the Failure of Established Firms." Administrative Science
+Quarterly.
+
+Henderson, Rebecca. 1993. "Underinvestment and Incompetence as Responses to Radical
+Innovation: Evidence From the Photolithographic Alignment Equipment Industry." Rand Journal
+of Economics 24: 248- 70.
+
+Jovanovic, Boyan. 1982. "Selection and the Evolution of Industry." Econometrica 50 (3): 649-
+70.
+
+Klepper, Steven. 1997. "Industry Life Cycles." Industrial and Corporate Change 6 (1): 145- 82.
+
+                                                               35
+Shane Greenstein      The Reference Wars
+
+Landler, Mark. 1995. "Slow to Adapt Encyclopedia Britannica is for Sale." New York Times. 5/16.
+
+Melcher, Richard A. 1997. "Dusting Off the Britannica," BusinessWeek, 10/20.
+
+Newburger, Eric, 2001. "Home Computers and Internet Use in the United States: August 2000,"
+Current Population Reports, U.S. Census Bureau, Economics and Statistics Administration,
+Department of Commerce. https://www.census.gov/prod/2001pubs/p23-207.pdf.
+
+Stross, Randall E., 2009. The Microsoft Way (Reading, MA: Addison-Wesley Publishing
+Company, 1996), 84.
+
+Stross, Randall. 2009. "Digital Domain: Encyclopedic Knowledge, Then vs. Now." New York
+Times, May 3, 2009.
+
+Shapiro, Carl, & Hal Varian. 1999. Information Rules, Harvard Business Publishing; Cambridge,
+MA.
+
+Stein, Jeremy. 1997. "Waves of Creative Destruction: Learning by Doing and Dynamics of
+Innovation." Review of Economic Studies 64:265- 88.
+
+Teece, David, Garey Pisano, and Amy Shuen. 1997. "Dynamic Capabilities and Strategic
+Management." Strategic Management Journal 18:509- 33.
+
+Tushman, Michael, and Philip Anderson. 2004. Managing Strategic Innovation and Change.
+Oxford University Press; New York.
+
+                  36
+Shane Greenstein                                                                                     The Reference Wars
+
+Table 1: Encyclopædia Britannica Revenue and Sales
+
+Year  Annual Revenue           Hard Copy
+        ($ in millions)  Encyclopædia Sales
+
+1990              650    117,000
+
+1991              650
+
+1992              586
+
+1993              540
+
+1994              453    51,000
+
+1995              400
+
+1996              325
+
+Source: Landler, 1995; Melcher, 1997; Hoovers Online, Encyclopædia Britannica (accessed July 2006).
+
+                                             37
+Shane Greenstein      The Reference Wars
+
+Exhibit 1: Talking Points from the Sales Promotion Department, 1983
+
+ENCYCLOPÆDIA BRITANNICA VS. THE COMPUTER
+One of the questions we are most frequently asked, by both our own people and outsiders, is "When will
+Britannica be available on a computer?" The answer we give is "Not for a long time." Here's why:
+
+1. In spite of the many rapid technological advances in the field of home computers, none of the popular models
+     available now have a large enough memory to store all of Britannica. We did a calculation recently that showed
+     that we would need 100-200 floppy disks just to hold our Index.
+
+2. You could put the encyclopedia on a large mainframe computer and allow the home computer user to access it
+     via telephone. This is very expensive. In addition, most systems of this sort that are available today are very
+     cumbersome and difficult to use. They are "menu-driven" and are tricky to manipulate. It is easy to lose your
+     place. You need to know a great deal about the specific system in order to be able to use it. A book is a lot easier
+     to use and is more cost effective at this time.
+
+3. Because of limitations of the screen, you can read only a few words at a time on each screen. Trying to read an
+     article is difficult and disjointed.
+
+4. The main reason most people give for wanting a computerized encyclopedia is to be able to find things quickly.
+     A computer does, indeed, search and sort information very well. But most systems available today use the "key
+     word" search. For example, if you want to look up "orange," you will get back a listing of every place the word
+     appears, whether or not it is a significant entry, and regardless of whether it refers to the color orange; Orange
+     County, California; the fruit; or William of Orange. It is then your responsibility to determine which, if any of
+     these, refers to the item you are seeking.
+
+5. Britannica has already done all that work for you. Our indexers have read every article, analyzed what they read,
+     and have determined exactly which entries should be in the Index. They have separated the colors from the fruits,
+     etc., and have grouped the references accordingly. They have eliminated trivial references, so that when you
+     follow an entry you can be sure you'll find a piece of relevant and significant information.
+
+6. The technology to provide this kind of Index in the home today is too expensive. Until new ways are developed,
+     we can provide a better, easier-to-use encyclopedia in printed form than in any computerized version. We will
+     not change our delivery method from the printed page to the electronic form until we are sure that it is the most
+     efficient way for our readers to receive it.
+
+Source: Robert McHenry, "The Building of Britannica Online," http://www.howtoknow.com/BOL1.html (accessed July 26, 2009).
+
+                  38
+

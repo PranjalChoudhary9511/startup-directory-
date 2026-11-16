@@ -1,0 +1,462 @@
+{
+  "slug": "grabhouse",
+  "name": "Grabhouse",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Home rentals",
+  "founded": 2013,
+  "died": 2016,
+  "status": "absorbed-and-closed",
+  "brandColor": "#335b6b",
+  "founders": [
+    {
+      "name": "Pankhuri Shrivastava",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Prateek Shukla",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Broker-free. Sadly, not cost-free.",
+  "oneLiner": "A website and app for finding a flat, room or flatmate to rent without paying a broker.",
+  "causeOfDeath": "It drew millions of visitors but earned little from renters, spread to 11 cities, and was sold to Quikr in 2016, which later switched the brand off.",
+  "raisedUsdM": 13,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 10,
+  "moneyNote": "Raised figure adds the dollar rounds MediaNama reported ($0.5M in 2014, $2.5M in 2015, $10M in 2015); two earlier angel rounds were undisclosed, so the true total is 'over $13 million'. No valuation was published. The end value is the ~$10 million in Quikr shares that Mint's sources put on the 2016 all-stock sale; Quikr did not confirm it.",
+  "moneySrc": [
+    1,
+    3,
+    5
+  ],
+  "inOneMinute": [
+    "Two Teach For India fellows built Grabhouse to beat brokers. It drew **millions of visitors** and raised over $13 million.",
+    "But in the month before its $10 million round, it earned **₹50 lakh**, and two months after it laid off over 100 people.",
+    "In 2016 it was **sold to Quikr in an all-stock deal**. By 2021 grabhouse.com simply redirected to Quikr."
+  ],
+  "killerLine": "Lots of visitors is not a business. **Know who pays you, how often, and why** before you open the next city.",
+  "numbers": [
+    {
+      "value": "$13M+",
+      "label": "raised between 2013 and 2015",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "₹50 lakh",
+      "label": "revenue in the month before its $10M round (2015)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "100+",
+      "label": "jobs cut two months after the $10M round",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "200,000",
+      "label": "brokers it said it had blocked from the site",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Pankhuri Shrivastava grew up in Ranchi, studied engineering, and spent two years teaching with Teach For India in Mumbai. In that time she **moved house five times**, and every move meant dealing with brokers. In Mumbai, a broker could charge one or two months' rent just for showing you a flat. Her fellow teacher Prateek Shukla, an IIT Kanpur graduate, thought most of that job could be done by technology, since most renters were already online. In 2013 the two, both in their early twenties and with no corporate experience, built Grabhouse themselves: a **broker-free site** for finding flats, rooms and flatmates. They learned fundraising by reading a book on term sheets (the contract that sets out an investment).",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "Grabhouse grew with clever, cheap tricks. It partnered with a huge Facebook group for flats and flatmates. It ran a lifestyle blog, Urban Cocktail, to keep people visiting between house hunts; its most popular post was a list of haunted places in India. It **blocked about 200,000 brokers** and rewarded users who reported them. By January 2015 it claimed about 500,000 visitors a day. Investors piled in: angels in 2013, $500,000 from India Quotient in 2014, $2.5 million in January 2015 and then **$10 million in October 2015** from Sequoia Capital and Kalaari Capital. It was in 11 cities and planned new categories like paying-guest rooms and apartments, plus 'neighbourhood specialists' to guide renters.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "The hard question was who would pay. Grabhouse showed part of each listing free and charged renters for the rest, plus fees for services and closing deals. In the month before its big round it earned **₹50 lakh**, about $77,000, small next to $10 million of fresh capital. Renters need a new home only now and then, so each customer pays rarely. Two months after the round, in December 2015, Grabhouse **laid off over 100 people**, mostly in operations, saying it was restructuring and building stronger technology. The founders said the cuts were planned, because manual data collection was finished. Meanwhile rivals were loaded: NestAway raised $30 million in April 2016, and Quikr and Housing.com had deep pockets.",
+      "src": [
+        1,
+        2,
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In early 2016 Grabhouse tried a new product, Cocoon: fully furnished, paying-guest-style flats. By September 2016 reports said it was **struggling to scale**, cutting costs to stay afloat, had put its Bengaluru office on notice and was talking to OYO and NestAway about a sale worth $5–8 million. On 21 November 2016 Quikr bought it in an **all-stock deal** (paid in Quikr shares, not cash), reportedly worth about $10 million. The founders and team moved to Quikr's headquarters. Quikr kept Grabhouse as a brand for managed rentals, where it leases homes and rents them out by the bed or room. Under Quikr, revenue rose to ₹16.5 crore in FY18, but the unit **lost ₹19.5 crore** that year.",
+      "src": [
+        0,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2013",
+      "event": "Pankhuri Shrivastava and Prateek Shukla start Grabhouse in Mumbai, backed by angel investors.",
+      "kind": "start",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jul 2014",
+      "event": "Raises $500,000 from India Quotient.",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "event": "Raises a $2.5 million Series A; claims about 500,000 visitors a day.",
+      "kind": "money",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "event": "Raises $10 million from Sequoia and Kalaari; in 11 cities, earning about ₹50 lakh a month.",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "event": "Lays off over 100 people, mostly in operations.",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Feb 2016",
+      "event": "Moves into managed homes with Cocoon, furnished paying-guest-style flats.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2016",
+      "event": "Reported to be struggling to scale and seeking a buyer, with OYO and NestAway in talks.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "21 Nov 2016",
+      "event": "Quikr buys Grabhouse in an all-stock deal reportedly worth about $10 million.",
+      "kind": "end",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "date": "FY18",
+      "event": "Inside Quikr, revenue reaches ₹16.5 crore with a ₹19.5 crore loss.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "event": "grabhouse.com now redirects to Quikr's paying-guest listings; the brand is gone.",
+      "kind": "after",
+      "src": [
+        9,
+        10
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss under Quikr",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY17",
+        "FY18"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            3.9,
+            16.5
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            null,
+            19.5
+          ]
+        }
+      ],
+      "takeaway": "After the sale, managed rentals grew revenue four times, but the loss was still bigger than the revenue. FY17's loss was not published.",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2013",
+      "round": "Angel",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Chetan Bohra",
+        "Navin Ranka",
+        "India Quotient",
+        "MV Krishnan"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jul 2014",
+      "round": "Seed",
+      "amountUsdM": 0.5,
+      "valuationUsdM": null,
+      "investors": [
+        "India Quotient"
+      ],
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "round": "Series A",
+      "amountUsdM": 2.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Kalaari Capital",
+        "Sequoia Capital"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "round": "Series B",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [
+        "Sequoia Capital",
+        "Kalaari Capital"
+      ],
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "business-model",
+      "weight": 35
+    },
+    {
+      "key": "competition",
+      "weight": 25
+    },
+    {
+      "key": "over-expansion",
+      "weight": 20
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Charged the customer who pays least often",
+      "explain": "Grabhouse mostly earned from renters: fees to see full listings and close deals. But renters move only now and then, and usually want to spend as little as possible. With $13 million raised, it was making about **₹50 lakh a month**. Owners, landlords or service partners might have been steadier payers worth testing early.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Spread to 11 cities before one was deep",
+      "explain": "A rental marketplace is only useful if each city has plenty of fresh listings. Running 11 cities meant 11 sets of listings to collect and check, with operations staff on the ground. When money had to be saved, **over 100 jobs** went in one go. Winning two or three cities completely might have built a stronger, cheaper base.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Kept changing what it sold",
+      "explain": "Flatmate search, then paying-guest and apartment categories, neighbourhood specialists, a lifestyle blog, and then Cocoon managed flats, all within about three years. Each idea was sensible alone, but together they **split a small team's focus**. Managed homes also needed far more cash, just as NestAway raised $30 million for exactly that model.",
+      "src": [
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Raised big before revenue was proven",
+      "explain": "The $10 million round came when monthly revenue was about ₹50 lakh. Big rounds bring pressure to grow fast, hire and expand. Two months later came layoffs, and within a year the company was **looking for a buyer** at a price of $5–8 million, below the amount investors had put in.",
+      "src": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is your user count growing much faster than the money users pay you?",
+    "Do your paying customers need you only once every year or two?",
+    "Are you live in many cities without being the clear leader in any one of them?",
+    "Have you launched more than two new product ideas in the last year without dropping any old ones?",
+    "Is a much richer rival building exactly the product you are about to pivot into?"
+  ],
+  "lessons": [
+    {
+      "title": "Traffic is a promise, not a payment",
+      "detail": "Visitors, likes and app downloads show interest. Track revenue per user every month from day one, and treat a widening gap between the two as an alarm."
+    },
+    {
+      "title": "Find the side that pays happily",
+      "detail": "In a two-sided market, test charging each side early: renters, owners, movers, furniture partners. The side with a frequent, painful need usually pays best."
+    },
+    {
+      "title": "Own one city before renting eleven",
+      "detail": "Marketplaces win by density. Be the obvious choice in one city, where every renter and owner knows you, before spreading thin."
+    },
+    {
+      "title": "Growth hacks buy attention, not loyalty",
+      "detail": "Grabhouse's Facebook partnership and viral blog were brilliant for reach. Pair hacks like these with a product people return to and pay for, or the attention fades."
+    },
+    {
+      "title": "Selling early can be the brave choice",
+      "detail": "Grabhouse found a buyer that kept its team employed and its idea alive inside Quikr for years. When the next round isn't coming, a well-timed sale protects people."
+    }
+  ],
+  "quote": {
+    "text": "This could be easily replaced by technology, especially given that most of the target audience is online",
+    "who": "Prateek Shukla, co-founder",
+    "context": "On why brokers' fees of one to two months' rent could be cut out, speaking to OfficeChai in February 2016.",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Pankhuri Shrivastava became VP Marketing at Quikr, then founded Pankhuri, a social platform for women backed again by investors including India Quotient and Kalaari. She died of a sudden cardiac arrest on 24 December 2021, aged 32, and the startup world mourned her. In 2019 Quikr told police that three former staff had allegedly faked paying-guest deals; Mint linked the accused sales staff to Grabhouse, though no outcome was reported. By January 2021 grabhouse.com redirected to Quikr's paying-guest listings, and today the domain is listed for sale.",
+    "src": [
+      8,
+      7,
+      9,
+      11
+    ]
+  },
+  "sources": [
+    {
+      "label": "OfficeChai: Growth-hacking their way to a multi-million house rentals startup (Feb 2016)",
+      "url": "https://officechai.com/stories/grabhouse-founders-pankhuri-shrivastava-prateek-shukla/"
+    },
+    {
+      "label": "MediaNama: Grabhouse raises $10 million in Series B funding (Oct 2015)",
+      "url": "https://www.medianama.com/2015/10/223-grabhouse-10million-funding/"
+    },
+    {
+      "label": "Inc42: Grabhouse lays off over 100 employees as it restructures its business (Dec 2015)",
+      "url": "https://inc42.com/flash-feed/grabhouse-layoff"
+    },
+    {
+      "label": "Inc42: Rental accommodation provider Grabhouse looking for a new home (Sep 2016)",
+      "url": "https://inc42.com/flash-feed/grabhouse-buyout"
+    },
+    {
+      "label": "Inc42: Quikr acquires Bengaluru-based Grabhouse (Nov 2016)",
+      "url": "https://inc42.com/flash-feed/quikr-acquires-grabhouse"
+    },
+    {
+      "label": "MediaNama: Quikr acquires Grabhouse in an all-stock deal (Nov 2016)",
+      "url": "https://www.medianama.com/2016/11/223-quikr-acquires-grabhouse/"
+    },
+    {
+      "label": "Inc42 Datalabs: Grabhouse (Cryptopy Technologies) financials, FY17–FY18",
+      "url": "https://inc42.com/company/grabhouse/financials/"
+    },
+    {
+      "label": "The News Minute: Quikr lays off 500–600 employees; alleged fraud in PG business (Dec 2019)",
+      "url": "https://www.thenewsminute.com/amp/story/atom/quikr-lays-500-600-employees-across-real-estate-jobs-and-auto-verticals-report-114783"
+    },
+    {
+      "label": "OfficeChai: Grabhouse founder Pankhuri Shrivastava passes away (Dec 2021)",
+      "url": "https://officechai.com/startups/grabhouse-founder-pankhuri-shrivastava-passes-away-following-sudden-cardiac-arrest/"
+    },
+    {
+      "label": "Internet Archive: grabhouse.com redirecting to Quikr Homes PG listings (Jan 2021 snapshot)",
+      "url": "https://web.archive.org/web/20210102103326/https://grabhouse.com/"
+    },
+    {
+      "label": "Internet Archive: grabhouse.com still live as a rentals site (Nov 2019 snapshot)",
+      "url": "https://web.archive.org/web/20191102052540/https://grabhouse.com/"
+    },
+    {
+      "label": "grabhouse.com today: a parked domain-for-sale page (checked Nov 2026)",
+      "url": "https://www.grabhouse.com/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Sale price.",
+        "note": "Quikr did not disclose the price. Mint's sources said about $10 million in shares; OfficeChai later wrote about ₹65 crore; a September 2016 report expected $5–8 million. Because it was paid in Quikr stock, its real value depended on Quikr's later fortunes."
+      },
+      {
+        "claim": "Who led the January 2015 Series A.",
+        "note": "MediaNama named Kalaari Capital and Sequoia Capital; Inc42 named Kalaari Capital and India Quotient. A company spokesperson also described an earlier $2 million Series A in November 2014."
+      },
+      {
+        "claim": "About 40% of staff were laid off in December 2015.",
+        "note": "Reported by OfficeChai as a report; Inc42 said 'over 100 employees'. The founders said the cuts were planned. Total headcount was never published."
+      },
+      {
+        "claim": "Year of death.",
+        "note": "Grabhouse stopped being an independent company with the November 2016 sale. Quikr ran it as a brand for some time; archived pages show the site live in November 2019 and redirecting to Quikr by January 2021. We could find no announcement of when Quikr retired the brand."
+      },
+      {
+        "claim": "Alleged fraud in Quikr's paying-guest business (2019).",
+        "note": "Quikr filed a complaint against three former employees alleging fake transactions; Inc42 reported a ₹20 crore loss. Mint's source tied the accused sales staff to Grabhouse, but Quikr's statement did not name Grabhouse. No court outcome was found. These remain allegations."
+      },
+      {
+        "claim": "Who said technology could replace brokers.",
+        "note": "OfficeChai's 2016 interview attributes the line to Prateek Shukla; its 2021 obituary attributes it to Pankhuri Shrivastava. We follow the original interview."
+      }
+    ]
+  }
+}

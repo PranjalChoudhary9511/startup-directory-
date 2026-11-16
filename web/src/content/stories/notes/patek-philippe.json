@@ -1,0 +1,281 @@
+{
+  "slug": "patek-philippe",
+  "company": "Patek Philippe",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#B09145",
+    "secondary": "#211E1E",
+    "accent": "#8C7A66",
+    "ink": "#211E1E",
+    "paper": "#F6F1E7",
+    "note": "Patek Philippe gold #B09145 and near-black #211E1E come from a brand-colour reference (Brand Color Code), which says Patek publishes no official hex values; the taupe accent and the warm paper are our own tints of that gold."
+  },
+  "tagline": "A refugee soldier who could not make a watch found the people who could, and a dial maker's family has kept the company independent ever since.",
+  "hook": "The founder of the world's most exclusive watch brand was not a watchmaker. Antoni Patek was a Polish cavalry officer, wounded twice in a lost war, who set type in a French printing house and traded wine before he sold a single watch.",
+  "hookSrc": [6, 7, 8, 9],
+  "cast": [
+    {
+      "name": "Adrien Philippe",
+      "role": "French watchmaker who started making movements at 25 and in 1842 invented a way to wind and set a watch with its crown, with no key. It won a bronze medal at the 1844 Paris exposition. He joined Patek in Geneva in 1845 as head watchmaker and became a full partner in 1851, when the firm took both names. His son Joseph Emile succeeded him in 1882.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/JeanAdrienPhilippe.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:JeanAdrienPhilippe.jpg",
+        "caption": "Jean Adrien Philippe, co-founder of Patek Philippe, photographed around 1880.",
+        "author": "Lionel GM (as credited on Commons; original photographer unknown)",
+        "license": "Public domain",
+        "year": 1880
+      },
+      "src": [0, 2, 8, 3]
+    },
+    {
+      "name": "François (Franciszek) Czapek",
+      "role": "Watchmaker born in 1811 in Semonice, Bohemia, who fought in the Polish uprising and fled to Switzerland, where he met Patek in 1836. He co-founded Patek, Czapek & Cie on 1 May 1839 and was the watchmaker of the pair. When their six-year contract ended in April 1845 he started his own firm, Czapek & Cie, which became watchmaker to Prince Napoleon in 1855. In 1871 he disappears from the record.",
+      "photo": null,
+      "src": [11, 8, 6]
+    },
+    {
+      "name": "Charles Stern",
+      "role": "With his brother Jean he owned Cadrans Stern Frères, a Geneva dial factory that supplied Patek. In 1932, with Patek close to collapse in the Great Depression, the brothers took control, put watchmaker Jean Pfister in charge and began making movements in-house. Charles's son Henri, grandson Philippe and great-grandson Thierry have led the company since.",
+      "photo": null,
+      "src": [1, 3, 12]
+    },
+    {
+      "name": "Thierry Stern",
+      "role": "Fourth-generation owner. He joined in 1990, became vice-president in 2003 and president in 2009. In 2021 he stopped making the Nautilus 5711, the most wanted watch in the range, saying no single watch should sit on top of the brand.",
+      "photo": null,
+      "src": [1, 23, 20]
+    }
+  ],
+  "founder": {
+    "name": "Antoni Norbert Patek (Antoine Norbert de Patek)",
+    "role": "Co-founder, Patek Philippe",
+    "born": "14 Jun 1812, Piaski Szlacheckie, near Lublin (Poland)",
+    "died": "1 Mar 1877, Geneva, Switzerland",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Antoni_Patek.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Antoni_Patek.jpg",
+      "caption": "Antoni Patek in later life (portrait; date not recorded, before 1877).",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "year": null
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Patek_i_Ska_%28Genewa_%3B_firma_zegarmistrzowska_%3B_fl._1845-1851%29_-_Zegarek_kieszonkowy_extraplat.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Patek_i_Ska_(Genewa_;_firma_zegarmistrzowska_;_fl._1845-1851)_-_Zegarek_kieszonkowy_extraplat.jpg",
+        "caption": "A thin gold pocket watch made by Patek & Cie in 1845, the year Philippe joined, engraved with a horseman. Now in the National Museum in Warsaw.",
+        "author": "Patek i Ska (Geneva watch firm, 1845–1851)",
+        "license": "Public domain",
+        "year": 1845
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GraveAntoinePatek-CimetiereDeChatelaine_RomanDeckert31122021.jpg/1280px-GraveAntoinePatek-CimetiereDeChatelaine_RomanDeckert31122021.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:GraveAntoinePatek-CimetiereDeChatelaine_RomanDeckert31122021.jpg",
+        "caption": "The tomb of Antoine Norbert de Patek, his wife and their son Leon at the cemetery of Châtelaine in Geneva.",
+        "author": "RomanDeckert",
+        "license": "CC BY-SA 4.0",
+        "year": 2021
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Patek_Philippe_Museum.JPG/960px-Patek_Philippe_Museum.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Patek_Philippe_Museum.JPG",
+        "caption": "The Patek Philippe Museum in Geneva, opened by Philippe Stern in 2001, where Patek's own pocket watch No. 87 is on show.",
+        "author": "Mourad Ben Abdallah",
+        "license": "CC BY-SA 3.0",
+        "year": 2009
+      }
+    ],
+    "background": "Antoni Patek was born in 1812 into a family of minor Polish nobility at Piaski Szlacheckie, near Lublin. His father, Joachim, was an army captain, and his grandfather had been mayor of Lublin. The family moved to Warsaw, and after his father died the teenage Antoni joined a cavalry regiment. He never trained as a watchmaker: his schools were the army, a French printing house and the wine trade. In Switzerland he married Marie Denisard, a niece of his landlord.",
+    "backgroundSrc": [6, 7, 9],
+    "journey": [
+      { "year": "1812", "kind": "life", "title": "Born near Lublin", "detail": "Born into minor Polish nobility. His father was an army captain; his grandfather had been mayor of Lublin.", "src": [6, 7, 9] },
+      { "year": "1828", "kind": "job", "title": "Joins the cavalry as a teenager", "detail": "After his father's death he enlisted in the 1st Augustów Mounted Rifles in Warsaw.", "src": [6, 7] },
+      { "year": "1831", "kind": "failure", "title": "The uprising is crushed", "detail": "In the November Uprising against Russian rule he was wounded twice, made a lieutenant and given the gold cross of the Virtuti Militari. The rising failed in 1831.", "src": [6, 7, 8] },
+      { "year": "1831", "kind": "job", "title": "Escape-route organiser", "detail": "General Józef Bem engaged him to oversee one stage of the evacuation route that took Polish insurgents west to France.", "src": [8] },
+      { "year": "1832", "kind": "job", "title": "Typesetter in France", "detail": "In exile he worked in a printing house, setting type by hand.", "src": [6, 7, 8] },
+      { "year": "1833", "kind": "failure", "title": "Pushed out of France", "detail": "After about two years in France, and suspected of revolutionary activity, he moved on to Switzerland. By November 1835 he was living in Geneva, aged 23.", "src": [6, 8, 9] },
+      { "year": "1835", "kind": "attempt", "title": "Wine trader and art student", "detail": "In Geneva and Versoix he traded wine and spirits and took painting lessons from the Swiss painter Alexandre Calame, while watching local watchmakers at work.", "src": [6, 7, 8, 9] },
+      { "year": "1830s", "kind": "attempt", "title": "Watch middleman", "detail": "He bought fine movements from Geneva specialists, paid artists to gild, enamel and engrave them, and earned money selling the finished watches.", "src": [6] },
+      { "year": "1839", "kind": "attempt", "title": "Patek, Czapek & Cie", "detail": "On 1 May 1839 he and watchmaker François Czapek started a small workshop that made around 200 watches a year.", "src": [0, 2, 8, 11] },
+      { "year": "1844", "kind": "breakthrough", "title": "Spots a watch with no key", "detail": "At the Paris Industrial Exposition, Adrien Philippe won a bronze medal for a watch wound and set by its crown. Patek noticed.", "src": [0, 2, 4] },
+      { "year": "1845", "kind": "failure", "title": "The first partnership breaks up", "detail": "After six years and growing disagreements, Patek and Czapek dissolved their firm in April 1845. Czapek started his own.", "src": [11, 9, 8] },
+      { "year": "1845", "kind": "breakthrough", "title": "Philippe joins", "detail": "Patek brought Philippe to Geneva as head watchmaker. The firm became Patek & Cie and patented Philippe's keyless system.", "src": [0, 2, 8] },
+      { "year": "1851", "kind": "breakthrough", "title": "A queen buys one", "detail": "At London's Great Exhibition, Queen Victoria bought a blue enamel Patek pendant watch, and the firm was renamed Patek, Philippe & Cie.", "src": [2, 4, 10] },
+      { "year": "1854", "kind": "failure", "title": "A disastrous sales trip to America", "detail": "Aged 42, he was robbed on his first day in New York and later spent four days stuck in a snowdrift on the way to Chicago, in the middle of a financial crisis.", "src": [3, 4] },
+      { "year": "1855", "kind": "breakthrough", "title": "Bets on America anyway", "detail": "Back in Geneva he became convinced the future belonged to America. The firm's tie with Tiffany in New York, agreed in 1851, became its most important in the US.", "src": [3, 4] },
+      { "year": "1863", "kind": "life", "title": "Helps a new wave of refugees", "detail": "When Poland's January Uprising failed, he helped the exiles who reached Geneva.", "src": [7, 8] },
+      { "year": "1877", "kind": "now", "title": "Dies in Geneva", "detail": "He died on 1 March 1877. His son Leon did not join the firm, which passed to the Philippe family.", "src": [6, 8, 9, 3] }
+    ],
+    "mindset": [
+      { "idea": "Never depend on one market", "explain": "As an émigré who had wandered Europe before finding safety in Switzerland, Patek was keenly aware of the danger of relying on a single market, and the uprisings of 1848 disrupted the luxury trade. He took his watches to London in 1851 and to New York in 1854.", "src": [4, 3] },
+      { "idea": "Sell what others make brilliantly", "explain": "He started as a middleman: buying movements, paying artists for the cases, and selling. Later his partners made the watches while he ran sales and the company.", "src": [6, 9] },
+      { "idea": "Spot the invention, then hire the inventor", "explain": "He saw Philippe's keyless watch at the 1844 Paris exposition and brought him to Geneva the next year. That invention set the firm apart.", "src": [0, 4, 8] },
+      { "idea": "Go where the buyers gather", "explain": "The firm showed its watches at the big world fairs, winning 20 gold medals between 1844 and 1923 and displaying them at the door of its Geneva shop.", "src": [4] },
+      { "idea": "Think about where the money will be, not where it is", "explain": "Even after a miserable first American trip, he concluded that the company's future lay in America. By 1878 about 100 American tourists a month were visiting the Geneva shop.", "src": [3] }
+    ],
+    "habits": [
+      { "habit": "Wrote detailed letters home from the road", "detail": "On his American trip his letters to colleagues read like crime reports, listing robberies, fires and the state of the market.", "src": [3] },
+      { "habit": "Went to the markets himself", "detail": "Rather than send an agent, he crossed the Atlantic in person in 1854 and toured the country by rail and riverboat.", "src": [3, 0] }
+    ],
+    "darkestHour": {
+      "title": "1831–1835: a soldier without a country",
+      "story": "Patek was 19 when the November Uprising against Russian rule was crushed in 1831. He had been wounded twice and given Poland's highest military honour, but the cause he fought for was lost and he had to leave. In France he took a job setting type in a printing house. Then he was pushed out again: he was suspected of revolutionary activity and had to leave France. He moved on to Switzerland and by late 1835 was living in Geneva, aged 23, with no watchmaking skills. He got through by doing whatever paid. He traded wine, took painting lessons, and watched Geneva's watchmakers at work until he understood the business well enough to sell their watches. Four years later he had his own watch company.",
+      "src": [6, 7, 8, 9]
+    },
+    "genuineness": {
+      "story": "Patek never forgot the people he fled with. In Geneva he gave money to Polish publications and to fellow refugees, and in 1863, when another Polish uprising failed and new exiles arrived, he helped them too. His firm's watches carried his country with them: one 1845 pocket watch, shown at London's Great Exhibition in 1851, bore portraits of the Polish heroes Kościuszko and Poniatowski.",
+      "src": [7, 8, 9]
+    },
+    "now": "Patek died in Geneva on 1 March 1877. His son Leon did not join the business, and Adrien Philippe's family carried it on. Since 1932 the company has belonged to the Stern family, who describe it as the oldest and only remaining family-owned Geneva watchmaking company. Thierry Stern, the fourth generation, has been president since 2009; his father Philippe, who led it from 1993 to 2009, died in June 2026. Patek's own pocket watch, No. 87, is on show in the company's Geneva museum.",
+    "nowSrc": [0, 1, 8, 30, 31, 20]
+  },
+  "numbers": [
+    { "value": "CHF 2.5 bn", "label": "Estimated sales at retail value, up about 9% (Morgan Stanley & LuxeConsult; Patek publishes no figures)", "asOf": "2025", "src": [16, 17, 18] },
+    { "value": "~72,000", "label": "Watches made (est.), about the same as the year before", "asOf": "2025", "src": [16, 17] },
+    { "value": "~7%", "label": "Share of all Swiss watch sales by value (est.)", "asOf": "2025", "src": [16, 17, 18] },
+    { "value": "CHF 23.2 m", "label": "Paid at Sotheby's Geneva for the Henry Graves Supercomplication, a record at the time", "asOf": "Nov 2014", "src": [13, 14] },
+    { "value": "900", "label": "Parts inside the Graves watch (Guinness figure), which took more than five years to assemble", "asOf": "1933", "src": [13, 14] },
+    { "value": "~200", "label": "Watches a year made by the first Patek workshop", "asOf": "1839", "src": [8, 25] }
+  ],
+  "milestones": [
+    { "year": "1839", "title": "Patek, Czapek & Cie", "detail": "Founded in Geneva on 1 May 1839 by Antoni Patek and François Czapek.", "src": [0, 2, 11] },
+    { "year": "1845", "title": "Philippe and the keyless watch", "detail": "Adrien Philippe joined and his keyless winding and hand-setting system was patented.", "src": [0, 2] },
+    { "year": "1851", "title": "Patek, Philippe & Cie", "detail": "The firm took the name Patek, Philippe & Cie, and at London's Great Exhibition Queen Victoria bought one of its watches.", "src": [2, 4, 10] },
+    { "year": "1868", "title": "A watch for the wrist", "detail": "Made for Countess Koscowicz of Hungary; Patek calls it the first Swiss wristwatch.", "src": [2, 7] },
+    { "year": "1932", "title": "The Sterns take over", "detail": "The Stern brothers, Patek's dial suppliers, took control in the Depression. The first Calatrava, Ref. 96, launched the same year.", "src": [1, 2, 3, 12] },
+    { "year": "1933", "title": "The Graves Supercomplication", "detail": "Delivered on 19 January 1933 to New York banker Henry Graves Jr., who had ordered it in 1925. It has 24 complications.", "src": [13, 15, 2] },
+    { "year": "1976", "title": "Nautilus", "detail": "A luxury sports watch in steel, Ref. 3700/1, launched with Philippe Stern's backing.", "src": [2, 20] },
+    { "year": "1989", "title": "Calibre 89", "detail": "Made for the 150th anniversary after nine years of work; with 33 complications, the most in any portable timepiece at the time.", "src": [2, 19] },
+    { "year": "1996", "title": "One factory and one famous ad", "detail": "All workshops moved under one roof at Plan-les-Ouates, and the 'Generations' campaign launched that autumn.", "src": [5, 2] },
+    { "year": "2001", "title": "The Patek Philippe Museum", "detail": "Philippe Stern opened the museum in Geneva after some forty years of collecting watches.", "src": [1, 20] },
+    { "year": "2009", "title": "Its own seal, and a new president", "detail": "Patek dropped the Geneva Seal, used since 1886, for its own stricter Patek Philippe Seal. Thierry Stern became president.", "src": [1, 21, 22] },
+    { "year": "2014", "title": "A record at auction", "detail": "The Graves Supercomplication sold for CHF 23,237,000 at Sotheby's Geneva on 11 November 2014.", "src": [13, 14] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Patek designs and makes its watches in Geneva, with its own movements, and sells them at wholesale prices to authorised retailers and a few salons of its own. Morgan Stanley estimates that less than 10% of its sales come from shops Patek runs itself. Buyers often wait for years. The company is private and publishes no accounts, so its profits stay with the Stern family. Old Pateks change hands at auction. Patek earns nothing directly from these resales, but it follows the auctions closely and sometimes buys pieces back for its museum.",
+    "flows": [
+      { "from": "Buyer", "to": "Authorised retailer", "what": "Pays the retail price, often after a long wait: about CHF 2.5 bn of Patek watches in 2025 (est.)" },
+      { "from": "Authorised retailer", "to": "Patek Philippe", "what": "Pays the wholesale price (not published)" },
+      { "from": "Patek Philippe", "to": "Stern family", "what": "Profits of a private, family-owned company" },
+      { "from": "Collector", "to": "Auction house", "what": "Resells old Pateks; the Graves watch fetched CHF 23.2 m in 2014" }
+    ],
+    "src": [16, 17, 1, 13, 26]
+  },
+  "failures": [
+    {
+      "year": "1854",
+      "title": "The sales trip that went wrong",
+      "whatHappened": "Patek's Atlantic crossing took a fortnight instead of ten days because of storms. On his first day in New York his hotel room was robbed. He then got stuck in a snowdrift for four days on the way to Chicago, in the middle of a financial crisis, and he was not doing good business.",
+      "lesson": "A new market can take years to pay off. Go early, but plan for a first trip that teaches you more than it earns.",
+      "src": [3, 4]
+    },
+    {
+      "year": "1932",
+      "title": "Rescued by its own supplier",
+      "whatHappened": "The Great Depression hit Patek's rich customers. By the early 1930s the firm had to look for a buyer with money for a majority stake, and it was close to collapse. Its dial maker, the Stern brothers, took control in 1932.",
+      "lesson": "Even a great product can fail when all your buyers are hit at once. Keep cash in hand, and treat suppliers as partners: one of them may save you.",
+      "src": [3, 12, 1]
+    },
+    {
+      "year": "2021",
+      "title": "A hit that started to take over the brand",
+      "whatHappened": "The steel Nautilus 5711 became so wanted that waiting lists ran to the better part of a decade and resale prices reached more than five times the shop price. Thierry Stern stopped making it in 2021. He said Patek had once before made too many of one model, and he did not want one watch to dominate the brand.",
+      "lesson": "If one product starts to define you, decide on purpose whether that is the company you want to be.",
+      "src": [23, 24]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Patek and Philippe met and shook hands at the 1844 Paris exhibition.",
+      "fact": "Both attended, but Patek Philippe's own magazine says the two men did not actually meet there: Patek came across Philippe's keyless mechanism, and Philippe joined him in Geneva the next year. Some other histories do say they met in Paris.",
+      "src": [4, 8]
+    },
+    {
+      "myth": "Antoni Patek was a master watchmaker.",
+      "fact": "He was a cavalry officer, typesetter and wine trader with no watchmaking training. Czapek and then Philippe made the watches; Patek ran sales and the company.",
+      "src": [6, 9, 11]
+    },
+    {
+      "myth": "The Patek or Philippe families still own the company.",
+      "fact": "Neither does. In 1932 the Sterns, the firm's dial suppliers, took control during the Depression, and four generations of Sterns have run it since.",
+      "src": [1, 3]
+    }
+  ],
+  "quotes": [
+    { "text": "This badly organized country is crawling with dangers", "who": "Antoine Norbert de Patek, writing from New York in 1854 (translated)", "src": [3] },
+    { "text": "Our display was undeniably the most important and the most superb of the whole exhibition in terms of its pocket watches.", "who": "Adrien Philippe, on the Great Exhibition, London, 1851 (translated)", "src": [4] },
+    { "text": "You never actually own a Patek Philippe. You merely look after it for the next generation.", "who": "Headline of the 'Generations' campaign, launched in 1996", "src": [5] },
+    { "text": "We cannot put a single watch on top of our pyramid", "who": "Thierry Stern to The New York Times, on ending the Nautilus 5711, 2021", "src": [23] }
+  ],
+  "lessons": [
+    { "title": "You don't have to be the craftsman", "detail": "Patek could not make a watch. He found Czapek, then Philippe, and focused on selling. If you can sell but not build, look for the best maker in your city, whether a jeweller in Jaipur or a coder in Pune, and make them a real partner." },
+    { "title": "When you see a better idea, go and get its inventor", "detail": "Patek saw Philippe's keyless watch at a Paris fair and brought him to Geneva the next year. Trade fairs, hackathons and college project shows are where today's Philippes are hiding." },
+    { "title": "Visit your market yourself", "detail": "Patek's 1854 American trip was a mess, yet it convinced him America was the future, and from the 1940s to the 1950s about half of Patek's watches were sold to Americans. A founder selling to Tier-2 towns should go there in person before hiring agents." },
+    { "title": "Your supplier may become your rescuer", "detail": "Patek was saved in 1932 by the family that made its dials. Pay suppliers on time and share your plans with them; the people who know your product best may back you in a crisis." },
+    { "title": "Protect the brand from your own bestseller", "detail": "Thierry Stern stopped the Nautilus 5711 at the height of demand so one watch would not define Patek. Whether you sell chai, sneakers or software, check that your hit product is not quietly turning you into a one-product company." }
+  ],
+  "moments": [
+    { "youtubeId": "6YCV-URyXtg", "at": 150, "label": "Antoni Patek joins the fight for Poland" },
+    { "youtubeId": "6YCV-URyXtg", "at": 301, "label": "Exile in Paris and a new life in Geneva" },
+    { "youtubeId": "6YCV-URyXtg", "at": 431, "label": "Patek, Czapek and the first watches" },
+    { "youtubeId": "6YCV-URyXtg", "at": 586, "label": "Adrien Philippe changes everything" },
+    { "youtubeId": "6YCV-URyXtg", "at": 963, "label": "The Stern family saves the company" },
+    { "youtubeId": "6YCV-URyXtg", "at": 1143, "label": "The Graves Supercomplication" },
+    { "youtubeId": "XV23g9qYm4U", "at": 1581, "label": "The marketing campaigns of the 1990s" },
+    { "youtubeId": "XV23g9qYm4U", "at": 2536, "label": "How Patek chooses who sells its watches" }
+  ],
+  "sources": [
+    { "label": "Patek Philippe, 'The founders' (official history page)", "url": "https://www.patek.com/en/manufacture/a-story-of-independence/the-founders" },
+    { "label": "Patek Philippe, 'The Stern family' (official history page)", "url": "https://www.patek.com/en/manufacture/a-story-of-independence/the-stern-family" },
+    { "label": "Patek Philippe Magazine Vol. III No. 10, 'The History of Patek Philippe' (illustrated timeline, 2014)", "url": "https://static.patek.com/pdf/ppmagazine/en/PP_Magazine_V3_N10_Pictorial_History.pdf" },
+    { "label": "Nicholas Foulkes, 'Patek Philippe in America' (Patek Philippe Magazine Vol. IV No. 3), quoting Patek's 1854 letters", "url": "https://static.patek.com/pdf/ppmagazine/en/PP_Magazine_V4_N3_PP_in_America.pdf" },
+    { "label": "Christopher Stocks, 'Industry of Nations' (Patek Philippe Magazine Vol. III No. 10), on the 1844 and 1851 exhibitions", "url": "https://static.patek.com/pdf/ppmagazine/en/PP_Magazine_V3_N10_Industry_of_Nations.pdf" },
+    { "label": "Patek Philippe press release, 'Generations' campaign and Patek Philippe Magazine 20th anniversary (Dec 2016)", "url": "https://static.patek.com/pdf/pressreleases/en/2016_PatekPhilippe_Campaign_and_Magazine_20th_Anniversary.pdf" },
+    { "label": "Piotr Bejrowski, 'Antoni Patek and the most expensive watches in the world' (Polish History, Polish History Museum)", "url": "https://polishhistory.pl/antoni-patek-and-the-most-expensive-watches-in-the-world/" },
+    { "label": "Marcin Fidler, 'Antoni Patek' (PolandWeekly, 23 Jun 2025)", "url": "https://polandweekly.com/2025/06/23/antoni-patek/" },
+    { "label": "BADA, 'The Makers Series: Patek Philippe' (British Antique Dealers' Association)", "url": "https://www.bada.org/features/makers-series-patek-philippe" },
+    { "label": "Collectability, review of Beniamin Czapla's biography 'Antoni Patek: Watchmaker of Kings' (2021)", "url": "https://collectability.com/learn/collectability-book-review-antoni-patek-watchmaker-of-kings/" },
+    { "label": "Collectability, 'Kings, Queens, Popes and their Pateks' (citing the Patek Philippe archives)", "url": "https://collectability.com/learn/kings-queens-popes-and-their-pateks/" },
+    { "label": "Czapek & Cie, 'Our story' (history of François Czapek)", "url": "https://www.czapek.com/our-story" },
+    { "label": "Shreve, Crump & Low, 'Part 3: Patek Philippe: The Great Depression and The Stern Family'", "url": "https://shreve.com/blogs/news/part-3-patek-philippe-the-great-depression-and-the-stern-family" },
+    { "label": "Guinness World Records, 'Most expensive pocket watch sold at auction'", "url": "https://guinnessworldrecords.com/world-records/752617-most-expensive-pocket-watch-sold-at-auction" },
+    { "label": "AFP via FashionUnited, 'Watch fetches record 13.3 million pounds at Swiss auction' (12 Nov 2014)", "url": "https://fashionunited.uk/news/fashion/watch-fetches-record-133-million-pounds-at-swiss-auctio/2014111214530" },
+    { "label": "Coronet, 'The man behind the most complicated watch ever' (Henry Graves Jr.)", "url": "https://www.coronet.org/new-1minute-reads/the-man-behind-the-most-complicated-watch-ever" },
+    { "label": "Tracey Llewellyn, 'What we can learn from Morgan Stanley's ninth annual Swiss watch report' (Revolution, 24 Feb 2026)", "url": "https://revolutionwatch.com/what-we-can-learn-from-morgan-stanleys-ninth-annual-swiss-watch-report/" },
+    { "label": "The Hour Markers, 'Morgan Stanley and LuxeConsult's top 50 Swiss watch brands for 2025' (Feb 2026)", "url": "https://www.thehourmarkers.com/articles/morgan-stanley-luxeconsult-ninth-annual-swiss-watcher-2025" },
+    { "label": "Professional Watches, 'Morgan Stanley's top 20 Swiss watch company ranking for 2026' (18 Feb 2026)", "url": "https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2026/" },
+    { "label": "The Hour Markers, 'Philippe Stern (1938–2026): The man who saved Patek Philippe'", "url": "https://www.thehourmarkers.com/articles/philippe-stern-dead-patek-philippe" },
+    { "label": "Michelle Graff, 'Patek Philippe's visionary leader Philippe Stern dies at 88' (National Jeweler, 17 Jun 2026)", "url": "https://www.nationaljeweler.com/articles/15059-patek-philippe-s-visionary-leader-philippe-stern-dies-at-88" },
+    { "label": "WorldTempus, 'Patek Philippe: a candid interview with Philippe Stern' (Aug 2009), on the new Seal", "url": "https://en.worldtempus.com/article/patek-philippe-a-candid-interview-with-philippe-stern-6137.html" },
+    { "label": "Brandon Moore, 'Insight: Updated criteria for the Patek Philippe Seal' (SJX Watches, 8 Dec 2024)", "url": "https://watchesbysjx.com/2024/12/patek-philippe-seal-2024-update.html" },
+    { "label": "Petrina Fernandez, 'Why Patek Philippe withdrew its bestselling Nautilus 5711 from production' (Options, The Edge Malaysia, 21 Mar 2021), quoting Thierry Stern", "url": "https://www.optionstheedge.com/topic/watches/why-patek-philippe-withdrew-its-bestselling-nautilus-5711-production" },
+    { "label": "English translation of Thierry Stern's NZZ interview on stopping the 5711 (Russian Watch Guide on Teletype, 11 Feb 2021)", "url": "https://teletype.in/@russianwatchguide/KgqYVi18q" },
+    { "label": "Coronet, 'Antoni's dream: the early history of Patek Philippe'", "url": "https://www.coronet.org/1minute-reads/antonis-dream" },
+    { "label": "Hodinkee, 'Patek Philippe President Thierry Stern sits down with Ben Clymer' (YouTube, 2026; description on secondary prices and museum buy-backs)", "url": "https://www.youtube.com/watch?v=ndsrCcqlWuk" },
+    { "label": "Mr. Watchman, Patek Philippe history film (YouTube; creator's chapter list)", "url": "https://www.youtube.com/watch?v=6YCV-URyXtg" },
+    { "label": "Business Breakdowns EP146, Patek Philippe (Colossus, YouTube; creator's chapter list)", "url": "https://www.youtube.com/watch?v=XV23g9qYm4U" },
+    { "label": "Brand Color Code, 'Patek Philippe brand colour codes' (unofficial)", "url": "https://www.brandcolorcode.com/patek-philippe-2" },
+    { "label": "Patek Philippe, 'Our values' (official page: the oldest and only remaining family-owned Geneva watchmaking company)", "url": "https://www.patek.com/en/manufacture/a-story-of-independence/our-values" },
+    { "label": "AFP via FashionUnited, 'Switzerland: Philippe Stern, former president of Patek Philippe, has died' (15 Jun 2026)", "url": "https://fashionunited.uk/news/people/switzerland-philippe-stern-former-president-of-patek-philippe-has-died/2026061588657" }
+  ],
+  "factCheck": {
+    "method": "Researched from 30 sources: Patek Philippe's magazine archives (which quote Patek's and Philippe's letters), the official history pages, the Czapek company history, Polish sources (Polish History Museum, PolandWeekly, the Czapla biography review) and BADA. Then independently re-checked claim by claim against the cited source plus a second source: the magazine PDFs were read in full; the 1854 letter quote, the 1851 Philippe quote, the Generations headline and the Thierry Stern quote were matched to their originals; the Graves sale was checked against Guinness World Records and AFP; Philippe Stern's death on 14 June 2026 against AFP and National Jeweler; sales and output against two reports of the Morgan Stanley/LuxeConsult estimates, which are labelled as estimates of retail-value sales. An engraving whose sitters could not be identified from any source was removed, and unsupported details (a London gold medal, Russian pressure on France, the 1845 letter) were cut. Photo licences, authors and dates from the Commons API; all eight chapter timestamps checked against the creators' YouTube descriptions.",
+    "disputed": [
+      { "claim": "Patek's exact birth date.", "note": "Most sources give 14 June 1812; the Swiss Historical Dictionary is reported to give 12 June 1812 (we could not open it). We use 14 June." },
+      { "claim": "How old Patek was when he joined the cavalry.", "note": "BADA says 15, the Polish History Museum says 17, and other accounts say 16 (enlisted 1828). We give the year only." },
+      { "claim": "When Patek reached Geneva.", "note": "PolandWeekly says he moved to Switzerland in 1833; the Czapla biography review says he settled in Geneva in November 1835. Both can be true; we say he was in Geneva by late 1835." },
+      { "claim": "Who brought whom into watchmaking.", "note": "Czapek's company history says Czapek met Patek in 1836 and invited him into watchmaking; Patek Philippe's own history presents Patek as the founder. We describe them as co-founders." },
+      { "claim": "Size of the first workshop.", "note": "Accounts differ between about six and about a dozen workers. All agree on roughly 200 watches a year, so we give only the output." },
+      { "claim": "Who bought Queen Victoria's watch, and when.", "note": "Patek's magazine says she visited the Swiss stand in August 1851 and bought the blue enamel watch, then ordered a chronometer for Prince Albert. Collectability, citing Patek's archives, dates the pendant (No. 4710) to 30 November 1851 and Albert's watch (No. 3218) to 9 August 1851. Other reports say Albert bought the pendant for her." },
+      { "claim": "The 1868 'first Swiss wristwatch'.", "note": "This is Patek Philippe's own claim, repeated by other writers; we label it as Patek's claim." },
+      { "claim": "Patek's title of count.", "note": "Several sources say Pope Pius IX made him a count for his service to Geneva's Catholics; the date and form are not confirmed in Vatican records, so we leave it out of the story." },
+      { "claim": "When Henri Stern's US agency began.", "note": "Patek's own page says 1945; Shreve says it became sole US distributor in 1946 after he opened his own sales firm in 1942." },
+      { "claim": "Whether LeCoultre also tried to buy Patek in the early 1930s.", "note": "Some collector histories say so; we found no primary source, so it is left out." },
+      { "claim": "Patek Philippe sales and output.", "note": "Patek publishes nothing. Morgan Stanley and LuxeConsult estimate about CHF 2.5 bn and about 72,000 watches for 2025; Vontobel is reported to estimate CHF 2.35 bn. In 2021 Thierry Stern spoke of about 60,000 watches a year." },
+      { "claim": "How many parts the Graves Supercomplication has.", "note": "Guinness World Records and the AFP report of the 2014 sale say 900; other accounts, following Sotheby's catalogue, give 920. We use Guinness's 900." },
+      { "claim": "When Patek first went to America.", "note": "Patek Philippe's magazine article on America says he reached New York a few days before Christmas 1854, aged 42; a second article in the same magazine places the trip a few weeks after New York's July 1853 fair. We follow the dated, letter-based account: December 1854." },
+      { "claim": "Whether the Graves sale is still a record.", "note": "It was the most expensive watch sold at auction in 2014. Patek's Grandmaster Chime Ref. 6300A sold for CHF 31 m at Christie's Only Watch sale in 2019, so the Graves watch is now a record only for pocket watches." },
+      { "claim": "Philippe Stern's age at death.", "note": "Patek's statement said he died 'in his 88th year' (born 1938); some outlets say 87, others 88." }
+    ]
+  }
+}

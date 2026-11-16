@@ -1,0 +1,380 @@
+{
+  "slug": "synapse",
+  "name": "Synapse",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Banking-as-a-service (fintech)",
+  "founded": 2014,
+  "died": 2024,
+  "status": "bankrupt",
+  "brandColor": "#2e5bff",
+  "founders": [
+    {
+      "name": "Sankaet Pathak",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Bryan Keltner",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "We connected the banks. We lost track of the money.",
+  "oneLiner": "A middleman that let fintech apps offer bank accounts via partner banks, while keeping the record of whose money was whose.",
+  "causeOfDeath": "Its ledger stopped matching the banks' records; when it went bankrupt, users of dozens of apps were frozen out and up to ~$95M couldn't be found.",
+  "raisedUsdM": 51,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised 'just over $50 million' in venture capital ($51M per Wikipedia), led by a $33M Series B from Andreessen Horowitz in 2019. A planned $9.7M asset sale to TabaPay collapsed; no valuation was published.",
+  "moneySrc": [
+    0,
+    2,
+    6
+  ],
+  "inOneMinute": [
+    "Synapse sat between **fintech apps and real banks**. It kept the ledger (the master record) of how much money each app's customers had.",
+    "Its records stopped matching the banks' records. After its April 2024 bankruptcy, customers of apps like Yotta and Juno were **locked out of their money**.",
+    "Partner banks found a shortfall of **$60–90 million**. Many ordinary savers got back only a fraction. Its founder raised money for a robotics startup within months."
+  ],
+  "killerLine": "If you keep the ledger for other people's money, **the ledger is the product**.",
+  "numbers": [
+    {
+      "value": "$65–95M",
+      "label": "customer money estimated missing (mid-2024)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~10 million",
+      "label": "end customers potentially affected across ~100 fintechs",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$158.6M",
+      "label": "still owed to end users as of July 2024",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$1",
+      "label": "CFPB civil penalty — set so victims could be paid from a federal fund",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: banking plumbing for apps",
+      "body": "Many fintech apps you see are not banks. To offer a savings account or debit card, they need a licensed bank behind them. Synapse, founded in San Francisco in 2014 by Sankaet Pathak and Bryan Keltner, offered the **plumbing**: one connection, and an app could hold customer money at partner banks like Evolve Bank & Trust. This is called banking-as-a-service (BaaS). Synapse's most important job was keeping the **ledger** — the record of exactly how much money each person on each app had. In 2019 Andreessen Horowitz led a $33 million investment. By 2024 Synapse worked with about 100 fintechs, reaching up to 10 million end customers.",
+      "src": [
+        0,
+        2,
+        6
+      ]
+    },
+    {
+      "title": "The rise: growth without clean books",
+      "body": "Apps loved Synapse because it was fast. Customers were told their deposits sat in FDIC-insured bank accounts (FDIC insurance protects bank deposits in the US). But that insurance protects you if a bank fails, **not if the middleman in between fails**. Behind the scenes, trouble grew. In 2023 Synapse cut 18% of staff in June and another 86 people (about 40%) in October. That same month, partner bank Evolve and big client Mercury left Synapse to work directly with each other. According to reporting cited by Wikipedia, Synapse's board even discussed removing Pathak as CEO in 2023 amid **growing ledger discrepancies**, but its venture investors argued against it.",
+      "src": [
+        0,
+        2,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: bankruptcy and a frozen weekend",
+      "body": "On 22 April 2024 Synapse filed for Chapter 11 bankruptcy and agreed to sell its assets to TabaPay for $9.7 million. On 9 May TabaPay **walked away** amid infighting between Synapse, Evolve and Mercury. Then things got worse. A US Trustee (a government bankruptcy watchdog) told the court that Synapse had **\"inexplicably cut off access to its computer systems on a weekend\"**, which played a big part in people losing access to their funds. Evolve froze payments and cards. Synapse admitted it had no cash left to operate after 17 May. The Trustee said the company had \"grossly mismanaged the estate\".",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "The fall: whose money is missing?",
+      "body": "A court-appointed trustee, former FDIC chair Jelena McWilliams, worked to match records. The partner banks found a gap of **$60–90 million** between the money they held and what Synapse's ledger said customers were owed. By July 2024 about $158.6 million was still owed to end users. Apps such as Copper and Mainvest shut services. At Yotta, 13,725 customers lost money; they got back **$11.8 million out of $64.9 million** in deposits. US senators blamed partners and investors too. The Federal Reserve separately ordered Evolve to fix weak risk controls. Pathak blamed Evolve; Evolve denied the charges.",
+      "src": [
+        0,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Apr 2014",
+      "event": "Sankaet Pathak and Bryan Keltner found Synapse in San Francisco.",
+      "kind": "start",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "2019",
+      "event": "$33 million Series B led by Andreessen Horowitz; total VC passes $50 million.",
+      "kind": "money",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Jun–Oct 2023",
+      "event": "Synapse cuts 18% of staff, then 86 more people (~40%).",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "13 Oct 2023",
+      "event": "Evolve Bank & Trust and Mercury end their relationships with Synapse.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "22 Apr 2024",
+      "event": "Files for Chapter 11; agrees to sell assets to TabaPay for $9.7 million.",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "9 May 2024",
+      "event": "TabaPay abandons the deal amid fights between partners.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "11–16 May 2024",
+      "event": "Synapse cuts off system access; Evolve freezes cards; US Trustee cites 'gross' mismanagement.",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "14 Jun 2024",
+      "event": "Federal Reserve takes enforcement action against Evolve over weak fintech-partner risk controls.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "event": "About $158.6 million still owed to end users; $65–95 million estimated missing.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2024",
+      "event": "Pathak's new humanoid-robotics startup, Foundation, raises $11 million.",
+      "kind": "after",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "12 Sep 2025",
+      "event": "Court enters CFPB judgment against Synapse: record-keeping violations, $1 penalty to unlock victim compensation.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Yotta customers: deposits vs money returned",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Deposits of affected customers",
+        "Refunded"
+      ],
+      "series": [
+        {
+          "name": "Yotta (13,725 customers who lost money)",
+          "values": [
+            64.9,
+            11.8
+          ]
+        }
+      ],
+      "takeaway": "For Yotta savers caught in the Synapse collapse, less than one dollar in five came back (as of Nov 2024).",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2019",
+      "round": "Series B",
+      "amountUsdM": 33,
+      "valuationUsdM": null,
+      "investors": [
+        "Andreessen Horowitz"
+      ],
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "governance",
+      "weight": 45
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    },
+    {
+      "key": "regulation",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "A ledger that didn't match the bank",
+      "explain": "Synapse's whole job was knowing whose money was whose. The CFPB found it **failed to keep adequate records** and didn't make sure they matched the banks' records. When the banks counted, $60–90 million didn't line up. No customer can be repaid if no one can prove what they're owed.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Letting customers think they were fully protected",
+      "explain": "Customers believed their money was FDIC-insured. But insurance covers a **bank** failing, not the **middleman** failing. Synapse was not a bank. Its users learned this the hard way. Being clear about who actually protects the money is part of the product, not small print. Users made decisions based on protection they didn't really have.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "Pulling the plug in a crisis",
+      "explain": "In the middle of bankruptcy, the US Trustee said Synapse **cut off access to its computer systems on a weekend**, which contributed to users being frozen out. In a crisis, your duty is to help everyone get to the truth faster, not slower.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Fighting partners instead of fixing the books",
+      "explain": "Synapse, Evolve and Mercury spent the collapse blaming each other, and the rescue sale to TabaPay fell apart amid the **infighting**. While the companies argued, ordinary savers waited months. Customers don't care whose fault a crisis is; they care when they get their money back. Partners that keep fighting lose everyone's trust together.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your record of customer balances ever differ from your bank's record, even by a little, without being fixed the same day?",
+    "Are your customers under the impression they're more protected (insured, guaranteed) than they really are?",
+    "Has a major partner bank or anchor client left you in the last year without a clear, shared reason?",
+    "Are you cutting large chunks of staff while still holding other people's money?",
+    "Is your board talking about leadership problems but choosing not to act?"
+  ],
+  "lessons": [
+    {
+      "title": "If you touch money, reconcile like a bank",
+      "detail": "Match your ledger to the bank's statement every day. Any gap is a fire, not a footnote. Synapse died of gaps nobody closed."
+    },
+    {
+      "title": "Say exactly what protects your users",
+      "detail": "Write in plain words who holds the money, what insurance covers, and what it doesn't. 'FDIC-insured' without the fine print can mislead people."
+    },
+    {
+      "title": "In a crisis, open the books, don't lock them",
+      "detail": "If things go wrong, give regulators, partners and customers access to records. Hiding or cutting access makes you look guilty even if you're not."
+    },
+    {
+      "title": "As a user, ask 'who is my actual bank?'",
+      "detail": "Before keeping savings in an app, find out which bank holds your money and whether there's a middleman. Prefer apps that are banks or show your account at a named bank."
+    },
+    {
+      "title": "As an investor or board member, act on red flags",
+      "detail": "If the ledger doesn't match and layoffs are piling up, protecting the founder is not your job — protecting customers' money is."
+    }
+  ],
+  "quote": {
+    "text": "the Debtor has grossly mismanaged the estate and ample cause exists to convert this case to chapter 7.",
+    "who": "United States Trustee, in a court motion",
+    "context": "Emergency motion asking to liquidate Synapse, May 2024",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Synapse never recovered. In September 2025 a bankruptcy court entered a CFPB judgment against it for record-keeping failures, with a $1 penalty designed to let harmed consumers be paid from the CFPB's victims fund. A class action against the partner banks (Evolve, AMG National Trust, American Bank and Lineage Bank) was pending as of late 2024. No criminal charges against Synapse's executives appear in sources we read. Pathak moved on fast: his humanoid-robot startup Foundation raised $11 million in 2024 and was reportedly seeking $100 million at a $1 billion valuation in 2025.",
+    "src": [
+      3,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: Synapse's collapse has frozen nearly $160M from fintech users — here's how it happened (Aug 2024)",
+      "url": "https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/"
+    },
+    {
+      "label": "TechCrunch: US Trustee wants Synapse liquidated via Chapter 7, cites 'gross mismanagement' (May 2024)",
+      "url": "https://techcrunch.com/2024/05/16/a-us-trustee-wants-troubled-fintech-synapse-to-be-liquidated-via-chapter-7-bankruptcy-cites-gross-mismanagement/"
+    },
+    {
+      "label": "TechCrunch: TabaPay is buying the assets of a16z-backed Synapse after it filed for bankruptcy (Apr 2024)",
+      "url": "https://techcrunch.com/2024/04/22/softbank-backed-tabapay-is-buying-the-assets-of-a16z-backed-synapse-after-it-filed-for-bankruptcy/"
+    },
+    {
+      "label": "TechCrunch: Ex-Synapse CEO reportedly trying to raise $100M for humanoid robotics venture (May 2025)",
+      "url": "https://techcrunch.com/2025/05/08/ex-synapse-ceo-reportedly-trying-to-raise-100m-for-his-new-humanoid-robotics-venture/"
+    },
+    {
+      "label": "Federal Reserve: Enforcement action against Evolve Bancorp and Evolve Bank & Trust (Jun 2024)",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240614a.htm"
+    },
+    {
+      "label": "CFPB: Enforcement action — Synapse Financial Technologies, Inc. (2025)",
+      "url": "https://www.consumerfinance.gov/enforcement/actions/synapse-financial-technologies-inc/"
+    },
+    {
+      "label": "Wikipedia: Synapse Financial Technologies (citing Fortune, CNBC, AP, Banking Dive)",
+      "url": "https://en.wikipedia.org/wiki/Synapse_Financial_Technologies"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Evolve Bank & Trust caused the missing money.",
+        "note": "Pathak publicly blamed Evolve and said it should cover the deficit; Evolve denied wrongdoing. The Fed's action against Evolve was stated to be independent of the Synapse bankruptcy."
+      },
+      {
+        "claim": "Size of the shortfall.",
+        "note": "Estimates range from $60–90 million (CFPB, citing partner banks) to $65–96 million (trustee, May 2024) and $85 million (CNBC, June 2024)."
+      },
+      {
+        "claim": "Synapse's board tried to remove Pathak in 2023 but investors blocked it.",
+        "note": "Reported by Fortune (March 2025) as cited on Wikipedia; we could not read the original article."
+      }
+    ]
+  }
+}

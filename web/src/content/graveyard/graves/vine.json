@@ -1,0 +1,398 @@
+{
+  "slug": "vine",
+  "name": "Vine",
+  "region": "global",
+  "country": "United States",
+  "city": "New York",
+  "sector": "Short video app",
+  "founded": 2012,
+  "died": 2017,
+  "status": "absorbed-and-closed",
+  "brandColor": "#00bf8f",
+  "founders": [
+    {
+      "name": "Dom Hofmann",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Rus Yusupov",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Colin Kroll",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Six seconds of fame. Then it looped no more.",
+  "oneLiner": "A free app for making and sharing six-second looping videos, owned by Twitter from before its launch.",
+  "causeOfDeath": "Vine invented short video but never gave its stars a way to earn, so they left for Instagram and YouTube, and a struggling Twitter shut it.",
+  "raisedUsdM": 1,
+  "peakValuationUsdM": 30,
+  "endValueUsdM": 0,
+  "moneyNote": "AllThingsD reported about $1M raised before the sale. Twitter's price was never announced; $30M is the widely reported figure. Shut down with no sale.",
+  "moneySrc": [
+    0,
+    6
+  ],
+  "inOneMinute": [
+    "Vine let anyone make **six-second looping videos**. Twitter bought it in 2012, before it even launched, for a reported $30 million.",
+    "It grew to **over 200 million active users** and created the first generation of short-video stars, years before TikTok.",
+    "But creators **could not earn money on Vine**. When rivals paid them, they left, viewers followed, and Twitter closed it in January 2017."
+  ],
+  "killerLine": "If people make your product's content, **their income is your product's lifeline**. Pay creators before a rival does.",
+  "numbers": [
+    {
+      "value": "$30M",
+      "label": "reported price Twitter paid in 2012",
+      "src": [
+        6
+      ]
+    },
+    {
+      "value": "200M+",
+      "label": "active users at its peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$1.2M",
+      "label": "asked for by each of 18 top stars to stay",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "-55%",
+      "label": "fall in yearly downloads, Q3 2016",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: six seconds, on a loop",
+      "body": "In June 2012, three friends in New York, Dom Hofmann, Rus Yusupov and Colin Kroll, started a tiny app. You held your finger on the phone screen to record, lifted it to pause, and the app stitched the bits into **one six-second clip that played on a loop**. It was simple, fast and fun. Before Vine had even launched, Twitter bought it in October 2012. The price was never announced, but it was widely reported as **about $30 million**. At the time, Vine was just three people, with roughly $1 million raised. For the founders, it was a quick and happy exit. For Vine, it meant its future would be decided by a big company with many other priorities.",
+      "src": [
+        0,
+        6,
+        8
+      ]
+    },
+    {
+      "title": "The rise: the first short-video stars",
+      "body": "Vine launched on the iPhone on 24 January 2013. Within months it was **the No. 1 free app** on Apple's US App Store. Young comedians, musicians and dancers learned to tell a whole joke in six seconds. Some built millions of followers and became the internet's first short-video celebrities. Brands followed: Dunkin' Donuts even ran a TV advert made from a single Vine. By late 2015, Vine said it had **more than 200 million active users**. Remember, this was years before TikTok. Vine had shown the world that tiny, repeatable videos could hold attention like nothing else. The format was a real invention, and the founders deserve credit for it.",
+      "src": [
+        1,
+        8
+      ]
+    },
+    {
+      "title": "The cracks: rivals paid, Vine didn't",
+      "body": "On 20 June 2013, Instagram (owned by Facebook) added **15-second videos with filters**. The effect was instant. Vine links shared on Twitter fell from about 2.5 million on 19 June to around 1.5 million the next day. Over the next three years, a bigger problem grew. Vine's stars had huge audiences but **almost no way to earn money inside the app**. YouTube shared ad money with creators. Instagram brought brand deals. In 2015, 18 of Vine's biggest stars met the company and asked for $1.2 million each. In return, each would post 12 videos a month. They also asked for better tools to block abusive comments. Vine said no. Many of them moved their energy elsewhere.",
+      "src": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall: Twitter pulls the plug",
+      "body": "By 2016, Twitter itself was in trouble. It was losing money, had failed to find a buyer and was cutting 9% of its staff. Vine's three founders had already left. Downloads fell 55% from a year earlier, and Vine dropped to No. 284 among free iPhone apps. Twitter was putting its effort into live video instead. On 27 October 2016, **Twitter announced it would shut Vine down**, on the same day as its layoffs. On 17 January 2017, the app became a plain camera called Vine Camera, and Vine as a social network was gone. Co-founder Rus Yusupov reacted with a short tweet: **\"Don't sell your company!\"**",
+      "src": [
+        1,
+        6,
+        8
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jun 2012",
+      "event": "Dom Hofmann, Rus Yusupov and Colin Kroll start Vine in New York",
+      "kind": "start",
+      "src": [
+        0,
+        8
+      ]
+    },
+    {
+      "date": "Oct 2012",
+      "event": "Twitter buys Vine before launch, for a reported $30 million",
+      "kind": "money",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "24 Jan 2013",
+      "event": "Vine launches on iPhone",
+      "kind": "start",
+      "src": [
+        8
+      ]
+    },
+    {
+      "date": "Apr 2013",
+      "event": "Becomes the most downloaded free app on the US App Store",
+      "kind": "peak",
+      "src": [
+        1,
+        8
+      ]
+    },
+    {
+      "date": "20 Jun 2013",
+      "event": "Instagram launches 15-second video; Vine sharing on Twitter drops about 40% in a day",
+      "kind": "warning",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2015",
+      "event": "18 top creators ask for $1.2M each to keep posting; Vine says no",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "event": "Vine passes 200 million active users",
+      "kind": "peak",
+      "src": [
+        1,
+        8
+      ]
+    },
+    {
+      "date": "Q3 2016",
+      "event": "Yearly downloads down 55%; Vine falls to No. 284 in free iPhone apps",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "27 Oct 2016",
+      "event": "Twitter announces Vine's shutdown alongside a 9% staff cut",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "17 Jan 2017",
+      "event": "Vine becomes \"Vine Camera\"; the social app is gone",
+      "kind": "end",
+      "src": [
+        8
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "event": "Co-founder Dom Hofmann launches Byte, a Vine successor",
+      "kind": "after",
+      "src": [
+        8
+      ]
+    },
+    {
+      "date": "Nov 2025",
+      "event": "Divine, a Vine reboot funded by Jack Dorsey's nonprofit, opens a beta",
+      "kind": "after",
+      "src": [
+        7
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Vine links shared on Twitter, June 2013",
+      "unit": "million links per day (approx.)",
+      "kind": "bar",
+      "labels": [
+        "15 Jun",
+        "19 Jun",
+        "20 Jun",
+        "26 Jun"
+      ],
+      "series": [
+        {
+          "name": "Vine links shared",
+          "values": [
+            2.9,
+            2.5,
+            1.5,
+            0.9
+          ]
+        }
+      ],
+      "takeaway": "The day Instagram added video, Vine sharing fell by about 40%. A bigger rival copied the idea and won the attention.",
+      "src": [
+        3,
+        9
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "business-model",
+      "weight": 40
+    },
+    {
+      "key": "competition",
+      "weight": 35
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    },
+    {
+      "key": "funding-dried",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "No way for creators to earn",
+      "explain": "Vine's stars made the content that brought in 200 million users. But Vine **never built a way for them to make money** inside the app, while YouTube shared ad money and Instagram brought brand deals. When 18 top stars asked for $1.2 million each, Vine refused. The people who made Vine worth opening slowly moved their best work elsewhere.",
+      "src": [
+        4,
+        6
+      ]
+    },
+    {
+      "title": "Stood still while Instagram copied",
+      "explain": "When Instagram added 15-second videos in June 2013, Vine sharing fell about 40% in a day. Vine kept its strict six-second limit for years and only tested longer clips in 2016. The format was its identity, but it also **left no room to grow** when creators wanted to tell longer stories.",
+      "src": [
+        2,
+        3,
+        8
+      ]
+    },
+    {
+      "title": "A side project inside a struggling parent",
+      "explain": "Vine was owned by Twitter, which by 2016 was losing money, cutting jobs and chasing live video. **Vine was never Twitter's top priority**, and the people who built it had all left. A product with no champion at the top and no revenue of its own is the first thing cut when the parent company needs savings.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": "No revenue plan of its own",
+      "explain": "Brands used Vine for free promotion, but Twitter never built strong paid advert options for it. Without its own income, Vine depended on Twitter's goodwill. When Twitter's money got tight, **Vine had no numbers to defend itself with**. A product that earns its own money can argue for its survival; one that only costs money cannot.",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Could your top 1% of users (creators, sellers, drivers) earn more by moving to a rival tomorrow?",
+    "Has a much bigger company just copied your core feature, and you have no plan yet for how to respond?",
+    "Is there no senior person whose job depends on this product surviving?",
+    "Would your product be among the first things cut if your funder or parent company needed to save money?",
+    "Are your most active users quietly posting less often than six months ago?"
+  ],
+  "lessons": [
+    {
+      "title": "Share money with the people who make your content",
+      "detail": "If you run a platform (a reels page, a meme app, a marketplace), your best creators are your real product. Plan from day one how they will earn: revenue share, tips, brand deals. Don't wait for them to ask."
+    },
+    {
+      "title": "Track your top creators, not just total users",
+      "detail": "200 million users looked healthy, but the stars were going quiet. Make a list of your 50 most important contributors and check every month whether they are posting more or less."
+    },
+    {
+      "title": "Expect a giant to copy you, and have a reply ready",
+      "detail": "Instagram copied Vine within six months. Before you launch, write down what you will do when a big company copies your best feature: a deeper niche, better tools, or features they can't easily match."
+    },
+    {
+      "title": "Selling early can mean losing control",
+      "detail": "Selling for $30 million was a good result for three founders. But once you sell, the buyer decides your product's future. If you sell, ask how the buyer will fund and protect the product, not just the price."
+    },
+    {
+      "title": "Listen when your power users say what's broken",
+      "detail": "Vine's stars asked for better tools to block abusive comments. When it finally came, one creator called it too little, too late. Fix the problems your best users name first, and fix them fast."
+    }
+  ],
+  "quote": {
+    "text": "Don't sell your company!",
+    "who": "Rus Yusupov, Vine co-founder",
+    "context": "His tweet the day Twitter announced it was shutting Vine down, October 2016",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Twitter kept an archive of old Vines online for a while. Co-founder Dom Hofmann launched a Vine-style app called Byte in January 2020; it later passed to a company called Clash. Meanwhile TikTok took the short-video idea to over a billion people. In November 2025, Divine, a Vine reboot led by early Twitter employee Evan Henshaw-Plath and funded by Jack Dorsey's nonprofit, opened a beta with about 170,000 restored original Vines.",
+    "src": [
+      7,
+      8
+    ]
+  },
+  "sources": [
+    {
+      "label": "AllThingsD: Twitter buys Vine, a video clip company that never launched (Oct 2012)",
+      "url": "http://allthingsd.com/20121009/twitter-buys-vine-a-video-clip-company-that-never-launched/"
+    },
+    {
+      "label": "TechCrunch: Twitter is shutting down Vine (Oct 2016)",
+      "url": "https://techcrunch.com/2016/10/27/twitter-is-shutting-down-vine/"
+    },
+    {
+      "label": "TechCrunch: Instagram launches 15-second video (Jun 2013)",
+      "url": "https://techcrunch.com/2013/06/20/facebook-instagram-video/"
+    },
+    {
+      "label": "Marketing Land (MarTech): A week after Instagram's video launch, Vine sharing tanks on Twitter (Jun 2013)",
+      "url": "https://martech.org/a-week-after-instagrams-video-launch-vine-sharing-tanks-on-twitter"
+    },
+    {
+      "label": "Engadget: Vine's biggest stars asked for money to save the app (Oct 2016)",
+      "url": "https://www.engadget.com/2016/10/31/vine-stars-deal-save-app/"
+    },
+    {
+      "label": "Mic: Before Vine died, its biggest stars had a secret plan to save it (Oct 2016, via Engadget)",
+      "url": "https://www.mic.com/articles/158289/exclusive-before-vine-died-its-biggest-stars-had-a-secret-plan-to-save-it"
+    },
+    {
+      "label": "The Motley Fool via Fox Business: I still can't believe Twitter spent $30 million on Vine (May 2017)",
+      "url": "https://foxbusiness.com/markets/i-still-cant-believe-twitter-inc-spent-30-million-on-vine"
+    },
+    {
+      "label": "Engadget: Divine is a Jack Dorsey-backed Vine reboot (Nov 2025)",
+      "url": "https://www.engadget.com/social-media/divine-is-a-jack-dorsey-backed-vine-reboot-for-2025-192307190.html"
+    },
+    {
+      "label": "Wikipedia: Vine (service), for launch and shutdown dates",
+      "url": "https://en.wikipedia.org/wiki/Vine_(service)"
+    },
+    {
+      "label": "CNBC: Instagram video taking a swing at Vine (Jun 2013)",
+      "url": "https://www.cnbc.com/2013/06/23/instagram-video-taking-a-swing-at-vine-study.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Twitter paid $30 million for Vine",
+        "note": "The price was never officially disclosed; AllThingsD said terms were not available at the time. $30M is the figure widely reported afterwards."
+      },
+      {
+        "claim": "Each top creator asked for $1.2 million",
+        "note": "Reported by Mic from sources; at least one outlet reported a different figure. The exact date of the meeting (2015 vs 2016) also varies by report."
+      },
+      {
+        "claim": "Vine had 200 million users",
+        "note": "Reports differ on whether this was monthly or total 'active' users."
+      }
+    ]
+  }
+}

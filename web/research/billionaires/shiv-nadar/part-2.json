@@ -1,0 +1,2248 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "The full list",
+      "title": "Every Bet He Made",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "HCL's story is usually told as one straight line, from a rooftop room to a global giant. The real list is messier. By 1995 the group was a tangle of more than ==40 subsidiaries==, and Nadar and his partners had tried computers, photocopiers, instruments, satellite dishes, mobile phones and even granite. Here is every bet we could verify, including the ones nobody puts on a poster.",
+          "src": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Keep one idea in mind as you read. __Almost nothing here started as the plan.__ The calculator company was a way to pay for computers. The software giant began when a man sent to close an office noticed customers would pay for his engineers. Very few of these bets went as designed, and that is the most useful thing in this chapter.",
+          "src": [
+            2,
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Count the failures as you go. Then count the winners."
+        },
+        {
+          "t": "h",
+          "text": "The first bets, 1975 to 1990"
+        },
+        {
+          "t": "venture",
+          "name": "Microcomp (later HCL Infinet)",
+          "years": "1975–2011",
+          "outcome": "sold",
+          "idea": "A small company selling desktop calculators, built to earn the money for a computer company.",
+          "decision": "The founders wanted to build computers but, as Ajai Chowdhry put it, they lacked the funds and settled for a “close second”. Nadar had also weighed medical electronics with the government's Electronics Commission before choosing computers. Calculators were the bridge.",
+          "howStarted": "It began in Nadar's home in Delhi's Safdarjung Development Area, then moved to a rooftop room in Golf Links. Its first real business came when TV maker Ved Luthra asked it to sell his Televista calculators for a share of profits.",
+          "funding": "₹1.87 lakh, all from the six founders' savings. Nadar told Wharton it was about $16,000. No bank, no angel, no government.",
+          "whatHappened": "Televista became India's top-selling calculator brand, and the cash paid for computer work. Microcomp then held the 49% block of Hindustan Computers that gave the founders control. Its later life is a surprise. Medianama reports that HCL Infinet, the internet provider launched in 2000, was previously Microcomp. Infinet claimed 100,000 subscribers by 2002, but in the year to June 2010 it lost ₹12.09 crore on ₹76.66 crore of sales. In January 2011 HCL Infosystems agreed to sell it to Tikona, and the terms were not disclosed.",
+          "lesson": "Your first company does not have to be your dream. It only has to pay for it.",
+          "src": [
+            4,
+            0,
+            5,
+            2,
+            6,
+            7
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Hindustan Computers, later HCL Hewlett-Packard, now HCL Infosystems",
+          "years": "1976–today",
+          "outcome": "public",
+          "idea": "Computers designed and built in India, at a time when almost no private company was allowed to make them.",
+          "decision": "Only state companies could get a computer licence. So the founders partnered with UPTRON, the Uttar Pradesh state electronics firm, which held a licence it was using for TVs. UPTRON took 26%. Nadar also says he had a different vision from firms of that era, which chased size by entering many licensed industries. He went deep in computers.",
+          "howStarted": "A factory in the new township of Noida, an office in Nehru Place, and a sales force fanning out with a brochure and a mock-up. The first orders came from IIT Kharagpur and IIT Madras.",
+          "funding": "₹20 lakh of equity. One-fourth came from the U.P. government and the rest was calculator money and the founders' own.",
+          "whatHappened": "India's largest computer maker by 1986, on Chowdhry's account. Today's listed company was incorporated in 1986 as HCL Limited, renamed HCL Hewlett-Packard in 1991 and HCL Infosystems in 1997. It grew from $89 million in sales in 1994 to $2.7 billion by 2007, largely by distributing Nokia phones. Then it faded. It decided to wind up its PC business in 2013, and on 31 March 2025 the company and its subsidiaries had just ==145 employees==. It paid no equity dividend in FY24 or FY25.",
+          "lesson": "Being first gets you the market. It does not keep it for you.",
+          "src": [
+            0,
+            5,
+            8,
+            9,
+            10,
+            11,
+            3,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The early flops: minicomputer, cash register, client-server system, Genesis database",
+          "years": "1976–mid-1980s",
+          "outcome": "failed",
+          "idea": "HCL's first decade was a run of products ahead of what Indian buyers needed: a minicomputer, an electronic cash register, a client-server system and a relational database called Genesis.",
+          "decision": "Nadar's logic was that HCL had already made a business computer work when experts said the parts were not good enough, so it should try the same on newer technology. He admits that second time it did not work.",
+          "howStarted": "All were built in-house by HCL's research team, led by S. Raman, a PhD from IIT Delhi. The team was only 30 or 40 people, hired from a list of 24 chosen institutes.",
+          "funding": "Paid for out of sales of the products that worked. We found no separate budget for any of them.",
+          "whatHappened": "Nadar wrote that of five products in the 1970s, the minicomputer, his big bet, “failed miserably”, and the cash register “bombed”. The client-server product failed because it was too new for India. He says Genesis was written ahead of Oracle, but buyers were not ready. Chowdhry recalls HCL building an integration database and then killing it. What paid the bills were dull products: an 8-bit system that lasted 12 years, a data-entry product that ran 15, and a programmable calculator.",
+          "lesson": "Run several bets at once, and let the boring one pay for the brave ones.",
+          "src": [
+            8,
+            5,
+            2,
+            4
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Far East Computers, Singapore",
+          "years": "1979/80–at least 2001",
+          "outcome": "pivoted",
+          "idea": "Build computers in Singapore and sell them across Asia, so that HCL would not depend on one country.",
+          "decision": "The founders chose to be a “small fish in a big pond”, Malhotra says, when HCL was a company of about ₹3 crore. Exporting from India was hard, so they manufactured in Singapore and won pioneer status there.",
+          "howStarted": "Two of the six founders moved to run it, and Chowdhry stayed for eight or nine years. Sales staff took a customer's needs in Singapore and sent them to Madras. The software came back on a floppy disk.",
+          "funding": "From HCL's own thin cash. We could not find the amount, and foreign exchange was tightly rationed then.",
+          "whatHappened": "It nearly sank in its first months: see the next chapter. It then spread into China, Malaysia, Thailand, Indonesia and Hong Kong, and United Nations contracts opened China. But the founders learned that making hardware to sell abroad was a hard road with little profit. Buyers wanted solutions, not boxes. Chowdhry called Singapore HCL's window to the world.",
+          "lesson": "Go abroad to learn what customers really want. It may not be what you came to sell.",
+          "src": [
+            2,
+            4,
+            3,
+            16,
+            17,
+            1
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The Madras software export unit",
+          "years": "c.1981–mid-1980s",
+          "outcome": "shut",
+          "idea": "Write custom software in India for computers sold overseas, and export it.",
+          "decision": "It grew out of Singapore's need for applications. It was not a grand plan to enter software, and that may be why nobody fought for it.",
+          "howStarted": "A small group in Madras. Nadar lists the facility as set up in 1981.",
+          "funding": "Internal HCL money. We found no amount.",
+          "whatHappened": "Dataquest reports that Nadar admits the software export effort flopped and the unit was disbanded. HCL would not return seriously to software exports for more than a decade. Meanwhile Infosys, TCS and Wipro went on to build that very business.",
+          "lesson": "Before you shut a small experiment, ask what it would be worth if the world moved its way.",
+          "src": [
+            0,
+            4,
+            2
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "NIIT",
+          "years": "1981–today",
+          "outcome": "public",
+          "idea": "A chain of computer training centres. Indian firms were starting to buy computers, but who would run them?",
+          "decision": "Rajendra Pawar was doing corporate planning at HCL and saw that the limit on the industry was people. Pawar says NIIT came out of brainstorming with Nadar. Nadar says he saw the model at a training company called Edutronics in Singapore. HCL itself could not afford to pour profits into training.",
+          "howStarted": "Pawar wrote the blueprint on a holiday in Manali in October 1981, and the company was incorporated that December as Pace Education. Pawar and Vijay Thadani opened in a rented place in Bombay. Its advertising shocked the academics on its advisory panel, who had not expected education to be sold commercially.",
+          "funding": "Nadar's personal money, kept separate from HCL. He became the biggest investor and founding chairman, and Kiran Nadar was also listed as a promoter. Chowdhry says HCL never invested, but the promoters did.",
+          "whatHappened": "One of India's great training brands, and it went public in 1993 at ₹50 a share. In 1996 the promoters cut their holding from 78% to 70% for foreign funds. In 1998 Business Standard reported that Nadar was seeking to sell 6%, about ₹200 crore, which a company spokesman denied. Dataquest said in 2007 that he had since sold out. We could not find the final sale date or price.",
+          "lesson": "A bottleneck in your industry is often a business waiting for an owner.",
+          "src": [
+            18,
+            8,
+            19,
+            20,
+            21,
+            17,
+            4,
+            0,
+            22,
+            12
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The mainframe that never was",
+          "years": "c.1981–early 1980s",
+          "outcome": "failed",
+          "idea": "Build mainframes in India, a much bigger class of computer, using American hardware designs and IBM's public-domain operating systems.",
+          "decision": "Twice they nearly signed with US firms, 2Pi and then Four-Phase, and twice the partner got bought just before the deal. Motorola later offered parts at 15 cents to the dollar. Then the government warned that if HCL entered mainframes, its chip supplies would be squeezed. A state firm, CMC, was selling mainframes and did not want competition.",
+          "howStarted": "Malhotra made the trips to California. Nothing was ever built.",
+          "funding": "We found no money spent beyond the trips and the time.",
+          "whatHappened": "Malhotra wanted to fight the government. Nadar decided against it. “I think he was right,” Malhotra said decades later, though he was upset then. HCL walked away.",
+          "lesson": "Some fights are not worth winning. Check who controls your supply before you pick one.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Copiers and instruments (Hindustan Reprographics and the Instruments Division)",
+          "years": "early 1980s–1990s",
+          "outcome": "merged",
+          "idea": "Copying machines and instruments, sold to the same offices that were buying computers.",
+          "decision": "The thinking was that diversifying makes you safer. Malhotra says they later changed their minds: these businesses took attention, had little to set them apart and did not bring real value.",
+          "howStarted": "Co-founder Puri ran reprographics, making copiers with key parts from Toshiba. Co-founder Yogesh Vaidya ran instruments.",
+          "funding": "HCL's own funds. No separate amount is public that we could find.",
+          "whatHappened": "Copiers suddenly fell off a cliff. At a board meeting someone proposed selling, and Malhotra objected that “You sell divisions when they're doing well”, so the job became his. He spent months rebuilding morale, added Riso digital duplicators for things like exam papers, and ran what he calls India's first comparative advertising, which became a national argument. He says it turned profitable within a year. By 2006 Nadar said Toshiba's Indian market share was 27%, ahead of Xerox's 24%. The instruments factory was later sold to HCL's own American arm.",
+          "lesson": "A demotivated team needs belief before it needs strategy.",
+          "src": [
+            2,
+            18,
+            23,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Busybee and the HCL PC line",
+          "years": "1984–2013",
+          "outcome": "shut",
+          "idea": "A cheap IBM-style personal computer for India, after the government's 1984 policy opened up imports.",
+          "decision": "Malhotra admits HCL was late to read the PC trend. Rivals had launched at about ₹1 lakh. Instead of designing from scratch, HCL copied the Taiwanese approach and priced far lower.",
+          "howStarted": "A team flew to Taiwan and elsewhere, brought back PCs, took them apart and designed its own board. Chowdhry says the launch took three weeks.",
+          "funding": "HCL's own cash flow. It was by then one of India's biggest computer firms.",
+          "whatHappened": "Busybee made HCL the face of Indian PCs, and later came Beanstalk in 1995 and a ₹19,990 PC that, Chowdhry says, decimated rival Pertech's business. A MiLeap laptop sold at ₹14,990 in 2008. But margins were thin, 90-95% of parts were imported, and tablets arrived. The PC arm was on the block for about a year with no buyer. “Currently, there are only sellers of PC business in the market,” the CEO said as HCL decided to wind it up in 2013.",
+          "lesson": "If you only assemble what others design, your margin belongs to them.",
+          "src": [
+            2,
+            4,
+            0,
+            10,
+            24,
+            13
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL America",
+          "years": "c.1988–today (as part of HCL Technologies)",
+          "outcome": "pivoted",
+          "idea": "Sell a $100,000 Indian multiprocessor UNIX computer in America, where similar machines cost about $1 million.",
+          "decision": "An AT&T visitor was stunned by HCL's UNIX work in India. McKinsey studied the idea and, Chowdhry says, charged nothing. Nayar later called it an idea ahead of its time, and Gita Piramal called it perhaps Nadar's biggest mistake.",
+          "howStarted": "A 33,000 square foot office in Sunnyvale, California, meant to hold production lines. Founder Yogesh Vaidya led it.",
+          "funding": "$5 million in foreign exchange, won by lobbying the Indian government. That was a big fight in a country short of dollars.",
+          "whatHappened": "A $50 million order from Fortune Systems vanished when Fortune was bought and its new owner wanted Intel chips, not Motorola's. There were reported clearance problems too, and Vaidya needed heart bypass surgery. Malhotra was sent to shut it quietly, with $3 to $3.5 million already gone. Software partners then begged to keep his engineers, at $45 or more an hour. That accident became HCL's software services business.",
+          "lesson": "When a closure team hears customers offering money, stop and listen.",
+          "src": [
+            2,
+            4,
+            0,
+            25,
+            17
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The biggest company on this list began as a failed office."
+        },
+        {
+          "t": "h",
+          "text": "The partnerships, 1991 to 2004"
+        },
+        {
+          "t": "venture",
+          "name": "HCL Hewlett-Packard",
+          "years": "1991–1997",
+          "outcome": "sold",
+          "idea": "Merge HCL's computer business with HP's in India. HCL makes and sells HP machines, and HCL's engineers do research work for HP.",
+          "decision": "HCL held about 80% of India's workstation market through its Apollo licence. Then HP bought Apollo, and Malhotra says HP realised taking the product back would hurt it, so it proposed that HCL run its Indian computer business. India was also short of foreign exchange, and Chowdhry says HCL lacked the funds it needed.",
+          "howStarted": "The agreement was signed on 2 April 1991. HCL's company was renamed HCL Hewlett-Packard that December, and HP held 26%. HP asked HCL to close its own RISC and UNIX research, so HCL moved those engineers to a new company rather than lose them.",
+          "funding": "HP paid for its 26% stake, and the founders sold shares. We could not find the exact price. A 2012 report puts Nadar's share at about ₹25 crore. He says only that he received “a handsome windfall”.",
+          "whatHappened": "As import duties fell from 300% to about 20%, making HP machines in India stopped making sense. Only about 1,700 of these HP machines, in more than 20 types, sold in India the year before the split. The deal ended on 1 April 1997, and a tax tribunal record shows HP agreed to pay ==$17 million== for the loss of exclusivity. The promoters bought back HP's 26%, taking them above 70%. HCL stayed HP's distributor for some products.",
+          "lesson": "Choose partners for what you can learn, and write the exit down on day one.",
+          "src": [
+            2,
+            17,
+            4,
+            26,
+            11,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL Consulting, now HCLTech",
+          "years": "1991–today",
+          "outcome": "public",
+          "idea": "Sell engineering and software skills to global companies, instead of boxes to Indian ones.",
+          "decision": "Around 1995 Nadar concluded that global IT services, not hardware, was the way forward. Forbes India says that by 1996 he saw the real war was outsourcing. But the founders looked down on application work: they thought engineers should build systems and that others should write business software. That view cost them the 1990s boom.",
+          "howStarted": "Incorporated on 12 November 1991 as HCL Overseas, it became HCL Consulting in 1994 and HCL Technologies in 1999. Its core came from the R&D group that had worked inside HP's research centres, plus Malhotra's American business. His first offshore factory was the old instruments plant near Gurgaon.",
+          "funding": "Its promoters were Nadar's investment companies, and early cash also came from Malhotra's American business. We could not find its founding capital. Its first public money was the ₹823.6 crore IPO of late 1999.",
+          "whatHappened": "A company with ₹926 crore of sales in 1999-2000 is now one with $14.8 billion in the twelve months to September 2026, and more than 230,000 people. Business Today ranked it India's third-largest IT services firm in 2019. The next chapters tell how.",
+          "lesson": "Your best business may be hiding in a department you treat as a cost.",
+          "src": [
+            31,
+            0,
+            32,
+            2,
+            4,
+            33,
+            34,
+            35,
+            36,
+            18
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL Comnet",
+          "years": "1993–2000s",
+          "outcome": "merged",
+          "idea": "Private satellite networks, called VSATs, for Indian firms whose phone lines kept failing.",
+          "decision": "In 1991 Nadar's star salesman, Vineet Nayar, got bored and said he wanted to leave. In Bombay and then Delhi the two talked through two nights. Nadar asked for a business plan. Nayar's ideas ranged from ==ready-to-eat omelettes== to aircraft manufacturing to satellite communications. Nadar liked the last one.",
+          "howStarted": "A task force in 1992, the company in 1993, and Nayar as head from 1994. They decided what not to do: no hardware selling. Nayar recalled that at first nobody wanted to work with them.",
+          "funding": "Backed by the group, with Nadar in effect acting as venture capitalist. We found no amount.",
+          "whatHappened": "In July 1995 the tiny firm won the National Stock Exchange network against AT&T, Hughes and others. NSE asked for 250 sites, and Comnet designed for up to 5,000. By 2002 it served 3,500 sites and had ₹186.8 crore in revenue. It then moved into running clients' networks from afar, which became a pillar of HCLTech: infrastructure revenue rose from $70 million in 2005 to $355 million in 2009. And its boss became the group's next great CEO.",
+          "lesson": "When your best person wants to leave, give them a company instead of a raise.",
+          "src": [
+            32,
+            18,
+            37
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "SSN Trust and the Shiv Nadar Foundation",
+          "years": "1994–today",
+          "outcome": "running",
+          "idea": "Build colleges and schools meant to outlast their founder, starting with an engineering college named after his father.",
+          "decision": "Nadar planned to put his HP money back into HCL. His mother asked him why he did not give some back to society. He chose education because it had made him, and building institutions was the skill he had. Other parts of this book tell that story.",
+          "howStarted": "SSN College of Engineering started in 1996 in a rented marriage hall in Chennai, and moved to its own campus two years later.",
+          "funding": "His own HP windfall first. In June 2010 he sold 2.5% of HCLTech and put all ₹585 crore into it, on Dataquest's account.",
+          "whatHappened": "By 2013 the Foundation had spent ₹1,800 crore, with ₹3,000 crore more committed. It now runs SSN, VidyaGyan, Shiv Nadar schools and a university. It is not a business, but in money and hours Nadar himself calls it his “second largest investment”.",
+          "lesson": "You can run your giving with the same discipline as your company.",
+          "src": [
+            27,
+            38,
+            0,
+            39
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL Perot Systems",
+          "years": "1996–2003",
+          "outcome": "sold",
+          "idea": "Software and outsourcing work with Ross Perot's American IT firm, which brought clients HCL could not reach alone.",
+          "decision": "HCL wanted a high-value client list. Perot wanted India's low-cost engineers. The group expected more than $100 million in first-year revenue. By our arithmetic it was only just reaching that pace seven years later.",
+          "howStarted": "Set up in March 1996 and based in Noida. Perot later objected that its CEO and COO were HCL's men.",
+          "funding": "Just ==$4.5 million== of capital from the two partners together.",
+          "whatHappened": "It grew to over 2,000 people and earned $78.7 million in revenue in nine months of 2003. Then the partners began bidding against each other. Perot went to court in 2002 to remove HCL's two board members, and they settled. A bid run by a mediator ended it: Perot paid $105.3 million cash for HCL's stake. Nadar told investors HCL had wanted to buy but feared losing clients who came through Perot, and that the integration would eat management time.",
+          "lesson": "Before you win an auction, ask what you lose if the seller's clients walk.",
+          "src": [
+            40,
+            31,
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Tamil Nadu cellular licence, with Singapore Telecom and the Hindujas",
+          "years": "c.1995–by 2001",
+          "outcome": "failed",
+          "idea": "A mobile phone service in Tamil Nadu, Nadar's home state, as India opened up to private operators.",
+          "decision": "HCL could see the wireless boom coming and was already tying up with Nokia. Going from selling handsets to running a network looked natural.",
+          "howStarted": "A consortium with Singapore Telecom and the Hinduja group won a place in the government's auction for private cellular licences.",
+          "funding": "We could not find each partner's share. The bid itself was $172 million for a ten-year licence.",
+          "whatHappened": "To get the second licence they had to match rival BPL-US West's $266 million. A March 1996 newsletter reported that Singapore Telecom was nervous and expected to cut its stake, while HCL wanted to pay. In 2001 Rediff reported that the venture “came a cropper”, and Nadar called such moves mistakes they were quick to exit. We could not find how it formally ended.",
+          "lesson": "Auction fever makes everyone a winner until the first bill arrives.",
+          "src": [
+            40,
+            3,
+            1
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Granite and the fish-farm plan",
+          "years": "1990s",
+          "outcome": "shut",
+          "idea": "A granite business, and a plan for an aquaculture project, which had become fashionable in south India.",
+          "decision": "We found no stated reason. Forbes India records that Nadar tried unrelated investments early on and learned from them. He told it: “any time I let greed take over, it will destroy this company.”",
+          "howStarted": "We could not find a site, team or start date.",
+          "funding": "We could not find the amount.",
+          "whatHappened": "Rediff lists both among his setbacks in 2001. “These were some of our mistakes. But then we were also quick to learn and exit,” Nadar said. The aquaculture project appears to have stayed a plan.",
+          "lesson": "If you cannot say why you of all people should win in a business, walk past it.",
+          "src": [
+            1,
+            46
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL Deluxe",
+          "years": "1990s–1999",
+          "outcome": "sold",
+          "idea": "Software and outsourcing for financial firms, with American payment-systems company Deluxe Corporation.",
+          "decision": "It fits HCL's 1990s pattern: find a global partner, then do its technology work from India. We found no detailed account of why this one was chosen.",
+          "howStarted": "A 50:50 joint venture in India. We could not find its founding date.",
+          "funding": "Shared between the two partners. Amount not found.",
+          "whatHappened": "In April 1999 Deluxe bought HCL Corporation's half and made it a wholly owned unit, one of four independent operating units worldwide. The price was not reported. HCL's own account lists Deluxe among partnerships “amicably concluded”, with one partner taking full ownership.",
+          "lesson": "A joint venture needs a known ending. HCL got good at writing them.",
+          "src": [
+            47,
+            44
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "DSL Software and Apollo Contact Centre (the carve-outs)",
+          "years": "2001–2005",
+          "outcome": "merged",
+          "idea": "Buy a big client's in-house technology unit, promise it years of work, then turn the unit into a real business.",
+          "decision": "In the 2001 slump, about 76% of HCL's revenue came from the US, and it needed a new growth path. A carve-out brought a guaranteed customer and trained staff. Dataquest called it a masterstroke, since HCL later bought the rest at a lower cost.",
+          "howStarted": "HCL took 51% of Deutsche Bank's Bangalore unit in September 2001, then 90% of BT's Apollo call centre in Belfast that December.",
+          "funding": "HCL's own cash, of which it had about $300 million in 2000. About $25 million for the Deutsche stake and $11.5 million for Apollo, with $30.24 million of work guaranteed over three years.",
+          "whatHappened": "Deutsche Software went from 450 people to 2,700 in the 13th to 36th months, with almost 400% revenue growth. Apollo grew from under 350 people to 1,600 and became one of Northern Ireland's top ten private employers. HCL bought the balance of both by early 2005, and Deutsche Bank became its largest outside shareholder.",
+          "lesson": "Buying your customer's department gets you the customer too.",
+          "src": [
+            8,
+            48,
+            31,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HCL Infosystems' second life deserves a word, because it made and then trapped the company. In the mid-1990s it bet on mobile phones and signed with Nokia. For five or six years it hardly made money.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Chowdhry remembers that people said “Nokio” and thought it was Japanese. Then HCL pushed Nokia for Indian pricing, worked to cut import duties, and grew from a few thousand retailers to about ==70,000==. The hit was the Nokia 1100, built for India's sweat and dust, with a flashlight button.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By 2003-04, telecom and office products were 61% of revenue. __Selling one giant's phones had quietly become the whole company.__ Nokia began taking back half the country from around 2006, and by 2010-11 about ₹7,805 crore of HCL Infosystems' ₹11,542 crore in revenue came from that one line, close to 90% of it Nokia. Its shares had fallen more than 80% in five years by January 2013.",
+          "src": [
+            53,
+            12,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Naturally, we were very upset, because we helped them create the market",
+          "who": "Ajai Chowdhry, on Nokia taking back half of India",
+          "src": [
+            54
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The giant's bets, 2008 to 2026"
+        },
+        {
+          "t": "venture",
+          "name": "Axon Group",
+          "years": "2008–today (inside HCLTech)",
+          "outcome": "merged",
+          "idea": "A British SAP consulting firm, meaning it helped big companies install and run SAP's business software.",
+          "decision": "HCL's SAP arm was small and, Nayar admits, nobody took HCL seriously. Infosys, the far bigger rival, had already agreed to buy Axon at 600 pence. HCL saw a chance to win the firm and the headlines together.",
+          "howStarted": "HCL made its counter-offer on 26 September 2008, soon after Lehman Brothers collapsed and money became scarce.",
+          "funding": "£441.1 million, of which £400 million was a loan from Standard Chartered Bank and the rest HCL's own cash. It was the largest Indian tech buyout to that date.",
+          "whatHappened": "Infosys did not raise its bid. HCL expected enterprise applications to jump from 11% to about 25% of revenue. It had repaid part of the $585 million loan by June 2009 and arranged to refinance the rest. The chapter “Hiring His Opposite” tells how the poker game was played.",
+          "lesson": "Sometimes the deal's biggest asset is that the world finally learns your name.",
+          "src": [
+            57,
+            58,
+            59,
+            32,
+            60
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL Healthcare (first HCL Avitas)",
+          "years": "2013–today",
+          "outcome": "pivoted",
+          "idea": "A national chain of outpatient clinics to replace the vanishing family doctor, at about $5 a visit against $20 at a private hospital.",
+          "decision": "Nadar said in 2014 that education, healthcare and technology would be the key to India's future. It also gave the next generation something of their own to build. Roshni Nadar Malhotra led the push and her husband, Shikhar Malhotra, became vice-chairman.",
+          "howStarted": "In April 2013 the group bought Bharat Family Clinic, with its Johns Hopkins tie-up, and rebranded it. There were two clinics near Delhi at launch in February 2014.",
+          "funding": "An initial ₹1,000 crore from HCL Corporation, “as much money as needed”, The Hindu reported.",
+          "whatHappened": "The targets were huge: 20 million people reached by 2020, 1,500 doctors, 50,000 patients a day. We found no report that these were met. It now describes itself as a corporate healthcare provider, running on-site health centres for employers, and reports 115+ centres and 100+ corporate clients on its own website. That is a different shape from the neighbourhood clinics announced in 2014.",
+          "lesson": "Announce fewer numbers on launch day. You will have to live with them.",
+          "src": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "HCL TalentCare",
+          "years": "2015–today",
+          "outcome": "running",
+          "idea": "Six-month paid residential courses that turn fresh graduates into job-ready IT, banking and healthcare staff.",
+          "decision": "HCL had trained talent for 40 years, Roshni Nadar said, and companies everywhere needed it. Nadar promised a “skillset warranty” for employers.",
+          "howStarted": "Announced in May 2015, with three campuses planned at Manesar, Hyderabad and Chennai.",
+          "funding": "HCL Corporation, as a wholly owned for-profit firm. Students pay about ₹1.5 lakh or more. The investment was not given.",
+          "whatHappened": "The target was 20,000 job-ready graduates by 2018. We could not confirm whether that was reached. Business Today in 2019 and Prudential in 2025 both list talent management among the group's businesses, so we treat it as running, at an unknown size.",
+          "lesson": "Selling to students and to employers at once is two businesses. Know which pays.",
+          "src": [
+            67,
+            18,
+            68
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "IBM software products (now HCLSoftware)",
+          "years": "2017–today",
+          "outcome": "running",
+          "idea": "Buy seven aging but widely used IBM products, including Notes, Domino, BigFix and AppScan, and own the code rather than rent it out.",
+          "decision": "Nadar says HCL believes in intellectual property because that is where it came from. A smaller $850 million IBM partnership in 2017 had come first. Buying also brought 5,000 clients, which CEO C. Vijayakumar said would otherwise have taken two decades.",
+          "howStarted": "The deal was announced on 7 December 2018 and closed in mid-2019. About 3,000 IBM research and sales people moved over.",
+          "funding": "$1.8 billion in cash, mostly from internal funds, with $300 million of debt. It was the largest deal yet by an Indian IT services firm.",
+          "whatHappened": "Shares fell as much as 7.7% that day, and analysts called the products middle-aged. HCLTech says its software unit has since passed $1 billion in annual recurring revenue. Yet in the quarter to September 2026, services grew while the software line fell.",
+          "lesson": "The market's first reaction is an opinion. Your cash flow five years on is the answer.",
+          "src": [
+            69,
+            70,
+            71,
+            72,
+            46,
+            66,
+            73
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Prudential HCL Health Insurance",
+          "years": "2025–today",
+          "outcome": "running",
+          "idea": "A standalone health insurer in India, with British insurer Prudential holding the majority.",
+          "decision": "It extends the group's healthcare and technology reach. Notably, the Nadars accepted a minority position here, unlike at HCLTech. Prudential brings the insurance skills.",
+          "howStarted": "Announced on 20 March 2025 with Amar Joshi as CEO. It received its licence on 1 July 2026 and began operating that August, with a network of over 12,000 hospitals.",
+          "funding": "Vama Sundari, the family's main holding company, owns 30%. Prudential owns 70%. The capital was not disclosed in what we read.",
+          "whatHappened": "Too new to judge. It entered a market of about $16 billion in premiums.",
+          "lesson": "If you lack the core skill, own less of something that can actually work.",
+          "src": [
+            68,
+            74
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "India Chip (with Foxconn)",
+          "years": "2025–today",
+          "outcome": "running",
+          "idea": "A plant in Jewar, Uttar Pradesh, to assemble and test display-driver chips for phones, laptops and cars.",
+          "decision": "It brings HCL back to hardware 50 years after it started, with government incentives on offer. Foxconn wanted a second try in India after its Vedanta venture fell apart in 2023.",
+          "howStarted": "The Union Cabinet approved it in May 2025, and the Prime Minister laid the foundation stone in February 2026.",
+          "funding": "About ₹3,706 crore in total, with around ₹1,500 crore of it reported to be government support. HCL holds 60% and Foxconn 40%.",
+          "whatHappened": "It is designed for 20,000 wafers a month, or 36 million chips, and HCL says over 3,500 jobs. Production has not started. Reports give 2027 or 2028 as the start date.",
+          "lesson": "Fifty years on, the state is still a partner in Indian chips. Learn how to work with it.",
+          "src": [
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Twenty-five bets. Only a handful made the fortune."
+        }
+      ]
+    },
+    {
+      "id": "selling-a-brochure",
+      "kicker": "1976–1988",
+      "title": "Selling What Didn't Exist",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In 1976 HCL had a licence, a brochure and a mock-up. It did not have a product. So the founders did something that would get a modern startup mocked on the internet: they went out and sold it anyway. As Chowdhry remembered it, the machine was still on the drawing board when the sales team fanned across India.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Customers walked in and looked at a breadboard model, which is a bare circuit on a board with wires, not a finished machine. They placed orders anyway. Then came the panic.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The first delivery deadline was ==31 March==, and everybody worked night and day for weeks. They made it on 27 March. Chowdhry recalled driving his old Fiat to the airport to personally deliver units for IIT professors.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "At HCL, there’s only one thing more important than brains. Guts.",
+          "who": "HCL print advertisement, as recalled by Ajai Chowdhry",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Selling on faith did not always work. Chowdhry's Madras team sold ==nothing for six months==, while every other region raced ahead. Malhotra called from Delhi and sent the Bombay head down to lecture them. Chowdhry told his crushed team that the visitor had said nothing new.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Within six months Madras was outselling everyone. In Coimbatore, the old employer DCM had a home advantage because it was a textile group, until HCL beat it for an order from Premium Mills. That one order brought five more, then ten.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "note",
+          "text": "No sales for six months. Then the best region in India."
+        },
+        {
+          "t": "h",
+          "text": "How do you sell a computer to someone who has never seen one?"
+        },
+        {
+          "t": "p",
+          "text": "For years, the three main rivals all stayed stuck at about ==200 machines a year== each: HCL, DCM and Sarabhai's ORG. Then a young salesman studying in America spent a summer asking how Indian firms actually decide to buy computers. His answer changed everything. Big firms budget and plan, but in smaller firms one person decides. Find that owner's one painful problem, like scrap or invoicing, and show the computer fixing it, and he buys on the spot.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HCL built a whole new sales team around first-time buyers and threw in one application free. The price was steep, at ₹3,64,100, because there was margin in the hardware. __HCL stopped selling computers and began selling the end of a headache.__ It climbed to about ==1,000 machines a year==. Rivals cut prices to about ₹1 lakh and it did not help. They poached HCL's salesmen at fancy titles, hoping for the secret formula. By then the market wanted reliability and service, and HCL already had those.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: HCL's team landed Dharampal Satyapal, maker of Baba Zarda chewing tobacco. They arranged financing at about ₹3,500 a month and customised the machine, so the company could store its zarda formula on it. Dataquest's account puts a machine at about ₹3 lakh then. That was about five top-end Ambassador cars, and HCL's ad line said “even your typist can operate it”.",
+          "src": [
+            80,
+            9
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders! Sell one problem solved, not a machine."
+        },
+        {
+          "t": "p",
+          "text": "Why did this computer survive India at all? Power cuts. HCL added a device with a ==truck battery== wired in.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "When power failed, the machine froze its work in place and restarted when power returned. All it needed was an engineer who came every two weeks to top up the distilled water, which also made customers feel looked after. Installing the machine took a day, and four-fifths of that day went on assembling the metal table it came with.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then there was the paperwork. Nadar recalls one licence that allowed the import of exactly ==1,753,348 integrated circuits==, and HCL had to count them and reconcile the number with the government every year. Software could only be imported as source code, so HCL wrote its own operating systems and compilers. That is partly why it grew so strong in engineering.",
+          "src": [
+            23,
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "1,753,348 chips, counted for the government. That was Indian manufacturing then."
+        },
+        {
+          "t": "p",
+          "text": "A popular story says India's expulsion of IBM in 1977 handed HCL its market. Even Chowdhry called it a stroke of luck. Nadar rejects the story twice over.",
+          "src": [
+            5,
+            0,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "IBM, he says, was not evicted but left over a rule that source code must stay in India. And its departure hurt. Someone now had to convince India that it needed computers at all, and that job fell on a very young company.",
+          "src": [
+            5,
+            0,
+            4
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If IBM had stayed on, we would have grown faster.",
+          "who": "Shiv Nadar, to Dataquest, 2010",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The morning of 31 December"
+        },
+        {
+          "t": "p",
+          "text": "In 1980 HCL had about ₹2 to 3 crore in revenue, and its founders decided to go abroad. Singapore needed solutions, so they sold the whole package: box, software, training and maintenance. It was a bold promise for a small company, and the cash flow behind it was thin.",
+          "src": [
+            4,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The target was brutal: ==$1 million in orders== between 1 August and 31 December 1980. Anything less, Chowdhry said, and they would not have the cash to run the company. They did it. The last orders that took them across the line came in on the morning of the last day. Here is what is easy to miss. __A company barely four years old had put its survival on one overseas sales target.__",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Four years old. Survival rested on five months of sales abroad."
+        },
+        {
+          "t": "h",
+          "text": "The PC scramble"
+        },
+        {
+          "t": "p",
+          "text": "Then came a mistake that became a triumph. HCL was late to PCs, while small rivals sold them at about ₹1 lakh. When the 1984 policy opened things up, HCL's team flew to Taiwan, brought back PCs and took them apart. Then it ran a big ad for its Busybee at a far lower price.",
+          "src": [
+            2,
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Malhotra's account is frank: it had no machines to deliver for three or four months. It told buyers there were so many orders that they would have to wait. Everybody believed it.",
+          "src": [
+            2,
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "We do not suggest copying that last part, since customers can sue and today's customers can post about it. But watch what they did next. Market research showed that 80% of users ran only two programs, VisiCalc and WordPerfect.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So HCL's engineers changed one chip and wrote some special code, making those two programs run three to five times faster. The extra parts cost about ==₹75==, Malhotra recalls. HCL charged ==₹10,000 more== for this Busybee 2, and sold a lot of them.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. ₹75 of parts, ₹10,000 of price. That is knowing your customer."
+        },
+        {
+          "t": "p",
+          "text": "By 1986 HCL was India's largest computer maker. Nadar would call the 1980s “fantastic”, the years at the peak of its creative work. The question of whether the company would exist simply stopped being asked. It took until around 1989, he told Wharton, to reach ₹100 crore in computer revenue. Then came their most dangerous move.",
+          "src": [
+            10,
+            5
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1977–78",
+              "text": "First computer, the HCL 8C, reaches customers. Malhotra says 1977, Nadar's own list says 1978.",
+              "src": [
+                2,
+                4
+              ]
+            },
+            {
+              "when": "June 1977",
+              "text": "HCL has more calculators in the market than its old employer DCM, Malhotra recalls.",
+              "src": [
+                2
+              ]
+            },
+            {
+              "when": "31 Dec 1980",
+              "text": "Singapore hits $1 million in orders that very morning.",
+              "src": [
+                4
+              ]
+            },
+            {
+              "when": "Dec 1981",
+              "text": "NIIT is incorporated, with Nadar as its biggest investor.",
+              "src": [
+                20,
+                18
+              ]
+            },
+            {
+              "when": "1984",
+              "text": "New computer policy. Busybee follows, with HCL importing kits from Taiwan.",
+              "src": [
+                4,
+                2
+              ]
+            },
+            {
+              "when": "1985",
+              "text": "Revenue reaches about ₹80 crore, on Malhotra's memory.",
+              "src": [
+                2
+              ]
+            },
+            {
+              "when": "1986",
+              "text": "HCL is India's largest computer maker. The company now listed as HCL Infosystems is incorporated as HCL Limited.",
+              "src": [
+                10,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Sell before you build, then actually build",
+          "text": "HCL took orders on a breadboard and delivered four days early. Selling early tests demand and forces you to ship. It only works if you then do the hard part on time."
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "1989–2004",
+      "title": "The Day They Went to Shut It",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In 1989 HCL went to America, the dream of every Indian founder, with ==$5 million== of foreign exchange that India could barely spare. Back home, HCL had told everyone how good its computers were. The plan was to make machines in a 33,000 square foot building in Sunnyvale, and a $50 million order from Fortune Systems made it look certain.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then the order died. Fortune was bought by another company that wanted Intel chips, and HCL's machines ran on Motorola's. Founder Yogesh Vaidya needed a heart bypass. Sitting in India, Nadar and his partners decided to shut the American arm and sent Malhotra to do it quietly, because they had boasted so loudly at home. Malhotra laid off the nine hardware people, with $3 to $3.5 million of the $5 million already gone.",
+          "src": [
+            2,
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the phone calls that made HCLTech. Malhotra called software firms like Informix, Unify and Micro Focus to say he was pulling his engineers from their projects. They said no: they needed those engineers, and would pay ==$45 or more an hour==.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Suddenly the closure team had positive cash flow. Malhotra told nobody in India. He just kept filing reports, and head office was very happy he was not asking for money.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The man sent to close it told nobody it was making money."
+        },
+        {
+          "t": "p",
+          "text": "Two years later India ran into a severe cash crunch, and computers and office equipment were the first things customers stopped buying. Back in Delhi HCL was short of money. Malhotra wanted to help, but he had piled up profits in America with no easy way to send them home.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So he bought HCL's Instruments Division factory near Gurgaon for ==$1 million==. Head office asked where on earth the money had come from. Only then did he tell them what he had been doing.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That factory became HCL's first offshore software factory. Yet there is a hard lesson here, and Malhotra takes the blame for it. The founders thought engineers built systems and lesser-trained programmers wrote business applications. So for years HCL stayed out of application work while Infosys, TCS and Wipro prospered from it. __The company invented its own services business by accident, then refused to grow it properly out of pride.__",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "To have engineers do applications was completely alien to us",
+          "who": "Arjun Malhotra, HCL co-founder",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nadar's most famous refusal came from the same belief. In 2000 he turned down a ==$175 million== deal because it paid only $28 an hour. By 2005 Infosys and Wipro were about twice HCL Tech's size. Another chapter in this book weighs that call. It is worth saying here that the instinct that lost the 2000s is also what later made HCL different, as engineering and products became the hot market.",
+          "src": [
+            81,
+            32,
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Selling the 26 percent, buying it back"
+        },
+        {
+          "t": "p",
+          "text": "When HP arrived in 1991, the founders sold some shares and came into real money for the first time. It could look like a surrender, since HP's name even went on the door. In fact, HP took only 26% and the founders kept control. The terms also pushed HCL engineers into HP's research centres, where, Chowdhry says, they took in the technology, and HP's insistence on shutting HCL's own UNIX research created the seed of a new company.",
+          "src": [
+            26,
+            4,
+            27
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Six years later, the market had changed under them. Duties were falling, HP wanted to run its own Indian business, and only about 1,700 of its machines sold in India in a year, across more than 20 types. That was too few for a factory. HP left, and a tribunal record shows it agreed to pay ==$17 million== in compensation. Nadar was calm about it.",
+          "src": [
+            26,
+            29
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "With HP withdrawing its equity participation in the venture, we can take the business to any country we like",
+          "who": "Shiv Nadar, 1997",
+          "src": [
+            29
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then the founding group began to come apart. The six had held together for ==19 years==, Malhotra recalls, before the first of them left. In March 1998, after 23 years, Malhotra himself went, to chase newer technology.",
+          "src": [
+            82,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He had no appetite for a careful public company. He founded TechSpan with Goldman Sachs money, merged it with Headstrong, and Genpact bought that for $550 million in 2011. He calls his HCL exit amicable.",
+          "src": [
+            82,
+            2
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: a tax tribunal order lets us see the exit from inside. It records that HCL was controlled by two groups, Malhotra's and Nadar's. A January 1998 agreement for Malhotra's exit was never carried out, HCL said, because its prices were unrealistic. An April 1999 agreement then moved the Malhotra group's HCL Consulting shares to the Nadar group at ==₹50 each==. Seven months later, those shares were heading for an IPO at far higher prices. We do not know what he received in total for all his HCL holdings.",
+          "src": [
+            33
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Six founders, 19 years, no split. That alone is rare."
+        },
+        {
+          "t": "h",
+          "text": "The IPO"
+        },
+        {
+          "t": "p",
+          "text": "An IPO, or initial public offering, is when a private company first sells shares to the public and lists on a stock exchange. By late 1999, India was in a dot-com frenzy. HCL Technologies set a price band of ₹500 to ₹580 and got a choice few Indian companies had: Chowdhry says it held a New York Stock Exchange ticker and decided not to use it, picking the Indian market instead.",
+          "src": [
+            34,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It priced at the very top, ==₹580==. The book-built part was oversubscribed 27 times, with total demand of about ₹20,100 crore for an issue of ₹823.6 crore. CIOL called it a milestone in Indian corporate history. Columnist Sucheta Dalal warned on Rediff, while it was open, that with only 15% reserved for retail investors, allotment “seems like a lottery”.",
+          "src": [
+            34,
+            83
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "₹580",
+              "label": "IPO price per share, November 1999",
+              "src": [
+                34
+              ]
+            },
+            {
+              "value": "27 times",
+              "label": "how much the book-built part was oversubscribed",
+              "src": [
+                34
+              ]
+            },
+            {
+              "value": "₹1,575",
+              "label": "closing price on the BSE on listing day, 11 January 2000",
+              "src": [
+                84
+              ]
+            },
+            {
+              "value": "₹21,840 crore",
+              "label": "market value at the end of day one",
+              "src": [
+                84
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Listing day was January 2000, a day when IT stocks were in panic selling. HCL Tech still closed up 170%, at ==₹1,575==, for a market value of about ₹21,840 crore. By our arithmetic the IPO sold only about 10% of the company, and the market valued the whole at about 24 times its sales of ₹926 crore. __The public bought a tenth, and control stayed exactly where it was.__ Forbes put Nadar 126th in the world at $3.7 billion in 2000.",
+          "src": [
+            34,
+            84,
+            35,
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The IPO sold about a tenth. Remember that."
+        },
+        {
+          "t": "p",
+          "text": "One deal before the IPO later came back to haunt the group. In June 1999 three promoter companies sold 70 lakh shares of the future HCL Technologies to a Mauritius company at ==₹50 each==. Those shares then had a bonus issue and a split before the IPO, so by our arithmetic ₹50 is about ₹13 in IPO terms, against ₹580 five months later. Tax officers raided, argued that the true price was ₹1,807, and demanded over ₹800 crore.",
+          "src": [
+            33,
+            85
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the officers' case leaned on a seized fax. The tribunal order records that on 23 September 1999, HCL finance executive Anil Chanana wrote to Nadar valuing each ₹10 share at ₹1,807, assuming a market value of ₹6,000 crore. To keep the IPO price at ₹450 to ₹500, he noted, it would take one bonus share for every two, then a 2.5-for-1 split. That is what happened. On day one the market said ₹21,840 crore, not ₹6,000 crore.",
+          "src": [
+            33,
+            84
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HCL said the ₹50 was proper for that time, was disclosed, and was the same price at which a co-founder had sold. In March 2006 the Income Tax Appellate Tribunal in Delhi held the additions unsustainable and outside the scope of that type of assessment, and it dismissed the tax department's appeal. It called the true value of the shares “only academic” and did not decide it. So HCL won on law, and the valuation question was never answered. Another chapter has more on this fight.",
+          "src": [
+            33,
+            85
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The crash"
+        },
+        {
+          "t": "p",
+          "text": "The boom did not last. Across 54 Indian IT firms, the average share price fell over 70% during 2000-01, Dataquest found. On one day in June 2001 HCL Tech fell by its daily 16% limit, to a low near ₹260. Those shares had since been split into two, so that is about ₹520 in IPO shares, under the ₹580 issue price. Rediff wrote that summer that margins were being eaten across the group, and it called HCL at the crossroads.",
+          "src": [
+            86,
+            87,
+            31,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nadar's own numbers show the danger. Nearly ==76% of revenue== came from the US when it entered recession, and he says they were pushed into a corner. HCL was not out of money: it had put cash into five venture funds and had $300 million in reserves in 2000. So this near-death was not a bank about to call. It was a stalled company watching rivals pull away.",
+          "src": [
+            8,
+            31
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Its response was the carve-out deals, buying Deutsche Bank's and BT's in-house units, plus a push into healthcare and aerospace engineering, built on its hardware past. HCL's engineering and R&D line was about 17% of revenue by 2014. Meanwhile, it fought with a partner.",
+          "src": [
+            8,
+            52,
+            42,
+            43,
+            41
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Perot Systems took HCL to court in 2002 to remove its two board members. The two settled, each offered to buy the other, and a mediator ran an auction in December 2003. Perot paid ==$105.3 million== for a stake in a venture started with just $4.5 million of combined capital.",
+          "src": [
+            8,
+            52,
+            42,
+            43,
+            41
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "For HCL, this has been a great return on investment.",
+          "who": "David Cohen, Perot Systems Europe, the buyer",
+          "src": [
+            42
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1989",
+              "text": "HCL America opens in Sunnyvale. Malhotra is soon sent to close it.",
+              "src": [
+                2,
+                17
+              ]
+            },
+            {
+              "when": "2 Apr 1991",
+              "text": "Joint venture agreement with HP. HP will hold 26%.",
+              "src": [
+                26
+              ]
+            },
+            {
+              "when": "12 Nov 1991",
+              "text": "HCL Overseas, the future HCLTech, is incorporated.",
+              "src": [
+                31
+              ]
+            },
+            {
+              "when": "1 Apr 1997",
+              "text": "HP deal is terminated, with $17 million in compensation.",
+              "src": [
+                26
+              ]
+            },
+            {
+              "when": "March 1998",
+              "text": "Co-founder Arjun Malhotra leaves after 23 years.",
+              "src": [
+                82
+              ]
+            },
+            {
+              "when": "Jan 2000",
+              "text": "HCL Technologies lists, closing day one 170% above its issue price.",
+              "src": [
+                84
+              ]
+            },
+            {
+              "when": "Dec 2001",
+              "text": "HCL buys 90% of BT's Apollo Contact Centre, as the US slump bites.",
+              "src": [
+                51
+              ]
+            },
+            {
+              "when": "Dec 2003",
+              "text": "Perot pays $105.3 million, ending a seven-year venture.",
+              "src": [
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Follow the money that surprises you",
+          "text": "Malhotra was told to close an office and found customers offering to pay. Nobody planned HCLTech. Keep your eyes on what customers will pay for, even when it embarrasses your plan."
+        },
+        {
+          "t": "lesson",
+          "title": "Do not let pride decide what is beneath you",
+          "text": "HCL thought application work was beneath its engineers. That belief cost it the Y2K boom. Judge work by what it leads to, not how it looks."
+        }
+      ]
+    },
+    {
+      "id": "the-big-bets",
+      "kicker": "2005–2019",
+      "title": "Hiring His Opposite",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "By 2005 it was obvious to anyone reading the numbers. In 2000, Infosys, Wipro and HCL Tech each had about $200 million in revenue. Five years later Infosys had passed $1.5 billion and Wipro was near it, while HCL Tech was only about halfway. Forbes India said few gave it a chance.",
+          "src": [
+            32,
+            81
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Co-founder S. Raman, the CEO in practice, had fallen ill, and it was necessary for him to retire. Nadar now made what we think is the decision that matters most in this book.",
+          "src": [
+            32,
+            81
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He passed over the obvious people and picked Vineet Nayar, the man from the omelette plan. Nayar had never run a big company and, in Nadar's telling, had never sold overseas and had never worked in technology. Nobody expected it. Nadar says he had told the board back in 1999 that Nayar would succeed him. Nayar himself said no at first, and it took, in his words, “a few long dinners and months”.",
+          "src": [
+            46,
+            81,
+            57
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The two were opposites. Forbes India painted Nadar as imperious, and reported an office legend that staff read his clothes before reviews. Nayar danced at town halls. He asked for only one thing, a free hand, and Forbes India says he overturned much of what his mentor had built. __Stepping aside for your opposite is very different from choosing a younger copy of yourself.__",
+          "src": [
+            32,
+            57
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He hired the person who would undo his work. On purpose."
+        },
+        {
+          "t": "p",
+          "text": "Nayar picked a fight most Indian firms avoided. He told his team to stop fighting Indian IT and take on IBM for huge total-outsourcing deals. To attract talent, HCL's recruitment pitch said it was looking for “plumbers”, because the company had plenty of leaks. He posted his own staff appraisal on the company intranet. “Employees First, Customers Second” became the slogan, though it was tested in the recession, as another chapter shows.",
+          "src": [
+            57
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Reader's Digest had chosen a rival. Nayar asked CEO Mary Berner for five minutes on the phone, and she offered to take the call at 9 a.m. New York time. He drove straight to the airport instead and was at her door at 9 a.m. She reversed the decision and he flew home that afternoon, without checking into a hotel. For a UK client doubting $160 million in savings, HCL left an A3-sized mock cheque for that amount, and he hung it on his wall.",
+          "src": [
+            57
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There is another side. Analysts at CLSA said HCL was winning by undercutting rivals by at least 15%, and Wipro's Sanjay Gupta called its pitch outdated. Margins were low too, moving between 16% and 19% over eight quarters.",
+          "src": [
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HCL's CFO shrugged: “If HCL wins a deal, everybody says we undercut.” Insiders told Forbes India that Nadar still held real power behind Nayar, with the CFO reporting to Nadar. You should read the triumph with these in mind.",
+          "src": [
+            32
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The poker game for Axon"
+        },
+        {
+          "t": "p",
+          "text": "In 2008 HCL needed something big. Nayar admits that nobody was taking it seriously in spite of the slogans. In August, bigger rival Infosys agreed to buy Axon, a British SAP consultant, for £407 million. If HCL could snatch it from under Infosys's nose, the world would notice. But its board would not back a price war.",
+          "src": [
+            57,
+            58
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So, by Nayar's account, the real job was to convince Infosys that HCL was crazy. HCL sent feelers through several channels that it would bid until it went bust. Then on 26 September 2008, it offered ==650 pence== against Infosys's 600, or £441.1 million.",
+          "src": [
+            57,
+            58,
+            59,
+            88
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In public, its finance vice president told Reuters, “We are not in a bidding war or anything like that.” Infosys did not raise. Nayar gives the credit for this kind of negotiation to Nadar.",
+          "src": [
+            57,
+            58,
+            59,
+            88
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "our primary job was to make the other company believe that we are illogical and irrational",
+          "who": "Vineet Nayar, former HCL Technologies CEO",
+          "src": [
+            57
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "650 pence",
+              "label": "HCL's offer per Axon share, against Infosys's 600",
+              "src": [
+                58
+              ]
+            },
+            {
+              "value": "£441.1 million",
+              "label": "price of the largest Indian tech buyout to that date",
+              "src": [
+                58,
+                59
+              ]
+            },
+            {
+              "value": "£400 million",
+              "label": "the loan that funded it, from Standard Chartered",
+              "src": [
+                58,
+                59
+              ]
+            },
+            {
+              "value": "$1.3 billion",
+              "label": "currency hedges still open in March 2009, near ₹41 to the dollar",
+              "src": [
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bill nobody put in the press release"
+        },
+        {
+          "t": "p",
+          "text": "Lehman Brothers had collapsed days before the bid, and a good price was available because money was scarce. But HCL now had a large short-term loan, due within a year, just as the world froze. And it had a second problem.",
+          "src": [
+            32,
+            90,
+            89,
+            60,
+            91
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2007, with the rupee rising fast, HCL had locked in future dollar sales at about ₹41, a protection called a hedge. Then the rupee fell to more than ₹50. Its $2 billion of hedges had turned into a giant loss.",
+          "src": [
+            32,
+            90,
+            89,
+            60,
+            91
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By March 2009 the balance sheet showed a hit of ==$225 million== still to flow through. On the earnings call, management called hedging the spoiler at the party, as net profit fell to 7.6% of revenue. Quarterly profit fell 36% and the shares dropped. Mint counted losses of ₹217 crore in FY08 and ₹483 crore in FY09, with more to come. __The biggest deal of Nadar's career so far landed in the middle of an expensive treasury mistake.__",
+          "src": [
+            89,
+            91,
+            90
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. A winning deal can arrive on your worst day."
+        },
+        {
+          "t": "p",
+          "text": "It held. HCL won 20 deals worth $1 billion in one quarter of 2008. The Axon loan was repaid or refinanced by late 2009. Nayar remembers Nadar backing him through the crisis, and that HCL grew through the recession.",
+          "src": [
+            32,
+            60,
+            57,
+            25,
+            39,
+            18
+          ]
+        },
+        {
+          "t": "p",
+          "text": "From about $700 million, Nayar's own count, revenue reached close to ==$4.5 billion== in six years, and market value rose from a low of $1.4 billion to over $10 billion. Nayar stepped down in 2013. C. Vijayakumar, who had joined in 1994 on the NSE project, later became CEO.",
+          "src": [
+            32,
+            60,
+            57,
+            25,
+            39,
+            18
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Vijayakumar joined as a team member on the NSE job. Now he runs it."
+        },
+        {
+          "t": "h",
+          "text": "Why buy old software?"
+        },
+        {
+          "t": "p",
+          "text": "Then came a bet that made investors flinch. In 2017 HCL struck an $850 million deal for rights to IBM software. In December 2018 it said it would buy seven products for ==$1.8 billion==, the largest purchase by an Indian IT services firm.",
+          "src": [
+            71,
+            69,
+            70,
+            72
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Shares fell as much as 7.7%. One brokerage said the products were in the middle or end of their lives. An analyst said the market was asking whether HCL had bitten off too much, too early.",
+          "src": [
+            71,
+            69,
+            70,
+            72
+          ]
+        },
+        {
+          "t": "p",
+          "text": "At 74, in an interview in his Noida office, Nadar gave a very simple explanation. “We believe in IP because that’s what we came from,” he said. The firm had invested $4 billion in buying intellectual property and stayed debt-free, he said. Part of the logic was to take the people too, and 3,000 IBM staff came across.",
+          "src": [
+            46
+          ]
+        },
+        {
+          "t": "p",
+          "text": "“They wrote source code,” he said. The first payment was due on 30 June 2019. His CFO, who used to say he might disagree with Nadar but would go along with his instincts, sent it a day early.",
+          "src": [
+            46
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Just because the amount becomes larger, the decision criteria doesn’t change.",
+          "who": "Shiv Nadar, 2019",
+          "src": [
+            46
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HCLTech says its software arm has passed $1 billion in annual recurring revenue, and HCL went past Wipro to become India's third-largest IT services firm in 2018-19. That argument is still open: in the latest quarter, services grew while the software line fell. Malhotra, looking on from outside in 2018, thought HCL's old product bias had finally paid off, as the application market cooled and the product market grew hot. So the very habit that made Nadar lose the 2000s may have helped him in the 2020s.",
+          "src": [
+            66,
+            18,
+            73,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nayar's verdict, given as Nadar stepped back as chairman in 2020, is generous and also a little sad. It suggests how much of this story was bent by where it happened: a company that had to count its integrated circuits for the government.",
+          "src": [
+            25,
+            23
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If Shiv was in California, HCL would have been a $500-billion company by now",
+          "who": "Vineet Nayar, 2020",
+          "src": [
+            25
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Your successor does not need your CV",
+          "text": "Nadar picked someone with no overseas or large-company record, because he had watched him for 20 years. Watch how people behave when bored and when losing. It tells you more than their résumé."
+        },
+        {
+          "t": "lesson",
+          "title": "Protect the balance sheet before the big bet",
+          "text": "HCL's Axon win came with a loan and a bad currency hedge at once. It survived because it had cash and strong revenue. Check what else can go wrong on the day your bet goes right."
+        }
+      ]
+    },
+    {
+      "id": "the-fortune",
+      "kicker": "As of 3 November 2026",
+      "title": "Where the Money Sits",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Here is a fact that surprises almost everyone. According to the September 2026 stock-exchange filing, Shiv Nadar personally owns ==736 shares== of HCLTech. At about ₹1,430 a share, that is around ₹10.5 lakh. By our arithmetic, the man Forbes rates at $31.4 billion holds directly less than the price of a decent new car. So where is the money?",
+          "src": [
+            92,
+            93,
+            94,
+            95
+          ]
+        },
+        {
+          "t": "note",
+          "text": "736 shares. Look it up. It is in the filing."
+        },
+        {
+          "t": "p",
+          "text": "It sits one level up, in two private holding companies, which is a common Indian structure. A holding company exists mainly to own shares in other firms. Vama Sundari Investments (Delhi) owns 44.23% of HCLTech. HCL Holdings, held through a discretionary trust set up by Roshni Nadar Malhotra, owns 16.46%.",
+          "src": [
+            92
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Add smaller stakes and the promoter group owns ==60.88%==. A promoter is the founder or family that controls a listed Indian company. None of those shares is pledged for loans, the filing says.",
+          "src": [
+            92
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "60.88%",
+              "label": "promoter group's share of HCLTech, 30 Sept 2026",
+              "src": [
+                92
+              ]
+            },
+            {
+              "value": "₹3.88 lakh crore",
+              "label": "HCLTech's total market value, 2 Nov 2026",
+              "src": [
+                96
+              ]
+            },
+            {
+              "value": "about ₹2.36 lakh crore",
+              "label": "our arithmetic: value of the promoter stake, about $24.6 billion at ₹95.72 a dollar",
+              "src": [
+                92,
+                96,
+                73
+              ]
+            },
+            {
+              "value": "$31.4 billion",
+              "label": "Forbes's estimate of his net worth, #71 in the world, 2 Nov 2026",
+              "src": [
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Notice the gap. Our rough value for the entire family stake is well below Forbes's figure, and it belongs to several people and a trust. Forbes does not publish its working on this page, so we cannot say what else it counts. Treat any single number for “his” money as an informed guess. As other parts of this book note, some lists now put much of the same wealth under his daughter's name.",
+          "src": [
+            95,
+            92
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Who actually owns what now"
+        },
+        {
+          "t": "p",
+          "text": "On 6 March 2025 Nadar signed gift deeds moving 47% of Vama Delhi and 47% of HCL Corporation to his only child, Roshni Nadar Malhotra. Before the gift he held 51% of each, and she held 10.33%. After it, by the filing's own arithmetic, he held 4% and she held 57.33%. The filing says the aim was to streamline succession and keep ownership and control in the family.",
+          "src": [
+            93
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The September 2026 filing lists her proportionate share of HCLTech through Vama Delhi at 25.359%. So one set of gift deeds moved control of a company with 230,000 staff, without a sale. It also explains why he can have so little in his own name.",
+          "src": [
+            92,
+            36
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for founders: decide succession while you can still explain it."
+        },
+        {
+          "t": "h",
+          "text": "How the fortune actually grew"
+        },
+        {
+          "t": "p",
+          "text": "Strip away the drama and there are just four moves. First, the founders kept control from the start: ₹1.87 lakh and a calculator business bought 74% of the computer company. Second, he stayed the largest owner through everything: about 60% in 2009, 62% in 2014 and 60.88% today. Third, the IPO sold only about 10% of HCL Technologies to the public. Fourth, he let a company compound for more than 25 years.",
+          "src": [
+            2,
+            32,
+            63,
+            92,
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nadar's reason for holding on is a firm belief, not an accident. In India, he told Forbes India in 2019, diluted ownership leads a company to lose its way. __The billionaire's secret here is unexciting: he owned most of something good and refused to sell it.__ Forbes India put him at $8.6 billion in 2013. The family's stake has barely changed since, so the rise from there came from the business and its stock.",
+          "src": [
+            46,
+            39
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1975",
+              "text": "₹1.87 lakh of savings pooled by six founders.",
+              "src": [
+                0
+              ]
+            },
+            {
+              "when": "2000",
+              "text": "$3.7 billion, 126th on the Forbes list.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "2005",
+              "text": "About $3 billion, on a Forbes estimate quoted by Wharton.",
+              "src": [
+                23
+              ]
+            },
+            {
+              "when": "2010",
+              "text": "About ₹15,000 crore in listed shares alone.",
+              "src": [
+                0
+              ]
+            },
+            {
+              "when": "2013",
+              "text": "$8.6 billion, seventh on the Forbes India list.",
+              "src": [
+                39
+              ]
+            },
+            {
+              "when": "2014",
+              "text": "$11.6 billion, Bloomberg Billionaires Index.",
+              "src": [
+                63
+              ]
+            },
+            {
+              "when": "2019",
+              "text": "$14.14 billion, sixth on the Forbes India list.",
+              "src": [
+                46
+              ]
+            },
+            {
+              "when": "Nov 2026",
+              "text": "$31.4 billion, Forbes real-time.",
+              "src": [
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "One flat stretch stands out. From 2000 to 2005 his wealth barely moved. Those were exactly the years HCL lost ground to Infosys and Wipro. __When a founder holds 60%, the company's lost years are his lost years too.__ Letting go of daily control in 2005 may be the most valuable financial decision he ever made.",
+          "src": [
+            1,
+            23,
+            32
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The cash machine"
+        },
+        {
+          "t": "p",
+          "text": "Most of this is paper wealth, except for one river of real cash. A dividend is a share of profit that a company pays to owners. Business Standard reported that in FY25 the Nadar family earned ==₹9,906 crore== in HCLTech dividends, the most of any promoter group in its analysis, ahead of Anil Agarwal and Azim Premji. HCLTech paid ₹60 a share again in FY26, which by our arithmetic comes to about ₹9,900 crore for the promoter group's shares.",
+          "src": [
+            15,
+            97,
+            92
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: HCL Technologies raised ₹823.6 crore in its entire 1999 IPO. In just the three months to September 2026 it earned a net income of ₹5,132 crore, about six times that. The dividends on promoter shares in a single year are around twelve times the whole IPO.",
+          "src": [
+            34,
+            73,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That river funds the giving. Nadar sold shares for philanthropy in 2010, and he told Wharton that year that HCL dividends flow into a family company, from which “a large quantum” goes to the Foundation. The Foundation and the museum also hold about 0.085% each directly.",
+          "src": [
+            0,
+            98,
+            92,
+            81,
+            14,
+            74,
+            79
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His other bets are small next to this. India Chip, Prudential HCL and HCL Healthcare are all unlisted, and we found no reliable value for any of them. HCL Infosystems, where he said he “knew every brick”, is now a sliver of the story.",
+          "src": [
+            0,
+            98,
+            92,
+            81,
+            14,
+            74,
+            79
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "What family ranch? I had barely worked for seven or eight years and had become a marketing manager.",
+          "who": "Shiv Nadar, asked whether he bet the family ranch on HCL in 1976",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Keep the equity",
+          "text": "Nadar raised astonishingly little money: ₹1.87 lakh, a ₹20 lakh joint company, a 26% partner he later bought out, and a 10% IPO. He never gave away control. Before you sell shares for growth, work out what that share is worth if you are right."
+        },
+        {
+          "t": "lesson",
+          "title": "Make the core pay for your other bets",
+          "text": "Calculators paid for computers. Hardware paid for software. HCLTech's dividends now pay for universities and chip plants. Build one thing that throws off cash, then spend it on what you truly want to try."
+        },
+        {
+          "t": "lesson",
+          "title": "Plan to stop running it",
+          "text": "He handed daily control to Nayar in 2005, the chair to Roshni in 2020, and majority ownership to her in 2025. Each step came while he could still choose. The fortune grew most after he let go."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Dataquest: Shiv Nadar, Lifetime Achievement Award 2010, 31 December 2010",
+      "url": "https://www.dqindia.com/shiv-nadar-the-winner-of-the-dataquest-lifetime-achievement-award-2010/"
+    },
+    {
+      "label": "Rediff: Shiv Nadar completes 25 years of success, 9 August 2001",
+      "url": "https://www.rediff.com/money/2001/aug/09nadar.htm"
+    },
+    {
+      "label": "Computer History Museum: Oral History of Arjun Malhotra, recorded 15 November 2018",
+      "url": "https://archive.computerhistory.org/resources/access/text/2019/01/102740453-05-01-acc.pdf"
+    },
+    {
+      "label": "Knowledge at Wharton: Ajai Chowdhry interview, 15 November 2007",
+      "url": "https://knowledge.wharton.upenn.edu/article/hcl-infosystems-ajai-chowdhry-we-see-india-as-a-very-young-country/"
+    },
+    {
+      "label": "Dataquest: The Making of a Giant, with Shiv Nadar interview, 11 March 2002",
+      "url": "https://www.dqindia.com/the-making-of-a-giant/"
+    },
+    {
+      "label": "Knowledge at Wharton: Shiv Nadar interview, part 1, 20 September 2006",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hcls-shiv-nadar-transformation-is-beckoning-and-it-is-right-around-the-corner/"
+    },
+    {
+      "label": "Medianama: Tikona buys loss-making HCL Infinet, 20 January 2011",
+      "url": "https://www.medianama.com/2011/01/223-tikona-hcl-infinet/"
+    },
+    {
+      "label": "VARIndia: HCL Infosystems sells entire equity in HCL Infinet to Tikona, 19 January 2011",
+      "url": "https://www.varindia.com/news/hcl-infosystems-sells-entire-equity-share-in-hcl-infinet-to-tikona"
+    },
+    {
+      "label": "Business Today: What it takes to succeed as businessman in India, by Shiv Nadar, 26 December 2014",
+      "url": "https://www.businesstoday.in/magazine/cover-story/story/shiv-nadar-on-entrepreneurs-doing-business-norms-regulation-138909-2014-12-26"
+    },
+    {
+      "label": "Scroll: Excerpt from Just Aspire by Ajai Chowdhry, 26 April 2023",
+      "url": "https://scroll.in/article/1047982/hcl-co-founder-ajai-chowdhry-recalls-in-his-memoir-how-the-brand-achieved-success-in-its-early-days"
+    },
+    {
+      "label": "Mint: How personal computers reached Indian homes, excerpt from Just Aspire, 17 April 2023",
+      "url": "https://www.livemint.com/mint-lounge/ideas/how-personal-computers-reached-indian-homes-111681631419782.html"
+    },
+    {
+      "label": "HCL Infosystems Ltd: Letter of Offer for rights issue, 2018 (company history page), hosted by Axis Capital",
+      "url": "https://www.axiscapital.co.in/contents/20180405092720_hcl_infosystems_limitedlof.pdf"
+    },
+    {
+      "label": "Dataquest: IT Giants, HCL Group, The Mature Thirties, 4 August 2007",
+      "url": "https://www.dqindia.com/it-gaints-hcl-group-the-mature-thirties/"
+    },
+    {
+      "label": "Business Standard: HCL to down shutters on PC business, 16 November 2013",
+      "url": "https://www.business-standard.com/article/companies/hcl-to-down-shutters-on-pc-business-113111500984_1.html"
+    },
+    {
+      "label": "HCL Infosystems Ltd: Annual Report 2024-25, filed with NSE, August 2025",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_27752_HCL-INSYS_2024_2025_A_3687704_26082025221806.pdf"
+    },
+    {
+      "label": "Business Standard: Nadar family tops cash-rich promoter dividend income list in FY25, 11 July 2025",
+      "url": "https://www.business-standard.com/companies/news/nadar-family-tops-cash-rich-promoter-dividend-income-list-in-fy25-125071101470_1.html"
+    },
+    {
+      "label": "New Indian Express: Just Aspire, Ajai Chowdhry on the making of India's first big IT company, 8 April 2023",
+      "url": "https://www.newindianexpress.com/cities/hyderabad/2023/Apr/08/just-aspire-tech-pioneer-ajai-chowdhry-on-the-making-of-indias-first-big-it-company-2563709.html"
+    },
+    {
+      "label": "Rediff / Moneycontrol: The amazing story of the birth of HCL, 9 June 2007",
+      "url": "https://www.rediff.com/business/special/bspec1/20070609.htm"
+    },
+    {
+      "label": "Business Today: Bird's Eye View, by Goutam Das, 11 December 2019",
+      "url": "https://www.businesstoday.in/specials/best-ceos-2019/story/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary-241079-2019-12-11"
+    },
+    {
+      "label": "Economic Times: The tech visionary, on Rajendra Pawar, 10 August 2007",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/the-tech-visionary/articleshow/2273137.cms"
+    },
+    {
+      "label": "Source2Update: History of NIIT Ltd (company filings digest)",
+      "url": "http://www.source2update.com/Company-History/NIIT-NIIT.html"
+    },
+    {
+      "label": "Forbes: India's Trade Tech, on NIIT, 14 December 2007",
+      "url": "https://www.forbes.com/global/2007/1224/028.html"
+    },
+    {
+      "label": "Business Standard: Nadar in talks to sell 6% NIIT stake, 4 September 1998",
+      "url": "https://www.business-standard.com/article/specials/nadar-in-talks-to-sell-6-niit-stake-198090401037_1.html"
+    },
+    {
+      "label": "Knowledge at Wharton: Shiv Nadar interview, part 2, 27 September 2006",
+      "url": "https://knowledge.wharton.upenn.edu/article/hcls-shiv-nadar-when-someone-brings-china-and-india-together-it-will-be-a-big-story/"
+    },
+    {
+      "label": "Business Today: A laptop, and more techies, 17 April 2008",
+      "url": "https://www.businesstoday.in/magazine/current/story/a-laptop-and-more-techies-129287-2008-04-17"
+    },
+    {
+      "label": "Mint: The man who beat the odds to script HCL's success story, 17 July 2020",
+      "url": "https://www.livemint.com/news/india/how-shiv-nadar-became-the-original-make-in-india-entrepreneur-11594978720221.html"
+    },
+    {
+      "label": "Income Tax Appellate Tribunal, Delhi: HCL Infosystems Ltd v. Deputy Commissioner of Income Tax, 3 October 2002 (via Indian Kanoon)",
+      "url": "http://indiankanoon.org/doc/1637238/"
+    },
+    {
+      "label": "Voice&Data: Dataquest 35 Years, Beyond Business, by Shiv Nadar, 5 February 2018",
+      "url": "https://www.voicendata.com/dataquest-35-years-beyond-business/"
+    },
+    {
+      "label": "India CSR: How Shiv Nadar's creative philanthropy is working, 29 December 2012",
+      "url": "https://indiacsr.in/how-hcl-billionaire-shiv-nadars-creative-philanthropy-is-working-at-bottom-of-pyramid/"
+    },
+    {
+      "label": "Business Standard: HCL-HP break-up win-win move for both, 22 July 1997",
+      "url": "https://www.business-standard.com/article/specials/hcl-hp-break-up-win-win-move-for-both-197072201036_1.html"
+    },
+    {
+      "label": "Rediff: HCL buying back HP's equity in joint venture, 25 July 1997",
+      "url": "http://origin.rediff.com/computer/jul/25hclhp.htm"
+    },
+    {
+      "label": "Moneycontrol: HCL Technologies company history",
+      "url": "https://www.moneycontrol.com/company-facts/hcltechnologies/history/HCL02"
+    },
+    {
+      "label": "Forbes India: How Shiv Nadar learned to let HCL Grow Up, 2 November 2009",
+      "url": "https://www.forbesindia.com/article/big-bet/how-shiv-nadar-learned-to-let-hcl-grow-up/6262/1"
+    },
+    {
+      "label": "Income Tax Appellate Tribunal, Delhi: Slocum Investment (P.) Ltd v. DCIT, order of 24 March 2006",
+      "url": "https://www.taxsutra.com/sites/default/files/tp.taxsutra.com/source_report/RT/attachment/TS-2-ITAT-2006%28DEL%29-TP-slocum_investment.pdf"
+    },
+    {
+      "label": "CIOL: HCL Technologies IPO creates history with total demand crossing Rs 20,000 cr, 25 November 1999",
+      "url": "https://www.ciol.com/hcl-technologies-ipo-creates-history-total-demand-crossing-rs/"
+    },
+    {
+      "label": "Business Today: BT 500, India's Most Valuable Companies, October 2000 (PDF)",
+      "url": "http://archives.digitaltoday.in/businesstoday/20001006/bt500a.pdf"
+    },
+    {
+      "label": "HCLTech: Press release, Q2 results and $3.3 billion bookings, 12 October 2026",
+      "url": "https://www.hcltech.com/en-us/press-releases/hcltech-delivers-strong-q2-led-record-deal-bookings-33-billion"
+    },
+    {
+      "label": "Dataquest: The Men Behind HCL Comnet, 21 November 2002",
+      "url": "https://www.dqindia.com/the-men-behind-hcl-comnet/"
+    },
+    {
+      "label": "Mint: Holding fort and passing the baton, by Shiv Nadar, 2 October 2015",
+      "url": "https://www.livemint.com/Leisure/lbZC3H8Bt6tK29T9nz7AwO/Shiv-Nadar-Holding-fortand-passing-the-baton.html"
+    },
+    {
+      "label": "Forbes India: Shiv Nadar's New Innings, Philanthropy, 19 November 2013",
+      "url": "https://www.forbesindia.com/article/india-rich-list-2013/shiv-nadars-new-innings-philanthropy/36513/1"
+    },
+    {
+      "label": "The Indian Techonomist newsletter, 25 March 1996",
+      "url": "http://dxm.org/techonomist/news/25mar96.html"
+    },
+    {
+      "label": "US SEC filing: Perot Systems press release on HCL Perot Systems, 20 December 2003",
+      "url": "https://www.sec.gov/Archives/edgar/data/894253/000095013403016942/d11424exv99w1.htm"
+    },
+    {
+      "label": "Business Standard: Perot buys HCL out of JV for Rs 479 crore, 23 December 2003",
+      "url": "https://www.business-standard.com/article/companies/perot-buys-hcl-out-of-jv-for-rs-479-crore-103122301017_1.html"
+    },
+    {
+      "label": "Times of India: HCLT ends Perot JV, gets Rs 485 cr, 23 December 2003",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hclt-ends-perot-jv-gets-rs-485-cr/articleshow/375983.cms"
+    },
+    {
+      "label": "HCL Technologies: Q2 FY04 earnings call transcript, 29 January 2004",
+      "url": "https://www.hcltech.com/sites/default/files/documents/investor-reports/q2_fy04.pdf"
+    },
+    {
+      "label": "US SEC filing: Perot Systems annual report (10-K) for 2003",
+      "url": "https://www.sec.gov/Archives/edgar/data/894253/000095013404003521/d13456e10vk.htm"
+    },
+    {
+      "label": "Forbes India: FILA Lifetime Achievement award, HCL's Shiv Nadar, 3 December 2019",
+      "url": "https://www.forbesindia.com/article/leadership-awards-2019/fila-lifestime-achievement-award-hcls-shiv-nadar/56427/1"
+    },
+    {
+      "label": "Rediff: Deluxe acquires HCL's stake in joint venture, 28 April 1999",
+      "url": "http://origin.rediff.com/computer/1999/apr/28hcl.htm"
+    },
+    {
+      "label": "Dataquest: HCL Group, HeritEdge Year, 18 July 2005",
+      "url": "https://www.dqindia.com/hcl-group-heritedge-year/"
+    },
+    {
+      "label": "Times of India: HCL Tech to buy 49 pc stake in DSL, 2 December 2003",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hcl-tech-to-buy-49-pc-stake-in-dsl/articleshow/336471.cms"
+    },
+    {
+      "label": "Voice&Data: HCL Tech ties up with BT for Contact Centre services, 31 October 2001",
+      "url": "https://www.voicendata.com/hcl-tech-ties-bt-contact-centre-services/"
+    },
+    {
+      "label": "Business Standard: HCL seals Apollo centre deal, 24 December 2004",
+      "url": "https://www.business-standard.com/article/technology/hcl-seals-apollo-centre-deal-104122401070_1.html"
+    },
+    {
+      "label": "HCL Technologies: Q2 FY05 earnings call transcript, 25 January 2005",
+      "url": "https://www.hcltech.com/sites/default/files/documents/investor-reports/q2_fy05_0_0.pdf"
+    },
+    {
+      "label": "Dataquest: HCL Infosystems, The Home Run, 29 July 2004",
+      "url": "https://www.dqindia.com/hcl-infosystems-the-home-run/"
+    },
+    {
+      "label": "Business Today: HCL Infosystems faces daunting challenges, 26 September 2011",
+      "url": "https://www.businesstoday.in/latest/corporate/story/hcl-infosystems-remaking-nokia-26408-2011-09-26"
+    },
+    {
+      "label": "ChannelTimes: HCL, Nokia to complete two decades of distribution partnership, 27 February 2014",
+      "url": "https://channeltimes.com/hcl-infosystems-nokia-to-complete-two-decades-of-distribution-partnership/"
+    },
+    {
+      "label": "Mint: HCL Infosystems, is the sum of parts greater than the whole?, 16 January 2013",
+      "url": "https://www.livemint.com/Money/zuBV6Apls7HMQvairsd42M/HCL-Infosystems-Is-the-sum-of-parts-greater-than-the-whole.html"
+    },
+    {
+      "label": "Outlook Business: Secret Diary of Vineet Nayar, part 3, 2 November 2018",
+      "url": "https://www.outlookbusiness.com/specials/secret-diary-of-an-entrepreneur-/-ceo-2018/my-mother-told-me-you-are-selling-your-soul-4767"
+    },
+    {
+      "label": "PTI via Times of India: HCL elbows Infosys to get Axon, 26 September 2008",
+      "url": "https://timesofindia.indiatimes.com/business/hcl-elbows-infosys-to-get-axon-raises-bid-to-811m/articleshow/3532084.cms"
+    },
+    {
+      "label": "Economic Times: HCL Tech completes Axon buy, December 2008",
+      "url": "https://economictimes.indiatimes.com/tech/software/hcl-tech-completes-axon-buy/articleshow/3843101.cms"
+    },
+    {
+      "label": "Mint: HCL raises Rs500 cr to pay for Axon buy, 11 September 2009",
+      "url": "https://www.livemint.com/Money/TESGTGk1Ifp9NyYz3IKV5M/HCL-raises-Rs500-cr-to-pay-for-Axon-buy.html"
+    },
+    {
+      "label": "The Hindu: HCL Corp makes foray into healthcare, 6 February 2014",
+      "url": "https://www.thehindu.com/business/Industry/hcl-corp-makes-foray-into-healthcare/article5661172.ece"
+    },
+    {
+      "label": "Times of India: HCL enters healthcare business with Rs 1,000 crore, 6 February 2014",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hcl-enters-healthcare-business-with-rs-1000-crore/articleshow/29965199.cms"
+    },
+    {
+      "label": "Bloomberg via Mint: HCL founder Shiv Nadar's daughter seeks healthcare fortune, 15 May 2014",
+      "url": "https://www.livemint.com/Companies/lBQmGUHi2GraFJpWlpl3ZL/HCL-founder-Shiv-Nadars-daughter-seeks-healthcare-fortune.html"
+    },
+    {
+      "label": "Johns Hopkins Medicine International: HCL Healthcare affiliation page",
+      "url": "https://www.hopkinsmedicine.org/international/health-care-consulting/asia-pacific/hcl-healthcare"
+    },
+    {
+      "label": "HCL Healthcare: Who we are (company's own figures)",
+      "url": "https://hclhealthcare.in/who-we-are"
+    },
+    {
+      "label": "HCLTech: Business Responsibility and Sustainability Report FY 2024-25",
+      "url": "https://www.hcltech.com/sites/default/files/en/investors/3098/BRSR-2024-25.pdf"
+    },
+    {
+      "label": "The Hindu BusinessLine: HCL launches talent solutions entity, 14 May 2015",
+      "url": "https://www.thehindubusinessline.com/info-tech/hcl-launches-talent-solutions-entity/article62337636.ece"
+    },
+    {
+      "label": "Prudential plc: Joint venture with HCL Group for health insurance in India, 20 March 2025",
+      "url": "https://www.prudentialplc.com/en/newsroom/company-news/2025/prudential-plc-uk-announces-joint-venture-with-hcl-group-for-health-insurance-in-india/"
+    },
+    {
+      "label": "Mint: Why HCL-IBM deal is failing to excite investors, 7 December 2018",
+      "url": "https://www.livemint.com/Companies/UkWn0sjmqHzHzBUtLG6NPM/Why-HCL-IBM-deal-is-failing-to-excite-investors.html"
+    },
+    {
+      "label": "Indian Express: HCL Tech picks seven software products from IBM for $1.8 billion, 8 December 2018",
+      "url": "https://indianexpress.com/article/business/companies/hcl-tech-picks-seven-software-products-from-ibm-for-1-8-billion-5483811/"
+    },
+    {
+      "label": "VCCircle: HCL to acquire IBM software assets for $1.8 bn, 7 December 2018",
+      "url": "https://www.vccircle.com/hcl-technologies-to-acquire-ibm-software-assets-for-1-8-bn"
+    },
+    {
+      "label": "Information Age: IBM sells software portfolio to HCL for $1.8 billion, 7 December 2018",
+      "url": "https://www.information-age.com/ibm-software-hcl-technologies-12275/"
+    },
+    {
+      "label": "HCLTech: Q2 FY27 investor release, October 2026",
+      "url": "https://www.hcltech.com/sites/default/files/document/open/quarter-results/2026-10/hcltech-Q2-fy27-Investor-release.pdf"
+    },
+    {
+      "label": "Prudential plc: Prudential Health India commences operations, 20 August 2026",
+      "url": "https://www.prudentialplc.com/en/newsroom/company-news/2026/Prudential-Health-India-commences-operations-to-tap-fast-growing-health-insurance-market"
+    },
+    {
+      "label": "HCL Group: HCL and Foxconn to set up semiconductor unit in Uttar Pradesh, 15 May 2025",
+      "url": "https://hcl.com/media_management/hcl-group-and-hon-hai-technology-group-foxconn-join-hands-to-set-up-semiconductor-manufacturing-unit-in-uttar-pradesh/"
+    },
+    {
+      "label": "HCL Group: Foundation stone for India Chip Pvt Ltd in Jewar, 21 February 2026",
+      "url": "https://hcl.com/media_management/honble-prime-minister-of-india-shri-narendra-modi-lays-the-foundation-stone-for-india-chip-pvt-ltd-in-jewar/"
+    },
+    {
+      "label": "Government of India, PIB: Cabinet approves semiconductor unit in Uttar Pradesh, 14 May 2025",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128604"
+    },
+    {
+      "label": "Indian Express: Cabinet approves Rs 3,706 cr HCL-Foxconn semiconductor JV, 14 May 2025",
+      "url": "https://indianexpress.com/article/business/cabinet-approves-rs-3706-cr-hcl-foxconn-semiconductor-jv-10004510/"
+    },
+    {
+      "label": "The Federal: Made in India semiconductor chips, 20 February 2026",
+      "url": "https://thefederal.com/category/business/made-in-india-semiconductor-chips-commercial-launch-2026-230852"
+    },
+    {
+      "label": "Dataquest: Mr Reclusive, 16 April 2005",
+      "url": "https://www.dqindia.com/mr-reclusive/"
+    },
+    {
+      "label": "Forbes India: Shiv Nadar interview, “I never felt bad about losing out to my peers”, 2 November 2009",
+      "url": "https://www.forbesindia.com/article/big-bet/shiv-nadar-quot;i-never-felt-bad-about-losing-out-to-my-peersquot;/6562/1"
+    },
+    {
+      "label": "MYB International: Why I Bought and Sold Headstrong, by Arjun Malhotra",
+      "url": "https://www.mybinternational.com/articles/1002543/why-i-bought-and-sold-headstrong"
+    },
+    {
+      "label": "Rediff: Sucheta Dalal on book-building, 22 November 1999",
+      "url": "https://getahead.rediff.com/money/1999/nov/22dalal.htm"
+    },
+    {
+      "label": "CIOL: HCL Technologies gets listed at 170% premium, 12 January 2000",
+      "url": "https://www.ciol.com/hcl-technologies-listed-170-premium/"
+    },
+    {
+      "label": "Dataquest: Summer of Discontent, 11 May 2004",
+      "url": "https://www.dqindia.com/summer-of-discontent/"
+    },
+    {
+      "label": "Dataquest: Financial Analysis, When the Going Gets Tough, 20 August 2001",
+      "url": "https://www.dqindia.com/financial-analysis-when-the-going-gets-tough/"
+    },
+    {
+      "label": "Business Standard: Melting Ice, 26 June 2001",
+      "url": "https://www.business-standard.com/article/markets/melting-ice-101062601049_1.html"
+    },
+    {
+      "label": "Reuters: India's HCL has firepower to stay in race for Axon, 30 September 2008",
+      "url": "https://www.reuters.com/article/markets/indias-hcl-has-firepower-to-stay-in-race-for-axon-idUSDEL19528/"
+    },
+    {
+      "label": "HCL Technologies: Q3 FY09 earnings call transcript, 2009",
+      "url": "https://www.hcltech.com/sites/default/files/documents/investor-reports/q3_fy09.pdf"
+    },
+    {
+      "label": "Mint: Hedging losses drag HCL's profits, 28 October 2009",
+      "url": "https://www.livemint.com/Home-Page/5ZdPXXRiYLs7KK6qBVcRFM/Hedging-losses-drag-HCL8217s-profits.html"
+    },
+    {
+      "label": "CIOL / Reuters: HCL Tech profit falls 36 pc; shares tumble, 22 April 2009",
+      "url": "https://www.ciol.com/hcl-tech-profit-falls-36-pc-shares-tumble/"
+    },
+    {
+      "label": "HCLTech: Shareholding pattern filing, quarter ended 30 September 2026",
+      "url": "https://www.hcltech.com/sites/default/files/document/open/shareholding-pattern/2026-10/shareholding-pattern-30sep2026.pdf"
+    },
+    {
+      "label": "HCLTech: Regulation 30 stock-exchange disclosure on the gift deeds, 7 March 2025",
+      "url": "https://hcltech.com/sites/default/files/en/investors/3098/Regulation30Disclosure.pdf"
+    },
+    {
+      "label": "MarketsMojo: HCL Technologies price and shareholding snapshot, 2 November 2026",
+      "url": "https://www.marketsmojo.com/stocks-analysis/financial-shareholding/hcl-technologies-308453-0"
+    },
+    {
+      "label": "Forbes: Shiv Nadar profile (real-time net worth, 2 November 2026)",
+      "url": "https://www.forbes.com/profile/shiv-nadar/"
+    },
+    {
+      "label": "Upstox: HCL Technologies market capitalisation, as on 2 November 2026",
+      "url": "https://upstox.com/stocks/hcl-technologies-ltd-share-price/"
+    },
+    {
+      "label": "NDTV Profit: HCLTech declares final dividend of Rs 24 a share, 21 April 2026",
+      "url": "https://www.ndtvprofit.com/markets/hcltech-declares-final-dividend-amount-after-q4-results-check-record-date-11387459"
+    },
+    {
+      "label": "Knowledge at Wharton: Shiv Nadar on Bringing Business-plan Rigor to Social Entrepreneurship, 17 June 2010",
+      "url": "https://knowledge.wharton.upenn.edu/article/hcls-shiv-nadar-on-bringing-business-plan-rigor-to-social-entrepreneurship/"
+    }
+  ],
+  "factCheck": {
+    "method": "Built from co-founder Arjun Malhotra's Computer History Museum oral history (2018), Nadar's own interviews and signed articles (Wharton 2006, Forbes India 2009 and 2019, Business Today 2014, Mint 2015, Dataquest 2018), Ajai Chowdhry's Wharton interview and book excerpts, Vineet Nayar's Outlook Business diary, HCLTech filings and earnings calls, US SEC filings by Perot Systems, a Delhi tax tribunal record on the HP compensation (read as a search excerpt, because Indian Kanoon refused direct reading), the Slocum tribunal order, company press releases, and period press from Business Standard, Dataquest, Rediff, CIOL, Times of India, Mint, Economic Times and Forbes India. Values as of 2 November 2026 use the market capitalisation shown by Upstox and the 30 September 2026 shareholding filing, and any multiplication or percentage called ours is our own arithmetic. Malhotra and Chowdhry speak from memory decades later, and we attribute their numbers to them. The Slocum tribunal order was read in full text from the published PDF, including paragraphs 2, 20 to 21, 147 and 182 to 184. The fax, the agreements and the price arguments are given as that order records them: some are the tax officer's findings and some are HCL's submissions, and the text says which. The Indian Techonomist is a small 1990s newsletter, used only for the Tamil Nadu cellular bid because we found nothing better. Figures on HCL Healthcare's current scale are the company's own.",
+    "disputed": [
+      {
+        "claim": "How much of Vama Delhi Nadar still owns",
+        "note": "The March 2025 filing implies he kept 4% (51% minus 47%). The note in the September 2026 shareholding filing says the balance 42.67% is held by Kiran Nadar and Shikhar Malhotra and does not name him. It may be shorthand, or his 4% may have moved. We found no filing on a later transfer, so we state 4% as of the 2025 gift only. Fact-checker: worth a look."
+      },
+      {
+        "claim": "Forbes's $31.4 billion against the filing arithmetic",
+        "note": "The promoter stake is about ₹2.36 lakh crore by our arithmetic, roughly $24.6 billion at the ₹95.72 average rate HCLTech reports, while Forbes shows $31.4 billion, and Part 3 has Forbes India at $27.4 billion on 11 Sept 2026 prices. Forbes does not explain the difference on its profile. The gift also means the listing of wealth under his name is a publisher's choice. We show the numbers side by side and explain the gap as unknown."
+      },
+      {
+        "claim": "Far East Computers: when, and how much",
+        "note": "Rediff 2007 says 1979 with first-year sales of ₹10 lakh. Dataquest 2002, Chowdhry and Malhotra say 1980, and Dataquest gives a $1 million order target met on 31 December 1980. We use 1980 for the target and 1979/80 for the start. The $1 million figure rests on Chowdhry's memory; ₹10 lakh of sales and $1 million of orders are hard to fit together."
+      },
+      {
+        "claim": "HCL's revenue in 1980 and when it reached ₹100 crore",
+        "note": "Dataquest 2002 says ₹2 crore in 1980. Malhotra says about ₹3 crore, and Rediff calls ₹3 crore net worth. Dataquest 2010 says ₹100 crore in 1987, Nadar told Wharton 1989, and Malhotra says ₹80 crore in 1985 and perhaps ₹200 crore in 1989. We attribute each number."
+      },
+      {
+        "claim": "When HCL America started",
+        "note": "Dataquest timelines say 1985. Nadar's own list in Dataquest 2002 says 1988. Malhotra, who was there, and Rediff 2007 say 1989. We write c.1988 in the venture block and use 1989 in the story."
+      },
+      {
+        "claim": "Why HCL America's hardware plan failed",
+        "note": "Malhotra blames the lost Fortune Systems order and the partner's choice of Intel chips. Chowdhry and Gita Piramal blame missing environmental clearances. Dataquest 2010 says a cancelled large order and Vaidya's surgery. These can all be true, and we mention the main ones."
+      },
+      {
+        "claim": "When the HP partnership ended",
+        "note": "Tribunal record: terminated by agreement of 1 April 1997, and press in July 1997 reports the buyback. Dataquest 2007 and 2010 say 1996. Forbes India 2019 says it ended in 2014, which is plainly an error. We use 1997."
+      },
+      {
+        "claim": "When HCL Technologies began",
+        "note": "Moneycontrol's company history and the company's registration number say incorporated 12 November 1991 as HCL Overseas. Dataquest timelines say HCL Tech was formed as a separate software company in 1994. Dataquest 2010 says it was renamed in 1996, and Rediff 2007 says spun off in 1997. Forbes India says 1991. We use the incorporation record and the 6 October 1999 rename."
+      },
+      {
+        "claim": "Is HCL Infosystems the 1976 company?",
+        "note": "Business Standard 2013 equates it with Hindustan Computers of 1976. HCL Infosystems' own 2018 Letter of Offer says it was incorporated as HCL Limited on 17 April 1986. We could not find how the 1976 company's assets moved into it, nor what happened to UPTRON's 26%."
+      },
+      {
+        "claim": "HCL Infinet was previously Microcomp",
+        "note": "We found this only in Medianama (2011). It is plausible, since other sources say Microcomp was the founders' company, but we could not confirm it in a filing."
+      },
+      {
+        "claim": "HCL Perot Systems ownership",
+        "note": "Times of India and Telegraph say 50:50 in name. Business Standard says HCL about 43%, Perot about 45%, with employees holding the rest. Times of India also quotes Perot as buying about 44%. Rupee values vary from ₹479.6 to ₹484.9 crore on exchange rates. We use the $105.3 million from the SEC-filed release."
+      },
+      {
+        "claim": "IPO demand",
+        "note": "CIOL, from the company release, says ₹20,100 crore and 27 times on the book-built part. Chowdhry recalls ₹23,000 crore. We use the contemporary figure. The listing-day close of ₹1,575 is from CIOL. Nayar recalled a later peak of about ₹2,800, which we did not independently check, so it is left out."
+      },
+      {
+        "claim": "June 2001 price in IPO terms",
+        "note": "Business Standard gives a low near ₹260. Moneycontrol's history lists a 2-for-1 split being approved in 2000. Our ₹520 comparison assumes that split had taken effect by June 2001, which we inferred and did not confirm from a record date. Fact-checker: confirm."
+      },
+      {
+        "claim": "Price of early HCL computers",
+        "note": "Dataquest 2010 says the 8C was advertised at ₹83,500 and an Ambassador cost ₹16,000. Dataquest 2005 says about ₹3 lakh, about five Ambassadors, implying about ₹60,000 a car. Malhotra says ₹3,64,100 with one application free. Prices probably refer to different machines and years. We avoid the 1978 car comparison and attribute the others."
+      },
+      {
+        "claim": "The HP windfall",
+        "note": "Nadar says “handsome windfall” with no figure. India CSR (2012) says ₹25 crore. It is a low-tier source, and the wording looks taken from a larger magazine we could not find. We label it as one report."
+      },
+      {
+        "claim": "NSE contract date",
+        "note": "Dataquest 2002 says Comnet won the NSE contract in July 1995. HCLTech's 2025 sustainability report dates the NSE floorless exchange project to 1993, and Business Today says C. Vijayakumar joined in 1994 on that project. We use July 1995 for Comnet's win."
+      },
+      {
+        "claim": "NIIT's founding facts",
+        "note": "Wikipedia says it began with ₹10 lakh, which we could not confirm, so we omit it. The founders are named differently: BusinessLine adds P. Rajendran and Arvind Thakur, and Dataquest includes S. Rajendran. Forbes says the first site was rented in Mumbai, and a filings digest agrees, while one case study says Bangalore. Nadar's essay says NIIT “crossed $1 billion” in 1997 without saying of what, so we leave it out. His final sale of NIIT shares is undated: the 1998 report was denied by a spokesman and Dataquest says in 2007 only that he has since divested."
+      },
+      {
+        "claim": "India Chip start date and support",
+        "note": "Minister Vaishnaw said 2027 and the Federal agrees, while HCL Group's own February 2026 release says operational by 2028. Indian Express says about ₹1,500 crore of government support, and Roshni Nadar told Mint that incentives would fund about 65-70%. Both are given or noted, and we say the plant has not started."
+      },
+      {
+        "claim": "Axon price in dollars",
+        "note": "Reports range from $658 million to $811 million for the same £441.1 million because the pound fell sharply in 2008. Mint in 2018 uses $731 million. We use pounds."
+      },
+      {
+        "claim": "Busybee launch speed",
+        "note": "Chowdhry says the PC launch took three weeks. Malhotra says the ad ran on rebuilt samples, and real machines took three or four more months. We give both."
+      },
+      {
+        "claim": "Who controlled Wintech",
+        "note": "The tribunal order records the tax officer's view that the Mauritius buyer was an associated company controlled by a relative of Nadar. The tribunal did not rule on share value or decide this point, and the person is a private individual, so we left the allegation out of the text."
+      },
+      {
+        "claim": "First computer date",
+        "note": "Malhotra says the 8C came out in 1977, Nadar's list says 1978, and Dataquest 2010 links its newspaper launch to IBM's June 1978 exit. Forbes India says two years after 1976. We give 1977-78."
+      },
+      {
+        "claim": "India Chip jobs",
+        "note": "HCL's own release says over 3,500. Indian Express's headline says 2,000. We attribute 3,500 to HCL."
+      },
+      {
+        "claim": "Start of the Nokia partnership",
+        "note": "Rediff 2007 says 1994, and ChannelTimes says 1995. The Indian Techonomist reports the tie-up by 1996. We avoid giving a year in the blocks."
+      },
+      {
+        "claim": "Was Nadar's title CEO in these years?",
+        "note": "CIOL in 1999 calls him President and CEO of HCL Technologies. The January 2004 call calls him Chairman and CEO. He told Forbes India in 2009, “I never was the CEO”, and named S. Raman. Part 3 also flags this. We say Raman was CEO in practice."
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+ 
+ This Supercomputer Will Try to Find Intelligence on Reddit | MIT Technology Review 
+ You need to enable JavaScript to view this site.
+ Skip to Content 
+ Menu MIT Technology Review
+ MIT Technology Review
+ The Big Story 
+ Artificial intelligence 
+ Biotech & health 
+ Climate & energy 
+ 10 Breakthrough Technologies 
+ AI Hype Index 
+ The Impossible issue 
+ Menu MIT Technology Review
+ MIT Technology Review
+ The Big Story 
+ Artificial intelligence 
+ Biotech & health 
+ Climate & energy 
+ 10 Breakthrough Technologies 
+ AI Hype Index 
+ The Impossible issue 
+ Uncategorized 
+ This Supercomputer Will Try to Find Intelligence on Reddit
+ Researchers at OpenAI are developing algorithms capable of learning language by reading the Web and controlling robots through practice.
+ By Will Knight archive page 
+ August 15, 2016
+ Is it possible that the secret to building machine intelligence lies in spending endless hours reading Reddit?
+ That’s one question a team of researchers at OpenAI , a nonprofit backed by several Silicon Valley luminaries, hopes to answer with a new kind of supercomputer developed by chipmaker Nvidia. The researchers are also training robots do the dishes through experimentation, and they are building algorithms capable of learning to play a wide variety of different computer games.
+ The new machine, called a DGX-1, is optimized for the form of machine learning known as deep learning, which involves feeding data to a large network of crudely simulated neurons and has resulted in great strides in artificial intelligence in recent years. The DGX-1 will let AI researchers train deep-learning systems more quickly using more data. As a rough comparison, computations that would take 250 hours on a conventional computer take about 10 hours on the DGX-1.
+ Nvidia’s CEO, Jen-Hsun Huang, delivers the first DGX-1 to Elon Musk’s OpenAI. At OpenAI, the performance boost achieved with the new hardware may be seen most immediately in language understanding. The OpenAI researchers are feeding message threads from the popular website Reddit to algorithms that build a probabilistic understanding of the conversation. If fed enough examples, the underlying language model will be good enough to hold a conversation itself, the researchers hope. And the hardware will make it possible to feed many more snippets of text into the model, and to apply more computing power to the problem.
+ Andrej Karpathy , a research scientist at OpenAI, says that modern machine-learning techniques tend to become smarter as they get larger. “Deep learning is a very special class of models because as you scale up the models, they always work better,” Karpathy says in a video released by Nvidia today.
+ Language remains a very tricky problem for artificial intelligence, but in recent years researchers have made progress in applying deep learning to the problem (see “ AI’s Language Problem ”). Researchers at Google, for instance, fed movie dialogue to a deep-learning system originally designed to perform translation and then showed that it could answer some questions remarkably well.
+ OpenAI’s researchers also plan to explore whether a robot could learn to use language by interacting with people and the real world. This research is at an early stage, though, and it will be easier to scale up the work involving Reddit. Karpathy says the models trained on Reddit data could go from consuming months of conversation to years thanks to the new hardware.
+ Nvidia, which makes graphics processing units for gaming, has benefited from the deep-learning boom because its hardware is well suited to the parallel computations required. In recent years the company has sought to exploit this advantage, and the DGX-1, developed at a cost of about $2 billion, is essentially a bank of graphics chips optimized for deep learning. The chips can process data very quickly (at a peak of about 170 teraflops, or billion arithmetic calculations per second) and can share data more easily.
+ Andrew Ng, chief scientist at the Chinese Internet company Baidu, has taken a close look at the DGX-1, which Baidu plans to use. “The capabilities it provides will allow us to try new ways of scaling our training process,” Ng says. “This will allow us to train models on larger data sets, which we have found leads to progress in AI.”
+ OpenAI is involved in a range of bleeding-edge AI research. Besides deep learning, its researchers are focused on developing algorithms capable of learning through extensive trial and error, a field of research known as reinforcement learning.
+ OpenAI hopes to use reinforcement learning to build robots capable of performing useful chores around the home, although this may prove a time-consuming challenge (see “ This Is the Robot Maid Elon Musk Is Funding ” and “ The Robot You Want Most Is Far from Reality ”).
+ The researchers at OpenAI are also exploring ways for AI algorithms to learn far more efficiently by generating their own models, or theories, about what a data set means. An algorithm might learn to play a range of computer games, for example, by determining that collecting coins usually helps push the score up.
+ Ilya Sutskever , research director at OpenAI and a prominent figure in AI, says work in this area could ultimately lead to better algorithms that can learn more effectively. “Once all these improvements are made, it should be possible to build agents that can achieve more sophisticated goals using much less experience,” he says.
+ OpenAI was founded in 2015 with $1 billion in funding from tech industry VIPs including Elon Musk, CEO of Tesla and SpaceX, and Sam Altman, chairman of Y Combinator. The goal of the nonprofit is to do open AI research and help ensure that AI benefits humanity.
+ Jen-Hsun Huang, CEO of Nvidia, says the decision to give the first DGX-1 to OpenAI reflects a belief in OpenAI’s goals. “Nvidia’s strategy is to democratize AI,” Huang said in an interview. “We would like this technology, as powerful as it is, to move in a direction that is good for society.” 
+ by Will Knight 
+ Share
+ Share story on linkedin 
+ Share story on facebook 
+ Share story on email 
+ Popular 
+ Don’t be fooled—LLMs don’t reason Thore Graepel 
+ “We were looking at it wrong”: The explosive claim that’s upended the AI world Will Douglas Heaven 
+ Don’t be fooled by this summer of AI hype  Timnit Gebru Emily M. Bender 
+ An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan Jessica Hamzelou 
+ Keep Reading
+ Most Popular
+ Don’t be fooled—LLMs don’t reason
+ Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.
+ By Thore Graepel archive page 
+ “We were looking at it wrong”: The explosive claim that’s upended the AI world
+ An exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating. 
+ By Will Douglas Heaven archive page 
+ Don’t be fooled by this summer of AI hype 
+ Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny. 
+ By Timnit Gebru archive page 
+ Emily M. Bender archive page 
+ An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan
+ Scientists hope it could be used to reconstruct a person’s inner thoughts, mental images, or even dreams. 
+ By Jessica Hamzelou archive page 
+ Stay connected
+ Illustration by Rose Wong 
+ Get the latest updates from MIT Technology Review
+ Discover special offers, top stories,
+ upcoming events, and more.
+ Enter your email 
+ Privacy Policy Thank you for submitting your email!
+ Explore more newsletters 
+ It looks like something went wrong.
+ We’re having trouble saving your preferences.
+ Try refreshing this page and updating them one
+ more time. If you continue to get this message,
+ reach out to us at
+ customer-service@technologyreview.com with a list of newsletters you’d like to receive.
+ The latest iteration of a legacy
+ Founded at the Massachusetts Institute of Technology in 1899, MIT Technology Review is a world-renowned, independent media company whose insight, analysis, reviews, interviews and live events explain the newest technologies and their commercial, social and political impact.
+ READ ABOUT OUR HISTORY
+ Advertise with MIT Technology Review
+ Elevate your brand to the forefront of conversation around emerging technologies that are radically transforming business. From event sponsorships to custom content to visually arresting video storytelling, advertising with MIT Technology Review creates opportunities for your brand to resonate with an unmatched audience of technology and business elite.
+ ADVERTISE WITH US
+ © 2026 MIT Technology Review
+ About
+ About us 
+ Careers 
+ Custom content 
+ Advertise with us 
+ International Editions 
+ Republishing 
+ MIT Alumni News 
+ Help
+ Help & FAQ 
+ My subscription 
+ Editorial guidelines 
+ Privacy policy 
+ Terms of Service 
+ Write for us 
+ Contact us 
+ linkedin opens in a new window 
+ instagram opens in a new window 
+ reddit opens in a new window 
+ facebook opens in a new window 
+ rss opens in a new window 

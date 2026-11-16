@@ -1,0 +1,3313 @@
+[
+  {
+    "slug": "up-sustenance-allowance",
+    "name": "Sustenance Allowance – Uttar Pradesh Startup Policy 2026",
+    "shortName": "UP Sustenance Allowance",
+    "provider": "UP Startup Mission, Department of IT & Electronics, Government of Uttar Pradesh",
+    "providerType": "state",
+    "state": "Uttar Pradesh",
+    "launchedYear": 2020,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 480000,
+    "amountText": "₹20,000 a month for up to 2 years (up to ₹4.8 lakh in total), paid quarterly. The earlier 2020 policy paid ₹17,500 a month for 1 year.",
+    "equity": "None",
+    "duration": "Up to 24 months, released quarterly",
+    "timeToMoney": "Not published. Recognition takes about 3 working days; the allowance then depends on your incubator's recommendation and state approval.",
+    "status": "rolling",
+    "deadline": "Rolling, through a recognised incubator",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A monthly stipend from the UP government so an idea-stage founder can work on the startup full-time instead of taking a job.",
+    "what": "The Uttar Pradesh Startup Policy 2026 (approved by the state cabinet in July 2026) pays recognised idea-stage startups ₹20,000 a month for up to two years, released every quarter. It is meant to cover the founder's basic living and early running costs while moving from idea to prototype. It replaced the 2020 policy's ₹17,500 a month for one year.",
+    "who": [
+      "Your company, LLP or partnership is registered in Uttar Pradesh",
+      "You hold DPIIT (Startup India) recognition and StartInUP recognition from the state portal (free; certificate issued within about 3 working days of a complete application)",
+      "You work with a UP government-recognised incubator, which processes and monitors the incentive",
+      "You are at the ideation-to-prototype stage (no finished product in the market yet)"
+    ],
+    "notFor": [
+      "Startups registered outside Uttar Pradesh",
+      "Companies that have already launched and are selling (look at UP seed capital instead)",
+      "Founders who are not attached to a UP-recognised incubator",
+      "Anyone expecting a lump sum: it is paid in quarterly instalments, not upfront"
+    ],
+    "why": [
+      "It buys you time: up to 24 months of runway to build without a salary",
+      "No equity is taken and nothing has to be repaid",
+      "It usually comes bundled with incubation, which opens the door to UP prototype and seed grants later",
+      "Being in the state system helps with UP government procurement and events"
+    ],
+    "howItWorks": "You first get StartInUP recognition on the state portal, then join a UP-recognised incubator. The incubator recommends idea-stage startups for the allowance and the UP Startup Mission (nodal agency under the IT & Electronics Department) approves it. The money is released quarterly. Under the 2020 policy each incubator could recommend up to 25 startups a year; a cap for the 2026 policy was not published on the pages we could read.",
+    "steps": [
+      {
+        "title": "Register your entity in UP",
+        "detail": "Incorporate a private limited company, LLP or partnership with a registered office in Uttar Pradesh, and get DPIIT recognition on startupindia.gov.in."
+      },
+      {
+        "title": "Get StartInUP recognition",
+        "detail": "Register free on the StartInUP portal, upload your incorporation and DPIIT certificates, and receive the state certificate (about 3 working days if complete)."
+      },
+      {
+        "title": "Join a recognised incubator",
+        "detail": "Apply to one of UP's 88 recognised incubators (list on the UP Startup Mission site). Your incubator is the channel for the allowance."
+      },
+      {
+        "title": "Apply for the sustenance incentive",
+        "detail": "Use the 'Sustenance Incentive' link on the UP Startup Mission 'Apply for Recognition' page, with your incubator's recommendation."
+      },
+      {
+        "title": "Approval and quarterly release",
+        "detail": "After approval, the allowance is released every quarter; keep progress reports ready because the incubator monitors you."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation/registration showing a UP address",
+      "DPIIT recognition certificate",
+      "StartInUP recognition certificate (from startinup.up.gov.in)",
+      "Incubation agreement or letter from a UP-recognised incubator",
+      "PAN, bank account details of the startup and founder KYC",
+      "A short note on your idea, current stage and 6–12 month plan"
+    ],
+    "benefits": [
+      "Up to ₹4.8 lakh of non-dilutive money over 2 years",
+      "Incubator mentoring and workspace",
+      "A path to UP's prototype grant (up to ₹10 lakh) and seed capital (up to ₹15 lakh)",
+      "State recognition that helps with procurement and events"
+    ],
+    "pros": [
+      "One of the larger monthly allowances among Indian states",
+      "Two-year duration under the 2026 policy, double the old one-year term",
+      "No equity, no repayment",
+      "Clear online route through the StartInUP / UP Startup Mission portal"
+    ],
+    "cons": [
+      "Small amount for a team: ₹20,000 a month will not cover salaries",
+      "You must be incubated at a UP-recognised incubator, which can be competitive",
+      "The 2026 policy is new; detailed operating rules were not fully public when we checked",
+      "Quarterly release means you need some savings to bridge the gaps"
+    ],
+    "goodFitIf": [
+      "You are a UP-based first-time founder at the idea stage",
+      "You can get into a recognised incubator such as AKTU Innovation Hub or a university incubator",
+      "You need a modest stipend to work full-time on the idea"
+    ],
+    "skipIf": [
+      "Your company is registered in another state",
+      "You already have revenue and need bigger cheques",
+      "You cannot commit to an incubator's reporting requirements"
+    ],
+    "insiderTips": [
+      "Get DPIIT and StartInUP recognition before approaching incubators; many shortlist only recognised startups",
+      "Pick an incubator that has used its quota in past years; ask them how many startups they got sanctioned",
+      "Plan to stack this with the prototype grant later, since both run through the same incubator"
+    ],
+    "performance": {
+      "summary": "Under the 2020 policy the state portal shows ₹81.2 lakh paid out as sustenance allowances in total. At the old rate of ₹2.1 lakh per startup per year, that works out to roughly 39 full-year allowances (our arithmetic). That is small next to the 2,369 StartInUP-recognised startups. The portal gives no year-wise or date-stamped breakdown, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Sustenance allowances disbursed (cumulative, 2020 policy)",
+          "value": "₹81,22,250",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Total incentives disbursed / approved (all categories)",
+          "value": "₹58 crore disbursed of ₹146 crore approved",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "StartInUP-recognised startups",
+          "value": "2,369",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Unique startups supported across priority sectors (all incentives)",
+          "value": "380+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.startinup.up.gov.in/crm/welcome/registration_new",
+    "officialUrl": "https://startupmission.up.gov.in/pages/startup-policy",
+    "sources": [
+      {
+        "label": "UP Startup Mission portal (official)",
+        "url": "https://startupmission.up.gov.in"
+      },
+      {
+        "label": "UP Startup Mission – Startup Policy 2026 page",
+        "url": "https://startupmission.up.gov.in/pages/startup-policy"
+      },
+      {
+        "label": "StartInUP portal – incentive disbursement counters",
+        "url": "https://startinup.up.gov.in/"
+      },
+      {
+        "label": "StartInUP FAQs (2020 policy, First Amendment 2022)",
+        "url": "https://startinup.up.gov.in/faqs/"
+      },
+      {
+        "label": "ThePrint – UP has a new start-up policy (8 Jul 2026)",
+        "url": "https://theprint.in/economy/up-has-a-new-start-up-policy-prototype-grant-seed-funding-doubled-directorate-for-coordination/2980719/"
+      },
+      {
+        "label": "Drishti IAS – Uttar Pradesh approves Startup Policy-2026 (11 Jul 2026)",
+        "url": "https://www.drishtiias.com/state-pcs-current-affairs/uttar-pradesh-approves-startup-policy-2026"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Amounts for the 2026 policy come from the UP Startup Mission portal and press coverage (ThePrint, Drishti IAS). The full policy PDF on the portal is a scanned Hindi document we could not read as text, so the per-incubator cap and exact eligibility clauses under the 2026 policy were not verified. Disbursement counters on startinup.up.gov.in are undated. The new UP Startup Mission site shows '₹146 Cr+ funds disbursed', but StartInUP says ₹146 crore approved and ₹58 crore disbursed. We use the StartInUP split."
+  },
+  {
+    "slug": "up-prototype-grant",
+    "name": "Prototype Grant – Uttar Pradesh Startup Policy 2026",
+    "shortName": "UP Prototype Grant",
+    "provider": "UP Startup Mission, Department of IT & Electronics, Government of Uttar Pradesh",
+    "providerType": "state",
+    "state": "Uttar Pradesh",
+    "launchedYear": 2020,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 2000000,
+    "amountText": "One-time grant of up to ₹10 lakh (was ₹5 lakh under the 2020 policy). Deep-tech startups recommended by a Centre of Excellence or the U-Hub can get up to ₹20 lakh. A 50% bonus is listed for women, Divyangjan, transgender, EWS and Purvanchal/Bundelkhand startups.",
+    "equity": "None",
+    "duration": "One-time; paid in two parts (70% advance, 30% as reimbursement)",
+    "timeToMoney": "Not published; depends on incubator recommendation and evaluation committee meetings",
+    "status": "rolling",
+    "deadline": "Rolling, through a recognised incubator",
+    "stages": [
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A one-time UP government grant to build the first working version of your product.",
+    "what": "The prototype grant pays for building a working prototype: materials, components, testing and early development. The 2026 policy doubled it to ₹10 lakh, and deep-tech startups (AI, robotics, quantum, space and similar) recommended by a Centre of Excellence or the Deep-Tech U-Hub can get up to twice the standard amount. It is paid 70% upfront and 30% as reimbursement after you show spending.",
+    "who": [
+      "Your company, LLP or partnership is registered in Uttar Pradesh",
+      "You hold DPIIT (Startup India) recognition and StartInUP recognition from the state portal (free; certificate issued within about 3 working days of a complete application)",
+      "You work with a UP government-recognised incubator, which processes and monitors the incentive",
+      "You have a validated idea and a clear plan for what the prototype will prove",
+      "For the 50% special-category bonus: founders who are women, Divyangjan, transgender or EWS, or a startup based in Purvanchal or Bundelkhand, with at least 51% founder equity"
+    ],
+    "notFor": [
+      "Startups outside Uttar Pradesh",
+      "Pure service or trading businesses with nothing to prototype",
+      "Expenses already paid by another government grant for the same work"
+    ],
+    "why": [
+      "Covers the expensive build stage that friends-and-family money rarely stretches to",
+      "70% is paid upfront, so you do not need to fund the whole build first",
+      "No equity or repayment",
+      "A finished prototype makes you eligible for UP seed capital and private investors"
+    ],
+    "howItWorks": "Your incubator recommends the proposal and an evaluation committee approves it. 70% of the approved amount is released as an advance; the remaining 30% is paid as reimbursement once you submit proof of spending. Deep-tech proposals need a recommendation from a UP Centre of Excellence or the U-Hub to get the enhanced amount.",
+    "steps": [
+      {
+        "title": "Get recognised and incubated",
+        "detail": "Hold DPIIT and StartInUP recognition and be incubated at a UP-recognised incubator."
+      },
+      {
+        "title": "Write a prototype plan",
+        "detail": "Describe what you will build, a bill of materials, a timeline and what the prototype will prove."
+      },
+      {
+        "title": "Apply via 'Prototype Incentive'",
+        "detail": "Submit through the UP Startup Mission / StartInUP portal with your incubator's recommendation."
+      },
+      {
+        "title": "Evaluation",
+        "detail": "The evaluation committee reviews and sanctions the amount."
+      },
+      {
+        "title": "Receive 70% advance",
+        "detail": "Build the prototype and keep all invoices."
+      },
+      {
+        "title": "Claim the remaining 30%",
+        "detail": "Submit utilisation proof to receive the reimbursement tranche."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation/registration showing a UP address",
+      "DPIIT recognition certificate",
+      "StartInUP recognition certificate (from startinup.up.gov.in)",
+      "Incubation agreement or letter from a UP-recognised incubator",
+      "PAN, bank account details of the startup and founder KYC",
+      "Prototype plan with budget and bill of materials",
+      "Quotes/invoices for major components",
+      "Category certificate if claiming the 50% bonus (e.g., EWS, disability)"
+    ],
+    "benefits": [
+      "Up to ₹10 lakh (₹20 lakh for deep-tech) non-dilutive money",
+      "Incubator mentoring on product and testing",
+      "Credibility when you approach angel investors"
+    ],
+    "pros": [
+      "Doubled amount under the 2026 policy",
+      "Large upfront advance (70%)",
+      "Extra support for women, EWS and backward-region founders",
+      "Deep-tech track with up to ₹20 lakh"
+    ],
+    "cons": [
+      "Only through recognised incubators",
+      "30% comes only after you have spent and documented",
+      "New 2026 rules; caps per incubator not published"
+    ],
+    "goodFitIf": [
+      "You are building a physical or tech product in UP",
+      "You have a costed prototype plan",
+      "You are in a deep-tech field and can get a CoE recommendation"
+    ],
+    "skipIf": [
+      "You do not need to build anything new (e.g., reselling)",
+      "You are not willing to keep detailed invoices",
+      "You are registered outside UP"
+    ],
+    "insiderTips": [
+      "Keep a clean bill of materials; reimbursement claims fail on vague invoices",
+      "If you are deep-tech, approach one of UP's Centres of Excellence early for the recommendation letter",
+      "Check whether your founder team qualifies for the 50% bonus before sizing the budget"
+    ],
+    "performance": {
+      "summary": "Under the 2020 policy (₹5 lakh cap) the StartInUP portal shows ₹5.12 crore disbursed as prototype grants in total. That equals about 102 full grants if every grant was the maximum (our arithmetic). The portal gives no year-wise breakdown, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Prototype development grants disbursed (cumulative, 2020 policy)",
+          "value": "₹5,11,66,000",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Total incentives disbursed / approved (all categories)",
+          "value": "₹58 crore disbursed of ₹146 crore approved",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Startups receiving funding through state-supported funds or mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "35+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.startinup.up.gov.in/crm/welcome/registration_new",
+    "officialUrl": "https://startupmission.up.gov.in/pages/startup-policy",
+    "sources": [
+      {
+        "label": "UP Startup Mission portal (official)",
+        "url": "https://startupmission.up.gov.in"
+      },
+      {
+        "label": "UP Startup Mission – Startup Policy 2026 page",
+        "url": "https://startupmission.up.gov.in/pages/startup-policy"
+      },
+      {
+        "label": "StartInUP portal – incentive disbursement counters",
+        "url": "https://startinup.up.gov.in/"
+      },
+      {
+        "label": "StartInUP FAQs (2020 policy, First Amendment 2022)",
+        "url": "https://startinup.up.gov.in/faqs/"
+      },
+      {
+        "label": "ThePrint – UP has a new start-up policy (8 Jul 2026)",
+        "url": "https://theprint.in/economy/up-has-a-new-start-up-policy-prototype-grant-seed-funding-doubled-directorate-for-coordination/2980719/"
+      },
+      {
+        "label": "Drishti IAS – Uttar Pradesh approves Startup Policy-2026 (11 Jul 2026)",
+        "url": "https://www.drishtiias.com/state-pcs-current-affairs/uttar-pradesh-approves-startup-policy-2026"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The 2026 amounts and the 70/30 split are from the UP Startup Mission policy page. The full policy text is a scanned Hindi PDF we could not read, so we could not confirm whether the 50% bonus stacks on the deep-tech amount. Disbursement counters are undated."
+  },
+  {
+    "slug": "up-seed-capital",
+    "name": "Seed Capital (MVP & Commercialisation) – Uttar Pradesh Startup Policy 2026",
+    "shortName": "UP Seed Capital",
+    "provider": "UP Startup Mission, Department of IT & Electronics, Government of Uttar Pradesh",
+    "providerType": "state",
+    "state": "Uttar Pradesh",
+    "launchedYear": 2020,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 5000000,
+    "amountText": "Up to ₹15 lakh to launch your MVP and commercialise (was ₹7.5 lakh), up to ₹50 lakh in special cases; deep-tech startups up to ₹30 lakh. A 50% bonus is listed for women, Divyangjan, transgender, EWS and Purvanchal/Bundelkhand startups.",
+    "equity": "None",
+    "duration": "Two milestone-based tranches",
+    "timeToMoney": "Not published; evaluation committee approval then first tranche",
+    "status": "rolling",
+    "deadline": "Rolling, through a recognised incubator",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A UP government grant to take a working prototype to market as a minimum viable product.",
+    "what": "Seed capital (called marketing assistance in the 2020 policy) funds the move from prototype to a sellable product: launch, marketing, first customers and commercialisation. The 2026 policy raised the cap to ₹15 lakh, with up to ₹50 lakh in exceptional cases and up to ₹30 lakh for deep-tech startups. Money is released in two tranches tied to milestones you commit to.",
+    "who": [
+      "Your company, LLP or partnership is registered in Uttar Pradesh",
+      "You hold DPIIT (Startup India) recognition and StartInUP recognition from the state portal (free; certificate issued within about 3 working days of a complete application)",
+      "You work with a UP government-recognised incubator, which processes and monitors the incentive",
+      "You have a working prototype and are ready to launch an MVP in the market"
+    ],
+    "notFor": [
+      "Idea-stage startups with no prototype",
+      "Startups registered outside UP",
+      "Costs already funded by another state or central grant"
+    ],
+    "why": [
+      "Bigger cheque than most state seed grants, with no equity taken",
+      "Milestone structure forces a clear go-to-market plan",
+      "Can be combined with UP's matching grant (up to ₹5 crore) if you later raise ₹2 crore+ from recognised funds"
+    ],
+    "howItWorks": "Your incubator forwards the application and an evaluation committee approves it. Under the 2020 policy, the money came in three tranches (40/30/30) and you had to commit to key performance targets after the first. The 2026 policy page lists two milestone tranches. Up to 25 startups per incubator per year could get seed capital under the 2020 policy.",
+    "steps": [
+      {
+        "title": "Be recognised and incubated",
+        "detail": "DPIIT + StartInUP recognition and incubation at a UP-recognised incubator."
+      },
+      {
+        "title": "Prepare an MVP launch plan",
+        "detail": "Show the working prototype, target customers, pricing, launch budget and measurable milestones."
+      },
+      {
+        "title": "Apply via 'Seed Incentive'",
+        "detail": "Submit through the UP Startup Mission / StartInUP portal with incubator recommendation."
+      },
+      {
+        "title": "Committee evaluation",
+        "detail": "An evaluation committee reviews your plan and sanctions an amount."
+      },
+      {
+        "title": "First tranche and milestones",
+        "detail": "Receive the first tranche, hit the agreed milestones and report them."
+      },
+      {
+        "title": "Second tranche",
+        "detail": "Released after milestone verification."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation/registration showing a UP address",
+      "DPIIT recognition certificate",
+      "StartInUP recognition certificate (from startinup.up.gov.in)",
+      "Incubation agreement or letter from a UP-recognised incubator",
+      "PAN, bank account details of the startup and founder KYC",
+      "Prototype demo/video and test results",
+      "Go-to-market plan with milestones and budget",
+      "Any early customer letters or pilot orders"
+    ],
+    "benefits": [
+      "Up to ₹15 lakh (₹30 lakh deep-tech, ₹50 lakh special cases) non-dilutive",
+      "Incubator support on launch",
+      "Eligibility for other UP incentives: patent reimbursement (up to ₹2 crore with certification), interest subsidy, EPF/ESI reimbursement"
+    ],
+    "pros": [
+      "Large non-dilutive cheque for a state scheme",
+      "Clear milestone structure",
+      "Deep-tech and special-category top-ups",
+      "Track record: over ₹13.5 crore paid out under the 2020 version"
+    ],
+    "cons": [
+      "Incubator gatekeeping and per-incubator quotas",
+      "Later tranches depend on hitting milestones; slippage delays money",
+      "The '₹50 lakh special case' criteria are not public"
+    ],
+    "goodFitIf": [
+      "You have a working prototype and early users",
+      "You are incubated in UP and can commit to measurable targets",
+      "You want to avoid giving equity at this stage"
+    ],
+    "skipIf": [
+      "You are still at idea stage",
+      "You cannot plan in milestones or report regularly",
+      "Your company is outside UP"
+    ],
+    "insiderTips": [
+      "Write milestones you can actually hit in 3–6 months; tranche delays are the most common pain point",
+      "Use the sustenance → prototype → seed sequence through one incubator to build a track record",
+      "Ask your incubator for a past successful application to match the format"
+    ],
+    "performance": {
+      "summary": "Seed capital is UP's largest startup incentive by money paid out. The StartInUP portal shows ₹13.5 crore disbursed under the 2020 policy, against ₹5.1 crore for prototype grants and ₹0.8 crore for sustenance allowances. The portal gives no year-wise or date-stamped figures, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Seed capital / marketing assistance disbursed (cumulative, 2020 policy)",
+          "value": "₹13,50,31,421",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Recognised incubators in UP",
+          "value": "88",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "StartInUP portal – incentive disbursement counters",
+            "url": "https://startinup.up.gov.in/"
+          }
+        },
+        {
+          "label": "Unique startups supported across priority sectors (all incentives)",
+          "value": "380+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.startinup.up.gov.in/crm/welcome/registration_new",
+    "officialUrl": "https://startupmission.up.gov.in/pages/startup-policy",
+    "sources": [
+      {
+        "label": "UP Startup Mission portal (official)",
+        "url": "https://startupmission.up.gov.in"
+      },
+      {
+        "label": "UP Startup Mission – Startup Policy 2026 page",
+        "url": "https://startupmission.up.gov.in/pages/startup-policy"
+      },
+      {
+        "label": "StartInUP portal – incentive disbursement counters",
+        "url": "https://startinup.up.gov.in/"
+      },
+      {
+        "label": "StartInUP FAQs (2020 policy, First Amendment 2022)",
+        "url": "https://startinup.up.gov.in/faqs/"
+      },
+      {
+        "label": "ThePrint – UP has a new start-up policy (8 Jul 2026)",
+        "url": "https://theprint.in/economy/up-has-a-new-start-up-policy-prototype-grant-seed-funding-doubled-directorate-for-coordination/2980719/"
+      },
+      {
+        "label": "Drishti IAS – Uttar Pradesh approves Startup Policy-2026 (11 Jul 2026)",
+        "url": "https://www.drishtiias.com/state-pcs-current-affairs/uttar-pradesh-approves-startup-policy-2026"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttar Pradesh State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttar_Pradesh_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The 2026 amounts are from the UP Startup Mission portal and press reports. The 40/30/30 tranches and the 25-per-incubator cap come from the 2020 policy FAQs. The 2026 portal lists two tranches, and the 2026 cap was not visible. The full 2026 policy PDF is scanned and could not be read as text."
+  },
+  {
+    "slug": "haryana-seed-funding-startups",
+    "name": "Seed Funding for Startups Scheme (Haryana State Startup Policy 2022)",
+    "shortName": "Haryana Seed Grant",
+    "provider": "Industries & Commerce Department, Government of Haryana",
+    "providerType": "state",
+    "state": "Haryana",
+    "launchedYear": 2024,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Seed grant of up to ₹10 lakh per startup, in 3 tranches (50% / 40% / 10%). Travel is capped at ₹50,000 and market research at ₹50,000 within that.",
+    "equity": "None",
+    "duration": "Three tranches, each released after a utilisation certificate for the previous one",
+    "timeToMoney": "Applications received in one quarter are evaluated in the next quarter, so expect at least 3–6 months to sanction",
+    "status": "rolling",
+    "deadline": "Apply any time before the scheme ends on 6 Jul 2027; reviewed quarterly",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A grant of up to ₹10 lakh from the Haryana government to validate an idea and build a prototype.",
+    "what": "Notified in the Haryana Gazette on 23 July 2024 under the State Startup Policy 2022, this scheme gives Haryana-based startups up to ₹10 lakh to validate the idea, demonstrate a proof of concept, build a prototype, travel to startup events, and do market research and early marketing. It sets quotas by block category: 100 startups in 'A' blocks, 250 in 'B', 750 in 'C' and 1,000 in 'D' (more for less-developed blocks).",
+    "who": [
+      "Registered as a 'Category 1 Startup' on Startup Haryana: DPIIT-recognised AND registered office in Haryana",
+      "Holds a Haryana Udyam Memorandum (HUM)",
+      "Product or service is not on the state's restrictive list under the Haryana Enterprises and Employment Policy 2020",
+      "Any sector"
+    ],
+    "notFor": [
+      "Startups that have taken a similar incentive under another Haryana government policy (no double-dipping)",
+      "Spending on office rent, founder or staff salaries, utility bills, laptops/phones or daily conveyance",
+      "Repaying loans or investors, or building/civil works",
+      "Expenses incurred before the committee approves your grant"
+    ],
+    "why": [
+      "Up to ₹10 lakh with no equity",
+      "Large quotas, especially for startups in less-developed 'C' and 'D' blocks",
+      "Clear published scoring criteria, so you know what the committee wants",
+      "You can re-apply the next quarter if rejected"
+    ],
+    "howItWorks": "You apply online on the Industries & Commerce Department portal. Officials check documents (you get 10 working days to fix gaps), then you pitch to an Evaluation & Approval Committee chaired by the Director General, Industries & Commerce. The committee scores you out of 100 (need, feasibility, impact, uniqueness, team, revenue model, go-to-market, fund-use plan, presentation) and you need at least 60. Approved amounts come in 3 tranches (50/40/10). You can claim the next tranche after using 80% of the previous one, and it is paid once you show 100% utilisation.",
+    "steps": [
+      {
+        "title": "Get DPIIT recognition and HUM",
+        "detail": "Register your company with a Haryana registered office, get DPIIT recognition and a Haryana Udyam Memorandum."
+      },
+      {
+        "title": "Register on Startup Haryana",
+        "detail": "Create a startup account on startupharyana.gov.in to become a Category 1 Startup."
+      },
+      {
+        "title": "Apply online for Seed Funding",
+        "detail": "Fill the Annexure-I form on the department portal with your plan and fund-utilisation roadmap."
+      },
+      {
+        "title": "Fix deficiencies",
+        "detail": "Respond within 10 working days if officials flag missing documents, or the application is closed."
+      },
+      {
+        "title": "Pitch to the committee",
+        "detail": "Present your idea in the quarter after you apply. You need 60/100 or more to qualify."
+      },
+      {
+        "title": "Receive tranche 1 (50%)",
+        "detail": "Download the sanction letter from the portal; money goes to the startup's bank account."
+      },
+      {
+        "title": "Report and claim tranches 2 and 3",
+        "detail": "Submit progress reports and utilisation certificates to unlock 40% and then the final 10%."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition certificate",
+      "Startup Haryana registration (Category 1)",
+      "Haryana Udyam Memorandum (HUM)",
+      "Certificate of incorporation with Haryana registered office",
+      "Business plan, PoC/prototype roadmap and fund-utilisation plan",
+      "Undertakings in the scheme's prescribed formats (no duplicate incentives)"
+    ],
+    "benefits": [
+      "Up to ₹10 lakh non-dilutive",
+      "Can be combined with other Haryana startup incentives such as lease rental (30%, 45% for women-led, up to ₹5 lakh), patent cost (up to ₹25 lakh) and cloud credits reimbursement, as long as the same expense is not claimed twice",
+      "A presentation to senior officials and industry experts"
+    ],
+    "pros": [
+      "Fully notified scheme with clear rules and scoring",
+      "Big quotas (2,100 startups across block categories)",
+      "Sector-agnostic",
+      "Re-apply next quarter if rejected"
+    ],
+    "cons": [
+      "Slow: quarterly evaluation cycles plus tranche-by-tranche releases",
+      "Cannot be used for salaries or rent, which are often a startup's biggest costs",
+      "Only expenses after approval count",
+      "The scheme ends in July 2027, so the window is closing"
+    ],
+    "goodFitIf": [
+      "You are DPIIT-recognised with a Haryana registered office",
+      "You need money for PoC, prototype, market research or marketing",
+      "You can keep tidy utilisation certificates"
+    ],
+    "skipIf": [
+      "You mainly need money for salaries or rent",
+      "You already took a similar Haryana incentive",
+      "You cannot apply before 6 July 2027"
+    ],
+    "insiderTips": [
+      "Revenue model and potential impact carry the highest weight (15 points each); spend the most effort there",
+      "Start spending only after the sanction letter: earlier bills are not counted",
+      "Startups in 'C' and 'D' category blocks face far bigger quotas, so check your block's category"
+    ],
+    "performance": {
+      "summary": "In the ranking evaluation period (1 Jan 2023 – 30 Nov 2024), DPIIT's state report says 30+ Haryana startups got funding through state-supported mechanisms. The report shows this next to the Seed Funding scheme. No year-wise sanction or disbursement data has been published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups that received funding through state-supported funds (1 Jan 2023 – 30 Nov 2024)",
+          "value": "30+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Haryana State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Haryana_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Seed grant quota by block category (A/B/C/D)",
+          "value": "100 / 250 / 750 / 1,000 startups",
+          "asOf": "2024-07-23",
+          "source": {
+            "label": "Haryana Govt Gazette, 23 Jul 2024 – Seed Funding for Startups Scheme",
+            "url": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startupharyana.gov.in/",
+    "officialUrl": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf",
+    "sources": [
+      {
+        "label": "Haryana Govt Gazette, 23 Jul 2024 – Seed Funding for Startups Scheme",
+        "url": "https://haryanaindustries.gov.in/themes/backend/uploads/Startup%20Seed%20Funding%20Scheme.pdf"
+      },
+      {
+        "label": "Startup Haryana portal (official)",
+        "url": "https://startupharyana.gov.in/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Haryana State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Haryana_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Scheme rules are from the official gazette notification. We could not reach the application form itself. The gazette only says 'web portal of the Department', and we point to Startup Haryana, the department's startup portal. The number of grants sanctioned so far is not published."
+  },
+  {
+    "slug": "punjab-startup-seed-grant",
+    "name": "Startup Seed Grant – Punjab Industrial & Business Development Policy",
+    "shortName": "Punjab Seed Grant",
+    "provider": "Startup Punjab, Department of Industries & Commerce, Government of Punjab",
+    "providerType": "state",
+    "state": "Punjab",
+    "launchedYear": 2017,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 500000,
+    "amountText": "Up to ₹5 lakh per startup under the 2026 policy, up from ₹3 lakh earlier (as announced by the Chief Minister in June 2026)",
+    "equity": "None",
+    "duration": "One-time grant",
+    "timeToMoney": "Not published",
+    "status": "unverified",
+    "deadline": "No public call found; grants have been handed out in batches",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A small Punjab government grant, routed through recognised incubators, to validate an idea and build a prototype.",
+    "what": "Punjab's startup incentives sit inside its industrial policy rather than a separate startup policy. The seed grant pays for idea validation, prototype development, travel, field and market research, skills training, marketing and initial set-up. The Chief Minister said in June 2026 that the Industrial & Business Development Policy 2026 raised it from ₹3 lakh to ₹5 lakh. Older rules route the money through state- or centre-recognised incubators.",
+    "who": [
+      "Company, registered partnership or LLP registered in Punjab (under the Punjab Shops and Commercial Establishments Act)",
+      "At least 50% of your qualified workforce (excluding contract staff) is from Punjab",
+      "Not more than 7 years old (10 for biotech) and turnover not above ₹25 crore in any year",
+      "Working on an innovative product/process/service or a scalable model; incubated at a recognised incubator"
+    ],
+    "notFor": [
+      "Firms formed by splitting or restructuring an existing business",
+      "Subsidiaries or holding companies of existing firms",
+      "Startups registered outside Punjab or mostly staffed from outside"
+    ],
+    "why": [
+      "Non-dilutive starter money for very early teams",
+      "The amount has just gone up to ₹5 lakh",
+      "Comes with incubator support and access to other Punjab incentives (8% interest subsidy, lease rental reimbursement)"
+    ],
+    "howItWorks": "The grant is routed through state- or centre-recognised incubators, which recommend startups to Startup Punjab. Grants have been distributed in batches. In June 2026, 31 startups received ₹1.07 crore at one event.",
+    "steps": [
+      {
+        "title": "Register in Punjab",
+        "detail": "Incorporate with a Punjab address and keep at least half your qualified team from Punjab."
+      },
+      {
+        "title": "Register with Startup Punjab",
+        "detail": "Create your startup profile on the Startup Punjab section of the Punjab Industries portal."
+      },
+      {
+        "title": "Join a recognised incubator",
+        "detail": "Get incubated at a state- or centre-recognised incubator in Punjab; they route seed grant proposals."
+      },
+      {
+        "title": "Submit a seed grant proposal",
+        "detail": "With your incubator, submit a budget for validation/prototype work."
+      },
+      {
+        "title": "Receive the grant",
+        "detail": "After approval, the grant is paid; keep utilisation records."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and Punjab Shops & Establishments registration",
+      "Proof that 50%+ of qualified workforce is from Punjab",
+      "DPIIT/Startup Punjab registration",
+      "Incubation letter from a recognised incubator",
+      "Budget and plan for the seed grant"
+    ],
+    "benefits": [
+      "Up to ₹5 lakh non-dilutive",
+      "Incubation and mentoring",
+      "Access to other policy incentives: 8% interest subsidy (up to ₹5 lakh a year for 5 years), 25% lease rental reimbursement (up to ₹3 lakh a year), stamp duty reimbursement"
+    ],
+    "pros": [
+      "Simple, small grant for very early teams",
+      "Amount recently increased",
+      "Combined with other Punjab startup incentives"
+    ],
+    "cons": [
+      "Small amount compared with Haryana or UP",
+      "No public, dated application window or online form we could verify",
+      "Official Startup Punjab portal was down for maintenance when we checked",
+      "Incubator-dependent"
+    ],
+    "goodFitIf": [
+      "You are a Punjab-registered early-stage startup",
+      "You are already in a Punjab incubator",
+      "A few lakh would unlock a prototype or first pilot"
+    ],
+    "skipIf": [
+      "You need more than ₹5 lakh",
+      "Most of your team is outside Punjab",
+      "You are not incubated"
+    ],
+    "insiderTips": [
+      "Ask your incubator when the next batch is being sent; disbursements happen in rounds",
+      "Check the final IBDP 2026 text for revised eligibility once the Industries portal is back"
+    ],
+    "performance": {
+      "summary": "In June 2026 the Chief Minister handed seed grants to 31 startups: 7 got ₹5 lakh and 24 got ₹3 lakh, ₹1.07 crore in total. DPIIT's ranking report says 110+ Punjab startups received funding through state-supported mechanisms between Jan 2023 and Nov 2024. That count covers all mechanisms, not only this grant. No year-wise data has been published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Seed grants distributed at the June 2026 event",
+          "value": "31 startups, ₹1.07 crore (7 × ₹5 lakh + 24 × ₹3 lakh)",
+          "asOf": "2026-06-10",
+          "source": {
+            "label": "The Tribune – Punjab on path to becoming nation's startup hub: CM Mann (10 Jun 2026)",
+            "url": "https://www.tribuneindia.com/news/punjab/punjab-on-path-to-becoming-nations-startup-hub-cm-mann/"
+          }
+        },
+        {
+          "label": "Startups receiving funding through state-supported mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "110+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Punjab State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Punjab_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://pbindustries.gov.in/startup/home",
+    "officialUrl": "https://www.startupindia.gov.in/content/sih/en/startup-scheme/state-startup-policies/Punjab-state-policy.html",
+    "sources": [
+      {
+        "label": "Startup India – Punjab state policy page",
+        "url": "https://www.startupindia.gov.in/content/sih/en/startup-scheme/state-startup-policies/Punjab-state-policy.html"
+      },
+      {
+        "label": "The Tribune – Punjab on path to becoming nation's startup hub: CM Mann (10 Jun 2026)",
+        "url": "https://www.tribuneindia.com/news/punjab/punjab-on-path-to-becoming-nations-startup-hub-cm-mann/"
+      },
+      {
+        "label": "Punjab Kesari – CM launches Industrial & Business Development Policy 2026 (7 Mar 2026)",
+        "url": "https://english.punjabkesari.com/india/industry-growth-punjab/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Punjab State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Punjab_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified. We could not read the IBDP 2026 text, and the Punjab Industries portal (pbindustries.gov.in) was down for maintenance. The ₹5 lakh amount comes from the CM's statement reported by The Tribune. Eligibility and incubator routing come from the Startup India page for the earlier 2017–22 policy and may have changed."
+  },
+  {
+    "slug": "himachal-cm-startup-scheme",
+    "name": "Chief Minister's Startup / Innovation Projects / New Industries Scheme",
+    "shortName": "HP CM Startup Scheme",
+    "provider": "Department of Industries, Government of Himachal Pradesh",
+    "providerType": "state",
+    "state": "Himachal Pradesh",
+    "launchedYear": 2016,
+    "instrument": [
+      "grant",
+      "incubation"
+    ],
+    "maxAmountINR": 5000000,
+    "amountText": "Sustenance allowance of ₹25,000 a month for 1 year (₹3 lakh) during incubation, plus seed support of up to ₹50 lakh under the HIMSUP Yojana once the idea is ready to commercialise",
+    "equity": "None for the sustenance allowance; terms of HIMSUP seed support not published",
+    "duration": "1 year of incubation with monthly allowance; seed support later",
+    "timeToMoney": "Committee decides on the idea within 20 days of incubator presentation (per portal); allowance paid monthly after progress reports",
+    "status": "unverified",
+    "deadline": "Online application via the Startup Himachal portal; no dated call found",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Himachal Pradesh pays selected innovators ₹25,000 a month for a year while they incubate, with seed money of up to ₹50 lakh later.",
+    "what": "Under this 2016 scheme, the Himachal government funds incubators in reputed institutions. It pays innovators approved by a committee a ₹25,000 monthly sustenance allowance for one year while they build at the incubator. Startups ready to commercialise can be recommended for seed support of up to ₹50 lakh under the HIMSUP Yojana, along with marketing assistance. Other perks include a DPR subsidy (75%, up to ₹1 lakh), patent cost reimbursement, cheaper land and a 5% interest subvention.",
+    "who": [
+      "Innovators with a new or improved product, process or service using new technology",
+      "New micro or small enterprises (proprietor, company, partnership firm or LLP) being set up in Himachal Pradesh",
+      "Your idea must be recommended by an empanelled incubation centre and approved by the state committee"
+    ],
+    "notFor": [
+      "Ideas that are not innovative (plain trading or copycat businesses)",
+      "Units set up outside Himachal Pradesh",
+      "Those not willing to incubate at one of the 14 empanelled centres"
+    ],
+    "why": [
+      "Monthly allowance (₹25,000) is among the higher state stipends",
+      "Free mentoring, labs and facilities at the host incubator",
+      "Route to up to ₹50 lakh seed support on commercialisation",
+      "Plenty of track record: 365 startups selected for incubation so far"
+    ],
+    "howItWorks": "You apply online and get a tracking number. A Department of Industries scrutiny committee checks the application and sends eligible ones to incubation centres. You pitch to an incubation centre, which recommends you; the committee decides within 20 days. The host institution then proposes your case to the Directorate of Industries, and an empowered committee sanctions the sustenance allowance. It is paid to you monthly after the incubator files progress reports. On commercialisation, the incubator can recommend you for HIMSUP seed support.",
+    "steps": [
+      {
+        "title": "Apply online",
+        "detail": "Fill the application on the Startup Himachal portal and note your unique tracking number."
+      },
+      {
+        "title": "Scrutiny by Department of Industries",
+        "detail": "A committee screens applications; rejected ones are returned with reasons."
+      },
+      {
+        "title": "Pitch to an incubation centre",
+        "detail": "Present your idea to one of the 14 empanelled incubation centres for a recommendation."
+      },
+      {
+        "title": "Committee approval",
+        "detail": "The committee approves or rejects within 20 days."
+      },
+      {
+        "title": "Sanction of allowance",
+        "detail": "The host institution proposes your case; an empowered committee sanctions ₹25,000 a month."
+      },
+      {
+        "title": "Monthly payments and progress reports",
+        "detail": "Allowance paid monthly after the incubator's progress report."
+      },
+      {
+        "title": "Seed support on commercialisation",
+        "detail": "When ready to sell, apply for HIMSUP seed funding on incubator recommendation."
+      }
+    ],
+    "documents": [
+      "Online application form",
+      "Idea/innovation note and project plan",
+      "ID and address proof of founders",
+      "Incorporation/registration documents if already an entity",
+      "Incubator recommendation (obtained during the process)"
+    ],
+    "benefits": [
+      "₹3 lakh sustenance over a year",
+      "Free incubation, mentoring and lab access",
+      "Up to ₹50 lakh HIMSUP seed support",
+      "DPR subsidy (75%, up to ₹1 lakh), patent reimbursement (₹2 lakh Indian / ₹10 lakh foreign), land at 50% rates, 5% interest subvention on loans up to ₹25 lakh"
+    ],
+    "pros": [
+      "Generous monthly allowance",
+      "Strong incubator network (14 centres)",
+      "Long track record with ₹4.98 crore in allowances paid",
+      "Bundled with industrial-policy perks for when you scale"
+    ],
+    "cons": [
+      "Very few startups reach seed support (only 9 under HIMSUP so far)",
+      "Multi-stage committee process",
+      "Scheme dates from 2016; current intake status was not confirmed",
+      "Allowance depends on monthly incubator reporting"
+    ],
+    "goodFitIf": [
+      "You are an innovator based in Himachal Pradesh",
+      "You want a structured one-year incubation with a stipend",
+      "You are building something technology-driven (agri, horticulture, tourism tech, IT, biotech, clean tech)"
+    ],
+    "skipIf": [
+      "You need large funding quickly",
+      "You are not innovating (a regular small business)",
+      "You will not relocate/operate in Himachal"
+    ],
+    "insiderTips": [
+      "Talk to the incubation centre before applying; their recommendation is the real gate",
+      "Plan for commercialisation within the year, since seed support is rare and comes only on incubator recommendation"
+    ],
+    "performance": {
+      "summary": "The Startup Himachal portal (updated October 2026) shows 365 startups selected for incubation, 294 completed and 107 commercialised. It also shows ₹4.98 crore paid as sustenance allowances and ₹6.54 crore to incubation centres. At ₹3 lakh per full year, ₹4.98 crore is about 166 full-year allowances (our arithmetic). Only 9 startups have received HIMSUP seed support. No year-wise breakdown is published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Sustenance allowance disbursed (cumulative)",
+          "value": "₹4,97,92,650",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Himachal portal – statistics",
+            "url": "https://emerginghimachal.hp.gov.in/startup/"
+          }
+        },
+        {
+          "label": "Startups selected for incubation / completed / commercialised",
+          "value": "365 / 294 / 107",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Himachal portal – statistics",
+            "url": "https://emerginghimachal.hp.gov.in/startup/"
+          }
+        },
+        {
+          "label": "Startups given HIMSUP seed support",
+          "value": "9",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Himachal portal – statistics",
+            "url": "https://emerginghimachal.hp.gov.in/startup/"
+          }
+        },
+        {
+          "label": "Funds disbursed to incubation centres",
+          "value": "₹6,54,19,793",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Himachal portal – statistics",
+            "url": "https://emerginghimachal.hp.gov.in/startup/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://emerginghimachal.hp.gov.in/startup/",
+    "officialUrl": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/",
+    "sources": [
+      {
+        "label": "Startup Himachal – Incentive details & procedure",
+        "url": "https://emerginghimachal.hp.gov.in/startup/about/incentive-procedure/"
+      },
+      {
+        "label": "Startup Himachal portal – statistics",
+        "url": "https://emerginghimachal.hp.gov.in/startup/"
+      },
+      {
+        "label": "Startup India – Himachal Pradesh state policy page",
+        "url": "https://www.startupindia.gov.in/content/sih/en/startup-scheme/state-startup-policies/Himachal-Pradesh-state-policy.html"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Himachal Pradesh State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Himachal_Pradesh_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified. The portal's statistics were refreshed in October 2026, but its most recent listed event is from June 2023, and we found no dated 2025–26 call. HIMSUP seed terms (grant, loan or equity) are not published. The portal statistics are not split by year."
+  },
+  {
+    "slug": "uttarakhand-startup-allowance-seed-fund",
+    "name": "Monthly Allowance and Seed Fund – Uttarakhand Startup Policy 2023",
+    "shortName": "Uttarakhand Allowance + Seed Fund",
+    "provider": "Startup Uttarakhand (Startup Cell), Department of Industries, Government of Uttarakhand",
+    "providerType": "state",
+    "state": "Uttarakhand",
+    "launchedYear": 2023,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1250000,
+    "amountText": "Monthly allowance of up to ₹15,000 (₹20,000 for women, SC/ST, differently abled, transgender founders or rural-impact/disruptive-tech startups) for up to 12 months; one-time seed fund of up to ₹10 lakh (₹12.5 lakh for priority groups), with an extra ₹2.5 lakh for disruptive tech",
+    "equity": "None",
+    "duration": "Allowance up to 12 months; seed fund in instalments",
+    "timeToMoney": "Not published",
+    "status": "rolling",
+    "deadline": "Rolling, after state recognition",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Uttarakhand pays recognised startups a monthly allowance for a year and a seed grant of up to ₹10–12.5 lakh.",
+    "what": "The Uttarakhand Startup Policy 2023, approved in February 2023 to replace the 2018 policy, gives startups recognised by the state two direct cash supports. The first is a monthly allowance of ₹15,000–20,000 for up to a year. The second is a one-time seed fund of up to ₹10 lakh, rising to ₹12.5 lakh for women, SC/ST, differently abled and rural founders, plus ₹2.5 lakh extra for disruptive tech. The state also runs a ₹200 crore Uttarakhand Venture Fund for later-stage equity.",
+    "who": [
+      "Startups recognised by Startup Uttarakhand (register on the state portal)",
+      "Higher allowance and seed amounts for women, SC/ST, differently abled and transgender founders, and rural-impact or disruptive-tech startups",
+      "Typically supported through a state-recognised incubator or nodal agency (15 incubators and 7 nodal agencies recognised)"
+    ],
+    "notFor": [
+      "Startups not recognised by Startup Uttarakhand",
+      "Founders expecting the allowance beyond 12 months",
+      "Businesses with no innovation element"
+    ],
+    "why": [
+      "Two kinds of non-dilutive money from one recognition",
+      "Higher amounts for under-represented founders",
+      "Free incubation for 12 months (+6 for disruptive tech) at state incubators",
+      "Pipeline to the ₹200 crore Uttarakhand Venture Fund"
+    ],
+    "howItWorks": "You sign up and get recognised on the Startup Uttarakhand portal, then apply for the monthly allowance and seed fund through it. The Startup Cell and state-recognised incubators or nodal agencies assess you, and the department releases the money. The portal's funded-startup list shows seed funds paid in instalments ('Seed Fund Incentive First Installment').",
+    "steps": [
+      {
+        "title": "Sign up on Startup Uttarakhand",
+        "detail": "Create an account at startuputtarakhand.uk.gov.in/signup."
+      },
+      {
+        "title": "Apply for state recognition",
+        "detail": "Submit your entity and innovation details; recognised status unlocks incentives."
+      },
+      {
+        "title": "Link with an incubator or nodal agency",
+        "detail": "Choose one of the 15 recognised incubators or 7 nodal agencies."
+      },
+      {
+        "title": "Apply for monthly allowance",
+        "detail": "Follow the 'Guidelines for Availing Monthly Allowance' on the portal."
+      },
+      {
+        "title": "Apply for seed fund",
+        "detail": "Submit your plan; seed funds are released in instalments."
+      },
+      {
+        "title": "Track status",
+        "detail": "Use 'Check application status' on the portal."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation/registration",
+      "DPIIT recognition (if held) and Startup Uttarakhand recognition",
+      "Founder ID and category certificates (for higher amounts)",
+      "Business plan and use-of-funds budget",
+      "Incubator/nodal agency letter"
+    ],
+    "benefits": [
+      "Up to ₹2.4 lakh allowance (₹20,000 × 12) for priority groups",
+      "Seed fund up to ₹12.5 lakh (+₹2.5 lakh disruptive tech)",
+      "Patent reimbursement (₹1 lakh Indian / ₹5 lakh international)",
+      "Free incubation, public procurement relaxations, venture fund access"
+    ],
+    "pros": [
+      "Combined allowance plus seed from one state recognition",
+      "Inclusive top-ups",
+      "Active portal with a public list of funded startups"
+    ],
+    "cons": [
+      "Small number funded so far (about 50)",
+      "Detailed 2023 guidelines are image-only PDFs, hard to read",
+      "Policy end date not clearly published"
+    ],
+    "goodFitIf": [
+      "You are based in Uttarakhand and early-stage",
+      "You are a woman, SC/ST, differently abled or rural founder (higher amounts)",
+      "You can work from a state incubator"
+    ],
+    "skipIf": [
+      "You are outside Uttarakhand",
+      "You need money in weeks, not months",
+      "You want equity investors only (look at the Uttarakhand Venture Fund instead)"
+    ],
+    "insiderTips": [
+      "Call the Startup Cell helpline (+91-7055613052) to confirm the current guideline version before applying",
+      "Join the Startup Uttarakhand Grand Challenge; it is a visible route into the state's support pipeline"
+    ],
+    "performance": {
+      "summary": "The Startup Uttarakhand portal shows 227 recognised startups and 50 funded startups across all incentive types, with seed funds paid in instalments. DPIIT's report says 15+ startups got funding through state mechanisms between Jan 2023 and Nov 2024. Amounts paid and year-wise figures are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups recognised by the state",
+          "value": "227",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Uttarakhand portal (official)",
+            "url": "https://startuputtarakhand.uk.gov.in/"
+          }
+        },
+        {
+          "label": "Funded startups (all incentive types)",
+          "value": "50",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Uttarakhand portal (official)",
+            "url": "https://startuputtarakhand.uk.gov.in/"
+          }
+        },
+        {
+          "label": "Startups receiving funding through state mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "15+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttarakhand State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttarakhand_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Uttarakhand Venture Fund size",
+          "value": "₹200 crore",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttarakhand State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttarakhand_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startuputtarakhand.uk.gov.in/signup",
+    "officialUrl": "https://startuputtarakhand.uk.gov.in/startup_policy",
+    "sources": [
+      {
+        "label": "Startup Uttarakhand portal (official)",
+        "url": "https://startuputtarakhand.uk.gov.in/"
+      },
+      {
+        "label": "Startup Uttarakhand – guidelines",
+        "url": "https://startuputtarakhand.uk.gov.in/startup_guidelines"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Uttarakhand State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Uttarakhand_State_Report.pdf"
+      },
+      {
+        "label": "Drishti IAS – Uttarakhand approves revised Startup Policy (17 Feb 2023)",
+        "url": "https://www.drishtiias.com/state-pcs-current-affairs/state-government-approved-startup-revised-policy/print_manually"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Amounts come from DPIIT's Jan 2026 state report and Drishti IAS. The 2023 guidelines on the state portal are image-only PDFs we could not read as text. Whether the disruptive-tech ₹2.5 lakh stacks on top of ₹12.5 lakh is not confirmed, so maxAmountINR uses ₹12.5 lakh. The policy's end date was not visible."
+  },
+  {
+    "slug": "jk-startup-policy-seed-funding",
+    "name": "Seed Funding Support – Jammu & Kashmir Start-up Policy 2024–27",
+    "shortName": "J&K Startup Seed Fund",
+    "provider": "Jammu & Kashmir Entrepreneurship Development Institute (JKEDI), Government of J&K",
+    "providerType": "state",
+    "state": "Jammu & Kashmir",
+    "launchedYear": 2024,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 2000000,
+    "amountText": "One-time seed assistance of up to ₹20 lakh, paid in four equal instalments of ₹5 lakh",
+    "equity": "None",
+    "duration": "Four instalments, linked to progress",
+    "timeToMoney": "Not published. In 2025–26, only the first ₹5 lakh instalment had been released to sanctioned startups by early 2026.",
+    "status": "unverified",
+    "deadline": "Policy runs 2024–27; seed support capped at 25 startups a year",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A grant of up to ₹20 lakh from the J&K government for JKEDI-recognised startups to build, market or scale a product.",
+    "what": "The Jammu & Kashmir Start-up Policy 2024–27 (approved Feb 2024, replacing the 2018 policy) gives JKEDI-recognised startups a one-time seed grant of up to ₹20 lakh, paid in four equal instalments. It can pay for prototype development, launching an innovative product, or early expansion. Only about 25 startups a year can get it. The policy also plans a ₹250 crore venture capital fund (₹25 crore from the UT), a ₹10 lakh mentorship fund, and travel support.",
+    "who": [
+      "Startups recognised by JKEDI (the UT's nodal agency) under the J&K Start-up Policy",
+      "Operating in Jammu & Kashmir",
+      "Working on a prototype, an innovative product launch or early scaling"
+    ],
+    "notFor": [
+      "Startups not recognised by JKEDI",
+      "Ventures based outside the UT",
+      "Founders who need the full ₹20 lakh at once: it is released in four parts"
+    ],
+    "why": [
+      "One of the larger state seed grants in north India",
+      "No equity or repayment",
+      "Comes with JKEDI incubation (Pampore and Bari Brahmana campuses) and mentoring"
+    ],
+    "howItWorks": "JKEDI recognises startups and runs the selection. The selected startups are sanctioned up to ₹20 lakh, released in four ₹5 lakh instalments as they make progress. Seed support is limited to about 25 startups a year because of the budget.",
+    "steps": [
+      {
+        "title": "Register and get JKEDI recognition",
+        "detail": "Register your startup on the J&K startup platform and apply for JKEDI recognition (DPIIT recognition also helps)."
+      },
+      {
+        "title": "Prepare a seed proposal",
+        "detail": "Explain the prototype, product launch or scaling activity and a 4-stage budget."
+      },
+      {
+        "title": "Selection by JKEDI",
+        "detail": "JKEDI's committee shortlists and sanctions the seed amount."
+      },
+      {
+        "title": "Receive instalment 1 (₹5 lakh)",
+        "detail": "Use it as per plan and keep utilisation records."
+      },
+      {
+        "title": "Unlock later instalments",
+        "detail": "Show progress and utilisation to receive the remaining three instalments."
+      }
+    ],
+    "documents": [
+      "JKEDI recognition",
+      "Certificate of incorporation",
+      "DPIIT certificate (if any)",
+      "Project/seed proposal with staged budget",
+      "Founder KYC and bank details"
+    ],
+    "benefits": [
+      "Up to ₹20 lakh non-dilutive",
+      "Subsidised incubation at JKEDI campuses",
+      "Travel support (up to ₹1 lakh international, ₹25,000 domestic)",
+      "Credit Guarantee Scheme for Startups facilitation and procurement relaxations"
+    ],
+    "pros": [
+      "Large seed cheque",
+      "Clear four-instalment structure",
+      "UT-backed venture fund planned for follow-on money"
+    ],
+    "cons": [
+      "Only about 25 startups a year, against 700+ new startups registering annually",
+      "Slow release: one quarter of sanctioned money had been paid out by early 2026",
+      "Official JKEDI website could not be reached to confirm current calls"
+    ],
+    "goodFitIf": [
+      "You are a J&K startup with a working prototype or product",
+      "You can show clear progress across four stages",
+      "You can plan your spending in four equal ₹5 lakh stages",
+      "You want to stay close to JKEDI's incubation campuses at Pampore or Bari Brahmana"
+    ],
+    "skipIf": [
+      "You need money immediately",
+      "You are not recognised by JKEDI",
+      "Your startup is registered and operating outside J&K"
+    ],
+    "insiderTips": [
+      "Plan your budget in four equal stages; each instalment is ₹5 lakh",
+      "Apply early in the financial year, since the annual cap of about 25 startups fills up"
+    ],
+    "performance": {
+      "summary": "IMPRI, a policy research group, reports that in 2025–26 ₹3.60 crore was sanctioned for 18 startups, but only ₹90 lakh (₹5 lakh each) had been released by early 2026. DPIIT's report counts 15+ startups funded through state mechanisms between Jan 2023 and Nov 2024. There are not enough data points for a chart.",
+      "metrics": [
+        {
+          "label": "Seed funding sanctioned in 2025–26",
+          "value": "₹3.60 crore for 18 startups (₹90 lakh released)",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "IMPRI – Jammu and Kashmir Start-up Policy 2024 analysis",
+            "url": "https://www.impriindia.com/?p=73691"
+          }
+        },
+        {
+          "label": "Startups receiving funding through state mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "15+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Jammu and Kashmir State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Jammu_and_Kashmir_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Planned venture capital fund",
+          "value": "₹250 crore (₹25 crore initial UT contribution)",
+          "asOf": "2024-03-03",
+          "source": {
+            "label": "The Tribune – J&K launches start-up policy, aims to set up 2,000 new units (3 Mar 2024)",
+            "url": "https://www.tribuneindia.com/news/j-k/jk-launches-start-up-policy-aims-to-set-up-2-000-new-units-596919"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://jkedi.org/",
+    "officialUrl": "https://jkedi.org/",
+    "sources": [
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Jammu and Kashmir State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Jammu_and_Kashmir_State_Report.pdf"
+      },
+      {
+        "label": "The Tribune – J&K launches start-up policy, aims to set up 2,000 new units (3 Mar 2024)",
+        "url": "https://www.tribuneindia.com/news/j-k/jk-launches-start-up-policy-aims-to-set-up-2-000-new-units-596919"
+      },
+      {
+        "label": "IMPRI – Jammu and Kashmir Start-up Policy 2024 analysis",
+        "url": "https://www.impriindia.com/?p=73691"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The JKEDI website returned 'forbidden' to our tools, so we could not confirm the current application window, and status is unverified. The 2025–26 sanction figures come from IMPRI (a secondary source). The ₹20 lakh, four instalments and 25-a-year cap are confirmed by DPIIT's state report and IMPRI. The 'as of' date for IMPRI is approximate (early 2026)."
+  },
+  {
+    "slug": "chandigarh-startup-seed-growth-grant",
+    "name": "Seed Stage and Early Growth Stage Grants – Chandigarh Start-up Policy 2025",
+    "shortName": "Chandigarh Startup Grants",
+    "provider": "Department of Industries, Chandigarh Administration (UT)",
+    "providerType": "state",
+    "state": "Chandigarh",
+    "launchedYear": 2025,
+    "instrument": [
+      "grant",
+      "prize",
+      "incubation"
+    ],
+    "maxAmountINR": 1400000,
+    "amountText": "Seed/MVP grant up to ₹7 lakh (20 startups a year) and Early Growth/Commercialisation grant up to ₹12 lakh (20 a year), each with ₹2 lakh extra for women- or transgender-led startups. An annual Idea Grant competition gives ₹2 lakh to the top 20 and ₹1 lakh to the next 50.",
+    "equity": "None",
+    "duration": "Three tranches via the parent incubator",
+    "timeToMoney": "Applications evaluated quarterly by the PMIC; first payment after approval",
+    "status": "unverified",
+    "deadline": "Apply any time in a financial year through the Start-In-Chandigarh portal (policy valid 5 years from April 2025)",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "The Chandigarh UT gives up to ₹7 lakh for an MVP and up to ₹12 lakh for early growth, plus small idea-competition grants.",
+    "what": "The Chandigarh Start-up Policy 2025, notified in April 2025 for five years with ₹10 crore a year, funds startups in stages. An annual competition awards Idea Grants of ₹2 lakh (top 20) or ₹1 lakh (next 50) with a year of incubation. Seed/MVP grants of up to ₹7 lakh and Early Growth grants of up to ₹12 lakh go to 20 startups each a year, with ₹2 lakh extra for women- or transgender-led startups. All grants are paid through a 'parent' incubator in tranches.",
+    "who": [
+      "Private limited company, registered partnership or LLP registered or incorporated in UT Chandigarh",
+      "DPIIT-recognised (Idea Grant winners get help to obtain recognition)",
+      "Registered on the Start-In-Chandigarh portal and linked to a UT-recognised parent incubator",
+      "Women-/transgender-led startup: founder/co-founder (18+) as Chairperson, MD or CEO until all three tranches are released, to get the extra ₹2 lakh"
+    ],
+    "notFor": [
+      "Startups registered outside Chandigarh (Mohali and Panchkula are in Punjab and Haryana)",
+      "Startups not linked to a recognised incubator",
+      "Applications with deficiencies not fixed within 15 days (deemed withdrawn)"
+    ],
+    "why": [
+      "Stage-wise funding from idea to commercialisation",
+      "No equity",
+      "Extra ₹2 lakh for women- and transgender-led startups",
+      "Reimbursements too: rent (₹5,000/month for 12 months), certification, patents, conferences, accelerators"
+    ],
+    "howItWorks": "You register on the Start-In-Chandigarh portal, pick a scheme and link to a recognised parent incubator. The Startup Cell checks your application, and the Project Monitoring & Implementation Committee (PMIC), chaired by the Secretary Industries, evaluates applications every quarter. Approved grants go through the parent incubator in three tranches, and each later tranche depends on how you used the previous one.",
+    "steps": [
+      {
+        "title": "Register in Chandigarh and with DPIIT",
+        "detail": "Incorporate in UT Chandigarh and obtain DPIIT recognition."
+      },
+      {
+        "title": "Register on Start-In-Chandigarh",
+        "detail": "Create a profile on the UT's startup portal to get a unique ID."
+      },
+      {
+        "title": "Link to a parent incubator",
+        "detail": "Choose a UT-recognised incubator (government HEIs and one private HEI are designated)."
+      },
+      {
+        "title": "Select the scheme and upload documents",
+        "detail": "Pick Seed/MVP or Early Growth grant (or enter the Idea Grant competition)."
+      },
+      {
+        "title": "Startup Cell scrutiny",
+        "detail": "Fix any flagged gaps within 15 days."
+      },
+      {
+        "title": "Quarterly PMIC evaluation",
+        "detail": "Merit-based ranking and approval."
+      },
+      {
+        "title": "Tranche-wise release",
+        "detail": "Receive three tranches through your incubator as you show utilisation."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation (Chandigarh address)",
+      "DPIIT recognition certificate",
+      "Start-In-Chandigarh registration ID",
+      "Parent incubator linkage letter",
+      "Business plan and use-of-funds budget",
+      "Proof of woman/transgender leadership role (for the extra grant)"
+    ],
+    "benefits": [
+      "Up to ₹14 lakh (₹12 lakh + ₹2 lakh) at early growth stage",
+      "One year of incubation for idea-competition winners",
+      "Rent reimbursement, 80% certification and patent fee support, conference and accelerator reimbursements"
+    ],
+    "pros": [
+      "Clear amounts and numbers in a notified gazette",
+      "Covers multiple stages",
+      "Quarterly decisions"
+    ],
+    "cons": [
+      "Small quotas: 20 startups a year per stage",
+      "Implementation lagged: by Nov 2025 no startup had received benefits because the portal was not live",
+      "Must go through a parent incubator"
+    ],
+    "goodFitIf": [
+      "You are incorporated in UT Chandigarh",
+      "You are a women- or transgender-led startup",
+      "You can link to a Chandigarh university incubator"
+    ],
+    "skipIf": [
+      "You are registered in Mohali or Panchkula (check Punjab or Haryana schemes)",
+      "You need more than ₹14 lakh",
+      "You do not want to work through a parent incubator"
+    ],
+    "insiderTips": [
+      "Enter the annual Idea Grant competition first; winners get incubation and help with DPIIT recognition, which feeds into the seed grant",
+      "Apply early in the financial year because only 20 slots per stage exist"
+    ],
+    "performance": {
+      "summary": "The policy was notified in April 2025, but The Tribune reported in November 2025 that no startup had yet received benefits because the e-portal was not live. Operational guidelines followed on 1 January 2026. No disbursement figures have been published.",
+      "metrics": [
+        {
+          "label": "Annual policy corpus",
+          "value": "₹10 crore a year for 5 years",
+          "asOf": "2025-04-29",
+          "source": {
+            "label": "Chandigarh Start-up Policy 2025 (Gazette, 29 Apr 2025), hosted by Invest India",
+            "url": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf"
+          }
+        },
+        {
+          "label": "Seed and early-growth grant slots per year",
+          "value": "20 + 20 startups",
+          "asOf": "2025-04-29",
+          "source": {
+            "label": "Chandigarh Start-up Policy 2025 (Gazette, 29 Apr 2025), hosted by Invest India",
+            "url": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf"
+          }
+        },
+        {
+          "label": "Benefits received by startups (as reported)",
+          "value": "None as of Nov 2025 (portal not launched)",
+          "asOf": "2025-11-22",
+          "source": {
+            "label": "The Tribune – Six months on, UT startups yet to receive policy benefits (22 Nov 2025)",
+            "url": "https://www.tribuneindia.com/news/chandigarh/six-months-on-ut-startups-yet-to-receive-policy-benefits"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://chandigarh.gov.in/",
+    "officialUrl": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf",
+    "sources": [
+      {
+        "label": "Chandigarh Start-up Policy 2025 (Gazette, 29 Apr 2025), hosted by Invest India",
+        "url": "https://static.investindia.gov.in/s3fs-public/2025-09/chandigarh-start-up-policy-2025-april302025.pdf"
+      },
+      {
+        "label": "TeamLease RegTech – Operational Guidelines notified (1 Jan 2026)",
+        "url": "https://teamleaseregtech.com/updates/article/51427/chandigarh-administration-notified-the-operational-guidelines-of-chandigarh-start-up-policy-2025/"
+      },
+      {
+        "label": "The Tribune – Six months on, UT startups yet to receive policy benefits (22 Nov 2025)",
+        "url": "https://www.tribuneindia.com/news/chandigarh/six-months-on-ut-startups-yet-to-receive-policy-benefits"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified. Grant rules come from the gazette text, and the operational guidelines (1 Jan 2026) come from a legal-update service. We could not find the live URL of the Start-In-Chandigarh portal or confirm it has launched, so applyUrl points to the Chandigarh Administration's site. Check with the UT Industries Department."
+  },
+  {
+    "slug": "bihar-startup-seed-loan",
+    "name": "Seed Fund (Interest-free Loan) – Bihar Start-up Policy 2022",
+    "shortName": "Bihar Seed Fund",
+    "provider": "Department of Industries, Government of Bihar (through Bihar Start-up Fund Trust)",
+    "providerType": "state",
+    "state": "Bihar",
+    "launchedYear": 2017,
+    "instrument": [
+      "seed-loan"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Up to ₹10 lakh per startup as an interest-free loan, repayable over 10 years. In the May 2026 round, first instalments were ₹4 lakh and second instalments ₹6 lakh. A few startups also got ₹15 lakh in post-seed support.",
+    "equity": "None",
+    "duration": "Released in instalments tied to milestones; 10-year repayment tenure",
+    "timeToMoney": "Depends on pitching rounds held by the Department of Industries (e.g., 20–25 May 2026)",
+    "status": "call-based",
+    "deadline": "Periodic pitching rounds; policy valid 5 years from its 2022 notification",
+    "stages": [
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Bihar lends certified startups up to ₹10 lakh with zero interest and 10 years to repay, to validate and build their product.",
+    "what": "Bihar's Start-up Policy 2022 runs a ₹500 crore Bihar Start-up Fund Trust that gives certified, validation-stage startups up to ₹10 lakh as an interest-free loan with a 10-year tenure. The money can go on prototype development, testing, proof of concept, travel, market research, skills training, marketing and early set-up. It is released in instalments as you hit milestones. Women, SC/ST and differently abled founders get extra incentives, and the policy also offers matching loans, a 2% success fee on angel money and up to ₹3 lakh for accelerator programmes.",
+    "who": [
+      "Startups certified/recognised by Startup Bihar (the state nodal agency)",
+      "Registered with an incubation centre in Bihar",
+      "At validation stage: idea validated, working on prototype/PoC",
+      "Extra incentives for enterprises fully owned by women, SC/ST or differently abled founders"
+    ],
+    "notFor": [
+      "Startups not certified on the Startup Bihar portal",
+      "Founders who want a grant they never repay: this is a loan, though interest-free",
+      "Established businesses past validation (look at matching loans instead)"
+    ],
+    "why": [
+      "Zero interest and a 10-year tenure is very cheap money",
+      "No equity",
+      "Large number of startups supported (530+ in two years per DPIIT)",
+      "Path to post-seed support and matching loans"
+    ],
+    "howItWorks": "You register and get certified on the Startup Bihar portal and attach to an incubation centre. The Department of Industries holds pitching rounds, and the Bihar Start-up Fund Trust approves seed support in milestone-based instalments. Under the 2017 rules the founder also put in 5% of the seed amount. Later instalments, and post-seed support of up to ₹15 lakh, depend on your progress.",
+    "steps": [
+      {
+        "title": "Register on Startup Bihar",
+        "detail": "Create your profile on startup.bihar.gov.in and apply for certification."
+      },
+      {
+        "title": "Join an incubation centre",
+        "detail": "Get registered with a Bihar incubation centre that will track your milestones."
+      },
+      {
+        "title": "Pitch in a selection round",
+        "detail": "Present at the Department of Industries' pitching round (e.g., held at Vikas Bhawan, Patna)."
+      },
+      {
+        "title": "First instalment",
+        "detail": "In May 2026 this was ₹4 lakh for newly selected startups."
+      },
+      {
+        "title": "Hit milestones for the second instalment",
+        "detail": "In May 2026, second instalments were ₹6 lakh."
+      },
+      {
+        "title": "Repay over 10 years",
+        "detail": "Repay the interest-free loan over the tenure set by the Trust."
+      }
+    ],
+    "documents": [
+      "Startup Bihar certification",
+      "Certificate of incorporation",
+      "Incubation centre registration letter",
+      "Pitch deck and milestone plan",
+      "Founder KYC; category certificate for women/SC/ST/PwD incentives"
+    ],
+    "benefits": [
+      "Up to ₹10 lakh at 0% interest",
+      "Incubation and mentoring",
+      "Post-seed support (₹15 lakh given to 4 startups in May 2026), matching loans, 2% success fee on angel investment",
+      "Free domestic patent filing, procurement preference"
+    ],
+    "pros": [
+      "Very cheap capital (0% interest, 10 years)",
+      "Big, well-funded trust (₹500 crore corpus)",
+      "Regular selection rounds in 2025–26",
+      "Inclusive extras for women, SC/ST and PwD founders"
+    ],
+    "cons": [
+      "It is a loan, not a grant; you must repay",
+      "Money comes in instalments, so you may wait for the second tranche",
+      "Startup Bihar portal had certificate errors when we tried it",
+      "Policy period ends around 2027"
+    ],
+    "goodFitIf": [
+      "You are a Bihar startup at validation stage",
+      "You are comfortable with a long, interest-free loan",
+      "You can attend pitching rounds in Patna"
+    ],
+    "skipIf": [
+      "You will not be able to repay ₹10 lakh over 10 years",
+      "You are registered outside Bihar",
+      "You are idea-stage with no plan to validate within the next year"
+    ],
+    "insiderTips": [
+      "Watch for pitching-round announcements from the Department of Industries; selections happen in batches",
+      "Women-, SC/ST- and PwD-owned startups should claim the extra incentive; check full-ownership rules",
+      "Keep milestone evidence ready, because second instalments are where delays happen"
+    ],
+    "performance": {
+      "summary": "Bihar runs one of the most active state seed programmes. DPIIT's report counts 530+ startups funded through state mechanisms between Jan 2023 and Nov 2024. Department of Industries data (May 2025) shows 1,522 registered startups and ₹62.5 crore disbursed to date. In May 2026, ₹4.41 crore was recommended for 77 startups in one round. Year-wise totals are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups receiving funding through state mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "530+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Bihar State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Bihar_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Financial support disbursed to date / startups registered",
+          "value": "₹62.5 crore / 1,522",
+          "asOf": "2025-05-19",
+          "source": {
+            "label": "Patna Press – Bihar backs over 1,500 startups (19 May 2025, Dept of Industries data)",
+            "url": "https://patnapress.com/bihar-backs-over-1500-startups-in-bid-to-nurture-innovation/"
+          }
+        },
+        {
+          "label": "May 2026 selection round",
+          "value": "₹4.41 crore for 77 startups (26 first instalments × ₹4 lakh, 46 second instalments × ₹6 lakh, 4 post-seed × ₹15 lakh)",
+          "asOf": "2026-05-29",
+          "source": {
+            "label": "Patna Press – Rs 4.41 crore recommended for 77 startups (29 May 2026)",
+            "url": "https://patnapress.com/bihar-startup-support-funding-77-startups/"
+          }
+        },
+        {
+          "label": "Bihar Start-up Fund Trust corpus",
+          "value": "₹500 crore",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Bihar State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Bihar_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startup.bihar.gov.in/",
+    "officialUrl": "https://betastate.bihar.gov.in/startup",
+    "sources": [
+      {
+        "label": "Startup India – Bihar state policy page",
+        "url": "https://www.startupindia.gov.in/content/sih/en/startup-scheme/state-startup-policies/Bihar-state-policy.html"
+      },
+      {
+        "label": "Government of Bihar – Bihar Start-up Policy 2022 page",
+        "url": "https://betastate.bihar.gov.in/startup"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Bihar State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Bihar_State_Report.pdf"
+      },
+      {
+        "label": "Patna Press – Bihar backs over 1,500 startups (19 May 2025, Dept of Industries data)",
+        "url": "https://patnapress.com/bihar-backs-over-1500-startups-in-bid-to-nurture-innovation/"
+      },
+      {
+        "label": "Patna Press – Rs 4.41 crore recommended for 77 startups (29 May 2026)",
+        "url": "https://patnapress.com/bihar-startup-support-funding-77-startups/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The 10-year interest-free terms, the 5% founder contribution and the 5%/5%/15% category extras come from the Startup India page for the 2017 policy. The 2022 policy is confirmed by the Bihar government page and DPIIT (Jan 2026), but we could not open the 2022 policy PDF. Disbursement totals come from Department of Industries figures reported by Patna Press. The Startup Bihar portal could not be fetched (certificate error)."
+  },
+  {
+    "slug": "jharkhand-startup-stipend-prototype",
+    "name": "Subsistence Stipend and Prototype/Marketing Assistance – Jharkhand Startup Policy 2023",
+    "shortName": "Jharkhand Startup Stipend",
+    "provider": "ABVIL (Atal Bihari Vajpayee Innovation Lab), Department of IT & e-Governance, Government of Jharkhand",
+    "providerType": "state",
+    "state": "Jharkhand",
+    "launchedYear": 2023,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Subsistence stipend of ₹15,000 per team member per month (max 3 members) for 12 months, up to ₹5.4 lakh per team, plus prototype development and marketing assistance of up to ₹10 lakh each",
+    "equity": "None",
+    "duration": "Stipend for 12 months from selection; prototype/marketing support one-time",
+    "timeToMoney": "Not published",
+    "status": "unverified",
+    "deadline": "Online applications on the ABVIL portal; no dated call found",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Jharkhand pays each of up to three founders ₹15,000 a month for a year, and offers up to ₹10 lakh for prototype and marketing.",
+    "what": "Under the Jharkhand Startup Policy 2023, ABVIL acts as the state's 'master incubator'. Teams whose ideas the State Evaluation Board selects get a subsistence stipend of ₹15,000 per member per month for up to three members for 12 months. They can then get up to ₹10 lakh for prototype development and up to ₹10 lakh for marketing. The policy also reimburses patent costs, GST, stamp duty and registration fees.",
+    "who": [
+      "Startups incorporated or registered in Jharkhand, or DPIIT-recognised startups that start operating in Jharkhand",
+      "Not more than 7 years old (10 for biotech) with turnover not above ₹25 crore in any year",
+      "Working on innovation in products, processes or services",
+      "Idea selected by the State Evaluation Board (for the stipend)"
+    ],
+    "notFor": [
+      "Startups with no operations in Jharkhand",
+      "Teams larger than 3 expecting a stipend for everyone",
+      "Businesses that are not innovation-led"
+    ],
+    "why": [
+      "Stipend covers up to three founders, not just one",
+      "Up to ₹10 lakh each for prototype and marketing",
+      "No equity"
+    ],
+    "howItWorks": "You register online on the ABVIL portal and submit your idea. The State Evaluation Board selects ideas and issues a recognition certificate you can download. The stipend runs for 12 months from the selection date. Prototype and marketing assistance follow for selected startups.",
+    "steps": [
+      {
+        "title": "Register on ABVIL",
+        "detail": "Create an account on abvil.jharkhand.gov.in; you get an email acknowledgement."
+      },
+      {
+        "title": "Submit your idea",
+        "detail": "Apply online with your team (up to 3 members for the stipend)."
+      },
+      {
+        "title": "State Evaluation Board selection",
+        "detail": "If selected, download your system-generated recognition certificate."
+      },
+      {
+        "title": "Receive monthly stipend",
+        "detail": "₹15,000 per member per month for 12 months from selection."
+      },
+      {
+        "title": "Apply for prototype/marketing support",
+        "detail": "Submit a costed plan for up to ₹10 lakh each."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation (Jharkhand) or DPIIT certificate with Jharkhand operations",
+      "Founder ID and bank details",
+      "Idea/business plan",
+      "Turnover proof (if operating)"
+    ],
+    "benefits": [
+      "Up to ₹5.4 lakh stipend per team",
+      "Up to ₹10 lakh prototype and ₹10 lakh marketing support",
+      "100% reimbursement of patent filing cost, GST paid, stamp duty and registration fees"
+    ],
+    "pros": [
+      "Stipend for a 3-person team",
+      "Sizeable prototype and marketing grants",
+      "One online portal"
+    ],
+    "cons": [
+      "ABVIL's impact counters show zero; no evidence of disbursement yet",
+      "Portal says idea/seed stage funding is 'in progress'",
+      "Conflicting eligibility age limits (5 vs 7 years) on the same page"
+    ],
+    "goodFitIf": [
+      "You are a 2–3 founder team in Jharkhand",
+      "You are at idea or prototype stage",
+      "You can work from or with ABVIL in Ranchi"
+    ],
+    "skipIf": [
+      "You need certainty of funding timelines",
+      "You are not operating in Jharkhand",
+      "You are a solo founder who mainly needs a large prototype budget immediately"
+    ],
+    "insiderTips": [
+      "Keep your application documents complete; rejected applications can be edited and re-uploaded on the portal",
+      "Confirm the current call with ABVIL in Ranchi before planning around the stipend"
+    ],
+    "performance": {
+      "summary": "No performance data is published. The impact counters on the ABVIL portal (startups registered, seed-funded and so on) all show '00', and the portal describes idea/seed funding as 'in progress'.",
+      "metrics": [
+        {
+          "label": "Seed-funded startups shown on ABVIL portal",
+          "value": "00 (counter shows no data)",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "ABVIL – Atal Bihari Vajpayee Innovation Lab, Govt of Jharkhand (official portal)",
+            "url": "https://abvil.jharkhand.gov.in/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://abvil.jharkhand.gov.in/",
+    "officialUrl": "https://abvil.jharkhand.gov.in/",
+    "sources": [
+      {
+        "label": "ABVIL – Atal Bihari Vajpayee Innovation Lab, Govt of Jharkhand (official portal)",
+        "url": "https://abvil.jharkhand.gov.in/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified. Amounts come from the official ABVIL portal, but we could not find the 2023 policy PDF or any evidence of payments. The policy's cabinet date (Dec 2023) and five-year term are reported only by secondary sources. Jharkhand did not appear in DPIIT's 5th-edition state reports that we could access."
+  },
+  {
+    "slug": "odisha-startup-monthly-allowance",
+    "name": "Monthly Allowance – Odisha Startup Policy (Startup Odisha)",
+    "shortName": "Odisha Monthly Allowance",
+    "provider": "Startup Odisha, MSME Department, Government of Odisha",
+    "providerType": "state",
+    "state": "Odisha",
+    "launchedYear": 2016,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 264000,
+    "amountText": "₹20,000 a month for 1 year (₹2.4 lakh); ₹22,000 a month (₹2.64 lakh) if women, transgender or SC/ST/SEBC/PH founders hold at least 50% equity",
+    "equity": "None",
+    "duration": "12 months, once per startup",
+    "timeToMoney": "Nodal agency review in 2 weeks + secretariat due diligence in 2 weeks + Task Force approval (about 1–2 months on paper)",
+    "status": "unverified",
+    "deadline": "Rolling on paper; no dated call",
+    "stages": [
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Odisha pays recognised startups that already show traction ₹20,000–22,000 a month for a year.",
+    "what": "Startup Odisha's monthly allowance pays ₹20,000 a month for one year (₹22,000 for women, transgender or SC/ST/SEBC/PH-majority founders). Unlike most state allowances, you need proof of traction first: outside investment, a patent, a government grant or steady revenue. The first three months are paid upfront; after that each payment needs a utilisation report with bills.",
+    "who": [
+      "Recognised by Startup Odisha: incorporated not more than 7 years ago (10 for biotech), turnover not above ₹25 crore in any year",
+      "Registered in Odisha, or at least 50% of the qualified workforce employed in Odisha",
+      "Not an extension or split of an existing/family business",
+      "Proof of innovation: DPIIT certificate, a published patent, a government innovation grant, 20% equity from a SEBI-registered fund, or a one-page innovation note",
+      "Plus ONE of: ₹5 lakh–₹1 crore equity from a SEBI-registered AIF (Cat 1/2) or angel network; a published patent; a government grant/funding sanction letter; or revenue of ₹50,000–₹10 lakh a month over the last 3 months"
+    ],
+    "notFor": [
+      "Pure idea-stage founders with no traction proof",
+      "Startups that have already used the allowance once",
+      "Startups that cannot submit bills and utilisation reports on time"
+    ],
+    "why": [
+      "A year of operating support without giving equity",
+      "Higher rate for women and under-represented founders",
+      "Recognition unlocks other Odisha incentives (product development grant up to ₹15–16 lakh, subsidised incubation)"
+    ],
+    "howItWorks": "After Startup Odisha recognition, you apply online. The nodal agency reviews it within 2 weeks, the secretariat does due diligence and recommends to the Task Force within another 2 weeks, and approved money goes straight to your bank. The first 3 months are paid directly. Later payments need an online utilisation report within 15 days, and a final utilisation certificate is due within a month of the year ending.",
+    "steps": [
+      {
+        "title": "Get Startup Odisha recognition",
+        "detail": "Submit the online registration with self-certification; certification takes about 2 weeks, and the Task Force gives final approval."
+      },
+      {
+        "title": "Check you meet one traction test",
+        "detail": "Investment, patent, government grant, or revenue of ₹50,000–₹10 lakh/month."
+      },
+      {
+        "title": "Apply for the monthly allowance online",
+        "detail": "Use the 'Apply for Grants' login on the Startup Odisha portal."
+      },
+      {
+        "title": "Review and Task Force approval",
+        "detail": "About 4 weeks of review on paper."
+      },
+      {
+        "title": "Receive first 3 months",
+        "detail": "Paid directly to the startup's bank account."
+      },
+      {
+        "title": "File utilisation reports",
+        "detail": "Within 15 days after the first 3 months, with bills, to keep payments flowing; final UC within a month of year-end."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation (verified via MCA-21)",
+      "Self-certification of startup eligibility",
+      "Proof of innovation (DPIIT certificate, patent, grant letter, AIF investment, or innovation note)",
+      "Traction proof: investment agreement, patent, grant sanction letter or 3 months of revenue records",
+      "Bills and utilisation reports (after the first quarter)"
+    ],
+    "benefits": [
+      "₹2.4–2.64 lakh over a year",
+      "Subsidised incubation (50% of rent, up to ₹5,000/month for a year)",
+      "Event travel support"
+    ],
+    "pros": [
+      "Simple, fully online process with stated timelines",
+      "No incubation required for recognition",
+      "Higher rate for inclusive founder groups"
+    ],
+    "cons": [
+      "Needs traction proof, which many idea-stage founders lack",
+      "Strict bill-based reporting after month 3",
+      "Policy dates from 2016 with a 2025 vision horizon; a new policy has been announced but not notified"
+    ],
+    "goodFitIf": [
+      "You are an Odisha startup with early revenue, a patent or a small funding round",
+      "You can keep tidy expense records",
+      "You are a woman, transgender or SC/ST/SEBC/PH founder holding 50%+ equity (₹22,000 rate)"
+    ],
+    "skipIf": [
+      "You are pre-revenue with no grant, patent or investment",
+      "You are not registered in Odisha and do not employ mostly Odisha staff",
+      "You have already used the allowance once"
+    ],
+    "insiderTips": [
+      "A government grant sanction letter (e.g., from a central scheme) counts as a traction test, which is useful if you have no revenue yet",
+      "Submit the first utilisation report within 15 days of month 3 or payments stall"
+    ],
+    "performance": {
+      "summary": "DPIIT's report says Odisha funded 30+ startups through state mechanisms between Jan 2023 and Nov 2024, and that the state still runs the 2016 policy as amended in 2017 and 2018. No allowance-specific or year-wise numbers are published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups receiving state funding support (1 Jan 2023 – 30 Nov 2024)",
+          "value": "30+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Odisha State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Odisha_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startupodisha.gov.in/wf_new/startup-odisha/#/login",
+    "officialUrl": "https://startupodisha.gov.in/startup-incentives/",
+    "sources": [
+      {
+        "label": "Startup Odisha – Startup Incentives page (official)",
+        "url": "https://startupodisha.gov.in/startup-incentives/"
+      },
+      {
+        "label": "Startup Odisha portal (official)",
+        "url": "https://startupodisha.gov.in/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Odisha State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Odisha_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified. The incentive rules come from the official Startup Odisha page. Odisha's 2016 policy targeted 2025, and DPIIT (Jan 2026) still describes it as the governing policy. A new startup policy has been announced but we found no notification, so we could not confirm the allowance is still being sanctioned. The homepage counters were too ambiguous to use."
+  },
+  {
+    "slug": "odisha-product-development-marketing-assistance",
+    "name": "Product Development and Marketing/Publicity Assistance – Startup Odisha",
+    "shortName": "Odisha Product Dev Grant",
+    "provider": "Startup Odisha, MSME Department, Government of Odisha",
+    "providerType": "state",
+    "state": "Odisha",
+    "launchedYear": 2016,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1600000,
+    "amountText": "Up to ₹15 lakh (₹16 lakh for women, transgender or SC/ST/SEBC/PH founders with at least 50% equity), paid 50% in advance and 50% after the advance is used",
+    "equity": "None",
+    "duration": "Two halves; final utilisation certificate within 6 months of release",
+    "timeToMoney": "About 4 weeks of review on paper after a complete application, then the 50% advance",
+    "status": "unverified",
+    "deadline": "Rolling on paper; no dated call",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Odisha gives startups with real traction up to ₹15–16 lakh to develop and market a new product.",
+    "what": "This Startup Odisha grant helps recognised startups bring an innovative product to market by paying for product development and marketing or publicity. You need meaningful traction first: ₹25 lakh+ in equity, a ₹5 lakh+ government grant, or ₹2.5 lakh a month in revenue for six months. Half the money comes upfront and half after you use the first half. A separate 'need-based assistance' covers raw materials and equipment case by case.",
+    "who": [
+      "Recognised by Startup Odisha: incorporated not more than 7 years ago (10 for biotech), turnover not above ₹25 crore in any year",
+      "Registered in Odisha, or at least 50% of the qualified workforce employed in Odisha",
+      "Not an extension or split of an existing/family business",
+      "Proof of innovation: DPIIT certificate, a published patent, a government innovation grant, 20% equity from a SEBI-registered fund, or a one-page innovation note",
+      "Plus ONE of: at least ₹25 lakh equity from a SEBI-registered AIF (Cat 1/2) or angel network; a government grant of at least ₹5 lakh; or revenue of ₹2.5 lakh a month over the last 6 months"
+    ],
+    "notFor": [
+      "Early-stage startups without the traction thresholds",
+      "General operating costs unrelated to a specific product plan",
+      "Startups unable to produce bills within 3 and 6 months"
+    ],
+    "why": [
+      "One of the larger non-dilutive state grants for post-revenue startups",
+      "50% advance helps cash flow",
+      "Inclusive top-up for women and under-represented founders"
+    ],
+    "howItWorks": "You submit a self-contained product development plan online. The nodal agency reviews it, the secretariat does due diligence and the Task Force approves. 50% is paid as an advance, with a utilisation certificate due within 3 months. The other 50% is released after the advance is used, and a final certificate for the full amount is due within 6 months.",
+    "steps": [
+      {
+        "title": "Get Startup Odisha recognition",
+        "detail": "Register online and get recognised by the Task Force."
+      },
+      {
+        "title": "Meet a traction threshold",
+        "detail": "₹25 lakh equity, ₹5 lakh+ government grant, or ₹2.5 lakh/month revenue for 6 months."
+      },
+      {
+        "title": "Submit a product development plan",
+        "detail": "Upload a costed plan with justification on the portal."
+      },
+      {
+        "title": "Approval",
+        "detail": "Nodal agency (2 weeks) → secretariat (2 weeks) → Task Force."
+      },
+      {
+        "title": "Receive 50% advance",
+        "detail": "Spend on the plan; file a UC with bills within 3 months."
+      },
+      {
+        "title": "Receive the balance",
+        "detail": "After the advance is used; final UC within 6 months of release."
+      }
+    ],
+    "documents": [
+      "Startup Odisha recognition",
+      "Traction proof (investment documents, grant sanction letter, or 6 months of revenue records)",
+      "Product development and marketing plan with budget",
+      "Bills and utilisation certificates"
+    ],
+    "benefits": [
+      "Up to ₹15–16 lakh non-dilutive",
+      "Possible need-based assistance for raw materials/equipment (Startup Council approval)",
+      "Event participation support"
+    ],
+    "pros": [
+      "Sizeable grant for growth-stage startups",
+      "Clear written rules and timelines",
+      "Upfront 50%"
+    ],
+    "cons": [
+      "High traction bar",
+      "Tight 3- and 6-month reporting windows",
+      "Policy currency uncertain (2016 policy, new one announced)"
+    ],
+    "goodFitIf": [
+      "You have raised ₹25 lakh+ or have steady monthly revenue",
+      "You have a specific new product to launch",
+      "You can file utilisation certificates within 3 and 6 months"
+    ],
+    "skipIf": [
+      "You are pre-revenue",
+      "Your spending plan is mostly salaries/overheads",
+      "You are not recognised by Startup Odisha"
+    ],
+    "insiderTips": [
+      "Tie every budget line to the product launch; vague 'marketing' lines invite cuts",
+      "Line up vendors before applying so you can spend the advance and file the UC within 3 months"
+    ],
+    "performance": {
+      "summary": "DPIIT's report says Odisha funded 30+ startups through state mechanisms between Jan 2023 and Nov 2024. Startup Odisha's board approved ₹1.28 crore for 10 startups at one meeting in 2022 (reported by Orissa Post). No year-wise data for this grant is published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups receiving state funding support (1 Jan 2023 – 30 Nov 2024)",
+          "value": "30+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Odisha State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Odisha_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Grant approved at Startup Odisha's 2nd board meeting",
+          "value": "₹1.28 crore for 10 startups",
+          "asOf": "2022-12-31",
+          "source": {
+            "label": "Orissa Post – Odisha approves ₹1.28 crore grant for ten startups",
+            "url": "https://www.orissapost.com/odisha-government-approves-rs-1-28-crore-grant-for-ten-high-potential-startsups/amp/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startupodisha.gov.in/wf_new/startup-odisha/#/login",
+    "officialUrl": "https://startupodisha.gov.in/startup-incentives/",
+    "sources": [
+      {
+        "label": "Startup Odisha – Startup Incentives page (official)",
+        "url": "https://startupodisha.gov.in/startup-incentives/"
+      },
+      {
+        "label": "Startup Odisha portal (official)",
+        "url": "https://startupodisha.gov.in/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Odisha State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Odisha_State_Report.pdf"
+      },
+      {
+        "label": "Orissa Post – Odisha approves ₹1.28 crore grant for ten startups",
+        "url": "https://www.orissapost.com/odisha-government-approves-rs-1-28-crore-grant-for-ten-high-potential-startsups/amp/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The rules come from the official Startup Odisha incentives page. Status is unverified for the same reason as the monthly allowance: the 2016 policy's horizon has passed and a new policy is announced but not notified. The Orissa Post article is undated on the page, and its image path suggests December 2022, so the as-of date is approximate."
+  },
+  {
+    "slug": "assam-ideation-prototype-grant",
+    "name": "Ideation Grant and Prototype Development Grant – Assam Startup and Incubation Policy 2025–30",
+    "shortName": "Assam Ideation & Prototype Grants",
+    "provider": "Department of Innovation, Incubation & Start-ups (DIIS), Government of Assam, through Assam Innovation and Startup Foundation (AISF)",
+    "providerType": "state",
+    "state": "Assam",
+    "launchedYear": 2025,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 4000000,
+    "amountText": "Ideation Grant up to ₹10 lakh; Prototype Development Grant up to ₹20 lakh (up to ₹40 lakh for deep-tech). Growth-stage startups can get up to ₹50 lakh in equity from the planned Assam Startup Seed Fund.",
+    "equity": "None for the grants (the separate Seed Fund takes equity; AISF's total stake is capped at 4%)",
+    "duration": "Single or multiple tranches tied to milestones",
+    "timeToMoney": "Not published",
+    "status": "unverified",
+    "deadline": "No open call found; delivered as a structured AISF programme",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Assam's new startup policy offers up to ₹10 lakh to validate an idea and up to ₹20–40 lakh to build an MVP.",
+    "what": "The Assam Startup and Incubation Policy 2025–30 replaced the February 2025 Startup and Innovation Policy. It delivers stage-wise money through the Assam Innovation and Startup Foundation (AISF). Ideation Grants of up to ₹10 lakh pay for validating a concept or building a proof-of-concept. Prototype Development Grants of up to ₹20 lakh (₹40 lakh for deep-tech) pay for materials and testing to build an MVP. 20% of the overall fund is reserved for women, tribal and rural entrepreneurs.",
+    "who": [
+      "DPIIT-recognised, or meeting the policy's own test: incorporated within the last 10 years and turnover not above ₹100 crore in any year",
+      "Private limited company (incl. OPC), LLP or partnership firm",
+      "Registered in Assam, or registered elsewhere but employing (or committing to employ) at least 25% of the qualified workforce from Assam",
+      "Recognised under Assam's MASI (My Assam Startup ID) framework for state incentives"
+    ],
+    "notFor": [
+      "Sole proprietorships (not in the policy's entity definition)",
+      "Startups with no Assam registration or Assam workforce",
+      "Founders expecting a monthly stipend: the 2025–30 policy's grants are project grants, not allowances"
+    ],
+    "why": [
+      "Among the largest state prototype grants in the Northeast",
+      "Deep-tech track up to ₹40 lakh",
+      "Dedicated 20% reservation for women, tribal and rural founders",
+      "Backed by a ₹397 crore five-year outlay (as reported)"
+    ],
+    "howItWorks": "DIIS sets the policy and AISF, the state's execution agency, runs the funding programmes. Grants are released in one or more tranches against pre-agreed milestones. Later-stage startups can get equity investment of up to ₹50 lakh from the Assam Startup Seed Fund and growth capital from a state-promoted venture fund.",
+    "steps": [
+      {
+        "title": "Get a MASI ID",
+        "detail": "Register your startup under the My Assam Startup ID framework via the Startup Assam portal."
+      },
+      {
+        "title": "Check entity and Assam-link rules",
+        "detail": "Company/LLP/partnership; Assam registration or 25%+ Assam workforce."
+      },
+      {
+        "title": "Watch for AISF programme calls",
+        "detail": "Ideation and prototype grants run as structured programmes; follow startup.assam.gov.in."
+      },
+      {
+        "title": "Apply with a milestone plan",
+        "detail": "Show what you will validate (ideation) or build and test (prototype)."
+      },
+      {
+        "title": "Selection and tranche releases",
+        "detail": "Funds are released against agreed milestones."
+      }
+    ],
+    "documents": [
+      "MASI ID",
+      "Certificate of incorporation",
+      "DPIIT certificate (or proof of age/turnover criteria)",
+      "Proof of Assam registration or Assam workforce share",
+      "Milestone-based project plan and budget"
+    ],
+    "benefits": [
+      "Up to ₹10 lakh ideation and ₹20–40 lakh prototype grants",
+      "Patent reimbursement (domestic up to ₹1 lakh; international 50% up to ₹5 lakh)",
+      "Access to the Assam Startup Seed Fund (equity up to ₹50 lakh) and a state venture fund",
+      "Incubation through The Nest and new satellite centres"
+    ],
+    "pros": [
+      "Big grant sizes for an NE state",
+      "Clear stage-wise design",
+      "Inclusion reservation",
+      "Fresh five-year policy (to ~2030)"
+    ],
+    "cons": [
+      "New policy; no grant calls or disbursements under it were visible",
+      "Notification date of the 2025–30 policy not clearly stated",
+      "Old 2017-policy incentives (₹20,000 allowance, ₹5 lakh Idea2POC) still appear on some state pages, which is confusing"
+    ],
+    "goodFitIf": [
+      "You are an Assam startup at idea or MVP stage",
+      "You are deep-tech",
+      "You are a woman, tribal or rural founder"
+    ],
+    "skipIf": [
+      "You need a monthly stipend",
+      "You have no Assam connection",
+      "You are a sole proprietorship and do not want to incorporate"
+    ],
+    "insiderTips": [
+      "Get your MASI ID now so you are ready when AISF opens calls",
+      "Follow Startup Assam's programmes (e.g., STRIDE accelerator) to get on AISF's radar"
+    ],
+    "performance": {
+      "summary": "The 2025–30 policy is too new for results. DPIIT's report says Assam funded 40+ startups through state mechanisms between Jan 2023 and Nov 2024, under the older policy. DIIS says nearly 500 recognised startups are active. No year-wise funding data is published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups funded through state mechanisms (1 Jan 2023 – 30 Nov 2024, earlier policy)",
+          "value": "40+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Assam State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Assam_State_Report.pdf"
+          }
+        },
+        {
+          "label": "Startups on the Startup Assam portal",
+          "value": "628",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Startup Assam portal (official)",
+            "url": "https://startup.assam.gov.in/"
+          }
+        },
+        {
+          "label": "Reported five-year outlay of the 2025–30 policy",
+          "value": "₹397 crore",
+          "asOf": "2025-11-10",
+          "source": {
+            "label": "StartupWired – Assam unveils ₹397 cr policy (10 Nov 2025)",
+            "url": "https://startupwired.com/2025/11/10/assam-unveils-%e2%82%b9397-cr-policy-to-boost-10000-startups/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startup.assam.gov.in/",
+    "officialUrl": "https://diis.assam.gov.in/scheme-page/assam-startup-and-incubation-policy-2025-30-0",
+    "sources": [
+      {
+        "label": "Assam Startup and Incubation Policy 2025–30 (DIIS, official PDF)",
+        "url": "https://diis.assam.gov.in/sites/default/files/public_utility/ASIP%202025-30%20%281%29.pdf"
+      },
+      {
+        "label": "DIIS Assam – Assam Startup and Incubation Policy 2025–30 page",
+        "url": "https://diis.assam.gov.in/scheme-page/assam-startup-and-incubation-policy-2025-30-0"
+      },
+      {
+        "label": "Startup Assam portal (official)",
+        "url": "https://startup.assam.gov.in/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Assam State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Assam_State_Report.pdf"
+      },
+      {
+        "label": "StartupWired – Assam unveils ₹397 cr policy (10 Nov 2025)",
+        "url": "https://startupwired.com/2025/11/10/assam-unveils-%e2%82%b9397-cr-policy-to-boost-10000-startups/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Grant amounts and eligibility come from the official policy PDF. The ₹397 crore outlay is from a secondary report. We found no open AISF call or disbursement under the 2025–30 policy, so status is unverified. Older incentives listed on eodb.assam.gov.in come from the cancelled earlier framework and are not included."
+  },
+  {
+    "slug": "meghalaya-prime-funding",
+    "name": "PRIME Meghalaya Funding Schemes (Kick Start Grant, InnoVenture Grant, Scale-up Innovation Loan)",
+    "shortName": "PRIME Meghalaya Funding",
+    "provider": "PRIME (Promotion and Incubation of Market-driven Enterprises), Government of Meghalaya",
+    "providerType": "state",
+    "state": "Meghalaya",
+    "launchedYear": 2019,
+    "instrument": [
+      "grant",
+      "loan",
+      "incubation"
+    ],
+    "maxAmountINR": 7500000,
+    "amountText": "Kick Start Grant up to ₹10 lakh; InnoVenture Grant up to ₹35 lakh; Small Support Grant up to ₹3 lakh; Scale-up Innovation Loan up to ₹75 lakh at zero interest",
+    "equity": "None",
+    "duration": "Depends on scheme; loan repayment terms not published",
+    "timeToMoney": "Not published; assessment through district PRIME Hubs",
+    "status": "call-based",
+    "deadline": "Application windows announced on PRIME's Events & Announcements page",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Meghalaya's PRIME programme gives local founders grants of up to ₹35 lakh and zero-interest loans of up to ₹75 lakh.",
+    "what": "PRIME is Meghalaya's flagship entrepreneurship programme, launched in 2019 and the main way the state delivers its Startup Policy 2018. It offers four funding schemes. The Kick Start Grant (up to ₹10 lakh) is for early-stage startups with a novel idea or prototype. The InnoVenture Grant (up to ₹35 lakh) is for high-impact innovations. The Small Support Grant (up to ₹3 lakh) is for operating micro/small enterprises. The zero-interest Scale-up Innovation Loan (up to ₹75 lakh) is for startups with revenue and traction.",
+    "who": [
+      "Entrepreneurs from Meghalaya",
+      "Kick Start: early-stage startups with novel ideas or prototypes",
+      "Scale-up loan: startups with existing revenue and demonstrated traction",
+      "Small Support Grant: registered, operational micro or small enterprises"
+    ],
+    "notFor": [
+      "Entrepreneurs from outside Meghalaya",
+      "Applicants who skip the PRIME Hub assessment",
+      "Founders expecting equity investment (PRIME gives grants and loans)"
+    ],
+    "why": [
+      "Covers every stage from idea to scale",
+      "Zero-interest scale-up loan up to ₹75 lakh is rare in India",
+      "Comes with a 9-month incubation programme (IIM Calcutta certification) and district hubs"
+    ],
+    "howItWorks": "You register on the PRIME portal and visit your district PRIME Hub for a stage assessment and scheme matching. You then submit a business plan and go through assessment. Selected entrepreneurs receive grants, loans or credit linkages.",
+    "steps": [
+      {
+        "title": "Register on PRIME",
+        "detail": "Sign up on the PRIME entrepreneur portal (primemeghalaya.com/register)."
+      },
+      {
+        "title": "Visit a PRIME Hub",
+        "detail": "Get a stage assessment and be matched to the right scheme."
+      },
+      {
+        "title": "Submit a business plan",
+        "detail": "Prepare a plan suited to the scheme (grant or loan)."
+      },
+      {
+        "title": "Assessment and selection",
+        "detail": "PRIME evaluates your plan and team."
+      },
+      {
+        "title": "Funding and support",
+        "detail": "Receive the grant/loan and join incubation or mentoring as advised."
+      }
+    ],
+    "documents": [
+      "Proof of Meghalaya residence",
+      "Business registration (for operating enterprises)",
+      "Business plan with budget",
+      "Revenue records (for the scale-up loan)"
+    ],
+    "benefits": [
+      "Grants up to ₹35 lakh; zero-interest loans up to ₹75 lakh",
+      "9-month incubation with IIM Calcutta certification",
+      "Business facilitation and government liaison",
+      "Access to the CM's E-Championship Challenge and other PRIME programmes"
+    ],
+    "pros": [
+      "Wide range of instruments",
+      "Strong local presence through district hubs",
+      "Long-running (since 2019)"
+    ],
+    "cons": [
+      "Amounts are 'up to'; typical sizes are not published",
+      "Windows are periodic, not always open",
+      "Loan terms (tenure, collateral) not published"
+    ],
+    "goodFitIf": [
+      "You are a Meghalaya entrepreneur at any stage",
+      "You want a zero-interest loan to scale",
+      "You are an operating micro/small enterprise wanting a small technology upgrade (Small Support Grant)"
+    ],
+    "skipIf": [
+      "You are not from Meghalaya",
+      "You want equity investors",
+      "You cannot visit a district PRIME Hub for assessment"
+    ],
+    "insiderTips": [
+      "Go to your district PRIME Hub early; scheme matching there decides which grant you can apply for",
+      "Use the helpline (1971 / 1800-345-6851) to ask about the next funding window"
+    ],
+    "performance": {
+      "summary": "PRIME's ecosystem data page shows cumulative counts since 2019, including 459 for 'Funding' and 353 incubation graduates. Some of the page's counters are placeholders, so treat the mapping with care. No year-wise or rupee figures are published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Funding beneficiaries since 2019 (as labelled on PRIME data page)",
+          "value": "459",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "PRIME Meghalaya – Ecosystem data",
+            "url": "https://primemeghalaya.com/ecosystem-data"
+          }
+        },
+        {
+          "label": "Incubation participants since 2019",
+          "value": "353",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "PRIME Meghalaya – Ecosystem data",
+            "url": "https://primemeghalaya.com/ecosystem-data"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://primemeghalaya.com/register",
+    "officialUrl": "https://primemeghalaya.com/funding-schemes",
+    "sources": [
+      {
+        "label": "PRIME Meghalaya – Funding schemes (official)",
+        "url": "https://primemeghalaya.com/funding-schemes"
+      },
+      {
+        "label": "PRIME Meghalaya (official)",
+        "url": "https://primemeghalaya.com/"
+      },
+      {
+        "label": "PRIME Meghalaya – Ecosystem data",
+        "url": "https://primemeghalaya.com/ecosystem-data"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Meghalaya State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Meghalaya_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Scheme amounts come from PRIME's official funding page. PRIME's homepage counters show '0' placeholders, and the ecosystem-data labels did not line up cleanly, so the 459 figure is approximate. The scale-up loan's repayment terms are not published."
+  },
+  {
+    "slug": "meghalaya-cm-e-championship-challenge",
+    "name": "Chief Minister's E-Championship Challenge (CMECC) – PRIME Meghalaya",
+    "shortName": "CM E-Championship Challenge",
+    "provider": "PRIME Meghalaya, Government of Meghalaya",
+    "providerType": "state",
+    "state": "Meghalaya",
+    "launchedYear": null,
+    "instrument": [
+      "prize",
+      "grant"
+    ],
+    "maxAmountINR": 300000,
+    "amountText": "Edition 7.0 (2026): top 60 startups get ₹3 lakh each, the next 50 get ₹1.5 lakh each, plus one-on-one mentoring",
+    "equity": "None",
+    "duration": "One-time award per edition",
+    "timeToMoney": "Not published",
+    "status": "call-based",
+    "deadline": "7.0 edition closed 15 Sep 2026; runs as an annual-style challenge",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A Meghalaya-wide startup competition that gives 110 winners grants of ₹1.5–3 lakh and mentoring.",
+    "what": "The CM's E-Championship Challenge is a recurring competition under PRIME Meghalaya. In the 7th edition (2026) the top 60 startups win ₹3 lakh each and the next 50 win ₹1.5 lakh each. Winners also get one-on-one mentoring from industry professionals and help reaching funding and markets. District roadshows run before each edition to bring in applicants.",
+    "who": [
+      "Aspiring entrepreneurs and startups in Meghalaya",
+      "Young innovators with an idea or early business"
+    ],
+    "notFor": [
+      "Startups based outside Meghalaya",
+      "Applicants after the edition's deadline"
+    ],
+    "why": [
+      "110 grants per edition, a high number for a small state",
+      "Mentoring and visibility on top of the cash",
+      "Low barrier: suited to first-time founders"
+    ],
+    "howItWorks": "PRIME announces each edition with district roadshows. You apply online, are evaluated by PRIME's process, and the top 110 are awarded grants in two tiers along with mentoring.",
+    "steps": [
+      {
+        "title": "Watch for the next edition",
+        "detail": "Follow PRIME Meghalaya announcements and district roadshows."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit your startup details on the PRIME portal before the deadline (7.0 closed 15 Sep 2026)."
+      },
+      {
+        "title": "Evaluation",
+        "detail": "PRIME shortlists and ranks applicants."
+      },
+      {
+        "title": "Award and mentoring",
+        "detail": "Top 60 get ₹3 lakh; next 50 get ₹1.5 lakh; all get mentoring."
+      }
+    ],
+    "documents": [
+      "Proof of Meghalaya residence",
+      "Startup/idea description and plan",
+      "Business registration (if any)"
+    ],
+    "benefits": [
+      "₹1.5–3 lakh grant",
+      "One-on-one mentoring",
+      "Funding and market linkages through PRIME"
+    ],
+    "pros": [
+      "Many winners per round",
+      "Good first step into PRIME's larger grants",
+      "No equity"
+    ],
+    "cons": [
+      "Small amounts",
+      "Once a year; miss the deadline and you wait",
+      "Selection criteria not published in detail"
+    ],
+    "goodFitIf": [
+      "You are a Meghalaya first-time founder",
+      "You need a small grant and mentoring",
+      "You want visibility and a first win before applying for bigger PRIME grants"
+    ],
+    "skipIf": [
+      "You need more than ₹3 lakh",
+      "You are outside Meghalaya",
+      "You cannot wait for the next edition (7.0 closed on 15 Sep 2026)"
+    ],
+    "insiderTips": [
+      "Attend your district's roadshow; it explains what the jury looks for",
+      "Use the win to apply for PRIME's Kick Start Grant (up to ₹10 lakh) next"
+    ],
+    "performance": {
+      "summary": "The 7th edition (2026) offers 110 grants worth ₹2.55 crore in total (our arithmetic: 60 × ₹3 lakh + 50 × ₹1.5 lakh). DPIIT's report notes that CMECC 4.0 ran during the 2023–24 evaluation period. Winner counts for past editions are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Grants offered in edition 7.0",
+          "value": "60 × ₹3 lakh + 50 × ₹1.5 lakh",
+          "asOf": "2026-08-20",
+          "source": {
+            "label": "Govt of Meghalaya DIPR press release – CM's E-Championship Challenge 7.0 roadshow (20 Aug 2026)",
+            "url": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_161.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://primemeghalaya.com/",
+    "officialUrl": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_161.pdf",
+    "sources": [
+      {
+        "label": "Govt of Meghalaya DIPR press release – CM's E-Championship Challenge 7.0 roadshow (20 Aug 2026)",
+        "url": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_161.pdf"
+      },
+      {
+        "label": "PRIME Meghalaya (official)",
+        "url": "https://primemeghalaya.com/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Meghalaya State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Meghalaya_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Amounts come from the government press release for edition 7.0. Launch year and past-edition results are not published. The next edition's dates are unknown."
+  },
+  {
+    "slug": "tripura-startup-policy-grants",
+    "name": "Tri-Seed Funding, Operational Cost Reimbursement and Prototype Assistance – Tripura Startup Policy 2024",
+    "shortName": "Tripura Startup Grants",
+    "provider": "Directorate of Information Technology (Start-Up Cell), Government of Tripura",
+    "providerType": "state",
+    "state": "Tripura",
+    "launchedYear": 2024,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Tri-Seed grant of ₹2 lakh at idea stage; ₹20,000 a month for 1 year towards rent, electricity and internet (+10% women-led, +20% PwD-led); up to ₹10 lakh prototype reimbursement after PoC approval (+10% women-led); up to ₹5 lakh marketing support",
+    "equity": "None",
+    "duration": "Seed one-time; operational support 12 months; prototype and marketing on approval",
+    "timeToMoney": "Seed grant after receiving the recognition certificate; other timelines not published",
+    "status": "rolling",
+    "deadline": "Rolling recognition; policy effective 1 Apr 2024 with a 2028 vision",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Tripura gives recognised startups ₹2 lakh to start, ₹20,000 a month for running costs, and up to ₹10 lakh to build a prototype.",
+    "what": "The Tripura Startup Policy 2024 (sector-agnostic, effective 1 April 2024) offers a package of cash support to state-recognised startups. It includes a one-time ₹2 lakh 'Tri-Seed' grant, a year of operational cost reimbursement at ₹20,000 a month, and up to ₹10 lakh to build a prototype after the State Level Start-Up Council approves your proof of concept. It also offers up to ₹5 lakh for marketing, branding and trade fairs.",
+    "who": [
+      "Private limited company, LLP or registered partnership, incorporated within the last 10 years",
+      "Registered and operating in Tripura, with at least 50% of salaried skilled workforce from Tripura",
+      "Turnover not above ₹25 crore in any year; innovative or scalable business",
+      "Recognised by the State Level Start-Up Council"
+    ],
+    "notFor": [
+      "Businesses formed by splitting or reconstructing an existing one",
+      "Startups operating outside Tripura",
+      "Those expecting prototype money before PoC approval"
+    ],
+    "why": [
+      "Combined package can exceed ₹19 lakh (₹2 lakh + ₹2.4 lakh + ₹10 lakh + ₹5 lakh, our arithmetic)",
+      "Extra 10% for women-led and 20% for PwD-led startups on operational support",
+      "Over ₹2.7 crore already disbursed since launch"
+    ],
+    "howItWorks": "You apply for recognition on the Start-Up Tripura portal. The State Level Start-Up Council recognises startups, and the Start-Up Cell in the Directorate of IT processes incentive claims. The Tri-Seed grant follows recognition. Operational costs are reimbursed monthly. Prototype support is a reimbursement for manpower, raw material and equipment after the Council approves your PoC.",
+    "steps": [
+      {
+        "title": "Apply for recognition",
+        "detail": "Use 'Apply for Startup Recognition' on startup.tripura.gov.in (or the new T-RISE portal)."
+      },
+      {
+        "title": "Receive Tri-Seed ₹2 lakh",
+        "detail": "Paid after you receive the recognition certificate."
+      },
+      {
+        "title": "Claim operational reimbursements",
+        "detail": "Submit rent, power and internet bills for ₹20,000 a month for up to 12 months."
+      },
+      {
+        "title": "Get PoC approved",
+        "detail": "Present your proof of concept to the State Level Start-Up Council."
+      },
+      {
+        "title": "Claim prototype and marketing support",
+        "detail": "Up to ₹10 lakh prototype reimbursement and ₹5 lakh marketing support with bills."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation (Tripura)",
+      "Proof of 50%+ Tripura workforce",
+      "Recognition certificate",
+      "Bills for rent/electricity/internet (for reimbursement)",
+      "PoC presentation and prototype budget"
+    ],
+    "benefits": [
+      "Up to ₹2 lakh seed + ₹2.4 lakh operations + ₹10 lakh prototype + ₹5 lakh marketing",
+      "Patent reimbursement (₹2 lakh Indian, ₹10 lakh foreign)",
+      "Procurement preference, EMD and tender-fee waivers",
+      "Incubation at T-NEST and T-Hub knowledge partnership"
+    ],
+    "pros": [
+      "Full idea-to-market package",
+      "Active: 70 startups recognised and ₹2.72 crore disbursed by Aug 2026",
+      "Inclusive top-ups"
+    ],
+    "cons": [
+      "Mostly reimbursement: you spend first, claim later",
+      "Portal was under maintenance when we checked",
+      "Small ecosystem; limited private follow-on capital"
+    ],
+    "goodFitIf": [
+      "You are a Tripura-registered startup with a mostly local team",
+      "You have a product to prototype",
+      "You are a women- or PwD-led startup (extra 10–20% operational reimbursement)"
+    ],
+    "skipIf": [
+      "You cannot float expenses before reimbursement",
+      "Your team is mostly outside Tripura",
+      "You are a pure trading or non-innovative business"
+    ],
+    "insiderTips": [
+      "Apply for recognition first; the ₹2 lakh seed comes right after the certificate",
+      "Keep every rent and utility bill; operational reimbursement is claimed monthly against them"
+    ],
+    "performance": {
+      "summary": "The IT Minister's August 2026 event reported 185+ applications, 140 registrations approved, 70 startups recognised and over ₹2.72 crore disbursed since the policy launched. The money went through Tri-Seed, PoC support and operational assistance. No year-wise split is published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Funds disbursed since launch",
+          "value": "Over ₹2.72 crore",
+          "asOf": "2026-08-20",
+          "source": {
+            "label": "CXO Digital Pulse – Tripura launches T-RISE (20 Aug 2026)",
+            "url": "https://www.cxodigitalpulse.com/from-ideas-to-unicorns-tripura-launches-t-rise-to-power-the-next-generation-of-startups/"
+          }
+        },
+        {
+          "label": "Applications / registrations approved / startups recognised",
+          "value": "185+ / 140 / 70",
+          "asOf": "2026-08-20",
+          "source": {
+            "label": "CXO Digital Pulse – Tripura launches T-RISE (20 Aug 2026)",
+            "url": "https://www.cxodigitalpulse.com/from-ideas-to-unicorns-tripura-launches-t-rise-to-power-the-next-generation-of-startups/"
+          }
+        },
+        {
+          "label": "Startup Venture Capital Fund with SIDBI",
+          "value": "₹25 crore corpus",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Tripura State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Tripura_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startup.tripura.gov.in/",
+    "officialUrl": "https://dit.tripura.gov.in/",
+    "sources": [
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Tripura State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Tripura_State_Report.pdf"
+      },
+      {
+        "label": "MyGov blog – New Tripura sector-agnostic Start-Up Policy (29 May 2025)",
+        "url": "https://blog.mygov.in/?p=205133"
+      },
+      {
+        "label": "CXO Digital Pulse – Tripura launches T-RISE (20 Aug 2026)",
+        "url": "https://www.cxodigitalpulse.com/from-ideas-to-unicorns-tripura-launches-t-rise-to-power-the-next-generation-of-startups/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Incentive amounts come from DPIIT's Jan 2026 report and the MyGov summary. The policy PDF on tripura.gov.in could not be downloaded (connection reset), and startup.tripura.gov.in was under maintenance. Disbursement figures come from a media report of a government event."
+  },
+  {
+    "slug": "manipur-startup-scheme-2",
+    "name": "Manipur Startup Scheme 2.0 (Idea, Revenue, Stand-Up and CMESS stages)",
+    "shortName": "Startup Manipur 2.0",
+    "provider": "Planning Department, Government of Manipur (Startup Manipur)",
+    "providerType": "state",
+    "state": "Manipur",
+    "launchedYear": 2022,
+    "instrument": [
+      "grant",
+      "loan",
+      "subsidy"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "Idea stage: seed grant up to ₹3 lakh. Revenue stage and Stand-Up category: financial assistance from banks up to ₹1 crore, of which 30% is a grant from Startup Manipur. CMESS: 30% subsidy on project cost for existing micro-entrepreneurs.",
+    "equity": "None",
+    "duration": "Grant one-time; bank-linked assistance per loan terms",
+    "timeToMoney": "Not published; includes interview, bank review and bootcamp/incubation before funding",
+    "status": "call-based",
+    "deadline": "Rounds announced on startupmanipur.in (appraisal meetings held Sep 2026)",
+    "stages": [
+      "idea",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Manipur gives up to ₹3 lakh to test an idea and backs growing businesses with bank finance of up to ₹1 crore that is 30% grant.",
+    "what": "Startup Manipur 2.0, the state policy from 2022 with a 5-year term, supports entrepreneurs in stages. Idea-stage founders, including individuals, get a seed grant of up to ₹3 lakh for proof of concept, prototype, trials and market entry, after mandatory incubation training. Revenue-stage startups and Stand-Up applicants (SC, ST, OBC, women, minorities) can get up to ₹1 crore from financial institutions, with 30% as a Startup Manipur grant. Existing micro-entrepreneurs get a 30% capital subsidy under CMESS.",
+    "who": [
+      "Manipur domicile by birth (for groups, at least one promoter)",
+      "At least 18 years old",
+      "Individuals or groups with a new, scalable idea (Idea stage), or registered businesses looking to scale (Revenue stage)",
+      "Stand-Up category: SC, ST, OBC, women and minority entrepreneurs"
+    ],
+    "notFor": [
+      "Non-domicile applicants",
+      "Those who skip the mandatory incubation/bootcamp",
+      "Previous beneficiaries applying again for the same stage"
+    ],
+    "why": [
+      "Individuals can apply, with no company needed at idea stage",
+      "30% grant on up to ₹1 crore bank finance is a big subsidy for growth",
+      "Dedicated Stand-Up track for under-represented groups"
+    ],
+    "howItWorks": "You apply online. Startup Manipur checks documents and holds a personal interview with a panel. A bank then reviews your financial standing, and you attend a bootcamp or incubation before funding. For the revenue and Stand-Up stages, the bank lends and Startup Manipur pays 30% as a grant. A separate Manipur Startup Venture Fund run with NEDFi invests in startups.",
+    "steps": [
+      {
+        "title": "Apply online",
+        "detail": "Submit on apply.startupmanipur.in during an open round."
+      },
+      {
+        "title": "Document verification",
+        "detail": "Startup Manipur checks eligibility and domicile."
+      },
+      {
+        "title": "Personal interview",
+        "detail": "Present to an appraisal panel."
+      },
+      {
+        "title": "Bank review",
+        "detail": "For revenue/Stand-Up stages, a bank assesses your finances and loan."
+      },
+      {
+        "title": "Bootcamp / incubation",
+        "detail": "Mandatory training before funds are released."
+      },
+      {
+        "title": "Funding",
+        "detail": "Seed grant (idea) or bank loan with 30% Startup Manipur grant (revenue/Stand-Up)."
+      }
+    ],
+    "documents": [
+      "PAN and Aadhaar of applicant",
+      "Manipur domicile proof",
+      "Business PAN and registration certificate (revenue stage)",
+      "Previous year's audited balance sheet, P&L and income-tax return (revenue stage)",
+      "Business plan"
+    ],
+    "benefits": [
+      "Seed grant up to ₹3 lakh",
+      "30% grant on bank finance up to ₹1 crore",
+      "Patent reimbursement (₹2 lakh domestic, ₹5 lakh international)",
+      "Incubation, bootcamps and the NEDFi-run venture fund"
+    ],
+    "pros": [
+      "Open to individuals at idea stage",
+      "Large growth-stage subsidy",
+      "Active in 2026 with appraisal meetings"
+    ],
+    "cons": [
+      "Bank loan component means repayment and bank scrutiny",
+      "Domicile-by-birth rule excludes many residents",
+      "No published count of beneficiaries"
+    ],
+    "goodFitIf": [
+      "You were born in Manipur and are starting or scaling a business",
+      "You are from an SC/ST/OBC/women/minority group (Stand-Up track)",
+      "You are an individual with an idea and no company yet (Idea stage allows individuals)"
+    ],
+    "skipIf": [
+      "You do not meet the domicile rule",
+      "You do not want a bank loan",
+      "You are under 18"
+    ],
+    "insiderTips": [
+      "Keep audited financials ready if applying at revenue stage; the bank review uses them",
+      "Watch startupmanipur.in notices for appraisal-committee dates"
+    ],
+    "performance": {
+      "summary": "DPIIT's report says 40+ Manipur startups got funding through state mechanisms between Jan 2023 and Nov 2024. Startup Manipur held beneficiary-selection meetings in September 2026. No year-wise or rupee totals are published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups receiving funding through state mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "40+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Manipur State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Manipur_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://apply.startupmanipur.in/",
+    "officialUrl": "https://startupmanipur.in/",
+    "sources": [
+      {
+        "label": "Manipur Startup Scheme 2.0 Policy 2022 – Policy Incentives (Startup India PDF)",
+        "url": "https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Manipur%20State%20Policy%202022%20-%20Incentives.pdf"
+      },
+      {
+        "label": "Startup Manipur (official)",
+        "url": "https://startupmanipur.in/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Manipur State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Manipur_State_Report.pdf"
+      },
+      {
+        "label": "SarkariYojana – Startup Manipur scheme summary (secondary)",
+        "url": "https://sarkariyojana.com/?p=98656"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Grant amounts and the 5-year policy period come from the official policy-incentives document. Eligibility, documents and process are from Startup Manipur's site and a secondary summary (SarkariYojana). Whether a round is open right now could not be confirmed."
+  },
+  {
+    "slug": "mizoram-rahbi-seed-grant",
+    "name": "Mizoram Rahbi Seed Grant Competition (Mizoram Startup Mission)",
+    "shortName": "Mizoram Rahbi",
+    "provider": "Mizoram Startup Mission (MSUM), Planning & Programme Implementation Department, Government of Mizoram",
+    "providerType": "state",
+    "state": "Mizoram",
+    "launchedYear": null,
+    "instrument": [
+      "grant",
+      "prize"
+    ],
+    "maxAmountINR": 750000,
+    "amountText": "Seed grant of up to ₹7.5 lakh per startup, in milestone-based tranches (sometimes paid directly to vendors). For DPIIT startups with traction, the separate Startup Ignition Fund offers up to ₹25 lakh as equity or debentures.",
+    "equity": "None for Rahbi (Ignition Fund uses equity/convertible/non-convertible debentures)",
+    "duration": "Tranches tied to milestones",
+    "timeToMoney": "Rahbi 5.0: applications closed 31 Oct 2024, with training and evaluation in Nov–Dec",
+    "status": "call-based",
+    "deadline": "Last confirmed edition (Rahbi 5.0) closed 31 Oct 2024; no 2025–26 call found",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A Mizoram competition that gives early founders seed grants of up to ₹7.5 lakh after training and evaluation.",
+    "what": "Mizoram Rahbi is the Mizoram Startup Mission's seed-grant competition for aspiring and early-stage startups registered in Mizoram. Selected entrepreneurs go through training and evaluation and receive up to ₹7.5 lakh in milestone-based tranches. For more advanced startups, MSUM's Startup Ignition Fund offers up to ₹25 lakh to DPIIT-recognised, early-traction startups as equity or debentures over a 6–9 month accelerator.",
+    "who": [
+      "Aspiring entrepreneurs and early-stage startups registered in Mizoram",
+      "Must show a clear need for seed funding to take the next step",
+      "Ignition Fund: DPIIT-recognised startups at early traction, registered and operating in Mizoram"
+    ],
+    "notFor": [
+      "Startups outside Mizoram",
+      "Applicants outside an open edition window",
+      "Late-stage businesses (consider the Bana Kaih VC fund instead)"
+    ],
+    "why": [
+      "Up to ₹7.5 lakh non-dilutive for very early founders",
+      "Comes with training and incubation through MSUM",
+      "A step towards the ₹25 lakh Ignition Fund and the state VC fund"
+    ],
+    "howItWorks": "MSUM announces each Rahbi edition. Applicants submit online, attend training, and are evaluated. Winners receive grants in milestone tranches, and payments can go directly to vendors. MSUM's Executive Committee can change the amount.",
+    "steps": [
+      {
+        "title": "Watch MSUM announcements",
+        "detail": "Follow startupmizoram.com for the next Rahbi edition."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit your business idea and funding need before the deadline."
+      },
+      {
+        "title": "Training",
+        "detail": "Attend MSUM's training sessions (Nov–Dec in the 5.0 edition)."
+      },
+      {
+        "title": "Evaluation",
+        "detail": "Pitch to MSUM's evaluators."
+      },
+      {
+        "title": "Milestone tranches",
+        "detail": "Receive up to ₹7.5 lakh in parts as you hit milestones."
+      }
+    ],
+    "documents": [
+      "Proof of Mizoram registration/residence",
+      "Business idea and plan",
+      "Budget showing the need for seed funding"
+    ],
+    "benefits": [
+      "Up to ₹7.5 lakh seed grant",
+      "Training and incubation (8 incubators, 129 incubated startups)",
+      "Path to Ignition Fund (up to ₹25 lakh) and the Bana Kaih/SIDBI VC fund"
+    ],
+    "pros": [
+      "Meaningful grant size for a small state",
+      "Structured training before money",
+      "Direct-to-vendor payments reduce paperwork"
+    ],
+    "cons": [
+      "Runs in editions; no confirmed 2025–26 edition",
+      "Number of winners per edition not published",
+      "Amount can be changed by the Executive Committee"
+    ],
+    "goodFitIf": [
+      "You are an early founder in Mizoram",
+      "You want training plus a seed grant",
+      "You need under ₹7.5 lakh to take your next concrete step"
+    ],
+    "skipIf": [
+      "You need money now",
+      "You are outside Mizoram",
+      "You need equity investment at scale (look at the Bana Kaih VC fund)"
+    ],
+    "insiderTips": [
+      "Join MSUM's incubation programme in the meantime; incubated startups are better placed for the next edition",
+      "If you already have DPIIT recognition and traction, look at the Startup Ignition Fund instead"
+    ],
+    "performance": {
+      "summary": "MSUM's website shows ₹450+ lakh of funds deployed and 129 incubated startups across its programmes. Edition-wise winner counts for Rahbi are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Funds deployed by Mizoram Startup Mission (all programmes)",
+          "value": "₹450+ lakh",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Mizoram Startup Mission (official site)",
+            "url": "https://startupmizoram.com/"
+          }
+        },
+        {
+          "label": "Incubated startups / incubators",
+          "value": "129 / 8",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Mizoram Startup Mission (official site)",
+            "url": "https://startupmizoram.com/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startupmizoram.com/",
+    "officialUrl": "https://startupmizoram.com/page/74",
+    "sources": [
+      {
+        "label": "Mizoram Startup Mission (official site)",
+        "url": "https://startupmizoram.com/"
+      },
+      {
+        "label": "Mizoram Startup Mission – Mizoram Rahbi page",
+        "url": "https://startupmizoram.com/page/74"
+      },
+      {
+        "label": "Mizoram Startup Mission – Startup Ignition Fund page",
+        "url": "https://startupmizoram.com/page/75"
+      },
+      {
+        "label": "EastMojo – Mizoram Rahbi 5.0 launched (24 Sep 2024)",
+        "url": "https://eastmojo.com/mizoram/2024/09/24/mizoram-rahbi-5-0-launched-with-aim-to-strengthen-livelihoods/"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Mizoram State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Mizoram_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Rahbi rules come from MSUM's site; msum.mizoram.gov.in redirects to startupmizoram.com through its certificate. The last edition we could confirm is Rahbi 5.0 (2024). Launch year and per-edition results are not published. DPIIT's report separately mentions MSUM seed grants of up to ₹2 lakh under the Entrepreneurship Development Scheme, which may be a different track."
+  },
+  {
+    "slug": "arunachal-apedp-seed-funding",
+    "name": "Arunachal Pradesh Entrepreneurship Development Programme (APEDP) 5.0 – Seed Funding",
+    "shortName": "APEDP Seed Funding",
+    "provider": "Government of Arunachal Pradesh, through Arunachal Pradesh Innovation and Investment Park (APIIP) / Startup Arunachal",
+    "providerType": "state",
+    "state": "Arunachal Pradesh",
+    "launchedYear": null,
+    "instrument": [
+      "grant",
+      "incubation"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "APEDP 5.0 (2026–27): seed funding for 100 startups. The top 20 get ₹10 lakh each and the next 80 get ₹8 lakh each, plus mentoring and pre-incubation.",
+    "equity": "None",
+    "duration": "One cohort per edition",
+    "timeToMoney": "Applications closed 20 Jul 2026; selections were under way by August 2026",
+    "status": "call-based",
+    "deadline": "APEDP 5.0 closed 20 Jul 2026; next edition expected",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Arunachal's yearly entrepreneurship programme gives 100 startups ₹8–10 lakh each in seed funding.",
+    "what": "APEDP is the Arunachal government's yearly cohort programme for youth, entrepreneurs, self-help groups, professionals and innovators. The 5th edition (2026–27) includes entrepreneurship development, pre-incubation and incubation, livelihood acceleration and seed funding for 100 startups: ₹10 lakh each for the top 20 and ₹8 lakh each for the next 80. The state's Startup Policy also lists grants of up to ₹20 lakh for proof of concept and up to ₹50 lakh to scale.",
+    "who": [
+      "Youth, entrepreneurs, self-help groups, professionals and innovators in Arunachal Pradesh",
+      "Applicants registered through the Startup Arunachal portal",
+      "Detailed eligibility (domicile, age, stage) is in the official notification PDF"
+    ],
+    "notFor": [
+      "Applicants after the edition deadline",
+      "Those outside Arunachal Pradesh"
+    ],
+    "why": [
+      "₹8–10 lakh for each of 100 startups is generous for the state's size",
+      "Comes with mentoring and pre-incubation",
+      "Runs every year (5th edition in 2026)"
+    ],
+    "howItWorks": "You apply online on the Startup Arunachal portal during the window. The programme runs entrepreneurship development and pre-incubation, then ranks participants. The top 20 receive ₹10 lakh and the next 80 receive ₹8 lakh in seed funding. APIIP organises the programme.",
+    "steps": [
+      {
+        "title": "Read the notification",
+        "detail": "Check eligibility and guidelines in the official APEDP notification (district notice boards and Startup Arunachal)."
+      },
+      {
+        "title": "Apply on Startup Arunachal",
+        "detail": "Submit online at startup.arunachal.gov.in before the deadline (20 Jul 2026 for 5.0)."
+      },
+      {
+        "title": "Training and pre-incubation",
+        "detail": "Take part in the entrepreneurship development and mentoring phases."
+      },
+      {
+        "title": "Evaluation and ranking",
+        "detail": "Startups are ranked; top 20 and next 80 are selected."
+      },
+      {
+        "title": "Seed funding",
+        "detail": "Receive ₹10 lakh (top 20) or ₹8 lakh (next 80)."
+      }
+    ],
+    "documents": [
+      "Identity and residence proof (as per notification)",
+      "Business idea/plan",
+      "Registration documents if already operating"
+    ],
+    "benefits": [
+      "₹8–10 lakh seed funding",
+      "Mentoring, pre-incubation and livelihood acceleration",
+      "Access to APIIP incubation and state startup policy incentives (PoC grant up to ₹20 lakh, scale-up up to ₹50 lakh, 20% procurement preference)"
+    ],
+    "pros": [
+      "High number of awards (100)",
+      "Large per-startup amounts",
+      "Annual cycle"
+    ],
+    "cons": [
+      "Window is short and closed for 2026",
+      "Detailed eligibility only in a PDF notice",
+      "Startup Arunachal portal had certificate errors when we checked"
+    ],
+    "goodFitIf": [
+      "You live in Arunachal Pradesh and have a business idea or early venture",
+      "You can commit to the training phase",
+      "You are part of a self-help group or a professional with a venture idea"
+    ],
+    "skipIf": [
+      "You are outside Arunachal",
+      "You cannot wait for the next annual edition",
+      "You need more than ₹10 lakh at the start"
+    ],
+    "insiderTips": [
+      "Watch district administration notices; APEDP calls are published there as well as on Startup Arunachal",
+      "Aim for the top 20: the jump from ₹8 lakh to ₹10 lakh depends on your ranking"
+    ],
+    "performance": {
+      "summary": "APEDP 5.0 commits ₹8.4 crore across 100 startups (our arithmetic: 20 × ₹10 lakh + 80 × ₹8 lakh). DPIIT's report says 70+ Arunachal startups got funding through state mechanisms between Jan 2023 and Nov 2024. Results of earlier APEDP editions are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "APEDP 5.0 seed funding",
+          "value": "100 startups: 20 × ₹10 lakh + 80 × ₹8 lakh",
+          "asOf": "2026-06-11",
+          "source": {
+            "label": "Tirap District (Govt of Arunachal Pradesh) – APEDP 5.0 notice (11 Jun 2026)",
+            "url": "https://tirap.nic.in/notice/applications-invited-from-aspiring-entrepreneurs-launch-of-arunachal-pradesh-entrepreneurship-development-programme-apedp-5-0/"
+          }
+        },
+        {
+          "label": "Startups receiving funding through state mechanisms (1 Jan 2023 – 30 Nov 2024)",
+          "value": "70+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Arunachal Pradesh State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Arunachal_Pradesh_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startup.arunachal.gov.in/",
+    "officialUrl": "https://tirap.nic.in/notice/applications-invited-from-aspiring-entrepreneurs-launch-of-arunachal-pradesh-entrepreneurship-development-programme-apedp-5-0/",
+    "sources": [
+      {
+        "label": "Tirap District (Govt of Arunachal Pradesh) – APEDP 5.0 notice (11 Jun 2026)",
+        "url": "https://tirap.nic.in/notice/applications-invited-from-aspiring-entrepreneurs-launch-of-arunachal-pradesh-entrepreneurship-development-programme-apedp-5-0/"
+      },
+      {
+        "label": "PSU Watch – Arunachal govt launches 5th edition of EDP (1 Jun 2026)",
+        "url": "https://psuwatch.com/amp/story/newsupdates/arunachal-govt-launches-5th-edition-of-entrepreneurship-development-programme"
+      },
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Arunachal Pradesh State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Arunachal_Pradesh_State_Report.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Programme amounts come from an official district notice and press coverage. We could not open the notification PDF or the Startup Arunachal portal (certificate error), so detailed eligibility is not listed. Launch year and earlier-edition outcomes are not published."
+  },
+  {
+    "slug": "sikkim-skilled-youth-startup-scheme",
+    "name": "Skilled Youth Start-Up Scheme (SYSS)",
+    "shortName": "Sikkim SYSS",
+    "provider": "Department of Commerce & Industries, Government of Sikkim (through District Industries Centres)",
+    "providerType": "state",
+    "state": "Sikkim",
+    "launchedYear": 2020,
+    "instrument": [
+      "subsidy",
+      "loan"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Back-ended capital subsidy of 50% of project cost for BPL and PwD applicants and 35% for others, on bank-financed projects of up to ₹20 lakh (activity-wise caps apply). That is up to ₹10 lakh of subsidy (our arithmetic).",
+    "equity": "None",
+    "duration": "Subsidy released after loan disbursement; bank loan repaid per bank terms",
+    "timeToMoney": "Not published; depends on DIC selection committee and bank sanction",
+    "status": "unverified",
+    "deadline": "No dated 2026 call confirmed; applications go to DIC offices",
+    "stages": [
+      "idea",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Sikkim pays 35–50% of the cost of a young person's bank-financed new business as a subsidy.",
+    "what": "SYSS is Sikkim's flagship scheme to help educated, unemployed youth start enterprises, run through the District Industries Centres. A bank loans most of the project cost, the applicant puts in 5–15%, and the state pays a back-ended subsidy of 35% (50% for BPL and PwD applicants). Projects can cost up to ₹20 lakh, with lower caps for some activities (e.g., ₹5 lakh dairy/piggery, ₹10 lakh manufacturing/food processing, ₹15 lakh rural homestays).",
+    "who": [
+      "Permanent resident of Sikkim with a COI or valid Residential Certificate",
+      "Aged 18–45 and unemployed",
+      "Family income up to ₹8 lakh a year; one member per family",
+      "Passed at least Class 5 (technical projects need a relevant certificate)"
+    ],
+    "notFor": [
+      "Those who already took subsidy under PMEGP or CMSS",
+      "Bank defaulters",
+      "Children of Group A or B government employees"
+    ],
+    "why": [
+      "Up to half the project cost becomes a subsidy",
+      "Low own contribution (5–15%)",
+      "Covers many kinds of first businesses, not just tech startups"
+    ],
+    "howItWorks": "You submit a form and a detailed project report (DPR) to the General Manager of your District Industries Centre (Gangtok for East/North, Jorethang for South/West). A selection committee of department and bank officials reviews it and forwards approved projects to banks. After the loan is sanctioned you complete a short Entrepreneur Development Training. The bank then disburses the loan and the state releases the back-ended subsidy.",
+    "steps": [
+      {
+        "title": "Get the form",
+        "detail": "From industries.sikkim.gov.in or your DIC office."
+      },
+      {
+        "title": "Prepare a DPR",
+        "detail": "Write a detailed project report with costs within the activity cap."
+      },
+      {
+        "title": "Submit to the DIC",
+        "detail": "Hand in the form, DPR and documents to the DIC General Manager."
+      },
+      {
+        "title": "Selection committee",
+        "detail": "Department and bank representatives review and forward to a bank."
+      },
+      {
+        "title": "Loan sanction and EDP training",
+        "detail": "Complete the mandatory Entrepreneur Development Training."
+      },
+      {
+        "title": "Disbursement and subsidy",
+        "detail": "Bank releases the loan; the state releases the 35–50% back-ended subsidy."
+      }
+    ],
+    "documents": [
+      "COI / Sikkim Subject or Residential Certificate",
+      "Educational and age proof, Voter ID",
+      "Detailed Project Report (2 copies)",
+      "Unemployment card, income certificate (and BPL certificate if applicable)",
+      "Land records or lease and trade licence",
+      "Two passport photos"
+    ],
+    "benefits": [
+      "Up to 50% capital subsidy",
+      "Bank loan for the rest",
+      "Entrepreneur Development Training"
+    ],
+    "pros": [
+      "Large subsidy share",
+      "Wide range of eligible activities",
+      "Local DIC support"
+    ],
+    "cons": [
+      "Requires taking a bank loan",
+      "Offline paperwork-heavy process",
+      "Official pages could not be reached to confirm a 2026 window",
+      "Aimed at livelihood enterprises more than tech startups"
+    ],
+    "goodFitIf": [
+      "You are a young Sikkim resident starting your first business",
+      "You are comfortable with a bank loan",
+      "You are planning a homestay, food processing, manufacturing, farm or service business"
+    ],
+    "skipIf": [
+      "You already took PMEGP/CMSS subsidy",
+      "You want a pure grant with no loan",
+      "You are above 45 or your family income exceeds ₹8 lakh a year"
+    ],
+    "insiderTips": [
+      "Keep your project cost within the activity-wise cap; oversized DPRs get cut",
+      "Plan for the EDP training before disbursement so your loan is not delayed"
+    ],
+    "performance": {
+      "summary": "DPIIT's Jan 2026 report names SYSS as Sikkim's flagship startup support programme and counts 20+ startups registered on the state startup portal. Beneficiary counts and amounts are not published, so we show no chart.",
+      "metrics": [
+        {
+          "label": "Startups registered on the Sikkim state startup portal",
+          "value": "20+",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Sikkim State Report",
+            "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Sikkim_State_Report.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://industries.sikkim.gov.in/",
+    "officialUrl": "https://industries.sikkim.gov.in/",
+    "sources": [
+      {
+        "label": "Startup India – States' Startup Ecosystem Ranking (5th ed., Jan 2026), Sikkim State Report",
+        "url": "https://www.startupindia.gov.in/srf/portal/SRF_2026_Result_page/Sikkim_State_Report.pdf"
+      },
+      {
+        "label": "SarkariYojana – Sikkim Skilled Youth Startup Scheme summary (secondary)",
+        "url": "https://sarkariyojana.com/skilled-youth-startup-scheme"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "DPIIT's report (official) confirms that SYSS exists and is the flagship programme. The subsidy percentages, caps, eligibility and documents come from a secondary summary (SarkariYojana), because industries.sikkim.gov.in failed with a certificate error. Status is unverified: we found no dated 2026 call. Sikkim's separate Startup Policy 2024 (₹1 lakh one-time grant, lease rental support) is not covered here."
+  }
+]

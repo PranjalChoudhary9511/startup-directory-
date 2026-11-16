@@ -1,0 +1,468 @@
+{
+  "slug": "everpix",
+  "name": "Everpix",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Photo storage app",
+  "founded": 2011,
+  "died": 2013,
+  "status": "shut-down",
+  "brandColor": "#3d8fd1",
+  "founders": [
+    {
+      "name": "Pierre-Olivier Latour",
+      "role": "Co-founder (ex-Apple)"
+    },
+    {
+      "name": "Kevin Quennesson",
+      "role": "Co-founder (ex-Apple)"
+    },
+    {
+      "name": "Wayne Fan",
+      "role": "Co-founder (ex-frog design)"
+    }
+  ],
+  "epitaph": "Loved by its users. Outrun by 'free'.",
+  "oneLiner": "A paid app that gathered all your photos from your phone, computer and social media in one place and automatically picked the best ones.",
+  "causeOfDeath": "Users loved it and many paid, but money ran out before it could grow; investors doubted photo apps, and Google and Apple offered similar tools free.",
+  "raisedUsdM": 2.3,
+  "peakValuationUsdM": 7.8,
+  "endValueUsdM": 0,
+  "moneyNote": "From Everpix's own published financials: four rounds totalling about $2.3M (notes in 2011 and 2013, a $1M seed in 2012 at $7.8M post-money). It shut down with no sale.",
+  "moneySrc": [
+    0,
+    1
+  ],
+  "inOneMinute": [
+    "Everpix **automatically organised all your photos** and showed you the best ones. Of 50,000 people who signed up, **7,000 paid** for it.",
+    "But it made $40,000 a month, which **covered running costs, not the team's salaries**. It needed a bigger round, and investors kept saying no.",
+    "Google and Apple were adding similar features for free. Everpix shut in late 2013, then **published all its data** so others could learn."
+  ],
+  "killerLine": "**A great product is not a plan.** Know how you'll reach users and how long your money lasts before you need investors to say yes.",
+  "numbers": [
+    {
+      "value": "50,000",
+      "label": "people who signed up",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "7,000",
+      "label": "paying subscribers, about 1 in 7 sign-ups",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$40K",
+      "label": "subscription revenue per month at the end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$2.3M",
+      "label": "raised in its whole life",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: fix the photo mess",
+      "body": "By 2011, phones had turned everyone into a photographer. Thousands of pictures sat scattered across phones, laptops, Facebook and Flickr. Pierre-Olivier Latour, who had worked at Apple, called it the 'photo mess'. In late spring 2011 he started building Everpix, and was soon joined by Kevin Quennesson, also ex-Apple, and designer Wayne Fan. Everpix pulled **all your photos into one place** in the cloud (online storage), removed near-duplicates and picked out highlights, so you could relive your best moments without scrolling through junk. It was a finalist at TechCrunch Disrupt in September 2011. Think of it as a better, smarter photo gallery app, long before Google Photos.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The rise: a product people paid for",
+      "body": "Everpix raised small amounts carefully: $800,000 in notes in 2011, then a **$1 million seed round in July 2012** led by Index Ventures, at a $7.8 million valuation. It opened for business in September 2012 at $4.99 a month or about $40 a year. Unlike many apps, it asked people to pay, and they did. Its co-founder said its paid conversion rates were significantly higher than typical for free-to-paid apps. By the end, **50,000 people had signed up and 7,000 were paying**, with 400 million photos imported. The team kept shipping new features almost monthly: similar-photo detection, highlights, daily 'flashback' emails, and apps for iPhone, Windows and Android.",
+      "src": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: investors say no",
+      "body": "To grow, Everpix needed a Series A (a bigger round of funding, usually millions of dollars). In early 2013 it went on its first tour of venture capitalists. They passed. Some doubted anyone could make **real money from online photos**. Others said distribution, getting the app in front of millions of people, was too tough, and that photos were a noisy, crowded category. In April 2013 Everpix took a $525,000 bridge loan to keep going. Then, in May and June 2013, Google and Apple both showed **free tools that organised photos automatically**. Flickr was offering a free terabyte of storage. Second and third investor tours that summer also failed.",
+      "src": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall: covering costs, but not salaries",
+      "body": "By late 2013, subscriptions brought in about **$40,000 a month**. That covered variable costs (storage and servers that grow with users) but not fixed costs like salaries and rent. Over its life, Everpix earned about $281,000 and spent about $2.67 million, most of it on its team. With no Series A, on 5 November 2013 the founders announced Everpix would shut down. They worked with a reporter from The Verge on the story of their final weeks. Then they did something rare: they **published their metrics, investor feedback and finances on GitHub**, so other founders could learn from their failure. In May 2015, Google launched Google Photos with free unlimited storage.",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Spring 2011",
+      "event": "Pierre-Olivier Latour starts prototyping Everpix; two co-founders join that summer",
+      "kind": "start",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Sep 2011",
+      "event": "Finalist at TechCrunch Disrupt",
+      "kind": "start",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "date": "Oct–Nov 2011",
+      "event": "Raises $800,000 in convertible notes from Index Ventures, 500 Startups and angels",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jul 2012",
+      "event": "$1M seed round at a $7.8M post-money valuation",
+      "kind": "money",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Sep 2012",
+      "event": "Opens for business at $4.99 a month or $40 a year",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Feb–Mar 2013",
+      "event": "First investor tour for a Series A; investors pass",
+      "kind": "warning",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Apr 2013",
+      "event": "Takes a $525,000 bridge note as an advance on the Series A",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "May–Jun 2013",
+      "event": "Google and Apple announce free automatic photo organising",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jun–Aug 2013",
+      "event": "Second and third investor tours fail",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "5 Nov 2013",
+      "event": "Announces shutdown with 50,000 users and 7,000 paying subscribers",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2013",
+      "event": "Service closes; team later publishes its data on GitHub",
+      "kind": "end",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "May 2015",
+      "event": "Google Photos launches with free unlimited storage",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Lifetime money in vs money out",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Oct 2011 – Dec 2013"
+      ],
+      "series": [
+        {
+          "name": "Income (mostly subscriptions)",
+          "values": [
+            0.28
+          ]
+        },
+        {
+          "name": "Expenses",
+          "values": [
+            2.67
+          ]
+        }
+      ],
+      "takeaway": "Users really paid, but income was about a tenth of what the company spent.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Where the money went",
+      "unit": "$ millions (Oct 2011 – Dec 2013)",
+      "kind": "bar",
+      "labels": [
+        "Salaries, payroll tax & withholding",
+        "Amazon Web Services",
+        "Consultants",
+        "Public relations",
+        "Rent"
+      ],
+      "series": [
+        {
+          "name": "Spend",
+          "values": [
+            1.32,
+            0.39,
+            0.27,
+            0.11,
+            0.1
+          ]
+        }
+      ],
+      "takeaway": "People were by far the biggest cost; servers came second.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2011",
+      "round": "Convertible note",
+      "amountUsdM": 0.125,
+      "valuationUsdM": null,
+      "investors": [
+        "Bertrand Serlet",
+        "Dave McClure / 500 Startups"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "round": "Convertible note",
+      "amountUsdM": 0.675,
+      "valuationUsdM": null,
+      "investors": [
+        "Index Ventures",
+        "Strive Capital",
+        "500 Startups",
+        "2020 Ventures"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jul 2012",
+      "round": "Series Seed",
+      "amountUsdM": 1,
+      "valuationUsdM": 7.8,
+      "investors": [
+        "Index Ventures",
+        "Strive Capital",
+        "500 Startups"
+      ],
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Apr 2013",
+      "round": "Bridge note",
+      "amountUsdM": 0.525,
+      "valuationUsdM": null,
+      "investors": [
+        "Index Ventures",
+        "500 Startups"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "funding-dried",
+      "weight": 40
+    },
+    {
+      "key": "competition",
+      "weight": 30
+    },
+    {
+      "key": "business-model",
+      "weight": 15
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Bet survival on one big round",
+      "explain": "Everpix's plan needed a **Series A to cover salaries**. When three investor tours failed, there was no plan B. Revenue covered server costs but not the team. A smaller team, or a plan to reach break-even on its own, could have bought time to keep growing.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Built features faster than it built reach",
+      "explain": "The team launched a new feature almost every month and wrote over 200,000 lines of code. But investors' biggest worry was **distribution**: getting the app to millions of people. A brilliant product that too few people discover can't grow fast enough to impress investors.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Competed head-on with free giants",
+      "explain": "In 2013, **Google and Apple announced free tools** that organised photos automatically, and Flickr gave away a terabyte of storage. Everpix was better, but asking people to pay for something big companies give free is a very hard sell. Big platforms can afford to lose money on photos because it keeps people inside their phones and services.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Picked a category investors feared",
+      "explain": "VCs told Everpix that online photos had historically been **hard to make money from** and called it a crowded category. Founders can prove investors wrong, but they need extra runway to do it, which Everpix didn't have. Even strong paying users could not change that view in time.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your company die if your next funding round doesn't happen?",
+    "Are Google, Apple or another giant offering something similar to your product for free?",
+    "Have investors repeatedly said 'great product, but how will you get users?'",
+    "Are you shipping new features every month while sign-ups stay flat?",
+    "Do your monthly earnings cover servers but not salaries, with no date when that changes?"
+  ],
+  "lessons": [
+    {
+      "title": "Build a path to 'ramen profitable'",
+      "detail": "Work out the revenue that covers your whole team's basic costs, not just servers. Plan to hit it before you need a big round, even if that means a smaller team for longer."
+    },
+    {
+      "title": "Distribution is part of the product",
+      "detail": "From the start, decide how users will find you: partnerships, referrals, SEO, a community. Spend as much thought on that as on features."
+    },
+    {
+      "title": "Expect giants to give your feature away",
+      "detail": "If your product lives inside phones Google or Apple make, assume they may offer a free version. Build something they won't, like a specific niche or a service layer."
+    },
+    {
+      "title": "Paying users are a real signal",
+      "detail": "7,000 paying subscribers is meaningful. Everpix proved willingness to pay. If you have that, consider growing slowly and profitably instead of waiting for a VC to bless it."
+    },
+    {
+      "title": "Share what you learn",
+      "detail": "Everpix published its numbers, VC feedback and finances so others could learn. Writing an honest post-mortem helps you, your team and the next founder, and builds respect."
+    }
+  ],
+  "quote": {
+    "text": "we didn't succeed in raising our Series A in the highly competitive VC funding market.",
+    "who": "The Everpix founders",
+    "context": "From the post-mortem they published on GitHub after shutting down, 2013",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "The founders published hundreds of files on GitHub: metrics, monthly investor reports, their pitch deck, unedited feedback from investors who passed, and full financials. It became one of the most honest startup post-mortems ever shared. Eighteen months later, Google launched Google Photos with free unlimited storage, reaching 100 million users in five months. The problem Everpix chose to solve was real; the market went to the companies that could afford to give it away.",
+    "src": [
+      0,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Everpix Intelligence (GitHub): founders' post-mortem README",
+      "url": "https://github.com/everpix/Everpix-Intelligence"
+    },
+    {
+      "label": "Everpix Intelligence: Financials.md (fundraising and lifetime P&L)",
+      "url": "https://github.com/everpix/Everpix-Intelligence/blob/master/Financials.md"
+    },
+    {
+      "label": "Everpix Intelligence: Timeline & Numbers.md",
+      "url": "https://github.com/everpix/Everpix-Intelligence/blob/master/Timeline%20%26%20Numbers.md"
+    },
+    {
+      "label": "Everpix Intelligence: Anonymized VC Feedback.md",
+      "url": "https://github.com/everpix/Everpix-Intelligence/blob/master/Anonymized%20VC%20Feedback.md"
+    },
+    {
+      "label": "TechCrunch: It's time for the concept of photo albums to die (Jun 2013)",
+      "url": "https://techcrunch.com/2013/06/27/its-time-for-the-concept-of-photo-albums-to-die-everpix-debuts-what-comes-next/"
+    },
+    {
+      "label": "TechCrunch: Everpix raises $1 million from Index Ventures, 500 Startups (Jul 2012)",
+      "url": "https://techcrunch.com/2012/07/19/cloud-photos-service-everpix-raises-1-million-from-index-ventures-500-startups-others-prepares-its-public-debut/"
+    },
+    {
+      "label": "Wikipedia: Google Photos (launch and user milestones)",
+      "url": "https://en.wikipedia.org/wiki/Google_Photos"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Everpix was 'the world's best photo startup'",
+        "note": "This was The Verge's framing in its 2013 story; it is a matter of opinion, so the page sticks to the published numbers."
+      },
+      {
+        "claim": "Monthly burn rate",
+        "note": "The founders did not publish a monthly burn figure; spreading the lifetime loss over 26 months gives roughly $92,000 a month, but that is our estimate, not theirs."
+      }
+    ]
+  }
+}

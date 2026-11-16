@@ -1,0 +1,368 @@
+{
+  "slug": "terra",
+  "name": "Terra (Terraform Labs)",
+  "region": "global",
+  "country": "Singapore",
+  "city": null,
+  "sector": "Crypto / stablecoin",
+  "founded": 2018,
+  "died": 2022,
+  "status": "bankrupt",
+  "brandColor": "#2845c7",
+  "founders": [
+    {
+      "name": "Do Kwon",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Daniel Shin",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Stable coin. Unstable everything else.",
+  "oneLiner": "Built UST, a 'stablecoin' meant to always be worth $1, kept steady by code and its sister token LUNA instead of real dollars in a bank.",
+  "causeOfDeath": "UST's $1 peg was held up by a 20% yield and a secret rescue; when big holders ran in May 2022, UST and LUNA spiralled to near zero.",
+  "raisedUsdM": 200,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Terraform Labs raised 'more than $200 million' from investors (Coinbase Ventures, Galaxy Digital and others). No reliable company valuation was published; LUNA and UST's combined market value lost was about $45 billion.",
+  "moneySrc": [
+    5
+  ],
+  "inOneMinute": [
+    "Terra's UST was a **stablecoin** (a crypto coin meant to always equal $1) backed not by dollars but by an algorithm and its twin token, LUNA.",
+    "People piled in because a Terra app called Anchor paid **about 20% a year** on UST. In May 2022 the peg broke, and roughly **$45 billion** vanished in a week.",
+    "Founder Do Kwon fled, was caught in Montenegro with fake documents, **pleaded guilty to two fraud counts** in the US and got 15 years."
+  ],
+  "killerLine": "A promise of stability **needs real reserves**, not clever code and confidence.",
+  "numbers": [
+    {
+      "value": "~$45 billion",
+      "label": "market value wiped out in one week, May 2022",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "19.45%",
+      "label": "yearly yield Anchor paid on UST deposits",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "80,394 → 313",
+      "label": "bitcoin left in the rescue reserve after three days of selling",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "15 years",
+      "label": "Do Kwon's US prison sentence (Dec 2025)",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a dollar coin without dollars",
+      "body": "Do Kwon and Daniel Shin started Terraform Labs in Seoul in January 2018. Their big product was UST, a stablecoin. Most stablecoins keep $1 in a bank for every coin. UST did not. Instead it was **'algorithmic'**: you could always swap 1 UST for $1 worth of LUNA, Terra's other token, and the other way round. If UST fell below $1, traders would buy it cheap and swap it for LUNA, pushing UST back up. In theory, code kept the price steady. In practice, it only worked **as long as people believed LUNA was worth something**. And LUNA was only worth something if people wanted UST.",
+      "src": [
+        5,
+        6
+      ]
+    },
+    {
+      "title": "The rise: 20% on your 'dollar'",
+      "body": "To make people want UST, Terra launched Anchor, which paid **19.45% a year** on UST deposits — far more than any bank. Critics called it a giant Ponzi scheme, but money kept pouring in. LUNA hit an all-time high of $119.51 and briefly joined the top ten cryptocurrencies. The SEC later alleged Terra also misled investors by claiming a popular Korean payments app used its blockchain. It also alleged that in May 2021, when UST briefly fell below $1, Kwon told the world the algorithm had fixed it, while really **a third party had secretly bought UST** to rescue the peg. Investors learned the wrong lesson: that UST couldn't break.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: the reserve that melted",
+      "body": "In 2022 the Luna Foundation Guard, set up to defend UST, bought bitcoin as a safety reserve. By 7 May 2022 it held **80,394 bitcoin, worth about $2.4 billion** — more than Tesla owned. On 9 May, UST started slipping below $1. The foundation sold its bitcoin to defend the peg. Within three days only 313 bitcoin were left. It was not enough. Every time UST holders swapped out, new LUNA was printed, so LUNA's price crashed, which made people trust UST even less. This feedback loop is called a **'death spiral'**. Within a week UST was worth about 10 cents.",
+      "src": [
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The fall: from fugitive to prisoner",
+      "body": "On 13 May 2022 Terraform halted the blockchain. LUNA fell to virtually zero. About $45 billion in market value was gone. South Korea issued an arrest warrant for Kwon in September 2022. In March 2023 he was **arrested in Montenegro while trying to fly to Dubai with falsified Costa Rican documents**. In April 2024 a US jury found Kwon and Terraform liable for fraud in the SEC's civil case, and they agreed to pay about $4.5 billion. Kwon was extradited to the US on 31 December 2024. In August 2025 he **pleaded guilty to two fraud counts**, and on 11 December 2025 he was sentenced to 15 years — more than the 12 years prosecutors asked for.",
+      "src": [
+        1,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jan 2018",
+      "event": "Do Kwon and Daniel Shin found Terraform Labs in Seoul.",
+      "kind": "start",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "May 2021",
+      "event": "UST briefly loses its $1 peg; SEC later alleges a secret third-party rescue was passed off as the algorithm working.",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2021–22",
+      "event": "LUNA hits $119.51 all-time high; Anchor pays 19.45% on UST.",
+      "kind": "peak",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "7 May 2022",
+      "event": "Luna Foundation Guard holds 80,394 bitcoin (~$2.4 billion) as a reserve.",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "9–13 May 2022",
+      "event": "UST breaks its peg; reserve sold down to 313 BTC; blockchain halted.",
+      "kind": "crisis",
+      "src": [
+        3,
+        5
+      ]
+    },
+    {
+      "date": "Sep 2022",
+      "event": "South Korean court issues arrest warrant for Kwon.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Feb 2023",
+      "event": "SEC charges Terraform and Kwon with fraud.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "23 Mar 2023",
+      "event": "Kwon arrested in Montenegro with falsified travel documents.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "event": "Terraform Labs files for Chapter 11 bankruptcy.",
+      "kind": "end",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Apr–Jun 2024",
+      "event": "Jury finds Terraform and Kwon liable for fraud; they agree to pay ~$4.5 billion to the SEC.",
+      "kind": "after",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "31 Dec 2024",
+      "event": "Kwon extradited from Montenegro to the United States.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "11 Dec 2025",
+      "event": "After pleading guilty to two fraud counts, Kwon is sentenced to 15 years.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "The bitcoin reserve meant to save UST",
+      "unit": "thousand bitcoin",
+      "kind": "bar",
+      "labels": [
+        "7 May 2022",
+        "After 8–10 May"
+      ],
+      "series": [
+        {
+          "name": "Bitcoin held by Luna Foundation Guard",
+          "values": [
+            80.394,
+            0.313
+          ]
+        }
+      ],
+      "takeaway": "A $2.4 billion safety net was almost entirely spent in three days — and the peg broke anyway.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "business-model",
+      "weight": 40
+    },
+    {
+      "key": "fraud",
+      "weight": 35
+    },
+    {
+      "key": "tech",
+      "weight": 15
+    },
+    {
+      "key": "timing",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "A 'stable' coin backed by its own twin",
+      "explain": "UST's value rested on LUNA, and LUNA's value rested on demand for UST. **Two things propping each other up is not a reserve.** When confidence cracked, the design guaranteed a death spiral instead of stopping one. A real reserve is something whose value doesn't depend on you, like cash or government bonds.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Buying demand with a 20% yield",
+      "explain": "Anchor's 19.45% yield attracted deposits that existed only for the yield. **Money that comes for a subsidy leaves the moment it wobbles.** That's exactly what happened in May 2022. Anchor's high yield needed constant subsidy, so the demand it created was rented, not earned. A reward that the business cannot afford forever is a countdown timer.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Hiding the 2021 rescue",
+      "explain": "The SEC alleged that when UST broke in May 2021, a third party secretly bought UST to restore the peg, while Kwon credited the algorithm. **Telling investors the system healed itself when someone propped it up** made the 2022 collapse far bigger.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Misleading investors about real-world use",
+      "explain": "The SEC also alleged Terra falsely claimed a popular Korean payments app settled transactions on its blockchain, making LUNA look useful. **Fake adoption stories** are one of the most common crypto frauds. Investors should always ask partners directly whether a claimed integration is real.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your product only stay stable or valuable as long as new money keeps flowing in?",
+    "Are you paying users a yield or reward that your real business can't afford without fresh funding?",
+    "Have you ever fixed a crisis quietly and then told the public it fixed itself?",
+    "Do you claim partnerships or real-world usage that a partner would not confirm in writing?",
+    "Is your 'reserve' made mostly of your own token or something that falls when you do?"
+  ],
+  "lessons": [
+    {
+      "title": "Stress-test your worst day",
+      "detail": "Ask: what happens if 30% of users leave in 48 hours? If the honest answer is 'everything collapses', your design is the problem, not the market."
+    },
+    {
+      "title": "Subsidies buy users, not loyalty",
+      "detail": "Cashback, high interest, free credits — they bring people in fast. Know how many would stay if you stopped tomorrow, and plan for that number."
+    },
+    {
+      "title": "Tell the truth about rescues",
+      "detail": "If a partner or investor saves you in a crisis, disclose it. Hiding help makes people think you're stronger than you are, which makes the next crisis worse."
+    },
+    {
+      "title": "As a user, ask what backs a 'stable' thing",
+      "detail": "Before you trust a stablecoin, wallet or savings app, ask what's held in reserve and who checks it. 'An algorithm' is not an answer."
+    },
+    {
+      "title": "As an investor, ask who is buying and why",
+      "detail": "If most demand for a token or product comes from people chasing a reward the company pays for, that demand is rented, not real. Ask what happens to demand if the reward ends."
+    }
+  ],
+  "quote": {
+    "text": "It was simply a fraud propped up by a so-called algorithmic 'stablecoin'",
+    "who": "Gurbir S. Grewal, SEC Director of Enforcement",
+    "context": "Announcing fraud charges against Terraform Labs and Do Kwon, February 2023",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Terraform Labs filed for bankruptcy in January 2024 and agreed to wind down and hand remaining assets to investors and creditors. In June 2024 Terraform and Kwon agreed to pay the SEC about $4.5 billion. Kwon, sentenced in December 2025 to 15 years in the US, may also face trial in South Korea and could later seek a transfer there. In December 2024 Jump Trading's Tai Mo Shan paid $123 million to settle SEC claims that it misled investors about UST's stability. In February 2026 Terraform's bankruptcy administrator sued trading firm Jane Street, alleging insider trading during the collapse — an allegation, not a finding.",
+    "src": [
+      1,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC press release 2023-32: SEC charges Terraform and CEO Do Kwon with defrauding investors (Feb 2023)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-32"
+    },
+    {
+      "label": "SEC press release 2024-73: Terraform and Kwon to pay $4.5 billion following fraud verdict (Jun 2024)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-73"
+    },
+    {
+      "label": "CNBC: SEC charges Do Kwon with fraud in connection with Terra collapse (Feb 2023)",
+      "url": "https://www.cnbc.com/2023/02/16/sec-charges-do-kwon-with-fraud-in-connection-with-terra-collapse.html"
+    },
+    {
+      "label": "Fortune: Luna Foundation Guard dumps bitcoin reserves trying to save TerraUSD peg (May 2022)",
+      "url": "https://fortune.com/2022/05/16/luna-foundation-guard-dumps-bitcoin-reserves-terra-usd-peg/"
+    },
+    {
+      "label": "CNBC: Terra 2.0 — new luna cryptocurrency is already crashing (May 2022)",
+      "url": "https://www.cnbc.com/2022/05/30/terra-2point0-new-luna-cryptocurrency-is-already-crashing.html"
+    },
+    {
+      "label": "Wikipedia: Terra (blockchain) (citing Bloomberg, Reuters, WSJ, Fortune)",
+      "url": "https://en.wikipedia.org/wiki/Terra_(blockchain)"
+    },
+    {
+      "label": "Wikipedia: Do Kwon (arrest, extradition, plea, sentence; citing FT, BBC, Reuters, CNN)",
+      "url": "https://en.wikipedia.org/wiki/Do_Kwon"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total amount lost in the Terra collapse.",
+        "note": "Figures range from about $40 billion to $45 billion+ in market value depending on the date and what is counted; we use Bloomberg's ~$45 billion in one week."
+      },
+      {
+        "claim": "Jane Street's trading helped cause the collapse.",
+        "note": "Alleged in a February 2026 lawsuit by Terraform's bankruptcy administrator; not proven."
+      },
+      {
+        "claim": "Identity of the firm behind the secret May 2021 UST rescue.",
+        "note": "The SEC's complaint called it a third party; Jump Trading's affiliate Tai Mo Shan later settled SEC claims about misleading investors on UST's stability for $123 million, without that settlement being a criminal finding."
+      }
+    ]
+  }
+}

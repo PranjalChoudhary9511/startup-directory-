@@ -1,0 +1,285 @@
+{
+  "slug": "tata-group",
+  "company": "Tata Group",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#486AAE",
+    "secondary": "#307FE2",
+    "accent": "#E2A330",
+    "ink": "#1B2433",
+    "paper": "#F5F2EA",
+    "note": "Tata publishes no public hex for its blue. #486AAE is the commonly cited 'Tata blue' of the logo (third-party estimate); #307FE2 and the gold #E2A330 are sampled from tata.com's own stylesheets. Ink and paper are ours."
+  },
+  "tagline": "A trader who went broke at 26, then spent his life building the things India did not have yet.",
+  "hook": "In 1865, 26-year-old Jamsetji Tata was stuck in London with a pocket full of bills that had just become waste paper. His creditors made him the liquidator of his own failed firm, on £20 a month. Three years later he started the trading company that became the Tata Group.",
+  "hookSrc": [0, 1, 2],
+  "cast": [
+    {
+      "name": "Sir Dorabji Tata",
+      "role": "Elder son; chairman 1904–1932. Built Tata Steel and Tata Power. In the 1924 cash crisis he pledged his personal fortune, about ₹1 crore including his wife's jewellery, so wages could be paid.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dorabji_Tata.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Dorabji_Tata.jpg",
+        "caption": "Dorabji Tata, from the book Electricity in India (1912)",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "year": 1912
+      },
+      "src": [13, 7]
+    },
+    {
+      "name": "J. R. D. Tata",
+      "role": "Chairman 1938–1991. A licensed pilot, he flew the first Tata airmail flight from Karachi to Bombay in 1932, the start of the airline that became Air India.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/J.R.D._Tata_%281955%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:J.R.D._Tata_(1955).jpg",
+        "caption": "J. R. D. Tata in Bombay, November 1955",
+        "author": "Photo Division, Government of India",
+        "license": "Public domain",
+        "year": 1955
+      },
+      "src": [14, 7, 12]
+    },
+    {
+      "name": "Ratan Tata",
+      "role": "Chairman 1991–2012. Came home from the US in 1962 with a job at IBM and worked there for about 15 days, until J. R. D. phoned and told him to join Tata instead. He started on the shop floor in Jamshedpur. Later bought Tetley, Corus and Jaguar Land Rover, and launched the Nano. Died on 9 October 2024, aged 86.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ratan_Tata_photo.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Ratan_Tata_photo.jpg",
+        "caption": "Ratan Tata in 2010",
+        "author": "U.S. Embassy New Delhi",
+        "license": "Public domain",
+        "year": 2010
+      },
+      "src": [12, 27, 7]
+    }
+  ],
+  "founder": {
+    "name": "Jamsetji Nusserwanji Tata",
+    "role": "Founder, Tata Group",
+    "born": "3 Mar 1839, Navsari, Gujarat",
+    "died": "19 May 1904, Bad Nauheim, Germany",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/JAMSETJI_N._TATA.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JAMSETJI_N._TATA.jpg",
+      "caption": "Portrait of Jamsetji Tata by Edwin Arthur Ward, dated 1889",
+      "author": "Edwin Arthur Ward",
+      "license": "Public domain",
+      "year": 1889
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/JNTata.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:JNTata.jpg",
+        "caption": "Jamsetji Tata (1839–1904)",
+        "author": "Unknown photographer (uploaded by Chirags)",
+        "license": "Public domain",
+        "year": null
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/KITLV_A742_-_Taj_Mahal_Hotel_te_Bombay_in_India%2C_KITLV_90282.tiff/lossy-page1-1280px-KITLV_A742_-_Taj_Mahal_Hotel_te_Bombay_in_India%2C_KITLV_90282.tiff.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:KITLV_A742_-_Taj_Mahal_Hotel_te_Bombay_in_India,_KITLV_90282.tiff",
+        "caption": "The Taj Mahal Hotel, Bombay, about 1905, two years after it opened",
+        "author": "Clifton & Co",
+        "license": "Public domain",
+        "year": 1905
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jamsetji_Tata_Mausoleum_Brookwood.jpg/1280px-Jamsetji_Tata_Mausoleum_Brookwood.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jamsetji_Tata_Mausoleum_Brookwood.jpg",
+        "caption": "Jamsetji Tata's tomb at Brookwood Cemetery, England (photo 2016)",
+        "author": "Jack1956",
+        "license": "CC0",
+        "year": 2016
+      }
+    ],
+    "background": "Jamsetji was the only son of Nusserwanji Tata, from a family of Parsi priests in Navsari whose names had sat on the priestly rolls for about 25 generations. His father was the first in the family to go into business in a big way, after an apprenticeship with a Hindu banker in Bombay. Schooling in Navsari was mostly prayers, so at 13 Jamsetji was called to Bombay. In January 1856 he joined Elphinstone College as a 'free student', which meant his fees were waived because he showed promise. He passed out in 1858 as a 'Green Scholar', and had already married Heerabai Daboo while still a student.",
+    "backgroundSrc": [0, 2, 11],
+    "journey": [
+      { "year": "1839", "kind": "life", "title": "Born in Navsari", "detail": "Born on 3 March 1839 into a Parsi priestly family. His father Nusserwanji was the first Tata to go into trade.", "src": [0, 2] },
+      { "year": "1852–1858", "kind": "life", "title": "Bombay and Elphinstone College", "detail": "Moved to Bombay at 13 and studied at Elphinstone on remitted fees. Passed out in 1858 as a 'Green Scholar', then equal to a degree.", "src": [0, 2, 11] },
+      { "year": "1858", "kind": "job", "title": "Works in a solicitor's office", "detail": "He meant to enter a profession and worked for a while in a solicitor's office. Need pushed him into business instead, and in 1859 he joined his father's firm.", "src": [0] },
+      { "year": "1859", "kind": "job", "title": "Opens the firm's Hong Kong branch", "detail": "At 20 he was sent to Hong Kong and then Shanghai to build the family's China trade in cotton and opium.", "src": [0, 1, 3] },
+      { "year": "1864", "kind": "attempt", "title": "Sent to London to open a bank branch", "detail": "The firm's partner Premchand Roychand planned a London branch of the Asiatic Banking Corporation, and Jamsetji went to help set it up and sell the firm's cotton. The bank plan was dropped.", "src": [0, 1, 3] },
+      { "year": "1865", "kind": "failure", "title": "The cotton crash wipes out the firm", "detail": "When the American Civil War ended, Bombay's cotton and share bubble burst; the panic peaked on 1 July 1865. His bills became worthless, and the creditors made him liquidator of his own firm's English business on £20 a month.", "src": [0, 1] },
+      { "year": "1868", "kind": "breakthrough", "title": "War contract, then his own company", "detail": "His father's syndicate supplied the British army's march to Magdala in Abyssinia and made about ₹40 lakh. At 29 Jamsetji set up a trading company with ₹21,000.", "src": [0, 1, 2, 7] },
+      { "year": "1869", "kind": "attempt", "title": "Flips a bankrupt oil mill", "detail": "Bought a derelict oil mill at Chinchpokli, turned it into the Alexandra cotton mill, and sold it two years later at a profit.", "src": [0, 4, 7] },
+      { "year": "1874–1877", "kind": "breakthrough", "title": "Empress Mills, Nagpur", "detail": "Floated a company with ₹15 lakh of capital (3,000 shares of ₹500) and picked Nagpur for its cheap land, cotton and railways. The mill opened on 1 January 1877, then survived a fire and its own cheap, poor machinery.", "src": [0, 1, 4, 11] },
+      { "year": "1887–1888", "kind": "failure", "title": "The Svadeshi mill nearly sinks him", "detail": "He bought a mill that had been in liquidation four times. Its first cloth was almost unsaleable, the shares fell to a quarter and some banks refused him credit.", "src": [0, 4] },
+      { "year": "1892", "kind": "life", "title": "Pays for Indians to study abroad", "detail": "Set up the J. N. Tata Endowment so Indian students of any caste or creed could study in England.", "src": [2, 7] },
+      { "year": "1893–1896", "kind": "attempt", "title": "The Tata Line shipping fight", "detail": "To break high shipping rates to Japan he ran steamers with Japan's NYK as the 'Tata Line'. The line folded, but by 1896 freight rates had come down.", "src": [3, 11] },
+      { "year": "1898", "kind": "attempt", "title": "Offers ₹30 lakh for a science institute", "detail": "Offered property worth about ₹30 lakh to found a research university. Officials stalled for years; it opened in Bangalore in 1911 as the Indian Institute of Science.", "src": [0, 2, 7] },
+      { "year": "1903", "kind": "breakthrough", "title": "The Taj Mahal Hotel opens", "detail": "Built on reclaimed land facing the harbour, it was the first building in Bombay lit by electricity. He hoped to sell the lease to an English company, but the talks fell through, so he finished it himself.", "src": [0, 2, 11] },
+      { "year": "1904", "kind": "life", "title": "Dies before his three big projects", "detail": "Died at Bad Nauheim on 19 May 1904. Steel, hydro power and the science institute were still unfinished.", "src": [0, 6] },
+      { "year": "Now", "kind": "now", "title": "His sons finish the job", "detail": "Tata Steel poured its first ingot in 1912, the first Tata hydro company came in 1910, and IISc opened in 1911. Trusts now own 66% of Tata Sons.", "src": [7, 8, 16] }
+    ],
+    "mindset": [
+      { "idea": "Learn from the best, then make it in India", "explain": "He studied Lancashire mills over many visits, then copied what worked. He did not believe in leaning on imported experts: 'Let the Indian learn to do things for himself,' he said.", "src": [0, 3, 4] },
+      { "idea": "Workers' welfare is good business", "explain": "Empress Mills had a pension fund from 1886 and accident pay from 1895, long before any law asked for it. Opening a new shed at the mill in 1901, he said honest principles and close attention to detail were how a mill succeeded.", "src": [0, 4] },
+      { "idea": "Hire for merit, not family", "explain": "His fellow directors wrote that he was never swayed by family or friendly recommendations when hiring. Ratan Tata said he had 'tremendous respect for merit'.", "src": [0, 12] },
+      { "idea": "Be careful with money after you have lost it", "explain": "His biographer says the 1865 crash 'left an indelible mark' and made caution his guiding line for life.", "src": [0] },
+      { "idea": "Build what the country is missing", "explain": "Steel, electricity, a science university and a world-class hotel were all things India imported or lacked. He chose them on purpose.", "src": [7, 12] }
+    ],
+    "habits": [
+      { "habit": "Up early, office from noon to six", "detail": "He walked along the sea front each morning, drove out to visit friends from as early as 8 a.m., read or wrote after breakfast, and worked at the office from midday until six.", "src": [0] },
+      { "habit": "Read every night and took notes", "detail": "His favourite hours were with his books. He kept a large library at home and took methodical notes as he read.", "src": [0, 5] },
+      { "habit": "Timed trips to the world's exhibitions", "detail": "He planned travel around the great industrial exhibitions in Paris, Germany and Chicago, and brought new machines home.", "src": [0, 3, 5] },
+      { "habit": "Worked through holidays", "detail": "If the firm had to close for an extra holiday, he went to the office alone.", "src": [0] }
+    ],
+    "darkestHour": {
+      "title": "Liquidator of his own firm, at 26",
+      "story": "Jamsetji was sent to England carrying bills on the China market and cotton to sell. Then the American Civil War ended and Bombay's cotton boom collapsed. Partner Premchand Roychand failed, the bills became waste paper, and the firm's name was at stake. He was a young Indian alone in London. He laid out the position honestly to the creditors and banks, and they made him liquidator of his own business on £20 a month. Back home his father sold the family's big house on Hornby Road and his own property to pay creditors. It took three years of quiet work to rebuild their credit.",
+      "src": [0, 1]
+    },
+    "genuineness": {
+      "story": "In 1887 he bought the Dharamsi mill for just over ₹12 lakh. Within 24 hours he could have resold it for a ₹2 lakh personal profit. He refused, and sold it at cost to the new Svadeshi company and its shareholders. A year later, when the mill was in trouble and banks would not lend, he cancelled the family trust he had set up for his heirs and sold some of his own Empress Mills shares to free his capital and back the firm.",
+      "src": [0, 4]
+    },
+    "now": "Jamsetji died in 1904. His sons Dorabji and Ratanji, with his cousin R. D. Tata, finished his plans: Tata Steel's first ingot rolled out in 1912, the first Tata hydro-electric company came in 1910 and the Indian Institute of Science opened in 1911. Today 66% of Tata Sons is owned by philanthropic trusts, and Tata companies earned about $185 billion (₹16.24 lakh crore) in 2025-26.",
+    "nowSrc": [7, 8, 16, 6, 29]
+  },
+  "numbers": [
+    { "value": "₹21,000", "label": "Capital Jamsetji started his trading company with", "asOf": "1868", "src": [2, 7] },
+    { "value": "8,000", "label": "Indians who funded Tata Steel's ₹2.32 crore share issue in three weeks", "asOf": "1907", "src": [15, 16] },
+    { "value": "$185bn", "label": "Combined revenue of Tata companies (₹16.24 lakh crore)", "asOf": "FY2026", "src": [29, 30] },
+    { "value": "66%", "label": "Share of Tata Sons owned by philanthropic trusts", "asOf": "FY2025", "src": [8, 9] },
+    { "value": "1 million+", "label": "People employed by Tata companies", "asOf": "FY2026", "src": [29, 8] },
+    { "value": "$277bn", "label": "Market value of the 26 listed Tata companies (down from $328bn a year earlier)", "asOf": "31 Mar 2026", "src": [29, 8] }
+  ],
+  "milestones": [
+    { "year": "1868", "title": "A small trading firm", "detail": "Jamsetji, 29, starts a trading company in Bombay with ₹21,000.", "src": [2, 7] },
+    { "year": "1877", "title": "Empress Mills opens", "detail": "The Nagpur mill opens on 1 January 1877, the day Queen Victoria is proclaimed Empress of India.", "src": [4, 11] },
+    { "year": "1903", "title": "The Taj Mahal Hotel", "detail": "Bombay's first building lit by electricity opens on the harbour front.", "src": [2, 11] },
+    { "year": "1907", "title": "India funds its own steel plant", "detail": "Tata Iron and Steel's shares go on sale on 26 August; about 8,000 Indians subscribe within three weeks.", "src": [15, 16] },
+    { "year": "1912", "title": "First steel ingot", "detail": "The Sakchi plant, later the city of Jamshedpur, rolls out its first ingot on 16 February 1912.", "src": [16, 6] },
+    { "year": "1932", "title": "Tata Airlines takes off", "detail": "J. R. D. Tata flies the first airmail run from Karachi to Bombay. The airline later becomes Air India.", "src": [7, 14] },
+    { "year": "1968", "title": "TCS is born", "detail": "Tata Sons sets up Tata Consultancy Services, which Tata calls the first Indian company in software services.", "src": [7, 12] },
+    { "year": "1991", "title": "Ratan Tata takes over", "detail": "J. R. D., aged 86, steps down and Ratan Tata becomes chairman, the year India opens its economy.", "src": [7, 12, 14] },
+    { "year": "2000", "title": "Tetley bought", "detail": "Tata Tea buys Britain's Tetley for £271 million, paying with £70 million of equity and the rest in bank loans.", "src": [21, 22, 31] },
+    { "year": "2007", "title": "Corus bought", "detail": "Tata Steel wins an auction for Anglo-Dutch Corus at 608p a share, about £6.2 billion, beating Brazil's CSN by 5p.", "src": [17, 18] },
+    { "year": "2008", "title": "Jaguar Land Rover bought", "detail": "Tata Motors buys Jaguar and Land Rover from Ford for about $2.3 billion in cash, less than half the $5.2 billion Ford had paid for the two brands ($2.5 billion for Jaguar in 1989, $2.7 billion for Land Rover in 2000).", "src": [19, 32, 35] },
+    { "year": "2022", "title": "Air India comes home", "detail": "Tata takes back Air India on 27 January 2022 for ₹18,000 crore, 69 years after the government took it over.", "src": [28, 7] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Tata is not one company. Its 31 main companies, each with its own board, sell everything from software and steel to cars, tea, flights and jewellery. Tata Sons, the holding company, owns stakes in them and receives dividends. Two-thirds of Tata Sons belongs to philanthropic trusts, so most of the dividends Tata Sons pays out go to trusts that fund hospitals, schools and research.",
+    "flows": [
+      { "from": "Customers", "to": "Tata companies (TCS, Tata Motors, Tata Steel, Titan, Air India...)", "what": "Payment for software, cars, steel, flights, jewellery and more" },
+      { "from": "Tata companies", "to": "Tata Sons", "what": "Dividends on the shares Tata Sons holds" },
+      { "from": "Tata Sons", "to": "Tata Trusts", "what": "Dividends on the trusts' 66% stake" },
+      { "from": "Tata Trusts", "to": "Society", "what": "Grants for hospitals, science, education and relief" }
+    ],
+    "src": [8, 9, 10, 7]
+  },
+  "failures": [
+    {
+      "year": "1888",
+      "title": "The Svadeshi mill crisis",
+      "whatHappened": "Jamsetji bought a cheap mill that had failed four times and aimed it at the China yarn market. The first shipments to Shanghai were almost unsaleable. The company showed a ₹75,000 deficit, skipped its dividend, and its shares fell to about a quarter. He fell ill, and banks cut his credit.",
+      "lesson": "He fixed it by sending his best Nagpur managers, scrapping bad machines and putting in his own money. Within four years it paid a ₹45 dividend per share.",
+      "src": [0, 4]
+    },
+    {
+      "year": "2008–2018",
+      "title": "The Nano",
+      "whatHappened": "Shown at the 2008 Auto Expo as the ₹1 lakh car for families riding on scooters, it went on sale on 23 March 2009. Land troubles at Singur in West Bengal forced the plant to move to Gujarat. With taxes it never sold at the target price, and it became known as 'the cheapest car'. Sales reached about 75,000 in 2011-12, and in June 2018 only one Nano was made.",
+      "lesson": "Ratan Tata said in 2013 that the 'cheapest car' label was unfortunate. He felt it should have been sold to scooter families as safe, all-weather, affordable transport, 'not the cheapest'.",
+      "src": [23, 24, 33, 34]
+    },
+    {
+      "year": "2007",
+      "title": "Corus: buying at the top",
+      "whatHappened": "Tata Steel paid about £6.2 billion for Corus in a bidding war, the biggest Indian takeover till then. Europe's steel market then slumped for years. In September 2024 Tata closed the last blast furnace at Port Talbot, ending primary steelmaking at Britain's biggest steelworks.",
+      "lesson": "Winning an auction is not the same as winning the deal. Ratan Tata himself said JLR 'paid dividends' while Corus sat 'in the doldrums'.",
+      "src": [17, 18, 12, 26]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Jamsetji built the Taj because Watson's Hotel turned him away for being Indian.",
+      "fact": "No record proves it. Tata's own 150-year history book lists it as one of 'many legends' about why he built the hotel. His 1925 biography says someone remarked that Bombay had no good hotel, and he took it as a challenge. Ratan Tata told yet another version, about the Royal Bombay Yacht Club.",
+      "src": [0, 7, 12]
+    },
+    {
+      "myth": "Tata bought Jaguar Land Rover to take revenge on Ford.",
+      "fact": "The 'humiliation' story comes from one Tata executive's memory, told in 2015, of a 1999 meeting in Detroit. In 2008 Ford said it was selling JLR to focus on its core Ford brand, and it took less than half what it had paid.",
+      "src": [25, 32, 35]
+    }
+  ],
+  "quotes": [
+    { "text": "If you cannot make it greater, at least preserve it. Do not let things slide. Go on doing my work and increasing it, but if you cannot, do not lose what we have already done.", "who": "Jamsetji Tata to his cousin R. D. Tata, days before his death, 1904", "src": [0, 6] },
+    { "text": "I mention these facts only to point out that with honest and straightforward business principles, close and careful attention to details, and ability to take advantage of favourable opportunities and circumstances, there is a scope for success.", "who": "Jamsetji Tata, opening a new spinning shed at Empress Mills, Nagpur, 5 July 1901", "src": [0] },
+    { "text": "It became termed as a cheapest car by the public and, I am sorry to say, by ourselves, not by me, but the company when it was marketing it. I think that is unfortunate.", "who": "Ratan Tata on the Nano, CNBC interview reported by PTI, November 2013", "src": [33, 34] },
+    { "text": "The Jaguar, Land Rovers paid dividends, Corus, the steel industry has been in the doldrums in Europe", "who": "Ratan Tata, Computer History Museum oral history, 2017", "src": [12] }
+  ],
+  "lessons": [
+    { "title": "Your first collapse can be your classroom", "detail": "While winding up the London business, Jamsetji kept selling late cotton shipments and spent time in Lancashire, where he first saw how cotton mills worked. That knowledge later built Empress Mills. When a plan fails, ask what you can learn while you clean up." },
+    { "title": "Cheap can cost more", "detail": "Empress Mills saved money on cheap English machines and paid for it in breakdowns. The Svadeshi mill was a bargain because it had failed four times. Check why something is cheap before you buy it." },
+    { "title": "Your name is your real capital", "detail": "When banks doubted him in 1888, Jamsetji cancelled his family trust and sold his own shares to back the mill. Credit came back because people saw him take the risk first." },
+    { "title": "Price sends a message", "detail": "The Nano was meant to be the safe family car. Calling it 'the cheapest car' made it a car people were shy to own. How you describe a product decides who wants it." },
+    { "title": "Build things that outlive you", "detail": "Tata Steel, Tata Power and IISc were all finished after Jamsetji died, and trusts now own two-thirds of Tata Sons. Pick goals big enough that your team can carry them without you." }
+  ],
+  "moments": [
+    { "youtubeId": "gH8OOdNjRzo", "at": 72, "label": "Harish Bhat on Jamsetji Tata's life" },
+    { "youtubeId": "gH8OOdNjRzo", "at": 1486, "label": "How Tata built India's first cancer hospital" },
+    { "youtubeId": "gH8OOdNjRzo", "at": 2622, "label": "How India started flying with J. R. D. Tata" },
+    { "youtubeId": "wGO9q6tg9vM", "at": 413, "label": "Ratan Tata's childhood and education" },
+    { "youtubeId": "wGO9q6tg9vM", "at": 524, "label": "Preparing Tata for a liberalised India" },
+    { "youtubeId": "wGO9q6tg9vM", "at": 1005, "label": "The Tetley deal" },
+    { "youtubeId": "wGO9q6tg9vM", "at": 1208, "label": "Tata's acquisition of global brands" }
+  ],
+  "sources": [
+    { "label": "F. R. Harris, Jamsetji Nusserwanji Tata: A Chronicle of His Life (Oxford University Press, 1925), Internet Archive", "url": "https://archive.org/details/in.ernet.dli.2015.12498" },
+    { "label": "D. E. Wacha, The Life and Life Work of J. N. Tata (1914), Internet Archive", "url": "https://archive.org/details/lifelifeworkofjn00wach" },
+    { "label": "Tata Group heritage: Jamsetji Tata (tata.com)", "url": "https://www.tata.com/about-us/tata-group-our-heritage/tata-titans/jamsetji-tata" },
+    { "label": "Tata Group: Jamsetji Tata's travels, 1859–1904 (tata.com)", "url": "https://tata.com/about-us/tata-group-our-heritage/jamsetji-tata-180-anniversary/jamsetji-tata-travel" },
+    { "label": "Tata newsroom: Through the mill (Alexandra, Empress and Svadeshi mills)", "url": "https://www.tata.com/newsroom/through-the-mill" },
+    { "label": "Tata newsroom: Jamsetji Tata, trailblazer", "url": "https://www.tata.com/newsroom/heritage/jamsetji-tata-trailblazer" },
+    { "label": "Tata Central Archives: Recollections (founder's quotes and final days)", "url": "https://www.tatacentralarchives.com/tata-legacy/recollection.html" },
+    { "label": "Tata Sons, The Tata Story: 150 Years, 1868–2018 (PDF)", "url": "https://www.tata.com/content/dam/tata/pdf/the_tata_story_150_years_1868-2018.pdf" },
+    { "label": "Tata Group business profile FY25 (PDF)", "url": "https://www.tata.com/content/dam/tata/pdf/tata_group_profile_FY25.pdf" },
+    { "label": "Tata Group: About us (tata.com)", "url": "https://www.tata.com/about-us" },
+    { "label": "Millennium Post: Tata Sons profit jumps nearly ten times in 5 years (FY25 annual report), Jul 2025", "url": "https://www.millenniumpost.in/business/tata-sons-profit-jumps-nearly-ten-times-in-5-yrs-to-rs-26232-cr-in-fy25-620393" },
+    { "label": "Encyclopedia.com: Tata, Jamsetji Nusserwanji", "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/tata-jamsetji-nusserwanji" },
+    { "label": "Computer History Museum: Oral History of Ratan Tata, transcript (2017)", "url": "https://archive.computerhistory.org/resources/access/text/2017/12/102717292-05-01-acc.pdf" },
+    { "label": "Tata Group heritage: Sir Dorabji Tata (tata.com)", "url": "https://www.tata.com/about-us/tata-group-our-heritage/tata-titans/sir-dorabji-tata" },
+    { "label": "Tata Group heritage: JRD Tata (tata.com)", "url": "https://www.tata.com/about-us/tata-group-our-heritage/tata-titans/jrd-tata" },
+    { "label": "Tata Steel Annual Report 2006-07: shareholder history page", "url": "https://www.tatasteel.com/investors/annual-report-2006-07/html/shareholder1.html" },
+    { "label": "Business Standard: Jamsetji to Corus, Aug 2007", "url": "https://www.business-standard.com/article/beyond-business/jamsetji-to-corus-107082701084_1.html" },
+    { "label": "Business Standard (Tata Steel announcement): Tata Steel acquires Corus Group Plc, Jan 2007", "url": "https://www.business-standard.com/amp/article/press-releases/tata-steel-acquires-corus-group-plc-uk-107013101006_1.html" },
+    { "label": "CNBC: Tata Steel completes acquisition of steelmaker Corus, Apr 2007", "url": "https://www.cnbc.com/id/17924880" },
+    { "label": "BBC News: Ford sells Jaguar and Land Rover to Tata, Mar 2008", "url": "http://news.bbc.co.uk/2/hi/business/7313380.stm" },
+    { "label": "Autocar: JLR records best profit in a decade (FY2024/25)", "url": "https://www.autocar.co.uk/node/172512" },
+    { "label": "Business Standard: Tetley takeover costs Tata Tea £400 million, Aug 2000", "url": "https://www.business-standard.com/article/specials/tetley-takeover-costs-tata-tea-400-million-pound-100082301012_1.html" },
+    { "label": "Farmers Weekly: Tata buys Tetley tea, Feb 2000", "url": "https://www.fwi.co.uk/news/tata-buys-tetley-tea" },
+    { "label": "Autocar Professional: Nano, the dream that died", "url": "https://www.autocarpro.in/feature/india@75-nano-the-dream-that-died-92498" },
+    { "label": "Business Today: When Ratan Tata opened up about Nano's marketing misfire, Oct 2024", "url": "https://www.businesstoday.in/latest/corporate/story/not-the-car-i-envisioned-when-ratan-tata-opened-up-about-nanos-marketing-misfire-449454-2024-10-10" },
+    { "label": "Millennium Post (PTI): When 'humiliated' Tata did 'favour' to Ford with JLR buyout, Mar 2015", "url": "https://www.millenniumpost.in/when-humiliated-tata-did-favour-to-ford-with-jlr-buyout-57949" },
+    { "label": "Steel Times International: Tata Steel's UK plant shutters last remaining blast furnace, Sep 2024", "url": "https://www.steeltimesint.com/news/tata-steels-uk-plant-shutters-last-remaining-blast-furnace" },
+    { "label": "PBS NewsHour (AP): Ratan Tata dies at 86, Oct 2024", "url": "https://www.pbs.org/newshour/world/business-titan-ratan-tata-former-leader-of-indian-conglomerate-tata-group-dies-at-age-86" },
+    { "label": "Outlook Business: Tata Group completes Air India takeover, Jan 2022", "url": "https://www.outlookbusiness.com/news/tata-group-excited-to-work-together-to-make-air-india-the-airline-of-choice-says-ratan-tata-news-56241" },
+    { "label": "Tata Sons Private Limited, Annual Report 2025-26 (PDF)", "url": "https://www.tata.com/content/dam/tata/pdf/fy26/Tata-Sons-Annual-Report-FY26v1.pdf" },
+    { "label": "The Tribune (ANI): Tata Sons FY26 profit rises 21.8%; group revenue ₹16.24 lakh crore, Jul 2026", "url": "https://www.tribuneindia.com/news/business/tata-sons-fy26-profit-rises-21-8-to-rs-31961-crore-revenue-up-9/" },
+    { "label": "Business Standard: Tetley purchase at £271 million (Tata Tea clarification), Aug 2000", "url": "https://www.business-standard.com/article/specials/tetley-purchase-at-271-million-pound-100082501029_1.html" },
+    { "label": "Ford Motor Company press release (SEC Form 8-K): agreement to sell Jaguar Land Rover to Tata Motors, 26 Mar 2008", "url": "https://www.sec.gov/Archives/edgar/data/0000037996/000114036108007685/ex99_1.htm" },
+    { "label": "Business Standard (PTI): Selling Nano as 'cheapest car' was a mistake, says Tata, Nov 2013", "url": "https://www.business-standard.com/article/companies/selling-nano-as-cheapest-car-was-a-mistake-tata-113113000062_1.html" },
+    { "label": "The Peninsula, Qatar (AFP): India's Ratan Tata sees brighter future for upmarket Nano, 30 Nov 2013", "url": "https://thepeninsulaqatar.com/article/30/11/2013/india-s-ratan-tata-sees-brighter-future-for-upmarket-nano" },
+    { "label": "The Herald, Everett (AP): India's Tata buys Ford's British marques, Mar 2008", "url": "https://www.heraldnet.com/?p=289443" }
+  ],
+  "factCheck": {
+    "method": "Researched from 29 sources; then independently re-checked claim by claim against the cited source plus a second source, adding 7 more (Tata Sons Annual Report 2025-26, Ford's 2008 filing, contemporary 2000 and 2013 press reports). Jamsetji's life was re-read in the full text of Harris (1925) and Wacha (1914); quotes matched word for word to Harris, the CHM transcript and the 2013 PTI report; photos checked through the Commons API; chapter timestamps checked against The Neon Show's own video descriptions. A few personal details (solicitor's office job, daily routine, £20 a month) rest on Harris alone.",
+    "disputed": [
+      { "claim": "Cost of the Taj Mahal Hotel", "note": "Harris (1925) says Jamsetji spent nearly £300,000 on the building and fittings. Tata's own pages say ₹4.21 crore or 'over four crores'; Encyclopedia.com says a quarter of a million dollars. We give no figure." },
+      { "claim": "When Jamsetji sailed to London", "note": "Harris says early 1864; tata.com says December 1864; Encyclopedia.com and Wacha say 1863. All agree the crash of 1865 caught him there." },
+      { "claim": "Year Svadeshi Mills was bought", "note": "tata.com says Jamsetji bought the Dharamsi mill in 1886. Harris shows the Svadeshi company was registered on 13 September 1886 and the mill bought early the next year (1887). We use 1887 for the mill." },
+      { "claim": "Empress Mills company start", "note": "tata.com says the company was floated in 1874; Encyclopedia.com says 1871. Both agree the mill opened on 1 January 1877." },
+      { "claim": "Ford 'humiliated' Tata in 1999", "note": "Rests on Pravin Kadle's recollection at an award event in March 2015, as reported by PTI. We found no account from Ford." },
+      { "claim": "Tetley price", "note": "The price was £271 million (2000). Business Standard then reported a total of about £400 million, adding £129 million of Tetley liabilities from Tata Tea's annual report; two days later Tata Tea said £271 million was the 'all-inclusive' cost and the £129 million had been paid by the previous owners. We use £271 million." },
+      { "claim": "Empress Mills starting capital", "note": "A tata.com newsroom article says 'seed capital of Rs 1.5 lakh'. Harris (1925) gives the original capital as Rs 15,00,000 in 3,000 shares of Rs 500, and Wacha's 1914 figures (₹46.87 lakh after a bonus of 2⅛ shares per share) only add up from ₹15 lakh. We use ₹15 lakh." },
+      { "claim": "J. R. D.'s age in 1991", "note": "Tata's 150-year book says he was 87 when he stepped down. Born 29 July 1904, he was 86 on 25 March 1991. We use 86." },
+      { "claim": "Corus price", "note": "Tata's filing valued Corus's shares at about £6.2 billion; CNBC reported $11.3 billion, which counts the deal differently. The figures are not directly comparable." },
+      { "claim": "JRD Tata's pilot licence", "note": "The CHM interviewer calls it the first licence granted in India; tata.com's text says 'one of the first Indians'. We avoid 'first'." },
+      { "claim": "Wording of Ratan Tata's 2013 Nano quote", "note": "PTI's report (carried by Business Standard, Oneindia and DriveSpark) gives the full sentence used here; AFP's report gives the same first half word for word. Business Today's 2024 retelling has slightly different wording ('the cheapest car', 'I think it was unfortunate'); we follow the 2013 reports." },
+      { "claim": "Nano production end", "note": "Autocar Pro says only one Nano was made in June 2018; Business Today says production had stopped entirely by 2019." }
+    ]
+  }
+}

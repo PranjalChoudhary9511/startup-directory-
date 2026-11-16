@@ -1,0 +1,384 @@
+{
+  "slug": "boo-com",
+  "name": "Boo.com",
+  "region": "global",
+  "country": "United Kingdom",
+  "city": "London",
+  "sector": "Online fashion retail",
+  "founded": 1998,
+  "died": 2000,
+  "status": "bankrupt",
+  "brandColor": "#e8541e",
+  "founders": [
+    {
+      "name": "Ernst Malmsten",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Kajsa Leander",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Patrik Hedelin",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Dressed for the future. Arrived on dial-up.",
+  "oneLiner": "A glamorous online shop for designer sportswear that launched in many countries at once, with 3D product views and a virtual assistant.",
+  "causeOfDeath": "It spent about $135M on staff, offices and ads before its slow, buggy site worked, launched in many countries at once, and ran dry in the dot-com crash.",
+  "raisedUsdM": 135,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "$135M is the figure most sources give for money raised and spent in about 18 months (AP reported $120M of starting capital). Liquidators sold what remained in pieces for under $2M in total.",
+  "moneySrc": [
+    0,
+    1,
+    4,
+    6
+  ],
+  "inOneMinute": [
+    "Boo.com wanted to be the **world's coolest online clothes shop**, selling designer sportswear in 18 markets, with 3D views and a virtual assistant called Miss Boo.",
+    "It **launched six months late**, on a site so heavy that most home internet couldn't load it. At first, only about 1 in 4 purchase attempts worked.",
+    "By May 2000 it spent about $3 million a month while sales were tiny. Investors stopped paying and it was **liquidated after burning about $135 million**."
+  ],
+  "killerLine": "**Launch small, simple and soon.** A plain website that works beats a beautiful one your customers can't load.",
+  "numbers": [
+    {
+      "value": "$135M",
+      "label": "spent in about 18 months",
+      "src": [
+        0,
+        4,
+        6
+      ]
+    },
+    {
+      "value": "~25%",
+      "label": "of purchase attempts that went through at launch",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "value": "$25M",
+      "label": "spent on advertising before the site launched",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "value": "<$2M",
+      "label": "what all its remaining assets sold for",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: fashion without borders",
+      "body": "Ernst Malmsten and Kajsa Leander were childhood friends from Sweden. They had already started and sold an online bookshop called Bokus. In 1998, with Patrik Hedelin, they started something far bigger: **an online store for trendy designer sportswear, open to the whole world on day one**. Customers could spin clothes around in 3D, get tips from a cartoon shopping assistant called Miss Boo, and send items back for free. Imagine Myntra or Nykaa Fashion launching in 18 countries at once, back when most people were on slow dial-up internet. They picked fashion because people spend a lot on clothes and the profit on each item is higher than on books. On paper, it was a beautiful plan.",
+      "src": [
+        0,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The rise: famous backers, private jets",
+      "body": "Investors were dazzled by the business plan and a prototype. Backers included the **Benetton family, LVMH boss Bernard Arnault**, and the banks J.P. Morgan and Goldman Sachs. In all, Boo raised about $135 million. The founders flew to meetings by private jet and even Concorde. Boo opened offices in London, New York, Paris, Stockholm and Munich, and by October 1999 it had **around 400 staff**. It spent about $25 million on advertising before the website even existed, so people who visited after seeing the ads found only a holding page. The site was due in May 1999. That date passed. When the system was first tested in July 1999, it failed badly. Launch kept being 'two weeks away'.",
+      "src": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: a site nobody could load",
+      "body": "Boo finally launched in November 1999, **six months late**. It was full of Flash animation and 3D images. Most people then used dial-up modems, so pages took minutes to load. It did not work on Apple Macs at all. At first, **only about a quarter of purchase attempts went through**. Selling in 18 markets, seven languages and 18 currencies created headaches: the interim tech chief later wrote that a single French sale could be taxed three different ways. Free returns backfired, as shoppers ordered two or three sizes and sent back the rest. There was no proper purchase-order process, and the finance director it hired after a six-month search left after two months.",
+      "src": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The fall: the money stops",
+      "body": "In early 2000 the dot-com mood turned. Bankers postponed Boo's planned stock-market listing, and the first mass layoffs began. By May 2000 Boo was **spending close to $3 million a month** while monthly sales were only around half a million dollars. The founders tried to raise another $30 million and failed. On 18 May 2000, investors refused to put in more money, and liquidators from KPMG took over. Over 400 staff and contractors lost their work. Creditors, mostly advertising and delivery firms, were owed about £25 million. The pieces were sold off for **less than $2 million in total**. Malmsten later said simply that it was his fault.",
+      "src": [
+        0,
+        1,
+        2,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1998",
+      "event": "Malmsten, Leander and Hedelin start Boo after selling their online bookshop Bokus",
+      "kind": "start",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "1999",
+      "event": "Raises money from the Benetton family, Bernard Arnault, J.P. Morgan and Goldman Sachs",
+      "kind": "money",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "May 1999",
+      "event": "Planned launch date passes with no new date",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jul 1999",
+      "event": "First full system test fails badly",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Oct 1999",
+      "event": "About 400 staff across offices in London, New York, Paris, Stockholm and Munich",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 1999",
+      "event": "Launches six months late; about 1 in 4 purchases succeed; doesn't work on Macs",
+      "kind": "crisis",
+      "src": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Early 2000",
+      "event": "Stock-market listing postponed; first mass layoffs",
+      "kind": "crisis",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "date": "May 2000",
+      "event": "Spending about $3M a month against roughly $0.5M of monthly sales",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "18 May 2000",
+      "event": "Investors refuse more money; KPMG liquidators take over",
+      "kind": "end",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    },
+    {
+      "date": "Jun 2000",
+      "event": "Technology sold to Bright Station; brand and Miss Boo sold to Fashionmall.com",
+      "kind": "after",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "2001",
+      "event": "Malmsten publishes the memoir 'Boo Hoo'",
+      "kind": "after",
+      "src": [
+        0,
+        5
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "burn",
+      "weight": 35
+    },
+    {
+      "key": "tech",
+      "weight": 30
+    },
+    {
+      "key": "over-expansion",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Spent big before the product worked",
+      "explain": "Boo hired hundreds of people, opened offices in five expensive cities and spent **$25 million on ads before the site existed**. Visitors who came from the ads found a holding page. When the site finally launched, the money had already gone on things that don't sell clothes.",
+      "src": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Built for computers customers didn't have",
+      "explain": "The site used heavy Flash and 3D images when **most shoppers used slow dial-up internet**. It didn't work on Macs, and at first only about a quarter of purchases went through. Analysts said the lesson was simple: sites must be fast and easy to use.",
+      "src": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Went global on day one",
+      "explain": "Boo aimed at **18 markets with seven languages and 18 currencies** from the start. Each country added tax rules, translation and delivery partners. Its interim tech chief said one French sale could be taxed three ways. A single country would have taught them the same lessons for a fraction of the cost.",
+      "src": [
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "Free returns without doing the maths",
+      "explain": "Free returns sounded customer-friendly. But Boo **paid its partners for every return**, and shoppers ordered several sizes and sent most back. Nobody had planned for the volume or the cost. Returns piled up in warehouses and the bills went to Boo. A small free-returns test in one country would have shown the real cost early.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "No grown-up money controls",
+      "explain": "London had **no formal purchase-order process and no permanent finance chief**. The finance director hired after a six-month search left after two months. Without someone watching every pound, spending on travel, parties and perks went unchecked. Investors had even asked founders to cap monthly spending, a sign that the controls were missing inside.",
+      "src": [
+        2,
+        6
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you spending on advertising before customers can actually buy?",
+    "Does your product feel slow or break on the cheapest phone and slowest internet your customers use?",
+    "Is your launch date always 'two weeks away'?",
+    "Are you entering a second country or city before the first one works?",
+    "Can people in your team spend money without anyone approving it?",
+    "Are you offering free returns or refunds without knowing what each one costs you?"
+  ],
+  "lessons": [
+    {
+      "title": "Design for your customer's real device",
+      "detail": "In India that might mean a budget Android phone on patchy 4G. Test your app on it. If it is slow or crashes, fancy features are just cost."
+    },
+    {
+      "title": "One market first",
+      "detail": "Start in one city or one country, one language, one currency. Learn about returns, taxes and delivery there. Expand only when it works without you firefighting daily."
+    },
+    {
+      "title": "Ship a simple version early",
+      "detail": "Boo kept chasing a perfect launch. A basic site selling a few products in early 1999 would have taught it more, and cost far less, than months of delays."
+    },
+    {
+      "title": "Price your generous policies",
+      "detail": "Free returns, free delivery and cashback all cost money. Work out the cost per order and the abuse risk before announcing them, as fashion apps now do with return fees and limits."
+    },
+    {
+      "title": "Hire a money person early",
+      "detail": "Even a small startup needs someone who tracks cash every week and says no. Set spending limits and approval rules before the big cheque arrives, not after."
+    }
+  ],
+  "quote": {
+    "text": "Ultimately, it's my fault.",
+    "who": "Ernst Malmsten, co-founder and CEO of Boo.com",
+    "context": "Speaking to Newsweek after Boo.com collapsed in 2000",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "KPMG's liquidators sold Boo's software to Bright Station, reportedly for about £250,000, and that technology later became the base of an e-commerce company called Venda. Fashionmall.com bought the Boo brand, web address and Miss Boo, and briefly relaunched the site. Malmsten, with co-authors, wrote 'Boo Hoo', a frank memoir of the rise and fall. Ideas Boo pioneered, like online luxury fashion, free returns and seeing clothes from every angle, are normal in fashion apps today.",
+    "src": [
+      0,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Boo.com (citing NYT, The Guardian and the founders' memoir)",
+      "url": "https://en.wikipedia.org/wiki/Boo.com"
+    },
+    {
+      "label": "Insurance Journal (wire report): U.K. e-retailer collapses (19 May 2000)",
+      "url": "https://insurancejournal.com/news/international/2000/05/19/10297.htm"
+    },
+    {
+      "label": "Newsweek: Hitting the wall at Boo (2000)",
+      "url": "https://www.newsweek.com/hitting-wall-boo-161937"
+    },
+    {
+      "label": "Tristan Louis (Boo.com's interim CTO): Boo.com goes bust, a post-mortem (May 2000)",
+      "url": "http://tnl.net/blog/2000/05/19/boocom-goes-bust/"
+    },
+    {
+      "label": "The Hustle: Miss Boo, a fashionista ahead of her time",
+      "url": "https://thehustle.co/miss-boo-a-fashionista-ahead-of-her-time"
+    },
+    {
+      "label": "Kirkus Reviews: Boo Hoo by Ernst Malmsten",
+      "url": "https://kirkusreviews.com/book-reviews/ernst-malmsten/boo-hoo/print"
+    },
+    {
+      "label": "Accountancy Age: KPMG finds buyers for Boo.com (2000)",
+      "url": "https://www.accountancyage.com/aa/news/1784051/kpmg-buyers-boocom"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "How much Boo raised and burned",
+        "note": "Most sources say $135 million over about 18 months; AP said it started with $120 million; one retelling says £125 million in six months."
+      },
+      {
+        "claim": "Boo was valued at about $390 million",
+        "note": "Repeated in some retellings; we found no primary source, so it is left out."
+      },
+      {
+        "claim": "Founding year",
+        "note": "The founders started in 1998; some records give 1999 as the company's formal founding date."
+      },
+      {
+        "claim": "Bright Station paid £250,000 for the technology",
+        "note": "Accountancy Age called the price undisclosed but rumoured at about £250,000."
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "slug": "iridium",
+  "name": "Iridium",
+  "region": "global",
+  "country": "United States",
+  "city": null,
+  "sector": "Satellite phones",
+  "founded": 1993,
+  "died": 1999,
+  "status": "bankrupt",
+  "brandColor": "#00539b",
+  "founders": [
+    {
+      "name": "Bary Bertiger",
+      "role": "Motorola engineer, co-conceived the system"
+    },
+    {
+      "name": "Raymond J. Leopold",
+      "role": "Motorola engineer, co-conceived the system"
+    },
+    {
+      "name": "Ken Peterson",
+      "role": "Motorola engineer, co-conceived the system"
+    }
+  ],
+  "epitaph": "Reached every corner of Earth. Except the market.",
+  "oneLiner": "A network of 66 satellites, backed by Motorola, that let you make a phone call from anywhere on the planet using a handheld phone.",
+  "causeOfDeath": "It borrowed billions to build a satellite network before testing demand, then sold bulky $3,000 phones that failed indoors just as cheap mobiles spread.",
+  "raisedUsdM": 5200,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 25,
+  "moneyNote": "From Iridium's 1999 SEC filings: about $2.2B of equity plus about $3.0B of debt by March 1999 (~$5.2B). The network was sold out of bankruptcy for about $25M, wiping out over $4B of debt.",
+  "moneySrc": [
+    0,
+    1,
+    2
+  ],
+  "inOneMinute": [
+    "Motorola engineers dreamed up a phone that works **anywhere on Earth**, linked to 66 satellites. Building it cost about $5 billion, much of it borrowed.",
+    "Service began in November 1998. By March 1999 it had **10,294 subscribers, against 52,000 promised to lenders**. Phones cost $3,000+ and didn't work indoors.",
+    "It went bankrupt in August 1999, nine months after launch. **New owners bought the whole network for about $25 million**, and it still flies today."
+  ],
+  "killerLine": "**Prove people will pay before you build the expensive thing.** Brilliant engineering cannot rescue a product nobody needs at that price.",
+  "numbers": [
+    {
+      "value": "$5B",
+      "label": "approximate cost to set up the first satellite fleet",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "10,294",
+      "label": "subscribers in March 1999, against 52,000 promised to lenders",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$505M",
+      "label": "lost in Jan–Mar 1999, on just $1.45M of revenue",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$25M",
+      "label": "what the whole network sold for out of bankruptcy",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a phone that works everywhere",
+      "body": "In late 1987, three Motorola engineers, Bary Bertiger, Raymond Leopold and Ken Peterson, had a bold idea. Instead of mobile towers on the ground, why not put a ring of satellites in low orbit around Earth? Then **one handheld phone could call from anywhere**: a desert, a ship, the top of a mountain. The plan first needed 77 satellites, so they named it after iridium, element number 77. Later only 66 were needed. From July 1993, Motorola built the system under fixed-price contracts, with the space part alone worth about $3.4 billion. Motorola was the main supplier and also appointed six of the company's directors. It was one of the most ambitious engineering projects ever attempted by a company.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "The rise: rockets, money and a first call",
+      "body": "The first satellites went up on 5 May 1997. Over the next years, 95 were launched. To pay for it, Iridium raised about **$2.2 billion from investors and borrowed around $3 billion** more, including bank loans guaranteed by Motorola. Its shares traded on the Nasdaq. On 1 November 1998, service launched, and US Vice-President Al Gore made the first call. Technically, it worked: you really could phone from almost anywhere outdoors. Iridium planned to sell to travelling executives, industries working in remote places and governments, through hundreds of local service providers. The total setup cost reached **about $5 billion**. Now it just needed tens of thousands of paying customers, fast.",
+      "src": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: too big, too pricey, too late",
+      "body": "The phones cost **at least $3,000** in shops and weighed about half a kilo, many times a normal mobile. They needed a clear view of the sky, so they **did not work well indoors**. Meanwhile, ordinary mobile networks were spreading across cities and airports worldwide, making a satellite phone unnecessary for most business travellers. Iridium itself admitted its prices were too complex. Of over 300 sales partners, only 86 were fully set up. By 31 March 1999, it had 10,294 subscribers. Its lenders had required 52,000. That quarter it earned $1.45 million and **lost $505 million**. Think of it as the opposite of Jio: a premium service arriving just as calling was getting cheap everywhere.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The fall: bankrupt in nine months",
+      "body": "Iridium had about $3 billion of debt and no way to repay it. Lenders could demand their money back once it missed its subscriber and revenue targets, and it did. On 13 August 1999, just **nine months after launch**, Iridium filed for bankruptcy, one of the largest in the US at the time. In August 2000, Motorola announced the satellites would have to be brought down to burn up in the atmosphere. At the last moment, a group of private investors stepped in. In December 2000 the US government signed a $72 million, two-year contract, and the network was sold for **about $25 million**, wiping out over $4 billion of debt. Service restarted in 2001 under new owners.",
+      "src": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Late 1987",
+      "event": "Three Motorola engineers conceive a satellite phone network",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jul 1993",
+      "event": "Iridium's predecessor is set up; Motorola starts building under fixed-price contracts",
+      "kind": "start",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "May 1997",
+      "event": "First satellites launched",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "1 Nov 1998",
+      "event": "Service launches; Al Gore makes the first call",
+      "kind": "peak",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "1998",
+      "event": "Loses $1.25 billion in the year ($364M in Jul–Sep alone); revenue just $186,000",
+      "kind": "warning",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "31 Mar 1999",
+      "event": "10,294 subscribers vs 52,000 required by lenders; quarter loss $505M",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "13 Aug 1999",
+      "event": "Files for bankruptcy, nine months after launch",
+      "kind": "end",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Aug 2000",
+      "event": "Motorola announces the satellites will be brought down",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Dec 2000",
+      "event": "US government signs $72M contract; network sold for about $25M",
+      "kind": "after",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2001",
+      "event": "Service restarts under Iridium Satellite LLC",
+      "kind": "after",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2017–2019",
+      "event": "75 new-generation satellites launched on SpaceX rockets",
+      "kind": "after",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "Iridium Communications earns $830.7M with about 2.46 million subscribers",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "1996",
+        "1997",
+        "1998",
+        "Q1 1999"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            null,
+            null,
+            0.186,
+            1.451
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            73.6,
+            293.6,
+            1250,
+            505.4
+          ]
+        }
+      ],
+      "takeaway": "Revenue was so small it barely shows; in its first full quarter of service it lost about $348 for every $1 it earned.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Subscribers: promised vs real",
+      "unit": "thousand subscribers",
+      "kind": "bar",
+      "labels": [
+        "31 Mar 1999"
+      ],
+      "series": [
+        {
+          "name": "Required by lenders",
+          "values": [
+            52
+          ]
+        },
+        {
+          "name": "Actual",
+          "values": [
+            10.3
+          ]
+        }
+      ],
+      "takeaway": "Iridium signed up about one-fifth of the customers its lenders required.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "no-market",
+      "weight": 35
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "timing",
+      "weight": 25
+    },
+    {
+      "key": "tech",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Built everything before testing demand",
+      "explain": "A satellite phone is useless until the whole constellation is up, so Iridium **had to spend about $5 billion before selling a single call**. Nobody had proved enough people would pay. When customers didn't come, there was no smaller version to fall back on.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The product didn't fit real life",
+      "explain": "The phones cost **$3,000 or more**, weighed about half a kilo and needed open sky, so they struggled indoors. Business travellers, the main target, mostly worked in cities and airports, where ordinary mobile phones were spreading fast and cost far less.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Borrowed against targets it couldn't hit",
+      "explain": "About $3 billion of debt came with promises: 52,000 subscribers by March 1999. It had 10,294. Missing those targets **let lenders demand their money back**, which pushed Iridium into bankruptcy only nine months after launch. Loans must be repaid on a fixed schedule, whatever happens to sales.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Confusing prices, weak selling",
+      "explain": "Iridium itself admitted its **pricing was too complex**. It sold through more than 300 local partners, but only 86 were fully set up by March 1999. Even interested customers found it hard to buy. A product that is hard to buy loses even the customers who already want it.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Main backer was also main supplier",
+      "explain": "Motorola built the satellites and ground systems under contracts worth billions, guaranteed bank loans and **appointed six directors**. When the people building the product also steer the company, it is harder for anyone to stop and ask whether the market is really there.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do you need to spend most of your money before your first customer can use the product?",
+    "Is your product much pricier and bulkier than the 'good enough' option people already have?",
+    "Have you taken loans or signed deals with targets you've never come close to hitting?",
+    "Do customers say your pricing is confusing?",
+    "Is the person supplying your product also deciding your company's strategy?"
+  ],
+  "lessons": [
+    {
+      "title": "Find the smallest test of demand",
+      "detail": "Before building, sell. Take pre-orders, run a pilot in one region, or rent capacity from someone else. If people won't commit money early, they probably won't later."
+    },
+    {
+      "title": "Watch the cheap alternative",
+      "detail": "Iridium's real competitor was not another satellite company; it was the ordinary mobile phone getting cheaper every year. Ask what 'good enough' option your customers might choose instead."
+    },
+    {
+      "title": "Avoid debt for unproven ideas",
+      "detail": "Loans must be repaid on schedule, whether customers come or not. Use equity, grants or revenue for experiments; borrow only once cash flow is predictable."
+    },
+    {
+      "title": "Make buying painfully simple",
+      "detail": "One clear price and one easy way to buy. If a customer has to ask three people how much it costs, you have already lost many of them."
+    },
+    {
+      "title": "The right niche can save a great technology",
+      "detail": "The new Iridium sells to militaries, ships, explorers and remote industries who truly need it. Ask who needs your product so badly that price barely matters, and start with them."
+    }
+  ],
+  "quote": {
+    "text": "There never was a viable market.",
+    "who": "A wireless industry analyst",
+    "context": "Quoted in The New York Times, October 1999, after Iridium's bankruptcy",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Iridium's satellites were saved from destruction. Private investors bought the network for about $25 million, free of the old $4 billion-plus debt, and the US government became a key customer. Without the giant debt, the business worked by serving people who truly need a phone anywhere: militaries, ships, aircraft and explorers. Its successor launched 75 new satellites on SpaceX rockets between 2017 and 2019. In 2024, Iridium Communications earned $830.7 million with about 2.46 million subscribers, and the US government provided 27% of its revenue.",
+    "src": [
+      2,
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC: Iridium World Communications / Iridium LLC Form 10-K for 1998 (filed Mar 1999)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1035442/0000950133-99-001138.txt"
+    },
+    {
+      "label": "SEC: Iridium World Communications / Iridium LLC Form 10-Q for Q1 1999 (filed May 1999)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1035442/0000950133-99-001884.txt"
+    },
+    {
+      "label": "Wikipedia: Iridium Communications (bankruptcy, sale, rescue)",
+      "url": "https://en.wikipedia.org/wiki/Iridium_Communications"
+    },
+    {
+      "label": "Wikipedia: Iridium satellite constellation (citing NYT Oct 1999 and Advertising Age Jul 1999)",
+      "url": "https://en.wikipedia.org/wiki/Iridium_satellite_constellation"
+    },
+    {
+      "label": "SEC: Iridium Communications Inc. Form 10-K for 2024 (filed Feb 2025)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1418819/000162828025005302/irdm-20241231.htm"
+    },
+    {
+      "label": "SEC: Iridium World Communications / Iridium LLC Form 10-Q for Q3 1998 (filed Nov 1998)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1035442/0000950133-98-003784.txt"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Founded in 1991",
+        "note": "Many accounts date Iridium's company to 1991; its SEC filings date the predecessor's inception to 29 July 1993. The idea dates to 1987."
+      },
+      {
+        "claim": "Date and price of the rescue sale",
+        "note": "The sale for about $25 million is variously dated December 2000 or March 2001 (court approval)."
+      },
+      {
+        "claim": "Calls cost $3–$7 a minute",
+        "note": "Commonly repeated; Iridium's filings describe a mix of fees without giving a single per-minute price, so it is left out."
+      },
+      {
+        "claim": "Phone weight",
+        "note": "Advertising Age (via Wikipedia) said about 1 pound (454 g); models varied."
+      }
+    ]
+  }
+}

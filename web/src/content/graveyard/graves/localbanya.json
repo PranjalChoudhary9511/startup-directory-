@@ -1,0 +1,468 @@
+{
+  "slug": "localbanya",
+  "name": "LocalBanya",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Online grocery",
+  "founded": 2012,
+  "died": 2015,
+  "status": "shut-down",
+  "brandColor": "#e2701f",
+  "founders": [
+    {
+      "name": "Karan Mehrotra",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Rashi Choudhary",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Amit Naik",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Your banya is upgrading. Back shortly.",
+  "oneLiner": "An online supermarket from Mumbai that stocked groceries in its own warehouses and delivered them to your door.",
+  "causeOfDeath": "It spent about ₹178 for every ₹100 it earned, opened five cities in one year, and ran dry when a big new funding round never arrived.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Every LocalBanya round (Times Group's Springboard fund, Karmvir Avant Group, Shrem Strategies) was undisclosed, so we leave the totals blank; see the fact check for estimates. Loss figures are in ₹ crore from filings summarised by Inc42 Datalabs; ₹14.8 crore was about $2.4 million at FY15's rate of roughly ₹62 to the dollar.",
+  "moneySrc": [
+    5,
+    0,
+    6
+  ],
+  "inOneMinute": [
+    "LocalBanya grew to about **1,200 deliveries a day** and six cities, but in FY15 it spent ₹33.5 crore to earn ₹18.8 crore.",
+    "It spent months chasing a **$15–20 million round** that never closed, while rivals like BigBasket and Grofers raised far bigger sums.",
+    "In October 2015 the site went dark with a cheerful 'upgrading' notice. Staff said they **had not been paid for two months**."
+  ],
+  "killerLine": "A plan that only works if the next round arrives is not a plan. **Grow at the speed of your own cash.**",
+  "numbers": [
+    {
+      "value": "₹178",
+      "label": "spent for every ₹100 of revenue in FY15",
+      "src": [
+        6
+      ]
+    },
+    {
+      "value": "₹14.8 cr",
+      "label": "loss in FY15, on ₹18.8 crore of revenue",
+      "src": [
+        6
+      ]
+    },
+    {
+      "value": "1,200",
+      "label": "deliveries a day at its peak (May 2015)",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "2 months",
+      "label": "staff said they went unpaid before the shutdown",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "A banya is the neighbourhood shopkeeper who has sold Indian families their rice, dal and soap for generations. In 2012, in Mumbai, Karan Mehrotra, Rashi Choudhary and Amit Naik set out to put that shop online. LocalBanya was an **online supermarket**: you picked from 20 categories, from vegetables to detergent, and it delivered. Unlike apps that just passed your order to a local store, LocalBanya kept stock in **its own warehouses**, in Goregaon and in Rabale in Navi Mumbai, and also bought through cash-and-carry wholesalers. The Times Group's Springboard fund and Karmvir Avant Group, a Mumbai property developer, invested early. By May 2014 the company said it was making about 750 deliveries a day and **growing about 25% a month**.",
+      "src": [
+        5,
+        3
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "In 2014 LocalBanya was talking to investors about $5 million to open a third warehouse in Kurla and enter four more metros. In late 2014 it raised money from Shrem Strategies, and the expansion began. Pune opened in February 2015, then Hyderabad, then Delhi on 19 April. By May it said it had over 100,000 customers, about 14,000 products, an average basket of ₹1,400 and **1,200 deliveries a day**, aiming for 2,000 by the end of the month. It planned to add **a new city every month** of 2015. Its revenue had more than doubled, from ₹7.9 crore in FY14 to ₹18.8 crore in FY15. In February 2015 it said it was preparing a fourth round of about $15 million.",
+      "src": [
+        5,
+        3,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "Revenue looked healthy. Costs looked scary. In FY15 LocalBanya spent ₹33.5 crore to bring in ₹18.8 crore, a **loss of ₹14.8 crore**. Grocery is a thin-margin business: Technopak estimated online grocers kept less than 10% of each sale, and delivery and discounts ate much of that. Each new city needed warehouses, vans and staff before it earned a rupee. Meanwhile rivals were raising huge sums in 2015: Grofers $35 million, PepperTap $36 million and BigBasket $50 million. LocalBanya had been trying to raise **$15–20 million for several months**, without success. By September, staff were job-hunting because salaries had stopped arriving, and customers were complaining on Facebook about orders that never came.",
+      "src": [
+        6,
+        0
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In October 2015 the website switched off with a cheerful notice: **\"Your banya is upgrading his technology and services.\"** It promised to be back shortly. A month later, 40 employees said they had not been paid for two months and were taking the company to court after police did not step in. Two vendors said they had been dropped for lack of funds. Mehrotra denied that money was the problem. By January 2016 the site was down, former staff and vendors were airing unpaid dues on social media, and the founders could not be reached. Mehrotra told a newspaper the team was **\"working on building a new platform\"**. We found no record of that platform, or of LocalBanya, ever returning.",
+      "src": [
+        0,
+        1,
+        2,
+        7
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Karan Mehrotra, Rashi Choudhary and Amit Naik start LocalBanya in Mumbai.",
+      "kind": "start",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "Early 2014",
+      "event": "Raises an undisclosed Series A from Mumbai developer Karmvir Avant Group.",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "May 2014",
+      "event": "About 750 deliveries a day from two warehouses; in talks to raise $5 million.",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Late 2014",
+      "event": "Raises an undisclosed round from Shrem Strategies.",
+      "kind": "money",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Feb–Apr 2015",
+      "event": "Opens Pune, Hyderabad and Delhi in about three months.",
+      "kind": "peak",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "May 2015",
+      "event": "Hits about 1,200 deliveries a day and over 100,000 customers.",
+      "kind": "peak",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "FY15",
+      "event": "Filings show a ₹14.8 crore loss on ₹18.8 crore of revenue.",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "event": "Suspends operations for an 'upgrade' after months of failing to raise $15–20 million.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2015",
+      "event": "40 employees say they have gone two months unpaid and plan to go to court.",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jan 2016",
+      "event": "Website down, founders unreachable; Mehrotra says a 'new platform' is coming. It never appears.",
+      "kind": "end",
+      "src": [
+        2,
+        7
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY14",
+        "FY15"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            7.9,
+            18.8
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            null,
+            14.8
+          ]
+        }
+      ],
+      "takeaway": "Revenue more than doubled, but in FY15 the loss was almost as big as the revenue itself. FY14's loss was not published.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "Deliveries per day",
+      "unit": "deliveries per day",
+      "kind": "line",
+      "labels": [
+        "May 2014",
+        "Apr 2015",
+        "May 2015"
+      ],
+      "series": [
+        {
+          "name": "Deliveries a day (company figures)",
+          "values": [
+            750,
+            1000,
+            1200
+          ]
+        }
+      ],
+      "takeaway": "Orders grew steadily but slowly, about 60% in a year, while the company was opening a new city every few weeks.",
+      "src": [
+        5,
+        3,
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2013",
+      "round": "Early investment",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "BCCL (Times Group) Brand Capital Springboard"
+      ],
+      "src": [
+        5,
+        3
+      ]
+    },
+    {
+      "date": "Early 2014",
+      "round": "Series A",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Karmvir Avant Group"
+      ],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Late 2014",
+      "round": "Follow-on round",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Shrem Strategies"
+      ],
+      "src": [
+        0,
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "burn",
+      "weight": 35
+    },
+    {
+      "key": "funding-dried",
+      "weight": 30
+    },
+    {
+      "key": "over-expansion",
+      "weight": 20
+    },
+    {
+      "key": "competition",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Spent ₹178 to earn ₹100",
+      "explain": "In FY15 LocalBanya's costs were ₹33.5 crore against ₹18.8 crore of revenue. In a business where online grocers keep **less than 10% of each sale**, that gap cannot be closed by selling more. Every extra order also needed stock, warehouse space and a delivery run. The team needed to prove one city could cover its own costs before the losses grew.",
+      "src": [
+        6,
+        0
+      ]
+    },
+    {
+      "title": "Opened a city every few weeks",
+      "explain": "LocalBanya went from Mumbai to Pune, Hyderabad, Delhi, the National Capital Region and Ghaziabad in 2015, and planned **a new city every month**. A warehouse-based grocer pays for space, stock and vans before the first order arrives. With Mumbai still losing money, each new city added cost faster than it could add profit.",
+      "src": [
+        4,
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Bet everything on the next round",
+      "explain": "It talked about raising $5 million in 2014, about $15 million in early 2015, and **$15–20 million for months** before it suspended operations. None of these bigger rounds was ever reported as closed. The spending plan assumed the money would come. When it didn't, there was no smaller, cheaper plan to fall back on.",
+      "src": [
+        5,
+        8,
+        0
+      ]
+    },
+    {
+      "title": "Went quiet instead of coming clean",
+      "explain": "The site called the shutdown an 'upgrade'. The founder publicly said money was not the problem, while staff said they had gone **two months without pay** and vendors were being let go. When the people who work for you learn the truth from rumours and police stations, **trust collapses** and so does any chance of a comeback.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Fought far richer rivals on thin margins",
+      "explain": "In 2015 Grofers, PepperTap and BigBasket each raised $35–50 million, and Amazon, Paytm and Reliance were circling grocery. LocalBanya's rounds were small and undisclosed. Competing on discounts and speed against companies with **ten times the cash** is a fight a small player cannot win; a narrower niche might have been survivable.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do your total costs come to more than your revenue, even before you count expansion?",
+    "Are you opening a new city or campus before your first one covers its own costs?",
+    "Does your budget for the next six months depend on a funding round that has not closed yet?",
+    "Have you ever paid salaries late, or are you quietly worried you might soon?",
+    "Are your main rivals raising five or ten times more money than you, to fight for the same customers?"
+  ],
+  "lessons": [
+    {
+      "title": "Know your cost per ₹100",
+      "detail": "Add up every cost for a month and divide by revenue. If you spend ₹178 to earn ₹100, growth makes things worse, not better. Fix that number in one place first."
+    },
+    {
+      "title": "Earn the right to a second city",
+      "detail": "Set a clear test before expanding: for example, three months in a row where your first city covers its own costs. Only then copy the playbook."
+    },
+    {
+      "title": "Write the 'no new money' budget",
+      "detail": "Keep a second plan for the case where the round never closes. Cut to that plan early, while you can still pay everyone in full."
+    },
+    {
+      "title": "Salaries are a sacred promise",
+      "detail": "If you can't pay people, tell them first, in person, with the honest reason. Calling it an 'upgrade' saves face for a week and costs your reputation for years."
+    },
+    {
+      "title": "Pick fights you can afford",
+      "detail": "When rivals have far more money, don't copy them city by city. Win a narrow niche, like one neighbourhood, one product range or one customer type, that they ignore."
+    }
+  ],
+  "quote": {
+    "text": "Our current team is well structured and the organisation continues to attract talent",
+    "who": "Karan Mehrotra, founder",
+    "context": "Denying cash trouble in late 2015, around the time 40 employees said they had not been paid for two months, as reported by OfficeChai.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "LocalBanya never reopened. In January 2016 Karan Mehrotra said the team was building a new platform and would explain the shutdown within weeks; we found no record of either. Former employees and vendors were left chasing unpaid dues. Inc42's database shows no financial figures for its company, Mn&C Supply Links Retail, after FY15. The online grocery race LocalBanya entered early went on without it, led by far better-funded rivals such as BigBasket and Grofers.",
+    "src": [
+      2,
+      7,
+      6,
+      0
+    ]
+  },
+  "sources": [
+    {
+      "label": "Inc42: Online grocery startup Localbanya temporarily suspends operations (Oct 2015)",
+      "url": "https://inc42.com/flash-feed/localbanya-temporarily-suspends-operations/"
+    },
+    {
+      "label": "OfficeChai: Local Banya faces cash crunch, employees have not been paid for 2 months (Nov 2015)",
+      "url": "https://officechai.com/news/local-banya-faces-cash-crunch-employees-have-not-been-paid-for-2-months/"
+    },
+    {
+      "label": "Inc42: Localbanya accused of not clearing salaries and payments (Jan 2016)",
+      "url": "https://inc42.com/flash-feed/localbanya-employees-customers-feel-cheated"
+    },
+    {
+      "label": "MediaNama: Localbanya starts operations in Hyderabad (Apr 2015)",
+      "url": "https://www.medianama.com/2015/04/223-e-commerce-roundup-localbanya-and-getmypeon/"
+    },
+    {
+      "label": "afaqs!: Localbanya kicks off operations in Delhi (May 2015)",
+      "url": "https://www.afaqs.com/news/digital/44067_localbanya-kicks-off-operations-in-delhi"
+    },
+    {
+      "label": "PYMNTS (citing VCCircle): Online market LocalBanya in talks to raise $5M (May 2014)",
+      "url": "https://www.pymnts.com/news/2014/online-market-localbanya-in-talks-to-raise-5m-in-series-b-funding/"
+    },
+    {
+      "label": "Inc42 Datalabs: LocalBanya (Mn&C Supply Links Retail) financials, FY14–FY15",
+      "url": "https://inc42.com/company/localbanya/financials/"
+    },
+    {
+      "label": "Retail4Growth: Grofers shuts down operations in nine cities, with LocalBanya update (Jan 2016)",
+      "url": "https://www.retail4growth.com/news/grofers-shuts-down-operations-in-nine-cities-1833"
+    },
+    {
+      "label": "Business Standard via Bain & Company: LocalBanya aims to raise $15 million in the next quarter (Feb 2015)",
+      "url": "https://www.bain.com/ja/about-bain/media-center/bain-in-the-news/2015/localbanya-aims-to-raise-15-million-in-the-next-quarter/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total money raised.",
+        "note": "No round amount was ever officially disclosed. Inc42 Datalabs lists $5 million+ across two rounds; secondary profiles cite Business Standard for about $20 million across three rounds; PitchBook reportedly lists $27.6 million. We could not verify any of these against a primary source, so raisedUsdM is left blank."
+      },
+      {
+        "claim": "The Series A from Karmvir Avant Group was $5 million.",
+        "note": "Appears only on secondary profile sites. Contemporary reports (via VCCircle) called the amount undisclosed."
+      },
+      {
+        "claim": "LocalBanya laid off about 40% of its staff.",
+        "note": "Inc42 reported this only as a rumour in January 2016. Not confirmed."
+      },
+      {
+        "claim": "Year of death.",
+        "note": "Operations stopped in October 2015 and never resumed; some end-of-year roundups list it among 2016's grocery failures because the founders were still promising a relaunch in January 2016. We use 2015, the last year it delivered groceries."
+      },
+      {
+        "claim": "Notes mentioning fraud notices against the founders.",
+        "note": "Inc42 quoted an anonymous note about civil and criminal notices. No court case or charge was reported in sources we could read, so it is left out of the story."
+      }
+    ]
+  }
+}

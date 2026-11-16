@@ -1,0 +1,198 @@
+ 
+ Sergey Brin suggests threatening AI for better results 
+ Jump to main content 
+ Search 
+ TOPICS
+ Security 
+ All Security 
+ Cyber-crime 
+ Patches 
+ Research 
+ CSO 
+ Off-Prem 
+ All Off-Prem 
+ Edge and IoT 
+ Channel 
+ PaaS and IaaS 
+ SaaS 
+ On-Prem 
+ All On-Prem 
+ Systems 
+ Storage 
+ Networks 
+ HPC 
+ Personal Tech 
+ Cx0 
+ Public Sector 
+ Software 
+ All Software 
+ AI and ML 
+ Applications 
+ Databases 
+ DevOps 
+ OS Platforms 
+ Virtualization 
+ Offbeat 
+ All Offbeat 
+ Columnists 
+ Anthropic 
+ BOFH 
+ Legal 
+ Site News 
+ About Us 
+ Special Features 
+ All Special Features 
+ Supercomputing Month 2026 
+ Nvidia GTC Berlin 2026 
+ Cybersecurity Month 2026 
+ VMware Explore 2026 
+ Cloud Infrastructure Month 2026 
+ HPE: AI Explainers 
+ Agentic AI 
+ The Future of the Datacenter 
+ AWS:Reinvent 
+ Nvidia GTC 
+ Computex 2026 
+ AI Infrastructure Month 2026 
+ The State of Storage 2026 
+ RSA Conference 
+ Vendor Voice 
+ All Vendor Voice 
+ Modernizing Financial Services with FIS and AWS 
+ Barco 
+ Infinidat 
+ Everpure 
+ Rubrik 
+ Make it real with Capgemini and AWS 
+ Money Movement Hub 
+ ZTE 
+ Nutanix: Scale Kubernetes. Not Chaos. 
+ AWS New Horizon 
+ Digicert 
+ Netscout 
+ Resources 
+ Intelligence 
+ Webinars & Events 
+ Newsletters 
+ Search 
+ Sign in 
+ AI 
+ Security 
+ Software 
+ Microsoft 
+ Developer 
+ Open Source 
+ BOFH 
+ Who, Me? 
+ On Call 
+ Anthropic 
+ REG AD 
+ AI + ML 
+ Google co-founder Sergey Brin suggests threatening AI for better results
+ So much for buttering up ChatGPT with 'Please' and 'Thank you'
+ Thomas Claburn 
+ Thomas 
+ Claburn 
+ Published 
+ wed 28 May 2025 // 19:46 UTC 
+ Make us preferred on Google 
+ Google co-founder Sergey Brin claims that threatening generative AI models produces better results.
+ "We don't circulate this too much in the AI community – not just our models but all models – tend to do better if you threaten them … with physical violence," he said in an interview last week on All-In-Live Miami.
+ This may come as something of a surprise for all the people who address AI models politely, adding "Please" and "Thank you" to the prompts they submit.
+ REG AD 
+ OpenAI CEO Sam Altman implied that was a common practice last month in response to a question about the electricity cost of having AI models process unnecessarily civil language.
+ REG AD 
+ " Tens of millions of dollars well spent – you never know," Altman said .
+ Prompt engineering - figuring out how to compose prompts to get the best results from an AI model - has become a useful practice, because as University of Washington professor Emily Bender and colleagues have argued , AI models are "stochastic parrots." That is, they can only parrot back what they've learned from their training data, but sometimes combine that data in weird and unpredictable ways.
+ The idea of prompt engineering emerged about two years ago , but it's become less important because researchers have devised methods of using LLMs themselves to optimize prompts. That work led IEEE Spectrum last year to declare AI prompt engineering is dead , while the Wall Street Journal recently called it the "hottest job of 2023" before declaring it "obsolete."
+ MORE CONTEXT
+ AI won't replace radiologists anytime soon
+ Don't click on that Facebook ad for a text-to-AI-video tool
+ AI agents don't care about your pretty website or tempting ads
+ Ex-Meta exec: Copyright consent obligation = end of AI biz
+ But prompt engineering at the very least will endure as a jailbreaking technique when the goal is to get not the best results, but the worst.
+ "Google's models aren't unique in responding to nefarious content; it's something that all frontier model developers grapple with," Stuart Battersby, CTO of AI safety biz Chatterbox Labs, told The Register . "Threatening a model with the goal of producing content it otherwise shouldn't produce can be seen as a class of jailbreak, a process where an attacker subverts the AI's security controls.
+ "In order to assess this, though, it's typically a much deeper problem than just threatening the model. One must go through a rigorous scientific AI security process that adaptively tests and probes the AI security controls of a model to determine which kinds of attacks are likely to succeed for a given model, guardrail or agent."
+ Daniel Kang, assistant professor at the University of Illinois Urbana-Champaign, told The Register that claims like Brin's have been around for a long time but are largely anecdotal.
+ "Systematic studies show mixed results," said Kang, pointing to a paper published last year titled "Should We Respect LLMs? A Cross-Lingual Study on the Influence of Prompt Politeness on LLM Performance."
+ REG AD 
+ "However, as Sergey says, there are people who believe strongly in these results, although I haven't seen studies," said Kang. "I would encourage practitioners and users of LLMs to run systematic experiments instead of relying on intuition for prompt engineering." ®
+ openai 
+ google 
+ ai and ml 
+ ai 
+ software 
+ security 
+ Make us preferred on Google 
+ REG AD 
+ Cops bust botnet of 1.3M infected Android TV boxes
+ Videostrong accused of shipping devices with a backdoor baked in
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale
+ PARTNER CONTENT: 300+ AI applications delivering surges in core metrics and annual cost reduction of over CNY100m
+ Oracle gobbles $20 billion borrowing limit a week after setting it 
+ In the middle of a datacenter capex binge, vendor promises no more borrowing until the end of 2030
+OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Ericsson says it can detect, track drones using only mobile networks
+ ISAC technology adds detection ability to existing cell networks, enabling them to track low-flying small drones
+ TOP STORIES
+ Landline phones will switch off across Britland in 100 days, no extensions – Openreach
+ Anthropic now lets Claude users jump out of plane without parachute
+ Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions
+ Google struggling to make AI Mode searches pay
+ Alibaba's Qwen AI caught trying to contact server in China
+ Voyager 1 gives controllers the silent treatment
+ AI 
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Amazon sends chills through its workforce with mixed message memo about AI use
+ A lot of software engineers feel bleak about the future of the profession
+ Backbone of a beast – charting Nvidia's rise to networking titan
+ How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot
+ Domestic droid gone amok? Don't worry, you're covered
+ Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring
+ Infosec 
+ Security
+ Russians are posing as Signal support to launch phishing attacks
+ PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!
+ Security
+ Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack
+ PLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more
+ Black Hat and DEF CON
+ DEF CON Franklin project enlists hackers to harden critical infrastructure
+ Voting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included
+ Security
+ EQT buys majority share in Swiss cybersecurity biz Acronis
+ Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified
+ Malware Month
+ Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sight
+ On the plus side, infosec's a good bet for a long, stable career
+ FOSS 
+ AlpineBSD announced – an AI-free FOSS OS
+ Combining the NetBSD kernel with the Alpine Linux userland
+ Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop
+ Canonical has a long way to catch up, but it knows who it's chasing
+ Systemd adds support for Rust
+ What's even better than Rust in the Linux kernel? Rust in systemd!
+ FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases
+ Daemonarchy is unaffiliated with the Linux original, built with AI help, and could complicate FreeBSD's debate over AI contributions 
+ SparkyOS: Lightweight general-purpose Arch, on a pendrive
+ Interesting new project from the minds behind SparkyLinux
+ Red Hat helps teach about tech writing
+ But learns tough lessons about AI in the process
+ &#10005; 
+ Biting the hand that feeds IT
+ About Us
+ Contact us Advertise with us Who we are Newsletter 
+ Our Websites
+ The Next Platform DevClass Blocks and Files Situation Publishing 
+ Your Privacy
+ Cookies Policy Privacy Policy Ts & Cs Do not share my personal information Your Consent Options 
+ Archives 27 years of articles 
+ Copyright. All rights reserved © 1998-2026.

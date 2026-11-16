@@ -1,0 +1,440 @@
+{
+  "slug": "irl",
+  "name": "IRL",
+  "region": "global",
+  "country": "United States",
+  "city": "Berkeley",
+  "sector": "Social media app",
+  "founded": 2018,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#6c5ce7",
+  "founders": [
+    {
+      "name": "Abraham Shafi",
+      "role": "Co-founder and CEO (removed April 2023)"
+    },
+    {
+      "name": "Genrikh Khachatryan",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Millions of friends. Mostly bots, the board found.",
+  "oneLiner": "A social app for Gen Z to plan events and hang out 'in real life', pitched as the 'WeChat of the West'.",
+  "causeOfDeath": "Its huge user numbers were mostly bots and paid downloads; once the board looked, users collapsed and the company shut down.",
+  "raisedUsdM": 200,
+  "peakValuationUsdM": 1170,
+  "endValueUsdM": 0,
+  "moneyNote": "TechCrunch: IRL raised 'over $200 million'; $1.17 billion valuation from the June 2021 SoftBank-led Series C. The board chose to wind down and return remaining cash.",
+  "moneySrc": [
+    2,
+    3
+  ],
+  "inOneMinute": [
+    "IRL became a **$1.17 billion unicorn** in 2021, telling investors it grew 'organically' to 12 million monthly users.",
+    "The SEC alleges the growth was bought with millions in **'incent' ads** (apps paying people rewards to download) — hidden from investors, along with the founder's personal spending.",
+    "In 2023 a board-ordered analysis found **95% of users it could check were likely bots**. IRL shut down. The founders dispute that finding."
+  ],
+  "killerLine": "Bought growth isn't a crime. **Pretending bought growth is 'organic' is.**",
+  "numbers": [
+    {
+      "value": "$1.17 billion",
+      "label": "valuation after the 2021 SoftBank-led round",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "95%",
+      "label": "of users with usage data judged likely bots (board's forensic analysis)",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "value": "$5.7 million",
+      "label": "spent on 'incent' download ads, Sep 2019–Apr 2021 (SEC allegation)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "<$40K vs >$200K",
+      "label": "monthly marketing spend shown to investors vs actual incent-ad spend (SEC allegation)",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a social app for real life",
+      "body": "IRL started in 2018 with a sweet idea: an app to help friends plan events and meet **\"in real life\"**. When COVID hit in 2020 it pivoted to virtual events and group chats. Founder Abraham Shafi pitched big — he called it the **\"WeChat of the West\"**. The numbers seemed to back him up. In September 2020 IRL said it had 5.5 million monthly active users (people who use the app at least once a month). By February 2021 it claimed over 10 million. Top investors like Founders Fund, Floodgate and Goodwater Capital backed it. To a Gen Z audience leaving Facebook, IRL looked like the next big thing.",
+      "src": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The rise: a unicorn with 25 employees",
+      "body": "In June 2021, SoftBank's Vision Fund 2 led a **$170 million round** that valued IRL at $1.17 billion. IRL said it had 20 million users, 12 million monthly users and 400% growth in 15 months — with a team of just 25 people. During the fundraise, an investor texted Shafi that IRL had \"spent virtually zero on marketing\". The SEC says Shafi replied: **\"That's us! Real social.\"** According to the SEC, that was false. Since 2019 IRL had been spending heavily on incent ads, which pay people rewards in other apps (like extra game 'lives' or gift-card points) to download yours. Such users rarely stick around.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: costs relabelled as 'servers'",
+      "body": "The SEC alleges investors were shown a \"Spend Summary\" saying marketing averaged **under $40,000 a month**, while IRL was spending over $200,000 a month on one incent-ad platform alone. Payments were allegedly routed through friends' companies. After the round, Shafi allegedly told a vendor to label 90% of its bills as \"Infra Cost\" (servers and cloud). So the board saw $13.5 million of infrastructure and $4.2 million of growth spending in 2021 — when the truth was **the reverse**. The SEC also says Shafi raised his own salary from about $400,000 to $1 million without telling the board, and charged millions in personal costs, including wedding guests' flights, to company cards.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "The fall: the ghost town is revealed",
+      "body": "In June 2022 IRL laid off about 25% of staff, and employees began doubting the user numbers. In April 2023 the board's special committee **removed Shafi as CEO** after discovering the personal spending on company cards. Soon after, IRL's user numbers plunged. A forensic analysis ordered by the board found that **95% of users with detailed data were likely bots**. In June 2023 IRL announced it would shut down and return remaining cash to shareholders. SoftBank sued Shafi and IRL in August 2023, calling the app \"a virtual ghost town\". Shafi and his co-founder hit back, suing investors and claiming the bot finding was made up.",
+      "src": [
+        1,
+        2,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018",
+      "event": "Abraham Shafi and co-founders create IRL, an app for planning real-life events.",
+      "kind": "start",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2019",
+      "event": "IRL starts buying 'incent' ads to push downloads and climb the App Store charts (SEC allegation).",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2020",
+      "event": "Raises $16 million Series B after pivoting to virtual events; claims 5.5 million monthly users.",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "event": "SoftBank-led $170 million Series C values IRL at $1.17 billion.",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jun 2022",
+      "event": "Lays off ~25% of staff; CEO says cash will last well into 2024.",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Apr 2023",
+      "event": "Board removes Shafi as CEO over personal charges on company cards.",
+      "kind": "crisis",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Jun 2023",
+      "event": "Board analysis finds 95% of checkable users were likely bots; IRL announces shutdown.",
+      "kind": "end",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "event": "SoftBank sues Shafi and IRL, alleging a $150 million fraud.",
+      "kind": "after",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "event": "Founders sue investors, alleging the bot claim was invented to shut the company.",
+      "kind": "after",
+      "src": [
+        8
+      ]
+    },
+    {
+      "date": "31 Jul 2024",
+      "event": "SEC sues Shafi for fraud over the $170 million raise (civil case).",
+      "kind": "after",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "IRL's 2021 costs: told to the board vs reality",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Growth / ads",
+        "Infrastructure"
+      ],
+      "series": [
+        {
+          "name": "Reported to board",
+          "values": [
+            4.2,
+            13.5
+          ]
+        },
+        {
+          "name": "Actual (per SEC)",
+          "values": [
+            14.2,
+            3.4
+          ]
+        }
+      ],
+      "takeaway": "By relabelling ad bills as 'servers', the true cost of buying users was hidden — the numbers were simply flipped.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Monthly active users IRL claimed",
+      "unit": "million users",
+      "kind": "line",
+      "labels": [
+        "Sep 2020",
+        "Feb 2021",
+        "Jun 2021"
+      ],
+      "series": [
+        {
+          "name": "Claimed MAU",
+          "values": [
+            5.5,
+            10,
+            12
+          ]
+        }
+      ],
+      "takeaway": "The line went up and to the right — but a later forensic check found most checkable accounts were likely bots.",
+      "src": [
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Jun 2019",
+      "round": "Series A",
+      "amountUsdM": 8,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Sep 2020",
+      "round": "Series B",
+      "amountUsdM": 16,
+      "valuationUsdM": null,
+      "investors": [
+        "Goodwater Capital",
+        "Founders Fund",
+        "Floodgate",
+        "Raine"
+      ],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "round": "Series C",
+      "amountUsdM": 170,
+      "valuationUsdM": 1170,
+      "investors": [
+        "SoftBank Vision Fund 2",
+        "Dragoneer",
+        "Goodwater Capital",
+        "Founders Fund",
+        "Floodgate"
+      ],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 55
+    },
+    {
+      "key": "governance",
+      "weight": 25
+    },
+    {
+      "key": "no-market",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Selling bought downloads as 'organic' love",
+      "explain": "Paying for downloads is legal. The SEC's case is that IRL **hid that it was doing it** and told investors its App Store rank came from 'organic channels'. Investors paid a unicorn price for viral growth that, the SEC alleges, was largely purchased.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Cooking the expense labels",
+      "explain": "The SEC alleges ad spending was routed through friends' firms and then relabelled as server costs, so the board saw **$4.2 million of growth spend instead of $14.2 million**. Once you start renaming costs to hide them, every report after that is a lie.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Treating company money as personal money",
+      "explain": "Per the SEC, Shafi and his then-fiancée charged millions in personal costs to IRL cards — clothes, luxury Hawaii hotels, wedding guests' airfare — and he quietly raised his own pay to $1 million. **This is what finally got him removed**, before the bots were even counted.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Not enough real humans wanted the product",
+      "explain": "Under the fake numbers was a weak product. When the board's analysis looked at real usage, **the 'users' mostly behaved like bots**. Incent downloads bring people who want the reward, not the app — so they never stayed. Retention — people coming back week after week — is the only number that proves people want an app.",
+      "src": [
+        1,
+        7
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does a big share of your sign-ups come from paid or rewarded downloads that you don't mention in your pitch?",
+    "Are any costs in your books labelled as something other than what they really are?",
+    "Do payments to a marketing vendor go through a friend's company instead of directly?",
+    "Is your monthly-user number climbing while daily usage, retention or revenue stays flat?",
+    "Have you ever put personal expenses on the company card without a written, approved rule?",
+    "Would you struggle to explain to your board exactly where last quarter's growth came from?"
+  ],
+  "lessons": [
+    {
+      "title": "Report where your users come from",
+      "detail": "Split your growth into organic, paid and rewarded in every investor update. Paid growth is fine — investors just need to know its cost to judge if the business can ever make money."
+    },
+    {
+      "title": "Measure retention, not downloads",
+      "detail": "Track how many users come back after 7 and 30 days. Downloads are easy to buy; people who return every week are the only real proof you have built something."
+    },
+    {
+      "title": "Keep a hard wall between your wallet and the company's",
+      "detail": "Never use the company card for personal stuff, even 'temporarily'. Set a written expense policy from day one, and have someone else approve your own expenses."
+    },
+    {
+      "title": "As an employee, ask to see the cohort data",
+      "detail": "If headline users keep rising but nobody can show you retention by month, or the team is told not to talk about the numbers, treat that as a serious warning."
+    },
+    {
+      "title": "As an investor, check the raw data yourself",
+      "detail": "Ask for app-store install data, retention cohorts and the full ad-spend ledger. A third-party estimate of 9 million downloads against a claim of 12 million monthly users was a gap worth questioning."
+    }
+  ],
+  "quote": {
+    "text": "That's us! Real social.",
+    "who": "Abraham Shafi, as quoted in the SEC's complaint",
+    "context": "Alleged text reply in March 2021 after an investor said IRL had 'spent virtually zero on marketing' — while it was spending heavily on incent ads, per the SEC",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "On 31 July 2024 the SEC filed a civil fraud lawsuit against Shafi, seeking penalties, repayment and a ban from serving as a company officer; his wife was named as a 'relief defendant' (someone asked to return money but not accused of fraud). These are allegations, not court findings. SoftBank's 2023 fraud suit and the founders' countersuit against investors were also filed. We could not confirm the outcome of any of these cases, or any criminal charges, from sources we read as of November 2026.",
+    "src": [
+      0,
+      1,
+      7,
+      8
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC press release 2024-92: SEC charges founder of social media company 'IRL' with $170 million fraud (Jul 2024)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2024-92"
+    },
+    {
+      "label": "SEC v. Abraham Shafi, complaint, N.D. Cal. Case 4:24-cv-04636 (Jul 2024)",
+      "url": "https://www.sec.gov/files/litigation/complaints/2024/comp-pr2024-92.pdf"
+    },
+    {
+      "label": "TechCrunch: Unicorn social app IRL to shut down after admitting 95% of its users were fake (Jun 2023)",
+      "url": "https://techcrunch.com/2023/06/26/irl-shut-down-fake-users/"
+    },
+    {
+      "label": "TechCrunch: IRL hits unicorn status with SoftBank-led $170M Series C (Jun 2021)",
+      "url": "https://techcrunch.com/2021/06/15/messaging-social-network-irl-hits-unicorn-status-with-softbank-led-170m-series-c/"
+    },
+    {
+      "label": "TechCrunch: Now with over 10M monthly users, IRL turns into a social network (Feb 2021)",
+      "url": "https://techcrunch.com/2021/02/01/now-with-over-10m-monthly-users-irl-turns-its-events-website-into-a-social-network/"
+    },
+    {
+      "label": "TechCrunch: IRL raises $16M Series B after refocusing on virtual events (Sep 2020)",
+      "url": "https://techcrunch.com/2020/09/22/event-discovery-network-irl-raises-16m-series-b-after-refocusing-on-virtual-events/"
+    },
+    {
+      "label": "TechCrunch: Social app IRL lays off 25% of team (Jun 2022)",
+      "url": "https://techcrunch.com/2022/06/02/irl-layoffs-abraham-shafi-social-media/"
+    },
+    {
+      "label": "TechCrunch: SoftBank sues IRL over 'elaborate scheme' that swallowed $150M (Aug 2023)",
+      "url": "https://techcrunch.com/2023/08/04/softbank-sues-irl-over-elaborate-scheme-that-swallowed-150m/"
+    },
+    {
+      "label": "TechCrunch: IRL founders allege investors sabotaged company with fake users claims (Nov 2023)",
+      "url": "https://techcrunch.com/2023/11/16/irl-founders-allege-investors-sabotaged-company-with-fake-users-claims/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "95% of IRL's users were bots.",
+        "note": "Finding of a forensic analysis ordered by the board (95% of users with detailed data). Shafi and co-founder Genrikh Khachatryan sued investors in Nov 2023 saying it was false and invented to shut the company; the board denied this."
+      },
+      {
+        "claim": "Shafi defrauded investors.",
+        "note": "Alleged by the SEC (civil complaint, Jul 2024) and SoftBank (civil suit, Aug 2023). We found no court ruling on these claims in sources we read."
+      },
+      {
+        "claim": "The user-count gap had an innocent explanation.",
+        "note": "Shafi reportedly said figures excluded web sessions and underage users whose data couldn't be shared."
+      }
+    ]
+  }
+}

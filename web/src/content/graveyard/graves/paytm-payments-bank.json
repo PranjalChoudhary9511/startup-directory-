@@ -1,0 +1,175 @@
+{
+  "slug": "paytm-payments-bank",
+  "name": "Paytm Payments Bank",
+  "region": "india",
+  "country": "India",
+  "city": "Noida",
+  "sector": "Payments bank",
+  "founded": 2017,
+  "died": 2026,
+  "status": "licence-revoked",
+  "brandColor": "#00baf2",
+  "founders": [
+    { "name": "Vijay Shekhar Sharma", "role": "Promoter (51% owner) & non-executive chairman until Feb 2024" },
+    { "name": "One97 Communications (Paytm)", "role": "Parent group, held the remaining stake" }
+  ],
+
+  "epitaph": "The app lived on. The bank inside it did not.",
+  "oneLiner": "The banking arm behind the Paytm app: it held wallets, savings accounts, FASTags and UPI handles for crores of Indians.",
+  "causeOfDeath": "After years of RBI warnings about KYC and compliance, the regulator froze it in 2024 and cancelled its banking licence in April 2026.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Paytm Payments Bank was a private subsidiary owned 51% by Vijay Shekhar Sharma and the rest by Paytm's parent One97; it never raised public rounds or published a valuation. It is being liquidated, not sold, so there is no end price. RBI says it has enough cash to repay all depositors.",
+  "moneySrc": [1, 6],
+
+  "inOneMinute": [
+    "Paytm Payments Bank was the bank inside India's most famous payments app. **Only the bank was shut. Paytm itself is still alive.**",
+    "RBI flagged its KYC and compliance in 2018, 2022 and 2023. In January 2024 it cited **'persistent non-compliances'** and froze new deposits.",
+    "Paytm lost about **$2.1 billion in market value in two days**. In April 2026 RBI cancelled the licence; a court ordered winding up in July."
+  ],
+  "killerLine": "A regulator's warning is not a hurdle to jump. **It is the first notice of a case you are already losing.**",
+
+  "numbers": [
+    { "value": "33.3 crore", "label": "wallets the bank powered, as reported in March 2022", "src": [4] },
+    { "value": "$2.1 bn", "label": "wiped off Paytm's market value in two days after RBI's order", "src": [5] },
+    { "value": "3", "label": "RBI orders to stop new customers or deposits (2018, 2022, 2024) before the licence went", "src": [9, 4, 0] },
+    { "value": "24 Apr 2026", "label": "the day RBI cancelled its banking licence", "src": [1] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a bank inside an app",
+      "body": "In August 2015, RBI gave Vijay Shekhar Sharma in-principle approval to start a **payments bank** (a small bank that can hold deposits and move money, but cannot give loans). It opened in 2017. Sharma owned 51%, and Paytm's parent One97 Communications owned the rest. The plan was powerful: crores of people already used the Paytm wallet to pay shopkeepers with a QR code. Now the same app could also hold their savings account, FASTag for highway tolls, and UPI handle. The bank sat at the centre of Paytm's money flows, which also meant the bank and the app were **tightly tangled together**.",
+      "src": [3, 6, 9]
+    },
+    {
+      "title": "The rise: India's QR-code bank",
+      "body": "By early 2022, the bank powered **33.3 crore wallets**. Paytm reported over 2 crore in-store merchants and 87,000 online ones, and it was the third-largest UPI provider in February 2021. In December 2021, RBI approved it as a **scheduled bank** (a bank listed in the RBI Act's second schedule, a mark of standing). In February 2021 it handled 15.6% of all UPI payments. In FY20 alone, Paytm reported more than 485 crore transactions worth ₹4.6 lakh crore. From the outside, it looked like the payments bank model had found its star, and that a bank could be born inside a phone app.",
+      "src": [4]
+    },
+    {
+      "title": "The cracks: warnings, again and again",
+      "body": "The warnings started early. In June 2018, after an audit of how it signed up customers and followed **KYC (know-your-customer, the ID checks banks must do)**, RBI made it stop adding users. The ban was lifted about six months later. In October 2021, RBI fined it ₹1 crore for giving false information in an application. In March 2022, RBI again stopped it from onboarding new customers and ordered an IT audit. In October 2023, another fine: ₹5.39 crore for breaking KYC, licensing and cybersecurity rules. Each time, the business kept growing on top of a **foundation the regulator kept saying was cracked**.",
+      "src": [3, 4, 9]
+    },
+    {
+      "title": "The fall: the freeze and the licence",
+      "body": "On 31 January 2024, RBI said audits showed **persistent non-compliances and continued material supervisory concerns**. From March 2024, no new money could go into its accounts, wallets or FASTags; customers could only take money out. Paytm's shares fell 20% on two straight days, wiping out about $2.1 billion. Sharma left the bank's board on 26 February. Paytm moved its UPI users to partner banks and kept running. On 24 April 2026, RBI cancelled the licence, saying the bank's affairs had been run against depositors' interests. On 8 July 2026, the Delhi High Court ordered it to be wound up.",
+      "src": [0, 1, 2, 5, 6, 8]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Aug 2015", "event": "RBI gives Vijay Shekhar Sharma in-principle approval for a payments bank.", "kind": "start", "src": [3] },
+    { "date": "2017", "event": "Paytm Payments Bank starts operations.", "kind": "start", "src": [3, 9] },
+    { "date": "Jun 2018", "event": "After a KYC audit, RBI stops the bank from adding new customers. Lifted about six months later.", "kind": "warning", "src": [9, 4] },
+    { "date": "Oct 2021", "event": "RBI fines the bank ₹1 crore for giving false information in an application.", "kind": "warning", "src": [3] },
+    { "date": "Dec 2021", "event": "RBI approves it as a scheduled bank.", "kind": "peak", "src": [4] },
+    { "date": "11 Mar 2022", "event": "RBI bars onboarding of new customers 'with immediate effect' and orders an IT audit.", "kind": "warning", "src": [0, 4] },
+    { "date": "Oct 2023", "event": "RBI fines the bank ₹5.39 crore for KYC, licensing and cybersecurity lapses.", "kind": "warning", "src": [3] },
+    { "date": "31 Jan 2024", "event": "RBI bans new deposits, top-ups and most services. Paytm loses about $2.1 billion in market value in two days.", "kind": "crisis", "src": [0, 5] },
+    { "date": "26 Feb 2024", "event": "Sharma resigns as chairman; the board is rebuilt with independent directors.", "kind": "crisis", "src": [6] },
+    { "date": "15 Mar 2024", "event": "Final deadline: no new money can enter the bank after this date.", "kind": "end", "src": [0] },
+    { "date": "24 Apr 2026", "event": "RBI cancels the banking licence under Section 22(4) of the Banking Regulation Act.", "kind": "end", "src": [1] },
+    { "date": "8 Jul 2026", "event": "Delhi High Court orders winding up; a former SBI official is appointed liquidator.", "kind": "after", "src": [2] }
+  ],
+
+  "charts": [
+    {
+      "title": "Paytm's market value around RBI's order",
+      "unit": "$ billions",
+      "kind": "bar",
+      "labels": ["Before the order (31 Jan 2024)", "Two days later (2 Feb 2024)"],
+      "series": [
+        { "name": "One97 Communications market value", "values": [5.83, 3.73] }
+      ],
+      "takeaway": "A problem in one subsidiary cost the whole group over a third of its value in 48 hours.",
+      "src": [5]
+    }
+  ],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "regulation", "weight": 45 },
+    { "key": "governance", "weight": 45 },
+    { "key": "focus", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Treating RBI warnings as paperwork",
+      "explain": "RBI stopped new sign-ups in 2018, fined the bank in 2021, stopped sign-ups again in 2022 and fined it again in 2023. In January 2024 it said the problems were **'persistent'**. Each warning was a chance to fix the base. The repeated pattern is what made RBI conclude it could not trust the bank to change.",
+      "src": [0, 3, 4]
+    },
+    {
+      "title": "Growth before KYC",
+      "explain": "The very first ban, in 2018, came after RBI audited **how the bank signed up customers and checked their IDs**. In a bank, KYC is not a form to rush through. It is how you stop fraud and money laundering. Signing up crores of users fast, with weak checks, built the risk that finally sank it.",
+      "src": [9, 3]
+    },
+    {
+      "title": "The bank and the app were too entangled",
+      "explain": "RBI's 2024 order made Paytm's parent and its payment unit **shut their accounts at the bank**. RBI's 2026 order said the bank broke its licence conditions and its affairs were run against depositors' interests. A bank must stand apart from the group that owns it, so depositors' money is never mixed up with the group's business needs.",
+      "src": [0, 1]
+    },
+    {
+      "title": "No early Plan B for the parent",
+      "explain": "When the bank froze, Paytm had to scramble to move its UPI users to other banks and rebuild its money flows within weeks. Investors panicked, and **about $2.1 billion of value vanished in two days**. Depending on one regulated partner, even your own, is a single point of failure.",
+      "src": [5, 6]
+    }
+  ],
+
+  "warningSigns": [
+    "Has a regulator, auditor or partner flagged the same problem more than once?",
+    "Do you sign up users faster than you can properly verify who they are?",
+    "Is money belonging to customers ever mixed with money your company uses for operations?",
+    "Would your business stop working if your main banking or payments partner cut you off tomorrow?",
+    "Does any report you send to a regulator or investor say something you are not fully sure is true?"
+  ],
+
+  "lessons": [
+    { "title": "Fix the warning the first time", "detail": "If an auditor, mentor or regulator flags something, write down the fix, the owner and the date, then report back that it is done. A second warning is far more expensive than the first." },
+    { "title": "Compliance is a product feature", "detail": "In fintech, KYC, data security and honest reporting are part of what you sell. Budget time and people for them from the start, not after you scale." },
+    { "title": "Keep customers' money separate", "detail": "Never mix money you hold for customers with money your company spends. Clean separation is what lets people trust you with their savings." },
+    { "title": "Build a second road early", "detail": "If one partner (a bank, an app store, a payment gateway) controls your lifeline, start a backup relationship now while things are calm." },
+    { "title": "Never round the truth in official forms", "detail": "RBI fined this bank for giving false information in an application. A small 'adjustment' in a filing destroys trust you cannot buy back." }
+  ],
+
+  "quote": {
+    "text": "We take decisions after a lot of consideration and analysis. At the moment, there is no review of the decision (on PPBL).",
+    "who": "Shaktikanta Das, then RBI Governor",
+    "context": "Ruling out any rethink of the January 2024 action against Paytm Payments Bank, 12–13 February 2024.",
+    "src": [7]
+  },
+
+  "afterlife": {
+    "text": "Paytm the company survived. NPCI approved it as a third-party UPI app working through partner banks, it began adding new UPI users again in October 2024, and it received a payment aggregator licence in November 2025. Paytm wallets have been non-reloadable since March 2024. The bank itself lost its licence on 24 April 2026, and on 8 July 2026 the Delhi High Court ordered it wound up, with former SBI chief general manager Girikumar M Nair as Official Liquidator. RBI said the bank has enough cash to repay every depositor. These were regulatory actions; no court has convicted Sharma of any offence.",
+    "src": [1, 2, 8]
+  },
+
+  "sources": [
+    { "label": "RBI press release: Action against Paytm Payments Bank under Section 35A (31 Jan 2024)", "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57224" },
+    { "label": "RBI press release: RBI cancels the licence of Paytm Payments Bank (24 Apr 2026)", "url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62621" },
+    { "label": "RBI press release: Winding up of Paytm Payments Bank (28 Jul 2026)", "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249" },
+    { "label": "MediaNama: Explained: why RBI cancelled Paytm's banking licence (Apr 2026)", "url": "https://www.medianama.com/2026/04/223-explained-rbi-cancel-paytms-banking-licence/" },
+    { "label": "Inc42: Paytm Payments Bank barred from onboarding new customers again (11 Mar 2022)", "url": "https://inc42.com/buzz/paytm-payment-bank-barred-from-onboarding-new-customers-again-rbi-to-audit-systems" },
+    { "label": "TechCrunch: Indian central bank's clampdown wipes $2.1 billion off Paytm (1 Feb 2024)", "url": "https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm" },
+    { "label": "MediaNama: Vijay Shekhar Sharma resigns from Paytm bank board (27 Feb 2024)", "url": "https://www.medianama.com/2024/02/223-vijay-shekhar-sharma-resigns-paytm-bank-board/" },
+    { "label": "Storyboard18: RBI governor says no immediate review of Paytm Payments Bank restrictions (13 Feb 2024)", "url": "https://www.storyboard18.com/amp/how-it-works/rbi-governor-shaktikanta-das-says-no-immediate-review-of-paytm-payments-bank-restrictions-22914.htm" },
+    { "label": "Business Today: RBI cancels Paytm Payments Bank licence, what it means for customers (24 Apr 2026)", "url": "https://www.businesstoday.in/latest/corporate/story/rbi-cancels-paytm-paids-bank-licence-what-it-means-for-operations-upi-wallet-paids-customers-527405-2026-04-24" },
+    { "label": "MediaNama: RBI asks Paytm Payments Bank to not add more users (2 Aug 2018)", "url": "https://www.medianama.com/2018/08/223-rbi-asks-paytm-payments-bank-to-not-add-more-users-on-its-platform-report/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "A single PAN card was linked to thousands of accounts, and 31 crore of 35 crore wallets were inoperative", "note": "Reported by CNBC TV-18 citing sources (relayed by MediaNama). RBI's own press releases do not list these specifics, so we kept them out of the story." },
+      { "claim": "Customer data was shared with China-based entities", "note": "Reported by The Indian Express; Paytm denied all such allegations. Not established by any regulator's published order." },
+      { "claim": "Why Renu Satti stepped down as CEO in 2018", "note": "A Livemint report said RBI objected to her leading a bank; Paytm said her appointment had RBI approval. Left out of the story." },
+      { "claim": "Market value before the order ($5.83 billion)", "note": "Derived by adding TechCrunch's reported $2.1 billion loss to the $3.73 billion market cap it reported after two days. Later reports put the three-day loss at about $2.5 billion." },
+      { "claim": "Launch date", "note": "MediaNama (2026) says operations began in May 2017; MediaNama (2018) says it launched in November 2017. We use 2017." }
+    ]
+  }
+}

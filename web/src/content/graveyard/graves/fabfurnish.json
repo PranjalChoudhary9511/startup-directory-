@@ -1,0 +1,197 @@
+{
+  "slug": "fabfurnish",
+  "name": "FabFurnish",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Online furniture",
+  "founded": 2011,
+  "died": 2017,
+  "status": "absorbed-and-closed",
+  "brandColor": "#e4572e",
+  "founders": [
+    { "name": "Vikram Chopra", "role": "Co-founder & CEO" },
+    { "name": "Mehul Agrawal", "role": "Co-founder" },
+    { "name": "Vaibhav Aggarwal", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Raised $30M. Sold for the price of a showroom.",
+  "oneLiner": "An online furniture and home-decor store in Gurugram, backed by Germany's Rocket Internet, selling mostly its own private-label goods.",
+  "causeOfDeath": "Out-funded by Pepperfry and Urban Ladder, it lost its founders and its parent's interest, was sold cheap, and shut by the buyer within a year.",
+
+  "raisedUsdM": 30,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 3,
+  "moneyNote": "Raised figure is 'more than $30 million' from Rocket Internet and Kinnevik, as reported in Feb 2015; no round-by-round amounts were published. The sale price of about ₹20 crore is roughly $3 million at ~₹67 per dollar (2016); some reports said ₹15–20 crore. Valuation was never published.",
+  "moneySrc": [6, 4, 3, 9],
+
+  "inOneMinute": [
+    "FabFurnish raised **over $30 million** to sell furniture online. Its rivals Pepperfry and Urban Ladder each raised **$50–100 million in single rounds**.",
+    "All three co-founders were gone by July 2015. Rocket Internet tried to sell it and failed, then sold it for **about ₹20 crore**.",
+    "Buyer Future Group promised India's largest home-furnishing business. **About a year later it shut FabFurnish**, citing heavy losses."
+  ],
+  "killerLine": "When your owner stops believing in you, **you have a buyer's deadline, not a business plan**. Plan your exit before they do.",
+
+  "numbers": [
+    { "value": "$30M+", "label": "raised from Rocket Internet and Kinnevik by Feb 2015", "src": [6, 4] },
+    { "value": "₹20 cr", "label": "about $3M: what Future Group paid in cash in April 2016", "src": [3, 9] },
+    { "value": "₹78.93 cr", "label": "turnover (total sales) in FY15, its last full year under Rocket", "src": [5] },
+    { "value": "~50%", "label": "of staff let go when Future Group shut it in 2017", "src": [0] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: furniture, without the showroom",
+      "body": "In 2011, buying a sofa online sounded strange. Most of India's furniture was sold by small shops and local carpenters. FabFurnish set out to change that from Gurugram. It was backed by **Rocket Internet**, the German company that built and funded online businesses in many countries, and by Swedish investor Kinnevik. The founders were Vikram Chopra, Mehul Agrawal and Vaibhav Aggarwal. FabFurnish chose a harder but higher-margin path. CEO Chopra said: **\"Whatever we sell is our own private label\"** (its own brands, not other companies'). It sold goods from over 500 labels, delivered across India, and found real demand outside the big cities. By January 2015, about **30% of sales came from smaller Tier II and III cities**.",
+      "src": [1, 6, 3, 9]
+    },
+    {
+      "title": "The rise: real sales, bigger rivals",
+      "body": "By February 2015 FabFurnish had raised **more than $30 million**. Chopra said it wanted over $50 million more from its existing investors to build warehouses, stores and logistics. In March 2015 it even launched its own delivery arm, FabOne. In FY15 its company, Bluerock eServices, reported turnover of **₹78.93 crore**. That was a real business. But the money around it was bigger. Pepperfry raised **$100 million in one round** led by Goldman Sachs. Urban Ladder raised $50 million led by Sequoia. Furniture is heavy, slow to make and costly to deliver and return. Selling it online needs warehouses, trucks and fitters, and that needs cash. No report ever confirmed that FabFurnish's $50 million round closed.",
+      "src": [6, 3, 5, 8]
+    },
+    {
+      "title": "The cracks: founders out, parent pulling back",
+      "body": "The team broke first. Co-founder Vaibhav Aggarwal left in April 2014. In July 2015, Chopra and Agrawal stepped down too, handing control to senior directors Ashish Garg and Ankita Dabas. Years later Chopra said of Aggarwal's exit: **\"I had created the situation for him to leave.\"** In September 2015, the new team pivoted to a \"content-driven\" platform for discovering home products, cut about a quarter of its staff, and still set a target of ₹500 crore in sales. The same month, Rocket Internet was reported to be planning to sell its Indian companies. By January 2016, it had made **multiple failed attempts** to sell FabFurnish and might shut it down.",
+      "src": [0, 1, 11, 7, 2]
+    },
+    {
+      "title": "The fall: bought for the platform, then switched off",
+      "body": "In April 2016 Kishore Biyani's Future Group bought FabFurnish in an all-cash deal reported at **₹15–20 crore** (about $2.25–3 million). It was Rocket Internet's first exit in India, at a tenth of the money put in. Biyani wanted the website, not the brand's old plan: it would take his 42-store furniture chain, HomeTown, online. In May 2016 he said, \"With FabFurnish, we will be creating the largest home furnishing and Decor business in the country.\" It did not happen. In April 2017, reports said Future Group would **shut FabFurnish** and put its money into HomeTown instead. About half the staff were let go. Inc42 later reported it was closed **due to heavy losses**.",
+      "src": [3, 8, 9, 0, 10]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2011", "event": "FabFurnish launches in Gurugram as an online furniture and home-goods store, backed by Rocket Internet", "kind": "start", "src": [1, 8] },
+    { "date": "Apr 2014", "event": "Co-founder Vaibhav Aggarwal leaves", "kind": "warning", "src": [0, 1] },
+    { "date": "Feb 2015", "event": "Has raised over $30 million; plans to raise $50 million more from existing investors", "kind": "money", "src": [6] },
+    { "date": "FY15", "event": "Reports turnover of ₹78.93 crore", "kind": "peak", "src": [5] },
+    { "date": "Jul 2015", "event": "Co-founders Vikram Chopra and Mehul Agrawal step down; senior directors take over", "kind": "crisis", "src": [1] },
+    { "date": "Sep 2015", "event": "Pivots to a 'content-driven' platform, cuts about a quarter of staff; Rocket reportedly looks to sell its Indian companies", "kind": "warning", "src": [7, 0] },
+    { "date": "Jan 2016", "event": "Reports say Rocket's attempts to sell FabFurnish have failed and it may be shut", "kind": "crisis", "src": [2] },
+    { "date": "Apr 2016", "event": "Future Group buys FabFurnish for a reported ₹15–20 crore in cash", "kind": "money", "src": [3, 8] },
+    { "date": "May 2016", "event": "Future Group relaunches it and plans to merge it with HomeTown", "kind": "after", "src": [9] },
+    { "date": "Apr 2017", "event": "Future Group moves to shut FabFurnish and focus on HomeTown; about half the staff let go", "kind": "end", "src": [0, 10] }
+  ],
+
+  "charts": [
+    {
+      "title": "Money put in vs money got back",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["Raised by Feb 2015", "Sale price, Apr 2016"],
+      "series": [{ "name": "US dollars", "values": [30, 3] }],
+      "takeaway": "Investors put in over $30 million and sold for about $3 million, roughly 10 cents on the dollar.",
+      "src": [6, 3, 9]
+    }
+  ],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "team", "weight": 20 },
+    { "key": "focus", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Fighting a cash war with a smaller wallet",
+      "explain": "Furniture online is expensive: warehouses, trucks, fitters, returns of heavy items. FabFurnish had raised about $30 million in total. **Pepperfry raised $100 million in one round** and Urban Ladder $50 million. FabFurnish planned to raise $50 million more, but no report confirmed it. In a business that eats cash, the side with more money can simply outlast you.",
+      "src": [6, 8]
+    },
+    {
+      "title": "Depending on one parent's mood",
+      "explain": "Its main backer, Rocket Internet, was pulling back from India. By September 2015 it reportedly wanted to sell its Indian companies, and its attempts to sell FabFurnish failed for months. **When your owner wants out, every plan becomes a sale plan.** Staff, partners and future investors can all see it.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Losing all three founders in 15 months",
+      "explain": "Vaibhav Aggarwal left in April 2014; Chopra and Agrawal stepped down in July 2015. Chopra later admitted, **\"I had created the situation for him to leave.\"** A company that loses the people who know it best, while a richer rival is attacking, rarely gets its momentum back.",
+      "src": [1, 0, 11]
+    },
+    {
+      "title": "Changing identity while shrinking",
+      "explain": "In September 2015 the new team rebuilt FabFurnish as a 'content-driven' discovery site and **cut about a quarter of staff**, while still aiming for ₹500 crore in sales. A big pivot plus layoffs plus a huge target, all at once, is usually a sign of searching, not of a plan.",
+      "src": [7]
+    },
+    {
+      "title": "Becoming a feature, not a company",
+      "explain": "Future Group bought FabFurnish to **take its HomeTown stores online**, not to grow FabFurnish itself. When a buyer wants your platform, your brand is optional. Within about a year it was shut and the money went to HomeTown. Once you are a tool for someone else's plan, they decide when you stop.",
+      "src": [8, 9, 0, 10]
+    }
+  ],
+
+  "warningSigns": [
+    "Has a direct rival raised more money in one round than you have raised in total?",
+    "Does one investor or parent company decide whether you live, and is it pulling back from your market?",
+    "Has more than one co-founder left in the last 18 months?",
+    "Are you planning a big pivot and layoffs at the same time, while keeping the old sales target?",
+    "Is the only buyer interested in your technology or website, not your brand or customers?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Pick a fight your wallet can win",
+      "detail": "Before entering a cash-heavy market, list how much the top rivals have raised. If they have three times your money, compete on a narrow niche (one city, one product type) where their money matters less."
+    },
+    {
+      "title": "Private label is a real edge, use it",
+      "detail": "Selling your own designs can give better margins and things rivals cannot copy. FabFurnish had this. Build your story around what only you sell, not around being another big catalogue."
+    },
+    {
+      "title": "Treat co-founder friction as a top risk",
+      "detail": "Set clear roles and a way to settle fights early. Chopra later said he had pushed his co-founder out. Talk openly every month about who decides what, before resentment builds."
+    },
+    {
+      "title": "Watch your investor's strategy, not just your own",
+      "detail": "Read your investor's reports and news. If they are leaving your country or sector, start talking to new backers or buyers while your numbers still look good."
+    },
+    {
+      "title": "Failure can be a training ground",
+      "detail": "Chopra and Agrawal started Cars24 in 2015, the same year they left FabFurnish, and it became a unicorn in 2020. Write down what went wrong while it is fresh, and carry those lessons into your next attempt."
+    }
+  ],
+
+  "quote": {
+    "text": "With FabFurnish, we will be creating the largest home furnishing and Decor business in the country.",
+    "who": "Kishore Biyani, founder, Future Group",
+    "context": "Announcing the relaunch of FabFurnish in May 2016, a month after buying it. Within about a year, Future Group moved to shut it.",
+    "src": [9]
+  },
+
+  "afterlife": {
+    "text": "Future Group kept its furniture chain HomeTown and folded its online ambitions into it. Biyani later said the FabFurnish losses were \"compensated\" by what the group learned. The real comeback belonged to the founders: Vikram Chopra and Mehul Agrawal co-founded Cars24, a used-car platform, in 2015 with Gajendra Jangid and Ruchit Agarwal. In November 2020 Cars24 became a unicorn (a startup worth $1 billion or more) after a $200 million round led by DST Global. The old company, Bluerock eServices, still filed tiny accounts years later: ₹15.1 lakh of revenue in FY22.",
+    "src": [10, 11, 12, 13]
+  },
+
+  "sources": [
+    { "label": "Inc42: Kishore Biyani-led Future Group to draw curtains on FabFurnish (Apr 2017)", "url": "https://inc42.com/buzz/futuregroup-fabfurnish-shutdown" },
+    { "label": "Inc42: FabFurnish co-founders Vikram Chopra and Mehul Agrawal step down (Jul 2015)", "url": "https://inc42.com/flash-feed/fabfurnishs-senior-directors-replace-cofounders/" },
+    { "label": "Inc42: Rocket Internet plans to jettison FabFurnish and Printvenue (Jan 2016)", "url": "https://inc42.com/flash-feed/rocket-internet-plans-exit-from-fabfurnish-printvenue" },
+    { "label": "MediaNama: Future Group to acquire FabFurnish (Apr 2016)", "url": "https://www.medianama.com/2016/04/223-future-group-fabfurnish-acquisition/" },
+    { "label": "OfficeChai: Future Group acquires FabFurnish.com (Apr 2016)", "url": "https://officechai.com/news/future-group-acquires-fabfurnish/" },
+    { "label": "DSIJ: Future Retail's first acquisition in e-commerce space (Apr 2016)", "url": "https://insights.dsij.in/article-details/articleid/13918/future-retail%E2%80%99s-first-acquisition-in-e-commerce-space" },
+    { "label": "Franchise India: E-tailer FabFurnish looks to raise over $50 million (Feb 2015)", "url": "https://www.franchiseindia.com/entrepreneur/news/E-tailer-FabFurnish-looks-to-raise-over-50-million-for-expansion-6043" },
+    { "label": "Inc42: FabFurnish evolves into content-driven platform (Sep 2015)", "url": "https://inc42.com/?p=26706" },
+    { "label": "Inc42: Biyani's Future Group furnishes its arsenal with FabFurnish (Apr 2016)", "url": "https://inc42.com/?p=44189" },
+    { "label": "Inc42: Future Group announces relaunch of FabFurnish, plans merger with HomeTown (May 2016)", "url": "https://inc42.com/flash-feed/future-group-relaunch-of-fabfurnish" },
+    { "label": "Inc42: Future Group gives e-commerce another shot with Brand Factory (Nov 2018)", "url": "https://inc42.com/buzz/future-group-gives-ecommerce-another-shot-with-online-launch-of-brand-factory" },
+    { "label": "Open Magazine: Cars24, Vikram Chopra and the man he refused to become", "url": "https://openthemagazine.com/business/untold-cars24-vikram-chopra-the-man-he-refused-to-become" },
+    { "label": "KrASIA: Cars24 joins Indian unicorn club (Nov 2020)", "url": "https://kr-asia.com/used-car-marketplace-cars24-joins-indian-unicorn-club-after-latest-financing-round" },
+    { "label": "Inc42: FabFurnish (Bluerock eServices) company financials", "url": "https://inc42.com/company/fabfurnish/financials/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Founding year.", "note": "Inc42's news articles say 2011; Inc42's company page says 2012. We use 2011." },
+      { "claim": "Total money raised.", "note": "FabFurnish's CEO-era reports and OfficeChai say 'over $30 million' (about ₹180 crore). Data site PitchBook reportedly lists $27.4 million. Round-by-round amounts were never published, so rounds are left blank." },
+      { "claim": "Sale price.", "note": "Mint's sources put it at ₹15–20 crore; YourStory's sources and Inc42 said ₹20 crore ($3 million). Future Group did not disclose it officially." },
+      { "claim": "Monthly revenue fell from ₹3.5 crore to ₹1 crore before the sale.", "note": "Reported by YourStory in April 2016 (we read it only via a translated rewrite). It is hard to match with the ₹78.93 crore FY15 turnover, so we leave it out of the story." },
+      { "claim": "Exact shutdown date.", "note": "Reports from April 2017 say Future Group was set to shut it; a 2018 Inc42 report confirms it was shut in 2017 due to heavy losses. No exact closing day was published." }
+    ]
+  }
+}

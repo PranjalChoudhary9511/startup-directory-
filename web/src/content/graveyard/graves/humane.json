@@ -1,0 +1,409 @@
+{
+  "slug": "humane",
+  "name": "Humane",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "AI wearable hardware",
+  "founded": 2018,
+  "died": 2025,
+  "status": "sold-for-parts",
+  "brandColor": "#1f1f1f",
+  "founders": [
+    {
+      "name": "Imran Chaudhri",
+      "role": "Co-founder and president (ex-Apple designer)"
+    },
+    {
+      "name": "Bethany Bongiorno",
+      "role": "Co-founder and CEO (ex-Apple software director)"
+    }
+  ],
+  "epitaph": "Meant to replace your phone. Ended up in a drawer.",
+  "oneLiner": "Ex-Apple founders built the AI Pin, a screenless clip-on gadget you talked to, which projected text onto your palm.",
+  "causeOfDeath": "The $699 AI Pin drew harsh reviews and overheating complaints; buyers returned it, sales hit a tenth of plan, and HP bought the team for $116M.",
+  "raisedUsdM": 240,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 116,
+  "moneyNote": "Over $230M raised (TechCrunch, 2023); TechCrunch later put it at $240M. No valuation was confirmed; in 2024 it reportedly sought a $750M–$1B sale. HP paid $116M in 2025.",
+  "moneySrc": [
+    3,
+    5,
+    6
+  ],
+  "inOneMinute": [
+    "Two star ex-Apple employees raised **over $230 million** to build the AI Pin, a $699 clip-on AI assistant meant to free you from your phone.",
+    "Reviews were brutal. It sold **about 10,000 units against a goal of 100,000**, and for a while returns outpaced sales.",
+    "In February 2025 HP bought the team and patents for **$116 million**, and every AI Pin was switched off ten days later."
+  ],
+  "killerLine": "To replace something people already love, **you must be better at the everyday basics**, not just more futuristic.",
+  "numbers": [
+    {
+      "value": "$699",
+      "label": "launch price, plus $24 a month",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "~10,000",
+      "label": "Pins sold vs a 100,000 first-year goal",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "~3,000",
+      "label": "Pins returned by August 2024",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$116M",
+      "label": "HP's price, under half of what was raised",
+      "src": [
+        5,
+        6
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: life after the smartphone",
+      "body": "Imran Chaudhri spent about 20 years as a designer at Apple. Bethany Bongiorno was a director of software engineering for iOS and macOS. In 2018 they left that world to start Humane, with a big belief: **phones keep our heads down and our attention trapped**. They wanted a device that could disappear. Their answer was the AI Pin, a small square that clipped magnetically to your shirt. It had **no screen**. You spoke to it, and an AI answered. A tiny laser projected text, like who was calling, onto your palm. It had a camera and its own mobile connection, so it could work without a smartphone. About 90 ex-Apple staff worked there at some point.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The rise: hype before the product",
+      "body": "Humane came out of stealth in September 2021 with a $100 million round, then raised **another $100 million in March 2023**, bringing the total to $230 million. Backers included Microsoft, Qualcomm, LG, Salesforce CEO Marc Benioff and OpenAI CEO Sam Altman, and OpenAI's technology would power the AI. Humane built buzz like a fashion brand: the Pin debuted on a Paris Fashion Week runway in September 2023. TIME even listed it among the best inventions of 2023, before anyone outside had reviewed it. In November 2023 it launched at **$699 plus $24 a month** for the AI service and a mobile connection on T-Mobile's network. Shipping slipped to April 2024.",
+      "src": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: reviews, returns and a fire risk",
+      "body": "When reviewers got the Pin in April 2024, the verdicts were largely negative. A New York Times investigation later described problems including overheating. After the reviews, **over 1,000 pre-orders were cancelled**. By August 2024 Humane had sold about 10,000 Pins against a hope of 100,000 in year one, and about 3,000 had been returned. Internal documents showed that for a while **returns outpaced new sales**. In June 2024 Humane told customers to stop using its charging case, as some batteries from one supplier might be **a fire hazard**. Meanwhile it was reportedly trying to sell itself for $750 million to $1 billion.",
+      "src": [
+        0,
+        4,
+        7
+      ]
+    },
+    {
+      "title": "The fall: switched off from the cloud",
+      "body": "In October 2024 Humane cut the price to $499. It also demoed its AI software for cars, phones and speakers, hoping to become a software company. It wasn't enough. On 18 February 2025, HP agreed to buy Humane's engineers, its CosmOS software and over 300 patents for **$116 million, less than half of the money Humane had raised**. HP did not want the Pin. Because the Pin depended on Humane's servers, **every device stopped working on 28 February 2025**: no calls, no messages, no AI. Only buyers from the last 90 days got refunds. The founders joined a new HP lab called HP IQ. Some staff got big raises; others lost their jobs that night.",
+      "src": [
+        0,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018",
+      "event": "Ex-Apple employees Imran Chaudhri and Bethany Bongiorno found Humane",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "event": "Comes out of stealth with a $100M round",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2023",
+      "event": "Raises $100M more (total $230M); partners with Microsoft and OpenAI",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2023",
+      "event": "AI Pin debuts on a Paris Fashion Week runway",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "event": "AI Pin announced at $699 plus $24 a month",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Apr 2024",
+      "event": "Pins ship after delays; reviews are largely negative",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2024",
+      "event": "Reportedly seeks a buyer at $750M–$1B",
+      "kind": "warning",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "Jun 2024",
+      "event": "Customers told to stop using the charging case over fire risk",
+      "kind": "crisis",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "Aug 2024",
+      "event": "About 10,000 sold, about 3,000 returned; returns outpace sales",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Oct 2024",
+      "event": "Price cut to $499",
+      "kind": "crisis",
+      "src": [
+        5,
+        6
+      ]
+    },
+    {
+      "date": "18 Feb 2025",
+      "event": "HP buys the team, software and patents for $116M",
+      "kind": "end",
+      "src": [
+        5,
+        6
+      ]
+    },
+    {
+      "date": "28 Feb 2025",
+      "event": "Every AI Pin stops working as servers shut down",
+      "kind": "end",
+      "src": [
+        0,
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI Pin: plan vs reality",
+      "unit": "thousand units",
+      "kind": "bar",
+      "labels": [
+        "Year-one goal",
+        "Sold by Aug 2024",
+        "Kept by buyers"
+      ],
+      "series": [
+        {
+          "name": "Units",
+          "values": [
+            100,
+            10,
+            7
+          ]
+        }
+      ],
+      "takeaway": "Humane reached about a tenth of its goal, and nearly a third of buyers sent their Pin back.",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Sep 2021",
+      "round": "Series B",
+      "amountUsdM": 100,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2023",
+      "round": "Series C",
+      "amountUsdM": 100,
+      "valuationUsdM": null,
+      "investors": [
+        "Kindred Ventures",
+        "SK Networks",
+        "LG Technology Ventures",
+        "Microsoft",
+        "Volvo Cars Tech Fund",
+        "Tiger Global",
+        "Qualcomm Ventures",
+        "Sam Altman"
+      ],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 40
+    },
+    {
+      "key": "no-market",
+      "weight": 30
+    },
+    {
+      "key": "competition",
+      "weight": 20
+    },
+    {
+      "key": "burn",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Launched before the product was ready",
+      "explain": "Reviews of the Pin were largely negative, and reports described problems including overheating. **First impressions became the story**: over 1,000 pre-orders were cancelled, and about 3,000 of 10,000 buyers returned it. With hardware you get one launch, and a product that isn't ready, sold at $699, burns the brand.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "Tried to replace the phone instead of adding to it",
+      "explain": "The Pin had its own mobile connection and a $24 monthly plan, asking people to carry and pay for a second device. Yet the phone in their pocket already did calls, messages, photos and AI answers. **A new device needs one job it does far better than what people already own**, and buyers didn't find it.",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Hype ran far ahead of proof",
+      "explain": "A fashion-week runway debut and a TIME 'best inventions' listing came before any independent reviews. **Big expectations made the fall harder.** Humane reportedly hoped to sell itself for up to $1 billion; it ended at $116 million, less than half of what investors had put in.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "A device that died with its servers",
+      "explain": "The Pin needed Humane's cloud for almost everything. When HP bought the team but not the device, **every Pin stopped working within ten days**, and only recent buyers got refunds. Cloud-dependent hardware puts customers at risk if the company fails.",
+      "src": [
+        5,
+        6
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you asking customers to give up something they love (like their phone) for a product that does less?",
+    "Are you about to launch even though testers still complain about speed or reliability?",
+    "Is your launch buzz coming from events and awards rather than from real users?",
+    "Are returns or cancellations rising faster than new orders?",
+    "Will your product stop working completely if your servers go down?"
+  ],
+  "lessons": [
+    {
+      "title": "Beat the incumbent at one daily task",
+      "detail": "Pick one thing people do every day and make it clearly faster or easier than the phone. Win that before promising a whole new way of life."
+    },
+    {
+      "title": "Let a few strangers test before you ship",
+      "detail": "Give 50 outsiders your product for two weeks and ask brutally honest questions. Their complaints are tomorrow's reviews."
+    },
+    {
+      "title": "Keep hype in step with reality",
+      "detail": "Runways and awards are great, but only after the product is solid. Under-promise publicly, then surprise people."
+    },
+    {
+      "title": "Track returns as closely as sales",
+      "detail": "A rising return rate is the loudest signal that something is wrong. Look at it every week, and talk to every customer who sends one back."
+    },
+    {
+      "title": "Plan an offline or exit mode",
+      "detail": "If your gadget relies on your servers, decide how customers keep using it if you shut down. It protects them and your reputation."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "HP folded Humane's engineers, its CosmOS software and over 300 patents into a new lab, HP IQ, with founders Imran Chaudhri and Bethany Bongiorno joining it. Some software engineers got raises of 30% to 70%, while staff closest to the Pin were laid off. AI Pins stopped working on 28 February 2025 and owners were told to recycle them.",
+    "src": [
+      0,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Humane Inc., for dates, sale talks, recall and shutdown (citing The Verge, Bloomberg, NYT, CPSC)",
+      "url": "https://en.wikipedia.org/wiki/Humane_Inc."
+    },
+    {
+      "label": "TechCrunch: Humane, a stealthy startup co-founded by ex-Apple designer and engineer, raises $100M (Sep 2021)",
+      "url": "https://techcrunch.com/2021/09/01/humane-a-stealthy-hardware-and-software-startup-co-founded-by-an-ex-apple-designer-and-engineer-raises-100m/"
+    },
+    {
+      "label": "TechCrunch: Humane's Ai Pin promises an 'ambient computing' future for $699 (Nov 2023)",
+      "url": "https://techcrunch.com/2023/11/09/humanes-ai-pin/"
+    },
+    {
+      "label": "TechCrunch: Humane raises another $100M (Mar 2023)",
+      "url": "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/"
+    },
+    {
+      "label": "Engadget: People are returning Humane AI Pins faster than the company can sell them (Aug 2024)",
+      "url": "https://www.engadget.com/ai/people-are-returning-humane-ai-pins-faster-than-the-company-can-sell-them-191523105.html"
+    },
+    {
+      "label": "TechCrunch: Humane's AI Pin is dead, as HP buys startup's assets for $116M (Feb 2025)",
+      "url": "https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/"
+    },
+    {
+      "label": "TechCrunch: Inside the Humane acquisition (Feb 2025)",
+      "url": "https://techcrunch.com/2025/02/20/inside-the-humane-acquisition-hp-offers-big-raises-to-some-others-immediately-laid-off/"
+    },
+    {
+      "label": "TechCrunch: Humane urges customers to stop using charging case, citing battery fire concerns (Jun 2024)",
+      "url": "https://techcrunch.com/2024/06/05/humane-urges-customers-to-stop-using-charging-case-citing-battery-fire-concerns/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Sales and return figures",
+        "note": "From internal documents reported by The Verge; Humane did not publish official numbers."
+      },
+      {
+        "claim": "Humane's valuation",
+        "note": "Often reported around $850M, but we could not confirm it from a source we read. The $750M–$1B was an asking price, not a valuation."
+      },
+      {
+        "claim": "Total raised",
+        "note": "TechCrunch gave $230M in 2023 and $240M in 2025."
+      }
+    ]
+  }
+}

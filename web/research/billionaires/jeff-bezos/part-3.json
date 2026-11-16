@@ -1,0 +1,2281 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "How he works",
+      "title": "Ten O'Clock and Six Pages",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The slow morning"
+        },
+        {
+          "t": "p",
+          "text": "Most founders brag about waking at 4 a.m. Bezos told an audience in Washington in September 2018 almost the opposite. He goes to bed early, gets up early, and then potters. He reads the paper, drinks coffee and, in those years, ate breakfast with his children before school. He called this “puttering” and set his first meeting of the day for ==10 a.m.==",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The order of the day comes from how he thinks a brain works. Anything mentally hard goes in the 10 o'clock slot, which he nicknamed “high-IQ meetings”. By 5 p.m., he says, he stops trying and pushes the hard problem to the next morning. __He plans his day around when his judgment is best, not around how busy he looks.__",
+          "src": [
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also protects eight hours of sleep unless he is crossing time zones. His reason is pure arithmetic. A senior leader is paid to make a small number of good decisions, not thousands of average ones. In his view, if he can make three good decisions in a day, that is enough.",
+          "src": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: he once did the sums out loud. Sleep four hours instead of eight and you gain four working hours, so 12 productive hours become 16. That is 33 percent more time, or perhaps 133 decisions instead of 100. Then he asked whether those extra decisions are worth it if a tired, grumpy you makes all of them worse.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Not a 4 a.m. hero. He sleeps eight hours. Read this twice."
+        },
+        {
+          "t": "h",
+          "text": "The day he banned slides"
+        },
+        {
+          "t": "p",
+          "text": "By 2004 his top team, the S-team, was meeting for about four hours every week. Two or three groups would come in and present. Meetings overran, topics kept coming back, and decisions stayed stuck. Colin Bryar, then his technical adviser, says one painful meeting pushed Bezos to act.",
+          "src": [
+            4,
+            5
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bryar and Bezos had read an essay on a business flight by Edward Tufte, a Yale professor who studies how information is displayed. Tufte argued that bullet points damage serious reasoning. On ==9 June 2004== the S-team received an email whose subject line ended PowerPoint at their meetings. From then on, teams had to write their ideas in full sentences.",
+          "src": [
+            6,
+            5
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It did not work at once. Bryar admits the first memos were not good. They began at four pages, and six turned out to suit a one-hour meeting. His argument for the switch is simple: people read faster than others can talk, and a page holds far more information than a slide.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "A meeting now opens with about 20 minutes of total silence while everyone reads. Bezos has compared it to study hall. The last 40 minutes are for questions. The memo carries no author's name, because it comes from the whole team, and Bryar and Carr report that Bezos reads each sentence assuming it is wrong until he can prove otherwise.",
+          "src": [
+            4,
+            7,
+            8
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Bezos says weak memos usually come from a wrong idea of how long the job takes. People think they can do it in a day or two. His recipe takes a week or more: write it, rewrite it, ask colleagues to improve it, leave it alone for a couple of days, then edit it again with a fresh mind.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Can't write it clearly? You haven't finished thinking it through."
+        },
+        {
+          "t": "h",
+          "text": "Last to speak, first to dial"
+        },
+        {
+          "t": "p",
+          "text": "In every meeting he attends, Bezos says, he speaks last. He has seen that when the most senior person talks first, even strong-minded people quietly start to doubt their own view. His ideal is the reverse: the most junior person goes first and the order climbs by seniority. __The boss's opinion is expensive, so he spends it at the end.__",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The most famous scene comes from Amazon's early years, during a weekly review. A chart said customers waited under 60 seconds on the 1-800 helpline, yet customers kept complaining about long waits. The manager defended the number. So Bezos picked up the phone in the room, dialled the helpline, and everyone sat and waited in silence.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The wait ran to many minutes, he recalls, probably more than ==10==. The data was measuring the wrong thing, and that call forced the company to fix it. His rule from this is worth learning. When numbers and customer stories disagree, the stories are usually right, so go and check what you are really measuring.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He kept that line to customers open for years through a public address, jeff@amazon.com. He would forward a complaint to the responsible team with one added character, a question mark. Receivers reportedly had only a few hours to find the cause and explain it up the chain. One such email, about marketing mails sent to people who had browsed sensitive health products, led him to end that kind of mailing.",
+          "src": [
+            10,
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One question mark, and a whole department drops everything."
+        },
+        {
+          "t": "h",
+          "text": "Three questions before hiring anyone"
+        },
+        {
+          "t": "p",
+          "text": "In his 1998 letter to shareholders, Amazon had 2,100 people and Bezos ranked hiring as its most important advantage. He asked interviewers three things. Will you admire this person? Will they raise the average of the group they join? In what way could they be a superstar? His own example of that last one was a colleague who had been a National Spelling Bee champion.",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He once told a colleague he would rather interview 50 people and hire nobody than hire the wrong one. Much of the method came from D. E. Shaw, the investment firm where he had worked, including odd problems such as estimating how many fax machines exist in the US. The point was to watch someone reason, not to hear the right number.",
+          "src": [
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Amazon later turned this into a system. Specially trained employees called “bar raisers” sit on hiring panels from outside the hiring team. They can veto a candidate, though the veto is rarely used, and panel members must write their reports. Business Insider reported in 2014 that some spent 20 to 30 hours a week on it, on top of their real jobs.",
+          "src": [
+            8,
+            14
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "10 a.m.",
+              "label": "first meeting of his day, saved for the hardest thinking",
+              "src": [
+                0
+              ]
+            },
+            {
+              "value": "6 pages",
+              "label": "the memo limit for a one-hour meeting",
+              "src": [
+                5
+              ]
+            },
+            {
+              "value": "20 mins",
+              "label": "of silent reading before anyone talks",
+              "src": [
+                4
+              ]
+            },
+            {
+              "value": "< 10",
+              "label": "people in a two-pizza team",
+              "src": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Small teams, one owner"
+        },
+        {
+          "t": "p",
+          "text": "Amazon's best-known team rule is that no group should be too big for two pizzas to feed. That usually means under 10 people. Each team owns one product or service, so it spends less time coordinating with others and more with its customers. Bryar and Carr describe Bezos as obsessed with reducing the coordination any project needs to move forward.",
+          "src": [
+            16,
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His smartest delegation tool may be the “shadow”. From 2002 a young executive named Andy Jassy followed him for about 18 months, into board meetings, phone calls and one-on-ones. Ann Hiatt, his executive assistant at the time, says the idea was to create a “brain double” who could challenge his thinking. Jassy later said the job showed him his own standards had been too low.",
+          "src": [
+            17,
+            18
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He trained his successor by letting him sit in every meeting."
+        },
+        {
+          "t": "p",
+          "text": "Jassy noticed teams were stuck rebuilding the same computing basics, and in 2003 Bezos put him in charge of what became Amazon Web Services. In 2021, he handed Jassy the whole company. __He did not only delegate tasks. He let someone watch how decisions were made until that person could make them too.__",
+          "src": [
+            18,
+            19
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What it is like to work for him"
+        },
+        {
+          "t": "p",
+          "text": "Here the story gets harder. Brad Stone interviewed many current and former staff for his 2013 book The Everything Store, though Bezos did not sit for an interview. Employees told him about sudden outbursts they called “nutters”. Stone's list includes Bezos asking a manager whether the person was lazy or simply incompetent, and telling a team its document looked like the work of its second-string players.",
+          "src": [
+            11,
+            20,
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Even Bezos's famous laugh could sting. Rick Dalzell, Amazon's former chief information officer, said on the record that it could disarm and punish you at the same time. Stone also reported something uncomfortable for critics: staff said the harsh remarks were often accurate. People who did well tended to be those who enjoyed constant argument.",
+          "src": [
+            10,
+            11,
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Yet the same boss could be gentle after a real failure. When the Fire Phone flopped, Ian Freed, who helped lead it, says Bezos told him not to feel bad even for a minute and made him promise not to lose sleep. Freed's team then helped build the Echo. Bezos seems to be hardest on sloppy thinking and softest on brave bets that miss.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Tough standards are worth copying. The insults are not."
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "It Is Always Day 1",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "Belief 1: Fear your customers, not your rivals"
+        },
+        {
+          "t": "p",
+          "text": "In his 1998 letter, Bezos told shareholders he reminds staff to wake up afraid every morning. Not of competitors, but of customers. They stay loyal, he wrote, only until someone offers them something better. Nineteen years later his view had not changed: what amazes people this year bores them next year, because human expectations only go up.",
+          "src": [
+            12,
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In November 2018, at an all-hands meeting, an employee asked what the Sears bankruptcy could teach Amazon. Bezos answered that Amazon was not too big to fail. In fact, he predicted that Amazon would one day fail and go bankrupt, because big companies tend to last 30-odd years. Turning inward, he said, is how the end begins.",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: when The Times of India interviewed him in Bangalore in 2014, the paper counted that he used the word “customer-centric” about 30 times. His one-line reason, as the paper reported it, was that customers pay Amazon and rivals do not.",
+          "src": [
+            24
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He told his own staff Amazon will go bankrupt one day. Imagine that meeting."
+        },
+        {
+          "t": "h",
+          "text": "Belief 2: Stay in Day 1"
+        },
+        {
+          "t": "p",
+          "text": "“Day 1” began as a line in his first shareholder letter in 1997, and he has repeated it for decades. He worked in an Amazon building named Day 1, and when he moved buildings he took the name with him. At one all-hands meeting someone finally asked him what Day 2 looks like. His answer is a four-step slide: standing still, then irrelevance, then a slow and painful decline, then death.",
+          "src": [
+            25,
+            26
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He gave four defences: obsess over customers, distrust stand-in measures, grab big outside trends early, and decide fast. The stand-in point is the subtle one. Over time, a process or metric can quietly replace the thing it was meant to serve, as with that helpline chart. Even his 2021 goodbye email as CEO ended by telling staff that it remains Day 1.",
+          "src": [
+            25,
+            9,
+            19
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Belief 3: Play a longer game than everyone else"
+        },
+        {
+          "t": "p",
+          "text": "Steven Levy of Wired asked him in 2011 why he had given ==$42 million== towards a clock built to run for 10,000 years. Bezos connected it to business. If your work must pay off in three years, you are competing with a crowd. Stretch that to seven years and most of the crowd disappears, because few companies will wait.",
+          "src": [
+            27
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Amazon, he told Levy, likes things to work within five to seven years. He stays unbending about the goal and loose about the route. He used e-books and cloud services as his examples: certain to happen, with only the timing unknown. __Patience is a real competitive edge, because it is the one thing rivals refuse to buy.__",
+          "src": [
+            27
+          ]
+        },
+        {
+          "t": "note",
+          "text": "At 22, seven years feels like forever. That is exactly why it works."
+        },
+        {
+          "t": "h",
+          "text": "Belief 4: Fail bigger as you grow"
+        },
+        {
+          "t": "quote",
+          "text": "failure and invention are inseparable twins",
+          "who": "Jeff Bezos, 2015 letter to shareholders",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His maths for this is worth copying into a notebook. A 10 percent chance of a 100-times payoff is a bet you should always take, even though you will lose it nine times out of ten. In baseball the best swing scores four runs. In business, he wrote, one swing can occasionally score ==1,000==.",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Amazon's seller marketplace started as a flop. Bezos has joked that Amazon Auctions drew about seven visitors, counting his parents and siblings. Its follow-up, zShops, also found no customers. The third try worked so well that independent sellers grew to 58 percent of the physical goods sold on Amazon by 2018.",
+          "src": [
+            29,
+            30
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The same logic explains his reaction to the Fire Phone. Asked about it by his own newspaper's editor in 2016, he said Amazon was working on far bigger failures and he was not joking. In the 2018 letter he wrote that a company Amazon's size should sometimes have multibillion-dollar failures. He also pointed out that the phone's lessons and engineers sped up the Echo.",
+          "src": [
+            31,
+            30
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Seven visitors. Including his parents. Then it became most of Amazon's sales."
+        },
+        {
+          "t": "h",
+          "text": "Belief 5: Ask whether the door swings back"
+        },
+        {
+          "t": "p",
+          "text": "Bezos splits decisions into two kinds. A one-way door is hard or impossible to undo, so go slowly and consult widely. He calls these “Type 1”. Most decisions are two-way doors, “Type 2”: if the room is bad, you walk back out. Those should be made fast, by one good person or a small group.",
+          "src": [
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Big companies fall sick, he wrote, when they treat every choice like a one-way door. Young founders often make the opposite error, and he notes that firms which rush their one-way decisions rarely live long enough to get big. His speed rule is to decide with about ==70 percent== of the information you wish you had. Waiting for 90 usually means you are being slow.",
+          "src": [
+            32,
+            25
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Amazon Studios once wanted to make an original he doubted. He thought it might not be interesting enough, would be complicated to produce, and had weak business terms. The team disagreed. He wrote back at once that he disagreed, would commit anyway, and hoped it became their most-watched show. That is “disagree and commit”.",
+          "src": [
+            25
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Belief 6: High standards can be taught"
+        },
+        {
+          "t": "p",
+          "text": "His best teaching story is about a handstand. A close friend wanted a perfect one, so she took a workshop and eventually hired a coach. The coach told her most people assume two weeks and it really takes about six months of daily practice. If you expect two weeks, you quit. __Most people don't lack talent. They just guess wrongly about how long hard things take.__",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He applied this to himself too. He has written that he started Amazon with high standards on inventing, customer care and hiring, but not on running operations, such as keeping a fixed problem fixed. His colleagues had to teach him. So having high standards in one area, he argues, tells you nothing about your blind spot in the next.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders! Good at code doesn't mean good at operations."
+        },
+        {
+          "t": "h",
+          "text": "Belief 7: Wander on purpose"
+        },
+        {
+          "t": "p",
+          "text": "Efficiency works when you know where you are going. Bezos argues that the giant discoveries need something else, which he calls wandering: following a hunch before you can justify it. Nobody asked for AWS. In his telling, customers did not know they wanted it until it existed.",
+          "src": [
+            30
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: no one asked for the Echo either. Bezos wrote that if you had gone to a customer in 2013 and offered an always-on black cylinder, about the size of a Pringles can, to talk to in the kitchen, they would have looked at you strangely and said no. More than 100 million Alexa devices had been bought by the time he wrote that.",
+          "src": [
+            30
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Belief 8: Be cheap about the right things, and create more than you take"
+        },
+        {
+          "t": "p",
+          "text": "In the summer of 1995, Amazon needed desks and sat across from a Home Depot. Doors cost less than desks, so Bezos bought doors and screwed legs onto them. Nico Lovejoy, an early employee, has said he later had to fix the hardware on the ones Bezos built, and that no one should hire him as a carpenter. Amazon still gives a Door Desk Award for ideas that keep prices low.",
+          "src": [
+            33
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In his last letter as CEO he gave a rule for business and life: create more than you consume. He then added up 2020 in his own way, with ==$21 billion== for shareholders, $91 billion for employees, $25 billion for sellers and $164 billion for customers. These are Amazon's estimates, and critics would argue with them. But the habit of asking what you gave everyone else is a good one.",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "70%",
+              "label": "of the information you want, then decide",
+              "src": [
+                25
+              ]
+            },
+            {
+              "value": "7 years",
+              "label": "his preferred horizon, instead of 3",
+              "src": [
+                27
+              ]
+            },
+            {
+              "value": "10% × 100",
+              "label": "the kind of bet he says you always take",
+              "src": [
+                28
+              ]
+            },
+            {
+              "value": "$301B",
+              "label": "value Amazon estimated it created in 2020",
+              "src": [
+                26
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "Family, crises, giving",
+      "title": "The Man Behind the Laugh",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "Looking for someone resourceful"
+        },
+        {
+          "t": "p",
+          "text": "In his New York years Bezos treated dating like a Wall Street pipeline and joked about it to Wired in 1999. He told friends he wanted a partner resourceful enough to get him out of a prison in a poor country, because nobody knows what “resourceful” means until you put it that way. Then he met someone at work instead.",
+          "src": [
+            34,
+            35
+          ]
+        },
+        {
+          "t": "p",
+          "text": "MacKenzie Tuttle, a Princeton graduate who had assisted the novelist Toni Morrison, joined D. E. Shaw as a research associate, and Bezos was her first interviewer. She later told Vogue that her office was next to his and she fell for his laugh all day long. They were engaged within three months and married within six, in 1993. A year later they drove west to start Amazon.",
+          "src": [
+            34,
+            35
+          ]
+        },
+        {
+          "t": "p",
+          "text": "They had four children. In January 2019 they announced together on Twitter that after a long trial separation they were divorcing and would stay friends, and they said that even knowing how it would end they would do it all again. The statement is unusually warm for two people about to divide what was then the world's largest fortune.",
+          "src": [
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1993",
+              "text": "Jeff Bezos and MacKenzie Tuttle marry.",
+              "src": [
+                35
+              ]
+            },
+            {
+              "when": "Jan 2019",
+              "text": "They announce their divorce after 25 years.",
+              "src": [
+                36
+              ]
+            },
+            {
+              "when": "Feb 2019",
+              "text": "He publishes “No thank you, Mr. Pecker”.",
+              "src": [
+                39
+              ]
+            },
+            {
+              "when": "Apr 2019",
+              "text": "Settlement: she receives about 4% of Amazon; he keeps 75% of their shares and voting control over hers.",
+              "src": [
+                40,
+                38
+              ]
+            },
+            {
+              "when": "Jun 2025",
+              "text": "He marries Lauren Sánchez in Venice.",
+              "src": [
+                41
+              ]
+            },
+            {
+              "when": "Aug 2025",
+              "text": "His mother, Jackie Bezos, dies.",
+              "src": [
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The settlement"
+        },
+        {
+          "t": "p",
+          "text": "Amazon's filing in April 2019 gave the bones. About ==4 percent== of the company would go into her name, a stake The New York Times put at almost $36 billion. He kept 75 percent of their Amazon shares and all of their stakes in The Washington Post and Blue Origin. He also kept sole voting power over her shares unless she sold or donated them.",
+          "src": [
+            40,
+            38
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So control of Amazon did not change hands in the split. That detail matters, because votes and money are two separate things. MacKenzie Scott has since signed the Giving Pledge, a public promise by billionaires to give away most of their wealth, which he has not done.",
+          "src": [
+            40,
+            43
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Votes and money are separate things. Learn this before your first term sheet."
+        },
+        {
+          "t": "h",
+          "text": "The tabloid fight"
+        },
+        {
+          "t": "p",
+          "text": "In January 2019, right after the divorce news, The National Enquirer published a story about his relationship with Lauren Sánchez, including private text messages. Bezos hired the security expert Gavin de Becker to find out how the paper got them. On 7 February 2019, he did something few people in his position would do: he published the tabloid company's emails in a Medium post titled “No thank you, Mr. Pecker”.",
+          "src": [
+            44,
+            39,
+            45
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He alleged that American Media, the Enquirer's owner, threatened to publish intimate photos unless he publicly said its coverage was not politically motivated. He called it extortion and blackmail. The company said it had acted lawfully and would investigate. Federal prosecutors were reported to be reviewing whether this broke an earlier immunity deal, and we found no reliable report that any charge followed.",
+          "src": [
+            39,
+            46,
+            45
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The source turned out to be close to home. The Wall Street Journal reported that Michael Sánchez, Lauren's brother, was paid $200,000 by the publisher, which he disputed in part. He later sued Bezos and his security consultant for defamation. A court threw the case out for lack of admissible evidence, ordered about ==$218,000== in legal fees plus costs, and a California appeal court upheld that in 2022.",
+          "src": [
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He chose embarrassment over being controlled. Few people would make that trade."
+        },
+        {
+          "t": "h",
+          "text": "The phone"
+        },
+        {
+          "t": "p",
+          "text": "Then came a stranger chapter. In 2020 two independent UN experts said a forensic report, commissioned by Bezos's own team, assessed with medium to high confidence that his iPhone was infiltrated in May 2018 after a video arrived from a WhatsApp account used by Saudi Crown Prince Mohammed bin Salman. Saudi Arabia called the claim absurd and asked for its own investigation.",
+          "src": [
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bezos owned The Washington Post, and its columnist Jamal Khashoggi was murdered later that year. The experts said they suspected an effort to influence the paper's coverage. This remains an allegation, not a court finding, and that report did not show the hacked material reached the Enquirer. That is a reminder that owning a newspaper can have very personal costs.",
+          "src": [
+            50,
+            44
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Almost a silly death"
+        },
+        {
+          "t": "p",
+          "text": "In 2003, long before all this, Bezos was scouting West Texas land for rocket tests by helicopter. A gust pushed the small aircraft towards trees, it hit the ground, rolled, and ended upside down in a creek. He was aboard with his lawyer, a local guide and the pilot, and all of them survived.",
+          "src": [
+            53
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He played it down for years. In 2004 he told Fast Company he had a few seconds to think on the way down and mostly felt it would be a foolish way to die. His main lesson, he said with a laugh, was to avoid helicopters. Blue Origin's Texas land purchase went ahead anyway.",
+          "src": [
+            54,
+            53
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was 39, upside down in a creek, and laughed about it later."
+        },
+        {
+          "t": "h",
+          "text": "Parents"
+        },
+        {
+          "t": "p",
+          "text": "His parents stayed close to his life and work. When he left Seattle for Miami in 2023 after nearly 30 years, he said one reason was to be nearer them, along with Blue Origin's launches in Florida. His mother Jackie, who co-founded the Bezos Family Foundation, died on ==14 August 2025==.",
+          "src": [
+            55,
+            42
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Giving away the money"
+        },
+        {
+          "t": "p",
+          "text": "For years Bezos was criticised for giving little compared with his wealth. Bloomberg counted about $1.4 billion in lifetime giving by early 2021, a tiny share of his fortune. He has not signed the Giving Pledge. In 2022, he told CNN for the first time that he would give away most of his money in his lifetime, without saying how or when.",
+          "src": [
+            56,
+            57,
+            43
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Two big vehicles now carry the effort. The Bezos Earth Fund has a ==$10 billion== pledge for climate and nature by 2030, with about $2.4 billion granted so far, by Forbes's count. The Day 1 Fund began in 2018 with a $2 billion promise, split between homelessness and nonprofit preschools. Its families arm has given more than $850 million through 280 awards, under the motto “no child sleeps outside”.",
+          "src": [
+            37,
+            58,
+            59
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A promise is easy. Always check how much has actually been paid."
+        },
+        {
+          "t": "p",
+          "text": "He also hands out giant prizes that winners pass on to charities. The Courage and Civility awards gave $100 million each to chef José Andrés and to CNN's Van Jones in 2021, and $100 million to Dolly Parton in 2022. Inside Philanthropy still rates his giving as less comprehensive than that of some peers, including his former wife.",
+          "src": [
+            60,
+            43,
+            61
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His test for a gift, as he explained on CNBC in May 2026, is whether it builds independence or dependence. He prefers family shelters because stays tend to be short and parents learn skills. He also argued that if he does his job well, his for-profit companies will do far more good than his charity. Not everyone agrees, but that is plainly what he believes.",
+          "src": [
+            62
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 2025 the Day 1 Families Fund gave $102.5 million to 32 groups in 20 states, Washington DC and Guam, with awards from $1.25 million to $5 million. One of them is Mary's Place, the Seattle shelter whose vision statement the fund adopted.",
+          "src": [
+            59
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he spends and plays"
+        },
+        {
+          "t": "p",
+          "text": "The boy who loved Star Trek got his wish in 2016, playing an alien in Star Trek Beyond. He arrived with so much security that star Chris Pine, who had no idea who he was, remembers the bodyguards and limos. He has joked that his ideal job would be bartender, since he prides himself on craft cocktails, and that washing the dishes each night is the sexiest thing he does.",
+          "src": [
+            63,
+            64,
+            44
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The bigger toys draw more anger. His sailing yacht Koru reportedly cost about $500 million. In 2022 Rotterdam residents threatened to pelt it with rotten eggs over a plan to take apart a historic bridge so it could pass. The builder dropped the permit request. Reuters estimated that his three-day Venice wedding in 2025 cost about $50 million.",
+          "src": [
+            65,
+            66,
+            55,
+            41
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same man: doors for desks in 1995, a $500 million yacht by 2022."
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "Image and influence",
+      "title": "Khakis to Cowboy Hat",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The nerd with the laugh"
+        },
+        {
+          "t": "p",
+          "text": "In December 1999 TIME made Bezos its Person of the Year. At 35 he was the fourth-youngest ever, behind Charles Lindbergh, Queen Elizabeth II and Martin Luther King Jr. TIME's profile even dwelt on that high, giggling laugh. __For almost two decades that was the brand: a slightly goofy, obsessive genius who loved customers.__",
+          "src": [
+            67,
+            64
+          ]
+        },
+        {
+          "t": "p",
+          "text": "For most of that time he kept away from the spotlight on purpose. The Independent, carrying New York Times reporting, says he wanted Amazon out of politics, kept lobbying small and was reluctant even to take photos with politicians. Staying out of the glare, the report says, also had real business benefits.",
+          "src": [
+            64
+          ]
+        },
+        {
+          "t": "h",
+          "text": "He picks his moments"
+        },
+        {
+          "t": "p",
+          "text": "When Bezos did speak, it was usually theatre. On 1 December 2013, the holiday shopping season was opening when 60 Minutes aired his surprise for Charlie Rose. He led the reporter into a room with small flying machines he called octocopters and promised half-hour delivery of packages under five pounds, which he said covered 86 percent of Amazon's items.",
+          "src": [
+            68,
+            69
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Even the CBS team had not been told beforehand. Bezos guessed it might take four or five years and warned he was an optimist. Whatever you think of the timeline, he had turned a warehouse story into a science-fiction one on a Sunday night.",
+          "src": [
+            69,
+            68
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Notice the timing. He launches stories like products."
+        },
+        {
+          "t": "h",
+          "text": "The new body, the new life"
+        },
+        {
+          "t": "p",
+          "text": "In July 2017, at a business conference in Sun Valley, Idaho, a photo showed a suddenly muscular Bezos in a tight shirt. The internet named him “Swole Jeff Bezos”, and comparison pictures of the 1990s bookseller spread fast. He had already turned more public on Twitter in late 2015, posting his lucky cowboy boots and a video from the top of a wind turbine.",
+          "src": [
+            70,
+            64
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2019 the image changed again, and not by choice. After the Enquirer story, he became a regular in celebrity news, with yachts and parties photographed for the world. Once tabloids reported the purple octopus swimming trunks he wore, the $260 pair quickly sold out. People who had worked with him for years told The New York Times it felt unreal.",
+          "src": [
+            44
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A short social-media record"
+        },
+        {
+          "t": "p",
+          "text": "Bezos posts rarely but knows how to pick a fight. In December 2015, only his fourth tweet ever, he replied to Donald Trump's attacks on Amazon and the Post by offering him a seat on a Blue Origin rocket, with the hashtag #sendDonaldtospace. In May 2022, he mocked a Biden post linking corporate taxes to inflation, saying that combining the two was a trick to mislead people.",
+          "src": [
+            71,
+            72
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Only his fourth tweet ever, and already a fight with Trump."
+        },
+        {
+          "t": "p",
+          "text": "That Trump joke later looks very different. Amazon claimed in court that Trump's bias cost it a Pentagon cloud contract worth up to ==$10 billion== that went to Microsoft in 2019. By May 2026 Bezos was describing Trump on CNBC as more mature and disciplined than in his first term, and said business leaders must work with every president.",
+          "src": [
+            73,
+            62
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The cowboy hat problem"
+        },
+        {
+          "t": "p",
+          "text": "On 20 July 2021 he flew to the edge of space in his own rocket, wearing a large cowboy hat on landing. At the press conference, he thanked every Amazon employee and customer for having paid for it all. He seemed sincere, and the room chuckled. Much of the internet did not.",
+          "src": [
+            60,
+            74,
+            75
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Critics tied the line to warehouse conditions and to reports about his taxes. A branding consultant told AP it was rocket fuel for anyone upset about inequality. That same day he announced his $200 million in civility awards, but the thank-you is what stuck. __One careless sentence can undo a year of careful image-building.__",
+          "src": [
+            74,
+            60
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Later public moments followed the pattern. Venice protesters hung “No Space for Bezos” banners in 2025 over the wedding, tourism and inequality. New York saw protests in May 2026 over his sponsorship of the Met Gala, reported at $10 million, where he and his wife were honorary chairs. When Andrew Ross Sorkin raised those headlines, Bezos spoke about his parents' climb, and he called the vilification a distraction.",
+          "src": [
+            76,
+            77,
+            78,
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Thank your team, yes. Never remind them who paid for your rocket."
+        },
+        {
+          "t": "h",
+          "text": "India: the truck and the protest"
+        },
+        {
+          "t": "p",
+          "text": "India has seen both Bezos brands. In September 2014, on a Sunday in Bangalore, he climbed on a brightly painted truck in a bandhgala jacket and handed a giant ==$2 billion== cheque to Amazon's India head, Amit Agarwal. Forbes noted that local rival Flipkart had just raised $1 billion. Bangalore was Flipkart's home city, which made the stunt pointed.",
+          "src": [
+            24,
+            79
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His next big trip, in January 2020, went differently. He paid his respects at the Gandhi memorial, flew a kite, wore traditional dress and told a Delhi crowd that this century would belong to India. He pledged $1 billion to bring small businesses online. In Mumbai, he posed with Shah Rukh Khan and Zoya Akhtar around a Prime Video event.",
+          "src": [
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A truck and a cheque in 2014. Protests in 300 cities by 2020."
+        },
+        {
+          "t": "p",
+          "text": "Outside, traders from a body claiming 70 million members held protests across 300 cities with “Jeff Bezos Go Back” signs. India's competition regulator had just opened a probe. Commerce Minister Piyush Goyal said publicly that Amazon was doing India no favour if the money simply funded its losses, then said a day later that he had been misread and that lawful investment was welcome.",
+          "src": [
+            80,
+            83,
+            84
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Reuters reported at the time that he was unlikely to get the meeting he wanted with Prime Minister Narendra Modi. The richest man in the world could fill a Mumbai carpet with film stars and still not get a government appointment. In India, local shopkeepers are a political force, and any founder entering the market should study that.",
+          "src": [
+            82,
+            83
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How people see him"
+        },
+        {
+          "t": "p",
+          "text": "Amazon itself often scores very well with the public, as Bezos noted when it ranked first in a Harris Poll on reputation in 2018. He as a person draws a sharper reaction, especially from those worried about inequality. Sorkin told him in 2026 that coverage of the very rich had become unusually harsh. Representative Alexandria Ocasio-Cortez has argued that a billion dollars cannot be earned.",
+          "src": [
+            7,
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His reply was a burger shop: one store, then two, then a thousand because people love the food, and at no point did that money become unethical. __You may disagree, but notice his method: he explains big ideas with tiny stories.__ It works in shareholder letters, on stage and on television.",
+          "src": [
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Handstands, pizzas, burger shops. He teaches with small objects. Steal this."
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "Mistakes and controversies",
+      "title": "Where He Got It Wrong",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The phone he built for himself"
+        },
+        {
+          "t": "p",
+          "text": "The Fire Phone launched in 2014 at $199 with a two-year contract. Its big trick was a 3D-like display driven by four cameras. Within months the price fell to 99 cents on contract, and Amazon took a ==$170 million== charge, with another $83 million in unsold phones. Sales stopped in 2015.",
+          "src": [
+            31,
+            85,
+            29
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fast Company interviewed more than three dozen people involved and reported that Bezos drove every part of it. One designer said the team ended up building it for Jeff rather than for customers. Teams tried to predict his reactions rather than the market's. It is the sharpest irony in his career: __the man who preached starting from the customer became the customer.__",
+          "src": [
+            86,
+            87
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Your own excitement is not market research. Very important for founders!"
+        },
+        {
+          "t": "h",
+          "text": "Two small apologies that teach a lot"
+        },
+        {
+          "t": "p",
+          "text": "In September 2000 customers comparing notes online found Amazon charging different prices for the same DVDs. It was a test on 68 titles over five days, with discounts from 20 to 40 percent. Amazon insisted it was random, not based on personal data, and Bezos said on CBS the company had not planned to tell anyone. It refunded 6,896 customers an average of ==$3.10==.",
+          "src": [
+            88,
+            89
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In July 2009 Amazon reached into customers' Kindles and deleted George Orwell's 1984 and Animal Farm after a seller without rights had listed them. Yes, 1984. Bezos posted a public apology calling the fix foolish, careless and against the company's own principles, and admitting the mess was entirely self-made.",
+          "src": [
+            90,
+            91,
+            92
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Justin Gawronski, a 17-year-old Michigan student, lost the use of his homework notes when his copy vanished. He sued. Amazon agreed to pay $150,000 and promised not to delete purchased books in the US except in limited cases, such as with the user's consent or a court order. A teenager's homework changed company policy.",
+          "src": [
+            90,
+            92
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bruising workplace"
+        },
+        {
+          "t": "p",
+          "text": "In August 2015 The New York Times described a white-collar culture of tearing apart colleagues' ideas, emails past midnight and an internal tool for sending secret feedback to someone's boss. Bezos replied by memo that this was not the Amazon he knew, told staff to report such cases to HR or to him directly, and said tolerance for such treatment should be zero.",
+          "src": [
+            93,
+            94,
+            95
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then it got messy. Two months later, Amazon's Jay Carney attacked the piece, saying a key quoted former employee had left after an investigation into falsified records. The man denied this, and the Times's editor stood by the story, saying its reporters interviewed more than 100 people. Hold both sides up against what Bezos told Princeton graduates in 2010: that kindness is a choice, and a harder one than being clever.",
+          "src": [
+            96,
+            97,
+            98,
+            99
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The warehouses"
+        },
+        {
+          "t": "p",
+          "text": "The hardest criticism comes from Amazon's hourly workforce. In 2020, during the first Covid wave, it fired Chris Smalls, a Staten Island worker who had protested over safety, saying he broke a quarantine rule. Leaked notes showed its general counsel, David Zapolsky, calling Smalls not smart or articulate. Zapolsky later apologised. In April 2022 Smalls' Amazon Labor Union won the company's first US union vote, ==2,654 to 2,131==.",
+          "src": [
+            100,
+            101,
+            102
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vice president Tim Bray quit in May 2020 in protest, giving up about a million dollars and writing that the firings were meant to create fear. A year later, Amazon's news account mocked a congressman's claim that workers urinate in bottles. Days later it apologised, admitting drivers can struggle to find toilets.",
+          "src": [
+            100,
+            103,
+            104,
+            105
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One cocky tweet from a company account ended in a public apology."
+        },
+        {
+          "t": "p",
+          "text": "A Senate committee's majority staff reported in December 2024 that Amazon's internal studies linked speed to injuries, and that it rejected recommendations that might slow work. Amazon called the report wrong and said its injury rates had fallen. That same month it settled with US workplace regulators, agreeing to company-wide ergonomic steps and a $145,000 penalty, while noting that nine of ten complaints were withdrawn.",
+          "src": [
+            106,
+            107,
+            108,
+            109,
+            110
+          ]
+        },
+        {
+          "t": "p",
+          "text": "To be fair, Bezos did move, and sometimes admitted it. In 2018 Amazon set a $15 minimum wage, and he said it had listened to its critics. In his final CEO letter he wrote that Amazon needed to do a better job for employees and promised to make it “Earth's Best Employer”. __It took years of outside pressure to get there, and a younger founder can save those years.__",
+          "src": [
+            111,
+            26
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He changed after the criticism, not before. You can do better."
+        },
+        {
+          "t": "h",
+          "text": "Competing hard, or too hard?"
+        },
+        {
+          "t": "p",
+          "text": "Brad Stone reported a line Bezos used about small book publishers: Amazon should go after them as a cheetah chases a sick gazelle. A lieutenant insisted it was a joke, but it became the name of a real negotiating programme until lawyers made staff rename it. Asked about it under oath in 2020, Bezos said he could not comment because he did not remember it.",
+          "src": [
+            112,
+            113
+          ]
+        },
+        {
+          "t": "p",
+          "text": "At the same hearing, lawmakers raised Diapers.com. Quidsi, its parent, turned down Amazon in 2009. Amazon then cut baby-product prices sharply, and internal estimates at Quidsi put Amazon's losses at about $100 million in three months. Quidsi sold to Amazon in 2010. Regulators cleared the deal at the time, but it became a textbook example for critics.",
+          "src": [
+            114,
+            113
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The Wall Street Journal also reported that staff had used individual sellers' data to design Amazon's own products, despite a company ban and earlier assurances to Congress. Representative Pramila Jayapal pressed him on it. His answer, given under oath, became the headline.",
+          "src": [
+            115,
+            116
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "But I can't guarantee you that that policy has never been violated.",
+          "who": "Jeff Bezos, testifying to the US House antitrust subcommittee, 29 July 2020",
+          "src": [
+            116,
+            115,
+            117
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bills that came due"
+        },
+        {
+          "t": "p",
+          "text": "In September 2025 Amazon agreed to pay ==$2.5 billion== to settle FTC allegations that it enrolled people in Prime without clear consent and made cancelling hard: $1 billion in penalty and $1.5 billion in refunds for an estimated 35 million customers. Two executives were named in the case, and Bezos was not. A separate FTC-led antitrust case had a trial set for 9 February 2027, and it is unresolved.",
+          "src": [
+            118,
+            119
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Hard to cancel means expensive later. A .5 billion lesson in design."
+        },
+        {
+          "t": "p",
+          "text": "India brought its own trouble. Reuters reported in 2021, from internal documents, that Amazon helped a few big sellers grow and copied products while steering search results in India, which Amazon has denied. India's regulator suspended a 2019 Future Group deal and imposed a penalty of about ₹200 crore, later upheld on appeal. Investigators' reports seen by Reuters in 2024 said it broke competition law, and Amazon did not respond to Reuters about them.",
+          "src": [
+            120,
+            121,
+            122,
+            123,
+            124
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Not every fight ended badly. Amazon won its European tax case in 2023 and avoided about €250 million in back taxes. But it walked away from a second headquarters in New York in February 2019 after a backlash over nearly $3 billion in incentives. The city lost a promised 25,000 jobs, and the fight showed that public money attracts public anger.",
+          "src": [
+            125,
+            126,
+            127
+          ]
+        },
+        {
+          "t": "h",
+          "text": "His taxes"
+        },
+        {
+          "t": "p",
+          "text": "ProPublica reported in 2021, from leaked IRS data, that Bezos paid no federal income tax in 2007 and 2011. In 2011 he even claimed a ==$4,000== child tax credit. From 2014 to 2018 his federal income taxes equalled 0.98 percent of his wealth gain. None of this was shown to be illegal, and his representatives did not answer ProPublica's questions.",
+          "src": [
+            128,
+            129
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2023 he moved to Florida, naming family and rockets as reasons. CNBC noted that Washington State had just begun a 7 percent capital-gains tax and calculated he would save at least $610 million on one planned stock sale. On CNBC in May 2026 he said he pays billions in taxes, including when he sells stock to fund Blue Origin, and that it is fine to debate how much.",
+          "src": [
+            55,
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Legal is not the same as popular. Plan for both."
+        },
+        {
+          "t": "h",
+          "text": "Bets that have not paid"
+        },
+        {
+          "t": "p",
+          "text": "Alexa is his great unfinished story. Business Insider reported that Amazon was on pace to lose about $10 billion in 2022 on Alexa and devices, and The Wall Street Journal saw documents showing losses of $5 billion a year in the devices unit in some years. It sits in millions of homes without a matching profit. By his own rule that may be a fair bet, but it is an expensive one.",
+          "src": [
+            130,
+            131,
+            132
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Blue Origin spent 25 years reaching orbit, doing so only in early 2025. In 2021 it lost its lawsuit against NASA over a $2.9 billion lunar lander contract given to SpaceX. That September, 21 current and former staff, led by former communications head Alexandra Abrams, published an essay alleging sexism and ignored safety worries. Blue Origin rejected the charges, said she had been dismissed for cause, and the FAA said it would review the safety concerns.",
+          "src": [
+            133,
+            134,
+            135,
+            136,
+            137
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$170M",
+              "label": "Fire Phone charge",
+              "src": [
+                31
+              ]
+            },
+            {
+              "value": "$2.5B",
+              "label": "FTC Prime settlement",
+              "src": [
+                118
+              ]
+            },
+            {
+              "value": "₹200 crore",
+              "label": "Indian penalty over the Future deal",
+              "src": [
+                123
+              ]
+            },
+            {
+              "value": "375,000+",
+              "label": "Washington Post cancellations, by NPR's count",
+              "src": [
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The newspaper"
+        },
+        {
+          "t": "p",
+          "text": "He bought The Washington Post in 2013 for $250 million, and for years the story was a happy one. He says it was profitable for six years, and the newsroom grew. Then, eleven days before the 2024 election, the paper said it would stop presidential endorsements. Bezos wrote that endorsements create a perception of bias. He admitted the late timing was poor planning and denied any deal with anyone.",
+          "src": [
+            62,
+            139,
+            140,
+            141,
+            142
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Readers did not accept it. More than 250,000 subscribers cancelled within days, and NPR counts more than 375,000 cancellations in all, about 15 percent of digital subscribers, including those who left after he refocused the opinion pages on personal liberties and free markets. In February 2026 the Post laid off about a third of its staff, closing its sports section and cutting foreign bureaus.",
+          "src": [
+            143,
+            138,
+            144
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Journalists had appealed to him directly and he did not reply, NPR reported. His defence on CNBC was that the paper must earn its living, and that he told managers to follow the data, except on investigative reporting. He also denied any role in Amazon's $40 million deal for a documentary on Melania Trump. Critics see a billionaire protecting his federal contracts, a charge he rejects.",
+          "src": [
+            138,
+            62,
+            140
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Decades to build trust. One late decision cost hundreds of thousands of readers."
+        },
+        {
+          "t": "h",
+          "text": "What a young founder should not copy"
+        },
+        {
+          "t": "p",
+          "text": "So here is our short list, and each item has a price tag attached in the pages above. Do not insult people and call it high standards. Do not fall in love with your own product. Do not treat your lowest-paid workers as a cost to manage and only fix things once regulators and reporters arrive. Do not assume that being right about customers makes you right about power.",
+          "src": [
+            11,
+            86,
+            26,
+            141
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of 2 November 2026",
+      "title": "Sixty-Two and Back to Work",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In February 2021 Bezos told staff he would step back as Amazon's CEO, insisted this was not retirement and said he had never had more energy. Five years later that looks like an honest statement. At 62 he is running a startup again, and he told CNBC that it is a grind he enjoys.",
+          "src": [
+            19,
+            145
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$361.3B",
+              "label": "Forbes real-time net worth, 1 Nov 2026; #2 in the world",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "8%",
+              "label": "his Amazon stake, the largest single part of his fortune",
+              "src": [
+                37,
+                146
+              ]
+            },
+            {
+              "value": "$41B",
+              "label": "Prometheus valuation after its June 2026 round",
+              "src": [
+                147
+              ]
+            },
+            {
+              "value": "$30B",
+              "label": "reported lifetime personal investment in Blue Origin",
+              "src": [
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "His roles"
+        },
+        {
+          "t": "p",
+          "text": "He remains executive chair of Amazon and its largest shareholder. He is co-CEO of Prometheus, owner of The Washington Post and the founder and controlling owner of Blue Origin, which Dave Limp runs day to day. He is also executive chair of the Bezos Earth Fund. Asked how he divides his time, he said the common thread is AI.",
+          "src": [
+            147,
+            62,
+            37,
+            148,
+            58
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The new bet: Prometheus"
+        },
+        {
+          "t": "p",
+          "text": "Prometheus launched in November 2025 with $6.2 billion, and it was his first CEO job since Amazon. His co-CEO is Vik Bajaj, who previously co-founded Alphabet's life-sciences lab, Verily. In June 2026 it raised another ==$12 billion== at about $41 billion. It has around 150 people across San Francisco, London and Zurich. Bezos said he became so impressed as a founding investor from late 2024 that he had to jump in fully.",
+          "src": [
+            147,
+            149
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He corrected people who assumed it was a robotics company. The aim, he says, is an “artificial general engineer”: tools that speed up designing and making physical things, from bridges to chips. Think of it as a very modern version of computer-aided design, though he says even that oversimplifies it. No product timeline has been given, and he has said it is too early to discuss an IPO.",
+          "src": [
+            62,
+            149
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Reuters, citing The Wall Street Journal, reported in March 2026 that he was in early talks to raise $100 billion for a fund to buy manufacturing firms and use AI to speed them up. He later said only that Prometheus might buy parts of companies that could benefit from its tools. He calls the whole experience “Type 2 fun”: hard while climbing, enjoyable once you are looking back.",
+          "src": [
+            150,
+            149,
+            145
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Worth over $300 billion, and still choosing the grind. Think about that."
+        },
+        {
+          "t": "h",
+          "text": "The old dream: Blue Origin"
+        },
+        {
+          "t": "p",
+          "text": "Blue Origin's 2026 has been dramatic. In January it paused its New Shepard tourist flights for at least two years to focus on the Moon, after 38 flights and 98 people. It announced TeraWave, with more than 5,400 planned satellites, and Project Sunrise, with about 56,000, for computing in space. In April a New Glenn booster landed, yet the satellite on board went into the wrong orbit and was lost.",
+          "src": [
+            151,
+            133
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On ==28 May 2026== a New Glenn rocket exploded during a test on its Florida launch pad and badly damaged the site. Bezos called it a very bad day for the team and promised flights before year-end. By late October, SpaceNews reported the rebuilt pad should be ready by the first half of December, while Space.com noted a Reuters report suggesting early 2027.",
+          "src": [
+            147,
+            152,
+            153
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then the money arrived. After funding the company himself for 26 years, he allowed outside investors in for the first time. The Wall Street Journal reported about $10 billion raised, including $2 billion from Bezos. Limp said the round was oversubscribed but did not confirm numbers. That jump in value helped push Bezos back to number two on the Forbes list in the autumn.",
+          "src": [
+            133,
+            148
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Nov 2025",
+              "text": "Prometheus launches with $6.2 billion; New Glenn had landed its first booster that autumn.",
+              "src": [
+                147,
+                133
+              ]
+            },
+            {
+              "when": "Jan 2026",
+              "text": "New Shepard paused; TeraWave unveiled.",
+              "src": [
+                151,
+                133
+              ]
+            },
+            {
+              "when": "Feb 2026",
+              "text": "Washington Post cuts about a third of staff; its publisher leaves days later.",
+              "src": [
+                144,
+                138
+              ]
+            },
+            {
+              "when": "May 2026",
+              "text": "Protests over Met Gala sponsorship; New Glenn explodes on the pad.",
+              "src": [
+                77,
+                147
+              ]
+            },
+            {
+              "when": "Jun 2026",
+              "text": "Prometheus raises $12 billion at about $41 billion.",
+              "src": [
+                147
+              ]
+            },
+            {
+              "when": "Sep 2026",
+              "text": "Blue Origin's first outside funding round is reported.",
+              "src": [
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What he says he wants next"
+        },
+        {
+          "t": "p",
+          "text": "Space first, as ever. He told CNBC, from Blue Origin's factory floor in Florida, that heavy industry should move off Earth, which he calls the garden planet, and that the Moon is a gift because of its resources. He held up a solar cell made from simulated Moon dust. In Turin in 2025, he predicted millions of people would live in space within a couple of decades, by choice.",
+          "src": [
+            62,
+            154
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On AI he is an unapologetic optimist. He called the investment boom an industrial bubble in 2025, the kind that can leave useful things behind when it pops. He says people fearing job losses are wrong and predicts a labour shortage, comparing AI to swapping a shovel for a bulldozer. Those are predictions from someone with billions riding on the answer, so read them that way.",
+          "src": [
+            155,
+            154,
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "And he has new political opinions. In May 2026 he proposed ending income tax for the bottom half of US earners, using the example of a Queens nurse earning $75,000. He rejected the idea that billionaires are the root of the problem, and said he would keep giving away billions, with most of his wealth going before he dies. He admitted he does not yet know how to do that at such scale.",
+          "src": [
+            62,
+            156
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So where does he stand? He is the world's second-richest person, facing a harsher public mood than a decade ago, by his own account, and working on three companies at once. Elon Musk, his old rival, even applauded his Blue Origin spending in October. __Whatever you think of him, he is still doing the thing he told shareholders in 1997: playing for the long term.__",
+          "src": [
+            37,
+            146,
+            62,
+            157,
+            27
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Guard your best hours.",
+      "text": "Bezos set his first meeting for 10 a.m. and gave the hardest problems to that slot. By 5 p.m. he stopped trying to solve them. Find your own clear-headed hours and put your biggest decision there."
+    },
+    {
+      "title": "Sleep before you decide.",
+      "text": "He worked out that cutting sleep would give him about 33 percent more decisions, then said the extra ones were not worth it if they were worse. Three good decisions a day were enough for him. You are paid for quality, not for looking exhausted."
+    },
+    {
+      "title": "Write it before you say it.",
+      "text": "In June 2004 he banned PowerPoint from his top team's meetings and made people write full sentences. The first memos were bad, and teams learned that a good one takes a week. If you cannot write your plan clearly, you do not yet have a plan."
+    },
+    {
+      "title": "Speak last.",
+      "text": "Bezos says he talks last in every meeting because even strong people bend once the boss has spoken. Ask your youngest teammate first. You will hear things nobody would otherwise tell you."
+    },
+    {
+      "title": "Call your own helpline.",
+      "text": "A chart said customers waited under a minute, so he dialled the number in the middle of the meeting and everyone sat through a wait of many minutes. Do this with your own product this week. When numbers and customers disagree, go and check the numbers."
+    },
+    {
+      "title": "Hire slowly.",
+      "text": "In 1998 he asked three things about every hire: will you admire them, will they raise the average, and where could they be a superstar? He said he would rather interview 50 people and hire nobody than hire wrongly. Your first ten people become your culture."
+    },
+    {
+      "title": "Keep teams small and give one person the job.",
+      "text": "Two-pizza teams stay under about 10 people and own one thing. Andy Jassy shadowed Bezos for 18 months and later ran the whole company. Teach people how you think, then get out of their way."
+    },
+    {
+      "title": "Think in seven-year blocks.",
+      "text": "He told Wired that a three-year goal puts you in a crowd and a seven-year goal removes most of it. He even funded a clock meant to run for 10,000 years to keep that idea alive. At your age, patience is the cheapest advantage you own."
+    },
+    {
+      "title": "Ask if the door swings back.",
+      "text": "Bezos sorts choices into one-way and two-way doors. Reversible ones should be made fast with about 70 percent of the information you want. Save your slow thinking for the few you cannot undo."
+    },
+    {
+      "title": "Bet small enough to bet again.",
+      "text": "Amazon Auctions drew about seven visitors, zShops did no better, and the third attempt became Amazon's biggest engine. He could keep trying because no single flop killed the company. Failing is fine as long as you are still standing for the next swing."
+    },
+    {
+      "title": "Do not build for yourself.",
+      "text": "The Fire Phone had features Bezos adored and customers did not need, and one designer said they built it for Jeff. Amazon took a $170 million charge. Whenever you love your own idea most, go and find someone who has to pay for it."
+    },
+    {
+      "title": "Say sorry fast, and plainly.",
+      "text": "When Amazon deleted 1984 from Kindles, Bezos publicly called his company's fix foolish and self-inflicted, and Amazon changed its rules. When it denied the bottle stories, it had to retract them days later. A quick, plain apology costs far less than a slow defence."
+    },
+    {
+      "title": "Do not confuse rudeness with standards.",
+      "text": "Staff described “nutters” and cutting lines from Bezos, yet his grandfather taught him that kindness takes more effort than cleverness. Take the high bar from him and leave the insults. People should fear shipping bad work, not fear you."
+    },
+    {
+      "title": "Take care of the people doing the hardest work.",
+      "text": "Amazon spent years fighting critics over warehouses before it raised pay, and Bezos only admitted in his final CEO letter that it needed a better vision for workers. A union, Senate report and federal settlement followed anyway. Fix it early, before someone else makes you."
+    },
+    {
+      "title": "Watch what your money signals.",
+      "text": "His thank-you after his 2021 spaceflight, a $500 million yacht and a Venice wedding all turned into stories about inequality. The late endorsement decision at his newspaper cost hundreds of thousands of readers. As you grow, your choices start speaking for you, so check what they are saying."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Axios, Mike Allen (14 Sep 2018): Bezos at the Economic Club of Washington with David Rubenstein",
+      "url": "https://www.axios.com/2018/09/14/jeff-bezos-amazon-secrets-rubenstein"
+    },
+    {
+      "label": "CNBC, Ali Montag (14 Sep 2018): The daily routine Jeff Bezos uses to succeed",
+      "url": "https://www.cnbc.com/2018/09/14/billionaire-jeff-bezos-shares-the-daily-routine-he-uses-to-succeed.html"
+    },
+    {
+      "label": "Fast Company (23 Nov 2020): Jeff Bezos, how I make Amazon's highest-stakes decisions (from his own collected writings and talks)",
+      "url": "https://www.fastcompany.com/90578272/how-jeff-bezos-makes-decisions"
+    },
+    {
+      "label": "Quartz, Jane C. Hu (14 Sep 2018): Jeff Bezos only expects himself to make three good decisions a day",
+      "url": "https://qz.com/work/1390844/jeff-bezos-only-expects-himself-to-make-three-good-decisions-a-day"
+    },
+    {
+      "label": "Andreessen Horowitz podcast (7 Feb 2021): Colin Bryar and Bill Carr on Amazon narratives",
+      "url": "https://a16z.com/podcast/amazon-narratives-memos-working-backwards-from-release-more/"
+    },
+    {
+      "label": "Colin Bryar and Bill Carr, Working Backwards site: Narratives and decision making",
+      "url": "https://workingbackwards.com/concepts/narratives-decision-making/"
+    },
+    {
+      "label": "Edward Tufte, Fresh Eyes (includes excerpts from Bryar and Carr, Working Backwards, on the 9 June 2004 email)",
+      "url": "https://www.edwardtufte.com/wp-content/uploads/files/Amazon_Working_Backwards_WebThreadCombined_2.pdf"
+    },
+    {
+      "label": "Jeff Bezos, 2017 letter to Amazon shareholders",
+      "url": "https://www.aboutamazon.com/news/company-news/2017-letter-to-shareholders"
+    },
+    {
+      "label": "Charter, Kevin J. Delaney (12 Feb 2021): Book briefing on Working Backwards",
+      "url": "https://www.charterworks.com/book-briefing-working-backwards-by-colin-bryar-and-bill-carr/"
+    },
+    {
+      "label": "Lex Fridman Podcast #405 (14 Dec 2023): transcript of interview with Jeff Bezos",
+      "url": "https://lexfridman.com/jeff-bezos-transcript/"
+    },
+    {
+      "label": "The Telegraph (15 Oct 2013): How Jeff Bezos rules his Amazonian empire (on Brad Stone, The Everything Store)",
+      "url": "https://www.telegraph.co.uk/technology/amazon/10379912/How-Jeff-Bezos-rules-his-Amazonian-empire.html"
+    },
+    {
+      "label": "The Daily Beast, Nina Strochlic (11 Oct 2013): Revealing details from The Everything Store",
+      "url": "https://www.thedailybeast.com/jeff-bezoss-dad-was-a-circus-performer-and-5-more-juicy-bits-from-the-tell-all-book"
+    },
+    {
+      "label": "Jeff Bezos, 1998 letter to Amazon shareholders (SEC filing)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/0000891020-99-000637.txt"
+    },
+    {
+      "label": "Fast Company (3 Feb 2006): Hire right",
+      "url": "https://www.fastcompany.com/673987/hire-right"
+    },
+    {
+      "label": "Business Insider, Aaron Taube (20 Nov 2014): The quote that explains Amazon's hiring process",
+      "url": "https://www.businessinsider.com/quote-explains-amazons-difficult-hiring-process-2014-11"
+    },
+    {
+      "label": "Business Insider, Shana Lebowitz (25 Apr 2018): Amazon's hiring process came from D. E. Shaw",
+      "url": "https://www.businessinsider.com/amazon-hiring-process-developed-by-jeff-bezos-2018-4"
+    },
+    {
+      "label": "Amazon Web Services, Executive Insights: Amazon's two-pizza teams",
+      "url": "https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/"
+    },
+    {
+      "label": "The New York Times (3 Feb 2021): How Andy Jassy was a brain double for Jeff Bezos",
+      "url": "https://www.nytimes.com/2021/02/03/technology/andy-jassy-amazon-ceo-jeff-bezos.html"
+    },
+    {
+      "label": "CNBC, Taylor Locke (3 Feb 2021): How Andy Jassy shadowed Jeff Bezos",
+      "url": "https://www.cnbc.com/2021/02/03/how-andy-jassy-the-next-ceo-of-amazon-shadowed-jeff-bezos.html"
+    },
+    {
+      "label": "About Amazon (2 Feb 2021): Email from Jeff Bezos to employees",
+      "url": "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees"
+    },
+    {
+      "label": "Forbes / RetailWire, George Anderson (22 Oct 2013): Is Jeff Bezos a horrible boss?",
+      "url": "https://www.forbes.com/sites/retailwire/2013/10/22/is-jeff-bezos-a-horrible-boss-and-is-that-good/"
+    },
+    {
+      "label": "Business Insider, Drake Baer (17 Mar 2014): The strategies Jeff Bezos used to build the Amazon empire (quoting Brad Stone)",
+      "url": "https://www.businessinsider.com/the-strategies-jeff-bezos-used-to-build-the-amazon-empire-2014-3"
+    },
+    {
+      "label": "CNBC, Cat Clifford (22 May 2020): Why you can't feel bad about failure (citing The New Yorker)",
+      "url": "https://www.cnbc.com/2020/05/22/jeff-bezos-why-you-cant-feel-bad-about-failure.html"
+    },
+    {
+      "label": "CNBC, Eugene Kim (15 Nov 2018): Bezos tells employees one day Amazon will fail",
+      "url": "https://www.cnbc.com/2018/11/15/bezos-tells-employees-one-day-amazon-will-fail-and-to-stay-hungry.html"
+    },
+    {
+      "label": "The Times of India, Samidha Sharma and Boby Kurian (28 Sep 2014): Amazing India energizes me, says Jeff Bezos",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/amazing-india-energizes-me-amazon-ceo-jeff-bezos/articleshow/43757725.cms"
+    },
+    {
+      "label": "Jeff Bezos, 2016 letter to Amazon shareholders",
+      "url": "https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders"
+    },
+    {
+      "label": "Jeff Bezos, 2020 letter to Amazon shareholders",
+      "url": "https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders"
+    },
+    {
+      "label": "Wired, Steven Levy (12 Dec 2011): In conversation with Jeff Bezos, CEO of the internet",
+      "url": "https://www.wired.com/story/ceo-of-the-internet/"
+    },
+    {
+      "label": "Jeff Bezos, 2015 letter to Amazon shareholders (SEC filing, Exhibit 99.1)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm"
+    },
+    {
+      "label": "Nasdaq / GOBankingRates: Jeff Bezos' most outrageous business failures (quoting the 2014 letter and the 2014 Ignition talk)",
+      "url": "https://www.nasdaq.com/articles/jeff-bezos-most-outrageous-business-failures"
+    },
+    {
+      "label": "Jeff Bezos, 2018 letter to Amazon shareholders",
+      "url": "https://www.aboutamazon.com/news/company-news/2018-letter-to-shareholders"
+    },
+    {
+      "label": "GeekWire (19 May 2016): Bezos on the Fire Phone and bigger failures",
+      "url": "https://www.geekwire.com/2016/amazons-jeff-bezos-fire-phone-working-much-bigger-failures-right-now/"
+    },
+    {
+      "label": "Jeff Bezos, 2015 letter to Amazon shareholders (Amazon investor relations PDF)",
+      "url": "https://s2.q4cdn.com/299287126/files/doc_financials/annual/2015-Letter-to-Shareholders.PDF"
+    },
+    {
+      "label": "About Amazon (17 Jan 2018): How a door became a desk, and a symbol of Amazon",
+      "url": "https://www.aboutamazon.com/news/workplace/how-a-door-became-a-desk-and-a-symbol-of-amazon"
+    },
+    {
+      "label": "Wired, Chip Bayers (March 1999): The Inner Bezos (archived copy)",
+      "url": "https://web.archive.org/web/20140316092022/http:/www.wired.com/wired/archive/7.03/bezos_pr.html"
+    },
+    {
+      "label": "Business Insider, Aine Cain and Paige Leskin (6 Jul 2019): The marriage and divorce of Jeff and MacKenzie Bezos",
+      "url": "https://www.businessinsider.com/jeff-bezos-wife-mackenzie-2017-11"
+    },
+    {
+      "label": "BBC News (9 Jan 2019): Amazon boss Jeff Bezos and wife MacKenzie divorce",
+      "url": "https://www.bbc.com/news/world-us-canada-46814557"
+    },
+    {
+      "label": "Forbes real-time profile: Jeff Bezos (read 2 Nov 2026; net worth as of 1 Nov 2026)",
+      "url": "https://www.forbes.com/profile/jeff-bezos/"
+    },
+    {
+      "label": "The New York Times (4 Apr 2019): Jeff Bezos and MacKenzie Bezos finalize divorce details",
+      "url": "https://www.nytimes.com/2019/04/04/technology/bezos-divorce-mackenzie.html"
+    },
+    {
+      "label": "Jeff Bezos, Medium (7 Feb 2019): No thank you, Mr. Pecker",
+      "url": "https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f"
+    },
+    {
+      "label": "Amazon.com, Form 8-K (4 Apr 2019): Divorce share and voting arrangements (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312519097640/d697549d8k.htm"
+    },
+    {
+      "label": "Reuters (27 Jun 2025): Jeff Bezos and Lauren Sanchez head to wedding ceremony in Venice",
+      "url": "https://www.reuters.com/world/europe/bezos-sanchez-exchange-wedding-vows-star-studded-venice-party-2025-06-27/"
+    },
+    {
+      "label": "Bezos Family Foundation: Remembering Jackie Bezos (1946-2025)",
+      "url": "https://bezosfamilyfoundation.org/learnings/remembering-jackie-bezos/"
+    },
+    {
+      "label": "CNBC, Rohan Goswami (14 Nov 2022): Jeff Bezos plans to give away most of his fortune",
+      "url": "https://www.cnbc.com/2022/11/14/jeff-bezos-says-he-plans-to-give-away-most-of-his-124-billion-fortune.html"
+    },
+    {
+      "label": "The New York Times via Forbes India (25 Jan 2020): Jeff Bezos's dramatic transformation, from low-key to Tabloid Man",
+      "url": "https://www.forbesindia.com/article/special/jeff-bezos039s-dramatic-transformation-from-lowkey-to-tabloid-man/57331/1"
+    },
+    {
+      "label": "The New York Times, Jim Rutenberg and Karen Weise (7 Feb 2019): Jeff Bezos accuses National Enquirer of extortion and blackmail",
+      "url": "https://www.nytimes.com/2019/02/07/technology/jeff-bezos-sanchez-enquirer.html"
+    },
+    {
+      "label": "ABC News (8 Feb 2019): Prosecutors reviewing Bezos's allegations against National Enquirer's parent company",
+      "url": "https://abcnews.com/Business/amazon-ceo-jeff-bezos-accuses-national-enquirer-ami/story?id=60924072"
+    },
+    {
+      "label": "The Wall Street Journal (18 Mar 2019): How the National Enquirer got Bezos' texts",
+      "url": "https://www.wsj.com/articles/how-the-national-enquirer-got-bezos-texts-it-paid-200-000-to-his-lovers-brother-11552953981"
+    },
+    {
+      "label": "California Court of Appeal (2022): Sanchez v. Bezos, ruling",
+      "url": "https://www.courthousenews.com/wp-content/uploads/2022/06/Sanchez-v.-Bezos-ruling.pdf"
+    },
+    {
+      "label": "People (23 May 2023): Jeff Bezos and Lauren Sanchez relationship timeline",
+      "url": "https://people.com/jeff-bezos-and-lauren-sanchez-relationship-timeline-7503178"
+    },
+    {
+      "label": "UN News (22 Jan 2020): UN rights experts call for investigation into alleged Bezos phone hack",
+      "url": "https://news.un.org/en/story/2020/01/1055771"
+    },
+    {
+      "label": "NPR, Avie Schneider (22 Jan 2020): UN experts urge probe of reported hacking of Bezos's phone",
+      "url": "https://www.npr.org/2020/01/22/798457906/u-n-experts-urge-probe-of-reported-hacking-of-jeff-bezos-phone-by-saudi-arabia"
+    },
+    {
+      "label": "Reuters (22 Jan 2020): Saudi foreign minister calls hack claim absurd",
+      "url": "https://www.reuters.com/article/us-davos-meeting-saudi-arabia-idUSKBN1ZL1ED/"
+    },
+    {
+      "label": "Business Insider, Dave Mosher (3 Apr 2018): How a helicopter crash nearly killed Jeff Bezos in 2003",
+      "url": "https://www.businessinsider.com/jeff-bezos-blue-origin-helicopter-crash-2018-3"
+    },
+    {
+      "label": "Fast Company, Alan Deutschman (1 Aug 2004): Inside the mind of Jeff Bezos",
+      "url": "https://www.fastcompany.com/50541/inside-mind-jeff-bezos-4"
+    },
+    {
+      "label": "CNBC, Robert Frank (12 Feb 2024): Bezos will save over $600 million in taxes by moving to Miami",
+      "url": "https://www.cnbc.com/2024/02/12/jeff-bezos-move-to-miami-will-save-him-over-600-million-in-taxes.html"
+    },
+    {
+      "label": "Bloomberg, Sophie Alexander and Ben Steverman (11 Feb 2021): How much Jeff Bezos and MacKenzie Scott have donated",
+      "url": "https://www.bloomberg.com/features/2021-bezos-scott-philanthropy/"
+    },
+    {
+      "label": "CNN Business, Brian Fung (14 Nov 2022): Jeff Bezos says for the first time he will give most of his money to charity",
+      "url": "https://www.cnn.com/2022/11/14/business/jeff-bezos-charity"
+    },
+    {
+      "label": "The Boston Globe, Yogev Toby (1 Dec 2025): Bezos Day One Families Fund grants",
+      "url": "https://www.bostonglobe.com/2025/12/01/business/jeff-bezos-grant-homeless/"
+    },
+    {
+      "label": "Bezos Day One Fund: Day 1 Families Fund",
+      "url": "https://www.bezosdayonefund.org/day1familiesfund"
+    },
+    {
+      "label": "NPR, Alina Selyukh (20 Jul 2021): Bezos thanks Amazon workers and shoppers, gives $200 million in awards",
+      "url": "https://www.npr.org/2021/07/20/1018414444/bezos-landed-thanked-amazon-workers-and-shoppers-for-paying-gave-away-200-millio"
+    },
+    {
+      "label": "Inside Philanthropy (9 Jun 2026): Jeff Bezos's philanthropy",
+      "url": "https://www.insidephilanthropy.com/find-a-grant/major-donors/jeff-bezos"
+    },
+    {
+      "label": "CNBC (20 May 2026): Transcript, Jeff Bezos speaks with Andrew Ross Sorkin on Squawk Box",
+      "url": "https://www.cnbc.com/2026/05/20/cnbc-exclusive-transcript-jeff-bezos-speaks-with-cnbcs-andrew-ross-sorkin-on-squawk-box-today-.html"
+    },
+    {
+      "label": "The Hollywood Reporter / AP (16 Jul 2016): Jeff Bezos gets cameo in Star Trek Beyond",
+      "url": "https://www.hollywoodreporter.com/news/general-news/amazon-ceo-jeff-bezos-gets-911759/"
+    },
+    {
+      "label": "The Independent / NYT, Nick Wingfield (21 Jan 2018): Mr Amazon steps out of the shadows",
+      "url": "https://www.independent.co.uk/news/long_reads/jeff-bezos-amazon-washington-post-blue-origin-a8160696.html"
+    },
+    {
+      "label": "AP, Mike Corder (4 Feb 2022): Yacht reportedly built for Bezos too big for Dutch bridge",
+      "url": "https://apnews.com/article/jeff-bezos-yacht-dutch-bridge-a24e8696be86eb3ae5f56d8e7a648c04"
+    },
+    {
+      "label": "The Architect's Newspaper, Matt Hickman (11 Jul 2022): Rotterdam bridge won't be dismantled for Bezos megayacht",
+      "url": "https://www.archpaper.com/2022/07/rotterdam-rail-bridge-wont-dismantled-bezos-megayacht"
+    },
+    {
+      "label": "TIME (27 Dec 1999): Jeffrey Preston Bezos, 1999 Person of the Year",
+      "url": "https://time.com/archive/6737319/jeffrey-preston-bezos-1999-person-of-the-year/"
+    },
+    {
+      "label": "CBS News, 60 Minutes (1 Dec 2013): Amazon's Jeff Bezos looks to the future (script)",
+      "url": "https://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/"
+    },
+    {
+      "label": "CBS News, 60 Minutes Overtime (1 Dec 2013): Amazon unveils futuristic plan, delivery by drone",
+      "url": "https://www.cbsnews.com/news/amazon-unveils-futuristic-plan-delivery-by-drone/"
+    },
+    {
+      "label": "Slate, Christina Cauterucci (17 Jul 2017): Swole Jeff Bezos",
+      "url": "https://slate.com/human-interest/2017/07/swole-jeff-bezos-is-exactly-the-meme-the-world-needed.html"
+    },
+    {
+      "label": "CBS News, Aimee Picchi (8 Dec 2015): Jeff Bezos wants to blast Trump into space",
+      "url": "https://www.cbsnews.com/news/amazons-jeff-bezos-wants-to-blast-trump-into-space/"
+    },
+    {
+      "label": "UPI, Adam Schrader (14 May 2022): Bezos says disinformation board should review Biden tweet",
+      "url": "https://www.upi.com/Top_News/US/2022/05/14/jeff-bezos-says-disinformation-board-investigate-biden-tweet/8931652576447/"
+    },
+    {
+      "label": "CNBC, Annie Palmer (13 Feb 2020): Amazon gets restraining order to block Microsoft work on Pentagon JEDI",
+      "url": "https://www.cnbc.com/2020/02/13/amazon-gets-restraining-order-to-block-microsoft-work-on-pentagon-jedi.html"
+    },
+    {
+      "label": "AP via The Boston Globe, Anne D'Innocenzio (21 Jul 2021): Bezos's thank-you prompts criticism",
+      "url": "https://www.bostonglobe.com/2021/07/21/business/jeff-bezos-thanked-every-amazon-employee-customer-because-you-guys-paid-all-this-prompting-criticism/"
+    },
+    {
+      "label": "Space.com, Chelsea Gohd (25 Aug 2021): Why Blue Origin gets so much hate",
+      "url": "https://www.space.com/why-blue-origin-lacks-public-support"
+    },
+    {
+      "label": "Reuters (28 Jun 2025): Venice protests target Bezos over mounting grievances",
+      "url": "https://www.reuters.com/business/media-telecom/venice-protests-target-bezos-over-mounting-grievances-2025-06-28/"
+    },
+    {
+      "label": "Reuters (4 May 2026): Stars embrace costume at Met Gala as protesters target Bezos",
+      "url": "https://www.reuters.com/business/media-telecom/stars-arrive-met-gala-protesters-target-jeff-bezos-2026-05-04/"
+    },
+    {
+      "label": "The New York Times, Vanessa Friedman (23 Feb 2026): Jeff and Lauren Sanchez Bezos will be honorary chairs of the Met Gala",
+      "url": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html"
+    },
+    {
+      "label": "Forbes, Ryan Mac (5 Nov 2014): Amazon faces bloodbath as tech giants square off in India",
+      "url": "https://www.forbes.com/sites/ryanmac/2014/11/05/amazon-india-bloodbath-flipkart/"
+    },
+    {
+      "label": "CNBC, Annie Palmer (15 Jan 2020): Amazon pledges $1 billion in India as Bezos is met with protests",
+      "url": "https://www.cnbc.com/2020/01/15/amazon-pledges-1-billion-to-help-small-businesses-in-india.html"
+    },
+    {
+      "label": "BBC News (15 Jan 2020): Jeff Bezos announces $1bn Indian investment",
+      "url": "https://www.bbc.com/news/business-51117515"
+    },
+    {
+      "label": "Fox Business, James Leggate (16 Jan 2020): Bezos with Bollywood stars during India trip (citing Reuters on the Modi meeting)",
+      "url": "https://www.foxbusiness.com/technology/amazon-ceo-jeff-bezos-bollywood-stars-india"
+    },
+    {
+      "label": "Business Standard / Reuters (16 Jan 2020): Amazon hasn't done India any big favours, says Piyush Goyal",
+      "url": "https://www.business-standard.com/article/economy-policy/amazon-hasn-t-done-india-any-big-favours-by-investing-1-bn-piyush-goyal-120011601023_1.html"
+    },
+    {
+      "label": "The Hindu, Mahesh Langa (17 Jan 2020): Statement on Amazon misconstrued, says Piyush Goyal",
+      "url": "https://www.thehindu.com/news/national/statement-on-amazon-misconstrued-says-piyush-goyal/article30586744.ece"
+    },
+    {
+      "label": "GeekWire (2016): Fire Phone, two years later",
+      "url": "https://www.geekwire.com/2016/fire-phone/"
+    },
+    {
+      "label": "BGR, Brad Reed (6 Jan 2015): The inside story of the biggest smartphone flop (quoting Fast Company)",
+      "url": "https://bgr.com/general/amazon-fire-phone-failure/"
+    },
+    {
+      "label": "Design News, Chris Wiltz (9 Jan 2015): What killed the Amazon Fire Phone? (quoting Austin Carr, Fast Company)",
+      "url": "https://www.designnews.com/industry/what-killed-the-amazon-fire-phone-"
+    },
+    {
+      "label": "Amazon press release (27 Sep 2000): Statement regarding random price testing",
+      "url": "https://press.aboutamazon.com/2000/9/amazon-com-issues-statement-regarding-random-price-testing"
+    },
+    {
+      "label": "CBS News (28 Sep 2000): Bezos on the DVD price test",
+      "url": "https://www.cbsnews.com/news/sorry-we-did-it-glad-we-were-caught/"
+    },
+    {
+      "label": "InformationWeek, Thomas Claburn (2 Oct 2009): Amazon settles Kindle deletion lawsuit for $150,000",
+      "url": "https://www.informationweek.com/it-sectors/amazon-settles-kindle-deletion-lawsuit-for-150-000"
+    },
+    {
+      "label": "Free Software Foundation (23 Jul 2009): Text of Bezos's Kindle apology",
+      "url": "https://www.fsf.org/news/amazon-apologizes"
+    },
+    {
+      "label": "NBC News / AP, Rachel Metz (4 Sep 2009): Amazon offers to resend Orwell e-books",
+      "url": "https://www.nbcnews.com/id/wbna32694819"
+    },
+    {
+      "label": "The New York Times, Jodi Kantor and David Streitfeld (15 Aug 2015): Inside Amazon, wrestling big ideas in a bruising workplace",
+      "url": "https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html"
+    },
+    {
+      "label": "CNBC (17 Aug 2015): NYT article does not describe the Amazon I know, Bezos says",
+      "url": "https://www.cnbc.com/2015/08/17/nyt-article-doesnt-describe-the-amazon-i-know-bezos.html"
+    },
+    {
+      "label": "GeekWire (16 Aug 2015): Full memo, Jeff Bezos responds to New York Times story",
+      "url": "https://www.geekwire.com/2015/full-memo-jeff-bezos-responds-to-cutting-nyt-expose-says-tolerance-for-lack-of-empathy-needs-to-be-zero/"
+    },
+    {
+      "label": "Jay Carney, Medium (19 Oct 2015): What The New York Times didn't tell you",
+      "url": "https://medium.com/@jaycarney/what-the-new-york-times-didn-t-tell-you-a1128aa78931"
+    },
+    {
+      "label": "Ars Technica, Sam Machkovech (19 Oct 2015): Amazon and the New York Times trade replies on Medium",
+      "url": "https://arstechnica.com/information-technology/2015/10/amazon-vp-quotes-internal-employee-reviews-to-rebut-ny-times-feature/"
+    },
+    {
+      "label": "USA Today, Elizabeth Weise (19 Oct 2015): Amazon, New York Times face off on Medium",
+      "url": "https://www.usatoday.com/story/tech/2015/10/19/amazon-new-york-times-face-off-medium-over-article/74239708/"
+    },
+    {
+      "label": "Princeton University (30 May 2010): 2010 Baccalaureate remarks by Jeff Bezos",
+      "url": "https://www.princeton.edu/news/2010/05/30/2010-baccalaureate-remarks"
+    },
+    {
+      "label": "GeekWire (May 2020): Amazon VP quits over employee firings",
+      "url": "https://www.geekwire.com/2020/amazon-vp-quits-employee-activist-firings-saying-designed-create-climate-fear/"
+    },
+    {
+      "label": "Reuters (1 Apr 2022): New York warehouse workers vote to form first US union at Amazon",
+      "url": "https://www.reuters.com/legal/transactional/amazons-ny-union-vote-count-continues-labor-leads-2022-04-01/"
+    },
+    {
+      "label": "BBC News, Natalie Sherman (1 Apr 2022): Amazon workers win battle to form first US union",
+      "url": "https://www.bbc.co.uk/news/business-60944677"
+    },
+    {
+      "label": "The Guardian, Kari Paul (4 May 2020): Amazon executive resigns over firings of employee activists",
+      "url": "https://www.theguardian.com/technology/2020/may/04/amazon-tim-bray-resigns-working-conditions-coronavirus"
+    },
+    {
+      "label": "BBC News (4 Apr 2021): Amazon apologises for wrongly denying drivers need to urinate in bottles",
+      "url": "https://www.bbc.com/news/world-us-canada-56628745"
+    },
+    {
+      "label": "The Hill, Celine Castronuovo (3 Apr 2021): Amazon apologizes for tweet",
+      "url": "https://thehill.com/policy/technology/546312-amazon-apologizes-for-tweet-denying-contract-workers-urinate-in-bottles/"
+    },
+    {
+      "label": "US Senate HELP Committee majority staff (Dec 2024): The Injury-Productivity Trade-off",
+      "url": "https://www.help.senate.gov/imo/media/doc/amazon_investigation.pdf"
+    },
+    {
+      "label": "AP, Haleluya Hadero (16 Dec 2024): Senate report alleges Amazon rejected warehouse safety recommendations",
+      "url": "https://apnews.com/article/amazon-warehouse-worker-injuries-senate-committee-eb5b72dd501be0bcce9d919c34731290"
+    },
+    {
+      "label": "About Amazon (16 Dec 2024): Amazon's response to the Senate report",
+      "url": "https://www.aboutamazon.com/news/policy-news-views/amazon-response-to-senator-bernie-sanders-report-on-workplace-safety"
+    },
+    {
+      "label": "US Department of Labor (19 Dec 2024): Settlement with Amazon on ergonomic measures",
+      "url": "https://www.dol.gov/newsroom/releases/osha/osha20241219"
+    },
+    {
+      "label": "Reuters, Daniel Wiessner (19 Dec 2024): Amazon agrees to worker safety measures to settle US probe",
+      "url": "https://www.reuters.com/technology/amazon-agrees-worker-safety-measures-settle-us-probe-2024-12-19/"
+    },
+    {
+      "label": "About Amazon (2 Oct 2018): Amazon raises minimum wage to $15 for all US employees",
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-raises-minimum-wage-to-15-for-all-u-s-employees"
+    },
+    {
+      "label": "The New York Review of Books, Steve Coll (10 Jul 2014): Citizen Bezos",
+      "url": "https://www.nybooks.com/articles/2014/07/10/citizen-bezos-amazon/"
+    },
+    {
+      "label": "Ars Technica, Kate Cox (30 Jul 2020): Big Tech's day on the Hill",
+      "url": "https://arstechnica.com/tech-policy/2020/07/big-techs-big-day-congress-grills-ceos-over-competition-bias/2/"
+    },
+    {
+      "label": "Yale Law Journal, Lina M. Khan (Jan 2017): Amazon's Antitrust Paradox",
+      "url": "https://yalelawjournal.org/note/amazons-antitrust-paradox"
+    },
+    {
+      "label": "The Verge, Makena Kelly (29 Jul 2020): Bezos can't promise Amazon employees don't access seller data",
+      "url": "https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning"
+    },
+    {
+      "label": "US House Judiciary Committee (29 Jul 2020): Online Platforms and Market Power, Part 6, hearing record",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg41317/html/CHRG-116hhrg41317.htm"
+    },
+    {
+      "label": "The Hill, Chris Mills Rodrigo (29 Jul 2020): Bezos says he can't guarantee Amazon hasn't used third-party data",
+      "url": "https://thehill.com/policy/technology/509640-bezos-says-he-cant-guarantee-amazon-hasnt-used-third-party-data-to-boost/"
+    },
+    {
+      "label": "US Federal Trade Commission (25 Sep 2025): FTC secures historic $2.5 billion settlement against Amazon",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"
+    },
+    {
+      "label": "US District Court, W.D. Washington: FTC et al v. Amazon.com, amended case schedule (bench trial 9 Feb 2027)",
+      "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2023cv01495/326809/492/0.pdf"
+    },
+    {
+      "label": "Reuters special report (17 Feb 2021): Amazon documents on India's regulators",
+      "url": "https://www.reuters.com/investigates/special-report/amazon-india-operation/"
+    },
+    {
+      "label": "Reuters special report (13 Oct 2021): Amazon copied products and rigged search results, documents show",
+      "url": "https://www.reuters.com/investigates/special-report/amazon-india-rigging/"
+    },
+    {
+      "label": "Reuters, Aditya Kalra (17 Dec 2021): India suspends Amazon's 2019 Future Group deal",
+      "url": "https://www.reuters.com/business/indias-antitrust-body-suspends-amazons-2019-deal-with-future-citing-suppression-2021-12-17/"
+    },
+    {
+      "label": "NDTV Profit (13 Jun 2022): NCLAT rejects Amazon's petition, Rs 200 crore penalty",
+      "url": "https://www.ndtvprofit.com/business/future-retail-vs-amazon-nclat-rejects-amazons-plea-directs-it-to-pay-rs-200-crore-penalty-3061867-10115277"
+    },
+    {
+      "label": "Reuters, Aditya Kalra (14 Sep 2024): What are India's antitrust findings against Amazon, Flipkart",
+      "url": "https://www.reuters.com/world/india/what-are-indias-antitrust-findings-against-amazon-flipkart-2024-09-14/"
+    },
+    {
+      "label": "AP (14 Dec 2023): Amazon won't have to pay hundreds of millions in back taxes after winning EU case",
+      "url": "https://apnews.com/article/amazon-tax-ruling-europe-cbd2df0536d749ee3fada8c0178754bf"
+    },
+    {
+      "label": "The New York Times (14 Feb 2019): Amazon pulls out of planned New York City headquarters",
+      "url": "https://www.nytimes.com/2019/02/14/nyregion/amazon-hq2-queens.html"
+    },
+    {
+      "label": "Reuters (15 Feb 2019): How Amazon scrapped its plans for a New York headquarters",
+      "url": "https://www.reuters.com/article/us-amazon-com-headquarters/how-amazon-scrapped-its-plans-for-a-new-york-headquarters-idUSKCN1Q40A0/"
+    },
+    {
+      "label": "ProPublica, Jesse Eisinger, Jeff Ernsthausen and Paul Kiel (8 Jun 2021): The Secret IRS Files",
+      "url": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax"
+    },
+    {
+      "label": "ProPublica (8 Jun 2021): The Secret IRS Files, short form",
+      "url": "https://www.propublica.org/article/the-secret-irs-files-short-form-a-quick-guide-to-what-we-uncovered"
+    },
+    {
+      "label": "Business Insider, Eugene Kim and Britney Nguyen (21 Nov 2022): Amazon on pace to lose $10 billion this year from Alexa and other devices",
+      "url": "https://www.businessinsider.com/amazon-lose-10-billion-this-year-from-alexa-other-devices-2022-11"
+    },
+    {
+      "label": "The Wall Street Journal (10 Nov 2022): Amazon weighs changes at Alexa and other unprofitable units",
+      "url": "https://www.wsj.com/articles/amazon-has-launched-a-cost-cutting-review-focused-on-unprofitable-business-units-11668094823"
+    },
+    {
+      "label": "The Wall Street Journal, Dana Mattioli (22 Jul 2024): Alexa is in millions of households, and Amazon is losing billions",
+      "url": "https://wsj.com/tech/amazon-alexa-devices-echo-losses-strategy-25f2581a"
+    },
+    {
+      "label": "CNBC, Morgan Brennan and Grace Kazarian (30 Sep 2026): Blue Origin funding round is oversubscribed",
+      "url": "https://www.cnbc.com/2026/09/30/blue-origin-funding-round.html"
+    },
+    {
+      "label": "CNBC, Michael Sheetz (4 Nov 2021): Blue Origin loses lawsuit against NASA",
+      "url": "https://www.cnbc.com/2021/11/04/bezos-blue-origin-loses-lawsuit-against-nasa-over-spacex-lunar-lander.html"
+    },
+    {
+      "label": "CNBC, Michael Sheetz (30 Sep 2021): Blue Origin essay claims toxic workplace",
+      "url": "https://www.cnbc.com/2021/09/30/jeff-bezos-blue-origin-essay-claims-toxic-workplace.html"
+    },
+    {
+      "label": "TechCrunch, Aria Alamalhodaei (30 Sep 2021): Current and former employees raise concerns at Blue Origin",
+      "url": "https://techcrunch.com/2021/09/30/current-and-former-employees-raise-major-safety-concerns-allegations-of-sexual-harassment-at-blue-origin/"
+    },
+    {
+      "label": "BBC News (1 Oct 2021): FAA to review Blue Origin safety allegations",
+      "url": "https://www.bbc.com/news/world-us-canada-58760764"
+    },
+    {
+      "label": "NPR, David Folkenflik (7 Feb 2026): Washington Post CEO Will Lewis departs after mass layoffs",
+      "url": "https://www.npr.org/2026/02/07/nx-s1-5705413/washington-post-ceo-resigns-will-lewis"
+    },
+    {
+      "label": "The New York Times (4 Feb 2026): Washington Post cuts more than 300 jobs",
+      "url": "https://www.nytimes.com/2026/02/04/business/media/washington-post-layoffs.html"
+    },
+    {
+      "label": "Columbia Journalism Review, Steven Mufson (25 Feb 2025): The real story of the Washington Post's editorial independence",
+      "url": "https://www.cjr.org/business_of_news/the-real-story-of-the-washington-posts-editorial-independence.php"
+    },
+    {
+      "label": "CNBC, Dan Mangan (28 Oct 2024): Washington Post owner Jeff Bezos defends lack of endorsement",
+      "url": "https://www.cnbc.com/2024/10/28/washington-post-owner-jeff-bezos-says-in-op-ed-americans-dont-trust-the-news-media.html"
+    },
+    {
+      "label": "Jeff Bezos, The Washington Post (28 Oct 2024): The hard truth, Americans don't trust the news media",
+      "url": "https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/"
+    },
+    {
+      "label": "New York Magazine, Charlotte Klein (30 Oct 2024): After the Trump Bump, there's now the Bezos Ditch",
+      "url": "https://nymag.com/intelligencer/article/press-panics-at-trumps-return.html"
+    },
+    {
+      "label": "AP, David Bauder (4 Feb 2026): Washington Post cuts a third of its staff",
+      "url": "https://apnews.com/article/washington-post-staff-reduction-layoffs-cuts-923f87d4bd319c8a64b278165d0a6e27"
+    },
+    {
+      "label": "CNBC Make It, Ashton Jackson (12 Jun 2026): Why Jeff Bezos says he embraced being a CEO again",
+      "url": "https://www.cnbc.com/make-it/2026/06/12/why-jeff-bezos-says-he-embraced-being-ceo-again-prometheus-ai.html"
+    },
+    {
+      "label": "Bloomberg Billionaires Index: Jeff Bezos (31 Oct 2026)",
+      "url": "https://www.bloomberg.com/billionaires/profiles/jeffrey-p-bezos/"
+    },
+    {
+      "label": "CNBC, Annie Palmer (11 Jun 2026): Jeff Bezos and Vik Bajaj open up about Prometheus",
+      "url": "https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html"
+    },
+    {
+      "label": "VnExpress International, Phong Ngo (11 Oct 2026): Bezos gains $102B in one month (citing Forbes, Bloomberg, WSJ)",
+      "url": "https://e.vnexpress.net/news/tech/personalities/amazon-s-jeff-bezos-gains-102b-in-one-month-becomes-world-s-second-richest-person-5130632.html"
+    },
+    {
+      "label": "GeekWire, Todd Bishop (11 Jun 2026): Bezos' AI startup Prometheus raises $12B at $41B valuation",
+      "url": "https://www.geekwire.com/2026/bezos-ai-startup-prometheus-raises-12b-at-41b-valuation-and-the-ceos-explain-what-theyre-doing/"
+    },
+    {
+      "label": "Reuters (19 Mar 2026): Bezos aims to raise $100 billion to buy, revamp manufacturing firms with AI, WSJ reports",
+      "url": "https://www.reuters.com/business/retail-consumer/jeff-bezos-aims-raise-100-billion-buy-revamp-manufacturing-firms-with-ai-wsj-2026-03-19/"
+    },
+    {
+      "label": "Blue Origin (30 Jan 2026): Blue Origin to pause New Shepard flights for no less than two years",
+      "url": "https://www.blueorigin.com/news/new-shepard-to-pause-flights"
+    },
+    {
+      "label": "SpaceNews, Jeff Foust (28 Oct 2026): Blue Origin still pushing for return to flight of New Glenn this year",
+      "url": "https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/"
+    },
+    {
+      "label": "Space.com, Josh Dinner (21 Oct 2026): NASA reveals lunar lander timelines",
+      "url": "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update"
+    },
+    {
+      "label": "Financial Times via Financial Post (3 Oct 2025): Bezos hails AI boom as a good kind of bubble",
+      "url": "https://financialpost.com/financial-times/jeff-bezos-ai-bubble"
+    },
+    {
+      "label": "CNBC, Arjun Kharpal (3 Oct 2025): Bezos says AI is in an industrial bubble",
+      "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html"
+    },
+    {
+      "label": "CNBC, Kevin Breuninger and Annie Palmer (20 May 2026): Bezos defends billionaires, hypes AI, praises Trump",
+      "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html"
+    },
+    {
+      "label": "The Times of India (11 Oct 2026): Bezos's fortune and Elon Musk's response on Blue Origin",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-added-102-billion-to-his-fortune-in-almost-30-days-powered-by-the-company-elon-musk-days-ago-said-bravo-i-am-glad-that-bezos-/articleshow/134866523.cms"
+    }
+  ],
+  "factCheck": {
+    "method": "Every paragraph, list item and quote was tied to a source read during research on 2 November 2026: Bezos's shareholder letters (SEC and Amazon), his own Medium post, emails and on-record interviews (Lex Fridman transcript, CNBC transcript of 20 May 2026, Wired, Fast Company), government and court records (US House hearing record, FTC, US Department of Labor, Senate HELP report, Sanchez v. Bezos ruling, SEC 8-K), and established press (NYT, WSJ, Reuters, AP, BBC, NPR, CNBC, CBS, TIME, Forbes, Bloomberg, Times of India, Business Standard, The Hindu). Paywalled WSJ, NYT and Bloomberg items were used only for what the visible text states. Book content (Stone, Bryar and Carr) was taken from press accounts or the authors' own pages, never from pirated copies. Bezos's words are mostly paraphrased in our own words without quote marks, with verbatim wording kept to named terms he coined, one short line from a shareholder letter, and one line of sworn testimony. Net-worth figures move daily; the Forbes figure here is dated 1 November 2026. Reddit, forums and social posts were not used as sources. No Bezos interview was conducted for this fragment.",
+    "disputed": [
+      {
+        "claim": "The New York Times's 2015 account of Amazon's office culture.",
+        "note": "Amazon's Jay Carney said a key quoted ex-employee left after an investigation into falsified records; that person denied it. NYT editor Dean Baquet said over 100 current and former staff were interviewed and stood by the story. We report both sides."
+      },
+      {
+        "claim": "Saudi involvement in the 2018 hack of Bezos's phone.",
+        "note": "Based on a forensic report commissioned by Bezos's team and assessed by two independent UN experts. Saudi Arabia denies it. No court has ruled, and the report did not show that hacked material reached the Enquirer. Written as an allegation."
+      },
+      {
+        "claim": "How the National Enquirer got Bezos's texts.",
+        "note": "The WSJ reported that Michael Sánchez sold them for $200,000. He disputed parts of the reporting and sued. The case was dismissed for lack of admissible evidence of publication; that ruling is not a finding on every detail of the leak. We also found no reliable report on any final prosecutors' decision about American Media."
+      },
+      {
+        "claim": "Blue Origin's valuation in its 2026 funding round.",
+        "note": "Reports differ. Forbes and some press use $130 billion (pre-money, by some accounts); the WSJ, as cited by CNBC, reported $140 billion. Blue Origin's CEO did not confirm figures. We avoid stating a single valuation in the text."
+      },
+      {
+        "claim": "Bezos's net worth.",
+        "note": "Forbes showed $361.3 billion on 1 November 2026 and $373.9 billion on 29 October (used in the profile fragment). Bloomberg showed $352 billion on 31 October. The difference comes from dates and private-company valuations."
+      },
+      {
+        "claim": "Blue Origin's return-to-flight date.",
+        "note": "Bezos and CEO Dave Limp say before the end of 2026. Space.com cites a Reuters report suggesting early 2027. Not resolved at writing."
+      },
+      {
+        "claim": "Amazon warehouse injury rates.",
+        "note": "The Senate HELP majority report says Amazon's rates are far above industry averages and that it rejected safety recommendations. Amazon says the report is wrong and that its rates have fallen. The OSHA settlement resolved complaints; Amazon notes nine of ten complaints were withdrawn."
+      },
+      {
+        "claim": "Use of third-party seller data.",
+        "note": "The WSJ reported staff accessed individual seller data. Amazon's policy forbids it; Bezos testified he could not guarantee it had never been violated. Amazon has acknowledged using aggregate data."
+      },
+      {
+        "claim": "Amazon's India practices.",
+        "note": "Reuters reported on internal documents and CCI investigators' reports. Amazon has denied copying products or rigging search results, and the CCI reports are not public. Separately, the ₹200 crore Future Coupons penalty was upheld by NCLAT in 2022."
+      },
+      {
+        "claim": "Who decided to end the Washington Post's presidential endorsements, and why.",
+        "note": "CNBC reports that publisher Will Lewis said he made the decision; New York Magazine and CJR describe it as Bezos's. Bezos wrote that there was no quid pro quo and that a same-day meeting between Blue Origin's CEO and Trump was unconnected."
+      },
+      {
+        "claim": "Bezos's role in Amazon's Melania Trump documentary deal.",
+        "note": "Critics, including a CJR writer, link it to courting Trump. Bezos says it is a falsehood and that he had nothing to do with the decision."
+      },
+      {
+        "claim": "Stone's accounts of Bezos's outbursts.",
+        "note": "They come from former and current staff; Bezos did not give Stone an interview. We describe them as reported and paraphrase the remarks."
+      },
+      {
+        "claim": "Prometheus's headcount.",
+        "note": "CNBC cites about 150 from Bezos and about 120 from LinkedIn. We use Bezos's figure and say “around”."
+      },
+      {
+        "claim": "Fire Phone costs.",
+        "note": "$170 million is a charge, including inventory-related costs; GeekWire also cites $83 million of unsold stock. The total programme cost was not disclosed, and the New Yorker's “more than $100 million” (via CNBC) is an estimate."
+      }
+    ]
+  }
+}

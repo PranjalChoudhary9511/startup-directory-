@@ -1,0 +1,328 @@
+{
+  "slug": "taxiforsure",
+  "name": "TaxiForSure",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Ride-hailing",
+  "founded": 2011,
+  "died": 2016,
+  "status": "absorbed-and-closed",
+  "brandColor": "#f7b500",
+  "founders": [
+    {
+      "name": "Aprameya Radhakrishna",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Raghunandan G",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Undercut the giant. The giant bought it.",
+  "oneLiner": "A budget taxi-booking app that used cheap hatchback cabs to make short city rides affordable.",
+  "causeOfDeath": "A fare-cutting war with richer Ola needed endless cash. When investors got nervous, it sold to Ola, which shut the brand 17 months later.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 200,
+  "moneyNote": "End value is the $200 million cash-and-stock price Ola paid in March 2015, as reported by TechCrunch. We could not verify TaxiForSure's total funding or valuation from a source we could read, so those are left blank.",
+  "moneySrc": [
+    0,
+    2
+  ],
+  "inOneMinute": [
+    "TaxiForSure took on Ola with cheap hatchback cabs and cut fares to **₹49 for the first 4 km**, paying drivers the difference.",
+    "When investors grew nervous in late 2014, it **could not raise the money** a price war needs.",
+    "Ola bought it for **$200 million** in March 2015, merged it into its app, and shut it in August 2016."
+  ],
+  "killerLine": "A price war is a **fundraising contest**. Only start one if you can outlast the richest rival.",
+  "numbers": [
+    {
+      "value": "$200M",
+      "label": "price Ola paid in cash and stock (Mar 2015)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "15,000",
+      "label": "cabs across 47 cities when it was sold",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "₹49",
+      "label": "fare for the first 4 km after its Nov 2014 price cut",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "1,700",
+      "label": "staff at the time of the sale",
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "In 2011, two Bengaluru founders, Aprameya Radhakrishna and Raghunandan G, noticed something simple. Indians took taxis to the airport, but for short trips they took autos. Taxis were too expensive. TaxiForSure set out to change that by putting **cheap hatchback cabs** on the road and letting people book them by phone, and from June 2013, by app. Raghunandan later said: \"Nobody was using taxis for short distances. They used autos. We wanted to make it cheaper for the customer.\" It was a sharp insight. By late 2014, a SoftBank presentation put its share of registered cabs at **14% of the market**.",
+      "src": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "TaxiForSure raised its first big round (Series A) in June 2013 and spread fast. By early 2015 it had about **15,000 cabs in 47 cities** and 1,700 staff. Its main rival was Ola, which started a few months earlier, had launched its app two years earlier, and in October 2014 got a giant investment from Japan's SoftBank. In August 2014 Ola cut its fares. TaxiForSure answered in November 2014 by slashing its own: **₹49 for the first 4 km**, down from ₹200 for 10 km. Drivers would earn less per trip, so TaxiForSure promised to pay the gap. At first it paid them ₹150 a trip on top.",
+      "src": [
+        3,
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "Cheap fares brought riders, but every subsidised trip cost TaxiForSure money. That only works while investors keep writing cheques. Then, in late 2014, a crime involving an Uber driver in Delhi caused a regulatory storm around taxi apps. According to Business Today, that uncertainty **spooked investors**, and TaxiForSure \"couldn't raise the funding it would have required to discount customers and compensate drivers\". Ola, with SoftBank's money, could keep cutting prices. TaxiForSure could not. In a price war (a fight where rivals keep lowering prices to win customers), the company with **less money in the bank** almost always loses.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "On 2 March 2015, Ola announced it was buying TaxiForSure for **$200 million** in cash and shares. Both brands were meant to stay. The founders took advisory roles, and COO Arvind Singh became CEO. By June 2015, TaxiForSure's hatchbacks were bookable inside the Ola app. Ola even halved its hatchback fares to ₹7 a km that July. In August 2016, Ola confirmed the TaxiForSure brand was gone: all its drivers and riders now used the Ola app. Mint reported the closure would save Ola about **$4.5 million a month**. Reports of job cuts ranged from about 300 to at least 700.",
+      "src": [
+        0,
+        1,
+        3,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jun 2011",
+      "event": "TaxiForSure is founded in Bengaluru.",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jun 2013",
+      "event": "Raises a Series A and launches its booking app.",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Aug 2014",
+      "event": "Ola cuts fares on its Mini and Sedan cabs.",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Oct 2014",
+      "event": "SoftBank invests in Ola, giving the rival a huge war chest.",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Nov 2014",
+      "event": "Cuts fares to ₹49 for 4 km and pays drivers the shortfall; holds 14% share.",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Late 2014",
+      "event": "Regulatory uncertainty after an Uber incident spooks investors; new funding dries up.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "2 Mar 2015",
+      "event": "Ola buys TaxiForSure for $200 million in cash and stock.",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2015",
+      "event": "Ola starts offering TaxiForSure hatchbacks inside its own app.",
+      "kind": "after",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Aug 2016",
+      "event": "Ola confirms TaxiForSure is shut; hundreds of jobs cut.",
+      "kind": "after",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2021",
+      "event": "Co-founders are building again: Aprameya with Koo, Raghunandan with Zolve.",
+      "kind": "after",
+      "src": [
+        5,
+        6
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 45
+    },
+    {
+      "key": "funding-dried",
+      "weight": 25
+    },
+    {
+      "key": "unit-economics",
+      "weight": 20
+    },
+    {
+      "key": "regulation",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Fought a price war against a richer rival",
+      "explain": "Ola had SoftBank behind it. When Ola cut fares, TaxiForSure cut deeper, to ₹49 for 4 km, and paid drivers the gap. Every ride lost money, so survival depended on raising more cash than Ola. That was a **contest it could not win**. Competing on service or specific routes might have cost less.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Bet the business on the next round",
+      "explain": "Subsidies only make sense if fresh money keeps coming. When investors got nervous after the late-2014 Uber controversy, TaxiForSure **could not raise what it needed**. A plan with no room for a bad fundraising season left the founders with one option: sell.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Had an idea rivals could copy easily",
+      "explain": "Cheap hatchback cabs for short trips was a smart insight, but nothing stopped Ola from offering the same thing. Ola's Mini did exactly that. Without something **hard to copy**, like better driver loyalty or a unique tech edge, the bigger player could match it and then outspend it.",
+      "src": [
+        3,
+        1
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is a much better-funded rival cutting prices in your market?",
+    "Are you paying customers or partners extra just to match a rival's offer?",
+    "Would your business stop working if your next funding round slipped by six months?",
+    "Could a bigger competitor copy your main feature in a few weeks?",
+    "Is your industry facing new rules or bad news that could scare investors?"
+  ],
+  "lessons": [
+    {
+      "title": "Don't start a war you can't fund",
+      "detail": "Before matching a rival's discount, compare your bank balance with theirs. If they can lose money for longer, find another way to compete."
+    },
+    {
+      "title": "Own a niche the giant ignores",
+      "detail": "TaxiForSure's best idea was cheap short trips. Owning one city or one type of rider deeply is harder for a giant to attack than a national price fight."
+    },
+    {
+      "title": "Sell from strength, not desperation",
+      "detail": "Selling for $200 million gave staff and investors a real outcome. If the market is turning against you, talk to buyers early, while your numbers still look good."
+    },
+    {
+      "title": "Watch your industry's news, not just your own",
+      "detail": "A crisis at one ride-hailing company hit funding for all of them. Keep extra runway when your sector is in the headlines or facing new rules."
+    },
+    {
+      "title": "A sold company is a launchpad",
+      "detail": "Both founders built again. Aprameya co-founded Koo and Raghunandan started Zolve. The skills and trust you earn in one company carry into the next."
+    }
+  ],
+  "quote": {
+    "text": "Nobody was using taxis for short distances. They used autos. We wanted to make it cheaper for the customer.",
+    "who": "Raghunandan G, co-founder",
+    "context": "Explaining TaxiForSure's original idea to Business Today in 2015.",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Ola folded TaxiForSure's drivers and riders into its own app and confirmed the brand was shut in August 2016. Both founders kept building. Aprameya Radhakrishna became an angel investor and co-founded Koo, India's Twitter rival, which raised $30 million led by Tiger Global in 2021. Raghunandan G founded Zolve, a bank for people moving abroad, which raised $15 million in 2021 with Accel again backing him.",
+    "src": [
+      2,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: India's Ola buys smaller rival TaxiForSure for $200M (Mar 2015)",
+      "url": "https://techcrunch.com/2015/03/02/olaforsure/"
+    },
+    {
+      "label": "TechCrunch: Ola begins integrating TaxiForSure into its app (Jun 2015)",
+      "url": "https://techcrunch.com/2015/06/24/ubers-indian-rival-ola-begins-integrating-taxiforsure-its-200m-acquisition-into-its-app/"
+    },
+    {
+      "label": "TechCrunch: Ola confirms it has shut down TaxiForSure (Aug 2016)",
+      "url": "https://techcrunch.com/2016/08/17/ola-confirms-it-has-shut-down-taxiforsure-the-rival-it-acquired-for-200m/"
+    },
+    {
+      "label": "Business Today: How Ola and Uber are making other taxi companies irrelevant (Aug 2015)",
+      "url": "https://www.businesstoday.in/magazine/cover-story/story/india-taxi-market-war-heats-up-ola-cabs-uber-strategy-leaders-52989-2015-08-12"
+    },
+    {
+      "label": "TechCrunch: Ola raises $315M more according to filing (Apr 2015)",
+      "url": "https://techcrunch.com/2015/04/08/ola-dstglobal/"
+    },
+    {
+      "label": "TechCrunch: Tiger Global leads $30M round in Koo (May 2021)",
+      "url": "https://techcrunch.com/2021/05/25/tiger-global-koo-app-twitter/"
+    },
+    {
+      "label": "TechCrunch: Zolve raises $15 million for its cross-border neobank (Feb 2021)",
+      "url": "https://techcrunch.com/2021/02/16/zolve-raises-15-million-for-its-cross-border-neobank-aimed-at-global-citizens/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Number of jobs cut when TaxiForSure shut.",
+        "note": "The Economic Times reported at least 700; a source close to Ola told TechCrunch about 300."
+      },
+      {
+        "claim": "Fleet size at the time of the deal.",
+        "note": "TechCrunch's June 2015 article contains both 15,000 and 24,000 vehicles due to an update; its March 2015 article says 15,000."
+      },
+      {
+        "claim": "Total funding raised.",
+        "note": "TaxiForSure's total venture funding is widely quoted but we could not read a primary source for it, so it is left blank."
+      }
+    ]
+  }
+}

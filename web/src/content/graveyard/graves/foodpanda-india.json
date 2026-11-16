@@ -1,0 +1,401 @@
+{
+  "slug": "foodpanda-india",
+  "name": "Foodpanda India",
+  "region": "india",
+  "country": "India",
+  "city": null,
+  "sector": "Food delivery",
+  "founded": 2012,
+  "died": 2019,
+  "status": "absorbed-and-closed",
+  "brandColor": "#d70f64",
+  "founders": [
+    {
+      "name": "Rohit Chadda",
+      "role": "Co-founder, Managing Director (until 2015)"
+    },
+    {
+      "name": "Saurabh Kochhar",
+      "role": "Co-founder, CEO (until 2017)"
+    },
+    {
+      "name": "Amit Kohli",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Akhilesh Bali",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "First to the table. Last to get fed.",
+  "oneLiner": "One of India's first food-ordering apps, started by Germany's Rocket Internet, later bought by Ola to take on Swiggy and Zomato.",
+  "causeOfDeath": "An early lead was lost to Swiggy and Zomato; then Ola tried to buy its way back with discounts, lost ₹756 crore in a year, and switched delivery off.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Foodpanda India was funded by its global parent (which had raised $310M worldwide by 2015), so no India-only funding figure exists. Ola's purchase price in 2017 was not disclosed (it was a share swap); Ola promised to invest $200M. Rupee figures are from company filings.",
+  "moneySrc": [
+    0,
+    3
+  ],
+  "inOneMinute": [
+    "Foodpanda was **in Indian food ordering before Swiggy existed**, and reached 200+ cities by buying rivals.",
+    "Swiggy and Zomato overtook it. In 2017 Ola bought it, promised **$200 million**, and started spending hard on delivery and discounts.",
+    "In FY19 it **lost ₹756 crore on ₹82 crore of revenue**. In May 2019 Ola suspended food delivery."
+  ],
+  "killerLine": "Being first only buys you time. **If you don't control the experience, a later rival who does will take your customers.**",
+  "numbers": [
+    {
+      "value": "₹756 cr",
+      "label": "loss in FY19, on revenue of just ₹82 crore",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "₹267 cr",
+      "label": "spent on delivery alone in FY19: over 3× its revenue",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$200 mn",
+      "label": "what Ola promised to invest when it bought Foodpanda India in Dec 2017",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~1,500",
+      "label": "delivery workers whose contracts ended when Ola suspended delivery (May 2019)",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: one app for every menu",
+      "body": "In 2012, ordering food in India meant calling a restaurant and hoping they understood your address. Foodpanda India, started that year with backing from Germany's Rocket Internet, put menus from many restaurants in one app. It grew by buying its rivals. In November 2014 it bought TastyKhana, a Pune startup. In February 2015 it took over JustEat's India business. Soon it **listed 12,000+ restaurants in more than 200 cities**. Its global parent raised $310 million by 2015, including $100 million led by Goldman Sachs. Foodpanda got something important right early: Indians were ready to order dinner on their phones. Swiggy, founded in August 2014, came after it.",
+      "src": [
+        4,
+        3,
+        0
+      ]
+    },
+    {
+      "title": "The rise: big, but not in control",
+      "body": "Foodpanda's model was mostly a listing service. It passed your order to a restaurant, and **about 80% of orders were delivered by the restaurant or other vendors**, not by Foodpanda. It only started its own last-mile delivery in 2015, for selected restaurants. That made it cheap to expand, but it could not fully control how fast or how well food reached you. In August 2015 co-founder Rohit Chadda stepped down as MD and left the board. That year the company also faced a **corporate governance controversy**, with press reports about fake restaurant listings and unpaid restaurant dues. In January 2016 it cut 15% of its staff and pulled out of six cities, including Kolkata and Chennai.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: a company passed around",
+      "body": "Foodpanda then tried to fix its numbers. Its loss fell from ₹142.6 crore in FY16 to ₹44.8 crore in FY17, while revenue rose to ₹62 crore. In August 2016 it hired bankers to raise $40–60 million. CEO Saurabh Kochhar insisted, \"we are not looking to exit India.\" But owners far away were making the big calls. In December 2016 **Delivery Hero, another German company, bought Foodpanda worldwide**. Meanwhile Swiggy and Zomato were growing fast and Uber Eats arrived in June 2017. In December 2017 Delivery Hero sold the Indian business to **Ola**, in exchange for Ola shares. Ola promised to invest $200 million. Kochhar left. Foodpanda India now had its third owner in a year.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The fall: Ola floors it, then brakes",
+      "body": "Ola wanted to beat Uber Eats and catch Swiggy and Zomato quickly, so it spent. In FY18 Foodpanda's loss jumped five-fold to ₹228 crore. In FY19 it **lost ₹756 crore on ₹82 crore of revenue**. It spent ₹267 crore on delivery and ₹137 crore on discounts: every ₹1 of revenue cost about ₹10. In May 2019, 17 months after buying it, Ola **suspended Foodpanda's food delivery**. About 1,500 delivery workers' contracts ended. Ola said it was \"focused on building a portfolio of own food brands\": cloud kitchens (delivery-only kitchens) like The Great Khichdi Experiment. In 2022 it scaled those down too. Inc42 called it the third time Ola had stepped back from food.",
+      "src": [
+        2,
+        1,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Foodpanda India launches with Rocket Internet's backing",
+      "kind": "start",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Nov 2014",
+      "event": "Buys Pune's TastyKhana",
+      "kind": "money",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Feb–May 2015",
+      "event": "Takes over JustEat India; global parent raises $100M led by Goldman Sachs ($310M total)",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Aug 2015",
+      "event": "Co-founder Rohit Chadda steps down as MD; governance controversy in the press",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2016",
+      "event": "Cuts 15% of staff and exits six cities",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Aug 2016",
+      "event": "Hires bankers to raise $40–60M; CEO says it is not exiting India",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2016",
+      "event": "Delivery Hero buys Foodpanda globally",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "event": "Ola buys Foodpanda India in a share deal and promises $200M; CEO Saurabh Kochhar leaves",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "FY19",
+      "event": "Loss hits ₹756 crore on ₹82 crore revenue",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "May 2019",
+      "event": "Ola suspends Foodpanda food delivery; ~1,500 delivery workers' contracts end",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "May 2022",
+      "event": "Ola sells off cloud-kitchen equipment to focus on quick commerce",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY16",
+        "FY17",
+        "FY18",
+        "FY19"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            37.81,
+            62.16,
+            72.84,
+            81.77
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            142.64,
+            44.81,
+            227.95,
+            756.42
+          ]
+        }
+      ],
+      "takeaway": "Foodpanda had nearly tamed its losses by FY17. Under Ola, losses grew 17× in two years while revenue barely moved.",
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 35
+    },
+    {
+      "key": "unit-economics",
+      "weight": 30
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Ola tried to buy back a lost lead with discounts",
+      "explain": "By 2017 Swiggy and Zomato were far ahead. Ola's answer was money. In FY19 Foodpanda spent **₹267 crore on delivery and ₹137 crore on discounts**, against ₹82 crore of revenue. Revenue grew only 12%. Discounts can attract trial users, but they rarely beat a rival customers already like.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Not owning the delivery experience",
+      "explain": "Foodpanda handed about **80% of its orders to restaurants or vendors to deliver**. It was cheap and easy to scale to 200 cities, but it meant Foodpanda could not promise fast, reliable delivery. In food delivery, the experience after you tap 'order' is the product.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Wide before deep",
+      "explain": "Buying TastyKhana and JustEat India helped it reach **200+ cities quickly**. But in January 2016 it had to cut staff and leave six cities. Being thin in many cities is weaker than being loved in a few. Rivals won city by city.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Weak controls during fast growth",
+      "explain": "In 2015 Foodpanda faced a **corporate governance controversy**, and a co-founder stepped down from the board the same year. Fast growth with weak checks lets problems like bad listings or late payments to partners build up quietly, and it damages trust with restaurants.",
+      "src": [
+        4
+      ]
+    },
+    {
+      "title": "Three owners in one year, and an owner that kept changing its mind",
+      "explain": "Rocket Internet, then Delivery Hero, then Ola. Then Ola itself: Ola Cafe shut in 2016, Foodpanda delivery stopped in 2019, cloud kitchens shrunk in 2022. **A business can't win a long war if its owner keeps changing priorities.** Each new owner brought a new plan, and the team had to start over.",
+      "src": [
+        0,
+        5
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does a partner, not us, control the part of the experience customers care about most?",
+    "Is our revenue growing more slowly than our discount and delivery spending?",
+    "Are we in more cities than we can do really well in?",
+    "Could fake listings or fake orders get onto our platform without us noticing?",
+    "Has our owner or main investor changed its strategy for our business more than once?",
+    "Is being early the only advantage we have over our rivals?"
+  ],
+  "lessons": [
+    {
+      "title": "First-mover is a head start, not a moat",
+      "detail": "Foodpanda was early, yet a 2014 startup beat it. Use your head start to build something hard to copy, such as your own reliable delivery, deep restaurant partnerships, or loyal habits, before rivals catch up."
+    },
+    {
+      "title": "Own the moment of truth",
+      "detail": "Find the one moment that makes customers love or hate you. In food delivery, it's the food arriving hot and on time. If someone else controls that moment, you don't really control your brand."
+    },
+    {
+      "title": "Win one city before ten",
+      "detail": "It is better to be the favourite in Pune than an option in 200 cities. Go deep, learn what works, then copy that playbook to the next city."
+    },
+    {
+      "title": "Track cost per ₹1 of revenue",
+      "detail": "At its worst, Foodpanda spent about ₹10 for every ₹1 it earned. Track this number monthly. If it isn't falling, more spending is making the hole deeper, not filling it."
+    },
+    {
+      "title": "If you sell to a big company, check their track record",
+      "detail": "Ola had already shut one food service before buying Foodpanda. Before you join a bigger company, look at what happened to the last few startups or products it bought."
+    }
+  ],
+  "quote": {
+    "text": "we are not looking to exit India.",
+    "who": "Saurabh Kochhar, CEO of Foodpanda India",
+    "context": "Speaking to Inc42 in August 2016 while the company hired bankers to raise $40–60 million. The Indian business was sold to Ola about 16 months later.",
+    "src": [
+      4
+    ]
+  },
+  "afterlife": {
+    "text": "After 2019 Ola kept only its delivery-only kitchen brands, such as The Great Khichdi Experiment, and grew them to about 50 cloud kitchens. In 2022 reports said it would sell most of that equipment at 30–50% discounts and focus on Ola Dash, its quick-commerce service. Globally, the Foodpanda brand lives on in Asia under Delivery Hero.",
+    "src": [
+      5,
+      1,
+      0
+    ]
+  },
+  "sources": [
+    {
+      "label": "MediaNama: Ola acquires Foodpanda India; second attempt at food delivery (Dec 2017)",
+      "url": "https://www.medianama.com/2017/12/223-ola-acquires-foodpanda-india-second-attempt-food-delivery/"
+    },
+    {
+      "label": "Business Today: Ola suspends Foodpanda's food delivery business, trims staff (May 2019)",
+      "url": "https://www.businesstoday.in/latest/corporate/story/ola-foodpanda-food-delivery-business-trims-staff-count-zomato-swiggy-ubereats-201818-2019-05-22"
+    },
+    {
+      "label": "Inc42: Foodpanda records ₹756 Cr loss over ₹82 Cr revenue (Dec 2019)",
+      "url": "https://inc42.com/buzz/foodpanda-records-inr-756-cr-loss-over-inr-82-cr-revenue/"
+    },
+    {
+      "label": "MediaNama: Foodpanda lays off 15% of staff (Jan 2016)",
+      "url": "https://www.medianama.com/2016/01/223-foodpanda-layoffs/"
+    },
+    {
+      "label": "Inc42: Foodpanda in search of funding amid sale talks (Aug 2016)",
+      "url": "https://inc42.com/buzz/foodpanda-funding"
+    },
+    {
+      "label": "Inc42: Ola scales down food delivery ambition for the third time (May 2022)",
+      "url": "https://inc42.com/buzz/ola-scales-down-food-delivery-ambition-for-the-third-time-to-focus-on-quick-commerce"
+    },
+    {
+      "label": "Wikipedia: Foodpanda",
+      "url": "https://en.wikipedia.org/wiki/Foodpanda"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Ola paid $30–50 million for Foodpanda India.",
+        "note": "Terms were never disclosed; it was a share swap. Different outlets report $30M, $40–50M or 'nearly $50M'."
+      },
+      {
+        "claim": "Foodpanda India had fake restaurants and fake orders in 2015.",
+        "note": "Reported by Mint in 2015 from former employees; the company said it was weeding out restaurants gaming the system. No formal finding was published, so only the 'governance controversy' is mentioned in the story."
+      },
+      {
+        "claim": "Foodpanda had 57% market share in January 2016.",
+        "note": "This came from a user survey by app store 9Apps, not order data. Left out."
+      },
+      {
+        "claim": "Ola 'shut down' Foodpanda.",
+        "note": "Ola initially denied suspending operations and called it a scale-down; food delivery stopped but its cloud-kitchen brands continued."
+      },
+      {
+        "claim": "Exact list of co-founders.",
+        "note": "Inc42 names Rohit Chadda, Amit Kohli and Akhilesh Bali; MediaNama calls Saurabh Kochhar a co-founder."
+      }
+    ]
+  }
+}

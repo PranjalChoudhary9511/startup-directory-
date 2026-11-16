@@ -1,0 +1,871 @@
+{
+  "slug": "nvidia",
+  "company": "Nvidia",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#76B900",
+    "secondary": "#000000",
+    "accent": "#4E7A00",
+    "ink": "#141414",
+    "paper": "#F4F6EE",
+    "note": "NVIDIA Green #76B900 (Pantone 376 C, RGB 118/185/0) and black are the colours in NVIDIA's partner co-brand guidelines and on nvidia.com; the darker green accent, ink and paper are our own tints for reading on a light page."
+  },
+  "tagline": "A boy who scrubbed toilets in a Kentucky dorm built a graphics-chip company that nearly died more than once, then became the engine of AI.",
+  "hook": "Jensen Huang's first job was washing dishes at Denny's. In 1993 he planned Nvidia over plenty of coffee in a Denny's booth in San Jose. On 29 October 2025 it became the first company in history worth $5 trillion.",
+  "hookSrc": [
+    0,
+    1,
+    17,
+    18
+  ],
+  "cast": [
+    {
+      "name": "Chris Malachowsky",
+      "role": "Co-founder. A Sun Microsystems engineer and co-inventor of Sun's GX graphics, he was assigned to work with Jensen when Jensen was LSI Logic's engineer on the project. Nvidia's first VP of Engineering; his line on the AI boom: 'this overnight success was 30 years in the making.'",
+      "photo": null,
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "Curtis Priem",
+      "role": "Co-founder and Nvidia's first Chief Technical Officer. Before Nvidia he designed IBM's Professional Graphics Adapter, an early PC graphics processor, and architected Sun's GX graphics. Jensen credits him, Chris and engineer David Rosenthal with the driver design that let Nvidia's software survive many chip generations.",
+      "photo": null,
+      "src": [
+        4,
+        0
+      ]
+    },
+    {
+      "name": "Shoichiro Irimajiri",
+      "role": "The Sega executive (Jensen calls him Sega's CEO at the time) whom Jensen phoned in 1995–96 to say Nvidia's console chip was the wrong design. Irimajiri let Nvidia out of the contract and still paid, about $5 million, which Jensen says was all the money Nvidia had.",
+      "photo": null,
+      "src": [
+        1,
+        0,
+        13
+      ]
+    }
+  ],
+  "founder": {
+    "name": "Jensen Huang",
+    "role": "Co-founder, President & CEO, Nvidia",
+    "born": "17 Feb 1963, Taipei, Taiwan",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+      "caption": "Jensen Huang at a fireside chat in Stanford University's CS 153 course, 30 April 2026.",
+      "author": "Anderseidesvik",
+      "license": "CC BY-SA 4.0",
+      "year": 2026
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/OBI_Sign_01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:OBI_Sign_01.jpg",
+        "caption": "Oneida Baptist Institute in Clay County, Kentucky, where 9-year-old Jensen lived in the boys' dorm and cleaned the toilets.",
+        "author": "Principal01",
+        "license": "Public domain",
+        "year": 2010
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2484_Berryessa_Road.jpg/1280px-2484_Berryessa_Road.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:2484_Berryessa_Road.jpg",
+        "caption": "The Denny's on Berryessa Road in East San Jose where the three founders met over coffee to plan Nvidia.",
+        "author": "Coolcaesar",
+        "license": "CC BY-SA 4.0",
+        "year": 2023
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Diamond_Edge_3D_3400.jpg/1280px-Diamond_Edge_3D_3400.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Diamond_Edge_3D_3400.jpg",
+        "caption": "A Diamond Edge 3D card built on Nvidia's first chip, the NV1 (1995). Jensen recalls that of 250,000 sold to Diamond, about 249,000 came back.",
+        "author": "Hyins at Chinese Wikipedia",
+        "license": "Public domain",
+        "year": 2010
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/RIVA_128_GPU.jpg/1280px-RIVA_128_GPU.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RIVA_128_GPU.jpg",
+        "caption": "The RIVA 128 (1997), the 'one shot' chip that saved Nvidia. It sold about 1 million units in four months.",
+        "author": "Hyins",
+        "license": "Public domain",
+        "year": 2010
+      }
+    ],
+    "background": "Jensen was born in Taipei. His father was an engineer, and when Jensen was five the family moved to Thailand, where his father had a job starting an oil refinery; his mother taught her two sons English by picking 10 words a day from a dictionary. After a coup in 1973, his parents sent Jensen, aged nine, and his older brother to an uncle in Tacoma and then to Oneida Baptist Institute in rural Kentucky, which turned out to be a tough school where older students smoked and carried knives: the youngest boy on campus was given the job of cleaning the bathrooms, and his 17-year-old roommate was wrapped in tape from a recent fight. About two years later the family was reunited, first in Tacoma and then in Oregon; in America his mother worked as a maid and his father as an engineer. Jensen skipped two grades, played table tennis seven days a week (reaching the U.S. Open) and joined the math, science and computer clubs.",
+    "backgroundSrc": [
+      0,
+      9,
+      10
+    ],
+    "journey": [
+      {
+        "year": "1963",
+        "kind": "life",
+        "title": "Born in Taipei",
+        "detail": "Born on 17 February 1963. He likes to point out it was the year before IBM announced the System/360 computer.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1968",
+        "kind": "life",
+        "title": "Moves to Thailand",
+        "detail": "His father takes a job starting an oil refinery in Thailand. The family lives there about four years.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1973",
+        "kind": "life",
+        "title": "Sent to America at nine",
+        "detail": "After a coup in Thailand he and his brother are sent to Oneida Baptist Institute in Kentucky. The 9-year-old is made the school's toilet cleaner.",
+        "src": [
+          0,
+          10,
+          9
+        ]
+      },
+      {
+        "year": "Mid-1970s",
+        "kind": "life",
+        "title": "Oregon, table tennis, clubs",
+        "detail": "Reunited with his parents about two years later; the family settles in Oregon. Skips two grades, plays table tennis daily for three or four years, reaches the U.S. Open.",
+        "src": [
+          0,
+          9
+        ]
+      },
+      {
+        "year": "1978",
+        "kind": "job",
+        "title": "Dishwasher, busboy, waiter at Denny's",
+        "detail": "At 15 his older brother gets him a job at a Denny's in downtown Portland. He calls himself 'probably Denny's best dishwasher' and says the job cured his shyness.",
+        "src": [
+          0,
+          8,
+          19
+        ]
+      },
+      {
+        "year": "1984",
+        "kind": "life",
+        "title": "Electrical engineering at Oregon State",
+        "detail": "The youngest in a class of about 250 (246 boys, four girls). His lab partner Lori, later his wife, got this pickup line: 'You want to see my homework?'",
+        "src": [
+          0,
+          15
+        ]
+      },
+      {
+        "year": "1984",
+        "kind": "job",
+        "title": "Microprocessor designer at AMD",
+        "detail": "Picked AMD over offers from Intel, TI, National and LSI Logic to design chips. He built the instruction decoder of a CPU, by hand.",
+        "src": [
+          0,
+          4
+        ]
+      },
+      {
+        "year": "1985–1993",
+        "kind": "job",
+        "title": "LSI Logic, working with Sun",
+        "detail": "Moves to LSI Logic for its new chip-design software. Assigned to Sun Microsystems, where he meets Chris Malachowsky and Curtis Priem. Rises to director of the CoreWare unit.",
+        "src": [
+          0,
+          1,
+          4
+        ]
+      },
+      {
+        "year": "1992",
+        "kind": "life",
+        "title": "Finishes a Stanford master's part-time",
+        "detail": "Studying part-time while working and raising two children, he takes eight years to finish a master's in electrical engineering at Stanford.",
+        "src": [
+          23,
+          4
+        ]
+      },
+      {
+        "year": "1993",
+        "kind": "attempt",
+        "title": "Nvidia is planned at Denny's",
+        "detail": "First day of work: 17 February 1993, his 30th birthday. His old boss Wilf Corrigan calls Sequoia's Don Valentine, who funds them and warns: 'If you lose my money, I'll kill you.'",
+        "src": [
+          1,
+          2,
+          9
+        ]
+      },
+      {
+        "year": "1995",
+        "kind": "failure",
+        "title": "First chip NV1 flops",
+        "detail": "It tried to do graphics, video, audio and game ports at once. Diamond Multimedia bought 250,000; Jensen recalls that about 249,000 came back.",
+        "src": [
+          1,
+          4
+        ]
+      },
+      {
+        "year": "1995–96",
+        "kind": "failure",
+        "title": "Wrong architecture, near bankruptcy",
+        "detail": "The industry picks Microsoft's triangle-based DirectX; Nvidia's design is the opposite. He asks Sega to release Nvidia from the console chip, cuts staff and comes close to running out of money.",
+        "src": [
+          0,
+          1,
+          9
+        ]
+      },
+      {
+        "year": "1997",
+        "kind": "breakthrough",
+        "title": "RIVA 128 works first time",
+        "detail": "Using an emulator bought from a company that had gone bust, the team tests the chip before making it. It works on the first try and sells 1 million units in four months.",
+        "src": [
+          1,
+          0,
+          9,
+          4
+        ]
+      },
+      {
+        "year": "1999",
+        "kind": "breakthrough",
+        "title": "IPO and the 'first GPU'",
+        "detail": "Goes public in January 1999 at $12 a share, raising $48.3 million before fees. Later that year launches GeForce 256, marketed as the world's first GPU.",
+        "src": [
+          5,
+          2,
+          1
+        ]
+      },
+      {
+        "year": "2006",
+        "kind": "attempt",
+        "title": "Bets on CUDA",
+        "detail": "Opens the GPU to scientists and programmers with CUDA. Researchers start buying GeForce gaming cards for science; early uses include seismic processing and CT scans.",
+        "src": [
+          2,
+          1
+        ]
+      },
+      {
+        "year": "2008",
+        "kind": "failure",
+        "title": "Faulty chips and a crashing stock",
+        "detail": "A $196 million charge for defective laptop chips, 360 jobs cut, and a share price down more than 75% from its high. He later called an 80% drop \"a little embarrassing\".",
+        "src": [
+          6,
+          20,
+          8
+        ]
+      },
+      {
+        "year": "2012",
+        "kind": "breakthrough",
+        "title": "AlexNet runs on two GeForce cards",
+        "detail": "The image-recognition network that started the deep-learning boom was trained on two Nvidia GTX 580 gaming GPUs. Jensen turns the whole company toward AI.",
+        "src": [
+          7,
+          2,
+          1
+        ]
+      },
+      {
+        "year": "2026",
+        "kind": "now",
+        "title": "33 years as CEO",
+        "detail": "Still CEO. Nvidia's revenue for the year to January 2026 was $215.9 billion, and it employs about 42,000 people in 38 countries.",
+        "src": [
+          3,
+          2
+        ]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Make the right decision first, worry about the cost second",
+        "explain": "In 1995–96 he knew Nvidia's design was wrong, but the Sega contract paid the bills. He chose the right technology first and solved the money and the contract after. He says this habit started for Nvidia in 1995.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "idea": "Bet on zero-billion-dollar markets",
+        "explain": "In 1993 the market for 3D graphics on PCs was zero. In 2012 the market for AI chips was zero. Both times he built the market as well as the chip.",
+        "src": [
+          1,
+          0
+        ]
+      },
+      {
+        "idea": "Developers are everything",
+        "explain": "NV1 was cheap and clever but hard to program, so nobody used it. His lesson: if developers cannot easily build on your platform, it will not be adopted.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "idea": "How hard can it be?",
+        "explain": "He says a founder's superpower is a healthy dose of ignorance about how hard things are. If the founders had known the pain ahead in 1993, he thinks it would have been too scary to start.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "idea": "No task is beneath me",
+        "explain": "Because he started as a dishwasher, he says he will review anyone's work and show his reasoning, whatever their level.",
+        "src": [
+          8
+        ]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Does not wear a watch",
+        "detail": "A gardener in Kyoto, picking dead moss one piece at a time, told him 'I have plenty of time.' Jensen repeats that line and says whatever he is doing is the most important thing at that moment.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "habit": "Reads 'Top 5 Things' emails every day",
+        "detail": "Employees send short emails listing their five most important items. He reads them daily, including on Sunday evenings, because he finds formal reports too watered down.",
+        "src": [
+          12
+        ]
+      },
+      {
+        "habit": "About 60 direct reports, no one-on-ones",
+        "detail": "He prefers to work through problems in front of the whole leadership group. He told Stanford students that CEOs 'should have the most of the reports.'",
+        "src": [
+          11,
+          8
+        ]
+      },
+      {
+        "habit": "Stays out of day-to-day meetings",
+        "detail": "He leaves daily operations to his team and spends his time on two things: building the future and fixing the company's biggest near-term problems.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "habit": "Works seven days a week",
+        "detail": "He has said he is either working or thinking about work every waking moment.",
+        "src": [
+          11
+        ]
+      }
+    ],
+    "darkestHour": {
+      "title": "Finish the project and die, or quit it and die faster (1995–96)",
+      "story": "Nvidia's first chip had flopped, and its second, for a Sega game console, used a design the rest of the industry was not adopting. Finishing it meant staying on the wrong path; quitting meant no money. Jensen phoned Sega executive Shoichiro Irimajiri, admitted Nvidia was going the wrong way, asked to be let out of the contract and still be paid. Irimajiri agreed. The roughly $5 million was all the cash Nvidia had. The company laid off about half its staff and gave itself one chance: 'We only got one shot,' Jensen says, so the RIVA 128 had to work on the first try. He bought a refrigerator-sized emulator from Ikos, a company that had gone out of business, just before it was scrapped, so the team could test the chip before making it. It worked first time and sold a million units in four months.",
+      "src": [
+        0,
+        1,
+        9,
+        13
+      ]
+    },
+    "genuineness": {
+      "story": "When Jensen called Sega in 1995–96 he did not hide the problem. He told Irimajiri that finishing the chip would also lead Sega down the wrong path, then asked for help anyway. Decades later he still gives the credit away: 'Without the generosity of Sega, NVIDIA wouldn't be here today,' he told the Computer History Museum, and he names Chris, Curtis and David Rosenthal, not himself, as the inventors of Nvidia's core architecture.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    "now": "Jensen still runs Nvidia, 33 years after founding it. In the year to January 2026 Nvidia earned $215.9 billion in revenue and $120.1 billion in net profit, almost all from AI chips for data centres, and in October 2025 it became the first company ever valued at $5 trillion.",
+    "nowSrc": [
+      3,
+      2,
+      17,
+      18
+    ]
+  },
+  "numbers": [
+    {
+      "value": "$215.9B",
+      "label": "Revenue, up 65% in a year",
+      "asOf": "FY2026 (year to Jan 2026)",
+      "src": [
+        3,
+        2
+      ]
+    },
+    {
+      "value": "$120.1B",
+      "label": "Net income",
+      "asOf": "FY2026",
+      "src": [
+        3,
+        2
+      ]
+    },
+    {
+      "value": "$193.7B",
+      "label": "Data Center revenue (about 90% of the total)",
+      "asOf": "FY2026",
+      "src": [
+        3,
+        2
+      ]
+    },
+    {
+      "value": "$5T",
+      "label": "First company ever to reach this market value",
+      "asOf": "29 Oct 2025",
+      "src": [
+        17,
+        18
+      ]
+    },
+    {
+      "value": "7.5M+",
+      "label": "Developers using CUDA and Nvidia's software tools",
+      "asOf": "FY2026",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "42,000",
+      "label": "Employees in 38 countries (31,000 in R&D)",
+      "asOf": "FY2026",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1993",
+      "title": "Founded",
+      "detail": "Incorporated in California in April 1993 by Jensen Huang, Chris Malachowsky and Curtis Priem, backed by Sequoia and Sutter Hill.",
+      "src": [
+        2,
+        1,
+        9
+      ]
+    },
+    {
+      "year": "1995",
+      "title": "NV1 launches and fails",
+      "detail": "A 'Swiss Army knife' multimedia chip. Nvidia stopped selling it in early 1996.",
+      "src": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": "1997",
+      "title": "RIVA 128",
+      "detail": "Shipped in August 1997; about 1 million sold in four months. Staff grew from 71 (Sept 1997) to 184 (Oct 1998).",
+      "src": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": "1999",
+      "title": "IPO and GeForce 256",
+      "detail": "Listed in January at $12 a share; later launched GeForce 256, sold as the first GPU.",
+      "src": [
+        5,
+        2
+      ]
+    },
+    {
+      "year": "2000",
+      "title": "Chosen for Microsoft's Xbox",
+      "detail": "On 5 March 2000 Microsoft, whose DirectX standard nearly killed Nvidia, signed it to make the Xbox graphics chip, and in April paid a $200 million advance against chip purchases.",
+      "src": [
+        22,
+        1,
+        9
+      ]
+    },
+    {
+      "year": "2006",
+      "title": "CUDA",
+      "detail": "Lets programmers use the GPU for science, from seismic data to molecular dynamics.",
+      "src": [
+        2,
+        1,
+        21
+      ]
+    },
+    {
+      "year": "2008",
+      "title": "Laptop-chip crisis",
+      "detail": "$196 million charge for defective chips; about 6.5% of staff laid off.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "year": "2012",
+      "title": "AlexNet",
+      "detail": "Trained on two Nvidia GTX 580 GPUs, it won the ImageNet contest with a 15.3% error rate against 26.2% for the next entry.",
+      "src": [
+        7,
+        2
+      ]
+    },
+    {
+      "year": "2020",
+      "title": "Buys Mellanox",
+      "detail": "Adds networking, so Nvidia can sell whole data-centre systems, not just chips.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "Blackwell",
+      "detail": "Launches a rack-scale design linking 36 Grace CPUs and 72 Blackwell GPUs.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "year": "2025",
+      "title": "$5 trillion",
+      "detail": "On 29 October 2025 Nvidia becomes the first company to reach a $5 trillion market value.",
+      "src": [
+        17,
+        18
+      ]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Nvidia designs chips but is 'fabless': foundries such as TSMC make them. It sells GPUs, whole AI systems, networking gear and software, mostly to cloud companies and big businesses building AI. In the year to January 2026, data centres brought in $193.7 billion of its $215.9 billion revenue; gaming brought $16.0 billion. Its free CUDA software, used by over 7.5 million developers, keeps customers building on Nvidia hardware.",
+    "flows": [
+      {
+        "from": "Cloud companies, AI labs, governments",
+        "to": "Nvidia",
+        "what": "Pay for data-centre GPUs, full systems and networking ($193.7B in FY2026)"
+      },
+      {
+        "from": "Gamers and PC makers",
+        "to": "Nvidia",
+        "what": "Pay for GeForce graphics chips and cards ($16.0B in FY2026)"
+      },
+      {
+        "from": "Nvidia",
+        "to": "Developers",
+        "what": "Gives CUDA, libraries and AI models, so software is written for Nvidia chips"
+      },
+      {
+        "from": "Nvidia",
+        "to": "Contract chip factories and suppliers",
+        "what": "Pays them to manufacture and package its designs, mostly in Asia"
+      }
+    ],
+    "src": [
+      3,
+      2
+    ]
+  },
+  "failures": [
+    {
+      "year": "1995",
+      "title": "The NV1 'octopus'",
+      "whatHappened": "Nvidia's first chip packed 3D graphics, video, audio and a game port into one card, and developers found it hard to write for. Jensen: 'It was a great technology achievement. It was a terrible product.' Retail sales were poor; by Jensen's account, about 249,000 of the 250,000 units sold to Diamond came back.",
+      "lesson": "Customers buy the one thing they need, at a good price. A clever bundle nobody asked for is hard to sell.",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "year": "1996",
+      "title": "Betting against the standard",
+      "whatHappened": "Nvidia drew 3D images with curved surfaces and 'forward' texture mapping. Microsoft's DirectX made triangles and inverse texture mapping the standard. Jensen admits: 'We got it exactly wrong.' Nvidia had to scrap two and a half years of work.",
+      "lesson": "When the whole industry and its developers pick a standard, fighting it can kill you. Get on the right path first, then find a way to stand out.",
+      "src": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "year": "2008",
+      "title": "Defective laptop chips",
+      "whatHappened": "A weak die and packaging material made some notebook chips fail. Nvidia took a $196 million charge, cut about 360 jobs, and its shares fell more than 75% from their high.",
+      "lesson": "Quality problems in one product can wipe out a year's profit and investors' trust. Own the problem openly, fix it, and keep the company alive for the next product.",
+      "src": [
+        6,
+        20,
+        8
+      ]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Nvidia was an overnight AI success.",
+      "fact": "It took six years and three product lines to find product-market fit, and about 30 years for its accelerated-computing idea to pay off. Co-founder Chris Malachowsky: 'this overnight success was 30 years in the making.'",
+      "src": [
+        1
+      ]
+    },
+    {
+      "myth": "Jensen's parents sent him to a posh American boarding school.",
+      "fact": "Oneida Baptist Institute in rural Clay County, Kentucky, was a tough school where students smoked and carried knives. The 9-year-old cleaned the bathrooms for about a hundred teenage boys while his brother worked in the tobacco fields the school ran.",
+      "src": [
+        10,
+        9
+      ]
+    },
+    {
+      "myth": "Sega simply wrote a cheque to save a promising startup.",
+      "fact": "Sega's money followed Jensen's admission that Nvidia's console chip was the wrong design. Jensen describes it as Sega paying the contract in full without getting the chip; later reports call it a $5 million investment in Nvidia shares, which Sega later sold for about $15 million.",
+      "src": [
+        0,
+        1,
+        13
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I was confronted with a situation where we would finish the project and die, or not finish the project and die right away.",
+      "who": "Jensen Huang, on the 1996 Sega contract (Sequoia, Crucible Moments)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "text": "It was a great technology achievement. It was a terrible product.",
+      "who": "Jensen Huang, on the NV1 (Sequoia, Crucible Moments)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "text": "Make the right decision first, the consequence you will think about second.",
+      "who": "Jensen Huang, Computer History Museum oral history, 2024",
+      "src": [
+        0
+      ]
+    },
+    {
+      "text": "I was probably Denny's best dishwasher.",
+      "who": "Jensen Huang, Stanford GSB View From The Top, 2024",
+      "src": [
+        8
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Your first product can fail and you can still win",
+      "detail": "Nvidia's first chip came back almost entirely unsold: by Jensen's count, 249,000 of 250,000. What saved it was learning fast and building the next product around what customers and developers actually wanted."
+    },
+    {
+      "title": "Tell partners the truth, even when it costs you",
+      "detail": "Jensen told Sega his chip would lead them the wrong way and asked for help anyway. Honesty with a big partner turned a broken contract into the money that kept Nvidia alive."
+    },
+    {
+      "title": "Start from the time you have, not the product you want",
+      "detail": "With almost no money left, Nvidia stopped asking 'how long will this chip take?' and asked 'this is how much time we have, so what can we build?' It built the RIVA 128 in about nine months and bought a second-hand emulator to test it before manufacturing. Constraints can force a better way of working."
+    },
+    {
+      "title": "Build for markets that don't exist yet, but survive until they do",
+      "detail": "PC gaming in 1993 and AI chips in 2012 were both 'zero-billion-dollar' markets. Jensen built the technology and the market together, and kept the company alive long enough for the wave to arrive."
+    },
+    {
+      "title": "Treat every small job as training",
+      "detail": "A Denny's dishwasher who planned his work and left his station spotless became a CEO who says no task is beneath him. How you do an ordinary job is a preview of how you'll run a company."
+    }
+  ],
+  "moments": [
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 127,
+      "label": "Founding Nvidia over coffee at Denny's"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 564,
+      "label": "Choosing a zero-billion-dollar market"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 671,
+      "label": "The NV1 launch fails"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 898,
+      "label": "The Sega partnership and the phone call"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 1217,
+      "label": "One last chance: the RIVA 128"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 1408,
+      "label": "Nvidia introduces the “world’s first GPU”"
+    },
+    {
+      "youtubeId": "75RyknkIKkw",
+      "at": 1507,
+      "label": "The pivot to AI"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Computer History Museum, Oral History of Jensen Huang (transcript, recorded 9 Aug 2024)",
+      "url": "https://s3.us-west-1.wasabisys.com/chm-cms-media/media-live/_file/102809034-05-01.src.pdf"
+    },
+    {
+      "label": "Sequoia Capital, Crucible Moments: Nvidia, An Overnight Success Story 30 Years in the Making (transcript)",
+      "url": "https://sequoiacap.com/podcast/crucible-moments-nvidia/"
+    },
+    {
+      "label": "NVIDIA Corp., Annual Report on Form 10-K, fiscal 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    {
+      "label": "NVIDIA, Financial Results for Fourth Quarter and Fiscal 2026 (8-K press release, 25 Feb 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000019/q4fy26pr.htm"
+    },
+    {
+      "label": "NVIDIA Corp., IPO prospectus (Form 424B4, 22 Jan 1999) (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/0001012870-99-000192.txt"
+    },
+    {
+      "label": "NVIDIA Corp., Form 10-Q, quarter to Aug 1999 (IPO proceeds) (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/0000898430-99-003541.txt"
+    },
+    {
+      "label": "NVIDIA Corp., Annual Report on Form 10-K, fiscal 2009 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581009000013/fy2009form10k.htm"
+    },
+    {
+      "label": "Krizhevsky, Sutskever & Hinton, ImageNet Classification with Deep Convolutional Neural Networks (NeurIPS 2012)",
+      "url": "https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+    },
+    {
+      "label": "Stanford GSB, Jensen Huang: How to Use First-Principles Thinking to Drive Decisions (View From The Top, 2024)",
+      "url": "https://www.gsb.stanford.edu/insights/jensen-huang-how-use-first-principles-thinking-drive-decisions"
+    },
+    {
+      "label": "Acquired podcast, Nvidia: The GPU Company (1993–2006) (transcript)",
+      "url": "https://www.acquired.fm/episodes/nvidia-the-gpu-company-1993-2006"
+    },
+    {
+      "label": "Fortune, Before running the world's most valuable company, Jensen Huang was a 9-year-old janitor in Kentucky (5 Dec 2025)",
+      "url": "https://fortune.com/2025/12/05/jensen-huang-nine-year-old-janitor-before-nvidia-joe-rogan-podcast/"
+    },
+    {
+      "label": "Fortune, 60 direct reports, but no 1-on-1 meetings: Jensen Huang's leadership style (12 Nov 2024)",
+      "url": "https://fortune.com/2024/11/12/jensen-huang-nvidia-ceo-leadership-mpp/"
+    },
+    {
+      "label": "Fortune, Jensen Huang's 'Top 5 Things' emails (13 Dec 2024)",
+      "url": "https://fortune.com/2024/12/13/jensen-huang-email-nvidia-management-leadership-top-5-things-t5t/"
+    },
+    {
+      "label": "TechSpot, How the Dreamcast almost bankrupted Nvidia before a Sega executive saved the company (21 May 2024)",
+      "url": "https://www.techspot.com/news/103083-how-dreamcast-almost-bankrupted-nvidia-before-sega-executive.html"
+    },
+    {
+      "label": "The Motley Fool, 8 Fascinating Things You Probably Didn't Know About NVIDIA (10 May 2017)",
+      "url": "https://www.fool.com/investing/2017/05/10/8-fascinating-things-you-probably-didnt-know-about.aspx"
+    },
+    {
+      "label": "Oregon State University College of Engineering, Jen-Hsun Huang: Engineering Hall of Fame 2013",
+      "url": "https://engineering.oregonstate.edu/alumni-partners/oregon-stater-awards/searchable-awards-database/jen-hsun-huang-engineering-hall"
+    },
+    {
+      "label": "CBS News, 60 Minutes: Meet Nvidia CEO Jensen Huang (transcript, 28 Apr 2024)",
+      "url": "https://www.cbsnews.com/news/meet-nvida-ceo-jensen-huang-company-powering-ai-today-60-minutes-transcript/"
+    },
+    {
+      "label": "Associated Press via WSMV, AI chipmaker Nvidia is the first $5 trillion company (29 Oct 2025)",
+      "url": "https://www.wsmv.com/2025/10/29/ai-chipmaker-nvidia-is-first-5-trillion-company/"
+    },
+    {
+      "label": "Reuters via KSL, Nvidia storms past $5 trillion valuation as AI boom powers meteoric rise (29 Oct 2025)",
+      "url": "https://www.ksl.com/article/51397068/nvidia-storms-past-5-trillion-valuation-as-ai-boom-powers-meteoric-rise"
+    },
+    {
+      "label": "Fortune, How Nvidia's billionaire CEO went from Denny's dishwasher to a $2 trillion company (12 Mar 2024)",
+      "url": "https://fortune.com/2024/03/12/billionaire-nvidia-ceo-first-job-dennys/"
+    },
+    {
+      "label": "24/7 Wall St., NVIDIA May Finally Be Worth A Look (6 Nov 2008)",
+      "url": "https://247wallst.com/consumer-electronics/2008/11/06/nvidia-may-fina/"
+    },
+    {
+      "label": "NVIDIA, Corporate Timeline",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/"
+    },
+    {
+      "label": "NVIDIA Corp., Form 8-K (2002) describing the March 2000 Xbox agreement and $200 million advance (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000095016802001118/0000950168-02-001118.txt"
+    },
+    {
+      "label": "Stanford Engineering, Jen-Hsun Huang, NVIDIA co-founder, invests in next generation of Stanford engineers (1 Oct 2010)",
+      "url": "https://engineering.stanford.edu/news/jen-hsun-huang-nvidia-co-founder-invests-next-generation-stanford-engineers"
+    }
+  ],
+  "factCheck": {
+    "method": "Researched from 23 sources, with Jensen's own words (Computer History Museum transcript, Sequoia transcript, Stanford GSB) and SEC filings (1999 IPO prospectus, 10-Qs, FY2009 and FY2026 10-Ks, FY2026 results release) taking priority over press. Then independently re-checked claim by claim against the cited source plus a second source; this pass removed an unsupported 'nine months of cash' claim, attributed the NV1 return figure to Jensen, corrected the IPO date wording, the Stanford degree source and the Oneida details, and removed a photo whose subject could not be confirmed. All four quotes were matched word for word to the original transcripts. All seven moments match the chapter times in Sequoia's own YouTube description, re-read on 28 Oct 2026.",
+    "disputed": [
+      {
+        "claim": "Jensen joined AMD in 1984.",
+        "note": "The 1999 IPO prospectus says he was an AMD microprocessor designer 'from 1983 to 1985', but Oregon State lists his degree as 1984 and Jensen says AMD was his first job after graduating. We used 1984."
+      },
+      {
+        "claim": "How many people Nvidia laid off in 1996.",
+        "note": "Accounts differ: The Motley Fool says half of its 80 employees; other retellings say half of about 100, and Acquired puts it near 70%. We say 'about half' and avoid an exact number."
+      },
+      {
+        "claim": "Diamond returned about 249,000 of 250,000 NV1 boards.",
+        "note": "This comes only from Jensen's own recollection on Sequoia's podcast ('250,000, well, 249,000 came back'); we found no filing or contemporary report with the return count. The 1999 prospectus confirms only that Nvidia stopped selling the NV1 in early 1996 and that Diamond was 86% of 1995 revenue. We attribute the figure to Jensen."
+      },
+      {
+        "claim": "Nvidia had 'about nine months of cash' in 1996.",
+        "note": "Not supported. In the CHM interview the nine months is how long the team took to build the RIVA 128 ('we did it in just about nine months, because we had no time left'); Jensen elsewhere says Sega's money 'gave us six months to live', and board member Mark Stevens recalls being '30 days away from going outta' business'. We dropped the nine-months-of-cash claim."
+      },
+      {
+        "claim": "Sent to America at nine, after the 1973 coup.",
+        "note": "Jensen gives both the year (1973) and his age (nine), but he turned ten in February 1973. Fortune dates the move only to the 'mid-1970s'. We keep his own account."
+      },
+      {
+        "claim": "Sega's $5 million: contract payment or investment?",
+        "note": "Jensen (CHM, Sequoia) describes asking Sega to release Nvidia from the contract but pay in full. TechSpot (2024) and an Inc. column describe a $5 million investment in Nvidia that Sega later sold for about $15 million, a $10 million profit. Both versions are given in mythVsFact."
+      },
+      {
+        "claim": "Oneida is in 'Clark County, Kentucky'.",
+        "note": "Jensen says Clark County in the CHM transcript, but Oneida Baptist Institute is in Clay County (Fortune; Commons photo record). We use Clay County."
+      },
+      {
+        "claim": "Jensen's Oneida roommate.",
+        "note": "Accounts differ: Acquired says the 17-year-old had just left prison after a knife fight and taught Jensen to lift weights while Jensen helped him with maths; Fortune says he was 'wrapped in tape from a recent fight'; other retellings say Jensen taught him to read. We kept only the age and the fight."
+      },
+      {
+        "claim": "How far Nvidia's stock fell in 2008.",
+        "note": "Jensen and Stanford GSB say 80%; 24/7 Wall St. reported 'more than 75%' from its highs by 6 Nov 2008. We wrote 'more than 75%'."
+      },
+      {
+        "claim": "Nvidia started with $600 ($200 from each founder) and was named after the Latin 'invidia' (envy).",
+        "note": "Both stories are widely retold (Tae Kim's book, The New Yorker), but we could not read a primary source for them, so they are left out."
+      }
+    ]
+  }
+}

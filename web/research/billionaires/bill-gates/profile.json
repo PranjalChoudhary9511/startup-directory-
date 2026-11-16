@@ -1,0 +1,389 @@
+{
+  "name": "Bill Gates",
+  "title": "Code for a Machine He'd Never Seen",
+  "subtitle": "From a school teletype in Seattle to Microsoft, a $118 billion fortune, and a promise to give almost all of it away by 2045.",
+  "hook": "Bill Gates has put an end date on his own fortune. On ==8 May 2025== he wrote that he will give away virtually all his wealth through the Gates Foundation, which expects to spend **more than $200 billion** and then close its doors for good on ==31 December 2045==. His reason fits in one line: \"People will say a lot of things about me when I die,\" but __he is determined that \"he died rich\" will not be one of them__.",
+  "hookSrc": [0, 1],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg/960px-Bill_Gates_-_2023_-_P062021-967902_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bill_Gates_-_2023_-_P062021-967902_(cropped).jpg",
+    "caption": "Bill Gates, then described as founder of Gates Ventures, co-chair of the Gates Foundation and chair of Breakthrough Energy Ventures, on a visit to the European Commission on 11 October 2023.",
+    "author": "European Commission / Lukasz Kobus",
+    "license": "CC BY 4.0",
+    "year": 2023
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg/960px-Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Allen_and_Bill_Gates_at_Lakeside_School_in_1970.jpg",
+      "caption": "1970: Paul Allen (left) and Bill Gates at Lakeside School in Seattle, Washington, five years before they started Microsoft together.",
+      "author": "Bruce Burgess",
+      "license": "Public domain",
+      "year": 1970
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Teletype_Model_33_Terminal_April_1974.jpg/960px-Teletype_Model_33_Terminal_April_1974.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Teletype_Model_33_Terminal_April_1974.jpg",
+      "caption": "A Teletype Model 33 printing terminal, from a 1974 magazine advert. Gates and Allen used this kind of machine, linked to a PDP-8 minicomputer, at Lakeside. It printed only capital letters, about 10 characters a second.",
+      "author": "Teletype Corporation (scan by Michael Holley)",
+      "license": "Public domain",
+      "year": 1974
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Altair_8800_Computer.jpg/960px-Altair_8800_Computer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Altair_8800_Computer.jpg",
+      "caption": "An Altair 8800 computer with an 8-inch floppy disk system, shown at the Vintage Computer Festival at the Computer History Museum. Microsoft's first product was a BASIC for this machine.",
+      "author": "Michael Holley (Swtpc6800)",
+      "license": "Public domain",
+      "year": 2004
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altair_BASIC_Paper_Tape.jpg/960px-Altair_BASIC_Paper_Tape.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Altair_BASIC_Paper_Tape.jpg",
+      "caption": "An original paper tape of 8K BASIC for the MITS Altair 8800, written by Bill Gates, Paul Allen and Monte Davidoff. The label reads \"BASIC 8K without cassette\" and is dated 2 July 1975.",
+      "author": "Michael Holley (Swtpc6800)",
+      "license": "Public domain",
+      "year": 2007
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Bill_Gates_mugshot.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Bill_Gates_mugshot.png",
+      "caption": "13 December 1977, Albuquerque: police photograph a 22-year-old Bill Gates after he got a speeding ticket and had forgotten his licence. Microsoft was still a tiny company in New Mexico.",
+      "author": "Albuquerque, New Mexico police department",
+      "license": "Public domain",
+      "year": 1977
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Steve_Jobs_and_Bill_Gates_%28522695099%29.jpg/960px-Steve_Jobs_and_Bill_Gates_%28522695099%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_and_Bill_Gates_(522695099).jpg",
+      "caption": "31 May 2007: old rivals Steve Jobs and Bill Gates are interviewed together by Walt Mossberg and Kara Swisher at the D5: All Things Digital conference in Carlsbad, California.",
+      "author": "Joi Ito",
+      "license": "CC BY 2.0",
+      "year": 2007
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/960px-Building92microsoft.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg",
+      "caption": "Building 92 at Microsoft's headquarters in Redmond, Washington, photographed in May 2016.",
+      "author": "Coolcaesar",
+      "license": "CC BY-SA 4.0",
+      "year": 2016
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Source_Code_interview_at_CHM_%2854323381673%29.jpg/960px-The_Source_Code_interview_at_CHM_%2854323381673%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Source_Code_interview_at_CHM_(54323381673).jpg",
+      "caption": "11 February 2025: Bill Gates is interviewed by Patrick Collison at the Computer History Museum about his memoir of his early years, \"Source Code\".",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2025
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "28 October 1955, Seattle, Washington, USA",
+      "src": [4, 1]
+    },
+    {
+      "label": "Grew up",
+      "value": "Seattle, the second of three children. Father William H. Gates Sr. was a lawyer and civic leader; mother Mary Gates was a schoolteacher, University of Washington regent and chair of United Way International",
+      "src": [3, 4]
+    },
+    {
+      "label": "First computer",
+      "value": "Lakeside School in Seattle, where a new computer terminal hooked him at about 12 or 13, in eighth grade",
+      "src": [4]
+    },
+    {
+      "label": "Education",
+      "value": "Entered Harvard in 1973 to study mathematics; left in 1975 to build a business with Paul Allen; came back for an honorary degree in 2007",
+      "src": [4, 5]
+    },
+    {
+      "label": "First paid work",
+      "value": "At about 15 he and school friends were paid to write Lakeside's class-scheduling program; an earlier payroll program for a Portland company paid them in free computer time, not money",
+      "src": [4]
+    },
+    {
+      "label": "First company (age)",
+      "value": "Microsoft, co-founded with Paul Allen in 1975, when Gates was 19; based in Albuquerque, New Mexico, until it moved to Washington state",
+      "src": [1, 3, 7]
+    },
+    {
+      "label": "Leaving Microsoft",
+      "value": "Stopped day-to-day work in June 2008, stepped down as chairman in February 2014 and left the board in March 2020",
+      "src": [6]
+    },
+    {
+      "label": "Today",
+      "value": "Chair of the Gates Foundation, which he and Melinda French Gates set up in 2000; founder of Breakthrough Energy; runs his private office, Gates Ventures; chairman of the nuclear company TerraPower; co-founded the Giving Pledge in 2010",
+      "src": [3, 8, 22, 23, 24]
+    },
+    {
+      "label": "Fortune",
+      "value": "About $118.2 billion (Forbes, 29 Oct 2026, world #16), made from Microsoft; Forbes estimates he now owns less than 1% of it after giving more than $63.9 billion to his foundation",
+      "src": [1, 2]
+    },
+    {
+      "label": "Family and home",
+      "value": "Three children and two grandchildren; he and Melinda French Gates announced their divorce in 2021 after 27 years of marriage; lives in Medina, Washington, USA",
+      "src": [1, 3]
+    }
+  ],
+  "contact": {
+    "howToReach": "Bill Gates has no public personal email or phone, so every real route runs through his organisations, and none of them hands out money to individuals. If you work at a non-profit, university or startup in global health, farming, sanitation or education, the honest way in is the Gates Foundation's published Requests for Proposals; the foundation says it mostly invites proposals itself and will not review pitches sent through its general contact form. Journalists should use the foundation's media line or email, or the press contacts of Microsoft and TerraPower; shareholders should use Microsoft Investor Relations. To hear what he is thinking, follow Gates Notes and his verified LinkedIn, X and Instagram accounts, where he posts about books, AI, health and climate. Never pay a 'grant fee' or share bank details with anyone promising Gates money: the foundation says it never asks for these, and you can check a suspicious message by forwarding it to phishing@gatesfoundation.org.",
+    "channels": [
+      {
+        "kind": "form",
+        "label": "Gates Foundation general inquiries (English only; no funding requests)",
+        "value": "Write to us form",
+        "url": "https://www.gatesfoundation.org/about/contact/write-to-us",
+        "whose": "Gates Foundation",
+        "src": [10, 11]
+      },
+      {
+        "kind": "website",
+        "label": "Gates Foundation grant seekers: how grants work and open Requests for Proposals",
+        "value": "gatesfoundation.org/about/how-we-work/grant-applicant-faq",
+        "url": "https://www.gatesfoundation.org/about/how-we-work/grant-applicant-faq",
+        "whose": "Gates Foundation",
+        "src": [13]
+      },
+      {
+        "kind": "phone",
+        "label": "Gates Foundation media inquiries (leave a detailed voicemail)",
+        "value": "+1 206.709.3400",
+        "url": "tel:+12067093400",
+        "whose": "Gates Foundation",
+        "src": [10, 11]
+      },
+      {
+        "kind": "email",
+        "label": "Gates Foundation media inquiries",
+        "value": "media@gatesfoundation.org",
+        "url": "mailto:media@gatesfoundation.org",
+        "whose": "Gates Foundation",
+        "src": [10, 15]
+      },
+      {
+        "kind": "email",
+        "label": "Gates Foundation: check or report a suspected scam",
+        "value": "phishing@gatesfoundation.org",
+        "url": "mailto:phishing@gatesfoundation.org",
+        "whose": "Gates Foundation",
+        "src": [12]
+      },
+      {
+        "kind": "address",
+        "label": "Gates Foundation registered mailing address",
+        "value": "PO Box 23350, Seattle, WA 98102, USA",
+        "url": null,
+        "whose": "Gates Foundation",
+        "src": [15]
+      },
+      {
+        "kind": "website",
+        "label": "Gates Foundation India office (Delhi) page",
+        "value": "gatesfoundation.org/about/offices/delhi-india",
+        "url": "https://www.gatesfoundation.org/about/offices/delhi-india",
+        "whose": "Gates Foundation",
+        "src": [14]
+      },
+      {
+        "kind": "website",
+        "label": "Gates Notes, his personal blog and newsletter (gatesventures.com redirects here)",
+        "value": "gatesnotes.com",
+        "url": "https://www.gatesnotes.com/",
+        "whose": "Gates Ventures (Bill Gates's private office)",
+        "src": [25, 20]
+      },
+      {
+        "kind": "phone",
+        "label": "Microsoft head office switchboard",
+        "value": "425-882-8080",
+        "url": "tel:+14258828080",
+        "whose": "Microsoft Corporation",
+        "src": [16]
+      },
+      {
+        "kind": "address",
+        "label": "Microsoft head office",
+        "value": "One Microsoft Way, Redmond, WA 98052-6399, USA",
+        "url": null,
+        "whose": "Microsoft Corporation",
+        "src": [16, 17]
+      },
+      {
+        "kind": "email",
+        "label": "Microsoft Investor Relations",
+        "value": "msft@microsoft.com",
+        "url": "mailto:msft@microsoft.com",
+        "whose": "Microsoft Corporation",
+        "src": [17]
+      },
+      {
+        "kind": "phone",
+        "label": "Microsoft Investor Relations (US toll-free; international +1 425 706 4400)",
+        "value": "(800) 285-7772",
+        "url": "tel:+18002857772",
+        "whose": "Microsoft Corporation",
+        "src": [17, 18]
+      },
+      {
+        "kind": "email",
+        "label": "Microsoft Media Relations (WE Communications, press only; phone (425) 638-7777)",
+        "value": "rrt@we-worldwide.com",
+        "url": "mailto:rrt@we-worldwide.com",
+        "whose": "Microsoft Corporation",
+        "src": [18]
+      },
+      {
+        "kind": "email",
+        "label": "TerraPower press (interviews, speakers, company questions)",
+        "value": "press@terrapower.com",
+        "url": "mailto:press@terrapower.com",
+        "whose": "TerraPower, LLC",
+        "src": [9]
+      },
+      {
+        "kind": "address",
+        "label": "TerraPower head office",
+        "value": "15800 Northup Way, Bellevue, WA 98008, USA",
+        "url": null,
+        "whose": "TerraPower, LLC",
+        "src": [9]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "x",
+        "handle": "@BillGates",
+        "url": "https://x.com/BillGates",
+        "whose": "Bill Gates (personal, verified)",
+        "src": [3]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "williamhgates",
+        "url": "https://www.linkedin.com/in/williamhgates/",
+        "whose": "Bill Gates (personal)",
+        "src": [3, 19]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@thisisbillgates",
+        "url": "https://www.instagram.com/thisisbillgates/",
+        "whose": "Bill Gates (personal, verified)",
+        "src": [20]
+      },
+      {
+        "platform": "facebook",
+        "handle": "BillGates",
+        "url": "https://www.facebook.com/BillGates",
+        "whose": "Bill Gates (personal)",
+        "src": [3]
+      },
+      {
+        "platform": "x",
+        "handle": "@gatesfoundation",
+        "url": "https://x.com/gatesfoundation",
+        "whose": "Gates Foundation (organisation)",
+        "src": [3, 14]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@gatesfoundation",
+        "url": "https://www.instagram.com/gatesfoundation/",
+        "whose": "Gates Foundation (organisation)",
+        "src": [3]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "gates-foundation",
+        "url": "https://www.linkedin.com/company/gates-foundation",
+        "whose": "Gates Foundation (organisation)",
+        "src": [3]
+      },
+      {
+        "platform": "youtube",
+        "handle": "GatesFoundation",
+        "url": "https://www.youtube.com/user/GatesFoundation/",
+        "whose": "Gates Foundation (organisation)",
+        "src": [3]
+      },
+      {
+        "platform": "x",
+        "handle": "@bmgfindia",
+        "url": "https://x.com/bmgfindia",
+        "whose": "Gates Foundation India (organisation)",
+        "src": [14]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@bmgfindia",
+        "url": "https://www.instagram.com/bmgfindia",
+        "whose": "Gates Foundation India (organisation)",
+        "src": [14]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "terrapower",
+        "url": "https://www.linkedin.com/company/terrapower",
+        "whose": "TerraPower (company he chairs)",
+        "src": [9]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "microsoft-news-and-stories",
+        "url": "https://www.linkedin.com/showcase/microsoft-news-and-stories/",
+        "whose": "Microsoft News and Stories (company)",
+        "src": [21]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Front matter and contact card built from primary and established sources only, read live on 29 Oct 2026: the Gates Foundation's own pages (contact, write-to-us, scam-reporting and grant FAQ pages, fact sheet, leadership bio, Delhi office page and Bill Gates's 8 May 2025 essay; obfuscated emails decoded from the live page), the German Bundestag lobbying register (a government record) for the foundation's mailing address, SEC EDGAR company data for Microsoft's address and phone, Microsoft's Investor Relations page and FY2026 Q4 earnings release, Microsoft's March 2020 board announcement and 'Microsoft at 50' page, TerraPower's about and contact pages, Forbes' real-time profile (29 Oct 2026), the Academy of Achievement biography and interview, the Harvard Gazette transcript of his 2007 commencement speech, and the Computer History Museum. Socials are listed only when linked from the Gates Foundation's own pages or shown as verified on the platform. Photos come from Wikimedia Commons via the Commons API, with author, licence and description copied from the file page. Dropped: the YouTube handle 'thisisbillgates', which resolves to an unrelated channel named 'Ray', so no personal YouTube or Threads account is listed; the Gates Foundation's Seattle street address, because its own contact pages publish no street address; Breakthrough Energy contact details, because its site publishes none.",
+    "disputed": [
+      {
+        "claim": "Microsoft was founded in 1975.",
+        "note": "Forbes, the Gates Foundation and Microsoft's own 'Microsoft at 50' page date the founding to 1975. The Academy of Achievement biography says Gates and Allen started Microsoft in 1976 after moving to New Mexico; Microsoft says the company was based in Albuquerque from 1976 to 1978. We use 1975."
+      },
+      {
+        "claim": "Gates first used a computer at Lakeside at age 13.",
+        "note": "The Academy of Achievement biography says he was about 13 when Lakeside got its terminal; in his own interview on the same site he says he was 12, in eighth grade. We say 'about 12 or 13'."
+      },
+      {
+        "claim": "TerraPower was founded in 2008.",
+        "note": "TerraPower's own site says Gates has been its chairman since 2006, while a leadership bio on the same site says the company was founded in 2008. We give no founding year."
+      }
+    ]
+  },
+  "sources": [
+    { "label": "Bill Gates, \"My new deadline: 20 years to give away virtually all my wealth\", Gates Foundation, 8 May 2025", "url": "https://www.gatesfoundation.org/ideas/articles/next-chapter" },
+    { "label": "Forbes, Bill Gates real-time profile (as of 29 Oct 2026)", "url": "https://www.forbes.com/profile/bill-gates/" },
+    { "label": "Gates Foundation, Foundation fact sheet", "url": "https://www.gatesfoundation.org/about/foundation-fact-sheet" },
+    { "label": "Gates Foundation, Leadership: Bill Gates", "url": "https://www.gatesfoundation.org/about/leadership/bill-gates" },
+    { "label": "Academy of Achievement, Bill Gates biography and interview", "url": "https://achievement.org/achiever/william-h-gates-iii/" },
+    { "label": "Harvard Gazette, Remarks of Bill Gates, Harvard Commencement 2007", "url": "https://news.harvard.edu/gazette/story/2007/06/remarks-of-bill-gates-harvard-commencement-2007/" },
+    { "label": "Microsoft News, \"Microsoft announces change to its board of directors\", 13 March 2020", "url": "https://news.microsoft.com/2020/03/13/microsoft-announces-change-to-its-board-of-directors/" },
+    { "label": "Microsoft News, Microsoft at 50", "url": "https://news.microsoft.com/microsoft-50/" },
+    { "label": "TerraPower, About", "url": "https://www.terrapower.com/about" },
+    { "label": "TerraPower, Contact", "url": "https://www.terrapower.com/contact" },
+    { "label": "Gates Foundation, Contact us", "url": "https://www.gatesfoundation.org/about/contact" },
+    { "label": "Gates Foundation, Write to us", "url": "https://www.gatesfoundation.org/about/contact/write-to-us" },
+    { "label": "Gates Foundation, Reporting scams", "url": "https://www.gatesfoundation.org/about/contact/reporting-scams" },
+    { "label": "Gates Foundation, Grant seeker FAQ", "url": "https://www.gatesfoundation.org/about/how-we-work/grant-applicant-faq" },
+    { "label": "Gates Foundation, Delhi, India office", "url": "https://www.gatesfoundation.org/about/offices/delhi-india" },
+    { "label": "Deutscher Bundestag, Lobbyregister entry R002376: Gates Foundation", "url": "https://www.lobbyregister.bundestag.de/suche/R002376" },
+    { "label": "SEC EDGAR, Microsoft Corp company data (CIK 0000789019)", "url": "https://data.sec.gov/submissions/CIK0000789019.json" },
+    { "label": "Microsoft Investor Relations, Contact information", "url": "https://www.microsoft.com/en-us/investor/contact-information" },
+    { "label": "Microsoft, FY2026 Q4 earnings press release, 29 July 2026", "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast" },
+    { "label": "Bill Gates on LinkedIn (williamhgates)", "url": "https://www.linkedin.com/in/williamhgates/" },
+    { "label": "Bill Gates on Instagram (@thisisbillgates, verified)", "url": "https://www.instagram.com/thisisbillgates/" },
+    { "label": "Microsoft Source newsroom (press tools)", "url": "https://news.microsoft.com/source/" },
+    { "label": "Computer History Museum, Fellow profile: Bill Gates", "url": "https://computerhistory.org/profile/bill-gates/" },
+    { "label": "The White House (archived), President Obama names recipients of the Presidential Medal of Freedom, 16 Nov 2016", "url": "https://obamawhitehouse.archives.gov/the-press-office/2016/11/16/president-obama-names-recipients-presidential-medal-freedom" },
+    { "label": "Breakthrough Energy, official site", "url": "https://www.breakthroughenergy.org/" },
+    { "label": "Gates Ventures official domain (gatesventures.com redirects to gatesnotes.com)", "url": "https://www.gatesventures.com/" }
+  ]
+}

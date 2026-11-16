@@ -1,0 +1,180 @@
+{
+  "slug": "pebble",
+  "name": "Pebble",
+  "region": "global",
+  "country": "United States",
+  "city": "Palo Alto",
+  "sector": "Smartwatches",
+  "founded": 2012,
+  "died": 2016,
+  "status": "sold-for-parts",
+  "brandColor": "#fa5521",
+  "founders": [
+    { "name": "Eric Migicovsky", "role": "Founder and CEO" }
+  ],
+  "epitaph": "It told the time first. Then time ran out.",
+  "oneLiner": "The smartwatch that started it all: an e-paper watch with week-long battery, funded by record-breaking Kickstarter campaigns.",
+  "causeOfDeath": "Pebble over-forecast sales, ordered too much stock, doubled its costs for growth that never came, and ran out of cash as Apple and Fitbit took over.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 23,
+  "moneyNote": "Over $43M came from three Kickstarters plus venture money (incl. a $15M Series A); total venture funding was not published. Fitbit's price was reported at about $23M.",
+  "moneySrc": [1, 2],
+  "inOneMinute": [
+    "Investors said no, so Eric Migicovsky asked the public. Pebble's 2012 Kickstarter raised **$10.3 million** from 68,929 people, a record.",
+    "Pebble sold **over 2 million watches** and $230M+ of products. But in 2015 it **doubled spending** expecting a boom, and sales missed.",
+    "Stuck with $15M+ of unsold stock and falling margins, Pebble sold its software and staff to **Fitbit in December 2016** and shut down."
+  ],
+  "killerLine": "Pre-orders prove people want version one. **They don't prove the mass market will buy version three.** Keep talking to customers.",
+  "numbers": [
+    { "value": "$20.3M", "label": "raised on Kickstarter for Pebble Time (2015)", "src": [1] },
+    { "value": "2M+", "label": "watches sold over about four years", "src": [0, 3] },
+    { "value": "$82M", "label": "2015 sales, vs a target of about $100M", "src": [0] },
+    { "value": "$15M+", "label": "unsold stock at the end of 2015", "src": [0] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a watch nobody would fund",
+      "body": "Eric Migicovsky began building smartwatches as a student in 2008. His first one, inPulse, worked with BlackBerry phones. After joining Y Combinator, a famous startup programme, in 2011, he could raise only about **$150,000 from angel investors**. Hardware, he told the Los Angeles Times, is \"much harder to raise money for\". So in April 2012 he went straight to the public on Kickstarter, a crowdfunding website. Pebble was a simple watch with an always-on **e-paper screen** (like a Kindle's), a battery that lasted about a week, physical buttons and apps. The goal was $100,000. It hit that in two hours. It closed at **$10,266,845 from 68,929 backers**, the biggest Kickstarter ever at that time.",
+      "src": [0, 1, 4]
+    },
+    {
+      "title": "The rise: inventing a category",
+      "body": "Pebble began shipping in January 2013. It sold 300,000 watches by the end of 2013 and **1 million by the end of 2014**. Sales were about $30 million in 2013 and $60 million in 2014. In 2013 it even made **$9 million in profit**, and it broke even in 2014. Then in February 2015 came the Pebble Time Kickstarter. It raised $1 million in 49 minutes and finished at **$20.3 million from 78,471 backers**, again a record. Thousands of developers built more than 10,000 apps and watchfaces. Pebble had shown the world what a smartwatch could be, and people loved it. Then Apple launched the Apple Watch, and Pebble believed the market was about to explode.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "The cracks: betting on a boom",
+      "body": "Expecting huge growth, Pebble **doubled its operating expenses** (the everyday costs of running the company, like salaries and rent) in 2015. Watches must be ordered from factories months in advance, so Pebble bought stock before it knew how well Pebble Time would sell in shops. Sales grew 35% to $82 million, but the target was about $100 million. The result: **over $15 million of unsold watches** and a cash crunch in early 2016. Gross margin (the share of each sale left after making the product) fell from about 35% to 27%. Migicovsky later admitted Pebble chased productivity and then fitness users without proper research: **\"We forgot the cardinal YC rule: talk to customers.\"**",
+      "src": [0]
+    },
+    {
+      "title": "The fall: sold to Fitbit",
+      "body": "In March 2016 Pebble laid off about a quarter of its staff, 40 of 160 people. It tried one more Kickstarter for Pebble 2 and raised $12.8 million. But by October 2016, Migicovsky concluded Pebble was unlikely to become profitable and looked for a buyer. On 7 December 2016, **Fitbit bought Pebble's software, key staff and other assets**, but not its watches or sales business. The price was reported at about $23 million, and Pebble's debts were reported to be larger than that. Pebble stopped making watches. Backers of the unshipped Pebble Time 2 and Pebble Core were refunded. Up to 40% of staff were offered jobs at Fitbit.",
+      "src": [1, 2]
+    }
+  ],
+  "timeline": [
+    { "date": "2008", "event": "Eric Migicovsky starts building smartwatches (inPulse)", "kind": "start", "src": [1, 4] },
+    { "date": "2011", "event": "Y Combinator; raises only about $150,000 from angels", "kind": "money", "src": [0] },
+    { "date": "May 2012", "event": "Kickstarter closes at $10.3M from 68,929 backers, a record", "kind": "money", "src": [1] },
+    { "date": "Jan 2013", "event": "First Pebbles ship", "kind": "start", "src": [1] },
+    { "date": "2013", "event": "About $30M in sales and $9M net profit", "kind": "peak", "src": [0] },
+    { "date": "Dec 2014", "event": "1 million watches sold", "kind": "peak", "src": [1] },
+    { "date": "Mar 2015", "event": "Pebble Time Kickstarter ends at $20.3M from 78,471 backers", "kind": "peak", "src": [1] },
+    { "date": "End 2015", "event": "Sales miss target; over $15M of unsold stock", "kind": "warning", "src": [0] },
+    { "date": "Mar 2016", "event": "Lays off 40 of 160 staff", "kind": "crisis", "src": [1, 2] },
+    { "date": "Dec 2016", "event": "Fitbit buys Pebble's software and staff; Pebble stops making watches", "kind": "end", "src": [1, 2] },
+    { "date": "Jan 2025", "event": "Google open-sources PebbleOS; Migicovsky announces new Pebble watches", "kind": "after", "src": [3, 4] },
+    { "date": "Jul 2025", "event": "Migicovsky's Core Devices wins back the Pebble name", "kind": "after", "src": [1] }
+  ],
+  "charts": [
+    {
+      "title": "Pebble's yearly sales",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["2013", "2014", "2015"],
+      "series": [
+        { "name": "Sales", "values": [30, 60, 82] },
+        { "name": "Target", "values": [null, null, 100] }
+      ],
+      "takeaway": "Sales still grew in 2015, but Pebble had doubled costs and ordered stock for $100M. Missing a target can kill you even while growing.",
+      "src": [0]
+    }
+  ],
+  "rounds": [
+    { "date": "2011", "round": "Angel", "amountUsdM": 0.15, "valuationUsdM": null, "investors": ["Angel investors"], "src": [0] },
+    { "date": "May 2012", "round": "Kickstarter (pre-orders)", "amountUsdM": 10.3, "valuationUsdM": null, "investors": ["68,929 Kickstarter backers"], "src": [1] },
+    { "date": "2013", "round": "Series A", "amountUsdM": 15, "valuationUsdM": null, "investors": ["Charles River Ventures"], "src": [1] },
+    { "date": "Mar 2015", "round": "Kickstarter (pre-orders)", "amountUsdM": 20.3, "valuationUsdM": null, "investors": ["78,471 Kickstarter backers"], "src": [1] },
+    { "date": "2016", "round": "Kickstarter (pre-orders)", "amountUsdM": 12.8, "valuationUsdM": null, "investors": ["Kickstarter backers"], "src": [1] }
+  ],
+  "causes": [
+    { "key": "burn", "weight": 35 },
+    { "key": "competition", "weight": 30 },
+    { "key": "focus", "weight": 20 },
+    { "key": "unit-economics", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Doubled costs before revenue arrived",
+      "explain": "Pebble expected the Apple Watch to make smartwatches explode, so it **doubled operating expenses in 2015**. Sales grew 35%, which is good, but not enough to cover the new costs. Migicovsky's own lesson: \"Don't grow OPEX unless your revenue continues to grow.\"",
+      "src": [0]
+    },
+    {
+      "title": "Ordered too much stock",
+      "explain": "Factories need orders months ahead, so Pebble bought watches before it knew how Pebble Time would sell in shops. When sales missed, it was left with **over $15 million of unsold stock** and a cash crunch. Cash stuck in a warehouse can't pay salaries.",
+      "src": [0]
+    },
+    {
+      "title": "Stopped talking to customers",
+      "explain": "Pebble's first fans were tinkerers and early adopters. It tried to pivot to productivity and then fitness users **without proper customer research**. Migicovsky took the blame himself, writing that they forgot to talk to customers and build something people want.",
+      "src": [0]
+    },
+    {
+      "title": "Weak marketing in retail",
+      "explain": "Pebble put watches into shops without a coordinated campaign or influencer plan. On Kickstarter, fans came to Pebble. In retail, **Pebble had to win strangers**, standing next to Apple and Fitbit, and it wasn't ready for that fight. A great product still needs a reason for a shopper to pick it up off the shelf.",
+      "src": [0]
+    },
+    {
+      "title": "No long-term vision shared with the team",
+      "explain": "Migicovsky calls this the main issue. Pebble followed the gadget cycle of needing a new hit every year, and **never defined where it was going long-term**. Without that, every new product was a bet, not a step on a path.",
+      "src": [0]
+    }
+  ],
+  "warningSigns": [
+    "Are your costs growing faster than your revenue?",
+    "Are you ordering stock based on hoped-for sales rather than sell-through you've already seen?",
+    "Is your gross margin shrinking quarter after quarter?",
+    "Are you targeting a new type of customer you haven't actually interviewed?",
+    "Is a giant about to enter your category while you rely on one product launch a year?"
+  ],
+  "lessons": [
+    {
+      "title": "Use pre-orders to prove demand",
+      "detail": "Pebble's Kickstarter proved people wanted the watch before a single factory order. Before building a gadget, collect real payments or deposits from strangers."
+    },
+    {
+      "title": "Order stock in small batches",
+      "detail": "Buy less inventory, more often, even if each unit costs a little more. A slightly higher cost is far cheaper than a warehouse of unsold products."
+    },
+    {
+      "title": "Grow costs only after revenue grows",
+      "detail": "Hire and spend in step with actual sales, not with forecasts. Forecasts in hardware are almost always too optimistic."
+    },
+    {
+      "title": "Keep interviewing customers every month",
+      "detail": "Before you change who your product is for, talk to at least 20 of those new customers. Ask what they use now and why."
+    },
+    {
+      "title": "Write down your 10-year vision",
+      "detail": "Tell your team where the company is heading, not just what ships next. It helps everyone make better choices about what to build and what to skip."
+    }
+  ],
+  "quote": {
+    "text": "We forgot the cardinal YC rule: talk to customers. Build something people want.",
+    "who": "Eric Migicovsky, Pebble founder",
+    "context": "His blog post 'Success and Failure at Pebble', April 2022",
+    "src": [0]
+  },
+  "afterlife": {
+    "text": "Fitbit kept Pebble's servers running until June 2018; fans then built Rebble to keep the watches working. In January 2025, Google (which now owned Fitbit) open-sourced PebbleOS, and he announced new Pebble watches through a small company, Core Devices, without plans to raise investor money. It won back the Pebble name in July 2025 and had shipped 6,000 Pebble 2 Duo watches by the end of 2025.",
+    "src": [1, 3, 4, 5]
+  },
+  "sources": [
+    { "label": "Eric Migicovsky: Success and Failure at Pebble (Apr 2022)", "url": "https://ericmigi.com/blog/success-and-failure-at-pebble/" },
+    { "label": "Wikipedia: Pebble (watch), for Kickstarter figures, layoffs and sale details", "url": "https://en.wikipedia.org/wiki/Pebble_(watch)" },
+    { "label": "Engadget: Fitbit buys Pebble (Dec 2016)", "url": "https://www.engadget.com/2016/12/07/fitbit-buys-pebble/" },
+    { "label": "Google Open Source Blog: See the code that powered Pebble smartwatches (Jan 2025)", "url": "https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html" },
+    { "label": "Eric Migicovsky: Why we're bringing Pebble back (Jan 2025)", "url": "https://ericmigi.com/blog/why-were-bringing-pebble-back/" },
+    { "label": "Eric Migicovsky: Pebble relaunch, year one done (Dec 2025)", "url": "https://ericmigi.com/blog/pebble-relaunch-year-one-done/" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Pebble turned down a $740M offer from Citizen in 2015 (and $70M from Intel in 2016)", "note": "Reported by tech press citing unnamed sources; never confirmed by Pebble or Citizen, so kept out of the story." },
+      { "claim": "Fitbit paid about $23M", "note": "First reported as $34M–$40M; later reported as about $23M. Pebble's debts were reported to exceed the price." },
+      { "claim": "Founding year", "note": "The company began as Allerta, maker of the inPulse watch, before relaunching as Pebble in 2012." }
+    ]
+  }
+}

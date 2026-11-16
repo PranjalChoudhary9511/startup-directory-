@@ -1,0 +1,434 @@
+{
+  "slug": "celsius",
+  "name": "Celsius Network",
+  "region": "global",
+  "country": "United States",
+  "city": "Hoboken, New Jersey",
+  "sector": "Crypto lending",
+  "founded": 2017,
+  "died": 2022,
+  "status": "bankrupt",
+  "brandColor": "#1b2a6b",
+  "founders": [
+    {
+      "name": "Alex Mashinsky",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Shlomi Daniel Leon",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Hanoch \"Nuke\" Goldstein",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Banks were not your friends. Neither were we.",
+  "oneLiner": "A crypto 'bank' that paid customers high interest on their deposited coins and lent those coins out to make money.",
+  "causeOfDeath": "It promised yields it never earned, propped up its own token, and froze withdrawals in June 2022 with a $1.2 billion hole in its books.",
+  "raisedUsdM": 741,
+  "peakValuationUsdM": 3000,
+  "endValueUsdM": null,
+  "moneyNote": "$741M raised from investors including its token sale, per the court examiner's report (as summarised by David Gerard); $3B valuation from the Oct 2021 equity round. Assets went to creditors in bankruptcy.",
+  "moneySrc": [
+    0,
+    3
+  ],
+  "inOneMinute": [
+    "Celsius told 1.7 million customers it was **'safer than banks'** and paid up to 18% yearly interest on their crypto.",
+    "A court-appointed examiner later found it had been **insolvent since inception** — paying out more in interest than it ever earned, and pumping up its own CEL token.",
+    "It froze withdrawals in June 2022 and went bankrupt. Founder Alex Mashinsky **pleaded guilty to two fraud counts** and got 12 years."
+  ],
+  "killerLine": "If you can't explain **where the yield comes from**, you are the yield.",
+  "numbers": [
+    {
+      "value": "1.7 million",
+      "label": "customers when withdrawals were frozen (June 2022)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$1.2 billion",
+      "label": "hole in the balance sheet at bankruptcy",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "value": "$558 million",
+      "label": "Celsius spent buying its own CEL token (examiner)",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "12 years",
+      "label": "Mashinsky's prison sentence (May 2025)",
+      "src": [
+        4,
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a bank that shares its profits",
+      "body": "Alex Mashinsky, a serial entrepreneur, co-founded Celsius in 2017. His pitch was angry and simple. Banks take your money, lend it out, keep the profit and give you almost nothing. Celsius would do the opposite. You deposit crypto; Celsius lends it out and **shares most of the earnings with you** as weekly interest. Mashinsky wore T-shirts saying \"Banks are not your friends.\" In 2018 Celsius sold its own token, CEL, which gave holders better rates. Customers loved it. By June 2022 it had 1.7 million customers. In October 2021 it raised $400 million in new equity, at a **$3 billion valuation**.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The rise: promises bigger than profits",
+      "body": "To attract deposits, Celsius advertised yields of up to 18% a year. The FTC says it also told customers it had a $750 million insurance policy (it didn't), enough reserves for withdrawals (it didn't), and that it made no unsecured loans (it had **$1.2 billion** of them by April 2022). Mashinsky said on air that Celsius was \"safer than banks\". But the maths never worked. The court examiner found that interest owed to customers beat Celsius's actual earnings by about $1 billion in 2021 alone. Her conclusion: Celsius had been **\"insolvent since inception\"** — it never once earned what it promised.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: buying its own token",
+      "body": "To hide the gap, Celsius leaned on CEL. If CEL's price stayed high, the balance sheet looked healthy. The examiner found Celsius spent **$558 million buying CEL**, and \"bought every CEL token in the market at least one time and in some instances, twice\". There was no real outside demand. One employee called it \"very ponzi like\" (a Ponzi scheme pays old investors with new investors' money). Meanwhile, the examiner found, **Mashinsky personally made $68.7 million selling his own CEL**. Celsius also lost big bets, including about $105 million of ether whose access keys were reportedly lost. On 11 May 2022 it posted: \"All user funds are safe.\"",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "The fall: the freeze",
+      "body": "In May 2022 the crypto market crashed. Customers rushed to withdraw — $428 million of requests in the two days before the freeze. The examiner found Celsius **used new deposits to pay withdrawals** between 9 and 12 June. On 12–13 June it froze all withdrawals, citing \"extreme market conditions\". On 13 July 2022 it filed for bankruptcy, owing users about $4.7 billion, with a $1.2 billion hole. A year later, regulators charged Mashinsky. In December 2024 he **pleaded guilty to commodities fraud and securities fraud**, admitting to a scheme including manipulating CEL. In May 2025 Judge John Koeltl sentenced him to 12 years.",
+      "src": [
+        0,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "Alex Mashinsky, Daniel Leon and Nuke Goldstein found Celsius.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2018",
+      "event": "Celsius sells its own CEL token; the examiner says it raised $32M, not the $50M customers were told.",
+      "kind": "money",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "event": "Raises $400 million at a $3 billion valuation.",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2022",
+      "event": "Nearly $12 billion in assets managed; posts 'All user funds are safe' as markets crash.",
+      "kind": "warning",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "12–13 Jun 2022",
+      "event": "Freezes all withdrawals for 1.7 million customers.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "13 Jul 2022",
+      "event": "Files for bankruptcy with a $1.2 billion deficit and $4.7 billion owed to users.",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2023",
+      "event": "Court examiner finds Celsius was 'insolvent since inception'.",
+      "kind": "after",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "13 Jul 2023",
+      "event": "Mashinsky arrested; SEC, CFTC and FTC sue; Celsius agrees to a $4.7 billion (suspended) FTC judgment.",
+      "kind": "after",
+      "src": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "event": "Celsius exits bankruptcy and starts distributing over $3 billion to creditors.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2024",
+      "event": "Mashinsky pleads guilty to one count of commodities fraud and one of securities fraud; agrees to forfeit $48 million.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "8 May 2025",
+      "event": "Sentenced to 12 years in prison.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Customer assets Celsius managed",
+      "unit": "$ millions",
+      "kind": "line",
+      "labels": [
+        "Dec 2020",
+        "Jan 2021",
+        "May 2022"
+      ],
+      "series": [
+        {
+          "name": "Assets under management",
+          "values": [
+            3310,
+            4500,
+            12000
+          ]
+        }
+      ],
+      "takeaway": "Deposits nearly quadrupled in 18 months — all while the business was paying out more than it earned. (May 2022: 'almost $12 billion'.)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "The bankruptcy balance sheet, July 2022",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Total owed",
+        "Owed to customers",
+        "Hole (deficit)",
+        "Cash on hand"
+      ],
+      "series": [
+        {
+          "name": "Amount",
+          "values": [
+            5500,
+            4700,
+            1200,
+            167
+          ]
+        }
+      ],
+      "takeaway": "Celsius owed customers $4.7 billion and had just $167 million in cash.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Mar 2018",
+      "round": "Token sale (CEL)",
+      "amountUsdM": 32,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "2019",
+      "round": "Equity",
+      "amountUsdM": 24,
+      "valuationUsdM": 140,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2020",
+      "round": "Equity crowdfunding",
+      "amountUsdM": 20,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "round": "Equity",
+      "amountUsdM": 400,
+      "valuationUsdM": 3000,
+      "investors": [
+        "WestCap",
+        "CDPQ"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 45
+    },
+    {
+      "key": "business-model",
+      "weight": 30
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    },
+    {
+      "key": "timing",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Promising yields it never earned",
+      "explain": "The examiner found interest owed to customers was bigger than Celsius's earnings every year — **$1.36 billion more** from 2018 to mid-2022. A business that pays out more than it makes is not a business. It's a countdown. Customers saw the yield; almost nobody saw the losses behind it.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Lying about safety",
+      "explain": "Celsius told customers they could withdraw anytime, that a $750 million insurance policy existed, and that it was **'safer than banks'**. The FTC says none of this was true. Telling people their savings are safe when they are not is the line between a failed startup and a crime.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Propping up its own token",
+      "explain": "Celsius spent $558 million buying CEL so its price — and the balance sheet that depended on it — looked strong. **Mashinsky sold $68.7 million of his own CEL** while the company bought. When insiders sell what the company is secretly buying, someone is being cheated.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Using new money to pay old customers",
+      "explain": "In the final days, the examiner found, Celsius **used new deposits to fund withdrawals**. That is the classic shape of a Ponzi scheme. Once withdrawals outran deposits, the freeze was inevitable. Paying old customers with new customers' money only works while new money keeps arriving — and in a crash, it stops.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do you pay customers more than your business actually earns on their money?",
+    "Does your balance sheet only look healthy if your own token or shares are valued at today's price?",
+    "Is your company buying its own token or product to keep its price up?",
+    "Are you telling customers something is 'safe' or 'insured' without a document that proves it?",
+    "Are founders selling their own holdings while telling everyone else to buy and hold?"
+  ],
+  "lessons": [
+    {
+      "title": "Know exactly where your returns come from",
+      "detail": "If you offer interest, cashback or rewards, write down which real activity pays for them. If the answer is 'new customers' money', stop and redesign."
+    },
+    {
+      "title": "'Safe' is a legal word, not a vibe",
+      "detail": "Never say insured, guaranteed or safe unless you have the paperwork. Regulators will read your tweets and livestreams, not just your terms."
+    },
+    {
+      "title": "Don't make your company's health depend on your own token",
+      "detail": "Value your own token at zero when you check if you are solvent. If you are only solvent with it, you are not solvent."
+    },
+    {
+      "title": "As a customer, high yield means high risk",
+      "detail": "Anyone paying 10–18% on 'savings' is taking big risks with your money. Ask what they invest in, and assume you could lose it all."
+    },
+    {
+      "title": "As an employee, watch for insiders selling",
+      "detail": "If executives are cashing out while public messages say 'all funds are safe', speak up or leave. Celsius employees complained about it in internal messages."
+    }
+  ],
+  "quote": {
+    "text": "Celsius touted a new business model but engaged in an old-fashioned swindle.",
+    "who": "Samuel Levine, Director, FTC Bureau of Consumer Protection",
+    "context": "Announcing the FTC's settlement with Celsius and charges against its founders, July 2023",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "Celsius exited bankruptcy on 31 January 2024 and began distributing over $3 billion in crypto and cash to creditors; its mining assets became Ionic Digital, a bitcoin miner owned by creditors. Mashinsky is serving his 12-year sentence at a federal prison in New Jersey (FCI Fort Dix, per the Bureau of Prisons listing). The company itself got a non-prosecution agreement from federal prosecutors. FTC claims against co-founders Daniel Leon and Nuke Goldstein were filed in 2023; we did not confirm their outcome.",
+    "src": [
+      0,
+      1,
+      2,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Celsius Network (citing WSJ, Guardian, Reuters, Morningstar/Dow Jones)",
+      "url": "https://en.wikipedia.org/wiki/Celsius_Network"
+    },
+    {
+      "label": "SEC press release 2023-133: SEC charges Celsius Network and founder Alex Mashinsky with fraud (Jul 2023)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-133"
+    },
+    {
+      "label": "FTC: FTC reaches settlement with Celsius Network; charges former executives with duping consumers (Jul 2023)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-reaches-settlement-crypto-platform-celsius-network-charges-former-executives-duping-consumers"
+    },
+    {
+      "label": "David Gerard & Amy Castor: Celsius — final report from the examiner (summary of Examiner Shoba Pillay's report, Feb 2023)",
+      "url": "https://davidgerard.co.uk/blockchain/2023/02/01/celsius-network-final-report-from-the-examiner-lies-incompetence-and-ponzi-schemes/"
+    },
+    {
+      "label": "CNBC: Celsius CEO Alex Mashinsky sentenced to 12 years in crypto fraud case (May 2025)",
+      "url": "https://www.cnbc.com/2025/05/08/celsius-ceo-alex-mashinsky-sentenced-to-12-years-in-crypto-fraud-case.html"
+    },
+    {
+      "label": "Wikipedia: Alex Mashinsky (plea, forfeiture, sentence, prison)",
+      "url": "https://en.wikipedia.org/wiki/Alex_Mashinsky"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Celsius was a Ponzi scheme.",
+        "note": "An employee called it 'very ponzi like' and the examiner found new deposits funded withdrawals in June 2022 and insolvency since inception; Mashinsky's guilty plea covered commodities and securities fraud, not a 'Ponzi' charge as such."
+      },
+      {
+        "claim": "Maximum yield offered.",
+        "note": "The FTC says up to 18% APY; other reports say 'as high as 17%'. We use the FTC figure."
+      }
+    ]
+  }
+}

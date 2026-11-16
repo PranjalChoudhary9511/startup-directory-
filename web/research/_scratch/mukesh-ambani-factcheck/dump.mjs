@@ -1,0 +1,34 @@
+import fs from "node:fs";
+const book = "C:/Users/Pranjal Choudhary/Desktop/start-up derectory/web/src/content/billionaires/books/mukesh-ambani.json";
+const b = JSON.parse(fs.readFileSync(book, "utf8"));
+const out = [];
+const L = (s) => out.push(s);
+L(`TITLE ${b.title} | ${b.subtitle}`);
+L(`HOOK ${b.hook} [${b.hookSrc}]`);
+L(`PORTRAIT ${JSON.stringify(b.portrait)}`);
+b.photos.forEach((p, i) => L(`PHOTO${i} ${JSON.stringify(p)}`));
+b.glance.forEach((g) => L(`GLANCE ${g.label}: ${g.value} [${g.src}]`));
+L(`HOWTOREACH ${b.contact.howToReach}`);
+b.contact.channels.forEach((c, i) => L(`CH${i} ${JSON.stringify(c)}`));
+b.contact.socials.forEach((c, i) => L(`SO${i} ${JSON.stringify(c)}`));
+b.chapters.forEach((ch, ci) => {
+  L(`\n=== C${ci} ${ch.id} | ${ch.kicker} | ${ch.title}`);
+  ch.blocks.forEach((x, i) => {
+    const t = `${ci}.${i}`;
+    if (x.t === "p" || x.t === "example") L(`${t} ${x.t}: ${x.text} [${x.src}]`);
+    else if (x.t === "h" || x.t === "note") L(`${t} ${x.t}: ${x.text}`);
+    else if (x.t === "quote") L(`${t} Q: ${x.text} -- ${x.who} [${x.src}]`);
+    else if (x.t === "facts" || x.t === "timeline") x.items.forEach((it) => L(`${t} ${x.t}: ${it.value ?? it.when} | ${it.label ?? it.text} [${it.src}]`));
+    else if (x.t === "photo") L(`${t} photo: ${JSON.stringify(x.photo)}`);
+    else if (x.t === "venture") L(`${t} V: ${x.name} (${x.years}) ${x.outcome}\n  idea: ${x.idea}\n  decision: ${x.decision}\n  howStarted: ${x.howStarted}\n  funding: ${x.funding}\n  whatHappened: ${x.whatHappened}\n  lesson: ${x.lesson}\n  [${x.src}]`);
+    else if (x.t === "lesson") L(`${t} L: ${x.title}: ${x.text}`);
+  });
+});
+L("\n=== LESSONS");
+b.lessons.forEach((l, i) => L(`${i} ${l.title}: ${l.text}`));
+L("\n=== DISPUTED");
+b.factCheck.disputed.forEach((d, i) => L(`${i} ${d.claim} :: ${d.note}`));
+L("\n=== SOURCES");
+b.sources.forEach((s, i) => L(`${i} ${s.label} | ${s.url}`));
+fs.writeFileSync(process.argv[2], out.join("\n"));
+console.log(out.join("\n").length);

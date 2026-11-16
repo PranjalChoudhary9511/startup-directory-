@@ -1,0 +1,144 @@
+ 
+ Bob and Beyond: A Microsoft Insider Remembers 
+ Follow us on Twitter 
+ Follow us on Google+ 
+ Follow Us on Facebook 
+ About Technologizer & Harry 
+ Technologizer by Harry McCracken 
+ More Ways to Get Us...
+ RSS Feed 
+Twitter: Harry | All Technologizer 
+ Join Our Facebook Page 
+ Bob and Beyond: A Microsoft Insider Remembers 
+ Behind the scenes with Bob and its offspring--Clippy and the Microsoft Agent. 
+ By Tandy Trower | Monday, March 29, 2010 at 1:00 am
+ (Tandy Trower spent 28 years at Microsoft, working on everything from Microsoft BASIC to Windows 1.0 to user interfaces to robotics. In this article&#8211;part of our commemoration of Microsoft Bob's fifteenth anniversary &#8211;he recalls his initial reaction to Bob and the Bob-like Office Assistant, and his spearheading of Microsoft Agent, a later attempt to build a better "social interface" of the type that Bob represented.) 
+ After I managed the  first two releases of Windows , I shifted my focus to helping improve the design and usability of Microsoft’s products, founding the company’s first user interface design services team. For most products, my team’s efforts involved improving window and icon designs, providing usability testing, defining good design practices, and promoting consistency between products. One of my most unique challenges came with the development of the now infamous Microsoft Bob.
+ Bob was a very different kind of product than Microsoft had ever created before. It was developed out of motivation to improve and simplify Windows and Microsoft’s application user interfaces, and has somewhat unfairly been considered one of the company’s biggest failures.
+ Bob first came onto my radar after I received an email from Bill Gates asking me to check on a new project he wanted me to review. The message included a document written by Karen Fries, the Bob program manager. In that document, Karen discussed the motivation behind Bob: the increasing complexity of richly featured GUI applications. There were so many choices for the user in terms of commands and options that it was like going to the supermarket and looking down the cereal aisle and trying to make a choice, or visiting a restaurant with a vast menu.
+Karen pointed out that recipes, on the other hand, gave you guided choices and that great restaurants included wait staff that helped you make choices. She proposed that it was time that we consider a similar approach for software.
+ Karen’s proposal was based in part by research by two Stanford professors, Clifford Nass and Byron Reeves, who had recently demonstrated through a series of social interaction experiments that humans respond to social stimuli even if they are presented from a non-human entity.
+ For example, in one experiment, Nass and Reeves took a conventional social interaction test scenario and converted this to computer-based interaction. In the converted experiment, one group of users took a simple survey on a computer, and then was subsequently asked to evaluate their experience on that same computer. Another group took the survey, but performed their evaluation on a separate computer.
+ The results were similar to the original (human-to-human) social experiment that demonstrated that people are more positive when the evaluation is done by that same person than if reported to another person. Similarly, social effects like team orientation or gender bias could be demonstrated using technology as a part of the equation, even when it was obvious to the users that the technology wasn’t human. (For further information, check out Nass and Reeves' excellent book The Media Equation .)
+ Karen’s ambition was to help Microsoft get to the forefront of applying good social interface principles in a positive way.
+ For example, Nass and Reeves’ research indicated that something as simple as how a message box or help file is phrased can convey social meaning, at a time when the software industry as a whole was just beginning to recognize the importance of the cognitive aspects (layout, color, fonts, etc.) of design on user experience. Karen’s ambition was to help Microsoft get to the forefront of applying good social interface principles in a positive way. To do that she proposed to do that by introducing a set of on-screen social personalities that would guide the user through the increasing morass of choices that application interfaces were presenting. So began the birth of Microsoft Bob, which offered the user the choice of a variety of cartoon characters that guided users through the interface by streamlining common tasks.
+ The Training Wheels Came Off
+ Unfortunately, in its well-meaning attempt to shield users from the complexities of overflowing menus and dialogs with too many options, Bob created an environment that was perceived as too childlike, and that many users felt was demeaning or condescending. Even if they found Bob useful, few would want to admit to others that they needed this kind of crutch. Further, Bob was a thin veneer. While Bob presented a simpler, guided interface, the training wheels disappeared once the user ended up needing a function that was only available directly in Windows. Not everyone could figure out how to get back to Bob.
+ At the time, I warned Karen and Bill that while I thought that the intent and foundation was solid, the implementation was a problem. Karen’s counterpart on the marketing side was Melinda French. I didn’t know Melinda at the time&#8211;least of all that she was the secret fiancée of Gates. In any case, I came up with a list of issues I had with Bob. To his credit, Gates never allowed his relationship with Melinda to impact his willingness to listen to my critique. But as was typical, Gates left the decision on going forward to the product team; after all they needed to own the choices they made on their products.
+ Even if Bob was well-meaning, the implementation was striking out.
+ The market quickly proved that even if Bob was well-meaning, the implementation was striking out. However, while it may seem easy to be critical of Bob, it is important to recognize that there were many users that did like the product and the approach of having a knowledgeable assistant, just not the majority. Further, Bob was one of many attempts to try to simplify the existing GUI interfaces, including the Macintosh. For example, there were products introduced for Windows or the Mac that offered even more literal desktop metaphors. Some may remember that Apple's then president, John Sculley, introduced a a video that featured a bow-tied software agent as a part of a futuristic user interface .
+ There was also ongoing research at universities like MIT where professors such as Pattie Maes predicted the imminent reality of this idea. I recall vividly attending a software agents seminar hosted by the MIT Media Lab, where its then director, Nicholas Negroponte , featured an actor playing a human butler as the metaphor for the next generation user interface. There were also many conferences that focused on this approach at that time. However, those ideas, including Bob, proved commercially unpopular at the time.
+ Bob Redux and the Birth of "Clippy"
+ Despite the quick demise of Microsoft Bob, the idea had not died at Microsoft. The Office group was looking to address the challenge of a rich feature set and an increasingly overburdening interface of cascading menus and dialogs. Looking for a solution, they adopted the Bob code and integrated it into Office's help interface. It was motivated in part by a prototype that Eric Horvitz , a lead researcher in Microsoft’s research division with a deep background in machine learning and Bayesian inference reasoning, built to show how tracking the user’s interactions within an application could learn common tasks or interface sequences and enable the Office developers to streamline those tasks. And so, Office 97 featured the Office Assistant as a new part of its interface.
+ However, while Office Assistant fared better than Bob had, it still received very mixed reaction. This may be due in part to the fact that the Office team implemented their own design for what tasks the character’s offered to help with. Further, because they were derived from the original Bob code, Office Assistants appeared within their own rectangular window, making it difficult for the characters to appear integrated into the applications' interface (e.g. point at a menu entry, dialog option, or other part of the applications interface). It may also not have helped that the Office Assistant interface was only accessible to the Office applications and their plug-ins, and so could not be integrated into other Windows applications or into Windows itself.
+ The Office team created their own cadre of characters separate from Bob, including the now infamous “Clippit” the paperclip (better known today as Clippy). Unfortunately, the Office team may not have fully realized the impact of incorporating a social personality in the interface, and the characters were often considered more annoying than helpful.
+ The Office Assistant often showed up uninvited at other times offering suggestions&#8211; try as a user might to dismiss it.
+ For example, in the initial implementation, the Office Assistant would pop-up and block the user’s ability to use the application until the user acknowledged the character (after Office was first installed). This was intended to help introduce this new feature in the interface. Once the user acknowledged the character it didn’t happen again, but once was too much. Beyond that, the Office Assistant often showed up uninvited at other times offering suggestions&#8211; try as a user might to dismiss it. Further, the character might perform random animations while the user was working in the application often without a clear connection to the user’s actions or other rationale. For example, when the user saved their file, most characters would do a little dance; perhaps cute, but distracting and, over time, annoying. If the user had likely clicked File Save (not the character directly), why was the character reacting?
+ There were more subtle faux-pas including a character called Genius that looked like Einstein. Nass and Reeves’ research suggests that user expectations of human-like behavior are raised as characters become more human. This Einstein character sneezed when you asked it to exit. While no users were ever sprayed upon the character’s departure, if you study Nass and Reeves, this is considered to be socially inappropriate and rude behavior. It doesn’t matter that they are just silly little animations on the screen; most people still respond negatively to such behavior.
+ Microsoft had created social misfits.
+ So imagine if you had a human assistant who popped into your office unannounced, offered lame suggestions, randomly danced around for no logical reason, and sneezed in your face&#8211;you wouldn't be happy. These were only virtual personalities, but Microsoft had created social misfits.
+ If you are unconvinced about the social impact from synthetic entities, consider the popularity of animated movies like Toy Story , Wall-E, Shrek , and Up . Does anyone not recognize elation and then disappointment in the Pixar Luxo lamp when it bounces and then deflates its ball? While we know these are not real things, we are able to easily identify with their emotion. And Nass and Reeves would tell us it is far more subtle than you know, given that we learn to interpret social cues like facial features and sounds from the day we are born. Human communication is heavily socially modulated.
+ 1 2 NEXT PAGE&raquo; 
+ 8 Comments 
+ Tweet 
+ Read more: Microsoft , Microsoft Office , Microsoft. Windows , Nostalgia 
+ 7 Comments For This Post
+ tpzahm Says:
+ March 29th, 2010 at 10:29 am 
+ Thanks for a wonderfully balanced account.
+ I'd like to add an example of how the implementation of the ideas behind Bob was deficient: If you entered three wrong passwords in a row, your assistant would offer to change your password for you! The zeal to make things friendly destroyed the underlying function (security, in this case).
+ Gordon Says:
+ March 29th, 2010 at 2:23 pm 
+ For quite a while I used an office assistant that wasn't from Microsoft. I can't remember it's name right now, but it was a rat.
+I liked it, because it had attitude, which it exhibited by some rude behaviors. I wished it had been more complex instead of such a rudimentary, simple device.
+That is another way that the MS Office assistants are distasteful to people like myself&#8211; they are OBSEQUIOUS and flat, in a word&#8211; BORING.
+If someone will ever succeed with this idea, above all else they must make the characters have some attitude, some spunk, verve.
+NO ONE LIKES BORING!
+If you make it exciting and fun, I will buy it!
+ dudette Says:
+ March 30th, 2010 at 8:10 am 
+ Actually, if someone ever succeeds with this (Office Assistant) idea, they have to make it easy for the user to permanently turn it OFF! With Clippy, you could change to other "cute" animations — what you couldn't do was set it to "never show this crap to me again!"
+ Microsoft's continuous FAIL on UI comes from a fundamental misunderstanding of how (and why) human beings interact: when people are trying to accomplish a task, they are NOT in the mode to be entertained.
+ Peter Laman Says:
+ March 31st, 2010 at 4:20 am 
+ I believe there is definitely a place for an &#8216;office assistant', but only for one that avoids the pitfalls Bob and Clippy suffered from:
+ 1 &#8211; Only on demand. Automatically popping up and telling the user what to do will annoy the user. After a while the user is familiar with basic functionality and then the need for an assistant disappears. At that point it starts to be irritating. Just provide kind of a &#8216;guide me through this' button thus giving control back to the user.
+ 2 &#8211; Don't try to be funny. By nature, computer programs perform repetitive tasks and repetition of funny gadgets is not funny at all. Who wants to hear the same joke over and over again? So now dancing paper clip, or other nonsense, but just a sober pointing device with a balloon, or spoken text to assist the user.
+ 3 &#8211; Avoid all childishness. Adults don't want to be helped by a puppet on the screen. Just give the information, that's all. A talking dog would be appreciated by my 5 year old son, but he doesn't use office applications very often!
+ Maybe it would be a good idea, if applications had a kind of &#8216;tutorial mode', that offers somewhat more assistance to the beginning user. Once the user masters the app, he can switch it off.
+ Jeff Says:
+ April 3rd, 2010 at 11:43 am 
+ The most annoying thing I recall about Clippy and Friends was the sudden disk grinding and utter loss of control over the system.
+ *type type type* I type my salutation line
+*grind grind grind* uh-oh
+*dink dink* a window border has appeared. Crap.
+Some time later: "hur hur! Looks like you're writing a letter!"
+I continue to furiously click on the close box to no avail. The system is too busy loading DLLs and rendering ridiculously advanced (for the day) animations.
+ Maybe the experience was better for business users with the latest and greatest hardware, but I doubt there were many of those. I was just trying to write design documents for my college project on second-rate CS lab boxes&#8230;
+ Descartes Says:
+ April 4th, 2010 at 3:05 pm 
+ This is a very fair article, and I agree that the group that has developed Bob and the Office Assistants have good intentions. However, I agree with the commenter regarding the &#8216;childishness' of the agents. It is not that the developers intended to insult users, but the appearance of cute, comical on-screen animated characters in a serious business application creates an unintended consequence: it would seem to the legions of hardworking office users that the developers believe their customers to be simple-minded&#8211; like small children&#8211; and need extra-special help to understand computers. This appears to be an unfortunately recurring theme in the philosophy of MS UIs&#8211; that ease-of-use equate to stupidity, producing endless products that incorporate cartoon characters, endless dialog boxes, and pedantic wizards. The success of Google's search portal in its stark bareness and the iPhone OS UI's quiet simplicity demonstrate that what users truly desire is a minimum of options and interface that gets out of one's way.
+ Karen Fries Says:
+ April 9th, 2010 at 9:48 am 
+ Well, I've read a lot of analysis of the story of Bob over the years, the reasons it failed, etc. 
+ The thoughts by Tandy are entirely accurate and the story itself gets the history right for the most part.
+ Well done. 
+ I'm still licking my wounds. 
+ I just got a new puppy and didn't even name her Rover.
+ 1 Trackbacks For This Post
+ Обзор свежих материалов, апрель 2010 &laquo; UI Warehouse Says:
+ May 22nd, 2010 at 6:26 am 
+ [&#8230;] Bob and Beyond — A Microsoft Insider Remembers [&#8230;]
+ The Weird History of Windows 
+ Laptopia: Twenty-One Totally Bizarre Laptops 
+ Fifteen Classic Game Console Design Mistakes 
+ The Thirteen Greatest Error Messages of All Time 
+ When the Muppets Worked for IBM 
+ Tech Products That Were Brilliant. And Doomed 
+ The Legend of the Legend of Zelda 
+ 15 Breakthrough Products That Went Absolutely Nowhere 
+ The 25 Most Notable Quotes in Tech History 
+ How 1940s Whiskey Ads Predicted the Future 
+ The Great Operating System Games 
+ The Weird Secret Origin of Tech's Favorite Insult 
+ Technologizer Info 
+ Technologizer Everywhere 
+ Technologizer Topics 
+ About Technologizer 
+ Follow Harry on Twitter 
+ Android 
+ Google 
+ Notebooks 
+ TV 
+ Contact Technologizer 
+ Follow Techologizer on Twitter 
+ Apple 
+ iPad 
+ PCs 
+ Twitter 
+ Privacy policy 
+ Join our Facebook page 
+ AT&T 
+ iPhone 
+ Security 
+ Verizon 
+ Terms of service 
+ Subscribe to our feed 
+ Facebook 
+ Macs 
+ Smartphones 
+ Windows 
+ Get our e-mail newsletter 
+ Gaming 
+ Microsoft 
+ Social Networking 
+ Wireless 
+ Add us to Google 
+ Copyright (c) 2014 Technologizer 
+ Powered by WordPress 
+ Loading Comments... 
+ Write a Comment... 
+ Email (Required) 
+ Name (Required) 
+ Website 
+ 

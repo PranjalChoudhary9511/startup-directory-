@@ -1,0 +1,445 @@
+{
+  "slug": "webvan",
+  "name": "Webvan",
+  "region": "global",
+  "country": "United States",
+  "city": "Foster City, California",
+  "sector": "Online grocery delivery",
+  "founded": 1996,
+  "died": 2001,
+  "status": "bankrupt",
+  "brandColor": "#3a7d2c",
+  "founders": [
+    {
+      "name": "Louis Borders",
+      "role": "Founder (co-founder of Borders bookstores)"
+    },
+    {
+      "name": "George Shaheen",
+      "role": "CEO from 1999 (ex-head of Andersen Consulting)"
+    }
+  ],
+  "epitaph": "Built for 26 cities. Never mastered the first.",
+  "oneLiner": "An online supermarket that delivered groceries to your door from giant, highly automated warehouses.",
+  "causeOfDeath": "It spent hundreds of millions building huge warehouses in many cities before one city made money, and ran out of cash when the dot-com crash hit.",
+  "raisedUsdM": 796,
+  "peakValuationUsdM": 7600,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: Webvan's 10-K lists ~$393.6M net from private share sales plus ~$402.6M net from the 1999 IPO (excludes HomeGrocer's own funding). Peak value: $7.6B market value on its first trading day (Wharton). Assets were sold in bankruptcy; no total published.",
+  "moneySrc": [
+    0,
+    2
+  ],
+  "inOneMinute": [
+    "Webvan promised groceries at your door, ordered online, in 1999. Investors loved it: on day one of trading it was **worth $7.6 billion**.",
+    "It signed a **$1 billion deal to build 26 giant warehouses** and raced into new cities before its first city, San Francisco, made money.",
+    "In 2000 it **lost $453 million on $178 million of sales**. The dot-com crash shut off new money, and it went bankrupt in July 2001."
+  ],
+  "killerLine": "**Win one city completely before opening the second.** Infrastructure built for demand you don't have yet is just debt with a roof.",
+  "numbers": [
+    {
+      "value": "$7.6B",
+      "label": "market value on its first day of trading, Nov 1999",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$1B",
+      "label": "contract with Bechtel to build 26 warehouses",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$30",
+      "label": "cost to pick and pack each $100 order (it needed $10)",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "~5 miles",
+      "label": "length of the single conveyor belt in its first warehouse",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a supermarket with no shop",
+      "body": "Louis Borders had already built a famous chain of bookstores. In December 1996 he started Webvan with a bold plan: **reinvent the supermarket**. You would order groceries on a website, and a van would bring them to your door at a time you chose. Instead of using existing shops, Webvan would build its own huge, highly automated warehouses. Think of it as BigBasket or Zepto in 1999, but trying to build the whole machine before knowing if customers would pay for it. Top investors such as Benchmark, Sequoia and Softbank backed it. In 1999 Webvan hired George Shaheen, the boss of Andersen Consulting (now Accenture), as CEO. Hiring such a big name told the world this was serious.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The rise: billions before breakfast",
+      "body": "Webvan began delivering in the San Francisco Bay Area on 2 June 1999. That year it also hired the engineering giant Bechtel to build **26 warehouses for $1 billion**, each costing over $30 million. In November 1999 it sold shares to the public at $15. On the first day they shot to $34, valuing Webvan at **$7.6 billion**, for a company that had sold just $13 million of groceries that year. Webvan raised close to $800 million in total. In September 2000 it merged with its rival HomeGrocer. Some things did improve: the average order grew from $78 in 1999 to $104 in 2000, and its gross margin (what's left after paying for the goods) rose from 15% to 26.5%.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: too far, too fast",
+      "body": "About 18 months after starting in the Bay Area, Webvan was in **nine big city areas**. Each new city meant a costly new warehouse, but most had too few customers close together. A former manager later said Webvan **made money in San Francisco and Oakland** but lost money in quieter suburbs, where vans drove far between stops. Picking and packing a $100 bag of groceries cost about $30; it needed $10. The first warehouse cost about $100 million and ran on one conveyor belt nearly five miles long. When it broke, everything stopped. After the Atlanta launch in April 2000, one executive advised slowing down. Others pushed on because of **promises made to Wall Street**. In 2000, Webvan lost $453 million.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "The fall: the cash runs out",
+      "body": "By the end of 2000, the dot-com bubble had burst and Webvan's share price had fallen to **about 47 cents**. Its auditors wrote that there was \"substantial doubt\" it could keep going. Webvan closed its Dallas warehouse in February 2001 and cut costs hard. In April 2001, CEO George Shaheen resigned. It was too late. On 9 July 2001, Webvan **stopped all deliveries**, filed for bankruptcy and let go of about 2,000 workers. Its website told customers that scheduled orders would not arrive. The shares were trading at about six cents. A business-school professor later summed it up: Webvan tried to conquer the world before learning how to run one city.",
+      "src": [
+        0,
+        1,
+        2,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Dec 1996",
+      "event": "Louis Borders sets up Webvan",
+      "kind": "start",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "1999",
+      "event": "Hires Bechtel to build 26 warehouses for $1 billion",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2 Jun 1999",
+      "event": "Starts delivering in the San Francisco Bay Area",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 1999",
+      "event": "IPO at $15; shares hit $34 on day one, valuing it at $7.6 billion",
+      "kind": "peak",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Apr 2000",
+      "event": "Launches in Atlanta; an executive's advice to slow down is overruled",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2000",
+      "event": "Merges with rival HomeGrocer",
+      "kind": "money",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "Dec 2000",
+      "event": "Share price closes the year at about 47 cents; 2000 loss is $453 million",
+      "kind": "crisis",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Feb 2001",
+      "event": "Closes Dallas warehouse; auditors raise 'substantial doubt' about survival",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Apr 2001",
+      "event": "CEO George Shaheen resigns",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "9 Jul 2001",
+      "event": "Stops deliveries, files for bankruptcy; about 2,000 jobs lost",
+      "kind": "end",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "2007",
+      "event": "AmazonFresh starts in Seattle, later run by ex-Webvan people",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "2012",
+      "event": "Amazon buys Kiva, a warehouse-robot firm started by an ex-Webvan engineer, for $775 million",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Sales vs loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "series": [
+        {
+          "name": "Net sales",
+          "values": [
+            0,
+            13.3,
+            178.5
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            12,
+            144.6,
+            453.3
+          ]
+        }
+      ],
+      "takeaway": "As sales grew, losses grew even faster: in 2000 it lost $2.54 for every $1 it sold.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Gross margin was improving",
+      "unit": "% of sales",
+      "kind": "bar",
+      "labels": [
+        "1999",
+        "2000"
+      ],
+      "series": [
+        {
+          "name": "Gross margin",
+          "values": [
+            15.2,
+            26.5
+          ]
+        }
+      ],
+      "takeaway": "The basic business was getting better, but nowhere near fast enough to cover warehouses, vans and staff.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "1997–1999",
+      "round": "Private preferred share sales (several rounds)",
+      "amountUsdM": 393.6,
+      "valuationUsdM": null,
+      "investors": [
+        "Benchmark",
+        "Sequoia",
+        "Softbank"
+      ],
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Nov 1999",
+      "round": "IPO at $15 per share (net proceeds)",
+      "amountUsdM": 402.6,
+      "valuationUsdM": null,
+      "investors": [
+        "Public markets"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "over-expansion",
+      "weight": 40
+    },
+    {
+      "key": "unit-economics",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Expanded before the first city worked",
+      "explain": "Webvan was in nine big city areas about 18 months after starting. Board member Mike Moritz later said it **committed the cardinal sin of retail**: expanding into new places before succeeding in the first. Every new city needed a costly warehouse that sat half-empty while customers slowly arrived.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Built giant warehouses up front",
+      "explain": "It signed a **$1 billion deal for 26 warehouses** before proving demand. Its first warehouse cost about $100 million and ran on one five-mile conveyor belt, so one breakdown stopped everything. Britain's Tesco did the opposite: staff picked online orders from existing stores, so it **avoided big fixed costs** and grew slowly.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Ignored delivery density",
+      "explain": "Delivery only pays when stops are close together. Webvan **made money in dense San Francisco and Oakland** but lost money in suburbs where vans drove far between homes. Its former distribution head later called delivery density its biggest failure. Indian quick-commerce apps face the same maths today: dense neighbourhoods first.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Let Wall Street set the speed",
+      "explain": "After launching in Atlanta in April 2000, one executive recommended slowing down. Others kept going because of **promises made to stock-market investors**. Once a company has told the public it will be in many cities, slowing down feels like failure, even when it is the smart move.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Each order cost too much to pack",
+      "explain": "Picking and packing a $100 bag of groceries cost Webvan about **$30, when it needed $10**. Groceries already have thin margins. With high handling costs on top, each order brought in very little to pay for the expensive warehouses. Thin margins plus high handling costs is a recipe for losing money at scale.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you opening a new city before your first one makes money on its own?",
+    "Are you building fixed assets (warehouses, kitchens, fleets) for demand you expect, rather than demand you have?",
+    "Are your orders per rider per hour flat or falling?",
+    "Would a single machine or system breaking stop your whole business?",
+    "Are you expanding mainly because you promised investors you would?"
+  ],
+  "lessons": [
+    {
+      "title": "Dominate one area first",
+      "detail": "Pick one city, even one neighbourhood, and make it profitable. Only then copy-paste. It is far cheaper to learn from one bad warehouse than from ten."
+    },
+    {
+      "title": "Rent before you build",
+      "detail": "Use existing shops, kirana stores or rented space before building your own. Tesco picked online orders from its stores and grew without huge fixed costs. Build custom infrastructure only once demand overflows."
+    },
+    {
+      "title": "Measure drops per hour",
+      "detail": "In delivery, money comes from how many orders a rider can drop per hour. Dense areas win; far-flung suburbs lose. This is why Indian quick-commerce apps open dark stores only where order density is already high."
+    },
+    {
+      "title": "Avoid single points of failure",
+      "detail": "Webvan's first warehouse depended on one giant conveyor belt. Design operations so one broken machine, one supplier or one app outage does not stop everything."
+    },
+    {
+      "title": "Don't let a big valuation set your pace",
+      "detail": "A $7.6 billion valuation created pressure to grow at any cost. Raise money for a plan you believe in, and be willing to tell investors 'we are slowing down to get this right'."
+    }
+  ],
+  "quote": {
+    "text": "The biggest failure of Webvan was delivery density.",
+    "who": "Gary Dahl, Webvan's former vice-president of distribution",
+    "context": "Interview with Reuters, 2013, looking back on why Webvan failed",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Webvan's ideas did not die. Amazon later owned the webvan.com address, and several ex-Webvan managers, including Doug Herrington, helped build AmazonFresh, which started in Seattle in 2007. Mick Mountz, who had suggested at Webvan that robots should bring products to human pickers, founded Kiva Systems; Amazon bought it in 2012 for $775 million to run its warehouses. Online grocery became huge, but through slower, denser and often store-based models.",
+    "src": [
+      2,
+      3
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC: Webvan Group Form 10-K for fiscal 2000 (filed April 2001)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1092657/000101287001001485/0001012870-01-001485.txt"
+    },
+    {
+      "label": "SEC: Webvan Group Form 10-K/A for fiscal 2000 (filed April 2001)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1092657/000101287001500522/d10ka.txt"
+    },
+    {
+      "label": "Knowledge at Wharton: What Webvan could have learned from Tesco (2001)",
+      "url": "https://knowledge.wharton.upenn.edu/article/what-webvan-could-have-learned-from-tesco/"
+    },
+    {
+      "label": "NBC News (Reuters): From the ashes of a start-up, Amazon builds grocery business (2013)",
+      "url": "https://www.nbcnews.com/tech/tech-news/ashes-start-amazon-builds-grocery-business-flna6c10339299"
+    },
+    {
+      "label": "Philstar (wire report): Death of an online grocer (Jul 2001)",
+      "url": "https://www.philstar.com/business/technology/2001/07/20/83777/death-online-grocer"
+    },
+    {
+      "label": "Wikipedia: Webvan (founder, HomeGrocer deal, CEO background)",
+      "url": "https://en.wikipedia.org/wiki/Webvan"
+    },
+    {
+      "label": "Fleet Owner: Webvan files bankruptcy, online grocery market wobbles (9 Jul 2001)",
+      "url": "https://fleetowner.com/refrigerated-transporter/article/21227714/webvan-files-bankruptcy-online-grocery-market-wobbles"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Webvan raised and lost $1.2 billion",
+        "note": "Reports differ: some say $1.2 billion raised or burned, others $830 million lost, and Reuters says over $800 million spent. Its own 10-K shows about $796M raised by Webvan itself and a $612.7M accumulated deficit at end-2000."
+      },
+      {
+        "claim": "Peak market value",
+        "note": "Wharton gives $7.6 billion at the first-day high; other reports say the IPO valued it at 'more than $4.8 billion'. The gap is the first-day jump from $15 to $34."
+      },
+      {
+        "claim": "George Shaheen's pay for life",
+        "note": "Widely reported that his contract promised $375,000 a year for life; it later became a claim in the bankruptcy. We could not read the primary report, so it is kept out of the story."
+      },
+      {
+        "claim": "Number of cities served",
+        "note": "Sources say seven, eight, nine or ten metro areas depending on the date and on whether HomeGrocer markets are counted."
+      }
+    ]
+  }
+}

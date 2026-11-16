@@ -1,0 +1,362 @@
+{
+  "slug": "argo-ai",
+  "name": "Argo AI",
+  "region": "global",
+  "country": "United States",
+  "city": "Pittsburgh, Pennsylvania",
+  "sector": "Self-driving technology",
+  "founded": 2016,
+  "died": 2022,
+  "status": "shut-down",
+  "brandColor": "#00a3ad",
+  "founders": [
+    {
+      "name": "Bryan Salesky",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Peter Rander",
+      "role": "Co-founder and president"
+    }
+  ],
+  "epitaph": "Two carmakers in the passenger seat. Both got out.",
+  "oneLiner": "Built self-driving software and sensors for Ford and Volkswagen, aiming at robotaxis and driverless delivery vans.",
+  "causeOfDeath": "Fully driverless cars proved years further away than planned, no new investors came in, and its two carmaker owners decided to stop paying.",
+  "raisedUsdM": 2600,
+  "peakValuationUsdM": 12400,
+  "endValueUsdM": 0,
+  "moneyNote": "TechCrunch: raised 'more than $2.6 billion', mainly from Ford and VW (VW's part partly in assets). Valued at $7.25B at VW's 2020 deal close, and reportedly $12.4B after Lyft's 2021 stake (TechCrunch, citing sources). Wound down with no sale.",
+  "moneySrc": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "inOneMinute": [
+    "Argo AI was founded in 2016 with **$1 billion from Ford**. Volkswagen later put in $2.6 billion of cash and assets, and by 2021 it was reportedly worth **$12.4 billion**.",
+    "It ran **driverless tests in Miami and Austin** in 2022 and had more than 2,000 employees.",
+    "In October 2022, Ford and VW **shut it down**. Ford took a **$2.7 billion** write-off and said self-driving at scale was much further away."
+  ],
+  "killerLine": "A brilliant team can't beat a **timeline the market won't fund**. Know who pays while you wait.",
+  "numbers": [
+    {
+      "value": "$1B",
+      "label": "Ford's original 5-year commitment (2017)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$2.6B",
+      "label": "VW's investment in cash and assets (2019)",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$2.7B",
+      "label": "Ford's write-off when Argo closed",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "2,000+",
+      "label": "employees when it shut down",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: the brain for driverless cars",
+      "body": "In November 2016, two robotics engineers, Bryan Salesky and Peter Rander, founded Argo AI in Pittsburgh. Their plan was to build the 'brain' of a self-driving car: the software and sensors (cameras, radar and lidar, a laser that measures distance) that let a car drive with **no human at all**, called Level 4 autonomy. Argo would not make cars. It would sell its system to carmakers. In February 2017, Ford announced it would invest **$1 billion over five years** and became Argo's biggest shareholder. Ford's plan at the time expected Level 4 cars on the market by 2021.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The rise: Ford and VW, side by side",
+      "body": "In October 2017, Argo bought Princeton Lightwave, a lidar maker, to build its own sensors. In July 2019, Volkswagen joined. VW put in **$1 billion in cash** and handed over its own Munich self-driving unit, worth $1.6 billion, for a total of **$2.6 billion**. Ford and VW now held equal stakes, and Argo was valued at more than $7 billion. Argo opened offices in Europe and the US and tested cars in several cities. In July 2021, Lyft agreed to put at least 1,000 Argo-run cars on its app over five years, starting in Miami and Austin, and took a 2.5% stake that reportedly valued Argo at **$12.4 billion**; and Walmart teamed up with Argo and Ford on driverless grocery delivery. In May 2022, Argo began **driverless operations** in Miami and Austin.",
+      "src": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the finish line kept moving",
+      "body": "Self-driving cars can handle normal roads quite well. The last few percent, like strange weather, unusual road works or unpredictable people, is extremely hard and expensive to solve. Every year that Level 4 slipped meant hundreds of millions more in salaries and test fleets, paid mostly by two carmakers. Argo needed fresh money from new investors to keep going. According to Ford, Argo **was unable to attract new investors**. Meanwhile, Ford saw a nearer opportunity: its BlueCruise hands-free driver-assistance system, used on highways with a driver still responsible, already had more than **83,000 owners** enrolled. Selling helpful assistance today began to look smarter than waiting for full robotaxis.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "The fall: the owners walk away",
+      "body": "On 26 October 2022, Ford announced a **$2.7 billion non-cash impairment** (an accounting write-down admitting an investment is worth far less) on Argo, which pushed Ford to an $827 million loss for the quarter. Ford said large-scale, profitable Level 4 driving would arrive later than it had expected, and that it would shift money to Level 2+ and Level 3 systems (where the car helps but a human stays in charge). VW also stopped investing. That same day, Argo staff were told the company would close. Argo said \"the decision has been made that Argo AI will not continue on its mission as a company.\" Some of its **more than 2,000 employees** got offers from Ford or VW.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Nov 2016",
+      "event": "Bryan Salesky and Peter Rander found Argo AI in Pittsburgh",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Feb 2017",
+      "event": "Ford commits $1B over five years",
+      "kind": "money",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "Oct 2017",
+      "event": "Buys lidar maker Princeton Lightwave",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jul 2019",
+      "event": "VW announces $2.6B investment; valuation tops $7B",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jun 2020",
+      "event": "VW deal closes; Argo valued at $7.25B",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jul–Sep 2021",
+      "event": "Partnerships with Lyft and with Walmart and Ford",
+      "kind": "money",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "May 2022",
+      "event": "Starts driverless operations in Miami and Austin",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "2022",
+      "event": "Fails to attract new investors",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "26 Oct 2022",
+      "event": "Ford takes a $2.7B write-off; Ford and VW end Argo",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Late 2022",
+      "event": "Staff and technology split between Ford and VW's software unit Cariad",
+      "kind": "after",
+      "src": [
+        1,
+        3
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Feb 2017",
+      "round": "Strategic investment (5-year commitment)",
+      "amountUsdM": 1000,
+      "valuationUsdM": null,
+      "investors": [
+        "Ford"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jul 2019 (closed Jun 2020)",
+      "round": "Strategic investment ($1B cash + $1.6B in assets)",
+      "amountUsdM": 2600,
+      "valuationUsdM": 7250,
+      "investors": [
+        "Volkswagen"
+      ],
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Jul 2021",
+      "round": "Strategic stake (2.5%, for data access)",
+      "amountUsdM": null,
+      "valuationUsdM": 12400,
+      "investors": [
+        "Lyft"
+      ],
+      "src": [
+        4
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 40
+    },
+    {
+      "key": "funding-dried",
+      "weight": 30
+    },
+    {
+      "key": "timing",
+      "weight": 20
+    },
+    {
+      "key": "business-model",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Aimed only at the hardest version of the goal",
+      "explain": "Argo focused on Level 4, cars with **no human driver at all**, the hardest and slowest target. Ford realised that simpler driver-assistance was already selling, with over 83,000 owners enrolled in BlueCruise. A product that earns money on the way would have bought Argo time.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Two customers who were also the owners",
+      "explain": "Ford and VW were Argo's investors **and** its main customers. When both decided self-driving was too far off, Argo lost its funding and its market on the same day. It **couldn't attract new investors** to replace them. Ford ended up building on that simpler technology itself.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Plans built on an over-optimistic date",
+      "explain": "Ford's 2017 plan expected Level 4 cars by 2021. As Ford's CEO put it in 2022, **\"things have changed.\"** Spending was set for a near finish line that kept moving away. Each extra year cost a fortune in engineers and test fleets.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is your first revenue still years away with no smaller product to sell before then?",
+    "Are your only investors also your only customers?",
+    "Has your 'launch year' already passed without a launch?",
+    "Are outside investors declining to join your next round?",
+    "Is a simpler competitor already selling a 'good enough' version of what you are building?"
+  ],
+  "lessons": [
+    {
+      "title": "Sell the stepping stone",
+      "detail": "If your big goal takes ten years, find a useful product on the way that customers pay for now. Driver-assistance before robotaxis. A tutoring tool before a full AI teacher."
+    },
+    {
+      "title": "Don't let customers and investors be the same two people",
+      "detail": "Strategic investors are great, but if they're your only buyers too, one boardroom decision can end you. Bring in neutral investors and extra customers early."
+    },
+    {
+      "title": "Put a range on every deadline",
+      "detail": "Say 'two to four years' instead of 'by 2021'. Then plan cash for the long end. Hard problems almost always take longer than the best case."
+    },
+    {
+      "title": "Treat your team well, even at the end",
+      "detail": "Argo gave bonuses and severance and the founders spoke to staff directly. In a small ecosystem, how you close affects whether people will work with you again."
+    },
+    {
+      "title": "Watch what your customers actually buy",
+      "detail": "Ford noticed owners loved hands-free highway driving. Watch real buying behaviour closely. It tells you when the market wants 'good enough now' over 'perfect later'."
+    }
+  ],
+  "quote": {
+    "text": "the decision has been made that Argo AI will not continue on its mission as a company.",
+    "who": "Argo AI statement",
+    "context": "Told to staff and the press on 26 October 2022, the day Ford and VW pulled out.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Ford hired Argo engineers to speed up its own driver-assistance systems, and VW moved its automated-driving work to its software unit Cariad, working with partners. Lyft, which held a 2.5% stake, said Argo's exit did not change its plans. Argo's closure became one of the clearest signs, in 2022, that big carmakers had grown far less patient with robotaxi timelines.",
+    "src": [
+      0,
+      1,
+      3
+    ]
+  },
+  "sources": [
+    {
+      "label": "Ford Motor Co., Q3 2022 earnings release (8-K Exhibit 99, 26 Oct 2022)",
+      "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799622000072/exhibit99tooctober262022.htm"
+    },
+    {
+      "label": "TechCrunch, 'Ford, VW-backed Argo AI is shutting down' (26 Oct 2022)",
+      "url": "https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/"
+    },
+    {
+      "label": "TechCrunch, 'VW invests $2.6 billion in self-driving startup Argo AI' (12 Jul 2019)",
+      "url": "https://techcrunch.com/2019/07/12/vw-invests-2-6-billion-in-self-driving-startup-argo-ai-as-part-of-ford-alliance/"
+    },
+    {
+      "label": "Wikipedia, 'Argo AI' (timeline and valuation)",
+      "url": "https://en.wikipedia.org/wiki/Argo_AI"
+    },
+    {
+      "label": "TechCrunch, 'Argo, Ford to launch self-driving vehicles on Lyft' (21 Jul 2021)",
+      "url": "https://techcrunch.com/2021/07/21/argo-ford-to-launch-self-driving-vehicles-on-lyfts-ride-hailing-app/"
+    },
+    {
+      "label": "SEC EDGAR, Ford 8-K filing of 26 Oct 2022 (index)",
+      "url": "https://www.sec.gov/Archives/edgar/data/37996/000003799622000072/0000037996-22-000072-index.htm"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Peak valuation of $12.4 billion",
+        "note": "Reported by Bloomberg and TechCrunch from unnamed sources at the Lyft deal (July 2021); never officially confirmed. The confirmed figure is $7.25B at VW's deal close in 2020."
+      },
+      {
+        "claim": "Amazon's interest played a secret role in Argo's demise",
+        "note": "Reported by Bloomberg (Nov 2022); we could not read it, so it stays out of the story."
+      },
+      {
+        "claim": "Total raised",
+        "note": "TechCrunch says 'more than $2.6 billion'; adding Ford's $1B and VW's $2.6B (cash plus assets) gives a higher figure. We use TechCrunch's wording as a floor."
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "slug": "northvolt",
+  "name": "Northvolt",
+  "region": "global",
+  "country": "Sweden",
+  "city": "Stockholm",
+  "sector": "Battery cells (gigafactories)",
+  "founded": 2015,
+  "died": 2025,
+  "status": "bankrupt",
+  "brandColor": "#2f3e46",
+  "founders": [
+    {
+      "name": "Peter Carlsson",
+      "role": "Co-founder and CEO (ex-Tesla supply chain); resigned Nov 2024"
+    },
+    {
+      "name": "Paolo Cerruti",
+      "role": "Co-founder (ex-Tesla operations)"
+    }
+  ],
+  "epitaph": "Europe's great battery hope. Ran out of charge.",
+  "oneLiner": "Tried to build Europe's own giant battery factories, so European carmakers would not depend on Asian suppliers.",
+  "causeOfDeath": "It raised billions and built gigafactories in several countries before it could make good cells in bulk at its first one, so customers left and cash ran out.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised many billions in equity and loans (e.g. €900M from VW in 2019, $1.2B in 2023, a $5B green loan in 2024) but no audited lifetime total in our sources. Sale price to Lyten undisclosed.",
+  "moneySrc": [
+    0,
+    2,
+    3
+  ],
+  "inOneMinute": [
+    "Northvolt was meant to give Europe its own battery giant. It won **$5 billion in green loans** in January 2024 alone.",
+    "In the first nine months of 2023 its huge Swedish factory produced only **79.8 MWh** of batteries, a tiny fraction of its goal.",
+    "BMW cancelled a **€2 billion order** in 2024. Northvolt filed for bankruptcy in the US and then Sweden, the **largest in modern Swedish industry**."
+  ],
+  "killerLine": "In manufacturing, **yield is everything**. Prove one line works before you build the next factory.",
+  "numbers": [
+    {
+      "value": "$5B",
+      "label": "green debt package raised in Jan 2024, Europe's largest",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "79.8 MWh",
+      "label": "battery output in the first 9 months of 2023",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "€2B",
+      "label": "BMW order cancelled in June 2024",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "$5.8B",
+      "label": "debts when it filed for US bankruptcy, with ~$30M cash",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Europe's own battery giant",
+      "body": "Electric cars run on battery cells, and most come from China, South Korea and Japan. In 2015, two former Tesla managers, **Peter Carlsson and Paolo Cerruti**, started a company in Sweden to change that. It was renamed Northvolt in 2017. The pitch was powerful: build gigafactories (huge battery factories whose yearly output is measured in gigawatt-hours, or GWh) in Europe. Europe's governments and carmakers loved it. The European Investment Bank gave early loans. In 2019, **Volkswagen invested €900 million** for a 20% stake. In 2020, BMW signed a **€2 billion order** for batteries starting in 2024.",
+      "src": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "title": "The rise: money from everywhere",
+      "body": "The first big plant, Northvolt Ett, rose in Skellefteå, a small town in northern Sweden. It assembled its first cells in December 2021. Money kept pouring in: **$1.2 billion in August 2023**, and in January 2024 a **$5 billion green debt package**, described as Europe's largest green debt deal. The EU approved €902 million in state aid for a new plant in Heide, Germany. Northvolt also planned a factory in Quebec, Canada, and had operations across Sweden, Germany, Norway, Poland, Portugal, the US and Canada, with **over 5,000 employees**. The Skellefteå expansion was meant to lift output to up to 60 GWh a year. On paper, Northvolt was building a continent's battery industry at once.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: the factory couldn't make enough",
+      "body": "Making battery cells is brutally hard. A plant must keep its **yield** high (the share of cells that come out good, not scrap), in ultra-dry, ultra-clean rooms, with machines running perfectly. Northvolt struggled with exactly this. A leaked interim report showed that in the first nine months of 2023 the plant produced just **79.8 MWh**, while it had once planned 16 GWh by 2024 (one GWh is a thousand MWh). It lost about **$1 billion** in those nine months. Swedish media reported that problems with defect rates, humidity and automation had been hidden for years. In June 2024, BMW, tired of late deliveries, **cancelled its €2 billion contract**.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "The fall: from gigafactory to bankruptcy",
+      "body": "In September 2024, Northvolt announced 1,600 layoffs and stopped expanding its Swedish plant. Volvo Cars took full control of their joint venture after Northvolt failed to pay its share. On 21 November 2024, Northvolt filed for **Chapter 11 bankruptcy in the US** (a process that lets a company keep running while it restructures), with about **$30 million in cash and $5.8 billion in debts**. Peter Carlsson resigned the next day, saying it needed at least $1 billion more. A rescue never came. On 12 March 2025, Northvolt filed for bankruptcy in Sweden, the **largest in modern Swedish industrial history**. In August 2025, US battery firm Lyten agreed to buy its remaining Swedish and German plants and technology.",
+      "src": [
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Ex-Tesla managers Peter Carlsson and Paolo Cerruti found the company (renamed Northvolt in 2017)",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jun 2019",
+      "event": "Volkswagen invests €900M for a 20% stake",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2020",
+      "event": "BMW signs a €2B battery order starting 2024",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Dec 2021",
+      "event": "First cells assembled at Northvolt Ett, Skellefteå",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "event": "Raises $5B green debt package, Europe's largest",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2023 (leaked)",
+      "event": "Nine-month output just 79.8 MWh; loss about $1B",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jun 2024",
+      "event": "BMW cancels its €2B order over late deliveries",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2024",
+      "event": "Announces 1,600 layoffs and halts Skellefteå expansion",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "21 Nov 2024",
+      "event": "Files for Chapter 11 in the US with ~$30M cash and $5.8B debt; CEO resigns next day",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "12 Mar 2025",
+      "event": "Files for bankruptcy in Sweden",
+      "kind": "end",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Aug 2025",
+      "event": "Lyten agrees to buy the remaining Swedish and German plants and IP",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Sep 2025",
+      "event": "Quebec ends funding for the Canadian plant after losing a $270M investment",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Jun 2019",
+      "round": "Strategic equity (20% stake)",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Volkswagen"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "round": "Funding round",
+      "amountUsdM": 1200,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "round": "Green project debt",
+      "amountUsdM": 5000,
+      "valuationUsdM": null,
+      "investors": [
+        "European Investment Bank",
+        "Swedish National Debt Office (guarantee)",
+        "Commercial banks"
+      ],
+      "src": [
+        2
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 40
+    },
+    {
+      "key": "over-expansion",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Expanded before the first factory worked",
+      "explain": "While its Swedish plant was producing a tiny fraction of its target, Northvolt was planning or building plants in **Germany, Canada and Poland** and expanding Skellefteå. Each new site needed money and engineers that the struggling first plant badly needed. **Fix line one, then build line two.**",
+      "src": [
+        3,
+        2
+      ]
+    },
+    {
+      "title": "Underestimated how hard cell-making is",
+      "explain": "Battery cells need near-perfect yield, and that takes years of factory learning. Northvolt's plant made **79.8 MWh in nine months of 2023**, against a plan of 16 GWh by 2024. When output is that far off, revenue and customer trust both collapse.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Missed deadlines with its anchor customer",
+      "explain": "BMW's €2 billion order was proof that Northvolt mattered. Late deliveries made BMW **cancel in June 2024**, and losing that order shook every other investor and customer. Your biggest customer's patience is not unlimited. Anchor customers also act as references for every investor and every future buyer.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Let easy money hide the problems",
+      "explain": "Northvolt kept raising huge sums, including a **$5 billion loan in January 2024**, even as production lagged. Big funding made it easier to keep expanding instead of stopping to fix quality. Months later, it had about $30 million in cash and $5.8 billion in debt.",
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you opening a second site while the first one misses its targets?",
+    "Is your production yield (good units out of total made) far below plan?",
+    "Is your anchor customer complaining about late deliveries?",
+    "Are you raising more money mainly to cover delays, not to grow something that works?",
+    "Is bad news about quality being kept from your board or investors?",
+    "Would losing one customer make your next fundraise impossible?"
+  ],
+  "lessons": [
+    {
+      "title": "Track yield daily",
+      "detail": "Whatever you make, from momos to circuit boards, count good units divided by total attempts every day. If yield is low, scaling up only makes more waste."
+    },
+    {
+      "title": "One working line beats five planned ones",
+      "detail": "Resist announcing new locations until your first one hits its targets for a few months straight. Investors respect focus once results arrive."
+    },
+    {
+      "title": "Over-communicate with your anchor customer",
+      "detail": "If you will be late, tell them early, explain why, and give a new date you can keep. Surprises, not delays, are what make big customers walk."
+    },
+    {
+      "title": "Hire people who have done it before",
+      "detail": "For hard manufacturing, bring in engineers who have run that exact process, even from rivals or other countries. Passion cannot replace years of factory know-how."
+    },
+    {
+      "title": "Let bad news travel fast",
+      "detail": "Make it safe for your team to report problems. A culture that hides defects lets small fixes turn into company-ending failures."
+    }
+  ],
+  "quote": {
+    "text": "This financing is a milestone for the European energy transition.",
+    "who": "Peter Carlsson, Northvolt co-founder and CEO",
+    "context": "On the $5 billion green debt package, January 2024. The company filed for bankruptcy ten months later.",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "Swedish police concluded in December 2024 that several 2024 deaths of Northvolt workers were not linked to crime or hazardous exposure. Lyten, a US lithium-sulfur battery company, agreed in August 2025 to buy Northvolt Ett, the Västerås labs, the German Heide project and all remaining IP, and planned to restart production. The bankruptcy trustee said he was pleased to have found a buyer committed to resuming battery production. Quebec ended funding for the Canadian plant after losing a $270 million investment.",
+    "src": [
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "CleanTechnica, 'Volkswagen will invest €900 million in Northvolt' (15 Jun 2019)",
+      "url": "https://cleantechnica.com/2019/06/15/volkswagen-will-invest-e900-million-in-northvolt/"
+    },
+    {
+      "label": "Bloomberg, 'Northvolt raises $1.2 billion amid Canada battery factory plans' (22 Aug 2023)",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-22/northvolt-raises-1-2-billion-amid-canada-battery-factory-plans"
+    },
+    {
+      "label": "European Investment Bank, press release on Northvolt financing (16 Jan 2024)",
+      "url": "https://www.eib.org/en/press/all/2024-011-eib-finances-northvolt-s-battery-factory-with-over-usd1-billion"
+    },
+    {
+      "label": "Wikipedia, 'Northvolt' (timeline, leaked 2023 figures, bankruptcy)",
+      "url": "https://en.wikipedia.org/wiki/Northvolt"
+    },
+    {
+      "label": "Northvolt, 'Lyten to acquire all remaining Northvolt assets in Sweden and Germany' (7 Aug 2025)",
+      "url": "https://northvolt.com/articles/lyten-to-acquire-all-remaining-northvolt-assets-in-sweden-and-germany/"
+    },
+    {
+      "label": "CTV News, 'Quebec ends funding for Northvolt battery factory after losing $270M investment' (2 Sep 2025)",
+      "url": "https://www.ctvnews.ca/montreal/article/quebec-ends-funding-for-northvolt/"
+    },
+    {
+      "label": "Dagens Industri, leaked Northvolt interim figures (Dec 2023, Swedish)",
+      "url": "https://www.di.se/nyheter/di-avslojar-northvolts-hemliga-skracksiffror/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "2023 nine-month output of 79.8 MWh and ~$1B loss",
+        "note": "From a leaked interim report published by Dagens Industri, as summarised by Wikipedia; not from audited accounts we could read."
+      },
+      {
+        "claim": "Northvolt hid production problems for years",
+        "note": "Reported by Swedish outlet Breakit; we could not read the full article, so we attribute it to 'Swedish media'."
+      },
+      {
+        "claim": "Worker deaths were caused by the factory",
+        "note": "Swedish police concluded in Dec 2024 that the deaths were not linked to crime or hazardous exposure."
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+const p = (text, ...src) => ({ t: "p", text, src });
+const n = (text) => ({ t: "note", text });
+const h = (text) => ({ t: "h", text });
+const q = (text, who, ...src) => ({ t: "quote", text, who, src });
+const ex = (text, ...src) => ({ t: "example", text, src });
+const facts = (...items) => ({ t: "facts", items: items.map(([value, label, ...src]) => ({ value, label, src })) });
+
+export const howTheyWork = {
+  id: "how-they-work",
+  kicker: "How he runs it",
+  title: "The Boss Who Checks the Chairs",
+  blocks: [
+    p("In ==1970== the French army wrote a report on a young trainee officer from the École Polytechnique. It said he was “inapte à se voir confier un poste de responsabilités”: unfit to be given a post of responsibility. It also said he lacked the authority to impose himself and took little part in teamwork. The trainee was Bernard Arnault, and the file only came out in June 2026, in a critical biography by the historian Audrey Millet.", "obsarmy", "sudouest", "tribu"),
+    p("Half a century later, that same man runs more than 200,000 people and 75 brands. __So how does somebody the army called unfit to lead actually lead?__ Not by giving speeches. He does it mostly by looking at things very closely, and then asking awkward questions about what he saw.", "tribu", "bbg"),
+    n("Keep this report in mind the next time someone writes you off."),
+    h("Saturday morning"),
+    p("Every Saturday morning, Arnault goes shopping, except that he is not buying anything. He walks through stores with a changing group of deputies, bodyguards and his own children. The usual route includes the Dior flagship on Avenue Montaigne, Louis Vuitton inside Galeries Lafayette and the Le Bon Marché department store.", "bbg", "wwdaward"),
+    p("After each tour, his executives get texts and emails listing what is wrong, in what Bloomberg called “bullet points of obsessive detail”. Fortune reported that he has visited as many as ==25 stores in a day==, rivals included. Now 77, he still does it. “And you don't feel that from behind an Excel spreadsheet at a desk,” he told WWD in October 2026, speaking of how a product is really treated on the shop floor.", "bbg", "founders", "fortune24", "fortune26age", "wwd26"),
+    ex("For example: after one visit to Dubai, his son Alexandre says, the comments ran from the chairs in the store to the shoes the salespeople were wearing. His son Antoine remembers a note from his father about a counter in a Tokyo store. It told him to use a bar Antoine had designed for a Berluti shop about 12 years before. His father still remembered it.", "bbg", "founders"),
+    q("Things that you won't typically notice, but once you've seen tens of thousands of stores over the years, I think it's what comes to your mind immediately.", "Alexandre Arnault, to Bloomberg Businessweek, 2024", "bbg", "founders"),
+    p("The habit is older than LVMH. From the age of five or six, Arnault rode with his grandfather to building sites, in a car with a driver, because the old man had no licence. He watched him talk to foremen and workers. By ten, he says, he was annoying his father by pointing at a rival's site and asking how that firm had won the job.", "legend", "wwd26"),
+    p("He jokes about it now. “Some store managers joke that I should be hired as director of visual merchandising, after the changes I have regularly suggested in our stores,” he told WWD. In the Legend podcast he added the punchline: he changes a display, comes back a week later, and the manager tells him it is selling better. He admits that this pleases him.", "wwd26", "legend", "bi26"),
+    n("Your best market research is free. Go and stand in the shop."),
+    h("The shape of his day"),
+    p("Forbes described a day that starts at 6:30 a.m. at home, with classical music, industry news and texts to his family and brand chiefs. Bloomberg gives office hours of 8 a.m. to 8:30 p.m. A 2026 franceinfo profile says he is at his desk on Avenue Montaigne by 8:30, drinks only water and never goes to bed after 11 p.m. Sources differ by half an hour. Nobody disputes the discipline.", "forbes19", "bbg", "fortune24", "finfo"),
+    p("Two things break up the work. He keeps a Yamaha grand piano at the office and takes 20-minute breaks to play. And he plays tennis four hours a week, “avec une certaine intensité”, with a certain intensity. His wife, the concert pianist Hélène Mercier-Arnault, is blunt about the rest: “Il n'est pas doué pour les loisirs”, meaning he has no gift for leisure. When he can, though, he goes home to have lunch with her.", "fortune24", "legend", "forbes19", "gala"),
+    facts(
+      ["25", "Stores he has visited in a single day, including rivals", "fortune24"],
+      ["4 hours", "Tennis every week, at age 77", "legend"],
+      ["90 minutes", "Length of the monthly family lunch, as reported by the WSJ", "wsj23"],
+      ["20 minutes", "A typical piano break at the office", "fortune24"]
+    ),
+    q("He works 24 hours. When he sleeps, he's dreaming of new ideas.", "Delphine Arnault, his eldest child, to Forbes, 2019", "fortune24", "fortune26age"),
+    p("He also says he tries to protect empty time. He blocks out periods with very few appointments and uses them to meet people from outside business, to hear different ideas on economics or history. “Il faut des moments de réflexion,” he said in 2026: you need moments to think. He admits it does not always work.", "legend"),
+    h("What a meeting with him is like"),
+    p("Bloomberg's 2024 profile is the clearest account we have. Meetings start exactly on time. Deputies say they must arrive fully prepared. He sends so many emails, all day and every day, that staff swap tips on how to sort them. The magazine found current staff, former staff and outsiders alike both in awe of him and afraid of him.", "bbg", "founders"),
+    p("The most useful detail is this one. __He hates complacency so much that the worst way to open a meeting with him is to say that sales are robust.__ Good news does not interest him for long, because he is already looking for the next thing to fix. Arnault describes the same habit from his side: “Bon, tout ça, c'est bien, mais ça pourrait être mieux.” All this is fine, but it could be better.", "bbg", "founders", "legend", "wwd26"),
+    n("Never walk in with “sales are robust”. Walk in with the problem."),
+    p("Then there is the lunch. According to people close to him, quoted by the Wall Street Journal in 2023, he gathers his five children once a month in a private dining room at LVMH headquarters. The meal lasts exactly 90 minutes. He reads discussion topics from his iPad, then goes around the table asking each child for advice, including on specific managers and on whether a brand needs a shake-up.", "wsj23", "ndtv23"),
+    p("That lunch tells you how he makes decisions. He collects opinions in a set format, from people who have to defend them in front of each other, and then he decides alone. “En dernier ressort, c'est vous qui décidez,” he said of the loneliness of the top job: in the last resort, it is you who decides. He also says he likes being contradicted, “même si quelquefois, je pense qu'ils ont tort”, even when he thinks they are wrong.", "legend", "wsj23"),
+    n("Ninety minutes. An iPad. Five children. Imagine preparing for that lunch."),
+    h("How he hires"),
+    p("Sidney Toledano's story shows the style. Arnault hired him to Dior at the end of 1993 and he signed on 17 January 1994 as director of leather goods. On his first day, at 9 a.m., his phone rang. It was the boss, asking one question: “Have you thought about the bag?” Three months later Toledano showed him a design that became the Lady Dior. He went on to run Dior for nearly 20 years.", "toledano"),
+    p("For creative people, he looks for something he says you cannot test for. He told Harvard Business Review that the manager's job is choosing artists who secretly want to see their work on the street, even if they would hate to say so. “It's just buried in their DNA,” he said, and learning to see it “just takes experience”. Then you leave them alone. When he wanted a designer to see what Japanese teenagers wore at night, he did not tell him what to copy. He simply said: “Go look.”", "hbr"),
+    p("His group also takes bets that others find odd. When Louis Vuitton's chief picked Pharrell Williams, a music producer, as men's creative director, many had expected a young fashion-school graduate. Pharrell, who presented his first concept to Arnault and the brand's CEO, described what came next: there were no directives. “They just gave me the keys.”", "gq"),
+    p("Loyalty is the other half. Michael Burke joined him as an intern from the EDHEC business school, because he spoke English, and went with him to America in 1981. More than 40 years later Arnault calls him brilliant and says he is still with him, as head of LVMH in the US. “La fidélité, ça compte dans les affaires,” he said: loyalty counts in business. And one thing he says he never forgives: “le mensonge”, the lie.", "legend"),
+    n("He started as an intern. Forty-five years later, he's still there."),
+    h("How much he really delegates"),
+    p("LVMH runs on a split that sounds like a contradiction. Brands keep their own image, products and managers, and Arnault says he tries to run the group “like a start-up” without the reporting that slows people down. Pierre-Yves Roussel, who ran the fashion group, described weekly meetings one floor up in Arnault's office, covering “every single important decision”. In the same breath he said: “The group works by delegation, too.”", "wwd26", "founders", "roussel"),
+    p("So you get real freedom inside a very tight watch. Toledano puts the upside simply: “Decisions are made quickly.” He contrasts that with bosses appointed by investment funds, and calls his 30 years with Arnault the best part of his working life. Not everyone would describe it that way, and that side of the story deserves equal space.", "toledano"),
+    n("Quick decisions are a start-up's edge. He kept his at 200,000 people."),
+    h("The other side of the desk"),
+    p("Critics describe a climate of fear. The INA's media review says the group's headquarters is often compared to the Sun King's court, and quotes journalists who say staff want to meet far from work and refuse to be recorded. In December 2025 France 2's Cash Investigation interviewed former LVMH managers who described how the group is run, and Mediapart summed up the programme's picture as including brutal management. LVMH refused contact for more than nine months, the programme's reporter says, and defenders of the group called the show one-sided.", "ina", "ftv", "mediapart", "jdd"),
+    p("Then there is the memo. In January 2024 he told staff not to speak to a named list of media outlets, warning that a breach “will be considered a serious infraction, with the corresponding consequences attached to it”, according to the Financial Times, as reported by Fortune. Journalists from across French media, including his own papers, signed a letter calling the ban illegal.", "fortunememo", "ina"),
+    p("Against that, WWD notes that LVMH ranks very highly among Europe's most desired employers, and Arnault tells recruits that the group is “not a faceless company with a distant board” but a family one, where you advance through merit. Both things can be true at once. __A company can be a dream on a CV and still be a hard place to disagree with the boss.__", "wwd26", "legend"),
+    n("Copy the attention to detail. Think twice before copying the fear."),
+  ],
+};

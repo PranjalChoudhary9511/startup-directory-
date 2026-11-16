@@ -1,0 +1,509 @@
+{
+  "slug": "flipkart",
+  "company": "Flipkart",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#2874F0",
+    "secondary": "#112AB8",
+    "accent": "#FFC200",
+    "ink": "#212121",
+    "paper": "#FBF8F1",
+    "note": "#2874F0 (Flipkart blue), #112AB8 (deep blue), #FFC200 (yellow) and #212121 (text) are among the most-used colours in flipkart.com's own homepage styles. Paper is our own warm pick."
+  },
+  "tagline": "Two IIT friends who quit Amazon sold books from a Bangalore flat on ₹4 lakh, built India's biggest online store, and then saw control pass to the investors who funded it.",
+  "hook": "Flipkart's first real order, in 2007, was for John Wood's memoir 'Leaving Microsoft to Change the World', a book the founders did not have. They had to hunt for a copy in Bangalore's shops, and it reached the customer a day late in less-than-mint condition. Eleven years later Walmart paid $16 billion for 77% of the company.",
+  "hookSrc": [1, 0, 11],
+  "cast": [
+    {
+      "name": "Binny Bansal",
+      "role": "Co-founder, no relation to Sachin. They met at IIT Delhi and became friends sharing a flat in Bangalore. Binny lasted eight months at Amazon before they left to start Flipkart. He was COO, CEO from 2016 and Group CEO from 2017. He resigned in November 2018 after an investigation into an allegation of 'serious personal misconduct', which he strongly denied. Walmart said the probe found no evidence to back the complaint but did find lapses in judgement, particularly a lack of transparency in how he responded. He later sold his entire stake, and in January 2024 left the board, citing a conflict of interest with his new cross-border e-commerce startup, OppDoor.",
+      "photo": null,
+      "src": [5, 0, 26, 13, 12, 14]
+    },
+    {
+      "name": "Kalyan Krishnamurthy",
+      "role": "A former eBay executive who joined Tiger Global, Flipkart's largest investor, in 2011 and was a managing director there until December 2016. In 2013–14 he spent two years at Flipkart heading finance and category management. He came back in June 2016 to run the core e-commerce business and was named Flipkart's CEO in January 2017, the first professional manager to take the top job from the founders.",
+      "photo": null,
+      "src": [10, 12]
+    },
+    {
+      "name": "Mukesh Bansal",
+      "role": "Founder of Myntra in 2007, an IIT Kanpur computer scientist who grew up in Haridwar. When Flipkart bought Myntra in May 2014 he joined Flipkart's board and led fashion, and later the commerce platform and ads. He left in 2016 to start a sports, fitness and health venture with Flipkart's Ankit Nagori.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mukesh_Bansal.jpg/1280px-Mukesh_Bansal.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mukesh_Bansal.jpg",
+        "caption": "Mukesh Bansal, founder of Myntra, January 2023.",
+        "author": "Anu Saraogi",
+        "license": "CC BY-SA 4.0",
+        "year": 2023
+      },
+      "src": [15, 16, 8]
+    }
+  ],
+  "founder": {
+    "name": "Sachin Bansal",
+    "role": "Co-founder & former CEO, Flipkart; Executive Chairman, Navi",
+    "born": "5 Aug 1981, Chandigarh",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sachin_Bansal.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sachin_Bansal.jpg",
+      "caption": "Sachin Bansal in 2013, while he was CEO of Flipkart.",
+      "author": "Mylittlefinger",
+      "license": "CC BY-SA 3.0",
+      "year": 2013
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sachin_Bansal_SB.jpg/1280px-Sachin_Bansal_SB.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sachin_Bansal_SB.jpg",
+        "caption": "Sachin Bansal in 2021, after he had left Flipkart and started Navi.",
+        "author": "Shahanadg",
+        "license": "CC BY-SA 4.0",
+        "year": 2021
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flipkart_minutes%2C_RR_Nagar%2C_Bangalore_%282026%29.jpg/1280px-Flipkart_minutes%2C_RR_Nagar%2C_Bangalore_%282026%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flipkart_minutes,_RR_Nagar,_Bangalore_(2026).jpg",
+        "caption": "A Flipkart Minutes quick-delivery outlet in RR Nagar, Bengaluru, February 2026.",
+        "author": "Gpkp",
+        "license": "CC BY-SA 4.0",
+        "year": 2026
+      }
+    ],
+    "background": "Sachin Bansal was born on 5 August 1981 in Chandigarh and went to St Anne's Convent School there. In his community, he said, someone who runs a business is valued more than someone with a salaried job: when he landed his job at Amazon, his family was happy but wanted to know when he would start his own business, so they could look for a bride for him. He sat the IIT entrance exam twice, ranking 2470 the first time and 49th in all India the second, after he 'regularised' his study schedule. He studied computer science at IIT Delhi and graduated in 2005.",
+    "backgroundSrc": [4, 0, 3],
+    "journey": [
+      {
+        "year": "1981",
+        "kind": "life",
+        "title": "Born in Chandigarh",
+        "detail": "Born on 5 August 1981 and schooled at St Anne's Convent. Binny Bansal, his future co-founder, also grew up in Chandigarh, though they would not meet until IIT.",
+        "src": [4, 5]
+      },
+      {
+        "year": "1999",
+        "kind": "failure",
+        "title": "Rank 2470",
+        "detail": "His first attempt at the IIT entrance exam left him at an all-India rank of 2470. He decided to try again.",
+        "src": [3]
+      },
+      {
+        "year": "2000",
+        "kind": "breakthrough",
+        "title": "All-India rank 49",
+        "detail": "On his second try he came 49th. 'It took me a lot of hard work and a steady study schedule,' he told The Tribune. He went to IIT Delhi to study computer science.",
+        "src": [3, 4]
+      },
+      {
+        "year": "2005",
+        "kind": "job",
+        "title": "Graduate, then Techspan",
+        "detail": "He graduated from IIT Delhi in 2005 and then worked at a company called Techspan. Binny, from the same college, moved to Bangalore too, and the two became close while sharing a flat with other IIT friends.",
+        "src": [4, 5, 2]
+      },
+      {
+        "year": "2006",
+        "kind": "job",
+        "title": "Software engineer at Amazon",
+        "detail": "He joined Amazon in Bangalore as a senior software engineer and referred Binny. When Binny quit after eight months, Sachin had to return his referral bonus. Both had left Amazon by late 2007.",
+        "src": [4, 26, 2, 0]
+      },
+      {
+        "year": "2007",
+        "kind": "breakthrough",
+        "title": "Flipkart opens",
+        "detail": "With about ₹4 lakh, the two started an online bookstore from a two-room flat in Koramangala, Bangalore. They shipped 20 orders that year.",
+        "src": [0, 1]
+      },
+      {
+        "year": "2007–08",
+        "kind": "failure",
+        "title": "Close to giving up",
+        "detail": "For months the only customers were family and friends. Sachin later said they were thinking of shutting down less than a year after starting, which would have been 'the worst decision ever'.",
+        "src": [0, 6]
+      },
+      {
+        "year": "2008–09",
+        "kind": "breakthrough",
+        "title": "Break-even, then Accel",
+        "detail": "The Economic Times reported in 2010 that Flipkart broke even in March 2008, after which it rented its first office. In 2009 Accel invested about ₹4 crore ($1 million), its first institutional money. Investors' questions forced them to pick titles: Sachin CEO, Binny COO.",
+        "src": [0, 1, 5]
+      },
+      {
+        "year": "2010",
+        "kind": "breakthrough",
+        "title": "Cash on delivery",
+        "detail": "Letting customers pay when the parcel arrived, across 25 cities, made sales take off. Flipkart had sold more than five lakh books and moved into movies, music and games.",
+        "src": [0, 1]
+      },
+      {
+        "year": "2012",
+        "kind": "failure",
+        "title": "The down round",
+        "detail": "Flipkart delayed raising money, hoping for a higher price, and had to accept a $750 million valuation after a $1 billion one before. It did not grow from mid-2012 to the year's end.",
+        "src": [6]
+      },
+      {
+        "year": "2014",
+        "kind": "breakthrough",
+        "title": "Myntra and a billion dollars",
+        "detail": "Flipkart bought fashion site Myntra in May 2014 and in July raised $1 billion at a $7 billion valuation. Within a year, as the valuation doubled, both founders became billionaires on paper.",
+        "src": [15, 8]
+      },
+      {
+        "year": "2014",
+        "kind": "failure",
+        "title": "Big Billion Day crashes",
+        "detail": "The 6 October sale hit $100 million in 10 hours, but servers failed, stock ran out within minutes (sometimes seconds), and some prices had gone back to full price for a few hours just before the sale. The founders emailed customers to apologise.",
+        "src": [24, 7]
+      },
+      {
+        "year": "2016",
+        "kind": "failure",
+        "title": "Moved out of the CEO chair",
+        "detail": "After the app-first and marketplace bets of 2015 went wrong, he was made executive chairman in January 2016 and Binny became CEO. A year later Tiger Global's Kalyan Krishnamurthy took over as CEO.",
+        "src": [8, 9, 10]
+      },
+      {
+        "year": "2018",
+        "kind": "failure",
+        "title": "Walmart deal, and out",
+        "detail": "Walmart bought 77% of Flipkart for $16 billion. Sachin sold his whole 5.5% stake for about $1 billion and left, writing: 'Sadly my work here is done'.",
+        "src": [11, 26, 27, 8]
+      },
+      {
+        "year": "2018",
+        "kind": "attempt",
+        "title": "Starting again: Navi",
+        "detail": "Within months he founded a new company, which became Navi, a digital lender that later added insurance, mutual funds and UPI payments.",
+        "src": [22, 21]
+      },
+      {
+        "year": "2024",
+        "kind": "failure",
+        "title": "The regulator steps in",
+        "detail": "In October 2024 the Reserve Bank of India told Navi's lending arm to stop giving new loans over concerns including excessive pricing. The curbs were lifted in December 2024.",
+        "src": [21]
+      },
+      {
+        "year": "Now",
+        "kind": "now",
+        "title": "Executive chairman of Navi",
+        "detail": "Since February 2025 he has been executive chairman, with professional CEOs running Navi day to day. In August 2026 Prosus invested $100 million, Navi's first major institutional funding, and Navi is preparing for an IPO.",
+        "src": [21, 22]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Never start alone",
+        "explain": "His biggest advice to founders is to find a co-founder with good chemistry and shared goals. He calls Binny 'a shoulder to cry on' and says they never blamed each other for mistakes.",
+        "src": [5]
+      },
+      {
+        "idea": "Raise money when you can, not when you must",
+        "explain": "Flipkart's 2012 down round taught him to take funding when it is available and keep improving, instead of waiting for a better price and being forced to raise in a crisis.",
+        "src": [6]
+      },
+      {
+        "idea": "Love the problem, not your solution",
+        "explain": "'As entrepreneurs we don't get emotionally attached to solutions; we get emotionally attached to the problem,' he said in 2016.",
+        "src": [6]
+      },
+      {
+        "idea": "Build for India, not a copy of the US",
+        "explain": "Flipkart won first-time online shoppers by building for Indian habits: cash on delivery at scale, no-cost EMI and easy returns. Walmart's 2018 deal announcement lists all three as Flipkart's 'industry-first innovations'.",
+        "src": [11, 0]
+      },
+      {
+        "idea": "Think like a product designer",
+        "explain": "After 2014 he wanted Flipkart to be a pure product company: app-only, a marketplace instead of a retailer, no advertising. Mint reports these bets backfired and cost him the CEO job.",
+        "src": [8]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Marketing at the bookshop door",
+        "detail": "In the early days the two founders stood outside Gangaram's bookstore on Church Street handing out Flipkart bookmarks, and gave out flyers at the entrances of book fairs.",
+        "src": [1, 0]
+      },
+      {
+        "habit": "40–50 km a day on a bike",
+        "detail": "By Binny's account, the two rode his bike 40–50 km around Bangalore every day to pick up books from distributors, then packed them for customers.",
+        "src": [26, 2]
+      },
+      {
+        "habit": "Shopping at the competition",
+        "detail": "In 2016 Entrepreneur India reported that he did not shop on Flipkart but on every rival's website, and emailed his team what he learnt.",
+        "src": [6]
+      },
+      {
+        "habit": "Any job that needs doing",
+        "detail": "'From sweeping the floor to hiring, the founders should be ready to do everything,' he said in 2013. In the early days the two had no fixed roles at all.",
+        "src": [5]
+      }
+    ],
+    "darkestHour": {
+      "title": "2015–18: losing the company he built",
+      "story": "After Flipkart raised $1 billion in July 2014, Sachin set out to remake it: app-only shopping, a shift from selling its own stock to a marketplace, almost no advertising and a new layer of senior hires. Current and former executives told Mint that his behaviour became erratic and he alienated people who had worked with him for years. The bets did not work and Amazon gained ground. In January 2016 he was moved from CEO to executive chairman. Investors cut the value of their Flipkart shares that year, and at a town hall he admitted, 'even I am gone', because targets had been missed. In January 2017 Tiger Global installed its own Kalyan Krishnamurthy as CEO. During the 2018 Walmart talks Sachin wanted guarantees of a bigger role; Krishnamurthy resisted, Tiger sided with him, and Sachin was cut out. He sold his stake for about $1 billion, signed a non-compete and left. Within months he was building again, this time Navi.",
+      "src": [8, 9, 25, 10, 6, 2, 22]
+    },
+    "genuineness": {
+      "story": "When Big Billion Day went wrong in 2014, Sachin and Binny did not hide behind a press release. They emailed customers, admitted they had not sourced enough stock, that servers had failed and that prices had changed before the sale, and wrote, 'We realise that this breaks the trust our customers have put in us.' Two years later, at a town hall, Sachin told staff plainly that he had been replaced as CEO because targets were missed. A Business Standard column held it up as an example of a leader admitting mistakes.",
+      "src": [24, 7, 25, 9]
+    },
+    "now": "Sachin is executive chairman of Navi, the financial-services company he started after leaving Flipkart in 2018, while Rajiv Naresh and Abhishek Dwivedi run its businesses. In August 2026 Prosus invested $100 million, Navi's first major institutional funding, at a reported valuation of about $1.3 billion. Navi plans to file for a roughly ₹3,000 crore IPO by early 2027. For FY2026 the group reported a net loss of ₹466 crore, which it blamed largely on spending on UPI and new businesses.",
+    "nowSrc": [21, 22]
+  },
+  "numbers": [
+    {
+      "value": "₹1.45 lakh crore",
+      "label": "Flipkart Group revenue from operations, up 18%",
+      "asOf": "FY2026",
+      "src": [20, 19]
+    },
+    {
+      "value": "₹8,468 crore",
+      "label": "Flipkart Group net loss, slightly lower than the year before",
+      "asOf": "FY2026",
+      "src": [19, 20]
+    },
+    {
+      "value": "$16 billion",
+      "label": "Walmart's price for about 77% of Flipkart",
+      "asOf": "May 2018",
+      "src": [11, 1]
+    },
+    {
+      "value": "~$37 billion",
+      "label": "Last valuation, when Google invested $350 million",
+      "asOf": "2024",
+      "src": [17]
+    },
+    {
+      "value": "₹4 lakh",
+      "label": "What the founders spent to set up the business",
+      "asOf": "2007",
+      "src": [0, 2]
+    },
+    {
+      "value": "$100 million",
+      "label": "Sales in the first 10 hours of the first Big Billion Day",
+      "asOf": "6 Oct 2014",
+      "src": [24, 7]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2007",
+      "title": "An online bookstore",
+      "detail": "Sachin and Binny launch Flipkart from a flat in Koramangala, Bangalore, and ship 20 orders that year.",
+      "src": [0, 1]
+    },
+    {
+      "year": "2009",
+      "title": "First investor",
+      "detail": "Accel invests about $1 million. Flipkart hires its first full-time employee, opens Delhi and Mumbai offices and grows to 150 people.",
+      "src": [1, 0]
+    },
+    {
+      "year": "2010",
+      "title": "Cash on delivery",
+      "detail": "Paying on delivery wins over shoppers who don't trust paying online. Electronics, music, movies and games follow books.",
+      "src": [0, 1]
+    },
+    {
+      "year": "2011",
+      "title": "Holding company moves to Singapore",
+      "detail": "Like many Indian startups chasing foreign capital, Flipkart shifts its parent company to Singapore.",
+      "src": [17]
+    },
+    {
+      "year": "2014",
+      "title": "Myntra and the Big Billion Day",
+      "detail": "Flipkart buys Myntra in May, raises $1 billion in July and holds its first, chaotic Big Billion Day sale in October.",
+      "src": [15, 8, 7]
+    },
+    {
+      "year": "2016",
+      "title": "Founder steps aside, PhonePe bought",
+      "detail": "Sachin moves from CEO to executive chairman in January. Flipkart buys Jabong and the UPI payments startup PhonePe.",
+      "src": [10, 1]
+    },
+    {
+      "year": "2017",
+      "title": "A professional CEO",
+      "detail": "Kalyan Krishnamurthy becomes CEO and Binny becomes group CEO.",
+      "src": [10]
+    },
+    {
+      "year": "2018",
+      "title": "Walmart takes control",
+      "detail": "Walmart agrees to pay about $16 billion for 77%. Sachin leaves in May; Binny resigns in November.",
+      "src": [11, 2, 12]
+    },
+    {
+      "year": "2024",
+      "title": "Google invests",
+      "detail": "Alphabet's Google buys a $350 million minority stake, valuing Flipkart at about $37 billion.",
+      "src": [17]
+    },
+    {
+      "year": "2026",
+      "title": "Home to India, IPO on hold",
+      "detail": "In March Flipkart completes moving its holding company back to India from Singapore. In May, reports say Walmart told it to reach EBITDA breakeven by the end of FY2027 before any IPO; no draft IPO papers had been filed by October.",
+      "src": [17, 18, 19]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Flipkart Group sells goods to Indian shoppers through the Flipkart app, the Myntra fashion app and other units such as Cleartrip, and delivers them through its own logistics arm, Ekart. Group revenue largely counts goods sold: in FY2026 its biggest cost was ₹1.18 lakh crore of stock bought to resell. It still spends more than it earns, so Walmart wants it to break even on EBITDA before any stock-market listing.",
+    "flows": [
+      { "from": "Shoppers", "to": "Flipkart and Myntra", "what": "Payment for orders, including cash on delivery" },
+      { "from": "Flipkart Group", "to": "Brands and suppliers", "what": "Purchases of stock for resale (₹1.18 lakh crore in FY2026)" },
+      { "from": "Ekart", "to": "Shoppers", "what": "Delivery of parcels (500,000 a day in 2018)" },
+      { "from": "Walmart and other investors", "to": "Flipkart Group", "what": "Capital to fund growth and losses" }
+    ],
+    "src": [11, 19, 20, 18, 0]
+  },
+  "failures": [
+    {
+      "year": "2012",
+      "title": "Waiting for a better price",
+      "whatHappened": "Flipkart held off raising money that was available, hoping for a higher valuation. The market turned and it had to raise at $750 million, below its previous $1 billion, while growth stalled for half a year.",
+      "lesson": "Money on the table today beats a better offer that may never come.",
+      "src": [6]
+    },
+    {
+      "year": "2014",
+      "title": "Big Billion Day",
+      "whatHappened": "Flipkart prepared for 20 times its normal traffic with nearly 5,000 servers, but demand was far higher. Pages crashed, many deals sold out within minutes or seconds, some orders were over-booked and cancelled, and some prices had gone back to full price before the sale.",
+      "lesson": "A launch can bring more customers than you can serve. Plan for failure, and own it fast when it comes.",
+      "src": [24, 7]
+    },
+    {
+      "year": "2015",
+      "title": "App-only and the marketplace pivot",
+      "whatHappened": "Sachin pushed shoppers onto the mobile app, planned to shut the website, moved away from selling Flipkart's own stock and cut advertising. Mint reports these moves failed, Amazon gained share, and they were reversed after he lost the CEO job.",
+      "lesson": "Test big bets on a small slice of customers before betting the whole company.",
+      "src": [8, 9]
+    },
+    {
+      "year": "2018",
+      "title": "Founders lose the company",
+      "whatHappened": "After years of fundraising, Tiger Global alone owned about 35% of Flipkart by 2017, and in January 2017 it installed its own former executive as CEO. In the 2018 Walmart sale Sachin was cut out, and six months later Binny also left.",
+      "lesson": "Each funding round gives others a say. Keep the board's trust through results, because voting power will not protect you.",
+      "src": [8, 10, 12]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Sachin and Binny Bansal are brothers.",
+      "fact": "They are not related. Both grew up in Chandigarh and went to IIT Delhi, but they became friends only when they shared a flat in Bangalore and then worked on the same team at Amazon.",
+      "src": [5, 1, 2]
+    },
+    {
+      "myth": "Flipkart's first order came on its first day.",
+      "fact": "For months the only buyers were family and friends. Binny said in 2010 that the first real order came nearly four months after launch; other accounts put it in late October 2007.",
+      "src": [0, 1]
+    },
+    {
+      "myth": "Flipkart is still owned by its Indian founders.",
+      "fact": "Walmart has controlled Flipkart since 2018 and is reported to own more than 80%. Both founders have sold out, though the holding company moved back to India in 2026.",
+      "src": [11, 18, 17, 14, 2]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "In our community a person with a salaried job is less valued than someone who runs their own business.",
+      "who": "Sachin Bansal, to The Economic Times (2010)",
+      "src": [0]
+    },
+    {
+      "text": "We did not live up to the promises we made and for that we are really and truly sorry.",
+      "who": "Sachin and Binny Bansal, email to customers after Big Billion Day (2014)",
+      "src": [24, 7]
+    },
+    {
+      "text": "Binny is very organised, while I am impulse driven.",
+      "who": "Sachin Bansal, to The Economic Times (2013)",
+      "src": [5]
+    },
+    {
+      "text": "Look at the top level around you. Everyone has changed. In fact, even I am gone.",
+      "who": "Sachin Bansal at a Flipkart town hall, as reported by Business Today (2016)",
+      "src": [25, 9]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Build for how India actually pays",
+      "detail": "In 2010 few Indians trusted paying online. Flipkart took cash at the doorstep in 25 cities and sales took off. Find the habit that stops your customer from buying, and design around it."
+    },
+    {
+      "title": "Raise when you can, not when you must",
+      "detail": "Waiting for a better valuation in 2012 forced a down round and six months of no growth. If good money is offered and you need it, take it."
+    },
+    {
+      "title": "Pick a co-founder who is different from you",
+      "detail": "Sachin was 'impulse driven'; Binny was organised and data-minded. They split vision and operations. Look for a partner who covers your weak side, not a copy of you."
+    },
+    {
+      "title": "Say sorry fast, and mean it",
+      "detail": "After the 2014 sale crash the founders emailed every buyer with what went wrong and a promise to fix it. Customers forgive mistakes faster than silence."
+    },
+    {
+      "title": "Know who really controls your company",
+      "detail": "By 2017 investors had installed their own CEO, and in 2018 the founder who set the vision was cut out of the sale. Before each funding round, understand how much say you are giving away."
+    }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "The Economic Times: Flipkart, country's largest online bookstore (Jun 2010)", "url": "https://economictimes.indiatimes.com/news/news-by-industry/et-cetera/Flipkart-Countrys-largest-online-bookstore/articleshow/6108317.cms" },
+    { "label": "Business Today: How 2 IITians created a $20 bn company from handing out bookmarks (May 2018)", "url": "https://www.businesstoday.in/latest/economy-politics/story/flipkart-walmart-deal-how-two-iitians-created-usd-20-billion-company-distributing-bookmarks-outside-bookstores-107420-2018-05-09" },
+    { "label": "NDTV Profit (PTI): When Sachin Bansal had to return his Amazon referral bonus (May 2018)", "url": "https://www.ndtv.com/business/when-flipkart-co-founder-sachin-bansal-had-to-return-amazon-employee-recommendation-bonus-1850216" },
+    { "label": "The Tribune, Chandigarh: IIT-JEE results for the city's students (30 May 2000)", "url": "https://www.tribuneindia.com/2000/20000530/cth1.htm" },
+    { "label": "The Economic Times: Sachin Bansal profile (Sep 2015)", "url": "https://economictimes.indiatimes.com/one-should-always-have-a-co-founder-to-share-stress-and-success-of-a-venture/articleshow/48756344.cms" },
+    { "label": "The Economic Times: 'Do not start alone, find a co-founder', interview with Sachin Bansal (Aug 2013)", "url": "https://economictimes.indiatimes.com/opinion/interviews/do-not-start-alone-find-a-co-founder-sachin-bansal-flipkart/articleshow/21719426.cms" },
+    { "label": "Entrepreneur India: 'I was close to shutting down Flipkart in 2012', Sachin Bansal at India Internet Day (2016)", "url": "https://india.entrepreneur.com/en-in/entrepreneurs/i-was-close-to-shutting-down-flipkart-in-2012/275669" },
+    { "label": "Business Standard: Flipkart co-founders apologise for glitches (Oct 2014)", "url": "https://www.business-standard.com/article/companies/flipkart-co-founders-apologise-for-glitches-114100701229_1.html" },
+    { "label": "Mint: Sachin Bansal, from outsized Flipkart presence to outcast (May 2018)", "url": "https://www.livemint.com/Companies/7TpoCOdT6RSoRlVVeZyptJ/Sachin-Bansals-changing-fortunes-From-outsized-Flipkart-pr.html" },
+    { "label": "Business Standard: Shyamal Majumdar, Learn to admit mistakes (Aug 2016)", "url": "https://www.business-standard.com/amp/article/opinion/shyamal-majumdar-learn-to-admit-mistakes-116082501280_1.html" },
+    { "label": "The Economic Times: Kalyan Krishnamurthy to be Flipkart's new CEO (Jan 2017)", "url": "https://economictimes.indiatimes.com/small-biz/startups/former-tiger-global-executive-kalyan-krishnamurthy-to-be-flipkarts-new-ceo/articleshow/56424429.cms" },
+    { "label": "Walmart press release: Walmart to invest in Flipkart Group (9 May 2018)", "url": "https://corporate.walmart.com/news/2018/05/09/walmart-to-invest-in-flipkart-group-indias-innovative-ecommerce-company" },
+    { "label": "CNN Business: Flipkart CEO Binny Bansal resigns after 'personal misconduct' investigation (Nov 2018)", "url": "https://edition.cnn.com/2018/11/13/tech/flipkart-binny-bansal-resigns" },
+    { "label": "The Quint: Binny Bansal resigns, with Walmart's statement and his email (Nov 2018)", "url": "https://www.thequint.com/news/business/binny-bansal-resigns-as-flipkart-ceo-over-personal-misconduct-allegations" },
+    { "label": "TechCrunch: Flipkart co-founder Binny Bansal leaves board (Jan 2024)", "url": "https://techcrunch.com/2024/01/26/flipkart-co-founder-binny-bansal-leaves-board/" },
+    { "label": "The Hindu: Flipkart buys out Myntra (May 2014)", "url": "https://www.thehindu.com/business/Industry/flipkart-buys-out-myntra-for-300-m/article6037600.ece" },
+    { "label": "Forbes India: Mukesh Bansal, the eternal entrepreneur (Apr 2016)", "url": "https://www.forbesindia.com/article/big-bet/mukesh-bansal-the-eternal-entrepreneur/42889/1" },
+    { "label": "The Star (Reuters): Walmart's Flipkart shifts base to India as it prepares for IPO (Mar 2026)", "url": "https://www.thestar.com.my/tech/tech-news/2026/03/09/walmart039s-flipkart-shifts-base-to-india-as-it-prepares-for-ipo" },
+    { "label": "Z-Connect by Zerodha (news): Flipkart defers IPO as Walmart pushes profitability first (May 2026)", "url": "https://zerodha.com/z-connect/news/flipkart-defers-ipo-as-walmart-pushes-profitability-first-strategy" },
+    { "label": "BW Retail World: Flipkart revenue rises 18% in FY26, net loss at ₹8,468 crore (RoC filings, 2026)", "url": "https://bwretailworld.com/sector/e-commerce-marketplaces/flipkart-revenue-rises-18-in-fy26-net-loss-at-rs-8468-cro" },
+    { "label": "Inc42: Flipkart Group FY26, revenue nears ₹1.5 lakh crore, loss narrows to ₹8,468 crore (2026)", "url": "https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-₹1-5-lakh-cr-loss-narrows-to-₹8468-cr/" },
+    { "label": "Kotak Neo: Navi targets ₹3,000 crore IPO filing by March 2027 (2026)", "url": "https://www.kotakneo.com/news/stocks/navi-3000-crore-ipo-sebi-filing-march-2027-prosus-funding-sachin-bansal/" },
+    { "label": "Inc42: Navi's solo run ends, on the $100 million Prosus deal and FY26 results (Aug 2026)", "url": "https://inc42.com/features/navis-solo-run-ends/" },
+    { "label": "CNBC Next List: Sachin Bansal and Binny Bansal (Oct 2014)", "url": "https://www.cnbc.com/2014/10/06/sachin-bansal-binny-bansal.html" },
+    { "label": "Inc42: 'We are really and truly sorry', full text of the Big Billion Day apology email (Oct 2014)", "url": "https://inc42.com/buzz/flipkart-sorry/" },
+    { "label": "Business Today: Sachin Bansal says he was removed as CEO because of performance (Aug 2016)", "url": "https://www.businesstoday.in/current/corporate/sachin-bansal-was-removed-from-post-because-of-performance/story/236372.html" },
+    { "label": "The Tribune (PTI): Really sad to see Sachin leave Flipkart, says co-founder Binny (May 2018)", "url": "https://www.tribuneindia.com/news/archive/business/really-sad-to-see-sachin-leave-flipkart-says-co-founder-binny-587264" },
+    { "label": "The Quint: Sachin Bansal says goodbye to Flipkart in emotional Facebook post (May 2018)", "url": "https://www.thequint.com/tech-and-auto/tech-news/sachin-bansal-says-goodbye-to-flipkart-in-emotional-facebook-post" }
+  ],
+  "factCheck": {
+    "method": "Researched from 28 sources, favouring words from the time: a 2000 Tribune report quoting Sachin on his JEE ranks, a 2010 Economic Times profile and 2013 interview, the full 2014 apology email (as printed by Inc42), Walmart's own 2018 deal release and its 2018 statement on Binny Bansal (as printed in full by The Quint), and 2026 RoC-based financials (Inc42 and BW Retail World). Then independently re-checked claim by claim against the cited source plus a second source; quotes were matched to the original wording (two were corrected), and the photos were checked on Wikimedia Commons for author, licence, subject and date. Where a site blocked automated reading (Business Standard, CNBC, NDTV, NewsBytes), we relied on another outlet carrying the same report and cite it alongside. Claims about Sachin's conduct in 2015–16 come from Mint's reporting with unnamed executives and are attributed as such. Binny Bansal's 2018 exit is described only in the words of Walmart's statement and his own email; unconfirmed anonymous details are left out. None of the three films has creator-published chapters, so there are no video moments.",
+    "disputed": [
+      { "claim": "Founding month", "note": "Most accounts say October 2007 (Wikipedia gives 22 October); a 2015 Economic Times profile says September 2007." },
+      { "claim": "The first order", "note": "Business Today places VVK Chandra's order for 'Leaving Microsoft to Change the World' in late October 2007. Binny Bansal told The Economic Times in 2010 that 'the first real order came nearly four months after the launch'." },
+      { "claim": "IIT years", "note": "The Tribune reported Sachin Bansal of Chandigarh at all-India rank 49 in May 2000, and the Economic Times says he graduated in 2005. That fits only if he took a course longer than four years or graduated late; we could not confirm which." },
+      { "claim": "Accel's first cheque", "note": "Reported as about ₹4 crore in mid-2009 (Economic Times, 2010) and as $1 million in 2009 (Business Today); these are roughly the same amount at the time." },
+      { "claim": "Sachin's exit payout", "note": "PTI reported he sold his 5.5% stake for about $1 billion; Mint said 5.5–6% and estimated $1–1.5 billion." },
+      { "claim": "Binny Bansal's resignation", "note": "Walmart said an independent investigation 'did not find evidence to corroborate the complainant's assertions' but found 'lapses in judgement, particularly a lack of transparency'. Binny strongly denied the allegation. Other details reported from anonymous sources are not included." },
+      { "claim": "Latest valuation", "note": "Reuters puts Flipkart's 2024 valuation at about $37 billion; other reports say $36 billion." },
+      { "claim": "Walmart's current stake", "note": "Walmart bought about 77% in 2018. A May 2026 report says it now owns over 80%; other reports say around 70%." },
+      { "claim": "FY2026 group revenue", "note": "Inc42 gives revenue from operations of ₹1.45 lakh crore (up 18.2% from ₹1.23 lakh crore). BW Retail World gives ₹1.46 lakh crore, but that matches the total income it reports (₹1,46,700 crore, which includes other income), so we use Inc42's figure. Both report the same ₹8,468 crore net loss." },
+      { "claim": "IPO deferral", "note": "The May 2026 deferral was first reported by Moneycontrol and repeated by others; Flipkart and Walmart had not confirmed it publicly in the sources we read. We found no report of Flipkart filing draft IPO papers by October 2026." },
+      { "claim": "Navi's FY2026 results", "note": "Inc42 reports a consolidated net loss of ₹466 crore for FY2026, up from ₹126 crore, though Navi says it returned to profit in January–March 2026. Kotak Neo reports a ₹292 crore profit on ₹2,461 crore revenue, which matches other reports of the lending arm, Navi Finserv, not the whole group. Some reports put group income at ₹3,091 crore; we could not confirm it in a source we could read." },
+      { "claim": "Navi's outside funding", "note": "Inc42 calls the August 2026 Prosus deal Navi's first big external funding round and says earlier planned investments from IFC (about $30 million) and Gaja Capital ($20 million) did not go through. The $1.3 billion valuation comes from media reports, not from the company." },
+      { "claim": "Myntra deal price", "note": "Neither company disclosed the price. Analysts put it at over $300 million (The Hindu); earlier reports said about ₹2,000 crore." },
+      { "claim": "When they left Amazon", "note": "The Economic Times (2010) says Sachin quit Amazon after about a year and that Binny worked there for eight months; neither founder's exact leaving date is in the sources we read." }
+    ]
+  }
+}

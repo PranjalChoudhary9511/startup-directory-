@@ -1,0 +1,185 @@
+{
+  "slug": "kenko-health",
+  "name": "Kenko Health",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Health subscriptions / insurtech",
+  "founded": 2019,
+  "died": 2024,
+  "status": "insolvent",
+  "brandColor": "#e8443a",
+  "founders": [
+    { "name": "Aniruddha Sen", "role": "Co-founder" },
+    { "name": "Dhiraj Goel", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Ran out of cash waiting for a licence.",
+  "oneLiner": "Monthly health plans from ₹299 that paid for doctor visits, tests and medicines, which most Indian health insurance does not cover.",
+  "causeOfDeath": "It bet everything on getting an insurance licence. While it waited, a big round fell through, investors split, and the money ran out.",
+
+  "raisedUsdM": 16.4,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: $1.7 M pre-Series A (2021) and $12 M Series A (2022), reported in dollars, plus a ₹12 crore bridge from existing investors (Jan–Feb 2024, about $1.45 M at ₹83/$) and ₹10 crore of debentures from BlackSoil (Sep 2023, about $1.2 M at ₹83/$). No valuation was published. FY23 revenue of ₹85 crore is about $10.6 M at roughly ₹80/$. No sale: it entered insolvency in December 2024.",
+  "moneySrc": [3, 2, 5],
+
+  "inOneMinute": [
+    "Kenko sold monthly health plans from ₹299 that paid for doctor visits and medicines. Revenue grew **17x to ₹85 crore** in FY23.",
+    "To become a real insurer it needed an **IRDAI licence**. While it waited, a ₹220 crore round fell through and investors fought over a new backer.",
+    "In June 2024 it **ran out of money**. A lender took it to insolvency court over an alleged **₹5.65 crore** default. The licence never came."
+  ],
+  "killerLine": "If your business needs a regulator's yes, **plan to survive their no, or their silence.**",
+
+  "numbers": [
+    { "value": "17x", "label": "revenue growth in one year, from about ₹5 crore (FY22) to ₹85 crore (FY23)", "src": [2] },
+    { "value": "₹220 cr", "label": "Series B that was close to signing in June 2023, then never closed", "src": [2] },
+    { "value": "2 years", "label": "the founders say they spent chasing an insurance licence from IRDAI", "src": [4, 1] },
+    { "value": "₹5.65 cr", "label": "alleged debt default that sent the company to insolvency court", "src": [5] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Most Indian health insurance pays for hospital stays. The everyday stuff, like doctor visits, blood tests and medicines (called OPD, or outpatient care), usually comes out of your own pocket. Aniruddha Sen and Dhiraj Goel, who had decades of insurance experience between them, started Kenko in 2019 to fix that. It sold **monthly health subscriptions**: from ₹299 a month for a young single person to ₹1,999 for a family of four. Kenko was **not a licensed insurer**. It paid many benefits itself and worked with licensed insurers for the rest, a set-up Inc42 called a \"quasi-insurance\" model. \"IRDAI approves insurance companies. We're much more than that,\" Sen said in 2022. IRDAI is India's insurance regulator.",
+      "src": [3, 2, 7, 0]
+    },
+    {
+      "title": "The rise",
+      "body": "Investors liked it. Beenext and Orios led a $1.7 million round in August 2021. In February 2022 **Sequoia India led a $12 million Series A**. Kenko said it had served 50,000+ users in 40+ cities, and Sen told The Ken it was adding about 10,000 subscribers a month, mostly through employers buying plans for staff. In May 2022 it registered **Kenko General Insurance Limited**, aiming to become a full insurer. Revenue jumped from about ₹5 crore in FY22 to **₹85 crore in FY23**. By June 2023 it was close to raising nearly ₹220 crore (over $27 million) in a Series B from HealthQuad, B Capital and Bertelsmann. It looked like Kenko was about to become one of India's new health insurers.",
+      "src": [3, 8, 2]
+    },
+    {
+      "title": "The cracks",
+      "body": "Behind the growth, the loss nearly tripled to **₹68 crore** in FY23. Insurance costs (₹42 crore), benefit payouts (₹37 crore) and staff (₹35 crore) together came to **more than its entire revenue**. Then the Series B never closed. In August 2023 Kenko switched to chasing domestic investors, because IRDAI had reportedly signalled that an Indian lead investor was the easiest route to a licence, which needs ₹100–200 crore of capital. That meant **walking away from the foreign funds**. It cut over 20% of staff, borrowed ₹10 crore from BlackSoil and took a ₹12 crore bridge from existing backers. A family office showed interest, but three of five big shareholders reportedly opposed the deal over dilution (their stakes shrinking).",
+      "src": [2, 5]
+    },
+    {
+      "title": "The fall",
+      "body": "On 28 June 2024 Sen emailed employees that **\"the company has run out of funds, and we were unable to infuse equity capital in time.\"** Its Bengaluru and Mumbai offices closed. Customers had alleged that OPD reimbursements were being held back, and laid-off staff complained of unpaid dues; Kenko did not respond to those claims. In October 2024 BlackSoil, through its trustee, asked the NCLT (the tribunal for company debts) to start insolvency over an alleged **₹5.65 crore default**. The tribunal admitted the case on 17 December 2024. Meanwhile Sen publicly blamed IRDAI. He said the founders spent **two years chasing a licence**, met the requirements, and were never told they would be refused. IRDAI has not publicly answered his claims.",
+      "src": [0, 2, 5, 6, 1, 4]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2019", "event": "Aniruddha Sen and Dhiraj Goel found Kenko Health.", "kind": "start", "src": [0, 3] },
+    { "date": "Aug 2021", "event": "Raises a $1.7 M pre-Series A led by Beenext and Orios.", "kind": "money", "src": [3] },
+    { "date": "Feb 2022", "event": "Raises a $12 M Series A led by Sequoia India; claims 50,000+ users.", "kind": "money", "src": [3] },
+    { "date": "FY23", "event": "Revenue hits ₹85 crore, up 17x, but the loss nearly triples to ₹68 crore.", "kind": "peak", "src": [2] },
+    { "date": "Jun 2023", "event": "A ₹220 crore Series B with HealthQuad, B Capital and Bertelsmann fails to close.", "kind": "crisis", "src": [2] },
+    { "date": "Aug 2023", "event": "Switches to domestic investors to help win a licence; lays off over 20% of staff.", "kind": "warning", "src": [2] },
+    { "date": "Jan–Feb 2024", "event": "Existing investors put in a ₹12 crore bridge round.", "kind": "money", "src": [2] },
+    { "date": "Jun 2024", "event": "Founder tells staff the company has run out of funds; investors are deadlocked over a new backer.", "kind": "end", "src": [0, 2] },
+    { "date": "Oct 2024", "event": "BlackSoil, via Axis Trustee, files for insolvency at NCLT Mumbai over an alleged ₹5.65 crore default.", "kind": "crisis", "src": [5, 6] },
+    { "date": "Nov 2024", "event": "Sen publicly blames IRDAI for a two-year licence chase that 'destroyed' the company.", "kind": "after", "src": [1, 4] },
+    { "date": "Dec 2024", "event": "NCLT admits the case; insolvency process begins.", "kind": "after", "src": [5, 6] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY22", "FY23"],
+      "series": [
+        { "name": "Revenue", "values": [5, 85] },
+        { "name": "Net loss", "values": [24, 68] }
+      ],
+      "takeaway": "Revenue grew 17x, but the loss still grew almost 3x. Growth was being bought, not earned.",
+      "src": [2]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Aug 2021", "round": "Pre-Series A", "amountUsdM": 1.7, "valuationUsdM": null, "investors": ["Beenext", "Orios Venture Partners"], "src": [3] },
+    { "date": "Feb 2022", "round": "Series A", "amountUsdM": 12, "valuationUsdM": null, "investors": ["Sequoia Capital India", "Beenext", "Orios Venture Partners", "9Unicorns", "Waveform Ventures"], "src": [3] },
+    { "date": "Jan–Feb 2024", "round": "Bridge (₹12 crore)", "amountUsdM": 1.45, "valuationUsdM": null, "investors": ["Existing investors"], "src": [2] }
+  ],
+
+  "causes": [
+    { "key": "regulation", "weight": 40 },
+    { "key": "unit-economics", "weight": 25 },
+    { "key": "funding-dried", "weight": 20 },
+    { "key": "governance", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Betting the whole company on one approval",
+      "explain": "For about a year before it shut, the IRDAI licence was Kenko's **single focus**. But a licence is a decision you cannot control or speed up, and a rejected applicant may wait **two to five years** to reapply. Kenko had no Plan B that kept the business alive if the answer was slow, or no.",
+      "src": [1, 2]
+    },
+    {
+      "title": "Walking away from real money for a 'better' investor",
+      "explain": "In June 2023 a ₹220 crore round from well-known funds was close. It never closed, and Kenko then chose to chase domestic investors because that looked like the easier road to a licence. No domestic deal closed in time. Meanwhile it **borrowed ₹10 crore**, and that debt is what later dragged it into court. **A deal in hand beats a perfect deal in theory.**",
+      "src": [2, 5]
+    },
+    {
+      "title": "Paying out more than it took in",
+      "explain": "In FY23 insurance costs, benefit payouts and staff together cost about **₹114 crore against ₹85 crore of revenue**. A health plan priced at ₹299 a month only works if payouts stay below what members pay. Kenko's growth meant **more members, and more losses**.",
+      "src": [2]
+    },
+    {
+      "title": "Letting the cap table turn into a stand-off",
+      "explain": "The family-office deal would have moved shareholders into the new insurance company and, by one unverified account, handed the newcomer up to 75%. **Three of five big shareholders reportedly opposed it.** With investors split, nobody would put in the money. **A company can die of a disagreement** even when everyone means well.",
+      "src": [2]
+    },
+    {
+      "title": "Growing a quasi-insurance product in a grey zone",
+      "explain": "Kenko took monthly payments for health benefits without being an insurer, relying on partner insurers. That kept it legal but fragile. When cash got tight, **customers alleged reimbursements were held back**; Kenko did not respond. With health money, **customers feel the pain first**.",
+      "src": [7, 2]
+    }
+  ],
+
+  "warningSigns": [
+    "Does your business only work if a regulator approves something you don't have yet?",
+    "Are your payouts plus salaries bigger than your revenue?",
+    "Have you turned down or let slip real money while waiting for a 'better' investor?",
+    "Do your investors disagree about the company's next big move?",
+    "Are customer claims or refunds taking longer to pay than they did last quarter?",
+    "Have you taken a loan that must be repaid before your next big milestone?"
+  ],
+
+  "lessons": [
+    { "title": "Treat a licence like a round that may never close", "detail": "Set a date. If the approval hasn't come by then, switch to a version of the business that works without it. Hope is not a timeline." },
+    { "title": "Take the money that is on the table", "detail": "If a good investor is ready to sign, close the deal first and optimise later. Rounds that slip in a downturn rarely come back." },
+    { "title": "In insurance-like businesses, payouts are your product cost", "detail": "Work out your expected claims per member before setting the price. If ₹299 a month cannot cover the average claim, no amount of growth will fix it." },
+    { "title": "Get investors aligned before the big move", "detail": "Talk to every major shareholder privately before a restructure. A plan that three of five investors hate is not a plan." },
+    { "title": "Pay customers' claims before anything else", "detail": "People who prepay you for health cover are trusting you with emergencies. Missing their claims destroys trust faster than any regulator can." }
+  ],
+
+  "quote": {
+    "text": "They destroyed my company, my livelihood, and the hopes of everyone involved.",
+    "who": "Aniruddha Sen, co-founder",
+    "context": "In a November 2024 LinkedIn post blaming IRDAI for the collapse. IRDAI has not publicly responded.",
+    "src": [4]
+  },
+
+  "afterlife": {
+    "text": "On 17 December 2024 the NCLT Mumbai bench admitted BlackSoil's insolvency petition and appointed Hemanshu Kapadia as interim resolution professional (the person who takes control and tries to recover money for creditors). As of November 2026 we found no public record of how that process ended. Sen said he would later share details about a family office he blamed for the company's undoing; we found no such follow-up.",
+    "src": [5, 6, 1]
+  },
+
+  "sources": [
+    { "label": "Inc42: Peak XV, BEENEXT-backed Kenko Health shuts ops due to cash crunch (Aug 2024)", "url": "https://inc42.com/buzz/kenko-health-shuts-ops-due-to-cash-crunch-failure-to-get-insurance-licence" },
+    { "label": "Inc42: Kenko Health founder blames IRDAI for company's downfall (Nov 2024)", "url": "https://inc42.com/buzz/kenko-health-founder-irdai-insurance-shutdown" },
+    { "label": "Inc42: Kenko Health in Catch-22, investor deadlock puts insurtech startup on thin ice (Jun 2024)", "url": "https://inc42.com/features/kenko-health-investor-deadlock-insurtech-startup-shut-down" },
+    { "label": "Inc42: Sequoia leads $12 Mn Series A in Kenko Health (Feb 2022)", "url": "https://inc42.com/buzz/sequoia-leads-12-mn-series-a-in-health-insurance-startup-kenko-health" },
+    { "label": "StartupTalky: Kenko Health co-founder claims regulatory obstacles caused the firm to fail (Nov 2024)", "url": "https://startuptalky.com/news/kenko-health-regulatory-obstacles-failure/" },
+    { "label": "Insolvency Tracker: Insolvency proceedings begin against Sequoia-funded Redkenko Health Tech (Dec 2024)", "url": "https://insolvencytracker.in/2024/12/19/insolvency-proceedings-begin-against-sequoia-funded-redkenko-health-tech/" },
+    { "label": "NCLT Mumbai order, Redkenko Health Tech Pvt Ltd, CP(IB) 749/2024 (17 Dec 2024), via IBBI", "url": "https://ibbi.gov.in/uploads/order/919b3783e00956be5e38e61671f38058.pdf" },
+    { "label": "Business Today: New-age healthcare start-ups are disrupting the insurance space (Aug 2022)", "url": "https://www.businesstoday.in/magazine/financial-planning/story/new-age-healthcare-start-ups-are-disrupting-the-insurance-space-heres-how-344796-2022-08-17" },
+    { "label": "The Ken: Bite-sized health insurance (Mar 2022)", "url": "https://the-ken.com/story/bite-sized-health-insurance/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "IRDAI sent Kenko on a 'wild goose chase', and officials told the founders they 'don't fit the profile' of promoters.", "note": "As of November 2026 this is the founder's own account, from his LinkedIn post. We found no public response from IRDAI, and no IRDAI order rejecting Kenko's application or penalising the company." },
+      { "claim": "The family-office deal would have given the new investor up to 75% of the company, and Hero Group had issued a term sheet.", "note": "The 75% figure came from one source Inc42 could not verify; the Hero Group term sheet was an ET report Inc42 also could not verify." },
+      { "claim": "Kenko withheld customers' OPD reimbursements and staff salaries.", "note": "Reported as allegations by customers and ex-employees (Inc42, June 2024). Kenko did not respond. No court finding." },
+      { "claim": "User numbers: 50,000+ users and 10,000 new subscribers a month.", "note": "Company claims in early 2022, not independently verified." },
+      { "claim": "Headquarters and shutdown date.", "note": "Funding-era reports call Kenko Bengaluru-based; 2024 reports and the NCLT Mumbai case point to Mumbai. One insolvency report says it shut 'early 2024'; the founder's email to staff was dated 28 June 2024 and the shutdown was reported in August 2024." }
+    ]
+  }
+}

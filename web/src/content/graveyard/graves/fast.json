@@ -1,0 +1,168 @@
+{
+  "slug": "fast",
+  "name": "Fast",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Fintech (online checkout)",
+  "founded": 2019,
+  "died": 2022,
+  "status": "shut-down",
+  "brandColor": "#6e3cf5",
+  "founders": [
+    { "name": "Domm Holland", "role": "Co-founder and CEO" },
+    { "name": "Allison Barr Allen", "role": "Co-founder and COO (ex-Uber)" },
+    { "name": "Joshua Abulafia", "role": "Co-founder (pushed out about a year in)" }
+  ],
+  "epitaph": "Checked out in one click. Took $124 million with it.",
+  "oneLiner": "A button that let shoppers buy on any website in one click, without typing their card or address again.",
+  "causeOfDeath": "It spent reportedly up to $10 million a month while earning about $600,000 in a whole year, so no investor would fund the next round.",
+  "raisedUsdM": 124.5,
+  "peakValuationUsdM": 580,
+  "endValueUsdM": 0,
+  "moneyNote": "Raised: $124.5M total (Crunchbase, via TechCrunch). Peak: about $580M post-money after the Jan 2021 round (PitchBook, via TechCrunch). End: shut down with no sale.",
+  "moneySrc": [1, 4],
+  "inOneMinute": [
+    "Fast raised **$124.5 million** to build one-click checkout for every online shop. Stripe, the payments giant, led its rounds.",
+    "In 2021 it earned about **$600,000**, while reportedly burning up to $10 million a month on staff, marketing and events.",
+    "When it tried to raise at a $1 billion valuation in 2022, nobody bit. It **shut down in April 2022**, three years after starting."
+  ],
+  "killerLine": "Hiring and hype are easy to buy. **Customers who actually use you** are not, and they are the only thing investors finally pay for.",
+  "numbers": [
+    { "value": "$124.5M", "label": "raised in under three years", "src": [1] },
+    { "value": "~$600K", "label": "total revenue in 2021", "src": [0, 3] },
+    { "value": "up to $10M", "label": "reported burn every month", "src": [1] },
+    { "value": "$1M", "label": "to book The Chainsmokers for one company event", "src": [0] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: one click, everywhere",
+      "body": "Think about how annoying it is to buy from a new website. You type your name, address, card number, OTP. Many people give up halfway. Shops call this cart abandonment, and it costs them a lot. Amazon solved it for itself with one-click buying. Fast wanted to do it for **the entire internet**. Save your details once with Fast, and on any shop using Fast, you buy with one tap. CEO Domm Holland called it \"one-click checkout for the entire internet.\" It was a smart, real problem. Holland, an Australian founder, started Fast in 2019 with Allison Barr Allen, a former Uber executive. Stripe, one of the world's biggest payment companies, liked it enough to **lead its first big funding rounds**.",
+      "src": [0, 2, 4]
+    },
+    {
+      "title": "The rise: money first, customers later",
+      "body": "Fast raised a $20 million Series A (first big round) in March 2020, led by Stripe. Its checkout product launched only in September 2020. Four months later, in January 2021, it raised **$102 million more**, led by Stripe and Addition. Total funding: about $124.5 million, at a valuation of about $580 million. The team grew from 2 founders at the start of 2020 to 90 people by January 2021, with a plan to cross 200 by the end of the year. Fast spent on buzz too: sports team deals, and **$1 million** to book the band The Chainsmokers for a single event. Holland called himself \"the fastest CEO in the world.\" The spending was built for a company that already had millions of customers. It did not.",
+      "src": [0, 1, 2, 4]
+    },
+    {
+      "title": "The cracks: the button nobody pressed",
+      "body": "A checkout button only makes money when people press it. Fast needed two things at once: shops that installed it, and shoppers who had already saved their details with Fast. That is a **chicken-and-egg problem**, and Fast never broke it. NPR's investigation found the product was \"spotty at best\", and even the big merchants Fast showed off did not use it on all their products. Rivals like Apple Pay, PayPal, Shop Pay and Bolt were already in shoppers' phones. In all of 2021, Fast earned about **$600,000**. Meanwhile it was reportedly burning up to $10 million every month. One former employee told NPR it felt like \"how quickly can we set money on fire?\"",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "The fall: the round that never came",
+      "body": "In early 2022, Fast tried to raise money at a **$1 billion valuation**. According to The Information, it failed, even after cutting that target in half. The mood in tech investing was also cooling, and online shopping was slowing down after the COVID boom. On 28 March 2022, Fast still announced a new deal with The Honest Company. One week later, on 5 April 2022, it said it was shutting down. The checkout stopped working on 15 April. Employees' stock options became **worth nothing**. Holland wrote that sometimes trailblazers do not reach the top. The payments company Affirm offered jobs to most of Fast's engineers. Three years and about $124.5 million after it began, Fast was gone.",
+      "src": [0, 1, 3]
+    }
+  ],
+  "timeline": [
+    { "date": "Oct 2019", "event": "Fast raises a $2.5 million pre-seed round.", "kind": "start", "src": [4] },
+    { "date": "Mar 2020", "event": "Raises a $20 million Series A, led by Stripe.", "kind": "money", "src": [3, 4] },
+    { "date": "Sep 2020", "event": "Fast Checkout, the main product, launches.", "kind": "start", "src": [4] },
+    { "date": "Jan 2021", "event": "Raises $102 million led by Stripe and Addition, at about a $580 million valuation. Team: 90 people.", "kind": "peak", "src": [1, 2, 4] },
+    { "date": "2021", "event": "Full-year revenue comes to about $600,000.", "kind": "warning", "src": [0, 3] },
+    { "date": "Jan 2022", "event": "A $1 million Chainsmokers event at a retail conference is booked, then delayed by Omicron.", "kind": "warning", "src": [0] },
+    { "date": "Early 2022", "event": "Tries to raise at a $1 billion valuation; fails even after halving the target, per The Information.", "kind": "crisis", "src": [3] },
+    { "date": "5 Apr 2022", "event": "Fast announces it is shutting down.", "kind": "end", "src": [0, 1] },
+    { "date": "15 Apr 2022", "event": "The checkout product stops working.", "kind": "end", "src": [3] },
+    { "date": "Apr 2022", "event": "Affirm offers jobs to the \"vast majority\" of Fast's engineers.", "kind": "after", "src": [0] }
+  ],
+  "charts": [],
+  "rounds": [
+    { "date": "Oct 2019", "round": "Pre-seed", "amountUsdM": 2.5, "valuationUsdM": null, "investors": [], "src": [4] },
+    { "date": "Mar 2020", "round": "Series A", "amountUsdM": 20, "valuationUsdM": null, "investors": ["Stripe", "Index Ventures", "Susa Ventures"], "src": [3, 4] },
+    { "date": "Jan 2021", "round": "Series B", "amountUsdM": 102, "valuationUsdM": 580, "investors": ["Stripe", "Addition", "Index Ventures", "Susa Ventures", "Sugar Capital", "Jaren Glover"], "src": [1, 2, 4] }
+  ],
+  "causes": [
+    { "key": "burn", "weight": 45 },
+    { "key": "no-market", "weight": 25 },
+    { "key": "competition", "weight": 15 },
+    { "key": "funding-dried", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Spent like a giant before earning like one",
+      "explain": "Fast reportedly burned up to **$10 million a month** while earning about $600,000 in all of 2021. That means its yearly spending could be around 200 times its yearly revenue. The team went from 2 people to 90 in a year, with plans for 200+. Big salaries and events are fixed costs. **Revenue was not fixed at all.**",
+      "src": [0, 1, 4, 5]
+    },
+    {
+      "title": "Never solved the chicken-and-egg",
+      "explain": "One-click checkout needs shops to install it **and** shoppers who already have an account. Each side waits for the other. Fast needed a way to win one side first, like one huge retailer. Instead, even its showcase merchants did not use it on all products, and NPR found the product \"spotty at best\". **Without usage, there is no revenue.**",
+      "src": [0, 1]
+    },
+    {
+      "title": "Bought buzz instead of proof",
+      "explain": "Sports sponsorships and **$1 million for a Chainsmokers show** made Fast famous in tech circles. But fame among investors is not the same as shoppers pressing your button. Every rupee or dollar spent on hype is a rupee not spent on making the product work for the merchants you already have.",
+      "src": [0]
+    },
+    {
+      "title": "Fought giants on their home ground",
+      "explain": "Shoppers already had Apple Pay, PayPal and Shop Pay saved on their phones. Bolt was chasing the same idea. Fast's edge was speed, but rivals were **already installed where people shop**. A small startup can beat giants, but usually by picking a corner they ignore, not by going head-on everywhere at once.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Planned the next round at a dream price",
+      "explain": "In 2022 Fast tried to raise at **$1 billion**, almost double its last valuation, with tiny revenue. It failed even after halving the ask. With money running out fast, there was **no time to fix things**. When your survival depends on one big round, a single 'no' from the market can end the company.",
+      "src": [3]
+    }
+  ],
+  "warningSigns": [
+    "Is your monthly spending bigger than your yearly revenue?",
+    "Do your 'showcase' customers rarely use your product, beyond letting you put their logo on your website?",
+    "Are you hiring for the company you hope to be next year, rather than for the work in front of you this month?",
+    "Are you trying to win every type of customer at once, with no single group you are clearly winning first?",
+    "Are you spending on events, sponsorships or swag before you have a repeatable way to get paying users?",
+    "Does your next funding round need a valuation that your real numbers cannot justify?"
+  ],
+  "lessons": [
+    {
+      "title": "Tie hiring to revenue, not to funding",
+      "detail": "A simple rule: do not add a new hire until there is real work (and ideally real revenue) that needs them. Fast raised $102 million and grew the team fast. When revenue did not follow, payroll became a weight it could not carry."
+    },
+    {
+      "title": "For two-sided products, win one side first",
+      "detail": "If you need both sellers and buyers (like a checkout, a marketplace or a delivery app), start with one small, dense group: one city, one category, one big partner. Make it work there completely before you spread out."
+    },
+    {
+      "title": "Measure usage, not installs",
+      "detail": "A shop installing your button, or a user downloading your app, means little. Track how many times people actually use it every week. That is the number that turns into money and that serious investors will ask about."
+    },
+    {
+      "title": "Spend on product before publicity",
+      "detail": "Before you pay for a launch party, an influencer or a sponsorship, ask: will this get us more real, repeat users than the same money spent on fixing the product? For an early startup the answer is almost always no."
+    },
+    {
+      "title": "Raise when you do not need to",
+      "detail": "Plan your next round with at least 12 months of cash left, and price it on your real numbers. A founder with runway can walk away from a bad deal. A founder with two months of cash cannot."
+    }
+  ],
+  "quote": {
+    "text": "Sometimes trailblazers don't make it all the way to the mountain top.",
+    "who": "Domm Holland, co-founder and CEO of Fast",
+    "context": "In his statement announcing Fast's shutdown, April 2022",
+    "src": [0]
+  },
+  "afterlife": {
+    "text": "Fast's checkout stopped working on 15 April 2022 and the brand was discontinued. Employees' stock options became worthless. The payments company Affirm offered jobs to the \"vast majority\" of Fast's engineers. The one-click checkout race carried on without it: rivals such as Bolt and big players like Apple Pay, PayPal and Shop Pay kept competing for the same button. The problem Fast chose was real. It was the spending and the pace that failed.",
+    "src": [0, 1, 3]
+  },
+  "sources": [
+    { "label": "NPR via Connecticut Public: Fast shuts down after burning through investors' money (Apr 2022)", "url": "https://www.ctpublic.org/2022-04-05/fast-the-easy-checkout-startup-shuts-down-after-burning-through-investors-money" },
+    { "label": "TechCrunch: Fast shuts doors after slow growth, high burn precluded fundraising options (Apr 2022)", "url": "https://techcrunch.com/2022/04/05/fast-shuts-doors-after-slow-growth-high-burn-precluded-fundraising-options/" },
+    { "label": "CNBC: Stripe leads $102 million funding for checkout startup Fast (Jan 2021)", "url": "https://www.cnbc.com/2021/01/26/stripe-leads-102-million-funding-for-checkout-start-up-fast-.html" },
+    { "label": "Global Venturing: Fast hits the wall (Apr 2022)", "url": "https://globalventuring.com/corporate/fast-hits-the-wall/" },
+    { "label": "Fast press release: $102 million Series B (PR Newswire, Jan 2021)", "url": "https://prnewswire.com/news-releases/fast-announces-102-million-in-series-b-funding-fueling-rapid-adoption-of-one-click-checkout-across-the-internet-301215036.html" },
+    { "label": "Fintech Business Weekly (Linas Beliūnas): Lessons from the failure of Stripe-backed Fast (Apr 2022)", "url": "https://linas.substack.com/p/fastlessons" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Fast was burning $10 million a month.", "note": "Reported by TechCrunch as 'as high as $10 million per month', based on other reporting. Fast never published its burn, so we always say 'reportedly up to'." },
+      { "claim": "Fast's valuation after the Jan 2021 round.", "note": "PitchBook (via TechCrunch) says about $580M post-money; Global Venturing says $500M. We use $580M." },
+      { "claim": "Fast had 400–500+ employees at its peak.", "note": "Repeated in secondary write-ups, but we did not find it in a primary report we could read. The confirmed figure is 90 staff in Jan 2021 with a plan for 200+." },
+      { "claim": "Fast planned to lay off more than half its staff before closing.", "note": "Reported by The Information and repeated by Business Insider; we could not read the original, so it is left out of the story." },
+      { "claim": "Domm Holland's previous towing startup in Australia hurt small businesses.", "note": "NPR reports some small towing operators say they collectively lost millions when Tow.com.au was liquidated in 2018 after a billing dispute with a state government. These are claims by the operators, not court findings. Not part of Fast's own failure, so kept out of the story." }
+    ]
+  }
+}

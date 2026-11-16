@@ -1,0 +1,433 @@
+{
+  "name": "Michael Bloomberg",
+  "title": "The Fired Partner Who Wired Wall Street",
+  "subtitle": "How a dairy bookkeeper's son who worked in a parking lot through college was fired at 39, built the screen finance runs on, ran New York City for 12 years, and pledged his company to charity.",
+  "hook": "Michael Bloomberg got through college on a government loan and a job in a parking lot. Soon after graduating from Johns Hopkins, he gave the university his first donation: ==$5==. \"It was all I could afford,\" he later wrote. At 39 he was fired from the only full-time job he had ever known, and he started his own company the morning after his last day. In 2018 he gave Johns Hopkins ==$1.8 billion== so it could admit students without regard to what their families could pay. In 2024 he gave another ==$1 billion==, which made medical school free for most of its students.",
+  "hookSrc": [6, 7, 0, 5, 17, 8, 9, 16],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Mike_Bloomberg_Headshot.jpg/960px-Mike_Bloomberg_Headshot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Bloomberg_Headshot.jpg",
+    "caption": "Mike Bloomberg, in a headshot released by Bloomberg Philanthropies.",
+    "author": "Bloomberg Philanthropies",
+    "license": "CC0",
+    "year": 2015
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Michael_Bloomberg_in_1960_Blue_and_White.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Bloomberg_in_1960_Blue_and_White.jpg",
+      "caption": "Michael Bloomberg in the 1960 Blue and White, the yearbook of Medford High School.",
+      "author": "Medford High School",
+      "license": "Public domain",
+      "year": 1960
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Michael_Bloomberg_in_1964_Hullabaloo.jpg/960px-Michael_Bloomberg_in_1964_Hullabaloo.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Bloomberg_in_1964_Hullabaloo.jpg",
+      "caption": "Michael Bloomberg in the 1964 Hullabaloo, the yearbook of Johns Hopkins University.",
+      "author": "Johns Hopkins University",
+      "license": "Public domain",
+      "year": 1964
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vintage_Bloomberg_terminal_at_the_Museum_of_the_City_of_New_York.jpg/960px-Vintage_Bloomberg_terminal_at_the_Museum_of_the_City_of_New_York.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Vintage_Bloomberg_terminal_at_the_Museum_of_the_City_of_New_York.jpg",
+      "caption": "A vintage Bloomberg terminal on display at the Museum of the City of New York.",
+      "author": "Paul Lowry",
+      "license": "CC BY 4.0",
+      "year": 2025
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bloomberg_Terminal_and_keyboard.JPG/960px-Bloomberg_Terminal_and_keyboard.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Bloomberg_Terminal_and_keyboard.JPG",
+      "caption": "The customised hardware and software setup of a Bloomberg Terminal.",
+      "author": "Gforsythe",
+      "license": "CC0",
+      "year": 2014
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/New_York_City_Mayor_Michael_Bloomberg_speaks_at_ceremony_%286130408025%29.jpg/960px-New_York_City_Mayor_Michael_Bloomberg_speaks_at_ceremony_%286130408025%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:New_York_City_Mayor_Michael_Bloomberg_speaks_at_ceremony_(6130408025).jpg",
+      "caption": "Mayor Bloomberg speaks at the ceremonial closing of the Fresh Kills Landfill on Staten Island on 15 July 2002. Debris from the World Trade Center site was taken and sorted there.",
+      "author": "U.S. Army Corps of Engineers",
+      "license": "Public domain",
+      "year": 2002
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bloomberg_Tower.jpg/960px-Bloomberg_Tower.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bloomberg_Tower.jpg",
+      "caption": "Bloomberg Tower, seen from Lexington Avenue in Midtown Manhattan.",
+      "author": "Kidfly182",
+      "license": "CC BY-SA 4.0",
+      "year": 2021
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Michael_Bloomberg_COP21_2015-12-05.jpg/960px-Michael_Bloomberg_COP21_2015-12-05.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Bloomberg_COP21_2015-12-05.jpg",
+      "caption": "Michael Bloomberg at the 2015 United Nations Climate Change Conference.",
+      "author": "UNclimatechange from Bonn, Germany",
+      "license": "CC BY 2.0",
+      "year": 2015
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/President_Joe_Biden_presents_the_Medal_of_Freedom_to_Mayor_Michael_Bloomberg.jpg/960px-President_Joe_Biden_presents_the_Medal_of_Freedom_to_Mayor_Michael_Bloomberg.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:President_Joe_Biden_presents_the_Medal_of_Freedom_to_Mayor_Michael_Bloomberg.jpg",
+      "caption": "President Joe Biden presents the Medal of Freedom to Michael Bloomberg, 2024.",
+      "author": "The Biden White House",
+      "license": "Public domain",
+      "year": 2024
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "14 February 1942, Boston, Massachusetts",
+      "src": [0]
+    },
+    {
+      "label": "Grew up",
+      "value": "Medford, a suburb of Boston. His father was a dairy bookkeeper who never made more than $6,000 a year. His mother, a 1929 New York University graduate, had worked at the same dairy before she married.",
+      "src": [0, 6, 10]
+    },
+    {
+      "label": "Education",
+      "value": "Medford High School; BS in electrical engineering, Johns Hopkins University (1964); MBA, Harvard Business School (1966)",
+      "src": [2, 10, 12]
+    },
+    {
+      "label": "First jobs",
+      "value": "As a boy he shovelled snow, cut lawns and sold Christmas wreaths door to door to pay for summer camp. Then an electronics company in Cambridge, a parking lot at college, and in 1966 an entry-level clerk's job at Salomon Brothers for $9,000 a year.",
+      "src": [10, 7, 11]
+    },
+    {
+      "label": "First company (age)",
+      "value": "He started it on 1 October 1981, when he was 39, with three co-founders. It was first called Innovative Market Systems and was renamed Bloomberg L.P. in 1986.",
+      "src": [9, 12, 10, 11]
+    },
+    {
+      "label": "Main company today",
+      "value": "Bloomberg L.P., which is privately held. Forbes estimates he owns 88% and that revenue is nearly $15 billion a year. More than 300,000 finance professionals use its terminals, at $30,000 or more a year. Vlad Kliatchko has been CEO since 2023.",
+      "src": [13, 14, 11]
+    },
+    {
+      "label": "Source of wealth",
+      "value": "Bloomberg L.P. Forbes put him at $94.9 billion and No. 20 in the world on 2 November 2026. The Bloomberg Billionaires Index leaves him out, because Bloomberg News has a policy of not covering its own company.",
+      "src": [13, 15]
+    },
+    {
+      "label": "Known for",
+      "value": "The Bloomberg Terminal, three terms as mayor of New York City (2002 to 2013), and giving away $25.4 billion so far, including $4.3 billion in 2025. He has committed to donating his stake in the company to Bloomberg Philanthropies.",
+      "src": [2, 3, 13, 36]
+    },
+    {
+      "label": "Family",
+      "value": "Two daughters, Emma and Georgina. His partner since 2000 is Diana Taylor, a former New York State banking superintendent.",
+      "src": [36, 37]
+    },
+    {
+      "label": "Lives in",
+      "value": "New York City, USA",
+      "src": [13]
+    }
+  ],
+  "contact": {
+    "howToReach": "We found no public inbox for Mike Bloomberg himself and no page where he says he reads messages, so every route below belongs to one of his organisations. If you are a founder, the closest door is Bloomberg Beta, the early-stage fund backed only by Bloomberg L.P.: it focuses on the future of work, says it would much rather meet you through someone you both know, and values a working demo far above slides. Bloomberg Philanthropies has a contact form, but it says grant proposals are by invitation only and it does not fund individuals, so asking for personal money will not work; watch its website for open grant competitions instead. If you are a student, the realistic routes are Bloomberg's early-careers pages and its Bloomberg for Education courses, because the phone lines serve customers and general enquiries and the press inboxes are for accredited media and real news releases. Whatever you send, write it yourself and keep it under five lines: who you are, the one thing you built or measured, and the one clear thing you are asking for.",
+    "channels": [
+      {
+        "kind": "phone",
+        "label": "Head office line, general non-media enquiries (Americas)",
+        "value": "+1 212 318 2000",
+        "url": "tel:+12123182000",
+        "whose": "Bloomberg L.P.",
+        "src": [18, 19]
+      },
+      {
+        "kind": "phone",
+        "label": "General non-media enquiries (Asia Pacific)",
+        "value": "+65 6212 1000",
+        "url": "tel:+6562121000",
+        "whose": "Bloomberg L.P.",
+        "src": [18, 19]
+      },
+      {
+        "kind": "phone",
+        "label": "Customer support, India (Mumbai)",
+        "value": "+91 22 5090 3600",
+        "url": "tel:+912250903600",
+        "whose": "Bloomberg L.P.",
+        "src": [19, 20]
+      },
+      {
+        "kind": "address",
+        "label": "Head office",
+        "value": "731 Lexington Avenue, New York, NY 10022, United States",
+        "url": null,
+        "whose": "Bloomberg L.P.",
+        "src": [21, 23]
+      },
+      {
+        "kind": "address",
+        "label": "Registered office, India",
+        "value": "16th Floor, Tower 2B, One World Center, 841 Jupiter Mill Compound, Senapati Bapat Marg, Elphinstone, Mumbai 400013, India",
+        "url": null,
+        "whose": "Bloomberg Data Services (India) Private Limited",
+        "src": [22]
+      },
+      {
+        "kind": "email",
+        "label": "Press, communications team (accredited media only)",
+        "value": "inquiry1@bloomberg.net",
+        "url": "mailto:inquiry1@bloomberg.net",
+        "whose": "Bloomberg L.P.",
+        "src": [18]
+      },
+      {
+        "kind": "email",
+        "label": "Press releases, Asia newsroom inbox",
+        "value": "tokyonews@bloomberg.net",
+        "url": "mailto:tokyonews@bloomberg.net",
+        "whose": "Bloomberg News",
+        "src": [18, 24]
+      },
+      {
+        "kind": "form",
+        "label": "Contact form",
+        "value": "https://www.bloomberg.org/about/contact/",
+        "url": "https://www.bloomberg.org/about/contact/",
+        "whose": "Bloomberg Philanthropies",
+        "src": [4]
+      },
+      {
+        "kind": "phone",
+        "label": "Foundation office",
+        "value": "+1 212-205-0100",
+        "url": "tel:+12122050100",
+        "whose": "Bloomberg Philanthropies",
+        "src": [4]
+      },
+      {
+        "kind": "email",
+        "label": "Press (members of the media)",
+        "value": "communications@bloomberg.org",
+        "url": "mailto:communications@bloomberg.org",
+        "whose": "Bloomberg Philanthropies",
+        "src": [4]
+      },
+      {
+        "kind": "address",
+        "label": "Foundation office",
+        "value": "25 East 78th Street, New York, NY 10075, United States",
+        "url": null,
+        "whose": "Bloomberg Philanthropies",
+        "src": [4]
+      },
+      {
+        "kind": "website",
+        "label": "Official personal website",
+        "value": "https://www.mikebloomberg.com/",
+        "url": "https://www.mikebloomberg.com/",
+        "whose": "Mike Bloomberg",
+        "src": [1, 31]
+      },
+      {
+        "kind": "website",
+        "label": "Operating manual for founders: how the fund invests and how to approach it",
+        "value": "https://github.com/Bloomberg-Beta/Manual",
+        "url": "https://github.com/Bloomberg-Beta/Manual",
+        "whose": "Bloomberg Beta",
+        "src": [25, 26, 27]
+      },
+      {
+        "kind": "website",
+        "label": "Students and early careers: programmes, internships, graduate jobs",
+        "value": "https://www.bloomberg.com/company/early-careers/",
+        "url": "https://www.bloomberg.com/company/early-careers/",
+        "whose": "Bloomberg L.P.",
+        "src": [28]
+      },
+      {
+        "kind": "website",
+        "label": "Bloomberg for Education: certificate courses for students",
+        "value": "https://portal.bloombergforeducation.com/",
+        "url": "https://portal.bloombergforeducation.com/",
+        "whose": "Bloomberg L.P.",
+        "src": [29, 30]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "x",
+        "handle": "@MikeBloomberg",
+        "url": "https://x.com/MikeBloomberg",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 31]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "mikebloomberg",
+        "url": "https://www.linkedin.com/in/mikebloomberg/",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 31, 33]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@mikebloomberg",
+        "url": "https://www.instagram.com/mikebloomberg/",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 31]
+      },
+      {
+        "platform": "facebook",
+        "handle": "mikebloomberg",
+        "url": "https://www.facebook.com/mikebloomberg",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 31]
+      },
+      {
+        "platform": "threads",
+        "handle": "@mikebloomberg",
+        "url": "https://www.threads.com/@mikebloomberg",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 32]
+      },
+      {
+        "platform": "youtube",
+        "handle": "Mike Bloomberg",
+        "url": "https://www.youtube.com/user/mikebloomberg",
+        "whose": "Mike Bloomberg (personal, listed on his Bloomberg Philanthropies biography)",
+        "src": [2, 31]
+      },
+      {
+        "platform": "x",
+        "handle": "@BloombergDotOrg",
+        "url": "https://x.com/BloombergDotOrg",
+        "whose": "Bloomberg Philanthropies (foundation)",
+        "src": [31]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@bloombergdotorg",
+        "url": "https://www.instagram.com/bloombergdotorg/",
+        "whose": "Bloomberg Philanthropies (foundation)",
+        "src": [31]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "bloomberg-philanthropies",
+        "url": "https://www.linkedin.com/company/bloomberg-philanthropies/",
+        "whose": "Bloomberg Philanthropies (foundation)",
+        "src": [31]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "bloomberg",
+        "url": "https://www.linkedin.com/company/bloomberg",
+        "whose": "Bloomberg L.P. (company)",
+        "src": [33, 35]
+      },
+      {
+        "platform": "x",
+        "handle": "@business",
+        "url": "https://x.com/business",
+        "whose": "Bloomberg News (company)",
+        "src": [34]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@bloombergbusiness",
+        "url": "https://www.instagram.com/bloombergbusiness/",
+        "whose": "Bloomberg News (company)",
+        "src": [34]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Contact details come only from pages the organisations publish themselves: Bloomberg's press-contacts, support and terms-of-service pages, Bloomberg Philanthropies' contact page, Bloomberg Beta's own manual, plus the public GLEIF company registry for registered addresses. Social accounts come from the list on his Bloomberg Philanthropies biography and the links in his own YouTube channel's video descriptions; we did not check for verification badges on each platform. Life facts come first from his own words (the first chapter of Bloomberg by Bloomberg, his New York Times writing and his personal website), checked against Forbes, Fortune, CNN, Semafor, Inc. and the Horatio Alger Association. The New York Times excerpt could only be read in part, so the passage giving 30 September 1981 as his last day rests on a verbatim excerpt at OnTheIssues. Directory and data-broker listings were leads only, and staff direct lines and named personal emails found on some Bloomberg pages were left out on purpose. Every photo's author, licence and description came from the Wikimedia Commons API; the portrait, two yearbook photos and the vintage terminal were opened and viewed, the others rest on Commons metadata.",
+    "disputed": [
+      {
+        "claim": "The date he was fired from Salomon Brothers.",
+        "note": "Both dates are his own and they fit together. His book says he was told and terminated on Saturday 1 August 1981, and that his last day of work was 30 September 1981. He started the company the next morning. Fortune's \"the very next morning\" after the firing compresses those two months. We date the company from 1 October 1981."
+      },
+      {
+        "claim": "The year of his first $5 donation to Johns Hopkins.",
+        "note": "Bloomberg Philanthropies and Johns Hopkins's Hub say 1964, the year he graduated. His own 2018 New York Times essay says the year after he graduated, and CNN says 1965. The hook says \"soon after graduating\"."
+      },
+      {
+        "claim": "His Johns Hopkins degree subject.",
+        "note": "His Bloomberg Philanthropies biography and the Horatio Alger Association say electrical engineering. Johns Hopkins's Hub (2018) says civil engineering. We use his own organisation's biography."
+      },
+      {
+        "claim": "When the company began.",
+        "note": "His book says he started it the morning after his last day, so 1 October 1981, and his own sites and Forbes's current profile say 1981. Encyclopedia.com says he created Innovative Market Systems in March 1982, and a 2009 Forbes piece says the firm was founded in 1982. The later date may reflect the formal company rather than the first day of work. We use his own account."
+      },
+      {
+        "claim": "The name of his first company.",
+        "note": "Fortune (2025) writes Innovative Market Solutions. CNN and the Horatio Alger Association write Innovative Market Systems, which we use."
+      },
+      {
+        "claim": "How much money started the company.",
+        "note": "Fortune and CNN say his $10 million from Salomon funded it. His book describes the $10 million as cash and convertible bonds from his partnership stake. The Horatio Alger Association says he launched with $300,000, and a secondary report cites $4 million from his book. Not used on this card; the chapter writers should check the book directly."
+      },
+      {
+        "claim": "How many terminals Merrill Lynch first bought.",
+        "note": "The Horatio Alger Association says 22 and one secondary site says 20. Not used on this card."
+      },
+      {
+        "claim": "His net worth.",
+        "note": "Forbes gave $109 billion in March 2026 and showed $94.9 billion on its real-time profile on 2 November 2026. Semafor's July 2026 story repeats the earlier figure. Bloomberg L.P. is private, so every figure is an estimate. We use the latest Forbes figure and date it."
+      },
+      {
+        "claim": "Size of the company and its terminal base.",
+        "note": "His sites give some 25,000 staff in 120 countries and some 26,000 in over 150 countries, and Fortune says offices in nearly 70 countries. Semafor says more than 300,000 terminal users, and other reports say about 350,000. No audited figure exists. We use Semafor's cautious wording."
+      },
+      {
+        "claim": "Whether he has an official Threads account.",
+        "note": "One third-party handle tracker says no official Threads account was found. His Bloomberg Philanthropies biography lists Threads @MikeBloomberg and the profile is active, so we list it."
+      },
+      {
+        "claim": "Bloomberg's India support number.",
+        "note": "Bloomberg's current support pages give +91 22 5090 3600. An older Bloomberg remote-assistance page still shows +91-22-5633-9000. We use the current support pages."
+      }
+    ]
+  },
+  "sources": [
+    { "label": "Mike Bloomberg, official website: About (Mike's Story)", "url": "https://www.mikebloomberg.com/about/" },
+    { "label": "Mike Bloomberg, official website: home page", "url": "https://www.mikebloomberg.com/" },
+    { "label": "Bloomberg Philanthropies: biography of Michael R. Bloomberg", "url": "https://www.bloomberg.org/team/michael-bloomberg/" },
+    { "label": "Bloomberg Philanthropies: About Us", "url": "https://www.bloomberg.org/about/" },
+    { "label": "Bloomberg Philanthropies: Contact Us", "url": "https://www.bloomberg.org/about/contact/" },
+    { "label": "Bloomberg Philanthropies: Johns Hopkins University", "url": "https://www.bloomberg.org/founders-projects/johns-hopkins-university/" },
+    { "label": "Michael Bloomberg, \"Why I'm Giving $1.8 Billion for College Financial Aid\", The New York Times, 18 November 2018", "url": "https://www.nytimes.com/2018/11/18/opinion/bloomberg-college-donation-financial-aid.html" },
+    { "label": "\"Michael Bloomberg on How to Succeed in Business\", The New York Times, 1 February 2017", "url": "https://www.nytimes.com/2017/02/01/education/edlife/mike-bloomberg-salomon-brothers.html" },
+    { "label": "Michael Bloomberg, Bloomberg by Bloomberg, chapter one (John Wiley & Sons), hosted by The New York Times", "url": "https://www.nytimes.com/books/first/b/bloomberg-bloomberg.html" },
+    { "label": "OnTheIssues: verbatim excerpts from chapter 1 of Bloomberg by Bloomberg", "url": "https://ontheissues.org/Archive/Bloomberg_by_Bloomberg_Mike_Bloomberg.htm" },
+    { "label": "Horatio Alger Association: Michael R. Bloomberg, Class of 2011", "url": "https://horatioalger.org/members/detail/michael-r-bloomberg/" },
+    { "label": "Fortune: \"Billionaire Mike Bloomberg was fired after dedicating 15 years of his career to Salomon Brothers\", 23 September 2025", "url": "https://fortune.com/2025/09/23/billionaire-mike-bloomberg-fired-salomon-brothers-job-entrepreneurship-business-media-tech-empire/" },
+    { "label": "CNN Business: \"How Michael Bloomberg became the richest man in media\", 8 November 2019", "url": "https://www.cnn.com/2019/11/08/business/bloomberg-wealth" },
+    { "label": "Forbes: Michael Bloomberg profile, real-time net worth as of 2 November 2026", "url": "https://www.forbes.com/profile/michael-bloomberg/" },
+    { "label": "Semafor: \"Bloomberg's post-Mike moves are in motion\", 28 July 2026", "url": "https://www.semafor.com/article/07/28/2026/bloombergs-post-mike-moves-are-in-motion" },
+    { "label": "Inc.: \"Michael Bloomberg Isn't on the Bloomberg Billionaires Index\", 6 October 2026", "url": "https://www.inc.com/victoria-salves/michael-bloomberg-isnt-on-bloomberg-billionaires-index-where-would-he-rank/91414611" },
+    { "label": "AP via CNBC: \"Thanks to a $1 billion gift, most Johns Hopkins medical students will no longer pay tuition\", 8 July 2024", "url": "https://www.cnbc.com/2024/07/08/thanks-to-a-1-billion-gift-most-johns-hopkins-medical-students-will-no-longer-pay-tuition.html" },
+    { "label": "Johns Hopkins Hub: \"Johns Hopkins 'truly blessed' by Bloomberg's half-century legacy of support\", 26 November 2018", "url": "https://hub.jhu.edu/2018/11/26/bloomberg-hopkins-legacy-of-support/" },
+    { "label": "Bloomberg L.P.: Press contacts", "url": "https://www.bloomberg.com/company/press-contacts/" },
+    { "label": "Bloomberg Professional Services: 24/7 support contact numbers", "url": "https://professional.bloomberg.com/support/customer-support/contact-numbers/" },
+    { "label": "Bloomberg Service Center: global customer support numbers", "url": "https://service.bloomberg.com/contact" },
+    { "label": "Bloomberg: Terms of Service (Electronic Commerce Information section)", "url": "https://www.bloomberg.com/notices/tos/" },
+    { "label": "GLEIF registry: Bloomberg Data Services (India) Private Limited, LEI 335800MFMB9QPE6VSN31", "url": "https://api.gleif.org/api/v1/lei-records/335800MFMB9QPE6VSN31" },
+    { "label": "GLEIF registry: Bloomberg L.P., LEI 549300B56MD0ZC402L06", "url": "https://api.gleif.org/api/v1/lei-records/549300B56MD0ZC402L06" },
+    { "label": "Bloomberg Help Center: Where can I submit a press release to Bloomberg News?", "url": "https://www.bloomberg.com/help/question/can-submit-press-release-bloomberg-news/" },
+    { "label": "Bloomberg Beta on GitHub: Manual repository and home page", "url": "https://github.com/Bloomberg-Beta/Manual" },
+    { "label": "Bloomberg Beta on GitHub: operating manual, including \"How to reach out\"", "url": "https://github.com/Bloomberg-Beta/Manual/blob/main/1%20-%20Manual.md" },
+    { "label": "Bloomberg L.P.: Bloomberg Beta", "url": "https://www.bloomberg.com/company/values/tech-at-bloomberg/bloomberg-beta/" },
+    { "label": "Bloomberg L.P.: Early careers", "url": "https://www.bloomberg.com/company/early-careers/" },
+    { "label": "Bloomberg Professional Services: Certificate Courses", "url": "https://professional.bloomberg.com/products/bloomberg-terminal/education/certificate-courses/" },
+    { "label": "Bloomberg for Education portal", "url": "https://portal.bloombergforeducation.com/" },
+    { "label": "Mike Bloomberg's YouTube channel: \"What to Focus on at the Beginning of Your Career\", video description with official links", "url": "https://www.youtube.com/watch?v=7jqvJZKuH7I" },
+    { "label": "Mike Bloomberg on Threads (the profile itself)", "url": "https://www.threads.com/@mikebloomberg" },
+    { "label": "Michael Bloomberg on LinkedIn (the profile itself)", "url": "https://www.linkedin.com/in/mikebloomberg/" },
+    { "label": "Bloomberg Podcasts on YouTube: video description with official Bloomberg links", "url": "https://www.youtube.com/watch?v=f39oHo6vFLg" },
+    { "label": "Bloomberg on LinkedIn (the company page itself)", "url": "https://www.linkedin.com/company/bloomberg" },
+    { "label": "Business Insider: \"Who is Michael Bloomberg? Bio, age, family, and key positions\", 2 March 2020", "url": "https://www.businessinsider.com/who-is-michael-bloomberg-bio-age-family-and-key-positions-2019-11" },
+    { "label": "ABC News: \"Michael Bloomberg: Everything you need to know about the 2020 presidential candidate\", 4 March 2020", "url": "https://abcnews.com/Politics/michael-bloomberg-2020-presidential-candidate/story?id=61137437" }
+  ]
+}

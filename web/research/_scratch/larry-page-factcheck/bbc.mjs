@@ -1,0 +1,1 @@
+const r=await fetch("https://www.bbc.com/news/science-environment-17827347",{headers:{"user-agent":"firstrupee-books-check/1.0 (education)"}});const t=(await r.text()).replace(/<script[\s\S]*?<\/script>/gi," ").replace(/<[^>]+>/g," ").replace(/\s+/g," ");const i=t.indexOf("James Cameron");console.log(t.slice(Math.max(0,i-500),i+500));

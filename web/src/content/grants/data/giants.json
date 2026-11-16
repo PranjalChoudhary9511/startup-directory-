@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Tesla",
+    "person": "Elon Musk",
+    "year": 2010,
+    "amount": "US$465 million government loan",
+    "program": "US Department of Energy, Advanced Technology Vehicles Manufacturing (ATVM) Loan Program",
+    "story": "In January 2010 the US Department of Energy lent Tesla $465 million to build the all-electric Model S and turn a shut-down car plant in Fremont, California into a factory for batteries, motors and powertrains. Tesla paid the loan back in full in May 2013, years ahead of schedule.",
+    "lesson": "Government money can be a loan, not a gift, and paying it back early turns it into a badge of credibility.",
+    "source": {
+      "label": "US Department of Energy – Tesla project summary",
+      "url": "https://www.energy.gov/edf/tesla"
+    }
+  },
+  {
+    "name": "SpaceX",
+    "person": "Elon Musk",
+    "year": 2006,
+    "amount": "About US$278 million in milestone payments",
+    "program": "NASA Commercial Orbital Transportation Services (COTS) Space Act Agreement",
+    "story": "In 2006 NASA signed a Space Act Agreement with SpaceX under its COTS programme, committing about $278 million to develop and demonstrate cargo delivery to the International Space Station. NASA paid only when SpaceX hit agreed milestones, which helped fund the Falcon 9 rocket and Dragon spacecraft.",
+    "lesson": "Milestone-based public funding rewards results, so plan your project around proof points you can actually hit.",
+    "source": {
+      "label": "NASA – Space Act Agreement with SpaceX for COTS (PDF)",
+      "url": "https://www.nasa.gov/centers/johnson/pdf/189228main_setc_nnj06ta26a.pdf"
+    }
+  },
+  {
+    "name": "Airbnb",
+    "person": "Brian Chesky, Joe Gebbia, Nathan Blecharczyk",
+    "year": 2009,
+    "amount": "US$20,000 for 6%",
+    "program": "Y Combinator (Winter 2009 batch)",
+    "story": "After being turned down by investors, Airbnb's founders funded themselves by selling novelty cereal boxes, which convinced Paul Graham to accept them into Y Combinator. They received $20,000 in seed money for a 6% stake and joined the batch starting in January 2009.",
+    "lesson": "A tiny first cheque matters less than proving you can make something happen with almost nothing.",
+    "source": {
+      "label": "WIRED – Airbnb's Surprising Path to Y Combinator (2017)",
+      "url": "https://www.wired.com/2017/02/airbnbs-surprising-path-to-y-combinator/"
+    }
+  },
+  {
+    "name": "OYO",
+    "person": "Ritesh Agarwal",
+    "year": 2013,
+    "amount": "US$100,000 grant over two years",
+    "program": "Thiel Fellowship (Thiel Foundation)",
+    "story": "In May 2013, 19-year-old Ritesh Agarwal from India was named one of that year's Thiel Fellows, receiving $100,000 over two years plus mentoring to build affordable accommodation, starting in India. At the time he was running Oravel and OYO Inns, which grew into OYO.",
+    "lesson": "No-equity fellowships can back a young founder early, before the business is obvious to anyone else.",
+    "source": {
+      "label": "Business Standard (IANS) – Two Indians among 20 Under 20 Thiel Fellows (2013)",
+      "url": "https://www.business-standard.com/article/news-ians/two-indians-among-20-under-20-thiel-fellows-113051100117_1.html"
+    }
+  },
+  {
+    "name": "Ather Energy",
+    "person": "Tarun Mehta, Swapnil Jain",
+    "year": 2014,
+    "amount": "₹45 lakh (from the Technology Development Board, IIT Madras and an angel, as equity)",
+    "program": "Technology Development Board (Department of Science and Technology, Government of India), via IIT Madras incubation",
+    "story": "Incubated at IIT Madras, Ather Energy received ₹45 lakh in February 2014 from the government's Technology Development Board, IIT Madras and Aerospike founder Srini V Srinivasan, taken as equity. Within about a year it raised $1 million from Flipkart's founders and then $12 million from Tiger Global.",
+    "lesson": "A small first cheque from a government body or incubator can unlock much bigger private investors.",
+    "source": {
+      "label": "The Hindu – Now, a scooter that is smart and connected (2015)",
+      "url": "https://www.thehindu.com/sci-tech/technology/now-a-scooter-that-is-smart-and-connected/article7834328.ece"
+    }
+  },
+  {
+    "name": "Molbio Diagnostics (Truenat)",
+    "person": "Chandrasekhar Nair, Sriram Natarajan",
+    "year": 2005,
+    "amount": "Government R&D funding (amount not published in source)",
+    "program": "CSIR New Millennium Indian Technology Leadership Initiative (NMITLI), Government of India",
+    "story": "In 2005 Bigtec Labs, the Bengaluru team that built the prototype of the Truenat portable TB test, received funding from CSIR's NMITLI programme while based at IISc's Entrepreneurship Centre. Bigtec later joined Molbio Diagnostics, which in 2022 raised $85 million from Temasek at a reported $1.5 billion enterprise value, reportedly India's first medical-devices unicorn.",
+    "lesson": "Deep-tech products can take well over a decade, and early public R&D money can carry them through the years private investors won't.",
+    "source": {
+      "label": "Apothecurry (Gauri Kamath) – In conversation with Molbio's founders (2022)",
+      "url": "https://apothecurry.wordpress.com/2022/10/04/the-point-of-care-bet-in-conversation-with-molbios-founders/"
+    }
+  }
+]

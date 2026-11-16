@@ -1,0 +1,235 @@
+ 
+ Microsoft's MS-DOS is 30 today 
+ Jump to main content 
+ Search 
+ TOPICS
+ Security 
+ All Security 
+ Cyber-crime 
+ Patches 
+ Research 
+ CSO 
+ Off-Prem 
+ All Off-Prem 
+ Edge and IoT 
+ Channel 
+ PaaS and IaaS 
+ SaaS 
+ On-Prem 
+ All On-Prem 
+ Systems 
+ Storage 
+ Networks 
+ HPC 
+ Personal Tech 
+ Cx0 
+ Public Sector 
+ Software 
+ All Software 
+ AI and ML 
+ Applications 
+ Databases 
+ DevOps 
+ OS Platforms 
+ Virtualization 
+ Offbeat 
+ All Offbeat 
+ Columnists 
+ Anthropic 
+ BOFH 
+ Legal 
+ Site News 
+ About Us 
+ Special Features 
+ All Special Features 
+ Supercomputing Month 2026 
+ Nvidia GTC Berlin 2026 
+ Cybersecurity Month 2026 
+ VMware Explore 2026 
+ Cloud Infrastructure Month 2026 
+ HPE: AI Explainers 
+ Agentic AI 
+ The Future of the Datacenter 
+ AWS:Reinvent 
+ Nvidia GTC 
+ Computex 2026 
+ AI Infrastructure Month 2026 
+ The State of Storage 2026 
+ RSA Conference 
+ Vendor Voice 
+ All Vendor Voice 
+ Modernizing Financial Services with FIS and AWS 
+ Barco 
+ Infinidat 
+ Everpure 
+ Rubrik 
+ Make it real with Capgemini and AWS 
+ Money Movement Hub 
+ ZTE 
+ Nutanix: Scale Kubernetes. Not Chaos. 
+ AWS New Horizon 
+ Digicert 
+ Netscout 
+ Resources 
+ Intelligence 
+ Webinars & Events 
+ Newsletters 
+ Search 
+ Sign in 
+ AI 
+ Security 
+ Software 
+ Microsoft 
+ Developer 
+ Open Source 
+ BOFH 
+ Who, Me? 
+ On Call 
+ Anthropic 
+ REG AD 
+ Software 
+ Microsoft's MS-DOS is 30 today
+ Kudos to QDOS
+ Tony Smith 
+ Tony 
+ Smith 
+ Published 
+ wed 27 Jul 2011 // 07:00 UTC 
+ Make us preferred on Google 
+ MS-DOS is 30 years old today. Well, kind of. On 27 July 1981, Microsoft gave the name MS-DOS to the disk operating system it acquired on that day from Seattle Computer Products (SCP), a hardware company owned and run by a fellow called Rod Brock.
+ SCP developed what it at various times called QDOS and 86-DOS to run on a CPU card it had built based on Intel's 8086 processor.
+ Command line: MS-DOS 1.19 still running after all these years 
+ The company had planned to use Digital Research's CP/M-86 operating system, then still in development. But, having released the card in November 1979 - it shipped with an 8086-compatible version Microsoft's Basic language interpreter-cum-operating system - and reached April 1980 without CP/M-86 becoming available to bundle, SCP decided it had to create its own OS for the card.
+ REG AD 
+ Enter, in August 1980, QDOS. It really did stand for Quick and Dirty Operating System. That's actually what it was: a basic but serviceable OS good for coding and running programs written in 8086 assembly language - the x86 instruction set. It was written by SCP's Tim Paterson, who had joined the company as a programmer a couple of years previously and began work on it in April 1980.
+ REG AD 
+ Some observers later claimed that QDOS too closely resembled CP/M for comfort. Paterson himself would later say that QDOS' design criteria specifically included the abililty to support programs written for CP/M and compiled for the 8086. That's not at all surprising given that SCP undoubtedly saw QDOS as a temporary stand in until Digital Research (DR) shipped CP/M-86.
+ On the cards: Seattle Computer Products advertises its wares 
+ The picture we have today is muddied by the claims that IBM originally wanted to use CP/M-86 in its first personal computer. IBM and DR famously failed to come to terms that would allow CP/M-86 to be bundled with the PC, and IBM turned to Microsoft for an alternative. Digital Research founder Gary Kildall, who died in 1994, would later allege that Microsoft's product was a rip off, fuelling plagiarism claims that Paterson has always denied - he reverse engineered it.
+ Update My fellow Reg hack Andrew Orlowski points out that, no matter what Paterson says, the US court ruled against the programmer in a defamation lawsuit he brought against publisher Little Brown for claiming the origins of QDOS were not clear-cut.
+ Back in 1980, Paterson continued to evolve QDOS through the year, the OS being renamed 86-DOS - it was now evidently no longer viewed as a rough-and-ready stand-in - between September and December 1980. Accounts differ as to when the name - and the OS' status - was switched, but December is the date Paterson himself gave during a Softtalk interview published just a few years later.
+ The competition: CP/M-86 in action
+Source: Wikipedia 
+ Wikipedia 
+ 'Hi, it's Microsoft. Say, can we license your OS?'
+ It's at this point that Microsoft re-enters the picture, acquiring from SCP a licence to market and sell 86-DOS, paying $25,000 for the privilege. Microsoft was now working with IBM in place of DR - the two had been partners since November 1980 - to supply the operating system for the hardware giant's first personal computer, but it kept IBM's identity hidden from SCP and Paterson until it acquired the OS in its entirety the following year.
+ "We all had our suspicions that it was IBM that Microsoft was dealing with," Paterson would later say, "but we didn't know for sure."
+ Microsoft had been in contact with SCP ever since the latter asked to use its Basic, so it would have been aware of SCP's work on QDOS, the operating system's design goals and its convenient compatibility with CP/M-86. Microsoft would have seen how closely QDOS matched the product it had been commissioned to supply to IBM, and its ties with SCP would have helped it gain that initial re-distribution licence.
+ REG AD 
+ You can read a copy of the 86-DOS Programmer's Manual (PDF) here .
+ By July 1981, Microsoft had sufficient understanding of IBM's plans - and the vision to conceive of what the personal computer market might become - to consider not merely licensing 86-DOS but buying it outright from SCP, for a further $50,000 - $75,000 in total, $180,000 (£112,000) in today's money. SCP was allowed to continue to offer the OS with its own hardware. Paterson had already quit SCP, in April 1981, to join Microsoft the following month.
+ Microsoft would later advertise MS-DOS' claimed superiority to CP/M-86 
+ "So on 27 July, 1981, the operating system became Microsoft's property," Paterson said in the 1983 Softtalk interview. "According to the deal, Seattle Computer can still see the source code, but is otherwise just another licensee. I think both companies were real happy. The deal was closed just a few weeks before the PC was announced. Microsoft was quite confident."
+ In August 1981, Big Blue introduced what would eventually become known as the IBM PC, though it was originally the 5150. It was based on the Intel 8088 CPU, a lesser - but cheaper - version than the 8086 that used an 8-bit external bus rather than the 16-bit bus found on the 8086.
+ Paterson came with his operating system, and stayed with Microsoft for a year while 86-DOS was honed into MS-DOS 1.0, released as a standalone product early in 1982. He left in March 1982, after the completion of MS-DOS 1.25, but would later return (twice) to Microsoft, where he would go on to work on Visual Basic. He eventually formed his own hardware company, Paterson Technology, though his blog now lists his status as retired.
+ Now 55, Paterson continues to blog about the QDOS' development , emphasising the reasons for its CP/M friendliness yet stressing its under-the-hood differences.
+ Seattle Computer Products' DOS
+Source: Ty's Computer Interest Website 
+ Ty's Computer Interest Website 
+ MS-DOS triumphant
+ From July 1981, SCP continued to sell the operating system it had created, now calling it Seattle DOS and bundling it with its hardware products. It continued to do so until 1985, by which time its was clear buyers wanted systems, and cheap ones - whether from IBM or the many 'cloners' who'd released products compatible with its technology.
+ REG AD 
+ Brock now sought to sell his rights to MS-DOS, a scheme with which Microsoft was not best pleased and said its agreement with SCP did not permit. Brock sued, and the case went to trial in the last few months of 1986. Brock and Microsoft quickly came to an out-of-court arrangement, however: Brock sold his licence to Microsoft for $925,000, leaving the software giant in complete ownership of the OS.
+ Through this time, Microsoft was releasing version after version of MS-DOS, each mirrored by a release of IBM's IBM-DOS and, later, PC-DOS, as its take on the OS came to be called.
+ Microsoft boxes up MS-DOS 3.2
+Source: Hugepedia 
+ Hugepedia 
+ Other versions appeared, tweaked by PC manufacturers using Microsoft's OEM kit to more closely fit the specifics of their hardware. Many would run software developed for the IBM PC, others would not, though they would run generic MS-DOS-compatible applications.
+ CP/M-86 was eventually released, in 1981, and subsequently offered by DR as a third-party alternative to MS-DOS. As you can see from the ad above, Microsoft saw it as as a threat. DR's OS was bundled with a number of IBM PC rivals, from the likes of Apricot and Siemens.
+ You can view the source code for CP/M-86 - and other versions of the OS - here.
+ In May 1988, CP/M-86 was effectively re-released as DR-DOS and pitched more directly as an alternative to MS-DOS itself than to IBM's PC-DOS.
+ Microsoft advertises DOS in 1983
+Source: Fraggle UK at Flickr 
+ Fraggle UK at Flickr 
+ DR-DOS found many supporters but failed to dent Microsoft's market share. Microsoft quickly established the technique of announcing new MS-DOS features well ahead of their appearance, previously seen as an approach that could only kill sales of the current version. Instead, it kept buyers away from rival offerings, and it's now a common tactic employed by highly competitive tech companies.
+ Meantime, MS-DOS continued to evolve, gaining a graphical user interface of sorts with version 4.0, disk compression tech with version 6.0, and FAT32 support with version 7.1.
+ Version 4.0 should have been the final release - even Microsoft said so, announcing in 1987 that "DOS is dead" and that we should all be using OS/2, jointly developed by IBM and Microsoft, though the latter stepped away from it when Windows 3.0 became a huge success. That's another story.
+ Microsoft's work on DOS eventually took the OS to version 8.0, the release used for Windows XP boot discs. With that release, on 14 September 2000, MS-DOS development formally came to an end, though significant work stopped some years earlier with MS-DOS 5.0 when it ceased to be offered as a standalone product. ®
+ MS-DOS gets upgraded, kind of 
+ operating system 
+ ibm 
+ microsoft 
+ software 
+ Make us preferred on Google 
+ REG AD 
+ Cops bust botnet of 1.3M infected Android TV boxes
+ Videostrong accused of shipping devices with a backdoor baked in
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale
+ PARTNER CONTENT: 300+ AI applications delivering surges in core metrics and annual cost reduction of over CNY100m
+ Oracle gobbles $20 billion borrowing limit a week after setting it 
+ In the middle of a datacenter capex binge, vendor promises no more borrowing until the end of 2030
+OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Ericsson says it can detect, track drones using only mobile networks
+ ISAC technology adds detection ability to existing cell networks, enabling them to track low-flying small drones
+ TOP STORIES
+ Landline phones will switch off across Britland in 100 days, no extensions – Openreach
+ Anthropic now lets Claude users jump out of plane without parachute
+ Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions
+ Google struggling to make AI Mode searches pay
+ Alibaba's Qwen AI caught trying to contact server in China
+ Voyager 1 gives controllers the silent treatment
+ AI 
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Amazon sends chills through its workforce with mixed message memo about AI use
+ A lot of software engineers feel bleak about the future of the profession
+ Backbone of a beast – charting Nvidia's rise to networking titan
+ How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot
+ Domestic droid gone amok? Don't worry, you're covered
+ Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring
+ Infosec 
+ Security
+ Russians are posing as Signal support to launch phishing attacks
+ PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!
+ Security
+ Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack
+ PLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more
+ Black Hat and DEF CON
+ DEF CON Franklin project enlists hackers to harden critical infrastructure
+ Voting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included
+ Security
+ EQT buys majority share in Swiss cybersecurity biz Acronis
+ Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified
+ Malware Month
+ Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sight
+ On the plus side, infosec's a good bet for a long, stable career
+ FOSS 
+ AlpineBSD announced – an AI-free FOSS OS
+ Combining the NetBSD kernel with the Alpine Linux userland
+ Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop
+ Canonical has a long way to catch up, but it knows who it's chasing
+ Systemd adds support for Rust
+ What's even better than Rust in the Linux kernel? Rust in systemd!
+ FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases
+ Daemonarchy is unaffiliated with the Linux original, built with AI help, and could complicate FreeBSD's debate over AI contributions 
+ SparkyOS: Lightweight general-purpose Arch, on a pendrive
+ Interesting new project from the minds behind SparkyLinux
+ Red Hat helps teach about tech writing
+ But learns tough lessons about AI in the process
+ &#10005; 
+ Biting the hand that feeds IT
+ About Us
+ Contact us 
+ Advertise with us 
+ Who we are 
+ Newsletter 
+ Our Websites
+ The Next Platform 
+ DevClass 
+ Blocks and Files 
+ Situation Publishing 
+ Your Privacy
+ Cookies Policy 
+ Privacy Policy 
+ Ts & Cs 
+ Do not share my personal information 
+ Your Consent Options 
+ Archives 27 years of articles 
+ Copyright. All rights reserved © 1998-2026.

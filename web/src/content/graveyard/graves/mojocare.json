@@ -1,0 +1,181 @@
+{
+  "slug": "mojocare",
+  "name": "Mojocare",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "D2C health & wellness",
+  "founded": 2020,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#5b3fd6",
+  "founders": [
+    { "name": "Ashwin Swaminathan", "role": "Co-founder" },
+    { "name": "Rajat Gupta", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Had the cash. Lost the trust.",
+  "oneLiner": "An online brand selling sexual-wellness, hair-loss and other health products, with doctor and therapist consultations.",
+  "causeOfDeath": "Investors say they found its revenue had been inflated. Once the numbers could not be trusted, the board shut it down with money still in the bank.",
+
+  "raisedUsdM": 24,
+  "peakValuationUsdM": 70,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: about $24 M in total (Entrackr, Inc42): a $3.08 M seed (Oct 2020) and a $20.6 M Series A (₹160 crore, Aug 2022), reported in dollars. Valuation: Entrackr put the last valuation at about $70–75 M; we use the lower figure. No sale: the board chose to close and return what was left after vendor dues (about $12 M was in the bank in June 2023, per an Inc42 source). FY22 revenue of ₹12.12 crore is about $1.6 M at roughly ₹75 per dollar.",
+  "moneySrc": [4, 5, 1, 3],
+
+  "inOneMinute": [
+    "Mojocare sold sexual-wellness and hair-loss care online. It reported **38x revenue growth** and raised a **$20.6 million** Series A in 2022, in the middle of a funding winter.",
+    "In May 2023 the founders reportedly admitted to their board that they had **inflated revenue**, including with fake invoices. They have denied taking any money out.",
+    "Weeks later 80% of staff were let go. In October 2023, with about **$12 million still in the bank**, the board voted to shut down."
+  ],
+  "killerLine": "Investors can forgive slow numbers. **They never forgive fake ones.**",
+
+  "numbers": [
+    { "value": "38x", "label": "jump in reported revenue in one year, from ₹32 lakh (FY21) to ₹12.12 crore (FY22)", "src": [1] },
+    { "value": "$20.6 M", "label": "Series A raised in August 2022, less than two years after starting", "src": [5] },
+    { "value": "~80%", "label": "of staff (150–170 people) laid off in June 2023, with email and Slack cut off without notice", "src": [4, 6] },
+    { "value": "~$12 M", "label": "still in the bank in June 2023, when the business was wound down", "src": [3] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Ashwin Swaminathan had been an investment adviser at Chiratae Ventures, a venture capital fund. Rajat Gupta had been a vice-president of marketing at the gaming app MPL. In October 2020 they started Mojocare in Bengaluru to help people with health problems they find **too awkward to talk about**: sexual wellness first, then hair loss, women's health and mental health. It was a D2C brand (one that sells straight to customers online, not through shops), selling products plus online chats with doctors, therapists and nutritionists. A **$3.08 million seed round** came quickly, from Chiratae, Sequoia India's Surge programme and angel investors; CRED's Kunal Shah was among its angel backers. But the market was crowded, with Man Matters, Misters, Traya and BoldCare. **Neither founder had worked in healthcare.**",
+      "src": [1, 5, 4]
+    },
+    {
+      "title": "The rise",
+      "body": "On paper, Mojocare was flying. Its filings showed FY22 revenue of **₹12.12 crore, 38 times** the ₹32 lakh of the year before, with a loss of ₹5.5 crore. In August 2022, when many startups could not raise at all, it raised a **$20.6 million Series A** led by B Capital, with Chiratae, Surge and Better Capital joining. The company said it had grown 60x since May 2021, increased paid subscribers 45x in 12 months, and delivered care in half of India's pincodes. Entrackr later put its valuation at about **$70–75 million**. B Capital's Karan Mohla called it \"a neo healthcare delivery system across emerging markets\". Inc42 later noted it is unclear whether those filed FY22 numbers included any inflated revenue.",
+      "src": [1, 5, 4]
+    },
+    {
+      "title": "The cracks",
+      "body": "After the raise, Mojocare's targets were revised and, according to sources, it could not meet them. Employees told Business Today the founders were chasing many ideas at once and delegating heavily, which confused staff and investors. Then the monthly MIS (the management reports a startup sends its board) **kept arriving late**. That delay made the board start asking questions. According to sources quoted by Inc42, in May 2023 the two founders **admitted before the board** that they had inflated revenue, created fake invoices and \"round-tripped\" money: selling stock to companies run by relatives so it looked like sales, then bringing the goods back. Both were asked to step back and an interim CFO took over. The founders did not publicly comment on the revenue claims.",
+      "src": [6, 1, 2]
+    },
+    {
+      "title": "The fall",
+      "body": "On 17 June 2023, Mojocare laid off **150–170 people, over 80% of staff**. Some lost email and Slack access with no warning. The next day Peak XV, B Capital and Chiratae said initial findings showed **\"financial irregularities\"**, and that the business model was not sustainable. They brought in Deloitte for a forensic audit (a detailed check of the accounts for wrongdoing). Mojocare said it \"categorically\" denied that any money had been taken out of the company. In July, reports said Deloitte's final report found inflated revenue and sales in presentations to investors, but **no siphoning of money for personal gain**. Some investors wanted a fire sale. Most wanted to stop. In October 2023 the board finalised the shutdown, with about $12 million left.",
+      "src": [4, 0, 1, 2, 3]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Oct 2020", "event": "Founded in Bengaluru; raises a $3.08 M seed from Chiratae, Surge and angels.", "kind": "start", "src": [5, 1] },
+    { "date": "FY22", "event": "Filings show revenue of ₹12.12 crore, up 38x, and a ₹5.5 crore loss.", "kind": "warning", "src": [1] },
+    { "date": "Aug 2022", "event": "Raises a $20.6 M Series A led by B Capital; claims 45x growth in paid subscribers.", "kind": "peak", "src": [5] },
+    { "date": "May 2023", "event": "Founders reportedly admit to the board that revenue was inflated; both step back and an interim CFO is appointed.", "kind": "crisis", "src": [1, 2] },
+    { "date": "17 Jun 2023", "event": "Lays off 150–170 people, over 80% of the team.", "kind": "crisis", "src": [4] },
+    { "date": "18 Jun 2023", "event": "Investors announce 'financial irregularities' and a Deloitte forensic audit; the company denies money was taken out.", "kind": "crisis", "src": [0, 1] },
+    { "date": "Jul 2023", "event": "Final audit reportedly finds inflated revenue in investor presentations but no siphoning for personal gain; board weighs closing.", "kind": "warning", "src": [2, 7] },
+    { "date": "Oct 2023", "event": "Board finalises the shutdown; remaining money to go back to shareholders after vendor dues are settled.", "kind": "end", "src": [3] }
+  ],
+
+  "charts": [
+    {
+      "title": "Reported revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY21", "FY22"],
+      "series": [
+        { "name": "Revenue", "values": [0.32, 12.12] },
+        { "name": "Net loss", "values": [1.1, 5.5] }
+      ],
+      "takeaway": "Filed revenue jumped 38x in a year. It is not known whether these filed numbers include any of the inflated sales.",
+      "src": [1]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Oct 2020", "round": "Seed", "amountUsdM": 3.08, "valuationUsdM": null, "investors": ["Chiratae Ventures", "Surge (Sequoia India)", "Angel investors"], "src": [5] },
+    { "date": "Aug 2022", "round": "Series A", "amountUsdM": 20.6, "valuationUsdM": null, "investors": ["B Capital", "Chiratae Ventures", "Surge (Sequoia India)", "Better Capital"], "src": [5] }
+  ],
+
+  "causes": [
+    { "key": "fraud", "weight": 40 },
+    { "key": "governance", "weight": 25 },
+    { "key": "business-model", "weight": 25 },
+    { "key": "competition", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Allegedly inflating revenue to hit targets",
+      "explain": "Sources say the founders admitted to **fake invoices and sales to relatives' companies**, and reports said Deloitte found inflated revenue in investor presentations. The founders deny taking money, and no court has ruled. But the lesson stands: **once one number is fake, every number is doubted**. Mojocare still had about $12 million. It didn't run out of cash. It ran out of trust.",
+      "src": [1, 2, 3]
+    },
+    {
+      "title": "Promising targets the business could not reach",
+      "explain": "Raising $20.6 million in a funding winter came with big expectations. After the round, milestones were revised and, sources say, **still could not be met**. When the gap between promise and reality grows, the temptation to fake it grows too. **An honest miss is survivable. A faked hit is not.**",
+      "src": [6, 1]
+    },
+    {
+      "title": "Too many health problems, no deep expertise",
+      "explain": "Sexual wellness, hair loss, women's health and mental health are four hard, separate businesses. Neither founder had a healthcare background, and rivals like Man Matters and Traya were already strong. Employees said the founders **chased many ideas after the raise**. Investors later called the business model **not sustainable** for operational and market reasons.",
+      "src": [1, 6, 0]
+    },
+    {
+      "title": "Weak reporting that nobody fixed early",
+      "explain": "The alarm was not a whistle-blower. It was **monthly reports that kept coming late**. In a company with good controls (rules for checking money and numbers), fake invoices are hard to slip through. Investors share the blame: Inc42 asked how such a young company with no health experience **raised $20 million** without these checks catching it.",
+      "src": [6, 1]
+    },
+    {
+      "title": "Shutting staff out overnight",
+      "explain": "When 150–170 people were let go in June 2023, some found their **email and Slack access cut with no notice**. The people who had nothing to do with the alleged inflation paid first. **How you treat your team on the worst day** is what your next team will hear about.",
+      "src": [4]
+    }
+  ],
+
+  "warningSigns": [
+    "Have you ever rounded a number up in an investor update because the real one looked bad?",
+    "Are your monthly reports to investors or co-founders often late?",
+    "Do any of your sales go to companies owned by your family or friends?",
+    "Did your last fundraise promise targets you already suspect you will miss?",
+    "Are you launching new product lines before the first one works on its own?",
+    "Could only one or two people in your company explain where the revenue numbers come from?"
+  ],
+
+  "lessons": [
+    { "title": "Report bad news before anyone asks", "detail": "Tell your board or co-founders about a missed target the week you know it. Investors back founders who are honest about problems. They walk away from founders who hide them." },
+    { "title": "Disclose every deal with family", "detail": "Selling to, or buying from, a company owned by a relative is a related-party transaction. It is not always illegal, but it must be written down and approved openly, every time." },
+    { "title": "Raise against targets you can actually hit", "detail": "A smaller round with honest goals beats a bigger round with targets that push you to cheat. Before you sign, ask: what if we only reach half of this?" },
+    { "title": "Build boring controls early", "detail": "Get an accountant who does not report only to you, match every rupee of revenue to a bank entry, and send reports on the same date each month. It feels slow. It saves companies." },
+    { "title": "Win one problem before taking on four", "detail": "Health brands win on trust and expertise. Pick one condition, become the best at it, and only then add the next." }
+  ],
+
+  "quote": {
+    "text": "We categorically deny all accusations of money being taken out of the company.",
+    "who": "Mojocare spokesperson",
+    "context": "Responding in June 2023 after investors said they had found financial irregularities",
+    "src": [1]
+  },
+
+  "afterlife": {
+    "text": "In October 2023 Mojocare's board finalised the shutdown and planned to return remaining money to shareholders once vendor dues were settled. As of November 2026 we found no public report of a court case, police complaint or regulator action against the founders, and no final figure for how much investors got back. The allegations remain allegations: reported from unnamed sources and a forensic report that was never made public.",
+    "src": [3, 2]
+  },
+
+  "sources": [
+    { "label": "TechCrunch: Mojocare investors uncover financial irregularities, unsustainable business model (Jun 2023)", "url": "https://techcrunch.com/2023/06/18/mojocare-investors-uncover-financial-irregularities-unsustainable-business-model" },
+    { "label": "Inc42: The curious case of Mojocare's $20 Mn funding and inflated revenues (Jun 2023)", "url": "https://inc42.com/features/fake-revenue-is-bad-but-the-bigger-question-is-how-did-mojocare-even-raise-20-mn" },
+    { "label": "Inc42: Mojocare's board to discuss winding down business, returning money to investors (Jul 2023)", "url": "https://inc42.com/?p=405121" },
+    { "label": "Inc42: Troubled Mojocare nears judgement day; investor refunds on the cards (Oct 2023)", "url": "https://inc42.com/buzz/troubled-mojocare-nears-judgement-day-investor-refunds-on-the-cards" },
+    { "label": "Entrackr: Mojocare lays off around 170 employees within a year of fundraise (Jun 2023)", "url": "https://entrackr.com/2023/06/exclusive-mojocare-lays-off-around-170-employees-within-a-year-of-fundraise" },
+    { "label": "Inc42: Healthtech startup Mojocare raises $20.6 Mn (Aug 2022)", "url": "https://inc42.com/buzz/healthtech-startup-mojocare-raises-20-6-mn-to-diversify-product-portfolio-scale-operations/" },
+    { "label": "Business Today: How Mojocare unravelled after its $20 million Series A (Jun 2023)", "url": "https://businesstoday.in/entrepreneurship/startup-fundraising/story/how-mojocare-unravelled-after-20-million-series-a-funding-round-386187-2023-06-19" },
+    { "label": "MediaNama: Mojocare to shut shop amid fraud allegations (Jul 2023)", "url": "https://www.medianama.com/2023/07/223-mojocare-shut-shop-fraud-allegations-2/" },
+    { "label": "People Matters: Layoff of 170 employees at Mojocare raises questions of misconduct (Jun 2023)", "url": "https://www.peoplematters.in/amp/news/strategic-hr/layoff-of-170-employees-at-mojocare-raise-questions-of-misconduct-heres-why-38197" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "The founders inflated revenue using fake invoices and round-tripping through relatives' companies.", "note": "As of November 2026 this rests on unnamed sources (Inc42, Moneycontrol, The Morning Context) and on press accounts of a Deloitte report that was not published. The founders denied taking money out but did not publicly address the revenue claims. No court or regulator has ruled. We describe it as alleged/reported." },
+      { "claim": "The forensic audit gave the founders a clean chit.", "note": "Entrackr reported this before the final report. Later reports (ET via Inc42, July 2023) said the final report found inflated revenue in investor presentations, while finding no siphoning of money for personal gain." },
+      { "claim": "Valuation of $67.1 M or $70–75 M.", "note": "Tracxn (via MediaNama) said $67.1 M; Entrackr said about $70–75 M. No official figure was announced. We use $70 M." },
+      { "claim": "How much money investors got back.", "note": "Reports mentioned about $12 M in the bank in June 2023, and one report said 50–60% of funds raised might be returned. We found no confirmed final amount." },
+      { "claim": "Later-year financials (FY24 revenue of about ₹7.7 crore).", "note": "Shown by a data aggregator we could not open. Left out." }
+    ]
+  }
+}

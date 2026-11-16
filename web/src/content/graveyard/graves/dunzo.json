@@ -1,0 +1,205 @@
+{
+  "slug": "dunzo",
+  "name": "Dunzo",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Quick commerce",
+  "founded": 2014,
+  "died": 2025,
+  "status": "shut-down",
+  "brandColor": "#00d290",
+  "founders": [
+    { "name": "Kabeer Biswas", "role": "Co-founder, CEO" },
+    { "name": "Ankur Agarwal", "role": "Co-founder" },
+    { "name": "Dalvir Suri", "role": "Co-founder" },
+    { "name": "Mukund Jha", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Got anything delivered. Except the next round.",
+  "oneLiner": "Bengaluru's 'get anything delivered' app for groceries, medicines and errands, and one of India's first quick-commerce services.",
+  "causeOfDeath": "It raised big at the 2022 peak, spent over $150M chasing Zepto's 10-minute model, then hit a funding winter it could not survive.",
+
+  "raisedUsdM": 500,
+  "peakValuationUsdM": 775,
+  "endValueUsdM": 0,
+  "moneyNote": "TechCrunch reported Dunzo had raised 'nearly $500 million' by 2023 (and 'more than $500 million' by 2025); we use $500M. Peak valuation is from the January 2022 Reliance-led round. No buyer was found, so the end value is shown as $0. Rupee losses are from company filings as reported.",
+  "moneySrc": [2, 4, 5, 6],
+
+  "inOneMinute": [
+    "Dunzo was Bengaluru's favourite **'deliver anything' app** and got Google's first-ever direct startup investment in India.",
+    "In 2022 Reliance put in **$200 million**, valuing it at $775 million, just as Blinkit, Zepto and Instamart raced to 10-minute delivery.",
+    "Its FY23 loss hit **₹1,801 crore**. Salaries were delayed for months, and in **January 2025 the app went dark**."
+  ],
+  "killerLine": "Don't raise money at the peak and spend it like the peak will last. **Plan the burn for the winter, not the summer.**",
+
+  "numbers": [
+    { "value": "$775 mn", "label": "valuation when Reliance invested $200 mn (Jan 2022)", "src": [2] },
+    { "value": "₹1,801 cr", "label": "loss in FY23, up from ₹464 crore a year earlier", "src": [6] },
+    { "value": "$150 mn+", "label": "spent in 18 months trying to copy Zepto's model", "src": [4] },
+    { "value": "~400", "label": "jobs cut in just the first seven months of 2023", "src": [3] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a friend who runs your errands",
+      "body": "Dunzo started in Bengaluru in 2014. Its pitch was simple: open the app, and a delivery partner will **pick up and drop anything** across the city. Forgot your keys at a friend's place? Need medicine at midnight? Want food from a shop that doesn't deliver? Dunzo did it. Co-founder Kabeer Biswas had already sold an earlier startup, Hoppr, to Hike. The app became part of Bengaluru life. In December 2017 **Google invested $12 million**. It was Google's first direct investment in an Indian startup. Dunzo spotted something big early: city people would pay for convenience, and the local kirana store could become an online shop. Reliance would later call it \"the pioneer of Quick commerce in India.\"",
+      "src": [0, 2]
+    },
+    {
+      "title": "The rise: from errands to 19 minutes",
+      "body": "By January 2021 Dunzo worked in nearly a dozen cities, sold about **$100 million of goods a year**, and had raised $121 million. Covid lockdowns made home delivery normal. Then the race changed. New players like Zepto promised groceries in 10 minutes from dark stores (small warehouses closed to the public, built only for fast delivery). In August 2021 Dunzo launched Dunzo Daily, promising delivery in 19 minutes. In January 2022 **Reliance Retail invested $200 million for a 25.8% stake**, in a $240 million round that valued Dunzo at $775 million. Dunzo planned to take quick commerce to 15 cities. Biswas said he wanted Dunzo to stay independent and one day go public.",
+      "src": [1, 0, 5, 2]
+    },
+    {
+      "title": "The cracks: copying the leaders, at their price",
+      "body": "Quick commerce burns huge amounts of cash. Every dark store needs rent, stock and riders before a single order arrives. Dunzo poured **over $100 million into dark stores** and spent more than $150 million in 18 months trying to match Zepto. But it never scaled Dunzo Daily far beyond Bengaluru, Mumbai and Delhi. Then the 2022 funding winter arrived. Investors stopped writing big cheques. Dunzo's FY23 loss jumped to **₹1,801 crore**, almost four times the year before, on revenue of about ₹226 crore. It wanted up to $150 million in 2023 but reportedly got about $45 million. Many existing investors did not join. More than half of its dark stores were shut.",
+      "src": [7, 4, 6, 0, 3]
+    },
+    {
+      "title": "The fall: unpaid salaries, then silence",
+      "body": "In July 2023 Dunzo told staff their pay would be delayed by a month. Then again. Salaries for July and August slipped to October. About 400 jobs were cut in 2023. Co-founders Dalvir Suri and Mukund Jha left in October 2023. To save money, Dunzo moved from 15–20 minute deliveries to **60-minute deliveries**, giving up the very race it had joined. In 2024 Flipkart discussed buying it, but **Reliance's stake and business ties** made a deal too complicated. In January 2025 Inc42 reported Reliance had written off its $200 million. Days later Kabeer Biswas joined Flipkart to lead its quick-commerce arm. On 14 January 2025, Dunzo's app and website went offline.",
+      "src": [3, 4, 0, 6, 7, 8]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Jul 2014", "event": "Dunzo is founded in Bengaluru", "kind": "start", "src": [0] },
+    { "date": "Mar 2016", "event": "First funding: $650K from Blume Ventures, Aspada and others", "kind": "money", "src": [0] },
+    { "date": "Dec 2017", "event": "Google invests $12 million, its first direct investment in an Indian startup", "kind": "money", "src": [0] },
+    { "date": "Jun 2019", "event": "Data breach exposes details of about 3.5 million users", "kind": "warning", "src": [0] },
+    { "date": "Jan 2021", "event": "Raises $40M Series E with Google; annual sales of goods about $100M", "kind": "money", "src": [1] },
+    { "date": "Aug 2021", "event": "Launches Dunzo Daily, promising delivery in 19 minutes", "kind": "start", "src": [0, 5] },
+    { "date": "Jan 2022", "event": "Reliance Retail invests $200M for 25.8% in a $240M round; valuation $775M", "kind": "peak", "src": [2] },
+    { "date": "Jul–Aug 2023", "event": "Salaries deferred repeatedly; about 400 jobs cut in 2023; more than half of dark stores shut", "kind": "crisis", "src": [3, 4] },
+    { "date": "Oct 2023", "event": "Co-founders Dalvir Suri and Mukund Jha leave", "kind": "warning", "src": [0] },
+    { "date": "Feb 2024", "event": "Flipkart weighs buying Dunzo; ownership ties with Reliance complicate the deal", "kind": "crisis", "src": [7] },
+    { "date": "Jan 2025", "event": "Reliance reportedly writes off its $200M; Kabeer Biswas joins Flipkart; app and website go offline on 14 Jan", "kind": "end", "src": [6, 8, 0] },
+    { "date": "Oct 2025", "event": "Biswas exits Flipkart Minutes", "kind": "after", "src": [0] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY22", "FY23"],
+      "series": [
+        { "name": "Net loss", "values": [464, 1801] },
+        { "name": "Revenue", "values": [null, 226] }
+      ],
+      "takeaway": "In the year it chased 10-minute delivery, Dunzo's loss nearly quadrupled, to about 8 times its revenue.",
+      "src": [6, 0]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Mar 2016", "round": "Seed", "amountUsdM": 0.65, "valuationUsdM": null, "investors": ["Blume Ventures", "Aspada Ventures"], "src": [0] },
+    { "date": "Dec 2017", "round": "Venture round", "amountUsdM": 12, "valuationUsdM": null, "investors": ["Google"], "src": [0] },
+    { "date": "Jan 2021", "round": "Series E", "amountUsdM": 40, "valuationUsdM": null, "investors": ["Google", "Lightbox", "Evolvence", "Hana Financial Investment", "LGT Lightstone Aspada", "Alteria Capital"], "src": [1] },
+    { "date": "Jan 2022", "round": "Strategic round", "amountUsdM": 240, "valuationUsdM": 775, "investors": ["Reliance Retail", "Lightbox", "Lightrock", "3L Capital", "Alteria Capital"], "src": [2] },
+    { "date": "2023", "round": "Bridge round", "amountUsdM": 45, "valuationUsdM": null, "investors": [], "src": [3] }
+  ],
+
+  "causes": [
+    { "key": "burn", "weight": 30 },
+    { "key": "competition", "weight": 30 },
+    { "key": "funding-dried", "weight": 25 },
+    { "key": "focus", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Chasing a rival's model at full speed",
+      "explain": "Dunzo was a pioneer, but when Zepto and Blinkit set the rules with 10-minute delivery, Dunzo copied them. It spent **more than $150 million in 18 months** trying to match Zepto and put over $100 million into dark stores. Later it shut half of them and went back to 60-minute delivery. That money was spent on someone else's game.",
+      "src": [4, 7, 6]
+    },
+    {
+      "title": "Spending as if the 2022 boom would last",
+      "explain": "Right after the $240 million round, Dunzo planned to expand quick commerce to 15 cities. Then the funding winter hit. FY23 losses hit **₹1,801 crore on about ₹226 crore of revenue**. When it went back to investors in 2023, it wanted up to $150 million and reportedly got about $45 million.",
+      "src": [5, 6, 0, 3]
+    },
+    {
+      "title": "An investor that made it hard to sell",
+      "explain": "Reliance owned 25.8% and had business ties with Dunzo. When Flipkart considered buying it in 2024, **the ownership structure and Reliance's ties made the deal too complicated**. A big strategic investor brings money and help, but can also scare away every other buyer.",
+      "src": [2, 7, 8]
+    },
+    {
+      "title": "Running out of cash before cutting deep enough",
+      "explain": "By mid-2023 Dunzo was **deferring salaries month after month**, while still searching for funding. Staff kept working without knowing when they'd be paid. Deep cuts made earlier, while money was still in the bank, would have hurt less and protected trust with the team and vendors.",
+      "src": [3, 4, 6]
+    },
+    {
+      "title": "Growth measured in goods sold, not profit",
+      "explain": "In 2021 Dunzo talked about $100 million of yearly sales of goods (GMV). TechCrunch pointed out that **GMV usually signals a company far from profit**, and that was true of Dunzo. Big GMV numbers can hide how much each order loses.",
+      "src": [1]
+    }
+  ],
+
+  "warningSigns": [
+    "Is our new strategy mostly a copy of what a better-funded rival is already doing?",
+    "Does our spending plan only work if the next big round arrives on time?",
+    "Would one investor's approval be needed before anyone could buy our company?",
+    "Have we delayed salaries or vendor payments even once?",
+    "Do we talk about GMV or downloads more than about profit per order?",
+    "Are we opening new cities before the first one makes money?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Don't fight on the leader's terms",
+      "detail": "When rivals with more money set the rules (10-minute delivery), copying them means you lose slowly and expensively. Find the part of the market where your strengths matter, like Dunzo's original pick-up-and-drop service, and win there."
+    },
+    {
+      "title": "Raise in summer, plan for winter",
+      "detail": "Funding booms end. When you raise a big round, plan as if it is your last for two years. Expand only as fast as your cash can survive a funding freeze."
+    },
+    {
+      "title": "Think about who your investor blocks",
+      "detail": "A corporate investor like Reliance can open doors. But ask: if we need to sell later, will this investor's stake or contracts scare off buyers? Negotiate exit-friendly terms at the start."
+    },
+    {
+      "title": "Cut early and once",
+      "detail": "Many small, late cuts with delayed salaries destroy trust. If the money is running low, make one deep, honest cut early, pay people what they're owed, and explain the new plan clearly."
+    },
+    {
+      "title": "Track the money per order",
+      "detail": "GMV shows how big you look; contribution per order (what each order earns after delivery, discounts and store costs) shows whether you can survive. Share that number with your team every month."
+    }
+  ],
+
+  "quote": {
+    "text": "Dunzo is the pioneer of Quick commerce in India.",
+    "who": "Isha Ambani, director, Reliance Retail Ventures",
+    "context": "Announcing Reliance Retail's $200 million investment in Dunzo in January 2022, three years before Dunzo shut down.",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "Kabeer Biswas joined Flipkart in January 2025 to lead Flipkart Minutes, its quick-commerce arm, and left in October 2025. He had also pitched new ventures to investors such as Peak XV. The 10-minute delivery market Dunzo helped start is now led by Blinkit, Swiggy Instamart and Zepto, with Flipkart and Amazon chasing them.",
+    "src": [8, 0]
+  },
+
+  "sources": [
+    { "label": "Wikipedia: Dunzo (timeline, FY23 figures, shutdown date)", "url": "https://en.wikipedia.org/wiki/Dunzo" },
+    { "label": "TechCrunch: Google backs India's Dunzo in $40 million funding round (Jan 2021)", "url": "https://techcrunch.com/2021/01/19/google-backs-indias-dunzo-in-40-million-funding-round/" },
+    { "label": "TechCrunch: Reliance Retail backs Dunzo in $240 million funding (Jan 2022)", "url": "https://techcrunch.com/2022/01/06/reliance-retail-backs-dunzo-in-240-million-funding/" },
+    { "label": "TechCrunch: Dunzo defers staff pay, to cut jobs amid funding search (Jul 2023)", "url": "https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/" },
+    { "label": "TechCrunch: Dunzo delays employee salaries again (Aug 2023)", "url": "https://techcrunch.com/2023/08/30/dunzo-backed-by-reliance-and-google-delays-employee-salaries-again/" },
+    { "label": "KrASIA: Reliance ventures into quick commerce with $200 million investment in Dunzo (Jan 2022)", "url": "https://kr-asia.com/reliance-ventures-into-quick-commerce-with-usd-200-million-investment-in-dunzo" },
+    { "label": "Inc42: Reliance Retail writes off $200 Mn Dunzo investment (Jan 2025)", "url": "https://inc42.com/buzz/reliance-retail-dunzo-write-off-kabeer-biswas/" },
+    { "label": "TechCrunch: Flipkart has weighed acquiring Dunzo (Feb 2024)", "url": "https://techcrunch.com/2024/02/20/flipkart-dunzo/" },
+    { "label": "TechCrunch: Flipkart hires Dunzo's co-founder to lead quick commerce push (Jan 2025)", "url": "https://techcrunch.com/2025/01/08/flipkart-taps-dunzo-founder-to-lead-quick-commerce-push/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Reliance offered to buy Dunzo at a near-unicorn valuation and Kabeer Biswas declined.", "note": "Reported by Inc42 from unnamed sources in January 2025; not confirmed by Reliance or Biswas." },
+      { "claim": "Reliance wrote off its full $200 million.", "note": "Inc42 exclusive based on sources; TechCrunch said Reliance had 'all but written off' Dunzo. No official Reliance statement." },
+      { "claim": "Tata talks stalled because Biswas did not want to give up control.", "note": "Reported by KrASIA citing Economic Times; not confirmed by the company." },
+      { "claim": "Valuation of $775 million vs $757 million vs $770 million.", "note": "TechCrunch and KrASIA say $775M for the 2022 round; Tracxn (via TechCrunch) says $757M; Inc42 says $770M. We use $775M." },
+      { "claim": "Dunzo's 2024 statement that it was on path to free cash flow break-even by March 2024.", "note": "A company claim that was never confirmed by later results." }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "slug": "theranos",
+  "name": "Theranos",
+  "region": "global",
+  "country": "United States",
+  "city": "Palo Alto",
+  "sector": "Health tech (blood testing)",
+  "founded": 2003,
+  "died": 2018,
+  "status": "shut-down",
+  "brandColor": "#2e8b85",
+  "founders": [
+    {
+      "name": "Elizabeth Holmes",
+      "role": "Founder and CEO"
+    },
+    {
+      "name": "Ramesh \"Sunny\" Balwani",
+      "role": "President and COO (joined later)"
+    }
+  ],
+  "epitaph": "One drop of blood. Zero drops of truth.",
+  "oneLiner": "Claimed it could run hundreds of medical tests from a single finger-prick of blood, using its own small machine.",
+  "causeOfDeath": "Its machine never worked as promised; the company hid this from investors, partners and patients until journalists and regulators exposed it.",
+  "raisedUsdM": 700,
+  "peakValuationUsdM": 9000,
+  "endValueUsdM": 0,
+  "moneyNote": "SEC says Theranos raised \"more than $700 million\" from investors; $9 billion valuation is Forbes' 2014 figure, cut to $800 million in 2016; shares became worthless.",
+  "moneySrc": [
+    0,
+    1,
+    2
+  ],
+  "inOneMinute": [
+    "Elizabeth Holmes, 19, dropped out of Stanford to build a machine that would run **hundreds of blood tests from one finger-prick**.",
+    "The machine could do only a handful of tests. Most patient samples were **secretly run on other companies' machines**, while investors heard a very different story.",
+    "A 2015 newspaper investigation cracked it open. The company shut in 2018, and Holmes was **convicted of defrauding investors** and sent to prison for 11+ years."
+  ],
+  "killerLine": "Sell the future if you want, but **never lie about what your product can do today**.",
+  "numbers": [
+    {
+      "value": "$9 billion",
+      "label": "peak valuation, 2014 (Forbes)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "~$100,000",
+      "label": "real 2014 revenue — investors were told $100M+",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "12 of ~200",
+      "label": "tests its own machine could actually run, per the SEC",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "135 months",
+      "label": "Holmes' prison sentence (11 years 3 months)",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a lab in a finger-prick",
+      "body": "In 2003, a 19-year-old Stanford student named Elizabeth Holmes started Theranos. A year later she dropped out to run it full time. The pitch was beautiful. Instead of a needle in your arm and many tubes of blood, you would give **a few drops from your finger**. A small Theranos machine would then run lots of tests, quickly and cheaply. Sunny Balwani, who later became her number two, guaranteed a $10 million loan for the company in 2009. Everyone loves a story where a young founder fixes something painful for millions of people. Theranos had that story. What it did not have was a machine that could deliver it.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "The rise: $9 billion on a promise",
+      "body": "In September 2013 Theranos signed a deal with Walgreens, a giant American pharmacy chain, to put its testing centres in stores. Investors poured in more than $700 million. In 2014 Forbes put the company's value at **$9 billion** and Holmes' 50% stake at $4.5 billion. Behind the scenes, the SEC (America's stock-market regulator) later said, the story was false. Investors were told Theranos would earn over $100 million in revenue in 2014. It actually earned **a little more than $100,000**. They were told its devices were used by the US military in Afghanistan. The SEC says they never were.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The cracks: a reporter asks simple questions",
+      "body": "In October 2015, the Wall Street Journal reported that Theranos ran its own technology on only a small number of the 240 tests it offered. The SEC later said its machine could handle **just 12 of about 200 tests** on its menu. Most patient samples were run on modified machines bought from other companies. Then the regulators arrived. In January 2016, CMS (the US agency that checks medical labs) said Theranos' lab put patients in \"immediate jeopardy\". In May 2016 the company **voided two years of blood test results**. These were real people, getting real medical results, that could not be trusted.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The fall: from billionaire to prisoner",
+      "body": "In June 2016 Walgreens closed all 40 Theranos centres, and Forbes cut Holmes' net worth from $4.5 billion to zero. In March 2018 the SEC charged Holmes, Balwani and Theranos with a years-long fraud built on false claims about the technology and the finances. Holmes settled without admitting or denying, paying a $500,000 penalty. In June 2018 both were indicted for wire fraud (using phone or internet to cheat people). Theranos dissolved that September after more than 80 possible buyers walked away. In January 2022 a jury **convicted Holmes on four counts of defrauding investors** but acquitted her of the charges about patients. Balwani was convicted on all 12 counts in July 2022.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2003",
+      "event": "Elizabeth Holmes, 19, founds Theranos; she drops out of Stanford in March 2004.",
+      "kind": "start",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2013",
+      "event": "Walgreens partnership announced to put Theranos testing in its stores.",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2014",
+      "event": "Forbes values Theranos at $9 billion and Holmes at $4.5 billion.",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "event": "Wall Street Journal reports Theranos uses its own tech for only a small share of its 240 tests.",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jan 2016",
+      "event": "US lab regulator CMS finds the California lab poses \"immediate jeopardy\" to patients.",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "May 2016",
+      "event": "Theranos voids two years of blood test results; Balwani steps down.",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jun 2016",
+      "event": "Walgreens closes all 40 Theranos centres; Forbes cuts Holmes' net worth to $0.",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Mar 2018",
+      "event": "SEC charges Theranos, Holmes and Balwani with fraud; Holmes settles for $500,000 and a 10-year ban.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2018",
+      "event": "Theranos announces it will dissolve after 80+ potential buyers show no interest.",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jan 2022",
+      "event": "Holmes found guilty on 4 of 11 counts (investor fraud); Balwani convicted on all 12 in July.",
+      "kind": "after",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "event": "Holmes sentenced to 135 months in prison; Balwani later receives 155 months.",
+      "kind": "after",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Feb 2025",
+      "event": "Federal appeals court upholds both convictions and the $452 million restitution order.",
+      "kind": "after",
+      "src": [
+        2,
+        6
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Promised vs real revenue, 2014",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Told to investors",
+        "Actually earned"
+      ],
+      "series": [
+        {
+          "name": "2014 revenue",
+          "values": [
+            100,
+            0.1
+          ]
+        }
+      ],
+      "takeaway": "Investors were told over $100 million; the real number was about one-thousandth of that.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "What Theranos was worth (Forbes)",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2014",
+        "2016"
+      ],
+      "series": [
+        {
+          "name": "Valuation",
+          "values": [
+            9000,
+            800
+          ]
+        }
+      ],
+      "takeaway": "Once the truth came out, about 90% of the value vanished in two years, and all of it by 2018.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 60
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Lying about what the product could do",
+      "explain": "The core lie was technical. Theranos' own machine could run only a small number of tests, so **most patient samples were run on modified machines made by other companies**. Investors and partners were shown a working miracle that did not exist. Once a company is built on a fake demo, every new customer makes the hole deeper.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Putting patients at risk",
+      "explain": "This was not just a money problem. Regulators found the lab posed \"immediate jeopardy\" to patients, and the company later **voided two years of blood test results**. In health, finance or safety products, a broken product does not just lose money. It hurts people who trusted you.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Making up numbers and partners",
+      "explain": "Investors were told 2014 revenue would top $100 million; it was **about $100,000**. They were told the military used the devices in Afghanistan; the SEC says it never did. Big, specific, false claims are exactly what gets founders charged with fraud, not just embarrassed.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "No one could say no to the founder",
+      "explain": "Holmes held special super-majority voting shares, which the SEC made her give up in 2018. With **total control and very few people allowed to check the work**, there was no one inside to stop the story from running ahead of the science.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Would you be nervous if an outside expert tested your product without you in the room?",
+    "Do the numbers in your pitch deck differ from what your bank account and real usage data show?",
+    "Is any demo you show secretly powered by someone else's product, or by manual work you don't mention?",
+    "Is there nobody in your company who can tell the founder 'this isn't ready' and actually be heard?",
+    "Are you shipping to real users (patients, borrowers, drivers) something that fails your own tests?",
+    "Do you treat curious journalists, ex-employees or regulators as enemies instead of as a signal?"
+  ],
+  "lessons": [
+    {
+      "title": "Separate 'today' from 'someday' in every pitch",
+      "detail": "Write two columns on your deck: what works now and what you hope to build. Investors fund the second column all the time — they only punish you for mixing them up."
+    },
+    {
+      "title": "Let outsiders check your claims early",
+      "detail": "Get a neutral expert, mentor or pilot customer to test your product before you scale. If your idea can't survive one honest outsider, it won't survive the market."
+    },
+    {
+      "title": "In health and money, 'fake it till you make it' is a crime",
+      "detail": "A buggy photo app is annoying. A wrong blood test can change someone's treatment. If your product touches health, money or safety, the bar is proof, not hope."
+    },
+    {
+      "title": "As an employee, trust the lab, not the stage",
+      "detail": "If your team keeps being told not to discuss results, or demos only happen in controlled rooms, ask to see raw data. If no one will show you, that is your answer."
+    },
+    {
+      "title": "As an investor, ask 'who has checked this?'",
+      "detail": "Famous backers and big valuations are not proof. Ask which independent lab, auditor or customer has verified the core claim, and call them yourself."
+    }
+  ],
+  "quote": {
+    "text": "Innovators who seek to revolutionize and disrupt an industry must tell investors the truth about what their technology can do today, not just what they hope it might do someday.",
+    "who": "Jina Choi, Director, SEC San Francisco Regional Office",
+    "context": "Announcing fraud charges against Theranos, Holmes and Balwani, March 2018",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Holmes began serving her 135-month sentence in May 2023 at a minimum-security prison camp in Texas. In February 2025 an appeals court upheld her and Balwani's convictions and the $452 million they were ordered to repay victims. Balwani is serving 155 months. Holmes asked President Trump in 2025 to commute (shorten) her sentence; the Justice Department listed it as pending in January 2026. As of November 2026, she is scheduled to move to a halfway house on 23 August 2027, with release set for 22 February 2030. She maintains she is innocent.",
+    "src": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC press release 2018-41: Theranos, CEO Holmes and former President Balwani charged with massive fraud (Mar 2018)",
+      "url": "https://www.sec.gov/news/press-release/2018-41"
+    },
+    {
+      "label": "CNN: The rise and fall of Theranos, a timeline (Jul 2022, via KTVZ)",
+      "url": "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2022/07/07/the-rise-and-fall-of-theranos-a-timeline/"
+    },
+    {
+      "label": "CBS News: Ninth Circuit upholds Holmes and Balwani convictions (Feb 2025)",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/theranos-founder-elizabeth-holmes-convictions-appeal"
+    },
+    {
+      "label": "Jurist: Holmes sentenced to 135 months; judge finds $121M loss (Nov 2022)",
+      "url": "https://www.jurist.org/news/2022/11/elizabeth-holmes-sentenced-to-135-months-in-prison-for-defrauding-theranos-investors-judge-determines-121m-total-loss-to-investors"
+    },
+    {
+      "label": "ABC7: Elizabeth Holmes scheduled to move to halfway house in August 2027 (2026)",
+      "url": "https://abc7.com/story/elizabeth-holmes-scheduled-move-halfway-house-august-2027/19862832/"
+    },
+    {
+      "label": "UPI: Ex-Theranos CEO Elizabeth Holmes seeks Trump commutation (Jan 2026)",
+      "url": "https://www.upi.com/Top_News/US/2026/01/22/Elizabeth-Holmes-Donald-Trump-commute-sentence/4321769062059/"
+    },
+    {
+      "label": "Cooley: Ninth Circuit affirms convictions and $452 million restitution (Feb 2025)",
+      "url": "https://www.cooley.com/news/coverage/2025/2025-02-26-ninth-circuit-affirms-convictions-and-452-million-restitution-for-theranos-holmes-and-balwani"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Holmes is innocent.",
+        "note": "Holmes says so publicly; a jury convicted her on four investor-fraud counts and an appeals court upheld the verdict in Feb 2025. She was acquitted on the patient-fraud counts."
+      },
+      {
+        "claim": "Holmes' release date.",
+        "note": "Reported dates have shifted with sentence reductions (Dec 2031 in Jan 2026 reports; 22 Feb 2030 in later reports). We use the latest reported date."
+      }
+    ]
+  }
+}

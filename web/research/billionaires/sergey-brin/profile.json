@@ -1,0 +1,598 @@
+{
+  "name": "Sergey Brin",
+  "title": "The Boy Who Threw Pebbles at Power",
+  "subtitle": "Google's restless co-founder: a Moscow-born rebel, a Ph.D. he never finished, and a comeback built on AI.",
+  "hook": "In a 2008 blog post, Sergey Brin described looking up one gene in his own 23andMe DNA data. He \"viewed it mostly as entertainment\". It showed he carries a mutation linked to Parkinson's, the disease his mother had, and he put his lifetime risk at somewhere between ==20% and 80%==, depending on the study. He told the whole world himself, then became the __biggest individual donor to Parkinson's research__, with more than ==$2 billion== given so far.",
+  "hookSrc": [
+    0,
+    1,
+    2
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/960px-Sergey_Brin_Ted_2010_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sergey_Brin_Ted_2010_(cropped).jpg",
+    "caption": "Sergey Brin at TED in February 2010, where he spoke about Google and China.",
+    "author": "Steve Jurvetson",
+    "license": "CC BY 2.0",
+    "year": 2010
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/960px-Google_page_brin.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Google_page_brin.jpg",
+      "caption": "Larry Page and Sergey Brin, the founders of Google, in September 2003.",
+      "author": "Ehud Kenan",
+      "license": "CC BY 2.0",
+      "year": 2003
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sergey_Brin%2C_Web_2.0_Conference.jpg/960px-Sergey_Brin%2C_Web_2.0_Conference.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sergey_Brin,_Web_2.0_Conference.jpg",
+      "caption": "Sergey Brin at the Web 2.0 Conference in 2005.",
+      "author": "James Duncan Davidson/O'Reilly Media, Inc.",
+      "license": "CC BY 2.0",
+      "year": 2005
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sergey_Brin_at_Google_Developer_Day.jpg/960px-Sergey_Brin_at_Google_Developer_Day.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sergey_Brin_at_Google_Developer_Day.jpg",
+      "caption": "Sergey Brin at Google Developer Day in 2007.",
+      "author": "Luistxo",
+      "license": "CC BY-SA 2.0",
+      "year": 2007
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Google_team_group_photo_with_Vanhanen.jpg/960px-Google_team_group_photo_with_Vanhanen.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Google_team_group_photo_with_Vanhanen.jpg",
+      "caption": "Larry Page, Sergey Brin and the Google team with Matti Vanhanen in 2008.",
+      "author": "Jyri Engeström",
+      "license": "CC BY 2.0",
+      "year": 2008
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sergey_Brin_2008.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sergey_Brin_2008.jpg",
+      "caption": "Sergey Brin at the 2008 BBC World Debate.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2008
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/960px-Schmidt-Brin-Page-20080520.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Schmidt-Brin-Page-20080520.jpg",
+      "caption": "Left to right: Eric E. Schmidt, Sergey Brin and Larry Page of Google, May 2008.",
+      "author": "Joi Ito",
+      "license": "CC BY 2.0",
+      "year": 2008
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Secretary_Kerry_Chats_With_Google_Co-Founder_Brin_After_Viewing_a_Google_Self-Driving_Car_at_the_2016_Global_Entrepreneurship%27s_Innovation_Marketplace_at_Stanford_University_%2827786622531%29.jpg/960px-thumbnail.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Chats_With_Google_Co-Founder_Brin_After_Viewing_a_Google_Self-Driving_Car_at_the_2016_Global_Entrepreneurship%27s_Innovation_Marketplace_at_Stanford_University_(27786622531).jpg",
+      "caption": "US Secretary of State John Kerry chats with Sergey Brin after viewing one of Google's self-driving cars at Stanford University, June 2016.",
+      "author": "U.S. Department of State",
+      "license": "Public domain",
+      "year": 2016
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "21 August 1973 in Moscow, Soviet Union. He landed in New York on 25 October 1979, aged six.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "Adelphi, Maryland, USA, after his family left Moscow and stopped in Vienna and Paris. He went to Paint Branch Montessori School, then Eleanor Roosevelt High School.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "label": "Family",
+      "value": "His father Michael taught maths at the University of Maryland. His mother Eugenia was a NASA research scientist. He has a younger brother, and Forbes lists three children.",
+      "src": [
+        3,
+        1
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "Finished high school in three years. B.S. in maths and computer science, University of Maryland, 1993. M.S., Stanford, 1995. His 1996 résumé says \"Ph.D.: expected June 1997\". He never finished it.",
+      "src": [
+        3,
+        5,
+        1,
+        7
+      ]
+    },
+    {
+      "label": "First job",
+      "value": "June 1990, aged 16: writing image-processing code for a 16,384-processor Connection Machine 2 at a University of Maryland institute. Then summers at General Electric Information Services and a 1993 internship at Wolfram Research.",
+      "src": [
+        5,
+        6
+      ]
+    },
+    {
+      "label": "First company",
+      "value": "Google, aged 25. Andy Bechtolsheim wrote the first $100,000 cheque in August 1998, and Brin became president and chairman that September.",
+      "src": [
+        14,
+        8
+      ]
+    },
+    {
+      "label": "Main company today",
+      "value": "Alphabet, Google's parent. Co-founder and director since 1998. He stopped being president in December 2019, then returned to work on AI, and said in May 2025 he was in the office \"pretty much every day now\".",
+      "src": [
+        8,
+        17,
+        30
+      ]
+    },
+    {
+      "label": "Source of wealth",
+      "value": "Alphabet shares: about 359 million, with 25.3% of the votes, on 6 April 2026. Forbes put his net worth near $217 billion on 2 November 2026, fifth in the world.",
+      "src": [
+        8,
+        1
+      ]
+    },
+    {
+      "label": "Lives in",
+      "value": "Crystal Bay, Nevada, USA, says Forbes. He moved his voter registration to Nevada on 10 December 2025, while California debated a billionaire tax. The New York Times reported that he alternates weeks with Google's California headquarters.",
+      "src": [
+        1,
+        15,
+        16
+      ]
+    },
+    {
+      "label": "Known for",
+      "value": "Co-founding Google with Larry Page and co-writing \"The Anatomy of a Large-Scale Hypertextual Web Search Engine\". He also funds the airship maker LTA Research.",
+      "src": [
+        32,
+        18
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "We could not find a single verified personal social media account for Sergey Brin, so treat any profile, WhatsApp group or message in his name that offers jobs, money or investment tips as fake. The only official door that names him is Alphabet's board mailbox, directors@abc.xyz: its 2026 proxy says shareholders with genuine questions about Alphabet can ask for a note to be forwarded to a specific director, so it is no place for pitches or fan mail. His private foundation has no website and, according to Inside Philanthropy, is not a strong target for unsolicited proposals, so scientists should watch ASAP's public funding calls instead. The honest way into his world is to build something: in March 2024 he turned up at AGI House, where founders and developers were testing Gemini, and took their questions, and Google for Startups, LTA Research and GSD all publish their own front doors. If you do write, keep it to five lines: who you are, what you built, one specific question, and no attachments or requests for money.",
+    "channels": [
+      {
+        "kind": "phone",
+        "label": "Alphabet and Google head office switchboard",
+        "value": "+1 (650) 253-0000",
+        "url": "tel:+16502530000",
+        "whose": "Alphabet Inc.",
+        "src": [
+          9,
+          10
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Head office. For post to the board, mark it \"Attn: Corporate Secretary\"",
+        "value": "Alphabet Inc., 1600 Amphitheatre Parkway, Mountain View, California 94043, USA",
+        "url": null,
+        "whose": "Alphabet Inc.",
+        "src": [
+          9,
+          8
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Board of Directors (shareholders can ask for forwarding to a named director)",
+        "value": "directors@abc.xyz",
+        "url": "mailto:directors@abc.xyz",
+        "whose": "Alphabet Inc. (Corporate Secretary)",
+        "src": [
+          8
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Corporate Secretary",
+        "value": "corporatesecretary@abc.xyz",
+        "url": "mailto:corporatesecretary@abc.xyz",
+        "whose": "Alphabet Inc.",
+        "src": [
+          10
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Investor relations",
+        "value": "investor-relations@abc.xyz",
+        "url": "mailto:investor-relations@abc.xyz",
+        "whose": "Alphabet Inc.",
+        "src": [
+          8
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Investor relations website",
+        "value": "abc.xyz/investor",
+        "url": "https://abc.xyz/investor/",
+        "whose": "Alphabet Inc.",
+        "src": [
+          9
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press only (Google says only press will get a reply)",
+        "value": "press@google.com",
+        "url": "mailto:press@google.com",
+        "whose": "Google",
+        "src": [
+          11,
+          12
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Contact Google page (help, careers, press and locations)",
+        "value": "about.google/contact-google",
+        "url": "https://about.google/contact-google/",
+        "whose": "Google",
+        "src": [
+          11
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Google offices worldwide, including Bengaluru, Gurugram, Hyderabad and Mumbai",
+        "value": "about.google/company-info/locations",
+        "url": "https://about.google/company-info/locations/",
+        "whose": "Google",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Programs for founders",
+        "value": "startup.google.com",
+        "url": "https://startup.google.com/",
+        "whose": "Google for Startups",
+        "src": [
+          28
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "General enquiries at the airship company Brin funds",
+        "value": "info@ltaresearch.com",
+        "url": "mailto:info@ltaresearch.com",
+        "whose": "LTA Research",
+        "src": [
+          19,
+          18
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press enquiries at the airship company Brin funds",
+        "value": "press@ltaresearch.com",
+        "url": "mailto:press@ltaresearch.com",
+        "whose": "LTA Research",
+        "src": [
+          19,
+          18
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Contact forms (general, partnerships, HR) at the disaster-relief nonprofit Brin founded",
+        "value": "gsd.ngo/en/contact",
+        "url": "https://www.gsd.ngo/en/contact",
+        "whose": "Global Support and Development (GSD)",
+        "src": [
+          20,
+          21
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Contact form for Parkinson's research programs backed by Brin's foundation",
+        "value": "parkinsonsroadmap.org/contact-us",
+        "url": "https://parkinsonsroadmap.org/contact-us/",
+        "whose": "Aligning Science Across Parkinson's (ASAP)",
+        "src": [
+          22,
+          23,
+          26
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Research funding questions at ASAP's implementation partner, a separate charity",
+        "value": "grants@michaeljfox.org",
+        "url": "mailto:grants@michaeljfox.org",
+        "whose": "The Michael J. Fox Foundation",
+        "src": [
+          24,
+          25
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "website",
+        "handle": "too",
+        "url": "https://too.blogspot.com/",
+        "whose": "Sergey Brin (personal blog; the latest post we found is from January 2010)",
+        "src": [
+          31,
+          0
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@Google",
+        "url": "https://x.com/Google",
+        "whose": "Google (company)",
+        "src": [
+          27
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@google",
+        "url": "https://www.instagram.com/google/",
+        "whose": "Google (company)",
+        "src": [
+          27
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "Google",
+        "url": "https://www.youtube.com/google",
+        "whose": "Google (company)",
+        "src": [
+          27
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "Google",
+        "url": "https://www.linkedin.com/company/google",
+        "whose": "Google (company)",
+        "src": [
+          27
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "Google",
+        "url": "https://www.facebook.com/Google",
+        "whose": "Google (company)",
+        "src": [
+          27
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@googlestartups",
+        "url": "https://x.com/googlestartups",
+        "whose": "Google for Startups (company program)",
+        "src": [
+          28
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "Google for Startups",
+        "url": "https://www.linkedin.com/showcase/google-for-startups/",
+        "whose": "Google for Startups (company program)",
+        "src": [
+          28
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "LTA Research",
+        "url": "https://www.linkedin.com/company/lta-research/",
+        "whose": "LTA Research (company funded by Brin)",
+        "src": [
+          19,
+          18
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "ASAP Research",
+        "url": "https://www.linkedin.com/company/asap-research/",
+        "whose": "Aligning Science Across Parkinson's (research initiative)",
+        "src": [
+          29,
+          23
+        ]
+      },
+      {
+        "platform": "other",
+        "handle": "asapresearch.parkinsonsroadmap.org (Bluesky)",
+        "url": "https://bsky.app/profile/asapresearch.parkinsonsroadmap.org",
+        "whose": "Aligning Science Across Parkinson's (research initiative)",
+        "src": [
+          29,
+          23
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Primary sources first: Alphabet's 2026 proxy, FY2025 10-K and October 2026 8-K on SEC EDGAR, Brin's own blog and 1996 Stanford résumé, and official Google, LTA, GSD, ASAP and Michael J. Fox Foundation pages. Biography details come from Mark Malseed's Moment profile, based on interviews with Brin and his parents, plus Forbes. Photo licences and authors were read from the Wikimedia Commons API. Every contact was read on the page that publishes it; no broker, leaked or guessed contacts were used.",
+    "disputed": [
+      {
+        "claim": "Net worth of about $217 billion (Forbes real-time, 2 November 2026)",
+        "note": "This number moves daily and sources differ widely. Two reads of the Forbes profile on 2 November showed $216.3B and $217.2B. The project's own Forbes snapshot of 29 October showed $246.1B, Wikipedia gave $257.1B on 18 October, and New York magazine gave $279.2B in July. A search summary attributed about $274B to Bloomberg on 1 October, which we did not confirm directly. The drop in late October is unexplained, so refresh this figure before publishing."
+      },
+      {
+        "claim": "Finished high school in three years",
+        "note": "Moment says he raced through Eleanor Roosevelt High in three years. Academy of Achievement says he graduated in 1990. EBSCO Research Starters says he dropped out after his junior year to enrol at Maryland. We follow Moment, which interviewed the family."
+      },
+      {
+        "claim": "Google's start date",
+        "note": "Google's own history says Google Inc. was officially born after the August 1998 Bechtolsheim cheque. Alphabet's proxy dates Brin's president and chairman role from September 1998. EBSCO gives incorporation as 7 September 1998. We state only the August cheque and the September role."
+      },
+      {
+        "claim": "Ph.D. status",
+        "note": "Google Research and University of Maryland bios, both old, say he is on leave from Stanford's Ph.D. program. Moment calls him a Ph.D. dropout, and Forbes lists only his bachelor's and master's degrees. We say he never finished it, which all of these support."
+      },
+      {
+        "claim": "Personal social media accounts",
+        "note": "We found no verified personal account on any platform. Low-quality biography sites make claims in both directions, and accounts using his name could not be verified, so none is listed. The absence is our finding, not a statement from Brin."
+      },
+      {
+        "claim": "Brin's family office, Bayshore Global Management",
+        "note": "Left out of contact. Puck reported in 2022 that it has no website. A LinkedIn page with a misspelt web address looks unofficial. The site bayshore.global claims to be its German arm and advertises free investment advice through a WhatsApp group; we could not verify any link to Brin's office and did not treat it as official."
+      },
+      {
+        "claim": "LTA Research founding year",
+        "note": "IEEE Spectrum says Brin founded it in 2015, while Bloomberg says 2016. We give no founding year here."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Sergey Brin, \"LRRK2\", on his blog too (18 Sep 2008)",
+      "url": "https://too.blogspot.com/2008/09/lrrk2.html"
+    },
+    {
+      "label": "Forbes: Sergey Brin real-time profile (viewed 2 Nov 2026)",
+      "url": "https://www.forbes.com/profile/sergey-brin/"
+    },
+    {
+      "label": "Forbes: Where Google cofounder Sergey Brin is putting his new $700 million charitable gift (27 May 2025)",
+      "url": "https://www.forbes.com/sites/phoebeliu/2025/05/27/where-google-cofounder-sergey-brin-is-putting-his-new-700-million-charitable-gift/"
+    },
+    {
+      "label": "Moment Magazine: The Story of Sergey Brin, by Mark Malseed (Feb-Mar 2007)",
+      "url": "https://momentmag.com/the-story-of-sergey-brin/"
+    },
+    {
+      "label": "Academy of Achievement: Sergey Brin biography",
+      "url": "https://achievement.org/achiever/sergey-brin/"
+    },
+    {
+      "label": "Sergey Brin's résumé on his Stanford page (7 Jan 1996)",
+      "url": "http://infolab.stanford.edu/%7Esergey/resume.html"
+    },
+    {
+      "label": "Stephen Wolfram: My Life in Technology, as told at the Computer History Museum (19 Apr 2016)",
+      "url": "https://writings.stephenwolfram.com/2016/04/my-life-in-technology-as-told-at-the-computer-history-museum/"
+    },
+    {
+      "label": "Google Research: Sergey Brin bio",
+      "url": "https://research.google/people/sergeybrin/"
+    },
+    {
+      "label": "Alphabet Inc. 2026 Proxy Statement (DEF 14A, SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000130817926000342/goog-20260424.htm"
+    },
+    {
+      "label": "Alphabet Inc. Form 10-K for fiscal 2025 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+    },
+    {
+      "label": "Alphabet Inc. Form 8-K (SEC, 28 Oct 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/goog-20261028.htm"
+    },
+    {
+      "label": "About Google: Contact Google",
+      "url": "https://about.google/contact-google/"
+    },
+    {
+      "label": "Google, The Keyword: Press corner",
+      "url": "https://www.blog.google/press/"
+    },
+    {
+      "label": "About Google: Locations",
+      "url": "https://about.google/company-info/locations/"
+    },
+    {
+      "label": "About Google: How we started and where we are today",
+      "url": "https://about.google/our-story/"
+    },
+    {
+      "label": "Forbes: Sergey Brin registered to vote in Nevada amid California billionaire tax frenzy (16 Oct 2026)",
+      "url": "https://www.forbes.com/sites/mattdurot/2026/10/16/sergey-brin-registered-to-vote-in-nevada-amid-california-billionaire-tax-frenzy/"
+    },
+    {
+      "label": "New York magazine, Intelligencer: Billionaires ditching California still face tax threat (16 Jul 2026)",
+      "url": "https://nymag.com/intelligencer/article/billionaires-ditching-california-still-face-tax-threat.html"
+    },
+    {
+      "label": "CNBC: Google messed up Gemini launch, Sergey Brin says (4 Mar 2024)",
+      "url": "https://www.cnbc.com/2024/03/04/sergey-brin-says-google-definitely-messed-up-with-gemini-launch-.html"
+    },
+    {
+      "label": "IEEE Spectrum: LTA Research airship flies over San Francisco Bay (27 May 2025)",
+      "url": "https://spectrum.ieee.org/lta-research-airship-pathfinder-1"
+    },
+    {
+      "label": "LTA Research official website",
+      "url": "https://ltaresearch.com/"
+    },
+    {
+      "label": "Global Support and Development: Contact",
+      "url": "https://www.gsd.ngo/en/contact"
+    },
+    {
+      "label": "TechCrunch: The world's largest aircraft breaks cover in Silicon Valley (8 Nov 2023)",
+      "url": "https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/"
+    },
+    {
+      "label": "Aligning Science Across Parkinson's: Contact Us",
+      "url": "https://parkinsonsroadmap.org/contact-us/"
+    },
+    {
+      "label": "Aligning Science Across Parkinson's: $261 million funding announcement (28 Apr 2026)",
+      "url": "https://parkinsonsroadmap.org/news/261m-investment-toward-personalized-treatments/"
+    },
+    {
+      "label": "The Michael J. Fox Foundation: Contact Us",
+      "url": "https://www.michaeljfox.org/contact-us"
+    },
+    {
+      "label": "The Michael J. Fox Foundation: Aligning Science Across Parkinson's initiative",
+      "url": "https://www.michaeljfox.org/asap"
+    },
+    {
+      "label": "Inside Philanthropy: How to get a grant from the Sergey Brin Family Foundation (20 Aug 2026)",
+      "url": "https://www.insidephilanthropy.com/find-a-grant/grants-b/sergey-brin-family-foundation"
+    },
+    {
+      "label": "Google, The Keyword: official blog home page (links to Google's official social accounts)",
+      "url": "https://blog.google/"
+    },
+    {
+      "label": "Google for Startups official website",
+      "url": "https://startup.google.com/"
+    },
+    {
+      "label": "Aligning Science Across Parkinson's official website",
+      "url": "https://parkinsonsroadmap.org/"
+    },
+    {
+      "label": "eWeek: Google's co-founder in office 'pretty much every day' to work on AI (23 May 2025)",
+      "url": "https://www.eweek.com/news/google-office-sergey-brin-gemini-ai/"
+    },
+    {
+      "label": "Sergey Brin's blog too (home page)",
+      "url": "https://too.blogspot.com/"
+    },
+    {
+      "label": "University of Maryland Department of Computer Science: Sergey Brin alumnus page",
+      "url": "https://www.cs.umd.edu/community/alumnus/sergey-brin"
+    }
+  ]
+}

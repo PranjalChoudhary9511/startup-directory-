@@ -1,0 +1,404 @@
+{
+  "slug": "quibi",
+  "name": "Quibi",
+  "region": "global",
+  "country": "United States",
+  "city": "Los Angeles",
+  "sector": "Mobile video streaming",
+  "founded": 2018,
+  "died": 2020,
+  "status": "shut-down",
+  "brandColor": "#f45b69",
+  "founders": [
+    {
+      "name": "Jeffrey Katzenberg",
+      "role": "Founder and chairman (ex-DreamWorks, ex-Disney)"
+    },
+    {
+      "name": "Meg Whitman",
+      "role": "CEO (ex-eBay, ex-HP)"
+    }
+  ],
+  "epitaph": "Quick bites. Quicker goodbye.",
+  "oneLiner": "A phone-only streaming app of Hollywood shows in 10-minute 'quick bites', backed by $1.75 billion.",
+  "causeOfDeath": "It spent big on Hollywood shows for phones without proving people would pay for them, then launched phone-only into lockdown, when everyone was home.",
+  "raisedUsdM": 1750,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "$1.75B raised (TechCrunch, WSJ via Wikipedia). About $350M was reported left to return to shareholders. Roku's price for the content was undisclosed (reported under $100M).",
+  "moneySrc": [
+    0,
+    1,
+    3
+  ],
+  "inOneMinute": [
+    "Two of the most famous executives in America raised **$1.75 billion** to make Hollywood-quality shows in episodes of **10 minutes or less**, for phones only.",
+    "It launched in April 2020, when **people were stuck at home** with big TVs, not commuting. About 92% of early trial users didn't stay.",
+    "Quibi shut down after about six months. Its founders admitted the idea itself **may not have been strong enough** for a standalone streaming service."
+  ],
+  "killerLine": "Money and famous names can't replace one thing: **evidence that real people want your product and will pay for it.**",
+  "numbers": [
+    {
+      "value": "$1.75B",
+      "label": "raised before and soon after launch",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "~6 months",
+      "label": "from launch to shutdown announcement",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "value": "92%",
+      "label": "of first-weekend trial users who didn't stay to pay",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$150M",
+      "label": "first-year ads sold before launch",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Hollywood, in quick bites",
+      "body": "Jeffrey Katzenberg had run Disney's film studio and co-founded DreamWorks Animation. Meg Whitman had led eBay and HP. In August 2018 they started a company soon renamed **Quibi, short for 'quick bites'**. The pitch was \"an HBO for smartphones\": big-budget shows with movie stars, chopped into episodes of 10 minutes or less, made to watch on your phone while commuting or waiting in a queue. They raised **$1 billion** in the first round. Investors included Disney, Sony Pictures, WarnerMedia, Viacom, MGM, Alibaba, Goldman Sachs and JPMorgan. Few startups in history have had such powerful backers or such famous founders.",
+      "src": [
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The rise: sold out before launch",
+      "body": "Quibi spent over **$1 billion on its first year of content**: about 8,500 episodes across 175+ shows, with stars like Jennifer Lopez, Liam Hemsworth and Chrissy Teigen. Advertisers were convinced too. Before launch, Quibi **sold out its $150 million of first-year ads** to brands like Procter & Gamble, PepsiCo, Walmart and Taco Bell. It eventually raised $1.75 billion. On 6 April 2020, Quibi launched in the US and Canada at $4.99 a month with ads or $7.99 without, after a 90-day free trial. It got about 300,000 downloads on day one and reached No. 3 on Apple's App Store. That sounds good, until you learn that Disney+ had about 4 million on its launch day.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The cracks: wrong moment, wrong format",
+      "body": "Quibi was built for moments outside the home: trains, buses, coffee queues. But it launched just as **COVID-19 lockdowns kept people at home**, with big TVs and Netflix. Yet at launch you could only watch Quibi on a phone; TV apps arrived only in October 2020. Katzenberg told The New York Times: **\"I attribute everything that has gone wrong to coronavirus. Everything. But we own it.\"** The numbers were worse than planned. Of about 910,000 people who started free trials in the first three days, data firm Sensor Tower estimated **only about 8% stayed** after the trial ended. Quibi said that estimate was badly wrong.",
+      "src": [
+        0,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The fall: six months and done",
+      "body": "Quibi had projected 7.4 million subscribers in year one; by June 2020 it expected about 2 million. It added TV apps and a free version in Australia, and Katzenberg reportedly tried to sell the company to Apple, Facebook and WarnerMedia. No deal came. On 21 October 2020, about six months after launch, the founders announced Quibi would close, with roughly **500,000 subscribers**. In their farewell note, they wrote that the idea perhaps **\"wasn't strong enough to justify a standalone streaming service\"**, or that their timing was off. Streaming ended on 1 December 2020. About $350 million was reportedly returned to investors. In January 2021, Roku bought the shows.",
+      "src": [
+        0,
+        3,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Aug 2018",
+      "event": "Katzenberg and Whitman found 'NewTV' and raise $1B",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2018",
+      "event": "Company renamed Quibi, for 'quick bites'",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2019",
+      "event": "Sells out $150M of first-year ads before launch",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "6 Apr 2020",
+      "event": "Launches during COVID-19 lockdowns; about 300,000 downloads on day one",
+      "kind": "start",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "May 2020",
+      "event": "Katzenberg blames the coronavirus for a launch 'not close to what we wanted'",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jun 2020",
+      "event": "Raises another $750M; year-one forecast cut to about 2M subscribers",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2020",
+      "event": "Sensor Tower: about 92% of first-weekend trial users didn't stay",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Sep 2020",
+      "event": "Reportedly looks for a buyer; none found",
+      "kind": "crisis",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "21 Oct 2020",
+      "event": "Founders announce shutdown with about 500,000 subscribers",
+      "kind": "end",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "1 Dec 2020",
+      "event": "Quibi stops streaming",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "event": "Roku buys the rights to Quibi's shows",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Year-one subscribers: plan vs reality",
+      "unit": "million subscribers",
+      "kind": "bar",
+      "labels": [
+        "Original target",
+        "Forecast (Jun 2020)",
+        "At shutdown (Oct 2020)"
+      ],
+      "series": [
+        {
+          "name": "Subscribers",
+          "values": [
+            7.4,
+            2,
+            0.5
+          ]
+        }
+      ],
+      "takeaway": "Quibi reached well under a tenth of its year-one target. The plan was built on demand that was never tested.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Aug 2018",
+      "round": "First round",
+      "amountUsdM": 1000,
+      "valuationUsdM": null,
+      "investors": [
+        "Disney",
+        "Sony Pictures",
+        "WarnerMedia",
+        "Viacom",
+        "MGM",
+        "Alibaba",
+        "Goldman Sachs",
+        "JPMorgan"
+      ],
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Jan–Jun 2020",
+      "round": "Second round",
+      "amountUsdM": 750,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "no-market",
+      "weight": 45
+    },
+    {
+      "key": "timing",
+      "weight": 25
+    },
+    {
+      "key": "competition",
+      "weight": 15
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Never tested if people would pay",
+      "explain": "Quibi spent over $1 billion on content before learning whether viewers would pay for short premium shows when YouTube, Instagram and TikTok offer short videos free. **About 92% of early trial users left** when asked to pay. A small paid test before the big launch could have revealed this for far less money.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "Built for one screen only",
+      "explain": "Quibi was phone-only at launch, so you couldn't watch it on a TV. Its whole design assumed **people watching on the move**. When lockdowns put everyone at home in front of a TV, the phone-only rule became a big handicap. TV apps came only in October 2020, months too late.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Spent like a giant from day one",
+      "explain": "With $1.75 billion, Quibi made 175+ shows and thousands of episodes in year one. **Spending that much before finding product-market fit** (proof that the market wants your product) meant every wrong guess was enormously expensive, and there was no time left to adjust.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Planned for a world that changed",
+      "explain": "Quibi's whole idea depended on people being out and about. It launched as COVID-19 kept them home. Katzenberg blamed the virus, but **the deeper problem was a single bet** on one use case, with no backup plan when circumstances changed.",
+      "src": [
+        6,
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you spending most of your money on product before any customer has paid?",
+    "Does your product work in only one situation (like commuting) that could disappear?",
+    "Are free competitors already offering something people see as similar?",
+    "Does your product work on only one device or screen when your users have several?",
+    "Is your plan built on targets you've never tested with real users?"
+  ],
+  "lessons": [
+    {
+      "title": "Start small, then scale what works",
+      "detail": "Make five episodes, not 8,500. Test with 1,000 paying users, measure who stays, then spend more. Big budgets amplify mistakes as well as successes."
+    },
+    {
+      "title": "Compete with free honestly",
+      "detail": "If YouTube or Instagram gives something similar free, write down in one sentence why someone would pay you. If you can't, rethink."
+    },
+    {
+      "title": "Meet users on every screen they use",
+      "detail": "Quibi only reached TVs six months after launch. Go where your users already are, whether that is a phone, a laptop or the living-room TV."
+    },
+    {
+      "title": "Fame helps raise money, not keep users",
+      "detail": "Famous founders and stars got Quibi attention and investors. Users still decided in seconds whether it was worth their time."
+    },
+    {
+      "title": "Shut down with honesty",
+      "detail": "Quibi's founders admitted the idea might not have been strong enough, and returned leftover money to investors. Owning a failure clearly protects your reputation for next time."
+    }
+  ],
+  "quote": {
+    "text": "I attribute everything that has gone wrong to coronavirus. Everything. But we own it.",
+    "who": "Jeffrey Katzenberg, Quibi founder",
+    "context": "Interview with The New York Times, May 2020, about a month after launch",
+    "src": [
+      6
+    ]
+  },
+  "afterlife": {
+    "text": "Quibi stopped streaming on 1 December 2020, and about $350 million was reportedly left to return to shareholders. In January 2021, Roku bought the rights to Quibi's shows and from May 2021 released them as 'Roku Originals'. The shows had earned Emmy nominations, and #FreeRayshawn won two Emmys in 2020.",
+    "src": [
+      0,
+      3,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Quibi, for funding, subscriber forecasts and dates (citing WSJ, NYT, Variety)",
+      "url": "https://en.wikipedia.org/wiki/Quibi"
+    },
+    {
+      "label": "TechCrunch: Quibi gains 300K launch day downloads (Apr 2020)",
+      "url": "https://techcrunch.com/2020/04/07/quibi-gains-300k-launch-day-downloads-hits-no-3-on-app-store/"
+    },
+    {
+      "label": "TechCrunch: Quibi sells out of its $150M in first-year ad inventory (Oct 2019)",
+      "url": "https://techcrunch.com/2019/10/23/streaming-service-quibi-sells-out-of-its-150m-in-first-year-ad-inventory/"
+    },
+    {
+      "label": "TechCrunch: Quibi is dead (Oct 2020)",
+      "url": "https://techcrunch.com/2020/10/21/quibi-is-dead/"
+    },
+    {
+      "label": "TechCrunch: Report says Quibi lost 92% of its earliest users after free trials expired (Jul 2020)",
+      "url": "https://techcrunch.com/2020/07/08/report-says-quibi-lost-92-of-its-earliest-users-after-free-trials-expired/"
+    },
+    {
+      "label": "TechCrunch: Roku acquires Quibi's content (Jan 2021)",
+      "url": "https://techcrunch.com/2021/01/08/roku-acquires-quibis-content/"
+    },
+    {
+      "label": "TechCrunch: Katzenberg blames coronavirus for Quibi's challenges (May 2020)",
+      "url": "https://techcrunch.com/2020/05/12/quibi-founder-jeffrey-katzenberg-blames-coronavirus-for-the-streaming-apps-challenges/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "92% of early users left after the free trial",
+        "note": "Sensor Tower estimate covering only the first three days of sign-ups; Quibi said the paid-subscriber estimate was off by 'an order of magnitude'."
+      },
+      {
+        "claim": "Roku paid under $100M",
+        "note": "Reported figure; Roku and Quibi did not disclose terms."
+      },
+      {
+        "claim": "About $350M returned to investors",
+        "note": "Reported by The Information; final figure not officially published."
+      }
+    ]
+  }
+}

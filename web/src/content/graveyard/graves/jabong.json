@@ -1,0 +1,207 @@
+{
+  "slug": "jabong",
+  "name": "Jabong",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Fashion e-commerce",
+  "founded": 2012,
+  "died": 2020,
+  "status": "absorbed-and-closed",
+  "brandColor": "#f26a21",
+  "founders": [
+    { "name": "Praveen Sinha", "role": "Co-founder, Managing Director" },
+    { "name": "Arun Chandra Mohan", "role": "Co-founder, CEO" },
+    { "name": "Lakshmi Potluri", "role": "Co-founder" },
+    { "name": "Manu Kumar Jain", "role": "Co-founder" },
+    { "name": "Mukul Bafana", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Always on sale. Finally, so was it.",
+  "oneLiner": "An online fashion store, started by Germany's Rocket Internet, that sold clothes, shoes and accessories from 1,000+ brands.",
+  "causeOfDeath": "It bought customers with discounts it could not afford, lost the fashion race to Myntra, and was shut by the very rival that bought it.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 70,
+  "moneyNote": "Jabong was funded through its parent Global Fashion Group, so its own funding total was never published. The $70M sale price (about ₹470 crore, at roughly ₹67 per dollar in 2016) is from deal reports. The ~$1.2B figure from 2014 was a reported talk price, not a closed deal.",
+  "moneySrc": [0, 3, 5],
+
+  "inOneMinute": [
+    "Jabong grew fast by **selling clothes for less than they cost it**. In early 2014 its gross margin was minus 17.5%.",
+    "In 2014 Amazon reportedly discussed buying it for about **$1.2 billion**. Talks broke down over price. Eighteen months later it sold for **$70 million**.",
+    "Myntra bought Jabong, merged it, then **shut it in 2020** and sent every visitor to Myntra."
+  ],
+  "killerLine": "If customers only come for the discount, **you have rented them, not won them**. The day the sale ends, so do they.",
+
+  "numbers": [
+    { "value": "−17.5%", "label": "gross margin in Jan–Jun 2014: it lost money on goods even before paying for ads", "src": [1] },
+    { "value": "~$1.2 bn", "label": "price reportedly discussed with Amazon in Nov 2014 (no deal)", "src": [3, 8] },
+    { "value": "$70 mn", "label": "what Myntra actually paid in July 2016, in cash", "src": [0, 5] },
+    { "value": "$290 mn", "label": "value Walmart wrote off on the Jabong name in 2019", "src": [5] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a fashion mall on your phone",
+      "body": "In 2012, very few Indians bought clothes online. Jabong set out to change that. It was built by Rocket Internet, a German company famous for copying successful online businesses and launching them fast in new countries. A team of young Indian founders, including Praveen Sinha and Arun Chandra Mohan, ran it from Gurugram. Jabong listed **over 1,000 brands** of clothes, shoes, bags and beauty products. It ran TV ads within months of launch and sponsored a football club in the Indian Super League. By March 2013 it was **shipping over 6,000 orders a day**. The founders did something hard and real: they taught a whole generation that you could order a shirt online and return it if it did not fit.",
+      "src": [7, 1]
+    },
+    {
+      "title": "The rise: growth bought with discounts",
+      "body": "Jabong grew at a scary pace. In the first half of 2014, its revenue almost tripled to **₹324.7 crore**, from ₹113.3 crore a year earlier. Orders shipped jumped from 1.18 million to 3.2 million. But look under the hood. Its gross margin (what is left after paying for the goods you sold) was **minus 17.5%**. That means for every ₹100 of clothes it sold, it was down ₹17.50 before paying a single rupee for staff, warehouses or ads. Jabong itself blamed the \"market pressure of higher discounts\". In November 2014, reports said Amazon was in talks to buy Jabong for about $1.2 billion. The talks fell apart in January 2015 over price.",
+      "src": [1, 3]
+    },
+    {
+      "title": "The cracks: stop the discounts, lose the customers",
+      "body": "Jabong had been folded into Global Fashion Group, Rocket Internet's group of fashion stores in emerging markets. The parent wanted losses cut. In September 2015 CEO Arun Chandra Mohan resigned, and by December an outside CEO, Sanjeev Mohanty, had taken over from Praveen Sinha. Every co-founder was now gone. The new team cut discounts, and the losses shrank. But so did the business. In the last three months of 2015, **orders fell 41.5%** compared with a year earlier, and revenue fell 19.3%. Meanwhile, Flipkart had bought rival Myntra in 2014, so Jabong now faced a competitor with deep pockets. From September 2015, its investors were openly trying to sell it.",
+      "src": [4, 2, 3, 0]
+    },
+    {
+      "title": "The fall: bought by the rival, then switched off",
+      "body": "In early 2016 Jabong finally made a small gross profit. Too late. In July 2016, **Myntra bought Jabong for $70 million in cash**, a fraction of the $1.2 billion once discussed with Amazon. For two years Flipkart ran both brands side by side. Then in 2018 Walmart bought Flipkart. The two fashion stores were merged and about 150 people lost their jobs. Running two brands meant paying for two sets of ads, so Jabong's marketing was cut and shoppers were nudged to Myntra. In November 2019 Walmart **wrote off $290 million** it had valued the Jabong name at. In February 2020 Jabong's website and app began redirecting everyone to Myntra. The tombstone was a URL redirect.",
+      "src": [0, 5, 3]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2012", "event": "Jabong launches in Gurugram, built by Rocket Internet; first TV ad campaign in March", "kind": "start", "src": [7] },
+    { "date": "Mar 2013", "event": "Ships over 6,000 orders a day", "kind": "peak", "src": [7] },
+    { "date": "May 2014", "event": "Flipkart buys Jabong's biggest rival, Myntra", "kind": "warning", "src": [0] },
+    { "date": "Jan–Jun 2014", "event": "Revenue almost triples to ₹324.7 crore, but gross margin is −17.5%", "kind": "warning", "src": [1] },
+    { "date": "Nov 2014", "event": "Amazon reportedly in talks to buy Jabong for about $1.2 billion; talks collapse in Jan 2015 over price", "kind": "peak", "src": [3, 8] },
+    { "date": "Sep 2015", "event": "CEO Arun Chandra Mohan resigns; parent pushes to cut losses; owners start looking for a buyer", "kind": "crisis", "src": [4, 3] },
+    { "date": "Oct–Dec 2015", "event": "With discounts cut, orders fall 41.5% year-on-year; outsider Sanjeev Mohanty becomes CEO", "kind": "crisis", "src": [2] },
+    { "date": "Jul 2016", "event": "Myntra (owned by Flipkart) buys Jabong for $70 million in cash", "kind": "money", "src": [0, 5] },
+    { "date": "Nov 2018", "event": "After Walmart buys Flipkart, Myntra and Jabong merge; about 150 jobs cut", "kind": "warning", "src": [0] },
+    { "date": "Nov 2019", "event": "Walmart takes a $290 million write-off on the Jabong brand name", "kind": "crisis", "src": [5] },
+    { "date": "Feb 2020", "event": "Jabong's website and app start redirecting all shoppers to Myntra", "kind": "end", "src": [0] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs operating loss (January–June)",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["H1 2013", "H1 2014"],
+      "series": [
+        { "name": "Net revenue", "values": [113.3, 324.7] },
+        { "name": "Operating loss", "values": [133.4, 163] }
+      ],
+      "takeaway": "Revenue tripled, but the loss still grew. Growth was being bought, not earned.",
+      "src": [1]
+    },
+    {
+      "title": "Orders in Oct–Dec, before and after discounts were cut",
+      "unit": "million orders",
+      "kind": "bar",
+      "labels": ["Q4 2014", "Q4 2015"],
+      "series": [{ "name": "Orders", "values": [2.0, 1.2] }],
+      "takeaway": "When Jabong trimmed discounts to stop the bleeding, a big chunk of its customers simply left.",
+      "src": [2]
+    }
+  ],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "unit-economics", "weight": 35 },
+    { "key": "competition", "weight": 30 },
+    { "key": "burn", "weight": 20 },
+    { "key": "team", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Selling below cost to look big",
+      "explain": "In the first half of 2014 Jabong's gross margin was minus 17.5%. It was **losing money on the clothes themselves**, before rent, salaries or ads. Big discounts made the revenue chart look amazing, but every extra order made the hole deeper. Growth like this only works while someone keeps paying the bill.",
+      "src": [1]
+    },
+    {
+      "title": "Turning down the best exit it would ever get",
+      "explain": "In late 2014, Amazon reportedly discussed buying Jabong for about $1.2 billion. The talks broke down over valuation. Within 18 months, the owners were trying to sell for **$250–300 million**, and finally took **$70 million**. In a hot market, a fair offer today can beat a dream price that never comes.",
+      "src": [3]
+    },
+    {
+      "title": "Customers who came only for the sale",
+      "explain": "When the new team cut discounts in 2015, the losses shrank, but orders fell 41.5% in a single quarter. That shows **shoppers were loyal to the price, not to Jabong**. It had not built a reason to come back, like better fit, faster delivery or styles no one else had.",
+      "src": [2]
+    },
+    {
+      "title": "All the founders gone in three years",
+      "explain": "By the end of 2015 every co-founder had left, and the parent company's finance chief was running buying in the meantime. The parent was pressing hard to cut losses. **Constant changes at the top** made it hard to hold a long-term plan against Myntra, which was backed by Flipkart's money.",
+      "src": [4, 2]
+    },
+    {
+      "title": "The owner's choice: one brand, not two",
+      "explain": "This last part was not Jabong's fault. Flipkart owned both Myntra and Jabong. After Walmart bought Flipkart, paying for two fashion brands made little sense. **Jabong's ads were cut and shoppers were moved to Myntra**. Once its owner chose the other child, Jabong had no way to fight back.",
+      "src": [0, 5]
+    }
+  ],
+
+  "warningSigns": [
+    "Is our gross margin (price minus cost of the product) negative on most orders?",
+    "If we stopped discounts for one month, would most of our customers disappear?",
+    "Have we said no to a serious buyer only because we wanted a higher price, without a plan for if that price never returns?",
+    "Have more than half the founding team left in the last two years?",
+    "Is a much richer competitor offering the same thing, with nothing that makes us different?",
+    "Does our parent company or main investor also own a rival?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Check your margin before you celebrate your revenue",
+      "detail": "Revenue tells you how much people bought. Gross margin tells you if each sale made you richer or poorer. If it is negative, growing faster only means losing money faster. Track it every month, even if you are tiny."
+    },
+    {
+      "title": "Run a 'no discount' test early",
+      "detail": "Pull your discount for a small group of customers for two weeks and see who still buys. Those people are your real customers. Build the business around them, not around the bargain-hunters."
+    },
+    {
+      "title": "Give people a reason that is not price",
+      "detail": "Jabong sold the same brands as everyone else. Find one thing only you do well: a size guide that actually works, faster returns, or a style niche. A rich rival can always cut prices more than you."
+    },
+    {
+      "title": "Take a good deal seriously in a hot market",
+      "detail": "Valuations can fall more than 90% in two years, as Jabong's did. If someone serious offers to buy your company, compare the offer with a realistic worst case, not with your best dream."
+    },
+    {
+      "title": "Know who you depend on",
+      "detail": "If one owner or partner controls your fate, and they also own a competitor, you are not fully in charge. Write down what happens to you if they pick the other side, and have a plan for it."
+    }
+  ],
+
+  "quote": {
+    "text": "we are taking a non-cash impairment charge on the trade name.",
+    "who": "Brett Biggs, Chief Financial Officer, Walmart",
+    "context": "Explaining the $290 million write-off of the Jabong name in November 2019, months before the site was switched off.",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "Since February 2020, typing jabong.com takes you to Myntra. The Jabong team, technology and back office had already been folded into Myntra in 2018. Myntra stayed Flipkart's single big fashion brand. The Jabong name lives on mainly as a lesson in how a startup can be worth a billion-dollar conversation one year and a write-off a few years later.",
+    "src": [0, 5]
+  },
+
+  "sources": [
+    { "label": "Inc42: Jabong out of picture, Flipkart to focus on Myntra (Feb 2020)", "url": "https://inc42.com/buzz/jabong-out-of-picture-flipkart-to-focus-on-myntra" },
+    { "label": "MediaNama: Jabong H1 2014 earnings", "url": "https://www.medianama.com/2014/11/223-jabong-h1-2014-earnings/" },
+    { "label": "MediaNama: Jabong Q4 2015 and full-year 2015 results", "url": "https://www.medianama.com/2016/04/223-jabong-revenues-decline-19-3-to-rs-270-75-crore-in-q4-2015/" },
+    { "label": "MediaNama: Jabong up for sale; Amazon talks history (Jul 2016)", "url": "https://www.medianama.com/2016/07/223-jabong-sale-2/" },
+    { "label": "Inc42: Jabong CEO and MD quit (Sep 2015)", "url": "https://inc42.com/buzz/jabong-ceo-md-quits" },
+    { "label": "The News Minute: Walmart takes $290 mn hit due to Jabong (Nov 2019)", "url": "https://www.thenewsminute.com/money/flipkart-s-parent-company-walmart-takes-290-mn-hit-due-jabong-112394" },
+    { "label": "Inc42: What the financials — Jabong FY19", "url": "https://inc42.com/features/what-the-financials-jabongs-cost-cutting-backed-by-revenue-growth" },
+    { "label": "Wikipedia: Jabong.com", "url": "https://en.wikipedia.org/wiki/Jabong.com" },
+    { "label": "Business Standard: Amazon in talks to buy Jabong for $1.2 bn (Nov 2014)", "url": "https://www.business-standard.com/article/companies/amazon-in-talks-to-buy-jabong-for-1-2-bn-114112700030_1.html" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Jabong raised about $250 million over its life.", "note": "Reported by YourStory citing unnamed sources; never confirmed because funding flowed through Global Fashion Group. Left out of the money numbers." },
+      { "claim": "The Amazon deal valued Jabong at $1.2 billion.", "note": "Based on anonymous sources (first reported by VCCircle). Amazon and Jabong never confirmed it, and no deal was signed. Shown only as a 'reported' figure." },
+      { "claim": "Exact list of co-founders.", "note": "Sources differ on whether Mukul Bafana and Manu Kumar Jain are counted as co-founders; most name Sinha, Mohan and Potluri." },
+      { "claim": "Jabong's yearly financials.", "note": "Figures differ by entity (Xerion Retail, Jade eServices) and by calendar vs Indian financial year, so only like-for-like periods reported by MediaNama from Rocket Internet results are charted." }
+    ]
+  }
+}

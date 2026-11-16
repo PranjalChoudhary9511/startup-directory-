@@ -1,0 +1,376 @@
+{
+  "slug": "doodhwala",
+  "name": "Doodhwala",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Milk & grocery subscription",
+  "founded": 2015,
+  "died": 2019,
+  "status": "shut-down",
+  "brandColor": "#2e9e5b",
+  "founders": [
+    {
+      "name": "Ebrahim Akbari",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Aakash Agarwal",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Came every morning before 7. Then one day, didn't.",
+  "oneLiner": "An app milkman: you subscribed once, and fresh milk and groceries reached your door before 7 am every day.",
+  "causeOfDeath": "It expanded on the hope of a big funding round that never closed, then ran out of cash to pay its suppliers and staff.",
+  "raisedUsdM": 4,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "Inc42 reported about $4 million raised in total (including a $2.2 million seed round from Omnivore in Feb 2018). A ₹85 crore Series A at a $40 million valuation was discussed in 2018 but never confirmed closed. FreshToHome took over customers' wallet balances but did not pay to buy the business.",
+  "moneySrc": [
+    0,
+    4,
+    5,
+    1
+  ],
+  "inOneMinute": [
+    "Doodhwala delivered **over 30,000 litres of milk a day** before 7 am in Bengaluru, Pune and Hyderabad.",
+    "It expected a ₹85 crore funding round to close by January 2019. **It never did**, and salaries started slipping in May.",
+    "By October 2019 it stopped deliveries. Vendors said they were owed **₹6–7 crore** and filed a police complaint."
+  ],
+  "killerLine": "Money is only raised when it is **in the bank**. Never spend a round that is still 'at an advanced stage'.",
+  "numbers": [
+    {
+      "value": "4 lakh+",
+      "label": "deliveries a month in early 2018",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "30,000 L",
+      "label": "milk delivered daily before 7 am",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "₹85 cr",
+      "label": "Series A it was raising in late 2018, never confirmed",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "₹6–7 cr",
+      "label": "vendors allege they were owed at the end",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "In most Indian homes, milk arrives every morning from a local milkman. Ebrahim Akbari and Aakash Agarwal saw this as a giant, messy market. In 2015 in Bengaluru they started Doodhwala, an **app-based milkman**. You set up a subscription once. Before 7 am each day, milk, and later bread, eggs, vegetables and meat, appeared at your door. Doodhwala bought directly from farms and dairies and ran its own delivery boys. Akbari said the milkman market was \"highly fragmented and disorganized\" with \"very low customer satisfaction\". He was right. Daily habits are **sticky**: once people subscribe, they rarely switch.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "Doodhwala grew quietly and fast. In 2017 it raised money from Thomas Varkey of US fund Stonehill Capital. In February 2018 Omnivore, a well-known farm and food investor, led a **$2.2 million seed round** and joined the board. By then Doodhwala was making about 400,000 deliveries a month in Bengaluru and Pune, and later added Hyderabad. At its peak it delivered **over 30,000 litres of milk every morning**, 60% of it in Bengaluru. In November 2018, Akbari said talks for a much bigger round, around ₹85 crore at a $40 million valuation, were \"at a fairly advanced stage\" and would close by January 2019.",
+      "src": [
+        4,
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "January 2019 came and went. Around May, talks with a US investor reportedly fell through. That same month staff were told their **salaries would be late**. June pay was delayed too. July's was paid, and then pay stopped. On 27 August some staff were laid off with promises that dues would be cleared soon. Vendors who supplied milk and groceries also went unpaid. One dairy said a ₹9.6 lakh cheque bounced. Some stopped supplying in September. Meanwhile, deep-pocketed rivals were moving in: Swiggy bought milk subscription startup Supr Daily in July 2019, and BigBasket was pushing its own daily service, BBDaily.",
+      "src": [
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In October 2019, a short note on the website said services were stopping due to \"unforeseen circumstances\". Customers in Bengaluru were moved to FreshToHome's new daily app, along with their wallet balances. FreshToHome said it had **not bought Doodhwala**. Some customers said orders and refunds went missing. On 22 October, about 20 employees filed a police complaint (FIR) over unpaid salaries. In November, around 30–35 vendors filed one too, saying they were owed **₹6–7 crore**. Vendors said the founders could not be reached. Akbari told The News Minute the company had only shut its consumer business and he was working on a resolution.",
+      "src": [
+        0,
+        2,
+        1,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Ebrahim Akbari and Aakash Agarwal start Doodhwala in Bengaluru.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2017",
+      "event": "Raises an undisclosed amount from Thomas Varkey of Stonehill Capital.",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "event": "Raises $2.2 million led by Omnivore; about 400,000 deliveries a month.",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Nov 2018",
+      "event": "Says a ~₹85 crore Series A at a $40 million valuation will close by January 2019.",
+      "kind": "peak",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "May 2019",
+      "event": "Talks with a US investor reportedly fall through; salaries start getting delayed.",
+      "kind": "warning",
+      "src": [
+        3,
+        2
+      ]
+    },
+    {
+      "date": "27 Aug 2019",
+      "event": "Some employees laid off with promises that dues will be cleared.",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Sep 2019",
+      "event": "A dairy's ₹9.6 lakh cheque bounces; some vendors stop supplying.",
+      "kind": "crisis",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "Oct 2019",
+      "event": "Stops deliveries; Bengaluru customers moved to FreshToHome's FTHDaily app.",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "22 Oct 2019",
+      "event": "About 20 employees file an FIR over unpaid salaries.",
+      "kind": "after",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "event": "About 30–35 vendors file an FIR alleging ₹6–7 crore in unpaid dues.",
+      "kind": "after",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "2017",
+      "round": "Pre-Series A",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Thomas Varkey (Stonehill Capital)"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "round": "Seed",
+      "amountUsdM": 2.2,
+      "valuationUsdM": null,
+      "investors": [
+        "Omnivore"
+      ],
+      "src": [
+        4
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "funding-dried",
+      "weight": 45
+    },
+    {
+      "key": "over-expansion",
+      "weight": 25
+    },
+    {
+      "key": "governance",
+      "weight": 20
+    },
+    {
+      "key": "competition",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Spent as if the big round had already arrived",
+      "explain": "In late 2018 the founder said an ₹85 crore round was at an advanced stage. Inc42 later reported the company **could not raise fresh funds after its rapid expansion**. A term sheet or a friendly meeting is not money. When the round fell through, there was no cushion left to pay staff and suppliers.",
+      "src": [
+        5,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Let unpaid bills pile up instead of shrinking early",
+      "explain": "Salaries slipped from May 2019, but deliveries in three cities kept running until October. By then vendors said they were owed **₹6–7 crore**, and employees said provident fund and tax payments had not been made since April. Shrinking to one profitable city in May might have saved the company, or at least let it close with debts paid.",
+      "src": [
+        2,
+        1
+      ]
+    },
+    {
+      "title": "Kept staff and suppliers in the dark",
+      "explain": "An employee said: \"They didn't tell us that the business would shut.\" Vendors said phones were off. Silence turned a business failure into **police complaints**. Hard news told early and honestly gives people time to plan, and keeps the founder's name clean for the future.",
+      "src": [
+        3,
+        1
+      ]
+    },
+    {
+      "title": "Grew wide in a market giants were entering",
+      "explain": "Doodhwala added cities and products (meat, vegetables, groceries) while Swiggy and BigBasket were moving into the same morning-delivery market with far more money. A small player can win by being the **best in a few neighbourhoods**. Spreading thin made it an easy target.",
+      "src": [
+        0,
+        6,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you spending money from a round that has not hit your bank account yet?",
+    "Have you delayed a salary or a supplier payment even once in the last six months?",
+    "Has any PF or TDS deposit been late or skipped?",
+    "If your next round failed tomorrow, would you have no written plan for what to cut first?",
+    "Do your team and suppliers hear bad news from rumours before they hear it from you?"
+  ],
+  "lessons": [
+    {
+      "title": "Count only banked money",
+      "detail": "Make your budget using money already in your account. Treat any 'advanced talks' as zero until the cash lands. If a round is late by two months, start cutting."
+    },
+    {
+      "title": "Pay suppliers and staff before growth",
+      "detail": "In a daily-delivery business, farmers and dairies are your lifeline. Keep a rule: no new city or product launch while any vendor or salary payment is overdue."
+    },
+    {
+      "title": "Win a neighbourhood, not a map",
+      "detail": "Daily delivery makes money when many homes on one street order. Fill one area densely before going to the next. It cuts delivery cost per order and makes you hard to dislodge."
+    },
+    {
+      "title": "Never touch PF or tax money",
+      "detail": "Money deducted from salaries for provident fund or tax belongs to employees and the government. Not depositing it can bring legal trouble for the founders personally."
+    },
+    {
+      "title": "If you must close, close loudly and fairly",
+      "detail": "Tell staff, vendors and customers directly. Share what you can pay and when. A painful, honest shutdown lets you build again; a silent one follows you for years."
+    }
+  ],
+  "quote": {
+    "text": "I understand that most/all of you are distressed at the situation that you find yourselves in",
+    "who": "Ebrahim Akbari, co-founder & CEO",
+    "context": "In a 12 November 2019 email to employees owed months of salary, as reported by Inc42.",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "FreshToHome's daily app took over Doodhwala's Bengaluru customers and wallet balances, but said it had not acquired the company. Employees and vendors filed separate police complaints at Bengaluru's Ulsoor police station in late 2019. We found no public report of the dues being settled. The market Doodhwala helped create consolidated fast: Swiggy bought Supr Daily in 2019, and BigBasket moved to buy DailyNinja and Milkbasket in 2020.",
+    "src": [
+      0,
+      1,
+      2,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Inc42: Doodhwala shuts down; FreshToHome supports delivery for its customers (Oct 2019)",
+      "url": "https://inc42.com/buzz/doodhwala-shuts-down-freshtohome-supports-its-delivery-services"
+    },
+    {
+      "label": "Inc42: Doodhwala vendors file FIR against 'absconding' founders for unpaid dues (Nov 2019)",
+      "url": "https://inc42.com/buzz/exclusive-doodhwala-vendors-file-fir-against-absconding-founders-for-unpaid-dues"
+    },
+    {
+      "label": "Inc42: Doodhwala employees also file FIR against founders over unpaid salaries (Nov 2019)",
+      "url": "https://inc42.com/?p=179736"
+    },
+    {
+      "label": "The News Minute: Accused of absconding with pending dues, Doodhwala co-founder says working on resolution (Nov 2019)",
+      "url": "https://www.thenewsminute.com/atom/accused-absconding-pending-dues-doodhwala-co-founder-says-working-resolution-112705"
+    },
+    {
+      "label": "AgFunderNews: Indian milk delivery disrupter raises $2.2m seed round from Omnivore (Feb 2018)",
+      "url": "https://agfundernews.com/doodhwala-raises-seed-omnivore"
+    },
+    {
+      "label": "Inshorts (citing VCCircle): Bengaluru startup Doodhwala to raise ₹85 crore (Nov 2018)",
+      "url": "https://inshorts.com/en/news/bengaluru-startup-doodhwala-to-raise-₹85-crore-report-1543396799882"
+    },
+    {
+      "label": "Inc42: BigBasket close to acquiring Milkbasket, DailyNinja (Mar 2020)",
+      "url": "https://inc42.com/?p=200731"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "The founders 'absconded'.",
+        "note": "This is the vendors' allegation in their police complaint. Akbari told The News Minute the company had only shut its consumer business and he was working on a resolution. No court has ruled on it."
+      },
+      {
+        "claim": "Total funding raised.",
+        "note": "Inc42's article body says $4 million; its summary line says $14.4 million; other trackers list only the $2.2 million seed. We use $4 million."
+      },
+      {
+        "claim": "$40 million valuation.",
+        "note": "The founder described this as the target post-money valuation of a round in talks in 2018. We found no confirmation that the round closed, so it is not used as a peak valuation."
+      },
+      {
+        "claim": "Founding year.",
+        "note": "Inc42 and The News Minute say 2015; AgFunderNews says 2016."
+      },
+      {
+        "claim": "PF and income tax deductions not deposited since April 2019.",
+        "note": "Employees' allegation reported by Inc42; not confirmed by authorities."
+      }
+    ]
+  }
+}

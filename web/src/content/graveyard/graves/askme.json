@@ -1,0 +1,174 @@
+{
+  "slug": "askme",
+  "name": "AskMe",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Local search & e-commerce",
+  "founded": 2010,
+  "died": 2016,
+  "status": "bankrupt",
+  "brandColor": "#f26522",
+  "founders": [
+    { "name": "Sidharth Gupta", "role": "Co-founder & former CEO, Getit" },
+    { "name": "Sanjiv Gupta", "role": "Managing Director, AskMe Group (2012–2016)" }
+  ],
+
+  "epitaph": "Asked one investor for everything. It said no.",
+  "oneLiner": "A group of apps (local listings, an online bazaar, grocery, payments, furniture) run by Getit and funded by Malaysia's Astro.",
+  "causeOfDeath": "Its one big investor, owning 98.5%, stopped funding a business that had never turned a profit, and there was no one else to call.",
+
+  "raisedUsdM": 300,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "About $300 million is majority investor Astro's own figure for what it put into Getit over roughly six years. A $1 billion valuation was only a fundraising target in Feb 2016 and never happened. The company went into court-run liquidation; no sale value has been published.",
+  "moneySrc": [0, 1, 4],
+
+  "inOneMinute": [
+    "AskMe ran classifieds, an online bazaar, grocery, payments and furniture apps, all funded by **one investor that owned 98.5%**.",
+    "In Feb 2016 it talked of a $1 billion valuation. By August the investor had walked away and **about 4,000 people lost their jobs**.",
+    "Sellers said they were owed ₹100–150 crore. A court later ordered a **fraud investigation** and a liquidator."
+  ],
+  "killerLine": "If one investor owns almost all of you, you don't have funding. You have a **single point of failure**.",
+
+  "numbers": [
+    { "value": "$300M", "label": "Astro says it invested over about six years", "src": [0] },
+    { "value": "98.5%", "label": "stake held by one investor, Astro", "src": [1, 5] },
+    { "value": "~4,000", "label": "staff left jobless in August 2016", "src": [2, 0] },
+    { "value": "₹100–150 cr", "label": "dues sellers said they were owed", "src": [0] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Before Google Maps, Indians found a plumber or a shop through printed yellow pages and phone directories. Getit was one of those directory businesses. Malaysia's Astro group, owned by billionaire T. Ananda Krishnan, backed it. In 2010 **AskMe.com** launched as an online classifieds and local search site. In 2012 came AskMeBazaar, an online marketplace for small businesses. The plan was smart: Getit already knew **lakhs of local merchants**. Why not bring them online, help them sell, and later lend them money too? By 2016 the group said it had over 120,000 merchants in more than 70 cities.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The rise",
+      "body": "AskMe kept adding businesses. There was AskMeGrocery, AskMePay for payments, AskMeFin for loans, and next-day delivery through AskMeBazaar. In August 2015 it **put $20 million into Mebelkart**, an online furniture seller, and it also bought grocery site BestAtLowest.com. Staff grew to around 4,000 across about 40 centres. Most were young, earning ₹2.5–6 lakh a year. In February 2016, the company talked about raising **$200 million at a $1 billion valuation** from new investors. That would have made it a unicorn (a startup valued at $1 billion or more). But almost all the money so far had come from one place: Astro.",
+      "src": [0, 2, 1]
+    },
+    {
+      "title": "The cracks",
+      "body": "By late 2015 vendors were already chasing unpaid bills. Staff reimbursements stopped. In April 2016, more than **650 employees resigned**. The new investors never came. An employee said management had been shopping for other investors \"but no one has shown any interest\". A group executive said it had been a problem for foreign investors to invest in AskMe. Astro had agreed to a management buyout (where the managers buy the company from its owners) planned for the end of July 2016. It **backed out**. On 9 August, Getit emailed staff that it could not pay salaries and told them to contact Astro's management instead.",
+      "src": [3, 1, 0]
+    },
+    {
+      "title": "The fall",
+      "body": "In mid-August 2016 the group CFO told senior staff to suspend operations to \"prevent any further creation of liabilities\". About 4,000 people lost their jobs, most without their July pay. Sellers protested outside offices, saying they were owed **₹100–150 crore**. Astro said an independent review found the business insolvent, with \"little prospect for turnaround\". MD Sanjiv Gupta went to the company law tribunal, saying Astro owed AskMe ₹300 crore. In December, Astro asked the Delhi High Court to wind the company up. In February 2017 the court appointed a liquidator and ordered the **Serious Fraud Investigation Office** to probe alleged misuse of funds.",
+      "src": [2, 0, 3, 4]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2010", "event": "AskMe.com launches as a classifieds and local search portal.", "kind": "start", "src": [0] },
+    { "date": "2012", "event": "AskMeBazaar, an online marketplace for small businesses, launches.", "kind": "start", "src": [0] },
+    { "date": "Aug 2015", "event": "Invests $20 million in furniture seller Mebelkart.", "kind": "money", "src": [0] },
+    { "date": "Feb 2016", "event": "Talks of raising $200 million at a $1 billion valuation.", "kind": "peak", "src": [1] },
+    { "date": "Apr 2016", "event": "More than 650 employees resign.", "kind": "warning", "src": [0, 1] },
+    { "date": "Jul 2016", "event": "Astro backs out of a planned management buyout.", "kind": "crisis", "src": [0, 4] },
+    { "date": "9 Aug 2016", "event": "Getit tells staff it cannot pay salaries and to contact Astro.", "kind": "crisis", "src": [0] },
+    { "date": "Aug 2016", "event": "Operations suspended; about 4,000 jobs lost across 40 centres.", "kind": "end", "src": [2, 3] },
+    { "date": "Dec 2016", "event": "Astro files a petition in the Delhi High Court to wind up Getit.", "kind": "after", "src": [4] },
+    { "date": "Feb 2017", "event": "Court appoints a provisional liquidator and orders an SFIO fraud probe.", "kind": "after", "src": [4] },
+    { "date": "Sep 2017", "event": "Court issues, then cancels, a bailable warrant against ex-MD Sanjiv Gupta.", "kind": "after", "src": [5] }
+  ],
+
+  "charts": [],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "funding-dried", "weight": 35 },
+    { "key": "governance", "weight": 25 },
+    { "key": "focus", "weight": 20 },
+    { "key": "burn", "weight": 20 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Relied on a single investor for almost everything",
+      "explain": "Astro owned **98.5%** of the company. When it decided to stop, there was no second investor to step in, and its huge stake made outsiders wary. A group executive admitted foreign investors found it hard to invest. A wider base of backers, raised while things looked good, could have kept the lights on.",
+      "src": [1, 5]
+    },
+    {
+      "title": "Started too many businesses at once",
+      "explain": "Classifieds, a marketplace, grocery, payments, lending, next-day delivery and a $20 million furniture bet: each is a hard company on its own. Running all of them **split money and attention**. None became strong enough to pay for the others. Picking one winner and doubling down would have given investors a clearer story.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Never showed a path to profit",
+      "explain": "Astro said it put in about **$300 million over six years** and the business still was not profitable or sustainable. Astro also said management set targets that were never met. Even patient owners stop paying when every year looks the same. A clear plan to break even in one business line might have kept Astro on board.",
+      "src": [0, 4]
+    },
+    {
+      "title": "Let unpaid bills and salaries pile up",
+      "explain": "Vendors said they had been chasing dues since late 2015, and staff reimbursements were months behind. Then operations stopped almost overnight, with staff saying they got **no communication about layoffs**. Thousands of small sellers and young employees were hurt. That damage, more than the closure itself, is what people remember.",
+      "src": [3, 2, 0]
+    }
+  ],
+
+  "warningSigns": [
+    "Does one investor own so much of your company that nobody else wants to invest?",
+    "Are you running more than two business lines that each still lose money?",
+    "Have your vendors been chasing payments for more than a month?",
+    "Are employees resigning in large numbers while leadership says everything is fine?",
+    "Is your relationship with your main investor turning into lawyers' letters?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Raise from more than one pocket",
+      "detail": "Even if one investor offers everything, bring in at least one or two others. Different backers mean someone can step in when one steps out."
+    },
+    {
+      "title": "One product, done well, first",
+      "detail": "Pick the single line that customers love most. Make it profitable. Add the next product only when the first one funds it."
+    },
+    {
+      "title": "Show the owner a finish line",
+      "detail": "Give investors a dated plan to break even and report against it every quarter. Missed targets with no explanation are how patient investors lose patience."
+    },
+    {
+      "title": "Small sellers are not a credit line",
+      "detail": "Paying marketplace sellers late to save cash puts real families in debt. Settle seller payouts first, even if it means slowing growth."
+    },
+    {
+      "title": "Have a 'what if they leave' plan",
+      "detail": "Write down what you would do if your biggest investor stopped funding tomorrow: which units to close, which to sell, who to pay first. Update it every six months."
+    }
+  ],
+
+  "quote": {
+    "text": "Prevent any further creation of liabilities by suspending operational activities",
+    "who": "Anand Sonbhadra, Group CFO, Getit Infoservices",
+    "context": "In an internal email to senior staff as AskMe shut down in August 2016, as reported by PTI.",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "In February 2017 the Delhi High Court appointed a provisional liquidator for Getit Infoservices and asked the Serious Fraud Investigation Office (SFIO) to look into alleged misuse of funds and company assets. In September 2017 the court issued bailable warrants against ex-MD Sanjiv Gupta and two Astro-nominated directors for not appearing before the liquidator; Gupta's warrant was cancelled after his lawyer showed he had already appeared. We found no published SFIO findings or final liquidation result.",
+    "src": [4, 5]
+  },
+
+  "sources": [
+    { "label": "Inc42: AskMe vs Astro – vendors, employees and the battle over dues (Aug 2016)", "url": "https://inc42.com/flash-feed/askme-astro-battle" },
+    { "label": "People Matters: AskMe shuts its business, lays off 3,500 staff (Aug 2016)", "url": "https://www.peoplematters.in/news/entrepreneurship-start-ups/askme-shuts-its-business-lays-off-3500-staff-13912" },
+    { "label": "Millennium Post / PTI: 4,000 staff across 40 centres lose jobs as AskMe shuts down (Aug 2016)", "url": "https://www.millenniumpost.in/4000-staff-across-40-centres-lose-jobs-as-askme-shuts-down-158454" },
+    { "label": "DNA: AskMe employees protest over unpaid dues (Aug 2016)", "url": "https://www.dnaindia.com/business/report-askme-employees-protest-over-unpaid-dues-2247918/amp" },
+    { "label": "Inc42: Delhi HC orders investigation for alleged fraud at AskMe parent Getit (Feb 2017)", "url": "https://inc42.com/flash-feed/askme-delhi-hc-fraud" },
+    { "label": "Inc42: Delhi High Court cancels warrant against Sanjiv Gupta, ex-MD of AskMe (Sep 2017)", "url": "https://inc42.com/buzz/askme-warrant-delhi-high-court" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Funds were misappropriated.", "note": "Astro alleged management could not account for how its money was used, and the Delhi High Court ordered an SFIO probe. Management in turn said Astro owed the company ₹300 crore and had exited without paying. No findings have been published; nobody has been convicted." },
+      { "claim": "Number of jobs lost.", "note": "Reports range from 'over 3,500' (People Matters) to about 4,000 (PTI, Inc42)." },
+      { "claim": "Astro's exact stake.", "note": "Most reports say 98.5%; some say about 95%." },
+      { "claim": "Who owned AskMe before Getit.", "note": "Inc42 says Getit acquired AskMe from Network18 in 2013; People Matters says Astro bought Infomedia Yellow Pages and AskMe from Network18 in 2013, yet AskMe.com is also described as launching in 2010. We use 2010 as the brand's start." },
+      { "claim": "Total invested.", "note": "$300 million is Astro's own claim; we could not verify it in filings." }
+    ]
+  }
+}

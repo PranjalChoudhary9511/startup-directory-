@@ -1,0 +1,170 @@
+{
+  "slug": "koinex",
+  "name": "Koinex",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Crypto exchange",
+  "founded": 2017,
+  "died": 2019,
+  "status": "shut-down",
+  "brandColor": "#2d5be3",
+  "founders": [
+    { "name": "Rahul Raj", "role": "Co-founder & CEO" },
+    { "name": "Rakesh Yadav", "role": "Co-founder" },
+    { "name": "Aditya Naik", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Won the case. Eight months after the funeral.",
+  "oneLiner": "A Mumbai exchange where Indians could buy and sell Bitcoin, Ethereum and other cryptocurrencies in rupees.",
+  "causeOfDeath": "RBI cut crypto firms off from banks. Koinex could not move rupees, trading collapsed, and it shut 8 months before the Supreme Court struck the order down.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "Koinex never disclosed how much it raised or its valuation; Inc42 named Beenext's Dirk van Quaquebeke and Pantera Capital's Dan Morehead among its backers. It closed and returned user balances from its own resources, with nothing sold.",
+  "moneySrc": [0],
+
+  "inOneMinute": [
+    "Koinex rode India's 2017 crypto craze: **$265 million of trades in one month** and 40,000 sign-ups in a single day.",
+    "In April 2018, RBI told banks to **stop serving crypto businesses**. Koinex could not even pay rent or salaries smoothly.",
+    "It shut in June 2019. In March 2020 the **Supreme Court struck down RBI's order**, too late to save it."
+  ],
+  "killerLine": "If one letter from a regulator can switch off your bank account, **your business is renting its life**, not owning it.",
+
+  "numbers": [
+    { "value": "$265M", "label": "trading volume in its best month, December 2017", "src": [1] },
+    { "value": "$4.4M", "label": "trading volume in May 2019, a month before it shut", "src": [2] },
+    { "value": "40,000+", "label": "new users signed up in 24 hours at the December 2017 peak", "src": [0] },
+    { "value": "8 months", "label": "between Koinex shutting and the Supreme Court cancelling RBI's ban", "src": [0, 4] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: crypto for Indians, in rupees",
+      "body": "In August 2017, Rahul Raj, Rakesh Yadav and Aditya Naik started Koinex in Mumbai. It was an **exchange** (a marketplace where buyers and sellers trade with each other). Users could trade Bitcoin, Ethereum, Ripple, Bitcoin Cash and Litecoin on one website, with a live order book showing every buy and sell price. It was one of a handful of Indian exchanges racing to sign up first-time crypto buyers. Koinex made money from a small fee on each trade. That meant its income depended on two things: lots of people trading, and banks letting it move rupees in and out for those people.",
+      "src": [0]
+    },
+    {
+      "title": "The rise: riding the 2017 bubble",
+      "body": "Timing looked perfect. In December 2017, Bitcoin hit about $20,000, and young Indians rushed in. Koinex handled **$265 million of trades in a single month**. At the peak it signed up more than **40,000 new users in 24 hours**. Investors including Beenext's Dirk van Quaquebeke and Pantera Capital's Dan Morehead backed it. Koinex became one of India's biggest crypto exchanges in just a few months. But there were warning signs. In the February 2018 Budget speech, Finance Minister Arun Jaitley said the government would act to **eliminate crypto use in illegal financing**.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The cracks: the banks close the door",
+      "body": "On 6 April 2018, RBI issued a circular: entities it regulates **'shall not deal in VCs'** (virtual currencies). Banks got three months to exit any relationship with crypto firms. From July 2018, banks began closing exchange accounts. Koinex's bank accounts holding user deposits were shut, and payment gateways refused it. Even normal bills became hard: banks hesitated over its **salaries, rent and equipment payments** because of the crypto link. Koinex had its own petition pending in the Supreme Court, alongside an industry challenge, but the case dragged on for months. Rival exchanges like Zebpay and Coinome shut down, and Unocoin laid off more than half its staff.",
+      "src": [0, 1, 3, 6]
+    },
+    {
+      "title": "The fall: shutting before the verdict",
+      "body": "In 2019, things got scarier. Reports said a government committee led by Subhash Chandra Garg wanted a **complete ban, with 1 to 10 years in jail** for crypto users. By May 2019, Koinex's monthly volume had shrunk to about $4.4 million. On 27 June 2019, at 2 pm, it switched off trading. It paid users their rupee balances from its own money and asked them to withdraw crypto by 15 July. Then the twist: on **4 March 2020, the Supreme Court set aside RBI's circular**, calling the ban disproportionate. Koinex had died eight months too early.",
+      "src": [0, 1, 2, 4, 6]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Aug 2017", "event": "Rahul Raj, Rakesh Yadav and Aditya Naik found Koinex in Mumbai.", "kind": "start", "src": [0] },
+    { "date": "Dec 2017", "event": "Bitcoin nears $20,000. Koinex does $265 million of trades in a month and 40,000+ sign-ups in a day.", "kind": "peak", "src": [0, 1] },
+    { "date": "Feb 2018", "event": "Budget speech: the government says it will act to eliminate crypto use in illegal financing.", "kind": "warning", "src": [0] },
+    { "date": "6 Apr 2018", "event": "RBI circular bars the entities it regulates from dealing in virtual currencies; three months to exit.", "kind": "crisis", "src": [3] },
+    { "date": "Jul 2018", "event": "The ban takes effect and banks begin closing crypto exchanges' accounts.", "kind": "crisis", "src": [6] },
+    { "date": "Apr–Jun 2019", "event": "Reports say a government panel recommends a full crypto ban with jail terms of 1 to 10 years.", "kind": "warning", "src": [0, 1] },
+    { "date": "May 2019", "event": "Monthly trading volume falls to about $4.4 million.", "kind": "warning", "src": [2] },
+    { "date": "27 Jun 2019", "event": "Koinex halts all trading at 2 pm and announces it is shutting down.", "kind": "end", "src": [0, 1, 2] },
+    { "date": "15 Jul 2019", "event": "Last date for users to withdraw their crypto from Koinex wallets.", "kind": "end", "src": [0, 1] },
+    { "date": "4 Mar 2020", "event": "Supreme Court sets aside RBI's April 2018 circular as disproportionate.", "kind": "after", "src": [4, 5, 6] }
+  ],
+
+  "charts": [
+    {
+      "title": "Monthly trading volume: peak vs end",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["Dec 2017", "May 2019"],
+      "series": [
+        { "name": "Trading volume in the month", "values": [265, 4.4] }
+      ],
+      "takeaway": "Between the bubble bursting and the banking ban, Koinex lost about 98% of its monthly trading.",
+      "src": [1, 2]
+    }
+  ],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "regulation", "weight": 65 },
+    { "key": "timing", "weight": 35 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Its lifeline belonged to someone else",
+      "explain": "An exchange that trades in rupees needs banks for every deposit and withdrawal. When RBI told banks to **stop dealing with crypto firms**, Koinex lost its user-deposit accounts and payment gateways almost overnight. To be fair, this was mostly outside the founders' control. But the whole business sat on one pipe that a single regulator could close.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "Income tied to a mania",
+      "explain": "Koinex earned a fee on every trade, so its income rose and fell with crypto excitement. It peaked when **Bitcoin hit about $20,000** in December 2017. When the boom faded and the ban hit, monthly volume fell from $265 million to $4.4 million. A business that only works in a boom needs a plan for the bust.",
+      "src": [1, 2]
+    },
+    {
+      "title": "Fixed costs in a shrinking market",
+      "explain": "Rahul Raj said the **infrastructure cost alone** of running the exchange was very high. Those costs stayed the same even as trades shrank, and banks made even ordinary payments for salaries and rent difficult. With income falling and costs fixed, every month of waiting burned cash.",
+      "src": [0]
+    },
+    {
+      "title": "Waiting on a regulator with no deadline",
+      "explain": "For 14 months, Koinex waited for clear rules that never came, while the government floated **jail terms for crypto users**. It had a petition in the Supreme Court, but no one knew when a verdict would come. Without a timeline, it was impossible to plan how long the cash had to last.",
+      "src": [0, 1]
+    }
+  ],
+
+  "warningSigns": [
+    "Could a single circular from a regulator cut off your bank account or payment gateway?",
+    "Does your revenue depend on one hot trend that could cool off in a few months?",
+    "Are your fixed costs staying the same while your sales are falling?",
+    "Is your survival plan just 'wait for the court or government to decide'?",
+    "Are banks or partners already hesitating to process your ordinary payments, like rent or salaries?"
+  ],
+
+  "lessons": [
+    { "title": "Map your 'off switches'", "detail": "List every partner who could shut you down in a day: bank, payment gateway, app store, regulator. For each one, write what you would do if they did." },
+    { "title": "Build for the bust, not the boom", "detail": "When a trend is red-hot, ask: 'If interest drops 90%, can we still pay the bills?' If not, keep costs low until you know." },
+    { "title": "Talk to regulators early, together", "detail": "In a grey-zone industry, join or build an industry body. Collective, early engagement with policymakers beats lone survival." },
+    { "title": "Put a date on your patience", "detail": "If you are waiting on a court or a rule, set a clear deadline: 'If nothing changes by X, we do Y.' Then cut costs to make the cash last past that date." },
+    { "title": "Exit with honour", "detail": "Koinex returned users' rupee balances from its own resources and gave weeks to withdraw crypto. How you shut down decides whether people trust you for your next company." }
+  ],
+
+  "quote": {
+    "text": "The last 14 months have been tough to operate a digital assets trading business in India",
+    "who": "Rahul Raj, co-founder & CEO",
+    "context": "In the Medium post announcing Koinex's shutdown, 27 June 2019.",
+    "src": [1, 2]
+  },
+
+  "afterlife": {
+    "text": "On 4 March 2020, the Supreme Court set aside RBI's April 2018 circular in a case brought by the Internet and Mobile Association of India, finding the ban disproportionate. Crypto trading in rupees became possible again. Zebpay, another exchange that had shut because of the ban, later relaunched in India. Koinex did not come back.",
+    "src": [4, 5, 6]
+  },
+
+  "sources": [
+    { "label": "Inc42: Crypto exchange Koinex falls prey to India's war on cryptocurrency (27 Jun 2019)", "url": "https://inc42.com/buzz/cryptocurrency-exchange-koinex-shuts-down-operations" },
+    { "label": "The Block: Another top Indian crypto exchange, Koinex, is shutting down (27 Jun 2019)", "url": "https://www.theblock.co/post/29198/one-of-the-largest-indian-crypto-exchanges-is-shutting-down-amidst-regulatory-uncertainty" },
+    { "label": "Finance Magnates: Indian crypto exchange Koinex shuts services, blames regulations", "url": "https://www.financemagnates.com/cryptocurrency/news/indian-crypto-exchange-koinex-shuts-services-blames-regulations" },
+    { "label": "RBI circular: Prohibition on dealing in Virtual Currencies (6 Apr 2018)", "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=11243" },
+    { "label": "The Block: India's Supreme Court strikes down RBI's banking ban against crypto (4 Mar 2020)", "url": "https://www.theblock.co/post/57708/security" },
+    { "label": "Bar & Bench: Supreme Court strikes down RBI circular on cryptocurrency (4 Mar 2020)", "url": "https://www.barandbench.com/news/litigation/breaking-supreme-court-strikes-down-rbi-circular-directing-banks-not-to-deal-in-transactions-involving-cryptocurrency" },
+    { "label": "The Week: Supreme Court lifts RBI ban on cryptocurrency (4 Mar 2020)", "url": "https://www.theweek.in/news/biz-tech/2020/03/04/supreme-court-lifts-rbi-ban-on-cryptocurrency.amp.html" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Number of users", "note": "Inc42 says Koinex claimed more than 100,000 users at its peak; other coverage (CoinDesk, as summarised in search results we could not open) cites over 1 million registered users. We left the user count out." },
+      { "claim": "When the $265 million volume was reached", "note": "The Block says it was in December 2017; Inc42 says 'within four months of launch'. These may describe the same period (launch was August 2017)." },
+      { "claim": "Withdrawal deadline", "note": "Finance Magnates says 15 June; Inc42 and The Block say 15 July 2019, which fits a shutdown announced on 27 June. We use 15 July." },
+      { "claim": "Composition of the Supreme Court bench", "note": "Outlets differ on whether the third judge was Justice Ravindra Bhat or Justice Aniruddha Bose, so we did not name the bench." },
+      { "claim": "What the founders did next", "note": "We could not verify the founders' later ventures from reliable sources, so the afterlife section does not cover them." }
+    ]
+  }
+}

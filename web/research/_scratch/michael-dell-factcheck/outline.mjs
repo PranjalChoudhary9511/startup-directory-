@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+const b=JSON.parse(fs.readFileSync('src/content/billionaires/books/michael-dell.json','utf8'));
+console.log(Object.keys(b));
+console.log('TITLE',b.title,'|',b.subtitle);console.log('HOOK',b.hook,b.hookSrc);
+console.log('PORTRAIT',JSON.stringify(b.portrait));
+console.log('PHOTOS',JSON.stringify(b.photos,null,0));
+console.log('GLANCE');b.glance.forEach(g=>console.log(' ',g.label,':',g.value,g.src));
+console.log('CONTACT',JSON.stringify(b.contact,null,1));
+b.chapters.forEach((c,i)=>{const cnt={};c.blocks.forEach(x=>cnt[x.t]=(cnt[x.t]||0)+1);console.log(i,c.id,'|',c.kicker,'|',c.title,JSON.stringify(cnt))});
+console.log('LESSONS',b.lessons.length,'SOURCES',b.sources.length,'DISPUTED',b.factCheck.disputed.length);
+console.log('METHOD',b.factCheck.method);

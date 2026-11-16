@@ -1,0 +1,162 @@
+{
+  "slug": "napster",
+  "name": "Napster",
+  "region": "global",
+  "country": "United States",
+  "city": null,
+  "sector": "Music file-sharing",
+  "founded": 1999,
+  "died": 2002,
+  "status": "bankrupt",
+  "brandColor": "#1f1f1f",
+  "founders": [
+    { "name": "Shawn Fanning", "role": "Co-founder, wrote the software" },
+    { "name": "Sean Parker", "role": "Co-founder, raised the first money" }
+  ],
+  "epitaph": "Shared everything. Owned none of it.",
+  "oneLiner": "Free software that let millions of people swap music files with each other over the internet, without paying artists or labels.",
+  "causeOfDeath": "Courts ruled Napster was helping users copy music they had no right to share; it could not filter it out, so it shut down and went bankrupt.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 5.3,
+  "moneyNote": "Napster's total funding was never clearly published. $5.3M is what Roxio paid for the Napster brand and logos at the 2002 bankruptcy auction.",
+  "moneySrc": [0],
+  "inOneMinute": [
+    "In 1999 a teenager, Shawn Fanning, built software that let anyone **download almost any song for free** from other people's computers. Tens of millions joined.",
+    "But a court found that **up to 87% of the files on Napster may have been copyrighted**, and that Napster knew and profited from it.",
+    "Napster shut its network in July 2001 and went bankrupt in 2002. **The demand was real; the permission was missing.**"
+  ],
+  "killerLine": "**Massive demand is not a business if you don't have the right to sell what people want.** Get the licence before the lawsuit.",
+  "numbers": [
+    { "value": "26.4M", "label": "verified users worldwide at the peak, Feb 2001", "src": [0] },
+    { "value": "87%", "label": "of files on Napster that may have been copyrighted, per the court", "src": [1] },
+    { "value": "$1B", "label": "offered to record labels over five years; they rejected it", "src": [2] },
+    { "value": "$5.3M", "label": "what the Napster brand sold for at the bankruptcy auction", "src": [0] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: every song, free, in one search",
+      "body": "In 1999, Shawn Fanning was a student at Northeastern University in Boston. His nickname was 'Nappy'. He wrote a program that let people **search other users' computers for music files (MP3s) and download them directly**. Napster's own servers kept a search index (a giant list) of who had which songs. The music itself moved from one user's computer to another. Fanning was 18. His co-founder Sean Parker, about 19, raised the first $50,000. The beta came out on 1 June 1999, and within weeks hundreds of students were swapping songs. If you remember Indian MP3 download sites before Spotify and JioSaavn arrived, you understand the feeling: suddenly, almost every song in the world was free.",
+      "src": [0, 4, 5, 6]
+    },
+    {
+      "title": "The rise: the fastest crowd on the internet",
+      "body": "Napster spread like wildfire, especially in college hostels. Verified use peaked at **26.4 million users worldwide in February 2001**, and some unofficial estimates claimed 80 million registered accounts. Fanning was on the cover of Time magazine in October 2000. At MTV's awards show that year, he wore a Metallica T-shirt and joked that a friend had shared it with him. For music fans, Napster was magic. It also proved something big: people wanted to get music instantly, online, song by song, instead of buying a whole CD. That idea would later reshape the entire music industry. The problem was that **Napster had no permission** from the artists and labels who owned the songs.",
+      "src": [0, 6]
+    },
+    {
+      "title": "The cracks: the lawsuits arrive",
+      "body": "In December 1999, 18 record companies sued Napster. In April 2000 the band Metallica sued too, saying it had identified about **335,000 people sharing its songs**. Rapper Dr. Dre followed. In court, Napster said it only helped users find files. The judges disagreed. They found that **as much as 87% of the files on Napster may be copyrighted**. Napster's own papers talked about not knowing users' real names 'since they are exchanging pirated music'. The court also noted that Napster's future income depended on growing its user base. On 12 February 2001, the appeals court ruled that Napster could be held responsible for helping users break copyright law, and sent the case back for a narrower order to stop it.",
+      "src": [0, 1, 4]
+    },
+    {
+      "title": "The fall: from 26 million users to zero",
+      "body": "Napster tried to make peace. In February 2001 it offered the labels **$1 billion over five years** if they would let it become a paid service. The labels called it a publicity stunt. Sony said the numbers made no sense for a $40 billion industry. Napster could not reliably block copyrighted songs, so in early July 2001 it **shut down its entire network**. It planned a paid version with locked music files, but it never really relaunched. In June 2002 it filed for bankruptcy. A deal to sell itself to the media giant Bertelsmann was blocked by the bankruptcy judge. In November 2002, software company Roxio bought the Napster name and logos at auction for $5.3 million.",
+      "src": [0, 2, 3]
+    }
+  ],
+  "timeline": [
+    { "date": "1 Jun 1999", "event": "Shawn Fanning releases the Napster beta; Sean Parker raises the first $50,000", "kind": "start", "src": [0, 5] },
+    { "date": "Dec 1999", "event": "18 record companies sue Napster for copyright infringement", "kind": "warning", "src": [0, 4] },
+    { "date": "Apr 2000", "event": "Metallica sues, saying it identified about 335,000 users sharing its songs", "kind": "warning", "src": [0] },
+    { "date": "Jul 2000", "event": "Judge orders Napster to block copyrighted music; appeals court pauses the order two days later", "kind": "crisis", "src": [0] },
+    { "date": "Oct 2000", "event": "Fanning on Time's cover; Bertelsmann drops its lawsuit and allies with Napster", "kind": "peak", "src": [0, 6] },
+    { "date": "Feb 2001", "event": "Verified use peaks at 26.4 million users", "kind": "peak", "src": [0] },
+    { "date": "12 Feb 2001", "event": "Appeals court rules Napster can be liable for users' copying", "kind": "crisis", "src": [1, 4] },
+    { "date": "Feb 2001", "event": "Labels reject Napster's $1 billion offer as a publicity stunt", "kind": "crisis", "src": [2] },
+    { "date": "Jul 2001", "event": "Napster shuts down its entire network", "kind": "end", "src": [0] },
+    { "date": "Jun 2002", "event": "Files for bankruptcy; a sale to Bertelsmann is later blocked by the judge", "kind": "end", "src": [0] },
+    { "date": "Nov 2002", "event": "Roxio buys the Napster brand and logos at auction for $5.3 million", "kind": "after", "src": [0] },
+    { "date": "2010", "event": "Sean Parker invests $15 million in Spotify and helps it win US label deals", "kind": "after", "src": [5] }
+  ],
+  "charts": [],
+  "rounds": [],
+  "causes": [
+    { "key": "regulation", "weight": 60 },
+    { "key": "business-model", "weight": 25 },
+    { "key": "timing", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Built on music it had no right to share",
+      "explain": "Napster's whole value came from songs owned by artists and labels, and **it never got their permission**. The court found as much as 87% of the files may have been copyrighted. When your product only works by using someone else's property for free, the owner can shut you down, and the law backed them.",
+      "src": [1, 4]
+    },
+    {
+      "title": "A central index made it responsible",
+      "explain": "Napster's own servers kept the **search index of every user's songs**. That made it fast and easy, but it also meant Napster could see what was shared and could, in theory, control it. The court used this to find Napster knew about the copying and was responsible for it.",
+      "src": [1, 4]
+    },
+    {
+      "title": "Its own documents worked against it",
+      "explain": "Internal papers spoke of not knowing users' real names **'since they are exchanging pirated music'**. In court, that line helped prove Napster knew what was happening. Founders should assume every email and document may one day be read by a judge.",
+      "src": [1]
+    },
+    {
+      "title": "Fought first, offered to pay too late",
+      "explain": "Napster spent 1999–2000 fighting the labels. Only after losing in court did it offer **$1 billion over five years** for a paid service. By then the labels had the upper hand and dismissed it as a stunt. A licensing deal is far easier when you are a partner than when you are a defendant.",
+      "src": [0, 2]
+    },
+    {
+      "title": "No way to make money",
+      "explain": "Napster was free and had **no real revenue**. The court noted its future income simply depended on growing users. Without money of its own, it could not pay for licences, lawyers and a new paid service at the same time.",
+      "src": [1]
+    }
+  ],
+  "warningSigns": [
+    "Does your product depend on content, data or brands that you don't have written permission to use?",
+    "Would your startup stop working if one big rights-owner or platform sent you a legal notice?",
+    "Do your team's messages joke about doing something illegal or 'grey'?",
+    "Are you growing users fast with no clear plan for who will pay, or how much?",
+    "Are you avoiding talking to the companies whose products or content you use?"
+  ],
+  "lessons": [
+    {
+      "title": "Check who owns what you're using",
+      "detail": "Songs, movie clips, cricket highlights, news articles, other companies' data: someone owns them. Before building a product on top of them, find out what licence you need and what it costs."
+    },
+    {
+      "title": "Turn the owners into partners early",
+      "detail": "Spotify later succeeded with licences from the labels, helped by Napster's own Sean Parker. Talking to rights-owners before you are big is cheaper than negotiating after a lawsuit."
+    },
+    {
+      "title": "Write as if a judge will read it",
+      "detail": "Napster's internal line about 'pirated music' was quoted in the court's ruling. Keep emails, chats and pitch decks honest and professional. They can become evidence."
+    },
+    {
+      "title": "Demand is a signal, not a business",
+      "detail": "Millions of users proved people wanted digital music. But users who pay nothing for content you don't own is not a business. Work out who pays, and for what, early."
+    },
+    {
+      "title": "A failure can be a school",
+      "detail": "Sean Parker called it 'Napster University'. He went on to be Facebook's first president and an early Spotify investor. Write down what you learned when something fails; it becomes your edge next time."
+    }
+  ],
+  "quote": {
+    "text": "Napster University—it was a crash course in intellectual property law, corporate finance, entrepreneurship",
+    "who": "Sean Parker, Napster co-founder",
+    "context": "Looking back on Napster in a 2011 interview with Forbes",
+    "src": [5]
+  },
+  "afterlife": {
+    "text": "Roxio bought the Napster name in 2002 and relaunched it as a legal paid music store. The brand later passed to Best Buy and then to Rhapsody, which renamed its own streaming service Napster. Shawn Fanning went on to start several companies, including Snocap and Path. Sean Parker became Facebook's first president, then invested $15 million in Spotify in 2010 and helped it win deals with record labels for its US launch. Napster lost the court case, but its idea, all the music, instantly, online, won.",
+    "src": [0, 5, 6]
+  },
+  "sources": [
+    { "label": "Wikipedia: Napster (with citations to Billboard, CNET, The Guardian and BBC)", "url": "https://en.wikipedia.org/wiki/Napster" },
+    { "label": "US Court of Appeals, Ninth Circuit: A&M Records v. Napster, 239 F.3d 1004 (12 Feb 2001), via FindLaw", "url": "https://caselaw.findlaw.com/us-9th-circuit/1047162.html" },
+    { "label": "Pinsent Masons Out-Law: Record labels dismiss $1 billion Napster offer (22 Feb 2001)", "url": "https://www.pinsentmasons.com/out-law/news/record-labels-dismiss-1-billion-napster-offer" },
+    { "label": "The Register: Napster to ditch MP3 (23 Jul 2001)", "url": "https://www.theregister.com/2001/07/23/napster_to_ditch_mp3/" },
+    { "label": "Wikipedia: A&M Records, Inc. v. Napster, Inc.", "url": "https://en.wikipedia.org/wiki/A%26M_Records,_Inc._v._Napster,_Inc." },
+    { "label": "Wikipedia: Sean Parker (citing Forbes 2011 and Wired 2011)", "url": "https://en.wikipedia.org/wiki/Sean_Parker" },
+    { "label": "Wikipedia: Shawn Fanning (citing TIME, 2 Oct 2000 cover)", "url": "https://en.wikipedia.org/wiki/Shawn_Fanning" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Napster had 80 million users", "note": "That is an unofficial estimate of registered accounts. The verified peak was 26.4 million users in February 2001." },
+      { "claim": "Bertelsmann's purchase price", "note": "Reports differ on the 2002 deal (Wikipedia cites $85 million; other accounts give a much smaller figure). It was blocked by the bankruptcy judge either way." },
+      { "claim": "Metallica got 335,000 users banned", "note": "Metallica said it identified about 335,000 people sharing its songs; we did not verify how many were actually removed." }
+    ]
+  }
+}

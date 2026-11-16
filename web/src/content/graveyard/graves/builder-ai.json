@@ -1,0 +1,382 @@
+{
+  "slug": "builder-ai",
+  "name": "Builder.ai",
+  "region": "global",
+  "country": "United Kingdom",
+  "city": "London",
+  "sector": "AI / app development",
+  "founded": 2016,
+  "died": 2025,
+  "status": "insolvent",
+  "brandColor": "#6200ea",
+  "founders": [
+    {
+      "name": "Sachin Dev Duggal",
+      "role": "Founder, CEO until Feb 2025, then 'chief wizard'"
+    }
+  ],
+  "epitaph": "Artificial intelligence. Very real payroll.",
+  "oneLiner": "Promised that building an app would be 'as easy as ordering pizza', with its AI assistant 'Natasha' doing the heavy lifting.",
+  "causeOfDeath": "Its sales numbers did not hold up when checked; a lender pulled its money in 2025 and the company ran out of cash and went insolvent.",
+  "raisedUsdM": 450,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "TechCrunch: 'more than $450 million' raised (The Register says over $500M). Valuation reported only as 'over $1B' / 'approaching $1 billion', so we leave it null.",
+  "moneySrc": [
+    0,
+    1,
+    3
+  ],
+  "inOneMinute": [
+    "Builder.ai raised **over $450 million** — from Microsoft, Qatar's sovereign fund, SoftBank and others — on the promise that AI could build your app.",
+    "As far back as 2019, the Wall Street Journal reported it relied on **human engineers rather than AI** for most coding. The company kept growing anyway.",
+    "In 2025 it cut its revenue forecasts, hired auditors, a lender seized its cash, and it **filed for insolvency**. Reports of faked sales are still allegations."
+  ],
+  "killerLine": "Call it AI when the AI does the work. **Calling humans 'AI' is just a sales pitch with a timer on it.**",
+  "numbers": [
+    {
+      "value": "$450M+",
+      "label": "raised from investors incl. Microsoft and Qatar Investment Authority",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "value": "$250M",
+      "label": "Series D in May 2023, led by Qatar Investment Authority",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "25%",
+      "label": "cut to its revenue estimate for the second half of 2024",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~80%",
+      "label": "of staff (about 1,000 people) laid off by June 2025",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: apps as easy as pizza",
+      "body": "Sachin Dev Duggal started the company in 2016 as Engineer.ai. The promise was simple and exciting: tell the system what app you want, pick features from a menu, and get it built **\"as easy as ordering pizza\"**. In 2018 it raised a $29.5 million Series A from Lakestar, Jungle Ventures and SoftBank's DeepCore. Early on it was honest-ish about the mix: TechCrunch described it as an \"AI+Humans\" platform that combined software with crowdsourced teams of designers and developers. In 2020 it said it bought spare capacity from **over 100 development shops in 10 time zones**. In other words, a lot of the building was done by people.",
+      "src": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "The rise: Microsoft comes calling",
+      "body": "As the AI boom took off, Builder.ai leaned harder into the AI story, with a friendly assistant called **Natasha**. In May 2023 Microsoft made a \"significant\" (undisclosed) investment and planned to put Natasha inside Microsoft Teams. Weeks later, Builder.ai raised **$250 million** led by the Qatar Investment Authority, with Insight Partners, Iconiq and Jungle Ventures. Total funding passed $450 million. Fast Company named it one of the most innovative AI companies. Duggal said software would soon have \"a shelf life of a conversation\". Everyone wanted a piece of a company that claimed to make every person a developer.",
+      "src": [
+        3,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: questions that never went away",
+      "body": "The doubts were old. In February 2019 a former executive, Robert Holdheim, sued after being fired, calling the company **\"smoke and mirrors\"**. In August 2019 the Wall Street Journal reported that Engineer.ai used human engineers, not AI, for most of its coding. Then the money numbers wobbled. In mid-2024, Bloomberg reported, the company **cut its revenue estimate for the second half of the year by 25%**. Former employees alleged sales had been inflated by more than 20% on several occasions. In February 2025 Duggal stepped down as CEO, keeping a board seat and the title \"chief wizard\". New CEO Manpreet Ratia hired auditors to check the books.",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "title": "The fall: the money stops",
+      "body": "In May 2025 a lender **seized about $50 million** that Builder.ai had borrowed in October 2024. On 20 May, Ratia told staff the money had run out. The company said it was \"unable to recover from historic challenges and past decisions\" and entered insolvency proceedings. About 1,000 people lost their jobs. Later that month, Bloomberg reported allegations that Builder.ai and the Indian firm VerSe had **round-tripped** (billed each other for services to make both look bigger) from 2021 to 2024. VerSe denied it and Builder.ai declined to comment. These allegations have not been tested in court.",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "Sachin Dev Duggal founds Engineer.ai (later Builder.ai) in London.",
+      "kind": "start",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Nov 2018",
+      "event": "Raises $29.5 million Series A for its 'AI+Humans' software platform.",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Feb 2019",
+      "event": "Fired executive sues, calling the company 'smoke and mirrors'.",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Aug 2019",
+      "event": "Wall Street Journal reports it uses human engineers, not AI, for most coding.",
+      "kind": "warning",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "May 2023",
+      "event": "Microsoft invests and plans to add Natasha to Teams; $250 million Series D led by QIA.",
+      "kind": "peak",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Mid-2024",
+      "event": "Cuts its revenue estimate for H2 2024 by 25% (Bloomberg).",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2025",
+      "event": "Duggal steps down as CEO, becomes 'chief wizard'; Manpreet Ratia takes over and auditors are hired.",
+      "kind": "crisis",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "May 2025",
+      "event": "Lender seizes ~$50 million; staff told funds have run dry; insolvency proceedings begin.",
+      "kind": "end",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    },
+    {
+      "date": "Late May 2025",
+      "event": "Bloomberg reports alleged round-tripping with Indian firm VerSe; VerSe denies it.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jun 2025",
+      "event": "About 80% of staff, around 1,000 people, laid off.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Nov 2018",
+      "round": "Series A",
+      "amountUsdM": 29.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Lakestar",
+        "Jungle Ventures",
+        "SoftBank DeepCore"
+      ],
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "May 2023",
+      "round": "Strategic",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Microsoft"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "May 2023",
+      "round": "Series D",
+      "amountUsdM": 250,
+      "valuationUsdM": null,
+      "investors": [
+        "Qatar Investment Authority",
+        "Iconiq Capital",
+        "Jungle Ventures",
+        "Insight Partners"
+      ],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "governance",
+      "weight": 40
+    },
+    {
+      "key": "fraud",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "tech",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Selling 'AI' that was mostly people",
+      "explain": "Builder.ai's own early pitch said 'AI+Humans', and it bought capacity from 100+ dev shops. But the brand became **all about the AI**. Once the Wall Street Journal reported in 2019 that humans did most of the coding, the gap between story and reality became the company's biggest risk.",
+      "src": [
+        2,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Numbers that didn't survive a check",
+      "explain": "The company cut a half-year revenue estimate by 25%, former staff alleged sales were inflated by over 20%, and a new CEO **had to hire auditors** to work out the real numbers. Whether this was fraud is not decided; that it destroyed trust is clear.",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "title": "Ignoring early red flags",
+      "explain": "A fired executive called it 'smoke and mirrors' in 2019. The WSJ questioned the AI the same year. Investors still put in hundreds of millions more. **Unanswered criticism doesn't disappear; it waits.** Founders should treat every serious public criticism as a free audit: answer it with evidence, or fix the problem.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "Running on borrowed money",
+      "explain": "When a lender seized about $50 million borrowed only months earlier, **the company could not pay its bills**. A business that needs constant new cash to survive has no room for a trust crisis. Debt raised months before a crisis became the thing that ended the company. Cash in the bank is what buys you time to fix trust.",
+      "src": [
+        0,
+        6
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Would your customers be surprised to learn how much of your 'AI' work is actually done by people?",
+    "Have you had to revise your revenue forecast down by a big amount more than once?",
+    "Do any of your biggest customers also sell services to you in similar amounts?",
+    "Has a senior person left saying your product or numbers are 'smoke and mirrors' — and did you brush it off?",
+    "Would a single lender pulling its loan leave you unable to pay salaries next month?"
+  ],
+  "lessons": [
+    {
+      "title": "Be precise about what your AI does",
+      "detail": "Say exactly which steps are automated and which are done by people. 'AI-assisted, human-built' is a fine business. Calling it 'AI-built' when it isn't sets you up for a fall."
+    },
+    {
+      "title": "Humans-in-the-loop is OK — hiding them is not",
+      "detail": "Many great startups start with people doing the work manually ('Wizard of Oz' style) to learn. Just be honest with customers and investors about it."
+    },
+    {
+      "title": "Revenue is only real when it's clean",
+      "detail": "Avoid deals where you and a partner buy similar amounts from each other. If you must, disclose them clearly. Investors treat these 'round-trip' deals as fake growth."
+    },
+    {
+      "title": "As an employee, compare the demo to the work",
+      "detail": "If the marketing says 'AI does it' but your job is doing it by hand, ask how the company describes your work to customers. If the answer makes you uneasy, trust that."
+    },
+    {
+      "title": "As an investor, test the AI claim directly",
+      "detail": "Ask to see the product build something live, check how many contractors are on the payroll, and read old critical press. Builder.ai's doubts were public from 2019."
+    }
+  ],
+  "quote": {
+    "text": "We created Engineer.ai so that everyone can build an idea without learning to code.",
+    "who": "Sachin Dev Duggal, founder",
+    "context": "Announcing the company's $29.5 million Series A, November 2018",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "Builder.ai entered insolvency proceedings in May 2025 and had laid off about 1,000 people (around 80% of staff) by June 2025. Some shareholders provided $75 million, and Duggal sought a deal with investors to buy back the company. Duggal and a former board member have separately faced criminal probes in India related to an earlier venture. In the sources we read, we found no criminal charges against Builder.ai's executives over the company's collapse as of November 2026; the reports of inflated and round-tripped sales remain allegations.",
+    "src": [
+      0,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: Once worth over $1B, Microsoft-backed Builder.ai is running out of money (May 2025)",
+      "url": "https://techcrunch.com/2025/05/20/once-worth-over-1b-microsoft-backed-builder-ai-is-running-out-of-money/"
+    },
+    {
+      "label": "The Register: Builder.ai insolvency (May 2025)",
+      "url": "https://www.theregister.com/2025/05/21/builderai_insolvency/"
+    },
+    {
+      "label": "TechCrunch: Engineer.ai raises $29.5M Series A for its AI+humans platform (Nov 2018)",
+      "url": "https://techcrunch.com/2018/11/06/engineer-ai-raises-29-5m-series-a-for-its-aihumans-software-building-platform/"
+    },
+    {
+      "label": "TechCrunch: Builder.ai raises $250 million Series D (May 2023)",
+      "url": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/"
+    },
+    {
+      "label": "TechCrunch: Microsoft makes strategic investment into Builder.ai (May 2023)",
+      "url": "https://techcrunch.com/2023/05/11/microsoft-makes-strategic-investment-into-builder-ai-integrates-its-services-into-teams/"
+    },
+    {
+      "label": "TechCrunch: Builder.ai launches pre-packaged apps for small businesses (Apr 2020)",
+      "url": "https://techcrunch.com/2020/04/08/builder-ai-launches-pre-packaged-apps-for-small-businesses-hit-by-covid-19/"
+    },
+    {
+      "label": "Wikipedia: Builder.ai (citing WSJ 2019, FT and Bloomberg 2025 reporting)",
+      "url": "https://en.wikipedia.org/wiki/Builder.ai"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Builder.ai's 'AI' was secretly 700 Indian engineers.",
+        "note": "A viral claim after the collapse. The 2019 WSJ report said humans did most coding, and the company openly used 100+ outside dev shops, but the specific '700 engineers posing as AI' story is not established by sources we read."
+      },
+      {
+        "claim": "Builder.ai round-tripped revenue with VerSe (2021–2024).",
+        "note": "Reported by Bloomberg citing sources; VerSe denied it and Builder.ai declined to comment. Not tested in court."
+      },
+      {
+        "claim": "Sales were inflated by more than 20%.",
+        "note": "Allegation by former employees reported by Bloomberg; audit findings were not public in sources we read."
+      },
+      {
+        "claim": "Peak valuation.",
+        "note": "Reported variously as 'over $1B' and 'approaching $1 billion'; no confirmed figure in sources we read."
+      }
+    ]
+  }
+}

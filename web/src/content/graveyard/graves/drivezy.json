@@ -1,0 +1,184 @@
+{
+  "slug": "drivezy",
+  "name": "Drivezy",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Vehicle rental",
+  "founded": 2015,
+  "died": 2022,
+  "status": "shut-down",
+  "brandColor": "#f5a623",
+  "founders": [
+    { "name": "Ashwarya Pratap Singh", "role": "Co-founder, CEO" },
+    { "name": "Amit Sahu", "role": "Co-founder" },
+    { "name": "Vasant Verma", "role": "Co-founder" },
+    { "name": "Abhishek Mahajan", "role": "Co-founder" },
+    { "name": "Hemant Kumar Sah", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Rented out every ride. Then ran out of road.",
+  "oneLiner": "A self-drive rental app where people rented cars, bikes and scooters, many supplied by private owners and financiers, for hours or days.",
+  "causeOfDeath": "It chased a $400M valuation and global expansion on thin margins; Covid stopped travel, funding fell through, and a rescue deal with Yamaha collapsed.",
+
+  "raisedUsdM": 31,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "About $31M of risk capital by December 2018, including roughly $13M from a 2018 token sale (ICO), per Entrackr. This excludes $100M of asset financing used to buy vehicles. A $400M valuation was targeted in 2019 but no closed round at that price was reported, so peak valuation is blank. No sale price exists.",
+  "moneySrc": [3, 4, 2],
+
+  "inOneMinute": [
+    "Drivezy let Indians **rent a car or bike like an Airbnb room**, and even raised money by selling its own crypto tokens.",
+    "In 2019 it sought **$100M+ at a $400M valuation** and planned a US launch. That round never closed.",
+    "Covid crippled rentals. A Yamaha deal shrank, then collapsed, and **Drivezy ended up suing its own investor**."
+  ],
+  "killerLine": "A rescue buyer is not a plan. **If one investor is your only exit, you've already lost your bargaining power.**",
+
+  "numbers": [
+    { "value": "~$13 mn", "label": "raised by selling 'RentalCoins' crypto tokens in 2018", "src": [4, 3] },
+    { "value": "$400 mn", "label": "valuation it sought in 2019 (round never reported closed)", "src": [2, 5] },
+    { "value": "25%", "label": "share of each rental Drivezy kept as revenue", "src": [1] },
+    { "value": "60%", "label": "haircut in Yamaha's 2021 acquisition offer vs the pre-Covid deal", "src": [6] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: Airbnb for cars and bikes",
+      "body": "In India, only about 7% of people own a car. Drivezy, started in 2015 as JustRide, asked: why not rent one by the hour or day, and drive it yourself? Owners could list their own cars and bikes on the app and earn money when they weren't using them. Drivezy also took vehicles from dealers and finance companies. It went through Y Combinator, the famous US startup programme, in 2016. By November 2018 it had about **8,000 vehicles and 37,000 customers a month**, and was the market leader in self-drive two-wheelers. It kept **25% of each rental** as revenue. It raised a $20 million Series B led by Japan's Das Capital, with Yamaha investing too.",
+      "src": [2, 1, 3]
+    },
+    {
+      "title": "The rise: tokens, financing and big dreams",
+      "body": "Drivezy funded itself in unusual ways. In early 2018 it ran an **ICO (a sale of its own crypto tokens)** on the Ethereum blockchain, called RentalCoins. Holders could use them to rent vehicles or get a share of rental revenue. The two rounds raised about $13 million. In November 2018 it also signed **$100 million of asset financing**: a Japanese firm would buy 50,000+ new vehicles for Drivezy's fleet. By March 2019 it claimed 53,000 car bookings a month, up from 37,000 three months earlier. It began raising $100 million or more at a $400 million valuation and planned pilots in the US, plus Indonesia, Thailand and Singapore.",
+      "src": [4, 3, 2]
+    },
+    {
+      "title": "The cracks: the round that never came",
+      "body": "The $400 million round was never reported as closed. Talks with SoftBank and Shell didn't produce deals. In January 2020 Yamaha signed a term sheet to lead a smaller **$12 million Series C within a $35 million round**. Then Covid arrived. Rental travel stopped almost overnight. Entrackr later wrote that Covid waves **\"crippled\"** the business. Investment talks that would have valued Drivezy at over $125 million fell through. By June 2021 Yamaha was instead negotiating to buy the company, with a **60% haircut** on its original proposal. Most of the money would go to investors and to clearing $10–15 million of debts and other dues.",
+      "src": [6, 7]
+    },
+    {
+      "title": "The fall: rescue turns into a lawsuit",
+      "body": "In December 2021 Yamaha proposed a **pre-packaged insolvency** (a fast, court-supervised sale of a struggling company's assets) to take over Drivezy's India and US assets. Yamaha gave an interim loan, took control of assets and paid staff salaries. Drivezy shared large amounts of confidential data, expecting a roughly $35 million deal. Then Yamaha said its intention to acquire had lapsed. In October 2022 Drivezy **sued a Yamaha subsidiary** in a Bengaluru civil court. It alleged Yamaha used its data to build a rival business and invest in competitors like Rapido and Royal Brothers. Yamaha's subsidiary called the claims \"completely baseless\". Drivezy's rental service did not recover.",
+      "src": [7]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2015", "event": "Founded in Bengaluru as JustRide", "kind": "start", "src": [6, 2] },
+    { "date": "2016", "event": "Joins Y Combinator's startup programme", "kind": "start", "src": [2] },
+    { "date": "Early 2018", "event": "First token sale (ICO) of 'RentalCoins' raises $5 million", "kind": "money", "src": [4] },
+    { "date": "Apr 2018", "event": "Second ICO round raises about $8 million", "kind": "money", "src": [4] },
+    { "date": "Nov 2018", "event": "$20M Series B led by Das Capital plus $100M asset financing; ~8,000 vehicles", "kind": "money", "src": [1, 3] },
+    { "date": "Mar 2019", "event": "Seeks $100M+ at a $400M valuation; plans US pilots; 53,000 car bookings a month", "kind": "peak", "src": [2] },
+    { "date": "Jan 2020", "event": "Yamaha signs term sheet to lead a $12M Series C", "kind": "money", "src": [7] },
+    { "date": "2020–21", "event": "Covid waves cripple the rental business; $125M+ valuation talks fall through", "kind": "crisis", "src": [7, 6] },
+    { "date": "Jun 2021", "event": "Yamaha in talks to acquire Drivezy for about $45–50M, a 60% haircut", "kind": "crisis", "src": [6] },
+    { "date": "Dec 2021", "event": "Yamaha proposes a pre-packaged insolvency to buy Drivezy's assets; takes control via interim loan", "kind": "end", "src": [7] },
+    { "date": "Oct 2022", "event": "Drivezy sues a Yamaha subsidiary in Bengaluru; Yamaha calls the claims baseless", "kind": "after", "src": [7] }
+  ],
+
+  "charts": [],
+
+  "rounds": [
+    { "date": "Early 2018", "round": "ICO (token sale), round 1", "amountUsdM": 5, "valuationUsdM": null, "investors": [], "src": [4] },
+    { "date": "Apr 2018", "round": "ICO (token sale), round 2", "amountUsdM": 8, "valuationUsdM": null, "investors": ["High-net-worth individuals from Japan and Singapore"], "src": [4] },
+    { "date": "Nov 2018", "round": "Series B", "amountUsdM": 20, "valuationUsdM": null, "investors": ["Das Capital", "Yamaha Motor", "Axan Partners", "IT-Farm"], "src": [1, 3] }
+  ],
+
+  "causes": [
+    { "key": "timing", "weight": 35 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "over-expansion", "weight": 20 },
+    { "key": "business-model", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Planning for the world before winning India",
+      "explain": "In 2019, while still raising money and keeping only a 25% cut of each rental, Drivezy announced **US pilots and launches in three Southeast Asian countries**. New countries mean new laws, insurance and teams. The energy might have been better spent making Indian rentals clearly profitable first.",
+      "src": [2, 1]
+    },
+    {
+      "title": "A valuation story ahead of the numbers",
+      "explain": "Drivezy sought a **$400 million valuation**, almost four times its previous round, and said it would accept money \"at different valuations\". The round never closed. When a company's plan depends on a valuation the market won't pay, the gap shows up later as a down-round, or no round.",
+      "src": [5, 2]
+    },
+    {
+      "title": "Unusual, risky money",
+      "explain": "Raising **about $13 million through crypto tokens** promised holders a share of rental revenue. ICOs were unregulated, so the rules could change at any time. It was creative, but it tied the company to a fragile, untested kind of investor promise instead of patient long-term capital.",
+      "src": [4]
+    },
+    {
+      "title": "Only one way out",
+      "explain": "When Covid hit, **Yamaha became the only realistic buyer**. Drivezy shared deep confidential data during the deal. When Yamaha walked away, Drivezy had no other bidder and no leverage, only a lawsuit. (Drivezy alleges Yamaha misused its data; Yamaha calls this baseless.)",
+      "src": [7, 6]
+    }
+  ],
+
+  "warningSigns": [
+    "Are we planning new countries before our home market makes money?",
+    "Is the valuation we're asking for more than three times our last round without a matching jump in revenue?",
+    "Does our business stop completely if people stop travelling or going out for a few months?",
+    "Is a single investor or partner the only company that could buy us?",
+    "Have we shared detailed confidential data with a buyer before a signed, binding deal?",
+    "Are we raising money in forms whose legal rules are still unclear?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Win at home first",
+      "detail": "A new country is like starting a new company. Make one city or country clearly profitable, then expand with a copy of what works."
+    },
+    {
+      "title": "Ask for a valuation you can defend",
+      "detail": "A huge jump in valuation looks great in headlines, but if the round fails, you lose months. Price your round so serious investors can say yes quickly."
+    },
+    {
+      "title": "Choose boring money for a long journey",
+      "detail": "New ways to raise money can be exciting, but unclear rules create risk for you and your backers. Prefer funding sources with clear terms and patient time horizons."
+    },
+    {
+      "title": "Keep more than one exit open",
+      "detail": "Talk to several possible buyers or investors at once. If only one company can save you, they set the price and the terms."
+    },
+    {
+      "title": "Protect your data in deals",
+      "detail": "Share sensitive data step by step, under strict confidentiality agreements, and only after a binding commitment. Get a lawyer before you open the books to a possible rival."
+    }
+  ],
+
+  "quote": {
+    "text": "The valuation we are working at now is $400 million, but we will keep accepting investments, at different valuations.",
+    "who": "Ankur Sengupta, head of business development, Drivezy",
+    "context": "Speaking to TechCrunch in March 2019 about the planned $100M+ round, which was never reported closed.",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "Drivezy took its fight with Yamaha to court in Bengaluru in 2022, seeking to stop Yamaha's subsidiary from running a similar business, and a source said it planned to sue in Delaware too. Yamaha's subsidiary rejected the claims as baseless. Rivals it once competed with, such as Zoomcar, kept the self-drive rental idea alive in India.",
+    "src": [7, 1]
+  },
+
+  "sources": [
+    { "label": "Entrackr: Drivezy tag page (article list)", "url": "https://entrackr.com/tag/drivezy/" },
+    { "label": "TechCrunch: India's Drivezy raises $20M for its on-demand vehicle rental service (Nov 2018)", "url": "https://techcrunch.com/2018/11/28/drivezy-raises-20m/" },
+    { "label": "TechCrunch: Drivezy is raising $100M+ at a $400M valuation, eyes US expansion (Mar 2019)", "url": "https://techcrunch.com/2019/03/13/drivezy-indias-vehicle-sharing-startup-is-raising-100m-at-a-400m-valuation-eyes-us-expansion/" },
+    { "label": "Entrackr: Drivezy secures $120 Mn in equity and asset financing (Nov 2018)", "url": "https://entrackr.com/2018/11/drivezy-fund-20-mn-series-b/" },
+    { "label": "Entrackr: Drivezy raises $8 Mn in second round of its ICO (Apr 2018)", "url": "https://entrackr.com/2018/04/drivezy-raises-8-mn-ico/" },
+    { "label": "Entrackr: Drivezy eyes $60 Mn Series C at $400 Mn valuation (Dec 2018)", "url": "https://entrackr.com/2018/12/drivezy-funding-valuation/" },
+    { "label": "Entrackr: Yamaha set to acquire Drivezy (Jun 2021)", "url": "https://entrackr.com/2021/06/exclusive-yamaha-set-to-acquire-bike-and-car-rental-firm-drivezy-in-45-mn/" },
+    { "label": "Entrackr: Drivezy sues Yamaha for starting parallel business, abandoning acquisition (Oct 2022)", "url": "https://entrackr.com/2022/10/exclusive-drivezy-sues-yamaha-for-starting-parallel-biz-abandoning-acquisition/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Yamaha used Drivezy's confidential data to build a rival business.", "note": "This is Drivezy's allegation in a civil suit; Yamaha's subsidiary called it 'completely baseless'. No court ruling was found in the sources we read." },
+      { "claim": "Drivezy was valued at $400 million.", "note": "This was the price it sought in 2018–19; we found no report that a round closed at that valuation." },
+      { "claim": "Exact date and form of Drivezy's closure.", "note": "Sources confirm Covid crippled the business and Yamaha took control of assets in late 2021, but we could not find an official shutdown announcement or confirmation that the proposed insolvency was completed. Its website no longer loaded when checked in November 2026. 2022 is used as the year of death." },
+      { "claim": "Second ICO round size.", "note": "CEO Ashwarya Singh declined to confirm the ~$8 million figure at the time." },
+      { "claim": "Revenue and losses.", "note": "No reliable yearly financials were found, so no chart is shown." }
+    ]
+  }
+}

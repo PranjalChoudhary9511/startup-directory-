@@ -1,0 +1,2334 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "The full list",
+      "title": "Every Bet He Ever Made",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most people know Larry Ellison for one company. In truth he has spent ==49 years== backing things: a parallel supercomputer, a $199 internet box, a sailing league, an airline, a farm, a Hollywood studio and a plan to take over Apple. Some made him rich. Many lost money in public, and a few ended in court.",
+          "src": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "This chapter is the full map, flops included. __The pattern to watch is that his one huge win paid for all the misses.__ Almost nothing here would have been possible without the Oracle shares, which he has very rarely sold.",
+          "src": [
+            9,
+            10
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$2,000",
+              "label": "Total cash that started Oracle in 1977 ($1,200 his, $800 Bob Miner's)",
+              "src": [
+                11
+              ]
+            },
+            {
+              "value": "$125M",
+              "label": "What his venture firm put into NetSuite before Oracle bought it",
+              "src": [
+                12
+              ]
+            },
+            {
+              "value": "$500M+",
+              "label": "What Sensei, his farm project, had cost him by February 2025",
+              "src": [
+                5
+              ]
+            },
+            {
+              "value": "$40.4B",
+              "label": "The personal guarantee he signed to back the Warner Bros. bid, December 2025",
+              "src": [
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Start with the company that made everything else possible. It began as a small consulting shop with a handwritten sign on the door.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Software Development Laboratories, now Oracle",
+          "years": "1977 to today",
+          "outcome": "public",
+          "idea": "Companies stored data in clumsy systems that only specialists could use. IBM researchers had described a better way, the relational database: keep information in linked tables and ask questions of it with a simple language called SQL. IBM had not rushed it to market. Ellison, Bob Miner and Ed Oates decided to sell it first.",
+          "decision": "They started as hired programmers, then moved to selling one product many times. Miner later told a colleague the choice between a compiler job and the CIA database came down to a coin flip, though that colleague doubts Ellison left it to chance. They copied IBM's SQL on purpose, betting that compatibility would matter more than which language was better. Investor Don Valentine pushed them to stop renting out their time by the hour.",
+          "howStarted": "The first office was a one-window ground-floor room rented from their first client, Precision Instruments, with a handwritten sign outside. The team was Ellison, Miner, Oates and Bruce Scott. Ellison sold, because his partners judged him the weakest programmer of the group. The first product customer was the CIA, followed by East Coast buyers such as Wright-Patterson Air Force Base and the US Food and Drug Administration.",
+          "funding": "$2,000 of their own money: $1,200 from Ellison and $800 from Miner, as Ellison told it in 2007. Then came customer cash, a bank loan, a venture investor named Don Lucas, and Sequoia Capital from 1983. The sum Sequoia invested is not public. The 1986 stock market listing raised $31.5 million.",
+          "whatHappened": "Revenue doubled in ten of its first eleven years, reaching $971 million by May 1990, before an accounting crisis nearly sank it. It then crushed its database rivals, bought its way into business software and came late to the cloud. In the year to May 2026 it reported $67.4 billion of revenue with about 141,000 staff. Ellison still owns around 40%.",
+          "lesson": "Copy the standard big buyers already trust, then go and sell where the giant is not looking.",
+          "src": [
+            11,
+            14,
+            15,
+            0,
+            16,
+            17,
+            18,
+            19,
+            10,
+            20
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was the salesman because his own partners said he coded worst."
+        },
+        {
+          "t": "p",
+          "text": "Once Oracle was public and rich, Ellison began to chase the next big computer idea. In the late 1980s and 1990s that meant machines built from many small processors working together, and video delivered down a wire.",
+          "src": [
+            21,
+            22
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "nCUBE",
+          "years": "Bought into by the early 1990s; sold 2005",
+          "outcome": "sold",
+          "idea": "Oregon engineers built a computer from up to 1,024 linked processors, so that many small chips could outrun one giant mainframe. The company dated from 1983.",
+          "decision": "Ellison argued in 1993 that massively parallel machines would inevitably replace mainframes, and he tied Oracle's software plans to that view. Owning a parallel-computer maker let him test the idea directly instead of waiting for a partner.",
+          "howStarted": "He did not found it. By 1994 the Los Angeles Times described nCUBE as a Foster City company that Ellison controlled, and by 2001 he was its majority owner, with Oracle holding a separate stake.",
+          "funding": "His personal money, plus that Oracle stake. We could not find a reliable figure for what he paid.",
+          "whatHappened": "The commercial database push never replaced mainframes as he predicted. The firm turned to video servers for cable companies and cut staff in 2001. C-COR closed a reported $89.5 million purchase in January 2005.",
+          "lesson": "Being right about a direction does not mean your particular machine wins it.",
+          "src": [
+            23,
+            21,
+            22,
+            24,
+            1
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Oracle Media Server and the interactive TV push",
+          "years": "About 1993 to 1996",
+          "outcome": "pivoted",
+          "idea": "Treat films, music and shopping as data. A giant Oracle database running on nCUBE machines would stream any film to any home on request, through the television.",
+          "decision": "Ellison campaigned hard for it, arranging a satellite-beamed demo from CBS Studios in Los Angeles in January 1994. Oracle wanted to be the core software of the new home networks instead of staying in office back rooms.",
+          "howStarted": "Bell Atlantic agreed to use Oracle's multimedia software in January 1994. In Britain, BT ran a small trial on an nCUBE with Oracle software, serving up to 60 households.",
+          "funding": "Oracle's own budget. No separate figure is public.",
+          "whatHappened": "Several phone and cable firms picked rivals, and Hollywood was a hard sell. One expert quoted by Wired in 1995 dismissed nCUBE's approach as a fantasy, arguing such machines cost too much for real-time video. Consumers were not ready, and the technology was later reused for the Network Computer.",
+          "lesson": "A technically clever idea can be ten years early. Ask what must already exist for it to work.",
+          "src": [
+            22,
+            25,
+            26
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the most public flop of his life. On September 4, 1995, Ellison was the warm-up act before Bill Gates at a conference in Paris. He used the slot to call the PC a ridiculous device and to promise a $500 box that simply plugged into the internet.",
+          "src": [
+            27
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Network Computer Inc., later Liberate Technologies",
+          "years": "1995 to 2005",
+          "outcome": "failed",
+          "idea": "A cheap machine with no hard drive. Your programs and files would live on servers, and you would reach them through a browser. Today we call that the cloud. In 1995 it had no name.",
+          "decision": "Windows 95 had just launched to enormous press, and Ellison wanted a way to take away Microsoft's core advantage. He and lieutenant Farzad Dibachi worked out the concept and took it public within days. He promised machines within a year, which forced the products out before they were ready.",
+          "howStarted": "It began in late 1995 as an Oracle division, which became a separate company in April 1996. British firm Acorn built the reference machine, and IBM, Sun and others joined the effort.",
+          "funding": "Oracle's money first. In August 1997 it merged with Navio, a Netscape-backed start-up. Investors over time included Acer, Sega, Nintendo, Sony and NEC.",
+          "whatHappened": "The first machines were slow, broadband did not exist yet, and PC prices kept falling. Forbes estimated Oracle and others spent roughly $1 billion on NCs by 1998; fewer than 1 million sold in 1997, against about 80 million PCs. Oracle gave up after losing nearly $175 million, and the firm became Liberate, selling TV set-top software. Liberate later restated about $10 million of revenue, was delisted in 2003 and settled a shareholder suit for $13.8 million without admitting fault. It sold its businesses in 2005 for about $82 million and $23.5 million.",
+          "lesson": "Rushing to hurt a rival can kill a good idea. Launch when the customer's world is ready, not when your anger is.",
+          "src": [
+            27,
+            28,
+            29,
+            30,
+            2
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The New Internet Computer Company",
+          "years": "1999 to 2003",
+          "outcome": "shut",
+          "idea": "Try the same idea again, cheaper. A $199 Linux box with no hard drive that started up from a CD and did little except browse the web.",
+          "decision": "Liberate had dropped network computers, but Ellison would not. He announced the new firm in October 1999, and in February 2000 he made technology journalist Gina Smith its chief executive, which surprised many people because she had no business background.",
+          "howStarted": "A San Francisco company that did ship a real product, reusing the old Network Computer logo.",
+          "funding": "Ellison's own money, Wired reports. The amount is not public.",
+          "whatHappened": "Sales stayed far below plan. PCs with real hard drives kept getting cheaper, and always-on internet was still rare at home. By mid-2003 it could not raise more money and shut down.",
+          "lesson": "Check why the first attempt failed before funding a second one. A lower price did not fix the real problem.",
+          "src": [
+            2,
+            31,
+            32,
+            27
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same idea, twice. Both failed. Yet the idea itself was right."
+        },
+        {
+          "t": "venture",
+          "name": "The plan to buy Apple",
+          "years": "1995 to 1997",
+          "outcome": "failed",
+          "idea": "Buy a struggling Apple, make Steve Jobs chief executive, and use its brand against Microsoft, perhaps selling Network Computers under the Apple name.",
+          "decision": "On a mid-1995 hike with Jobs, Ellison proposed buying Apple, then worth about $5 billion. Jobs preferred a slower route: get Apple to buy NeXT, join the board and let the directors come to him. Ellison asked how they would make money that way. Jobs told him money was not the point, and Ellison backed down.",
+          "howStarted": "In March 1997 he said publicly he might assemble a buying group. Oracle even set up an email address, savapple@us.oracle.com, so anyone could vote on the idea.",
+          "funding": "Ellison says he had already arranged to borrow all of the money. No deal was signed.",
+          "whatHappened": "On April 29, 1997, he issued a short statement saying he had bought no shares and would not buy Apple for now. Jobs took over the slow way, and Ellison later joined Apple's board. He says he then watched Jobs build the most valuable company on earth.",
+          "lesson": "Sometimes the most valuable move is backing the right operator and letting him choose the route.",
+          "src": [
+            7,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Knowledge Universe",
+          "years": "1996 to about 2015",
+          "outcome": "sold",
+          "idea": "A single company selling learning from early childhood to retirement: preschools, educational toys, corporate training and online courses.",
+          "decision": "Junk-bond financier Michael Milken, out of federal prison since 1993, led it. Ellison came in as the money partner. Forbes reported, citing insiders, that he stayed passive and that his main perk was an hour a week of Milken's time, advice and contacts.",
+          "howStarted": "It began by buying businesses, not by building them. By 1999 it owned a preschool chain, the toy maker LeapFrog and Britain's biggest vocational trainer, with $1.4 billion of revenue in 1998.",
+          "funding": "$500 million in total: $250 million from Michael and Lowell Milken and $250 million from Ellison.",
+          "whatHappened": "It kept buying and selling units. In 2015 Partners Group agreed to buy its US early-childhood arm, by then the largest for-profit provider in the country and the parent of KinderCare. Terms were undisclosed. We could not find when, or at what price, Ellison left.",
+          "lesson": "A passive stake can still buy you something rare, such as direct access to how a master dealmaker thinks.",
+          "src": [
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "t": "p",
+          "text": "While the network computer was failing in public, the same idea was working quietly on a smaller scale. Around 1998, two former Oracle people came to Ellison wanting to sell business software over the web. His advice shaped both companies, and he wrote cheques to both.",
+          "src": [
+            43,
+            44
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Salesforce (early investor)",
+          "years": "1999 onward",
+          "outcome": "public",
+          "idea": "Software that lets salespeople track customers through a website, with no installation. Evan Goldberg had pitched an online version of Siebel's product, and Marc Benioff, then a top Oracle executive, took that idea forward.",
+          "decision": "Ellison gave Benioff his blessing and seed money, and took a board seat. Relations soured fast. In a newspaper interview from 2000, Benioff described how he ended up removing his old boss from the board.",
+          "howStarted": "Benioff left Oracle and launched it in 1999. We leave the details of its founding to the Salesforce story itself. Ellison's part was as a backer.",
+          "funding": "About $2 million of Ellison's own money.",
+          "whatHappened": "The company listed in 2004. By late 2005 Ellison's stake was worth about $100 million, and Benioff joked that Salesforce was making up for what Ellison was losing on NetSuite. In 2011 Salesforce signed a multi-year deal to run on Oracle technology, even as Benioff mocked Oracle's cloud on stage.",
+          "lesson": "Back your best people when they leave. A former employee can become both your rival and your customer.",
+          "src": [
+            45,
+            43,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "NetSuite (first called NetLedger)",
+          "years": "1998 to 2016",
+          "outcome": "sold",
+          "idea": "Run a whole company's accounts and operations from one web-based suite. It began by targeting small firms using Intuit's QuickBooks.",
+          "decision": "Goldberg wanted to do customer-tracking software online. Ellison steered him instead towards an integrated suite, the thing that had made SAP and Microsoft so strong. Ellison later said the idea was his and that he called Goldberg with it.",
+          "howStarted": "It opened in 1998 in an office above a hair salon in San Mateo, California.",
+          "funding": "Ellison's Tako Ventures put in about $125 million to get it off the ground. Others included StarVest, ADP and PaineWebber.",
+          "whatHappened": "Revenue grew from about $1 million to nearly $1 billion over 14 years under chief executive Zach Nelson, with a stock market listing in 2007. In 2016 Oracle agreed to pay $9.3 billion, or $109 a share, a deal worth about $3.5 billion to Ellison, who then held about 40%. Shareholders sued, saying he pushed Oracle to overpay. After a ten-day trial a Delaware court ruled for the defendants, finding that an independent committee ran the deal, and the state's Supreme Court affirmed in January 2025.",
+          "lesson": "If you own both sides of a deal, step back completely and let independent people negotiate. It is what protected him here.",
+          "src": [
+            12,
+            44,
+            43,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "t": "example",
+          "text": "A $125 million bet that returned about $3.5 billion is roughly 28 times the money, over 18 years. Yet the bigger lesson may be in the score since his cloud rant: from 2008 to 2011 NetSuite's stock rose 354%, while Oracle's own rose 96%. His side bet was beating his main company.",
+          "src": [
+            51,
+            52,
+            47
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oracle itself made the largest bets of all. Three of its purchases deserve a place on this list, because each changed what the company was.",
+          "src": [
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "PeopleSoft, Siebel and the great software roll-up",
+          "years": "2003 to 2008",
+          "outcome": "merged",
+          "idea": "Stop trying to out-build SAP in business software. Buy the rivals and their paying customers.",
+          "decision": "In June 2003 PeopleSoft announced a deal to buy J.D. Edwards. Days later, in an email later shown in court, Safra Catz told Ellison this was the moment to go after PeopleSoft, and he replied that he had been thinking the same. A list from April 2003 also shows Oracle had weighed eight other targets.",
+          "howStarted": "A hostile tender offer, launched on June 6, 2003. That means offering to buy shareholders' stock directly, over the heads of a board that does not want to sell.",
+          "funding": "Oracle's cash and borrowing. The opening offer was $16 a share.",
+          "whatHappened": "The fight lasted 18 months. PeopleSoft's board rejected five bids, and the US government sued to block the deal and lost at trial. Oracle won at $26.50 a share, about $10.3 billion, then laid off 5,000 people, with many notices reportedly sent by overnight package. Siebel ($5.85 billion), Hyperion ($3.3 billion) and BEA ($8.5 billion) followed.",
+          "lesson": "When a market stops growing, buying rivals can win more share than building, but the human cost is real.",
+          "src": [
+            56,
+            57,
+            53,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Sun Microsystems",
+          "years": "2009 to 2010",
+          "outcome": "merged",
+          "idea": "Own the whole stack, from chips and servers up to software, and own Java, one of the most widely used programming technologies in the world.",
+          "decision": "Sun's talks with IBM collapsed on April 6, 2009. Two weeks later Oracle agreed to pay a little more than IBM had reportedly proposed. Oracle called Java the most important software it had ever bought, and it promised large profits from the first year.",
+          "howStarted": "An agreed deal during the financial crisis. European regulators looked hard at it, worried about Sun's MySQL database, and it completed only in 2010.",
+          "funding": "$9.50 a share in cash, about $7.4 billion, or $5.6 billion after Sun's own cash and debt.",
+          "whatHappened": "Oracle sued Google in 2010 over Android's use of Java code. It sought more than $8 billion and fought for over a decade, then lost 6 to 2 at the US Supreme Court in April 2021. Hardware has stayed small: $0.8 billion of Oracle's $19.3 billion revenue in the quarter to August 2026.",
+          "lesson": "Buy a company in a crisis if you must, but do not build your plan around winning a lawsuit.",
+          "src": [
+            62,
+            54,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Cerner, now Oracle Health",
+          "years": "2022 to today",
+          "outcome": "merged",
+          "idea": "Rebuild America's messy hospital record systems on Oracle's cloud. Ellison said it would put Oracle at the centre of the next era of health care.",
+          "decision": "Oracle bought a large, steady customer base. The purchase also inherited a major US government contract to replace veterans' hospital records.",
+          "howStarted": "The deal closed in June 2022, and Oracle's first job was the troubled Veterans Affairs rollout. An Oracle executive told Congress it was behind schedule and below expectations.",
+          "funding": "About $28 billion, which left Oracle with billions in added debt.",
+          "whatHappened": "In April 2023 the VA paused further rollouts. Bloomberg reported in 2024 that at least a dozen big clients had signed to leave, that Cerner revenue was falling and that thousands of jobs had been cut. A later launch at a joint VA and defence hospital was described by a federal official as the best so far.",
+          "lesson": "A grand vision does not fix old code. Inspect what you are buying before you promise a revolution.",
+          "src": [
+            55,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The next group is more personal. These are the things Ellison did with his own fortune, often because he simply loved them. Some have turned into real businesses, and some became expensive lessons.",
+          "src": [
+            10,
+            5
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Oracle Team USA and SailGP",
+          "years": "About 2002 to today",
+          "outcome": "running",
+          "idea": "First, win the America's Cup, sailing's oldest trophy. Then turn a slow rich man's sport into fast, televised racing with boats that fly above the water.",
+          "decision": "He and Russell Coutts redesigned the 2013 Cup around huge catamarans, a choice many criticised. After losing the Cup in 2017, they launched SailGP, a league in which every crew sails an identical boat, so that racing stays close.",
+          "howStarted": "A team backed by Ellison won the Cup in 2010. SailGP was announced in October 2018 and first raced in Sydney in February 2019, with six teams all owned by the league.",
+          "funding": "His own money. ESPN estimated he spent about $500 million on the Cup over 11 years.",
+          "whatHappened": "In 2013 his team was docked two points for illegal boat changes in warm-up events and three team members were thrown out. It then fell behind 8 to 1 and came back to win 9 to 8, one of sport's great comebacks. SailGP's revenue grew from about $10 million in 2019 to a projected $100 to $150 million in 2025, and teams now sell for $50 million or more.",
+          "lesson": "Owning the league can be a better business than owning one team.",
+          "src": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            3
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Indian Wells tennis tournament",
+          "years": "2009 to today",
+          "outcome": "running",
+          "idea": "Own a top tennis event and its venue outright, then turn it into one of the sport's great stops.",
+          "decision": "He said plainly that it was because he loves the game and wanted to host the best players every March.",
+          "howStarted": "His firm Tennis Ventures bought the entire assets from a group that included the US Tennis Association and former players Pete Sampras, Chris Evert and Billie Jean King.",
+          "funding": "His own money, a reported $100 million.",
+          "whatHappened": "Bloomberg still lists the event among his assets as of 2026.",
+          "lesson": "Buy what you love only with money you can afford to leave there for a long time.",
+          "src": [
+            75,
+            76,
+            10
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The Golden State Warriors bid",
+          "years": "2010",
+          "outcome": "failed",
+          "idea": "Buy the Bay Area's NBA basketball team, then one of the league's weaker clubs.",
+          "decision": "He was seen as the favourite to buy the team.",
+          "howStarted": "An open sale run by owner Chris Cohan and an adviser.",
+          "funding": "His own money. His exact bid is not public.",
+          "whatHappened": "Cohan sold to Joe Lacob and Peter Guber for a then-record $450 million. Ellison said publicly that he had been the highest bidder and found the outcome unusual. DealBook's account, citing the seller's adviser, was that he came in while Cohan was already settling details with the winners.",
+          "lesson": "The highest bid does not always win. Sellers also weigh speed, certainty and trust.",
+          "src": [
+            77,
+            78
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Lanai and Pulama Lanai",
+          "years": "2012 to today",
+          "outcome": "running",
+          "idea": "Own nearly a whole Hawaiian island and run it as a test bed for wellness, clean energy and new food systems, on a commercial footing.",
+          "decision": "Ellison has told Forbes he sees business as sustainable and philanthropy as not, which helps explain why the island is run for profit.",
+          "howStarted": "He bought about 98% from David Murdock in 2012. The deal included a third of the houses and apartments on an island of about 3,200 people.",
+          "funding": "His own money, a reported $300 million.",
+          "whatHappened": "His company Pulama Lanai went on to own the two Four Seasons hotels, the water company, the main supermarket and more. He moved there in 2020. Reporters have long noted how much of daily life on the island now depends on one owner.",
+          "lesson": "Control lets you test ideas fast, but you also become responsible for an entire community.",
+          "src": [
+            79,
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Island Air",
+          "years": "2013 to 2017",
+          "outcome": "failed",
+          "idea": "Buy a small inter-island airline, so that visitors could always reach his Lanai hotels and homes.",
+          "decision": "It was a supporting piece for the island. The carrier had only 5% of the inter-island market, but the local paper noted it would guarantee a steady stream of visitors to his Lanai holdings.",
+          "howStarted": "His company Ohana Airline Holdings bought it in February 2013 and promised no layoffs at the time. It had 245 staff.",
+          "funding": "His own money, through a family trust. The price was not disclosed.",
+          "whatHappened": "By September 2015 it had lost $45.9 million under him, and market share had fallen to 3%. In 2016 he sold two-thirds to a local investor group. On November 10, 2017, the airline stopped flying on one day's notice, without paying workers' final wages. A bankruptcy trustee and two unions sued. Ellison testified in 2023 that he would have saved it had he known. A trial court ruled for his side, but in September 2026 a federal appeals court reversed parts of that ruling and sent claims back. We found no ruling holding him personally liable, and the case is still open.",
+          "lesson": "Selling control may not end your responsibility for people who worked for you. Plan the exit as carefully as the entry.",
+          "src": [
+            4,
+            83,
+            84,
+            8
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Sensei Ag",
+          "years": "About 2017 to today",
+          "outcome": "pivoted",
+          "idea": "Use robots, sensors and AI to grow healthier food in greenhouses, first on Lanai and eventually in places like Africa.",
+          "decision": "Ellison and celebrity doctor David Agus treated farming as a tech problem. He reportedly told executives he saw it as part of his legacy, and hired software veterans with no commercial farming experience.",
+          "howStarted": "Six greenhouses on a remote stretch of Lanai, backed by a $1.9 million Tesla microgrid bought in 2017.",
+          "funding": "His own money: more than half a billion dollars by early 2025, far above the $300 million he paid for the island.",
+          "whatHappened": "A Wall Street Journal investigation called it mostly a bust. Winds blew the roofs off, greenhouses budgeted at $12 million cost around $50 million, and bad Wi-Fi stopped the sensors working. Former cannabis sites in Canada took about $200 million to refit and ran at about 5% of capacity. It did become a major Hawaiian grower of baby lettuce and cherry tomatoes, and it now aims to sell farming technology instead.",
+          "lesson": "Genius in one industry transfers badly to another. Hire people who have done the unglamorous work before.",
+          "src": [
+            5,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Tesla, Twitter and xAI stakes",
+          "years": "2018 to today",
+          "outcome": "public",
+          "idea": "Back his friend Elon Musk. These were investments, not companies he ran.",
+          "decision": "He bought Tesla stock in 2018 and called it his second-largest investment. Tesla then needed independent directors after a US regulator's settlement with Musk, and it named Ellison. Reuters Breakingviews questioned how independent a self-described close friend could be.",
+          "howStarted": "He bought 3 million Tesla shares, then worth nearly $1 billion, and joined the board in December 2018. He left in June 2022.",
+          "funding": "His own money. In 2022 he also put $1 billion into Musk's Twitter purchase.",
+          "whatHappened": "Bloomberg put his Tesla stake at about $18 billion in late October 2026. Twitter was folded into xAI, where Forbes estimated his stake at $2.1 billion in January 2026, and SpaceX then bought xAI. By October 2026 he was using Tesla and SpaceX shares as collateral for bank loans.",
+          "lesson": "Knowing a brilliant founder personally can be an edge, but it weakens your claim to be an independent check on them.",
+          "src": [
+            87,
+            37,
+            88,
+            10,
+            89,
+            90,
+            91,
+            92
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Ellison Medical Foundation and Ellison Institute of Technology",
+          "years": "1997 to today",
+          "outcome": "running",
+          "idea": "Fund science on the diseases of ageing, and later build a private research campus at Oxford aimed at health, food and climate, set up to make money from discoveries.",
+          "decision": "The foundation stopped new grants in 2013. It had reportedly hit a funding crunch, and the sudden stop shocked scientists. The newer institute was built mostly as for-profit companies, in line with his stated view that business lasts and charity does not.",
+          "howStarted": "The foundation began in late 1997. He bought a six-acre Oxford site in 2021, and the institute was set up in 2023.",
+          "funding": "All his. The foundation gave nearly $430 million in grants. The institute has about £1 billion committed plus £890 million for campus expansion, and in October 2025 it announced a plan to spend more than £10 billion over ten years.",
+          "whatHappened": "The institute's president, Sir John Bell, left in September 2025 amid reports of a clash. Student paper Cherwell reported that projects were cut to a handful and that only £2 billion was firmly committed. The institute says rapid growth brings friction and that it is focused on delivery. Treat the £10 billion as a stated plan.",
+          "lesson": "When you fund science, sudden changes of mind hurt people who planned careers around you.",
+          "src": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            79
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Skydance, Paramount and Warner Bros.",
+          "years": "2025 to today (Larry's biggest cheques)",
+          "outcome": "public",
+          "idea": "Build one giant studio and streaming group to compete with Netflix and the tech companies, run by his son David.",
+          "decision": "David Ellison founded Skydance, and Larry became its biggest investor. In 2025, Skydance bought Paramount. Then Warner Bros. Discovery agreed to sell itself to Netflix, and Paramount came in with a hostile rival bid. Warner's board was worried about financing, so Larry signed an irrevocable personal guarantee for $40.4 billion.",
+          "howStarted": "The first deal closed on August 7, 2025 at about $8 billion, with Larry providing $6 billion. The Warner deal closed on October 6, 2026.",
+          "funding": "The Warner deal took $47 billion of new equity at $12 a share, including about $24 billion reported from Gulf state funds, plus debt led by Bank of America, Citigroup and Apollo. The family's own part was reported at about $17 billion.",
+          "whatHappened": "The merged firm is called Skydance and trades as SKYD. It owns HBO, CNN, CBS and two major film studios, and David runs it with a co-CEO. Warner shareholders received about $31 a share, a deal valued at about $81 billion, or nearly $111 billion with debt. Bloomberg valued Larry's stake at about $15 billion on October 31, 2026.",
+          "lesson": "A parent's money can open a door no bank would, but it also ties one family's fortune to one bet.",
+          "src": [
+            98,
+            99,
+            100,
+            101,
+            13,
+            9,
+            102,
+            6,
+            103,
+            104,
+            91,
+            10,
+            105,
+            106
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "TikTok USDS Joint Venture",
+          "years": "2020 to today",
+          "outcome": "running",
+          "idea": "A US-majority company to run TikTok's American data, app and algorithm security, so the app could avoid a US ban.",
+          "decision": "Oracle sought a role during the first Trump administration's 2020 push against the app, and it became the trusted provider of TikTok's US data storage. It stayed close through years of legal uncertainty.",
+          "howStarted": "A joint venture, meaning a separate company owned by several partners, set up on January 22, 2026.",
+          "funding": "Oracle, Silver Lake and MGX each hold 15%. ByteDance, the Chinese parent, keeps 19.9%, and other investors hold the rest. We could not find what each partner paid.",
+          "whatHappened": "The app stays online in the US for more than 200 million American users. Oracle holds a stake and keeps a security and hosting role.",
+          "lesson": "Being the trusted neutral party in a political fight can turn into a stake in the prize.",
+          "src": [
+            107,
+            108,
+            109,
+            92,
+            110
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Stargate and the OpenAI contracts",
+          "years": "2025 to today",
+          "outcome": "running",
+          "idea": "Build AI data centres on a vast scale. Oracle owns and runs the machines, and OpenAI rents them to train and run ChatGPT.",
+          "decision": "Ellison stood next to President Trump on January 21, 2025 to help announce up to $500 billion of building over four years with OpenAI and partners. Oracle then signed a contract reported at $300 billion over about five years.",
+          "howStarted": "A set of giant sites, led by Abilene in Texas. By August 2026 Oracle had handed over 618 megawatts there, six of its eight buildings.",
+          "funding": "Mostly Oracle's borrowing, $20 billion of newly sold stock and customer prepayments. Oracle's reported debt stood at about $125 billion in August 2026.",
+          "whatHappened": "The contract helped lift Oracle's order backlog to $664 billion. It also made Oracle reliant on one loss-making customer, and the bond market started charging more for that risk. The next chapters tell that story.",
+          "lesson": "A huge contract is only worth what the customer can pay. Count the risk as well as the headline.",
+          "src": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            66
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Five public failures on this page. He still got richest for a day."
+        },
+        {
+          "t": "p",
+          "text": "Look at the list again. His losses were real, but they were capped, while the upside on Oracle was enormous. That only worked because he kept the Oracle stake. __A founder can survive many wrong bets, as long as none of them forces him to sell the one that is right.__",
+          "src": [
+            9,
+            10,
+            116
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no-adult-supervision",
+      "kicker": "1977 to 1989",
+      "title": "No Adult Supervision",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The story starts with a mistake about money. In the mid-1970s Ellison was vice president for software at Precision Instruments, a firm building unusual storage devices. His boss asked him to find someone to outsource the software to. Ellison called his old manager, Bob Miner, and persuaded him to quit Ampex and bid. Miner bid ==$300,000==. They won, and then learned the next-highest bid was ==$2 million==.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That is how little they understood about pricing. Ellison put in $1,200 and Miner $800, and they had a company. Bruce Scott and Ed Oates came on to write code. Precision Instruments rented them a one-window room on the ground floor, and a handwritten sign told visitors the company existed. On the first stock certificate, a detail few people know, the president's name is Bob Miner rather than Larry Ellison.",
+          "src": [
+            11,
+            14,
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "$2,000 in total. Two partners. One window."
+        },
+        {
+          "t": "p",
+          "text": "Ellison had read an IBM research paper on a working relational database. Think of it as a set of linked tables, where you can ask a question instead of writing a whole program. IBM researcher Ted Codd had first described it in 1970, but seven years on IBM had still not sold one. __The partners saw that the inventor was not going to move first, and that left a gap.__ So they set out to build a product that spoke IBM's SQL language, knowing buyers would feel safer with anything IBM-compatible.",
+          "src": [
+            0,
+            17,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The prototype worked around 1978, and Oracle's own history says that first version was never officially released. The first version customers could buy, in 1979, was numbered 2. Ellison later told the joke against himself on a stage in San Francisco.",
+          "src": [
+            0,
+            14
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Who would buy Version 1 of a database from four guys in California?",
+          "who": "Larry Ellison, Oracle OpenWorld, 2007",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The first buyer was the CIA. The name came from there too: Oracle had been the code name for a CIA project Ellison had worked on at Ampex. He joked in 2007 that the project's failure was the reason the name was free to use. He sold the first copy for ==$48,000==, then installed it himself in a guarded CIA computer room, and on one trip he had a run-in with a Marine guard after losing his badge.",
+          "src": [
+            11,
+            14
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Weeks from running out of money"
+        },
+        {
+          "t": "p",
+          "text": "Winning the sale nearly killed them. The government took nine months to pay. With that cheque on the way and new orders coming in, they had already moved to a pricier address and started dressing better. Ellison later described those years as weeks from running out of cash, living on canned soup and sleeping in their suits. The report of his talk says that at one point he could not pay his own mortgage.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "They needed a bank loan, and the bank asked for a balance sheet. By Ellison's own telling, told for laughs three decades later, nobody knew what that was. They copied a customer's format, filled in numbers they made up, and got the money. Treat that as an old founder's joke as well as a warning. Oracle would later pay a real price for sloppy numbers.",
+          "src": [
+            11,
+            117
+          ]
+        },
+        {
+          "t": "example",
+          "text": "The man who delivered their pizza every night turned out to be a Berkeley accounting student, John Camp. They talked him into quitting school and made him chief financial officer, telling him to take what he needed because they would never notice. His father was not pleased. He later became a programmer, once Oracle hired a real accountant.",
+          "src": [
+            11,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Help came from next door. Don Lucas, a venture capitalist with an office beside theirs, grew curious about the late hours and the cheap cars. A venture capitalist invests in young companies in return for a share of ownership. Lucas had helped raise the first money for National Semiconductor in 1957. He got involved with Oracle, helped Ellison with that mortgage, joined the board and brought some discipline. We could not find a reliable figure for what he invested.",
+          "src": [
+            11,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sequoia Capital's records list 1983 as the year it partnered with Oracle, but they do not say how much it put in. Sequoia's Don Valentine says his early message was simple. Stop selling your time by the hour, and build one product that you can sell to every computer maker. IBM had the mainframe market, and the makers of smaller minicomputers had nothing comparable to offer their customers. Valentine remembers it as a dream market, because Oracle barely had to fight anyone for it.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$48,000",
+              "label": "First copy of Oracle sold, to the CIA, as Ellison told it in 2007",
+              "src": [
+                11
+              ]
+            },
+            {
+              "value": "1983",
+              "label": "Version 3 rewritten in the C language, so it could run almost anywhere",
+              "src": [
+                15
+              ]
+            },
+            {
+              "value": "$12M",
+              "label": "Oracle's sales level around 1984, with about 130 staff",
+              "src": [
+                15
+              ]
+            },
+            {
+              "value": "2.1M",
+              "label": "Shares sold at the 1986 IPO, at $15 each",
+              "src": [
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The product was often broken, and people still bought it"
+        },
+        {
+          "t": "p",
+          "text": "Version 3 was the smart move. Oracle's rewrite in the C programming language, released in 1983, meant the software could be moved to nearly any computer. Early employee Ken Jacobs recalls people joking that it ran on everything, with a slide projector as its best platform. Hardware makers would often pay for the source code and do the work themselves, so Oracle collected money for reaching new machines.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It was also buggy. Jacobs ran support, and he says the fastest fix for a customer in trouble was often asking how old their latest backup was and re-entering the data. Yet a buyer once left a phone message saying, in effect, that he would die if nobody called him back to sell him Oracle. __Customers were not buying finished software. They were buying the power to ask any question of their data, and they forgave a lot to get it.__",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ellison's sales genius was in the demo. He designed the sample employee tables so he could ask things like which employee earned more than his own manager. Doing that on older systems took programmers and time. Jacobs remembers buyers' jaws dropping. One sale to the US Food and Drug Administration helped bring Oracle deep into the drug industry, because pharma firms wanted to share data with their regulator.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A great demo answers a question the buyer has secretly wondered about."
+        },
+        {
+          "t": "p",
+          "text": "Then Ellison learned to fight one rival at a time. Around 1985 he launched an internal campaign against Ingres called Shut Off the Oxygen, named after a gag in the film Airplane. Colleagues say Ingres often had the better technology and Oracle the better sales force. Oracle's focus worked, but it had a cost. While everyone stared at Ingres, Sybase quietly grew strong on Wall Street. One executive compares it to letting weeds grow until they seed.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The IPO"
+        },
+        {
+          "t": "p",
+          "text": "An IPO, or initial public offering, is when a private company first sells shares to the public on a stock exchange. Oracle did it on ==March 12, 1986==: 2.1 million shares at $15 each, raising about $31.5 million, through Merrill Lynch and Alex. Brown. Microsoft listed one day later. Oracle had 450 staff and $55 million of annual revenue. Ellison's 34% stake was suddenly worth about ==$90 million==.",
+          "src": [
+            18,
+            119,
+            0,
+            27
+          ]
+        },
+        {
+          "t": "example",
+          "text": "In 2006 Ellison told a Nasdaq event that $10,000 invested at the 1986 IPO would have grown to $4,082,280. That is about 408 times the money in 20 years, even after the near-disaster you are about to read.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1977",
+              "text": "Software Development Laboratories is incorporated on June 16 with $2,000",
+              "src": [
+                17,
+                11
+              ]
+            },
+            {
+              "when": "1979",
+              "text": "Version 2 ships, the first commercial SQL database; the firm is renamed Relational Software",
+              "src": [
+                0
+              ]
+            },
+            {
+              "when": "1982 to 1983",
+              "text": "Renamed Oracle Systems, and Sequoia partners with it",
+              "src": [
+                18,
+                16
+              ]
+            },
+            {
+              "when": "1983",
+              "text": "Version 3, rewritten in C, reaches nearly every machine",
+              "src": [
+                15
+              ]
+            },
+            {
+              "when": "About 1985",
+              "text": "The Shut Off the Oxygen campaign targets Ingres",
+              "src": [
+                15
+              ]
+            },
+            {
+              "when": "1986",
+              "text": "IPO at $15 a share; Ellison's stake is worth about $90 million",
+              "src": [
+                18,
+                119
+              ]
+            },
+            {
+              "when": "1987",
+              "text": "Second public offering: 2.3 million shares at $24",
+              "src": [
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Sell before you are ready, but not forever",
+          "text": "Oracle shipped a buggy Version 2 to the CIA and it worked, because nobody else offered the same power. That got the company started. It also planted a habit of promising first and fixing later, which came close to destroying it ten years on."
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "1990 to 1997",
+      "title": "The Company That Could Not Count",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Through the 1980s Oracle looked unstoppable. A University of Virginia case study puts its sales growth at ==118% a year== from 1982 to 1989. Revenue hit $971 million by May 1990. The same case recalls a line he once adapted from Genghis Khan: his own success was not enough, and others had to fail too.",
+          "src": [
+            120,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The growth engine had a flaw. Former executive Mike Humphries describes how it worked. Everyone committed to a number, huge bonuses hung on that number, and missing it for long could cost you your job. People went right up to the edge of the rules, and then some wondered whether crossing it would matter. Some salespeople used side letters, private notes to customers that changed the real terms of a deal.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. Your bonus plan is your real company culture."
+        },
+        {
+          "t": "p",
+          "text": "The first crack came on March 28, 1990. Only six days after telling analysts its numbers were on track, Oracle reported flat quarterly earnings. The next day the stock fell ==31%== to $17.50 in record volume. A dozen shareholders sued within weeks. Wall Street hates a surprise, and Oracle had just given it a big one.",
+          "src": [
+            121,
+            122
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It got worse. On August 27 Oracle said it had badly miscalculated revenue for five quarters. In September it warned of its first-ever quarterly loss, cut 400 jobs, about 10% of its US staff, and replaced its chief financial officer. Between March and mid-September the stock went from $28.125 to ==$6.875==. That was a fall of about three-quarters in six months.",
+          "src": [
+            117,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The product was failing at the same moment. Version 6 had rewritten the most critical part of the engine, and it was unstable. Jacobs says customers were being delivered software they could not use, so they did not pay. Bills went unpaid and rivals Sybase and Informix got an opening. __Up close, the crisis was not one big lie. It was years of aggressive selling to customers who could not use what they bought, and would not pay.__",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The banks close in"
+        },
+        {
+          "t": "p",
+          "text": "In March 1991 Oracle found about $42 million of unpaid customer bills it probably would never collect, plus duplicate invoices and returns nobody had logged. It told investors not to rely on its earlier accounts. That put it in breach of covenants, the promises a borrower makes to its bank about staying financially healthy. Banks had already cut its credit line from $170 million to $80 million.",
+          "src": [
+            123,
+            122
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forbes reported in 2001 that the board debated firing Ellison. Fiscal 1991 ended with the company's first annual loss, $12.4 million, on a little over $1 billion of sales. Oracle also changed how it booked revenue, counting software when it shipped rather than when a contract was signed, a stricter rule that was coming for the whole industry.",
+          "src": [
+            119,
+            122,
+            123
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$28.125 to $6.875",
+              "label": "Oracle's share price, March to September 17, 1990",
+              "src": [
+                19
+              ]
+            },
+            {
+              "value": "$42M",
+              "label": "Rise in the reserve for unpaid bills found in March 1991",
+              "src": [
+                123
+              ]
+            },
+            {
+              "value": "$12.4M",
+              "label": "First annual loss, fiscal 1991",
+              "src": [
+                122
+              ]
+            },
+            {
+              "value": "$80M",
+              "label": "Nippon Steel's December 1991 financing",
+              "src": [
+                122,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cash came from Japan. In June 1991 Oracle announced that Nippon Steel would provide $200 million of long-term financing and buy 49% of Oracle Japan, a local company it had fully owned. That bigger plan did not survive. The deal agreed that December was ==$80 million== of financing, plus a right for Nippon Steel to buy up to 25% of Oracle Japan. So in the end Oracle got cash by selling rights in a subsidiary, not shares in the parent company. Oracle Japan later went public itself.",
+          "src": [
+            125,
+            122,
+            124
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Short on cash? He sold rights in a subsidiary, not the parent."
+        },
+        {
+          "t": "p",
+          "text": "The bigger decision was about people. Ellison, a founder who loved to run everything, handed the business side to experienced managers. Jeff Henley became chief financial officer and cleaned up the collections and the books. Ray Lane, a consultant in Dallas, took over sales. Lane hesitated, until Ellison tripled his stock offer from 100,000 options to 300,000. Lane later said Ellison knew exactly what he would be calculating on the flight home.",
+          "src": [
+            122,
+            119,
+            15,
+            126
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Former executive Jerry Held, who worked under them, gives Ellison credit here. In his view the founder saw that saving the company he had nearly lost meant bringing in grown-ups, and the team he built could each have run a Silicon Valley company. Few things are harder for a founder to admit.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "example",
+          "text": "The regulator came last. In September 1993 Oracle agreed to pay a $100,000 federal fine to settle a US Securities and Exchange Commission complaint about accounting irregularities, without admitting wrongdoing. The New York Times framed it as a talented software company that simply could not count.",
+          "src": [
+            117
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Fixing it, and then killing the rivals"
+        },
+        {
+          "t": "p",
+          "text": "Version 7 arrived in 1992, and it fixed the reliability problem at the moment rivals were vulnerable. By fiscal 1992 Oracle was back to $61.5 million of profit, with no bank debt by early 1993. Then came the phase Held describes as eliminating competitors. Each year he walked into Ellison's office for the planning meeting and the only real question was which rival it would be this time.",
+          "src": [
+            0,
+            122,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "First came Ingres, then Sybase, which stumbled badly with its Release 10. Next it was Informix. Oracle tracked Informix's best salesman, Phil White, so closely that one of its own stars would walk in right after him, and within about a year Informix was on the floor, helped by its own accounting scandal. By the end of 1997, Held says, only IBM, Oracle and Microsoft were left standing. Oracle could now aim all of its product, marketing and sales effort at one target.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "example",
+          "text": "The numbers tell the recovery. In fiscal 1997 Oracle earned $821.5 million on $5.7 billion of sales. Held recalls about 15,000 staff when he joined in 1993 and about 45,000 four years later, with revenue going from $1.5 billion to $6 billion.",
+          "src": [
+            126,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The old habits did not vanish entirely. In a later meeting to renew a contract of about $25 million, a Boeing executive asked Ellison if the new version had bugs. He answered that the database held 11,000 and something. When the shocked executive compared that with building aeroplanes, Ellison complained about a broken seat screen on a Boeing 777 he had just flown in. The Boeing team left furious, and the deal was signed a few weeks later anyway. Boeing had too much built on Oracle to walk away.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Switching cost: when your customer is furious and still signs."
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Mar 1990",
+              "text": "Flat earnings surprise; stock falls 31% in a day",
+              "src": [
+                121
+              ]
+            },
+            {
+              "when": "Aug 27, 1990",
+              "text": "Oracle discloses revenue errors for five quarters",
+              "src": [
+                117
+              ]
+            },
+            {
+              "when": "Sept 1990",
+              "text": "First quarterly loss; 400 jobs cut; chief financial officer replaced",
+              "src": [
+                19
+              ]
+            },
+            {
+              "when": "Mar 1991",
+              "text": "$42 million hole found; loan covenants breached; Jeff Henley named CFO",
+              "src": [
+                123,
+                122
+              ]
+            },
+            {
+              "when": "Dec 1991",
+              "text": "Nippon Steel provides $80 million",
+              "src": [
+                122
+              ]
+            },
+            {
+              "when": "1992",
+              "text": "Oracle7 launches; Ray Lane arrives",
+              "src": [
+                0,
+                119
+              ]
+            },
+            {
+              "when": "Sept 1993",
+              "text": "$100,000 SEC settlement, no admission of wrongdoing",
+              "src": [
+                117
+              ]
+            },
+            {
+              "when": "1997",
+              "text": "Only IBM, Oracle and Microsoft are left as major rivals",
+              "src": [
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Growth hides problems until cash exposes them",
+          "text": "A sale that is booked but never collected is a story, not money. Check how many of your sales have actually turned into cash, and pay your team on what customers finally pay for."
+        },
+        {
+          "t": "lesson",
+          "title": "The founder's hardest skill is hiring his replacement in part of the job",
+          "text": "Ellison kept product and vision. He gave finance and sales to people better at them, and paid them enough that they would come. Ask which part of your own job someone else should already be doing."
+        }
+      ]
+    },
+    {
+      "id": "buy-everything",
+      "kicker": "1995 to 2014",
+      "title": "Wrong Twice, Then Buying Everyone",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Beating database rivals did not satisfy him. In the mid-1990s Ellison wanted Bill Gates. Vanity Fair described an Oracle rally with a giant image of Gates and gospel singers on stage. While that fight absorbed attention, Oracle was making a far more expensive mistake closer to home, in business applications. Those are the programs companies use for accounts, staff and sales.",
+          "src": [
+            36,
+            119
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oracle had started an applications business in 1985, mainly as a way to sell more databases. For over a decade it stayed a side project. Ellison kept the same manager in charge even after two senior executives threatened to quit over it, and revenue grew only from about $100 million in 1991 to just under $500 million in 1997. Meanwhile Germany's SAP was winning the big contracts. Board member Joe Costello chose SAP for his own company, Cadence, and says Ellison fired him in 1995 over the dispute.",
+          "src": [
+            119
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 1997 Ellison finally accepted he had missed a market of about $20 billion. Forbes reports a near-death moment in a 1998 yacht race, a storm that killed six others in the fleet, sent him back to the office determined to run things himself. He took back authority from Ray Lane, then pushed him out in June 2000, and the stock lost 14% in five days. __He had saved Oracle by delegating. Once things went well he took control back, and some of the old problems returned.__",
+          "src": [
+            119,
+            110
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The promised fix was 11i, a browser-based suite launched in May 2000. It was late and incomplete, with about ==5,000 bugs==, according to Forbes, and customers were furious. A figure from Oracle's own applications user group called the company a bully. Applications brought in about 10% of Oracle's revenue but consumed about two-thirds of a $1 billion research budget. By mid-2001 applications sales were down 24%, and the stock had fallen 53% in a year.",
+          "src": [
+            119
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same mistake as 1990: ship it unfinished and promise to fix it later."
+        },
+        {
+          "t": "h",
+          "text": "The stock sale that became a lawsuit"
+        },
+        {
+          "t": "p",
+          "text": "In 2001 Ellison sold almost $900 million of Oracle stock. Shortly afterwards the company warned it would miss its targets, and the shares plunged, falling 52% that year as the dot-com crash spread. Shareholders filed a lawsuit in his company's name, accusing him of insider trading, meaning trading on important news the public did not yet have. He denied doing anything wrong.",
+          "src": [
+            127,
+            128
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In November 2005 a California judge approved a settlement. Ellison would donate $100 million to charity in Oracle's name over five years and pay $22 million to the shareholders' lawyers. The judge had refused an earlier version that left Oracle to carry his legal bills. No court found against him. The law firm that brought the case calls it one of the largest settlements of its type.",
+          "src": [
+            128,
+            127,
+            129,
+            130
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He rarely sold stock again. Forbes counts only $4.7B this century."
+        },
+        {
+          "t": "h",
+          "text": "The war for PeopleSoft"
+        },
+        {
+          "t": "p",
+          "text": "By 2003 Ellison had a new answer to the applications problem: buy the competition. On June 6, 2003, days after PeopleSoft agreed to buy J.D. Edwards, Oracle launched a hostile bid of $16 a share. Internal emails later shown in court have Safra Catz raising the idea and Ellison agreeing straight away. PeopleSoft's boss, Craig Conway, had once worked for Ellison. He called the bid appalling conduct from a company with a long record of it, and he later compared his old boss to Genghis Khan and called him a sociopath.",
+          "src": [
+            56,
+            131
+          ]
+        },
+        {
+          "t": "p",
+          "text": "PeopleSoft's defence was clever. Conway argued that Oracle only wanted to shut his company down and take its customers, and that this should be illegal. The US Justice Department and ten states sued in February 2004, arguing that big companies would lose choice. An economist hired by the government estimated prices could rise up to 30%. After a trial, Judge Vaughn Walker ruled against the government, finding it had not proved its case about the market.",
+          "src": [
+            56,
+            58,
+            57
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oracle kept raising its price and PeopleSoft's board kept saying no. Conway was removed after admitting he had given a misleading account of the bid's effect on the business, the Guardian reported. In November 60% of shareholders agreed to sell at $24. In December the board asked for $26.50 and got it, ending the fight at ==$10.3 billion==. That was 18 months and a 66% higher price than the first offer.",
+          "src": [
+            53,
+            131,
+            132
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the cost. A week after the deal closed, Oracle said it would cut 5,000 jobs, nearly 10% of the combined group, and reports said many people would learn by a package sent to their homes. A rival's spokesman sneered that Oracle was in the business of buying customers, and in a sense that was the plan. It kept going, spending over $17.6 billion on five software makers in nine months. Siebel, run by another former Ellison lieutenant, cost $5.85 billion.",
+          "src": [
+            59,
+            60
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$16 to $26.50",
+              "label": "Oracle's bid per PeopleSoft share, June 2003 to December 2004",
+              "src": [
+                53
+              ]
+            },
+            {
+              "value": "$10.3B",
+              "label": "Final price for PeopleSoft",
+              "src": [
+                53
+              ]
+            },
+            {
+              "value": "5,000",
+              "label": "Jobs cut a week after the deal closed, January 2005",
+              "src": [
+                59
+              ]
+            },
+            {
+              "value": "$7.4B",
+              "label": "Sun Microsystems, agreed in April 2009",
+              "src": [
+                54
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2009, with markets frozen, Oracle bought Sun for $7.4 billion, two weeks after IBM's talks with Sun fell apart. It was a bold shift, moving a software company into servers and chips. Mark Hurd joined in 2010, weeks after leaving HP following a board inquiry into his expense reports. Then, in September 2014, at age 70, Ellison gave up the chief executive title after 37 years. Catz and Hurd became co-CEOs, and he stayed on as executive chairman and chief technology officer.",
+          "src": [
+            54,
+            62,
+            133,
+            134
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Wrong about the cloud"
+        },
+        {
+          "t": "p",
+          "text": "Remember 1995? Ellison had described the future as computers plugging into a network for their data. By 2008 others had built it. At an analyst meeting that September, he dismissed cloud computing as gibberish, called the industry more driven by fashion than women's clothing, and asked when the idiocy would stop. He said Oracle would make announcements but would change little beyond the wording of its ads.",
+          "src": [
+            27,
+            135
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oracle's position at the time was simple: it sold the software and machines that others used to run clouds. The trouble was that customers would no longer need to buy those things if they rented. Oracle was slow to accept this. Salesforce and NetSuite, both started by people he had trained and funded, were the ones proving the model. Fortune noted that their stocks had risen 389% and 354% in the three years since his rant, against 96% for Oracle.",
+          "src": [
+            47
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He changed course by buying again: RightNow for about $1.5 billion in 2011, then Taleo for $1.9 billion in 2012. In 2012 he conceded he no longer minded the word, and pointed out that NetSuite had been his idea in the first place. In 2016 Oracle bought NetSuite itself. That same year he named Amazon as his main rival in infrastructure, replacing IBM on his list of enemies.",
+          "src": [
+            47,
+            136,
+            49,
+            50,
+            137
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The man who pitched this idea in 1995 mocked it in 2008."
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1995",
+              "text": "Paris speech launches the Network Computer",
+              "src": [
+                27
+              ]
+            },
+            {
+              "when": "1998",
+              "text": "Yacht race storm; he returns to run Oracle more directly",
+              "src": [
+                119
+              ]
+            },
+            {
+              "when": "2000",
+              "text": "11i launches with bugs; Ray Lane is out",
+              "src": [
+                119
+              ]
+            },
+            {
+              "when": "2003 to 2004",
+              "text": "PeopleSoft war; the US sues and loses; deal agreed at $10.3 billion",
+              "src": [
+                56,
+                53
+              ]
+            },
+            {
+              "when": "2005",
+              "text": "Insider-trading suit settled for $122 million, no finding against him",
+              "src": [
+                128
+              ]
+            },
+            {
+              "when": "2008",
+              "text": "Calls the cloud gibberish at an analyst meeting",
+              "src": [
+                135
+              ]
+            },
+            {
+              "when": "2009 to 2010",
+              "text": "Buys Sun; sues Google over Java",
+              "src": [
+                54,
+                64
+              ]
+            },
+            {
+              "when": "2014",
+              "text": "Hands the CEO title to Catz and Hurd",
+              "src": [
+                134
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Your old business will argue against the future",
+          "text": "Ellison saw networked computing early. Then, when it threatened Oracle's sales model, he dismissed it. Ask what you would say about a new idea if you had nothing to lose from it."
+        },
+        {
+          "t": "lesson",
+          "title": "If you cannot grow, consolidate",
+          "text": "When a market matures, the largest player can often buy rivals, keep the customers and cut the costs. It is unsentimental and it hurts people. Understand it, whether or not you would do it yourself."
+        }
+      ]
+    },
+    {
+      "id": "the-last-bet",
+      "kicker": "2014 to November 2026",
+      "title": "All In at Eighty-Two",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Oracle's first attempt at renting out computing power was not competitive enough. In 2016 Ellison unveiled a rebuilt second-generation cloud, claiming twice the computing power and memory of Amazon's at a 20% lower price. Then the AI boom changed what customers wanted. Training AI models needed giant clusters of Nvidia chips joined by very fast networks, and Oracle's rebuilt design suited that work.",
+          "src": [
+            137,
+            138
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He was soon personally involved in the scramble for chips. At a September 2024 analyst meeting he told a story about taking Elon Musk and Nvidia's Jensen Huang to dinner at Nobu in Palo Alto. By his own account, two of the world's richest men spent the meal begging Huang to take more of their money. He added that it worked. In the same talk he said a frontier AI model would soon take about ==$100 billion== to build, and that few companies or countries could stay in that game.",
+          "src": [
+            139
+          ]
+        },
+        {
+          "t": "example",
+          "text": "By September 2024, Oracle had 162 cloud data centres operating or being built. Its largest was planned at 800 megawatts, close to the output of a big power station, full of what Oracle called acres of Nvidia chips.",
+          "src": [
+            139
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the White House. On January 21, 2025, the first full day of the new Trump administration, Ellison flew to Washington and helped announce Project Stargate: up to $500 billion over four years for AI data centres with OpenAI and others. The New York Times later described this as the peak of a two-year scramble to remake Oracle after ChatGPT.",
+          "src": [
+            111
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The richest man in the world, for an afternoon"
+        },
+        {
+          "t": "p",
+          "text": "In September 2025 Oracle reported its quarter. Investors focused on one figure, remaining performance obligations, or RPO. That means contracts signed but not yet delivered and paid for, a backlog of promised future revenue. Oracle's had jumped to ==$455 billion==, and the Wall Street Journal soon reported that OpenAI alone had signed for $300 billion over about five years.",
+          "src": [
+            66,
+            112
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The stock rose more than 40% in early trading the next day. For a few hours, Ellison's stake of about $393 billion passed Elon Musk's fortune, making him the richest person in the world. Oracle closed up 36% at $328, its best day since 1992, and Musk moved back ahead. Ellison was 81. __Almost five decades after the $1,200 cheque, he had caught everyone, but only on paper.__",
+          "src": [
+            116,
+            140,
+            141
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was 81. Most people retire about twenty years before this."
+        },
+        {
+          "t": "h",
+          "text": "Then the bill arrived"
+        },
+        {
+          "t": "p",
+          "text": "That backlog had a problem. To deliver it, Oracle had to buy the chips and build the sites first, with the rent coming later. Free cash flow, the cash left after paying for investments, turned sharply negative. It burned about $24 billion in the year to May 2026. Capital spending reached $55 billion that year, up from $21 billion, and was guided to $90 to $95 billion for the next. Oracle's reported debt climbed to about $125 billion by August 2026.",
+          "src": [
+            140,
+            142,
+            113,
+            114
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bond investors got nervous. In July 2026 S&P cut Oracle to BBB-, the lowest grade still considered safe for many big investors. Credit default swaps, which work like insurance against a company failing to repay, rose to about 320 basis points in October. Reuters pointed to the central worry: Oracle lacks the deep revenue of Microsoft or Amazon, and it leans heavily on a single loss-making customer. Critics inside and outside Wall Street started asking whether the boom was a bubble.",
+          "src": [
+            143,
+            144,
+            114,
+            111
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The cost landed on people too. Oracle's global headcount fell from about 162,000 to about 141,000 in the year to May 2026, and layoff emails went out on March 31, reaching staff in the US, India, Canada, Mexico and Uruguay. A second wave began in September. Its restructuring budget rose to about $2.8 billion, and for the first time Oracle's filing named AI adoption as a reason.",
+          "src": [
+            20,
+            145
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By July 2026 the share price had hit about $115, down roughly two-thirds from the peak. On October 28, at its investor day in Las Vegas, Oracle made its counterattack. It forecast more than $225 billion of revenue in fiscal 2030, promised positive free cash flow from late fiscal 2028, and capped further fundraising at $20 billion, half debt and half shares. The stock jumped 11% to about $144. Two days later it fell back to ==$130.67==. Nobody yet knows who is right.",
+          "src": [
+            140,
+            143,
+            114
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$664B",
+              "label": "Order backlog (RPO), as of August 31, 2026",
+              "src": [
+                66
+              ]
+            },
+            {
+              "value": "$125B",
+              "label": "Notes and borrowings, as of August 31, 2026",
+              "src": [
+                114
+              ]
+            },
+            {
+              "value": "$28B",
+              "label": "Capital spending in the single quarter to August 2026",
+              "src": [
+                113
+              ]
+            },
+            {
+              "value": "BBB-",
+              "label": "S&P credit rating since July 2026, the lowest investment grade",
+              "src": [
+                143,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Borrowing to back his son"
+        },
+        {
+          "t": "p",
+          "text": "All this collided with his family's biggest deal. The Warner Bros. takeover needed $47 billion of new equity, and Ellison had personally guaranteed $40.4 billion of it at the bidding stage. Other investors, mainly Gulf state funds, took much of it in the end. The Ellison family's share was still reported at about $17 billion. Forbes calculated in February that he had less than $10 billion in cash, mostly from Oracle dividends.",
+          "src": [
+            13,
+            102,
+            104,
+            91,
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In June 2026 he adopted a plan to sell up to 50 million Oracle shares. It became public on September 11 and he cancelled it the next day, with nothing sold. Instead he borrowed more. Oracle's proxy statement shows ==413 million== of his shares pledged as of September 21, up from 346 million a year earlier. Pledging means offering shares as security for a loan, like a mortgage on a house. Filings in California later showed he had also pledged Tesla, SpaceX and Skydance shares to banks including JPMorgan and Citigroup.",
+          "src": [
+            146,
+            91,
+            147,
+            106
+          ]
+        },
+        {
+          "t": "example",
+          "text": "Oracle bans its directors and officers from pledging shares, with one exception written just for Ellison. At $130.67 a share, the 413 million pledged shares come to about $54 billion, roughly 36% of his holding. The amount he actually owes is not public. Oracle's board says the loans are term loans for outside ventures, that none sit in margin accounts, and that he can repay without using the pledged stock.",
+          "src": [
+            106,
+            91,
+            140
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Why borrow instead of selling? Selling a large block can spook other investors, trigger a tax bill and reduce his votes. A loan avoids all three. The danger is that the debt stays in place while the collateral loses value, and lenders may then ask for more security. Oracle says there is no material risk to the company, and the cushion looks large. But one family's fortune now sits behind two heavily indebted companies, and investors have begun to trade them almost as one risk.",
+          "src": [
+            106,
+            91,
+            144
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for founders: borrowing against your stock doubles your exposure to it."
+        },
+        {
+          "t": "h",
+          "text": "How the fortune actually adds up"
+        },
+        {
+          "t": "p",
+          "text": "Forbes says he has sold only about $4.7 billion of Oracle stock this century, before tax. So nearly all of his fortune came from one decision: keeping shares he got for $1,200 in 1977. His 34% stake at the IPO is about 40% today. At $130.67, his 1.16 billion shares come to about ==$152 billion==, by simple multiplication.",
+          "src": [
+            9,
+            119,
+            10,
+            140,
+            106
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$175B",
+              "label": "Net worth, Bloomberg, Oct 31, 2026 (rank 8; down $141B in a year)",
+              "src": [
+                10
+              ]
+            },
+            {
+              "value": "$124.4B",
+              "label": "Oracle stake as valued by Bloomberg, Oct 31, 2026",
+              "src": [
+                10
+              ]
+            },
+            {
+              "value": "$18B",
+              "label": "Tesla stake, Bloomberg estimate, Oct 31, 2026",
+              "src": [
+                10
+              ]
+            },
+            {
+              "value": "$15B + $17.8B",
+              "label": "Skydance stake and cash, Bloomberg, Oct 31, 2026",
+              "src": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Compare the two ends of that journey. In September 2025 his Oracle stake was worth about $378 billion. About 13 months later, it was worth about $152 billion, or $124 billion on Bloomberg's count. He had not sold a share. On paper he lost more than most companies will ever be worth. Whether Oracle's AI bet looks like genius or the top of a bubble will not be settled for years, and he has tied his family's future to the answer.",
+          "src": [
+            116,
+            10,
+            140,
+            111
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2016",
+              "text": "Second-generation cloud launched to take on Amazon",
+              "src": [
+                137
+              ]
+            },
+            {
+              "when": "Sept 2024",
+              "text": "The Nobu dinner story; 162 data centres",
+              "src": [
+                139
+              ]
+            },
+            {
+              "when": "Jan 21, 2025",
+              "text": "Stargate is announced at the White House",
+              "src": [
+                111
+              ]
+            },
+            {
+              "when": "Sept 10, 2025",
+              "text": "Stock up 36%; he is briefly the world's richest person",
+              "src": [
+                116
+              ]
+            },
+            {
+              "when": "Jan 22, 2026",
+              "text": "TikTok US joint venture is formed; Oracle takes 15%",
+              "src": [
+                107
+              ]
+            },
+            {
+              "when": "July 2026",
+              "text": "Stock near $115; S&P cuts rating to BBB-",
+              "src": [
+                140,
+                144
+              ]
+            },
+            {
+              "when": "Sept 12, 2026",
+              "text": "Cancels his plan to sell 50 million shares",
+              "src": [
+                91
+              ]
+            },
+            {
+              "when": "Oct 6, 2026",
+              "text": "Warner Bros. deal closes; the company is renamed Skydance",
+              "src": [
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Concentration builds fortunes and can threaten them",
+          "text": "Holding one stock for 49 years made him hugely rich. Pledging it to fund other bets means that one falling price now affects everything else. Keep something in your own life that does not depend on your best idea."
+        },
+        {
+          "t": "lesson",
+          "title": "Read a backlog like a sceptic",
+          "text": "A $664 billion order book is a promise, not cash. Ask who the customer is, whether they can pay, and what you must spend before they do. Those questions apply whether your contract is $600 billion or $600."
+        },
+        {
+          "t": "lesson",
+          "title": "Being late is survivable if you admit it and act",
+          "text": "He mocked the cloud in 2008, and Oracle was years behind Amazon. It still became a central player in AI computing because he eventually changed his mind and spent heavily. The risk now is whether it spent too much. Both lessons are true."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Oracle Profit magazine: 30th anniversary timeline (company publication)",
+      "url": "https://www.oracle.com/us/corporate/profit/p27anniv-timeline-151918.pdf"
+    },
+    {
+      "label": "Multichannel News: C-COR Closes nCUBE Buy, Jan 3 2005",
+      "url": "https://www.nexttv.com/news/c-cor-closes-ncube-buy-259525"
+    },
+    {
+      "label": "Forbes: Digital Tools (Network Computer and New Internet Computer), Aug 21 2000",
+      "url": "https://www.forbes.com/forbes/2000/0821/6605144a.html"
+    },
+    {
+      "label": "Sports Business Journal: SailGP charts course for continued growth, Mar 24 2025",
+      "url": "https://www.sportsbusinessjournal.com/Articles/2025/03/24/sailgp-charts-course-for-continued-growth-following-success-of-us-events/"
+    },
+    {
+      "label": "Honolulu Star-Advertiser: Oracle's Ellison buys Island Air, Feb 26 2013",
+      "url": "https://www.staradvertiser.com/2013/02/26/breaking-news/oracles-ellison-buys-island-air-adding-to-his-hawaii-portfolio/"
+    },
+    {
+      "label": "Wall Street Journal (excerpt via Magzter): Larry Ellison's Bid to Change Farming Has Been a Bust, Feb 25 2025",
+      "url": "https://www.magzter.com/stories/newspaper/The-Wall-Street-Journal/LARRY-ELLISONS-BID-TO-CHANGE-FARMING-HAS-BEEN-A-BUST"
+    },
+    {
+      "label": "Associated Press: Paramount closes $81 billion takeover of Warner Bros. Discovery, Oct 6 2026",
+      "url": "https://apnews.com/article/warner-bros-skydance-ellison-studio-hollywood-5f4326c083ca2fc084ff399c1b8aa035"
+    },
+    {
+      "label": "Vox (Recode): Ellison's USC commencement speech and the hike with Steve Jobs, May 13 2016",
+      "url": "https://www.vox.com/2016/5/13/11672932/larry-ellison-steve-jobs-oracle-apple-usc"
+    },
+    {
+      "label": "US Court of Appeals for the Ninth Circuit: Island Air bankruptcy opinion, No. 24-5683, Sept 29 2026",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/29/24-5683.pdf"
+    },
+    {
+      "label": "Forbes: What The Paramount-Warner Bros. Merger Means For Larry Ellison's Fortune, Feb 27 2026",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/02/27/what-paramount-warner-bros-merger-means-for-larry-ellisons-fortune/"
+    },
+    {
+      "label": "Bloomberg Billionaires Index: Larry Ellison profile, last updated Oct 31 2026",
+      "url": "https://www.bloomberg.com/billionaires/profiles/lawrence-j-ellison/"
+    },
+    {
+      "label": "Philippine Star: Ellison recounts early days of Oracle (OpenWorld keynote report), Nov 2007",
+      "url": "https://www.philstar.com/business/technology/2007/11/26/29693/ellison-recounts-early-days-oracle"
+    },
+    {
+      "label": "NetSuite: What is NetSuite ERP (company history section)",
+      "url": "https://www.netsuite.com/portal/resource/articles/erp/what-is-netsuite.shtml"
+    },
+    {
+      "label": "Associated Press: Larry Ellison guarantees $40.4 billion in Paramount's bid, Dec 22 2025",
+      "url": "https://apnews.com/article/paramount-skydance-netflix-ellison-warner-96bfd981b4595fbd50bf39979b6dbe53"
+    },
+    {
+      "label": "CRN: Ellison Looks Back As Oracle Turns 30, 2007",
+      "url": "https://www.crn.com/news/applications-os/202804935/ellison-looks-back-as-oracle-turns-30"
+    },
+    {
+      "label": "Computer History Museum: RDBMS Workshop: Oracle, oral history transcript, June 12 2007",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/12/102746581-05-01-acc.pdf"
+    },
+    {
+      "label": "Sequoia Capital: The Oracle Story, recollections of Don Valentine",
+      "url": "https://articles.sequoiacap.com/oracle-story"
+    },
+    {
+      "label": "EBSCO Research Starters: Bob Miner biography",
+      "url": "https://www.ebsco.com/research-starters/biography/bob-miner/"
+    },
+    {
+      "label": "Oracle Investor Relations FAQ (archived 2005): incorporation dates and IPO terms",
+      "url": "https://web.archive.org/web/20051018091540/http:/www.oracle.com/corporate/investor_relations/faq.html"
+    },
+    {
+      "label": "UPI: Oracle lays off 400, Sept 17 1990",
+      "url": "https://www.upi.com/Archives/1990/09/17/Oracle-lays-off-400/5632653544000/"
+    },
+    {
+      "label": "CIO: Oracle forecasts 33% increase in restructuring costs, Sept 15 2026",
+      "url": "https://www.cio.com/article/4222306/oracle-forecasts-33-increase-in-restructuring-costs-as-new-round-of-layoffs-hits.html"
+    },
+    {
+      "label": "Los Angeles Times: Oracle Software Sees Future in Parallel Universe, Aug 5 1993",
+      "url": "https://www.latimes.com/archives/la-xpm-1993-08-05-fi-20523-story.html"
+    },
+    {
+      "label": "Los Angeles Times: Oracle Seeks Role in the Fast Lane, Jan 13 1994",
+      "url": "https://www.latimes.com/archives/la-xpm-1994-01-13-fi-18296-story.html"
+    },
+    {
+      "label": "Tech Monitor (Computergram): NCube adds Unix front-end to hypercube, May 16 1988",
+      "url": "https://www.techmonitor.ai/technology/ncube_adds_unix_front_end_to_hypercube_for_transaction_processing/"
+    },
+    {
+      "label": "Multichannel News: nCUBE Cuts Staff, Apr 5 2001",
+      "url": "https://www.nexttv.com/news/ncube-cuts-staff-144226"
+    },
+    {
+      "label": "Wired: Reality Check (video-on-demand vendors), Feb 1995",
+      "url": "https://www.wired.com/1995/02/reality-check-20/"
+    },
+    {
+      "label": "Tedium: Oracle's Network Computer, Larry Ellison's Too-Early Idea, Apr 12 2018",
+      "url": "https://tedium.co/2018/04/12/larry-ellison-network-computer-history/"
+    },
+    {
+      "label": "Wired: Time Your Attack, Oracle's Lost Revolution, Dec 2009",
+      "url": "https://www.wired.com/2009/12/fail-oracle/"
+    },
+    {
+      "label": "Forbes Global: The un-PC, Sept 21 1998",
+      "url": "https://www.forbes.com/global/1998/0921/0112042a.html"
+    },
+    {
+      "label": "SEC filing: Liberate Technologies annual report (10-K), 2005",
+      "url": "https://www.sec.gov/Archives/edgar/data/1085776/000110465905039709/a05-14904_110k.htm"
+    },
+    {
+      "label": "The Register: Oracle NC outfit changes name, plans IPO, May 20 1999",
+      "url": "https://www.theregister.com/on-prem/1999/05/20/oracle-nc-outfit-changes-name-plans-ipo/1554953"
+    },
+    {
+      "label": "LWN.net: The end of the NIC, June 4 2003",
+      "url": "https://lwn.net/Articles/34670/"
+    },
+    {
+      "label": "Techdirt: Ellison's Second Network Computing Company To Shut Down, June 2 2003",
+      "url": "https://www.techdirt.com/2003/06/02/ellisons-second-network-computing-company-to-shut-down/"
+    },
+    {
+      "label": "CIO: How Larry Ellison plotted to buy Apple and make Steve Jobs CEO (USC speech text), June 1 2016",
+      "url": "https://www.cio.com/article/238191/how-larry-ellison-plotted-to-buy-apple-and-make-steve-jobs-ceo.html"
+    },
+    {
+      "label": "New York Times: Head of Oracle Halts Bid to Buy Apple Computer, Apr 30 1997",
+      "url": "https://www.nytimes.com/1997/04/30/business/head-of-oracle-halts-bid-to-buy-apple-computer.html"
+    },
+    {
+      "label": "New York Times: Oracle Seeks Public Input on Possible Bid for Apple, Mar 28 1997",
+      "url": "http://www.nytimes.com/library/cyber/week/032897apple.html"
+    },
+    {
+      "label": "Vanity Fair: The Man Who Would Be Gates (Bryan Burrough), June 1997",
+      "url": "https://www.vanityfair.com/news/1997/06/larry-ellison-silicon-valley-bill-gates"
+    },
+    {
+      "label": "Reuters: Tesla names close Musk friend Larry Ellison to board, Dec 28 2018",
+      "url": "https://www.reuters.com/article/technology/tesla-names-close-musk-friend-larry-ellison-to-board-idUSKCN1OR0ZX/"
+    },
+    {
+      "label": "Forbes ASAP: Master of the Knowledge Universe, Sept 10 2001",
+      "url": "https://www.forbes.com/asap/2001/0910/064.html"
+    },
+    {
+      "label": "Education Week: Education Firm Charts Growth Of Its Universe, Aug 4 1999",
+      "url": "https://www.edweek.org/leadership/education-firm-charts-growth-of-its-universe/1999/08"
+    },
+    {
+      "label": "Los Angeles Times: Education's Pied Piper With a Dark Past, Sept 7 1998",
+      "url": "https://www.latimes.com/archives/la-xpm-1998-sep-07-mn-20370-story.html"
+    },
+    {
+      "label": "Partners Group press release: to acquire Knowledge Universe's US early-childhood business, July 9 2015",
+      "url": "https://www.partnersgroup.com/news-and-views/press-releases/investment-news/detail?news_id=a6e1a2d8-69bd-4ec6-999b-33374c32b653"
+    },
+    {
+      "label": "Private Equity International: Partners Group to acquire Knowledge Universe's US unit, July 9 2015",
+      "url": "https://www.privateequityinternational.com/partners-group-to-acquire-knowledge-universes-u-s-early-childhood-education-unit/"
+    },
+    {
+      "label": "CIO: NetSuite CEO Zach Nelson on his relationships with Salesforce and Larry Ellison, Nov 3 2010",
+      "url": "https://www.cio.com/article/197675/netsuite-ceo-zach-nelson-on-his-relationships-with-salesforce-and-larry-ellison.html"
+    },
+    {
+      "label": "Business Insider: Evan Goldberg on How NetSuite Started, Mar 29 2019",
+      "url": "https://www.businessinsider.com/evan-goldberg-netsuite-oracle-2019-3"
+    },
+    {
+      "label": "Business Insider: How Marc Benioff kicked Larry Ellison off Salesforce's board, Jan 13 2016",
+      "url": "https://www.businessinsider.com/how-benioff-kicked-ellison-off-his-board-2016-1"
+    },
+    {
+      "label": "Associated Press via Deseret News: Software battle strains friendship, Nov 1 2005",
+      "url": "https://www.deseret.com/2005/11/1/19920252/software-battle-strains-friendship/"
+    },
+    {
+      "label": "Fortune: Oracle, learning to love the cloud, Nov 3 2011",
+      "url": "https://fortune.com/2011/11/03/oracle-learning-to-love-the-cloud/"
+    },
+    {
+      "label": "Journal of Business Case Studies: Dutch Auction Or Dutch Uncle? A Case Study Of The NetSuite IPO",
+      "url": "https://doi.org/10.19030/jbcs.v4i11.4818"
+    },
+    {
+      "label": "TechCrunch: Larry Ellison Has Learned To Embrace Cloud Computing, May 30 2012",
+      "url": "https://techcrunch.com/2012/05/30/larry-ellison-cloud-computing/"
+    },
+    {
+      "label": "New York Times DealBook: Oracle's $9.3 Billion Deal for NetSuite, July 28 2016",
+      "url": "https://www.nytimes.com/2016/07/29/business/dealbook/oracle-netsuite-ellison-cloud-computing.html"
+    },
+    {
+      "label": "Business Insider: Larry Ellison's NetSuite stake is worth $3.5 billion, July 28 2016",
+      "url": "https://www.businessinsider.com/larry-ellisons-netsuites-stake-is-worth-35-billion-2016-7"
+    },
+    {
+      "label": "Delaware Supreme Court: In re Oracle Corporation Derivative Litigation, decided Jan 21 2025",
+      "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=374260"
+    },
+    {
+      "label": "Washington Post: Oracle Reaches Takeover Deal With PeopleSoft, Dec 14 2004",
+      "url": "https://www.washingtonpost.com/archive/business/2004/12/14/oracle-reaches-takeover-deal-with-peoplesoft/515d77fb-93d9-454e-ac55-d7340f84b1ab/"
+    },
+    {
+      "label": "Oracle press release: Oracle Buys Sun, Apr 20 2009",
+      "url": "https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html"
+    },
+    {
+      "label": "Bloomberg via Yahoo Finance: Oracle's $28 Billion Cerner Health Tech Bet Sputters, May 9 2024",
+      "url": "https://finance.yahoo.com/news/oracle-28-billion-cerner-health-130029084.html"
+    },
+    {
+      "label": "Federal Trade Commission archive: Lessons learned from United States v. Oracle Corp., 2012 paper",
+      "url": "https://search.ftc.gov/sites/default/files/documents/public_statements/lessons-learned-united-states-v.oracle-corp./120131oraclelessons.pdf"
+    },
+    {
+      "label": "AP via CRN: Takeover-Hungry Oracle Weighed Bids For Eight Other Companies, 2004",
+      "url": "https://www.crn.com/news/applications-os/22101302/takeover-hungry-oracle-weighed-bids-for-eight-other-companies-besides-peoplesoft"
+    },
+    {
+      "label": "US District Court (via US Justice Department): United States v. Oracle, findings and judgment, 2004",
+      "url": "https://www.justice.gov/atr/case-document/file/506896/dl"
+    },
+    {
+      "label": "New York Times: Oracle to Lay Off 5,000 After PeopleSoft Takeover, Jan 14 2005",
+      "url": "https://www.nytimes.com/2005/01/14/technology/oracle-to-lay-off-5000-after-peoplesoft-takeover.html"
+    },
+    {
+      "label": "AP via Seattle Times: Oracle to acquire Siebel Systems for about $5.85 billion, Sept 12 2005",
+      "url": "https://www.seattletimes.com/business/oracle-to-acquire-siebel-systems-for-about-585-billion/"
+    },
+    {
+      "label": "The Guardian: Oracle buys BEA for $8.5 billion, Jan 16 2008",
+      "url": "https://www.theguardian.com/technology/blog/2008/jan/16/oraclefinallybuysbeafor85"
+    },
+    {
+      "label": "The Guardian: Oracle buys Sun Microsystems in $7.4bn deal, Apr 20 2009",
+      "url": "https://www.theguardian.com/business/2009/apr/20/oracle-buys-sun-microsystems"
+    },
+    {
+      "label": "Reuters: EC could delay Oracle-Sun deal, Sept 1 2009",
+      "url": "https://www.reuters.com/article/business/exclusive-ec-could-delay-oracle-sun-deal-sources-idUSTRE5805RA/"
+    },
+    {
+      "label": "US Supreme Court: Google LLC v. Oracle America, Inc., decided Apr 5 2021",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/18-956%5Fd18f.pdf"
+    },
+    {
+      "label": "Reuters via Business Recorder: US Supreme Court sides with Google in copyright dispute with Oracle, Apr 5 2021",
+      "url": "https://www.brecorder.com/news/40081111"
+    },
+    {
+      "label": "Oracle press release: Q1 fiscal 2027 results, Sept 10 2026",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
+    },
+    {
+      "label": "Forbes: The VA pauses its switch to Cerner again, Apr 26 2023",
+      "url": "https://www.forbes.com/sites/alexknapp/2023/04/26/innovationrx-the-va-pauses-its-switch-to-cerneragain-moderna-teams-up-with-ibm/"
+    },
+    {
+      "label": "Business Insider: Oracle's First Major Test After Buying Cerner, July 28 2022",
+      "url": "https://www.businessinsider.com/oracle-cerner-va-issues-larry-ellison-2022-7"
+    },
+    {
+      "label": "US House Veterans' Affairs Committee: written testimony of Oracle's Mike Sicilia, July 27 2022",
+      "url": "https://docs.house.gov/meetings/VR/VR11/20220727/115046/HMTG-117-VR11-Wstate-SiciliaM-20220727-U1.pdf"
+    },
+    {
+      "label": "Reuters: Capping an epic comeback, Oracle wins the America's Cup, Sept 25 2013",
+      "url": "https://www.reuters.com/article/sports/capping-an-epic-comeback-oracle-wins-the-america-s-cup-idUSBRE98O17G/"
+    },
+    {
+      "label": "BBC Sport: America's Cup, USA beat Team New Zealand in decider, Sept 25 2013",
+      "url": "https://www.bbc.com/sport/sailing/24274103"
+    },
+    {
+      "label": "Reuters: Oracle hit with unprecedented penalties for America's Cup cheating, Sept 3 2013",
+      "url": "https://www.reuters.com/article/us-sailing-americascup-cheating/oracle-hit-with-unprecedented-penalties-for-americas-cup-cheating-idUSBRE98211Y20130904/"
+    },
+    {
+      "label": "ESPN: Oracle shakes 7-point deficits to win, Sept 25 2013",
+      "url": "https://www.espn.com/olympics/sailing/story/_/id/9723154/oracle-beats-new-zealand-keep-america-cup-comeback-victory"
+    },
+    {
+      "label": "Reuters: Ellison and Coutts launch league for supercharged cats, Oct 3 2018",
+      "url": "https://www.reuters.com/article/sports/ellison-and-coutts-launch-league-for-supercharged-cats-idUSKCN1MD2H9/"
+    },
+    {
+      "label": "Reuters: Oracle chief Ellison buys Indian Wells event and venue, Dec 22 2009",
+      "url": "https://www.reuters.com/article/sports/oracle-chief-ellison-buys-indian-wells-event-and-venue-idUSTRE5BL3TW/"
+    },
+    {
+      "label": "CNBC: With Hawaiian Island Larry Ellison Extends His Spending Spree, June 21 2012",
+      "url": "https://www.cnbc.com/2012/06/21/with-hawaiian-island-larry-ellison-extends-his-spending-spree.html"
+    },
+    {
+      "label": "New York Times DealBook: Ellison Beat Out in Record Warriors Sale, July 16 2010",
+      "url": "https://archive.nytimes.com/dealbook.nytimes.com/2010/07/16/ellison-beat-out-in-record-warriors-sale/"
+    },
+    {
+      "label": "CBS San Francisco: Warriors Sold, July 16 2010",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/warriors-sold/"
+    },
+    {
+      "label": "Forbes: Inside Larry Ellison's $1 Billion Real Estate Portfolio, Apr 10 2021",
+      "url": "https://www.forbes.com/sites/noahkirsch/2021/04/10/inside-larry-ellisons-1-billion-real-estate-portfolio/"
+    },
+    {
+      "label": "New York Times Magazine: Larry Ellison Bought an Island in Hawaii. Now What?, Sept 2014",
+      "url": "https://www.nytimes.com/2014/09/28/magazine/larry-ellison-island-hawaii.html"
+    },
+    {
+      "label": "Business Insider: Ellison extends full pay for furloughed workers on his Hawaiian island, May 1 2020",
+      "url": "https://www.businessinsider.com/larry-ellison-extends-full-pay-for-furloughed-workers-hawaii-island-2020-5"
+    },
+    {
+      "label": "South China Morning Post: Why is Larry Ellison turning Lanai into a health utopia?, Mar 25 2021",
+      "url": "https://www.scmp.com/magazines/style/luxury/article/3126886/why-larry-ellison-turning-lanai-hawaii-health-utopia-oracle"
+    },
+    {
+      "label": "Honolulu Star-Advertiser: Hawaii investment group buying controlling interest of Ellison's Island Air, Jan 6 2016",
+      "url": "https://www.staradvertiser.com/2016/01/06/business/business-breaking/hawaii-investment-group-buying-controlling-interest-of-ellisons-island-air/"
+    },
+    {
+      "label": "Honolulu Star-Advertiser: Lanai's owner testifies about airline's demise, Oct 5 2023",
+      "url": "https://www.staradvertiser.com/2023/10/05/hawaii-news/lanais-owner-testifies-about-airlines-demise/"
+    },
+    {
+      "label": "TechCrunch: The lesson of Larry Ellison's misadventures in farming, Feb 23 2025",
+      "url": "https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/"
+    },
+    {
+      "label": "Yahoo Finance summary of the WSJ report: Larry Ellison Poured $500 Million Into High-Tech Farming, Mar 10 2025",
+      "url": "https://finance.yahoo.com/news/larry-ellison-poured-500-million-160048796.html"
+    },
+    {
+      "label": "TechCrunch: Tesla names Oracle's Larry Ellison to board as part of SEC settlement, Dec 28 2018",
+      "url": "https://techcrunch.com/2018/12/28/tesla-names-oracles-larry-ellison-walgreens-executive-to-board-as-part-of-sec-settlement/"
+    },
+    {
+      "label": "Reuters Breakingviews: Larry Ellison is anything but a check on Elon Musk, Dec 28 2018",
+      "url": "https://www.reuters.com/article/breakingviews/breakingviews-larry-ellison-is-anything-but-a-check-on-elon-musk-idUSKCN1OR1ND/"
+    },
+    {
+      "label": "Forbes Australia: Elon Musk nears $800 billion net worth after latest funding round, Jan 2026",
+      "url": "https://www.forbes.com.au/news/billionaires/elon-musk-nears-800-billion-net-worth-after-latest-funding-round/"
+    },
+    {
+      "label": "Reuters: SpaceX acquires xAI in record-setting deal, Feb 2 2026",
+      "url": "https://www.reuters.com/business/musks-spacex-merge-with-xai-combined-valuation-125-trillion-bloomberg-news-2026-02-02/"
+    },
+    {
+      "label": "Quartz: Larry Ellison pledges Oracle, Tesla, SpaceX stock for bank loans, Oct 21 2026",
+      "url": "https://qz.com/larry-ellison-pledged-stock-loans-warner-bros-deal-102126"
+    },
+    {
+      "label": "AFP via France 24: Larry Ellison, tech's original maverick, makes Trump era return, Jan 23 2025",
+      "url": "https://www.france24.com/en/live-news/20250123-larry-ellison-tech-s-original-maverick-makes-trump-era-return"
+    },
+    {
+      "label": "VentureBeat: Larry Ellison's foundation cuts funding for anti-aging research, Dec 19 2013",
+      "url": "https://venturebeat.com/business/larry-ellisons-foundation-cuts-funding-for-anti-aging-research"
+    },
+    {
+      "label": "Research Professional News: Ellison Institute to spend 10 billion pounds on talent and science, Oct 23 2025",
+      "url": "https://www.researchprofessionalnews.com/rr-news-uk-innovation-2025-10-ellison-institute-to-spend-10bn-on-talent-and-science/"
+    },
+    {
+      "label": "Cherwell (Oxford student newspaper): Larry Ellison scales back Oxford science initiative, Nov 29 2025",
+      "url": "https://www.cherwell.org/2025/11/29/larry-ellison-scales-back-10-billion-oxford-science-initiative/"
+    },
+    {
+      "label": "The Observer: Tech turmoil threatens investment drive in UK, Sept 7 2025",
+      "url": "https://observer.co.uk/news/business/article/tech-turmoil-threatens-investment-drive-in-uk"
+    },
+    {
+      "label": "Business Matters: Larry Ellison commits extra 890m pounds to Oxford science institute, Oct 14 2025",
+      "url": "https://bmmagazine.co.uk/news/larry-ellison-invests-oxford-institute-expansion-2025/"
+    },
+    {
+      "label": "Forbes Middle East: The other billionaire behind Skydance's Paramount deal, Aug 5 2025",
+      "url": "https://db.forbesmiddleeast.com/billionaires/world-billionaires/meet-the-other-billionaire-behind-skydances-paramount-deal"
+    },
+    {
+      "label": "Forbes: How Larry Ellison and David Ellison pulled off the Paramount deal, July 29 2025",
+      "url": "https://www.forbes.com/sites/phoebeliu/2025/07/29/how-worlds-second-richest-person-larry-ellison-david-ellison-his-son-8-billion-skydance-paramount-deal/"
+    },
+    {
+      "label": "Reuters: Paramount closes $8 billion merger with Skydance, Aug 7 2025",
+      "url": "https://www.reuters.com/legal/transactional/paramount-closes-8-billion-merger-with-skydance-after-settling-60-minutes-2025-08-07/"
+    },
+    {
+      "label": "TheWrap: Larry Ellison to hold 35.5% of family's voting rights in Paramount, July 2025",
+      "url": "https://www.thewrap.com/larry-ellison-paramount-skydance-merger-voting-rights/"
+    },
+    {
+      "label": "Skydance investor relations: Paramount completes acquisition of Warner Bros. Discovery, Oct 6 2026",
+      "url": "https://ir.skydance.com/news-releases/news-release-details/paramount-completes-acquisition-warner-bros-discovery-creating"
+    },
+    {
+      "label": "SEC filing: Skydance Corporation 8-K on closing of the merger, Oct 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1437107/000119312526415055/d200872d8k.htm"
+    },
+    {
+      "label": "Yahoo Finance (GuruFocus): Larry Ellison Just Put $9.2 Billion of Oracle Stock Behind His Loans, Sept 28 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-put-9-144427078.html"
+    },
+    {
+      "label": "Reuters: Ellison offers personal guarantee to beef up Paramount's Warner Bros bid, Dec 22 2025",
+      "url": "https://www.reuters.com/business/media-telecom/larry-ellison-gives-404-billion-guarantee-paramount-bid-warner-bros-2025-12-22/"
+    },
+    {
+      "label": "Economic Times: Larry Ellison's borrowing strategy, Oct 21 2026",
+      "url": "https://economictimes.indiatimes.com/world/business/larry-ellisons-borrowing-strategy-why-the-oracle-nyse-orcl-billionaire-is-using-his-shares-to-fund-a-media-deal/articleshow/135091322.cms"
+    },
+    {
+      "label": "TikTok newsroom: Announcement from the new TikTok USDS Joint Venture LLC, Jan 22 2026",
+      "url": "https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en"
+    },
+    {
+      "label": "Reuters: TikTok seals deal for new US joint venture, Jan 23 2026",
+      "url": "https://www.reuters.com/world/china/tiktok-reaches-deal-new-us-joint-venture-avoid-american-ban-2026-01-23/"
+    },
+    {
+      "label": "OpenSecrets: Oracle invested millions in government influence before winning a major stake in TikTok, Sept 25 2025",
+      "url": "https://www.opensecrets.org/news/2025/09/oracle-invested-millions-in-government-influence-before-winning-a-major-stake-in-tiktok/"
+    },
+    {
+      "label": "Academy of Achievement: Larry J. Ellison biography",
+      "url": "https://achievement.org/achiever/larry-j-ellison/"
+    },
+    {
+      "label": "New York Times Magazine: Larry Ellison Bet It All on the A.I. Boom, July 31 2026",
+      "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
+    },
+    {
+      "label": "Wall Street Journal: Oracle, OpenAI Sign $300 Billion Cloud Deal, Sept 10 2025",
+      "url": "https://www.wsj.com/business/openai-oracle-sign-300-billion-computing-deal-among-biggest-in-history-ff27c8fe"
+    },
+    {
+      "label": "Motley Fool: Oracle Q1 2027 earnings call transcript, Sept 11 2026",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/09/11/oracle-orcl-q1-2027-earnings-call-transcript/"
+    },
+    {
+      "label": "Reuters via StreetInsider: Oracle eases AI spending worries, Oct 28 2026",
+      "url": "https://www.streetinsider.com/Reuters/Oracle+eases+AI+spending+worries+with+plan+to+turn+cash+flow+positive/27248462.html"
+    },
+    {
+      "label": "CNBC: Oracle Q1 earnings report, Sept 10 2026",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html"
+    },
+    {
+      "label": "The Guardian: Larry Ellison briefly overtakes Elon Musk as world's richest person, Sept 10 2025",
+      "url": "https://www.theguardian.com/technology/2025/sep/10/larry-ellison-dislodges-elon-musk-as-worlds-richest-person"
+    },
+    {
+      "label": "New York Times: Oracle Agrees to a Fine Over Accounting Moves, Sept 25 1993",
+      "url": "https://www.nytimes.com/1993/09/25/business/company-news-oracle-agrees-to-a-fine-over-accounting-moves.html"
+    },
+    {
+      "label": "Stanford SIEPR: In tribute, Donald Leo Lucas, 2020",
+      "url": "https://siepr.stanford.edu/news/tribute-donald-leo-lucas-march-18-1930-dec-27-2019"
+    },
+    {
+      "label": "Forbes: Oracle on the Edge, Aug 20 2001",
+      "url": "https://www.forbes.com/forbes/2001/0820/082.html"
+    },
+    {
+      "label": "University of Virginia Darden School case: Oracle Systems Corporation (Bruner and Micaelian)",
+      "url": "https://doi.org/10.1108/case.darden.2016.000223"
+    },
+    {
+      "label": "New York Times: Market Place, Surprise Hurts Oracle Systems, Apr 5 1990",
+      "url": "https://www.nytimes.com/1990/04/05/business/market-place-surprise-hurts-oracle-systems.html"
+    },
+    {
+      "label": "International Directory of Company Histories via FundingUniverse: Oracle Corporation",
+      "url": "https://www.fundinguniverse.com/company-histories/oracle-corporation-history/"
+    },
+    {
+      "label": "Tech Monitor (Computergram): Oracle will have to restate past figures again, Mar 27 1991",
+      "url": "https://www.techmonitor.ai/technology/oracle_will_have_to_restate_past_figures_again_after_finding_a_42m_pre_tax_black_hole/"
+    },
+    {
+      "label": "Tech Monitor (Computergram): Nippon Steel reaps rewards from its loan to Oracle, Dec 2 1997",
+      "url": "https://www.techmonitor.ai/technology/nippon_steel_reaps_rewards_from_its_loan_to_oracle_1/"
+    },
+    {
+      "label": "Tech Monitor (Computergram): Nippon Steel bails out Oracle to the tune of $200m, June 4 1991",
+      "url": "https://www.techmonitor.ai/technology/nippon_steel_bails_out_oracle_to_the_tune_of_200m/"
+    },
+    {
+      "label": "San Francisco Chronicle: Oracle's First-Rate Second in Command, Sept 4 1997",
+      "url": "https://www.sfgate.com/business/article/Oracle-s-First-Rate-Second-in-Command-Ray-Lane-2828584.php"
+    },
+    {
+      "label": "New York Times: Oracle's Chief in Agreement to Settle Insider Trading Lawsuit, Sept 12 2005",
+      "url": "https://www.nytimes.com/2005/09/12/technology/oracles-chief-in-agreement-to-settle-insider-trading-lawsuit.html"
+    },
+    {
+      "label": "AP via Los Angeles Times: Judge OKs Oracle Chief's Settlement, Nov 23 2005",
+      "url": "https://www.latimes.com/archives/la-xpm-2005-nov-23-fi-ellison23-story.html"
+    },
+    {
+      "label": "AP via Pittsburgh Post-Gazette: Oracle's Ellison to pay $122 million to settle shareholder suit, Nov 23 2005",
+      "url": "https://www.post-gazette.com/business/tech-news/2005/11/23/oracle-s-ellison-to-pay-122-million-to-settle-shareholder-suit/stories/200511230387"
+    },
+    {
+      "label": "Berman Tabacco (plaintiffs' co-lead counsel): Oracle case summary",
+      "url": "https://www.bermantabacco.com/case/oracle/"
+    },
+    {
+      "label": "The Guardian: Oracle wins 5.4 billion pound fight, Dec 14 2004",
+      "url": "https://www.theguardian.com/technology/2004/dec/14/business.usnews"
+    },
+    {
+      "label": "Los Angeles Times: Oracle Wins Battle to Buy PeopleSoft, Dec 14 2004",
+      "url": "https://www.latimes.com/archives/la-xpm-2004-dec-14-fi-oracle14-story.html"
+    },
+    {
+      "label": "Vox: Larry Ellison is stepping down as Oracle CEO, Sept 18 2014",
+      "url": "https://www.vox.com/2014/9/18/6425315/oracle-explained"
+    },
+    {
+      "label": "Reuters: Oracle's Ellison steps aside, co-CEOs Catz and Hurd take over, Sept 18 2014",
+      "url": "https://www.reuters.com/article/business/oracle-s-ellison-steps-aside-co-ceos-catz-and-hurd-take-over-idUSL1N0RJ2HE/"
+    },
+    {
+      "label": "eWeek: Oracle CEO Larry Ellison Spits on Cloud Computing Hype, Sept 29 2008",
+      "url": "https://www.eweek.com/networking/oracle-ceo-larry-ellison-spits-on-cloud-computing-hype/"
+    },
+    {
+      "label": "Network World: Once a basher, now a believer, Sept 26 2012",
+      "url": "https://www.networkworld.com/article/664217/once-a-basher-now-a-believer-oracle-chief-larry-ellison-has-come-full-circle-on-cl.html"
+    },
+    {
+      "label": "SiliconANGLE: Oracle's Larry Ellison unveils new cloud services at OpenWorld, Sept 18 2016",
+      "url": "https://siliconangle.com/2016/09/18/amazons-lead-is-over-oracles-larry-ellison-declares-at-openworld/"
+    },
+    {
+      "label": "Motley Fool: what Ellison and Musk said to Jensen Huang, with Oracle network details, Sept 17 2024",
+      "url": "https://www.fool.com/investing/2024/09/17/believe-larry-ellison-elon-musk-said-nvidia-jensen/"
+    },
+    {
+      "label": "Fortune: Larry Ellison and Elon Musk begged Nvidia's CEO for more GPUs, Sept 16 2024",
+      "url": "https://fortune.com/2024/09/16/larry-ellison-elon-musk-begged-nvidias-jensen-huang-more-gpus-fancy-sushi-dinner/"
+    },
+    {
+      "label": "Yahoo Finance: Oracle stock soars as it promises the AI spending will start paying for itself (with Oct 30 2026 close)",
+      "url": "https://finance.yahoo.com/markets/article/oracle-stock-soars-as-it-promises-the-ai-spending-will-start-paying-for-itself-201056802.html"
+    },
+    {
+      "label": "Reuters: Larry Ellison is back on top, 48 years after he co-founded Oracle, Sept 12 2025",
+      "url": "https://www.reuters.com/business/media-telecom/larry-ellison-is-back-top-48-years-after-he-co-founded-oracle-2025-09-12/"
+    },
+    {
+      "label": "Seattle Times: Oracle lays off hundreds in Seattle, Sept 16 2026",
+      "url": "https://www.seattletimes.com/business/oracle-lays-off-hundreds-in-seattle-part-of-sweeping-cuts/"
+    },
+    {
+      "label": "CNBC: Oracle stock pops 11% on long-term forecast, Oct 28 2026",
+      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html"
+    },
+    {
+      "label": "Ava Advisor news summary of a Bloomberg report: Ellison's Oracle and Paramount debt binge links two credits, Oct 3 2026",
+      "url": "https://ava.fund/news/ellison-s-oracle-and-paramount-debt-binge-links-two-credits-03102026"
+    },
+    {
+      "label": "Reuters via Mint: Oracle to spend $700 million more on restructuring costs, Sept 11 2026",
+      "url": "https://www.livemint.com/companies/oracle-to-spend-700-million-more-on-restructuring-costs-as-it-ramps-up-ai-spending-11789170579977.html"
+    },
+    {
+      "label": "Bloomberg: Oracle Boosts Layoffs Plan by $700 Million (and Ellison share-sale plan), Sept 11 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million"
+    },
+    {
+      "label": "Wall Street Journal: Larry Ellison Went on Borrowing Spree to Bankroll His Son's Warner Bros. Bid, Oct 20 2026",
+      "url": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714"
+    }
+  ],
+  "factCheck": {
+    "method": "Each block was written from the sources it cites: SEC and court filings (Liberate 10-K, Skydance 8-K, Delaware Supreme Court, Ninth Circuit, US Supreme Court, the PeopleSoft antitrust ruling), Oracle's own releases and histories, the Computer History Museum oral history, and established press. Paywalled pieces (WSJ, NYT Magazine, Bloomberg, parts of Forbes and Vanity Fair) were used only as far as they could be read openly, and where needed through a secondary report of them, which is cited alongside. Share values use the Oct 30, 2026 Oracle close of $130.67 and Bloomberg's Oct 31, 2026 page. Ellison's stage stories from 2007 are flagged as his own telling. Direct quotation is held to one short line, with everything else in our own words.",
+    "disputed": [
+      {
+        "claim": "How much money started the company",
+        "note": "Ellison's 2007 account gives $1,200 from him and $800 from Miner, $2,000 in total (Philippine Star). CRN says the $2,000 came from four founders. Older company histories say the partners pooled $1,500. We use Ellison's own figure."
+      },
+      {
+        "claim": "What the first CIA money was",
+        "note": "Several histories describe a $50,000 CIA contract, some calling it a lapsed contract they took over. Ellison said in 2007 that the first copy sold to the CIA for $48,000. Separately, CRN describes the $300,000 bid as being for the CIA project, while the fuller report of the same talk says it was for Precision Instruments. We use the fuller report and Ellison's $48,000."
+      },
+      {
+        "claim": "Who started it and when each person joined",
+        "note": "Founders are usually listed as Ellison, Miner and Oates, with Bruce Scott as a fourth or as the first employee. Ken Jacobs recalled that Ellison may still have been employed elsewhere when the company was formed, and Oracle's own magazine shows Miner signing the first share certificate as president. Sources also differ on whether the three met at Ampex or Amdahl. The early-life part of the book handles this in depth."
+      },
+      {
+        "claim": "Date of the IPO and of the Oracle name",
+        "note": "Oracle's investor FAQ gives the IPO as March 12, 1986; its Profit magazine says March 15. We use the FAQ. The company name changed in 1982 according to the same FAQ and some reports, and in 1983 according to others."
+      },
+      {
+        "claim": "How the coin flip happened",
+        "note": "Mike Humphries recalls Bob Miner saying they flipped a coin between a compiler job and the CIA database, and adds that he does not believe Ellison left it to chance. This is one person's memory of another's story."
+      },
+      {
+        "claim": "Nippon Steel rescue terms",
+        "note": "June 1991 reports describe $200 million of financing and 49% of Oracle Japan. The December 1991 agreement in later accounts is $80 million with rights to as much as 25%. We read this as a larger plan replaced by a smaller one, though we found no report explaining the change."
+      },
+      {
+        "claim": "PeopleSoft final price",
+        "note": "Most reports give $10.3 billion at $26.50 a share. AP via the Seattle Times and the Guardian give about $11.1 billion, which appears to include other costs. We use $10.3 billion."
+      },
+      {
+        "claim": "RightNow price",
+        "note": "Fortune says about $1.5 billion; Network World says $1.4 billion. We use about $1.5 billion."
+      },
+      {
+        "claim": "Lanai price and share",
+        "note": "Most reporting says about $300 million for about 98%, while the New York Times Magazine and the local press used 97%. The price was never officially disclosed, and some reports suggested a higher figure. We use the widely reported number and label it as reported."
+      },
+      {
+        "claim": "Warner Bros. deal size",
+        "note": "AP says $81 billion for the shares and nearly $111 billion with debt. Skydance's SEC filing puts the merger consideration at about $78 billion. Different counts include different items. The Ellison family's own share of the equity, about $17 billion, is a press estimate from filings, and Ellison's stake in the merged firm is Bloomberg's estimate."
+      },
+      {
+        "claim": "Value of the cancelled share-sale plan",
+        "note": "Bloomberg valued the 50 million shares at $8.75 billion using the June 22, 2026 close. Other reports say about $7.5 billion. The plan itself and its cancellation are confirmed by Oracle filings as reported by Quartz."
+      },
+      {
+        "claim": "Value of the Oracle stake today",
+        "note": "Bloomberg's page showed $124.4 billion on Oct 31, 2026. Plain multiplication of about 1.16 billion shares by the $130.67 close gives about $152 billion. Bloomberg's page, as far as we could read it, did not explain the difference, so we show both and do not guess. Its $17.8 billion cash figure also differs from Forbes's estimate in February 2026 of under $10 billion."
+      },
+      {
+        "claim": "Oracle's debt",
+        "note": "Oracle reported about $125 billion in notes and borrowings at Aug 31, 2026 (Reuters, CNBC). A Bloomberg summary and others say long-term debt of more than $160 billion, and CNBC separately says $117 billion of long-term debt issued. These use different definitions. We use the $125 billion."
+      },
+      {
+        "claim": "Oxford institute's commitment",
+        "note": "The institute announced a plan of more than £10 billion over ten years. Cherwell, a student paper, reports only £2 billion committed so far, citing people involved. Research Professional cites about £1 billion plus £890 million. The institute has not, in what we read, confirmed the £2 billion figure."
+      },
+      {
+        "claim": "Island Air liability",
+        "note": "This is an ongoing case. The trial court ruled for the Ellison side on the claims against them. On Sept 29, 2026, the Ninth Circuit reversed parts of that and sent claims back, including whether his trust and holding company count as an employer under Hawaii law. This is not a finding of liability."
+      }
+    ]
+  }
+}

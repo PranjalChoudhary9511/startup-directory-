@@ -1,0 +1,175 @@
+{
+  "slug": "koo",
+  "name": "Koo",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Social media",
+  "founded": 2019,
+  "died": 2024,
+  "status": "shut-down",
+  "brandColor": "#facd00",
+  "founders": [
+    { "name": "Aprameya Radhakrishna", "role": "Co-founder & CEO" },
+    { "name": "Mayank Bidawatka", "role": "Co-founder" }
+  ],
+
+  "epitaph": "The little yellow bird that sang in every language.",
+  "oneLiner": "An Indian Twitter-style app where people could post short updates in Hindi, Kannada and other Indian languages.",
+  "causeOfDeath": "It grew on a political moment, never found a way to earn real money, and ran out of cash when funding dried up and buyout talks failed.",
+
+  "raisedUsdM": 64,
+  "peakValuationUsdM": 275,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: Inc42's database lists $63.99 M+ across 7 rounds. Peak valuation: about ₹2,230 crore (~$275 M) after the Nov 2022 round, an Entrackr estimate from filings at roughly ₹81 per dollar. End value: the founders said they would sell some assets; we found no reported price.",
+  "moneySrc": [6, 1, 2],
+
+  "inOneMinute": [
+    "When the government clashed with Twitter in early 2021, **ministers rushed to Koo**. Its valuation jumped from about $25 million to over $100 million in three months.",
+    "In FY21 it earned **₹7.76 lakh while losing ₹35 crore**. Even at its peak it had about 2.1 million daily users.",
+    "Funding dried up, buyout talks failed, and on **3 July 2024** the founders shut it down."
+  ],
+  "killerLine": "A wave of sign-ups is not a habit. **Build for the users who stay** after the news cycle moves on.",
+
+  "numbers": [
+    { "value": "4x", "label": "valuation jump in three months (~$25 M to $100 M+), Feb–May 2021", "src": [0] },
+    { "value": "₹7.76 lakh", "label": "revenue in FY21, against a ₹35 crore loss", "src": [1] },
+    { "value": "2.1 M", "label": "daily active users at its peak (10 M monthly)", "src": [2] },
+    { "value": "$64 M", "label": "raised in total across 7 rounds", "src": [6] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Aprameya Radhakrishna had already built and sold a startup: TaxiForSure, bought by Ola. With Mayank Bidawatka he started Bombinate Technologies in Bengaluru in late 2019 and launched Koo in early 2020. The insight was real. Most Indians don't think or write in English, yet Twitter was built around it. Koo let people **post in their own language**, starting with Kannada, then Hindi and others. It even had a 'talk to type' feature for voice posts. In 2020 it won a prize in the government's Atmanirbhar App Innovation Challenge. Still, it was small: about 2.6 million installs that year, against Twitter's 28 million.",
+      "src": [0, 5]
+    },
+    {
+      "title": "The rise",
+      "body": "In early 2021, Twitter refused government orders to block some accounts critical of the government. Ministers such as Piyush Goyal, Smriti Irani and Ravi Shankar Prasad **joined Koo and urged followers to do the same**. Sign-ups exploded. In May 2021, Tiger Global led a **$30 million round**, valuing Koo at over $100 million, up from about $25 million in February. When Nigeria banned Twitter in June 2021, its government opened a Koo account too. Radhakrishna was bold: \"We have aggressive plans to grow into one of the world's largest social media platforms in the next few years.\" In November 2022 it raised again at an estimated $275 million.",
+      "src": [0, 5, 1]
+    },
+    {
+      "title": "The cracks",
+      "body": "The surge was driven by a moment, not a habit. In April 2021, Koo had **fewer than 6.5 million monthly users**, App Annie data showed. In Nigeria, the government's Koo account went quiet by February 2022, and officials drifted back to Twitter. In November 2022, Brazilians flocked in after Elon Musk bought Twitter: over a million signed up in a day. But an update that week reportedly let some profiles be hacked. Meanwhile money was not coming in. In FY21 Koo earned **just ₹7.76 lakh** and lost ₹35.18 crore, nearly three times the previous year's loss. Servers, moderation and staff cost a lot; ads paid almost nothing.",
+      "src": [0, 3, 5, 1]
+    },
+    {
+      "title": "The fall",
+      "body": "In April 2023 Koo began laying off a large part of its team. At its peak it had about **2.1 million daily users** and 10 million monthly users, including more than 9,000 VIPs. That was big for a startup, but small for a social network that must sell ads at huge scale. By April 2024, reports said Koo was struggling to pay salaries, and Bidawatka said future salaries depended on finding a buyer. No deal came through. On 3 July 2024 the founders announced the shutdown, blaming **failed partnership talks, high technology costs** and a long funding winter. They said they would be back in the arena one way or another.",
+      "src": [2, 5]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Nov 2019", "event": "Bombinate Technologies is set up; Koo launches in early 2020.", "kind": "start", "src": [5] },
+    { "date": "2020", "event": "Wins a prize in the government's Atmanirbhar App Innovation Challenge.", "kind": "start", "src": [5] },
+    { "date": "Feb 2021", "event": "Twitter–government standoff: ministers move to Koo; valuation about $25 M.", "kind": "peak", "src": [0, 5] },
+    { "date": "May 2021", "event": "Raises $30 M led by Tiger Global at a valuation over $100 M.", "kind": "money", "src": [0] },
+    { "date": "Jun 2021", "event": "Nigeria bans Twitter; its government joins Koo. By Feb 2022 the account goes quiet.", "kind": "warning", "src": [3] },
+    { "date": "FY21", "event": "Revenue ₹7.76 lakh; loss ₹35.18 crore, nearly 3x FY20.", "kind": "warning", "src": [1] },
+    { "date": "Nov 2022", "event": "Brazil sign-up spike; raises about $6.3 M at an estimated $275 M valuation.", "kind": "money", "src": [1, 5] },
+    { "date": "Apr 2023", "event": "Starts laying off a large part of its workforce.", "kind": "crisis", "src": [2] },
+    { "date": "Apr 2024", "event": "Reports of unpaid salaries; co-founder says pay depends on finding a buyer.", "kind": "crisis", "src": [5] },
+    { "date": "3 Jul 2024", "event": "Founders announce Koo is shutting down.", "kind": "end", "src": [2] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY20", "FY21"],
+      "series": [
+        { "name": "Revenue", "values": [null, 0.08] },
+        { "name": "Net loss", "values": [12.17, 35.18] }
+      ],
+      "takeaway": "For every rupee Koo earned in FY21, it lost about ₹450.",
+      "src": [1]
+    }
+  ],
+
+  "rounds": [
+    { "date": "May 2021", "round": "Series B", "amountUsdM": 30, "valuationUsdM": 100, "investors": ["Tiger Global", "Mirae Asset", "IIFL", "3one4 Capital", "Blume Ventures", "Accel"], "src": [0] },
+    { "date": "2022", "round": "Funding round", "amountUsdM": 10, "valuationUsdM": null, "investors": ["Capier Venture Partner", "Ravi Modi Family Trust", "Ashneer Grover"], "src": [1] },
+    { "date": "Nov 2022", "round": "Series B4", "amountUsdM": 6.3, "valuationUsdM": 275, "investors": ["Tiger Global", "Accel", "Kalaari Capital", "3one4 Capital", "Dream Incubator"], "src": [1] }
+  ],
+
+  "causes": [
+    { "key": "business-model", "weight": 35 },
+    { "key": "funding-dried", "weight": 25 },
+    { "key": "no-market", "weight": 25 },
+    { "key": "competition", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Growing on a political moment instead of a daily habit",
+      "explain": "Koo's big wave came when ministers moved over during a fight with Twitter. That brought headlines and sign-ups, but TechCrunch noted its early traction was credited to Hindu nationalists, giving it a **political label**. In Nigeria, officials left as soon as they could. **Users who join to make a point leave when the point is made.**",
+      "src": [0, 3]
+    },
+    {
+      "title": "No real way to make money",
+      "explain": "In FY21 Koo earned ₹7.76 lakh and lost ₹35.18 crore. Social networks usually earn from ads only after reaching **very large, very engaged audiences**. Koo never got there, so every new user **added cost without adding income**: storage, servers and moderation all grew, while the ad money stayed tiny. Losses nearly tripled in a year.",
+      "src": [1]
+    },
+    {
+      "title": "Copying the leader's design",
+      "explain": "Koo's interface, logo and sharing looked very like Twitter's. Local languages were a real edge, but the rest felt familiar. When **the incumbent already has everyone's friends**, being similar is not enough. You need a reason people can't get anywhere else.",
+      "src": [0]
+    },
+    {
+      "title": "Spreading to new countries before winning at home",
+      "explain": "Koo chased Nigeria in 2021 and Brazil in 2022, each time riding a Twitter controversy. Brazil brought a million sign-ups in a day, then a bug that reportedly let profiles be hacked. **Each spike cost servers and attention** while the Indian base stayed at about 2 million daily users.",
+      "src": [3, 5, 2]
+    }
+  ],
+
+  "warningSigns": [
+    "Did most of your users arrive in one burst, tied to a news event?",
+    "Has your monthly active user count stayed flat while sign-ups keep rising?",
+    "Do your servers and moderation costs grow faster than any revenue?",
+    "Is your product's main pitch 'like the big player, but ours'?",
+    "Are you launching in new countries because of a trending story rather than a plan?"
+  ],
+
+  "lessons": [
+    { "title": "Measure retention, not downloads", "detail": "Track what share of users are still active 30 and 90 days after joining. That number, not total downloads, tells you if you have a product." },
+    { "title": "Stay neutral if you want everyone", "detail": "A consumer app that becomes linked with one side of politics cuts its market in half. Welcome public figures, but don't let them define your brand." },
+    { "title": "Test money-making early, even in a small way", "detail": "Try creator subscriptions, local business ads or paid features while you are small. Learning what people pay for is cheaper at 1 lakh users than at 1 crore." },
+    { "title": "Find one thing only you can do", "detail": "Koo's best idea was local languages. Double down on what the big player cannot copy quickly, not on matching its features." },
+    { "title": "Watch your infrastructure bill", "detail": "Free apps pay for every video, image and post stored. Model your cost per active user before you chase spikes of millions of sign-ups." }
+  ],
+
+  "quote": {
+    "text": "We have aggressive plans to grow into one of the world's largest social media platforms in the next few years.",
+    "who": "Aprameya Radhakrishna, co-founder & CEO",
+    "context": "When Koo raised $30 M led by Tiger Global, May 2021",
+    "src": [0]
+  },
+
+  "afterlife": {
+    "text": "Koo shut down in July 2024. The founders said they would sell some assets and invited a buyer with a vision for Indian social media, and said they were entrepreneurs at heart who would be back. The company still files accounts: Inc42's database shows ₹3.1 crore revenue and a ₹31.1 crore loss for FY25.",
+    "src": [2, 4]
+  },
+
+  "sources": [
+    { "label": "TechCrunch: Tiger Global leads $30M round in India's Koo (May 2021)", "url": "https://techcrunch.com/2021/05/25/tiger-global-koo-app-twitter/" },
+    { "label": "Entrackr: Koo raises over $6 Mn led by Tiger Global, Accel (Nov 2022)", "url": "https://entrackr.com/2022/11/exclusive-koo-raises-over-6-mn-led-by-tiger-global/" },
+    { "label": "Business Today: Little yellow bird says final goodbye, Koo shuts down (Jul 2024)", "url": "https://www.businesstoday.in/technology/news/story/little-yellow-bird-says-final-goodbye-indias-twitter-rival-koo-shuts-down-435555-2024-07-03" },
+    { "label": "Nairametrics: One year after, Koo fails to gain traction in Nigeria (Jul 2022)", "url": "https://nairametrics.com/2022/07/12/one-year-after-indian-app-koo-fails-to-gain-traction-in-nigeria-as-fg-abandons-platform/" },
+    { "label": "Inc42 Datalabs: Koo financials", "url": "https://inc42.com/company/koo/financials/" },
+    { "label": "Wikipedia: Koo (social network), with linked press reports", "url": "https://en.wikipedia.org/wiki/Koo_(social_network)" },
+    { "label": "Inc42 Datalabs: Koo company profile", "url": "https://inc42.com/company/koo/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Koo was valued at $275 M in November 2022.", "note": "This is Entrackr's estimate from share-allotment filings, not a figure Koo announced." },
+      { "claim": "Koo was a government-backed or party app.", "note": "Ministers and supporters of the ruling party promoted it in 2021, but it was a private startup funded by venture investors. We describe only the promotion." },
+      { "claim": "Koo's buyout talks were with a specific company.", "note": "Media reported talks with several firms, but our sources only confirm that partnership talks failed. We do not name a buyer." },
+      { "claim": "Unpaid salaries in April 2024.", "note": "Reported by Moneycontrol and The Wire (as summarised on Wikipedia); we could not read the original reports directly." }
+    ]
+  }
+}

@@ -1,0 +1,767 @@
+/* ───────────────────────── The Graveyard ─────────────────────────
+   Night (the cemetery) → dawn (your turn). The autopsy pages are light and plain. */
+
+.gy {
+  --night-0: #070a14;
+  --night-1: #0b1020;
+  --night-2: #111830;
+  --night-3: #1a2140;
+  --moon: #f6efd9;
+  --candle: #f2b45a;
+  --mist: #c9d2e6;
+  --on-night: #e9ecf4;
+  --on-night-2: #a3abc0;
+  --on-night-3: #707a93;
+  --night-line: #ffffff17;
+  --night-panel: #ffffff08;
+  overflow-x: clip; /* stone glows may spill past the edge; clip, don't scroll (keeps sticky filters working) */
+}
+
+/* ───────── Sky ───────── */
+
+.gy-sky {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  min-height: clamp(640px, calc(100svh - var(--topbar-h)), 860px);
+  background:
+    radial-gradient(circle at 78% 22%, #f6efd924 0, transparent 22%),
+    radial-gradient(ellipse 120% 60% at 50% 100%, #3a2c4a 0, transparent 60%),
+    linear-gradient(180deg, var(--night-0) 0%, var(--night-1) 38%, #161b38 72%, #261f3d 100%);
+  color: var(--on-night);
+}
+
+.gy-stars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  border-radius: 999px;
+  animation: gy-twinkle 6s ease-in-out infinite alternate;
+}
+.gy-stars.b {
+  animation-duration: 9s;
+  animation-delay: -3s;
+}
+@keyframes gy-twinkle {
+  from {
+    opacity: 0.35;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.gy-moon {
+  position: absolute;
+  top: 11%;
+  right: 13%;
+  width: clamp(84px, 11vw, 150px);
+  aspect-ratio: 1;
+  border-radius: 999px;
+  background:
+    radial-gradient(circle at 34% 38%, #00000014 0 9%, transparent 10%),
+    radial-gradient(circle at 62% 58%, #00000010 0 13%, transparent 14%),
+    radial-gradient(circle at 58% 28%, #0000000d 0 6%, transparent 7%),
+    radial-gradient(circle at 36% 34%, #fffdf5, var(--moon) 55%, #e2d5b3);
+  box-shadow:
+    0 0 60px 10px #f6efd933,
+    0 0 180px 60px #f6efd914;
+}
+
+.gy-fog {
+  position: absolute;
+  left: -20%;
+  width: 140%;
+  height: 34%;
+  background: radial-gradient(ellipse 40% 50% at 30% 50%, #c9d2e630, transparent 70%), radial-gradient(ellipse 35% 45% at 75% 55%, #c9d2e624, transparent 70%);
+  filter: blur(18px);
+  pointer-events: none;
+  animation: gy-drift 38s ease-in-out infinite alternate;
+}
+.gy-fog.two {
+  animation-duration: 54s;
+  animation-direction: alternate-reverse;
+  opacity: 0.7;
+}
+@keyframes gy-drift {
+  from {
+    transform: translateX(-6%);
+  }
+  to {
+    transform: translateX(6%);
+  }
+}
+
+.gy-firefly {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 999px;
+  background: #ffe7a3;
+  box-shadow:
+    0 0 6px 2px #ffd36e99,
+    0 0 16px 4px #ffd36e33;
+  animation: gy-float var(--d, 12s) ease-in-out infinite alternate, gy-glow calc(var(--d, 12s) / 3) ease-in-out infinite alternate;
+  pointer-events: none;
+}
+@keyframes gy-float {
+  0% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(var(--x1), var(--y1));
+  }
+  66% {
+    transform: translate(var(--x2), var(--y2));
+  }
+  100% {
+    transform: translate(var(--x1), calc(var(--y2) * -1));
+  }
+}
+@keyframes gy-glow {
+  from {
+    opacity: 0.15;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.gy-hills {
+  position: absolute;
+  inset: auto 0 0 0;
+  width: 100%;
+  height: 44%;
+  pointer-events: none;
+}
+
+/* ───────── Night sections ───────── */
+
+.gy-night {
+  background: linear-gradient(180deg, #1c1a35 0, var(--night-1) 220px, var(--night-1) 100%);
+  color: var(--on-night);
+}
+
+.gy-eyebrow {
+  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--on-night-2);
+}
+.gy-serif {
+  font-family: var(--font-instrument-serif), Georgia, serif;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: -0.01em;
+}
+
+.gy-panel {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #ffffff0b, #ffffff05);
+  box-shadow:
+    inset 0 0 0 1px var(--night-line),
+    0 20px 40px -20px #00000080;
+}
+
+.gy-btn-moon {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 48px;
+  padding: 0 18px;
+  border-radius: 10px;
+  background: linear-gradient(#fbf7ea, #e9e1c8);
+  color: #1b1a22;
+  font-size: 15px;
+  font-weight: 500;
+  box-shadow:
+    0 0 0 1px #ffffff40 inset,
+    0 10px 30px -8px #f6efd955;
+  transition: filter 0.15s var(--ease-out), transform 0.15s var(--ease-out);
+}
+.gy-btn-moon:hover {
+  filter: brightness(1.05);
+}
+.gy-btn-moon:active {
+  transform: translateY(1px);
+}
+.gy-btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 48px;
+  padding: 0 16px;
+  border-radius: 10px;
+  color: var(--on-night);
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: inset 0 0 0 1px #ffffff2e;
+  transition: background 0.15s var(--ease-out);
+}
+.gy-btn-ghost:hover {
+  background: #ffffff10;
+}
+
+/* ───────── Filters ───────── */
+
+.gy-filters {
+  position: sticky;
+  top: var(--topbar-h);
+  z-index: 20;
+  background: #0b1020e6;
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--night-line);
+}
+.gy-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 30px;
+  padding: 0 11px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  color: var(--on-night-2);
+  white-space: nowrap;
+  box-shadow: inset 0 0 0 1px var(--night-line);
+  transition: background 0.15s, color 0.15s;
+}
+.gy-chip:hover {
+  color: var(--on-night);
+  background: #ffffff0d;
+}
+.gy-chip[aria-pressed="true"] {
+  color: #1b1a22;
+  background: var(--moon);
+  box-shadow: none;
+}
+.gy-chip .n {
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 10px;
+  opacity: 0.6;
+}
+.gy-input {
+  height: 34px;
+  border-radius: 9px;
+  padding: 0 12px 0 32px;
+  background: #ffffff0a;
+  box-shadow: inset 0 0 0 1px var(--night-line);
+  color: var(--on-night);
+  font-size: 13px;
+  outline: none;
+}
+.gy-input::placeholder {
+  color: var(--on-night-3);
+}
+.gy-input:focus {
+  box-shadow: inset 0 0 0 1px #f6efd980;
+}
+.gy-select {
+  height: 34px;
+  border-radius: 9px;
+  padding: 0 10px;
+  background: #ffffff0a;
+  box-shadow: inset 0 0 0 1px var(--night-line);
+  color: var(--on-night);
+  font-size: 12.5px;
+  outline: none;
+}
+.gy-select option {
+  background: #111830;
+}
+.gy-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* ───────── The cemetery ───────── */
+
+.gy-plots {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(184px, 1fr));
+  column-gap: 8px;
+  row-gap: 40px;
+  align-items: end;
+}
+
+.gy-plot {
+  position: relative;
+  display: grid;
+  justify-items: center;
+  align-content: end;
+  padding-bottom: 6px;
+  outline: none;
+  animation: gy-rise 0.7s var(--ease-out) both;
+  animation-delay: var(--delay, 0ms);
+}
+@keyframes gy-rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+/* The mound the stone stands on. */
+.gy-plot::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 210px;
+  height: 34px;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: radial-gradient(ellipse at 50% 30%, #23331f 0, #15201a 45%, transparent 70%);
+}
+
+.gy-caption {
+  position: relative;
+  margin-top: 10px;
+  max-width: 190px;
+  min-height: 34px;
+  text-align: center;
+  font-size: 11.5px;
+  line-height: 1.35;
+  color: var(--on-night-3);
+  transition: color 0.2s;
+}
+.gy-plot:hover .gy-caption,
+.gy-plot:focus-visible .gy-caption {
+  color: var(--on-night);
+}
+
+/* ───────── The stone ───────── */
+
+.gy-stone {
+  position: relative;
+  transform: rotate(var(--tilt, 0deg));
+  transform-origin: 50% 100%;
+  filter: drop-shadow(0 18px 14px #0000008c) drop-shadow(0 2px 2px #00000066);
+  transition: transform 0.35s var(--ease-out);
+}
+.gy-plot:hover .gy-stone,
+.gy-plot:focus-visible .gy-stone {
+  transform: rotate(0deg) translateY(-6px);
+}
+
+.gy-stone-glow {
+  position: absolute;
+  left: 50%;
+  bottom: -10px;
+  width: 260px;
+  height: 260px;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: radial-gradient(circle at 50% 70%, color-mix(in srgb, var(--brand) 55%, var(--candle)) 0, transparent 62%);
+  opacity: 0;
+  transition: opacity 0.4s var(--ease-out);
+  pointer-events: none;
+}
+.gy-plot:hover .gy-stone-glow,
+.gy-plot:focus-visible .gy-stone-glow {
+  opacity: 0.32;
+}
+
+.gy-stone-body {
+  position: relative;
+  width: 160px;
+  overflow: hidden;
+  background: var(--stone);
+}
+/* Grain + side-light, shared by every material. */
+.gy-stone-grain {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, #ffffff38 0, transparent 22%, transparent 64%, #00000045 100%),
+    linear-gradient(180deg, #ffffff1f 0, transparent 30%, #0000002e 100%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .55 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  pointer-events: none;
+}
+.gy-plot:hover .gy-stone-grain {
+  background:
+    linear-gradient(90deg, #ffffff52 0, transparent 26%, transparent 64%, #00000038 100%),
+    linear-gradient(180deg, #ffffff2b 0, transparent 30%, #00000024 100%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .55 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.gy-limestone {
+  --stone: linear-gradient(180deg, #eceef1 0%, #d2d5dc 60%, #b4b9c3 100%);
+  --ink: #1f232c;
+  --ink-hi: #ffffff66;
+}
+.gy-granite {
+  --stone: linear-gradient(180deg, #b7bcc6 0%, #959ba8 60%, #7a808d 100%);
+  --ink: #16181f;
+  --ink-hi: #ffffff66;
+}
+.gy-slate {
+  --stone: linear-gradient(180deg, #5d6577 0%, #474e5f 60%, #383e4c 100%);
+  --ink: #e6e9f0;
+  --ink-hi: #00000080;
+}
+.gy-sandstone {
+  --stone: linear-gradient(180deg, #ebe3d3 0%, #d6cab4 60%, #bcae96 100%);
+  --ink: #2b2116;
+  --ink-hi: #ffffff59;
+}
+
+.gy-engrave {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-inline: 26px;
+  padding-bottom: 14px;
+  text-align: center;
+  color: var(--ink);
+}
+.gy-engrave > * {
+  text-shadow: 0 1px 0 var(--ink-hi);
+}
+.gy-medal {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  font-family: var(--font-sora), sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  text-shadow: none !important;
+  box-shadow:
+    inset 0 2px 3px #00000059,
+    inset 0 -1px 0 #ffffff40,
+    0 1px 0 var(--ink-hi);
+}
+.gy-name {
+  margin-top: 9px;
+  font-family: var(--font-sora), sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+.gy-years {
+  margin-top: 5px;
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  opacity: 0.85;
+}
+.gy-rule {
+  width: 30px;
+  height: 1px;
+  margin: 9px 0 8px;
+  background: currentColor;
+  opacity: 0.35;
+}
+.gy-epitaph {
+  font-family: var(--font-instrument-serif), Georgia, serif;
+  font-style: italic;
+  font-size: 14.5px;
+  line-height: 1.16;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.gy-raised {
+  margin-top: auto;
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 8.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+
+.gy-moss {
+  fill: #4f6b3a;
+  opacity: 0.38;
+  filter: blur(5px);
+}
+
+.gy-plinth {
+  position: relative;
+  width: 172px;
+  height: 14px;
+  margin-left: -6px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, #8c92a0, #5b6170);
+  box-shadow: inset 0 1px 0 #ffffff40;
+}
+.gy-grass {
+  position: absolute;
+  bottom: -6px;
+  left: -20px;
+  fill: #26391f;
+  pointer-events: none;
+}
+.gy-grass path:nth-child(3n) {
+  fill: #2e4328;
+}
+.gy-flower {
+  position: absolute;
+  bottom: 2px;
+  left: -8px;
+}
+
+/* ───────── Infographics on the night ground ───────── */
+
+.gy-bar-track {
+  height: 10px;
+  border-radius: 999px;
+  background: #ffffff0d;
+}
+.gy-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #c98a3a, var(--candle));
+}
+.gy-col {
+  border-radius: 4px 4px 0 0;
+  background: linear-gradient(180deg, var(--candle), #b27532);
+  transition: filter 0.15s;
+}
+.gy-col:hover {
+  filter: brightness(1.2);
+}
+
+/* ───────── Dawn ───────── */
+
+.gy-dawn {
+  background: linear-gradient(180deg, var(--night-1) 0%, #2a2547 18%, #6b4a6e 38%, #d98b6a 62%, #f4c9a0 80%, var(--bg) 100%);
+}
+.gy-sun {
+  position: absolute;
+  left: 50%;
+  bottom: -220px;
+  width: 520px;
+  height: 520px;
+  transform: translateX(-50%);
+  border-radius: 999px;
+  background: radial-gradient(circle, #fff3d6 0, #ffd9a0 30%, #ffb37a55 55%, transparent 70%);
+  pointer-events: none;
+}
+.gy-quiz-card {
+  border-radius: 18px;
+  background: #fffdf8;
+  color: var(--fg1);
+  box-shadow: var(--shadow-lg), 0 40px 80px -30px #2a254780;
+}
+.gy-toggle {
+  display: inline-flex;
+  border-radius: 8px;
+  padding: 2px;
+  background: var(--chip);
+  box-shadow: inset 0 0 0 1px var(--divider);
+}
+.gy-toggle button {
+  height: 28px;
+  padding: 0 12px;
+  border-radius: 6px;
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--fg2);
+}
+.gy-toggle button[aria-pressed="true"] {
+  background: var(--surface);
+  color: var(--fg1);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ───────── The autopsy (light, plain) ───────── */
+
+.au {
+  --au-ink: #1d1d1f;
+  --au-red: #b42318;
+  --au-mark: #ffe58f;
+  --au-paper: #fbfaf7;
+  --au-line: #ebe8e1;
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  background: var(--au-paper);
+}
+
+.au-mark {
+  padding: 0 0.12em;
+  margin: 0 -0.04em;
+  border-radius: 0.2em;
+  color: inherit;
+  background: linear-gradient(104deg, #ffe58f00 0.9%, var(--au-mark) 2.4%, #ffe58fd9 5.8%, #ffe58f4d 93%, #ffe58fb3 96%, #ffe58f00 98%),
+    linear-gradient(183deg, #ffe58f00 0%, #ffe58f4d 7.9%, #ffe58f00 15%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  animation: au-mark 0.9s var(--ease-out) 0.25s forwards;
+}
+@keyframes au-mark {
+  to {
+    background-size: 100% 100%;
+  }
+}
+@supports (animation-timeline: view()) {
+  .au-mark {
+    animation: au-mark linear both;
+    animation-timeline: view();
+    animation-range: entry 20% cover 35%;
+  }
+}
+
+.au-h2 {
+  font-size: clamp(24px, 3vw, 30px);
+  line-height: 1.12;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+.au-body {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  font-size: 16.5px;
+  line-height: 1.75;
+  color: #2b2b2e;
+}
+.au-card {
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--shadow-md);
+}
+.au-cite {
+  margin-left: 2px;
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 10px;
+  vertical-align: super;
+  color: var(--fg3);
+  text-decoration: none;
+}
+.au-cite:hover {
+  color: var(--fg1);
+}
+.au-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 24px;
+  padding: 0 9px;
+  border-radius: 999px;
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: var(--chip);
+  color: var(--fg2);
+  box-shadow: inset 0 0 0 1px var(--divider);
+}
+.au-pill.dead {
+  background: #fdecea;
+  color: var(--au-red);
+  box-shadow: inset 0 0 0 1px #f6cfca;
+}
+.au-toc a[aria-current="true"] {
+  color: var(--fg1);
+}
+.au-toc a[aria-current="true"]::before {
+  background: var(--fg1);
+}
+
+/* The heartbeat that goes flat. */
+.au-ekg path.beat {
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: var(--len);
+  animation: au-draw 2.6s cubic-bezier(0.45, 0, 0.2, 1) 0.2s forwards;
+}
+@keyframes au-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.au-ekg .blip {
+  animation: au-blip 1.6s ease-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+@keyframes au-blip {
+  0% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(3.2);
+  }
+}
+
+.au-check {
+  display: grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  box-shadow: inset 0 0 0 1.5px var(--border-strong);
+  background: var(--surface);
+  transition: background 0.15s, box-shadow 0.15s;
+}
+[aria-checked="true"] > .au-check {
+  background: var(--au-red);
+  box-shadow: none;
+  color: #fff;
+}
+
+.au-tip {
+  position: absolute;
+  z-index: 10;
+  pointer-events: none;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: #1d1d1f;
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: var(--shadow-lg);
+  transform: translate(-50%, calc(-100% - 10px));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gy *,
+  .au * {
+    animation: none !important;
+    transition: none !important;
+  }
+  .au-mark {
+    background-size: 100% 100%;
+  }
+  .au-ekg path.beat {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* ───────── Phones: a smaller moon out of the headline's way, two stones per row ───────── */
+@media (max-width: 640px) {
+  .gy-moon {
+    top: 1.5%;
+    right: 4%;
+    width: 52px;
+  }
+  .gy-plots {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 0;
+    row-gap: 28px;
+  }
+  .gy-plot .gy-stone {
+    zoom: 0.8;
+  }
+  .gy-plot::before {
+    width: 160px;
+  }
+  .gy-caption {
+    max-width: 150px;
+    font-size: 11px;
+  }
+}

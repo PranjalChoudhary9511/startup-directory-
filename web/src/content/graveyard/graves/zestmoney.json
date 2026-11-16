@@ -1,0 +1,198 @@
+{
+  "slug": "zestmoney",
+  "name": "ZestMoney",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Buy now, pay later",
+  "founded": 2015,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#4b2a8c",
+  "founders": [
+    { "name": "Lizzie Chapman", "role": "Co-founder & CEO" },
+    { "name": "Priya Sharma", "role": "Co-founder" },
+    { "name": "Ashish Anantharaman", "role": "Co-founder & CTO" }
+  ],
+
+  "epitaph": "Said yes to every shopper. Then the bills came back.",
+  "oneLiner": "An app that let Indians with no credit card buy phones and gadgets on easy monthly instalments, using alternative data to judge them.",
+  "causeOfDeath": "Too many borrowers did not pay back, the losses swallowed the revenue, and when PhonePe walked away from buying it, no one else would fund it.",
+
+  "raisedUsdM": 130,
+  "peakValuationUsdM": 445,
+  "endValueUsdM": null,
+  "moneyNote": "TechCrunch reports 'more than $130 million' raised and a $445 million valuation at its last equity round. The price DMI paid for the brand in January 2024 was never disclosed, so the end value is unknown.",
+  "moneySrc": [0, 1, 6],
+
+  "inOneMinute": [
+    "ZestMoney gave **instant EMIs to first-time online shoppers** who had no credit card and no credit score.",
+    "But **bad loans cost more than the revenue**. In FY23 it spent ₹2.7 to earn every ₹1, and RBI tightened digital-lending rules.",
+    "PhonePe agreed to buy it for $200–300 million, then **walked away after checking the books**. Nine months later Zest shut down."
+  ],
+  "killerLine": "In lending, revenue arrives on day one but **losses arrive months later**. Count the defaults, not the downloads.",
+
+  "numbers": [
+    { "value": "₹412 cr", "label": "net loss in FY23, on ₹244 cr of revenue", "src": [3] },
+    { "value": "₹2.7", "label": "spent to earn every ₹1 of revenue in FY23", "src": [3] },
+    { "value": "$445M → $40–50M", "label": "its last valuation vs. the value reported during PhonePe's checks", "src": [1, 4] },
+    { "value": "₹49.6 lakh", "label": "cash and cash equivalents on 31 March 2023, in a year it spent ₹662 cr", "src": [3] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: credit for people banks ignore",
+      "body": "In 2015, Lizzie Chapman, Priya Sharma and Ashish Anantharaman started ZestMoney in Bengaluru. Their insight was simple. Very few Indians have a credit card, so most people have **no credit score** (a number banks use to decide if you will repay). Banks also find tiny loans not worth the effort. So a young person wanting a ₹15,000 phone on Flipkart had no way to pay in parts. ZestMoney used **alternative data** (phone and online behaviour instead of a credit history) to judge borrowers and offer instant EMIs (equal monthly instalments). The actual money came from partner lenders like NBFCs (non-bank lenders), while Zest ran the app and the decisions.",
+      "src": [0, 2, 6]
+    },
+    {
+      "title": "The rise: a $445 million fintech",
+      "body": "The idea worked with shoppers. Zest said it was accepted at over 1 lakh offline shops and 15,000 online stores, and brands like Amazon, Flipkart and Myntra used it at checkout. Big names invested: Goldman Sachs, Ribbit Capital, Omidyar Network, PayU, Xiaomi and Australia's Zip, which led a **$50 million Series C** in 2021. In total it raised more than $130 million and was valued at **$445 million**. Revenue from operations grew from ₹82 crore in FY21 to ₹138 crore in FY22. On the surface, this was one of India's hottest buy-now-pay-later (BNPL) companies.",
+      "src": [0, 1, 2, 6]
+    },
+    {
+      "title": "The cracks: the loans did not come back",
+      "body": "Underneath, the numbers were ugly. In FY22, the cost of bad loans (which Zest booked as 'service deficiency charges') jumped from ₹63 crore to **₹233 crore**, more than its whole revenue. The loss tripled to ₹399 crore. Then the rules changed. In June 2022, RBI stopped non-bank prepaid wallets and cards from being loaded with credit lines. In September 2022, its **digital lending guidelines** said loans must flow directly between the regulated lender and the borrower, and limited the side-deals where fintechs promise to cover a lender's losses. Easy growth became harder and costlier, just as the global funding winter froze new investment.",
+      "src": [2, 5, 7]
+    },
+    {
+      "title": "The fall: the buyer who checked the books",
+      "body": "In November 2022, PhonePe began talks to buy Zest for a reported **$200–300 million**, all cash. Then came due diligence (the buyer's deep check of the books). Reports said Zest's credit losses were about 1.5 times its revenue and its value fell to $40–50 million during the talks. In March 2023, **PhonePe called it off**. Zest cut over 100 jobs; PhonePe hired 130 of its staff. The founders stepped down in May. New leaders raised a few million dollars from old investors, but it was not enough. On 5 December 2023, staff were told the company would wind down by month-end. In FY23 it had lost ₹412 crore.",
+      "src": [0, 1, 3, 4]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2015", "event": "Lizzie Chapman, Priya Sharma and Ashish Anantharaman found ZestMoney in Bengaluru.", "kind": "start", "src": [2] },
+    { "date": "Sep 2021", "event": "Australia's Zip leads a $50 million Series C. Valuation reaches about $445 million.", "kind": "peak", "src": [1, 2] },
+    { "date": "Jun 2022", "event": "RBI bars non-bank prepaid instruments from being loaded with credit lines, hitting BNPL players.", "kind": "warning", "src": [5] },
+    { "date": "2 Sep 2022", "event": "RBI issues Guidelines on Digital Lending: money must flow directly between regulated lender and borrower.", "kind": "warning", "src": [7] },
+    { "date": "Nov 2022", "event": "PhonePe opens talks to buy ZestMoney for a reported $200–300 million.", "kind": "money", "src": [4, 5] },
+    { "date": "Mar 2023", "event": "PhonePe calls off the deal after due diligence flags lapses, defaults and valuation gaps.", "kind": "crisis", "src": [4] },
+    { "date": "Apr 2023", "event": "Zest cuts more than 100 jobs; PhonePe agrees to hire 130 of its employees.", "kind": "crisis", "src": [1] },
+    { "date": "15 May 2023", "event": "All three founders step down; a new three-person leadership team takes over.", "kind": "crisis", "src": [1, 5] },
+    { "date": "5 Dec 2023", "event": "Leadership tells staff ZestMoney will wind down by the end of December.", "kind": "end", "src": [0] },
+    { "date": "Jan 2024", "event": "DMI Group buys the platform and brand rights in a distress sale; price not disclosed.", "kind": "after", "src": [6] },
+    { "date": "Mar 2024", "event": "Chapman and Anantharaman build a new B2B fintech, reportedly backed by Jio Platforms.", "kind": "after", "src": [9] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY21", "FY22", "FY23"],
+      "series": [
+        { "name": "Revenue from operations", "values": [82, 138.4, 243.7] },
+        { "name": "Net loss", "values": [125.8, 398.8, 412.4] }
+      ],
+      "takeaway": "Every year the loss was bigger than the revenue. Growing faster only made the hole deeper.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Where the money went: bad loans vs marketing",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY21", "FY22", "FY23"],
+      "series": [
+        { "name": "Bad-loan costs (service deficiency charges)", "values": [63.3, 233.4, 175.2] },
+        { "name": "Advertising & marketing", "values": [41.3, 97.8, 165] }
+      ],
+      "takeaway": "In FY22, bad loans alone cost more than all the revenue Zest earned that year.",
+      "src": [2, 3]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Sep 2021", "round": "Series C", "amountUsdM": 50, "valuationUsdM": 445, "investors": ["Zip Co"], "src": [1, 2] },
+    { "date": "2023", "round": "Bridge from existing investors", "amountUsdM": null, "valuationUsdM": null, "investors": ["Zip", "Quona Capital", "Omidyar Network India", "Scarlet Capital"], "src": [0, 5] }
+  ],
+
+  "causes": [
+    { "key": "unit-economics", "weight": 40 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "regulation", "weight": 20 },
+    { "key": "timing", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Growth first, repayment second",
+      "explain": "In a lending business, the product is the loan and the real cost is the people who do not repay. Zest's **bad-loan costs hit ₹233 crore in FY22**, more than its entire revenue. Lending to people with thin credit histories is the whole point of the idea, but it only works if the risk model is proven before you scale it.",
+      "src": [2]
+    },
+    {
+      "title": "One buyer, no Plan B",
+      "explain": "By early 2023, Zest had used up almost every other source of funding. Everything rode on PhonePe. When **due diligence (the buyer's deep check) found problems** and PhonePe walked away in March 2023, there was no backup deal, and the company had only ₹49.6 lakh of free cash.",
+      "src": [1, 3, 4]
+    },
+    {
+      "title": "Spending ₹2.7 to earn ₹1",
+      "explain": "Even after the warning signs of FY22, costs kept rising. In FY23, **marketing went up 69% to ₹165 crore** and staff costs rose 40%. Revenue grew too, but the loss still widened to ₹412 crore. Growth that loses more money with each sale is not progress.",
+      "src": [3]
+    },
+    {
+      "title": "Built on rules that could change",
+      "explain": "Much of India's BNPL boom ran on arrangements regulators had not fully blessed. In 2022, RBI **barred credit lines on non-bank prepaid cards** and its digital lending guidelines forced money to flow directly between lender and borrower. A model that depends on a loophole can be shut by a single circular.",
+      "src": [5, 7]
+    },
+    {
+      "title": "A messy company structure",
+      "explain": "Reports on the failed PhonePe deal named Zest's **shareholding split across Singapore and India** as one worry. A tangled structure makes buyers nervous and deals slow, at exactly the moment a cash-starved startup needs speed. Every extra country adds lawyers, approvals and questions to a deal that is already hard.",
+      "src": [4, 5]
+    }
+  ],
+
+  "warningSigns": [
+    "Are your losses from customers who never pay growing faster than your revenue?",
+    "Would your company run out of money within six months if your biggest deal or investor said no tomorrow?",
+    "Does your business depend on a rule or loophole that a regulator has not clearly approved?",
+    "Is your marketing budget rising while your loss per rupee of revenue is not falling?",
+    "Would a buyer's due diligence find anything in your books that you have not told your board?",
+    "Would you have to guess if someone asked how many weeks of cash you have left?"
+  ],
+
+  "lessons": [
+    { "title": "In lending, defaults are the product", "detail": "If you build anything that gives credit (even 'pay later' for a college canteen), track repayment rates weekly from day one. Grow only as fast as you can prove people pay back." },
+    { "title": "Never have only one exit door", "detail": "While talking to one acquirer or investor, keep two others warm. A signed term sheet is not money in the bank until the deal closes." },
+    { "title": "Read the regulator before you read the market", "detail": "In fintech, RBI circulars can change your whole model overnight. Read them yourself, and ask: 'If this rule tightens, do we still make money?'" },
+    { "title": "Keep your company structure boringly simple", "detail": "One country, one clean cap table (the list of who owns how much). Complex structures look clever early and scare buyers later." },
+    { "title": "Prepare for due diligence before anyone asks", "detail": "Run your books as if a buyer will check them tomorrow. Honest, clean numbers are the fastest way to close a deal when you badly need one." }
+  ],
+
+  "quote": {
+    "text": "Over the last few weeks, we have done a lot of thinking and it has been hard for us to arrive at this conclusion.",
+    "who": "ZestMoney's founders",
+    "context": "In their note to employees announcing they were stepping down, May 2023.",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "PhonePe hired about 130 Zest employees after its deal fell through. In January 2024, DMI Group, a long-time lending partner, bought the Zest platform and the rights to its brands in a distress sale; the price was not disclosed. Founders Lizzie Chapman and Ashish Anantharaman went on to build a new B2B fintech, reported in March 2024 to be backed by Reliance's Jio Platforms. No wrongdoing has been alleged against the founders.",
+    "src": [1, 6, 9]
+  },
+
+  "sources": [
+    { "label": "TechCrunch: ZestMoney to shut down (5 Dec 2023)", "url": "https://techcrunch.com/2023/12/05/goldman-sachs-backed-zestmoney-once-valued-at-450m-to-shut-down" },
+    { "label": "TechCrunch: ZestMoney founders resign (15 May 2023)", "url": "https://techcrunch.com/2023/05/15/zestmoney-founders-resign-as-goldman-sachs-backed-fintech-struggles-to-raise-funds" },
+    { "label": "Inc42: ZestMoney's loss jumps 3X to ₹399 cr in FY22", "url": "https://inc42.com/buzz/zestmoneys-loss-jumps-3x-to-inr-399-cr-in-fy22-operating-revenue-up-to-inr-138-cr" },
+    { "label": "Inc42: ZestMoney posts ₹412 cr loss in FY23", "url": "https://inc42.com/buzz/beleaguered-zestmoney-posts-inr-412-cr-loss-in-fy23/" },
+    { "label": "MediaNama: Why did PhonePe cancel its deal to acquire ZestMoney? (31 Mar 2023)", "url": "https://www.medianama.com/2023/03/223-phonepe-refrain-acquiring-zestmoney/" },
+    { "label": "Entrepreneur India: 4 key factors that led ZestMoney to shut down", "url": "https://india.entrepreneur.com/news-and-trends/zestmoney-shuts-down-key-factors/466430" },
+    { "label": "FinTech Global: DMI Group acquires ZestMoney in fire sale (19 Jan 2024)", "url": "https://fintech.global/2024/01/19/dmi-group-acquires-zestmoney-in-fire-sale/" },
+    { "label": "RBI: Guidelines on Digital Lending (2 Sep 2022)", "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12382" },
+    { "label": "Business Today: ZestMoney gets an acquisition offer over LinkedIn (16 Dec 2023)", "url": "https://www.businesstoday.in/amp/entrepreneurship/start-up/story/fintech-start-up-zestmoney-gets-an-acquisition-offer-over-linkedin-409693-2023-12-16" },
+    { "label": "Inc42: Backed by Jio Platforms, Lizzie Chapman to launch new B2B fintech venture (7 Mar 2024)", "url": "https://inc42.com/buzz/backed-by-jio-platforms-lizzie-chapman-to-launch-new-b2b-fintech-venture-next-month/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Peak valuation of $445 million (vs $450 million) and the year it was set", "note": "TechCrunch uses $445M in its body text and $450M in a headline, and dates the round to 2022; other outlets tie the valuation to the September 2021 Series C. We use $445M." },
+      { "claim": "Total money raised", "note": "Reports range from 'over $125 million' (Inc42) to 'over $130 million' (TechCrunch) to $140 million (Entrepreneur India). We use $130M." },
+      { "claim": "Default rate of over 10%", "note": "An ET estimate relayed by MediaNama put defaults above 10%; Zest's new management said it would keep non-payment under 2.5%. No audited default rate was published, so we left the percentage out of the story." },
+      { "claim": "PhonePe offered $90 million in cash and to take on the debt", "note": "Reported by ET via Entrepreneur India; not confirmed by PhonePe or Zest." },
+      { "claim": "Date the founders left", "note": "Most reports say May 2023; at least one outlet says Chapman and Anantharaman left in July 2023 after a handover period of a few months." }
+    ]
+  }
+}

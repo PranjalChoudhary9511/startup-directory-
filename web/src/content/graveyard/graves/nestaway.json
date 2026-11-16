@@ -1,0 +1,453 @@
+{
+  "slug": "nestaway",
+  "name": "NestAway",
+  "region": "india",
+  "country": "India",
+  "city": null,
+  "sector": "Home rentals",
+  "founded": 2015,
+  "died": 2023,
+  "status": "sold-for-parts",
+  "brandColor": "#20b2aa",
+  "founders": [
+    {
+      "name": "Amarendra Sahu",
+      "role": "Co-founder, CEO"
+    },
+    {
+      "name": "Jitendra Jagadev",
+      "role": "Co-founder, COO (later CEO)"
+    },
+    {
+      "name": "Smruti Parida",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Deepak Dhar",
+      "role": "Co-founder, CXO (left 2019)"
+    }
+  ],
+  "epitaph": "Found homes for thousands. Couldn't keep its own.",
+  "oneLiner": "A rental app that ran landlords’ flats as furnished homes for young professionals, handling rent, moving and repairs for a cut.",
+  "causeOfDeath": "It spent ₹3–4 for every ₹1 earned, failed to raise its big round in 2019, and Covid emptied its homes. It sold at a 95% discount.",
+  "raisedUsdM": 115,
+  "peakValuationUsdM": 227,
+  "endValueUsdM": 11,
+  "moneyNote": "TechCrunch reports $115M raised and a $227M valuation in 2019 (Entrackr says $110M and $220M). Sale price: up to ₹90 crore in cash, about $11M at 2023 rates (~₹82 per dollar). Rupee figures are from filings.",
+  "moneySrc": [
+    0,
+    2
+  ],
+  "inOneMinute": [
+    "NestAway turned landlords' empty flats into **ready-to-move homes for young professionals** and took a cut of every month's rent.",
+    "It never made the model pay. In FY18 it **lost ₹157 crore on ₹47 crore of revenue**; staff costs alone were double its revenue.",
+    "Its big 2019 round stalled, then Covid hit. Listings fell from 50,000 to 18,000, and it **sold for about $11 million**."
+  ],
+  "killerLine": "A small cut of a cheap product needs a tiny cost base. **If every rupee earned costs ₹3 to deliver, scale only makes the hole deeper.**",
+  "numbers": [
+    {
+      "value": "₹4.30",
+      "label": "spent for every ₹1 of revenue in FY18",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$227 mn → $11 mn",
+      "label": "valuation in 2019 vs sale price in 2023",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "50K → 18K",
+      "label": "properties on the platform, before Covid vs 2023",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~$20 mn",
+      "label": "raised in 2019 of a planned $100–150 mn Series D",
+      "src": [
+        6,
+        7
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: renting without the headache",
+      "body": "Moving to a new city in India for your first job is hard. Landlords often don't want bachelors, brokers charge a month's rent, and deposits can be huge. NestAway, founded in 2015, offered a fix. It **took landlords' flats, furnished them, and rented them room by room** to young professionals. Tenants paid rent, asked for repairs and moved in through an app. NestAway earned a percentage of each home's monthly rent. By April 2016 it said it had found homes for 10,000 tenants in Bengaluru, Delhi, Pune and Hyderabad, and raised **$30 million led by Tiger Global**. Tiger's Lee Fixel called it an \"annuity-based e-commerce model at scale\". It solved a real and painful problem.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "The rise: big costs, small cut",
+      "body": "The trouble was the maths. NestAway earned only a slice of rent, but it had to find homes, furnish them, find tenants, collect rent and fix leaking taps. That needs lots of people. In FY18 its revenue was ₹47 crore. Its **staff costs alone were ₹93.5 crore**, double the revenue. Its loss rose to ₹156.8 crore, and it spent ₹4.30 for every ₹1 it earned. At the same time, it had **₹294 crore parked in mutual funds**, money raised from investors and waiting to be spent. Goldman Sachs invested in 2018. In 2019 NestAway set out to raise a huge Series D of $100–150 million, at a valuation reported at around $220–227 million.",
+      "src": [
+        4,
+        0,
+        2,
+        7
+      ]
+    },
+    {
+      "title": "The cracks: new brands, missing money",
+      "body": "The big round never fully arrived. By September 2019 only about **$20 million had come in**, in small pieces from Tiger Global, Chiratae, Ratan Tata's UC-RNT fund and Goldman Sachs. Instead of fixing the core, NestAway spread out. In 2019 it launched **Hello World**, a co-living and co-working brand, set up a company for senior living, and planned a women's housing platform. Entrackr reported that the founders had slowed fundraising to focus on these new entities. Co-founder Deepak Dhar left in July 2019, and more than four senior vice-presidents left within months. Revenue did rise to ₹108.9 crore in FY20. Then the pandemic arrived, and young professionals left cities for their hometowns.",
+      "src": [
+        6,
+        7,
+        2
+      ]
+    },
+    {
+      "title": "The fall: Covid and a fire sale",
+      "body": "With offices shut, tenants moved out and rooms sat empty. Properties on NestAway fell from **about 50,000 before Covid to 18,000**. Revenue fell to ₹90.7 crore in FY21 and ₹57.9 crore in FY22, while the loss grew to ₹95 crore. In FY22 it spent ₹3.08 for every ₹1 of revenue. In June 2022 Aurum PropTech bought the Hello World co-living unit. A year later, in June 2023, Aurum agreed to buy NestAway itself for **up to ₹90 crore, about $11 million**, a 95% cut from its 2019 valuation. TechCrunch called it \"a near complete erosion in value\" for investors who had put in over $100 million.",
+      "src": [
+        0,
+        5,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "NestAway founded",
+      "kind": "start",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Apr 2016",
+      "event": "Raises $30M Series C led by Tiger Global; has housed 10,000 tenants in four cities",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "FY18",
+      "event": "Loss of ₹156.8 crore on revenue of ₹47 crore; ₹294 crore sitting in mutual funds",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "May–Sep 2019",
+      "event": "Series D target of $100–150M; only about $20M arrives in tranches; valuation reported at ~$220–227M",
+      "kind": "peak",
+      "src": [
+        6,
+        7,
+        0
+      ]
+    },
+    {
+      "date": "Jun–Jul 2019",
+      "event": "Launches Hello World co-living brand; co-founder Deepak Dhar and several senior executives leave",
+      "kind": "warning",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "FY20",
+      "event": "Revenue peaks at ₹108.9 crore",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2020",
+      "event": "Covid empties city rentals; listings later fall from about 50,000 to 18,000",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "FY22",
+      "event": "Revenue falls to ₹57.9 crore; loss rises to ₹95 crore",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2022",
+      "event": "Aurum PropTech buys the Hello World co-living unit",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jun 2023",
+      "event": "Aurum agrees to buy NestAway for up to ₹90 crore (~$11M), a 95% valuation cut",
+      "kind": "end",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Jan 2025",
+      "event": "Co-founder Amarendra Sahu files a police complaint against investors and co-founders over the sale; they deny wrongdoing",
+      "kind": "after",
+      "src": [
+        8
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY17",
+        "FY18",
+        "FY19",
+        "FY20",
+        "FY21",
+        "FY22"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            36.51,
+            46.98,
+            null,
+            108.9,
+            90.7,
+            57.87
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            97.73,
+            156.81,
+            null,
+            null,
+            65.8,
+            94.97
+          ]
+        }
+      ],
+      "takeaway": "In every year with published numbers, NestAway's loss was bigger than or close to its revenue.",
+      "src": [
+        4,
+        2,
+        5
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Apr 2016",
+      "round": "Series C",
+      "amountUsdM": 30,
+      "valuationUsdM": null,
+      "investors": [
+        "Tiger Global",
+        "Yuri Milner",
+        "IDG Ventures India"
+      ],
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Dec 2017 – 2018",
+      "round": "Series C (extension)",
+      "amountUsdM": 51,
+      "valuationUsdM": null,
+      "investors": [
+        "Goldman Sachs",
+        "UC-RNT Fund"
+      ],
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "May–Sep 2019",
+      "round": "Series D (partial)",
+      "amountUsdM": 20,
+      "valuationUsdM": 227,
+      "investors": [
+        "Tiger Global",
+        "Chiratae Ventures",
+        "UC-RNT Fund",
+        "Goldman Sachs"
+      ],
+      "src": [
+        6,
+        7,
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "burn",
+      "weight": 30
+    },
+    {
+      "key": "unit-economics",
+      "weight": 25
+    },
+    {
+      "key": "timing",
+      "weight": 25
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "A people-heavy business living on a small cut",
+      "explain": "NestAway earned a percentage of rent but did the work of a property manager, broker and repair service. In FY18 **staff costs were ₹93.5 crore on revenue of ₹47 crore**. It spent ₹4.30 for each ₹1 earned. When your share of each sale is small, your cost of serving each customer must be smaller.",
+      "src": [
+        4
+      ]
+    },
+    {
+      "title": "New brands before the core worked",
+      "explain": "In 2019, while losses were large and the Series D was stuck, NestAway launched co-living brand Hello World, a senior-living company and plans for women's housing. Entrackr reported the founders **slowed fundraising to focus on the new entities**. More businesses meant more cost and less attention on the one that paid the bills.",
+      "src": [
+        7
+      ]
+    },
+    {
+      "title": "Betting on a giant round that never came",
+      "explain": "The plan needed $100–150 million. By September 2019, **only about $20 million had arrived**. A company built for a big round has to cut fast if the round stalls. Instead, the pandemic arrived first, with costs still high. Hope is not a funding plan.",
+      "src": [
+        6,
+        7
+      ]
+    },
+    {
+      "title": "No cushion for a shock",
+      "explain": "Its model depended on young workers living in cities. Covid sent them home, and listings fell from **about 50,000 to 18,000**. Any business that serves one group of customers in one situation should ask what happens if that situation disappears overnight.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are our staff costs bigger than our revenue?",
+    "Do we earn only a small cut of each transaction but do most of the work ourselves?",
+    "Are we launching new brands or products while our first one still loses money on each customer?",
+    "Does our plan depend on a funding round that is less than half closed?",
+    "Would a single event (a lockdown, a law, a big rival) remove most of our customers at once?",
+    "Have several senior leaders left within the same few months?"
+  ],
+  "lessons": [
+    {
+      "title": "Price for the work you actually do",
+      "detail": "If you handle repairs, moving and rent collection, a small commission may not cover it. Work out the full cost of serving one customer for a year, then make sure your fee is bigger."
+    },
+    {
+      "title": "Automate or cut before you hire",
+      "detail": "NestAway's costs were mostly people. Before adding staff to grow, ask which tasks software, partners or customers themselves could do."
+    },
+    {
+      "title": "One business at a time",
+      "detail": "Launching new brands feels like progress, but each one splits your money and focus. Make the first business profitable per customer before starting the second."
+    },
+    {
+      "title": "Have a Plan B for the round",
+      "detail": "When you go out to raise, also write the plan for raising only 20% of the target. Know in advance which costs you will cut, and cut them on the day you know."
+    },
+    {
+      "title": "Stress-test your customer",
+      "detail": "Ask: what if our main customers suddenly can't or won't use us for six months? If the answer is 'we die', build a cash buffer or a second customer group."
+    }
+  ],
+  "quote": {
+    "text": "NestAway's customized strategy has demonstrated the potential to transform India's rental housing market.",
+    "who": "Lee Fixel, partner at Tiger Global",
+    "context": "On leading NestAway's $30 million Series C in April 2016, seven years before it sold for about $11 million.",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Aurum PropTech, which had already bought Hello World, took over NestAway in 2023 and said it would invest about $3.6 million to stabilise it. In January 2025 co-founder Amarendra Sahu filed a police complaint (FIR) alleging cheating and forgery in the sale against investors Tiger Global, Goldman Sachs and Chiratae and two co-founders. Co-founder Jitendra Jagadev said similar claims had been dismissed by the NCLT and called it harassment. No court had ruled on the FIR in the sources we read.",
+    "src": [
+      0,
+      8
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: NestAway, once valued at over $225 million, sells for $11 million (Jun 2023)",
+      "url": "https://techcrunch.com/2023/06/02/nestaway-aurum/"
+    },
+    {
+      "label": "Entrackr: Tiger Global and Chiratae start NestAway's Series D with $10 Mn (May 2019)",
+      "url": "https://entrackr.com/2019/05/tiger-global-chiarate-nestaway-series-d-10-mn/"
+    },
+    {
+      "label": "Entrackr: Aurum acquires Tiger Global-backed NestAway at 95% valuation cut (Jun 2023)",
+      "url": "https://entrackr.com/2023/06/aurum-acquires-tiger-global-backed-nestaway-at-95-valuation-cut/"
+    },
+    {
+      "label": "TechCrunch: Indian home rental platform NestAway gets $30M led by Tiger Global (Apr 2016)",
+      "url": "https://techcrunch.com/2016/04/19/nestaway/"
+    },
+    {
+      "label": "Entrackr: NestAway in FY18 — revenue, expenses, loss and mutual funds (Feb 2019)",
+      "url": "https://entrackr.com/2019/02/nestaway-revenue-loss-fy18/"
+    },
+    {
+      "label": "Entrackr: NestAway's scale shrinks 36% in FY22, losses touch ₹95 Cr (May 2023)",
+      "url": "https://entrackr.com/2023/05/nestaways-scale-shrinks-36-in-fy22-losses-touch-rs-95-cr/"
+    },
+    {
+      "label": "Entrackr: Goldman Sachs pumps $5 Mn into NestAway (Sep 2019)",
+      "url": "https://entrackr.com/2019/09/goldman-sachs-pumps-5-mn-into-nestaway/"
+    },
+    {
+      "label": "Entrackr: NestAway co-founder Deepak Dhar is leaving (Jul 2019)",
+      "url": "https://entrackr.com/2019/07/deepak-dhar-cxo-nestaway-exit-fentech/"
+    },
+    {
+      "label": "Entrackr: NestAway co-founder alleges fraud by Tiger Global, Chiratae and Goldman Sachs (Jan 2025)",
+      "url": "https://entrackr.com/news/nestaway-co-founder-alleges-fraud-by-tiger-global-chiratae-and-goldman-sachs-8584888"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Amarendra Sahu's allegations of cheating and forgery in the 2023 sale.",
+        "note": "These are allegations in an FIR. The investors and co-founders named deny them; Jitendra Jagadev says the NCLT dismissed similar claims. Nobody has been convicted."
+      },
+      {
+        "claim": "Total raised ($110M vs $115M) and peak valuation ($220M vs $227M).",
+        "note": "Entrackr and TechCrunch differ slightly; we use TechCrunch's figures."
+      },
+      {
+        "claim": "Covid was the main cause of the fall.",
+        "note": "TechCrunch says the erosion 'can at least be partially attributed to COVID'. Losses were large well before 2020, so we treat Covid as the final blow, not the only cause."
+      },
+      {
+        "claim": "Headquarters city.",
+        "note": "Left blank because the sources we read did not state it."
+      }
+    ]
+  }
+}

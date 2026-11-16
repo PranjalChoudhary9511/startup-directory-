@@ -1,0 +1,363 @@
+{
+  "slug": "mt-gox",
+  "name": "Mt. Gox",
+  "region": "global",
+  "country": "Japan",
+  "city": "Tokyo",
+  "sector": "Crypto exchange",
+  "founded": 2010,
+  "died": 2014,
+  "status": "bankrupt",
+  "brandColor": "#1f4e79",
+  "founders": [
+    {
+      "name": "Jed McCaleb",
+      "role": "Founder (sold it in 2011)"
+    },
+    {
+      "name": "Mark Karpelès",
+      "role": "Owner and CEO from 2011"
+    }
+  ],
+  "epitaph": "Started as a card-game site. Lost 650,000 bitcoins.",
+  "oneLiner": "The first giant bitcoin exchange, where people bought, sold and stored bitcoin; at its peak it handled over 70% of the world's trades.",
+  "causeOfDeath": "Hackers drained its bitcoin wallet for years, and weak bookkeeping meant nobody noticed until about 850,000 coins were gone.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "No public venture rounds. At the Feb 2014 filing it reported liabilities of about ¥6.5 billion (~$65M) and said lost bitcoins were worth about $473 million at the time.",
+  "moneySrc": [
+    0
+  ],
+  "inOneMinute": [
+    "Mt. Gox began as a domain for trading **Magic: The Gathering** cards, became a bitcoin exchange in 2010, and soon handled over 70% of all bitcoin trades.",
+    "From 2011, stolen coins quietly leaked out of its online wallet. **Nobody was regularly checking** that the coins on the books matched the coins in storage.",
+    "In 2014 it froze withdrawals and went bankrupt, about 850,000 bitcoins missing. **Creditors only started getting repaid in July 2024.**"
+  ],
+  "killerLine": "**Count the money you hold for others — every single day.** If you can't prove it's there, it may already be gone.",
+  "numbers": [
+    {
+      "value": "70%+",
+      "label": "of the world's bitcoin trades handled by Mt. Gox (2013–14)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "850,000",
+      "label": "bitcoins reported lost in Feb 2014 (about 7% of all bitcoins then)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~200,000",
+      "label": "bitcoins later 'found' in an old wallet in March 2014",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "10 years",
+      "label": "from the 2014 collapse until repayments began (July 2024)",
+      "src": [
+        0,
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: from card games to bitcoin",
+      "body": "In 2007 programmer Jed McCaleb bought the web address mtgox.com. The name stood for **\"Magic: The Gathering Online eXchange\"** — a place to trade fantasy card-game cards. In July 2010 he relaunched it as an exchange for a strange new digital money called bitcoin. Bitcoin was tiny then, and Mt. Gox made it easy to buy. In March 2011 McCaleb sold the site to Mark Karpelès, who ran it from Tokyo. As bitcoin's price rose, Mt. Gox rode the wave. By April 2013 it was handling **over 70% of all bitcoin trades in the world**. For many early users, Mt. Gox simply *was* bitcoin.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "The rise: big, busy and fragile",
+      "body": "Being the biggest did not mean being the safest. In June 2011 a hacker used a compromised auditor's account to dump bitcoins at fake prices, briefly crashing the price on Mt. Gox **to one cent**. That should have been a loud warning. Later investigation by security researchers found that from late 2011, coins were also being stolen from the exchange's **hot wallet** (the online wallet used for daily withdrawals). The cold storage (offline backup) was refilled into the leaking hot wallet by hand. There was **no continuous check** comparing what customers were owed with what was actually in the wallets. So the hole grew quietly for years.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The cracks: withdrawals that never came",
+      "body": "On 7 February 2014 Mt. Gox halted bitcoin withdrawals completely. On 24 February trading stopped and the website went dark. A leaked internal document said 744,408 bitcoins were missing. On 28 February Mt. Gox filed for bankruptcy protection in Tokyo. It said it had lost almost **750,000 customer bitcoins and about 100,000 of its own** — roughly 7% of all bitcoins in existence, worth about $473 million then. Weeks later it announced it had found 199,999.99 bitcoins in an old wallet it had forgotten about. That still left about **650,000 coins missing**.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The fall: a decade-long cleanup",
+      "body": "In 2015 Japanese police arrested Karpelès. In March 2019 a Tokyo court **acquitted him of embezzlement and breach of trust**, finding he had acted without ill intent, but convicted him of falsifying data to inflate the exchange's holdings by $33.5 million. He got a 30-month sentence, suspended for four years (so no prison time unless he reoffended). US prosecutors alleged that Alexander Vinnik, owner of the BTC-e exchange, helped launder the stolen coins. Meanwhile, the trustee still held close to 142,000 bitcoins in 2022. Creditors approved a repayment plan in 2021, and **repayments in bitcoin finally began in July 2024**.",
+      "src": [
+        0,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jan 2007",
+      "event": "Jed McCaleb buys mtgox.com, short for 'Magic: The Gathering Online eXchange'.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "18 Jul 2010",
+      "event": "Mt. Gox launches as a bitcoin exchange.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2011",
+      "event": "McCaleb sells Mt. Gox to Mark Karpelès.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2011",
+      "event": "Hacker crashes bitcoin's price on Mt. Gox to one cent using a compromised auditor account.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Late 2011",
+      "event": "Coins start leaking from the hot wallet, unnoticed (per WizSec's later analysis).",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Apr 2013",
+      "event": "Handles over 70% of the world's bitcoin trades.",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "7 Feb 2014",
+      "event": "Halts bitcoin withdrawals.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "28 Feb 2014",
+      "event": "Files for bankruptcy protection in Tokyo; ~850,000 bitcoins missing.",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2014",
+      "event": "Finds 199,999.99 bitcoins in an old wallet.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2019",
+      "event": "Karpelès convicted of data falsification (suspended sentence), acquitted of embezzlement.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "event": "Trustee begins repaying creditors in bitcoin and bitcoin cash.",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Oct 2026",
+      "event": "Repayment deadline extended again, to 31 October 2027.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Where the bitcoins went",
+      "unit": "thousand bitcoins",
+      "kind": "bar",
+      "labels": [
+        "Reported lost (Feb 2014)",
+        "Found in old wallet (Mar 2014)",
+        "Still missing"
+      ],
+      "series": [
+        {
+          "name": "Bitcoins",
+          "values": [
+            850,
+            200,
+            650
+          ]
+        }
+      ],
+      "takeaway": "Even after a forgotten wallet turned up, about 650,000 bitcoins — mostly customers' — were never recovered.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "governance",
+      "weight": 45
+    },
+    {
+      "key": "tech",
+      "weight": 35
+    },
+    {
+      "key": "fraud",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Never checking the coins against the books",
+      "explain": "Security researchers found there was **no continuous monitoring** comparing what customers were owed with what was in the wallets. Coins leaked from late 2011 to 2013. A simple daily check — 'do we hold what we owe?' — would have caught it years earlier.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Ignoring a loud early warning",
+      "explain": "In June 2011 a hacker crashed the price on Mt. Gox to one cent using a compromised auditor account. **One serious breach should trigger a full security rebuild.** Mt. Gox kept growing instead, and the bigger it got, the bigger the target.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Hiding the hole instead of reporting it",
+      "explain": "A Tokyo court found Karpelès **falsified data to inflate holdings by $33.5 million**. Even without intent to steal, covering up a shortfall stops anyone from fixing it and betrays customers who keep depositing. Customers kept depositing because the published numbers looked fine. Honest numbers are what let people protect themselves.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Growing faster than the team could handle",
+      "explain": "Mt. Gox went from a hobby site to handling **over 70% of global bitcoin trading** in under three years. Its manual processes — like refilling the hot wallet by hand — were built for a tiny site, not a global bank.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Would you struggle to prove, today, that you hold every rupee or coin your customers think you hold?",
+    "Do you rely on manual steps to move customer money between accounts or wallets?",
+    "Have you had a security breach and carried on without a full outside review?",
+    "Are customers complaining about slow withdrawals or refunds while you blame 'technical issues'?",
+    "Has anyone in your team adjusted numbers in a report to make a gap look smaller?"
+  ],
+  "lessons": [
+    {
+      "title": "Reconcile daily if you hold others' money",
+      "detail": "Wallets, payments, escrow — check every day that what you hold matches what you owe. Automate the check and alert loudly on any gap."
+    },
+    {
+      "title": "Treat your first hack as a fire alarm",
+      "detail": "After any breach, pause growth, bring in outside security experts and fix the root cause. The cheapest time to fix security is before you're famous."
+    },
+    {
+      "title": "Bad news gets worse with time",
+      "detail": "If money is missing, tell your customers and the authorities early. Hiding it, even 'until we fix it', turns a disaster into a crime."
+    },
+    {
+      "title": "As a user, slow withdrawals are a red flag",
+      "detail": "When an exchange or app starts delaying withdrawals, move your money out. Mt. Gox users who waited ended up waiting a decade."
+    },
+    {
+      "title": "Not your keys, not your coins",
+      "detail": "If you hold crypto long-term, learn to keep it in your own wallet. Anything left on an exchange depends on that exchange's honesty and security."
+    }
+  ],
+  "quote": {
+    "text": "Always. Monitor. Your. Bitcoins.",
+    "who": "WizSec security researchers",
+    "context": "Concluding their 2015 investigation into the missing Mt. Gox bitcoins",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Creditors approved a rehabilitation plan in 2021, and the court-appointed trustee, Nobuaki Kobayashi, began repaying them in bitcoin and bitcoin cash from July 2024 — ten years after the collapse. By October 2026 the trustee said most repayments were done, but many creditors still hadn't completed the paperwork, so the deadline was pushed again to 31 October 2027. Karpelès was acquitted of embezzlement in 2019 and convicted only of data falsification, with a suspended sentence.",
+    "src": [
+      0,
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Mt. Gox (citing Bloomberg, NYT, Ars Technica, trustee notices)",
+      "url": "https://en.wikipedia.org/wiki/Mt._Gox"
+    },
+    {
+      "label": "WizSec: The missing MtGox bitcoins (Apr 2015)",
+      "url": "http://blog.wizsec.jp/2015/04/the-missing-mtgox-bitcoins.html"
+    },
+    {
+      "label": "MtGox Rehabilitation Trustee: announcements page",
+      "url": "https://www.mtgox.com/"
+    },
+    {
+      "label": "MtGox Trustee: Notice regarding commencement of repayments in Bitcoin and Bitcoin Cash (24 Jun 2024)",
+      "url": "https://www.mtgox.com/img/pdf/20240624_announcement_en.pdf"
+    },
+    {
+      "label": "MtGox Trustee: Notice concerning change of repayments deadline (27 Oct 2025)",
+      "url": "https://www.mtgox.com/img/pdf/20251027_1cc36334-e8b2-4fe4-8135-97d9a149e4f7_announcement_en.pdf"
+    },
+    {
+      "label": "MtGox Trustee: Notice concerning change of repayments deadline (16 Oct 2026)",
+      "url": "https://www.mtgox.com/img/pdf/20261016_b3a13e0f-55f6-4653-913b-be80762390e8_announcement_en.pdf"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Exactly how many bitcoins were stolen.",
+        "note": "WizSec traced ~300,000 BTC with a strict method and up to ~800,000 with a looser one; the commonly cited 650,000 is the figure left after 200,000 were found."
+      },
+      {
+        "claim": "Who stole the coins.",
+        "note": "US prosecutors alleged BTC-e's Alexander Vinnik helped launder them; WizSec's 2015 report said the perpetrators were unidentified."
+      },
+      {
+        "claim": "Karpelès stole customer money.",
+        "note": "A Tokyo court acquitted him of embezzlement and breach of trust in March 2019; he was convicted only of falsifying data."
+      }
+    ]
+  }
+}

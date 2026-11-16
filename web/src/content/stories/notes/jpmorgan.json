@@ -1,0 +1,257 @@
+{
+  "slug": "jpmorgan",
+  "company": "JPMorgan Chase",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#005EB8",
+    "secondary": "#141414",
+    "accent": "#A07B3B",
+    "ink": "#121820",
+    "paper": "#F3F0E8",
+    "note": "Chase blue #005EB8 and Chase black #141414 are the brand colours listed by BrandColorCode (jpmorganchase.com does not expose them to automated reading); the bronze accent, ink and paper are our own, a nod to the old House of Morgan."
+  },
+  "tagline": "A stockbroker's son, fired at 42 by the man he called a second father, came back to build America's biggest bank.",
+  "hook": "JPMorgan Chase carries the name of a 19th-century banker, but the man who built today's bank was fired by his own mentor at 42. Jamie Dimon spent more than a year out of work, then took over a struggling Chicago bank. That bank became his route to running JPMorgan Chase, which now holds $5.1 trillion of assets.",
+  "hookSrc": [2, 6, 7, 20],
+  "cast": [
+    {
+      "name": "J. Pierpont Morgan",
+      "role": "The banker whose name the firm carries, not the founder of today's company. In 1871 he joined forces with Anthony Drexel in Drexel, Morgan & Co., later renamed J.P. Morgan & Co. In the Panic of 1907 he raised cash from big banks and companies and had it sent straight to the stock exchange to keep it open. The panic pushed America towards creating a central bank, the Federal Reserve.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/J.P._Morgan.jpg/1280px-J.P._Morgan.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:J.P._Morgan.jpg",
+        "caption": "J. Pierpont Morgan in a 1902 studio portrait by Pach Brothers, five years before the Panic of 1907.",
+        "author": "Pach Brothers",
+        "license": "Public domain",
+        "year": 1902
+      },
+      "src": [0, 22]
+    },
+    {
+      "name": "Sandy Weill",
+      "role": "Dimon's mentor for about 16 years. He hired him as his assistant at American Express in 1982, and together they took Commercial Credit public in 1986 and built it, through Primerica and Travelers, into Citigroup in 1998. Soon after that merger, Weill asked Dimon to resign.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sanford_Weill.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sanford_Weill.jpg",
+        "caption": "Sandy Weill in New York, December 2007.",
+        "author": "Christopherpeterson at English Wikipedia Christopher Peterson",
+        "license": "CC BY 3.0",
+        "year": 2007
+      },
+      "src": [3, 2, 7]
+    },
+    {
+      "name": "Bill Harrison",
+      "role": "Chief executive of JPMorgan Chase who agreed the 2004 merger with Bank One. Under the deal Dimon was expected to succeed him in 2006; the handover came about six months early, and Dimon took over as CEO on 1 January 2006, with Harrison staying on as chairman for one more year.",
+      "photo": null,
+      "src": [2, 1, 9, 27]
+    }
+  ],
+  "founder": {
+    "name": "Jamie Dimon",
+    "role": "Chairman & CEO; built today's JPMorgan Chase (he did not found it)",
+    "born": "13 Mar 1956, New York City (raised in Jackson Heights, Queens)",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Global_Financial_Context_James_Dimon_%28cropped%29.jpg/1280px-The_Global_Financial_Context_James_Dimon_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Global_Financial_Context_James_Dimon_(cropped).jpg",
+      "caption": "Jamie Dimon at the World Economic Forum in Davos, January 2013.",
+      "author": "World Economic Forum",
+      "license": "CC BY-SA 2.0",
+      "year": 2013
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg/1280px-Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Jamie_Dimon,_CEO_of_JPMorgan_Chase.jpg",
+        "caption": "Dimon at the J.P. Morgan Healthcare Conference, January 2013, the year after the London Whale losses.",
+        "author": "Steve Jurvetson",
+        "license": "CC BY 2.0",
+        "year": 2013
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/23_Wall_Street_New_York.jpg/1280px-23_Wall_Street_New_York.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:23_Wall_Street_New_York.jpg",
+        "caption": "23 Wall Street, the old J.P. Morgan & Co. building at the corner of Wall and Broad Streets, photographed in 2007.",
+        "author": "ChrisRuvolo",
+        "license": "CC BY-SA 3.0",
+        "year": 2007
+      }
+    ],
+    "background": "Jamie Dimon was born in New York City in 1956 and grew up in Jackson Heights, Queens, one of three sons in a Greek-American family. His grandfather Panos was a Greek immigrant from Smyrna who became a stockbroker. His father Ted joined the brokerage Shearson Hammill in 1953 as his own father's assistant, and his mother Themis earned a master's degree in psychology. Jamie read Graham and Dodd's Security Analysis in high school and bought his first stock at 14.",
+    "backgroundSrc": [2, 4, 5, 6, 25],
+    "journey": [
+      { "year": "1956", "kind": "life", "title": "Born in New York, raised in Queens", "detail": "Born on 13 March; the family lived in Jackson Heights, Queens. His father and grandfather were both stockbrokers.", "src": [2, 3, 5, 25] },
+      { "year": "1970", "kind": "life", "title": "First stock at 14", "detail": "With a stockbroker father he grew up watching markets, bought his first stock at 14 and read Security Analysis in high school.", "src": [4, 6] },
+      { "year": "1970s", "kind": "job", "title": "A college paper becomes a summer job", "detail": "He wrote a college paper on a Shearson merger led by Sandy Weill. His mother got the paper to Weill, who was impressed and gave him a summer job.", "src": [2, 3, 4] },
+      { "year": "1978", "kind": "job", "title": "Tufts graduate, then consultant", "detail": "After a BA from Tufts he spent two years as a management consultant at the Management Analysis Center.", "src": [2, 4, 9] },
+      { "year": "1982", "kind": "life", "title": "Harvard MBA, and three big offers turned down", "detail": "He said no to Goldman Sachs, Lehman Brothers and Morgan Stanley to work for Weill instead.", "src": [2, 4] },
+      { "year": "1982", "kind": "job", "title": "Weill's assistant at American Express", "detail": "Vice president and assistant to the president of American Express, Sandy Weill.", "src": [2, 3, 9] },
+      { "year": "1985", "kind": "attempt", "title": "Quits American Express with Weill", "detail": "When Weill resigned, Dimon walked out with him, with no company to run yet. 'I couldn't imagine staying without him,' he said.", "src": [3] },
+      { "year": "1986", "kind": "job", "title": "CFO of Commercial Credit at 30", "detail": "Weill and Dimon took Commercial Credit, an ailing unit of Control Data, and sold 80% of it to the public. As chief financial officer, Dimon helped restructure it through a string of purchases and sales, and its profits rose.", "src": [3, 2] },
+      { "year": "1991", "kind": "job", "title": "President at 35", "detail": "Commercial Credit had taken over Primerica, owner of the broker Smith Barney. In September 1991, aged 35, Weill made him president of Primerica. JPMorganChase's biography dates his time as president and COO of the group, later called Travelers, from 1990 to 1998.", "src": [3, 2, 1] },
+      { "year": "1996–98", "kind": "job", "title": "Running Smith Barney, then president of Citigroup", "detail": "CEO of Smith Barney in 1996, co-CEO of Salomon Smith Barney in 1997, and president of Citigroup when Travelers merged with Citicorp in 1998.", "src": [1, 2, 9] },
+      { "year": "1998", "kind": "failure", "title": "Fired by his mentor", "detail": "On 1 November 1998 Weill, whom Dimon had called a second father, asked him to resign.", "src": [2, 6, 7] },
+      { "year": "1999", "kind": "attempt", "title": "Out of work at 42", "detail": "He boxed, read biographies of leaders who had suffered, and talked to companies including Amazon and Home Depot about top jobs. He could have retired, but as he put it, he was 42.", "src": [6, 7, 8] },
+      { "year": "2000", "kind": "breakthrough", "title": "CEO of Bank One, Chicago", "detail": "He became chairman and CEO in March 2000 and put half his money into its shares. Bank One lost $511 million in 2000 and earned a record $3.5 billion in 2003.", "src": [1, 2, 6, 7, 26] },
+      { "year": "2004–06", "kind": "breakthrough", "title": "Merger with JPMorgan Chase", "detail": "JPMorgan Chase bought Bank One for about $58 billion in stock in 2004. Dimon became president and COO, then CEO on 1 January 2006 and chairman a year later.", "src": [1, 2, 9] },
+      { "year": "2008", "kind": "breakthrough", "title": "Bear Stearns and WaMu", "detail": "In March he bought collapsing Bear Stearns, first at $2 a share, then about $10. In September, after regulators seized Washington Mutual, JPMorgan paid the FDIC about $1.9 billion for its banking business.", "src": [6, 10, 11] },
+      { "year": "2012", "kind": "failure", "title": "The London Whale", "detail": "A London trading desk ran up about $6.2 billion of losses. Dimon first called the reports 'a tempest in a teapot', then admitted he was 'dead wrong'.", "src": [12, 13, 14] },
+      { "year": "2014–20", "kind": "life", "title": "Cancer, then heart surgery", "detail": "On 1 July 2014 he told staff he had curable throat cancer; he cut back on travel and public appearances during treatment, and recovered. In March 2020 he had emergency heart surgery for an acute aortic dissection, a tear in the body's main artery.", "src": [9, 15] },
+      { "year": "2026", "kind": "now", "title": "Still in charge at 70", "detail": "In June 2026 the board made Doug Petno and Troy Rohrbaugh co-presidents, a step in its succession plan. Dimon stays chairman and CEO.", "src": [18, 20] }
+    ],
+    "mindset": [
+      { "idea": "Choose who you work for", "explain": "When Weill offered him a job at Harvard, Dimon said the most important thing in life is who you work for, not what you do. He turned down three top Wall Street firms to follow one boss.", "src": [3, 4] },
+      { "idea": "A fortress balance sheet", "explain": "He says he has preached the idea since the early 1990s. In his words it is 'all about capital, liquidity and really understanding the company and being prepared', so the bank is ready when a crisis comes.", "src": [4, 6] },
+      { "idea": "Know every number yourself", "explain": "'You have to know every asset, every liability, every person,' he told Euromoney. Looking back on his early years, he says, 'I was pretty tough back then.'", "src": [4] },
+      { "idea": "Accept some mistakes", "explain": "After the Frank deal went wrong he said a bank 'getting up to bat 300 times a year' will have errors, and should not become too scared to act.", "src": [16] },
+      { "idea": "History is the best teacher", "explain": "He lists history as a hobby and calls it 'the greatest teacher of all time', saying history 'does rhyme'.", "src": [6] }
+    ],
+    "habits": [
+      { "habit": "Phone stays in the office", "detail": "He turns off notifications except from his children, leaves his phone in his office during the day, and tells people to call his office if it is important.", "src": [23, 24] },
+      { "habit": "No devices in meetings", "detail": "He wants people fully focused in meetings, and says that if someone has a device open in front of him, he tells them to close it because it is disrespectful.", "src": [24] },
+      { "habit": "Always on the road", "detail": "He travels about 145 days a year, has made over 230 international visits to 46 countries in the past decade, and personally hosted more than 60 employee town halls in 2025.", "src": [19] }
+    ],
+    "darkestHour": {
+      "title": "1998: fired by his 'second father'",
+      "story": "For 16 years Dimon had been Sandy Weill's right hand, helping turn an ailing loan company into Citigroup. On 1 November 1998, soon after the Citigroup merger, Weill asked him to resign. Dimon later said he was totally surprised, though there had been tell-tale signs that he missed. He went from 80-hour weeks to nothing. He says the firing hit his net worth, not his self-worth. He took up boxing, read biographies of leaders who had truly suffered, accepted that he was partly to blame, and after about a year invited Weill to lunch to clear the air. Six months later he was running Bank One.",
+      "src": [2, 6, 7, 8]
+    },
+    "genuineness": {
+      "story": "When the London Whale losses broke in April 2012, Dimon brushed off the reports as 'a tempest in a teapot'. A month later he went on television and said 'I was dead wrong' and 'We know we were sloppy. We know we were stupid.' In 2013 the bank paid $920 million in fines and, unusually, admitted to the SEC that it had broken securities laws by failing to oversee its traders. Dimon said the bank had accepted responsibility from the start and later took a large pay cut.",
+      "src": [12, 13, 14]
+    },
+    "now": "At 70, Dimon is still chairman and CEO, more than 20 years after he arrived through the Bank One merger. In June 2026 the board named Doug Petno and Troy Rohrbaugh co-presidents as a step in succession planning, and Marianne Lake, long seen as a possible successor, said she would retire. The bank earned $15.3 billion in the third quarter of 2026.",
+    "nowSrc": [18, 20, 21]
+  },
+  "numbers": [
+    { "value": "$5.1 trillion", "label": "Total assets", "asOf": "Sep 2026", "src": [20] },
+    { "value": "$15.3 billion", "label": "Profit in three months", "asOf": "Q3 2026", "src": [20, 21] },
+    { "value": "$185.6 billion", "label": "Revenue for the year", "asOf": "FY2025", "src": [19] },
+    { "value": "$57.0 billion", "label": "Profit for the year", "asOf": "FY2025", "src": [19] },
+    { "value": "86.6 million", "label": "U.S. consumers it serves, plus 7.4 million small businesses", "asOf": "FY2025", "src": [19] },
+    { "value": "1,200+", "label": "Older banks that merged into today's company", "asOf": "2026", "src": [0] }
+  ],
+  "milestones": [
+    { "year": "1799", "title": "The Manhattan Company", "detail": "Aaron Burr helps found a water company and slips in a clause letting it run a bank. It is the oldest root of today's firm.", "src": [0] },
+    { "year": "1871", "title": "Drexel, Morgan & Co.", "detail": "J. Pierpont Morgan joins forces with Anthony Drexel; the firm is later renamed J.P. Morgan & Co.", "src": [0] },
+    { "year": "1907", "title": "Morgan stops a panic", "detail": "With banks failing and no central bank to help, Morgan raises cash from big financial and industrial firms and has it delivered to the stock exchange so it can stay open. The panic leads to the creation of the Federal Reserve.", "src": [0, 22] },
+    { "year": "1955", "title": "Chase Manhattan", "detail": "The Bank of the Manhattan Company merges with Chase National Bank.", "src": [0] },
+    { "year": "2000", "title": "JPMorgan Chase is born", "detail": "Chase Manhattan merges with J.P. Morgan & Co. to form today's company.", "src": [0] },
+    { "year": "2004", "title": "Bank One merger", "detail": "JPMorgan Chase buys Bank One for about $58 billion in stock, bringing in Jamie Dimon as president and COO.", "src": [1, 2] },
+    { "year": "2006", "title": "Dimon becomes CEO", "detail": "He takes over on 1 January 2006 and becomes chairman on 1 January 2007.", "src": [1, 9, 27] },
+    { "year": "2008", "title": "Buying in the crash", "detail": "Bear Stearns in March, then Washington Mutual's banking business in September, making JPMorgan the largest deposit-taking bank in the US with about $905 billion of deposits.", "src": [10, 11] },
+    { "year": "2012", "title": "London Whale", "detail": "About $6.2 billion of trading losses; $920 million in fines follow in 2013.", "src": [13, 14] },
+    { "year": "2026", "title": "Succession step", "detail": "Doug Petno and Troy Rohrbaugh are named co-presidents in June; Marianne Lake retires.", "src": [18] }
+  ],
+  "howItMakesMoney": {
+    "summary": "JPMorgan Chase earns money in two main ways. First, interest: it pays depositors less than it charges borrowers on loans, cards and mortgages, which brought in $27.1 billion in the third quarter of 2026. Second, fees: helping companies raise money, trading for big investors, card fees, and managing wealth, which brought in $23.8 billion. Its three businesses are consumer banking (Chase), the commercial and investment bank, and asset and wealth management, which looks after $7.9 trillion of client assets.",
+    "flows": [
+      { "from": "Borrowers (mortgages, cards, business loans)", "to": "JPMorgan Chase", "what": "Interest on about $1.6 trillion of average loans" },
+      { "from": "JPMorgan Chase", "to": "Depositors", "what": "A lower rate of interest on their savings" },
+      { "from": "Companies and governments", "to": "JPMorgan Chase", "what": "Fees for raising money, advice on deals, and trading" },
+      { "from": "Wealthy families and investors", "to": "JPMorgan Chase", "what": "Fees on $7.9 trillion of client assets" },
+      { "from": "Card users and shops", "to": "JPMorgan Chase", "what": "Card and payment fees" }
+    ],
+    "src": [20]
+  },
+  "failures": [
+    {
+      "year": "2012",
+      "title": "The London Whale",
+      "whatHappened": "A team in the bank's London chief investment office built huge credit-derivative bets that lost about $6.2 billion. The bank later admitted it had failed to oversee the traders. In September 2013 the bank paid $920 million to US and UK regulators: $300 million to the OCC, $200 million each to the Fed and SEC, and about $220 million to the UK's FCA.",
+      "lesson": "Even a 'fortress' can be hurt by one unchecked team. The bigger you grow, the more your risk checks matter.",
+      "src": [12, 13, 14]
+    },
+    {
+      "year": "2021–25",
+      "title": "Buying Frank",
+      "whatHappened": "JPMorgan paid $175 million in 2021 for Frank, a college financial-aid startup that claimed about 4.25 million users. It had about 300,000 real ones. Dimon called the deal 'a huge mistake'. Founder Charlie Javice was convicted of fraud in March 2025 and sentenced in September 2025 to 85 months in prison.",
+      "lesson": "Check the numbers before you buy, and never fake them when you sell. Fake users can land a founder in prison.",
+      "src": [16, 17]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "J. P. Morgan founded JPMorgan Chase.",
+      "fact": "The firm counts more than 1,200 predecessor banks. Its oldest root is the Manhattan Company, set up in 1799 with Aaron Burr's help. Morgan's own firm began as Drexel, Morgan & Co. in 1871, and today's JPMorgan Chase was formed only in 2000, when Chase Manhattan merged with J.P. Morgan & Co.",
+      "src": [0]
+    },
+    {
+      "myth": "Jamie Dimon founded JPMorgan Chase, or has run it for decades.",
+      "fact": "He arrived in 2004, when JPMorgan Chase bought Bank One, the bank he ran. He became CEO on 1 January 2006.",
+      "src": [1, 9]
+    },
+    {
+      "myth": "JPMorgan got Bear Stearns for $2 a share.",
+      "fact": "The first offer in March 2008 was $2 a share, but about a week later, on 24 March, it was raised to about $10. The Fed's financing was cut to $29 billion, with JPMorgan taking the first $1 billion of any losses.",
+      "src": [10, 6]
+    }
+  ],
+  "quotes": [
+    { "text": "The most important thing in life is who you work for, not what you do.", "who": "Jamie Dimon, when Sandy Weill hired him from Harvard (quoted in Worth, 1992)", "src": [3] },
+    { "text": "I bought my first stock when I was 14.", "who": "Jamie Dimon, Acquired podcast (2025)", "src": [6] },
+    { "text": "We know we were sloppy. We know we were stupid.", "who": "Jamie Dimon, on the London Whale losses (May 2012)", "src": [12] },
+    { "text": "If you need me and it's important, call my office, and they'll come get me.", "who": "Jamie Dimon, CNN interview (2025)", "src": [23, 24] }
+  ],
+  "lessons": [
+    { "title": "Pick the boss, not the brand", "detail": "Dimon turned down Goldman Sachs, Morgan Stanley and Lehman to be Sandy Weill's assistant, and learned how a whole company works. For your first job, a great mentor can teach more than a famous logo." },
+    { "title": "Getting fired is a chapter, not the end", "detail": "Dimon was fired at 42 by his closest mentor. He boxed, read, owned his part, made peace over lunch, and 16 months later was running a bank. If a startup or job fails, use the gap to learn, then move." },
+    { "title": "Put your own money on the line", "detail": "At Bank One he put half his money into its shares. Staff and investors believe a leader who has the same risk as them." },
+    { "title": "Save in good times so you can buy in bad times", "detail": "Because JPMorgan had capital and cash ready in 2008, it could buy Bear Stearns and WaMu when others were in trouble. Keep a cash cushion; the best chances come when everyone else is short of money." },
+    { "title": "Never inflate your numbers", "detail": "Frank's founder claimed 4.25 million users when there were about 300,000, and got 85 months in prison. When you pitch investors or buyers in India or anywhere, show your real users. Due diligence will find the truth." }
+  ],
+  "moments": [
+    { "youtubeId": "kK9_3sXFuYw", "at": 38, "label": "Dimon's history and banking strategy" },
+    { "youtubeId": "kK9_3sXFuYw", "at": 126, "label": "How big JPMorgan Chase is" },
+    { "youtubeId": "kK9_3sXFuYw", "at": 284, "label": "Dimon's influence on the banking industry" },
+    { "youtubeId": "kK9_3sXFuYw", "at": 380, "label": "Dimon's future" }
+  ],
+  "sources": [
+    { "label": "JPMorganChase: Our history", "url": "https://www.jpmorganchase.com/about/our-history" },
+    { "label": "JPMorganChase: Jamie Dimon, Chairman and CEO (official biography)", "url": "https://www.jpmorganchase.com/about/leadership/jamie-dimon" },
+    { "label": "Encyclopedia.com (Newsmakers): Dimon, Jamie 1956–", "url": "https://encyclopedia.com/economics/news-wires-white-papers-and-books/dimon-jamie-1956" },
+    { "label": "Worth: From the Archives: Jamie Dimon, Wall Street's Boy Wonder (Nancy Marx Better, Feb–Mar 1992)", "url": "https://worth.com/from-the-archives-boy-wonder-jamie-dimon/" },
+    { "label": "Euromoney: The bankers that define the decades: Jamie Dimon, JPMorgan Chase (10 Jun 2019)", "url": "https://www.euromoney.com/article/b1fq6yftgm9nrv/the-bankers-that-define-the-decades-jamie-dimon-jpmorgan-chase" },
+    { "label": "The National Herald: Ted and Themis Dimon, together in life, together in death (13 Jun 2016)", "url": "https://www.thenationalherald.com/ted-and-themis-dimon-together-in-life-together-in-love-together-in-death/" },
+    { "label": "Acquired podcast: The Jamie Dimon Interview (16 Jul 2025), transcript", "url": "https://podscripts.co/podcasts/acquired/the-jamie-dimon-interview" },
+    { "label": "Fox Business: How Jamie Dimon went from being fired to becoming a top leader in banking (citing Harvard Business Review, 2007)", "url": "https://foxbusiness.com/money/jamie-dimon-overcame-being-fired-citigroup-jpmorgan" },
+    { "label": "CNBC via NBC Los Angeles: Dimon on being fired, 'it impacted my net worth, not my self worth' (2021)", "url": "https://www.nbclosangeles.com/news/business/money-report/jpmorgan-ceo-jamie-dimon-on-being-fired-it-impacted-my-net-worth-not-my-self-worth/2504593/" },
+    { "label": "KVIA (CNN): Jamie Dimon fast facts", "url": "https://kvia.com/?p=639821" },
+    { "label": "HousingWire: JPMorgan boosts bid for Bear Stearns (24 Mar 2008)", "url": "https://www.housingwire.com/articles/jpmorgan-boosts-bid-bear-stearns-looks-lock-down-deal" },
+    { "label": "SEC filing: JPMorgan Chase acquires Washington Mutual's deposits, press release (25 Sep 2008)", "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312508201638/dex991.htm" },
+    { "label": "City A.M.: Dimon: I was dead wrong (13 May 2012)", "url": "https://www.cityam.com/dimon-i-was-dead-wrong/" },
+    { "label": "Business Insurance (Reuters): JPMorgan to pay $920M in civil probes of 'London Whale' losses (19 Sep 2013)", "url": "https://www.businessinsurance.com/jpmorgan-to-pay-920m-in-civil-probes-of-london-whale-losses/" },
+    { "label": "CBS News (AP): JPMorgan, huge fines for bad trades, illegal billing (19 Sep 2013)", "url": "https://www.cbsnews.com/news/jpmorgan-huge-fines-for-bad-trades-illegal-billing" },
+    { "label": "KPBS (NPR): JPMorgan CEO Jamie Dimon recovering from heart surgery (5 Mar 2020)", "url": "https://www.kpbs.org/news/2020/03/05/jpmorgan-ceo-jamie-dimon-recovering-from-heart" },
+    { "label": "Forbes Australia: Jamie Dimon says Frank acquisition 'a huge mistake' (13 Jan 2023)", "url": "https://www.forbes.com.au/news/investing/jamie-dimon-says-frank-acquisition-was-a-huge-mistake-after-jp-morgan-alleges-millions-of-fake-customers/" },
+    { "label": "Fox Business: Startup founder learns fate in JPMorgan Chase fraud scheme (30 Sep 2025)", "url": "https://foxbusiness.com/fox-news-crime/startup-founder-learns-fate-enormous-jpmorgan-chase-fraud-scheme" },
+    { "label": "InvestmentNews: JPMorgan names co-presidents as Lake quits (26 Jun 2026)", "url": "https://www.investmentnews.com/wirehouses/jpmorgan-names-co-presidents-as-lake-quits-as-dimon-succession-edges-closer/267173" },
+    { "label": "JPMorganChase 2025 Annual Report: Chairman and CEO letter to shareholders (6 Apr 2026)", "url": "https://www.jpmorganchase.com/ir/annual-report/2025/ar-ceo-letters" },
+    { "label": "SEC filing: JPMorgan Chase third-quarter 2026 earnings release (13 Oct 2026)", "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/a3q26erfexhibit991narrative.htm" },
+    { "label": "Pulse 2.0: JPMorgan Chase reports $15.3 billion Q3 profit (13 Oct 2026)", "url": "https://pulse2.com/jpmorgan-chase-q3-2026-results" },
+    { "label": "Federal Reserve History: The Panic of 1907", "url": "https://www.federalreservehistory.org/essays/panic-of-1907" },
+    { "label": "Fortune: The only phone notifications Jamie Dimon gets are from his kids (6 Nov 2025)", "url": "https://fortune.com/2025/11/06/jamie-dimon-phone-notifications-meetings-daughters/" },
+    { "label": "Entrepreneur: Jamie Dimon avoids this 'disrespectful' habit during the work day (Nov 2025)", "url": "https://www.entrepreneur.com/business-news/jpmorgan-ceo-jamie-dimon-i-dont-bring-my-phone-to-meetings/499344" },
+    { "label": "Yahoo Finance (PIX11): 11 questions with JPMorgan Chase CEO Jamie Dimon (30 Apr 2024)", "url": "https://finance.yahoo.com/news/11-questions-chairman-ceo-jpmorgan-232621723.html" },
+    { "label": "SEC filing: Bank One fourth-quarter and full-year 2003 earnings release (20 Jan 2004)", "url": "https://www.sec.gov/Archives/edgar/data/0001067092/000106709204000012/earningsrelease4q03.htm" },
+    { "label": "SEC filing: JPMorgan Chase press release, Dimon to succeed Harrison as CEO on 31 Dec 2005 (19 Oct 2005)", "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000001961705000547/wbhexh99.htm" }
+  ],
+  "factCheck": {
+    "method": "Researched from 26 sources, led by primary ones: JPMorganChase's own history and Dimon biography, his April 2026 shareholder letter, the Q3 2026 earnings release and 2008 WaMu release on SEC EDGAR, and Dimon in his own words on the Acquired transcript and CNN/CNBC interviews. Then independently re-checked claim by claim against the cited source plus a second source, adding Bank One's 2003 results and JPMorgan's 2005 succession release from SEC EDGAR (28 sources in all). That pass fixed several details: the grandfather's 'dishwashing' (not found in any source we could open), the 'branch budgets' summer job, Morgan 'calling the bankers together' in 1907 (the Fed's history says he raised cash and sent it to the exchange), the fortress-balance-sheet wording, and the timing of the firing ('soon after' the Citigroup merger, not 'months'). Quotes were matched word for word to the article or transcript carrying them. Profiles we could not open (Politico, the New York Times, Bloomberg, CNBC direct) were not used. Photos were re-checked through the Commons API for author, licence, date and subject. Moments come only from the chapter list the Wall Street Journal wrote in its video description, and all four timestamps were re-checked against it; the other seven films have none.",
+    "disputed": [
+      { "claim": "Dimon is the founder of JPMorgan", "note": "He is not. He joined through the 2004 Bank One merger and has been CEO since 2006. The firm's roots go back to 1799 and its current form to the 2000 Chase–J.P. Morgan merger." },
+      { "claim": "Which merger his college paper covered", "note": "Worth (1992) says the 1974 merger of Shearson Hammill with Hayden Stone; Encyclopedia.com dates that merger to 1970. Both agree his mother sent the paper to Weill." },
+      { "claim": "His father's job", "note": "The National Herald says Ted Dimon was a stockbroker at Shearson Hammill from 1953 and later worked under Weill; a 1984 New York Times item, cited by Wikipedia, calls him an American Express executive vice president. Both can be true at different times." },
+      { "claim": "Time out of work", "note": "From 1 November 1998 to March 2000 is about 16 months; some accounts round it to 18 months or 'a year off'." },
+      { "claim": "Why Weill fired him", "note": "Accounts differ: press reports mention a 1997 row over the promotion of Weill's daughter, others say Dimon wanted to be treated as an equal. Dimon says only that he missed tell-tale signs. We do not pick a reason." },
+      { "claim": "Goldman Sachs internship", "note": "Encyclopedia.com lists a 1978 Goldman internship; other accounts place his Goldman summer job between his two years at Harvard Business School." },
+      { "claim": "Date of the Bank One merger", "note": "JPMorganChase gives 1 July 2004 for the merger and Dimon's start as president; Encyclopedia.com gives an effective date of 15 June 2004." },
+      { "claim": "Frank's claimed users", "note": "JPMorgan's lawsuit said 4.25 million; prosecutors and some reports say 'more than 4 million'. Both say there were about 300,000 real users." },
+      { "claim": "London Whale loss", "note": "Reports give about $6 billion or $6.2 billion; the bank's first disclosure in May 2012 was about $2 billion before losses grew." },
+      { "claim": "His grandfather's first job in America", "note": "CNBC (2020) reports Dimon saying his grandfather started as a busboy before joining a bank; earlier drafts said he washed dishes. We could not open a source for either, so the notes say only that he was a Greek immigrant from Smyrna who became a stockbroker." },
+      { "claim": "The exact day he became CEO", "note": "JPMorgan's October 2005 release set the handover for 31 December 2005; its official biography and CNN's timeline say he became CEO on 1 January 2006. We use 1 January 2006." },
+      { "claim": "How long he will stay", "note": "Reuters, citing an unnamed source, reported in June 2026 that Dimon plans to stay CEO for at least three more years; he has not said so publicly, so we leave it out." }
+    ]
+  }
+}

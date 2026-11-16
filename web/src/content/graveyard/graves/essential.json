@@ -1,0 +1,365 @@
+{
+  "slug": "essential",
+  "name": "Essential Products",
+  "region": "global",
+  "country": "United States",
+  "city": "Palo Alto",
+  "sector": "Smartphones",
+  "founded": 2015,
+  "died": 2020,
+  "status": "shut-down",
+  "brandColor": "#2f3a45",
+  "founders": [
+    {
+      "name": "Andy Rubin",
+      "role": "Co-founder and CEO (co-creator of Android)"
+    },
+    {
+      "name": "Matt Hershenson",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Titanium body. Paper-thin sales.",
+  "oneLiner": "A premium Android phone startup from Android's co-creator, with a titanium body, edge-to-edge screen and snap-on accessories.",
+  "causeOfDeath": "Its only phone shipped late with a weak camera into a market owned by Apple and Samsung; sales disappointed, the founder was mired in scandal, and cash ran out.",
+  "raisedUsdM": 300,
+  "peakValuationUsdM": 1000,
+  "endValueUsdM": null,
+  "moneyNote": "Reported $300M round (Amazon, Tencent, Foxconn among investors) and a valuation of over $1B in 2017, per reports cited by Wikipedia. No sale; the company closed in 2020.",
+  "moneySrc": [
+    0
+  ],
+  "inOneMinute": [
+    "Andy Rubin, **the man who co-created Android**, launched Essential to build a better phone. Investors reportedly valued it at **over $1 billion** before it shipped.",
+    "The $699 Essential Phone arrived late, with **a disappointing camera**. Within two months, the price was cut to $499 because of low demand.",
+    "Rubin's past at Google became headline news. The next phone was cancelled, and in February 2020 **Essential shut down**, ending updates overnight."
+  ],
+  "killerLine": "A famous founder can raise money, but **only the product can win customers**. In phones, that means a great camera and a reason to switch.",
+  "numbers": [
+    {
+      "value": "$1B+",
+      "label": "reported valuation in August 2017",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$699",
+      "label": "launch price of the Essential Phone",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "value": "$200",
+      "label": "price cut within two months of launch",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "1/10",
+      "label": "iFixit repairability score",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Android's father builds a phone",
+      "body": "Andy Rubin co-created Android, the software that runs most of the world's phones. After leaving Google, he founded Essential Products in November 2015, backed by his own startup studio, Playground Global. The plan was bold: build **a premium phone free of clutter**, with a titanium body, a screen stretching almost to the edges, and magnetic connectors for snap-on accessories. In May 2017 he unveiled the Essential Phone and a smart-home speaker. Investors including Amazon, Tencent and Foxconn reportedly put in $300 million, and by August 2017 the company was reported to be worth **over $1 billion**, before it had sold a single phone.",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "title": "The rise: a beautiful launch, slightly late",
+      "body": "After missing its shipping dates, the Essential Phone went on sale on **17 August 2017 for $699**, with Sprint as its exclusive US carrier. Reviewers loved the design, the speed and the clean version of Android. It even worked on other US networks, not just Sprint. But the camera was a real weakness. Engadget found early low-light photos grainy and blurry, with lag when switching lenses, even after two quick software fixes. Its verdict: **\"camera buffs should look elsewhere.\"** At a price close to an iPhone or a Galaxy, a weak camera was a serious problem.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: low sales and a scandal",
+      "body": "Sales were weak. In October 2017, just two months after launch, Essential **cut the price to $499** because of low demand, giving earlier buyers a $200 code. In November 2017 the tech publication The Information reported that Rubin had left Google in 2014 after an investigation into a relationship with a woman who worked in Android. Rubin took a leave of absence from Essential, saying he needed to deal with personal matters, and returned in December. In October 2018, The New York Times reported that Google had found a misconduct claim against him credible and still paid him a **$90 million exit package**. Rubin called the reports false. Either way, the story damaged trust in the company's leader.",
+      "src": [
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The fall: no clear path",
+      "body": "In May 2018 Essential cancelled its next flagship phone and was reported to be looking for a buyer. The original phone was discontinued in December 2018. Essential bought the email app company CloudMagic (maker of Newton Mail) and in October 2019 teased **Project Gem**, a tall, narrow phone with a new interface. But the money was running low. On 12 February 2020, Essential announced it was shutting down immediately, saying there was **no clear path to deliver Gem to customers**. The Essential Phone stopped getting software and security updates. Newton Mail closed in April. In just over four years, a reported billion-dollar company had disappeared.",
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Nov 2015",
+      "event": "Andy Rubin founds Essential Products, backed by Playground Global",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2017",
+      "event": "Essential Phone and Essential Home speaker announced",
+      "kind": "start",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Aug 2017",
+      "event": "Reported $300M round; valuation reported at over $1B",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "17 Aug 2017",
+      "event": "Phone goes on sale at $699 after missed ship dates",
+      "kind": "start",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Oct 2017",
+      "event": "Price cut to $499 due to low demand",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Nov 2017",
+      "event": "Rubin takes leave after reports about his Google exit",
+      "kind": "warning",
+      "src": [
+        4,
+        6
+      ]
+    },
+    {
+      "date": "May 2018",
+      "event": "Next flagship cancelled; company reported to be for sale",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2018",
+      "event": "NYT reports Google paid Rubin a $90M exit package despite a credible misconduct claim",
+      "kind": "crisis",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Dec 2018",
+      "event": "Essential Phone discontinued",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "12 Feb 2020",
+      "event": "Essential shuts down and cancels Project Gem",
+      "kind": "end",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Feb 2021",
+      "event": "Carl Pei's Nothing acquires the Essential brand",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Aug 2017",
+      "round": "Funding round",
+      "amountUsdM": 300,
+      "valuationUsdM": 1000,
+      "investors": [
+        "Amazon",
+        "Tencent",
+        "Foxconn"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 35
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "governance",
+      "weight": 20
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Took on Apple and Samsung with one phone",
+      "explain": "Essential's first and only phone was priced at $699, right against the iPhone and Galaxy. Those giants have huge marketing budgets, store shelves and loyal users. **A newcomer needs a big reason for people to switch**, and Essential's clean design and Android experience were not enough on their own.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "Shipped with a weak camera",
+      "explain": "For most buyers, the camera is the most important part of a phone. Essential's was poor in low light, slow to switch lenses and basic in features. **Reviewers' first impressions stuck**, even after software fixes. Launching a flagship before its most important feature is ready can sink it.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Founder controversy at the top",
+      "explain": "Reports about Rubin's exit from Google forced him to take leave just three months after launch, and the 2018 New York Times story drew global attention. Rubin denied wrongdoing. Still, **when the founder is the brand, his reputation is the company's reputation**, and buyers, staff and partners notice.",
+      "src": [
+        4,
+        6
+      ]
+    },
+    {
+      "title": "Valued at $1 billion before proving demand",
+      "explain": "Essential was reported to be a unicorn before it sold a single phone. That raised expectations that no first product could easily meet. Within two months, **the price was cut by $200**, a clear sign demand was well below plan.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Hard-to-repair premium hardware",
+      "explain": "iFixit gave the phone **1 out of 10 for repairability**: heavy glue, no visible screws, and a screen that broke when removed. Premium materials raise costs and make repairs expensive, which hurts both margins and customer goodwill after sale. Customers notice when a small crack means a big bill.",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is your launch price the same as the market leader's while your product is weaker in the feature buyers care about most?",
+    "Have you missed your shipping date and still not fixed the main complaint from testers?",
+    "Did you have to cut prices within weeks of launch?",
+    "Would a scandal about one founder be enough to damage your whole company's brand?",
+    "Is your valuation based on the founder's fame rather than on sales?"
+  ],
+  "lessons": [
+    {
+      "title": "Find the feature buyers care about most and nail it",
+      "detail": "For phones it's the camera; for a food app it may be delivery time. Ask 20 target customers what decides their purchase, and don't launch until that part is excellent."
+    },
+    {
+      "title": "Don't attack giants head-on",
+      "detail": "Start in a niche the giants ignore, like a specific price band, region or user group, then expand. Ask: which customers do the big brands serve badly?"
+    },
+    {
+      "title": "Fame opens doors, not wallets",
+      "detail": "A famous founder makes fundraising and press easy. Customers still judge only the product in their hand."
+    },
+    {
+      "title": "Founder conduct is a business risk",
+      "detail": "Investors, staff and customers now treat leadership behaviour as part of a company's value. Set clear workplace rules from day one, including for founders."
+    },
+    {
+      "title": "Plan for your customers if you shut down",
+      "detail": "Essential stopped phone updates the day it closed. If you sell devices, promise and fund a minimum support period so buyers are not left exposed."
+    }
+  ],
+  "quote": {
+    "text": "There's a lot to love about the PH-1, but camera buffs should look elsewhere.",
+    "who": "Engadget review of the Essential Phone",
+    "context": "Review published a week after launch, August 2017",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Essential closed in February 2020 and Newton Mail shut that April. Andy Rubin had quietly left Playground Global in 2019 and has denied the misconduct allegations. In February 2021, Carl Pei, co-founder of OnePlus, bought the Essential brand for his new company Nothing.",
+    "src": [
+      0,
+      2,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Essential Products, with links to reports on funding, valuation and the shutdown",
+      "url": "https://en.wikipedia.org/wiki/Essential_Products"
+    },
+    {
+      "label": "Wikipedia: Essential Phone, for launch date, price cut and discontinuation",
+      "url": "https://en.wikipedia.org/wiki/Essential_Phone"
+    },
+    {
+      "label": "Android Police: Essential is dead, and so are updates to the Essential Phone (Feb 2020)",
+      "url": "https://www.androidpolice.com/2020/02/12/breaking-essential-is-dead-and-so-are-updates-to-essential-phone/"
+    },
+    {
+      "label": "Engadget: Essential Phone PH-1 review (Aug 2017)",
+      "url": "https://www.engadget.com/2017/08/24/essential-phone-ph-1-review/"
+    },
+    {
+      "label": "TechCrunch: Andy Rubin takes leave from Essential (Nov 2017)",
+      "url": "https://techcrunch.com/2017/11/29/andy-rubin-takes-leave-from-essential/"
+    },
+    {
+      "label": "iFixit: Essential Phone teardown (Aug 2017)",
+      "url": "https://www.ifixit.com/Teardown/Essential+Phone+Teardown/96764"
+    },
+    {
+      "label": "Wikipedia: Andy Rubin, summarising the NYT's October 2018 report and his response",
+      "url": "https://en.wikipedia.org/wiki/Andy_Rubin"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "How many Essential Phones were sold",
+        "note": "Reports range from about 5,000 through Sprint in the first month, to Essential's claim of six-figure sales, to a Bloomberg estimate of about 150,000. None was confirmed."
+      },
+      {
+        "claim": "Misconduct allegations against Andy Rubin",
+        "note": "Reported by The Information and The New York Times; Rubin denied them, calling them false and part of a smear campaign. Not proven in court."
+      },
+      {
+        "claim": "Funding and valuation",
+        "note": "The $300M round and $1B+ valuation come from press reports; Essential never published audited figures."
+      }
+    ]
+  }
+}

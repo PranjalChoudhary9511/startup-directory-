@@ -1,0 +1,1190 @@
+{
+  "chapters": [
+    {
+      "id": "origins",
+      "kicker": "Ages 0–12",
+      "title": "The Boy Above the Dentist's Office",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mark Zuckerberg was born in ==1984== in White Plains, New York. He grew up nearby in Dobbs Ferry, a small village in Westchester County, New York. He was the second of four children and the only boy.",
+          "src": [
+            5,
+            0,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His father, Edward, was a dentist. His mother, Karen Kempner, trained as a psychiatrist. The two met on a blind date while they were students in New York: Edward was studying dentistry at NYU and Karen was at Brooklyn College. They married in 1979 and moved to Dobbs Ferry in 1980.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The four children arrived over five years. Randi was born in 1982, Mark in 1984, Donna in 1985 and Arielle in 1987. Randi later worked at Facebook as a marketing head, Donna became a classics scholar, and Arielle became a venture capitalist.",
+          "src": [
+            4,
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Four kids. One house. And the family business was downstairs."
+        },
+        {
+          "t": "h",
+          "text": "A dental clinic on the ground floor"
+        },
+        {
+          "t": "p",
+          "text": "Here is the detail that explains a lot. Edward did not commute to an office. He ran his dental practice from the ground floor of the family home, and Karen handled the business side of it. Patients came and went below while the kids grew up above.",
+          "src": [
+            4,
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I had the unique situation of practicing in my house.",
+          "who": "Edward Zuckerberg, Mark's father, 2016",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His practice was called Painless Dr. Z, and its slogan was ==\"We cater to cowards.\"== Edward later wrote that he and Karen developed ways to treat patients who were scared of the dentist, and that Karen's psychiatry training shaped how he worked. A clinic built around nervous patients is, at heart, a business about understanding people.",
+          "src": [
+            0,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Edward also loved gadgets. He started computerizing his office in the mid-1980s, around the time Mark was born. \"My kids all grew up around the office and were all exposed to computers,\" he told a Westchester radio station in 2011.",
+          "src": [
+            2,
+            19
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the family's early Atari 800 home computer \"came with a disk for programming,\" Edward recalled. Mark also had a book on programming, but his father says that, in the end, Mark's skill was self-taught.",
+          "src": [
+            2,
+            19
+          ]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Atari-800-Computer-FL.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Atari-800-Computer-FL.jpg",
+            "caption": "An Atari 800, the kind of home computer Edward Zuckerberg says came with a programming disk. This is where the Zuckerberg kids first met code.",
+            "author": "Evan-Amos",
+            "license": "Public domain",
+            "year": 2016
+          }
+        },
+        {
+          "t": "h",
+          "text": "A computer of his own"
+        },
+        {
+          "t": "p",
+          "text": "Mark got his own computer young. His father puts it at about age 8 or 9, around the same time his older sister Randi got one. Mark himself told the Harvard Crimson he started programming when he got his first computer in sixth grade. TIME reported that he began coding on a Quantex 486DX running Windows 3.1.",
+          "src": [
+            3,
+            11,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The kids' computers and the clinic shared one internet line, so they competed for it. The office needed the connection for insurance claims, so the children had only half an hour online before office hours ended at 5 p.m. In 1996 Edward fixed it the expensive way: he wired the whole house and brought in a T-1 line, a fast business connection that he says cost about ==$150 to $200 a month==.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A dad who paid for fast internet in 1996. That's a head start."
+        },
+        {
+          "t": "p",
+          "text": "By about 12, his father says, Mark had full-time internet access and could talk to the other computers in the house. Randi, about two and a half years older, had been given a computer at around the same time as Mark. Edward's view was simple: \"There are advantages to being exposed to computers early on.\"",
+          "src": [
+            3,
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "ZuckNet: the first network he built"
+        },
+        {
+          "t": "p",
+          "text": "Around age 12, Mark built a home network he called ZuckNet. It let the computers in the house and in the dental office send messages to each other. A professional did the physical wiring; Mark wrote the software that made the machines talk.",
+          "src": [
+            1,
+            3
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: instead of shouting across the house, the front desk could send a message that a patient had arrived, and the hygienist could ping that a room was ready. Edward says the office used ZuckNet this way in 1996.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Edward likes to call ZuckNet ==\"the world's first social media network, theoretically.\"== That is a proud father talking, not a historian. But the real point is simpler. __Mark's first program was not a game or a homework tool. It was a way for people in one building to talk to each other.__",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "He learned the meaning of people being social and interacting with each other at a very early age.",
+          "who": "Edward Zuckerberg on Mark, 2016",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What he was like at 5 and at 10"
+        },
+        {
+          "t": "p",
+          "text": "Ask his father what young Mark was like and you get two words: ==\"strong-willed and relentless.\"== Edward added a line that every parent of a stubborn kid will recognise.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "For Mark, if he asked for something, yes by itself would work, but no required much more.",
+          "who": "Edward Zuckerberg, to TIME, 2010",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That stubbornness came with a playful streak. Mark and his older sister Randi liked pranks and home-made movies, as the next chapter shows. His father described him as a good student with \"a special affinity for math and sciences,\" and as humble and quiet.",
+          "src": [
+            1,
+            2,
+            19
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Strong-willed and quiet. Not the loud kid. The relentless one."
+        },
+        {
+          "t": "p",
+          "text": "Edward's own parenting rule was not to push his children down one path. He told callers on that 2011 radio show that the job of a parent is \"to recognize what their strengths are and support their strengths,\" with a balance of work and play. For Mark, the strength was obvious early: computers.",
+          "src": [
+            2,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It also mattered that the family had money and time to spare. Years later Mark said so himself. \"My parents worked really hard to make sure me and my sisters could go to good schools,\" he told People magazine.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "1984",
+              "label": "Born in White Plains, New York; raised in Dobbs Ferry",
+              "src": [
+                5,
+                0
+              ]
+            },
+            {
+              "value": "4",
+              "label": "Children in the family: Randi, Mark, Donna, Arielle",
+              "src": [
+                4
+              ]
+            },
+            {
+              "value": "1996",
+              "label": "House wired with a T-1 line; ZuckNet links home and clinic",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "~12",
+              "label": "Mark's age when he built ZuckNet",
+              "src": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1979",
+              "text": "Edward Zuckerberg and Karen Kempner marry.",
+              "src": [
+                4
+              ]
+            },
+            {
+              "when": "1980",
+              "text": "The couple move to Dobbs Ferry, New York; Edward's dental clinic runs from their home.",
+              "src": [
+                4
+              ]
+            },
+            {
+              "when": "1982",
+              "text": "Older sister Randi is born.",
+              "src": [
+                4
+              ]
+            },
+            {
+              "when": "1984",
+              "text": "Mark is born in White Plains, New York.",
+              "src": [
+                5,
+                4
+              ]
+            },
+            {
+              "when": "Mid-1980s",
+              "text": "Edward computerizes his dental office, years ahead of most small practices.",
+              "src": [
+                2,
+                19
+              ]
+            },
+            {
+              "when": "c. 1992–96",
+              "text": "Mark gets his first computer (age 8–9 by his father's account, sixth grade by his own).",
+              "src": [
+                3,
+                11
+              ]
+            },
+            {
+              "when": "1996",
+              "text": "The house gets a T-1 line; Mark's ZuckNet lets the home and clinic message each other.",
+              "src": [
+                3,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So by 12, the pattern was already set. A boy who lived above a busy clinic, surrounded by computers his father paid for, had written software whose whole purpose was to connect people. He did not yet know that this was a business. He just thought it was fun.",
+          "src": [
+            3,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There is an honest lesson here for any young reader. Mark's start was not a rags-to-riches story. He had two professional parents, a computer at home before most kids, and a father who treated technology as part of the family business. __Talent mattered, but so did access. If you lack the access, the fix is to find it: a library, a school lab, a friend's machine, a free online course.__",
+          "src": [
+            4,
+            3,
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Lesson: notice what you build for fun. It's often your real talent."
+        }
+      ]
+    },
+    {
+      "id": "growing-up",
+      "kicker": "Ages 13–18",
+      "title": "Games, Latin and a Music Robot",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "At 13, Mark had a Star Wars-themed bar mitzvah. It fits. His teenage years were a mix of science fiction, video games and building things on his computer late into the night.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He and his sister Randi made their own movies. One winter break they filmed a home-made Star Wars parody they called ==The Star Wars Sill-ogy==. Their younger sister played the robot R2-D2. \"We took our job very seriously,\" Randi told TIME.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: on New Year's Eve 1999, when many adults feared the \"Y2K bug\" would crash computers at midnight, Mark, then 15, and Randi switched off the house's power right at midnight. Their parents were worried about exactly that.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fifteen, and already pranking adults about computers crashing."
+        },
+        {
+          "t": "h",
+          "text": "Some kids played games. Mark wrote them."
+        },
+        {
+          "t": "p",
+          "text": "Mark's real hobby was writing his own games. He wrote a computer version of Monopoly set at his middle school. He also wrote a version of the board game Risk set in the ancient Roman Empire, which he later called the first serious program he ever designed.",
+          "src": [
+            1,
+            11
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "You played against Julius Caesar. He was good, and I was never able to win.",
+          "who": "Mark Zuckerberg, Harvard Crimson, 2004",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "How did he learn? His first formal lesson came from a book, ==C++ For Dummies==. But he told the Crimson that most of what he knew came from friends. __He learned by building things he wanted to use, and by asking people who knew more.__",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "No bootcamp. One 'Dummies' book and friends. Start with what you have."
+        },
+        {
+          "t": "p",
+          "text": "He also had heroes. One childhood hero was Justin Frankel, the programmer who created the Winamp music player. Keep that name in mind. Mark's first famous project would be built as a Winamp plug-in.",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Outgrowing the local school"
+        },
+        {
+          "t": "p",
+          "text": "Mark went to Ardsley High School, the public school near home, until his junior year. He felt it was too small for what he wanted to learn.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "[Ardsley] didn't have a lot of computer courses or a lot of the higher math courses.",
+          "who": "Mark Zuckerberg, Harvard Crimson, 2004",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So at about 16 he transferred to Phillips Exeter Academy, an old and famous boarding school in New Hampshire. Here is the surprise. He did not pick Exeter for its computers. ==Its biggest selling point for him was the Latin program.== He even planned to study classics, the languages and history of ancient Greece and Rome, at Harvard before he changed course.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Phillips_Exeter_Academy_building.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Phillips_Exeter_Academy_building.jpg",
+            "caption": "The Academy Building at Phillips Exeter Academy in New Hampshire. Mark transferred here for his last two years of school, drawn by its Latin program.",
+            "author": "Transmarinus at English Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "year": 2007
+          }
+        },
+        {
+          "t": "p",
+          "text": "At Exeter he stood out for two things that have nothing to do with code: ancient languages and fencing. The love of Rome stuck. Remember, his first big game was set in the Roman Empire, and he played against Caesar.",
+          "src": [
+            1,
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A coder who chose a school for Latin. Interests can mix."
+        },
+        {
+          "t": "p",
+          "text": "The move itself is worth noticing. At 16, Mark decided his school was holding him back and left home for a tougher one. __When your environment runs out of things to teach you, changing it is a real decision, not a failure.__",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Synapse: the music player that learned your taste"
+        },
+        {
+          "t": "p",
+          "text": "In his senior year at Exeter, Mark did an independent project with a classmate, Adam D'Angelo. Together they built ==Synapse==, a music player that watched what you listened to and learned your taste. Then it built playlists of songs you were likely to enjoy. They gave it away free as a plug-in for Winamp, the player made by Mark's hero.",
+          "src": [
+            11,
+            6
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: you play a few songs you love, the software spots the pattern, and it lines up similar tracks for you. Two teenagers at a boarding school built that idea around 2002, using machine learning.",
+          "src": [
+            11,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In April 2003 the tech news site Slashdot posted about the project under the headline \"Machine Learning and MP3s.\" Big companies noticed. TIME reported that AOL and Microsoft both tried to buy Synapse for around ==$1 million==. The Crimson reported that Winamp was interested too, and that a second offer reached about $2 million.",
+          "src": [
+            15,
+            1,
+            11
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Some companies offered us right off the bat up to one million.",
+          "who": "Mark Zuckerberg, Harvard Crimson, 2004",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Taking the deal would have meant skipping college to keep working on the product. Mark and Adam said no. Mark chose Harvard instead.",
+          "src": [
+            1,
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came a twist. After they started college, the two decided they would sell after all. But by then the buyer had lost interest, and the deal was gone. __A hot offer has a short shelf life. If you say no, say no because you have a better plan, not because you expect the offer to wait.__",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We were pretty naïve about it.",
+          "who": "Mark Zuckerberg on the Synapse offers, 2004",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. He walked away from a million at 18."
+        },
+        {
+          "t": "p",
+          "text": "He took a lesson from it. By 2004 he said he kept a lawyer for his products, so he would not be so naive again. He also kept Adam D'Angelo as a close friend.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The email from Harvard"
+        },
+        {
+          "t": "p",
+          "text": "Near the end of his time at Exeter, the Harvard admissions email arrived. Mark later told Harvard's graduates exactly where he was that day.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I was playing Civilization and I ran downstairs, got my dad, and for some reason, his reaction was to video me opening the email.",
+          "who": "Mark Zuckerberg, Harvard Commencement, 2017",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He got in. \"That could have been a really sad video,\" he joked. He also said that getting into Harvard was still the thing his parents were most proud of him for, even after everything else he did.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~16",
+              "label": "Age when he left Ardsley High for Phillips Exeter Academy",
+              "src": [
+                11
+              ]
+            },
+            {
+              "value": "Latin",
+              "label": "His main reason for choosing Exeter",
+              "src": [
+                11
+              ]
+            },
+            {
+              "value": "~$1M",
+              "label": "Reported offers from AOL and Microsoft for Synapse",
+              "src": [
+                1,
+                11
+              ]
+            },
+            {
+              "value": "0",
+              "label": "Dollars he made from Synapse after turning the offers down",
+              "src": [
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "c. 1997",
+              "text": "Star Wars-themed bar mitzvah at about 13.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "Middle school",
+              "text": "Writes a Monopoly game set at his school and a Roman Empire version of Risk.",
+              "src": [
+                1,
+                11
+              ]
+            },
+            {
+              "when": "31 Dec 1999",
+              "text": "Mark and Randi cut the house's power at midnight as a Y2K prank.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "c. 2000",
+              "text": "Leaves Ardsley High in junior year and moves to Phillips Exeter Academy.",
+              "src": [
+                11
+              ]
+            },
+            {
+              "when": "2001–02",
+              "text": "Senior-year project: Synapse music player with Adam D'Angelo.",
+              "src": [
+                11,
+                6
+              ]
+            },
+            {
+              "when": "2002",
+              "text": "Turns down the Synapse offers and heads to Harvard.",
+              "src": [
+                1,
+                11
+              ]
+            },
+            {
+              "when": "Apr 2003",
+              "text": "Slashdot features Synapse; the buyers' interest later fades.",
+              "src": [
+                15,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Look at the teenage Mark as a whole. He wasn't a lonely genius in a basement. He made movies with his sister, pranked his parents, fenced and read Latin. But one thread ran through all of it. He kept building things, giving them away, and watching how people used them.",
+          "src": [
+            1,
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Lesson: ship small things often. Synapse got noticed because it was public."
+        }
+      ]
+    },
+    {
+      "id": "first-steps",
+      "kicker": "Ages 18–20",
+      "title": "Harvard, a Prank and a Week of Code",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mark arrived at Harvard in the autumn of 2002 as a member of the class of 2006. He studied computer science. Fifteen years later, Harvard's student paper noted that his very first class there was CS 121, a computer science course taught by Harry Lewis, a former dean of the college.",
+          "src": [
+            6,
+            5,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In his second year he lived in Kirkland House, one of Harvard's undergraduate houses. His dorm room there became the most famous dorm room in tech history.",
+          "src": [
+            12,
+            13
+          ]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kirkland_House.JPG",
+            "page": "https://commons.wikimedia.org/wiki/File:Kirkland_House.JPG",
+            "caption": "Kirkland House at Harvard. Mark launched thefacebook.com from his dorm room here in February 2004.",
+            "author": "Bostonian13",
+            "license": "CC BY-SA 3.0",
+            "year": 2013
+          }
+        },
+        {
+          "t": "h",
+          "text": "Side project one: CourseMatch"
+        },
+        {
+          "t": "p",
+          "text": "At the start of his sophomore year, in the autumn of 2003, he built a site called CourseMatch. Students could choose to share which courses they were taking, so you could see who else was in your classes.",
+          "src": [
+            6,
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It was a small tool. But it planted an idea: people care a lot about who else is around them. That idea was later folded straight into thefacebook.com.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Small tools teach you what people really want. CourseMatch did."
+        },
+        {
+          "t": "p",
+          "text": "CourseMatch was not alone. The Crimson later listed other Zuckerberg experiments from this period that never launched: a screensaver that showed your friends' AOL Instant Messenger away messages, and software to keep music in sync across computers. He even dreamed of getting all of Harvard to play the same song at the same moment. He never did it.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Notice the theme. An away message is a tiny public status update. A shared song is a shared moment. Almost every one of these toys was about seeing what other people were doing, right now.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Side project two: Facemash, and the trouble it caused"
+        },
+        {
+          "t": "p",
+          "text": "On a Tuesday night in late October 2003, Mark was bored. At ==8:13 p.m.== he started a new project and wrote about it as he went in an online journal. The idea copied a site called Hot or Not: show two students' photos side by side and let visitors vote on who was more attractive.",
+          "src": [
+            6,
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "To get the photos, he broke into the online student directories, called facebooks, that Harvard's houses kept. He started with Kirkland and went through the houses one by one. Just before 1 a.m. he posted, ==\"Let the hacking begin.\"== He called the hacking \"child's play.\" By around 4 a.m. he had the photos, and the site was done just before 7:30 a.m. on Halloween.",
+          "src": [
+            6,
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He sent the link to a few friends for feedback. It spread to mailing lists, including the Institute of Politics. Traffic more than quadrupled within hours. His computer slowed so badly that it was stuck on its screen saver.",
+          "src": [
+            7,
+            6
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~450",
+              "label": "Visitors to Facemash before it was shut down",
+              "src": [
+                6,
+                8
+              ]
+            },
+            {
+              "value": "22,000+",
+              "label": "Votes cast on photos",
+              "src": [
+                6,
+                8
+              ]
+            },
+            {
+              "value": "3",
+              "label": "Charges at the Ad Board: security, copyright, privacy",
+              "src": [
+                8
+              ]
+            },
+            {
+              "value": "0",
+              "label": "Days he was forced to leave Harvard",
+              "src": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The backlash was fast and fair. Student groups including Fuerza Latina and the Association of Black Harvard Women criticised the site, because students' photos were being used and ranked without their permission. Mark shut it down and emailed apologies to both groups.",
+          "src": [
+            6,
+            8
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I hope you understand, this is not how I meant for things to go, and I apologize for any harm done",
+          "who": "Mark Zuckerberg, quoted in the Harvard Crimson, Nov 2003",
+          "src": [
+            6
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Harvard's Administrative Board, its main disciplinary body, called him in. It accused him of breaching security, violating copyrights and violating individual privacy. The outcome: he was not forced to withdraw or leave school for any length of time. He would not say whether he got a smaller penalty.",
+          "src": [
+            8,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His own words at the time show both sides of him. He said his real interest was \"the algorithms and math behind it.\" He also said, \"Issues about violating people's privacy don't seem to be surmountable,\" and that he was \"not willing to risk insulting anyone.\" __He was brilliant at building, and careless about the people inside what he built. That tension would follow him for twenty years.__",
+          "src": [
+            6,
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important: speed without consent creates enemies. Remember this one."
+        },
+        {
+          "t": "h",
+          "text": "The going-away party"
+        },
+        {
+          "t": "p",
+          "text": "Facemash had an unexpected side effect. Everyone expected the worst from the Ad Board. As he tells it, his parents came to help him pack, and his friends threw him a going-away party. A student named Priscilla Chan was at that party with a friend.",
+          "src": [
+            13,
+            14
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I'm going to get kicked out in three days, so we need to go on a date quickly.",
+          "who": "Mark Zuckerberg, recalling meeting Priscilla Chan, Harvard Commencement 2017",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He was not kicked out. Priscilla later became his wife, and he told Harvard's 2017 graduates she was the most important person in his life. He also pushed back on the Hollywood version of these months: the movie, he said, made it seem like Facemash was central to creating Facebook, and it wasn't.",
+          "src": [
+            13,
+            14
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A gap nobody at Harvard was filling"
+        },
+        {
+          "t": "p",
+          "text": "Here is the business gap. In late 2003 Harvard had no single online directory of all its students. Each house kept its own restricted version. The university said it wanted a campus-wide one, but privacy worries had slowed it down, and Facemash had made those worries worse. In December an official admitted, \"No staff or technical resources have been assigned yet.\"",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Meanwhile, three seniors, the twins Cameron and Tyler Winklevoss and Divya Narendra, asked Mark to help program their own site for Harvard students, later called ConnectU. He worked on it briefly, then left. Soon after, his own site launched. The three later sued, claiming he stole their idea; Mark denied it and called their claims baseless.",
+          "src": [
+            11,
+            17
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example of how that dispute ended: the two sides eventually signed a settlement in which the Winklevosses gave up ConnectU in exchange for cash and a piece of Facebook. When they later tried to undo it, a US appeals court refused in April 2011.",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "h",
+          "text": "One week of code"
+        },
+        {
+          "t": "p",
+          "text": "Early in 2004, Mark sat down to build the directory himself. He wanted something better than a phone book with faces. Students would make profiles, list their classes and interests, and connect with friends. He took inspiration from Friendster, an early social network. Money came from a classmate, Eduardo Saverin, who put in ==$1,000==, enough to keep the servers running for about two months.",
+          "src": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He almost didn't launch it. He told the Crimson that if he hadn't launched it that day, he was ready to drop it and move on. Then, on ==4 February 2004==, a Wednesday, he put thefacebook.com live from his Kirkland House room. He was 19.",
+          "src": [
+            11,
+            12,
+            10,
+            0
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If I hadn't launched it that day, I was about to just can it and go on to the next thing I was about to do.",
+          "who": "Mark Zuckerberg, Harvard Crimson, 2004",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That night he went to Noch's, a spot near campus, with his friend KX Jin. He told KX he was excited to connect Harvard, but that one day someone would connect the whole world. It never crossed his mind that the someone might be them. \"We were just college kids,\" he said later.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was 19, eating pizza, and didn't think he'd be the one."
+        },
+        {
+          "t": "p",
+          "text": "Within days, more than ==650 students== had signed up, and he expected about 900 by the next morning. He told the Crimson he could build in a week what the university had not managed in years. He added privacy controls so users could choose who saw their profile, and promised he would not sell anyone's email address.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I think it's kind of silly that it would take the University a couple of years to get around to it. I can do it better than they can, and I can do it in a week.",
+          "who": "Mark Zuckerberg, Harvard Crimson, 9 Feb 2004",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also explained, in one sentence, why the site would grow on its own: \"The nature of the site is that each user's experience improves if they can get their friends to join it.\" __That is the network effect, described by a 19-year-old five days after launch.__ Every new user made the site more useful for everyone already on it.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: by June 2004, four months after launch, thefacebook.com had almost 160,000 members at colleges across the US. His roommate Dustin Moskovitz helped him open it to more schools.",
+          "src": [
+            11,
+            12
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Not a company yet"
+        },
+        {
+          "t": "p",
+          "text": "In those first months Mark kept saying he was not in it for money. A few ads ran on the site, he said, only because \"servers don't grow on trees.\" When the Crimson asked about his ambitions, he gave a very student answer: \"My goal is to not have a job.\" Eight years later, his letter to Facebook's first public investors began: \"Facebook was not originally created to be a company.\"",
+          "src": [
+            11,
+            16
+          ]
+        },
+        {
+          "t": "p",
+          "text": "One odd footnote: the Crimson reported that Mark got a C+ in a Harvard course on artificial intelligence. And TIME reported that one of his AI instructors at Harvard was Andrew \"Boz\" Bosworth, who later joined Facebook and rose to become one of its top engineering leaders.",
+          "src": [
+            12,
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A C+ in AI. Grades are not destiny."
+        },
+        {
+          "t": "h",
+          "text": "The summer that changed the plan"
+        },
+        {
+          "t": "p",
+          "text": "In June 2004 Mark and a few friends rented a summer sublet in Palo Alto, California, near Stanford and the big venture capital firms. The plan was a summer of work on their projects, with school due to start again in the autumn. Silicon Valley had a pull on him. \"Palo Alto was kind of like this mythical place where all the techs used to come from,\" he said.",
+          "src": [
+            12,
+            18
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He never went back to class. Looking back, he said it was \"never a formal decision\"; the team simply did not return. Harvard's most famous dropout had just begun. And he was honest, years later, about the safety net that made the risk possible.",
+          "src": [
+            12,
+            18
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If I had to support my family growing up instead of having time to code, if I didn't know I'd be fine if Facebook didn't work out, I wouldn't be standing here today.",
+          "who": "Mark Zuckerberg, Harvard Commencement, 2017",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/MarkZuckerberg.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:MarkZuckerberg.jpg",
+            "caption": "Mark Zuckerberg in November 2005, aged 21, about a year after the summer move to California.",
+            "author": "Elaine Chan and Priscilla Chan",
+            "license": "CC BY 2.5",
+            "year": 2005
+          }
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Autumn 2002",
+              "text": "Starts at Harvard, class of 2006; first class is CS 121.",
+              "src": [
+                6,
+                14
+              ]
+            },
+            {
+              "when": "Autumn 2003",
+              "text": "Builds CourseMatch at the start of sophomore year.",
+              "src": [
+                6
+              ]
+            },
+            {
+              "when": "Late Oct 2003",
+              "text": "Builds Facemash overnight; shuts it down after protests.",
+              "src": [
+                6,
+                7
+              ]
+            },
+            {
+              "when": "Nov 2003",
+              "text": "Ad Board hearing on security, copyright and privacy; he is not forced to leave.",
+              "src": [
+                8
+              ]
+            },
+            {
+              "when": "Dec 2003",
+              "text": "Harvard's own campus-wide directory is stalled.",
+              "src": [
+                9
+              ]
+            },
+            {
+              "when": "4 Feb 2004",
+              "text": "Launches thefacebook.com from Kirkland House, aged 19.",
+              "src": [
+                12,
+                11
+              ]
+            },
+            {
+              "when": "Jun 2004",
+              "text": "Moves to Palo Alto for the summer; never returns to classes.",
+              "src": [
+                12,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Put these years together and a clear pattern shows. Mark did not have one lucky idea. He built ZuckNet, games, Synapse, CourseMatch and Facemash before Facebook, and each one taught him something about people and software. The real company, and the real fights, were about to begin.",
+          "src": [
+            1,
+            3,
+            11,
+            6
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Six projects before the big one. Keep building."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "TIME, Person of the Year 2010: Mark Zuckerberg, by Lev Grossman (15 Dec 2010), page 1",
+      "url": "https://content.time.com/time/specials/packages/article/0,28804,2036683_2037183_2037185,00.html"
+    },
+    {
+      "label": "TIME, Person of the Year 2010: Mark Zuckerberg, by Lev Grossman (15 Dec 2010), page 2",
+      "url": "https://content.time.com/time/specials/packages/article/0,28804,2036683_2037183_2037185-2,00.html"
+    },
+    {
+      "label": "Associated Press (Beth J. Harpaz) via Salon: Zuckerberg's dad on raising Mark, WVOX radio interview (4 Feb 2011)",
+      "url": "https://www.salon.com/2011/02/04/mark_zuckerberg_dad_interview"
+    },
+    {
+      "label": "Dental Products Report: In Zuckerberg Family, One Tech Pioneer Leads to Another (29 Nov 2016)",
+      "url": "https://dentalproductsreport.com/view/in-zuckerberg-family-one-tech-pioneer-leads-to-another"
+    },
+    {
+      "label": "People, via Yahoo News: All About Mark Zuckerberg's Parents, Edward Zuckerberg and Karen Kempner-Zuckerberg (Julie Tremaine, 2 Sep 2023)",
+      "url": "https://uk.news.yahoo.com/mark-zuckerbergs-parents-edward-zuckerberg-100000716.html"
+    },
+    {
+      "label": "Meta: Mark Zuckerberg executive biography (official)",
+      "url": "https://www.meta.com/media-gallery/executives/mark-zuckerberg/"
+    },
+    {
+      "label": "The Harvard Crimson: Hot or Not? Website Briefly Judges Looks (4 Nov 2003)",
+      "url": "https://www.thecrimson.com/article/2003/11/4/hot-or-not-website-briefly-judges/"
+    },
+    {
+      "label": "The Harvard Crimson: Face Off (6 Nov 2003)",
+      "url": "https://www.thecrimson.com/article/2003/11/6/face-off-computer-guru-mark-e/"
+    },
+    {
+      "label": "The Harvard Crimson: Facemash Creator Survives Ad Board, by Katharine A. Kaplan (19 Nov 2003)",
+      "url": "https://www.thecrimson.com/article/2003/11/19/facemash-creator-survives-ad-board-the/"
+    },
+    {
+      "label": "The Harvard Crimson: College Inches Toward Campus-Wide Facebook (9 Dec 2003)",
+      "url": "https://www.thecrimson.com/article/2003/12/9/college-inches-toward-campus-wide-facebook-students/"
+    },
+    {
+      "label": "The Harvard Crimson: Hundreds Register for New Facebook Website (9 Feb 2004)",
+      "url": "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/"
+    },
+    {
+      "label": "The Harvard Crimson: Mark E. Zuckerberg '06: The whiz behind thefacebook.com, by Michael M. Grynbaum (10 Jun 2004)",
+      "url": "https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/"
+    },
+    {
+      "label": "The Harvard Crimson: Business, Casual, by Kevin J. Feeney (24 Feb 2005)",
+      "url": "https://www.thecrimson.com/article/2005/2/24/business-casual-a-year-ago-mark/"
+    },
+    {
+      "label": "Harvard Gazette: Mark Zuckerberg's Commencement address at Harvard, as written (25 May 2017)",
+      "url": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/"
+    },
+    {
+      "label": "The Harvard Crimson: Zuckerberg Asks Graduates to Create 'Purpose' in the World (26 May 2017)",
+      "url": "https://www.thecrimson.com/article/2017/5/26/mark-zuckerberg-commencement-speech/"
+    },
+    {
+      "label": "Slashdot: Machine Learning and MP3s (21 Apr 2003)",
+      "url": "http://slashdot.org/articles/03/04/21/110236.shtml"
+    },
+    {
+      "label": "Facebook, Inc. Form S-1 registration statement, incl. Letter from Mark Zuckerberg (SEC, filed 1 Feb 2012)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm"
+    },
+    {
+      "label": "US Court of Appeals, Ninth Circuit: Facebook, Inc. v. Pacific Northwest Software (ConnectU), opinion by Chief Judge Kozinski (11 Apr 2011)",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2011/04/11/08-16745.pdf"
+    },
+    {
+      "label": "Associated Press (David Klepper) via Christian Science Monitor: Mark Zuckerberg, Harvard dropout, returns to open arms (9 Nov 2011)",
+      "url": "https://www.csmonitor.com/Innovation/Latest-News-Wires/2011/1109/Mark-Zuckerberg-Harvard-dropout-returns-to-open-arms"
+    },
+    {
+      "label": "CBS News / Associated Press: Zuckerberg's dad: Mark got computer exposure young (Feb 2011)",
+      "url": "https://www.cbsnews.com/news/zuckerberg-dad-mark-got-computer-exposure-young"
+    }
+  ],
+  "factCheck": {
+    "method": "Every sentence traces to contemporaneous Harvard Crimson reporting (2003–2005), Mark Zuckerberg's own words (Harvard Commencement 2017 transcript in the Harvard Gazette, Crimson interviews, the 2012 SEC S-1 founder letter), his father's on-record interviews (AP 2011 radio interview, Dental Products Report 2016, TIME 2010), TIME's 2010 Person of the Year profile, People (2023), Meta's official biography, a Ninth Circuit opinion (2011) and AP. Wikipedia was used only as a map of leads and is never cited. Quotes were checked against the fetched source text. Photos are from Wikimedia Commons with author and licence taken from the Commons API.",
+    "disputed": [
+      {
+        "claim": "When Mark got his first computer",
+        "note": "His father says about age 8 or 9 (Dental Products Report, 2016); Mark told the Harvard Crimson (2004) he got it in sixth grade. TIME (2010) says he started on a Quantex 486DX; his father also describes the family's older Atari 800, which came with a programming disk. Both versions are given with attribution."
+      },
+      {
+        "claim": "Size of the Synapse offers",
+        "note": "TIME (2010) says AOL and Microsoft offered around $1 million. The Harvard Crimson (2004) reports offers 'up to one million', then a second offer of about $2 million, citing Mark. No buyer has confirmed the amounts; treated as reported figures."
+      },
+      {
+        "claim": "When Synapse was built",
+        "note": "The Crimson (Nov 2003, Jun 2004) says it was a senior-year project at Exeter (2001–02); the Slashdot post that made it famous is dated April 2003, when Mark was already at Harvard. Both are consistent if the post came after the project was built."
+      },
+      {
+        "claim": "Facemash traffic: '450 visitors in first four hours' vs '450 visitors by shutdown'",
+        "note": "The Crimson's June 2004 profile says 450 visitors in the first four hours; the Crimson's Nov 2003 news reports (closer to the event) say about 450 visitors had cast at least 22,000 votes by the time it was taken down. The book uses the Nov 2003 version."
+      },
+      {
+        "claim": "ZuckNet date and age",
+        "note": "TIME says Mark built ZuckNet at 12; his father dates its office use to 1996, when Mark was 11–12. Some later accounts say 'about eleven'. Written as 'around age 12'."
+      },
+      {
+        "claim": "ZuckNet as 'the world's first social media network'",
+        "note": "This is Edward Zuckerberg's own proud description, not an established fact; it is quoted and labelled as his claim."
+      }
+    ]
+  }
+}

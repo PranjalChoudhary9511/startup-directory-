@@ -1,0 +1,207 @@
+ 
+ Larrabee canceled: Intel concedes discrete graphics to NVIDIA, AMD...for now - PC Perspective 
+ TRENDING: 
+ The Thermaltake Capo X Fits Two Unaffordable Systems Into One Case 
+ Alienware AW3225QF 4K QD-OLED Monitor Review 
+ RTINGS Simulated 10 Year TV Torture Test Is Coming To An End 
+ -->
+ News 
+ Reviews 
+ Articles 
+ Podcasts 
+ Categories Close
+ Hot Topics 
+ CES 2026: Intel Launches Core Ultra 3 Series "Panther Lake" Processors Wed. Jan, 7 | 8 
+ Thrustmaster Hypercar Wheel Add-On Review Wed. Aug, 20 | 12 
+ AOL Discontinues Dial-Up ... Wait, What? Mon. Aug, 11 | 7 
+ Cases and Cooling – To protect and flow. 
+ Chipsets – North. South. Anywhere. 
+ Displays – Look at all the pretty pixels. 
+ Editorial – Our thoughts. You should read them. 
+ General Tech – Tech *all* the things. 
+ Graphics Cards – Push the little pixels and make them dance. 
+ Memory – Now, where did I leave my keys? 
+ Mobile – It’s everywhere you are. 
+ Motherboards – What lurks at the bottom of the build. 
+ Networking – Is this really just a series of tubes? 
+ Processors – Where bits go to collide. 
+ Shows and Expos – PCPer Road Trip! 
+ Storage – A place for your stuff. 
+ Systems – Do these pieces fit? 
+ Close
+ HW Leaderboard 
+ PCPer Live 
+ Larrabee canceled: Intel concedes discrete graphics to NVIDIA, AMD&#8230;for now
+ Posted by Ryan Shrout | Dec 5, 2009 | Graphics Cards | 0 
+ Manufacturer: Intel 
+ Late week announcement made
+ Intel made a surprise announcement on Friday that it was basically canceling the current version of the Larrabee project, the discrete GPU that Intel has been talking about since early 2007. While the project lives on and the team continues to push for many-core x86 designs for GPUs in the future, it looks like that just got a whole lot later.
+If you read PC Perspective or listen to our wildly popular podcast , you have heard the name "Larrabee" pop up more than its fair share. That was the codename for the project Intel announced way back in February 2007 that's goal was to compete with the likes of NVIDIA and ATI in the
+world of discrete graphics. Intel's direction was somewhat
+revolutionary for a GPU in that it was going to use many small, but
+standard, x86 cores with custom vector processing units rather than
+traditional GPU shaders and depend on a dedicated software stack to
+make it all work. 
+ In August of 2008 we got our first juicy details about the
+architecture, how it would, what the software engineers had to
+undertake, etc. The architectural preview we posted then will probably be of great interest to you, even today, so be sure to check it out. 
+ An early diagram of Larrabee 
+ The
+highlights of the architecture included IA x86 cores with additional
+vector units, dedicated hardware for texturing (the only real dedicated
+GPU hardware on the chip), a large L2 cache and a ring bus memory
+controller. We never got much more detail than this, even as months
+turned into years: nothing on core counts, frequencies, performance &#8211;
+nada. 
+ So today's announcement was not SO surprising. To be fair, Intel is not canceling the entire Larrabee project ,
+they are just basically admitting that the first iteration of this
+architecture was not going to be released in any retail form. That
+means the chip will be relegated to power internal development systems
+at Intel and some trusted software partners machines as well to pave
+the way for future many-core software development. If you were excited
+about the prospect of getting 48 x86 cores on an add-in card for your
+computer, you'll be waiting quite a bit longer now. 
+ Former Intel Exec Pat Gelsinger holding up a Larrabee wafer 
+ With
+Intel officially calling this a "delay" rather than a scrubbing of the
+entire idea, we have to wonder WHAT would cause Intel to admit defeat
+now? There are only a couple of possible reasons: hardware or
+software. The hardware could quite simply just not have been fast
+enough and reasonable power levels for a consumer product. Would Intel
+need more efficient x86 cores or did they realize too late that they
+needed more cores than they could fit on a die with today's process
+technology? The software was also mind-numbingly complex: creating a
+software renderer that would be backwards compatible with DX9/10/11
+software and convert it to x86-ready code while being much more
+efficient than any other software renderer has been to date. Did
+Intel's software team just over promise and under deliver when it came
+down to crunch time? 
+ Intel
+is trying to do what 3DLabs attempted with the P10 all those years
+back. A fully programmable rendering pipeline. AMD and NVIDIA
+currently use the DX8-DX10 style pipeline with programmable portions
+sandwiched between fixed function units (which is not necessarily a bad
+thing when talking about performance in these apps). 
+ There
+are all questions that of course Intel wouldn't reply to &#8211; only that a
+combination of hardware and software concerns caused Intel to delay the
+Larrabee project as a consumer product until sometime in the future. 
+You will likely hear NOTHING from Intel about this project until they
+have a firm grasp on the situation &#8211; it was the mouth of a former Intel
+exec that promised to "beat the GPU guys at their own game" that raised
+expectations to a fever pitch very early. Obviously too early. I
+wouldn't expect to hear anything until IDF of 2010 &#8211; if even then. 
+ Single Larrabee core diagram 
+ There a couple of groups really loving this news: NVIDIA and AMD. 
+Both of these companies have to be letting out a big sigh of relief
+knowing that Intel has officially gone back into caves of the graphics
+world for at least another couple of years. For AMD that means that
+Intel will have no way to compete with Fusion (GPU + CPU) products for
+quite some time and for NVIDIA, well, you have another span of time
+where you don't have the largest chip designer in the world breathing
+down your neck. 
+ Intel demoed Larrabee for the first time at IDF in September 2009 
+ Another interesting note about the Larrabee issues and the recently discussed Intel 48-core Single-chip Cloud Computing CPU :
+according to Intel the two are completely unrelated, despite the
+similarities at first glance. Even though they are both many-core
+processor designs the real goal of the SCC chip was to test Intel's
+theories on inter-chip mesh communications and working with a
+multi-core CPU without a shared cache structure. Apparently all they
+had in common was an x86 core based architecture.
+ Are we disappointed? Absolutely. But am I completely shocked? 
+Not really. Intel always had an uphill battle to compete with NVIDIA
+and AMD in the GPU world and the delays of the Larrabee design put them
+so far behind that they would have likely never caught up to the
+performance of the Evergreen or Fermi families from their competition. 
+Knowing that, it was probably the better choice to admit defeat and go
+back to the drawing board rather than release a part that simply
+couldn't hold its own in such a competitive market. We had always
+given Intel the benefit of the doubt when it came to the company's
+ability to create a completely new GPU architecture and re-engineer the
+software stack for graphics as well &#8211; but it seems now that we have
+been fooled. "Fool me once, shame on you. Fool me &#8211; you can't get
+fooled again&#8230;"
+ Further Reading: 
+ Larrabee New Instruction set gives developers first glimpse of new GPU 
+ Intel's Larrabee Architecture 
+ Intel IDF Preview: Tukwilla, Dunnington, Nehalem and Larrabee 
+ IDF 2009: Two more Larrabee videos shown 
+ Live from IDF: Maloney keynote and first Larrabee demonstration!! 
+ Larrabee now needs HD decoders to keep up 
+ First Look at Larrabee Wafer 
+ Share:
+ Video News
+ Previous Lord Grey's Cup was handed out for the first time, 90 years ago 
+ Next NZXT Panzerbox Aluminum Mid-Tower ATX Case Review 
+ About The Author
+ Ryan Shrout 
+ Related Posts
+ AMD Will use GDDR5 Memory on Next-Generation ATI Radeon Graphics 
+ May 21, 2008 
+ NVIDIA GeForce RTX 4070 Founders Edition Review 
+ April 12, 2023 
+ It's not easy being a green Radeon 
+ April 1, 2010 
+ &#8230; and here's Newegg with a GTX 680 leak 
+ March 22, 2012 
+ Leave a reply Cancel reply 
+ Your email address will not be published. Required fields are marked * 
+ COMMENT 
+ Name * 
+ Email * 
+ &#916; 
+ This site uses Akismet to reduce spam. Learn how your comment data is processed. 
+ Search for: 
+ Latest Podcasts
+ Archive &#038; Timeline
+ Previous 12 months
+ Select Month November 2026 
+ October 2026 
+ September 2026 
+ August 2026 
+ July 2026 
+ June 2026 
+ May 2026 
+ April 2026 
+ March 2026 
+ February 2026 
+ January 2026 
+ December 2025 
+ Explore: All The Years! 
+ Shop new Deals of the Day at GameStop.com! 
+ User login status
+ Log in 
+ Register 
+ Lost password? 
+ Home 
+ News 
+ Reviews 
+ Podcasts 
+ PCPer Live 
+ Categories
+ Categories 
+ Select Category 
+ Cases and Cooling 
+ Chipsets 
+ Displays 
+ Editorial 
+ General Tech 
+ Graphics Cards 
+ Memory 
+ Mobile 
+ Motherboards 
+ Networking 
+ Processors 
+ Shows and Expos 
+ Storage 
+ Systems 
+ Privacy Policy 
+ User Agreement 
+ About 
+ User login status
+ Log in 
+ Register 
+ Lost password? 
+ PCPer Patron
+ Support PC Perspective on Patreon!
+ Copyright &#169; PC Perspective 2000-2026

@@ -1,0 +1,427 @@
+{
+  "slug": "nikola",
+  "name": "Nikola",
+  "region": "global",
+  "country": "United States",
+  "city": "Phoenix, Arizona",
+  "sector": "Electric and hydrogen trucks",
+  "founded": 2014,
+  "died": 2025,
+  "status": "bankrupt",
+  "brandColor": "#0a2240",
+  "founders": [
+    {
+      "name": "Trevor Milton",
+      "role": "Founder, CEO and later executive chairman (resigned Sept 2020)"
+    }
+  ],
+  "epitaph": "Its truck rolled downhill. So did everything else.",
+  "oneLiner": "Promised hydrogen fuel-cell and battery trucks for long-haul freight, plus its own cheap hydrogen fuel.",
+  "causeOfDeath": "Its founder sold investors a future that didn't exist yet, and when the real trucks came, they were costly, few, and recalled.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Peak market value isn't in our sources as one number: shares hit $93.99 in June 2020, when Nikola was worth more than Ford, and it was still worth $13.28B in Aug 2020 (CNBC). Assets were sold in pieces in 2025.",
+  "moneySrc": [
+    3,
+    10
+  ],
+  "inOneMinute": [
+    "In June 2020, months before selling a single truck, Nikola was **worth more than Ford** on the stock market.",
+    "A short-seller showed its famous truck video was a truck **rolling down a hill**. The founder was later convicted of fraud, then **pardoned in 2025**.",
+    "Its real trucks lost nearly **$1 billion a year**; it filed for bankruptcy in February 2025."
+  ],
+  "killerLine": "Hype can raise money for a year. Only a **working product** can keep it.",
+  "numbers": [
+    {
+      "value": "$36,000",
+      "label": "total revenue in Q2 2020, all from a solar job for its chairman",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "$125M",
+      "label": "penalty Nikola paid to settle SEC fraud charges",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "209",
+      "label": "battery trucks built by Aug 2023, all recalled",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$966M",
+      "label": "net loss in 2023",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: trucks that run on hydrogen",
+      "body": "Trevor Milton started Nikola in 2014 in Salt Lake City. His pitch was huge: big long-haul trucks powered by **hydrogen fuel cells** (devices that turn hydrogen into electricity, with only water as exhaust). Nikola would also build its own hydrogen stations and sell the fuel cheaply. In 2016 it unveiled the Nikola One and claimed **$2.3 billion in pre-orders**. A promotional video, \"Nikola One in Motion\", seemed to show the truck cruising down a road at speed. Milton was a natural showman. He talked about making hydrogen far cheaper than anyone else and said key parts were built in-house. The world wanted clean trucks, so people listened.",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The rise: worth more than Ford",
+      "body": "In June 2020, Nikola listed on the NASDAQ by merging with VectoIQ, a SPAC (a shell company already on the stock market, built only to merge with a private company so it can skip a normal IPO). Small investors rushed in. On 9 June the share price touched **$93.99**, and Nikola was briefly **worth more than Ford**, a company that sells millions of vehicles. Nikola had sold none. Its entire revenue for April to June 2020 was **$36,000**, and all of it came from installing solar panels for Milton himself. In September 2020, General Motors agreed to take an 11% stake, worth about $2 billion, and to supply fuel cells and batteries. It looked like the big break.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the hill",
+      "body": "Two days after the GM deal, on 10 September 2020, short-seller Hindenburg Research (an investor that profits when a share price falls) published a report on Nikola. Its most famous finding: the Nikola One video showed a truck that had been **towed up a hill and rolled down it**. Hindenburg said Nikola also bought key parts, like inverters, from other suppliers, and that its headquarters was **producing no hydrogen**. Within days, US regulators began investigating. Milton resigned on 21 September 2020. GM dropped the equity deal in November. In December 2021, Nikola paid **$125 million** to settle SEC charges that it misled investors, without admitting or denying them. In October 2022, a jury convicted Milton of one count of securities fraud and two of wire fraud.",
+      "src": [
+        2,
+        4,
+        5,
+        1
+      ]
+    },
+    {
+      "title": "The fall: real trucks, real losses",
+      "body": "After Milton left, Nikola did build real trucks, the Tre, first battery-electric and then hydrogen fuel-cell versions, at a factory in Arizona. But hard tech is hard. In 2022 it shipped only 131 battery trucks to dealers. In 2023 trucks caught fire, and it **recalled all 209 battery trucks** built so far. It lost $966 million in 2023 and **$958 million in 2024** on revenue of just $69 million. Each round of fresh money bought only months. On 19 February 2025, with shares at about 44 cents, Nikola filed for Chapter 11 bankruptcy in Delaware. Lucid Motors took over its Arizona factory lease and hired about 300 of its workers. A buyer called Hyroad Energy paid **$3.85 million** for its leftover hydrogen trucks and technology.",
+      "src": [
+        1,
+        6,
+        4,
+        7
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2014",
+      "event": "Trevor Milton founds Nikola in Salt Lake City",
+      "kind": "start",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "2016",
+      "event": "Unveils the Nikola One; claims $2.3B in pre-orders",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jun 2020",
+      "event": "Lists via VectoIQ SPAC; shares hit $93.99 and it is briefly worth more than Ford",
+      "kind": "peak",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "8 Sep 2020",
+      "event": "GM agrees to take an 11% stake worth about $2B",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "10 Sep 2020",
+      "event": "Hindenburg report: the truck in the video was rolling downhill",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "21 Sep 2020",
+      "event": "Milton resigns; GM drops the equity deal in November",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2021",
+      "event": "Nikola pays $125M to settle SEC fraud charges",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Oct 2022",
+      "event": "Jury convicts Milton of securities fraud and wire fraud",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "event": "After truck fires, Nikola recalls all 209 battery-electric trucks",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "19 Feb 2025",
+      "event": "Files for Chapter 11 bankruptcy in Delaware",
+      "kind": "end",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "28 Mar 2025",
+      "event": "President Trump pardons Milton, wiping out his conviction",
+      "kind": "after",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "date": "Apr–Aug 2025",
+      "event": "Lucid takes the Arizona factory lease; Hyroad buys leftover trucks for $3.85M",
+      "kind": "after",
+      "src": [
+        4,
+        7
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            0.1,
+            0,
+            50.8,
+            35.8,
+            68.9
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            370.9,
+            690.4,
+            784.2,
+            966.3,
+            958.2
+          ]
+        }
+      ],
+      "takeaway": "Even in its best year, Nikola lost about $14 for every $1 of revenue.",
+      "src": [
+        1,
+        6
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Jun 2020",
+      "round": "SPAC merger (VectoIQ Acquisition)",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "VectoIQ Acquisition Corp. shareholders"
+      ],
+      "src": [
+        4
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 40
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Showed a future the product hadn't reached",
+      "explain": "A promotional video made a truck look like it was driving itself when it was **rolling downhill**. A jury later found Milton guilty of fraud for misleading investors (he was pardoned in 2025). Once people learn a demo was staged, they **stop believing everything else** you say, even the true parts.",
+      "src": [
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "title": "Let a valuation outrun the business",
+      "explain": "Nikola was briefly worth more than Ford while its quarterly revenue was **$36,000**, from a solar job for its own chairman. A sky-high share price brings scrutiny from short-sellers, regulators and journalists. If the business behind it is thin, **that scrutiny finds it**.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Weak checks on the founder",
+      "explain": "The SEC said Milton ran a public relations campaign on social media and TV suggesting milestones that hadn't been reached, and that **Nikola itself was responsible** for misleading claims. A board's job is to say \"no, we can't claim that yet.\" That check failed.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Underestimated how hard trucks are",
+      "explain": "After the scandal, Nikola did build real trucks, but it shipped few, had battery fires, and **recalled all 209 battery trucks** in 2023. It lost about $14 for every $1 of revenue in 2024. Heavy hardware needs years of testing and enormous cash before it earns.",
+      "src": [
+        1,
+        4
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your demo or pitch video show something your product can't actually do yet?",
+    "Is your valuation many times bigger than anything your revenue can explain?",
+    "Can the founder post claims publicly without anyone checking them first?",
+    "Are you calling reservations or 'pre-orders' sales when nobody has paid?",
+    "Do you describe bought-in parts as built 'in-house'?",
+    "Is your biggest revenue coming from your own founders or related parties?"
+  ],
+  "lessons": [
+    {
+      "title": "Demo only what is real",
+      "detail": "If a feature is a mock-up, say \"concept\" on screen. Investors and users forgive \"not ready yet\". They never forgive being tricked, and today one viral thread can expose a staged demo."
+    },
+    {
+      "title": "Separate 'vision' from 'today' in every pitch",
+      "detail": "Use two clear columns: what works now, and what you plan. Many founders blur them by accident. Keeping them apart protects you legally and keeps your own team honest."
+    },
+    {
+      "title": "Build a board or mentors who can say no",
+      "detail": "Even at a tiny startup, have two or three people who check big public claims before you post them. Founder confidence is great; founder claims without checks are dangerous."
+    },
+    {
+      "title": "Fear a high valuation as much as you want it",
+      "detail": "A huge valuation sets expectations you must meet. Price your round where your real progress can justify it, so the next round is up, not a collapse."
+    },
+    {
+      "title": "Hard tech needs patient money and proof",
+      "detail": "If you build hardware, plan for long testing, recalls and slow sales. Raise for many years of runway, and win small paying pilots before promising a revolution."
+    }
+  ],
+  "quote": {
+    "text": "This misconduct — and the harm it inflicted on retail investors — merits the strong remedies today's settlement provides.",
+    "who": "Gurbir S. Grewal, Director of SEC Enforcement",
+    "context": "Announcing Nikola's $125 million settlement of fraud charges, 21 December 2021.",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "Milton was sentenced to four years in prison in December 2023 but stayed free while appealing. On 28 March 2025, President Trump pardoned him; he and his wife had given more than $1.8 million to a Trump re-election fund less than a month before the 2024 election, according to FEC records. The pardon wiped out the conviction and the restitution prosecutors sought. But in 2023 an arbitration panel had already awarded Nikola about $165 million against Milton, and by mid-2025 creditors said he had \"yet to pay a cent\". Nikola's remaining assets were sold off in 2025.",
+    "src": [
+      1,
+      4,
+      7,
+      8,
+      9
+    ]
+  },
+  "sources": [
+    {
+      "label": "Nikola Corp., Form 10-K for 2022 (filed Feb 2023)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1731289/000173128923000013/nkla-20221231.htm"
+    },
+    {
+      "label": "Nikola Corp., Form 10-K for 2024 (filed Oct 2025)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1731289/000173128925000065/nkla-20241231.htm"
+    },
+    {
+      "label": "SEC press release 2021-267, 'Nikola Corporation to Pay $125 Million' (21 Dec 2021)",
+      "url": "https://www.sec.gov/news/press-release/2021-267"
+    },
+    {
+      "label": "CNBC, 'Nikola's entire quarterly revenue of $36,000 was from solar installation for the executive chairman' (5 Aug 2020)",
+      "url": "https://www.cnbc.com/2020/08/05/nikolas-entire-quarterly-revenue-of-36000-was-from-solar-installation-for-the-executive-chairman.html"
+    },
+    {
+      "label": "Wikipedia, 'Nikola Corporation' (timeline, recalls and asset sales)",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Corporation"
+    },
+    {
+      "label": "Hindenburg Research, 'Nikola: How to Parlay An Ocean of Lies…' (10 Sep 2020)",
+      "url": "https://hindenburgresearch.com/nikola/"
+    },
+    {
+      "label": "Nikola Corp., Form 10-K for 2022: legal proceedings and truck shipments",
+      "url": "https://www.sec.gov/Archives/edgar/data/1731289/000173128923000013/nkla-20221231.htm"
+    },
+    {
+      "label": "TechCrunch, Nikola creditors subpoena Trevor Milton (6 Jun 2025)",
+      "url": "https://techcrunch.com/?p=3015922"
+    },
+    {
+      "label": "Fortune, 'Trump pardons Nikola founder Trevor Milton' (28 Mar 2025)",
+      "url": "https://fortune.com/2025/03/28/trump-pardon-nikola-trevor-milton-electric-vehicles-investor-restitution"
+    },
+    {
+      "label": "KPCW, 'Nikola founder Trevor Milton granted full pardon by Trump' (28 Mar 2025)",
+      "url": "https://www.kpcw.org/local-news/2025-03-28/nikola-founder-trevor-milton-granted-full-pardon-by-trump"
+    },
+    {
+      "label": "New York Times, on Milton's fraud indictment (29 Jul 2021)",
+      "url": "https://www.nytimes.com/2021/07/29/business/nikola-trevor-milton-fraud.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Milton is a fraudster",
+        "note": "A jury convicted him in Oct 2022, but the March 2025 presidential pardon erased the conviction. Milton calls it a 'sacred pardon of innocence'. We state the facts: convicted, then pardoned."
+      },
+      {
+        "claim": "The pardon was a reward for political donations",
+        "note": "Milton and his wife donated more than $1.8M to a Trump re-election fund weeks before the 2024 election (FEC). Trump said Milton 'did nothing wrong'. No source proves a link, so we report only the dated facts."
+      },
+      {
+        "claim": "Size of the arbitration award",
+        "note": "Nikola's filings say about $165M plus interest; some later reports say $168M."
+      },
+      {
+        "claim": "Lucid paid about $30 million",
+        "note": "Reported by trade outlets but not confirmed in sources we could read."
+      }
+    ]
+  }
+}

@@ -1,0 +1,2526 @@
+{
+ "chapters": [
+  {
+   "id": "every-company",
+   "kicker": "Every venture, win or lose",
+   "title": "Everything He Ever Started",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most people think Larry Page built one company. The real list is much stranger. He wrote a business plan in college, tried to sell his best idea for about ==$1 million==, and then ran the company he could not sell. After that he spent decades backing flying machines, internet balloons, power kites and a lab that studies naked mole rats to understand ageing.",
+     "src": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Some of these he paid for with his own money. Others ran on Google's profits while he was in charge. A few were not his idea at all, but he was the one who said yes. Here is every major one we could verify, in order, including the ones that crashed.",
+     "src": [
+      2,
+      6,
+      7
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Count the failures on these pages. Then notice he never stopped."
+    },
+    {
+     "t": "h",
+     "text": "Before Google"
+    },
+    {
+     "t": "venture",
+     "name": "The music synthesiser plan",
+     "years": "Early 1990s (college)",
+     "outcome": "failed",
+     "idea": "A company that would use software to build a music synthesiser, an electronic instrument that makes sound. Page grew up playing the saxophone and studying composition, so this idea joined his two worlds.",
+     "decision": "He chose it because it mixed music with engineering. Nothing on record shows why he dropped it, and we will not guess.",
+     "howStarted": "A business plan written while he was a student at the University of Michigan. We found no record of an office, staff or customers.",
+     "funding": "No record of any money being raised. As far as the public record shows, it never got beyond the plan.",
+     "whatHappened": "It never became a company. But the project needed software that responded in real time, and that opened his eyes. Years later he told Fortune that modern operating systems are terrible at being real-time. That complaint grew into Google's obsession with speed.",
+     "lesson": "A failed plan can still teach you the one idea you carry for life. Write the plan anyway.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "BackRub and PageRank",
+     "years": "1996–1998",
+     "outcome": "pivoted",
+     "idea": "A way to rank web pages by the links pointing at them, the same way an academic paper gains importance when other papers cite it. Better-linked pages rose to the top.",
+     "decision": "He was hunting for a PhD topic, not a business. When it worked, he and Sergey Brin did not want to leave the PhD programme, so they tried to license the technology to existing web companies. Only when that failed did they form a company.",
+     "howStarted": "Dorm rooms at Stanford. They begged and borrowed hard drives and spare computers, and Page's room became the machine lab. In March 1996 he pointed his web crawler at his own Stanford homepage and let it spread.",
+     "funding": "==$10,000== from Stanford's Digital Library budget, plus borrowed parts. Stanford's licensing office then tried to sell the idea. The asking price was $1 million. Novell reportedly offered $500,000, and they said no.",
+     "whatHappened": "The crawler at one point used nearly half of Stanford's network bandwidth. Nobody paid the asking price. On the advice of Yahoo co-founder David Filo, they went off to build it themselves. Stanford kept the patent and gave their company an exclusive licence in return for shares.",
+     "lesson": "When nobody will buy your invention at a fair price, that may be your signal to build the company yourself.",
+     "src": [
+      8,
+      1,
+      6
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$10,000",
+       "label": "Stanford money that helped pay for the first server parts",
+       "src": [
+        1
+       ]
+      },
+      {
+       "value": "$500,000",
+       "label": "what Novell reportedly offered for the idea. They turned it down.",
+       "src": [
+        1
+       ]
+      },
+      {
+       "value": "$336 million",
+       "label": "what Stanford made when it sold its 1.8 million Google shares (2005)",
+       "src": [
+        9
+       ]
+      }
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Stanford's small bet paid better than almost any research grant ever could."
+    },
+    {
+     "t": "h",
+     "text": "The company he could not sell"
+    },
+    {
+     "t": "venture",
+     "name": "Google",
+     "years": "1998–today",
+     "outcome": "public",
+     "idea": "A search engine ranked by links instead of keyword counts. The money came later, from small text ads next to the results, sold by auction and paid for per click.",
+     "decision": "They could have gone back to their PhDs, and in early 1999 they tried to sell to Excite. Excite said no. Page stayed CEO until investors pushed him to hire Eric Schmidt in 2001. The hardest calls came later: the AOL deal in 2002 and an unusual stock auction in 2004.",
+     "howStarted": "Incorporated on 4 September 1998. First office: Susan Wojcicki's garage in Menlo Park, at $1,700 a month with a security deposit. Craig Silverstein was the first employee. Early traffic came by word of mouth, growing about 50% a month by mid-1999.",
+     "funding": "A $100,000 cheque from Andy Bechtolsheim, then about $1 million in all from angel investors, meaning wealthy individuals who back very young companies. David Cheriton, Ram Shriram and Jeff Bezos were among them. Then $25 million in June 1999 from Sequoia Capital and Kleiner Perkins.",
+     "whatHappened": "Revenue went from $220,000 in 1999 to $962 million in 2003. It listed on the stock market in August 2004 at $85 a share. In the third quarter of 2026 alone, its parent Alphabet took in $127.6 billion.",
+     "lesson": "Sell a small slice of the company to the right people, and keep control of the thing only you truly understand.",
+     "src": [
+      10,
+      6,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Once Google started earning, Page was free to chase what excited him. From 2001 to 2011 his job title was President of Products, while Schmidt handled the role of CEO. Steven Levy, who interviewed him for Wired, wrote that this left him free to devote himself to passion projects. The next few ventures are what he did with that freedom.",
+     "src": [
+      19,
+      6
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Google Books",
+     "years": "Early 2000s–today",
+     "outcome": "running",
+     "idea": "Scan every book in the world and make the words searchable.",
+     "decision": "Everyone assumed it was impossible. Page wanted to know exactly how impossible, so he measured it. By 2001 he had a plan to scan the world's books, and he was angry that nobody was working on it.",
+     "howStarted": "In his own office. Page and Marissa Mayer built a home-made book scanner and timed her page-turning to a metronome. He then filled spreadsheets with pages, cost per page and storage needed.",
+     "funding": "Google's own profits. No outside investors.",
+     "whatHappened": "Google copied more than 20 million books, many without asking the rights holders. Authors sued. In October 2015 a US appeals court ruled that the scanning and short snippets were fair use, a legal exception to copyright. In April 2016 the Supreme Court declined to hear the authors' challenge.",
+     "lesson": "Before you call an idea crazy, put real numbers in a spreadsheet. Sometimes the crazy idea is just expensive.",
+     "src": [
+      6,
+      20,
+      21,
+      22
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I'd run through the numbers with people and they wouldn't believe them. So eventually I just did it.",
+     "who": "Larry Page on the book-scanning project, as reported by Steven Levy in Wired (2011)",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Android",
+     "years": "2005–today",
+     "outcome": "running",
+     "idea": "A free, open phone operating system that any coder could write for and any phone maker could install. Andy Rubin pitched it just as phones were outselling PCs by more than three to one.",
+     "decision": "Page loved Rubin's earlier phone, the Sidekick, and wanted to see an even better phone made. Rubin reportedly came looking for little more than a friendly email. Page's answer was that Google should buy the company.",
+     "howStarted": "Android was a tiny startup with a demo and a slide deck. Its team started at Google on 11 July 2005. In an early review, Page cut off the talk about how it would make money.",
+     "funding": "Before Google, it was being pitched to venture firms, and at least two were interested. Google's price was never officially given. Reports put it at up to about $50 million.",
+     "whatHappened": "The first Android phones were due in late 2008. By 2015 Page counted it among the Google products with over a billion users. Oracle sued over about 11,500 lines of copied Java code. In April 2021 the Supreme Court ruled that Google's copying was fair use.",
+     "lesson": "Buy the team and the dream early, when the price is still small and everyone else thinks the idea is mad.",
+     "src": [
+      23,
+      24,
+      25,
+      7,
+      26
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Don't worry about that. I want you guys to build the best possible phone and we'll figure out the rest later.",
+     "who": "Larry Page to the Android team, as remembered by engineer Brian Swetland (Androids, 2021)",
+     "src": [
+      24
+     ]
+    },
+    {
+     "t": "note",
+     "text": "$50 million for this. Read that number twice, first-time founders."
+    },
+    {
+     "t": "venture",
+     "name": "YouTube",
+     "years": "Bought 2006",
+     "outcome": "running",
+     "idea": "Let anyone upload and watch videos online. Google already had a video business of its own, which it said YouTube would strengthen and complement.",
+     "decision": "Google chose to buy one of the largest and fastest-growing video communities rather than rely only on its own service. It let YouTube run independently under its own brand.",
+     "howStarted": "YouTube began as somebody else's startup, based in San Bruno, California. It had fewer than 100 employees when Google bought it.",
+     "funding": "$1.65 billion, paid in Google shares rather than cash.",
+     "whatHappened": "By 2019 it was Google's second-largest source of revenue. In the third quarter of 2026 alone it brought in $11.2 billion, according to a UBS analyst's note. It has also drawn criticism from US lawmakers over violent content and misinformation.",
+     "lesson": "Your own stock can be the cheapest money you ever spend, if you use it to buy the future.",
+     "src": [
+      27,
+      28,
+      29
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The moonshots"
+    },
+    {
+     "t": "p",
+     "text": "A moonshot means a project so hard it sounds silly. Page loved them. He told Levy that the only true failure is not attempting the audacious. __His theory was that a big attempt that fails usually still leaves you with something valuable.__",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Even if you fail at your ambitious thing, it's very hard to fail completely.",
+     "who": "Larry Page, to Wired (2011)",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Self-driving cars (Project Chauffeur, now Waymo)",
+     "years": "2009–today",
+     "outcome": "running",
+     "idea": "Cars that drive themselves on ordinary public roads, in traffic.",
+     "decision": "Page had filmed streets from his own car with a video camera years earlier, which led to Street View. He brought in Stanford robotics professor Sebastian Thrun, and then asked him in 2009 for a car that could drive on any road in California.",
+     "howStarted": "A small team inside Google. Page and Brin set them a brutal test: ten routes of 100 miles each through the Bay Area and beyond. If a driver touched the wheel or tapped the brake even once, that trip was disqualified.",
+     "funding": "Google's profits. IEEE Spectrum described what they got as a blank cheque. Outside investors came only much later.",
+     "whatHappened": "The team beat all ten routes in about 18 months. It became a separate company, Waymo, in December 2016. Waymo accused a former engineer and Uber of taking its secrets. Uber settled in 2018 by handing over shares worth about $245 million, while saying it did not believe it had used any of them. In February 2026 Waymo raised $16 billion at a value of $126 billion.",
+     "lesson": "Give a tiny team one clear, nasty, measurable test. It beats any strategy document.",
+     "src": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Zee.Aero and Kitty Hawk",
+     "years": "2010–2022",
+     "outcome": "shut",
+     "idea": "Small electric aircraft that take off straight up: flying taxis at Zee.Aero, and a one-person flying machine called the Flyer at Kitty Hawk.",
+     "decision": "This was his childhood dream, and he paid for it himself. He wanted the link kept secret, and once told a colleague he might pull support if his involvement went public. He later set up Kitty Hawk as a rival team. Former staff thought he wanted to see if a smaller group could move faster.",
+     "howStarted": "A plain white building next to Google's headquarters. Page kept the upper floor for himself, with a bedroom, a climbing wall and an early SpaceX rocket engine, a gift from Elon Musk. Staff did not use his name. They called him GUS, the guy upstairs.",
+     "funding": "His own fortune. Bloomberg reported he had spent over $100 million on Zee.Aero by 2016. Stanford professor Ilan Kroo led the first team.",
+     "whatHappened": "The Flyer appeared in 2017 and could carry one person up to about 20 miles. The company could not find a real business for it and moved on to an aircraft called Heaviside. That work ended too. Kittyhawk announced it was winding down on 21 September 2022, without ever delivering the small vehicles it had promised.",
+     "lesson": "Even unlimited money cannot create customers. Ask who pays, and how often, before you build.",
+     "src": [
+      2,
+      37,
+      38,
+      39
+     ]
+    },
+    {
+     "t": "note",
+     "text": "His own secret flying car lab, and staff called him GUS. Wow."
+    },
+    {
+     "t": "venture",
+     "name": "Google Fiber",
+     "years": "2010–2026",
+     "outcome": "merged",
+     "idea": "Home internet about 100 times faster than usual, laid in new fibre-optic cable.",
+     "decision": "Typical US internet speeds were far lower, and Google's economists held that anything increasing internet use ultimately enriched Google.",
+     "howStarted": "It was announced in 2010. The first gigabit network went live in Kansas City in 2012.",
+     "funding": "Alphabet's money. Digging up streets city by city proved slow and costly.",
+     "whatHappened": "In October 2016 it paused or ended plans in 11 cities and cut about 9% of staff, and its chief stepped down. The Information reported that Page had ordered the team cut in half, which Google never confirmed. In March 2026 Alphabet agreed to merge it with Astound Broadband. The investment firm Stonepeak will own the majority and Alphabet will keep a minority stake. The deal was expected to close in late 2026.",
+     "lesson": "Great tech in a slow, costly, street-by-street business is still a slow, costly business.",
+     "src": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Project Loon",
+     "years": "2011–2021",
+     "outcome": "shut",
+     "idea": "Giant helium balloons the length of tennis courts, floating at the edge of space, beaming internet to places where cell towers are too costly.",
+     "decision": "It came out of X, the moonshot lab, as a way to bring connection to remote areas. It became its own company inside Alphabet in 2018.",
+     "howStarted": "A project at X, made public in June 2013. Its balloons were later flown to help after Hurricane Maria in Puerto Rico in 2017.",
+     "funding": "Google and then Alphabet. Each balloon cost tens of thousands of dollars and lasted only about five months.",
+     "whatHappened": "A first commercial service started in Kenya with about 35 balloons. Phone companies doubted it. Alphabet shut it down in January 2021 and pledged $10 million to support Kenyan groups.",
+     "lesson": "Working technology is not a working business. Check the unit cost early.",
+     "src": [
+      4,
+      46,
+      47
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "we haven't found a way to get the costs low enough to build a long-term, sustainable business.",
+     "who": "Alastair Westgarth, CEO of Loon, as it closed in 2021",
+     "src": [
+      47
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The CEO years"
+    },
+    {
+     "t": "p",
+     "text": "In April 2011 Page became CEO of Google again. Now the bets were no longer side projects. __Each one now carried his name as the person in charge, so each failure was his to answer for.__ These are the ones from his second turn at the top.",
+     "src": [
+      19,
+      6
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Google+",
+     "years": "2011–2019",
+     "outcome": "shut",
+     "idea": "A social network that would let Google fight Facebook, with sharing built across all its products.",
+     "decision": "Page decided social was essential. He tied up to 25% of every employee's 2011 bonus to how well the social plan went, up or down.",
+     "howStarted": "An invite-only trial in mid-2011, about two weeks before Page's July earnings call. He reported 10 million users by then, and said he was super excited.",
+     "funding": "Google's own money. The amount spent was not disclosed.",
+     "whatHappened": "By 2018, Google admitted that 90% of Google+ visits lasted under five seconds. A software bug had also potentially exposed data from up to 500,000 accounts. Google patched it in March 2018 and did not report it publicly until October. Consumer Google+ was wound down in 2019, and a user lawsuit settled for $7.5 million.",
+     "lesson": "You cannot order people to love a product, even by paying your whole staff to care.",
+     "src": [
+      48,
+      49,
+      50,
+      51,
+      52
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Motorola Mobility",
+     "years": "2011–2014",
+     "outcome": "sold",
+     "idea": "Own a phone maker and, above all, its stock of patents, which are legal rights to inventions.",
+     "decision": "Android looked under threat. Google had just lost an auction for more than 6,000 Nortel patents to a group led by Apple and Microsoft. Buying Motorola brought about 17,000 patents.",
+     "howStarted": "Page's Google agreed the deal in 2011 and owned Motorola from 2012.",
+     "funding": "$12.5 billion from Google.",
+     "whatHappened": "Motorola cost Google hundreds of millions of dollars in a few quarters. In January 2014 Google sold the phone business to Lenovo for $2.91 billion, having already sold the set-top box unit for about $2.35 billion. It kept most of the patents and a research lab. Experts still argue over the real loss.",
+     "lesson": "Know exactly what you are buying. Google wanted patents and ended up running a phone factory too.",
+     "src": [
+      53,
+      54,
+      55,
+      56,
+      57
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Planetary Resources",
+     "years": "2012–2018",
+     "outcome": "sold",
+     "idea": "Mine near-Earth asteroids for water that could become rocket fuel, and for rare metals.",
+     "decision": "Page backed it as an early investor alongside Eric Schmidt, Ross Perot Jr. and Charles Simonyi. He was a funder, not the founder.",
+     "howStarted": "It took its present form in 2012, based in Redmond, Washington. It launched two small test satellites, called Arkyd-3R and Arkyd-6A.",
+     "funding": "Billionaire investors, including Page. In six years it raised tens of millions of dollars in total. We found no public figure for his personal share.",
+     "whatHappened": "Prospecting was not due to start until the 2020s. An expected funding round fell through in 2018, staff were cut, and the company planned to auction its equipment. In October 2018 a blockchain firm, ConsenSys, bought what remained. Terms were kept confidential.",
+     "lesson": "A dream with no near-term customer lives or dies on its next funding round. Plan for that.",
+     "src": [
+      58
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Makani",
+     "years": "2013–2020",
+     "outcome": "shut",
+     "idea": "Kites tethered to floating buoys, working as flying wind turbines, with no need for huge structures on the ocean bed.",
+     "decision": "Google bought the kite company in 2013 and took it into its X lab, as a bet on cheaper offshore wind power.",
+     "howStarted": "It was already a company when Google bought it. Its purchase price was not in the reports we read.",
+     "funding": "Alphabet's Other Bets group, the part of the company outside Google. That whole group lost $4.8 billion in 2019.",
+     "whatHappened": "It was the first moonshot closed after Page and Brin stepped back in December 2019. New CEO Sundar Pichai was under pressure to cut the losses.",
+     "lesson": "A founder's pet project needs a business case that will survive the founder leaving.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "The robot spree",
+     "years": "2013–2017",
+     "outcome": "sold",
+     "idea": "Build a new robotics division by buying the best small robot makers at once.",
+     "decision": "Andy Rubin moved from Android to run the division. Google bought eight robotics companies in 2013 alone, including Boston Dynamics, the maker of the BigDog robot.",
+     "howStarted": "Bought companies, gathered into one group known inside as Replicant.",
+     "funding": "Google's money. The prices were not in the reports we read.",
+     "whatHappened": "Rubin left in 2014 and the group broke up. Boston Dynamics fitted poorly: Alphabet had a general rule against military work, and it struggled to find civilian customers. Alphabet put it up for sale, and sold it and Schaft to SoftBank in June 2017 for an undisclosed sum.",
+     "lesson": "If a project depends on one champion, ask what happens the day that person leaves.",
+     "src": [
+      59,
+      60,
+      61
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Calico",
+     "years": "2013–today",
+     "outcome": "running",
+     "idea": "A long-term research company on ageing and the diseases that come with it. Its aim was to be a kind of Bell Labs of ageing.",
+     "decision": "Page argued that health companies think too short-term. He pointed out that even curing cancer would add only about three years to average life expectancy, so the bigger target was ageing itself.",
+     "howStarted": "Page and investor Bill Maris approached Art Levinson, former CEO of Genentech and chairman of Apple. Levinson became CEO and a founding investor. Research animals included naked mole rats, hairless rodents that interest ageing scientists.",
+     "funding": "Google and Levinson first. In 2014 drug company AbbVie joined: each side put in $250 million, with up to $500 million more each. Reports called it a $1.5 billion partnership.",
+     "whatHappened": "TIME's cover asked \"Can Google Solve Death?\" Three years later it had published nothing of note. By December 2025 it had hundreds of research papers, 5 drug candidates in human trials and about 20 more in earlier testing. Death, as Nature dryly noted, remained inevitable.",
+     "lesson": "Some problems take decades. If yours does, set up funding and goals that match the clock.",
+     "src": [
+      3,
+      62,
+      63,
+      64,
+      65
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Opener (now Pivotal)",
+     "years": "2014–today",
+     "outcome": "running",
+     "idea": "A one-person electric aircraft light enough to fly without a pilot's licence in the US.",
+     "decision": "Canadian inventor Marcus Leng had been building one. Page reportedly bought it and kept it apart from Kitty Hawk, whose CEO had to compete with Opener's for his attention and funding.",
+     "howStarted": "Started as SkyKar in Ontario. A first prototype flew at Leng's home in 2011. It moved to Palo Alto in 2014.",
+     "funding": "Sources told The Verge that Page bought it in 2014 for over $10 million, through a Canadian shell company. Opener admitted his involvement in 2018.",
+     "whatHappened": "It came out of hiding in 2018 with the BlackFly, and first delivered one to a customer in June 2023. Renamed Pivotal, it opened US sales of its Helix in 2024 at $190,000. Deliveries then slipped from June 2024 to 2025. We found no reliable 2026 update on its sales.",
+     "lesson": "Letting rivals compete under one owner can be useful, but you pay for it twice.",
+     "src": [
+      37,
+      66,
+      67,
+      68
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Nest",
+     "years": "2014–2018",
+     "outcome": "merged",
+     "idea": "Smart home devices, mainly thermostats and smoke detectors.",
+     "decision": "Google gained a young hardware company with a focus on design and well-known talent, led by co-founder Tony Fadell.",
+     "howStarted": "Already a running company when Google bought it.",
+     "funding": "$3.2 billion from Google, announced two weeks before the Motorola sale.",
+     "whatHappened": "Staff numbers quadrupled and it bought Dropcam, yet new products were scarce. Fadell left after two years. In February 2018 it stopped being a separate Alphabet company and merged into Google's hardware team.",
+     "lesson": "Buying a great team is the easy step. Keeping it hungry inside a giant is the hard one.",
+     "src": [
+      53,
+      69,
+      70
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "DeepMind",
+     "years": "2014–today",
+     "outcome": "merged",
+     "idea": "An artificial intelligence lab in London, trying to build machines that can learn in general, not just do one task.",
+     "decision": "Page reportedly led the deal himself. Facebook had also been in talks. Elon Musk tried to raise money to stop it, telling founder Demis Hassabis that the future of AI should not be controlled by Larry.",
+     "howStarted": "Founded in London in 2012 by Hassabis, Shane Legg and Mustafa Suleyman. Google bought it about two years later, when few outsiders had heard of it.",
+     "funding": "Reports put the price anywhere from $400 million to about $600 million. Google has not confirmed it.",
+     "whatHappened": "In 2020 its AlphaFold2 model cracked a 50-year-old puzzle in biology, predicting the shapes of proteins. In April 2023 it merged with the Google Brain team to form Google DeepMind. Hassabis shared the 2024 Nobel Prize in Chemistry.",
+     "lesson": "Buying brilliant people early, before they have revenue, can be the best deal of your life.",
+     "src": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Under $1 billion for a future Nobel Prize winner's lab. Remember that."
+    },
+    {
+     "t": "venture",
+     "name": "Alphabet",
+     "years": "2015–today",
+     "outcome": "public",
+     "idea": "A new parent company, with Google as its largest child, and the far-out bets as separate businesses.",
+     "decision": "Page wanted to run unrelated things independently, give each a strong CEO, and show investors Google's results separately. It also freed him to hand Google to Sundar Pichai.",
+     "howStarted": "He announced it in a blog post on 10 August 2015. The website was abc.xyz.",
+     "funding": "No new money. Every Google share simply became an Alphabet share.",
+     "whatHappened": "Wall Street cheered. But the bets stayed costly: in 2025 Other Bets made $1.54 billion in revenue and lost $16.8 billion. That was under 0.5% of Alphabet's sales.",
+     "lesson": "When a company outgrows you, redesign your own job before someone else does.",
+     "src": [
+      7,
+      78,
+      41
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Sidewalk Labs",
+     "years": "2015–2021",
+     "outcome": "shut",
+     "idea": "Technology to make cities cheaper, cleaner and easier to live in.",
+     "decision": "Page's team at Google and former New York deputy mayor Dan Doctoroff came up with the idea together. Page said it could improve the lives of billions.",
+     "howStarted": "Based in New York, with Doctoroff as CEO. Its flagship was Quayside, a 12-acre plot on Toronto's waterfront, announced in 2017.",
+     "funding": "Google's funding and support. The Toronto plan at one point called for spending about $1.3 billion.",
+     "whatHappened": "Residents fought it over privacy and who would own the data. Leaked documents showed interest in about 350 acres, not 12. In May 2020 it pulled out, blaming the pandemic's economic shock. In December 2021 Alphabet folded the unit into Google.",
+     "lesson": "If your product is someone's neighbourhood, the neighbours are your first customers. Ask them first.",
+     "src": [
+      79,
+      80,
+      81,
+      82
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Wisk",
+     "years": "2019–2023",
+     "outcome": "sold",
+     "idea": "A self-flying electric air taxi, grown out of Kitty Hawk's Cora aircraft.",
+     "decision": "Kitty Hawk had a working prototype and Boeing was an aviation giant. They set up a joint venture, a company they would share, with Boeing as the larger investor.",
+     "howStarted": "Formed in 2019, based in the San Francisco Bay Area, with roots going back to Zee Aero in 2010.",
+     "funding": "Early funding from Boeing and Kitty Hawk, amounts undisclosed. Boeing added $450 million in January 2022.",
+     "whatHappened": "Wisk carried on after Kitty Hawk closed. In May 2023 Boeing bought out its partner, on undisclosed terms. It is now wholly owned by Boeing. So one piece of Page's flying dream survives inside an aircraft giant.",
+     "lesson": "Sometimes the right ending for your idea is handing it to someone built to finish it.",
+     "src": [
+      83,
+      84,
+      38
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Dynatomics",
+     "years": "2023–today",
+     "outcome": "running",
+     "idea": "AI that designs highly optimised objects, which a factory can then build. One report says it is aimed at aircraft manufacturing.",
+     "decision": "We know little about his reasoning, and we found no public statement from him. Its leader, Chris Anderson, was the chief technology officer of Kittyhawk.",
+     "howStarted": "A small group of engineers, working in secret. Business Insider reports it began in 2023. Its filings in late 2025 list a new main address in Texas.",
+     "funding": "No figures are public, and we found no outside investors named.",
+     "whatHappened": "It is still in stealth, meaning it has not launched a public product. We could not verify any revenue, customers or results.",
+     "lesson": "The richest founders still return to the same thing: a small team, a hard problem, no publicity.",
+     "src": [
+      85,
+      86
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Some smaller flops, for the record"
+    },
+    {
+     "t": "p",
+     "text": "The list above is not complete without the small ones. Page shut Google Health in 2011. Google Labs was wound down that same year, and Google Reader closed in 2013. The modular Project Ara phone, built around swappable parts, was cancelled in 2016.",
+     "src": [
+      50,
+      87,
+      88,
+      89
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Google Glass, the $1,500 smartglasses he and Brin backed, went on sale to early adopters in 2013. It became the butt of jokes on late-night television and fights over privacy followed. Google stopped selling its last version in March 2023.",
+     "src": [
+      90
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "23",
+       "label": "ventures and major bets on these pages, from a college plan to a stealth AI firm",
+       "src": [
+        0,
+        85
+       ]
+      },
+      {
+       "value": "Over $100M",
+       "label": "his own money reported to have gone into Zee.Aero by June 2016",
+       "src": [
+        2
+       ]
+      },
+      {
+       "value": "$16.8B",
+       "label": "operating loss of Alphabet's Other Bets in 2025",
+       "src": [
+        41
+       ]
+      },
+      {
+       "value": "$126B",
+       "label": "Waymo's value in Feb 2026, the moonshot that clearly worked",
+       "src": [
+        36
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "first-money",
+   "kicker": "1998–2004",
+   "title": "Betting the Company",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "The $750,000 mistake that never happened"
+    },
+    {
+     "t": "p",
+     "text": "In early 1999, Google was a few months old, and its founders felt it was getting in the way of their studies. Page and Brin tried to sell it to Excite, then the number two search engine behind Yahoo, for $1 million. Excite's investor Vinod Khosla talked them down to ==$750,000==. Excite's CEO, George Bell, still said no, and people argued for years over exactly why.",
+     "src": [
+      13,
+      12,
+      91
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Stop and think about that. __Google's founders tried to sell the most valuable idea of their lives for under a million dollars, and they were rejected.__ Excite no longer exists. Google still does.",
+     "src": [
+      13,
+      12
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: on 29 October 2026, Alphabet lost about $480 billion of stock market value in a single day. That one bad day was worth about 640,000 times the price Excite refused to pay in 1999.",
+     "src": [
+      92,
+      13
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Rejection might be the luckiest thing that ever happens to you."
+    },
+    {
+     "t": "h",
+     "text": "Two rival investors, one rule"
+    },
+    {
+     "t": "p",
+     "text": "A venture capital firm, or VC, is a firm that invests other people's money in young companies in exchange for shares. In June 1999, Google announced ==$25 million== from two of the most famous firms in Silicon Valley. Sequoia Capital and Kleiner Perkins each put in about $12.5 million, and Michael Moritz and John Doerr joined the board.",
+     "src": [
+      11,
+      93,
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The two firms shared the deal equally. By 2004 each firm held 9.4%, while Page held 15.2% and Brin 15.1%. Google's own filing says it sold just $26 million of stock before it became profitable.",
+     "src": [
+      93,
+      16
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The money came with one big condition. Page and Brin promised to hire an experienced outsider as CEO, which VCs often demand from young founders. Silicon Valley calls this \"adult supervision\". Page was 26, and he did not want it.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "They said, 'We've changed our mind. We think we can run the company between the two of us.'",
+     "who": "John Doerr, recalling the founders' phone call a few months after the deal (Wired, 2011)",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Doerr's first instinct was to sell his shares. Instead he made an offer: go and meet the best CEOs in tech, then decide. So Page and Brin toured Steve Jobs, Andy Grove of Intel, Scott Cook of Intuit, and Jeff Bezos. They came back and agreed to hire a CEO, with one condition. It had to be Steve Jobs.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Doerr widened the search. Reports say they rejected a long line of candidates before meeting Eric Schmidt, then CEO of Novell, a real computer scientist who had also been to the Burning Man festival. He became chairman in March 2001 and CEO that summer. As late as 2002 the founders still sounded bitter. Brin told a reporter that investors felt better now they need not worry what \"two hooligans are going to do with their millions.\"",
+     "src": [
+      94,
+      95,
+      20,
+      6
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Investors forced this hire. Page later called it brilliant. Both can be true."
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "4 years",
+       "label": "how long Larry Page was also Google's chief financial officer (Sep 1998–Jul 2002)",
+       "src": [
+        19
+       ]
+      },
+      {
+       "value": "27 years",
+       "label": "John Doerr's time on the board: he joined in 1999 and is still a director (Apr 2026)",
+       "src": [
+        19,
+        96
+       ]
+      },
+      {
+       "value": "22.3M",
+       "label": "super-voting shares John Doerr still beneficially owned (6 Apr 2026)",
+       "src": [
+        96
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The day he fired his managers"
+    },
+    {
+     "t": "p",
+     "text": "Page stayed hard to manage. One day in July 2001, aged 28, he decided that all of Google's project managers had to go. He thought a layer of non-engineers was slowing down the brilliant people he had hired. He also suspected they were steering engineers away from projects he cared about, like scanning the world's books.",
+     "src": [
+      20
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Business Insider's account says Google's HR head, Stacy Sullivan, told him the plan was nuts. Schmidt and Page's executive coach, Bill Campbell, agreed with her. Page went ahead anyway, in front of about 130 engineers. One engineer shouted that it was totally unprofessional.",
+     "src": [
+      20
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "You can't just self-organize!",
+     "who": "Stacy Sullivan, Google's HR head, to Larry Page in 2001 (via Douglas Edwards, I'm Feeling Lucky)",
+     "src": [
+      20
+     ]
+    },
+    {
+     "t": "p",
+     "text": "It did not last. More than 100 people ended up reporting to one overwhelmed head of engineering. Google's managers were moved or rehired, and the founders quietly gave up on the idea. It is a story of a smart person being badly wrong, and __the most useful thing about it is that he reversed it.__",
+     "src": [
+      6,
+      20,
+      97
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Very important for first-time founders: being stubborn only works if you can reverse course."
+    },
+    {
+     "t": "h",
+     "text": "Finding the money machine"
+    },
+    {
+     "t": "p",
+     "text": "Now the awkward question. How does a free search engine make money? At first even Google did not know. The early assumption was that licensing search and selling servers might earn as much as ads. Google's first revenue, in 1999, was just $220,000.",
+     "src": [
+      45,
+      16
+     ]
+    },
+    {
+     "t": "p",
+     "text": "One of those licensing deals was with Yahoo, the giant of the web, which began using Google's search in June 2000. Yahoo received a warrant in the deal, a right to buy Google shares later. In 2002, Yahoo paid Google $13.2 million, more than a quarter of Yahoo's profit that year.",
+     "src": [
+      17,
+      98
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Yahoo was paying its future rival to run its search box. It later sold Google shares for about $400 million in 2004 and nearly $1 billion in 2005, so those shares brought Yahoo well over $1 billion.",
+     "src": [
+      98,
+      17
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ads came next. In October 2000 Google launched AdWords: any business could buy short text ads tied to a search word, on its own, with a credit card. About 350 advertisers had already signed up during the test. Google said it would not use pop-ups, animations or flashing logos. At that point it handled more than 20 million searches a day.",
+     "src": [
+      99
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Page insisted that the system be simple and able to grow without salespeople. When engineer Eric Veach pointed out that not every country used credit cards, Page suggested taking payment in whatever suited the country. In Uzbekistan, he said, Google could take goats.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Goats as payment. He was joking, probably. The self-service idea was not."
+    },
+    {
+     "t": "p",
+     "text": "Then came the clever part. In 2002 Google moved to paying per click, so advertisers paid only when someone actually clicked. Ads were sold by a nonstop auction, and a good ad that people clicked could beat a bigger bid. A rival, Overture, had pioneered search ads by auction. __Google's twist was to reward the ad that people actually wanted.__",
+     "src": [
+      17,
+      91,
+      100,
+      45
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The bet-the-company moment"
+    },
+    {
+     "t": "p",
+     "text": "In spring 2002, the web's biggest prize came up for grabs. America Online, with about 34 million users, was choosing who would run search and search ads for it. Overture had the job. Inktomi supplied the search results. Google had just launched its new ad system, and it wanted to take both.",
+     "src": [
+      101,
+      102,
+      103
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Page told his team that he wanted to bid to win. To do that Google offered to hand AOL about 85% of the ad revenue and guarantee a minimum payment, whatever the ads actually earned. A guarantee like this is dangerous: if the ads flop, you still owe the money. Reports put it at around $100 million to $150 million, and Google did not have that kind of cash.",
+     "src": [
+      104,
+      105,
+      101,
+      106
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "You're betting the company if you do that.",
+     "who": "Omid Kordestani, Google's head of sales, as reported in Ken Auletta's Googled (2009)",
+     "src": [
+      104
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "we should be able to monetize the pages, if not we deserve to go out of business.",
+     "who": "Larry Page's reply, as reported in Ken Auletta's Googled (2009)",
+     "src": [
+      104,
+      101
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Google won in May 2002. The market's verdict was instant: Overture's shares fell more than a third in a day, and Inktomi's fell about a quarter. The bet paid off. Google's revenue jumped from $86 million in 2001 to $348 million in 2002, then ==$962 million== in 2003.",
+     "src": [
+      103,
+      102,
+      16,
+      105
+     ]
+    },
+    {
+     "t": "p",
+     "text": "This was no one-off gamble. Google's IPO filing shows that it kept making such promises to big partners, and that by the end of 2003 it had promised ==$477 million== in outstanding minimum guarantees. It also admits that in 2003 some of those deals lost $22.5 million. The danger was real and it was on paper for all to read.",
+     "src": [
+      17
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$220K",
+       "label": "Google's revenue in 1999, with a $6.1M loss",
+       "src": [
+        16
+       ]
+      },
+      {
+       "value": "$19.1M",
+       "label": "revenue in 2000, with a $14.7M loss",
+       "src": [
+        16
+       ]
+      },
+      {
+       "value": "$347.8M",
+       "label": "revenue in 2002, with $99.7M profit",
+       "src": [
+        16
+       ]
+      },
+      {
+       "value": "$961.9M",
+       "label": "revenue in 2003, with $105.6M profit",
+       "src": [
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Yahoo comes shopping"
+    },
+    {
+     "t": "p",
+     "text": "That same summer, Yahoo's CEO Terry Semel tried to buy Google. Wired reported that he offered about $3 billion and was furious when they were not interested. His own team told him Google was probably worth at least $5 billion, but that would have meant spending Yahoo's entire market value. In another account, the founders first asked for $1 billion and raised it to $3 billion once Semel agreed.",
+     "src": [
+      107,
+      91
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Semel bought search companies Inktomi and Overture instead. Overture came with a lawsuit: it had sued Google in 2002, saying AdWords copied its patented way of selling ads. Days before the IPO, in August 2004, Google settled by giving Yahoo ==2.7 million shares==, worth $291 million to $365 million at the expected price. That charge meant Google expected to post a loss in its first quarter as a public company.",
+     "src": [
+      107,
+      100,
+      108,
+      17
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Google paid its way out of the suit with shares, not cash. Clever."
+    },
+    {
+     "t": "h",
+     "text": "An IPO that annoyed Wall Street"
+    },
+    {
+     "t": "p",
+     "text": "An IPO, or initial public offering, is when a private company first sells shares to the public on a stock market. Usually big banks set the price and hand shares to favoured clients. Page and Brin wanted an auction instead, open to ordinary people, with a minimum bid of just five shares.",
+     "src": [
+      17,
+      109
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Google is not a conventional company. We do not intend to become one.",
+     "who": "Larry Page and Sergey Brin, founders' letter, Google's IPO filing (2004)",
+     "src": [
+      16,
+      110
+     ]
+    },
+    {
+     "t": "p",
+     "text": "They also gave themselves a shield. Google's shares came in two kinds: Class A for the public, with one vote each, and Class B for insiders, with ten. So they could sell parts of the company without losing control of it. They also said they would not chase smooth quarterly results.",
+     "src": [
+      16,
+      17
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then almost everything went wrong. Page and Brin had given an interview to Playboy, and it ran just as the sale began, when companies are supposed to stay quiet. Google said it believed it had not broken the rules. Regulators did not stop the IPO, but Google had to warn investors it might have, and it printed the whole article in its prospectus. One correction: the article said about 1,000 staff, and Google actually had 2,292.",
+     "src": [
+      111,
+      112,
+      113,
+      17
+     ]
+    },
+    {
+     "t": "p",
+     "text": "There was also an inquiry into shares and options it had issued to employees without registering them. It ended up buying back almost 23 million options. Investors grew cautious and the price range was slashed from $108–$135 to $85–$95. The shares on offer fell from 25.7 million to 19.6 million.",
+     "src": [
+      114,
+      109,
+      111
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 19 August 2004, Google went public at ==$85== a share and raised ==$1.67 billion==, the biggest internet IPO so far. The shares ended the first day at $100.34, up 18%, valuing the company at $27.2 billion. Reuters put the founders' stakes at about $4.35 billion. Page was 31.",
+     "src": [
+      115,
+      116,
+      114
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Google's IPO fees came to $2.3839 a share, under 3% of the price. By February 2005 the stock had traded as high as $210.86, about two and a half times the IPO price.",
+     "src": [
+      17,
+      109
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The maths jokes in the legal papers"
+    },
+    {
+     "t": "p",
+     "text": "Here is our favourite detail in this whole story. Securities filings are the most boring documents on earth. Google's first filing asked to register exactly ==$2,718,281,828== of stock, which is the mathematical constant e with the decimal point moved. Google's own part of the final IPO was 14,142,135 shares, the same digits as the square root of 2.",
+     "src": [
+      16,
+      17
+     ]
+    },
+    {
+     "t": "p",
+     "text": "A year later it came back to raise about $4 billion more. The AP spotted that the new number of shares, 14,159,265, matched the digits of pi after the decimal point. Nobody at Google needed to do this. It simply told Wall Street exactly who it was dealing with.",
+     "src": [
+      117,
+      118
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Two engineers signed legal papers and hid maths jokes inside. Read this twice."
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Sep 1998",
+       "text": "Google incorporated. Page is CEO, and also chief financial officer.",
+       "src": [
+        19
+       ]
+      },
+      {
+       "when": "Early 1999",
+       "text": "Excite refuses to buy Google for $750,000.",
+       "src": [
+        13
+       ]
+      },
+      {
+       "when": "Jun 1999",
+       "text": "$25 million from Sequoia and Kleiner Perkins, with a promise to hire a CEO.",
+       "src": [
+        11,
+        6
+       ]
+      },
+      {
+       "when": "Oct 2000",
+       "text": "AdWords launches, with about 350 advertisers.",
+       "src": [
+        99
+       ]
+      },
+      {
+       "when": "2001",
+       "text": "Schmidt joins as chairman in March and CEO that summer. Page becomes President of Products.",
+       "src": [
+        20,
+        19
+       ]
+      },
+      {
+       "when": "May 2002",
+       "text": "Google wins AOL with a huge revenue guarantee.",
+       "src": [
+        103,
+        104
+       ]
+      },
+      {
+       "when": "Summer 2002",
+       "text": "Yahoo's offer of about $3 billion goes nowhere.",
+       "src": [
+        107
+       ]
+      },
+      {
+       "when": "19 Aug 2004",
+       "text": "IPO at $85 after a messy auction. Raises $1.67 billion.",
+       "src": [
+        115
+       ]
+      }
+     ]
+    },
+    {
+     "t": "lesson",
+     "title": "Sell the upside late",
+     "text": "Google raised a tiny amount before it was profitable and kept most of the company. When a business grows fast, every share you did not sell early is worth a fortune later. Raise what you truly need."
+    },
+    {
+     "t": "lesson",
+     "title": "Know when to bet everything",
+     "text": "The AOL deal looked reckless, but Page understood his ad system better than anyone. Take huge risks only where you have knowledge that others lack, and only after doing the numbers."
+    }
+   ]
+  },
+  {
+   "id": "the-big-bets",
+   "kicker": "2005–2019",
+   "title": "Expensive Dreams",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Rich, and impatient"
+    },
+    {
+     "t": "p",
+     "text": "After the IPO, Google had money and Page had freedom. In 2003 executives were discussing how fast to grow abroad, and he asked how many engineers Microsoft had. He was told about 25,000. Page said, in all seriousness, that Google should have a million. Schmidt put a hand on his shoulder and brought him back to earth.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Twenty-five thousand? He said a million. And he meant it."
+    },
+    {
+     "t": "p",
+     "text": "Google then went on a buying run. In 2006 it paid $1.65 billion in stock for YouTube. In April 2007 it won a bidding war with Microsoft and Yahoo for DoubleClick, an early pioneer of online ads, paying ==$3.1 billion== in cash. The FT called DoubleClick a high price, since its revenue was reported at only $300 million to $400 million.",
+     "src": [
+      27,
+      119
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: in 2008 Google joined a US auction for mobile airwaves, mainly to push the price past a level that would force the winner to open its network to others. It badly wanted to lose. When Verizon topped its bid, executives were relieved. Page, though, urged them to think about bidding again. Google let Verizon's bid stand.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The boss comes back"
+    },
+    {
+     "t": "p",
+     "text": "In April 2011, Page became CEO of Google again, aged 38. Schmidt tweeted that adult supervision was no longer needed. Google had grown to more than 24,000 staff and almost $30 billion in revenue, and Page wanted it to feel like a startup again.",
+     "src": [
+      6,
+      19
+     ]
+    },
+    {
+     "t": "p",
+     "text": "He then did something surprising. He called Steve Jobs, who by then had no love for Google. Jobs told his biographer that his first instinct was to refuse rudely. Then he remembered the older men who had helped him when he was young. So he agreed, and Page went to Jobs's home in Palo Alto.",
+     "src": [
+      120
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "What are the five products you want to focus on? Get rid of the rest because they're dragging you down.",
+     "who": "Steve Jobs to Larry Page in 2011, as told to Walter Isaacson",
+     "src": [
+      120
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Page listened. He shuffled his management team, shut more than 20 products in six months and wound down Google Labs. He called it putting more wood behind fewer arrows. Not everyone loved it: when Google Reader closed, its users had to go looking for alternatives. __The founder who once wanted to do everything was learning, at 38, how to say no.__",
+     "src": [
+      120,
+      87,
+      50,
+      88
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Google+: the bet he got wrong"
+    },
+    {
+     "t": "p",
+     "text": "His biggest early decision went the other way. Page believed Google had to go social to compete, so he sent a memo as he took over. Everyone's 2011 bonus would go up or down by as much as ==25%==, depending on how Google's social plan did. Staff who were not even working on it were told to test the products and to push them on family and friends.",
+     "src": [
+      48,
+      49
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Google+ got an exciting start, with 10 million sign-ups in about two weeks. Page was delighted. But sign-ups are not the same as people staying. Seven years later, Google confirmed in public that 90% of visits lasted under five seconds.",
+     "src": [
+      50,
+      51
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Sign-ups are vanity. Five-second visits are the truth. Measure what people actually do."
+    },
+    {
+     "t": "h",
+     "text": "The Motorola maths"
+    },
+    {
+     "t": "p",
+     "text": "Next came a giant cheque. In 2011 Android looked exposed, because Apple and Microsoft had just bought a large pile of Nortel patents. So Google agreed to pay ==$12.5 billion== for Motorola Mobility, mainly for its 17,000 patents. Less than two years later, it sold the phone business to Lenovo for $2.91 billion. MIT Technology Review headlined it \"Larry Page Makes Case Against His Own Motorola Purchase\".",
+     "src": [
+      53,
+      54,
+      55
+     ]
+    },
+    {
+     "t": "p",
+     "text": "So did he lose $9.6 billion? That is too simple. Google also sold the set-top box unit for about $2.35 billion, inherited about $3 billion of cash, and kept most of the patents. Estimates of what it truly cost run from under $1 billion to about $6.6 billion. MIT Technology Review read the sale as Google deciding it had been wrong to start building handsets.",
+     "src": [
+      56,
+      55,
+      57,
+      53
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Fights with his friend Elon"
+    },
+    {
+     "t": "p",
+     "text": "Page and Elon Musk had been friends for over a decade. Musk often stayed at Page's home when he was in town. Their friendship is behind two of the strangest episodes in this book. Both accounts come from Musk's biographers, so read them with care.",
+     "src": [
+      74,
+      121
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Early in 2013, Tesla was in deep trouble, with reports saying it had just two weeks of cash. Musk went to his friend. According to Ashlee Vance's biography, they talked about Google buying Tesla for about ==$6 billion==, plus $5 billion to expand its factories, with Musk running it for eight years. Page accepted the overall proposal, two people with knowledge of the deal told Vance.",
+     "src": [
+      122,
+      123
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then Model S orders took off, Tesla posted its first profit in May 2013, and Musk no longer needed a saviour. Tesla and Google declined to comment on it. When Vance asked, Page said he would not speculate on rumours, and added that a car company was pretty far from what Google knows.",
+     "src": [
+      121,
+      123
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Google nearly bought Tesla for $6 billion. One good quarter ended it."
+    },
+    {
+     "t": "p",
+     "text": "Their second clash was about AI. In Walter Isaacson's biography, at Musk's birthday party in 2013 the two argued over what happens if machines overtake humans. Page saw it as the next stage of evolution, and called Musk a \"specist\", someone biased towards his own species. Musk then tried to stop Page from buying DeepMind, and after that began hosting his own dinners on how to counter Google in AI.",
+     "src": [
+      74,
+      72
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Well, yes, I am pro-human.",
+     "who": "Elon Musk's reply to Larry Page, as told to Walter Isaacson (2023)",
+     "src": [
+      74
+     ]
+    },
+    {
+     "t": "h",
+     "text": "How he kept control"
+    },
+    {
+     "t": "p",
+     "text": "Page and Brin had a problem. Selling their voting shares, or letting Google pay for deals with new ones, would shrink their share of the votes. The answer was Class C, a share with no vote at all. In March 2014 each shareholder received one new Class C share for each share they held.",
+     "src": [
+      124,
+      125,
+      96
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Shareholders sued in a Delaware court over the plan. The case settled, with a built-in penalty. If the new no-vote shares traded lower than the voting shares after a year, Google would pay holders the difference. They did trade lower, and in 2015 the payout came to ==$522 million==.",
+     "src": [
+      125,
+      126,
+      127
+     ]
+    },
+    {
+     "t": "p",
+     "text": "As part of the deal, Page, Brin and Schmidt also signed agreements limiting how they could sell. None of them can sell Class C and be left holding more Class B than Class C. __Keeping control of a giant company can cost half a billion dollars, and Google paid it.__",
+     "src": [
+      124,
+      126,
+      127
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Alphabet and the alpha-bet"
+    },
+    {
+     "t": "p",
+     "text": "On 10 August 2015, Page published a blog post that reshaped the company. Google would become part of a new parent company called Alphabet, with Sundar Pichai as CEO of Google and Page as CEO of Alphabet. He explained the name in the way only he would: it was a collection of letters, and also an alpha-bet, alpha being investment return above the benchmark.",
+     "src": [
+      7
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Alphabet is mostly a collection of companies.",
+     "who": "Larry Page, \"G is for Google\" (2015)",
+     "src": [
+      7
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Wall Street was pleased for a simple reason: for the first time, it could see Google's profits without the costly experiments mixed in. And the numbers were sobering. Alphabet soon scaled back Google Fiber, sold Boston Dynamics and unloaded a satellite business. Page's moonshots now had to answer to a spreadsheet.",
+     "src": [
+      78,
+      7
+     ]
+    },
+    {
+     "t": "h",
+     "text": "A dark chapter"
+    },
+    {
+     "t": "p",
+     "text": "Page's tenure also has a darker chapter, and we should state it carefully. In October 2018 The New York Times reported that Andy Rubin, the man behind Android, had left in 2014 with a $90 million exit package after Google found a misconduct claim against him credible. According to the Times, Page was the person who decided Rubin should leave, and publicly thanked him for his work.",
+     "src": [
+      128
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Rubin strongly denied the allegation. He called the report inaccurate and said he had left of his own accord. Inside Google the reaction was fury. More than 20,000 employees walked out in November 2018, in cities around the world, and Google ended forced arbitration for such claims within days.",
+     "src": [
+      128,
+      129
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Shareholders then sued the board, naming Page and Brin among others. In 2020 Alphabet settled, without a trial, by committing ==$310 million== over up to ten years to workplace programmes, and promising tighter rules on exit payments. These were allegations, and the settlement resolved them without a court ruling on them.",
+     "src": [
+      130,
+      52,
+      131,
+      132
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Your biggest mistakes may be about people, not technology. Handle those first."
+    },
+    {
+     "t": "h",
+     "text": "Handing over the keys"
+    },
+    {
+     "t": "p",
+     "text": "On 3 December 2019, Page and Brin published a short letter. Alphabet and Google no longer needed two CEOs and a president, they wrote. Sundar Pichai would run both. Page was 46. He kept his board seat and, crucially, his votes.",
+     "src": [
+      110,
+      19
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "we believe it's time to assume the role of proud parents—offering advice and love, but not daily nagging!",
+     "who": "Larry Page and Sergey Brin, letter of 3 December 2019",
+     "src": [
+      110
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Jul 2005",
+       "text": "Android's team joins Google.",
+       "src": [
+        24
+       ]
+      },
+      {
+       "when": "Oct 2006",
+       "text": "YouTube bought for $1.65 billion in stock.",
+       "src": [
+        27
+       ]
+      },
+      {
+       "when": "Apr 2007",
+       "text": "DoubleClick bought for $3.1 billion in cash.",
+       "src": [
+        119
+       ]
+      },
+      {
+       "when": "Apr 2011",
+       "text": "Page returns as Google CEO. Bonuses tied to social.",
+       "src": [
+        19,
+        48
+       ]
+      },
+      {
+       "when": "Early 2013",
+       "text": "Talks on buying Tesla, reported later, come to nothing.",
+       "src": [
+        122
+       ]
+      },
+      {
+       "when": "Jan 2014",
+       "text": "DeepMind bought. Motorola sold. Nest announced.",
+       "src": [
+        72,
+        53
+       ]
+      },
+      {
+       "when": "Aug 2015",
+       "text": "Alphabet announced.",
+       "src": [
+        7
+       ]
+      },
+      {
+       "when": "Dec 2019",
+       "text": "Page steps down as CEO and stays as director.",
+       "src": [
+        110
+       ]
+      }
+     ]
+    },
+    {
+     "t": "lesson",
+     "title": "Focus is a decision, not a mood",
+     "text": "It took Steve Jobs to tell Google's founder to pick five products. Write down what you will not do, and make the list public inside your team."
+    },
+    {
+     "t": "lesson",
+     "title": "Decide your structure before you need it",
+     "text": "Page's two-class shares let him take risks for 20 years without being pushed out. If you ever raise money, think hard about control on day one. It is very hard to win back later."
+    }
+   ]
+  },
+  {
+   "id": "the-fortune",
+   "kicker": "2019–2026",
+   "title": "$232.7 Billion, on Paper",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "The fire alarm"
+    },
+    {
+     "t": "p",
+     "text": "For three years after 2019, Page stayed away. He and Brin let Pichai run things and focused on projects like flying cars and disaster relief. Then, in November 2022, a small company called OpenAI released ChatGPT, and it looked like the first real threat to Google's $149 billion search business in decades.",
+     "src": [
+      133,
+      134
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pichai declared a \"code red\". In December he invited the founders back for several meetings. They reviewed the company's AI plans, approved plans and pitched ideas for putting chatbot features into search. Brin went further and filed his first code request in years in January 2023. What Page has done since, day to day, has not been made clear in public.",
+     "src": [
+      133,
+      135
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The irony was painful. The Transformer, a key technique behind modern AI chatbots, is listed by Google itself among the achievements of its own research teams. In April 2023 Google joined its two big AI groups into Google DeepMind. __Page's old purchase of a little London lab was now at the centre of Google's defence.__",
+     "src": [
+      76
+     ]
+    },
+    {
+     "t": "p",
+     "text": "It worked better than many expected. By October 2026, Alphabet reported that its Gemini app had reached one billion users, and that its search query growth was the highest in five years. Pichai said its AI investments were driving search growth. Analysts were less sure that those searches earn as much money as the old ones.",
+     "src": [
+      18,
+      29
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A rival nearly caught them sleeping. Even the best companies can become complacent."
+    },
+    {
+     "t": "h",
+     "text": "In court, and still standing"
+    },
+    {
+     "t": "p",
+     "text": "Meanwhile the courts were catching up. In August 2024, Judge Amit Mehta ruled that Google had broken US antitrust law, the rules against abusing a dominant position. Google held about 90% of online search. It paid $26.3 billion in 2021 alone to be the default on phones and browsers. The judge noted an estimated $20 billion going to Apple in 2022.",
+     "src": [
+      136,
+      137
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Google is a monopolist, and it has acted as one to maintain its monopoly.",
+     "who": "Judge Amit Mehta, ruling of 5 August 2024",
+     "src": [
+      136
+     ]
+    },
+    {
+     "t": "p",
+     "text": "But the penalty was much lighter than the government wanted. In September 2025, Mehta refused to force a sale of Chrome, calling that incredibly messy and highly risky. He banned exclusive deals and ordered Google to share some search data with rivals. Google is appealing the ruling, and in January 2026 it asked to pause those orders.",
+     "src": [
+      138,
+      139
+     ]
+    },
+    {
+     "t": "p",
+     "text": "A second US judge, Leonie Brinkema, found in April 2025 that Google had illegally monopolised parts of the ad technology market. DoubleClick's old ad server sits in the middle of that case. On 2 September 2026 she too declined to order a break-up, choosing behaviour changes instead. Google can still appeal. The EU also fined Google €2.95 billion in September 2025 over similar practices, and Google has said it will appeal.",
+     "src": [
+      140,
+      141,
+      142
+     ]
+    },
+    {
+     "t": "note",
+     "text": "That $3.1 billion deal from 2007 is now inside a monopoly case."
+    },
+    {
+     "t": "h",
+     "text": "The bets that paid off, sitting in the portfolio"
+    },
+    {
+     "t": "p",
+     "text": "Here is a twist in the fortune story. Some of the best returns in Google's recent history did not come from a Google product. In 2015 Google invested ==$900 million== in Elon Musk's SpaceX. By 30 June 2026, after SpaceX's IPO, that stake was worth about ==$94 billion==. SpaceX shares have since fallen.",
+     "src": [
+      143
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In 2023 Google put an initial $300 million into the AI company Anthropic, later growing that to $13.3 billion, with up to $30 billion more committed. Bloomberg valued its stake of about 14% at around $124 billion in mid-2026. These gains helped Alphabet report a record ==$112.1 billion== quarterly profit in the second quarter of 2026.",
+     "src": [
+      144,
+      145
+     ]
+    },
+    {
+     "t": "p",
+     "text": "That profit was mostly on paper, not cash from customers. Alphabet booked $98 billion of net gains in that quarter, mainly from unrealised rises in shares it holds. Without such gains its profit growth would have been about 23% instead of nearly 300%. __Learn this difference early: a gain on paper has not yet paid anyone's bills.__",
+     "src": [
+      146,
+      147
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Alphabet turned $900 million into about $94 billion in 11 years. That's about 100 times the money. It is more than Google's entire stock market value on the day it went public, which was $27.2 billion.",
+     "src": [
+      143,
+      116
+     ]
+    },
+    {
+     "t": "h",
+     "text": "From $26 million to $84.75 billion"
+    },
+    {
+     "t": "p",
+     "text": "Google once raised $26 million and made it last until it was profitable. In June 2026 Alphabet announced an equity raise of ==$84.75 billion==, to pay for AI data centres and chips. It included a $10 billion private sale to Warren Buffett's Berkshire Hathaway. Buffett told CNBC he had made a mistake by not buying earlier.",
+     "src": [
+      16,
+      148,
+      149
+     ]
+    },
+    {
+     "t": "p",
+     "text": "That is what AI costs. Alphabet expected to spend $195 billion to $205 billion on capital expenditure in 2026, meaning buildings, servers and chips, and more than $300 billion in 2027. In the third quarter of 2026 it took in $127.6 billion in revenue and still had negative free cash flow of $9.07 billion. Free cash flow means what is left after paying for all that building.",
+     "src": [
+      150,
+      18
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Investors noticed. On 29 October 2026, the shares dropped about 12% to 13%, the worst day since Google went public. Close to $500 billion of value disappeared in one trading session. Page personally lost about ==$31 billion== on paper that day, and yet he moved up to third-richest in the world the next day, because Michael Dell's fortune fell faster.",
+     "src": [
+      151,
+      92,
+      152
+     ]
+    },
+    {
+     "t": "note",
+     "text": "$31 billion gone in a day, and he went up the rankings. Crazy."
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$127.6B",
+       "label": "Alphabet revenue, Q3 2026 (up 25%)",
+       "src": [
+        18
+       ]
+      },
+      {
+       "value": "$30.7B",
+       "label": "Google Cloud revenue, Q3 2026 (up 103%)",
+       "src": [
+        18
+       ]
+      },
+      {
+       "value": "−$9.07B",
+       "label": "free cash flow, Q3 2026, because of AI spending",
+       "src": [
+        150
+       ]
+      },
+      {
+       "value": "$3.46T",
+       "label": "Alphabet's market value during trading on 29 Oct 2026",
+       "src": [
+        92
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Where the money actually is"
+    },
+    {
+     "t": "p",
+     "text": "Page has no big salary to speak of. He and Brin have taken just ==$1 a year== since around the IPO. Nearly all of his wealth is one thing: shares in the company he co-founded. Forbes estimated his net worth at ==$232.7 billion== on 1 November 2026, third in the world.",
+     "src": [
+      153,
+      154
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Alphabet's April 2026 proxy statement, a yearly filing that shows who owns what, lists him with 389,051,160 Class B shares. That is 46.5% of all Class B and ==27.4% of all votes==. With Brin, he has 52.7% of the votes. So if the two men vote together, they can outvote every other shareholder combined.",
+     "src": [
+      96,
+      155
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The proxy leaves out his non-voting Class C shares. But under the 2014 agreements, he cannot hold more Class B than Class C. So he must own at least another 389 million or so Class C shares. Let's do the maths, using prices around $284 and $281 from 29 October 2026.",
+     "src": [
+      96,
+      124,
+      127,
+      92
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: 389 million Class B shares at about $284 comes to about $110 billion. Another 389 million Class C shares at about $281 comes to about $109 billion. That is about $220 billion, out of Forbes's $232.7 billion. It is about 6% of Alphabet's roughly 12.3 billion shares (our arithmetic, using share counts from company filings).",
+     "src": [
+      96,
+      92,
+      18,
+      154
+     ]
+    },
+    {
+     "t": "note",
+     "text": "About 6% of the shares, 27% of the votes. That gap matters."
+    },
+    {
+     "t": "p",
+     "text": "Page has spent real money on his bets, but those amounts are tiny next to this stake. We could not find a reliable public value for his private companies. He has a family office, called Koop, which is a private firm that manages a wealthy family's money. His flying-car vehicle is One Aero, and Flu Lab funds research into influenza.",
+     "src": [
+      86,
+      2
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Aug 2004",
+       "text": "Reuters values the founders' stakes at about $4.35 billion after day one of trading.",
+       "src": [
+        116
+       ]
+      },
+      {
+       "when": "Mar 2014",
+       "text": "About $26 billion, on his Google stock.",
+       "src": [
+        153
+       ]
+      },
+      {
+       "when": "Dec 2019",
+       "text": "About $52 billion, on stepping down as CEO.",
+       "src": [
+        156
+       ]
+      },
+      {
+       "when": "Jan 2026",
+       "text": "$263.8 billion (Forbes).",
+       "src": [
+        157
+       ]
+      },
+      {
+       "when": "Apr 2026",
+       "text": "Passes $300 billion for the first time, at $300.9 billion (Forbes).",
+       "src": [
+        158
+       ]
+      },
+      {
+       "when": "15 Jul 2026",
+       "text": "$301.7 billion, after Buffett's comments lift the stock.",
+       "src": [
+        149
+       ]
+      },
+      {
+       "when": "1 Nov 2026",
+       "text": "$232.7 billion, third in the world (Forbes).",
+       "src": [
+        154
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Leaving California"
+    },
+    {
+     "t": "p",
+     "text": "Wealth like this also draws political attention. A union-backed ballot measure in California, Proposition 40, proposed a one-time 5% tax on billionaires who lived in the state on 1 January 2026. In December 2025, more than 45 California companies linked to Page filed to go inactive or move out of state, according to state records seen by The New York Times.",
+     "src": [
+      159,
+      160
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Business Insider reported that his family office and Flu Lab were converted to Delaware companies. The Wall Street Journal reported that he bought two Miami homes for about $173 million, and Forbes now lists his home as Miami. The vote is on 3 November 2026, the day after this page was checked, and a late-October poll showed the measure trailing. We do not know the result.",
+     "src": [
+      86,
+      161,
+      154,
+      159
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The New York Times reported that he had discussed leaving because of the measure, citing people briefed on the talks. Page has not explained it publicly, as far as we could find, so we will not put words in his mouth. What is on record is the filings and the timing.",
+     "src": [
+      162,
+      160,
+      86
+     ]
+    },
+    {
+     "t": "h",
+     "text": "What to take from all of this"
+    },
+    {
+     "t": "p",
+     "text": "Add up the whole story and you see something odd. He made nearly all his money from a single company built in his twenties, yet spent much of his later life on bets, many of which failed or are still unproven. __The fortune came from one thing done extremely well, and the failures were what that fortune could afford.__",
+     "src": [
+      96,
+      41,
+      38
+     ]
+    },
+    {
+     "t": "lesson",
+     "title": "One big win pays for many failures",
+     "text": "Nearly every moonshot on these pages lost money, and it hardly touched his wealth. Protect the core business first. Then you can afford to be a dreamer with the profits, not with your rent."
+    },
+    {
+     "t": "lesson",
+     "title": "Paper wealth moves both ways",
+     "text": "He went from $301.7 billion to $232.7 billion in about three and a half months without doing anything. Do not tie your sense of worth to a share price, and do not spend paper gains."
+    },
+    {
+     "t": "lesson",
+     "title": "Never give away your vote cheaply",
+     "text": "He holds about 6% of the shares and 27% of the votes. That let him make long, strange bets, but it also means shareholders can hardly challenge him. Understand both sides before you copy it."
+    }
+   ]
+  }
+ ],
+ "factCheck": {
+  "method": "Primary sources were read first: Google's 2004 S-1 and final prospectus, the 2005 S-3, Alphabet's 2024 and 2026 proxy statements, the June 2026 prospectus supplement and equity press release, the Q3 2026 earnings release, the Class C settlement papers, the 2020 derivative-settlement notice, the Supreme Court's Oracle opinion, the Second Circuit's Authors Guild opinion, the Waymo v. Uber order, the EU Commission press release, and Google's and Page's own blog posts and press releases. Contemporary reporting came from Reuters, AP, NYT, Wired, Bloomberg, Forbes, CNBC, FT, The Guardian, The Verge, TechCrunch, Ars Technica and MIT Technology Review, read on 2 Nov 2026. Forbes figures were read from forbes.com/profile/larry-page on 2 Nov 2026 (as of 1 Nov 2026). Sources not read in full, which the fact-checker should re-check: the Bloomberg Businessweek Zee.Aero feature was read through syndicated copies; Business Insider's Carlson piece was read through its opening, a syndicated copy and a SmartCompany summary; Ken Auletta's Googled was reached through HackerNoon and the Acquired podcast, so the AOL quotes are second-hand; several NYT and Bloomberg items were read only from search extracts; the IPO-filing $26M figure and 'Yahoo warrant' came from automated page summaries of the filings. SEC direct download by curl was blocked, so filings were read through the page reader. Wealth arithmetic: 389,051,160 Class B x about $284 and an equal minimum of Class C x about $281, both prices from Forbes intraday on 29 Oct 2026; the Class C minimum is our inference from the 2014 Transfer Restriction Agreements and the 2015 Undertaking, not a disclosed holding. 12.294 billion shares from the Q3 2026 balance sheet. The digits of e, the square root of 2 and pi were checked against the filings' numbers; only the pi match is reported by the press (AP), and Google has not, in what we read, explained any of them.",
+  "disputed": [
+   {
+    "claim": "Size of the AOL guarantee (2002)",
+    "note": "Acquired, relaying Auletta, says $100 million. Reid Hoffman's Blitzscaling (excerpted by John Lilly) says $150 million a year. The Guardian in 2002 reported the contract was thought to be worth $60–100 million. The contract was not published, so the text gives a range and says 'reports'. Google's prospectus does confirm minimum guarantees in general, $477M outstanding at end-2003."
+   },
+   {
+    "claim": "Who approached whom on Android",
+    "note": "Wired (2008) says Rubin asked for the meeting in spring 2005, hoping for an endorsement, and Page proposed buying. Androids (2021) and Business Insider say Page invited Rubin in January 2005, with the buyout offer at a later meeting. The text stays general. The price has never been officially disclosed; 'up to about $50 million' is Wired's estimate."
+   },
+   {
+    "claim": "When Page removed the managers",
+    "note": "Business Insider and the World Economic Forum say July 2001. Harvard Business Review says 2002 and describes engineering managers. Wired (Levy) says 2001. We use July 2001."
+   },
+   {
+    "claim": "The Yahoo 2002 offer",
+    "note": "Wired (2007) says Semel offered roughly $3 billion and Google was not interested. An account by Semel relayed through The Economic Times says Google asked $1 billion, then raised to $3 billion after he agreed. Both are in the text."
+   },
+   {
+    "claim": "DeepMind's price",
+    "note": "Re/code via Reuters: $400 million. The Information via TechCrunch: over $500 million. Forbes: a reported $600 million. Guardian: about £400 million. Google never confirmed."
+   },
+   {
+    "claim": "Real cost of Motorola",
+    "note": "Estimates of Google's true net cost range from about $640 million (InfoWorld) to about $6.58 billion (IEEE Spectrum, without tax assets), depending on tax benefits and patents."
+   },
+   {
+    "claim": "Who first backed Google, and how much",
+    "note": "Forbes calls David Cheriton the first outside investor with a $100,000 cheque, while Wired and The Guardian give Bechtolsheim's cheque as the first. Business Insider reports Bezos put in $250,000; CNBC reports a reported $1 million. The text avoids individual amounts apart from Bechtolsheim."
+   },
+   {
+    "claim": "Who drove self-driving at Google",
+    "note": "The New Yorker calls Thrun the founder of the project. IEEE Spectrum argues Anthony Levandowski was the motivating force. The text says Page asked Thrun, which Thrun himself describes. Spending of about $1.1 billion to 2015 appeared only on a low-quality site citing a deposition and was left out."
+   },
+   {
+    "claim": "Page's stake value on day one of trading",
+    "note": "Reuters says 'its founders' stakes at $4.35 billion', which is unclear on whether that is each or combined. A 15.2% holding of $27.2 billion is about $4.1 billion, suggesting each. The text repeats Reuters' wording without resolving it."
+   },
+   {
+    "claim": "Size of the 29 Oct 2026 fall",
+    "note": "Forbes reported about 12% and $480 billion midway through trading; CNBC reported nearly 13% and about $500 billion at the close. The text uses 'about 12% to 13%' and 'close to $500 billion'."
+   },
+   {
+    "claim": "Page's Forbes rank on 29 Oct 2026 vs 1 Nov 2026",
+    "note": "profile.json uses $238.1 billion and No. 4 (29 Oct). This part uses $232.7 billion and No. 3 (as of 1 Nov). Both are correct for their dates."
+   }
+  ]
+ },
+ "sources": [
+  {
+   "label": "Fortune, Miguel Helft, \"How music education influenced Larry Page\" (18 Nov 2014)",
+   "url": "https://fortune.com/2014/11/18/larry-page-music-education/"
+  },
+  {
+   "label": "STANFORD magazine, \"Starting Up\"",
+   "url": "https://stanfordmag.org/contents/starting-up"
+  },
+  {
+   "label": "Bloomberg Businessweek, Ashlee Vance and Brad Stone, \"Welcome to Larry Page's Secret Flying-Car Factories\" (9 Jun 2016)",
+   "url": "https://www.bloomberg.com/news/articles/2016-06-09/welcome-to-larry-page-s-secret-flying-car-factories"
+  },
+  {
+   "label": "MIT Technology Review, \"Google's Long, Strange Life-Span Trip\" (15 Dec 2016)",
+   "url": "https://www.technologyreview.com/2016/12/15/69305/googles-long-strange-life-span-trip/"
+  },
+  {
+   "label": "Reuters, \"Alphabet shutting Loon\" (21 Jan 2021)",
+   "url": "https://www.reuters.com/technology/alphabet-shutting-loon-which-used-balloon-alternative-cell-towers-2021-01-22/"
+  },
+  {
+   "label": "Los Angeles Times, \"Alphabet shuts down its power-generating kites project\" (18 Feb 2020)",
+   "url": "https://www.latimes.com/business/technology/story/2020-02-18/alphabet-ends-power-generating-kites-project-makani"
+  },
+  {
+   "label": "Wired, Steven Levy, \"Larry Page Wants to Return Google to Its Startup Roots\" (18 Mar 2011, adapted from In the Plex)",
+   "url": "https://www.wired.com/2011/03/mf-larrypage/"
+  },
+  {
+   "label": "Google blog, Larry Page, \"G is for Google\" (10 Aug 2015)",
+   "url": "https://blog.google/alphabet/google-alphabet/"
+  },
+  {
+   "label": "Wired, John Battelle, \"The Birth of Google\" (Aug 2005)",
+   "url": "https://www.wired.com/2005/08/battelle/"
+  },
+  {
+   "label": "Los Angeles Times / AP, \"Stanford Reaps Windfall From Google Stock Sale\" (2 Dec 2005)",
+   "url": "https://www.latimes.com/archives/la-xpm-2005-dec-02-fi-calbriefs2.3-story.html"
+  },
+  {
+   "label": "CNBC Make It, on Google's 1998 garage office (27 Sep 2018)",
+   "url": "https://www.cnbc.com/make-it/2018/09/27/google-virtual-tour-of-larry-page-sergey-brins-1998-garage-office.html"
+  },
+  {
+   "label": "Google press release, \"Google Receives $25 Million in Equity Funding\" (7 Jun 1999)",
+   "url": "https://googlepress.blogspot.com/1999/06/google-receives-25-million-in-equity.html"
+  },
+  {
+   "label": "CNBC, \"20 significant moments in Google's history\" (4 Sep 2018)",
+   "url": "https://www.cnbc.com/2018/09/04/20-significant-moments-in-googles-history-on-its-20th-birthday.html"
+  },
+  {
+   "label": "The Guardian, \"Google at 20: how two 'obnoxious' students changed the internet\" (24 Sep 2018)",
+   "url": "https://www.theguardian.com/technology/2018/sep/24/google-at-20-larry-page-sergey-brin-internet"
+  },
+  {
+   "label": "Wired, Tony Long, \"Sept. 7, 1998: If the Check Says 'Google Inc.,' We're 'Google Inc.'\" (2011)",
+   "url": "https://www.wired.com/2011/09/0907google-incorporated/"
+  },
+  {
+   "label": "Forbes, Ryan Mac, David Cheriton on Google and Page (6 Aug 2012)",
+   "url": "https://www.forbes.com/sites/ryanmac/2012/08/06/from-the-front-porch-david-cheriton-shares-his-thoughts-on-google-page-and-investing/"
+  },
+  {
+   "label": "Google Inc., Form S-1 registration statement with the founders' letter (29 Apr 2004), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm"
+  },
+  {
+   "label": "Google Inc., final IPO prospectus (18 Aug 2004), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312504143377/d424b4.htm"
+  },
+  {
+   "label": "Alphabet, \"Announces Third Quarter 2026 Results\" (28 Oct 2026), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+  },
+  {
+   "label": "Alphabet, 2024 proxy statement (DEF 14A, 26 Apr 2024), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817924000612/lgoog2024_def14a.htm"
+  },
+  {
+   "label": "Business Insider, Nicholas Carlson, \"The Untold Story of Larry Page's Incredible Comeback\" (24 Apr 2014)",
+   "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4"
+  },
+  {
+   "label": "Reuters, \"Supreme Court rejects challenge to Google book-scanning project\" (18 Apr 2016)",
+   "url": "https://www.reuters.com/article/technology/supreme-court-rejects-challenge-to-google-book-scanning-project-idUSKCN0XF1O3/"
+  },
+  {
+   "label": "US Court of Appeals, Second Circuit, Authors Guild v. Google (16 Oct 2015)",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/ca2/13-4829/13-4829-2015-10-16.html"
+  },
+  {
+   "label": "Wired, Daniel Roth, \"Google's Open Source Android OS Will Free the Wireless Web\" (Jun 2008)",
+   "url": "https://www.wired.com/2008/06/ff-android/"
+  },
+  {
+   "label": "Ars Technica, excerpt from Androids by Chet Haase (13 Aug 2021)",
+   "url": "https://arstechnica.com/information-technology/2021/08/excerpt-the-history-of-android-as-written-by-a-longtime-android-developer/"
+  },
+  {
+   "label": "Business Insider, on Android's original pitch deck (27 Aug 2021)",
+   "url": "https://www.businessinsider.com/android-original-pitch-deck-smartphone-google-acquisition-phone-operating-system-2021-8"
+  },
+  {
+   "label": "Supreme Court of the United States, Google LLC v. Oracle America, Inc., No. 18-956 (5 Apr 2021)",
+   "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf"
+  },
+  {
+   "label": "Google press release on the YouTube purchase, filed with the SEC (9 Oct 2006)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312506206884/dex991.htm"
+  },
+  {
+   "label": "CNBC, \"Google acquisitions in spotlight 15 years after IPO\" (19 Aug 2019)",
+   "url": "https://www.cnbc.com/2019/08/19/googles-best-and-worst-acquisitions-are-in-the-spotlight-15-years-later.html"
+  },
+  {
+   "label": "CNBC, \"Alphabet Q3 earnings miss estimates. What analysts say\" (29 Oct 2026)",
+   "url": "https://www.cnbc.com/2026/10/29/alphabet-q3-earnings-analyst-reaction.html"
+  },
+  {
+   "label": "The New Yorker, Burkhard Bilger, \"Auto Correct\" (25 Nov 2013)",
+   "url": "https://www.newyorker.com/magazine/2013/11/25/auto-correct"
+  },
+  {
+   "label": "Business Insider, on Sebastian Thrun and Larry Page (6 Jul 2019)",
+   "url": "https://www.businessinsider.com/how-sebastian-thrun-learned-to-be-visionary-from-larry-page-2019-7"
+  },
+  {
+   "label": "IEEE Spectrum, Mark Harris, \"The Unknown Start-up That Built Google's First Self-Driving Car\" (19 Nov 2014)",
+   "url": "https://spectrum.ieee.org/the-unknown-startup-that-built-googles-first-selfdriving-car"
+  },
+  {
+   "label": "US District Court, N.D. California, Waymo LLC v. Uber Technologies, order of 15 May 2017",
+   "url": "https://law.justia.com/cases/federal/district-courts/california/candce/3:2017cv00939/308136/433/"
+  },
+  {
+   "label": "AP, \"Uber to pay $245 million to settle Waymo's theft allegations\" (9 Feb 2018)",
+   "url": "https://apnews.com/general-news-a298c5990c5e4ce9bc7d0eb5b754dfe9"
+  },
+  {
+   "label": "Berkeley Technology Law Journal blog, \"Waymo and Uber Reach Surprise Settlement\" (22 Feb 2018)",
+   "url": "http://sites.law.berkeley.edu/thenetwork/wp-content/uploads/sites/2/2018/02/Waymo-and-Uber-Reach-Surprise-Settlement.pdf"
+  },
+  {
+   "label": "Reuters, \"Waymo valued at $126 billion in latest financing\" (2 Feb 2026)",
+   "url": "https://www.reuters.com/business/waymo-valued-126-billion-latest-financing-2026-02-02/"
+  },
+  {
+   "label": "The Verge, Mark Harris, \"Larry Page is quietly amassing a 'flying car' empire\" (19 Jul 2018)",
+   "url": "https://www.theverge.com/2018/7/19/17586878/larry-page-flying-car-opener-kitty-hawk-cora"
+  },
+  {
+   "label": "The Verge, \"Flying car company Kitty Hawk winds down as Wisk Aero continues\" (21 Sep 2022)",
+   "url": "https://www.theverge.com/2022/9/21/23365557/kitty-hawk-larry-page-electric-vtol-shutdown"
+  },
+  {
+   "label": "Revolution.aero, \"Kittyhawk is winding down after 12 years\" (22 Sep 2022)",
+   "url": "https://www.revolution.aero/news/2022/09/22/kittyhawk-is-winding-down-after-12-years"
+  },
+  {
+   "label": "CNN Money, \"Google puts the brakes on Fiber and plans for layoffs\" (26 Oct 2016)",
+   "url": "https://money.cnn.com/2016/10/26/technology/google-fiber-cuts/index.html"
+  },
+  {
+   "label": "CNBC, \"Google sells partial stake in fiber\" (11 Mar 2026)",
+   "url": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html"
+  },
+  {
+   "label": "Ars Technica, \"Google Fiber division cuts staff by 9%\" (25 Oct 2016)",
+   "url": "https://arstechnica.com/information-technology/2016/10/google-fiber-laying-off-9-of-staff-will-pause-plans-for-10-cities/"
+  },
+  {
+   "label": "GFiber press release on combining with Astound (11 Mar 2026)",
+   "url": "https://gfiber.com/blog/2026/03/gfiber-and-stonepeaks-astound-to.html/"
+  },
+  {
+   "label": "Ars Technica, \"Google Fiber will be sold to private equity firm\" (13 Mar 2026)",
+   "url": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/"
+  },
+  {
+   "label": "Wired, Steven Levy, \"Secret of Googlenomics\" (22 May 2009)",
+   "url": "https://www.wired.com/2009/05/nep-googlenomics/"
+  },
+  {
+   "label": "The Verge, \"Alphabet is shutting down Loon\" (21 Jan 2021)",
+   "url": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x"
+  },
+  {
+   "label": "CNBC, \"Alphabet cancels Loon\" (21 Jan 2021)",
+   "url": "https://www.cnbc.com/2021/01/21/alphabet-cancels-loon-project-to-beam-internet-to-earth-from-balloons.html"
+  },
+  {
+   "label": "Business Insider, Nicholas Carlson, on the 25% social bonus memo (7 Apr 2011)",
+   "url": "https://www.businessinsider.com/larry-page-just-tied-employee-bonuses-to-the-success-of-the-googles-social-strategy-2011-4"
+  },
+  {
+   "label": "Search Engine Land, \"Google CEO Page Ties Bonuses To Social Success\" (8 Apr 2011)",
+   "url": "https://searchengineland.com/report-google-ceo-page-ties-bonuses-to-social-success-reorganizes-google-mgmt-team-72197"
+  },
+  {
+   "label": "InfoWorld, \"Google Q2 revenue up 32 percent\" (15 Jul 2011)",
+   "url": "https://www.infoworld.com/article/2271509/google-q2-revenue-up-32-percent-2.html"
+  },
+  {
+   "label": "Google blog, \"Project Strobe\" (8 Oct 2018)",
+   "url": "https://blog.google/technology/safety-security/project-strobe/"
+  },
+  {
+   "label": "Alphabet Form 8-K exhibit, notice of derivative settlement (22 Oct 2020), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312520275550/d63784dex991.htm"
+  },
+  {
+   "label": "MIT Technology Review, \"Larry Page Makes Case Against His Own Motorola Purchase\" (30 Jan 2014)",
+   "url": "https://www.technologyreview.com/2014/01/30/82425/larry-page-makes-case-against-his-own-motorola-purchase/"
+  },
+  {
+   "label": "MIT Technology Review, \"Why Google Kept Motorola's Research Lab\" (4 Feb 2014)",
+   "url": "https://www.technologyreview.com/2014/02/04/174336/why-google-kept-motorolas-research-lab/"
+  },
+  {
+   "label": "IEEE Spectrum, \"Google Highlights Value of Patents in Motorola Sale to Lenovo\" (31 Jan 2014)",
+   "url": "https://spectrum.ieee.org/google-highlights-value-of-patents-in-motorola-sale-to-lenovo"
+  },
+  {
+   "label": "The New York Times DealBook, \"Did Google Really Lose on Its Original Motorola Deal?\" (29 Jan 2014)",
+   "url": "https://archive.nytimes.com/dealbook.nytimes.com/2014/01/29/did-google-really-lose-on-its-original-motorola-deal/index.html"
+  },
+  {
+   "label": "InfoWorld, \"How Google sold Motorola at a loss and came out ahead\" (31 Jan 2014)",
+   "url": "https://www.infoworld.com/article/2193699/how-google-sold-motorola-at-a-loss-and-came-out-ahead.html"
+  },
+  {
+   "label": "GeekWire, Alan Boyle, on ConsenSys buying Planetary Resources' assets (31 Oct 2018)",
+   "url": "https://www.geekwire.com/2018/consensys-blockchain-studio-acquires-planetary-resources-asteroid-mining-venture/"
+  },
+  {
+   "label": "AP, \"Google deal adds to company's robotics toolbox\" (16 Dec 2013)",
+   "url": "https://apnews.com/general-news-3365738a0cf2442badd651192d802c8d"
+  },
+  {
+   "label": "The Verge, \"Alphabet agrees to sell Boston Dynamics to SoftBank\" (8 Jun 2017)",
+   "url": "https://www.theverge.com/2017/6/8/15766434/alphabet-google-boston-dynamics-softbank-sale-acquisition-robotics"
+  },
+  {
+   "label": "The Guardian, \"Alphabet sells off 'BigDog' robot maker Boston Dynamics to Softbank\" (9 Jun 2017)",
+   "url": "https://www.theguardian.com/technology/2017/jun/09/alphabet-sells-off-bigdog-robot-maker-boston-dynamics-to-softbank-google"
+  },
+  {
+   "label": "MIT Technology Review, \"Google to Try to Solve Death, LOL\" (18 Sep 2013)",
+   "url": "https://www.technologyreview.com/2013/09/18/176407/google-to-try-to-solve-death-lol/"
+  },
+  {
+   "label": "NBC News / Live Science, \"Google's Anti-Aging Startup to Build Drug Research Center\" (4 Sep 2014)",
+   "url": "https://www.nbcnews.com/id/wbna55987232"
+  },
+  {
+   "label": "Google's Calico press release and posts by Page and Levinson, reproduced by Impact Lab (Sep 2013)",
+   "url": "https://www.impactlab.com/2013/09/24/google-hopes-to-cure-death-with-its-new-health-startup-calico/"
+  },
+  {
+   "label": "Nature Reviews Drug Discovery, \"Calico, Alphabet's anti-ageing play, goes it alone\" (12 Dec 2025)",
+   "url": "https://www.nature.com/articles/d41573-025-00205-9"
+  },
+  {
+   "label": "TechCrunch, on Pivotal's Helix sales (8 Jan 2024)",
+   "url": "https://techcrunch.com/2024/01/08/pivotal-kicks-off-u-s-sales-of-its-lightweight-electric-personal-aircraft/"
+  },
+  {
+   "label": "Pivotal press release, \"Opener Unveils Helix... Rebrands to Pivotal\" (5 Oct 2023)",
+   "url": "https://www.pivotal.aero/newsroom/opener-announces-helix-its-first-scalable-production-aircraft-changes-company-name-to-pivotal"
+  },
+  {
+   "label": "Business Insider, \"Larry Page's Flying Car Company Quietly Delays Shipments to 2025\" (9 Jul 2024)",
+   "url": "https://www.businessinsider.com/larry-page-pivotal-flying-car-company-quietly-delays-shipments-2024-7"
+  },
+  {
+   "label": "Ars Technica, \"Nest is done as a standalone Alphabet company\" (7 Feb 2018)",
+   "url": "https://arstechnica.com/gadgets/2018/02/nest-is-done-as-a-standalone-alphabet-company-merges-with-google/"
+  },
+  {
+   "label": "TechCrunch, \"Google Keeps 'Vast Majority' Of Motorola Mobility Patents\" (29 Jan 2014)",
+   "url": "https://techcrunch.com/2014/01/29/google-keeps-vast-majority-of-motorola-mobility-patents-in-sale-to-lenovo/"
+  },
+  {
+   "label": "Reuters, \"Google to buy artificial intelligence company DeepMind\" (27 Jan 2014)",
+   "url": "https://www.reuters.com/article/business/google-to-buy-artificial-intelligence-company-deepmind-idUSBREA0Q032/"
+  },
+  {
+   "label": "TechCrunch, \"Google Acquires Artificial Intelligence Startup DeepMind For More Than $500M\" (26 Jan 2014)",
+   "url": "https://techcrunch.com/2014/01/26/google-deepmind/"
+  },
+  {
+   "label": "Forbes, Sam Shead, \"Google's Complex Relationship With DeepMind Gets Exposed\" (20 Apr 2018)",
+   "url": "https://www.forbes.com/sites/samshead/2018/04/20/googles-complex-relationship-with-deepmind-gets-exposed/"
+  },
+  {
+   "label": "TIME, Walter Isaacson, \"Inside Elon Musk's Struggle for the Future of AI\" (6 Sep 2023)",
+   "url": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/"
+  },
+  {
+   "label": "The Guardian, Jemima Kiss, on the connections behind Google buying DeepMind (23 Jun 2014)",
+   "url": "https://www.theguardian.com/technology/2014/jun/23/the-connections-that-led-to-google-buyiing-deepmind"
+  },
+  {
+   "label": "Google blog, Sundar Pichai, \"Google DeepMind: Bringing together two world-class AI teams\" (20 Apr 2023)",
+   "url": "https://blog.google/technology/ai/april-ai-update/"
+  },
+  {
+   "label": "Royal Swedish Academy of Sciences, Nobel Prize in Chemistry 2024 press release (9 Oct 2024)",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2024/press-release/"
+  },
+  {
+   "label": "Reuters, \"With Alphabet, Google faces a daunting challenge: organising itself\" (27 Jun 2017)",
+   "url": "https://www.reuters.com/article/world/with-alphabet-google-faces-a-daunting-challenge-organising-itself-idUSKBN19I0FV/"
+  },
+  {
+   "label": "Sidewalk Labs press release, \"Dan Doctoroff and Google Announce Sidewalk Labs\" (10 Jun 2015)",
+   "url": "https://www.prnewswire.com/news-releases/dan-doctoroff-and-google-announce-sidewalk-labs-300097255.html"
+  },
+  {
+   "label": "The New York Times, \"Sidewalk Labs, a Start-Up Created by Google\" (10 Jun 2015)",
+   "url": "https://www.nytimes.com/2015/06/11/technology/sidewalk-labs-a-start-up-created-by-google-has-bold-aims-to-improve-city-living.html"
+  },
+  {
+   "label": "The Verge, \"Alphabet's Sidewalk Labs shuts down Toronto smart city project\" (7 May 2020)",
+   "url": "https://www.theverge.com/2020/5/7/21250594/alphabet-sidewalk-labs-toronto-quayside-shutting-down"
+  },
+  {
+   "label": "Reuters, on Alphabet folding Sidewalk Labs into Google (16 Dec 2021)",
+   "url": "https://www.reuters.com/technology/sidewalk-labs-ceo-battles-deadly-disease-alphabet-folds-unit-into-google-2021-12-16/"
+  },
+  {
+   "label": "Wisk Aero press release, \"$450 Million from The Boeing Company\" (24 Jan 2022)",
+   "url": "https://wisk.aero/newsroom/wisk-aero-secures-450-million-from-boeing"
+  },
+  {
+   "label": "The Air Current, \"Boeing takes Wisk fully under its wing\" (1 Jun 2023)",
+   "url": "https://theaircurrent.com/industry-strategy/boeing-wisk-fully-owned/"
+  },
+  {
+   "label": "TechCrunch, \"Google co-founder Larry Page reportedly has a new AI startup\" (6 Mar 2025)",
+   "url": "https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup"
+  },
+  {
+   "label": "Business Insider, Hugh Langley, on Page's entities leaving California (6 Jan 2026)",
+   "url": "https://www.businessinsider.com/larry-page-leave-california-wealth-billionaire-tax-koop-google-2026-1"
+  },
+  {
+   "label": "Reuters, \"Google to 'wind down' Google Labs\" (20 Jul 2011)",
+   "url": "https://www.reuters.com/article/technology/google-to-wind-down-google-labs-idUSN1E76J23P/"
+  },
+  {
+   "label": "The Washington Post, \"Alternatives to Google Reader\" (14 Mar 2013)",
+   "url": "https://www.washingtonpost.com/business/technology/alternatives-to-google-reader/2013/03/14/4c9ee4c4-8ca0-11e2-b63f-f53fb9f2fcb4_story.html"
+  },
+  {
+   "label": "The Verge, \"Google confirms the end of its modular Project Ara smartphone\" (2 Sep 2016)",
+   "url": "https://www.theverge.com/2016/9/2/12775922/google-project-ara-modular-phone-suspended-confirm"
+  },
+  {
+   "label": "CNBC, \"Google discontinues Google Glass Enterprise\" (15 Mar 2023)",
+   "url": "https://www.cnbc.com/2023/03/15/google-discontinues-google-glass-enterprise-end-to-early-ar-project.html"
+  },
+  {
+   "label": "The Economic Times, on Yahoo's rejected Google offers (20 Nov 2024)",
+   "url": "https://economictimes.indiatimes.com/news/international/global-trends/yahoo-rejected-two-phd-students-1-million-offer-for-their-site-heres-why-they-are-still-thankful-for-it/articleshow/115486083.cms"
+  },
+  {
+   "label": "Forbes, Fiona Riley, \"Alphabet Loses Almost $500 Billion In Market Value\" (29 Oct 2026)",
+   "url": "https://www.forbes.com/sites/fionariley/2026/10/29/google-parents-stock-tank-erases-nearly-500-billion-in-second-biggest-daily-market-cap-loss-ever/"
+  },
+  {
+   "label": "The Washington Post, \"Following a Rich Tradition\" (24 Jun 2004), with S-1 stake table",
+   "url": "https://www.washingtonpost.com/wp-dyn/articles/A790-2004Jun23.html"
+  },
+  {
+   "label": "Wired, Steven Levy, \"At Google, Eric Schmidt Wrote the Book on Adult Supervision\" (22 Dec 2017)",
+   "url": "https://www.wired.com/story/at-google-eric-schmidt-wrote-the-book-on-adult-supervision/"
+  },
+  {
+   "label": "Business Insider, \"Larry and Sergey Wanted Steve Jobs to Be Google's First CEO\" (29 Oct 2010)",
+   "url": "https://www.businessinsider.com/larry-and-sergey-wanted-steve-jobs-to-be-googles-first-ceo-2010-10"
+  },
+  {
+   "label": "Alphabet, 2026 proxy statement (DEF 14A, 24 Apr 2026), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm"
+  },
+  {
+   "label": "Harvard Business Review, David Garvin, \"How Google Sold Its Engineers on Management\" (Dec 2013)",
+   "url": "https://hbr.org/2013/12/how-google-sold-its-engineers-on-management"
+  },
+  {
+   "label": "The Mercury News / SiliconValley.com, \"2008: How Yahoo lost its way\" (16 Mar 2008)",
+   "url": "https://www.siliconvalley.com/2008/03/16/2008-how-yahoo-lost-its-way/"
+  },
+  {
+   "label": "Google press release, \"Google Launches Self-Service Advertising Program\" (23 Oct 2000)",
+   "url": "https://googlepress.blogspot.com/2000/10/google-launches-self-service.html"
+  },
+  {
+   "label": "The New York Times, \"Google and Yahoo Settle Dispute Over Search Patent\" (10 Aug 2004)",
+   "url": "https://www.nytimes.com/2004/08/10/business/technology-google-and-yahoo-settle-dispute-over-search-patent.html"
+  },
+  {
+   "label": "Acquired podcast, \"Google: The Origin of Search\" (30 Jun 2025), citing Ken Auletta's Googled",
+   "url": "https://www.acquired.fm/episodes/google"
+  },
+  {
+   "label": "The Guardian, David Teather, \"How Google got it so right\" (6 May 2002)",
+   "url": "https://www.theguardian.com/media/mediaguardian/story/0,7558,710539,00.html"
+  },
+  {
+   "label": "Los Angeles Times, \"Overture Loses AOL Contract to Google\" (2 May 2002)",
+   "url": "https://www.latimes.com/archives/la-xpm-2002-may-02-fi-overture2-story.html"
+  },
+  {
+   "label": "HackerNoon, on the AOL deal, quoting Ken Auletta's Googled (2009)",
+   "url": "https://hackernoon.com/the-single-deal-that-made-google-a-tech-unicorn-y45w32ll"
+  },
+  {
+   "label": "John Lilly, excerpt from Blitzscaling by Reid Hoffman (24 Jan 2017)",
+   "url": "https://johnolilly.com/2017/01/24/now-playing-blitzscaling.html"
+  },
+  {
+   "label": "InternetNews, \"Google Assured Liquid Shot at AOL\" (28 Dec 2005)",
+   "url": "https://www.internetnews.com/it-management/google-assured-liquid-shot-at-aol/"
+  },
+  {
+   "label": "Wired, Fred Vogelstein, \"How Yahoo Blew It\" (Feb 2007)",
+   "url": "https://www.wired.com/2007/02/yahoo-3/"
+  },
+  {
+   "label": "Los Angeles Times, \"Google Settles Yahoo Patent Suit in Anticipation of IPO\" (10 Aug 2004)",
+   "url": "https://www.latimes.com/archives/la-xpm-2004-aug-10-fi-google10-story.html"
+  },
+  {
+   "label": "Eugene Choo, \"Going Dutch: The Google IPO\", Berkeley Technology Law Journal",
+   "url": "https://lawcat.berkeley.edu/nanna/record/1119854/files/fulltext.pdf?withWatermark=0&withMetadata=0&registerDownload=1&version=1"
+  },
+  {
+   "label": "Google blog, Larry Page and Sergey Brin, \"A letter from Larry and Sergey\" (3 Dec 2019)",
+   "url": "https://blog.google/alphabet/letter-from-larry-and-sergey/"
+  },
+  {
+   "label": "The Guardian, \"Google forced to cut float price\" (19 Aug 2004)",
+   "url": "https://www.theguardian.com/technology/2004/aug/19/business.newmedia"
+  },
+  {
+   "label": "The Washington Post, \"Google Promises Fight Over Playboy Interview\" (13 Aug 2004)",
+   "url": "https://www.washingtonpost.com/wp-dyn/articles/A62660-2004Aug13.html"
+  },
+  {
+   "label": "ABC News (Australia), \"Google's stock auction off to rocky start\" (14 Aug 2004)",
+   "url": "https://www.abc.net.au/news/2004-08-14/googles-stock-auction-off-to-rocky-start/2025252"
+  },
+  {
+   "label": "NBC News / AP, \"Google surges 18% in Nasdaq debut\" (19 Aug 2004)",
+   "url": "https://www.nbcnews.com/id/wbna5743246"
+  },
+  {
+   "label": "CNN/Money, \"Google IPO priced at $85 a share\" (19 Aug 2004)",
+   "url": "https://edition.cnn.com/2004/BUSINESS/08/19/google.ipo/"
+  },
+  {
+   "label": "Reuters via Al Jazeera, \"Google shares debut with a splash\" (20 Aug 2004)",
+   "url": "https://www.aljazeera.com/news/2004/8/20/google-shares-debut-with-a-splash"
+  },
+  {
+   "label": "NBC News / AP, \"Google plans to sell 14.2 million more shares\" (18 Aug 2005)",
+   "url": "https://www.nbcnews.com/id/wbna8996003"
+  },
+  {
+   "label": "Google Inc., Form S-3 (18 Aug 2005), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312505170553/ds3.htm"
+  },
+  {
+   "label": "Financial Times, \"Google pays $3.1bn for DoubleClick\" (13 Apr 2007)",
+   "url": "https://www.ft.com/content/d2c64538-ea12-11db-91c7-000b5df10621"
+  },
+  {
+   "label": "AP via ABC7 New York, \"Will Steve Jobs' final vendetta haunt Google?\", citing Walter Isaacson's biography (2011)",
+   "url": "https://abc7ny.com/archive/8402386/"
+  },
+  {
+   "label": "Ashlee Vance, book excerpt via Australian Financial Review, \"How Google almost came to buy Tesla\" (21 Apr 2015)",
+   "url": "https://www.afr.com/technology/how-google-almost-came-to-buy-tesla-from-elon-musk-in-2013-20150421-1mpmei"
+  },
+  {
+   "label": "The Guardian, \"Google almost bought Tesla when it had just two weeks of cash left\" (21 Apr 2015)",
+   "url": "https://www.theguardian.com/technology/2015/apr/21/google-almost-bought-tesla-elon-musk-larry-page"
+  },
+  {
+   "label": "AFP via Phys.org, \"Musk approached Google on Tesla sale in 2013: book\" (20 Apr 2015)",
+   "url": "https://phys.org/news/2015-04-musk-approached-google-tesla-sale.html"
+  },
+  {
+   "label": "Google Inc., Form 8-K on the Transfer Restriction Agreements (Mar 2014), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312514116456/d699871d8k.htm"
+  },
+  {
+   "label": "Google Class C litigation, Memorandum of Understanding (2013), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1288776/000128877613000040/memorandumofunderstanding.htm"
+  },
+  {
+   "label": "Law360, \"Chancery Won't Up Attys Fees To $25M In Google Stock Case\" (30 Jul 2015)",
+   "url": "https://www.law360.com/articles/674521/chancery-won-t-up-attys-fees-to-25m-in-google-stock-case"
+  },
+  {
+   "label": "Alphabet, Class C Undertaking (Oct 2015), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312515336577/d82837dex46.htm"
+  },
+  {
+   "label": "The New York Times via The Seattle Times, \"How Google protected Andy Rubin\" (25 Oct 2018)",
+   "url": "https://www.seattletimes.com/business/how-google-protected-andy-rubin-the-father-of-android/"
+  },
+  {
+   "label": "The New York Times, \"Google Overhauls Sexual Misconduct Policy After Employee Walkout\" (8 Nov 2018)",
+   "url": "https://www.nytimes.com/2018/11/08/technology/google-arbitration-sexual-harassment.html"
+  },
+  {
+   "label": "Bloomberg, \"Google Board Sued for Hushing Claims of Executive Misconduct\" (10 Jan 2019)",
+   "url": "https://www.bloomberg.com/news/articles/2019-01-10/google-board-sued-for-hushing-misconduct-claims-against-rubin"
+  },
+  {
+   "label": "The New York Times, \"Alphabet Settles Shareholder Suits Over Sexual Harassment Claims\" (25 Sep 2020)",
+   "url": "https://www.nytimes.com/2020/09/25/technology/google-sexual-harassment-lawsuit-settlement.html"
+  },
+  {
+   "label": "CBS News / AP, on the $310 million settlement (25 Sep 2020)",
+   "url": "https://www.cbsnews.com/news/andy-rubin-google-settlement-sexual-harassment-android-creator-310-million/"
+  },
+  {
+   "label": "The New York Times, \"Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT\" (20 Jan 2023)",
+   "url": "https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html"
+  },
+  {
+   "label": "The Indian Express, reprint of the New York Times report on Page and Brin and ChatGPT (20 Jan 2023)",
+   "url": "https://indianexpress.com/article/technology/google-calls-in-help-from-larry-page-and-sergey-brin-for-ai-fight-8393693/"
+  },
+  {
+   "label": "Forbes, \"Back At Google Again, Cofounder Sergey Brin Just Filed His First Code Request In Years\" (31 Jan 2023)",
+   "url": "https://www.forbes.com/sites/richardnieva/2023/01/31/sergey-brin-code-request-lamda/"
+  },
+  {
+   "label": "Reuters, \"Google has an illegal monopoly on search, US judge finds\" (5 Aug 2024)",
+   "url": "https://www.reuters.com/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/"
+  },
+  {
+   "label": "AP, \"Google illegally maintains monopoly over internet search, judge rules\" (5 Aug 2024)",
+   "url": "https://apnews.com/article/google-antitrust-search-engine-verdict-apple-319a61f20fb11510097845a30abaefd8"
+  },
+  {
+   "label": "NPR, \"A judge lets Google keep Chrome but levies other penalties\" (2 Sep 2025)",
+   "url": "https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling"
+  },
+  {
+   "label": "BBC News, \"Google appeals landmark antitrust verdict over search monopoly\" (17 Jan 2026)",
+   "url": "https://www.bbc.com/news/articles/clyn0ek5rdpo"
+  },
+  {
+   "label": "The Verge, \"Google dodges another breakup attempt\" (2 Sep 2026)",
+   "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision"
+  },
+  {
+   "label": "European Commission press release, \"Commission fines Google €2.95 billion\" (5 Sep 2025)",
+   "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1992/IP_25_1992_EN.pdf"
+  },
+  {
+   "label": "Reuters, \"Google hit with $3.45 billion EU antitrust fine\" (5 Sep 2025)",
+   "url": "https://www.reuters.com/legal/litigation/google-hit-with-345-billion-eu-antitrust-fine-over-adtech-practices-2025-09-05/"
+  },
+  {
+   "label": "Reuters, \"Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion\" (14 Aug 2026)",
+   "url": "https://www.reuters.com/business/finance/alphabets-spacex-bet-grows-100-fold-over-decade-94-billion-2026-08-14/"
+  },
+  {
+   "label": "Fortune via Yahoo Finance, \"Anthropic and SpaceX just handed Google the biggest profit quarter in company history\" (22 Jul 2026)",
+   "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-spacex-just-handed-google-232430471.html"
+  },
+  {
+   "label": "Value Add Pulse, on Alphabet's SpaceX and Anthropic stakes, citing Bloomberg and the Q2 10-Q (23 Jul 2026)",
+   "url": "https://valueaddvc.com/pulse/google-94b-spacex-124b-anthropic-stakes-2026"
+  },
+  {
+   "label": "CNBC, \"Big Tech's Anthropic and OpenAI stakes distort corporate earnings\" (3 Aug 2026)",
+   "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html"
+  },
+  {
+   "label": "MediaPost, \"Anthropic, SpaceX Hand Google Profit Windfall\" (23 Jul 2026)",
+   "url": "https://www.mediapost.com/publications/article/416750/anthropic-spacex-hand-google-profit-windfall.html"
+  },
+  {
+   "label": "Alphabet press release, \"$84.75 Billion Equity Capital Raise\" (2 Jun 2026), SEC",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526257724/d83560dex992.htm"
+  },
+  {
+   "label": "Business Today, \"Larry Page enters $300 billion club\" (16 Jul 2026)",
+   "url": "https://www.businesstoday.in/technology/news/story/larry-page-enters-300-billion-club-amid-alphabet-stock-surge-543417-2026-07-16"
+  },
+  {
+   "label": "CNBC, \"Alphabet (GOOGL) earnings Q3 2026\" (28 Oct 2026)",
+   "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+  },
+  {
+   "label": "CNBC, \"Alphabet tanks nearly 13% for worst day ever\" (29 Oct 2026)",
+   "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+  },
+  {
+   "label": "Forbes via Yahoo Finance, Fiona Riley, \"Google's Larry Page Ascends To World's Third-Richest\" (30 Oct 2026)",
+   "url": "https://uk.finance.yahoo.com/news/google-larry-page-ascends-world-161234523.html"
+  },
+  {
+   "label": "USA Today, \"Google's Page, Brin stay at $1 a year\" (28 Mar 2014)",
+   "url": "https://www.usatoday.com/story/money/business/2014/03/28/googles-page-brin-stay-at-1-a-year/7022369/"
+  },
+  {
+   "label": "Forbes, Larry Page profile, Real Time Net Worth (read 2 Nov 2026, as of 1 Nov 2026)",
+   "url": "https://www.forbes.com/profile/larry-page/"
+  },
+  {
+   "label": "Alphabet, prospectus supplement (June 2026), hosted by Stifel",
+   "url": "https://www.stifel.com/prospectusfiles/PD_9307.pdf"
+  },
+  {
+   "label": "The Telegraph, on Page and Brin leaving Alphabet's top jobs (4 Dec 2019)",
+   "url": "https://www.telegraph.co.uk/technology/2019/12/04/google-founders-larry-page-sergey-brin-left-alphabet-avoid-bill/"
+  },
+  {
+   "label": "Nairametrics, citing Forbes, on Page's net worth (8 Jan 2026)",
+   "url": "https://nairametrics.com/2026/01/08/larry-page-adds-6-billion-to-his-networth-as-alphabet-shares-rise/"
+  },
+  {
+   "label": "Forbes via Forbes Australia, Ty Roush, \"Larry Page's worth over $300 billion for first time\" (2026)",
+   "url": "https://www.forbes.com.au/news/billionaires/larry-pages-worth-over-300-billion-for-first-time-amid-alphabet-earnings-rally/"
+  },
+  {
+   "label": "Los Angeles Times, \"Support dwindles for wealth tax\" (29 Oct 2026)",
+   "url": "https://www.latimes.com/california/story/2026-10-29/support-dwindles-for-wealth-tax-voter-id-ballot-measures-poll-shows"
+  },
+  {
+   "label": "The New York Times, \"Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California\" (9 Jan 2026)",
+   "url": "https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html"
+  },
+  {
+   "label": "Fortune, on Page's Miami purchases and the wealth tax (8 Jan 2026)",
+   "url": "https://fortune.com/2026/01/08/google-billionaire-larry-page-moves-to-florida-wealth-tax-jeff-bezos-playbook/"
+  },
+  {
+   "label": "The New York Times, \"A Wealth Tax Floated in California Has Billionaires Thinking of Leaving\" (26 Dec 2025)",
+   "url": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html"
+  }
+ ]
+}

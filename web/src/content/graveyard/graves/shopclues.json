@@ -1,0 +1,205 @@
+{
+  "slug": "shopclues",
+  "name": "ShopClues",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "E-commerce marketplace",
+  "founded": 2011,
+  "died": 2019,
+  "status": "sold-for-parts",
+  "brandColor": "#24a1d6",
+  "founders": [
+    { "name": "Sandeep Aggarwal", "role": "Co-founder, first CEO" },
+    { "name": "Radhika Aggarwal", "role": "Co-founder, Chief Business Officer" },
+    { "name": "Sanjay Sethi", "role": "Co-founder, CEO from 2013" }
+  ],
+
+  "epitaph": "Sold everything cheap. Including itself.",
+  "oneLiner": "An online bazaar selling low-cost, mostly unbranded goods to shoppers in India's small towns, through lakhs of small sellers.",
+  "causeOfDeath": "Amazon and Flipkart reached small towns with more money and more trust; ShopClues ran out of cash, buyers and investors, and sold at a 90%+ discount.",
+
+  "raisedUsdM": 257,
+  "peakValuationUsdM": 1100,
+  "endValueUsdM": null,
+  "moneyNote": "Funding total is the Crunchbase figure cited by Business Today and Scroll (TechCrunch says 'more than $250M'). The $1.1B valuation was the company's own claim in 2016. The 2019 sale price was never disclosed; reports range from $50M to $100M, so it is left blank. Rupee figures are as filed.",
+  "moneySrc": [1, 2, 3],
+
+  "inOneMinute": [
+    "ShopClues was the **'online Chandni Chowk'**: cheap, unbranded goods for small-town India, sold by lakhs of tiny sellers.",
+    "In 2016 it claimed a **$1.1 billion** valuation and promised a stock market listing within a year.",
+    "Three years later it was **sold for an estimated $50–100 million**, after a founder fight, failed rescue deals and shrinking orders."
+  ],
+  "killerLine": "Being cheapest is not a moat. **Once giants arrive in your market, trust and delivery beat low prices.**",
+
+  "numbers": [
+    { "value": "$1.1 bn", "label": "valuation ShopClues claimed in January 2016", "src": [0, 1] },
+    { "value": "$50–100 mn", "label": "reported price when Qoo10 bought it in 2019 (all in shares)", "src": [1, 9] },
+    { "value": "85K → <30K", "label": "daily orders, 2014 peak vs 2017–18", "src": [0] },
+    { "value": "1.6% → <0.5%", "label": "its share of Indian online shopping, 2018 vs 2019", "src": [3] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: Lajpat Nagar, but online",
+      "body": "Sandeep Aggarwal was a Wall Street analyst who tracked internet companies. In December 2011 he came back to India and started ShopClues with his wife Radhika Aggarwal and Sanjay Sethi. Amazon and Flipkart were chasing big-city shoppers buying branded phones and books. ShopClues went the other way. It sold **cheap, unbranded goods to small-town India**: kitchen tools, keychains, home items, even cow-dung cakes in a Diwali puja kit. Sandeep called it \"the Lajpat Nagar or Lamington Road of online marketplaces\". It was a smart insight. Millions of Indians outside the metros wanted to shop online, and nobody was building for them. By March 2013 it had raised about $15 million from investors like Helion and Nexus.",
+      "src": [2, 5, 0]
+    },
+    {
+      "title": "The rise: a unicorn with a cloud over it",
+      "body": "In July 2013 the FBI arrested Sandeep in San Jose on insider-trading charges (using secret company information to trade shares) from his old analyst job. He stepped down and Sanjay Sethi became CEO. The business kept growing anyway. In 2014 ShopClues hit **more than 85,000 orders a day**. It raised $100 million in January 2015. In January 2016 it said it had become a **unicorn, worth $1.1 billion**, after money from Singapore's GIC, Tiger Global and Nexus. Sethi told TechCrunch it would list on the stock market within a year. Sales for the year to March 2016 more than doubled to ₹161 crore. On paper, ShopClues was one of India's biggest startups.",
+      "src": [5, 0, 1, 3]
+    },
+    {
+      "title": "The cracks: giants, returns and a public fight",
+      "body": "Then the giants came to small towns too. Flipkart raised nearly $8 billion and Snapdeal $1.8 billion; ShopClues' own big investors put their energy into those rivals. One source said ShopClues was **\"orphaned\"**. Sales growth slowed to 12% in the year to March 2017. Selling unbranded goods from small sellers also meant **quality complaints and many returns**. Every return costs a marketplace twice: once to ship, once to bring back. In March 2017 things turned ugly. Sandeep filed a criminal defamation case against Sethi and Radhika, saying they had downplayed his role, and the fight spilled onto Facebook. By 2017–18, daily orders had dropped **below 30,000**.",
+      "src": [3, 2, 0, 9]
+    },
+    {
+      "title": "The fall: nobody would buy, until someone did",
+      "body": "ShopClues cut costs hard. Losses fell from ₹208 crore in FY18 to ₹69 crore in FY19. But revenue fell too, by about a quarter, because cutting ads also cut customers. In early 2019 a deal to merge with Snapdeal, at roughly $200 million, fell apart. More than 200 people were let go. It had also held talks with Flipkart, Amazon India and Paytm. On 31 October 2019, Singapore's Qoo10 bought ShopClues **in an all-share deal**. People familiar with it put ShopClues' value at **$50–80 million**, around 7% of its claimed peak. Media called it one of the biggest valuation crashes for any Indian startup.",
+      "src": [8, 7, 1, 4, 2]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Dec 2011", "event": "ShopClues launches; raises a seed round of over $2 million", "kind": "start", "src": [0, 5] },
+    { "date": "Mar 2013", "event": "Raises ₹54 crore (about $10 million) from Helion, Nexus and others", "kind": "money", "src": [5] },
+    { "date": "Jul 2013", "event": "Co-founder Sandeep Aggarwal arrested in the US on insider-trading charges; Sanjay Sethi becomes CEO", "kind": "crisis", "src": [5, 0] },
+    { "date": "2014", "event": "Peaks at more than 85,000 orders a day", "kind": "peak", "src": [0] },
+    { "date": "Jan 2015", "event": "Raises a $100 million Series D", "kind": "money", "src": [0] },
+    { "date": "Jan 2016", "event": "Claims $1.1 billion valuation after Series E led by GIC, Tiger Global and Nexus; promises IPO within a year", "kind": "peak", "src": [0, 1] },
+    { "date": "Mar 2017", "event": "Sandeep files a criminal defamation case against Sethi and Radhika; the founder fight goes public", "kind": "warning", "src": [2] },
+    { "date": "2017–18", "event": "Daily orders fall below 30,000", "kind": "warning", "src": [0] },
+    { "date": "Early 2019", "event": "Merger talks with Snapdeal at about $200 million collapse; 200+ staff let go by July", "kind": "crisis", "src": [1, 4] },
+    { "date": "31 Oct 2019", "event": "Qoo10 of Singapore buys ShopClues in an all-share deal, reportedly valuing it at $50–80 million", "kind": "end", "src": [1] },
+    { "date": "Feb 2020", "event": "Sandeep Aggarwal's company Droom says the US Justice Department has dropped all charges against him", "kind": "after", "src": [6] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY16", "FY17", "FY18", "FY19"],
+      "series": [
+        { "name": "Revenue from sales", "values": [161, 180, 271, 204.07] },
+        { "name": "Net loss", "values": [null, null, 208.14, 68.68] }
+      ],
+      "takeaway": "ShopClues shrank its losses in the end, but only by shrinking the business. Revenue fell a quarter in FY19.",
+      "src": [3, 7, 8]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Dec 2011", "round": "Seed", "amountUsdM": 2, "valuationUsdM": null, "investors": [], "src": [0] },
+    { "date": "Mar 2013", "round": "Venture round", "amountUsdM": 10, "valuationUsdM": null, "investors": ["Helion Venture Partners", "Nexus Venture Partners", "Teruhide Sato"], "src": [5] },
+    { "date": "Jan 2015", "round": "Series D", "amountUsdM": 100, "valuationUsdM": null, "investors": [], "src": [0] },
+    { "date": "Jan 2016", "round": "Series E", "amountUsdM": null, "valuationUsdM": 1100, "investors": ["GIC", "Tiger Global Management", "Nexus Venture Partners"], "src": [0, 1] },
+    { "date": "2018", "round": "Unannounced round", "amountUsdM": 16, "valuationUsdM": null, "investors": [], "src": [1] }
+  ],
+
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "burn", "weight": 25 },
+    { "key": "team", "weight": 20 },
+    { "key": "business-model", "weight": 20 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "A moat made only of low prices",
+      "explain": "ShopClues won small towns by being cheap. But once marketplaces became common, **rivals could copy the model and the prices**. Analysts said it lost its cost edge and did not improve the shopping experience as buyers grew pickier. When Amazon and Flipkart arrived with faster delivery and more trust, cheap was not enough.",
+      "src": [3, 9]
+    },
+    {
+      "title": "Weak control over quality",
+      "explain": "Lakhs of small, unorganised sellers meant **uneven quality and a reputation for fake or poor products**. Reports estimate returns at 30–40%. Each return eats the profit of several good orders. Moving into fridges and electronics made it worse: as one source put it, \"You can lose a lot of money selling refrigerators.\"",
+      "src": [9, 3]
+    },
+    {
+      "title": "A founder fight in public",
+      "explain": "After Sandeep's 2013 arrest, he was moved aside. In 2017 he filed a criminal defamation case against his co-founders and posted angry messages online. **Investors watching a founder war are slow to write cheques**, and leaders fighting each other are not fighting competitors. This happened just when ShopClues needed fresh money most.",
+      "src": [2, 0, 9]
+    },
+    {
+      "title": "Saying no to better offers",
+      "explain": "Business Today reported that ShopClues **turned down higher acquisition offers** in the three years before the sale. By 2019 the Snapdeal deal at about $200 million also failed. It finally sold for a reported $50–80 million. Waiting for the 'right' price cost shareholders dearly.",
+      "src": [3, 1]
+    },
+    {
+      "title": "Promising an IPO it could not deliver",
+      "explain": "In 2016 the CEO said ShopClues would go public within a year. Instead, sales growth slowed to 12% the next year. **Big public promises raise expectations you then have to meet.** When the numbers did not follow, it became harder to raise money, and its big investors backed bigger rivals instead.",
+      "src": [1, 3]
+    }
+  ],
+
+  "warningSigns": [
+    "If a much richer rival matched our prices tomorrow, would customers lose their reason to choose us?",
+    "Are returns or complaints eating more than a small share of our orders?",
+    "Do our own investors also back our biggest competitor?",
+    "Are the founders arguing about roles or credit, and has it spilled outside the company?",
+    "Have we turned down a real offer for the company without a written plan for the downside?",
+    "When we cut marketing, does revenue fall almost as fast as costs?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Find the advantage giants cannot copy",
+      "detail": "ShopClues saw small-town India first. That head start was real, but temporary. Ask: what will still make us better after Amazon notices us? It could be local language support, a special supplier network, or a community. Price alone rarely lasts."
+    },
+    {
+      "title": "Police quality from day one",
+      "detail": "On a marketplace, a bad seller damages your name, not theirs. Set rules, check sellers, and remove repeat offenders even if it hurts short-term sales. Trust is the product."
+    },
+    {
+      "title": "Put the co-founder deal on paper",
+      "detail": "Write down roles, equity, decision rights and what happens if someone has to step away. Do it while you are still friends. A clear agreement turns a future crisis into a process, not a public fight."
+    },
+    {
+      "title": "Don't promise dates you can't control",
+      "detail": "Saying 'IPO next year' to the press makes a headline, but missing it makes a worse one. Share goals with investors privately, and talk publicly about things you already have in hand."
+    },
+    {
+      "title": "Check who else your investors are backing",
+      "detail": "Many big funds back several companies in the same space. When the market picks a winner, they may put their next cheque there. Raise from people who are betting on you specifically, and keep a cash cushion."
+    }
+  ],
+
+  "quote": {
+    "text": "Consumers don't buy from a company because they have raised huge funding.",
+    "who": "K. Vaitheeswaran, founder of FabMart (an early Indian e-commerce company)",
+    "context": "Commenting to Inc42 on ShopClues' fall in November 2019.",
+    "src": [0]
+  },
+
+  "afterlife": {
+    "text": "Qoo10 took over ShopClues, including its delivery service and its reseller app Ezonow, and said Indian sellers could now reach shoppers in Southeast Asia. ShopClues never regained its old scale. Sandeep Aggarwal went on to found Droom, a used-car marketplace; in February 2020 Droom said the US Justice Department had dismissed all charges against him, though he had earlier said \"I know what I did was wrong\". Droom itself was later reported to face GST investigations.",
+    "src": [1, 6, 9]
+  },
+
+  "sources": [
+    { "label": "Inc42: ShopClues — tracing the fall of the one-time unicorn (Nov 2019)", "url": "https://inc42.com/features/shopclues-tracing-the-fall-of-the-one-time-ecommerce-unicorn" },
+    { "label": "TechCrunch: Qoo10 acquires ShopClues (Oct 2019)", "url": "https://techcrunch.com/2019/10/31/qoo10-shopclues/" },
+    { "label": "Scroll: What ShopClues' sale for a pittance tells us about Indian e-commerce", "url": "https://scroll.in/article/942355/what-shopclues-sale-for-a-pittance-tells-us-about-indian-e-commerce" },
+    { "label": "Business Today: Fall of a unicorn — why did ShopClues implode? (Nov 2019)", "url": "https://www.businesstoday.in/amp/latest/corporate/story/fall-of-an-unicorn-why-did-shopclues-implode-238541-2019-11-01" },
+    { "label": "Business Today: End of the road for ShopClues? (Jul 2019)", "url": "https://www.businesstoday.in/amp/latest/story/end-of-the-road-for-shopclues-217197-2019-07-25" },
+    { "label": "MediaNama: FBI arrests ShopClues CEO Sandeep Aggarwal (Jul 2013)", "url": "https://www.medianama.com/2013/07/223-fbi-arrests-shopclues-ceo-sandeep-aggarwal-on-insider-trading-charges" },
+    { "label": "Inc42: US DOJ drops insider trading charges against Sandeep Aggarwal (Feb 2020)", "url": "https://inc42.com/?p=195347" },
+    { "label": "Inc42: ShopClues revenue up 46%, trims losses by 40% in FY18", "url": "https://inc42.com/buzz/shopclues-revenue-up-46-trims-losses-by-40-in-fy18" },
+    { "label": "Inc42: ShopClues narrows losses to ₹68 Cr in FY19", "url": "https://inc42.com/?p=185877" },
+    { "label": "IANS: How ShopClues collapsed from a $1.1 billion unicorn to a distress sale (Apr 2026)", "url": "https://ianslive.in/how-shopclues-collapsed-from-a-11-billion-unicorn-to-a-distress-sale--20260409140548" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "ShopClues was a $1.1 billion unicorn.", "note": "This was the company's own claim in January 2016; The Times of India reported at the time that the claim was false (per Scroll). Shown as 'claimed'." },
+      { "claim": "Size of the January 2016 Series E.", "note": "Inc42 says $100 million; TechCrunch says about $140 million. Left blank in rounds." },
+      { "claim": "The Qoo10 sale price.", "note": "Never disclosed. TechCrunch's sources said $50–80 million; Economic Times reported $70–100 million; Business Today said about $100 million." },
+      { "claim": "Personal allegations made in the 2017 founder dispute.", "note": "Sandeep Aggarwal made personal accusations on Facebook (later deleted). These were never proven and are left out of the story." },
+      { "claim": "Return rates of 30–40%.", "note": "An estimate cited in an IANS retrospective, not a company figure." },
+      { "claim": "Sandeep Aggarwal's legal outcome.", "note": "Reports say he pleaded guilty in 2013; Droom said in 2020 that all charges were dismissed. The court reasons were not published in the sources we read." }
+    ]
+  }
+}

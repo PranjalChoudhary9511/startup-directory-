@@ -1,0 +1,475 @@
+{
+  "slug": "gomechanic",
+  "name": "GoMechanic",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Car servicing",
+  "founded": 2016,
+  "died": 2023,
+  "status": "sold-for-parts",
+  "brandColor": "#e31e24",
+  "founders": [
+    {
+      "name": "Amit Bhasin",
+      "role": "Co-founder, CEO"
+    },
+    {
+      "name": "Kushal Karwa",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Rishabh Karwa",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Nitin Rana",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Fixed every car. Except its own books.",
+  "oneLiner": "An app to book car servicing and repairs through a network of partner garages, with fixed prices and doorstep pick-up.",
+  "causeOfDeath": "Its founders admitted 'grave errors' in financial reporting; once investors found inflated revenue, funding vanished and the company was auctioned off.",
+  "raisedUsdM": 62,
+  "peakValuationUsdM": 325,
+  "endValueUsdM": null,
+  "moneyNote": "Funding total ($62M) and the ~$325M peak valuation (June 2021 round led by Tiger Global) are from Tracxn and Entrackr as cited by TechCrunch. The 2023 auction price was never disclosed; TechCrunch reported the valuation had been slashed to about $30M. Rupee figures are from filings; ~₹75 per dollar used for FY22 comparisons.",
+  "moneySrc": [
+    1,
+    2,
+    5,
+    10
+  ],
+  "inOneMinute": [
+    "GoMechanic made car servicing simple: book on an app, fixed prices, 900+ partner garages. Tiger Global discussed a **$1.2 billion valuation** in 2022.",
+    "Outside due diligence reportedly found **inflated revenue and fake garages**. The founders admitted \"grave errors\" in financial reporting.",
+    "It cut **70% of staff** and was auctioned in 2023. The business was later rebuilt by new owners, without its founders."
+  ],
+  "killerLine": "Your numbers are your reputation. **One inflated figure can wipe out years of real work in a single due-diligence report.**",
+  "numbers": [
+    {
+      "value": "$1.2 bn",
+      "label": "valuation discussed with Tiger Global in Feb 2022 (deal never happened)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "₹2.32",
+      "label": "spent for every ₹1 of revenue in FY22",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "70%",
+      "label": "of staff let go in January 2023",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "value": "~$20 mn",
+      "label": "valuation by November 2023, after the auction",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a trustworthy mechanic, on an app",
+      "body": "Every car owner in India knows the fear: you take your car to a garage and have no idea if the bill is fair. In 2016 four young founders in Gurugram, Amit Bhasin, Kushal Karwa, Rishabh Karwa and Nitin Rana, started GoMechanic to fix that. You booked a service on the app, saw a **fixed price upfront**, and a partner garage did the work, often with doorstep pick-up. GoMechanic did not own garages. It signed up local workshops and gave them customers, training and standard prices. It was a real problem and a smart, light model. By December 2019 it had 150+ workshops in five cities and raised ₹105 crore led by Chiratae Ventures and Sequoia.",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "title": "The rise: a unicorn in sight",
+      "body": "In June 2021 GoMechanic raised **$35–42 million led by Tiger Global**, at a valuation of about $325 million. The company said it had serviced over 2 million cars. By early 2022 it claimed 900+ workshops in 60+ cities, including the UK, Europe and the Middle East. An investor presentation from December 2021 claimed **annual net revenue above $50 million**. In February 2022 TechCrunch reported Tiger Global was in talks to lead a new round at a **$1.2 billion valuation**. That would have made GoMechanic a unicorn. Meanwhile the real costs were huge. In FY22 it spent ₹65 crore on ads alone, and ₹2.32 for every ₹1 it earned.",
+      "src": [
+        10,
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: the numbers don't add up",
+      "body": "Big investors check the books before they put in money. This is called due diligence. During the 2022 talks, an EY review reportedly found **inflated revenue and some fictitious garages**. The Tiger Global round fell apart. Later talks with Malaysia's Khazanah and SoftBank also collapsed. The filed accounts told a smaller story than the pitch: **operating revenue of ₹91 crore in FY22** (about $12 million), with a loss of ₹114 crore, four times the year before. Even the company's own claims shifted: 2 million cars serviced in June 2021, but \"over 800,000\" in a January 2022 investor update. GoMechanic had been unable to raise money for over a year and was running out of cash.",
+      "src": [
+        1,
+        3,
+        10,
+        0
+      ]
+    },
+    {
+      "title": "The fall: a confession and an auction",
+      "body": "On 18 January 2023 Amit Bhasin posted on LinkedIn. He admitted **\"grave errors in judgement as we followed growth at all costs\"**, said the founders took full responsibility, and announced that about 70% of staff would be let go. Investors, including Sequoia and Tiger Global, issued a joint statement saying they were \"deeply distressed by the fact that the founders knowingly misstated facts\", and ordered an outside investigation. The company was put up for sale. In March 2023 Servizzy, a group led by auto-parts maker Lifelong, won the auction. The price was not disclosed, but the valuation had reportedly fallen to about $30 million. All the co-founders left.",
+      "src": [
+        1,
+        2,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "GoMechanic founded in Gurugram by four co-founders",
+      "kind": "start",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "date": "Dec 2019",
+      "event": "Raises ₹105 crore Series B led by Chiratae and Sequoia; 150+ workshops in five cities",
+      "kind": "money",
+      "src": [
+        9
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "event": "Tiger Global leads Series C at about $325 million valuation; claims 2 million cars serviced",
+      "kind": "money",
+      "src": [
+        10,
+        5
+      ]
+    },
+    {
+      "date": "Dec 2021",
+      "event": "Investor deck claims annual net revenue above $50 million",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2022",
+      "event": "Tiger Global in talks to invest at a $1.2 billion valuation",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2022",
+      "event": "Due diligence reportedly finds inflated revenue and fictitious garages; Tiger, Khazanah and SoftBank talks collapse",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "event": "FY22 filings show ₹91 crore revenue and ₹114 crore loss",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "18 Jan 2023",
+      "event": "Co-founder Amit Bhasin admits 'grave errors' in financial reporting; 70% of staff let go",
+      "kind": "crisis",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "Mar 2023",
+      "event": "Lifelong-led consortium Servizzy wins the auction; price not disclosed",
+      "kind": "end",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "event": "Raises about $6 million at about $20 million valuation; co-founders have left",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Nov–Dec 2025",
+      "event": "Car marketplace Spinny reported set to buy GoMechanic after a turnaround",
+      "kind": "after",
+      "src": [
+        6,
+        7
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss (filed accounts)",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY19",
+        "FY20",
+        "FY21",
+        "FY22"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            17.8,
+            25.2,
+            34,
+            91
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            null,
+            null,
+            27,
+            114
+          ]
+        }
+      ],
+      "takeaway": "In FY22 losses grew 4× while revenue grew 2.7×: growth was being bought with ads and discounts.",
+      "src": [
+        8,
+        3
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Nov–Dec 2019",
+      "round": "Series B",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Chiratae Ventures",
+        "Sequoia Capital",
+        "Orios Venture Partners"
+      ],
+      "src": [
+        9
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "round": "Series C",
+      "amountUsdM": 35,
+      "valuationUsdM": 325,
+      "investors": [
+        "Tiger Global",
+        "Sequoia Capital",
+        "Orios Venture Partners",
+        "Chiratae Ventures"
+      ],
+      "src": [
+        10,
+        0
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "round": "Post-auction round",
+      "amountUsdM": 6,
+      "valuationUsdM": 20,
+      "investors": [
+        "Sunil Kant Munjal (Hero Enterprise)",
+        "Gensol Engineering",
+        "Emerge Capital",
+        "Lifelong",
+        "Stride Ventures"
+      ],
+      "src": [
+        5
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 45
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "governance",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Misreporting the numbers to investors",
+      "explain": "The founders told investors of **\"serious inaccuracies in the company's financial reporting\"**, and investors said the founders had acknowledged inflating revenue. Due diligence reportedly found fictitious garages too. Once trust in the numbers broke, no investor would fund the company, even though a real business existed underneath.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Growth at all costs",
+      "explain": "Bhasin's own words. In FY22 GoMechanic spent **₹65 crore on ads**, its biggest cost, and ₹2.32 for every ₹1 of revenue. Losses grew four-fold. Pressure to show fast growth to justify a unicorn valuation is exactly the pressure that tempts teams to dress up numbers.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "Chasing a valuation the books could not support",
+      "explain": "The company's pitch pointed to a **$1.2 billion valuation**, while the filed accounts showed about $12 million of operating revenue. Big rounds bring deep checks. The higher the valuation you chase, the harder outsiders look, and gaps get found. Strong businesses survive checks; weak numbers rarely do.",
+      "src": [
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "title": "A partner network nobody verified",
+      "explain": "GoMechanic didn't own garages; it listed partners. That made it fast to grow but **easy to overstate**. If you can't prove every workshop on your list is real and active, the list means nothing. Investors with board seats also missed the problems until outside auditors came in.",
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do the numbers in our pitch deck differ from the numbers in our filed accounts?",
+    "Have we ever rounded up, 'annualised' or projected a number without saying so?",
+    "Would we be nervous if an outside auditor checked every partner or customer we list?",
+    "Are we spending more than ₹2 for every ₹1 of revenue to hit a growth target set by fundraising?",
+    "Is one founder the only person who sees the full financial data?",
+    "Have we told investors different numbers at different times for the same metric?"
+  ],
+  "lessons": [
+    {
+      "title": "One set of numbers, always",
+      "detail": "Keep one source of truth for revenue, customers and partners, and use it in every deck, filing and board meeting. If a metric is a projection or a run-rate, label it clearly."
+    },
+    {
+      "title": "Assume someone will check",
+      "detail": "Every serious investor runs due diligence. Write every number as if an auditor will verify it line by line, because eventually one will."
+    },
+    {
+      "title": "Verify your own supply",
+      "detail": "If your business is a network of partners (garages, sellers, drivers), audit it yourself. Visit a random sample every month. Remove inactive partners from the count."
+    },
+    {
+      "title": "Don't let the valuation set the plan",
+      "detail": "Chasing a unicorn tag pushes you to spend and to stretch numbers. Grow at the speed your real unit economics allow, and raise at a valuation you can defend."
+    },
+    {
+      "title": "Tell bad news early",
+      "detail": "Bhasin's confession came after the cash ran low. Telling your board early when numbers are wrong is painful, but it gives everyone more options and keeps your reputation alive."
+    }
+  ],
+  "quote": {
+    "text": "grave errors in judgement as we followed growth at all costs",
+    "who": "Amit Bhasin, co-founder and CEO of GoMechanic",
+    "context": "LinkedIn post on 18 January 2023 announcing 70% layoffs (he later edited out the word 'grave').",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Under Lifelong's consortium, with new CEO Himanshu Arora, GoMechanic raised about $6 million in late 2023 from backers including Hero's Sunil Kant Munjal. By late 2025 sources told Entrackr it had annual recurring revenue of around ₹350 crore and was near break-even, and car marketplace Spinny was reported to be buying it. The business survived; the founders' version of it did not.",
+    "src": [
+      5,
+      6,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: Tiger Global in talks to invest in GoMechanic at over $1 billion valuation (Feb 2022)",
+      "url": "https://techcrunch.com/2022/02/09/gomechanic-tiger-global-india-auto/"
+    },
+    {
+      "label": "TechCrunch: GoMechanic cuts 70% jobs amid 'grave errors' in financial reporting (Jan 2023)",
+      "url": "https://techcrunch.com/2023/01/18/sequoia-india-backed-gomechanic-faces-severe-trouble/"
+    },
+    {
+      "label": "TechCrunch: Distressed GoMechanic acquired by Lifelong Group-led consortium (Mar 2023)",
+      "url": "https://techcrunch.com/2023/03/28/distressed-indian-startup-gomechanic-acquired-by-lifelong-group-led-consortium/"
+    },
+    {
+      "label": "Entrackr: GoMechanic revenue nears ₹100 Cr in FY22, losses spike 4X (Nov 2022)",
+      "url": "https://entrackr.com/2022/11/gomechanic-revenue-nears-rs-100-cr-in-fy22-losses-spike-4x/"
+    },
+    {
+      "label": "Entrackr: Embattled GoMechanic acquired by Lifelong Group-led Servizzy (Mar 2023)",
+      "url": "https://entrackr.com/2023/03/embattled-gomechanic-acquired-by-lifelong-group-led-servizzy/"
+    },
+    {
+      "label": "Entrackr: GoMechanic valued at $20 Mn in new fundraise (Nov 2023)",
+      "url": "https://entrackr.com/2023/11/gomechanic-valued-at-20-mn-in-new-fundraise/"
+    },
+    {
+      "label": "Entrackr: Spinny set to acquire GoMechanic after its turnaround (Nov 2025)",
+      "url": "https://entrackr.com/exclusive/exclusive-spinny-set-to-acquire-gomechanic-after-its-turnaround-10626557"
+    },
+    {
+      "label": "TechCrunch: Spinny lines up $160M funding to acquire GoMechanic (Dec 2025)",
+      "url": "https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/"
+    },
+    {
+      "label": "Inc42 company profile: GoMechanic (founders, FY19–FY20 revenue)",
+      "url": "https://inc42.com/company/gomechanic/"
+    },
+    {
+      "label": "Entrackr: GoMechanic secures ₹105 Cr Series B led by Chiratae and Sequoia (Dec 2019)",
+      "url": "https://entrackr.com/2019/12/gomechanic-secures-rs-105-cr-from-chiratae-sequoia/"
+    },
+    {
+      "label": "Entrackr: Tiger Global leads $35 Mn round in GoMechanic (Jun 2021)",
+      "url": "https://entrackr.com/2021/06/exclusive-tiger-global-leads-35-mn-round-in-gomechanic/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "EY found fictitious garages and inflated revenue.",
+        "note": "Reported by TechCrunch from two sources; the full audit was never published. The founders' admission and the investors' statement are on record."
+      },
+      {
+        "claim": "Size of the 2021 Series C.",
+        "note": "Entrackr reported $35M at allotment (June 2021); later reports describe it as $42M. Peak valuation is given as $315–325M across sources."
+      },
+      {
+        "claim": "The $50M+ annual net revenue in the Dec 2021 investor deck vs ₹91 crore filed FY22 revenue.",
+        "note": "Not measured identically (an annualised figure vs a full financial year), so the gap is shown side by side, not as proof of a specific inflated amount."
+      },
+      {
+        "claim": "No criminal case is known to us.",
+        "note": "Investors appointed a third-party firm to investigate; we found no published charges, so no wrongdoing beyond the founders' own admission is stated."
+      },
+      {
+        "claim": "Number of co-founders.",
+        "note": "Most sources list four co-founders; Entrackr's 2023 report says 'all three co-founders' left."
+      },
+      {
+        "claim": "Spinny's acquisition of GoMechanic (~₹450 crore).",
+        "note": "Reported by Entrackr and TechCrunch citing sources in Nov–Dec 2025; not confirmed by the companies in the sources we read."
+      }
+    ]
+  }
+}

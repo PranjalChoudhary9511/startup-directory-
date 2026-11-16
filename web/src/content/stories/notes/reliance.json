@@ -1,0 +1,260 @@
+{
+  "slug": "reliance",
+  "company": "Reliance Industries",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#053C8F",
+    "secondary": "#BE9244",
+    "accent": "#D2AB67",
+    "ink": "#16213A",
+    "paper": "#FDF2DF",
+    "note": "The deep blue #053C8F, the golds #BE9244 and #D2AB67 and the cream #FDF2DF are the most-used colours in ril.com's own stylesheets (read October 2026). Ink is our dark tint of that blue."
+  },
+  "tagline": "A schoolteacher's son who paid for his factories with small investors' money, then kept building backwards until he owned the refinery.",
+  "hook": "In 1958 Dhirubhai Ambani rented a table and a chair in Bombay for ₹150 a month, and his business address was 'care of' a telephone number. On 28 October 2026, Jio, one part of the company he started, listed on the stock market after raising ₹30,213 crore in India's biggest-ever IPO.",
+  "hookSrc": [10, 21, 22, 33],
+  "cast": [
+    {
+      "name": "Kokilaben Ambani",
+      "role": "Dhirubhai's wife. Born in Jamnagar in 1934 into a middle-class family, she married him in 1955, aged 21, and moved to Aden, where their first son Mukesh was born. In June 2005 it was her statement that ended the public fight between her two sons. On 28 March 2016 she received from the President the Padma Vibhushan awarded to her late husband.",
+      "photo": null,
+      "src": [14, 16, 13, 30]
+    },
+    {
+      "name": "Champaklal Damani",
+      "role": "Dhirubhai's second cousin, who had also been in Aden, and his partner in his first trading business in Bombay, which grew out of trade between India and Yemen. Their first office was a single room at Masjid Bunder with one table, three chairs and a telephone. The partnership ended in 1965, and Dhirubhai carried on alone in the yarn trade.",
+      "photo": null,
+      "src": [12, 29, 0]
+    },
+    {
+      "name": "Mukesh Ambani",
+      "role": "Elder son, born in Aden and educated at Stanford. He and Anil took over day-to-day running of Reliance after their father's 1986 stroke. He kept the oil, petrochemicals and refining businesses in the 2005 split, and as chairman launched Jio and Reliance Retail.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flickr_-_World_Economic_Forum_-_Ambani.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_World_Economic_Forum_-_Ambani.jpg",
+        "caption": "Mukesh Ambani at a World Economic Forum event, December 2007",
+        "author": "World Economic Forum from Cologny, Switzerland",
+        "license": "CC BY-SA 2.0",
+        "year": 2007
+      },
+      "src": [14, 6, 4, 16, 2]
+    },
+    {
+      "name": "Anil Ambani",
+      "role": "Younger son, educated at Wharton. In the 2005 split he took Reliance's telecom, power and financial-services companies. Several of those companies later defaulted on their loans; Reliance Capital, for one, was sent to the bankruptcy court in 2021.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/AnilAmbani.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:AnilAmbani.jpg",
+        "caption": "Anil Ambani at the launch of the Kokilaben Dhirubhai Ambani Hospital, January 2009",
+        "author": "Bollywood Hungama",
+        "license": "CC BY 3.0",
+        "year": 2009
+      },
+      "src": [6, 16, 14, 31]
+    }
+  ],
+  "founder": {
+    "name": "Dhirubhai Ambani (Dhirajlal Hirachand Ambani)",
+    "role": "Founder, Reliance Industries",
+    "born": "28 Dec 1932, Chorwad, Saurashtra (Gujarat)",
+    "died": "6 Jul 2002, Mumbai",
+    "portrait": null,
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/A._Besse_%26_Co._headquarters%2C_Aden.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:A._Besse_%26_Co._headquarters,_Aden.jpg",
+        "caption": "Head office of A. Besse & Co. on Aidrus Road, Crater, Aden, in the 1940s or early 1950s: the trading firm where 17-year-old Dhirubhai got his first job in 1949",
+        "author": "Unknown photographer",
+        "license": "Public domain",
+        "year": 1950
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dhirubhai_Ambani_Square%2C_Mumbai.jpg/1280px-Dhirubhai_Ambani_Square%2C_Mumbai.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Dhirubhai_Ambani_Square,_Mumbai.jpg",
+        "caption": "Dhirubhai Ambani Square, next to the Jio World Centre in Mumbai (photo 2025)",
+        "author": "DesiBoy101",
+        "license": "CC BY 4.0",
+        "year": 2025
+      }
+    ],
+    "background": "Dhirajlal Hirachand Ambani was born on 28 December 1932 in Chorwad, a village in Saurashtra, Gujarat. He was the second son, and third of five children, of Hirachand Ambani, a poorly paid village schoolteacher. As a boy he sold hot snacks to pilgrims outside a temple in the village. The family needed money, so he stopped studying after Class 10. In 1949, aged 17, he followed his elder brother Ramniklal to Aden, a British port in what is now Yemen.",
+    "backgroundSrc": [0, 3, 6, 11, 10],
+    "journey": [
+      { "year": "1932", "kind": "life", "title": "Born in Chorwad", "detail": "Born on 28 December in a Gujarat village, the son of a schoolteacher. He later sold hot snacks to temple pilgrims there.", "src": [1, 0, 3, 11] },
+      { "year": "1949", "kind": "job", "title": "Dispatch clerk in Aden", "detail": "At 17 he joined his brother in Aden and became a dispatch clerk at A. Besse & Co., a large trading firm.", "src": [0, 6, 10] },
+      { "year": "Early 1950s", "kind": "job", "title": "Runs a Shell filling station", "detail": "When Besse became a distributor for Shell, he worked at its oil-filling station at the port and was promoted to manage it. Some accounts call his first job 'petrol pump attendant'.", "src": [0, 11, 3, 6] },
+      { "year": "1950s", "kind": "attempt", "title": "Side deals in Aden", "detail": "He helped people whose insurance claims had been rejected and split the settlements with them. His biographer says he also bought silver riyal coins and melted them into ingots, because the silver was worth more than the coin.", "src": [4, 5] },
+      { "year": "1955", "kind": "life", "title": "Marries Kokilaben", "detail": "He married Kokilaben of Jamnagar. Their first son, Mukesh, was born in Aden, and was still a baby when the family moved to Bombay.", "src": [14, 5] },
+      { "year": "1958", "kind": "attempt", "title": "Reliance Commercial Corporation", "detail": "Back in Bombay with his wife and baby son, he started a commodity trading and export firm with ₹15,000. The family lived in one room at Jaihind Estate, Bhuleshwar.", "src": [3, 4, 10, 6, 11, 5] },
+      { "year": "1958–1965", "kind": "job", "title": "A trader in the city's markets", "detail": "He traded spices and commodities at Bhat Bazar, then moved into yarn at Tamba Kantha in 1962. He said these markets sharpened his business instincts.", "src": [10, 0, 6] },
+      { "year": "1965", "kind": "life", "title": "Splits with his partner", "detail": "His partnership with his second cousin Champaklal Damani ended, and Dhirubhai went on alone in the yarn trade. The same year the firm took a new name, Reliance Textile Industries.", "src": [12, 29, 0] },
+      { "year": "1966", "kind": "breakthrough", "title": "His own mill at Naroda", "detail": "He bought land at Naroda near Ahmedabad and opened a textile mill, his first step from trading into making things. In 1975 a World Bank team called it 'excellent by developed country standards'.", "src": [0, 3, 10] },
+      { "year": "1970s", "kind": "attempt", "title": "Goes around the wholesalers", "detail": "Big cloth wholesalers controlled the market, so he built a chain of franchised shops that sold his Vimal fabric directly.", "src": [4, 6, 28] },
+      { "year": "1977", "kind": "breakthrough", "title": "Sells shares to ordinary Indians", "detail": "Often turned away by banks, he took Reliance public. The first issue drew about 58,000 investors, many from small towns, and Reliance says it was oversubscribed seven times.", "src": [4, 11, 2, 6] },
+      { "year": "1982", "kind": "life", "title": "Beats a bear raid", "detail": "Brokers sold Reliance shares they did not own to push the price down. Friendly buyers soaked up the selling, close to a million shares, then demanded delivery. The trapped bears panicked and the Bombay Stock Exchange had to shut for days.", "src": [8, 7, 6] },
+      { "year": "1986", "kind": "failure", "title": "A stroke in the middle of a war", "detail": "On 9 February he suffered a stroke that paralysed his right side. That year the government blocked his debenture plan and the Indian Express began a campaign against Reliance.", "src": [7, 6] },
+      { "year": "1986", "kind": "breakthrough", "title": "Investors vote with their money", "detail": "In December a ₹500 crore convertible debenture issue was oversubscribed seven times, a result the press called a referendum on Reliance.", "src": [7] },
+      { "year": "1989–1990", "kind": "failure", "title": "Loses the fight for L&T", "detail": "He became chairman of Larsen & Toubro in April 1989. After a change of government and court challenges, the Ambanis reversed the deal at a big loss and he resigned.", "src": [7, 6] },
+      { "year": "1999", "kind": "breakthrough", "title": "The Jamnagar refinery", "detail": "Reliance commissioned a 27 million tonne a year refinery at Jamnagar, despite a 1998 cyclone that hit the site mid-build. It was his last big leap backwards from cloth to crude oil.", "src": [0, 6, 9, 32] },
+      { "year": "2002", "kind": "life", "title": "Dies in Mumbai", "detail": "A second stroke on 24 June put him in Breach Candy Hospital. He died on 6 July, aged 69. Reliance then had over four million shareholders.", "src": [6, 3, 1] },
+      { "year": "Now", "kind": "now", "title": "His company today", "detail": "Reliance earned ₹11.76 lakh crore in revenue in 2025-26. Jio, which his son started in 2016, listed on 28 October 2026.", "src": [18, 19, 22] }
+    ],
+    "mindset": [
+      { "idea": "Raise money from people, not just banks", "explain": "Banks often turned him away, so he asked small investors to fund his factories and kept them loyal with bonuses and dividends. He called his shareholders 'family members'.", "src": [4, 0, 6] },
+      { "idea": "Make your own raw materials", "explain": "He went backwards step by step: from selling cloth, to weaving it, to making polyester yarn, to the chemicals for yarn, and finally to refining crude oil.", "src": [4, 0, 10] },
+      { "idea": "Compare yourself with the world's best", "explain": "He brushed off Indian rivals. He said his real competitors were the global giants DuPont, ICI and Shell.", "src": [4] },
+      { "idea": "Pedigree does not matter, performance does", "explain": "Accepting a Wharton medal in 1998, he called himself 'the son of a school teacher from a remote Indian village' and told young Indians not to accept defeat.", "src": [9, 11] },
+      { "idea": "Manage the people in power", "explain": "In the licence era he worked hard to keep politicians and officials on his side. Admirers called it skill; critics called it cronyism. Even a BBC obituary said he assiduously cultivated those in power.", "src": [6, 3, 5] }
+    ],
+    "habits": [
+      { "habit": "Bowed to every official", "detail": "A critical profile says he had no ego when dealing with government officials, whether a top secretary in Delhi or a peon.", "src": [6] },
+      { "habit": "Hired experts and trusted them", "detail": "He relied on professionals, many from public-sector companies. That team restarted the Patalganga plant within a month of the July 1989 floods.", "src": [6] },
+      { "habit": "Turned shareholder meetings into public events", "detail": "Reliance's annual meetings were held in stadiums and big grounds. In 1986 about 30,000 shareholders came to one at Cross Maidan in Mumbai.", "src": [0, 4, 6] }
+    ],
+    "darkestHour": {
+      "title": "1986: a stroke, a newspaper war and a hostile minister",
+      "story": "In May 1985 Finance Minister V. P. Singh suddenly made it harder to import PTA, the chemical Reliance's new polyester plant needed. Reliance had opened letters of credit for almost a year's supply just days before, so the minister added a 50% import duty. On 9 February 1986 Dhirubhai had a stroke that paralysed his right side. That year the Indian Express began a long series accusing Reliance of getting favours from the government. In June 1986 the ministry refused to let Reliance convert debentures into shares, and their prices halved within hours. His sons took over the daily running of the company. The way out came from small investors: in December 1986 a ₹500 crore debenture issue was oversubscribed seven times, and soon after V. P. Singh was moved out of the finance ministry.",
+      "src": [7, 6, 4]
+    },
+    "genuineness": {
+      "story": "When his younger daughter Dipti married in 1983, he hosted a lunch for 12,000 Reliance workers. Accepting the Wharton School's Dean's Medal in 1998, he took it 'on behalf of my family: The Reliance Family', which he described as thousands of workers, managers and millions of shareholders. The same profile that tells the wedding story is frank about the other side: he could be generous to people he liked and ruthless with rivals.",
+      "src": [6, 9]
+    },
+    "now": "Dhirubhai died on 6 July 2002. Mukesh became chairman and, after the 2005 family split, built on his father's refinery with Jio and Reliance Retail. In 2025-26 Reliance's revenue was ₹11,75,919 crore ($124 billion). On 28 October 2026 Jio Platforms listed on the stock market after raising ₹30,213 crore, India's biggest IPO so far. In 2016 he was posthumously given the Padma Vibhushan, India's second-highest civilian honour.",
+    "nowSrc": [6, 16, 18, 19, 21, 22, 33, 1, 13]
+  },
+  "numbers": [
+    { "value": "₹15,000", "label": "Money Dhirubhai started Reliance Commercial Corporation with", "asOf": "1958", "src": [3, 4] },
+    { "value": "27 million tonnes", "label": "Crude oil the Jamnagar refinery was built to process each year", "asOf": "1999", "src": [0, 6] },
+    { "value": "4 million+", "label": "Indians who owned Reliance shares when he died", "asOf": "2002", "src": [3, 6] },
+    { "value": "₹11.76 lakh crore", "label": "Reliance's gross revenue for the year ($124 billion)", "asOf": "FY2026", "src": [18, 19] },
+    { "value": "533 million", "label": "Jio customers", "asOf": "Jun 2026", "src": [20, 21] },
+    { "value": "₹30,213 crore", "label": "Raised in Jio Platforms' IPO, India's largest by issue size so far", "asOf": "Oct 2026", "src": [21, 22, 23, 33] }
+  ],
+  "milestones": [
+    { "year": "1958", "title": "A trading firm in one room", "detail": "Reliance Commercial Corporation starts trading and exporting commodities from Bombay.", "src": [0, 3, 10] },
+    { "year": "1966", "title": "The Naroda mill", "detail": "Reliance starts making cloth at Naroda, near Ahmedabad.", "src": [0, 3] },
+    { "year": "1977", "title": "The IPO", "detail": "Reliance Textile Industries goes public with 2.8 million shares of ₹10 each.", "src": [8, 2, 0] },
+    { "year": "1982", "title": "The bear raid fails", "detail": "A cartel's short-selling attack on Reliance shares backfires and the Bombay Stock Exchange shuts for days.", "src": [8, 7, 6] },
+    { "year": "Early 1980s", "title": "Patalganga", "detail": "Reliance's first plant for polyester filament yarn and fibre opens at Patalganga, Maharashtra.", "src": [0, 2] },
+    { "year": "1991", "title": "Hazira", "detail": "The Hazira petrochemicals complex in Gujarat, then the biggest private investment at a single site in India.", "src": [0, 2] },
+    { "year": "1999", "title": "Jamnagar refinery", "detail": "Reliance commissions the Jamnagar refinery, with its own port and power. It now processes 1.4 million barrels a day.", "src": [0, 32, 26] },
+    { "year": "2005", "title": "The family split", "detail": "On 18 June, Kokilaben announces the settlement between Mukesh and Anil, dividing the group in two.", "src": [16, 14] },
+    { "year": "2016", "title": "Jio launches", "detail": "Jio starts on 5 September 2016 with free calls and cheap data, and passes 100 million customers in 170 days.", "src": [24, 25, 2] },
+    { "year": "2026", "title": "Jio lists", "detail": "Jio Platforms debuts on the NSE and BSE on 28 October 2026 after an IPO subscribed more than 22 times.", "src": [22, 23, 21] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Reliance is several big businesses under one roof. The oldest is 'oil to chemicals': it buys crude oil, refines it at Jamnagar into fuels, and turns some of it into plastics and polyester raw materials. Jio sells mobile and home broadband plans. Reliance Retail runs more than 20,000 shops plus online stores. A smaller arm produces gas from the KG basin off India's east coast.",
+    "flows": [
+      { "from": "Fuel and chemical buyers", "to": "Reliance (oil to chemicals)", "what": "Payment for petrol, diesel, jet fuel, polymers and polyester raw materials" },
+      { "from": "Mobile and broadband users", "to": "Jio Platforms", "what": "Monthly plans (about ₹216 per user per month in mid-2026)" },
+      { "from": "Shoppers", "to": "Reliance Retail", "what": "Groceries, electronics and fashion bought in stores and online" },
+      { "from": "Reliance companies", "to": "Shareholders", "what": "Dividends and share-price gains" }
+    ],
+    "src": [18, 20, 26]
+  },
+  "failures": [
+    {
+      "year": "1989–1990",
+      "title": "The L&T takeover that came undone",
+      "whatHappened": "In 1988-89 the Ambanis bought into Larsen & Toubro, and Dhirubhai became its chairman in April 1989. In December 1989 his old opponent V. P. Singh became prime minister. The Indian Express reported that the shares had come from state-owned insurers, which were not allowed to sell to private buyers. The case went to court, the Ambanis reversed the deal at a big loss, and Dhirubhai resigned.",
+      "lesson": "A deal that depends on friends in power can be undone when power changes hands.",
+      "src": [7, 6]
+    },
+    {
+      "year": "1990s–2012",
+      "title": "Vimal, the first brand, fades",
+      "whatHappened": "Vimal was the top-selling fabric brand in the 1980s and 1990s, famous for its 'Only Vimal' ads. Rivals such as Raymond, Siyaram's and Reid & Taylor built up their brands fast while Reliance put little new money into Vimal, and it closed its saree and dress-material unit in 1996-97. By 2012 the textile business was barely breaking even and made up about 1% of the group, and reports said Mukesh had hired bankers to sell it.",
+      "lesson": "Even a famous brand dies if the owner stops investing in it. Decide early whether you will keep feeding a business or let it go.",
+      "src": [28, 4]
+    },
+    {
+      "year": "2004–2005",
+      "title": "Brothers at war",
+      "whatHappened": "After Dhirubhai's death, Mukesh and Anil fell out over who controlled what. The fight went public in November 2004, when Mukesh told CNBC-TV18 there were 'ownership issues', and ran for seven months, until their mother announced a settlement in June 2005 that split the group in two.",
+      "lesson": "Agree on ownership and roles in writing while the founder is still alive. Silence about succession can cost years.",
+      "src": [16, 15, 14]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Dhirubhai started Reliance with ₹500.",
+      "fact": "At his cremation, Mukesh said his father arrived in Bombay with ₹500 in his pocket. The company itself was set up with ₹15,000, after years of side deals in Aden.",
+      "src": [6, 3, 4, 5]
+    },
+    {
+      "myth": "He once sold Indian soil to an Arab sheikh who wanted to grow roses in the desert.",
+      "fact": "This story was told by Wharton's dean at the 1998 medal ceremony. We found no document, date or buyer behind it, so treat it as folklore.",
+      "src": [11]
+    },
+    {
+      "myth": "The film Guru is Dhirubhai's life story.",
+      "fact": "Director Mani Ratnam said in 2007 that Guru is fiction. He said he took only 'the essence of the character', not his story.",
+      "src": [27]
+    }
+  ],
+  "quotes": [
+    { "text": "I started my business career in Mumbai with a table and a chair. At Rs.150/- per month. My address was care of a telephone number.", "who": "Dhirubhai Ambani, civic reception speech, Mumbai, 16 December 2000", "src": [10] },
+    { "text": "But if one Dhirubhai can do so much, just think what a thousand Dhirubhais, can do for this country.", "who": "Dhirubhai Ambani, accepting the Wharton School Dean's Medal, 1998", "src": [9] },
+    { "text": "My real competitors are DuPont, ICI and Shell", "who": "Dhirubhai Ambani, as quoted by Asiaweek, 1998", "src": [4] },
+    { "text": "My success is my worst enemy.", "who": "Dhirubhai Ambani, during his fight with Indian Express owner Ramnath Goenka, as reported by Rediff, 2002", "src": [7] }
+  ],
+  "lessons": [
+    { "title": "Rent the table before you buy the building", "detail": "Dhirubhai began with a table, a chair and someone else's phone number. Start with the smallest set-up that lets you trade, and spend on factories only once customers are paying." },
+    { "title": "If middlemen block you, go around them", "detail": "When wholesalers controlled the cloth market, he built his own chain of franchised Vimal shops. If the usual route to customers is closed, build a direct one." },
+    { "title": "Own the step your profit depends on", "detail": "Reliance moved from cloth to yarn to PTA to crude oil, so suppliers could not squeeze it. Find the input that can hurt you most and work towards controlling it." },
+    { "title": "Customers and small investors can be your bank", "detail": "Turned away by banks, Reliance raised money from ordinary savers in 1977. In 1986 those same investors kept it alive. Treat early backers well and they will back you again." },
+    { "title": "Rules you bend can be bent back", "detail": "Licences and favours helped Reliance in the 1980s, but a new minister cut off PTA imports and a new government undid the L&T deal. Build advantages that work under any government: cost, quality and speed." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "Dhirubhai Ambani Institute of Information and Communication Technology: Dhirubhai Ambani, short biography (PDF, 2006)", "url": "https://www.daiict.ac.in/themes/daiict/images/short-biography.pdf" },
+    { "label": "Reliance Industries: Founder Chairman, Dhirubhai Ambani (ril.com)", "url": "https://www.ril.com/about/founder-chairman" },
+    { "label": "Reliance Industries: Our History (ril.com)", "url": "https://www.ril.com/about/our-history" },
+    { "label": "BBC News: Obituary: DH Ambani, by Sanjeev Srivastava, 7 Jul 2002", "url": "http://news.bbc.co.uk/2/hi/business/2109840.stm" },
+    { "label": "Asiaweek Business Hall of Fame: Dhirubhai Ambani, Mr. Self-Reliance, Oct 1998", "url": "https://us.cnn.com/ASIANOW/asiaweek/98/1016/cs8a.html" },
+    { "label": "Asiaweek: From Trader to Tycoon (review of Hamish McDonald's The Polyester Prince), Jun 1999", "url": "https://us.cnn.com/ASIANOW/asiaweek/99/0625/feat1.html" },
+    { "label": "Seminar: Paranjoy Guha Thakurta, The two faces of Dhirubhai Ambani, 2002", "url": "http://www.india-seminar.com/2003/521/521%20paranjoy%20guha%20thakurta.htm" },
+    { "label": "Rediff: Manas Chakravarty, For this fighter, life was a big battle, 8 Jul 2002", "url": "http://in.rediff.com/money/2002/jul/08amb4.htm" },
+    { "label": "The Economic Times: Vivek Kaul, How Dhirubhai Ambani turned the tables on the Kolkata bear cartel, Jul 2011", "url": "https://economictimes.indiatimes.com/master-move-how-dhirubhai-ambani-turned-the-tables-on-the-kolkata-bear-cartel/articleshow/9059587.cms" },
+    { "label": "Reliance Industries archive: Dhirubhai Ambani's Wharton Dean's Medal citation and acceptance speech, 1998 (PDF)", "url": "https://www.ril.com/sites/default/files/awards/DHAs-speech-wharton.pdf" },
+    { "label": "Reliance Industries archive: Dhirubhai Ambani's civic reception acceptance speech and biography, 16 Dec 2000 (PDF)", "url": "https://www.ril.com/sites/default/files/awards/civic_address.pdf" },
+    { "label": "Rediff: Dhirubhai Ambani becomes first Indian to get Wharton School Dean's Medal, Jun 1998", "url": "http://www.rediff.com/business/1998/jun/16amba1.htm" },
+    { "label": "India.com: How Dhirubhai Ambani started Reliance in a small room with cousin Champaklal Damani, 2025", "url": "https://www.india.com/business/how-mukesh-ambani-anil-ambanis-father-dhirubhai-ambani-started-reliance-in-small-room-with-cousin-champaklal-damani-at-in-mumbais-masjid-bunder-area-it-had-one-table-3-chairs-telephone-8224891/" },
+    { "label": "Hindu BusinessLine (PTI): Dhirubhai Ambani to be given Padma Vibhushan posthumously, Mar 2016", "url": "https://www.thehindubusinessline.com/news/dhirubhai-ambani-to-be-given-padma-vibhushan-award-posthumously/article8402171.ece" },
+    { "label": "Gulf News: Kokilaben Ambani, the matriarch of the Ambani family, Aug 2025", "url": "https://gulfnews.com/business/kokilaben-ambani-all-you-need-to-know-about-the-matriarch-of-the-ambani-family-1.500242174" },
+    { "label": "Rediff: Mukesh Ambani admits to differences with Anil, 18 Nov 2004", "url": "http://in.rediff.com/money/2004/nov/18ril.htm" },
+    { "label": "Knowledge at Wharton: After months of acrimony, an outbreak of brotherly love at Reliance, Jun 2005", "url": "https://knowledge.wharton.upenn.edu/article/after-months-of-acrimony-an-outbreak-of-brotherly-love-at-reliance/" },
+    { "label": "LiveLaw: CBI court acquits two accused in 1989 Nusli Wadia murder attempt case, Mar 2023", "url": "https://livelaw.in/news-updates/special-cbi-court-nusli-wadia-murder-attempt-accused-acquitted-223947" },
+    { "label": "Reliance Industries media release: results for the quarter and year ended 31 March 2026 (PDF)", "url": "https://www.ril.com/sites/default/files/2026-04/24042026_Media_Release_RIL_Q4_FY2025-26_Financial_and_Operational_Performance.pdf" },
+    { "label": "Open: Reliance Industries FY26 revenue rises 9.8% to Rs 11.75 lakh crore, May 2026", "url": "https://openthemagazine.com/business/reliance-industries-fy26-revenue-rises-98-to-rs-1175-lakh-crore" },
+    { "label": "Reliance Industries media release: results for the quarter ended 30 June 2026 (PDF)", "url": "https://www.ril.com/sites/default/files/2026-07/Media_Release_RIL_Q1_FY2026-27_Financial_and_Operational_Performance.pdf" },
+    { "label": "Chittorgarh: Jio Platforms IPO details (from the offer document), Oct 2026", "url": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/" },
+    { "label": "CNBC: Jio Platforms' shares soar over 21% on trading debut after record IPO, 28 Oct 2026", "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html" },
+    { "label": "Upstox: Jio Platforms IPO listing live updates, 28 Oct 2026", "url": "https://upstox.com/news/market-news/ipo/jio-platforms-ipo-listing-live-updates-share-price-nse-bse-reliance-industries-subsidiary-october-28-2026/liveblog-202492/" },
+    { "label": "Deccan Herald (PTI): Jio crossed 100-mn subscribers mark in just 170 days, 21 Feb 2017", "url": "https://www.deccanherald.com/business/jio-crossed-100-mn-subscribers-1992199" },
+    { "label": "TelecomTalk: Reliance Jio crosses 100 million in 170 days, Feb 2017", "url": "https://telecomtalk.info/reliance-jio-7customers-every-second-on-average/160829/" },
+    { "label": "Reliance Industries: Refining and marketing, the Jamnagar refinery (ril.com)", "url": "https://www.ril.com/businesses/energy/refining-marketing" },
+    { "label": "Hindustan Times: 'Guru is not Dhirubai Ambani's story', interview with Mani Ratnam, Jan 2007", "url": "https://www.hindustantimes.com/india/guru-is-not-dhirubai-ambani-s-story/story-crGbYSssEaRqGDpQIQXcBO.html" },
+    { "label": "Business Standard: Dhirubhai's brand, his son's castaway (Vimal), 2012", "url": "https://www.business-standard.com/article/companies/dhirubhai-s-brand-his-son-s-castaway-112071100032_1.html" },
+    { "label": "Arab News: Farouk Luqman, Ambani: From a gas station attendant to Reliance owner, 2 Nov 2012", "url": "https://www.arabnews.com/node/429493" },
+    { "label": "Press Information Bureau photo: President presents the Padma Vibhushan to Kokilaben Ambani, 28 Mar 2016", "url": "https://archive.pib.gov.in/archive2/photoright.aspx?phid=78656" },
+    { "label": "Business Today: The fallout of Reliance Capital being referred to the NCLT, Dec 2021", "url": "https://www.businesstoday.in/magazine/briefings/story/the-fallout-of-reliance-capital-being-referred-to-the-nclt-315197-2021-12-10" },
+    { "label": "The Tribune: Reliance's Jamnagar refinery, an industrial marvel, turns 25, Dec 2024", "url": "https://www.tribuneindia.com/news/business/reliances-jamnagar-refinery-an-industrial-marvel-turns-25" },
+    { "label": "Yahoo Finance (dpa): Jio Platforms goes public in India's biggest initial share flotation, 28 Oct 2026", "url": "https://finance.yahoo.com/markets/stocks/articles/jio-platforms-goes-public-india-120358398.html" }
+  ],
+  "factCheck": {
+    "method": "Researched from 34 sources: Dhirubhai's own 1998 and 2000 speeches (Reliance archive), the DA-IICT biography, 2002 obituaries, critical sources (Seminar, Rediff, Asiaweek's review of McDonald's book), court reporting, Reliance's results releases and IPO coverage up to 28 Oct 2026. Then independently re-checked claim by claim against the cited source plus a second source; both speech quotes matched word for word against scans of the original Reliance booklets, and the other two quotes against the articles that first printed them; Jio's listing date, issue size, subscription and 'largest IPO' status confirmed across several outlets; FY26 revenue and the 533 million Jio customers read in Reliance's own releases; photos checked on Wikimedia Commons. A few details (insurance-claim deals, the 1983 workers' lunch, the 1986 debenture vote) rest on one source each.",
+    "disputed": [
+      { "claim": "Year he returned from Aden", "note": "His own 2000 speech ('forty two years ago'), Reliance's 2000 biography of him, DA-IICT and the BBC say 1958. Reliance's current history page, Mukesh Ambani (at the cremation, as reported by Seminar) and Asiaweek's 1999 review say 1957. We use 1958 for the founding." },
+      { "claim": "His first job in Aden", "note": "DA-IICT says dispatch clerk at A. Besse, later promoted to run its Shell filling station; Reliance's 2000 biography says only that he worked for A. Besse, Shell's sole distributor there. The BBC, Seminar and Wharton's dean say he started as a petrol pump attendant, and Asiaweek (1998) says his first job was pumping gas at 16. A widely repeated salary of ₹300 a month comes only from weak sources, so we dropped it." },
+      { "claim": "Year the Jamnagar refinery started", "note": "DA-IICT and The Tribune say it was commissioned in 1999 (The Tribune: July 1999, launched 28 December 1999). Reliance's current history page lists it under 2000. We use 1999." },
+      { "claim": "Year of the bear cartel raid", "note": "Wikipedia dates it to 1988. The Economic Times (quoting McDonald), Rediff and Seminar all date the raid to March–April 1982. We use 1982. The claim that Dhirubhai himself sold shares to the trapped bears is described as a rumour by Barua and Varma." },
+      { "claim": "Who paid for the 1982 counter-buying", "note": "The finance minister told Parliament that NRI-linked companies in the Isle of Man invested over ₹22 crore in 1982-83. A Reserve Bank inquiry found no wrongdoing. Sources spell one company's name differently ('Lota' or 'Iota'), so we leave the names out." },
+      { "claim": "Plot against Nusli Wadia", "note": "Seminar places a police accusation against a Reliance manager in 1985. Court reporting dates the case to 1989: Kirti Ambani, a Reliance executive, was accused, and the CBI took over the probe on 2 August 1989. It was never proven: the cases against him and one other abated when they died, and a CBI court acquitted the last two accused in 2023. We do not repeat it as fact." },
+      { "claim": "Jamnagar build time", "note": "ril.com's history page says 36 months; its refining page says 30 months. We give neither." },
+      { "claim": "The first partnership", "note": "Accounts differ on what the first firm traded: the BBC and Asiaweek say commodities and spices exported to Yemen; India.com calls it a textile trading business; Arab News says it imported polyester yarn and exported spices. India.com calls Champaklal Damani a 'cousin'; Arab News says a second cousin who had been with him in Aden. A 350 sq ft office size (Arab News) and a ₹300-a-month Aden salary appear only in accounts that seem to copy Wikipedia, so we leave them out." },
+      { "claim": "Size of the 1977 IPO", "note": "The Economic Times gives 2.8 million shares of ₹10 in October 1977. The 58,000 investors figure comes from Wharton's dean in 1998. Reliance says the issue was oversubscribed seven times. We did not find all three in one source." }
+    ]
+  }
+}

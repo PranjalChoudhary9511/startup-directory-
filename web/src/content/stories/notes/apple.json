@@ -1,0 +1,279 @@
+{
+  "slug": "apple",
+  "company": "Apple",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#1D1D1F",
+    "secondary": "#0071E3",
+    "accent": "#86868B",
+    "ink": "#111113",
+    "paper": "#F4F2EE",
+    "note": "Read from apple.com's own stylesheets: near-black #1D1D1F, action blue #0071E3 and grey #86868B. Paper is our warmer tint of Apple's #F5F5F7 light grey; ink is our own."
+  },
+  "tagline": "An adopted college dropout who sold his van to start a company, was thrown out of it at 30, and came back twelve years later to save it.",
+  "hook": "Apple's third founder, Ron Wayne, owned 10% of the company and gave it up within two weeks for $800. In fiscal 2025 the company those three men started in a garage made $416 billion in sales.",
+  "hookSrc": [5, 6, 9],
+  "cast": [
+    {
+      "name": "Steve Wozniak",
+      "role": "The engineer. Working at Hewlett-Packard on calculator chips, he designed the Apple I and Apple II; HP turned his personal computer down five times. He was reluctant to quit HP until Markkula insisted. In 1981 he went back to UC Berkeley and later finished his degree in electrical engineering and computer science.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Steve_Wozniak_in_1968_Pegasus.jpg/500px-Steve_Wozniak_in_1968_Pegasus.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Steve_Wozniak_in_1968_Pegasus.jpg",
+        "caption": "Steve Wozniak in his 1968 Homestead High School yearbook, the same school Jobs later attended.",
+        "author": "Homestead High School",
+        "license": "Public domain",
+        "year": 1968
+      },
+      "src": [13, 14, 2, 0]
+    },
+    {
+      "name": "Ronald Wayne",
+      "role": "An older Atari colleague of Jobs, given 10% of Apple on 1 April 1976 as a tie-breaker between the two Steves. As a partner he was personally liable for Apple's debts, and when Jobs borrowed to fill the first big order he pulled out, on 12 April 1976, for $800. He later sold his copy of the founding contract for $500, which he says he regrets.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/RonaldWayneMacworld2009.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:RonaldWayneMacworld2009.jpg",
+        "caption": "Ron Wayne at Macworld 2009, after the premiere of the documentary MacHEADS.",
+        "author": "Kottke_Wayne.jpg: Aljawad; derivative work: Nightscream",
+        "license": "CC BY-SA 3.0",
+        "year": 2009
+      },
+      "src": [5, 6, 14]
+    },
+    {
+      "name": "Mike Markkula",
+      "role": "Intel marketing director who retired at 32 on his stock options in 1974. Sent to the garage by investor Don Valentine, he wrote Apple's business plan, arranged a $250,000 bank credit line, became Apple's third employee and chairman, ran it as CEO from 1981 to 1983, and chaired it again from 1985 to 1997.",
+      "photo": null,
+      "src": [2, 3]
+    },
+    {
+      "name": "Tim Cook",
+      "role": "Hired by Jobs in March 1998 to run operations. He and the executive team ran Apple during Jobs's 2009 medical leave, and he became CEO in August 2011, six weeks before Jobs died. In his 15 years as CEO, yearly revenue grew from $108 billion to more than $416 billion. Since 1 September 2026 he has been executive chair, with John Ternus as CEO.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tim_Cook_2009.jpg/330px-Tim_Cook_2009.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tim_Cook_2009.jpg",
+        "caption": "Tim Cook, then Apple's chief operating officer, after the Macworld Expo keynote in January 2009.",
+        "author": "Kindly granted by Valery Marchive (LeMagIT)",
+        "license": "CC BY-SA 2.0",
+        "year": 2009
+      },
+      "src": [0, 11, 12, 19]
+    }
+  ],
+  "founder": {
+    "name": "Steve Jobs",
+    "role": "Co-founder, Apple; CEO 1997–2011",
+    "born": "24 Feb 1955, San Francisco, California",
+    "died": "5 Oct 2011, Palo Alto, California",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Steve_Jobs_January_1984.jpg/1280px-Steve_Jobs_January_1984.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_January_1984.jpg",
+      "caption": "Steve Jobs in January 1984, the month the Macintosh went on sale. He was 28. Photo by Bernard Gotfryd.",
+      "author": "Photo: Bernard Gotfryd - Edited from tif by Cart",
+      "license": "Public domain",
+      "year": 1984
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Steve_Jobs_in_1972_Pegasus.jpg/500px-Steve_Jobs_in_1972_Pegasus.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_in_1972_Pegasus.jpg",
+        "caption": "Jobs in his 1972 Homestead High School yearbook, the year he left for Reed College.",
+        "author": "Homestead High School",
+        "license": "Public domain",
+        "year": 1972
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Apple_Garage.jpg/1280px-Apple_Garage.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Apple_Garage.jpg",
+        "caption": "The Jobs family garage on Crist Drive, Los Altos, where the first Apple I computers were assembled in 1976 (photographed in 2007).",
+        "author": "Mathieu Thouvenin",
+        "license": "CC BY-SA 2.0",
+        "year": 2007
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Apple_I_%281976%29_-_Computer_History_Museum.jpg/1280px-Apple_I_%281976%29_-_Computer_History_Museum.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Apple_I_(1976)_-_Computer_History_Museum.jpg",
+        "caption": "An Apple I from 1976 at the Computer History Museum. Buyers had to supply their own keyboard and TV screen.",
+        "author": "Michael Hicks from Saint Paul, MN, USA",
+        "license": "CC BY 2.0",
+        "year": 2013
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/1280px-Steve_Jobs_Headshot_2010-CROP.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_Headshot_2010-CROP.jpg",
+        "caption": "Jobs showing the iPhone 4 at Apple's developer conference in June 2010, about a year after his liver transplant.",
+        "author": "Matthew Yohe",
+        "license": "CC BY-SA 3.0",
+        "year": 2010
+      }
+    ],
+    "background": "Steve Jobs was born in 1955 to two unmarried graduate students who put him up for adoption. A lawyer and his wife were meant to adopt him but wanted a girl, so he went to Paul and Clara Jobs; his birth mother signed the papers only after they promised he would go to college, since Clara had not graduated from college and Paul had not finished high school. Paul, a machinist and Coast Guard veteran, gave Steve, aged about five or six, his own corner of the garage workbench. When Steve was five the family moved from San Francisco to Mountain View, where an HP engineer down the street got him into electronics. Paul and Clara spent their savings on Reed College, which is partly why he dropped out.",
+    "backgroundSrc": [1, 0, 4, 15],
+    "journey": [
+      { "year": "1955", "kind": "life", "title": "Born, then adopted", "detail": "His birth parents, unmarried graduate students, gave him up for adoption to Paul and Clara Jobs.", "src": [4, 1] },
+      { "year": "1960", "kind": "life", "title": "A workbench in the garage", "detail": "The family moved to Mountain View. His father taught him to build and take things apart, and a neighbour who worked at HP introduced him to electronics kits.", "src": [0] },
+      { "year": "1968", "kind": "life", "title": "Meets Woz", "detail": "At 13, in a friend's garage, he met Steve Wozniak, about 18. 'We ended up talking for hours.'", "src": [0] },
+      { "year": "1972", "kind": "failure", "title": "Drops out of Reed College", "detail": "After one semester he dropped out to stop spending his parents' savings, but stayed about 18 months as a drop-in, returning Coke bottles for food money and taking calligraphy.", "src": [0, 1, 15] },
+      { "year": "1974", "kind": "job", "title": "Technician at Atari", "detail": "He answered a newspaper ad and was hired the next day by engineering head Al Alcorn. He stayed a little under a year.", "src": [0] },
+      { "year": "1974", "kind": "attempt", "title": "A search in India", "detail": "Sent to fix faulty Atari games in Europe, he took leave, flew from Zurich to New Delhi and spent time in India, then sat and read for about three months back home.", "src": [0] },
+      { "year": "1976", "kind": "attempt", "title": "Apple starts in the garage", "detail": "To pay for a circuit-board design, Woz sold his HP calculator and Jobs sold his VW Microbus. The first computer store ordered 50 machines, fully assembled. Apple was founded on 1 April with Ron Wayne.", "src": [0, 14, 5] },
+      { "year": "1977", "kind": "breakthrough", "title": "Markkula, then the Apple II", "detail": "Mike Markkula wrote the business plan and Apple incorporated in January. The Apple II, priced at $1,298, debuted that April.", "src": [0, 2] },
+      { "year": "1980", "kind": "breakthrough", "title": "A record IPO", "detail": "Apple went public in December 1980, the biggest US IPO since Ford's in 1956. At 25, Jobs's 15% stake was worth more than $200 million.", "src": [4, 0] },
+      { "year": "1981", "kind": "failure", "title": "Removed from the Lisa project", "detail": "He took over the Lisa computer in September 1980 and was removed nine months later after his team rebelled. The $10,000 Lisa then flopped.", "src": [0, 2] },
+      { "year": "1984", "kind": "breakthrough", "title": "Macintosh", "detail": "The Mac launched in January 1984, introduced by the '1984' Super Bowl advert.", "src": [0, 4] },
+      { "year": "1985", "kind": "failure", "title": "Pushed out of his own company", "detail": "After a power struggle with CEO John Sculley, whom he had recruited from Pepsi, the board sided with Sculley. Jobs left in September, aged 30.", "src": [0, 1, 2] },
+      { "year": "1985", "kind": "attempt", "title": "NeXT", "detail": "His new computer company launched its machine in 1988. It was late and expensive and sold poorly; in 1993 NeXT stopped making hardware and laid off more than 200 of 530 staff.", "src": [0, 4] },
+      { "year": "1986", "kind": "attempt", "title": "Pixar", "detail": "He bought the small graphics firm from George Lucas for $10 million and kept writing cheques, about $60 million in all, until Toy Story and Pixar's IPO in 1995.", "src": [0, 4] },
+      { "year": "1997", "kind": "breakthrough", "title": "Back at Apple", "detail": "Apple bought NeXT in December 1996 and Jobs returned as an adviser. In September 1997 he became interim CEO of a company he said was about 90 days from bankruptcy.", "src": [0, 4] },
+      { "year": "2001", "kind": "breakthrough", "title": "iPod, then iPhone", "detail": "The iPod (2001), iTunes Store (2003) and iPhone (January 2007) turned a computer maker into a consumer-devices giant.", "src": [0, 4] },
+      { "year": "2003", "kind": "failure", "title": "Cancer, and a nine-month delay", "detail": "A scan in October 2003 found a rare, treatable pancreatic tumour. He tried diets and other methods for about nine months before surgery in July 2004. In 2009 he needed a liver transplant.", "src": [4, 15, 0, 1] },
+      { "year": "2011", "kind": "now", "title": "Hands over, then dies at 56", "detail": "He resigned as CEO in August 2011, recommending Tim Cook, and died six weeks later, on 5 October.", "src": [0, 8, 15] }
+    ],
+    "mindset": [
+      { "idea": "Dots connect only looking back", "explain": "The calligraphy class he took after dropping out seemed useless. Ten years later it shaped the typefaces of the first Macintosh.", "src": [1, 0] },
+      { "idea": "Most computers look like garbage", "explain": "At a 1983 design conference in Aspen he said computers looked like garbage, and that it cost no more to make them look great.", "src": [0] },
+      { "idea": "Start over as a beginner", "explain": "He later called being fired from Apple the best thing that could have happened to him, because it let him be a beginner again.", "src": [1, 0] },
+      { "idea": "Apple did not need Microsoft to lose", "explain": "In 1997 he made peace with Microsoft, which invested $150 million, telling a heckling crowd to drop the idea that for Apple to win, Microsoft had to lose.", "src": [0, 7] },
+      { "idea": "Focus means cutting", "explain": "At NeXT he closed the factory to sell software only. Back at Apple in 1997 he focused on just two markets, education and creative work.", "src": [0] }
+    ],
+    "habits": [
+      { "habit": "Long walks to think", "detail": "In the summer of 1985, after being told there was no role for him at Apple, he went for long walks in the woods and spoke to few people.", "src": [0] },
+      { "habit": "Emailed notes to himself", "detail": "He sent himself emails of ideas and lists, including playlists of his favourite songs with notes on why he loved them (2003).", "src": [0] },
+      { "habit": "Answered customers himself", "detail": "Apple customers who wrote to him sometimes got short replies directly from him, such as a 2005 exchange about a broken iPod.", "src": [0] },
+      { "habit": "A three-line job description", "detail": "As CEO of Apple and Pixar he said his job was to recruit, set an overall direction, and inspire, cajole and persuade.", "src": [0] }
+    ],
+    "darkestHour": {
+      "title": "1985–1996: fired at 30, then a decade of struggle",
+      "story": "In 1985 Apple was a $2 billion company with over 4,000 employees, and Jobs, 30, lost a boardroom fight with the CEO he had hired. He said hearing Sculley tell analysts there was no future role for him felt like being punched in the stomach, 'all summer long'. He left and started again. NeXT's computer was late, expensive and sold poorly, and in 1993 it stopped making hardware and laid off more than 200 of its 530 staff. Pixar survived on selling computers and making adverts, kept alive by about $60 million of his money. In 1991 he spoke to new students at Reed while NeXT was not selling and Pixar had just laid people off. What got him through was work on things he loved: in November 1995 Toy Story opened and Pixar went public, and a year later Apple bought NeXT and brought him back.",
+      "src": [1, 0, 4]
+    },
+    "genuineness": {
+      "story": "In 2009 Jobs nearly died waiting for a liver. Doctors at Stanford advised him to join a transplant programme in Memphis, Tennessee, where livers were less scarce, and he received one there. In his first talk back on stage, in September 2009, he asked the audience to become organ donors. In March 2010 he stood beside Governor Arnold Schwarzenegger to back a California bill making the DMV ask every driving-licence applicant 'one simple question': do you want to be an organ donor? He said more than 400 Californians had died waiting for a liver the year before. The bill became law.",
+      "src": [0]
+    },
+    "now": "Jobs died in Palo Alto on 5 October 2011, aged 56, six weeks after handing the CEO job to Tim Cook. Apple's sales have since grown from $108 billion (FY2011) to $416 billion (FY2025). On 1 September 2026 hardware chief John Ternus became Apple's CEO and Cook became executive chair. His widow, Laurene Powell Jobs, launched the Steve Jobs Archive in 2022, which publishes his own words, from talks to emails, online.",
+    "nowSrc": [8, 15, 18, 11, 12, 19, 16]
+  },
+  "numbers": [
+    { "value": "$416.2 bn", "label": "Total sales, almost four times FY2011's $108 bn", "asOf": "FY2025 (year to 27 Sep 2025)", "src": [9, 11, 17] },
+    { "value": "$112.0 bn", "label": "Net profit", "asOf": "FY2025", "src": [9, 14] },
+    { "value": "$209.6 bn", "label": "iPhone sales, about half of all revenue", "asOf": "FY2025", "src": [9, 17] },
+    { "value": "$109.4 bn", "label": "Sales in one quarter, Apple's best June quarter ever", "asOf": "Q3 FY2026 (to 27 Jun 2026)", "src": [10, 20] },
+    { "value": "2.5 billion", "label": "Active Apple devices worldwide", "asOf": "Mar 2026", "src": [14, 11] },
+    { "value": "$800", "label": "What Ron Wayne got for giving up his 10% of Apple", "asOf": "Apr 1976", "src": [5, 6] }
+  ],
+  "milestones": [
+    { "year": "1976", "title": "Apple Computer founded", "detail": "Jobs, Wozniak and Ron Wayne founded Apple on 1 April 1976 to sell the Apple I, designed by Woz.", "src": [0, 14] },
+    { "year": "1977", "title": "Incorporation and the Apple II", "detail": "Apple incorporated in January with Mike Markkula as the third owner; the Apple II debuted at the West Coast Computer Faire in April.", "src": [0, 2] },
+    { "year": "1980", "title": "IPO", "detail": "Apple went public in December, the biggest US IPO since Ford in 1956.", "src": [0, 4] },
+    { "year": "1984", "title": "Macintosh", "detail": "The Mac launched in January 1984.", "src": [0, 4] },
+    { "year": "1985", "title": "First loss, Jobs leaves", "detail": "Mac sales fell far short; Apple cut 20% of staff and posted its first quarterly loss in June. Jobs left in September.", "src": [0] },
+    { "year": "1997", "title": "Rescue", "detail": "After buying NeXT, Apple made Jobs interim CEO. Microsoft invested $150 million in non-voting Apple stock and promised Office for the Mac.", "src": [0, 7] },
+    { "year": "1998", "title": "iMac and a profit", "detail": "The Bondi Blue iMac launched in August; Apple announced its first profitable year since 1995.", "src": [0, 4] },
+    { "year": "2001", "title": "iPod and Apple Stores", "detail": "The first Apple stores opened in May, and the iPod arrived in October.", "src": [0, 4] },
+    { "year": "2007", "title": "iPhone", "detail": "Jobs introduced the iPhone in January 2007.", "src": [0, 4] },
+    { "year": "2011", "title": "Tim Cook takes over", "detail": "Jobs resigned in August and Cook became CEO; Jobs died on 5 October.", "src": [0, 12, 8] },
+    { "year": "2026", "title": "Apple turns 50, new CEO", "detail": "Apple marked 50 years in April 2026. John Ternus became CEO on 1 September, with Cook as executive chair.", "src": [14, 11, 12, 19] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Apple designs its own hardware and software and sells devices, led by the iPhone. On top of the more than 2.5 billion devices in use, it sells services. In FY2025 it returned about $105 billion to shareholders through buybacks and dividends.",
+    "flows": [
+      { "from": "Buyers", "to": "Apple", "what": "iPhone: $209.6 bn in FY2025" },
+      { "from": "Device owners", "to": "Apple", "what": "Services: $109.2 bn in FY2025" },
+      { "from": "Buyers", "to": "Apple", "what": "Mac $33.7 bn, iPad $28.0 bn, wearables and accessories $35.7 bn (FY2025)" },
+      { "from": "Apple", "to": "Shareholders", "what": "$89.3 bn of share buybacks and $15.4 bn of dividends (FY2025)" }
+    ],
+    "src": [9, 14, 17]
+  },
+  "failures": [
+    {
+      "year": "1983",
+      "title": "Lisa: a great computer nobody could afford",
+      "whatHappened": "The Lisa cost about $10,000. Markkula said it was a great computer but 'just too darn expensive', and Apple could not win business buyers with it. Jobs had already been removed from the project.",
+      "lesson": "Being first and best does not matter if your customer cannot pay the price.",
+      "src": [0, 2]
+    },
+    {
+      "year": "1985",
+      "title": "The Mac's slow start",
+      "whatHappened": "Macintosh sales fell far short of forecasts. Apple laid off 20% of its staff and reported its first quarterly loss, and within months its co-founder was out.",
+      "lesson": "Big launches still need real demand. Plan for the case where sales come slower than the hype.",
+      "src": [0]
+    },
+    {
+      "year": "1988",
+      "title": "NeXT's beautiful, expensive cube",
+      "whatHappened": "The NeXT computer cost $6,500, came late and sold poorly. Fortune called NeXT a business failure that burned through hundreds of millions of dollars. Its software survived and became the base of Apple's Mac OS X.",
+      "lesson": "If the product fails, look for the part that works. NeXT's software was worth more than its hardware.",
+      "src": [0, 4]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Mike Markkula invested $250,000 of his own money in Apple.",
+      "fact": "In his oral history Markkula says that instead of just putting money in, he took out a line of credit with Bank of America for a quarter of a million dollars, to be used only if needed. He proposed that he, Jobs and Wozniak each hold 26%. (The museum's own biography of him says he also invested in Apple, without giving an amount.)",
+      "src": [2, 3, 0]
+    },
+    {
+      "myth": "Apple was founded by two Steves.",
+      "fact": "There were three founders. Ron Wayne held 10% and left within two weeks, worried that as a partner he was personally liable for the company's debts.",
+      "src": [5, 6, 0]
+    },
+    {
+      "myth": "Jobs built the first Apple computers.",
+      "fact": "Wozniak designed the Apple I and II. Markkula said of Jobs: 'He's not a circuit guy; he's not a technical person', but he had a touch for products people would want.",
+      "src": [2, 13, 0]
+    }
+  ],
+  "quotes": [
+    { "text": "Stay hungry. Stay foolish.", "who": "Steve Jobs, Stanford commencement (12 June 2005), quoting The Whole Earth Catalog", "src": [1, 0] },
+    { "text": "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything.", "who": "Steve Jobs on being fired from Apple, Stanford (2005)", "src": [1, 0] },
+    { "text": "This thing was in intensive care. It was about ninety days away from bankruptcy.", "who": "Steve Jobs on the Apple he returned to in 1997", "src": [0] },
+    { "text": "I said if you walked down the street in 1976, and stopped a hundred people, and ask them if they'd like a personal computer, the most common answer would be, \"A what?\"", "who": "Mike Markkula, Computer History Museum oral history (2012)", "src": [2] }
+  ],
+  "lessons": [
+    { "title": "Pick a company structure before you take risks", "detail": "Ron Wayne quit Apple for $800 because, as a partner, his own house and savings were on the line for its debts. In India a private limited company or LLP limits that risk. Set it up before the first big order." },
+    { "title": "Bring in someone who has done it before", "detail": "Markkula wrote Apple's business plan, set up a proper bank relationship and took cash in advance for the first six months of orders. One experienced mentor can turn a hobby into a company." },
+    { "title": "Price for your customer, not your pride", "detail": "The $10,000 Lisa and the $6,500 NeXT cube were both admired and both flopped. The $1,298 Apple II sold. Ask what your buyer can pay before you add features." },
+    { "title": "A side interest can become your edge", "detail": "A calligraphy class at Reed, taken just out of curiosity, shaped the Mac's typefaces ten years later. Learn things outside your syllabus; you can only connect the dots looking back." },
+    { "title": "Getting fired is not the end of the story", "detail": "Jobs was out of Apple at 30. NeXT's software and Pixar's films, built in his worst decade, became the tools of his comeback. Treat a setback as a restart, not a verdict." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "Steve Jobs Archive, 'Make Something Wonderful: Steve Jobs in his own words' (full book online, with timeline)", "url": "https://book.stevejobsarchive.com" },
+    { "label": "NPR, transcript of Steve Jobs' 2005 Stanford commencement speech (Talk of the Nation, Oct 2011)", "url": "https://www.npr.org/transcripts/141122856" },
+    { "label": "Computer History Museum, 'Oral History of Mike Markkula', interviewed by John Hollar, 1 May 2012 (catalog 102746385; transcript PDF linked from this page)", "url": "https://www.computerhistory.org/collections/catalog/102746385" },
+    { "label": "Computer History Museum, finding aid: Mike Markkula collection of early Apple Computer material (biographical note)", "url": "https://archive.computerhistory.org/resources/access/text/finding-aids/102708204-Markkula/102708204-Markkula.pdf" },
+    { "label": "Peter Elkind, 'The trouble with Steve Jobs', Fortune (5 Mar 2008), with timeline", "url": "https://fortune.com/2008/03/05/the-trouble-with-steve-jobs/" },
+    { "label": "Chris Seibold, 'April 12, 1976: Ron Wayne, Apple's third founder, quits', Apple Matters (2011)", "url": "http://www.applematters.com/article/april-12-1976-ron-wayne-apples-third-founder-quits/" },
+    { "label": "NextShark, interview with Ronald Wayne", "url": "http://nextshark.com/ronald-wayne-interview/" },
+    { "label": "Microsoft press release, 'Microsoft and Apple affirm commitment to build next generation software for Macintosh' (6 Aug 1997)", "url": "https://news.microsoft.com/1997/08/06/microsoft-and-apple-affirm-commitment-to-build-next-generation-software-for-macintosh/" },
+    { "label": "Apple Newsroom, 'Statement by Apple's Board of Directors' (5 Oct 2011)", "url": "https://www.apple.com/newsroom/2011/10/05Statement-by-Apples-Board-of-Directors/" },
+    { "label": "Apple Inc., Form 10-K for fiscal 2025 (SEC, filed 31 Oct 2025)", "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm" },
+    { "label": "Apple Inc., Q3 FY2026 results press release (8-K exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019326000018/a8-kex991q3202606272026.htm" },
+    { "label": "Apple Newsroom, 'Tim Cook to become Apple Executive Chairman; John Ternus to become Apple CEO' (20 Apr 2026)", "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/" },
+    { "label": "Apple Leadership, Tim Cook biography", "url": "https://www.apple.com/leadership/tim-cook/" },
+    { "label": "Steve Wozniak, official site: About", "url": "https://woz.org/about/" },
+    { "label": "Queenie Wong, 'Apple at 50: How a garage startup became a $3.5-trillion titan', Los Angeles Times (30 Mar 2026), PDF on woz.org", "url": "https://woz.org/wp-content/uploads/2026/04/Appleanniversary_50.pdf" },
+    { "label": "CNN, 'Steve Jobs Fast Facts' (birth date and place, timeline incl. 2003 diagnosis and 31 July 2004 surgery)", "url": "https://www.cnn.com/us/steve-jobs-fast-facts" },
+    { "label": "Steve Jobs Archive, About", "url": "https://stevejobsarchive.com/about" },
+    { "label": "Constellation Research, 'Apple's annual services revenue tops $109 billion' (Oct 2025)", "url": "https://www.constellationr.com/blog-news/insights/apples-annual-services-revenue-tops-109-billion" },
+    { "label": "NBC Bay Area / AP, 'Jobs death certificate lists cause of death' (Oct 2011: died at home in Palo Alto)", "url": "https://www.nbcbayarea.com/news/local/jobs-death-certificate-lists-cause-of-death/1903112" },
+    { "label": "Gulf News, 'Meet John Ternus, 50, new CEO of Apple, as Tim Cook, 65, becomes executive chair' (Apr 2026)", "url": "https://gulfnews.com/business/meet-john-ternus-50-new-ceo-of-apple-as-tim-cook-65-becomes-executive-chair-1.500513598" },
+    { "label": "Xinhua via The Star, 'Apple's fiscal Q3 revenue rises 16 pct' (31 July 2026)", "url": "https://www.thestar.com.my/news/world/2026/07/31/apple039s-fiscal-q3-revenue-rises-16-pct" }
+  ],
+  "factCheck": {
+    "method": "Researched from 21 sources; then independently re-checked claim by claim against the cited source plus a second source. Primary sources: Jobs's own words and the dated timeline in the Steve Jobs Archive book, the Stanford 2005 speech (checked against NPR's transcript), the full transcript of Mike Markkula's 2012 CHM oral history and CHM's finding aid, Apple's FY2025 10-K, Q3 FY2026 release and April 2026 newsroom release, Apple's leadership page, and Microsoft's 1997 release. Second sources: Fortune (2008), CNN Fast Facts, the LA Times (2026), Constellation Research, Gulf News, Xinhua, NBC Bay Area/AP, Apple Matters and NextShark. Quotes matched word for word; photo licences, authors and dates checked through the Commons API. None of Apple's films on our page has creator-published chapters, so moments is empty. Apple's FY2026 full-year results are due on 2 November 2026 and were not out on 29 Oct 2026, so the latest quarter is Q3 FY2026.",
+    "disputed": [
+      { "claim": "How many days Ron Wayne stayed.", "note": "Apple Matters and NextShark say he withdrew 12 days after founding (12 April 1976); the Steve Jobs Archive timeline says ten days." },
+      { "claim": "Markkula's $250,000.", "note": "Often told as a cash investment. Markkula's own account is a $250,000 Bank of America credit line he arranged instead of putting the money in. He also says the three each got 26%; the Archive says ownership was 'split evenly'." },
+      { "claim": "When Markkula first met Jobs and Wozniak.", "note": "CHM's finding aid says 1977; in his oral history the business plan work runs from late 1976 to incorporation in early 1977." },
+      { "claim": "Price Apple paid for NeXT.", "note": "Steve Jobs Archive: $427 million. Fortune's 2008 timeline: $430 million. Other reports round to about $400 million." },
+      { "claim": "Jobs's age when Apple started.", "note": "Jobs said 'when I was 20'; born in February 1955, he was 21 in April 1976, as Fortune says." },
+      { "claim": "When Jobs learned of his cancer.", "note": "His 2005 speech says he was diagnosed 'about a year ago'. Fortune reported the tumour was found in October 2003 and that he delayed surgery about nine months, until 31 July 2004." },
+      { "claim": "Was Jobs fired in 1985?", "note": "Jobs said 'I got fired'. The Archive says his departure was officially a resignation. Markkula says Sculley did not fire him but left him with nothing to do." },
+      { "claim": "When Jobs had his liver transplant.", "note": "The Steve Jobs Archive timeline says March 2009; CNN, citing the Wall Street Journal, says April 2009. Both agree it was in Memphis, Tennessee." },
+      { "claim": "Apple's 1996 loss.", "note": "Steve Jobs Archive says Apple lost $800 million that year; Fortune's timeline says $816 million." }
+    ]
+  }
+}

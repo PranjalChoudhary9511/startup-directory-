@@ -1,0 +1,510 @@
+{
+  "slug": "zomato",
+  "company": "Zomato (Eternal Ltd)",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#E23744",
+    "secondary": "#0C831F",
+    "accent": "#F8CB46",
+    "ink": "#1C1C1C",
+    "paper": "#FFF6F0",
+    "note": "#E23744 is the fill colour in the Zomato logo file on Wikimedia Commons; #1C1C1C is the body-text colour on zomato.com; #0C831F and #F8CB46 are the green and yellow in the Blinkit logo, and #F8CB46 also appears in eternal.com's stylesheet. Paper is our own warm pick."
+  },
+  "tagline": "A stammering small-town boy who barely scraped through school scanned his office's lunch menus, built India's food-delivery giant, then handed the company to a friend he met at 15.",
+  "hook": "In 2010 Naukri's founder Sanjeev Bikhchandani ran a WhoIs lookup to find who owned the Foodiebay website, then searched Google for Deepinder Goyal's name to find an email address. The ₹4.7 crore Info Edge then invested was worth about ₹5,000 crore on Zomato's first day as a listed company in 2021, roughly 1,050 times the money.",
+  "hookSrc": [6, 5],
+  "cast": [
+    {
+      "name": "Pankaj Chaddah",
+      "role": "Co-founder. An IIT Delhi batchmate and Bain & Company colleague who built Foodiebay with Deepinder in 2008. He said he had wanted to leave for some time but would not go while Zomato was struggling in 2015–16. He stepped back from day-to-day work on 31 March 2018 and stayed on the board.",
+      "photo": null,
+      "src": [4, 27]
+    },
+    {
+      "name": "Albinder Dhindsa",
+      "role": "Deepinder's friend since a 1998 exam camp in Chandigarh, where the two boys sat next to each other. IIT Delhi mechanical engineer and Columbia MBA, he joined Zomato as head of international operations, then co-founded Grofers (later Blinkit). Zomato bought Blinkit in 2022, and on 1 February 2026 he became Group CEO of Eternal.",
+      "photo": null,
+      "src": [1, 18, 19, 15]
+    },
+    {
+      "name": "Gaurav Gupta",
+      "role": "Joined on 22 June 2015 after more than ten years at the consulting firm A.T. Kearney. An IIT Delhi chemical engineer with a postgraduate diploma from IIM Calcutta, he was made a co-founder in 2019 and was head of supply at the 2021 IPO. He resigned two months after the listing.",
+      "photo": null,
+      "src": [3, 28]
+    },
+    {
+      "name": "Akshant Goyal",
+      "role": "Chief Financial Officer. He joined on 1 April 2017 from Kotak Mahindra Capital and a fintech startup, and has been CFO since November 2020, through the IPO, the Blinkit deal and the move to profit.",
+      "photo": null,
+      "src": [3]
+    }
+  ],
+  "founder": {
+    "name": "Deepinder Goyal",
+    "role": "Founder, Zomato; Vice Chairman, Eternal Ltd",
+    "born": "26 Jan 1983, Muktsar, Punjab",
+    "died": null,
+    "portrait": null,
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eternal_headquarters.jpg/1280px-Eternal_headquarters.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Eternal_headquarters.jpg",
+        "caption": "The Gurugram headquarters of Zomato's parent company (renamed Eternal in 2025), March 2024.",
+        "author": "Uttsaav",
+        "license": "CC0",
+        "year": 2024
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zomato_delivery_partner_on_a_Yulu_bike.jpg/1280px-Zomato_delivery_partner_on_a_Yulu_bike.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Zomato_delivery_partner_on_a_Yulu_bike.jpg",
+        "caption": "A Zomato delivery partner on a Yulu electric bike in Bengaluru, January 2026.",
+        "author": "SerChevalerie",
+        "license": "CC0",
+        "year": 2026
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Blinkit_warehouse_in_Hyderabad_Hitech_City.jpg/1280px-Blinkit_warehouse_in_Hyderabad_Hitech_City.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Blinkit_warehouse_in_Hyderabad_Hitech_City.jpg",
+        "caption": "A Blinkit warehouse in Hyderabad's Hitech City, November 2025.",
+        "author": "Syced",
+        "license": "CC0",
+        "year": 2025
+      }
+    ],
+    "background": "Deepinder Goyal was born on 26 January 1983 in Muktsar, a small town in Punjab. He was born into a family of academics, and his elder brother regularly outshone him at school; Deepi stammered and grew up feeling he fell short. He was a below-average student, and in Class 5 his father had to ask the principal to let him move up a class. When he later told his father about starting Zomato, his father doubted that someone from their background could do a startup.",
+    "backgroundSrc": [3, 34, 0, 35, 36, 2, 25, 1],
+    "journey": [
+      {
+        "year": "1983",
+        "kind": "life",
+        "title": "Born in Muktsar",
+        "detail": "Born on 26 January 1983 in a small Punjab town. His elder brother did well at school; Deepi struggled with a stammer.",
+        "src": [3, 34, 36]
+      },
+      {
+        "year": "Class 5",
+        "kind": "failure",
+        "title": "Nearly held back",
+        "detail": "His results were so poor that his father had to ask the school principal to promote him to the next class. He says he was in the bottom two of his class until Class 7.",
+        "src": [0, 35]
+      },
+      {
+        "year": "Class 8",
+        "kind": "life",
+        "title": "A lucky exam, then real work",
+        "detail": "An invigilator helped him in one exam and he came in the top three. When that teacher was transferred, he studied for a night before the next test and still came fifth.",
+        "src": [0]
+      },
+      {
+        "year": "1998",
+        "kind": "life",
+        "title": "Meeting Albi",
+        "detail": "At an NTSE exam camp in Chandigarh, Albinder Dhindsa from Patiala took the empty chair next to him at the back. A year later they were together again at DAV College, Chandigarh, for Classes 11 and 12.",
+        "src": [1, 0]
+      },
+      {
+        "year": "Before IIT",
+        "kind": "breakthrough",
+        "title": "From the corridor to IIT",
+        "detail": "At JEE coaching the two friends were the last names called for the lowest batch, and a teacher put chairs for them in the corridor. Deepi planned to skip JEE that year, got absorbed in his roommate's copy of HC Verma's physics book, sat the exam on a whim and cleared it on his first attempt. So did Albi.",
+        "src": [1, 0]
+      },
+      {
+        "year": "IIT years",
+        "kind": "life",
+        "title": "IIT Delhi, and feeling low again",
+        "detail": "He did an integrated master's in mathematics and computing. Surrounded by India's best students, he says, he felt low all over again. On campus he met Kanchan Joshi, whom he later married.",
+        "src": [3, 0, 2]
+      },
+      {
+        "year": "2005",
+        "kind": "attempt",
+        "title": "Foodlet.com",
+        "detail": "Around his final year at IIT he started an online food-ordering site. Users did not come, and he shut it within a year.",
+        "src": [5, 2]
+      },
+      {
+        "year": "c.2006–09",
+        "kind": "job",
+        "title": "Consultant at Bain",
+        "detail": "He worked as a consultant at Bain & Company. Lunch queues in that office gave him the Zomato idea.",
+        "src": [3, 4]
+      },
+      {
+        "year": "2008",
+        "kind": "breakthrough",
+        "title": "Menus on the office network",
+        "detail": "Colleagues queued for paper menus at lunch, so he and Pankaj Chaddah scanned them and put them online. About 100 colleagues used it daily, and Foodiebay launched in July 2008.",
+        "src": [4, 5]
+      },
+      {
+        "year": "2010",
+        "kind": "breakthrough",
+        "title": "A cold email and a new name",
+        "detail": "After two years of bootstrapping, the company was incorporated on 18 January 2010 and Info Edge invested ₹4.7 crore in August. In November it became Zomato, partly to avoid stepping on eBay's toes.",
+        "src": [3, 5, 6]
+      },
+      {
+        "year": "2015",
+        "kind": "failure",
+        "title": "Too many countries",
+        "detail": "Buying Urbanspoon took Zomato to 22 countries. When funding dried up, it shut markets and laid off about 300 people, 10% of staff. He had hired many people he knew personally, which made it painful.",
+        "src": [7, 8, 9]
+      },
+      {
+        "year": "2016",
+        "kind": "failure",
+        "title": "Valuation cut in half",
+        "detail": "In May 2016 HSBC marked Zomato down to $500 million. He stopped talking to the press and did not read a single article about Zomato for six months.",
+        "src": [8]
+      },
+      {
+        "year": "2020",
+        "kind": "breakthrough",
+        "title": "Buying Uber Eats India",
+        "detail": "On 21 January 2020 Zomato bought Uber Eats' India business for about ₹1,376 crore, paid entirely in shares, with Uber's stake capped at 9.99%.",
+        "src": [3]
+      },
+      {
+        "year": "2021",
+        "kind": "breakthrough",
+        "title": "India's first unicorn IPO",
+        "detail": "Shares sold at ₹76 opened at ₹116 on 23 July 2021, and the market value crossed ₹1 lakh crore during the day. Months earlier he had given up his salary for three years.",
+        "src": [10, 3]
+      },
+      {
+        "year": "2022",
+        "kind": "breakthrough",
+        "title": "Backing his oldest friend",
+        "detail": "Zomato bought Albinder's Blinkit for ₹4,447 crore in shares, and Zomato's stock fell about 6% on the news. The same year he pledged the proceeds of his vested share options, about ₹700 crore, to educate delivery partners' children.",
+        "src": [11, 26]
+      },
+      {
+        "year": "2025",
+        "kind": "life",
+        "title": "Zomato's parent becomes Eternal",
+        "detail": "The listed company was renamed Eternal Ltd from 20 March 2025 because Blinkit had become a big part of its future. The Zomato app kept its name.",
+        "src": [13, 14]
+      },
+      {
+        "year": "2026",
+        "kind": "now",
+        "title": "Stepping aside",
+        "detail": "He left the CEO job on 1 February 2026 to chase riskier ideas outside a listed company, and handed it to Albinder. He stays on as Vice Chairman.",
+        "src": [15, 16, 17]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Survive first",
+        "explain": "He told YourStory the only effort he makes is to survive, because if you survive, you win. Every problem since feels smaller than the childhood in which he was 'not supposed to make it'.",
+        "src": [0]
+      },
+      {
+        "idea": "Don't race against others",
+        "explain": "He says he built a startup to get out of the rat race and chart a path where nobody compares him with anyone. He thinks comparison is a negative thing.",
+        "src": [0]
+      },
+      {
+        "idea": "Stay quiet when things are bad",
+        "explain": "His lesson from 2015–16: when results are poor, nothing you say will be believed, so stop talking, do the work and let the numbers change the mood.",
+        "src": [8]
+      },
+      {
+        "idea": "Say what went wrong",
+        "explain": "He has listed his own mistakes in public: people, capital allocation, product and countries he should not have entered. In 2024 he shut the Legends intercity service, saying two years of trying had not found product-market fit.",
+        "src": [8, 29]
+      },
+      {
+        "idea": "A public company needs one focus",
+        "explain": "He stepped down as CEO in 2026 because, he wrote, the legal and other expectations of a listed company's CEO in India 'demand singular focus', and his new ideas carry more risk than suits a listed company.",
+        "src": [15, 16]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Few interviews, no stage",
+        "detail": "He still stutters on some syllables. Talking to people costs him a lot of 'calories', he says, so he avoids interviews and stages and spends the time on work.",
+        "src": [0]
+      },
+      {
+        "habit": "Six months without reading about himself",
+        "detail": "During the bad press of 2015–16 he followed Sanjeev Bikhchandani's advice, stopped speaking to the media and read no article about Zomato for about six months.",
+        "src": [8]
+      },
+      {
+        "habit": "Doing the delivery job himself",
+        "detail": "In October 2024 he and his wife delivered orders in Gurugram in Zomato's red uniform. At one mall he was sent up the service stairs and made to wait there, and he publicly asked malls to treat delivery partners better.",
+        "src": [30, 31]
+      }
+    ],
+    "darkestHour": {
+      "title": "2015–16: 22 countries, then the cash ran out",
+      "story": "By early 2015 Zomato had bought Urbanspoon in the US for a reported $50–60 million and was in 22 countries. Then investors stopped writing cheques. Zomato missed its targets, shut down several markets and, in late 2015, laid off about 300 people, 10% of its team. Goyal later said the layoffs were hard because he had hired a lot of people he knew personally. In May 2016 HSBC cut its estimate of Zomato's value in half, to $500 million, and the press turned hostile. Sanjeev Bikhchandani of Info Edge told him to stop talking and focus on the work. Goyal stopped reading anything written about Zomato for six months, held back on new verticals and grew the food-delivery business he had started in 2015. By 2017 he said Zomato had 150 weeks of runway and did not need to raise money.",
+      "src": [7, 8, 9, 5]
+    },
+    "genuineness": {
+      "story": "Before the 2021 IPO, Goyal wrote to his board giving up his salary of ₹3.5 crore a year for 36 months while still doing the CEO's job. In May 2022 he pledged the full post-tax proceeds of his first vested share options, about ₹700 crore, to the Zomato Future Foundation to pay for the schooling of delivery partners' children. When he stepped down in 2026, he returned all his unvested options to the company's pool for future leaders.",
+      "src": [3, 26, 15]
+    },
+    "now": "Since 1 February 2026 Goyal is no longer Eternal's CEO. Shareholders approved him as Vice Chairman and non-executive director in a postal ballot that closed on 13 March 2026. His time now goes to riskier bets he started in the past year: LAT Aerospace, an aviation startup; Continue Research, which studies ageing; and Temple, a wearable that tracks blood flow in the brain. Temple raised $54 million in February 2026; pre-orders for its first batch open on 1 November 2026, with first shipments planned for early 2027.",
+    "nowSrc": [15, 17, 38, 20, 37]
+  },
+  "numbers": [
+    {
+      "value": "₹54,364 crore",
+      "label": "Revenue from operations (Eternal group)",
+      "asOf": "FY2026",
+      "src": [21, 22]
+    },
+    {
+      "value": "₹366 crore",
+      "label": "Net profit, down from ₹527 crore the year before",
+      "asOf": "FY2026",
+      "src": [21, 22]
+    },
+    {
+      "value": "₹24,138 crore",
+      "label": "Revenue in one quarter, with ₹125 crore net profit",
+      "asOf": "Jul–Sep 2026 (Q2 FY2027)",
+      "src": [23, 24]
+    },
+    {
+      "value": "2,751",
+      "label": "Blinkit dark stores, with 3,500+ planned by March 2027",
+      "asOf": "Sep 2026",
+      "src": [24]
+    },
+    {
+      "value": "1,050x",
+      "label": "Return on Info Edge's ₹4.7 crore seed cheque at the listing-day close",
+      "asOf": "23 Jul 2021",
+      "src": [6, 5]
+    },
+    {
+      "value": "₹76 → ₹116",
+      "label": "IPO price vs opening price on listing day",
+      "asOf": "23 Jul 2021",
+      "src": [10]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2008",
+      "title": "Foodiebay goes live",
+      "detail": "Two Bain consultants put scanned menus online in July. Within months it listed 1,200 Delhi restaurants.",
+      "src": [4, 5]
+    },
+    {
+      "year": "2010",
+      "title": "Company, funding, new name",
+      "detail": "Incorporated on 18 January as DC Foodiebay Online Services, funded by Info Edge in August and renamed Zomato in November.",
+      "src": [3, 5, 6]
+    },
+    {
+      "year": "2015",
+      "title": "Global, then into delivery",
+      "detail": "The Urbanspoon deal takes Zomato to 22 countries. The same year it starts food delivery, which later becomes the main business.",
+      "src": [7, 5]
+    },
+    {
+      "year": "2020",
+      "title": "Uber Eats India bought",
+      "detail": "Zomato takes over Uber's Indian food-delivery business in an all-share deal.",
+      "src": [3]
+    },
+    {
+      "year": "2021",
+      "title": "Stock-market listing",
+      "detail": "The ₹9,375 crore IPO is subscribed more than 38 times and the shares open 53% above the issue price.",
+      "src": [10]
+    },
+    {
+      "year": "2022",
+      "title": "Blinkit joins",
+      "detail": "The board approves buying quick-commerce firm Blinkit for ₹4,447 crore in shares.",
+      "src": [11]
+    },
+    {
+      "year": "2023",
+      "title": "First profit",
+      "detail": "In April–June 2023 Zomato reports its first-ever quarterly profit, ₹2 crore, helped by a ₹17 crore deferred-tax credit.",
+      "src": [12]
+    },
+    {
+      "year": "2024",
+      "title": "One bet ends, another begins",
+      "detail": "Zomato shuts its Legends intercity delivery service in August and buys Paytm's ticketing businesses for about ₹2,048 crore; ticketing now runs as District.",
+      "src": [29, 22]
+    },
+    {
+      "year": "2025",
+      "title": "Renamed Eternal",
+      "detail": "The parent company becomes Eternal Ltd from 20 March. The website moves to eternal.com; the app stays Zomato.",
+      "src": [13, 14]
+    },
+    {
+      "year": "2026",
+      "title": "New CEO, Blinkit in profit",
+      "detail": "Albinder Dhindsa takes over as Group CEO on 1 February, just after Blinkit posts its first quarterly adjusted-EBITDA profit (₹4 crore, Oct–Dec 2025).",
+      "src": [15, 16, 33]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Eternal runs four businesses. On Zomato it earns commissions from restaurants and delivery charges from customers, and restaurants also pay for ads. Blinkit now buys and owns the goods it delivers in minutes, so the full sale counts as its revenue. Hyperpure sells ingredients and supplies to restaurants, and District sells tickets for events and outings.",
+    "flows": [
+      { "from": "Customers", "to": "Zomato", "what": "Food order payments, including delivery charges" },
+      { "from": "Restaurants", "to": "Zomato", "what": "Commission on each order, plus ad spending" },
+      { "from": "Customers", "to": "Blinkit", "what": "Payment for groceries and goods from its own stock" },
+      { "from": "Restaurants", "to": "Hyperpure", "what": "Payment for ingredients and kitchen supplies" },
+      { "from": "Fans", "to": "District", "what": "Event and outing tickets" }
+    ],
+    "src": [5, 22, 24, 7]
+  },
+  "failures": [
+    {
+      "year": "2005",
+      "title": "Foodlet.com, too early",
+      "whatHappened": "Goyal's first startup offered online food ordering in 2005, when few Indians were online. Demand never came and he shut it after about a year. He later called it India's first online food-ordering company and said 2005 was way too early.",
+      "lesson": "A good idea at the wrong time is still a failure. Three years later he started smaller, with just menus.",
+      "src": [5, 2]
+    },
+    {
+      "year": "2015",
+      "title": "Expanding faster than the money",
+      "whatHappened": "Zomato rushed into 22 countries using investor money. When funding dried up it had to shut markets and lay off about 300 people. Goyal later admitted that a couple of country launches should have been stopped.",
+      "lesson": "Every new market needs cash and attention. Grow only as fast as you can pay for.",
+      "src": [7, 8, 9]
+    },
+    {
+      "year": "2022–24",
+      "title": "Legends",
+      "whatHappened": "Zomato's intercity service delivered famous dishes from other cities. It was paused in April 2024, relaunched in a new form in July and shut in August 2024; Goyal said two years of trying had not found product-market fit.",
+      "lesson": "Set a time limit on experiments and close them openly when customers don't come.",
+      "src": [29]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Zomato was renamed Eternal.",
+      "fact": "Only the listed parent company became Eternal Ltd, from 20 March 2025. The Zomato app and brand kept their name, alongside Blinkit, District and Hyperpure.",
+      "src": [13, 14]
+    },
+    {
+      "myth": "Foodiebay legally became Zomato in 2010.",
+      "fact": "The website rebranded in November 2010, but the company stayed 'DC Foodiebay Online Services Private Limited' until May 2012, when it became Zomato Media Private Limited.",
+      "src": [3, 5]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "I was not supposed to make it, but I did.",
+      "who": "Deepinder Goyal, to YourStory (2023)",
+      "src": [0]
+    },
+    {
+      "text": "When I told my dad about starting Zomato, he said, 'Janta hai tera baap kaun hai?' which basically meant 'You can't do a startup.'",
+      "who": "Deepinder Goyal, at the Vishesh Sampark event (2024)",
+      "src": [25]
+    },
+    {
+      "text": "I started the first online food ordering company in India, ever. It did not work; 2005 was way too early.",
+      "who": "Deepinder Goyal, in a 2015 interview quoted by Inc42",
+      "src": [5]
+    },
+    {
+      "text": "I did not read any article about Zomato for about six months.",
+      "who": "Deepinder Goyal, to Entrepreneur India (2017)",
+      "src": [8]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Your first try can be too early",
+      "detail": "Foodlet.com failed in 2005. Foodiebay worked in 2008 because it started with something simpler, menus, that people already wanted. If your idea flops, check whether the timing was wrong, not just the idea."
+    },
+    {
+      "title": "Start with the queue in front of you",
+      "detail": "Zomato began with colleagues queuing for paper menus in a Bain office. About 100 people used the scanned menus every day before anyone invested. Solve a small problem for people you can see."
+    },
+    {
+      "title": "Grow only as fast as your cash",
+      "detail": "Twenty-two countries in 2015 led to about 300 layoffs and a halved valuation in 2016. Before opening something new, ask who will pay for it if funding stops."
+    },
+    {
+      "title": "Shut experiments openly",
+      "detail": "Goyal closed Legends after two years and said plainly that it had not found product-market fit. Saying 'this didn't work' early saves money and keeps your team's trust."
+    },
+    {
+      "title": "Friendships compound",
+      "detail": "The boy who sat next to Deepi at a 1998 exam camp worked at Zomato, built Blinkit and now runs the whole group. Be someone people want to build with for decades."
+    }
+  ],
+  "moments": [
+    { "youtubeId": "7b2JVy0qQ2U", "at": 165, "label": "Deepinder on his early years" },
+    { "youtubeId": "7b2JVy0qQ2U", "at": 699, "label": "How Zomato began" },
+    { "youtubeId": "7b2JVy0qQ2U", "at": 895, "label": "On giving away equity" },
+    { "youtubeId": "7b2JVy0qQ2U", "at": 1020, "label": "From Bain to Foodiebay to Zomato" },
+    { "youtubeId": "7b2JVy0qQ2U", "at": 1176, "label": "Two years of bootstrapping" }
+  ],
+  "sources": [
+    { "label": "YourStory: Deepinder Goyal, the kid who shouldn't have made it, but did (interview, Jun 2023)", "url": "https://yourstory.com/2023/06/deepinder-goyal-the-kid-who-shouldnt-have-made-it" },
+    { "label": "The Tribune: extract from 'Unseen: The Untold Story of Deepinder Goyal and the Making of Zomato' by Megha Vishwanath (Penguin, 2025)", "url": "https://www.tribuneindia.com/news/book-reviews/unseen-the-untold-story-of-deepinder-goyal-and-the-making-of-zomato-narrates-the-zomato-founders-chandigarh-journey" },
+    { "label": "Business Standard: review of 'Unseen' by Nivedita Mookerji (Dec 2025)", "url": "https://www.business-standard.com/book/unseen-captures-the-behind-the-scenes-evolution-of-zomato-s-deepinder-goyal-125122100691_1.html" },
+    { "label": "SEBI: Zomato Limited Red Herring Prospectus (Jul 2021)", "url": "https://www.sebi.gov.in/filings/public-issues/jul-2021/zomato-limited-rhp_50950.html" },
+    { "label": "Outlook Business: Zomato, entrepreneurs under 30 profile (early 2010s)", "url": "https://www.outlookbusiness.com/specials/entrepreneurs-under-30/zomato-2347" },
+    { "label": "Inc42: From Foodiebay to Zomato, the 12-year journey (2021)", "url": "https://inc42.com/?p=251292" },
+    { "label": "OfficeChai: Info Edge's first ₹4.7 crore investment in Zomato is now worth ₹5,000 crore (Jul 2021)", "url": "https://officechai.com/startups/infoedges-first-rs-4-7-crore-investment-in-zomato-is-now-worth-rs-5000-crore/" },
+    { "label": "TechCrunch: Zomato buys IAC's Urbanspoon, enters the US (Jan 2015)", "url": "https://techcrunch.com/2015/01/12/restaurant-discovery-site-zomato-buys-iacs-urbanspoon-enters-the-u-s-market/" },
+    { "label": "Entrepreneur India: How this poster boy of foodtech kept the hunger game alive (Sep 2017 issue)", "url": "https://india.entrepreneur.com/growth-strategies/how-this-poster-boy-of-foodtech-kept-the-hunger-game-alive/302213" },
+    { "label": "Business Standard: 'Lay-off had nothing to do with our performance', interview with Deepinder Goyal (Feb 2016)", "url": "https://www.business-standard.com/article/companies/lay-off-had-nothing-to-do-with-our-performance-deepinder-goyal-116020800016_1.html" },
+    { "label": "Business Standard: Zomato lists 53% higher on NSE, market cap crosses ₹1 trillion (Jul 2021)", "url": "https://www.business-standard.com/article/markets/zomato-lists-53-higher-on-nse-market-cap-crosses-rs-1-trillion-mark-121072300290_1.html" },
+    { "label": "Business Standard: Zomato dips 6% as board approves Blinkit acquisition for ₹4,447 crore (Jun 2022)", "url": "https://www.business-standard.com/article/markets/zomato-dips-6-as-board-approves-acquisition-of-blinkit-for-rs-4-447-crore-122062700255_1.html" },
+    { "label": "Inc42: Deferred tax helps Zomato report first-ever profitable quarter (Aug 2023)", "url": "https://inc42.com/buzz/zomato-q1-highlights-deferred-tax-helps-report-first-ever-profitable-quarter/" },
+    { "label": "Outlook Business: Zomato becomes Eternal after MCA approval (Mar 2025)", "url": "https://www.outlookbusiness.com/news/zomato-becomes-eternal-post-mca-approval-is-blinkit-behind-the-name-change" },
+    { "label": "Inc42: Zomato is now officially Eternal as MCA confirms name change (Mar 2025)", "url": "https://inc42.com/buzz/zomato-is-now-officially-eternal-as-mca-confirms-name-change" },
+    { "label": "Inc42: Deepinder Goyal steps down as Eternal Group CEO (Jan 2026)", "url": "https://inc42.com/buzz/deepinder-goyal-steps-down-as-eternal-group-ceo/" },
+    { "label": "The Week: What is next for Deepinder Goyal? (Jan 2026)", "url": "https://www.theweek.in/news/biz-tech/2026/01/21/what-is-next-for-deepinder-goyal-zomato-founder-steps-down-as-eternal-ceo.amp.html" },
+    { "label": "NSE filing: Eternal Ltd postal ballot voting results and scrutiniser's report (13 Mar 2026)", "url": "https://nsearchives.nseindia.com/corporate/ZOMATO_13032026221115_ETernalvotingreusltsignedfinal.pdf" },
+    { "label": "The Week: Who is Albinder Dhindsa? (Jan 2026)", "url": "https://www.theweek.in/news/biz-tech/2026/01/21/who-is-albinder-singh-dhindsa-here-s-the-net-worth-of-zomato-ceo-deepinder-goyal-s-successor.amp.html" },
+    { "label": "Business Today: Albinder Dhindsa writes his startup journey in 'Buildit' (Apr 2026)", "url": "https://www.businesstoday.in/amp/technology/story/from-grofers-to-blinkit-albinder-dhindsa-writes-his-startup-journey-in-buildit-525116-2026-04-10" },
+    { "label": "Inc42: Deepinder Goyal's Temple wearable gets smaller ahead of 2026 launch", "url": "https://inc42.com/buzz/deepinder-goyals-temple-wearable-gets-smaller-ahead-of-2026-launch/" },
+    { "label": "Free Press Journal: Eternal Q4 FY26 results and full-year FY26 figures (Apr 2026)", "url": "https://www.freepressjournal.in/business/eternal-q4-profit-jumps-to-174-crore-revenue-surges-to-17292-crore-strong-sequential-growth-continues" },
+    { "label": "Inc42: Eternal Q4 profit surges 4.5x to ₹174 crore (Apr 2026)", "url": "https://inc42.com/buzz/eternal-q4-profit-surges-4-5x-yoy-to-₹174-cr/" },
+    { "label": "Outlook Business: Eternal Q2 FY27 profit jumps 92% to ₹125 crore (Oct 2026)", "url": "https://www.outlookbusiness.com/amp/story/markets/eternal-q2-profit-jumps-92-to-125-crore-as-revenue-climbs-78" },
+    { "label": "Kotak Neo: Eternal Q2 FY27 results, Blinkit adds 308 stores (Oct 2026)", "url": "https://www.kotakneo.com/news/stocks/eternal-q2-results-profit-rises-revenue-growth-blinkit-adds-stores/" },
+    { "label": "Business Today: 'Janta hai tera baap kaun hai?', Goyal's anecdote at Vishesh Sampark (May 2024)", "url": "https://www.businesstoday.in/latest/corporate/story/janta-hai-tera-baap-kaun-hai-zomato-ceo-deepinder-goyals-touching-anecdote-on-startups-journey-430413-2024-05-21" },
+    { "label": "Business Today: Goyal donates ₹700 crore for education of delivery partners' kids (May 2022)", "url": "https://www.businesstoday.in/entrepreneurship/story/zomatos-deepinder-goyal-donates-rs-700-cr-for-education-of-delivery-partners-kids-332625-2022-05-06" },
+    { "label": "Inc42: Zomato co-founder Pankaj Chaddah resigns (Mar 2018)", "url": "https://inc42.com/buzz/zomato-co-founder-pankaj-chaddah-resigns" },
+    { "label": "The Week: Zomato co-founder Gaurav Gupta quits (Sep 2021)", "url": "https://www.theweek.in/news/biz-tech/2021/09/14/zomato-co-founder-gaurav-gupta-quits.html" },
+    { "label": "Business Today: Zomato shuts down intercity service Legends over lack of product-market fit (Aug 2024)", "url": "https://www.businesstoday.in/tech-today/news/story/zomato-shuts-down-inter-city-delivery-service-legends-over-lack-of-product-market-fit-says-ceo-deepinder-goyal-442670-2024-08-22" },
+    { "label": "The Week: Deepinder Goyal and wife turn delivery partners in Gurugram (Oct 2024)", "url": "https://www.theweek.in/news/biz-tech/2024/10/05/trending-zomato-ceo-deepinder-goyal-wife-grecia-munoz-turn-delivery-guys-in-gurugram-share-photos-online.html" },
+    { "label": "Business Today: Goyal made to wait on mall stairs during delivery run (Oct 2024)", "url": "https://www.businesstoday.in/technology/news/story/zomato-ceo-deepinder-goyal-denied-entry-to-gurugram-mall-forced-to-wait-on-stairs-during-delivery-run-449000-2024-10-07" },
+    { "label": "YourStory on YouTube: Deepinder Goyal interview (description and chapters)", "url": "https://www.youtube.com/watch?v=7b2JVy0qQ2U" },
+    { "label": "Inc42: Eternal Q3, Blinkit and Hyperpure achieve adjusted EBITDA profitability (Jan 2026)", "url": "https://inc42.com/buzz/eternal-q3-blinkit-hyperpure-achieve-adjusted-ebitda-profitability/" },
+    { "label": "Forbes India: Why it's all cool for the Zomato chief (May 2010 issue)", "url": "https://www.forbesindia.com/article/work/why-its-all-cool-for-the-zomato-chief/39989/1" },
+    { "label": "Inshorts: 'My dad had to beg school principal to let me pass a class', summary of the YourStory interview (Jun 2023)", "url": "https://inshorts.com/en/news/my-dad-had-to-beg-school-principal-to-let-me-pass-a-class-zomato-ceo-deepinder-1686470210285" },
+    { "label": "Penguin India: 'Unseen' by Megha Vishwanath, book page and author bio (Oct 2025)", "url": "https://www.penguin.co.in/book/unseen/" },
+    { "label": "Esquire India: Temple wearable pre-orders begin 1 November (Oct 2026)", "url": "https://www.esquireindia.co.in/tech-and-auto/gadgets/deepinder-goyals-temple-wearable-pre-orders-begin-november-1-price-features-and-more" },
+    { "label": "TechCrunch: After Zomato, Deepinder Goyal returns with a $54M brain-monitoring bet (Feb 2026)", "url": "https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 39 sources, led by primary ones: Zomato's 2021 red herring prospectus (read in full from SEBI: incorporation date, renamings, Goyal's date of birth, salary waiver, Uber Eats price, team bios), Eternal's 2026 postal-ballot result, Goyal's own interviews (YourStory 2023, Business Standard 2016, Entrepreneur India 2017) and an extract from his authorised biography. Then independently re-checked claim by claim against the cited source plus a second source (Inc42, Outlook Business, Kotak Neo, Free Press Journal, The Week, TechCrunch, Forbes India and others); where a site blocked automated reading (YourStory, Business Standard, Entrepreneur India, NSE), the wording was confirmed through other reports of the same article or the search index of the page itself. Quotes were matched to the originals and one unconfirmed sentence was cut; the five video moments were checked against the chapter list in YourStory's own YouTube description; the three photos were checked on Wikimedia Commons for author, licence, subject and date. No free-licence photo of Goyal or his co-founders exists on Commons (a file named 'Deepinder.jpg' shows someone else), so only company photos are used.",
+    "disputed": [
+      { "claim": "His parents' jobs", "note": "Many profiles say his father, Harbans Lal Goyal, taught botany and his mother taught English, but these come from celebrity-biography sites. Forbes India (2010) says only that he was born into a family of academics, so we say no more than that." },
+      { "claim": "Which class he nearly failed", "note": "Forbes India's 2010 profile says he struggled until Class 8, 'even failing class VI'. In his 2023 YourStory interview he described Class 5, when his father asked the principal to promote him, and said he was in the bottom two of his class until Class 7. We could not confirm whether he ever repeated a year." },
+      { "claim": "Years at Bain", "note": "Profiles disagree on whether he joined Bain in 2005 or 2006, and on whether he left in 2008 or November 2009. The prospectus says only that he worked at Bain before Zomato." },
+      { "claim": "Foodiebay launch date", "note": "Zomato celebrates 10 July 2008 as its birthday (as reported by Business Standard and Wikipedia); Outlook Business says July 2008. Pankaj Chaddah has said he joined in mid-2008, a few months after Goyal began." },
+      { "claim": "Why Foodiebay became Zomato", "note": "Goyal's 2010 blog, quoted by Inc42, gave two reasons: 'Foodiebay' sounded food-only, and they wanted to avoid 'overstepping' eBay once they took online payments. Inc42 calls this avoiding a possible lawsuit; we found no evidence eBay ever complained or sued." },
+      { "claim": "Blinkit deal value", "note": "₹4,447 crore in Zomato shares. Dollar figures vary: about $567 million (Business Standard) and $568 million (Inc42, Business Today); some earlier reports said $700–800 million." },
+      { "claim": "When Grofers was founded", "note": "Business Today says December 2013; The Week says May 2014." },
+      { "claim": "Q2 FY27 operating profit", "note": "Reports give adjusted EBITDA of ₹666 crore (Outlook Business) and reported EBITDA of ₹752 crore (Kotak Neo); these are different measures." },
+      { "claim": "Info Edge's return", "note": "The 1,050x figure is at the ₹126 listing-day close; at the ₹76 IPO price it was about 633x (OfficeChai, quoting Bikhchandani's own data). It is a paper value, not cash." },
+      { "claim": "The 2015 layoffs", "note": "Goyal told Business Standard in February 2016 that the layoffs 'had nothing to do with Zomato's performance'; in 2017 he admitted to Entrepreneur India mistakes in people, capital allocation and country launches." },
+      { "claim": "His biography", "note": "'Unseen' (Penguin, 2025) was written by Megha Vishwanath, a Zomato executive, under an arrangement with Goyal. Business Standard's review flags this as a question for objectivity. Childhood details from it are marked as coming from the biography." },
+      { "claim": "Temple's seed round", "note": "Inc42 calls the February 2026 round $54 million in seed funding; TechCrunch calls it a friends-and-family round at a post-money valuation of about $190 million." },
+      { "claim": "The 2023 YourStory interview", "note": "YourStory's site blocks automated reading, so we could not open the interview ourselves. The Class 5 promotion, the Class 8 exam, the stammer, the 'calories' remark and the line 'I was not supposed to make it, but I did' are confirmed in other reports of that interview (Inshorts, DesiBlitz) and in search-index text of the page. Feeling low at IIT and the 'survive' and 'rat race' ideas rest on that interview alone, so they are given as his own account." },
+      { "claim": "His brother's name", "note": "Forbes India (2010) confirms an elder brother who outshone him at school but does not name him. We could not confirm a name from a reliable source, so we leave it out." }
+    ]
+  }
+}

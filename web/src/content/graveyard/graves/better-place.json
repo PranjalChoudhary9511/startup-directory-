@@ -1,0 +1,448 @@
+{
+  "slug": "better-place",
+  "name": "Better Place",
+  "region": "global",
+  "country": "Israel",
+  "city": "Palo Alto (registered) / Tel Aviv area (operations)",
+  "sector": "EV charging and battery swapping",
+  "founded": 2007,
+  "died": 2013,
+  "status": "bankrupt",
+  "brandColor": "#00a3e0",
+  "founders": [
+    {
+      "name": "Shai Agassi",
+      "role": "Founder and CEO (left in October 2012)"
+    }
+  ],
+  "epitaph": "Swapped batteries in five minutes. Swapped $850M for zero.",
+  "oneLiner": "Built robot stations in Israel and Denmark that swapped an electric car's empty battery for a full one in minutes.",
+  "causeOfDeath": "It built a whole country's worth of costly swap stations before customers showed up, and only one carmaker ever made a car that fit them.",
+  "raisedUsdM": 850,
+  "peakValuationUsdM": 2250,
+  "endValueUsdM": 0.45,
+  "moneyNote": "Raised about $850M (AP). Peak $2.25B post-money valuation in Nov 2011 (Globes). Remaining assets sold to Gnrgy for under $450,000 (AP).",
+  "moneySrc": [
+    0,
+    5,
+    6
+  ],
+  "inOneMinute": [
+    "Better Place promised to end oil in cars: buy an electric car, and a **robot swaps your empty battery** in minutes.",
+    "It built **38 swap stations and 1,804 charging posts** in Israel, but only **940 cars** were on the road when it collapsed.",
+    "It raised about $850M, was valued at $2.25B, and its leftovers sold for **less than $450,000**."
+  ],
+  "killerLine": "Infrastructure is a bet on demand. **Build for the customers you have**, not the million you imagine.",
+  "numbers": [
+    {
+      "value": "$2.25B",
+      "label": "valuation in Nov 2011, 18 months before bankruptcy",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$454M",
+      "label": "lost in 2012, on revenue of just $7M",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "value": "940",
+      "label": "customer cars in Israel when it filed for liquidation",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "<$450K",
+      "label": "price the leftovers sold for in Nov 2013",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: sell kilometres, not cars",
+      "body": "In 2007, a famous Israeli software executive named Shai Agassi launched Better Place. His big idea was simple. Electric cars are hard to love because batteries are costly and charging takes hours. So **separate the battery from the car**. You buy the car. Better Place owns the battery and charges you for distance, like a mobile plan. When the battery runs low, you drive into a station, and a robot slides out the empty pack and puts in a full one in about five minutes. Agassi sold it as the end of oil. In 2011 he said: \"I can guarantee you that we will finish the need for oil as an energy source for cars.\" Investors loved the story. In its first round in 2007 it raised **$200 million**, one of the biggest clean-tech rounds of that time.",
+      "src": [
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "title": "The rise: a country-sized bet",
+      "body": "Better Place picked small countries where you rarely drive far: Israel and Denmark. Renault-Nissan agreed to build a car with a swappable battery, the Renault Fluence Z.E. In 2010, a group led by HSBC put in **$350 million at a $1.25 billion valuation**. In November 2011, General Electric and UBS joined a $200 million round that pushed the valuation to **$2.25 billion**. More than 400 Israeli companies had signed letters of intent, which Better Place said could mean 80,000 employee cars. But a letter of intent is a \"maybe\", not an order. Instead of starting small with one city as a test, the company **built networks across two whole countries at once**. Stations and staff came first. Cars were supposed to follow.",
+      "src": [
+        0,
+        7,
+        9
+      ]
+    },
+    {
+      "title": "The cracks: stations without cars",
+      "body": "The cars did not follow. There was only one model, and few people wanted it. By summer 2012, Israel had roughly **one swap station for every 20 to 30 Fluence cars** on the road. Each station was officially said to cost about $500,000; one analyst who studied the main shareholder's filings believed the true cost was over $2 million. Money left fast. Cash fell from $293 million at the start of 2012 to $34 million. The company **lost $454 million in 2012 on revenue of just $7 million**, more than double the $213 million lost in 2011. In October 2012, Agassi stepped down as CEO and soon left the board. More than half the staff were laid off. His replacement was fired within months.",
+      "src": [
+        1,
+        2,
+        4,
+        7,
+        9
+      ]
+    },
+    {
+      "title": "The fall: nobody wants the next round",
+      "body": "In early 2013, auditors gave Better Place a **\"going concern\" warning** (a formal alarm that a company may not survive the year). Reaching break-even reportedly needed four more years and another $500 million. Its biggest shareholder, Israel Corporation, refused to put in more, and no new investor came forward. Renault's boss said production of swappable-battery cars would slow sharply. On 26 May 2013, Better Place asked an Israeli court to liquidate it. It owed $40 million, had $9.5 million in assets and 320 staff. Total losses since 2007 were **$812 million**. In November 2013, a small startup called Gnrgy bought what was left for less than $450,000, and promised to keep the chargers running but **not the battery swaps**.",
+      "src": [
+        2,
+        3,
+        4,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Oct 2007",
+      "event": "Shai Agassi launches Project Better Place; first round raises $200M",
+      "kind": "start",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "date": "Jan 2008",
+      "event": "Deal with Renault-Nissan to supply cars for Israel's network",
+      "kind": "money",
+      "src": [
+        9
+      ]
+    },
+    {
+      "date": "Jan 2010",
+      "event": "Raises $350M led by HSBC at a $1.25B valuation",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "event": "GE and UBS join a $200M round; valuation hits $2.25B",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2012",
+      "event": "Loses $454M on $7M revenue; cash falls from $293M to $34M",
+      "kind": "warning",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "Oct 2012",
+      "event": "Agassi steps down as CEO; more than half of staff laid off",
+      "kind": "crisis",
+      "src": [
+        4,
+        9
+      ]
+    },
+    {
+      "date": "Jan 2013",
+      "event": "Replacement CEO Evan Thornley fired; Dan Cohen takes over",
+      "kind": "crisis",
+      "src": [
+        9
+      ]
+    },
+    {
+      "date": "Mar 2013",
+      "event": "Parent's report carries a 'going concern' warning",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "26 May 2013",
+      "event": "Files for liquidation in Israel with 940 customer cars on the road",
+      "kind": "end",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Nov 2013",
+      "event": "Gnrgy buys the leftovers for under $450,000",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2025",
+      "event": "China's NIO opens its 3,000th battery swap station",
+      "kind": "after",
+      "src": [
+        11
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Net loss by year",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2011",
+        "2012"
+      ],
+      "series": [
+        {
+          "name": "Net loss",
+          "values": [
+            213,
+            454
+          ]
+        }
+      ],
+      "takeaway": "The loss more than doubled in one year, while 2012 revenue was only about $7M.",
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2007",
+      "round": "Series A",
+      "amountUsdM": 200,
+      "valuationUsdM": null,
+      "investors": [
+        "Israel Corporation",
+        "VantagePoint",
+        "Morgan Stanley"
+      ],
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "date": "Jan 2010",
+      "round": "Series B",
+      "amountUsdM": 350,
+      "valuationUsdM": 1250,
+      "investors": [
+        "HSBC (lead)",
+        "Israel Corporation"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "round": "Series C",
+      "amountUsdM": 200,
+      "valuationUsdM": 2250,
+      "investors": [
+        "General Electric",
+        "UBS",
+        "Israel Corporation",
+        "HSBC",
+        "Morgan Stanley",
+        "VantagePoint"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "over-expansion",
+      "weight": 35
+    },
+    {
+      "key": "no-market",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Built for two countries before proving one street",
+      "explain": "Better Place rolled out **nationwide in Israel and Denmark at the same time**, with no small pilot first. By 2012 there was one swap station for every 20 to 30 cars. Each station was a fixed cost that earned almost nothing. A single-city test would have shown, cheaply, how many people actually wanted the car.",
+      "src": [
+        7,
+        3
+      ]
+    },
+    {
+      "title": "Depended on one carmaker and one car",
+      "explain": "Swapping only works if many cars share the same battery. Only Renault made one: the Fluence Z.E. If drivers did not like that one sedan, there was **no other car to sell**. When Renault said it would slow production of swappable cars, the plan had nothing left to stand on.",
+      "src": [
+        4,
+        7
+      ]
+    },
+    {
+      "title": "Counted 'maybe' as 'yes'",
+      "explain": "The company talked about 400 corporate letters of intent and 80,000 possible cars. Agassi had predicted 100,000 electric cars in Israel by 2010. In reality, **940 customer cars** existed when it shut. Forecasts and soft promises shaped how much it spent, instead of **real paid orders**.",
+      "src": [
+        0,
+        3,
+        9
+      ]
+    },
+    {
+      "title": "Too much money, too early",
+      "explain": "Raising huge sums let the company build first and ask questions later. It **lost $812 million in under six years** and burned about 90% of its cash in 2012 alone. Big rounds feel like success, but they can hide that the product is not selling.",
+      "src": [
+        3,
+        4,
+        7
+      ]
+    },
+    {
+      "title": "Story over operations",
+      "explain": "Former staff, interviewed by Fast Company, described a culture focused on vision and marketing more than logistics, with few people at the top willing to say no. The company kept an official station cost of about $500,000 that one analyst believes was **at least four times too low**.",
+      "src": [
+        7
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you building expensive infrastructure before you have paying customers who need it?",
+    "Does your whole business depend on one partner making one product?",
+    "Are you counting letters of intent, waitlists or 'interest' as if they were sales?",
+    "Did your loss double this year while revenue stayed tiny?",
+    "Would your team stay quiet even if they thought the numbers didn't work?",
+    "Are you launching in many places at once instead of winning one first?"
+  ],
+  "lessons": [
+    {
+      "title": "Pilot in one place, then copy-paste",
+      "detail": "Pick one city, one college, one neighbourhood. Make it work and make it pay. Only then spend on the second one. A cheap pilot tells you the truth before an expensive rollout does."
+    },
+    {
+      "title": "Pick customers whose pain is daily",
+      "detail": "Indian battery swapping works for e-rickshaw and delivery drivers because every minute charging is lost income. Private car owners in Israel rarely needed a swap. Sell to people who feel the pain every day."
+    },
+    {
+      "title": "Never let one partner hold your oxygen",
+      "detail": "If one supplier, one platform or one big client can end your business with a single decision, you are not a company yet. Line up a second option early, even if it is worse."
+    },
+    {
+      "title": "Track cost per unit with your own eyes",
+      "detail": "Write down what your shop, station, kitchen or server really costs to run, from bills, not from the pitch deck. If the real number is very different, change the plan before you build ten more."
+    },
+    {
+      "title": "Big funding is fuel, not proof",
+      "detail": "A $2 billion valuation did not mean people wanted the product. Judge yourself by paying, returning customers. Raise money to grow something that already works, not to hope it starts working."
+    }
+  ],
+  "quote": {
+    "text": "I can guarantee you that we will finish the need for oil as an energy source for cars",
+    "who": "Shai Agassi, founder of Better Place",
+    "context": "Said in 2011, as quoted by the Associated Press when the company shut down in 2013.",
+    "src": [
+      5
+    ]
+  },
+  "afterlife": {
+    "text": "Gnrgy kept about 1,800 public chargers running for Israel's electric cars but dropped battery swapping. The idea itself did not die: in China, carmaker NIO built swapping into its own cars and opened its 3,000th swap station in January 2025. In India, swapping is booming for e-rickshaws and delivery scooters, where drivers lose money for every minute they wait, with Battery Smart running more than 1,400 sites and Sun Mobility about 800 (Bloomberg, April 2025).",
+    "src": [
+      6,
+      10,
+      11
+    ]
+  },
+  "sources": [
+    {
+      "label": "Globes, 'Better Place raises $200m' (13 Nov 2011)",
+      "url": "https://en.globes.co.il/en/article-1000697136"
+    },
+    {
+      "label": "Globes, 'Better Place and Zim widen Israel Corp's loss' (21 Mar 2013)",
+      "url": "https://en.globes.co.il/en/article-1000831678"
+    },
+    {
+      "label": "Globes, 'Better Place receives \"going concern\" warning' (21 Mar 2013)",
+      "url": "https://en.globes.co.il/en/article-1000831870"
+    },
+    {
+      "label": "Globes, 'Better Place owes $40m' (liquidation petition, 26 May 2013)",
+      "url": "https://en.globes.co.il/en/article-1000846980"
+    },
+    {
+      "label": "Times of Israel, 'Better Place files for bankruptcy' (26 May 2013)",
+      "url": "https://www.timesofisrael.com/better-place-files-for-bankruptcy/"
+    },
+    {
+      "label": "Associated Press via Phys.org, 'Trailblazing Israeli electric car company to close' (26 May 2013)",
+      "url": "https://phys.org/news/2013-05-trailblazing-israeli-electric-car-company.html"
+    },
+    {
+      "label": "Associated Press via KSL, 'Israeli startup buys up bankrupt electric car firm' (21 Nov 2013)",
+      "url": "https://www.ksl.com/article/27728737"
+    },
+    {
+      "label": "InsideEVs, on Fast Company's Better Place post-mortem (15 Apr 2014)",
+      "url": "https://insideevs.com/news/321829/new-better-place-post-mortem-pins-all-blame-on-agassis-megalomania/"
+    },
+    {
+      "label": "Globes, 'Israeli car venture top cleantech capital raiser' (2 Mar 2008)",
+      "url": "https://en.globes.co.il/en/article-1000316609"
+    },
+    {
+      "label": "Wikipedia, 'Better Place (company)' (dates and Renault order)",
+      "url": "https://en.wikipedia.org/wiki/Better_Place_(company)"
+    },
+    {
+      "label": "Bloomberg via Energy Connects, 'India Battery-Swapping Boom Hinges on Deliveries and Rickshaws' (21 Apr 2025)",
+      "url": "https://www.energyconnects.com/news/renewables/2025/april/india-battery-swapping-boom-hinges-on-deliveries-and-rickshaws/"
+    },
+    {
+      "label": "CnEVPost, 'Nio reaches 3,000 swap stations in China' (3 Jan 2025)",
+      "url": "https://cnevpost.com/2025/01/03/nio-3000-swap-stations-china/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total cars sold",
+        "note": "Reports range from 940 customer cars in Israel (liquidation petition) to 'about 1,000' (AP) to 'barely 2,000' across Israel and Denmark (Times of Israel). We use the petition figure for Israel."
+      },
+      {
+        "claim": "True cost of a swap station was over $2 million",
+        "note": "This is one analyst's inference from Israel Corporation's filings; the company's official figure was about $500,000. Not confirmed by the company."
+      },
+      {
+        "claim": "Agassi was solely to blame",
+        "note": "Fast Company's 2014 post-mortem placed most blame on Agassi, who declined to comment. Weak carmaker support and low public demand, cited by the board, also mattered."
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "slug": "jawbone",
+  "name": "Jawbone",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Wearables and audio hardware",
+  "founded": 1999,
+  "died": 2017,
+  "status": "bankrupt",
+  "brandColor": "#2b2b2b",
+  "founders": [
+    { "name": "Hosain Rahman", "role": "Co-founder and CEO" },
+    { "name": "Alexander Asseily", "role": "Co-founder" }
+  ],
+  "epitaph": "Counted every step. Missed the one that mattered.",
+  "oneLiner": "A beautifully designed gadget maker known for Bluetooth headsets, the Jambox speaker and the UP fitness band.",
+  "causeOfDeath": "Jawbone kept shipping late or faulty hardware while cheaper Fitbit and then Apple took the market, and $900M+ of funding ran out.",
+  "raisedUsdM": 900,
+  "peakValuationUsdM": 3200,
+  "endValueUsdM": null,
+  "moneyNote": "'More than $900M' in equity and debt, and a 2014 valuation of $3.2B per PitchBook (via TechCentral). No sale price: assets were liquidated in 2017.",
+  "moneySrc": [3, 2],
+  "inOneMinute": [
+    "Jawbone made gorgeous gadgets: noise-cancelling headsets, the Jambox speaker and the **UP fitness band**. Investors valued it at $3.2 billion in 2014.",
+    "Its first UP band failed so badly that it **refunded every buyer and let them keep the band**. Later products also kept slipping.",
+    "Fitbit won the fitness market, Apple Watch arrived, and in 2017 Jawbone was **liquidated after raising more than $900 million**."
+  ],
+  "killerLine": "In hardware, **a beautiful product that ships late or breaks is worse than a plain one that works** and arrives on time.",
+  "numbers": [
+    { "value": "$3.2B", "label": "valuation in 2014", "src": [3] },
+    { "value": "$900M+", "label": "raised in equity and debt", "src": [3] },
+    { "value": "~98%", "label": "how much BlackRock wrote down its $300M loan", "src": [3] },
+    { "value": "18 years", "label": "from founding to liquidation", "src": [2] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: military tech for your ear",
+      "body": "Hosain Rahman and Alexander Asseily started AliphCom in 1999. Their first big idea came from defence research: with grants from the US Navy and DARPA (the US military's research agency), they worked on **technology to erase background noise**. In 2004 they released a headset using it, and in 2006 came the stylish Jawbone Bluetooth headset. Then, in 2010, the company renamed itself Jawbone. Its products looked like jewellery, not electronics. The Jambox wireless speaker became **the bestselling portable wireless speaker** in North America and the UK within a year. Jawbone proved that design could sell gadgets, years before most hardware startups understood that.",
+      "src": [1, 4]
+    },
+    {
+      "title": "The rise: and a very public faceplant",
+      "body": "In November 2011 Jawbone launched UP, a $100 wristband that tracked your steps and sleep. Within weeks, a **troubling number of bands stopped working**. Jawbone found faulty capacitors (tiny parts that store electric charge). Rahman wrote: \"This is unacceptable and you have our deepest apologies.\" Then he did something remarkable: Jawbone offered **a full refund to every buyer, even if they kept the band**, and stopped all sales until it was fixed. It was an honest, customer-first move. Investors still believed: Jawbone raised $70 million in mid-2011 and $40 million more soon after. By 2014, PitchBook data put its valuation at **$3.2 billion**.",
+      "src": [0, 1, 3, 6]
+    },
+    {
+      "title": "The cracks: late, sued and outsold",
+      "body": "By early 2015, Jawbone had about 450 employees. But it **struggled to ship products on time**, and Fitbit, with cheaper and reliable trackers, was taking the market. In 2015 BlackRock, a giant investment firm, lent Jawbone **$300 million**. That May, Jawbone sued Fitbit, accusing it of hiring Jawbone employees who took confidential files. That fight would drag on for years. Meanwhile, the Apple Watch launched in 2015, squeezing the market from above. In 2016 Jawbone put its speaker business up for sale, stopped making fitness trackers and sold its leftover stock to a reseller. Its last hope was a clinical health wearable it had not yet released.",
+      "src": [2, 3, 4]
+    },
+    {
+      "title": "The fall: liquidation",
+      "body": "In January 2017, Jawbone raised $165 million led by the Kuwait Investment Authority, at **about half its 2014 valuation**. It wasn't enough. In July 2017, Jawbone began liquidation (selling off everything to pay back what it owed). A firm called Sherwood Capital took over its assets, including the Fitbit lawsuit, which was now **its biggest remaining asset**. BlackRock had already marked down the value of its Jawbone loan by almost 98%. Shareholders were expected to be wiped out. Rahman started a new company, Jawbone Health Hub, and many employees moved with him. As one analyst put it: \"It's a nail in the coffin for the way we know Jawbone today.\"",
+      "src": [2, 3]
+    }
+  ],
+  "timeline": [
+    { "date": "1999", "event": "Hosain Rahman and Alexander Asseily found AliphCom", "kind": "start", "src": [4] },
+    { "date": "2004", "event": "First noise-cancelling headset using military research", "kind": "start", "src": [4] },
+    { "date": "2010", "event": "Company renames itself Jawbone; Jambox speaker follows", "kind": "peak", "src": [1, 4] },
+    { "date": "Nov 2011", "event": "UP fitness band launches at $100", "kind": "start", "src": [6] },
+    { "date": "Dec 2011", "event": "UP bands fail; full refunds offered to all buyers, sales halted", "kind": "crisis", "src": [0, 6] },
+    { "date": "2014", "event": "Valued at $3.2 billion", "kind": "peak", "src": [3] },
+    { "date": "2015", "event": "BlackRock lends $300M; Jawbone sues Fitbit over trade secrets", "kind": "money", "src": [3] },
+    { "date": "2016", "event": "Stops making fitness trackers; puts speaker business up for sale", "kind": "warning", "src": [3] },
+    { "date": "Jan 2017", "event": "Raises $165M at about half its 2014 valuation", "kind": "crisis", "src": [3] },
+    { "date": "Jul 2017", "event": "Jawbone enters liquidation; CEO starts Jawbone Health Hub", "kind": "end", "src": [2, 3] },
+    { "date": "Dec 2017", "event": "Jawbone and Fitbit settle the civil trade-secrets fight", "kind": "after", "src": [5] },
+    { "date": "Feb 2020", "event": "US prosecutors drop remaining criminal charges against ex-Jawbone staff", "kind": "after", "src": [5] }
+  ],
+  "charts": [],
+  "rounds": [
+    { "date": "2011", "round": "Growth round", "amountUsdM": 70, "valuationUsdM": null, "investors": ["J.P. Morgan Asset Management"], "src": [1] },
+    { "date": "Dec 2011", "round": "Growth round", "amountUsdM": 40, "valuationUsdM": null, "investors": ["Deutsche Telekom", "Kleiner Perkins", "Yuri Milner"], "src": [1] },
+    { "date": "2015", "round": "Debt", "amountUsdM": 300, "valuationUsdM": null, "investors": ["BlackRock"], "src": [3] },
+    { "date": "Jan 2017", "round": "Down round", "amountUsdM": 165, "valuationUsdM": null, "investors": ["Kuwait Investment Authority"], "src": [3] }
+  ],
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "tech", "weight": 30 },
+    { "key": "burn", "weight": 20 },
+    { "key": "focus", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Shipping late and shipping broken",
+      "explain": "Jawbone's first UP band failed in weeks, and it **struggled to ship products on time** afterwards. In a fast market like fitness trackers, every late month handed customers to Fitbit. Hardware can't be patched like an app; a bad batch costs money, reputation and retail shelf space all at once.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Premium design in a market that went cheap",
+      "explain": "Jawbone's gadgets were beautiful, but Fitbit offered reliable trackers that did the basics well, and then **Apple Watch arrived** at the top end. Jawbone ended up squeezed in the middle. Design is a great edge, but it can't save a product that people find unreliable or overpriced.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Took on huge debt to keep going",
+      "explain": "In 2015 Jawbone borrowed $300 million from BlackRock. Debt must be paid back whether or not the business works. By 2017 **BlackRock had written that loan down by almost 98%**, meaning it expected to get almost nothing back. Big loans can buy time, but they can't fix a product problem.",
+      "src": [3]
+    },
+    {
+      "title": "Too many product lines at once",
+      "explain": "Jawbone made headsets, speakers and fitness bands, and was working on a clinical health device. Each needed its own engineering, suppliers and marketing. **In 2016 it had to abandon two of them**, but by then much of the money was gone.",
+      "src": [3, 4]
+    },
+    {
+      "title": "A long legal war",
+      "explain": "Jawbone spent years suing Fitbit over trade secrets. The civil case settled in late 2017 and criminal charges against former employees were later dropped. Whatever the merits, **legal battles drain founder time and money** that a struggling hardware company badly needed elsewhere.",
+      "src": [5, 3]
+    }
+  ],
+  "warningSigns": [
+    "Have your last two product launches shipped later than you promised?",
+    "Are early customers returning units for the same fault?",
+    "Is a cheaper rival growing faster than you while a giant is entering from above?",
+    "Are you borrowing money to cover losses rather than to fund something that already earns?",
+    "Is your small team supporting three or more separate product lines?",
+    "Is a lawsuit taking up more of the founders' week than customers are?"
+  ],
+  "lessons": [
+    {
+      "title": "Test hardware like your life depends on it",
+      "detail": "Before a big launch, run small pilot batches with real users for weeks. One bad component (like Jawbone's capacitors) can sink thousands of units."
+    },
+    {
+      "title": "When you fail, over-apologise and make it right",
+      "detail": "Jawbone's 'refund everyone, keep the band' move protected its brand. If your product lets customers down, own it fast and fix it generously."
+    },
+    {
+      "title": "Pick one product and win it",
+      "detail": "A young hardware team should master one product before adding more. Make it reliable, then expand."
+    },
+    {
+      "title": "Be careful with debt",
+      "detail": "Loans are great for things that already make money, like stock you know will sell. Using debt to fund losses only makes the eventual fall harder."
+    },
+    {
+      "title": "Watch the price floor in your category",
+      "detail": "Check what the cheapest good-enough rival charges. In India, that might be a ₹1,500 smart band. If you can't compete on price, your product must be clearly better at one thing."
+    }
+  ],
+  "quote": {
+    "text": "We are so committed to this product that we're offering you the option of using it for free.",
+    "who": "Hosain Rahman, Jawbone co-founder and CEO",
+    "context": "His letter to UP buyers after the bands failed, December 2011",
+    "src": [6]
+  },
+  "afterlife": {
+    "text": "Sherwood Capital liquidated Jawbone's assets in 2017. Rahman started Jawbone Health Hub to work on health-focused devices, and many staff joined him; BlackRock also held a stake in it. Jawbone and Fitbit settled their civil fight in December 2017. Six former Jawbone staff were indicted in 2018 for allegedly taking confidential files to Fitbit; one was cleared by a jury and prosecutors dropped the remaining charges in February 2020. Jawbone's patents were later used to sue big tech firms.",
+    "src": [2, 3, 4, 5]
+  },
+  "sources": [
+    { "label": "TechCrunch: Jawbone cancels all pending UP orders, refunds unhappy owners even if they keep it (Dec 2011)", "url": "https://techcrunch.com/2011/12/08/jawbone-cancels-all-pending-up-orders-refunds-unhappy-owners-even-if-they-keep-it" },
+    { "label": "Fortune: Hosain Rahman's beautiful failure (Oct 2012)", "url": "https://fortune.com/2012/10/11/hosain-rahmans-beautiful-failure/" },
+    { "label": "Fortune: Jawbone liquidates assets (Jul 2017)", "url": "https://fortune.com/2017/07/06/jawbone-liquidates-assets" },
+    { "label": "TechCentral: Jawbone goes bust, taking $900m with it (Jul 2017)", "url": "https://techcentral.co.za/jawbone-goes-bust-taking-900m/198293/" },
+    { "label": "Wikipedia: Jawbone (company), for early history", "url": "https://en.wikipedia.org/wiki/Jawbone_(company)" },
+    { "label": "Law.com / The Recorder: Prosecutors drop remaining charges in Jawbone-Fitbit trade secret fight (Feb 2020)", "url": "https://www.law.com/therecorder/2020/02/14/prosecutors-drop-remaining-charges-in-jawbone-fitbit-trade-secret-fight/" },
+    { "label": "AFP via Phys.org: Flaw makes Jawbone UP wristbands go down (Dec 2011)", "url": "https://phys.org/news/2011-12-flaw-jawbone-wristbands.html" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Fitbit stole Jawbone's trade secrets", "note": "Never proven. An ITC judge found no Jawbone trade secrets were used in Fitbit products, one ex-employee was acquitted by a jury, and prosecutors dropped the other charges in 2020." },
+      { "claim": "Total raised", "note": "Reports say 'more than $900M' including debt; some aggregators give about $930M." },
+      { "claim": "Peak valuation", "note": "PitchBook gives $3.2B in 2014; Fortune says about $3B by early 2015." }
+    ]
+  }
+}

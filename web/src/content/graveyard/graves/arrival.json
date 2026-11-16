@@ -1,0 +1,406 @@
+{
+  "slug": "arrival",
+  "name": "Arrival",
+  "region": "global",
+  "country": "United Kingdom",
+  "city": "London",
+  "sector": "Electric vans and buses",
+  "founded": 2015,
+  "died": 2024,
+  "status": "insolvent",
+  "brandColor": "#1e1e1e",
+  "founders": [
+    {
+      "name": "Denis Sverdlov",
+      "role": "Founder, CEO, later chairman"
+    }
+  ],
+  "epitaph": "Planned a factory revolution. Built three vans.",
+  "oneLiner": "Planned to build electric vans and buses in small, cheap 'microfactories' close to cities, with UPS as its anchor customer.",
+  "causeOfDeath": "It tried to reinvent the van and the car factory at the same time, spent over $1.7B, and never reached real production before the money ran out.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 13000,
+  "endValueUsdM": null,
+  "moneyNote": "Raised money from Hyundai-Kia (€100M), BlackRock-led investors (€150.5M), a SPAC (~$660M expected) and 2021 share and bond sales; no single published total. Peak 'more than $13B' per TechCrunch. Asset sale price to Canoo undisclosed.",
+  "moneySrc": [
+    0,
+    1,
+    4
+  ],
+  "inOneMinute": [
+    "Arrival promised to build electric vans in **$45 million 'microfactories'** that could pop up near any city, and won a 10,000-van order from UPS.",
+    "After its 2021 SPAC listing, it was worth **more than $13 billion** without having sold a single vehicle.",
+    "By May 2023 it had built **three vans** at its UK site. It fell into insolvency in 2024."
+  ],
+  "killerLine": "Reinvent **one thing at a time**. A new product and a new way to make it, together, doubles every risk.",
+  "numbers": [
+    {
+      "value": "$13B+",
+      "label": "peak market value, with zero vehicles sold",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$1.7B",
+      "label": "losses piled up by June 2022 (accumulated deficit)",
+      "src": [
+        6
+      ]
+    },
+    {
+      "value": "3",
+      "label": "vans built at its Bicester site by May 2023",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "$0.30",
+      "label": "share price in Feb 2023, down from $10 at listing",
+      "src": [
+        6,
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: tiny factories everywhere",
+      "body": "Denis Sverdlov, a Russian businessman and former deputy minister, founded Arrival in Britain in 2015. Normal car factories are giant and cost billions. Arrival's idea was the **microfactory**: a small plant of about 20,000 square metres, costing about **$45 million**, able to make around 10,000 vans a year. You could build these factories close to the cities that needed vans, three or four a year. Arrival would also design its own software and many of its own parts. It was not just a new van. It was a **new way to make vehicles**.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The rise: UPS, Hyundai and a $13B listing",
+      "body": "In January 2020, Hyundai and Kia invested **€100 million**, and Arrival claimed a €3 billion valuation, making it a unicorn (a startup worth over $1 billion). UPS ordered 10,000 electric delivery vans, with an option for 10,000 more. BlackRock-led investors added €150.5 million. In November 2020, Arrival agreed to list on Nasdaq by merging with CIIG, a SPAC (a listed shell company that exists to merge with a private one), at an enterprise value of **$5.4 billion**. The merger closed in March 2021. Excitement about electric vehicles was at its peak, and Arrival's value shot past **$13 billion**. It announced a bus, a van, and even a car for Uber drivers. It had not yet sold one vehicle.",
+      "src": [
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: the factory that wasn't",
+      "body": "Building things turned out to be much harder than designing them. Production was meant to start in the third quarter of 2022. By mid-2022, Arrival still had **not made or sold a single production vehicle**, and its losses since starting had reached **$1.7 billion**. In October 2022, Nasdaq warned that its shares had traded below $1 for 30 days in a row. That month it cut jobs and shifted van production from Bicester, England, to the US. In January 2023, a new CEO took over and about **800 UK staff, half the UK workforce**, were laid off. By February 2023, a share was worth $0.30, down from $10 at listing.",
+      "src": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "The fall: three vans and an empty tank",
+      "body": "In May 2023, Arrival had built just **three vans** at Bicester, with five more on the way. It expected losses of up to £840 million for 2022 and had never reported revenue. It had not even managed to file its 2022 annual report. To survive, it planned a second SPAC deal, with Kensington Capital, that could raise up to $283 million. That deal was cancelled amid concerns over production delays, and a $25 million investment from Antara Capital also fell through. Arrival was **delisted from Nasdaq in January 2024**, and its UK business entered administration (the British form of insolvency) in February 2024. In March 2024, rival EV startup Canoo bought its factory equipment. Canoo itself went bankrupt in January 2025.",
+      "src": [
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Denis Sverdlov founds the company in the UK (later renamed Arrival)",
+      "kind": "start",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "event": "Hyundai and Kia invest €100M; UPS orders 10,000 vans",
+      "kind": "money",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "event": "BlackRock-led investors put in €150.5M",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Nov 2020",
+      "event": "Agrees SPAC merger with CIIG at a $5.4B enterprise value",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2021",
+      "event": "Lists on Nasdaq; value later tops $13B with no vehicles sold",
+      "kind": "peak",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "date": "Oct 2022",
+      "event": "Nasdaq warns over sub-$1 share price; production moved to the US",
+      "kind": "warning",
+      "src": [
+        5,
+        6
+      ]
+    },
+    {
+      "date": "Jan 2023",
+      "event": "New CEO; about 800 UK jobs (half of UK staff) cut",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "May 2023",
+      "event": "Only three vans built; second SPAC deal with Kensington planned",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "2023",
+      "event": "Kensington deal cancelled; Antara's $25M investment falls through",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jan–Feb 2024",
+      "event": "Delisted from Nasdaq; UK arm enters administration",
+      "kind": "end",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "date": "Mar 2024",
+      "event": "Canoo buys Arrival's factory equipment",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2025",
+      "event": "Canoo, the buyer, files for bankruptcy too",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Jan 2020",
+      "round": "Strategic (Hyundai and Kia)",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Hyundai Motor",
+        "Kia"
+      ],
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "round": "Private round (€150.5M)",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "BlackRock-managed funds"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Mar 2021",
+      "round": "SPAC merger (CIIG Merger Corp.)",
+      "amountUsdM": 660,
+      "valuationUsdM": 5400,
+      "investors": [
+        "CIIG Merger Corp.",
+        "PIPE investors"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Nov 2021",
+      "round": "Follow-on share sale and convertible notes (net proceeds)",
+      "amountUsdM": 647,
+      "valuationUsdM": null,
+      "investors": [
+        "Public market investors"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 35
+    },
+    {
+      "key": "burn",
+      "weight": 30
+    },
+    {
+      "key": "funding-dried",
+      "weight": 20
+    },
+    {
+      "key": "focus",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Reinvented the product and the factory at once",
+      "explain": "Arrival was designing a new van, a new bus, a car, its own software and parts, **and** a brand-new microfactory method. Each one is hard alone. Together, every delay stacked on another. After all that, by May 2023 it had built **three vans**.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Spent like a giant before it shipped like one",
+      "explain": "By mid-2022 its losses since starting had reached **$1.7 billion**, with no production vehicles sold. It had over 2,600 employees at the time of its 2021 annual report. Big teams and big plans burn cash every day, whether or not a product is ready.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": "Chased too many vehicles",
+      "explain": "Instead of perfecting one van for its anchor customer UPS, Arrival also announced a bus and a car for Uber drivers. Splitting engineers across products meant **none was finished first**. One delivered van would have proved more than three exciting announcements.",
+      "src": [
+        5,
+        0
+      ]
+    },
+    {
+      "title": "Let the stock market set its ambition",
+      "explain": "A SPAC listing at the height of EV mania valued Arrival at over $13 billion. That price assumed fast, huge production. When reality was slow, the share price fell to $0.30, and fresh money became almost **impossible to raise**. A price set by hype can fall just as fast.",
+      "src": [
+        4,
+        6
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you inventing a new product and a new way of making it at the same time?",
+    "Is your team growing faster than your number of finished, delivered products?",
+    "Have you announced more products than you have shipped?",
+    "Do your production dates keep slipping by quarters while spending stays the same?",
+    "Are you relying on one more funding deal to survive the next six months?",
+    "Has your company missed filing its own accounts on time?"
+  ],
+  "lessons": [
+    {
+      "title": "Innovate in one place only",
+      "detail": "Use proven tools, suppliers or methods for everything except the one thing that makes you special. If you build a new app, use standard cloud tools. If you build new hardware, use an existing factory first."
+    },
+    {
+      "title": "Finish one product for one customer",
+      "detail": "Arrival had UPS. Deliver a working product to your first big customer before announcing the next one. A happy anchor customer is the best pitch deck."
+    },
+    {
+      "title": "Match headcount to output",
+      "detail": "Hire people when there is work they must do now, not for the company you hope to be in two years. Every hire adds monthly burn that does not stop when plans slip."
+    },
+    {
+      "title": "Use a 'boring' version first",
+      "detail": "Make version one in the simplest way possible, even if it is not your dream method. Learn from real customers, then improve the process. Perfect factories can come later."
+    },
+    {
+      "title": "Treat a hot market as temporary",
+      "detail": "When investors are excited about your sector, raise enough to survive the cooling that always follows. Plan as if the next round will be harder, because it usually is."
+    }
+  ],
+  "quote": {
+    "text": "Our technology is at a maturity level where we're looking to scale the company rapidly now.",
+    "who": "Avinash Rugoobur, Arrival president",
+    "context": "Speaking to CNBC as Arrival announced its SPAC deal, November 2020. It never reached mass production.",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Canoo, another struggling US EV startup, bought Arrival's advanced manufacturing equipment in March 2024 and shipped it to Oklahoma, saying it would cut its own capital spending by 20%. The price was not disclosed. Canoo itself filed for Chapter 7 bankruptcy (liquidation) in January 2025. Arrival's microfactory idea never got to show what it could do at scale.",
+    "src": [
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "CNBC, 'UK electric vehicle maker Arrival is going public via SPAC' (18 Nov 2020)",
+      "url": "https://www.cnbc.com/2020/11/18/uk-electric-vehicle-maker-arrival-is-going-public-via-spac.html"
+    },
+    {
+      "label": "Arrival, Form 20-F annual report for 2021 (filed Apr 2022)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835059/000162828022010814/arvl-20211231.htm"
+    },
+    {
+      "label": "TechCrunch, 'Arrival to open a second US microfactory to build electric vans for UPS' (17 Mar 2021)",
+      "url": "https://techcrunch.com/2021/03/17/arrival-to-open-a-second-us-microfactory-to-build-electric-vans-for-ups/"
+    },
+    {
+      "label": "UKTN, Arrival SPAC merger and costs (16 May 2023)",
+      "url": "https://www.uktech.news/mobility/arrival-merger-spac-costs-20230516"
+    },
+    {
+      "label": "TechCrunch, 'Bankrupt EV startup Arrival sold its assets to Canoo' (25 Mar 2024)",
+      "url": "https://techcrunch.com/2024/03/25/bankrupt-ev-startup-arrival-sold-its-assets-to-canoo/"
+    },
+    {
+      "label": "Wikipedia, 'Arrival (company)' (timeline, layoffs, administration)",
+      "url": "https://en.wikipedia.org/wiki/Arrival_(company)"
+    },
+    {
+      "label": "Arrival, Form F-3 prospectus filed with the SEC (24 Feb 2023)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835059/000119312523048936/d463729df3.htm"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Peak valuation of $15 billion",
+        "note": "The Guardian (via Wikipedia) says $15B; TechCrunch says 'more than $13 billion'. We use the more cautious figure."
+      },
+      {
+        "claim": "Hyundai-Kia investment of $111M",
+        "note": "Wikipedia's lead gives $111M; Arrival's own filing says €100M. We use €100M."
+      },
+      {
+        "claim": "UPS order value of $400M (or £340M)",
+        "note": "Different reports give different values; the van count (10,000 plus an option for 10,000) is consistent."
+      }
+    ]
+  }
+}

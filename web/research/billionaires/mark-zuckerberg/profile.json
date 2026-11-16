@@ -1,0 +1,528 @@
+{
+  "name": "Mark Zuckerberg",
+  "title": "The Kid Who Kept Saying No",
+  "subtitle": "From a Risk game coded in sixth grade to a Harvard dorm room and total control of Meta: how Mark Zuckerberg builds, refuses to sell, and sometimes gets it badly wrong.",
+  "hook": "As a high-school senior at Phillips Exeter Academy, Mark Zuckerberg and his friend Adam D'Angelo built a free music player called Synapse that learned what you liked to hear. After the tech site Slashdot wrote about it in April 2003, one company offered them ==$950,000==, on one condition: work for it for three years. His answer: \"We wanted to go to college, so we said no.\" When the pair later changed their minds, the buyer had lost interest. Less than a year after that refusal, on ==4 February 2004==, he launched thefacebook.com from his Harvard dorm.",
+  "hookSrc": [
+    10,
+    11,
+    12,
+    22
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mark_Zuckerberg_%282020%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(2020)_(cropped).jpg",
+    "caption": "Mark Zuckerberg, then CEO of Facebook, when European Commission Vice-President Věra Jourová received him on 17 February 2020.",
+    "author": "Xavier Lejeune",
+    "license": "CC BY 4.0",
+    "year": 2020
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Academy_Building%2C_Phillips_Exeter_Academy_-_March_2026_-_01.jpg/960px-Academy_Building%2C_Phillips_Exeter_Academy_-_March_2026_-_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Academy_Building,_Phillips_Exeter_Academy_-_March_2026_-_01.jpg",
+      "caption": "The Academy Building at Phillips Exeter Academy, the boarding school Zuckerberg moved to in his junior year and where he built Synapse (photographed during renovations, March 2026).",
+      "author": "AntiCompositeNumber",
+      "license": "CC BY-SA 4.0",
+      "year": 2026
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kirkland_House.JPG/960px-Kirkland_House.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Kirkland_House.JPG",
+      "caption": "Kirkland House, Harvard University (photographed 2013). Zuckerberg says he launched Facebook from \"my little dorm in Kirkland House\".",
+      "author": "Bostonian13",
+      "license": "CC BY-SA 3.0",
+      "year": 2013
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/MarkZuckerberg.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:MarkZuckerberg.jpg",
+      "caption": "Mark Zuckerberg, founder and CEO of Facebook, in November 2005. He was 21.",
+      "author": "Elaine Chan and Priscilla Chan",
+      "license": "CC BY 2.5",
+      "year": 2005
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/President_Barack_Obama_talks_with_Facebook_founder_and_CEO_Mark_Zuckerberg.jpg/960px-President_Barack_Obama_talks_with_Facebook_founder_and_CEO_Mark_Zuckerberg.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama_talks_with_Facebook_founder_and_CEO_Mark_Zuckerberg.jpg",
+      "caption": "President Barack Obama talks with Zuckerberg before a dinner with technology business leaders in Woodside, California, 17 February 2011. Google's Eric Schmidt and Yahoo's Carol Bartz are also in the picture.",
+      "author": "The White House",
+      "license": "Public domain",
+      "year": 2011
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg/960px-Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg",
+      "caption": "The entrance to Facebook's headquarters at 1 Hacker Way, Menlo Park, California, March 2014.",
+      "author": "LPS.1",
+      "license": "CC0",
+      "year": 2014
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29.jpg/960px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717).jpg",
+      "caption": "Zuckerberg announces a plan to make Facebook more private at F8, the company's developer conference, 30 April 2019.",
+      "author": "Anthony Quintano from Westminster, United States",
+      "license": "CC BY 2.0",
+      "year": 2019
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meta_Platforms_Headquarters_Menlo_Park_California.jpg/960px-Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
+      "caption": "The same entrance in March 2022, a few months after Facebook renamed itself Meta Platforms.",
+      "author": "LPS.1",
+      "license": "CC0",
+      "year": 2022
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "14 May 1984, USA (he turned 28 the same week Facebook went public)",
+      "src": [
+        9,
+        15
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "Dobbs Ferry, a town in Westchester County, New York; local Ardsley High School until his junior year, then Phillips Exeter Academy because Ardsley lacked advanced computer and maths courses",
+      "src": [
+        11
+      ]
+    },
+    {
+      "label": "First code",
+      "value": "Got his first computer in sixth grade; his first big program was a Risk-style strategy game set in the ancient Roman Empire",
+      "src": [
+        11
+      ]
+    },
+    {
+      "label": "First product",
+      "value": "Synapse, a free music player that learned your taste, built with Adam D'Angelo at Exeter; he turned down a $950,000 offer that came with a three-year job",
+      "src": [
+        10,
+        11
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "Studied computer science at Harvard and left without graduating to run Facebook; Harvard gave him an honorary Doctor of Laws in 2017",
+      "src": [
+        9,
+        14
+      ]
+    },
+    {
+      "label": "First company (age)",
+      "value": "thefacebook.com, launched on Wednesday 4 February 2004 from his Kirkland House dorm, aged 19; over 650 Harvard students signed up within days",
+      "src": [
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "label": "Main role today",
+      "value": "Founder, Chairman and CEO of Meta (Facebook, Instagram, WhatsApp). Controls 60.8% of shareholder votes through special 10-vote shares, and takes a salary of $1 a year",
+      "src": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "label": "Net worth",
+      "value": "$210.5 billion, #6 in the world (Forbes real-time estimate, 29 October 2026); owns about 13% of Meta; self-made",
+      "src": [
+        9
+      ]
+    },
+    {
+      "label": "Family (public basics)",
+      "value": "Met Priscilla Chan at a Harvard party in a bathroom queue; married her on 19 May 2012, the day after Facebook's IPO, at a backyard party guests thought was her graduation celebration. Three children",
+      "src": [
+        9,
+        13,
+        15
+      ]
+    },
+    {
+      "label": "Lives in / gives",
+      "value": "Palo Alto, California. Co-founded the Chan Zuckerberg Initiative with Chan in 2015, pledging 99% of their Meta shares over their lifetimes",
+      "src": [
+        4,
+        6,
+        9
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "There is no public personal email for Mark Zuckerberg, and nothing you send to Meta's switchboard or inboxes will be passed to him just because you asked. The doors that really open are narrow: journalists can write to press@meta.com, shareholders to investor@meta.com, and anyone with a serious governance concern can post a letter to Meta's Corporate Secretary, which Meta says can be sent anonymously or confidentially. If your Facebook, Instagram or WhatsApp account has a problem, use the Meta Help Centre; the press and investor inboxes are for reporters and shareholders, not for account problems. His public posts on Facebook, Instagram and Threads are the only place he speaks directly, so a sharp comment there is your only open line, but expect no reply, and treat any account that messages you in his name offering money or jobs as fake. If you write to any of these teams, keep it under 120 words: who you are, the one specific thing you want, and why that team is the right one.",
+    "channels": [
+      {
+        "kind": "phone",
+        "label": "Meta head office switchboard",
+        "value": "(650) 543-4800",
+        "url": "tel:+16505434800",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Meta principal executive office (head office)",
+        "value": "1 Meta Way, Menlo Park, California 94025, USA",
+        "url": null,
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Investor relations",
+        "value": "investor@meta.com",
+        "url": "mailto:investor@meta.com",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Investor relations website (results, filings, shareholder meeting)",
+        "value": "https://investor.atmeta.com",
+        "url": "https://investor.atmeta.com",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          0,
+          2
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Shareholder services, US callers (transfer agent Computershare)",
+        "value": "1 (855) 879-3967",
+        "url": "tel:+18558793967",
+        "whose": "Meta Platforms, Inc. (via Computershare Trust Company, N.A.)",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Shareholder services, callers outside the US (Computershare)",
+        "value": "1 (781) 575-4340",
+        "url": "tel:+17815754340",
+        "whose": "Meta Platforms, Inc. (via Computershare Trust Company, N.A.)",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Contact Meta's Board of Directors (by post only; anonymous or confidential letters accepted)",
+        "value": "Corporate Secretary, Meta, 1 Meta Way, Menlo Park, CA 94025, USA",
+        "url": null,
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          2
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press (media only)",
+        "value": "press@meta.com",
+        "url": "mailto:press@meta.com",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Meta Help Centre (account and product problems)",
+        "value": "https://www.meta.com/help/",
+        "url": "https://www.meta.com/help/",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          5
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Meta Newsroom (official announcements, media gallery)",
+        "value": "https://about.fb.com/news/",
+        "url": "https://about.fb.com/news/",
+        "whose": "Meta Platforms, Inc.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Chan Zuckerberg Initiative official website (his philanthropy, co-founded with Priscilla Chan in 2015)",
+        "value": "https://chanzuckerberg.com",
+        "url": "https://chanzuckerberg.com",
+        "whose": "Chan Zuckerberg Initiative",
+        "src": [
+          4,
+          6
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Chan Zuckerberg Initiative media inquiries",
+        "value": "press@chanzuckerberg.com",
+        "url": "mailto:press@chanzuckerberg.com",
+        "whose": "Chan Zuckerberg Initiative",
+        "src": [
+          7
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Chan Zuckerberg Initiative grants database (lists grants made since 2018; not an application form)",
+        "value": "https://chanzuckerberg.com/grants-ventures/grants/",
+        "url": "https://chanzuckerberg.com/grants-ventures/grants/",
+        "whose": "Chan Zuckerberg Initiative",
+        "src": [
+          21
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Biohub, the science organisation backed by the Chan Zuckerberg Initiative (contact page; media: press [at] biohub.org)",
+        "value": "https://biohub.org/contact/",
+        "url": "https://biohub.org/contact/",
+        "whose": "Biohub",
+        "src": [
+          8
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "facebook",
+        "handle": "zuck",
+        "url": "https://www.facebook.com/zuck/",
+        "whose": "Mark Zuckerberg (personal; linked from Meta's official leadership page)",
+        "src": [
+          4,
+          19
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@zuck",
+        "url": "https://www.instagram.com/zuck/",
+        "whose": "Mark Zuckerberg (personal, verified; linked from Meta's official leadership page)",
+        "src": [
+          4,
+          17
+        ]
+      },
+      {
+        "platform": "threads",
+        "handle": "@zuck",
+        "url": "https://www.threads.com/@zuck",
+        "whose": "Mark Zuckerberg (personal, verified; linked from Meta's official leadership page)",
+        "src": [
+          4,
+          18
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@finkd",
+        "url": "https://x.com/finkd",
+        "whose": "Mark Zuckerberg (personal account, joined February 2009)",
+        "src": [
+          16
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "MetaNewsroom",
+        "url": "https://www.facebook.com/MetaNewsroom",
+        "whose": "Meta Newsroom (company)",
+        "src": [
+          3
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@metanewsroom",
+        "url": "https://www.instagram.com/metanewsroom/",
+        "whose": "Meta Newsroom (company)",
+        "src": [
+          3
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@MetaNewsroom",
+        "url": "https://x.com/MetaNewsroom",
+        "whose": "Meta Newsroom (company)",
+        "src": [
+          3
+        ]
+      },
+      {
+        "platform": "threads",
+        "handle": "@metanewsroom",
+        "url": "https://www.threads.com/@metanewsroom",
+        "whose": "Meta Newsroom (company)",
+        "src": [
+          3
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "Meta",
+        "url": "https://youtube.com/meta",
+        "whose": "Meta (company)",
+        "src": [
+          3
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@ChanZuckerberg",
+        "url": "https://twitter.com/ChanZuckerberg",
+        "whose": "Chan Zuckerberg Initiative (philanthropy)",
+        "src": [
+          6
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "chan-zuckerberg-initiative",
+        "url": "https://www.linkedin.com/company/chan-zuckerberg-initiative/",
+        "whose": "Chan Zuckerberg Initiative (philanthropy)",
+        "src": [
+          6
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@biohub",
+        "url": "https://x.com/biohub",
+        "whose": "Biohub (science organisation backed by the Chan Zuckerberg Initiative)",
+        "src": [
+          8
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Contact details were taken only from Meta's own SEC filings (2025 annual report and Form 10-K, 2026 proxy statement), Meta's investor-relations, newsroom and leadership pages, and the Chan Zuckerberg Initiative and Biohub websites, checked on 29 October 2026. Personal social accounts are those linked from Meta's official leadership page, plus the X account @finkd, checked on the profile itself. Biographical facts come from The Harvard Crimson's 2003-2004 reporting (read in full, quotes checked word for word), Zuckerberg's 2017 Harvard Commencement speech as published by the Harvard Gazette, CBS News, and Forbes. Photos and licences were checked through the Wikimedia Commons API. Note: the web-search budget ran out mid-research, so some lead sources (New Yorker, Vox, The Independent, Britannica) could not be opened and their claims were dropped.",
+    "disputed": [
+      {
+        "claim": "How much the Synapse music player was offered for, and whether it was sold",
+        "note": "The Harvard Crimson (October 2003) quotes Zuckerberg saying one company offered $950,000 plus a three-year job and they said no. A June 2004 Crimson profile quotes him saying offers went 'up to one million' and then 'like two million', names AOL, WinAmp and Microsoft as interested, and says that when the pair later tried to accept, the company had lost interest. A 2011 Atlantic Wire piece says he sold Synapse to Microsoft for $950,000; both Crimson articles, written at the time, contradict that, so we use the $950,000 offer that was refused."
+      },
+      {
+        "claim": "Birthplace (often given as White Plains, New York)",
+        "note": "Widely repeated, but the sources that support it (The Independent, New York magazine) could not be opened in this research pass, so the glance gives only the birth date and his hometown of Dobbs Ferry, which The Harvard Crimson confirms."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Meta Platforms, 2025 Annual Report to shareholders, incl. Form 10-K and shareholder information (SEC EDGAR, filed April 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025534/meta-12312025x10kars.htm"
+    },
+    {
+      "label": "Meta Platforms, 2026 Proxy Statement, Form DEF 14A (SEC EDGAR, 16 April 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
+    },
+    {
+      "label": "Meta Investor Relations, Leadership and Governance: Contact the Board",
+      "url": "https://investor.atmeta.com/leadership-and-governance?section=contact"
+    },
+    {
+      "label": "Meta Newsroom (press resources and official social accounts)",
+      "url": "https://about.fb.com/news/"
+    },
+    {
+      "label": "Meta, Leadership: Mark Zuckerberg (official bio with links to his social profiles)",
+      "url": "https://www.meta.com/about/leadership/mark-zuckerberg/"
+    },
+    {
+      "label": "Meta, About Meta (link to the Meta Help Centre)",
+      "url": "https://www.meta.com/about/"
+    },
+    {
+      "label": "Chan Zuckerberg Initiative, official website",
+      "url": "https://chanzuckerberg.com/"
+    },
+    {
+      "label": "Chan Zuckerberg Initiative, Newsroom (media inquiries)",
+      "url": "https://chanzuckerberg.com/newsroom/"
+    },
+    {
+      "label": "Biohub, Contact page",
+      "url": "https://biohub.org/contact/"
+    },
+    {
+      "label": "Forbes, Mark Zuckerberg profile and real-time net worth (29 October 2026)",
+      "url": "https://www.forbes.com/profile/mark-zuckerberg/"
+    },
+    {
+      "label": "S.F. Brickman, 'Not-So-Artificial Intelligence', The Harvard Crimson, 23 October 2003",
+      "url": "https://www.thecrimson.com/article/2003/10/23/not-so-artificial-intelligence-for-his-high-school/"
+    },
+    {
+      "label": "Michael M. Grynbaum, 'Mark E. Zuckerberg '06: The Whiz Behind thefacebook.com', The Harvard Crimson, 10 June 2004",
+      "url": "https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/"
+    },
+    {
+      "label": "Alan J. Tabak, 'Hundreds Register for New Facebook Website', The Harvard Crimson, 9 February 2004",
+      "url": "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/"
+    },
+    {
+      "label": "Mark Zuckerberg's Harvard Commencement speech as written, Harvard Gazette, 25 May 2017",
+      "url": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/"
+    },
+    {
+      "label": "Harvard Gazette, 'Harvard awards 10 honorary degrees at 366th Commencement', May 2017",
+      "url": "https://news.harvard.edu/gazette/story/2017/05/harvard-awards-10-honorary-degrees-at-366th-commencement/"
+    },
+    {
+      "label": "CBS News, 'Facebook's Mark Zuckerberg marries Priscilla Chan', May 2012",
+      "url": "https://www.cbsnews.com/news/facebooks-mark-zuckerberg-marries-priscilla-chan/"
+    },
+    {
+      "label": "Mark Zuckerberg (@finkd) on X, profile page",
+      "url": "https://x.com/finkd"
+    },
+    {
+      "label": "Mark Zuckerberg (@zuck) on Instagram, verified profile",
+      "url": "https://www.instagram.com/zuck/"
+    },
+    {
+      "label": "Mark Zuckerberg (@zuck) on Threads, verified profile",
+      "url": "https://www.threads.com/@zuck"
+    },
+    {
+      "label": "Mark Zuckerberg on Facebook, profile page",
+      "url": "https://www.facebook.com/zuck/"
+    },
+    {
+      "label": "Adam Clark Estes, 'Mark Zuckerberg's Harvard Career According to The Crimson', The Atlantic Wire (via Yahoo News), 2 November 2011",
+      "url": "https://www.yahoo.com/news/mark-zuckerbergs-harvard-career-according-crimson-222053191.html"
+    },
+    {
+      "label": "Chan Zuckerberg Initiative, Grants database",
+      "url": "https://chanzuckerberg.com/grants-ventures/grants/"
+    },
+    {
+      "label": "Slashdot, 'Machine Learning and MP3s', 21 April 2003",
+      "url": "https://slashdot.org/story/03/04/21/110236/machine-learning-and-mp3s"
+    }
+  ]
+}

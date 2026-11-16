@@ -1,0 +1,828 @@
+ 
+ GeForce FX series - Wikipedia 
+ Jump to content 
+ Main menu 
+ Main menu
+ move to sidebar 
+ hide 
+ Navigation
+ Main page 
+ Contents 
+ Current events 
+ Random article 
+ About Wikipedia 
+ Contact us 
+ Contribute
+ Help 
+ Learn to edit 
+ Community portal 
+ Recent changes 
+ Upload file 
+ Special pages 
+ Search 
+ Search 
+ Appearance 
+ Donate 
+ Create account 
+ Log in 
+ Personal tools 
+ Donate 
+ Create account 
+ Log in 
+ Contents
+ move to sidebar 
+ hide 
+ (Top)
+ 1 
+ Overview 
+ 2 
+ Overall performance 
+ 3 
+ Hardware refreshes and diversification 
+ 4 
+ GeForce FX model information 
+ Toggle GeForce FX model information subsection 
+ 4.1 
+ GeForce FX Go 5 (Go 5xxx) series 
+ 5 
+ Support 
+ Toggle Support subsection 
+ 5.1 
+ Final drivers 
+ 6 
+ See also 
+ 7 
+ References 
+ 8 
+ External links 
+ Toggle the table of contents 
+ GeForce FX series 
+ 15 languages 
+ Català 
+ Čeština 
+ Deutsch 
+ Español 
+ Suomi 
+ Italiano 
+ 한국어 
+ Polski 
+ Português 
+ Română 
+ Русский 
+ Slovenčina 
+ Українська 
+ 粵語 
+ 中文 
+ Edit links 
+ Article 
+ Talk 
+ English 
+ Read 
+ Edit 
+ View history 
+ Tools 
+ Tools
+ move to sidebar 
+ hide 
+ Actions
+ Read 
+ Edit 
+ View history 
+ General
+ What links here 
+ Related changes 
+ Upload file 
+ Permanent link 
+ Page information 
+ Cite this page 
+ Get shortened URL 
+ Switch to legacy parser 
+ Print/export
+ Download as PDF 
+ Printable version 
+ In other projects
+ Wikimedia Commons 
+ Wikidata item 
+ Appearance
+ move to sidebar 
+ hide 
+ From Wikipedia, the free encyclopedia
+ (Redirected from GeForce FX ) 
+ Series of GPUs by Nvidia
+ [[File:NVIDIA GeForce FX 5950 Ultra ES.jpg|300px]]"},"caption":{"wt":"'''Top''': Logo of the series&lt;br>'''Bottom''': A GeForce FX 5950 Ultra released in 2003, the series' [[flagship model]]"},"codename":{"wt":"NV30, NV31, NV34, NV35, NV36, NV38"},"created":{"wt":"{{start date and age|January 27, 2003}}"},"model":{"wt":"GeForce FX series"},"model1":{"wt":"GeForce FX-VE series"},"model2":{"wt":"GeForce FX-LE series"},"model3":{"wt":"GeForce FX-ZT series"},"model4":{"wt":"GeForce FX-XT series"},"model5":{"wt":"GeForce FX-Ultra series"},"model6":{"wt":"GeForce PCX series"},"entry":{"wt":"FX 5100&lt;br>FX 5200&lt;br>FX 5200 LE&lt;br>FX 5300&lt;br>FX 5500"},"midrange":{"wt":"FX 5600&lt;br>FX 5700&lt;br>PCX 5750"},"highend":{"wt":"FX 5800&lt;br>FX 5900&lt;br>PCX 5950"},"enthusiast":{"wt":"5800 Ultra, 5900 Ultra, 5950 Ultra"},"d3dversion":{"wt":"[[Microsoft Direct3D#Direct3D 9.0a|Direct3D 9.0a]]&lt;br/>[[High Level Shader Language|Shader Model 2.0a]]"},"openglversion":{"wt":"[[OpenGL#OpenGL_2.1|OpenGL 2.1]]"},"predecessor":{"wt":"[[GeForce 4 series]]"},"successor":{"wt":"[[GeForce 6 series]]"},"support status":{"wt":"Unsupported"},"architecture":{"wt":"[[Rankine (microarchitecture)|Rankine]]"}},"i":0}}]}'> GeForce FX series Top : Logo of the series Bottom : A GeForce FX 5950 Ultra released in 2003, the series' flagship model 
+ Release date January 27, 2003 ; 23 years ago   ( January 27, 2003 ) 
+ Codename NV30, NV31, NV34, NV35, NV36, NV38 
+ Architecture Rankine 
+ Models GeForce FX series GeForce FX-VE series
+ GeForce FX-LE series
+ GeForce FX-ZT series
+ GeForce FX-XT series
+ GeForce FX-Ultra series
+ GeForce PCX series
+ Cards 
+ Entry-level FX 5100 FX 5200 FX 5200 LE FX 5300 FX 5500 
+ Mid-range FX 5600 FX 5700 PCX 5750 
+ High-end FX 5800 FX 5900 PCX 5950 
+ Enthusiast 5800 Ultra, 5900 Ultra, 5950 Ultra 
+ API support 
+ Direct3D Direct3D 9.0a Shader Model 2.0a 
+ OpenGL OpenGL 2.1 
+ History 
+ Predecessor GeForce 4 series 
+ Successor GeForce 6 series 
+ Support status 
+ Unsupported 
+ The GeForce FX or "GeForce 5" series ( codenamed NV30 ) is a line of graphics processing units from the manufacturer Nvidia .
+ Overview
+ [ edit ] 
+ Nvidia's GeForce FX series is the fifth generation of the GeForce line. With GeForce 3 , the company introduced programmable shader functionality into their 3D architecture, in line with the release of Microsoft's DirectX 8.0. The GeForce 4 Ti was an enhancement of the GeForce 3 technology. With real-time 3D graphics technology continually advancing, the release of DirectX 9.0 brought further refinement of programmable pipeline technology with the arrival of Shader Model 2.0. The GeForce FX series is Nvidia's first generation Direct3D 9-compliant hardware.
+ The series was manufactured on TSMC 's 130 nm fabrication process. [ 1 ] It is compliant with Shader Model 2.0/2.0A, allowing more flexibility in complex shader/fragment programs and much higher arithmetic precision. It supports a number of new memory technologies, including DDR2 , GDDR2 and GDDR3 and saw Nvidia's first implementation of a memory data bus wider than 128 bits. [ 2 ] The anisotropic filtering implementation has potentially higher quality than previous Nvidia designs. [ 1 ] Anti-aliasing methods have been enhanced and additional modes are available compared to GeForce 4. [ 1 ] Memory bandwidth and fill-rate optimization mechanisms have been improved. [ 1 ] Some members of the series offer double fill-rate in z-buffer /stencil-only passes. [ 2 ] 
+ The series also brought improvements to the company's video processing hardware, in the form of the Video Processing Engine (VPE), which was first deployed in the GeForce 4 MX. [ 3 ] The primary addition, compared to previous Nvidia GPUs, was per-pixel video- deinterlacing . [ 3 ] 
+ The initial version of the GeForce FX (the 5800) was one of the first cards to come equipped with a large dual-slot cooler. Called "Flow FX", the cooler was very large in comparison to ATI's small, single-slot cooler on the 9700 series. [ 4 ] It was jokingly referred to as the "Dustbuster", due to a high level of fan noise. [ 5 ] 
+ The advertising campaign for the GeForce FX featured the Dawn , which was the work of several veterans from the computer animation Final Fantasy: The Spirits Within . [ 6 ] Nvidia touted it as "The Dawn of Cinematic Computing". [ 7 ] 
+ Nvidia debuted a new campaign to motivate developers to optimize their titles for Nvidia hardware at the Game Developers Conference (GDC) in 2002. In exchange for prominently displaying the Nvidia logo on the outside of the game packaging, the company offered free access to a state-of-the-art test lab in Eastern Europe, that tested against 500 different PC configurations for compatibility. Developers also had extensive access to Nvidia engineers, who helped produce code optimized for the company's products. [ 8 ] 
+ Hardware based on the NV30 project didn't launch until near the end of 2002, several months after ATI had released their competing DirectX 9 architecture. [ 9 ] 
+ Overall performance
+ [ edit ] 
+ GeForce FX 5200 
+ GeForce FX is an architecture designed with DirectX 7, 8 and 9 software in mind. Its performance for DirectX 7 and 8 was generally equal to ATI's competing products with the mainstream versions of the chips, and somewhat faster in the case of the 5900 and 5950 models, but it is much less competitive across the entire range for software that primarily uses DirectX 9 features. [ 10 ] 
+ Its weak performance in processing Shader Model 2 programs is caused by several factors. The NV3x design has less overall parallelism and calculation throughput than its competitors. [ 11 ] It is more difficult, compared to GeForce 6 and ATI Radeon R300 series , to achieve high efficiency with the architecture due to architectural weaknesses and a resulting heavy reliance on optimized pixel shader code. While the architecture was compliant overall with the DirectX 9 specification, it was optimized for performance with 16-bit shader code, which is less than the 24-bit minimum that the standard requires. When 32-bit shader code is used, the architecture's performance is severely hampered. [ 11 ] Proper instruction ordering and instruction composition of shader code is critical for making most of the available computational resources. [ 11 ] 
+ Hardware refreshes and diversification
+ [ edit ] 
+ See also: Comparison of Nvidia graphics processing units 
+ Personal Cinema FX 5700 
+ Personal Cinema FX 5900 Ultra 
+ Nvidia's initial release, the GeForce FX 5800, was intended as a high-end part. At the time, there were no GeForce FX products for the other segments of the market. The GeForce 4 MX continued in its role as the budget video card and the older GeForce 4 Ti cards filled in the mid-range.
+ In April 2003, the company introduced the GeForce FX 5600 and the GeForce FX 5200 to address the other market segments. Each had an "Ultra" variant and a slower, budget-oriented variant and all used conventional single-slot cooling solutions. The 5600 Ultra had respectable performance overall but it was slower than the Radeon 9600 Pro and sometimes slower than the GeForce 4 Ti series. [ 12 ] The FX 5200 did not perform as well as the DirectX 7.0 generation GeForce 4 MX440 or Radeon 9000 Pro in some benchmarks. [ 13 ] 
+ In May 2003, Nvidia launched the GeForce FX 5900 Ultra, a new high-end product to replace the low-volume and disappointing FX 5800. Based upon a revised GPU called NV35, which fixed some of the DirectX 9 shortcomings of the discontinued NV30, this product was more competitive with the Radeon 9700 and 9800. [ 14 ] In addition to redesigning parts of the GPU, the company moved to a 256-bit memory data bus, allowing for significantly higher memory bandwidth than the 5800 even when utilizing more common DDR SDRAM instead of DDR2. [ 14 ] The 5900 Ultra performed somewhat better than the Radeon 9800 Pro in games not heavily using shader model 2, and had a quieter cooling system than the 5800. [ 14 ] 
+ In October 2003, Nvidia released the GeForce FX 5700 and GeForce FX 5950. The 5700 was a mid-range card using the NV36 GPU with technology from NV35 while the 5950 was a high-end card again using the NV35 GPU but with additional clock speed. The 5950 also featured a redesigned version of the 5800's FlowFX cooler, this time using a larger, slower fan and running much quieter as a result. The 5700 provided strong competition for the Radeon 9600 XT in games limited to light use of shader model 2. [ 15 ] The 5950 was competitive with the Radeon 9800 XT, again as long as pixel shaders were lightly used. [ 16 ] 
+ In December 2003, the company launched the GeForce FX 5900XT, a graphics card intended for the mid-range segment. It was similar to the 5900 Ultra, but clocked slower and used slower memory. It more thoroughly competed with Radeon 9600 XT, but was still behind in a few shader-intense scenarios. [ 17 ] 
+ The GeForce FX line moved to PCI Express in early 2004 with a number of models, including the PCX 5300, PCX 5750, PCX 5900, and PCX 5950. These cards were largely the same as their AGP predecessors with similar model numbers. To operate on the PCIe bus, an AGP-to-PCIe " HSI bridge " chip on the video card converted the PCIe signals into AGP signals for the GPU. [ 18 ] 
+ Also in 2004, the GeForce FX 5200 / 5300 series that utilized the NV34 GPU received a new member with the FX 5500. [ 19 ] 
+ GeForce FX model information
+ [ edit ] 
+ Further information: Rankine (microarchitecture) 
+ All models support OpenGL 1.5 (2.1 (software) with latest drivers)
+ The GeForce FX series runs vertex shaders in an array
+ Model 
+ Launch 
+ Code name 
+ {{cite web |title=3D accelerator database |url=http://vintage3d.org/dbn.php |website=Vintage 3D |access-date=30 August 2024 |archive-url=https://web.archive.org/web/20181023222614/http://www.vintage3d.org/dbn.php |archive-date=23 October 2018 |url-status=live }}&lt;/ref>"}},"i":0}}]}'> Fab ( nm ) [ 20 ] 
+ Transistors (million)
+ 2&lt;/sup>)"}},"i":0}}]}'> Die size (mm 2 )
+ Bus interface 
+ Core clock ( MHz )
+ Memory clock ( MHz )
+ Core config [ a ] 
+ Fillrate 
+ Memory 
+ [[FP32]])"}},"i":0}}]}'> Performance ( GFLOPS FP32 )
+ TDP (Watts)
+ MOperations/s
+ MPixels/s
+ MTexels/s
+ MVertices/s
+ Size ( MB )
+ Bandwidth ( GB /s)
+ Bus type
+ Bus width ( bit )
+ GeForce FX 5100 
+ Mar 2003 
+ NV34 
+ TSMC 150   nm 
+ 45 [ 21 ] 
+ 124 
+ AGP 8x 
+ 200 
+ 166 
+ 4:2:4:4 
+ 800 
+ 800 
+ 800 
+ 100.0 
+ 64 128 
+ 2.6 
+ DDR 
+ 64 
+ 12.0 
+ ? 
+ GeForce FX 5200 LE 
+ 250 
+ 1,000 
+ 1,000 
+ 1,000 
+ 125.0 
+ 64 128 256 
+ 2.6 5.3 
+ 64 128 
+ 15.0 
+ ? 
+ GeForce FX 5200 
+ AGP   8x PCI 
+ 200 
+ 3.2 6.4 
+ 64 128 
+ 21 
+ GeForce FX 5200 Ultra 
+ 6 Mar 2003 
+ AGP 8x 
+ 325 
+ 325 
+ 1,300 
+ 1,300 
+ 1,300 
+ 162.5 
+ 10.4 
+ 128 
+ 19.5 
+ 32 
+ GeForce PCX 5300 
+ 17 Mar 2004 
+ PCIe   x16 
+ 250 
+ 166 
+ 1,000 
+ 1,000 
+ 1,000 
+ 125.0 
+ 128 256 
+ 2.6 
+ 64 
+ 15.0 
+ 21 
+ GeForce FX 5500 
+ Mar 2004 
+ NV34B 
+ 45 [ 22 ] 
+ 91 
+ AGP 8x AGP 4x PCI 
+ 270 
+ 166 200 
+ 1,080 
+ 1,080 
+ 1,080 
+ 135.0 
+ 64 128 256 
+ 5.3 6.4 
+ 128 
+ 16.2 
+ ? 
+ GeForce FX 5600 XT 
+ Oct 2003 
+ NV31 
+ TSMC 130 nm 
+ 80 [ 23 ] 
+ 121 
+ AGP 8x 
+ 235 
+ 200 
+ 940 
+ 940 
+ 940 
+ 117.5 
+ 64 128 
+ 3.2 6.4 
+ 64 128 
+ 14.1 
+ ? 
+ GeForce FX 5600 
+ Mar 2003 
+ AGP 8x PCI 
+ 325 
+ 275 
+ 1,300 
+ 1,300 
+ 1,300 
+ 162.5 
+ 64 128 256 [ 24 ] 
+ 8.8 
+ 128 
+ 19.5 
+ 25 
+ GeForce FX 5600 Ultra 
+ 6 Mar 2003 
+ AGP 8x 
+ 350 
+ 350 
+ 1,400 
+ 1,400 
+ 1,400 
+ 175.0 
+ 64 128 
+ 11.2 
+ 21.0 
+ 27 
+ GeForce FX 5600 Ultra Rev.2 
+ 400 
+ 400 
+ 1,600 
+ 1,600 
+ 1,600 
+ 200.0 
+ 12.8 
+ 24.0 
+ 31 
+ GeForce FX 5700 VE 
+ Sep 2004 
+ NV36 
+ 82 [ 25 ] 
+ 133 
+ 250 
+ 200 
+ 4:3:4:4 
+ 1000 
+ 1000 
+ 1000 
+ 187.5 
+ 128 256 
+ 3.2 6.4 
+ 64 128 
+ 17.5 
+ 20 
+ GeForce FX 5700 LE 
+ Mar 2004 
+ AGP 8x PCI 
+ 21 
+ GeForce FX 5700 
+ 2003 
+ AGP 8x 
+ 425 
+ 250 
+ 1,700 
+ 1,700 
+ 1,700 
+ 318.7 
+ 8.0 
+ 128 
+ 29.7 
+ 20 
+ GeForce PCX 5750 
+ 17 Mar 2004 
+ PCIe   x16 
+ 128 
+ 25 
+ GeForce FX 5700 Ultra 
+ 23 Oct 2003 
+ AGP 8x 
+ 475 
+ 453 
+ 1,900 
+ 1,900 
+ 1,900 
+ 356.2 
+ 128 256 
+ 14.4 
+ GDDR2 
+ 33.2 
+ 43 
+ GeForce FX 5700 Ultra GDDR3 
+ 15 Mar 2004 
+ 475 
+ 15.2 
+ GDDR3 
+ 38 
+ GeForce FX 5800 
+ 27 Jan 2003 
+ NV30 
+ 125 [ 26 ] 
+ 199 
+ 400 
+ 400 
+ 4:2:8:4 
+ 1,600 
+ 1,600 
+ 3,200 
+ 300.0 
+ 128 
+ 12.8 
+ GDDR2 
+ 24.0 
+ 55 
+ GeForce FX 5800 Ultra 
+ 500 
+ 500 
+ 2,000 
+ 2,000 
+ 4,000 
+ 375.0 
+ 16.0 
+ 30.0 
+ 66 
+ GeForce FX 5900 ZT 
+ 15 Dec 2003 
+ NV35 
+ 135 [ 27 ] 
+ 207 
+ 325 
+ 350 
+ 4:3:8:4 
+ 1,300 
+ 1,300 
+ 2,600 
+ 243.7 
+ 22.4 
+ DDR 
+ 256 
+ 22.7 
+ ? 
+ GeForce FX 5900 XT 
+ 15 Dec 2003 [ 28 ] 
+ 390 
+ 1,600 
+ 1,600 
+ 3,200 
+ 300.0 
+ 27.3 
+ 48 
+ GeForce FX 5900 
+ May 2003 
+ 400 
+ 425 
+ 27.2 
+ 28.0 
+ 55 
+ GeForce FX 5900 Ultra 
+ 12 May 2003 
+ 450 
+ 1,800 
+ 1,800 
+ 3,600 
+ 337.5 
+ 128 256 
+ 31.5 
+ 65 
+ GeForce PCX 5900 
+ 17 Mar 2004 
+ PCIe   x16 
+ 350 
+ 275 
+ 1,400 
+ 1,400 
+ 2,800 
+ 262.5 
+ 17.6 
+ 24.5 
+ 49 
+ GeForce FX 5950 Ultra 
+ 23 Oct 2003 
+ NV38 
+ 135 [ 29 ] 
+ 207 
+ AGP 8x 
+ 475 
+ 475 
+ 1,900 
+ 1,900 
+ 3,800 
+ 356.2 
+ 256 
+ 30.4 
+ 33.2 
+ 83 
+ GeForce PCX 5950 
+ 17 Feb 2004 
+ PCIe   x16 
+ 425 
+ 27.2 
+ GDDR3 
+ 83 
+ Model 
+ Launch 
+ Code name 
+ "}},"i":0}}]}'> Fab ( nm ) [ 20 ] 
+ Transistors (million)
+ 2&lt;/sup>)"}},"i":0}}]}'> Die size (mm 2 )
+ Bus interface 
+ Core clock ( MHz )
+ Memory clock ( MHz )
+ Core config [ a ] 
+ Fillrate 
+ Memory 
+ [[FP32]])"}},"i":0}}]}'> Performance ( GFLOPS FP32 )
+ TDP (Watts)
+ MOperations/s
+ MPixels/s
+ MTexels/s
+ MVertices/s
+ Size ( MB )
+ Bandwidth ( GB /s)
+ Bus type
+ Bus width ( bit )
+ 1 2 Pixel shaders : vertex shaders : texture mapping units : render output units 
+ GeForce FX Go 5 (Go 5xxx) series
+ [ edit ] 
+ The GeForce FX Go 5 series for notebooks architecture.
+ 1 Vertex shaders : pixel shaders : texture mapping units : render output units 
+ * The GeForce FX series runs vertex shaders in an array
+ ** GeForce FX series has limited OpenGL 2.1 support(with the last Windows XP driver released for it, 175.19).
+ Model 
+ Launch 
+ Code name 
+ Fab ( nm )
+ Bus interface 
+ Core clock ( MHz )
+ Memory clock ( MHz )
+ 1&lt;/sup>"}},"i":0}}]}'> Core config 1 
+ Fillrate 
+ Memory 
+ Supported API version 
+ TDP (Watts)
+ Pixel ( GP /s)
+ Texture ( GT /s)
+ Size ( MB )
+ Bandwidth ( GB /s)
+ Bus type
+ Bus width ( bit )
+ Direct3D 
+ OpenGL 
+ Hardware
+ Drivers (Software)
+ GeForce FX Go 5100 * 
+ Mar 2003 
+ NV34M 
+ 150 
+ AGP 8x 
+ 200 
+ 400 
+ 4:2:4:4 
+ 0.8 
+ 0.8 
+ 64 
+ 3.2 
+ DDR 
+ 64 
+ 9.0 
+ 1.5 
+ 2.1** 
+ Unknown 
+ GeForce FX Go 5500 * 
+ 300 
+ 600 
+ 1.2 
+ 1.2 
+ 32 64 
+ 9.6 
+ 128 
+ Unknown 
+ GeForce FX Go 5600 * 
+ NV31M 
+ 130 
+ 350 
+ 1.4 
+ 1.4 
+ 32 
+ Unknown 
+ GeForce FX Go 5650 * 
+ 350 
+ Unknown 
+ GeForce FX Go 5700 * 
+ 1 Feb 2005 
+ NV36M 
+ 450 
+ 550 
+ 4:3:4:4 
+ 1.8 
+ 1.8 
+ 8.8 
+ Unknown 
+ Support
+ [ edit ] 
+ NVIDIA has ceased driver support for GeForce FX series.
+ Final drivers
+ [ edit ] 
+ Windows 9x & Windows Me: 81.98 released on December 21, 2005; Download ;
+ Product Support List Windows 95/98/Me – 81.98 .
+ Driver version 81.98 for Windows 9x/Me was the last driver version ever released by Nvidia for these systems; no new official releases were later made for these systems.
+ Windows 2000, 32-bit Windows XP & Media Center Edition: 175.19 released on June 23, 2008; Download .
+ Note that the 175.19 driver is known to break Windows Remote Desktop (RDP). [ 30 ] The last version before the problem is 174.74. This was apparently fixed in 177.83, however this version is not available for the GeForce FX series of graphic cards. [ 31 ] Also worthwhile to note is that 163.75 is the last known good driver that correctly handles the adjustment of the video overlay color properties for the GeForce FX series. Subsequent WHQL drivers do not handle the whole range of possible video overlay adjustments (169.21) or have no effect on those (175.xx).
+ Windows XP (32-bit): 175.40 released on August 1, 2008; Download .
+ Windows Vista (32-bit): 96.85 released on October 17, 2006; Download ;
+ Windows Vista (64-bit): 97.34 released on November 21, 2006; Download .
+ Linux/BSD/Solaris: 169.12 released on February 26, 2008; Download .
+ Also available: 177.67 (beta) released on August 19, 2008; Download .
+ The drivers for Windows 2000/XP can also be installed on later versions of Windows such as Windows Vista and 7; however, they do not support desktop compositing or the Aero effects of these operating systems.
+ (Products supported list also on this page) 
+ Windows 95/98/Me Driver Archive 
+ Windows XP/2000 Driver Archive 
+ Unix Driver Archive 
+ See also
+ [ edit ] 
+ List of Nvidia graphics processing units 
+ Rankine (microarchitecture) 
+ GeForce 4 series 
+ GeForce 6 series 
+ GeForce 7 series 
+ References
+ [ edit ] 
+ 1 2 3 4 Lal Shimpi, Anand (November 18, 2002). "Nvidia Introduces GeForce FX (NV30)" . Anandtech . Retrieved August 25, 2010 . {{ cite web }} : CS1 maint: deprecated archival service ( link ) 
+ 1 2 Barkovoi, Aleksei; Vorobiev, Andrey (2003). "Nvidia GeForce FX 5900 Ultra 256MB Video Card Review" . X-bit labs . Retrieved August 25, 2010 . 
+ 1 2 "Video Processing Engine" . NVIDIA . Retrieved August 25, 2010 . 
+ ↑ Wasson, Scott (April 7, 2003). "NVIDIA's GeForce FX 5800 Ultra GPU" . Tech Report . Retrieved June 14, 2008 . 
+ ↑ From Voodoo to GeForce: The Awesome History of 3D Graphics 
+ ↑ "Dawn Demo" . NVIDIA . Retrieved August 25, 2010 . 
+ ↑ "Cinematic Computing For Every User" (PDF) . NVIDIA. Archived from the original (PDF) on July 14, 2011 . Retrieved August 25, 2010 . 
+ ↑ Ferret, Wily (May 4, 2007). "Post-Nvidia man writes in" . The Inquirer. Archived from the original on September 22, 2007 . Retrieved June 14, 2008 . 
+ ↑ Lal Shimpi, Anand (January 27, 2003). "Nvidia GeForce FX 5800 Ultra: It's Here, but is it Good?" . Anandtech . Retrieved August 25, 2010 . {{ cite web }} : CS1 maint: deprecated archival service ( link ) 
+ ↑ Cross, Jason. Benchmarking Half-Life 2: ATI vs. NVIDIA Archived December 14, 2005, at the Wayback Machine , ExtremeTech, November 29, 2004. 
+ 1 2 3 Demirug. CineFX (NV30) Inside , 3DCenter, August 31, 2003. 
+ ↑ Gasior, Geoff (May 6, 2003). "Nvidia's GeForce FX 5600 GPU" . Tech Report. Archived from the original on May 29, 2008 . Retrieved June 14, 2008 . 
+ ↑ Gasior, Geoff (April 29, 2003). "Nvidia's GeForce FX 5200 GPU" . Tech Report . Retrieved June 14, 2008 . 
+ 1 2 3 Bell, Brandon (June 20, 2003). "eVGA e-GeForce FX 5900 Ultra Review" . FiringSquad. Archived from the original on September 29, 2007 . Retrieved June 14, 2008 . 
+ ↑ Gasior, Geoff (October 23, 2003). "Nvidia's GeForce FX 5700 Ultra GPU" . Tech Report. Archived from the original on June 15, 2008 . Retrieved June 14, 2008 . 
+ ↑ Hagedoorn, Hilbert (October 23, 2003). "GeForce FX 5700 Ultra & 5950 Ultra Review" . Guru3D. Archived from the original on August 20, 2007 . Retrieved June 14, 2008 . 
+ ↑ Gasior, Geoff (December 15, 2003). "NVIDIA's GeForce FX 5900 XT GPU" . Tech Report . Retrieved June 14, 2008 . 
+ ↑ Timofeeva, Anna (April 8, 2004). "Gigabyte GeForce PCX 5900 Video Card Review" . Digital-Daily . Retrieved August 25, 2010 . 
+ ↑ Hagedoorn, Hilbert (March 9, 2004). "PoV GeForce FX 5500 Review" . Digital-Daily. Archived from the original on August 9, 2010 . Retrieved August 25, 2010 . 
+ 1 2 "3D accelerator database" . Vintage 3D . Archived from the original on October 23, 2018 . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA NV34 GPU Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5500 PCI Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5600 XT PCI Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "GeForce FX 5600" . Nvidia.com . Archived from the original on September 25, 2015 . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5700 LE Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5800 Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5900 Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA and Activision Launch "Call of Duty" Bundle with GeForce FX 5900 Graphics Cards" . Archived from the original on April 1, 2017 . Retrieved August 30, 2024 . 
+ ↑ "NVIDIA GeForce FX 5950 Ultra Specs" . TechPowerUp . Retrieved August 30, 2024 . 
+ ↑ User forum complaints about v175.19 driver breaking RDP 
+ ↑ AnandTech forum post regarding RDP issue [ link removed ] 
+ External links
+ [ edit ] 
+ Wikimedia Commons has media related to GeForce FX series .
+ Nvidia: Cinematic Computing for Every User 
+ ForceWare 81.98 drivers, Final Windows 9x/ME driver release 
+ Geforce 175.19 drivers, Final Windows XP driver release 
+ Museum of Interesting Tech article Picture and specifications for the FX5800
+ Driver Downloads 
+ laptopvideo2go.com Contains an archive of drivers and modified .INF files for the GeForce FX series
+ techPowerUp! GPU Database 
+ v 
+ t 
+ e 
+ Nvidia 
+ GeForce ( List of GPUs ) 
+ Fixed pixel pipeline 
+ Pre-GeForce 
+ NV1 
+ NV2 
+ RIVA 128 
+ RIVA TNT 
+ TNT2 
+   GeForce 256 
+ 2 
+ 4 MX 
+ Vertex and pixel shaders 
+ GeForce 3 
+ 4 Ti 
+ FX 
+ 6 
+ 7 
+ Unified shaders 
+ GeForce 8 
+ 9 
+ 100 
+ 200 
+ 300 
+ 400 
+ 500 
+ Unified shaders & NUMA 
+ GeForce 600 
+ 700 
+ 800M 
+ 900 
+ 10 
+ 16 
+ Ray tracing & Tensor Cores 
+ GeForce 20 
+ 30 
+ 40 
+ 50 
+ Software and technologies
+ Multimedia acceleration 
+ NVENC (video encoding)
+ NVDEC (video decoding)
+ PureVideo (video decoding)
+ Software 
+ Cg (shading language)
+ CUDA 
+ Nvidia GameWorks 
+ OptiX (ray tracing API)
+ PhysX (physics SDK)
+ Nvidia Omniverse (3D graphics)
+ Nvidia RTX (ray tracing platform)
+ Nvidia System Tools 
+ VDPAU (video decode API)
+ Technologies 
+ Nvidia 3D Vision (stereo 3D)
+ Nvidia G-Sync (variable refresh rate)
+ Nvidia Optimus (GPU switching)
+ Nvidia Surround (multi-monitor)
+ MXM (module/socket)
+ SXM (module/socket)
+ NVLink (protocol)
+ SLI (multi-GPU)
+ TurboCache (framebuffer in system memory)
+ Video Super Resolution (live video upscaling)
+ GPU microarchitectures 
+ Celsius 
+ Kelvin 
+ Rankine 
+ Curie 
+ Tesla 
+ Fermi 
+ Kepler 
+ Maxwell 
+ Pascal 
+ Volta 
+ Turing 
+ Ampere 
+ Hopper 
+ Ada Lovelace 
+ Blackwell 
+ Rubin 
+ Feynman 
+ Other products
+ Graphics Workstation cards 
+ Nvidia Quadro 
+ Quadro Plex 
+ GPGPU software 
+ Nvidia Tesla 
+ DGX 
+ Console components 
+ NV2A ( Xbox ) 
+ RSX 'Reality Synthesizer' ( PlayStation 3 ) 
+ Tegra X1 "Erista" ( Nintendo Switch ) 
+ Tegra T239 "Drake" ( Nintendo Switch 2 ) 
+ Nvidia Shield 
+ Shield Portable 
+ Shield Tablet 
+ Shield Android TV 
+ GeForce Now 
+ SoCs and embedded 
+ GoForce 
+ Drive 
+ Jetson 
+ Tegra 
+ N1 
+ Nvidia RTX Spark 
+ CPUs 
+ Project Denver 
+ Computer chipsets 
+ nForce 
+ Company
+ Key people 
+ Jensen Huang 
+ Chris Malachowsky 
+ Curtis Priem 
+ David Kirk 
+ Bill Dally 
+ Colette Kress 
+ Debora Shoquist
+ Ranga Jayaraman
+ Jonah M. Alben
+ Acquisitions 
+ 3dfx Interactive 
+ Ageia 
+ ULi 
+ Bright Computing 
+ Cumulus Networks 
+ DeepMap 
+ Icera 
+ Mellanox Technologies 
+ Mental Images 
+ PortalPlayer 
+ Exluna 
+ MediaQ
+ Stexar
+ Retrieved from " https://en.wikipedia.org/w/index.php?title=GeForce_FX_series&oldid=1365745419 "
+ Categories : Computer-related introductions in 2003 
+ Graphics cards 
+ GeForce series 
+ Hidden categories: Articles with short description 
+ Short description matches Wikidata 
+ Use mdy dates from October 2018 
+ CS1 maint: deprecated archival service 
+ CS1: unfit URL 
+ Webarchive template wayback links 
+ Deprecated archive template links 
+ Commons category link is on Wikidata 
+ This page was last edited on 24 July 2026, at 05:25 &#160;(UTC) .
+ Page was rendered with Parsoid .
+ Text is available under the Creative Commons Attribution-ShareAlike 4.0 License ;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+ Privacy policy 
+ About Wikipedia 
+ Disclaimers 
+ Contact Wikipedia 
+ Legal & safety contacts 
+ Code of Conduct 
+ Developers 
+ Statistics 
+ Cookie statement 
+ Mobile view 
+ Search 
+ Search 
+ Toggle the table of contents 
+ GeForce FX series 
+ 15 languages 
+ Add topic 
+ 

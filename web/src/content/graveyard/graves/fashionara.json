@@ -1,0 +1,206 @@
+{
+  "slug": "fashionara",
+  "name": "Fashionara",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Fashion e-commerce",
+  "founded": 2012,
+  "died": 2016,
+  "status": "bankrupt",
+  "brandColor": "#c2185b",
+  "founders": [
+    { "name": "Arun Sirdeshmukh", "role": "Co-founder & CEO" },
+    { "name": "Darpan Munjal", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Refused the discount game. Then joined it.",
+  "oneLiner": "A Bengaluru online store for premium fashion brands, started by the former CEO of Reliance Trends.",
+  "causeOfDeath": "A small premium store fought cash-rich Myntra and Jabong, lost almost ₹1 for every ₹1 it sold, and ran out of money and buyers.",
+
+  "raisedUsdM": 15,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "Raised figure is Mint's July 2014 report of 'roughly $15 million' since 2012; other reports give lower or higher totals (see fact-check). Valuation was never published. It shut with no buyer and went into liquidation in 2018. Loss and sales are in ₹ crore from VCCEdge data (FY15 is about $5.3M at ~₹61 per dollar).",
+  "moneySrc": [5, 0, 10],
+
+  "inOneMinute": [
+    "In 2014 the CEO said Fashionara did not **play the discount game** like Myntra and Jabong. A year later it ran daily sales at **40–70% off**.",
+    "In FY15 it sold ₹32.86 crore of goods and **lost ₹32.13 crore**: about ₹98 lost for every ₹100 sold.",
+    "eBay held buyout talks, but nothing came of it. The site went dark in **May 2016** and the company was later put into liquidation."
+  ],
+  "killerLine": "Being 'different' only protects you if customers pay for the difference. **If they don't, the rich rival's discount wins.**",
+
+  "numbers": [
+    { "value": "₹32.13 cr", "label": "net loss in FY15, on ₹32.86 crore of sales", "src": [0, 1] },
+    { "value": "₹100 cr", "label": "sales it aimed for in FY15; it reached about a third", "src": [5, 0] },
+    { "value": "43%", "label": "share of customers who came back to buy again (claimed, early 2014)", "src": [6] },
+    { "value": "₹3.1 cr", "label": "claim admitted from its only listed creditor in liquidation (2018)", "src": [10] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a fashion mall run by a retail veteran",
+      "body": "Arun Sirdeshmukh was not a first-timer. He had been a brand manager at Madura Garments, co-founded clothing company Indus League, and spent **five years as CEO of Reliance Trends**. In early 2012 he quit to build a fashion website. With Darpan Munjal, an e-commerce specialist, he raised Series A money from Helion and Lightspeed and launched Fashionara in Bengaluru in May 2012. It sold premium brands like Adidas, Benetton and Nautica, stored in its own warehouse. It had smart touches: **video of clothes on a model**, curated 'look books', and a tool to compare products. The founders also took a stand. They said big discounts were **\"not sustainable in the long run\"**, and offered small cashback coupons instead.",
+      "src": [2, 3, 5]
+    },
+    {
+      "title": "The rise: good customers, small numbers",
+      "body": "By December 2013, Fashionara said it was getting **800 to 1,000 orders a day**, each worth ₹1,600 to ₹1,800. It ran a 25,000 sq ft warehouse in Bengaluru and shipped to Delhi, Mumbai, Hyderabad and Pune. In early 2014 it claimed 43% of its customers came back to buy again, a healthy number. Women made up as much as three-quarters of sales. In July 2014 Mint reported it had raised $7–8 million more from its existing investors, about **$15 million in total**. Sirdeshmukh said sales were doubling every second quarter and aimed for ₹100 crore that year. His pitch: \"We don't play the discount game as aggressively as Myntra and Jabong.\" It targeted people who already shopped online and wanted quality.",
+      "src": [4, 6, 5]
+    },
+    {
+      "title": "The cracks: the discount game, after all",
+      "body": "The trouble was size. Myntra had Flipkart's money and Jabong had Rocket Internet's, and both spent heavily to win shoppers. Fashionara kept trying new ideas. In early 2014 it opened **F.Lea Bazaar**, letting flea-market sellers list on the site, and moved towards a marketplace (a site where other sellers list and you take a cut). By late 2014 it started flash sales, and in 2015 it switched to a daily-sale format with **discounts of 40% to 70%**. Sales did jump about five times in FY15, to ₹32.86 crore. But the yearly loss also grew, from ₹21.11 crore to **₹32.13 crore**. The company's own filing called fashion e-commerce \"a challenging environment\".",
+      "src": [0, 7, 1]
+    },
+    {
+      "title": "The fall: no buyer, no money, no website",
+      "body": "By 2016 investors were losing interest. Lightspeed told Inc42 it had **\"exited its position some time back\"**. Co-founder Munjal left in January 2016. In May 2016, reports said eBay had held **unsuccessful talks** to buy Fashionara and Jabong. Days later, around 27 May, Fashionara's website and app stopped loading. There was no announcement; only automated tweets kept going. Reports linked the closure to falling business and a cash crunch. Within weeks, Sirdeshmukh became head of Amazon India's fashion business. The company itself had one last chapter: a firm named Modgen Fashions started insolvency proceedings, and on **7 May 2018** Fashionara Enterprises formally entered liquidation (selling what is left to pay debts).",
+      "src": [0, 8, 1, 9, 10, 11]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Early 2012", "event": "Arun Sirdeshmukh quits as CEO of Reliance Trends to start an online fashion store", "kind": "start", "src": [3] },
+    { "date": "May 2012", "event": "Fashionara launches in Bengaluru with Series A money from Helion and Lightspeed", "kind": "money", "src": [2] },
+    { "date": "Dec 2013", "event": "Says it gets 800–1,000 orders a day; seeks $10–15 million more", "kind": "peak", "src": [4] },
+    { "date": "Early 2014", "event": "Launches F.Lea Bazaar and starts moving to a marketplace model", "kind": "warning", "src": [0] },
+    { "date": "Jul 2014", "event": "Reported to raise $7–8 million from existing investors; targets ₹100 crore of sales", "kind": "money", "src": [5] },
+    { "date": "2015", "event": "Switches to daily flash sales with 40–70% discounts; FY15 loss widens to ₹32.13 crore", "kind": "warning", "src": [7, 0] },
+    { "date": "Jan 2016", "event": "Co-founder Darpan Munjal leaves; Lightspeed has already exited", "kind": "crisis", "src": [0] },
+    { "date": "May 2016", "event": "eBay buyout talks reported as unsuccessful; website and app go dark around 27 May", "kind": "end", "src": [8, 1] },
+    { "date": "Jun 2016", "event": "Sirdeshmukh is named head of Amazon India's fashion portfolio", "kind": "after", "src": [9] },
+    { "date": "7 May 2018", "event": "Fashionara Enterprises formally enters liquidation after insolvency filing by Modgen Fashions", "kind": "after", "src": [10, 11] }
+  ],
+
+  "charts": [
+    {
+      "title": "Net loss by year",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY14", "FY15"],
+      "series": [{ "name": "Net loss", "values": [21.11, 32.13] }],
+      "takeaway": "Sales grew five times in FY15, but the loss grew too, to almost the same size as sales (₹32.86 crore).",
+      "src": [0, 1]
+    },
+    {
+      "title": "FY15 sales: the goal vs what happened",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["Target (Jul 2014)", "Actual"],
+      "series": [{ "name": "FY15 sales", "values": [100, 32.86] }],
+      "takeaway": "It hit about a third of the sales it aimed for, even after turning to deep discounts.",
+      "src": [5, 0]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Feb–Mar 2012", "round": "Series A", "amountUsdM": 4, "valuationUsdM": null, "investors": ["Helion Venture Partners", "Lightspeed Venture Partners"], "src": [2, 0] },
+    { "date": "Early 2014", "round": "Series B", "amountUsdM": null, "valuationUsdM": null, "investors": ["Helion Venture Partners", "Lightspeed Venture Partners"], "src": [5, 1] }
+  ],
+
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "unit-economics", "weight": 30 },
+    { "key": "funding-dried", "weight": 25 },
+    { "key": "focus", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "A small player in a spending war",
+      "explain": "Myntra and Jabong were backed by Flipkart and Rocket Internet, and both spent heavily on ads and discounts. Fashionara sold many of the **same brands** with far less money. Its touches, like videos and look books, were nice but easy to copy. When the product is the same, shoppers usually go where it is cheapest or most familiar.",
+      "src": [5, 1]
+    },
+    {
+      "title": "Losing almost a rupee per rupee sold",
+      "explain": "In FY15 it sold ₹32.86 crore of goods and lost ₹32.13 crore. That is **about ₹98 lost for every ₹100 of sales**. Sales grew five times that year, but the loss grew as well. Growth like that does not get you closer to profit. It only makes you need more money, faster.",
+      "src": [0, 1]
+    },
+    {
+      "title": "Dropping its own big idea",
+      "explain": "In 2012 the founders said big discounts were 'not sustainable'. In 2014 the CEO said they did not play the discount game. By 2015 it ran **daily sales at 40–70% off**. Moving to the rivals' game meant fighting where they were strongest, and it blurred the one thing that made Fashionara different.",
+      "src": [2, 5, 7]
+    },
+    {
+      "title": "Too many new directions at once",
+      "explain": "In about two years it tried a flea-market bazaar, a marketplace model, private labels, flash sales, a mobile app and **home furnishings with 36 brands**. Each move may have made sense alone. Together, they spread a small team and limited money thin, just when it needed one thing to work very well.",
+      "src": [0, 6, 7]
+    },
+    {
+      "title": "Waiting too long for a buyer",
+      "explain": "Smaller fashion sites were often seen as takeover targets. eBay did hold talks, but **nothing came of them**, and by then investors like Lightspeed had already left. A sale is easier while sales are growing and cash remains. Once money is nearly gone, buyers can simply wait for you to close.",
+      "src": [8, 0, 5]
+    }
+  ],
+
+  "warningSigns": [
+    "Are you selling the same products as a much richer rival, with nothing a customer cannot get there?",
+    "Is your yearly loss close to, or bigger than, your yearly sales?",
+    "Have you started copying the rival strategy you once said would not work?",
+    "Have you launched more than three new product lines or models in the last two years without one clearly working?",
+    "Has an early investor quietly stopped putting in money or sold their stake?",
+    "Would you only start looking for a buyer once your cash is almost gone?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Experience helps, but it does not replace money",
+      "detail": "Sirdeshmukh had run a big retail chain. That got him investors and brands. It could not match rivals spending far more on discounts. Before entering a market, write down how much the top two players have raised, and ask how you survive their next price cut."
+    },
+    {
+      "title": "Own something they cannot copy",
+      "detail": "Video catalogues and look books are features, not a moat (a lasting advantage). Exclusive products, your own label, or a community that loves you are harder to copy. Find yours before you scale."
+    },
+    {
+      "title": "Track loss per ₹100 of sales",
+      "detail": "Divide your yearly loss by your sales. If that number is not shrinking as you grow, growth is not helping. Fashionara's was about ₹98 per ₹100 sold in FY15."
+    },
+    {
+      "title": "Stay true, or change on purpose",
+      "detail": "It is fine to change your strategy. But if you drop your main idea, do it after real tests, not in a panic. A half-switch leaves you worse at the new game and no longer good at the old one."
+    },
+    {
+      "title": "Plan the exit while you still have options",
+      "detail": "Talk to possible buyers or partners when you have 12 or more months of cash, not 2. The best deals happen when you can say no."
+    }
+  ],
+
+  "quote": {
+    "text": "We don't play the discount game as aggressively as Myntra and Jabong.",
+    "who": "Arun Sirdeshmukh, co-founder & CEO",
+    "context": "Speaking to Mint in July 2014. A year later, Fashionara switched to daily flash sales at 40–70% off.",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "Weeks after the site went dark, Arun Sirdeshmukh joined Amazon India to head its fashion portfolio, one of the rivals Fashionara had fought. Darpan Munjal went on to run Squadhelp, a crowdsourcing platform. The company, Fashionara Enterprises, went through insolvency proceedings started by Modgen Fashions and entered liquidation on 7 May 2018. The liquidator's list shows a ₹3.1 crore claim from one unsecured lender (a lender with no assets pledged against the loan).",
+    "src": [9, 0, 10, 11]
+  },
+
+  "sources": [
+    { "label": "Inc42: Bangalore-based fashion e-tailer Fashionara shuts down operations (May 2016)", "url": "https://inc42.com/flash-feed/bangalore-based-etailer-fashionara-shut-operations/" },
+    { "label": "FashionUnited: Fashion e-tailer Fashionara closes shop (Jun 2016)", "url": "https://fashionunited.in/news/retail/fashion-etailer-fashionara-shuts-shop/2016060313676" },
+    { "label": "MediaNama: Fashionara launches, raises funding from Helion and Lightspeed (May 2012)", "url": "https://www.medianama.com/2012/05/223-fashionara-launches-fashion-focused-ecommerce-store-raises-funding-from-helion-lightspeed/" },
+    { "label": "MediaNama: Reliance Trends CEO Arun Sirdeshmukh quits to start e-commerce venture (Feb 2012)", "url": "https://www.medianama.com/2012/02/223-reliance-trends-ceo-arun-sirdeshmukh-quits-to-start-ecommerce-venture/" },
+    { "label": "FashionUnited: Fashionara seeks $15 million for expansion (Dec 2013)", "url": "https://fashionunited.in/v1/apparel/fashionara-seeks-15-million-dollars-for-expansion/201312114588" },
+    { "label": "Mint (via Third Eyesight): Fashionara plans to triple sales (Jul 2014)", "url": "https://www.thirdeyesight.in/?p=2540" },
+    { "label": "FashionUnited: Fashionara aims for Rs 100 crore revenues (2014)", "url": "https://fashionunited.in/v1/apparel/fashinara-aims-for-rs-100-cr-revenues/201404295023" },
+    { "label": "FashionUnited: Fashionara adopts flash sales based format (Jul 2015)", "url": "https://fashionunited.in/news/retail/fashionara-adopts-flash-sales-based-format/2015071711962" },
+    { "label": "The Hans India: Why eBay trails Amazon, Flipkart despite first-mover advantage (May 2016)", "url": "https://www.thehansindia.com/posts/index/Technology/2016-05-18/Why-eBay-trails-Amazon-Flipkart-despite-first-mover-advantage/228834" },
+    { "label": "FashionUnited: Amazon India appoints Arun Sirdeshmukh as fashion head (Jun 2016)", "url": "https://fashionunited.in/news/people/amazon-india-appoints-arun-sirdeshmukh-fashion-head/2016062313773" },
+    { "label": "IBBI: Fashionara Enterprises liquidation list of stakeholders (filed Oct 2018)", "url": "https://ibbi.gov.in/uploads/claims/generate/LIQCLAIMS1623050441_2901.pdf" },
+    { "label": "IBBI: Corporate process record for Fashionara Enterprises Pvt Ltd", "url": "https://ibbi.gov.in/en/claims/inner-process/U74900KA2011PTC061168" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Total money raised.", "note": "Mint (Jul 2014) said 'roughly $15 million' since 2012. FashionUnited (2015) said it got $15–20 million in December 2013 alone, while the 2016 shutdown reports said $7–8 million in total. We use Mint's figure; none was confirmed by the company." },
+      { "claim": "Series A amount.", "note": "MediaNama (2012) said the amount was not disclosed. Inc42 (2016) later said 'over $4 million'. We show $4 million in rounds, and leave the Series B amount blank." },
+      { "claim": "Exact shutdown date.", "note": "No official announcement was made. Reports say the site and app stopped loading around 27 May 2016, about a week before Inc42's 28 May report." },
+      { "claim": "Why Modgen Fashions filed for insolvency.", "note": "IBBI records name Modgen Fashions as the applicant but do not say what it was owed. We do not guess." }
+    ]
+  }
+}

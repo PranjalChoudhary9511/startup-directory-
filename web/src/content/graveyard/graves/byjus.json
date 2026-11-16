@@ -1,0 +1,205 @@
+{
+  "slug": "byjus",
+  "name": "Byju's",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Edtech",
+  "founded": 2011,
+  "died": 2024,
+  "status": "insolvent",
+  "brandColor": "#813588",
+  "founders": [
+    { "name": "Byju Raveendran", "role": "Co-founder & CEO" },
+    { "name": "Divya Gokulnath", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Taught a nation to study. Skipped its own homework.",
+  "oneLiner": "India's biggest edtech company: a learning app and online classes for school students that grew into a $22 billion empire.",
+  "causeOfDeath": "It borrowed and bought its way to a $22 bn valuation, then lost the trust of lenders and investors with late accounts and weak controls when the boom ended.",
+
+  "raisedUsdM": 6300,
+  "peakValuationUsdM": 22000,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: Inc42's company database lists $6.3 bn+ across 32 rounds; it does not say whether this includes the $1.2 bn Term Loan B, so treat it as a floor. Peak: the March 2022 round at a reported $22 bn. End value: no sale has happened (insolvency still running as of July 2026). The last priced deal was a 2024 rights issue at $225 M, and Prosus marked its stake to zero. FY22 loss converted at roughly ₹75 per dollar (FY22 average).",
+  "moneySrc": [17, 4, 6],
+
+  "inOneMinute": [
+    "Byju's became India's most valuable startup at **$22 billion in March 2022**, after a year of buying companies and borrowing $1.2 billion from US lenders.",
+    "Its accounts came out **about a year late, then nearly two years late**. Its auditor Deloitte quit and three investor directors walked off the board.",
+    "A **₹158.9 crore cricket-sponsorship bill** pushed it into insolvency in July 2024. As of July 2026, courts in India, the US and Singapore are still fighting over what is left."
+  ],
+  "killerLine": "Growth hides problems; **late accounts reveal them**. If you can't close your books on time, you can't be trusted with other people's money.",
+
+  "numbers": [
+    { "value": "$22 bn", "label": "peak valuation, March 2022", "src": [4] },
+    { "value": "99%", "label": "fall in value: a 2024 rights issue priced Byju's at $225 M", "src": [6] },
+    { "value": "₹8,245 cr", "label": "net loss in FY22 (about $1.1 bn)", "src": [2] },
+    { "value": "$533 M", "label": "loan money a US judge ruled was fraudulently transferred (Feb 2025; under appeal)", "src": [4] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Byju Raveendran and Divya Gokulnath founded Think & Learn in Bengaluru in 2011. In its first two years, FY12 and FY13, the company was **actually profitable**. In August 2015 it launched the Byju's learning app. Within about a year it had around **3 lakh (300,000) paying subscribers**, a huge number for Indian edtech then. For seven years, from FY14 to FY20, it grew fast while losing only about ₹453 crore in total. That is the part founders should study: Byju's had a product millions of parents genuinely wanted, and for years it grew without burning wild amounts of cash.",
+      "src": [17, 1, 4]
+    },
+    {
+      "title": "The rise",
+      "body": "Then the money got huge. In April 2021 Byju's bought Aakash, the coaching-centre chain, for about **$950 million** in cash and stock. In November 2021 it took a **$1.2 billion Term Loan B** (a big loan from US investors, with strict conditions) to fund growth abroad and more acquisitions. In March 2022 it raised $800 million at a reported $22 billion valuation, with Byju Raveendran himself putting in money. One promised investor, Sumeru, never actually sent its share. By 2022 the company had about **60,000 employees**. Looking back, Raveendran blamed \"trying to grow too soon, too fast.\" He also said the markets turned in December 2021, just as Byju's had gone all-in.",
+      "src": [16, 4, 5]
+    },
+    {
+      "title": "The cracks",
+      "body": "In September 2022, Byju's finally published its FY21 accounts, about a year late. Its auditor, Deloitte, had made it change how it counted sales: multi-year subscriptions now had to be booked slowly, as students used them, and unpaid instalments only when paid. That kept about **₹1,156 crore** out of FY21 revenue. The loss came to ₹4,589 crore, roughly **10 times its total losses of the seven years before**. In December 2022, India's child-rights body NCPCR summoned Raveendran over complaints that sales teams pushed families into course loans; Byju's called the complaints unsubstantiated. In June 2023 Deloitte resigned, saying it still had no FY22 accounts to audit. Directors from Prosus, Peak XV and the Chan Zuckerberg Initiative quit. The board shrank to **Byju, Divya and his brother Riju**.",
+      "src": [0, 1, 8, 3]
+    },
+    {
+      "title": "The fall",
+      "body": "When the FY22 accounts arrived, they showed Byju's had **spent ₹13,668 crore to earn ₹5,298 crore**, a ₹8,245 crore loss. The US lenders said Byju's had broken the loan's terms and went to court. By early 2024 staff had fallen to about 14,000. A rights issue priced the company at just $225 million, and Prosus wrote its $493 million stake down to zero. Then, on 16 July 2024, a tribunal admitted the BCCI's plea over **₹158.9 crore** of unpaid cricket-sponsorship dues, starting insolvency. A settlement was approved, but in October 2024 the Supreme Court set it aside. That month Raveendran said the company was now worth zero, and added: \"There is no fraud.\"",
+      "src": [2, 4, 6, 9, 10, 5]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2011", "event": "Byju Raveendran and Divya Gokulnath found Think & Learn in Bengaluru.", "kind": "start", "src": [17] },
+    { "date": "Aug 2015", "event": "The Byju's learning app launches; about 3 lakh paying subscribers within a year.", "kind": "start", "src": [4] },
+    { "date": "Apr 2021", "event": "Buys Aakash Educational Services for about $950 million in cash and stock.", "kind": "money", "src": [16] },
+    { "date": "Nov 2021", "event": "Takes a $1.2 billion Term Loan B from US lenders.", "kind": "money", "src": [4, 5] },
+    { "date": "Mar 2022", "event": "Raises $800 million at a reported $22 billion valuation, India's most valuable startup.", "kind": "peak", "src": [4] },
+    { "date": "Sep 2022", "event": "FY21 accounts arrive about a year late, with a ₹4,589 crore loss after auditor-driven accounting changes.", "kind": "warning", "src": [0, 1] },
+    { "date": "Jun 2023", "event": "Deloitte resigns as auditor; three investor directors leave the board.", "kind": "crisis", "src": [3] },
+    { "date": "Nov 2023", "event": "ED issues show-cause notices alleging FEMA (foreign-exchange law) breaches of ₹9,362 crore; Byju's says it is compliant.", "kind": "crisis", "src": [7] },
+    { "date": "Jun 2024", "event": "Prosus writes its stake down to zero; a rights issue had valued Byju's at $225 million.", "kind": "crisis", "src": [6] },
+    { "date": "16 Jul 2024", "event": "NCLT Bengaluru admits BCCI's insolvency plea over ₹158.9 crore of dues.", "kind": "end", "src": [9] },
+    { "date": "23 Oct 2024", "event": "Supreme Court sets aside the NCLAT order that had ended the insolvency after the BCCI settlement.", "kind": "end", "src": [10] },
+    { "date": "Jul 2026", "event": "Still in insolvency: NCLT pauses the bidding step while the founders challenge the lenders' ₹11,433 crore claim.", "kind": "after", "src": [15] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY20", "FY21", "FY22"],
+      "series": [
+        { "name": "Revenue from operations", "values": [2189, 2280, 5015] },
+        { "name": "Net loss", "values": [232, 4589, 8245] }
+      ],
+      "takeaway": "In two years, losses went from a tenth of revenue to more than one and a half times revenue.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Employees",
+      "unit": "people (approx.)",
+      "kind": "bar",
+      "labels": ["2022", "Early 2024"],
+      "series": [{ "name": "Staff", "values": [60000, 14000] }],
+      "takeaway": "Within about two years, roughly three out of every four jobs were gone.",
+      "src": [4]
+    }
+  ],
+
+  "rounds": [
+    { "date": "2013", "round": "Seed", "amountUsdM": 8, "valuationUsdM": null, "investors": ["Aarin Capital"], "src": [4] },
+    { "date": "Nov 2021", "round": "Term Loan B (debt)", "amountUsdM": 1200, "valuationUsdM": null, "investors": ["US institutional lenders"], "src": [4, 5] },
+    { "date": "Mar 2022", "round": "Equity round", "amountUsdM": 800, "valuationUsdM": 22000, "investors": ["Byju Raveendran", "Sumeru Ventures (promised money never arrived)"], "src": [4] },
+    { "date": "2024", "round": "Rights issue", "amountUsdM": 200, "valuationUsdM": 225, "investors": ["Existing shareholders (Prosus did not take part)"], "src": [6] }
+  ],
+
+  "causes": [
+    { "key": "governance", "weight": 40 },
+    { "key": "over-expansion", "weight": 30 },
+    { "key": "burn", "weight": 20 },
+    { "key": "timing", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Treating accounts and auditors as an afterthought",
+      "explain": "FY21 accounts came out about a year late, FY22 nearly two years late. Deloitte quit, saying it had no FY22 accounts to audit. Three investor directors left, leaving a board of **the founder, his wife and his brother**. Each delay told lenders and investors the same thing: **we can't see inside this company**. Once that belief sets in, nobody lends you money in a crisis.",
+      "src": [1, 3]
+    },
+    {
+      "title": "Taking a giant loan with strict terms to fund a shopping spree",
+      "explain": "The $1.2 billion Term Loan B came with conditions that let lenders act if Byju's slipped. When it did, they sued, and the fight spread to courts in the US and India. Raveendran later said: **\"It was the easiest capital, but it became the most expensive one.\"** Debt is fine for a business with steady cash. It is **dangerous fuel for a company that is still losing money**.",
+      "src": [5, 4]
+    },
+    {
+      "title": "Losing track of where the borrowed money went",
+      "explain": "About $533 million of the loan was moved in 2022 to Camshaft, a US hedge fund. In February 2025 a US bankruptcy judge ruled it was **fraudulently transferred** (a civil finding, not a criminal one) and agreed the fund was \"a sham\". The founders deny wrongdoing and have appealed. Either way, **not being able to show lenders their money** turned a money crunch into a war.",
+      "src": [4, 11]
+    },
+    {
+      "title": "Spending far more than it earned to look big",
+      "explain": "In FY22 Byju's **spent ₹13,668 crore to earn ₹5,298 crore**. Advertising alone cost ₹4,144 crore, and staff costs ₹3,552 crore. That works only if fresh money keeps arriving. When markets turned in December 2021, it stopped arriving, and the company had **built its costs for a world that no longer existed**.",
+      "src": [2, 5]
+    },
+    {
+      "title": "A sales machine that strained customers' trust",
+      "explain": "In December 2022 the child-rights body NCPCR summoned Raveendran over reports that sales teams **pushed parents into loan-based course deals**. Byju's called the complaints unsubstantiated. True or not in each case, an edtech brand lives on parents' trust. When growth targets lean on **aggressive selling to families**, the brand pays the bill later.",
+      "src": [8]
+    }
+  ],
+
+  "warningSigns": [
+    "Are last year's accounts still not closed and audited, and are you asking for 'a few more months' again?",
+    "Has your auditor asked you to change how you count revenue, and does the honest number look much smaller?",
+    "Has your board shrunk to just you, your family and close friends?",
+    "Would you struggle to show a lender, today, exactly where every rupee of their loan sits?",
+    "Is your monthly spend sized for the money you hope to raise next, not the money you have?",
+    "Are complaints about how you sell growing faster than complaints about the product?"
+  ],
+
+  "lessons": [
+    { "title": "Close your books on time, every time", "detail": "Even a two-person startup should keep clean monthly accounts and file its annual returns on the due date. Late numbers make people assume the worst, and they are usually right to." },
+    { "title": "Know exactly what a loan lets the lender do", "detail": "Before you take debt, read the conditions (covenants) line by line: what counts as a default, and what can the lender seize? If you can't explain it to a friend in two minutes, don't sign yet." },
+    { "title": "Count revenue the honest way from day one", "detail": "If a student pays for two years, you have earned that money only as the two years pass. Booking it all upfront makes you feel rich and sets you up for a painful correction later." },
+    { "title": "Keep at least one person who can say no to you", "detail": "Add an outside board member or mentor with real power to question you. Byju's ended with a board of three family members, so no one inside could stop the slide." },
+    { "title": "Don't let your sales team sell harder than your product", "detail": "Track refunds, complaints and repeat purchases, not just new sales. If your growth depends on persuading people who can't afford you, it will come back as anger, not loyalty." }
+  ],
+
+  "quote": {
+    "text": "It was the easiest capital, but it became the most expensive one.",
+    "who": "Byju Raveendran, founder",
+    "context": "On the $1.2 billion US Term Loan B, at a virtual press conference from Dubai, 17 October 2024",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "As of July 2026 Think & Learn is still in insolvency. A tribunal has paused the bidding step while the founders challenge the US lenders' ₹11,433 crore claim, and the lenders were reported to be in talks over about 30% of Aakash. In the US, a judge entered a default judgment against Byju Raveendran in November 2025 for not complying with discovery orders, then in December 2025 withdrew the $1 billion damages figure and ordered a fresh hearing on whether any damages are owed. In Singapore, a court sentenced him in May 2026 to six months for civil contempt in a case brought by a Qatar Investment Authority unit; his appeal is pending and he is outside Singapore. He denies all wrongdoing and has said he will make a comeback, if needed through a new platform.",
+    "src": [15, 11, 12, 13, 14, 4]
+  },
+
+  "sources": [
+    { "label": "Business Today: What BYJU'S FY21 results mean (Sep 2022)", "url": "https://www.businesstoday.in/amp/magazine/corporate/story/what-impact-will-byjus-fy21-results-have-on-its-future-business-will-profits-come-soon-348409-2022-09-28" },
+    { "label": "Business Today: Byju's FY21 losses were 10x its losses in the seven years before (Sep 2022)", "url": "https://businesstoday.in/entrepreneurship/news/story/byjus-fy21-losses-were-10x-its-total-losses-in-the-seven-years-before-347695-2022-09-20" },
+    { "label": "Inc42: BYJU'S FY22 loss, spent ₹13,600 Cr to earn ₹5,000 Cr", "url": "https://inc42.com/buzz/byjus-inr-8200-cr-loss-in-fy22-spent-inr-13600-cr-to-earn-inr-5000-cr" },
+    { "label": "TechCrunch: Prosus and Sequoia confirm execs' resignation from Byju's board (Jun 2023)", "url": "https://techcrunch.com/2023/06/23/prosus-and-sequoia-confirm-execs-resignation-from-byjus-board/" },
+    { "label": "Rest of World: Byju Raveendran's comeback plans amid fraud case (May 2025)", "url": "https://restofworld.org/2025/byjus-owner-byju-raveendran-comeback-fraud-case/" },
+    { "label": "Business Today: Byju Raveendran blames investors (Oct 2024 press conference)", "url": "https://www.businesstoday.in/india/story/at-the-first-sign-of-trouble-byju-raveendran-blames-investors-for-the-edtech-icons-meltdown-throwing-him-under-the-bus-450542-2024-10-17" },
+    { "label": "Entrackr: Prosus writes off $500 mn investment in BYJU'S (Jun 2024)", "url": "https://entrackr.com/2024/06/prosus-writes-off-500-mn-investment-in-byjus" },
+    { "label": "Inc42: ED says it issued show-cause notice for FEMA violation of ₹9,362 Cr (Nov 2023)", "url": "https://inc42.com/?p=426611" },
+    { "label": "Business Today: NCPCR summons BYJU'S CEO over hard-selling allegations (Dec 2022)", "url": "https://www.businesstoday.in/latest/corporate/story/byjus-ceo-summoned-by-child-rights-body-ncpcr-over-allegations-of-hard-selling-its-courses-356747-2022-12-16" },
+    { "label": "Business Today: BCCI tells NCLAT it has settled ₹158 cr dues with Byju's (Jul 2024)", "url": "https://www.businesstoday.in/amp/latest/corporate/story/bcci-tells-nclat-that-it-has-reached-a-settlement-with-byjus-over-rs-158-cr-of-unpaid-dues-439604-2024-07-31" },
+    { "label": "Outlook Business (PTI): SC sets aside NCLAT order stopping Byju's insolvency (Oct 2024)", "url": "https://www.outlookbusiness.com/start-up/sc-sets-aside-nclat-order-stopping-insolvency-proceedings-against-ed-tech-firm-byjus" },
+    { "label": "Inc42: US court orders Byju Raveendran to pay $1.07 Bn (Nov 2025)", "url": "https://inc42.com/buzz/byjus-saga-us-court-orders-byju-raveendran-to-pay-1-07-bn" },
+    { "label": "Inc42: US court scraps $1 Bn damages order against Byju Raveendran (Dec 2025)", "url": "https://inc42.com/buzz/us-court-scraps-1-bn-damages-order-against-byju-raveendran" },
+    { "label": "The News Minute: Singapore court sentences Byju Raveendran to 6 months for contempt (May 2026)", "url": "https://www.thenewsminute.com/news/singapore-court-sentences-byju-raveendran-to-6-months-in-jail-for-contempt" },
+    { "label": "Inc42: Singapore HC declines to extend stay on jail term; appeal pending (Jul 2026)", "url": "https://inc42.com/buzz/byju-raveendrans-bid-to-halt-six-month-jail-term-rejected-by-singapore-hc/" },
+    { "label": "Inc42: NCLT stays BYJU'S insolvency bidding process till August 31 (Jul 2026)", "url": "https://inc42.com/buzz/nclt-stays-byjus-insolvency-bidding-process-till-august-31/" },
+    { "label": "Business Today: Aakash denies payment-delay reports on $950 mn deal (Jun 2022)", "url": "https://www.businesstoday.in/amp/latest/corporate/story/exclusive-aakash-denies-reports-of-payment-delays-from-byjus-for-1-bn-acquisition-deal-339678-2022-06-29" },
+    { "label": "Inc42 company profile: BYJU'S", "url": "https://inc42.com/company/byjus" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "The $533 million from the Term Loan B was fraudulently transferred and hidden.", "note": "A Delaware bankruptcy judge ruled in Feb 2025 that it was a fraudulent transfer (civil finding). The founders deny it, call the allegations false, and have appealed. In Dec 2025 the court withdrew the $1 bn damages figure from its default judgment; damages were still to be decided." },
+      { "claim": "Byju's broke foreign-exchange law to the tune of ₹9,362 crore.", "note": "This is the amount in ED show-cause notices (Nov 2023), an allegation at an early stage, not a finding. Byju's said it is fully compliant and the queries were technical." },
+      { "claim": "Sales staff pushed poor families into loans for courses.", "note": "Reported in the media and raised by NCPCR in Dec 2022. Byju's called the complaints unsubstantiated." },
+      { "claim": "Byju Raveendran is in contempt of a Singapore court.", "note": "A Singapore court found civil contempt and sentenced him to six months (May 2026). He says he did not breach any order, and his appeal was pending as of July 2026." },
+      { "claim": "Byju's FY23 revenue was about ₹6,500 crore.", "note": "Reported by Inc42 from sources in 2023, but no audited FY23 accounts were found. Left out of the story and charts." }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+const fs=require('fs');const [n,mark,len]=process.argv.slice(2);let t=fs.readFileSync(`pages/${n}.txt`,'utf8').replace(/\s+/g,' ');let i=mark?t.indexOf(mark):0;if(i<0){console.log('NOMARK',t.slice(0,200));process.exit()};console.log(`[${n}]`,t.slice(i,i+(+len||4000)));

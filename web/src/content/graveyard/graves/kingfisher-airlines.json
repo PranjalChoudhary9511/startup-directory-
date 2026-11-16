@@ -1,0 +1,169 @@
+{
+  "slug": "kingfisher-airlines",
+  "name": "Kingfisher Airlines",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Airline",
+  "founded": 2003,
+  "died": 2012,
+  "status": "shut-down",
+  "brandColor": "#d6001c",
+  "founders": [
+    { "name": "Vijay Mallya", "role": "Founder & chairman (UB Group)" }
+  ],
+
+  "epitaph": "Flew in style. Landed in court.",
+  "oneLiner": "A glamorous full-service airline from the UB Group, the makers of Kingfisher beer, known for its red planes and glamorous image.",
+  "causeOfDeath": "It never earned a profit, piled up losses and bank loans, stopped paying staff, and lost its flying licence in October 2012.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "No reliable lifetime total of equity plus debt was published in sources we could read. The bank debt itself is disputed: Mallya says about ₹6,200 crore; reports of the banks' claims cite about ₹9,000 crore of principal. The airline closed with nothing sold as a going concern.",
+  "moneySrc": [4, 7],
+
+  "inOneMinute": [
+    "Kingfisher was India's flashiest airline, and by 2011 the **second-largest by domestic market share**. But it never made a profit.",
+    "It bought loss-making Air Deccan, went international and ordered giant jets, while **losing over ₹1,000 crore a year** for three straight years.",
+    "Staff went unpaid, planes were grounded, and **DGCA suspended its licence in October 2012**. The court fights over its loans are still running."
+  ],
+  "killerLine": "A brand can make people love you. **Only cash flow can keep you flying.**",
+
+  "numbers": [
+    { "value": "₹7,000 cr+", "label": "accumulated losses by early 2012", "src": [0] },
+    { "value": "5,696", "label": "employees in 2012, many unpaid for months", "src": [0] },
+    { "value": "₹312 cr", "label": "old salary dues finally paid to ex-staff in December 2025, 13 years later", "src": [0] },
+    { "value": "₹14,131 cr", "label": "worth of Mallya's assets handed to banks, per ED in 2026", "src": [5] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: the king of good times, in the sky",
+      "body": "Vijay Mallya ran the UB Group, famous for Kingfisher beer. In 2003 he founded Kingfisher Airlines in Bengaluru, and on 9 May 2005 it began flying with four brand-new Airbus A320s between Mumbai and Delhi. The idea was to be **India's most stylish airline**: a premium, full-service experience with red planes and a glamorous image that shared its name with the beer brand. Mallya thought big from day one. In November 2005 he talked of raising about $200 million through a share sale and said Kingfisher was open to buying **all of rival Air Sahara**.",
+      "src": [0, 10]
+    },
+    {
+      "title": "The rise: second-largest in India",
+      "body": "In 2007 Kingfisher bought control of Air Deccan, India's pioneering low-cost airline, which was itself making large losses. Deccan was renamed Simplifly Deccan and later **Kingfisher Red**. On 3 September 2008, Kingfisher began international flights with Bengaluru–London. It became the first Indian customer for Airbus's giant **A380**, and also ordered A350s and A330s. Until December 2011, it held the second-largest share of India's domestic air market. To passengers, it felt like a winner. In the accounts, it was not: it was losing more than ₹1,000 crore a year, year after year, and borrowing from banks to cover the gap.",
+      "src": [0, 2]
+    },
+    {
+      "title": "The cracks: unpaid bills, frozen accounts",
+      "body": "By early 2012, Kingfisher's **accumulated losses** (all losses added up over the years) had crossed ₹7,000 crore. In December 2011, tax authorities froze its bank accounts over about ₹70 crore of unpaid dues. Around half the fleet was grounded, and on 10 April 2012 it suspended international flights. Market share collapsed from second to last among India's top airlines. Worst of all, employees were not being paid. Staff dues reached **around ₹300 crore**, and many workers went on strike. Lenders had called the company viable as late as September 2011. That optimism did not survive the year.",
+      "src": [0]
+    },
+    {
+      "title": "The fall: no licence, then no slots",
+      "body": "On 20 October 2012, after the DGCA (India's aviation regulator) **suspended its licence**, Kingfisher stopped flying. It never flew again. On 25 February 2013, authorities scrapped its international flying rights and domestic airport slots. By July 2014, it was the biggest defaulter among state-owned banks' bad loans. On 2 March 2016, as 13 banks led by SBI moved to recover their money, **Mallya left India for the UK**. A UK court ruled in December 2018 that he could be extradited, and he lost his appeals in 2020. But an undisclosed 'confidential legal matter' has kept him in Britain.",
+      "src": [0, 1, 8]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2003", "event": "Vijay Mallya's UB Group founds Kingfisher Airlines in Bengaluru.", "kind": "start", "src": [0] },
+    { "date": "9 May 2005", "event": "First commercial flights, with four new Airbus A320s on Mumbai–Delhi.", "kind": "start", "src": [0] },
+    { "date": "2007", "event": "Buys control of loss-making low-cost carrier Air Deccan, later renamed Kingfisher Red.", "kind": "money", "src": [0, 2] },
+    { "date": "3 Sep 2008", "event": "Launches international flights with Bengaluru–London.", "kind": "peak", "src": [0] },
+    { "date": "Dec 2011", "event": "Tax authorities freeze bank accounts over about ₹70 crore of dues; it loses its No. 2 market position.", "kind": "warning", "src": [0] },
+    { "date": "10 Apr 2012", "event": "International flights suspended; about half the fleet grounded; staff unpaid and striking.", "kind": "crisis", "src": [0] },
+    { "date": "20 Oct 2012", "event": "DGCA suspends its licence and Kingfisher stops flying for good.", "kind": "end", "src": [0] },
+    { "date": "25 Feb 2013", "event": "International flying rights and domestic slots scrapped.", "kind": "end", "src": [0] },
+    { "date": "2 Mar 2016", "event": "Mallya leaves India for the UK as banks move to recover their loans.", "kind": "after", "src": [1] },
+    { "date": "10 Dec 2018", "event": "A UK court rules Mallya can be extradited; his appeals fail in 2020.", "kind": "after", "src": [1, 8] },
+    { "date": "11 Jul 2022", "event": "Supreme Court sentences Mallya to four months' jail and a ₹2,000 fine for contempt of court.", "kind": "after", "src": [3] },
+    { "date": "Dec 2025", "event": "Former staff receive ₹312 crore of long-overdue dues, released through the ED.", "kind": "after", "src": [0] }
+  ],
+
+  "charts": [],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "burn", "weight": 40 },
+    { "key": "over-expansion", "weight": 30 },
+    { "key": "governance", "weight": 30 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Growing an airline that never made money",
+      "explain": "Kingfisher lost over ₹1,000 crore a year for three straight years, and **never turned a profit**. Instead of fixing the core business first, it kept adding routes, planes and a second airline. In aviation, costs like fuel, leases and staff are huge and fixed, so losses compound fast. Growth only helps if each flight earns more than it costs.",
+      "src": [0]
+    },
+    {
+      "title": "Buying a cheap airline to become a luxury one",
+      "explain": "In 2007 Kingfisher bought Air Deccan, a low-cost airline that was already making large losses. That meant running **two opposite brands at once**: a five-star airline and a no-frills one. It added losses and confusion. Air Deccan's founder later said Mallya wanted the Kingfisher name and did not understand what Deccan meant to its customers.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Ordering for the dream, not the balance sheet",
+      "explain": "Kingfisher became the first Indian airline to order the giant **A380**, plus A350s and A330s, and earlier ordered A340-500s that were never delivered. Big orders signal ambition, but they lock in future spending. A company losing money every year should be shrinking its commitments, not adding to them.",
+      "src": [0]
+    },
+    {
+      "title": "Making employees the last to be paid",
+      "explain": "By 2012, staff dues reached around ₹300 crore, and workers went on strike. Former employees finally got **₹312 crore in December 2025**, thirteen years after the last flight. When a company runs short of cash, who gets paid first says everything about its values.",
+      "src": [0]
+    },
+    {
+      "title": "Promoter conduct that courts punished",
+      "explain": "The Supreme Court found Mallya guilty of contempt in 2017 for moving $40 million to his children in breach of court orders, and **sentenced him in July 2022**. That contempt case is his only conviction so far. Fraud and money-laundering cases against him are still allegations, not proven in court.",
+      "src": [1, 3]
+    }
+  ],
+
+  "warningSigns": [
+    "Are you adding new products, cities or acquisitions while your main business still loses money?",
+    "Are you signing big long-term commitments (orders, leases, contracts) while losses are growing?",
+    "Are salaries, taxes or vendor bills being delayed so the company can keep operating?",
+    "Is your brand's image more impressive than your profit and loss statement?",
+    "Are you buying a struggling company mainly for its licence or market share, without a plan to fix its losses?"
+  ],
+
+  "lessons": [
+    { "title": "Fix the unit before you scale it", "detail": "Before adding a second city or product, prove your first one earns more than it costs. Scaling a loss-making unit only makes the hole bigger." },
+    { "title": "Don't buy a problem to look bigger", "detail": "Acquiring a struggling rival rarely fixes your own business. If you buy, know exactly how you will make it profitable and how much cash that needs." },
+    { "title": "Pay people first", "detail": "If cash gets tight, protect salaries and statutory dues (taxes, PF). Losing your team's trust ends a company faster than losing customers." },
+    { "title": "Image is not income", "detail": "Glamour, ads and celebrity can win attention. Track the boring numbers every week: cash, revenue per customer, cost per customer." },
+    { "title": "Obey the court, even when you disagree", "detail": "Mallya's only conviction is for contempt, for moving money against court orders. Fight in court if you must, but never defy it; that turns a business failure into a personal one." }
+  ],
+
+  "quote": {
+    "text": "Let him deposit the money before coming to India,",
+    "who": "Tushar Mehta, Solicitor General of India",
+    "context": "Responding in the Supreme Court to Mallya's repeated settlement offers, July 2020.",
+    "src": [7]
+  },
+
+  "afterlife": {
+    "text": "Mallya lives in the UK. He lost his extradition appeals in 2020, but India was told a 'confidential legal matter' must be resolved first. He was the first person declared a Fugitive Economic Offender under India's 2018 law, and in February 2026 the Bombay High Court told him to return to India if he wanted his challenge to that law heard. He lost an appeal against a UK bankruptcy order in April 2025. In 2026, the ED told the Bombay High Court that assets worth ₹14,131 crore had been handed to banks, but money-laundering charges still stand. Mallya argues banks have recovered several times the roughly ₹6,200 crore principal. His only conviction so far is the 2022 contempt sentence; the fraud and money-laundering cases remain unproven.",
+    "src": [1, 4, 5, 6, 8]
+  },
+
+  "sources": [
+    { "label": "Wikipedia: Kingfisher Airlines (summary of cited reports)", "url": "https://en.wikipedia.org/wiki/Kingfisher_Airlines" },
+    { "label": "Wikipedia: Vijay Mallya (legal timeline with citations)", "url": "https://en.wikipedia.org/wiki/Vijay_Mallya" },
+    { "label": "Forbes India: Air Deccan back in the skies (Jan 2018)", "url": "https://www.forbesindia.com/article/big-bet/air-deccan-back-in-the-skies/49175/1" },
+    { "label": "Bar & Bench: Supreme Court sentences Vijay Mallya to 4 months for contempt (11 Jul 2022)", "url": "https://www.barandbench.com/news/supreme-court-sentences-vijay-mallya-to-4-month-imprisonment-2000-fine-for-contempt-of-court" },
+    { "label": "Bar & Bench: Mallya tells Karnataka High Court banks have recovered more than owed (5 Feb 2025)", "url": "https://www.barandbench.com/news/litigation/vijay-mallya-tells-karnataka-high-court-banks-have-recovered-more-than-what-is-owed-to-them" },
+    { "label": "Bar & Bench: Assets worth ₹14,131 crore given to banks but PMLA charges will stay, ED tells Bombay HC (11 Sep 2026)", "url": "https://www.barandbench.com/news/assets-worth-14131-crore-given-to-banks-but-pmla-charges-against-vijay-mallya-will-stay-ed-to-bombay-hc" },
+    { "label": "Bar & Bench: Come back to India if you want us to hear your case, Bombay HC to Mallya (12 Feb 2026)", "url": "https://www.barandbench.com/news/come-back-to-india-if-you-want-us-to-hear-your-case-bombay-high-court-to-vijay-mallya" },
+    { "label": "Business Today: Mallya offers ₹13,960 crore settlement (17 Jul 2020)", "url": "https://www.businesstoday.in/current/economy-politics/vijay-mallya-makes-last-ditch-effort-to-avoid-jail-offers-settlement-package-of-rs-13960-crore/story/410165.html" },
+    { "label": "Deccan Chronicle: Mallya's extradition from Britain not possible yet, India told (9 Oct 2020)", "url": "https://www.deccanchronicle.com/nation/crime/091020/mallyas-extradition-from-britain-not-possible-india-told.html" },
+    { "label": "Bar & Bench: Karnataka High Court quashes SFIO case against Vijay Mallya, Captain R Gopinath (27 Apr 2024)", "url": "https://www.barandbench.com/news/karnataka-high-court-quashes-sfio-case-against-vijay-mallya-captain-r-gopinath" },
+    { "label": "Rediff / PTI: Kingfisher plans IPO, open to Air Sahara buyout (29 Nov 2005)", "url": "http://www.rediff.com/business/report/ipo/20051129.htm" },
+    { "label": "Bar & Bench: Mallya's 'flamboyant lifestyle' in the way of settling bank claims, Karnataka HC (15 Oct 2026)", "url": "https://www.barandbench.com/news/litigation/vijay-mallyas-flamboyant-lifestyle-coming-in-the-way-of-settling-bank-claims-karnataka-high-court" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "How much Kingfisher owed the banks", "note": "Mallya says the debt was about ₹6,200 crore and has been recovered several times over; reports of the banks' position cite about ₹9,000 crore of principal. Interest and the scope of the claims explain part of the gap. Courts were still examining whether the debt is fully cleared as of late 2026." },
+      { "claim": "Fraud in the 2007 Kingfisher–Air Deccan merger", "note": "The SFIO alleged fraud, but the Karnataka High Court quashed those proceedings in April 2024. Kept out of the story." },
+      { "claim": "Mallya's guilt in fraud and money-laundering cases", "note": "These are allegations by the CBI and ED; no court had convicted him on them as of our check. His only conviction is for contempt of the Supreme Court (guilty 2017, sentenced 2022)." },
+      { "claim": "External causes (fuel prices, the 2008 crisis, government policy)", "note": "Mallya has blamed outside factors in interviews, including a 2025 podcast. We could not read those claims in a reliable primary source during this research, so they are not in the story." },
+      { "claim": "Research limits", "note": "Our web search budget ran out and several major news sites blocked our reader, so some airline facts rely on Wikipedia's summary of cited reports. Year-by-year loss figures were not verified, so no chart is shown." }
+    ]
+  }
+}

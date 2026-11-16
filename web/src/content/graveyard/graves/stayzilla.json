@@ -1,0 +1,463 @@
+{
+  "slug": "stayzilla",
+  "name": "Stayzilla",
+  "region": "india",
+  "country": "India",
+  "city": "Chennai",
+  "sector": "Homestays & hotel booking",
+  "founded": 2005,
+  "died": 2017,
+  "status": "insolvent",
+  "brandColor": "#e94e1b",
+  "founders": [
+    {
+      "name": "Yogendra Vasupal",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Rupal Yogendra",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Sachit Singhi",
+      "role": "Co-founder & CFO"
+    }
+  ],
+  "epitaph": "Seven years of cash flow. Three of vanity metrics.",
+  "oneLiner": "India's answer to Airbnb: an app to book homestays and small hotels in thousands of towns, not just big cities.",
+  "causeOfDeath": "After years of careful growth it switched to chasing bookings with heavy ads and discounts, lost ₹94.5 crore in one year, and ran out of road.",
+  "raisedUsdM": 33.5,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure is Inc42's total of four rounds reported in US dollars ($0.5M seed, an undisclosed Series A, $20M Series B, $13M Series C); TechCrunch and Skift say about $34M. Valuations were never published. Losses are in ₹ crore from filings as reported by The Ken (FY16 at roughly ₹67 to the dollar).",
+  "moneySrc": [
+    0,
+    1,
+    2
+  ],
+  "inOneMinute": [
+    "For its first seven years Stayzilla grew carefully on its own cash. Then it raised $33 million and **started chasing 'vanity' numbers**.",
+    "In FY16 it spent **₹56 crore on marketing** to earn ₹13.8 crore in revenue, and lost ₹94.5 crore.",
+    "It shut in February 2017. Weeks later the founder was **jailed for 28 days** over a ₹1.7 crore vendor bill."
+  ],
+  "killerLine": "Bookings and downloads feel like progress. **Cash flow is the only score** that keeps a company alive.",
+  "numbers": [
+    {
+      "value": "₹94.5 cr",
+      "label": "loss in FY16, up from ₹19.6 crore a year earlier",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "₹56 cr",
+      "label": "marketing spend in FY16, four times its revenue",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "600 → 200",
+      "label": "staff cut in its final year",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "28 days",
+      "label": "the founder spent in jail over a ₹1.7 crore vendor dispute",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "In 2005, in Chennai, Yogendra Vasupal (\"Yogi\"), his wife Rupal and their friend Sachit Singhi started Inasra, a small company helping people find places to stay. In 2010 it became **Stayzilla**. For seven years it grew slowly and carefully. Yogi later wrote that those years were all about \"negative working capital, positive cash flow\". In plain words: customers paid Stayzilla before it had to pay hotels, so the company always had cash in hand. It was a rare Indian internet startup that **funded its own growth**. Investors noticed. Indian Angel Network put in $500,000, then Matrix Partners and Nexus Venture Partners came on board.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "In 2015, Stayzilla raised a **$20 million Series B** led by Nexus. It changed course: instead of just budget hotels, it would build India's homestay network, rooms in people's homes across small towns. It signed agreements with eight state governments and listed about 55,000 places to stay across thousands of towns. It hired fast, including students from IITs, IIMs and ISB. In May 2016 it raised **$13 million more**. Spending exploded. In FY16 its staff bill went from ₹6.5 crore to ₹29.8 crore, and marketing hit ₹56 crore. Revenue grew too, from ₹4.2 crore to ₹13.8 crore, but losses jumped almost five times to **₹94.5 crore**.",
+      "src": [
+        0,
+        2,
+        1
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "Homestays were a new idea for most Indians. Yogi later said demand and supply for them had been almost \"non-existent\" just 18 months earlier. So Stayzilla had to pay to teach both hosts and guests, even running about 600 town-hall sessions. Rivals like OYO had much more money and kept prices low. Yogi wrote that, forced to match prices, \"we could not even recoup what we put in.\" He admitted he had **started treasuring GMV** (the total value of bookings) and room-nights instead of cash flow. In its last year Stayzilla cut staff from 600 to 200 and tried to change course. He said 12 months was **not enough time** to undo 36.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "On 23 February 2017, Yogi announced in a blog post that Stayzilla was stopping operations and would try to \"reboot\" with a new model. Weeks later, an advertising agency, Jigsaw, filed a police complaint saying it was owed about ₹1.7 crore. On 14 March, Yogi was **arrested and charged with cheating** and criminal breach of trust. He spent 28 days in jail before the Madras High Court gave him bail. More than 170 startup figures signed a petition supporting him. Jigsaw then took Stayzilla to the bankruptcy court (NCLT), which started **insolvency proceedings** in September 2017. The Supreme Court rejected Yogi's appeal in March 2018.",
+      "src": [
+        7,
+        3,
+        5,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Yogendra Vasupal, Rupal Yogendra and Sachit Singhi start Inasra in Chennai.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2010",
+      "event": "Inasra is renamed Stayzilla.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2015",
+      "event": "Raises a $20 million Series B led by Nexus, with Matrix; pivots to homestays.",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "May 2016",
+      "event": "Raises $13 million more from existing investors.",
+      "kind": "money",
+      "src": [
+        1,
+        7
+      ]
+    },
+    {
+      "date": "FY16",
+      "event": "Spends ₹56 crore on marketing; loss reaches ₹94.5 crore.",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "23 Feb 2017",
+      "event": "Announces it is halting operations and plans a 'reboot'.",
+      "kind": "end",
+      "src": [
+        7,
+        1
+      ]
+    },
+    {
+      "date": "14 Mar 2017",
+      "event": "Yogi is arrested after vendor Jigsaw's complaint over about ₹1.7 crore.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "11 Apr 2017",
+      "event": "Madras High Court grants bail after 28 days, on a ₹40 lakh surety.",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2017",
+      "event": "NCLT Chennai starts insolvency proceedings; an outside professional takes control.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "21 Mar 2018",
+      "event": "Supreme Court dismisses Yogi's appeal against the insolvency order.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "May 2018",
+      "event": "Resolution professional invites bids for the brand, assets and pending patents.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "FY15",
+        "FY16"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            4.2,
+            13.8
+          ]
+        },
+        {
+          "name": "Loss",
+          "values": [
+            19.6,
+            94.5
+          ]
+        }
+      ],
+      "takeaway": "Revenue rose about 3 times, but losses rose almost 5 times. Growth was bought, not earned.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Where the money went in FY16",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": [
+        "Revenue",
+        "Salaries",
+        "Marketing"
+      ],
+      "series": [
+        {
+          "name": "FY16",
+          "values": [
+            13.8,
+            29.8,
+            56
+          ]
+        }
+      ],
+      "takeaway": "Marketing alone was four times what the company earned.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Before 2013",
+      "round": "Seed",
+      "amountUsdM": 0.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Indian Angel Network"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2013",
+      "round": "Series A",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2015",
+      "round": "Series B",
+      "amountUsdM": 20,
+      "valuationUsdM": null,
+      "investors": [
+        "Nexus Venture Partners",
+        "Matrix Partners"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "May 2016",
+      "round": "Series C",
+      "amountUsdM": 13,
+      "valuationUsdM": null,
+      "investors": [
+        "Matrix Partners",
+        "Nexus Venture Partners"
+      ],
+      "src": [
+        0,
+        1,
+        7
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "burn",
+      "weight": 35
+    },
+    {
+      "key": "focus",
+      "weight": 25
+    },
+    {
+      "key": "competition",
+      "weight": 20
+    },
+    {
+      "key": "no-market",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Swapped cash flow for vanity metrics",
+      "explain": "For seven years Stayzilla tracked one thing: cash. After raising big money it started chasing **GMV and room-nights**, numbers that look great in pitch decks but don't pay salaries. Yogi admitted this himself. The habit that had kept the company alive for a decade was dropped just when it mattered most.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "Spent four rupees on ads for every rupee earned",
+      "explain": "In FY16 marketing was ₹56 crore against revenue of ₹13.8 crore. Salaries jumped almost five times. Losses went from ₹19.6 crore to **₹94.5 crore** in a year. Teaching India what a homestay is was a real cost, but a young category grows at its own pace. Money cannot rush it.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Fought a price war with richer rivals",
+      "explain": "OYO and others had raised far more money and kept prices low. Yogi wrote that Stayzilla was forced to match prices and **could not even recoup what it put in**. A smaller company rarely wins a discount fight. Competing on something rivals couldn't copy, like unique small-town stays, was its real edge.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Left vendor disputes to fester",
+      "explain": "Jigsaw said its bills had gone unpaid since January 2016. Stayzilla said there was a dispute, but the Supreme Court noted it had **not raised that dispute in writing in time**. That technical gap let a ₹1.7 crore bill push the whole company into insolvency. Yogi later said companies should be proactive with vendor issues.",
+      "src": [
+        3,
+        5,
+        4
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are your weekly reports about bookings, downloads or GMV, with cash flow buried at the bottom?",
+    "Is your marketing spend higher than your total revenue?",
+    "Are you matching a much richer rival's prices just to keep up?",
+    "Do you have any vendor bill you disagree with but have not disputed in writing?",
+    "Have you pivoted with less than a year of runway left to make the new model work?"
+  ],
+  "lessons": [
+    {
+      "title": "Keep your first good habit",
+      "detail": "If your company survived on positive cash flow, keep measuring it every week after you raise money. New funding should speed up a working engine, not replace it."
+    },
+    {
+      "title": "Put cash at the top of every dashboard",
+      "detail": "Make 'months of cash left' and 'cash made or lost this month' the first two lines of every review. GMV and users come after."
+    },
+    {
+      "title": "Don't try to buy a new habit",
+      "detail": "When customers don't yet understand your product, ads and discounts rarely speed things up. Start with a few places where people already want it and grow from there."
+    },
+    {
+      "title": "Paperwork is protection",
+      "detail": "If you disagree with a vendor's bill, say so in writing, quickly, and keep records. Under India's bankruptcy law, missing this step can let a small creditor drag your whole company to court."
+    },
+    {
+      "title": "Pivot early, not late",
+      "detail": "Yogi said 12 months was not enough to undo 36 months on the wrong path. If numbers look wrong, change direction while you still have the money to try something new."
+    }
+  ],
+  "quote": {
+    "text": "I started treasuring GMV, room-nights and other 'vanity' metrics",
+    "who": "Yogendra Vasupal, co-founder & CEO",
+    "context": "In his February 2017 blog post announcing Stayzilla was halting operations, as quoted by TechCrunch.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Yogi was released on bail in April 2017 and told The News Minute he wanted to restart as a business-to-business company, selling homestay rooms to other travel sites. He said: \"I know that I will get back up.\" Instead, Stayzilla went into insolvency in September 2017. After the Supreme Court dismissed his appeal in March 2018, the resolution professional invited bids for the brand, assets and pending patents. We found no public record of a buyer.",
+    "src": [
+      6,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Inc42: Stayzilla shuts down – founder admits failure, plans a 'reboot' (Feb 2017)",
+      "url": "https://inc42.com/buzz/stayzilla-shutdown"
+    },
+    {
+      "label": "TechCrunch: Stayzilla, India's Airbnb for homestays, closes its service (Feb 2017)",
+      "url": "https://techcrunch.com/?p=1456690"
+    },
+    {
+      "label": "The Ken: Home truths – Stayzilla (FY15–FY16 financials)",
+      "url": "https://the-ken.com/story/home-truths-stayzilla/"
+    },
+    {
+      "label": "The News Minute: Stayzilla CEO granted bail by Madras HC (Apr 2017)",
+      "url": "https://www.thenewsminute.com/atom/stayzilla-ceo-granted-bail-madras-hc-asked-deposit-rs-40-lakh-surety-60183"
+    },
+    {
+      "label": "The News Minute: Court orders Stayzilla to become insolvent (Sep 2017)",
+      "url": "https://www.thenewsminute.com/atom/court-orders-stayzilla-become-insolvent-yogi-loses-company-control-forced-pay-68609"
+    },
+    {
+      "label": "Inc42: Defunct Stayzilla to sell its remaining brand value and assets (May 2018)",
+      "url": "https://inc42.com/buzz/defunct-homestay-aggregator-stayzilla-to-sell-its-remaining-brand-value-and-assets"
+    },
+    {
+      "label": "The News Minute: The Yogi interview – 30 days in jail and his future (Apr 2017)",
+      "url": "https://thenewsminute.com/atom/yogi-interview-stayzilla-ceo-spending-30-days-jail-business-cheats-and-his-future-60752"
+    },
+    {
+      "label": "Skift: Stayzilla closes despite raising $34 million (Feb 2017)",
+      "url": "https://skift.com/2017/02/23/stayzilla-closes-indian-alternative-lodging-business-despite-raising-34-million"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "The founders committed fraud.",
+        "note": "This is Jigsaw's allegation. Yogi and Sachit were charged with cheating, criminal breach of trust and intimidation, and the founders said they were framed. We found no conviction; treat it as an unproven charge."
+      },
+      {
+        "claim": "Days in jail.",
+        "note": "The News Minute's bail report says 28 days; Yogi's own interview says 30 days. We use 28, the court-report figure."
+      },
+      {
+        "claim": "Total funding.",
+        "note": "Inc42 gives about $33.5 million; TechCrunch, Skift and Inc42's 2018 report say about $34 million."
+      },
+      {
+        "claim": "Founding year.",
+        "note": "Inc42 says 2005 as Inasra; some outlets say 2006 or count from the 2010 rebrand."
+      }
+    ]
+  }
+}

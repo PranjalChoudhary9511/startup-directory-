@@ -1,0 +1,539 @@
+{
+  "slug": "infosys",
+  "company": "Infosys",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#007CC3",
+    "secondary": "#3781C2",
+    "accent": "#81B4D7",
+    "ink": "#14263A",
+    "paper": "#F5F3EE",
+    "note": "Infosys blue #007CC3 is the primary colour given by brand-colour references; #3781C2 is the blue inside the Infosys logo file on Wikimedia Commons and #81B4D7 is its light tint (infosys.com blocks automated reading). Ink and paper are our own picks."
+  },
+  "tagline": "Seven salaried engineers with no capital proved that an Indian company could win the world's clients and stay honest doing it.",
+  "hook": "In 1974 a young Indian engineer was dragged off a train near the Yugoslav–Bulgarian border and locked in a tiny room for about five days with no food. He walked out deciding to try capitalism. Seven years later, with ₹10,000 from his wife's savings, he started Infosys.",
+  "hookSrc": [0, 8, 9, 7],
+  "cast": [
+    {
+      "name": "Nandan Nilekani",
+      "role": "Co-founder. An IIT Bombay graduate whom Murthy hired on the spot at Patni in 1979 after an interview full of puzzles. He spent 1981 to 1987 writing software at client sites in the US, ran Infosys as CEO from 2002 to 2007, left to build Aadhaar in 2009, and came back as non-executive chairman in August 2017 to calm a boardroom war.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nandan_M._Nilekani.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nandan_M._Nilekani.jpg",
+        "caption": "Nandan Nilekani at Davos in January 2007, while he was CEO of Infosys.",
+        "author": "World Economic Forum from Cologny, Switzerland",
+        "license": "CC BY-SA 2.0",
+        "year": 2007
+      },
+      "src": [2, 13, 21, 22]
+    },
+    {
+      "name": "Sudha Murty",
+      "role": "Engineer and Murthy's wife. The first woman engineer hired by TELCO, she had ₹10,250 saved in 1981 and gave ₹10,000 of it to start Infosys. In the early years she was its programmer, assistant and accountant, then stepped away so the company stayed purely professional. She later ran the Infosys Foundation and was nominated to the Rajya Sabha in March 2024.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sudha_Murty_at_Jaipur_Literature_Festival_2026_01.jpg/1280px-Sudha_Murty_at_Jaipur_Literature_Festival_2026_01.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sudha_Murty_at_Jaipur_Literature_Festival_2026_01.jpg",
+        "caption": "Sudha Murty at the Jaipur Literature Festival, January 2026.",
+        "author": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0",
+        "year": 2026
+      },
+      "src": [7, 23, 1]
+    },
+    {
+      "name": "N. S. Raghavan",
+      "role": "Co-founder and, by his own account, Infosys's first employee. A former Ministry of Defence engineer, a little older than the others except Murthy, his house was the company's first registered office. Nilekani says he and Murthy took most of the risk. He retired in 2000 as joint managing director.",
+      "photo": null,
+      "src": [24, 2]
+    },
+    {
+      "name": "Kris Gopalakrishnan",
+      "role": "Co-founder who joined from Patni. He designed Infosys's knowledge-sharing system, which paid points (later turned into money) both to engineers who added reusable work and to those who used it. CEO from 2007 to 2011.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kris_Gopalakrishnan_-_World_Economic_Forum_on_India_2012.jpg/1280px-Kris_Gopalakrishnan_-_World_Economic_Forum_on_India_2012.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kris_Gopalakrishnan_-_World_Economic_Forum_on_India_2012.jpg",
+        "caption": "Kris Gopalakrishnan at the World Economic Forum on India, November 2012.",
+        "author": "World Economic Forum",
+        "license": "CC BY-SA 2.0",
+        "year": 2012
+      },
+      "src": [1, 2, 13]
+    }
+  ],
+  "founder": {
+    "name": "N. R. Narayana Murthy",
+    "role": "Founder, Infosys (CEO 1981–2002)",
+    "born": "20 Aug 1946, Sidlaghatta, Karnataka",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/31._ISC-Symposium-N.R._Narayana_Murthy-HSGN_028-01586.jpg/1280px-31._ISC-Symposium-N.R._Narayana_Murthy-HSGN_028-01586.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:31._ISC-Symposium-N.R._Narayana_Murthy-HSGN_028-01586.jpg",
+      "caption": "N. R. Narayana Murthy at the St. Gallen Symposium in Switzerland, 2001, when he was still CEO of Infosys.",
+      "author": "St. Gallen Symposium",
+      "license": "CC BY-SA 4.0",
+      "year": 2001
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Infosys.Electronic.City.Lunch.Time.JPG/1280px-Infosys.Electronic.City.Lunch.Time.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Infosys.Electronic.City.Lunch.Time.JPG",
+        "caption": "Lunch hour at the Infosys campus in Electronic City, Bangalore, December 2003.",
+        "author": "Zondor at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "year": 2003
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Russian_President_during_a_visit_to_the_Infosys_company.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Russian_President_during_a_visit_to_the_Infosys_company.jpg",
+        "caption": "Murthy (left) shows Russian President Vladimir Putin around Infosys in Bangalore, December 2004.",
+        "author": "Russian Presidential Press Office",
+        "license": "CC BY 4.0",
+        "year": 2004
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Global_Education_Centre_front%2C_Infosys_Mysore_%28closeup%29.JPG/1280px-Global_Education_Centre_front%2C_Infosys_Mysore_%28closeup%29.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Global_Education_Centre_front,_Infosys_Mysore_(closeup).JPG",
+        "caption": "The Global Education Centre at Infosys Mysore, where new engineers live in for a 23-week training course.",
+        "author": "Prateek Karandikar",
+        "license": "CC BY-SA 4.0",
+        "year": 2010
+      }
+    ],
+    "background": "Murthy was one of eight children of a high-school teacher who taught English, physics and maths. With his grandmother, eleven people lived on that one salary, and the family could not afford a newspaper or a radio, so his father brought the news home from school and read Shakespeare and Dickens to the children on Sundays. When Murthy wanted to go to an IIT, his father said a hostel would eat a third of his salary, so he studied electrical engineering in Mysore and finished in 1967. At IIT Kanpur, where he did his master's, a visiting Princeton professor's breakfast talk made him switch from control theory to computers.",
+    "backgroundSrc": [0, 4],
+    "journey": [
+      {
+        "year": "1946",
+        "kind": "life",
+        "title": "A schoolteacher's son",
+        "detail": "Born in Sidlaghatta, Karnataka. His father moved from one small town to another on transfer, and dinner was eaten sitting on the floor while he talked about Nehru's dams and steel plants.",
+        "src": [0, 4]
+      },
+      {
+        "year": "1962–67",
+        "kind": "life",
+        "title": "No money for an IIT hostel",
+        "detail": "He wanted an IIT, but his father said hostel costs would take a third of his pay with eight children to raise. He stayed home and earned his engineering degree in Mysore.",
+        "src": [0, 4]
+      },
+      {
+        "year": "1967–69",
+        "kind": "life",
+        "title": "IIT Kanpur and a prank",
+        "detail": "Friends fooled him into thinking an IBM card printer was a computer. Months later he was running all six tape drives of an IBM 7044 at night for simulations.",
+        "src": [0, 4]
+      },
+      {
+        "year": "1969–71",
+        "kind": "job",
+        "title": "Chief systems programmer, IIM Ahmedabad",
+        "detail": "He took half the salary of his other offers to install India's first time-sharing system, an HP 2116B with 16 teletypes. His professor said it would teach him more, and it did.",
+        "src": [0, 3]
+      },
+      {
+        "year": "Early 1970s",
+        "kind": "job",
+        "title": "Operating systems in Paris",
+        "detail": "He joined a French firm, SESA, to help design an operating system, and learned French in six months at evening classes. Seeing how fast Western Europe was progressing, his leftist beliefs began to crack.",
+        "src": [0, 1]
+      },
+      {
+        "year": "1974",
+        "kind": "life",
+        "title": "Locked up on the way home",
+        "detail": "Hitchhiking from Paris towards India, he spoke French to a girl on the Sofia Express; police took him off the train and held him about 120 hours in an 8-by-8-foot room. He says it turned him from 'a confused leftist' into 'a determined, compassionate capitalist'.",
+        "src": [0, 8, 9]
+      },
+      {
+        "year": "Mid-1970s",
+        "kind": "job",
+        "title": "Think tank in Pune",
+        "detail": "He joined Systems Research Institute, set up by his old IIMA professor, studying why one oil-drilling company did better than another. A friend at TELCO introduced him to Sudha.",
+        "src": [0]
+      },
+      {
+        "year": "c.1976",
+        "kind": "failure",
+        "title": "Softronics shuts down",
+        "detail": "His first company wrote software for Indian firms, but there were hardly any computers in India, and IBM was on its way out of the country. He says he closed it within about nine months. His verdict: he never checked the size of the market.",
+        "src": [0, 1, 4]
+      },
+      {
+        "year": "1977–81",
+        "kind": "job",
+        "title": "Head of software, Patni Computer Systems",
+        "detail": "From a small cabin at Nariman Point, Mumbai, he built a team of about 100 young engineers writing software for US clients. He hired them for brains, not experience, and they followed him out.",
+        "src": [0, 1, 2]
+      },
+      {
+        "year": "1981",
+        "kind": "breakthrough",
+        "title": "Infosys, a month before turning 35",
+        "detail": "He believed he had to start before 35, and he and six Patni colleagues set up Infosys Consultants. The company's own filings say it was incorporated in Pune on 2 July 1981; Murthy remembers the date as 7 July. Sudha's ₹10,000 covered equity for partners who had no cash, and an advance from the first client paid the bills.",
+        "src": [0, 32, 7]
+      },
+      {
+        "year": "1981–83",
+        "kind": "job",
+        "title": "Alone in a Pune flat",
+        "detail": "The office was his apartment, and the others were in the US at client sites because Infosys had no computer. Importing one took about three years of licence trips to Delhi.",
+        "src": [2, 1, 24]
+      },
+      {
+        "year": "1990",
+        "kind": "failure",
+        "title": "The ₹2 crore offer",
+        "detail": "After a US joint venture collapsed, a buyer offered about ₹2 crore for Infosys, and most of his partners wanted to sell. He talked them into staying.",
+        "src": [6, 5]
+      },
+      {
+        "year": "1993",
+        "kind": "breakthrough",
+        "title": "Going public in a bad year",
+        "detail": "After Rajiv Gandhi's assassination, the Harshad Mehta scam and the demolition of the Babri Masjid kept delaying it, Infosys finally sold shares in February 1993. 'Nobody had any idea what a software company was,' he says, but it listed in June at about a 50% premium.",
+        "src": [1, 5]
+      },
+      {
+        "year": "1999",
+        "kind": "breakthrough",
+        "title": "First Indian company on NASDAQ",
+        "detail": "On 11 March 1999 Infosys became the first India-registered company listed on a US stock exchange, so it could give stock options in dollars. It had been publishing US-style accounts voluntarily since 1995.",
+        "src": [31, 1, 13]
+      },
+      {
+        "year": "2002",
+        "kind": "job",
+        "title": "Hands over to Nilekani",
+        "detail": "After 21 years as CEO he became chairman. He retired on 20 August 2011, his 65th birthday.",
+        "src": [1, 13, 14]
+      },
+      {
+        "year": "2013–14",
+        "kind": "job",
+        "title": "Comeback for ₹1 a year",
+        "detail": "With Infosys losing ground and its shares at a ten-year low, the board recalled him as executive chairman in June 2013 on a token salary of one rupee. He left in June 2014 when the first outsider CEO was hired.",
+        "src": [14, 15, 16]
+      },
+      {
+        "year": "Now",
+        "kind": "now",
+        "title": "Family office and science prizes",
+        "detail": "At 80 he backs companies through his family office, Catamaran Ventures, and the Infosys Prize for scientists he helped start.",
+        "src": [25, 1]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Capitalism in mind, socialism at heart",
+        "explain": "After his arrest he decided jobs, not government, end poverty. But he says the rich must show self-restraint and not grab too big a share, or capitalism becomes hated.",
+        "src": [0, 8]
+      },
+      {
+        "idea": "Size the market first",
+        "explain": "Softronics failed because India had no computers to write software for. So for his second try he spent four years at Patni studying the US market before he jumped.",
+        "src": [0, 1]
+      },
+      {
+        "idea": "Sell value, not price",
+        "explain": "He trained salespeople to talk about what the client gains, like lower inventory, not technology. He says Infosys charged 20 to 25% more than Indian rivals until about 2008, and refused GE's price cut in 1995.",
+        "src": [1, 27]
+      },
+      {
+        "idea": "Run a small company like a listed one",
+        "explain": "From 1981, with only seven shareholder families, he showed the profit-and-loss account to any journalist who asked. When Infosys lost money on an investment in 1995, it disclosed the loss publicly.",
+        "src": [1, 10]
+      },
+      {
+        "idea": "Aim for respect, not size",
+        "explain": "At a May 1981 meeting in his bedroom, partners proposed being the biggest or richest company. He asked why they didn't aim to be India's most respected company instead, and that became the goal.",
+        "src": [10, 0]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "At his desk by 6:20 a.m.",
+        "detail": "He says he reached the office at 6:20 a.m. and left around 8:30 p.m., six days a week. Until 1994 that meant 85 to 90 hours a week.",
+        "src": [17, 18]
+      },
+      {
+        "habit": "Sales first, then money, then tech",
+        "detail": "When he reviewed the company he looked at sales first, because 'without sales there is no corporation', then finance, and technical matters third.",
+        "src": [1]
+      },
+      {
+        "habit": "Hiring with puzzles",
+        "detail": "Nilekani walked into his Patni cabin in 1979, was given puzzles to solve, and was hired on the spot.",
+        "src": [2]
+      },
+      {
+        "habit": "Learning after work",
+        "detail": "In Paris he went to Alliance Française every day after work and learned French in about six months.",
+        "src": [0]
+      }
+    ],
+    "darkestHour": {
+      "title": "1989–90: nearly selling Infosys for ₹2 crore",
+      "story": "Eight years in, Infosys was still small. Its US joint venture with the Atlanta consultants Kurt Salmon Associates had run into serious trouble, and co-founder Ashok Arora left in 1989. Then a buyer offered about ₹2 crore, roughly $1 million, for the company. Murthy later said most of his colleagues were keen to sell. In one telling the founders debated it over lunch at Shalini, a cheap Bangalore restaurant. Murthy argued for staying and offered to buy out anyone who wanted to go. Nobody left. Three years later Infosys went public, and by 2021 it was worth over $100 billion.",
+      "src": [5, 6, 26]
+    },
+    "genuineness": {
+      "story": "In February 1984 Infosys imported a super-minicomputer. A customs official at Bangalore airport would not release it unless he got a bribe. Murthy refused. Infosys paid a 135% customs duty instead, borrowing money to do it, and appealed for a refund. Speaking at Stanford in 2007, he said a value system means being ready to pay a price for what you believe.",
+      "src": [10, 30, 9]
+    },
+    "now": "Murthy turned 80 in August 2026 and has held no executive job at Infosys since June 2014. His family office, Catamaran Ventures, manages about $1.3 billion and is moving its money from startups into Indian manufacturing. Since 2023 he has argued in public that young Indians should work 70-hour weeks.",
+    "nowSrc": [25, 16, 17]
+  },
+  "numbers": [
+    {
+      "value": "$20.16 billion",
+      "label": "Revenue (₹1,78,650 crore)",
+      "asOf": "FY2026",
+      "src": [11, 12]
+    },
+    {
+      "value": "₹29,440 crore",
+      "label": "Net profit (about $3.3 billion)",
+      "asOf": "FY2026",
+      "src": [12, 11]
+    },
+    {
+      "value": "3,28,594",
+      "label": "Employees",
+      "asOf": "Mar 2026",
+      "src": [12, 28, 11]
+    },
+    {
+      "value": "$14.9 billion",
+      "label": "Value of large deals signed in one year",
+      "asOf": "FY2026",
+      "src": [11, 29]
+    },
+    {
+      "value": "₹10,000",
+      "label": "Starting money, from Sudha Murty's savings",
+      "asOf": "1981",
+      "src": [0, 7, 4]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1981",
+      "title": "Founded in Pune",
+      "detail": "Seven Patni engineers start Infosys Consultants, incorporated on 2 July. The office is Murthy's flat; the registered office is Raghavan's house.",
+      "src": [32, 0, 2, 24]
+    },
+    {
+      "year": "1983",
+      "title": "Move to Bangalore",
+      "detail": "A deal with MICO Bosch to put a Data General computer in Bangalore brings Infosys south, where landlords would rent to a startup and engineers were plentiful.",
+      "src": [2, 1, 13]
+    },
+    {
+      "year": "1989",
+      "title": "US venture stumbles",
+      "detail": "The KSA-Infosys joint venture with Kurt Salmon Associates, Infosys's sales arm in the US, runs into serious trouble and co-founder Ashok Arora leaves. A sale offer follows.",
+      "src": [5, 26, 33]
+    },
+    {
+      "year": "1993",
+      "title": "IPO and stock options",
+      "detail": "Infosys goes public in February, only the second Indian software company to do so, and becomes one of the first Indian firms to offer staff stock options.",
+      "src": [1, 5, 13]
+    },
+    {
+      "year": "1995",
+      "title": "Walks away from GE",
+      "detail": "Its biggest client demands a price cut. Murthy refuses and hands the work to rivals; new clients later come in at better prices.",
+      "src": [1, 27]
+    },
+    {
+      "year": "1999",
+      "title": "NASDAQ listing",
+      "detail": "On 11 March Infosys becomes the first India-registered company listed on a US stock exchange, so it can offer staff stock options in dollars.",
+      "src": [31, 1, 13]
+    },
+    {
+      "year": "2002",
+      "title": "First handover",
+      "detail": "Nandan Nilekani becomes CEO; Murthy moves to chairman. Revenue is about $500 million.",
+      "src": [13, 1]
+    },
+    {
+      "year": "2013",
+      "title": "Founder returns",
+      "detail": "With growth slipping behind TCS and HCL, Murthy comes back as executive chairman for ₹1 a year.",
+      "src": [14, 13]
+    },
+    {
+      "year": "2014",
+      "title": "First outsider CEO",
+      "detail": "Former SAP board member Vishal Sikka takes over on 1 August, the first CEO who is not a founder.",
+      "src": [15, 16]
+    },
+    {
+      "year": "2017",
+      "title": "Boardroom war",
+      "detail": "Sikka resigns after a public feud with Murthy over governance; Nilekani returns as chairman on 24 August.",
+      "src": [21, 22, 2]
+    },
+    {
+      "year": "2026",
+      "title": "$20 billion company",
+      "detail": "Annual revenue crosses $20 billion for the first time, though growth has slowed to 3.1% in constant currency.",
+      "src": [11, 12]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Infosys sells the time and skill of its engineers. Large companies, mostly in the US and Europe, pay it to build, run and fix their software. A small team works at the client's office, and most of the work is done in India. Murthy formalised this 'global delivery model' in the late 1980s and early 1990s: roughly 20% of the effort on site and 80% from India, which is cheaper for the client and profitable for Infosys.",
+    "flows": [
+      { "from": "Global companies", "to": "Infosys", "what": "Fees for software projects, IT support and consulting" },
+      { "from": "Infosys", "to": "Engineers in India and abroad", "what": "Salaries, plus 23 weeks of training for every new technical hire" },
+      { "from": "Infosys", "to": "Shareholders", "what": "Dividends and buybacks: over ₹37,500 crore returned for FY2026" }
+    ],
+    "src": [1, 11]
+  },
+  "failures": [
+    {
+      "year": "1976",
+      "title": "Softronics",
+      "whatHappened": "Murthy's first company tried to sell software to Indian firms just as IBM was pulling out of India. With almost no computers in the country there were no customers, and he shut it within a year.",
+      "lesson": "A great product in a market that doesn't exist is still a failure. Check who will pay before you build.",
+      "src": [0, 1, 4]
+    },
+    {
+      "year": "1989",
+      "title": "The KSA joint venture",
+      "whatHappened": "Infosys's US sales vehicle with Kurt Salmon Associates ran into serious trouble, nearly sinking the company. A co-founder left, and the rest came close to selling out for about ₹2 crore.",
+      "lesson": "Early partnerships can fail and take morale with them. What kept Infosys alive was a team that chose to stay.",
+      "src": [5, 6, 26, 33]
+    },
+    {
+      "year": "2013",
+      "title": "$34 million US visa settlement",
+      "whatHappened": "US prosecutors alleged Infosys used short-term B-1 business visas for skilled work and kept poor I-9 records in 2010–11. Infosys paid $34 million, the largest such settlement then, while denying systemic visa fraud.",
+      "lesson": "Values written in a bedroom in 1981 have to be enforced again when a company is huge; scale creates new ways to cut corners.",
+      "src": [19, 20]
+    },
+    {
+      "year": "2014–17",
+      "title": "The outsider CEO clash",
+      "whatHappened": "The first non-founder CEO, Vishal Sikka, brought a new culture. Murthy publicly questioned governance, the board hit back, and Sikka quit in August 2017. Murthy later said an outsider CEO needs a chairman and board from the old culture to balance him, and that Infosys did not have that.",
+      "lesson": "Plan succession years ahead. Murthy's own conclusion: if the CEO comes from outside, keep the chairman and board from the old culture.",
+      "src": [1, 21, 22]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Infosys was born in Bangalore.",
+      "fact": "It started in Pune in 1981, run from Murthy's flat, with Raghavan's house as the registered office. It moved to Bangalore in 1983.",
+      "src": [2, 24, 1]
+    },
+    {
+      "myth": "Murthy was Infosys's first employee.",
+      "fact": "Murthy was the founder, but N. S. Raghavan says he himself was Infosys's first employee, and his house was its first registered office.",
+      "src": [24]
+    },
+    {
+      "myth": "Sudha Murty's ₹10,000 paid for Infosys's start.",
+      "fact": "The money mainly let partners with no savings buy their share of the company. Day-to-day costs were covered by an advance from the first client, and the engineers earned it by working at client sites in the US.",
+      "src": [0, 1, 7]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "We had lots of hopes, lots of dreams, some confidence, but no money.",
+      "who": "N. R. Narayana Murthy, on founding Infosys (CHM oral history, 2018)",
+      "src": [0]
+    },
+    {
+      "text": "But when the last of our employees leaves for home in the evening, the market capitalization is zero because we are a people company.",
+      "who": "N. R. Narayana Murthy (CHM oral history, 2020)",
+      "src": [1]
+    },
+    {
+      "text": "I took a little bit of risk. I assumed I will write off whether he succeeds or not",
+      "who": "Sudha Murty, on her ₹10,000 (India Today Conclave, 2024)",
+      "src": [7]
+    },
+    {
+      "text": "In some sense, the way to think about this is that he had the most to lose.",
+      "who": "Nandan Nilekani, on Murthy quitting Patni (CHM oral history)",
+      "src": [2]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Find out who will pay before you build",
+      "detail": "Softronics died in nine months because India had almost no computers. Murthy then spent four years at Patni learning the US market. Talk to 20 real buyers before writing your first line of code."
+    },
+    {
+      "title": "Your first customer can be your investor",
+      "detail": "Infosys had no venture capital and banks wouldn't lend against software. An advance from its first client and years of work at client sites kept it alive. Ask early customers to pay upfront."
+    },
+    {
+      "title": "Price is a promise",
+      "detail": "Infosys refused GE's price cut in 1995 even though GE was a quarter or more of its revenue, because cheaper work meant less training and worse tools. Walk away from a bad deal only once you've built value a new client will pay for."
+    },
+    {
+      "title": "Fix your values when they are cheap",
+      "detail": "Refusing a customs bribe in 1984 meant borrowing to pay a 135% duty. It was painful, but it set the rule for everyone hired after. Decide your red lines in year one, before money makes them expensive."
+    },
+    {
+      "title": "Share the upside, and plan your exit",
+      "detail": "Infosys gave stock options to staff, and Murthy says about 19% of the company went to employees. But the 2014–17 clash shows that a founder's last job is a clean handover. Write your succession plan before you need it."
+    }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "Computer History Museum: Oral History of N. R. Narayana Murthy, part 1 (transcript, 2018)", "url": "https://archive.computerhistory.org/resources/access/text/2019/03/102740329-05-01-acc.pdf" },
+    { "label": "Computer History Museum: Oral History of N. R. Narayana Murthy, part 2 (transcript, 2020)", "url": "https://archive.computerhistory.org/resources/access/text/2020/09/102791998-05-01-acc.pdf" },
+    { "label": "Computer History Museum: Oral History of Nandan Nilekani (transcript)", "url": "https://archive.computerhistory.org/resources/access/text/2021/06/102791996-05-01-acc.pdf" },
+    { "label": "IIM Ahmedabad Archives: Narayana Murthy oral history page", "url": "https://archives.iima.ac.in/oralhistory/Narayana-Murthy.html" },
+    { "label": "IIT Kanpur Distinguished Alumni: Sri Narayan Murthy profile", "url": "https://iitk.ac.in/dora/profile/sri-narayan-murthy" },
+    { "label": "FiftyTwo: Source Code, by Vedica Kant (2021)", "url": "https://fiftytwo.in/story/source-code/" },
+    { "label": "India Before 91 / Moneycontrol: Murthy on the 1990 offer to buy Infosys for ₹2 crore (2021)", "url": "https://indiabefore91.in/1990-there-was-offer-buy-us-out-for-rs-2-crore-infosys-has-rs-65-lakh-crore-m-cap-now-nr-narayana" },
+    { "label": "Business Today: Sudha Murty on the ₹10,000 she gave to start Infosys (2024)", "url": "https://www.businesstoday.in/latest/corporate/story/only-investment-i-have-done-is-rs-10000-sudha-murty-says-took-a-little-bit-of-risk-on-narayana-murthy-421600-2024-03-15" },
+    { "label": "Business Today (PTI): Murthy recalls the incident that made him a compassionate capitalist (2020)", "url": "https://www.businesstoday.in/latest/economy-politics/story/infosys-co-founder-narayana-murthy-recalls-incident-that-made-him-a-compassionate-capitalist-241978-2020-01-06" },
+    { "label": "Stanford GSB: Infosys Leaders: We Aim to Benefit Stakeholders and Society (2007)", "url": "https://www.gsb.stanford.edu/insights/infosys-leaders-we-aim-benefit-stakeholders-society" },
+    { "label": "Harvard Business Review: 'Why Don't We Try to Be India's Most Respected Company?', interview by Anand P. Raman (Nov 2011)", "url": "https://hbr.org/2011/11/why-dont-we-try-to-be-indias-most-respected-company" },
+    { "label": "Infosys press release via PR Newswire: Revenue crosses $20 billion mark in FY26 (23 Apr 2026)", "url": "https://tools.prnewswire.com/en-us/live/20823/release/20260423EN40867" },
+    { "label": "Free Press Journal (PTI): Infosys Q4 FY26 results (Apr 2026)", "url": "https://www.freepressjournal.in/business/infosys-q4-fy26-results-net-profit-rises-208-per-cent-to-8501-crore-revenue-up-134-pc-sees-1535-pc-growth-in-fy27" },
+    { "label": "Rediff: Major events in the history of Infosys (2013)", "url": "https://www.rediff.com/business/slide-show/slide-show-1-tech-major-events-in-the-history-of-infosys/20130602.htm" },
+    { "label": "The Tribune: Murthy returns as Infosys executive chairman (2 Jun 2013)", "url": "https://www.tribuneindia.com/2013/20130602/biz.htm" },
+    { "label": "Deccan Chronicle: Infosys names Vishal Sikka first external CEO (12 Jun 2014)", "url": "https://deccanchronicle.com/140612/business-latest/article/infosys-names-vishal-sikka-first-external-ceo" },
+    { "label": "The News Minute: Murthy bids adieu to Infosys once again (14 Jun 2014)", "url": "https://www.thenewsminute.com/news/murthy-bids-adieu-infosys-once-again-21321" },
+    { "label": "Business Today: Murthy says he was in office at 6:20 am and worked 85–90 hours (Dec 2023)", "url": "https://businesstoday.in/latest/corporate/story/used-to-be-in-office-at-620-am-infosys-co-founder-narayana-murthy-says-he-worked-for-85-90-hours-in-initial-years-408800-2023-12-09" },
+    { "label": "Morung Express (IANS): 'I used to be in office at 6:20 am': Narayana Murthy (Dec 2023)", "url": "https://morungexpress.com/i-used-to-be-in-office-at-620-am-narayana-murthy" },
+    { "label": "US Department of Justice: Indian corporation pays record amount to settle visa allegations (Oct 2013)", "url": "https://www.justice.gov/usao-edtx/pr/indian-corporation-pays-record-amount-settle-allegations-systemic-visa-fraud-and-abuse" },
+    { "label": "India TV News: Infosys agrees to pay record $34 million to settle US visa row (Oct 2013)", "url": "https://www.indiatvnews.com/business/india/infosys-agrees-to-pay-record-34-mn-to-settle-us-visa-row-8505.html" },
+    { "label": "CNBC: Infosys names former chief Nilekani as chairman (24 Aug 2017)", "url": "https://www.cnbc.com/2017/08/24/infosys-names-former-chief-nilekani-as-chairman-defusing-feud-with-founders.html" },
+    { "label": "Deccan Chronicle: Co-founder Nandan Nilekani back at Infosys as chairman (24 Aug 2017)", "url": "https://www.deccanchronicle.com/business/companies/240817/nandan-nilekani-named-infosys-chairman.html" },
+    { "label": "Business Today: Sudha Murty nominated to Rajya Sabha (8 Mar 2024)", "url": "https://www.businesstoday.in/india/story/sudha-murty-nominated-to-rajya-sabha-by-president-murmu-420622-2024-03-08" },
+    { "label": "IIM Indore Management Journal: Conversation with N. S. Raghavan (2012)", "url": "https://iimidr.ac.in/wp-content/uploads/2019/12/v2012-v4issue1-Conversation-with-N.-S.-Raghavan.pdf" },
+    { "label": "Business Today: Startups no longer thrill Narayana Murthy's fund (Aug 2025)", "url": "https://www.businesstoday.in/latest/corporate/story/startups-no-longer-thrill-narayana-murthys-fund-heres-what-its-betting-on-now-491029-2025-08-26" },
+    { "label": "Business Standard: There's life after Infosys (2009)", "url": "https://www.business-standard.com/article/technology/there-s-life-after-infosys-109070600021_1.html" },
+    { "label": "Silicon India: How I Saved the Day, by Phaneesh Murthy", "url": "https://www.siliconindia.com/magazine_articles/How_I_Saved_the_Day-BZT238644242.html" },
+    { "label": "Angel One: Infosys Q4 FY26 results", "url": "https://www.angelone.in/news/stocks/infosys-q4-results-net-profit-jumps-21-percent-to-rs-8501-crore-announced-final-dividend-rs-25" },
+    { "label": "Business Today: Infosys Q4 FY26 results (23 Apr 2026)", "url": "https://www.businesstoday.in/amp/markets/stocks/story/infosys-q4-fy26-results-net-profit-rises-21-yoy-to-rs-8501-crore-revenue-up-13-527157-2026-04-23" },
+    { "label": "The Week: Infosys @ 40, journey of the IT giant (Jul 2021)", "url": "https://www.theweek.in/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html" },
+    { "label": "Infosys Form 20-F for fiscal 1999, filed with the US SEC (NASDAQ listing on 11 March 1999)", "url": "https://www.sec.gov/Archives/edgar/data/1067491/000101287099001580/0001012870-99-001580.txt" },
+    { "label": "Infosys buyback letter of offer, filed with the US SEC (Nov 2017): 'incorporated on July 2, 1981'", "url": "https://www.sec.gov/Archives/edgar/data/1067491/000119312517347016/d494424dex99a1a.htm" },
+    { "label": "New York Academy of Sciences: S. Kris Gopalakrishnan biography (KSA/Infosys, 1987–1994)", "url": "https://www.nyas.org/person/s-kris-gopalakrishnan/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 30 sources, mainly primary ones (Computer History Museum transcripts of Murthy and Nilekani, Murthy's 2011 HBR interview, Raghavan's IIM Indore interview, Infosys's FY2026 results release, the US DOJ release). Then independently re-checked claim by claim against the cited source plus a second source, adding Infosys's own SEC filings for the incorporation date (2 July 1981) and the NASDAQ listing date (11 March 1999). Quotes were matched word for word to the CHM transcripts and Business Today. HBR's page is paywalled, so its text was read through an unofficial repost; the customs-duty story it tells is backed up by The Week (2021) and Stanford GSB (2007). The photos were checked against the Commons API. Conflicts are listed below.",
+    "disputed": [
+      { "claim": "Birthplace", "note": "IIT Kanpur and most profiles say Sidlaghatta (then Kolar district). The CHM interviewer said 'Mysore City' and Murthy did not correct him; his family lived in Mysore. We use Sidlaghatta." },
+      { "claim": "Founding date", "note": "Infosys's own filing with the US SEC (2017) says it was incorporated on 2 July 1981, which matches the company registry. Murthy (CHM, 2018) and The Week (2021) give 7 July 1981, which may be the date work began. We use 2 July for incorporation." },
+      { "claim": "Dollar value of the ₹10,000", "note": "Murthy calls it $250 (CHM, and in the HBR interview itself); HBR's introduction and FiftyTwo say about $1,000, which is closer to the 1981 exchange rate. The rupee figure is consistent, so we use rupees." },
+      { "claim": "How long he was held in 1974", "note": "Murthy says about 120 hours (CHM, 2018), but in the same telling he was locked up from Sunday night to early Thursday, which is closer to three days. Stanford GSB says nearly five days; some profiles say 72 hours. Accounts also differ on whether the room was at Niš (Yugoslavia) or at a Bulgarian station." },
+      { "claim": "When the KSA joint venture ended", "note": "Business Standard (2009) says KSA-Infosys shut down around 1989, when Ashok Arora left. Kris Gopalakrishnan's official biographies say he was vice president of KSA/Infosys in Atlanta from 1987 to 1994, so the venture seems to have hit a crisis in 1989 and been wound up later. We say it 'ran into serious trouble'." },
+      { "claim": "Year of the sale offer", "note": "Murthy told Moneycontrol (2021) it came in 1990 and FiftyTwo dates the founders' lunch to January 1990; The Week (2021) quotes a $1 million offer 'in 1989'." },
+      { "claim": "How long Softronics lasted", "note": "Murthy says eight to nine months (CHM, 2018 and 2020); the IIT Kanpur profile says about 18 months." },
+      { "claim": "The 1990 sale offer", "note": "Murthy gives ₹2 crore; FiftyTwo gives $1 million (about ₹2 crore then). FiftyTwo places the debate at a lunch of four founders at Shalini restaurant in January 1990; Murthy's own NYU speech is often quoted as a Saturday meeting of five founders in the office. We could not read the speech directly." },
+      { "claim": "GE's share of Infosys revenue in 1995", "note": "Murthy says about 25% (CHM, 2020); former Infosys sales head Phaneesh Murthy says about 38%." },
+      { "claim": "Licence to import the first computer", "note": "Murthy says about three years and some fifty trips to Delhi (CHM, 2020); FiftyTwo quotes 20 to 30 visits." },
+      { "claim": "Clearing the IIT entrance exam", "note": "Widely repeated, and the CHM interviewer says he passed. Murthy's own words only describe his father being unable to afford a hostel; we found no source for his rank." }
+    ]
+  }
+}

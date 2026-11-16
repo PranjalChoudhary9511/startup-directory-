@@ -1,0 +1,276 @@
+{
+  "slug": "nike",
+  "company": "Nike",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#111111",
+    "secondary": "#FA5400",
+    "accent": "#CEFF00",
+    "ink": "#111111",
+    "paper": "#F6F3EE",
+    "note": "Nike black #111111 and Nike orange #FA5400 (the shoebox orange) as listed by brand-colour references (nike.com blocks automated reading); accent is our match for Nike's 'Volt' yellow-green; paper is our warm off-white."
+  },
+  "tagline": "A shy runner's side business that kept outgrowing its own bank balance.",
+  "hook": "Nike's swoosh cost $35, billed by a Portland State design student Phil Knight met in a college corridor. The company that wears it sold $46.4 billion of shoes, clothes and gear in its last financial year.",
+  "hookSrc": [7, 8, 1],
+  "cast": [
+    {
+      "name": "Bill Bowerman",
+      "role": "Knight's track coach at the University of Oregon and his partner: each put in $500 in 1964, and Bowerman held 49% of Blue Ribbon Sports. A Second World War veteran who called himself a 'professor of competitive response', he hand-built shoes for his runners and made the waffle sole by pouring rubber into his wife's waffle iron. In 1976 he sold two-thirds of his stake; what he kept was worth about $9 million when Nike listed in 1980.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bill_Bowerman.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Bill_Bowerman.jpg",
+        "caption": "Bill Bowerman in the University of Oregon yearbook, 1958.",
+        "author": "University of Oregon",
+        "license": "Public domain",
+        "year": 1958
+      },
+      "src": [3, 6, 10, 21, 22]
+    },
+    {
+      "name": "Jeff Johnson",
+      "role": "Employee number one. He had run track with Knight at Stanford, sold shoes for Blue Ribbon, opened its first store in Santa Monica in 1967, and in 1971 suggested the name 'Nike' after it came to him in a dream. He retired in 1983, aged 41.",
+      "photo": null,
+      "src": [6, 24]
+    },
+    {
+      "name": "Carolyn Davidson",
+      "role": "Portland State design student. Knight, then teaching accounting there, hired her for charts and graphs. In 1971 she designed the swoosh, first called the 'stripe', for a new football boot, and billed $35. She worked with the company for about six years.",
+      "photo": null,
+      "src": [7, 6, 8, 24]
+    }
+  ],
+  "founder": {
+    "name": "Phil Knight",
+    "role": "Co-founder, Nike (Blue Ribbon Sports)",
+    "born": "24 Feb 1938, Portland, Oregon, USA",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Philknightfootball.jpg/1280px-Philknightfootball.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Philknightfootball.jpg",
+      "caption": "Phil Knight watching his old university, Oregon, play football against USC in 2010.",
+      "author": "Neon Tommy",
+      "license": "CC BY-SA 2.0",
+      "year": 2010
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Knight_and_Bowerman.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Knight_and_Bowerman.jpg",
+        "caption": "1958, from the Oregon yearbook: coach Bill Bowerman gives last-minute advice to Phil Knight, Mark Robbins and Steve Schell.",
+        "author": "University of Oregon",
+        "license": "Public domain",
+        "year": 1958
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1957_Oregon_Ducks_freshmen_track.jpg/1280px-1957_Oregon_Ducks_freshmen_track.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:1957_Oregon_Ducks_freshmen_track.jpg",
+        "caption": "The 1957 Oregon men's track team. Knight sits at the far left of the front row.",
+        "author": "University of Oregon",
+        "license": "Public domain",
+        "year": 1957
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Track_runners_1958_-_Phil_Knight_second_from_right.jpg/1280px-Track_runners_1958_-_Phil_Knight_second_from_right.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Track_runners_1958_-_Phil_Knight_second_from_right.jpg",
+        "caption": "Oregon runners in the 1958 yearbook; Knight is second from right. He was Bowerman's favourite tester for his home-made shoes.",
+        "author": "University of Oregon",
+        "license": "Public domain",
+        "year": 1958
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nike_%22Moon_Shoe%22.jpg/960px-Nike_%22Moon_Shoe%22.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nike_%22Moon_Shoe%22.jpg",
+        "caption": "A Nike 'Moon Shoe', an early track shoe designed by Bill Bowerman (photographed in 2012).",
+        "author": "Davide Costanzo",
+        "license": "CC BY 2.0",
+        "year": 2012
+      }
+    ],
+    "background": "Phil Knight was born in Portland, Oregon, in 1938. His father, Bill Knight, was a lawyer who became publisher of a city newspaper, the Oregon Journal. At the University of Oregon he ran for coach Bill Bowerman, who used him to test the shoes he made by hand; Knight was an ordinary runner, not a star. He finished a business degree in 1959, served a year in the US Army, then did an MBA at Stanford. He calls himself an introvert, and names Bowerman, with his never-give-up attitude, as his hero.",
+    "backgroundSrc": [25, 10, 21, 22, 3, 18],
+    "journey": [
+      { "year": "1938", "kind": "life", "title": "Born in Portland, Oregon", "detail": "Born on 24 February, son of Bill Knight, a lawyer turned newspaper publisher.", "src": [10, 25] },
+      { "year": "1959", "kind": "life", "title": "Business degree; ran for Bowerman", "detail": "At the University of Oregon he ran on Bowerman's track team and wore his experimental shoes. He graduated in 1959.", "src": [3, 10, 22] },
+      { "year": "1959", "kind": "job", "title": "One year in the US Army", "detail": "A year of active duty, then seven years in the Army Reserve.", "src": [21] },
+      { "year": "1962", "kind": "attempt", "title": "The Stanford paper", "detail": "In Frank Shallenberger's class he planned to import good, cheap running shoes from Japan, the way Japanese cameras had taken on German ones.", "src": [4, 10] },
+      { "year": "1962", "kind": "attempt", "title": "Door to door in Hawaii", "detail": "On a trip round the world he sold encyclopedias door to door, then tried selling investment funds. He was bad at both.", "src": [11] },
+      { "year": "1962", "kind": "attempt", "title": "Walks into Onitsuka in Kobe", "detail": "Asked what company he represented, he made up 'Blue Ribbon Sports' on the spot. Back home, his father wired $50 for samples, and Knight waited many months for them to arrive.", "src": [6, 11] },
+      { "year": "1963", "kind": "job", "title": "Accountant in Portland", "detail": "While waiting for the shoes he worked as an accountant. He later took a job at Price Waterhouse to keep the business afloat.", "src": [10, 11] },
+      { "year": "1964", "kind": "attempt", "title": "Blue Ribbon Sports with Bowerman", "detail": "Each put in $500 for the first 300 pairs, which Knight sold from his car at track meets: $8,000 of sales in year one.", "src": [10, 11, 22] },
+      { "year": "1960s", "kind": "job", "title": "Teaches accounting at Portland State", "detail": "An assistant professor of business administration until 1969. There he met student Penny Parks, his future wife, and design student Carolyn Davidson.", "src": [10, 7, 8] },
+      { "year": "1969", "kind": "breakthrough", "title": "Goes full time", "detail": "With sales near $150,000 in 1968, the business could finally pay him: $18,000 a year.", "src": [10, 11] },
+      { "year": "1971", "kind": "attempt", "title": "A stripe and a name", "detail": "Davidson drew the swoosh for $35, and Jeff Johnson suggested 'Nike'. Japanese trading house Nissho Iwai became the company's financier.", "src": [6, 7, 12] },
+      { "year": "1972", "kind": "failure", "title": "Onitsuka cuts him off", "detail": "On 1 May 1972 his only supplier ended the deal. Both sides sued; Blue Ribbon won in 1974 and kept the Cortez name.", "src": [6, 13, 19] },
+      { "year": "1975", "kind": "failure", "title": "The bank calls the FBI", "detail": "Bank of California dropped the company and called the FBI because it looked like fraud. Nissho Iwai paid off the bank.", "src": [12, 23] },
+      { "year": "1980", "kind": "breakthrough", "title": "Customs deal, then the stock market", "detail": "A long fight with US Customs over import duties was settled on 21 August for $9.5 million. On 2 December Nike listed at $22 a share, and Knight's 46% was worth about $178 million.", "src": [9, 14, 6] },
+      { "year": "1984", "kind": "breakthrough", "title": "Bets on Michael Jordan", "detail": "With the business struggling, Nike signed the rookie to a five-year deal, its first signature shoe and clothing line, with a royalty on sales. The Air Jordan 1 followed in 1985.", "src": [5, 6, 13] },
+      { "year": "1998", "kind": "failure", "title": "The sweatshop reckoning", "detail": "After years of protests over factory conditions in Asia, Knight admitted Nike's name had become linked with slave wages and promised reforms.", "src": [6, 15, 16] },
+      { "year": "2004", "kind": "life", "title": "Loses his son; steps down as CEO", "detail": "In May 2004 his eldest son Matthew, 34, died while scuba diving in El Salvador. Months later Knight handed the CEO job to William Perez and stayed chairman.", "src": [26, 6] },
+      { "year": "2026", "kind": "now", "title": "Chairman emeritus, giving it away", "detail": "He left Nike's board on 30 June 2016. On 23 September 2026 he and Penny pledged $1 billion to the University of Oregon.", "src": [20, 17, 28] }
+    ],
+    "mindset": [
+      { "idea": "Believe in it, and selling gets easier", "explain": "Knight failed at selling encyclopedias and investment funds, but sold shoes easily because he loved running. 'When you're an introvert entrepreneur, you have to believe,' he told Stanford students.", "src": [11, 18] },
+      { "idea": "Look for a calling, not a job", "explain": "He told Stanford graduates in 2014 that leaving school, the goal should be a calling, not a job or even a career.", "src": [4] },
+      { "idea": "Get all the help you can", "explain": "He told Stanford graduates that some young people insist they will not ask for help, and his advice was the opposite: get all the help you can. He leaned on Bowerman, Jeff Johnson and Nissho Iwai at every turn.", "src": [4, 12] },
+      { "idea": "Take a side", "explain": "He approved the 2018 Colin Kaepernick ad, saying a brand cannot go down the middle of the road and must take a stand.", "src": [3, 6] },
+      { "idea": "Listen to the athlete", "explain": "'If we don't listen to the voice of the athlete, we don't have anything,' he said. It started with Bowerman hand-building shoes to make his runners faster.", "src": [18, 3, 22] }
+    ],
+    "habits": [
+      { "habit": "Kept a day job for years", "detail": "He worked as an accountant and then taught at Portland State until 1969, and took no salary from the business until it could pay one.", "src": [10, 11] },
+      { "habit": "Put every dollar back into stock", "detail": "Whenever a batch of shoes sold, he spent almost all the cash on the next, bigger order, which kept the company short of cash.", "src": [12, 11] },
+      { "habit": "Sold before he bought", "detail": "Shops got a 7% discount for ordering six months in advance, which gave Nike money and predictable orders. Nike still runs this 'futures' ordering system, with orders placed five to six months ahead.", "src": [12, 0] },
+      { "habit": "Held back praise", "detail": "In his own memoir he admits he rarely praised staff, even when they begged for encouragement.", "src": [12] }
+    ],
+    "darkestHour": {
+      "title": "1975: the bank calls in the FBI",
+      "story": "Blue Ribbon grew so fast that Knight kept almost no cash; every dollar went into the next shipment of shoes. In 1975 Bank of California dropped the company, froze its money and called the FBI because the books looked like fraud. Knight also owed about $1 million to Nissho Iwai, the Japanese trading house that financed his imports, and was $75,000 short. Nissho audited the books and found that Knight had quietly used an earlier loan to build his own factory. Nissho's Tadayuki Ito told him, in Knight's telling, 'There are worse things than ambition.' Nissho paid off the bank and kept backing him.",
+      "src": [12, 23, 11]
+    },
+    "genuineness": {
+      "story": "Carolyn Davidson was paid $35 for the swoosh in 1971. In 1983, after Nike had gone public, Nike president Bob Woodell invited her to what she thought was a lunch, and she found a surprise reception, with chocolate swooshes for dessert. Nike gave her a gold swoosh ring set with a diamond and a gift of Nike shares.",
+      "src": [8, 7]
+    },
+    "now": "Knight, now 88, is Nike's chairman emeritus. Most of his voting shares sit in Swoosh, LLC, which owns about 79% of the Class A stock that elects three-quarters of Nike's board; his son Travis has a key role in managing it. On 23 September 2026 he and his wife Penny pledged $1 billion to the University of Oregon for a new Knight College of Engineering, about a week after pledging $1.1 billion to Providence St. Vincent Medical Center in Portland.",
+    "nowSrc": [20, 0, 17, 28]
+  },
+  "numbers": [
+    { "value": "$46.4 bn", "label": "Revenue", "asOf": "FY2026 (year to 31 May 2026)", "src": [1, 0] },
+    { "value": "$3.1 bn", "label": "Net income, down 3%", "asOf": "FY2026", "src": [1, 0] },
+    { "value": "~73,000", "label": "Employees worldwide", "asOf": "May 2026", "src": [0] },
+    { "value": "95", "label": "Contract shoe factories, in 11 countries (Vietnam makes 52% of Nike shoes)", "asOf": "May 2026", "src": [0] },
+    { "value": "$8,000", "label": "Blue Ribbon Sports' sales in its first year", "asOf": "1964", "src": [11] },
+    { "value": "$35", "label": "What Carolyn Davidson billed for the swoosh", "asOf": "1971", "src": [7, 8, 6] }
+  ],
+  "milestones": [
+    { "year": "1964", "title": "Blue Ribbon Sports", "detail": "Knight and Bowerman start importing Onitsuka Tiger running shoes with $500 each.", "src": [10, 22] },
+    { "year": "1971", "title": "The swoosh and the Nike name", "detail": "Davidson's 'stripe' first appears on a Nike football boot made in Mexico, under Johnson's name for the brand.", "src": [6, 24] },
+    { "year": "1972", "title": "On its own", "detail": "Onitsuka ends the deal; Nike shoes such as the Cortez, made in Japan and financed by Nissho Iwai, replace Tigers.", "src": [6, 13, 12] },
+    { "year": "1974", "title": "Wins the Onitsuka case", "detail": "A US judge lets both sell the Cortez, but Nike keeps the name.", "src": [13, 19, 11] },
+    { "year": "1980", "title": "Public listing", "detail": "Shares sold at $22 on 2 December 1980; revenue that year was $269.8 million.", "src": [14, 9] },
+    { "year": "1984", "title": "Michael Jordan signs", "detail": "A five-year deal and Nike's first signature line: the start of what is now Jordan Brand.", "src": [6, 13] },
+    { "year": "1988", "title": "'Just Do It'", "detail": "The slogan first runs in a TV ad featuring Walt Stack, a runner in his eighties.", "src": [6] },
+    { "year": "1992", "title": "Supplier code of conduct", "detail": "Published after a 1991 report on low wages and poor conditions in Indonesian factories.", "src": [6] },
+    { "year": "2004", "title": "Knight steps down as CEO", "detail": "Nike had grown into a $12 billion company.", "src": [6] },
+    { "year": "2016", "title": "Knight leaves the board", "detail": "Mark Parker becomes chairman; Knight becomes chairman emeritus.", "src": [20] },
+    { "year": "2026", "title": "Resetting under Elliott Hill", "detail": "Revenue flat at $46.4 billion as wholesale grows 6% and Nike's own channels fall 6%.", "src": [1, 0] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Nike designs and markets shoes and clothes but almost never makes them. Independent contract factories build the products: shoes mostly in Vietnam, Indonesia and China, clothes mostly in Vietnam, Cambodia and China. Nike sells them two ways: wholesale to shops, and straight to shoppers through its own stores and apps, called NIKE Direct. A large share of spending goes to athletes and advertising, which Nike calls demand creation.",
+    "flows": [
+      { "from": "Nike", "to": "Contract factories", "what": "Pays for finished shoes and clothes (95 shoe factories in 11 countries)" },
+      { "from": "Shops (wholesale)", "to": "Nike", "what": "Bulk orders: $27.5 bn in FY2026" },
+      { "from": "Shoppers", "to": "NIKE Direct", "what": "Nike's own stores and apps: $17.7 bn in FY2026" },
+      { "from": "Nike", "to": "Athletes and ads", "what": "Endorsement deals and marketing ('demand creation')" }
+    ],
+    "src": [0, 1]
+  },
+  "failures": [
+    {
+      "year": "1972",
+      "title": "One supplier, one point of failure",
+      "whatHappened": "Every shoe Blue Ribbon sold came from Onitsuka. When Onitsuka ended the deal in 1972, the company had to launch its own brand and find its own factories in a hurry, and spent two years in court.",
+      "lesson": "Never let one supplier, platform or customer decide whether you survive.",
+      "src": [6, 13, 19]
+    },
+    {
+      "year": "1984",
+      "title": "Missing the aerobics wave",
+      "whatHappened": "Reebok's Freestyle, made for women's aerobics classes, took off while Nike dismissed the trend and launched a casual women's line that flopped. Nike dumped more than $27 million of unsold shoes, for as little as $1 a pair, and laid off more than 500 people, nearly a tenth of its staff, by the end of 1986.",
+      "lesson": "Do not let your idea of a 'serious' customer blind you to the customers who are actually buying.",
+      "src": [13]
+    },
+    {
+      "year": "1991",
+      "title": "The sweatshop crisis",
+      "whatHappened": "From 1991, reports on low wages and poor conditions in the Asian factories making its shoes turned Nike into a target for critics. Knight promised reforms in 1998, but a 2001 Global Exchange report said Nike had fallen short, in some cases far short.",
+      "lesson": "If you outsource the making, you do not outsource the blame. Check your factories before someone else does.",
+      "src": [6, 10, 15, 16]
+    },
+    {
+      "year": "2020",
+      "title": "Pulling away from the shops",
+      "whatHappened": "Under CEO John Donahoe (2020–2024), Nike shifted towards selling through its own apps and stores and relied less on shops such as Foot Locker and Macy's, and rivals took shelf space. Elliott Hill, a Nike veteran who had retired in 2020, returned as CEO in October 2024. In FY2025 revenue fell 10% to $46.3 billion and NIKE Direct fell 13%; in FY2026 wholesale grew 6% while NIKE Direct shrank 6%.",
+      "lesson": "Selling directly can raise margins, but walking away from partners who reach your buyers is a costly experiment.",
+      "src": [27, 0, 2, 1]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "The swoosh was drawn as the wing of Nike, the Greek goddess of victory.",
+      "fact": "The mark came first, as a 'stripe' for a new football boot, chosen to 'look like speed'. The name Nike was picked separately, after it came to Jeff Johnson in a dream.",
+      "src": [24, 7, 6]
+    },
+    {
+      "myth": "The designer of the swoosh only ever got $35.",
+      "fact": "In 1983 Nike gave Carolyn Davidson a gold and diamond swoosh ring and a gift of Nike shares.",
+      "src": [8, 7]
+    },
+    {
+      "myth": "Phil Knight started Nike alone.",
+      "fact": "Bill Bowerman matched his $500 in 1964 and held 49% of Blue Ribbon Sports; Jeff Johnson was selling for them from the early years.",
+      "src": [10, 6, 22]
+    }
+  ],
+  "quotes": [
+    { "text": "Let's not look at this as a crisis. Let's look at this as our liberation. Our Independence Day.", "who": "Phil Knight, Shoe Dog (2016), on Onitsuka ending the deal in 1972", "src": [6] },
+    { "text": "It doesn't matter how many people hate your brand as long as enough people love it.", "who": "Phil Knight, Stanford GSB, 2019", "src": [3] },
+    { "text": "Now that you have graduated, the goal should not be to seek a job, or even a career, but to seek a calling.", "who": "Phil Knight, Stanford GSB graduation, 2014", "src": [4] },
+    { "text": "synonymous with slave wages, forced overtime and arbitrary abuse", "who": "Phil Knight, on what the Nike product had become, National Press Club, Washington, 12 May 1998", "src": [6, 15] }
+  ],
+  "lessons": [
+    { "title": "Sell something you would buy yourself", "detail": "Knight could not sell encyclopedias, but he sold shoes at track meets because he was a runner. Start in a category you live in, whether that is cricket gear, coaching or coding tools, so your belief does the selling." },
+    { "title": "A day job can fund the dream", "detail": "Knight stayed an accountant and a teacher for about five years before Blue Ribbon could pay him $18,000 a year. A salary that covers your rent lets your first rupees of profit go back into the business." },
+    { "title": "Do not depend on one supplier or one platform", "detail": "When Onitsuka cut Knight off, he nearly lost everything. An Indian D2C brand with one manufacturer, or one marketplace like Amazon or Flipkart, faces the same risk. Line up a second option early." },
+    { "title": "Cash, not competition, kills first", "detail": "Nike was growing fast in 1975 and still almost died because the bank pulled its credit. Track your working capital, keep some cash aside, and pick lenders or partners like Nissho Iwai who understand your growth." },
+    { "title": "Your factory is your reputation", "detail": "Nike did not own its factories, yet the world blamed Nike for their conditions. If you use contract makers in Tiruppur, Noida or anywhere else, visit them, audit wages and safety, and fix problems before a journalist finds them." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "NIKE, Inc. Annual Report on Form 10-K, fiscal 2026 (year ended 31 May 2026)", "url": "https://s1.q4cdn.com/806093406/files/doc_financials/2026/ar/Nike-Inc-2026-10K.pdf" },
+    { "label": "NIKE, Inc., 'Reports Fiscal 2026 Fourth Quarter and Full Year Results' (30 Jun 2026)", "url": "https://about.nike.com/newsroom/releases/nike-inc-reports-fiscal-2026-fourth-quarter-and-full-year-results" },
+    { "label": "NIKE, Inc. Annual Report on Form 10-K, fiscal 2025", "url": "https://s1.q4cdn.com/806093406/files/doc_financials/2025/ar/Nike-Inc-2025_10K.pdf" },
+    { "label": "Stanford GSB, 'Phil Knight on the Controversial Kaepernick Ad and Nike's Never-Give-Up Attitude' (14 Feb 2019)", "url": "https://www.gsb.stanford.edu/insights/phil-knight-controversial-kaepernick-ad-nikes-never-give-attitude" },
+    { "label": "Stanford GSB, 2014 graduation: Phil Knight's speech ('Courage to pursue your calling')", "url": "https://www.gsb.stanford.edu/experience/news-history/courage-pursue-your-calling" },
+    { "label": "Acquired podcast, 'Nike' episode page, notes and corrections", "url": "https://www.acquired.fm/episodes/nike" },
+    { "label": "WWD, 'Nike Inc. Company Timeline: 50 Years of Innovation' (via Yahoo News)", "url": "https://news.yahoo.com/nike-inc-company-timeline-50-040112578.html" },
+    { "label": "Portland State University, 'Legendary by Design' (on alumna Carolyn Davidson)", "url": "https://www.pdx.edu/alumni/legendary-design" },
+    { "label": "Carolyn Davidson as told to Darren Rovell, 'How college student Carolyn Davidson created the Nike swoosh' (ESPN, 17 Jun 2016)", "url": "https://www.espn.com/espn/story/_/id/16286876/how-college-student-carolyn-davidson-created-nike-swoosh" },
+    { "label": "Nike, Inc. v. Rubber Manufacturers Ass'n, US District Court, S.D.N.Y. (1981): customs settlement and IPO prospectus", "url": "https://hallapproved.com/ny/cases/federal/district/1981/1448785/" },
+    { "label": "International Directory of Business Biographies, 'Knight, Philip H. 1938–' (Encyclopedia.com)", "url": "https://www.encyclopedia.com/economics/news-wires-white-papers-and-books/knight-philip-h-1938" },
+    { "label": "The Investor's Podcast, chapter summary of Shoe Dog by Phil Knight", "url": "https://www.theinvestorspodcast.com/billionaire-book-club-executive-summary/shoe-dog-phil-knight/" },
+    { "label": "Michael Lynch, book report on Shoe Dog with quoted passages", "url": "https://mtlynch.io/book-reports/shoe-dog/" },
+    { "label": "Sneaker Freaker, 'Nike have made mammoth comebacks before' (2024; quotes Knight's 2014 Stanford speech)", "url": "https://sneakerfreaker.com/features/history-nike-financial-problems-and-comebacks" },
+    { "label": "The Motley Fool, 'If you invested $10,000 in Nike's IPO' (Nov 2019)", "url": "https://www.fool.com/investing/2019/11/11/if-you-invested-10000-in-nikes-ipo-this-is-how-muc.aspx" },
+    { "label": "Green Left Weekly, 'Still waiting for Nike to do it' (23 May 2001)", "url": "https://greenleft.org.au/node/30768" },
+    { "label": "AP via The Seattle Times, 'Nike chief falls short on pledge to labor' (17 May 2001)", "url": "https://archive.seattletimes.com/archive/20010517/nike17/nike-chief-falls-short-on-pledge-to-labor-conditions-worldwide-unchanged-group-says" },
+    { "label": "OPB, 'Knights pledge $1 billion to University of Oregon to create engineering college' (23 Sep 2026)", "url": "https://www.opb.org/article/2026/09/23/phil-penny-knight-donation-oregon/" },
+    { "label": "Stanford GSB, 'Phil Knight, MBA '62, Co-founder and Chairman Emeritus, Nike' (View From The Top video and description)", "url": "https://www.youtube.com/watch?v=OHTosaWWKvg" },
+    { "label": "Complex, on the Blue Ribbon v. Onitsuka lawsuit (Oct 2015, from The Oregonian)", "url": "https://www.complex.com/sneakers/a/brendan-dunne/nike-cortez-lawsuit-onitsuka-tiger-asics" },
+    { "label": "NIKE, Inc., 'NIKE, Inc. and Phil Knight Complete Planned Chairman Succession' (30 Jun 2016)", "url": "https://about.nike.com/newsroom/releases/nike-inc-and-phil-knight-complete-planned-chairman-succession" },
+    { "label": "We Are The Mighty, 'Nike was co-founded by these two Army veterans' (Oct 2024)", "url": "https://www.wearethemighty.com/history/nike-was-co-founded-by-these-two-army-veterans/" },
+    { "label": "Shortform, 'Bill Bowerman: Nike's Mad Scientist & Knight's Partner' (Shoe Dog summary)", "url": "https://www.shortform.com/blog/bill-bowerman-nike-phil-knight/" },
+    { "label": "Shortform, 'Nissho Iwai: Nike's Financial Savior' (Shoe Dog summary, Sep 2019)", "url": "https://www.shortform.com/blog/nissho-iwai-nike-history/" },
+    { "label": "NIKE, Inc., 'The Nike Swoosh logo history' (about.nike.com)", "url": "https://about.nike.com/en/stories/nike-swoosh-logo-history" },
+    { "label": "University of Oregon School of Law, 'Welcome to the Knight Law Center' (on William W. Knight)", "url": "https://law.uoregon.edu/welcome-knight-law-center" },
+    { "label": "The Tico Times, 'Nike heir drowns in El Salvador' (4 Jun 2004)", "url": "https://ticotimes.net/2004/06/04/nike-heir-drowns-in-el-salvador" },
+    { "label": "Reuters via Cyprus Mail, 'Nike's new CEO may look to mend retailer ties in sales revival push' (24 Sep 2024)", "url": "https://cyprus-mail.com/2024/09/24/nikes-new-ceo-may-look-to-mend-retailer-ties-in-sales-revival-push" },
+    { "label": "Sydney Lake, Fortune, on the Knights' $1 billion University of Oregon gift (24 Sep 2026)", "url": "https://fortune.com/2026/09/24/billionaire-nike-cofounder-phil-knight-gives-1-billion-to-university-of-oregon-no-time-to-abandon-higher-education/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 22 sources; then independently re-checked claim by claim against the cited source plus a second source, which removed unsupported details (Bowerman 'selling most of his stake', the praise habit's origin, Onitsuka 'meeting other distributors'), corrected Bowerman's later stake, Knight's teaching dates and several photo captions, and added seven sources. FY2026 figures, employees, factories and Swoosh, LLC checked line by line in the FY2026 10-K and results release; the customs figures in the 1981 court ruling; the September 2026 Oregon pledge in OPB and Fortune. Quotes matched to the Stanford GSB pages, the Stanford video's own description and WWD's timeline. Photo licences, authors and dates checked against the Commons API. Shoe Dog details rest on Knight's own memoir as quoted in summaries.",
+    "disputed": [
+      { "claim": "The size of the 1970s customs bill.", "note": "Shoe Dog and its summaries say US Customs demanded about $25 million and Nike settled for $9 million. The 1981 court ruling says Customs billed $12.1 million for imports from Nov 1977 to Oct 1979, settled on 21 Aug 1980 for $9.5 million. We cite the court figures." },
+      { "claim": "The Onitsuka settlement.", "note": "Sneaker Freaker and Shoe Dog summaries say Onitsuka paid $400,000; Blue Ribbon's lawyer Doug Houser has refused to disclose the amount. Left out of the story." },
+      { "claim": "Air Jordan first-year sales of $126 million.", "note": "Widely repeated (including by Acquired) but contested; other accounts give $26 million or $163 million. Not used." },
+      { "claim": "How many shares Carolyn Davidson received.", "note": "Acquired says 500 shares; Portland State and ESPN say an undisclosed amount. We say 'a gift of Nike shares'." },
+      { "claim": "When Blue Ribbon Sports became Nike, Inc.", "note": "Sources give 1971, 1976, 1978 and 1981 for different legal steps; the 10-K says the company was incorporated in 1967. Knight himself treats 1 May 1972 as the real start." },
+      { "claim": "Which accounting firms Knight worked for.", "note": "Acquired and Shoe Dog summaries name Price Waterhouse; some biographies also name Coopers & Lybrand. We name only Price Waterhouse." },
+      { "claim": "Year of the Japan trip.", "note": "Most sources say November 1962; one biography says 1963." },
+      { "claim": "Did Nike keep its 1998 promises?", "note": "Nike published codes and monitoring; Global Exchange's 2001 report said Knight had fallen short, while agreeing health and safety had improved." },
+      { "claim": "When Knight taught at Portland State, and when he met Carolyn Davidson.", "note": "A business biography gives 1964–1969 as his years as an assistant professor; a Shoe Dog summary places the start after he left accounting later in the 1960s. Portland State's own article dates the hallway meeting with Davidson to 1971, but Knight left teaching in 1969, so the meeting was probably earlier. We give no start year." },
+      { "claim": "The year Matthew Knight died.", "note": "The WWD timeline lists it under 2000; The Tico Times reported his death in El Salvador on 16 May 2004. We follow the 2004 news report." },
+      { "claim": "The exact wording of Knight's 1998 speech.", "note": "The 'slave wages' phrase is quoted the same way by WWD and Green Left Weekly; we could not open a full transcript of the speech." }
+    ]
+  }
+}

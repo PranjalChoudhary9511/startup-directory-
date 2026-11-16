@@ -1,0 +1,411 @@
+{
+  "slug": "fisker",
+  "name": "Fisker",
+  "region": "global",
+  "country": "United States",
+  "city": "Manhattan Beach, California",
+  "sector": "Electric cars",
+  "founded": 2016,
+  "died": 2024,
+  "status": "bankrupt",
+  "brandColor": "#0f4c81",
+  "founders": [
+    {
+      "name": "Henrik Fisker",
+      "role": "Co-founder, chairman and CEO"
+    },
+    {
+      "name": "Geeta Gupta-Fisker",
+      "role": "Co-founder, CFO and COO"
+    }
+  ],
+  "epitaph": "Designed two beautiful cars. Went bankrupt twice.",
+  "oneLiner": "Designed the Ocean electric SUV, had it built by Magna in Austria, and sold it in the US and Europe.",
+  "causeOfDeath": "It sold each car for far less than it cost to make, lost track of payments, and ran out of cash when a rescue deal with a big carmaker collapsed.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 2900,
+  "endValueUsdM": null,
+  "moneyNote": "Peak is the ~$2.9B combined value announced for the 2020 SPAC deal (CNBC). Total raised across shares and convertible notes is not published as one figure. Leftover cars sold for $46.25M.",
+  "moneySrc": [
+    3,
+    5
+  ],
+  "inOneMinute": [
+    "Car designer Henrik Fisker's **first company went bankrupt in 2013**. His second, Fisker Inc., went public through a SPAC in 2020 at a **$2.9 billion** value.",
+    "In 2023 it sold cars worth $273M that **cost $559M to make**, and lost $940M.",
+    "It **lost track of customer payments**, faced four safety probes, and filed for bankruptcy in June 2024."
+  ],
+  "killerLine": "Designing a car is the easy part. **Building, selling, fixing and getting paid** for it is the company.",
+  "numbers": [
+    {
+      "value": "$940M",
+      "label": "net loss in 2023",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "4,847",
+      "label": "cars delivered in 2023, net of returns",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "-$286M",
+      "label": "gross margin in 2023: it lost money on cars before any other cost",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$14,000",
+      "label": "price per leftover Ocean in the bankruptcy sale",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The first crash: Fisker Automotive",
+      "body": "Henrik Fisker is a well-known car designer. In 2007 he co-founded Fisker Automotive, which made the Karma, a gorgeous plug-in hybrid that cost about **$100,000**. The US Energy Department promised a $529 million loan; the company drew $192 million before the government froze it in 2011. Then things went wrong one after another. Its battery supplier, A123, went bankrupt. Superstorm Sandy **destroyed hundreds of Karmas** parked at a New Jersey port. Cars had fires and recalls. Fisker Automotive filed for bankruptcy in November 2013. Taxpayers lost about **$139 million**. In February 2014, China's Wanxiang bought what was left for $149.2 million; the brand later returned as Karma Automotive.",
+      "src": [
+        7,
+        8
+      ]
+    },
+    {
+      "title": "The second try: Fisker Inc.",
+      "body": "In 2016, Henrik Fisker and his wife Geeta Gupta-Fisker started again with Fisker Inc. This time the plan was **\"asset-light\"** (don't own factories; pay others to build). Magna Steyr, a giant contract carmaker in Graz, Austria, signed a deal in 2021 to build the Ocean SUV. In October 2020, Fisker went public by merging with Spartan Energy, a SPAC (a shell company that is already listed on the stock market and exists only to merge with a private company) backed by Apollo. The deal valued the combined company at about **$2.9 billion** and left it with more than **$1 billion in cash**. At the end of 2021 it had **zero cars on sale** and 327 employees, and had lost $471 million that year.",
+      "src": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: cars without a system",
+      "body": "Production started, but the business around it was missing. In 2023, Fisker cut its target to about 10,000 cars. It delivered **4,847 cars**, which brought in $273 million but **cost $559 million to make**. It also wrote down $232.7 million on stock it could not sell at full price. Owners reported software bugs and over 100 loss-of-power incidents. US safety regulator NHTSA opened **four investigations** in 2024, including braking problems. Most shocking of all: the company **lost track of millions in customer payments**, and some cars were handed over with no payment collected. The annual report admitted \"material weaknesses\" in its financial controls (it could not trust its own accounting) and \"substantial doubt\" it could survive.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The fall: the rescue that never came",
+      "body": "In early 2024, Fisker talked to a large carmaker, reported to be Nissan, about a partnership. A $150 million funding note depended on it. In March 2024 the talks ended. Fisker paused production, had $121 million in cash and **$182 million in unpaid bills**, and the New York Stock Exchange moved to delist its shares. Layoffs followed until only about 150 staff were left. On 17–18 June 2024, Fisker filed for Chapter 11 bankruptcy in Delaware. In July, a judge approved selling **3,231 unsold Oceans to American Lease for $46.25 million**, about $14,000 each. Its California headquarters was later left in \"complete disarray\", the landlord said.",
+      "src": [
+        1,
+        5,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2007",
+      "event": "Henrik Fisker co-founds Fisker Automotive; the Karma follows",
+      "kind": "start",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "Nov 2013",
+      "event": "Fisker Automotive goes bankrupt after A123's collapse, Sandy and recalls; taxpayers lose ~$139M",
+      "kind": "end",
+      "src": [
+        7,
+        8
+      ]
+    },
+    {
+      "date": "Feb 2014",
+      "event": "China's Wanxiang buys Fisker Automotive's assets for $149.2M",
+      "kind": "after",
+      "src": [
+        8
+      ]
+    },
+    {
+      "date": "2016",
+      "event": "Henrik Fisker and Geeta Gupta-Fisker start Fisker Inc.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "event": "Lists on NYSE via SPAC merger with Apollo-backed Spartan Energy (~$2.9B value)",
+      "kind": "peak",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "event": "Signs binding deal with Magna Steyr to build the Ocean in Austria",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2023",
+      "event": "Cuts 2023 production goal to about 10,000 cars",
+      "kind": "warning",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jan–May 2024",
+      "event": "Four NHTSA safety probes; company admits it lost track of customer payments",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Mar 2024",
+      "event": "Talks with a big carmaker, reported to be Nissan, end; production paused; NYSE moves to delist",
+      "kind": "crisis",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Jun 2024",
+      "event": "Files for Chapter 11 bankruptcy in Delaware",
+      "kind": "end",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "event": "Judge approves sale of 3,231 Oceans to American Lease for $46.25M",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Oct 2024",
+      "event": "Liquidation plan confirmed; SEC opens an investigation",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            0,
+            0.1,
+            0.3,
+            272.9
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            130.0,
+            471.3,
+            547.5,
+            939.9
+          ]
+        }
+      ],
+      "takeaway": "When cars finally sold in 2023, the loss grew bigger, not smaller, because each car cost more to make than it earned.",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2020",
+      "round": "SPAC merger (Spartan Energy Acquisition)",
+      "amountUsdM": null,
+      "valuationUsdM": 2900,
+      "investors": [
+        "Apollo-sponsored Spartan Energy Acquisition",
+        "PIPE investors"
+      ],
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 35
+    },
+    {
+      "key": "governance",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Shipped cars without a working back office",
+      "explain": "Fisker admitted **material weaknesses** in financial controls and lost track of millions in customer payments; some cars left without being paid for. A car company is a machine for building, delivering, servicing and **collecting money**. Skipping the boring systems made every other problem worse.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "Sold cars below what they cost to make",
+      "explain": "In 2023 it earned $273M from cars that cost $559M to build, a **negative gross margin of $286M**. Selling more did not help, because each sale added to the loss. It also wrote down $232.7M of inventory. A business must earn more on each sale than the sale costs before growth can help.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Bet survival on one rescue deal",
+      "explain": "By early 2024, the company's future hung on a partnership with a big carmaker and a $150M note tied to it. When talks ended in March, there was **no plan B**. Within three months it was bankrupt. Its own filings later said it faced 'potential financial distress' as early as August 2023, months before the talks failed.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Rushed a half-finished product to customers",
+      "explain": "Owners reported software bugs, loss of power and braking problems, leading to **four NHTSA probes**. In cars, early bugs are not a small annoyance. They become safety investigations, recalls and lost trust that marketing cannot buy back. Fixing trust after a safety probe takes far longer than fixing code.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Didn't learn enough from the first bankruptcy",
+      "explain": "Fisker Automotive died in 2013 after supplier failure, recalls and running out of money. Fisker Inc. again **depended heavily on partners** (Magna to build, a big carmaker to rescue) and again ran out of cash. Repeating a pattern is a bigger risk than any single mistake.",
+      "src": [
+        7,
+        5
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are there orders where you can't say whether the customer paid or the product was delivered?",
+    "Is your gross margin (price minus direct cost) negative on each unit?",
+    "Is your survival tied to one investor or partner saying yes?",
+    "Are customers reporting the same bug again and again while you keep shipping?",
+    "Has your accountant flagged weaknesses in how you record money?",
+    "Are unpaid bills to suppliers growing faster than your cash?"
+  ],
+  "lessons": [
+    {
+      "title": "Build the boring systems early",
+      "detail": "Even for a tiny business, keep one sheet that matches every order to a payment and a delivery. Use a free invoicing tool. Not knowing who paid you is how good products die."
+    },
+    {
+      "title": "Check gross margin before you scale",
+      "detail": "For each unit: price minus what it directly cost (materials, making, shipping). If it is negative, stop and fix pricing or costs before spending on more marketing or production."
+    },
+    {
+      "title": "Always keep a plan B for funding",
+      "detail": "Talk to several investors or partners at once. Cut costs before the deal closes, not after it fails. If one 'no' can end your company, act like it might come."
+    },
+    {
+      "title": "Ship small to friendly users first",
+      "detail": "Give early versions to a few users who expect bugs and give feedback. Fix the big issues before a wide launch. Safety and trust are much harder to win back than to protect."
+    },
+    {
+      "title": "Write down why your last attempt failed",
+      "detail": "If you start again after a failure, list exactly what went wrong and how this time is different. Show it to someone honest. A famous name doesn't fix a repeated pattern."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "A liquidation plan was confirmed in October 2024. American Lease took the 3,231 unsold Oceans, and Fisker agreed to pay for recall repairs after the Justice Department, acting for NHTSA, objected to making owners pay. The SEC opened an investigation in October 2024; its outcome is not public. Tax filings made public in 2025 showed Henrik and Geeta Fisker had wound down their charitable foundation. The earlier Fisker Automotive's assets live on as Karma Automotive under Wanxiang.",
+    "src": [
+      5,
+      8
+    ]
+  },
+  "sources": [
+    {
+      "label": "Fisker Inc., Form 10-K for 2023 (filed Apr 2024)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1720990/000172099024000045/fsr-20231231.htm"
+    },
+    {
+      "label": "Transport Topics (Reuters/AP), 'Fisker files for bankruptcy protection' (18 Jun 2024)",
+      "url": "https://ttnews.com/articles/fisker-files-bankruptcy"
+    },
+    {
+      "label": "Fisker Inc., Form 8-K on closing of the Spartan Energy business combination (Oct 2020)",
+      "url": "https://sec.gov/Archives/edgar/data/1720990/000119312520285584/d39865d8k.htm"
+    },
+    {
+      "label": "CNBC, 'EV startup Fisker to go public through merger with Apollo-backed firm at combined value of $2.9 billion' (13 Jul 2020)",
+      "url": "https://www.cnbc.com/2020/07/13/ev-startup-fisker-to-go-public-through-merger-with-apollo-backed-firm-at-combined-value-of-2point9-billion.html"
+    },
+    {
+      "label": "Fisker Inc., Form 10-K for 2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1720990/000172099022000010/fsr-20211231.htm"
+    },
+    {
+      "label": "TechCrunch, 'The fall of EV startup Fisker: A comprehensive timeline' (updated Aug 2025)",
+      "url": "https://techcrunch.com/2025/08/30/the-fall-of-ev-startup-fisker-a-comprehensive-timeline"
+    },
+    {
+      "label": "Industry Week, 'Fisker Files for Chapter 11 Bankruptcy' (Jun 2024)",
+      "url": "https://www.industryweek.com/leadership/companies-executives/article/55089661/fisker-files-for-chapter-11-bankruptcy"
+    },
+    {
+      "label": "Associated Press via Phys.org, on the Fisker Automotive bankruptcy auction (8 Jan 2014)",
+      "url": "https://phys.org/news/2014-01-wanxigang-fisker.html"
+    },
+    {
+      "label": "CleanTechnica, 'Fisker Automotive assets acquired by Wanxiang America for $149.2 million' (18 Feb 2014)",
+      "url": "https://cleantechnica.com/2014/02/18/fisker-automotive-assets-acquired-wanxiang-america-149-2-million/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "2023 deliveries were 4,929 and production 10,193",
+        "note": "Those were early figures from Fisker's earnings release and press reports. The audited 10-K says 4,847 delivered, net of returns. We use the 10-K."
+      },
+      {
+        "claim": "The partner carmaker was Nissan",
+        "note": "Widely reported but Fisker did not officially name it. We say 'reported to be Nissan'."
+      },
+      {
+        "claim": "Hurricane Sandy destroyed exactly 338 Karmas",
+        "note": "Counts vary between reports; AP said 'hundreds'. We use 'hundreds'."
+      }
+    ]
+  }
+}

@@ -1,0 +1,3164 @@
+[
+  {
+    "slug": "startup-india-seed-fund",
+    "name": "Startup India Seed Fund Scheme",
+    "shortName": "SISFS",
+    "provider": "DPIIT, Ministry of Commerce & Industry",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2021,
+    "instrument": [
+      "grant",
+      "convertible",
+      "seed-loan"
+    ],
+    "maxAmountINR": 7000000,
+    "amountText": "Up to ₹20 lakh grant for proof of concept/prototype + up to ₹50 lakh as convertible debentures or debt for market entry (max ₹70 lakh per startup), paid through an approved incubator",
+    "equity": "None on the grant. The ₹50 lakh part is convertible debentures or debt; the incubator may convert it to equity on agreed terms",
+    "duration": "Milestone-based instalments; debt tenure up to 60 months with up to 12 months moratorium",
+    "timeToMoney": "By the rules: selection within 45 days and first grant instalment within 60 days of applying; in practice often slower (incubator-dependent)",
+    "status": "closed",
+    "deadline": "Closed for new startup applications on 31 May 2026 (final extended notice); disbursals to already-selected startups continue",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any (tech-led product, service or business model)"
+    ],
+    "oneLiner": "The government's main seed-money scheme: up to ₹70 lakh for a young startup, routed through an approved incubator.",
+    "what": "SISFS gave ₹945 crore to 219 incubators, which in turn picked startups and paid them in milestones. Up to ₹20 lakh was a grant for proof of concept, prototype or product trials; up to ₹50 lakh more was investment (convertible debentures or debt) for market entry and scaling. The full corpus is now committed and the portal stopped taking new startup applications on 31 May 2026.",
+    "who": [
+      "DPIIT-recognised startup, incorporated not more than 2 years before applying",
+      "Business idea with market fit and scope to scale, with technology in the core product, service or business model",
+      "Indian promoters hold at least 51% of the shares when applying",
+      "Has not received more than ₹10 lakh from any other central or state government scheme"
+    ],
+    "notFor": [
+      "Startups older than 2 years at the time of application",
+      "Startups that already took more than ₹10 lakh of government money (state seed grants count)",
+      "Startups with foreign promoters holding 49% or more",
+      "Anyone applying now: the startup application window closed on 31 May 2026"
+    ],
+    "why": [
+      "Non-dilutive grant of up to ₹20 lakh at the riskiest stage, when angels rarely invest",
+      "Debt at no more than the RBI repo rate, far cheaper than any bank or venture-debt loan",
+      "Being picked by a reputed incubator signals quality to later investors",
+      "Comes bundled with incubator mentoring, labs and investor connects"
+    ],
+    "howItWorks": "An Experts Advisory Committee (EAC) at DPIIT selected incubators and gave each up to ₹5 crore. Each incubator's Incubator Seed Management Committee (ISMC) evaluated startups, decided the amount and instrument, and released money in instalments tied to milestones. Grants are released against milestones like a working prototype; debt or convertible money funds market entry. Startups submit progress reports and utilisation certificates to the incubator.",
+    "steps": [
+      {
+        "title": "Get DPIIT recognition",
+        "detail": "Register on startupindia.gov.in and get your DPIIT certificate; SISFS required it."
+      },
+      {
+        "title": "Create an account on the SISFS portal",
+        "detail": "Sign up at seedfund.startupindia.gov.in with your DPIIT number and fill the startup profile."
+      },
+      {
+        "title": "Shortlist up to three incubators",
+        "detail": "Pick incubators from the portal list that match your sector and city; the rules allowed applying to any three."
+      },
+      {
+        "title": "Submit the application and pitch deck",
+        "detail": "Upload your business plan, budget for each milestone, and team details; the incubator checks eligibility."
+      },
+      {
+        "title": "Present to the ISMC",
+        "detail": "Shortlisted startups pitch to the incubator's committee, which was supposed to decide within 45 days."
+      },
+      {
+        "title": "Sign the agreement and hit milestones",
+        "detail": "On selection, sign the grant or debenture agreement; each tranche is released after you show the previous milestone and utilisation."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition certificate and certificate of incorporation",
+      "Shareholding pattern showing at least 51% Indian promoters",
+      "Pitch deck and business plan with milestone-wise budget",
+      "Declaration of any other government funding received (must be ≤ ₹10 lakh)",
+      "Founders' KYC (PAN, Aadhaar) and company bank details",
+      "Prototype/product proof (demo video, screenshots, test results) if available"
+    ],
+    "benefits": [
+      "Grant up to ₹20 lakh and investment up to ₹50 lakh",
+      "Incubation space, mentoring and lab access at the incubator",
+      "Investor and corporate connects through the incubator network",
+      "Credibility from a government-backed selection process"
+    ],
+    "pros": [
+      "The grant portion takes no equity",
+      "Debt priced at or below the repo rate, unsecured, with no promoter guarantee and up to 12 months moratorium",
+      "Large: up to ₹70 lakh per startup is big for a pre-seed company",
+      "Wide reach: 4,245 startups selected across states by June 2026"
+    ],
+    "cons": [
+      "Closed to new startup applications since 31 May 2026",
+      "Totally incubator-dependent: quality, speed and paperwork vary widely",
+      "Milestone tranches mean money arrives in pieces, not upfront",
+      "The ₹10 lakh cap on other government funding disqualifies many state-grant winners",
+      "Parliament was asked about disbursal delays caused by thin due-diligence capacity in incubators (July 2026)"
+    ],
+    "goodFitIf": [
+      "You were already selected and need to know how tranches and reporting work",
+      "You are under 2 years old and want to be ready if DPIIT announces a successor seed scheme",
+      "You have a prototype-stage tech product and a reputed incubator willing to back you"
+    ],
+    "skipIf": [
+      "You want to apply right now: the window is closed",
+      "Your company is older than 2 years",
+      "You already took more than ₹10 lakh from a state or central scheme"
+    ],
+    "insiderTips": [
+      "Successor schemes usually copy SISFS rules, so keep your DPIIT certificate, milestone budget and utilisation records in order",
+      "If you are a selected startup, file the interim progress update and utilisation certificate fast: the guidelines make them the trigger for your next instalment",
+      "Choose incubators with a track record of disbursing, not just selecting; ask them how many SISFS startups actually got their second tranche"
+    ],
+    "performance": {
+      "summary": "SISFS ran from April 2021 with a ₹945 crore corpus. By 30 June 2026 the entire corpus was committed to 219 incubators, ₹650 crore had reached incubators, and incubators had selected 4,245 startups with ₹706.33 crore approved; 31 of those startups were recorded as closed. Approvals to incubators peaked in 2023 and fell sharply after, because the corpus was running out. The scheme was extended only to finish disbursing committed money.",
+      "metrics": [
+        {
+          "label": "Incubators selected",
+          "value": "219",
+          "asOf": "2026-06-30",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.323 (DPIIT), answered 21 Jul 2026 – Startup India Seed Fund Scheme",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU323_AhXfm3.pdf"
+          }
+        },
+        {
+          "label": "Funds disbursed to incubators",
+          "value": "₹650 crore of ₹945 crore",
+          "asOf": "2026-06-30",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.323 (DPIIT), answered 21 Jul 2026 – Startup India Seed Fund Scheme",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU323_AhXfm3.pdf"
+          }
+        },
+        {
+          "label": "Startups selected by incubators",
+          "value": "4,245 (₹706.33 crore approved)",
+          "asOf": "2026-06-30",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+          }
+        },
+        {
+          "label": "Selected startups recorded as closed (MCA)",
+          "value": "31",
+          "asOf": "2026-07-10",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.323 (DPIIT), answered 21 Jul 2026 – Startup India Seed Fund Scheme",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU323_AhXfm3.pdf"
+          }
+        },
+        {
+          "label": "Startups selected (earlier snapshot)",
+          "value": "3,400+ with ₹605+ crore approved",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Funds approved to incubators by calendar year (2025 = Jan–Oct)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2023",
+              "value": 282.9
+            },
+            {
+              "period": "2024",
+              "value": 99.7
+            },
+            {
+              "period": "2025",
+              "value": 42.3
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Funds disbursed to incubators by calendar year (2025 = Jan–Oct)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2023",
+              "value": 163.6
+            },
+            {
+              "period": "2024",
+              "value": 105.2
+            },
+            {
+              "period": "2025",
+              "value": 94.6
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://seedfund.startupindia.gov.in/",
+    "officialUrl": "https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Guidelines%20for%20Startup%20India%20Seed%20Fund%20Scheme.pdf",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.323 (DPIIT), answered 21 Jul 2026 – Startup India Seed Fund Scheme",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU323_AhXfm3.pdf"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+      },
+      {
+        "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "SISFS Guidelines (DPIIT)",
+        "url": "https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Guidelines%20for%20Startup%20India%20Seed%20Fund%20Scheme.pdf"
+      },
+      {
+        "label": "SISFS portal (final notice: last date for startups 31 May 2026)",
+        "url": "https://seedfund.startupindia.gov.in/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Closure date (31 May 2026) is from the official SISFS portal notice and the June 2026 Startup India playbook. No successor seed scheme had been notified in the sources we checked. The 45-day and 60-day timelines are the guideline limits; actual disbursal times are not published. Year-wise data covers calendar years 2023–2025 only; earlier years were not in the opened sources."
+  },
+  {
+    "slug": "dpiit-recognition-80iac-tax-holiday",
+    "name": "DPIIT Startup Recognition and Section 80-IAC Income Tax Holiday",
+    "shortName": "DPIIT + 80-IAC",
+    "provider": "DPIIT, Ministry of Commerce & Industry (with CBDT, Ministry of Finance, for the tax certificate)",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "tax-benefit"
+    ],
+    "maxAmountINR": null,
+    "amountText": "100% income-tax deduction on profits for any 3 consecutive years out of the first 10, for startups holding an Inter-Ministerial Board certificate. Recognition itself is free and unlocks other benefits",
+    "equity": "None",
+    "duration": "Recognition valid up to 10 years from incorporation (20 years for deep-tech startups); tax holiday for 3 consecutive years of your choice within the first 10",
+    "timeToMoney": "Recognition: usually days to a few weeks. 80-IAC: complete applications are reviewed within 120 days",
+    "status": "rolling",
+    "deadline": "Rolling. 80-IAC applies to startups incorporated before 1 April 2030",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A free government 'startup' certificate that unlocks tax breaks, cheaper compliance and access to every Startup India scheme.",
+    "what": "DPIIT recognition is an official certificate saying your company is a startup. It is the entry ticket for SISFS, CGSS, Fund of Funds-backed VCs, easier public procurement, faster patents and self-certification under labour laws. Recognised startups can also apply to an Inter-Ministerial Board (IMB) for a Section 80-IAC certificate, which lets them pay zero income tax on profits for three consecutive years.",
+    "who": [
+      "Private limited company, LLP, registered partnership firm, or (from Feb 2026) a cooperative society",
+      "Within 10 years of incorporation, with turnover never above ₹200 crore in any year (deep-tech startups: 20 years and ₹300 crore)",
+      "Working on innovation, improvement of products/processes, or a scalable business model with high potential for jobs or wealth",
+      "For 80-IAC: private limited company or LLP incorporated between 1 April 2016 and 31 March 2030, with DPIIT recognition and an IMB certificate"
+    ],
+    "notFor": [
+      "Sole proprietorships",
+      "Companies formed by splitting up or reconstructing an existing business",
+      "80-IAC is not available to partnership firms; the 80-IAC turnover cap stayed at ₹100 crore even though the recognition cap rose to ₹200 crore (per practitioner summaries)",
+      "Loss-making startups gain little from 80-IAC until they are profitable"
+    ],
+    "why": [
+      "It is free and needed for almost every central startup scheme",
+      "Zero income tax on profits for three years once you turn profitable",
+      "Self-certification under labour and environment laws, and faster, cheaper patent filing",
+      "Exemption from prior-experience and turnover rules in many government tenders and on GeM"
+    ],
+    "howItWorks": "You apply online on the Startup India / National Single Window portal; DPIIT checks the documents and issues a recognition certificate. For the tax holiday, you file a separate application on the same portal; the Inter-Ministerial Board (DPIIT plus tax officials) judges whether your business is genuinely innovative and issues an 80-IAC certificate. You then claim the deduction in your income-tax return for the three years you choose.",
+    "steps": [
+      {
+        "title": "Incorporate the right entity",
+        "detail": "Register as a private limited company or LLP if you want the 80-IAC tax holiday (partnerships can get recognition but not 80-IAC)."
+      },
+      {
+        "title": "Register on Startup India",
+        "detail": "Create an account on startupindia.gov.in and open the DPIIT recognition form."
+      },
+      {
+        "title": "Fill the recognition form",
+        "detail": "Enter company details, directors, a short write-up on the innovation and how it scales, and upload your incorporation certificate."
+      },
+      {
+        "title": "Respond to queries and get the certificate",
+        "detail": "DPIIT may ask for more information; once approved you get a certificate number to use in all scheme applications."
+      },
+      {
+        "title": "Apply for the 80-IAC certificate",
+        "detail": "From your dashboard, file the tax-exemption application with financials and a clear explanation of the technology, market potential and jobs."
+      },
+      {
+        "title": "Claim the deduction",
+        "detail": "After the IMB certificate is issued, choose three consecutive profitable years within your first ten and claim the deduction in those tax returns."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation / registration",
+      "PAN of the entity and directors' details",
+      "Short write-up or pitch deck on the innovation and scalability",
+      "Website, product demo, patents or awards (optional but helpful)",
+      "For 80-IAC: audited financial statements and income-tax returns, board resolution, and proof of innovation (patents, product, customer traction)"
+    ],
+    "benefits": [
+      "Access to SISFS, CGSS and FFS-backed funds",
+      "100% income-tax deduction for 3 consecutive years (with IMB certificate)",
+      "Fast-tracked patent examination and fee rebates",
+      "Easier public procurement and listing on GeM",
+      "Self-certification under several labour and environment laws"
+    ],
+    "pros": [
+      "Free and fully online",
+      "Recognition is quick and widely granted",
+      "The tax holiday window was extended to startups incorporated before 1 April 2030",
+      "Deep-tech startups now get a 20-year window and ₹300 crore turnover limit"
+    ],
+    "cons": [
+      "The 80-IAC certificate is much harder to get than recognition; the IMB rejects many applications",
+      "The tax benefit only matters once you make taxable profit, which many startups don't in years 1–3",
+      "Minimum Alternate Tax and other conditions can reduce the real saving for companies",
+      "Rules changed in 2026 (new definition, new Income-tax Act), so older online guides may be wrong"
+    ],
+    "goodFitIf": [
+      "You are any Indian startup planning to use a government scheme, tender or tax break",
+      "You expect to turn profitable within your first 10 years",
+      "You are deep-tech and need a longer runway than 10 years"
+    ],
+    "skipIf": [
+      "You run a proprietorship and don't plan to incorporate",
+      "Your business is a conventional trading or services firm with no innovation angle (the IMB will likely reject 80-IAC)",
+      "You are older than 10 years (20 for deep tech) or above the turnover cap"
+    ],
+    "insiderTips": [
+      "Get recognised early even if you don't need it yet; most schemes ask for the DPIIT number first",
+      "For 80-IAC, explain the innovation in plain language with evidence (patents, tech architecture, customer results); vague 'platform' claims get rejected",
+      "Time your three tax-holiday years for when profits are highest, not the first profitable year",
+      "Check the 2026 rules: the 80-IAC deduction moved into the Income-tax Act, 2025 from April 2026; confirm the section with your CA"
+    ],
+    "performance": {
+      "summary": "Recognitions have grown every year: from 10,604 in calendar 2019 to 34,779 in 2023, and a record 55,200+ in FY 2025-26. As of 30 June 2026, 2,40,092 entities had been recognised. The tax holiday reaches far fewer: DPIIT said over 3,700 startups had been granted 80-IAC exemption since inception as of May 2025, a small share of recognised startups.",
+      "metrics": [
+        {
+          "label": "Entities recognised as startups (cumulative)",
+          "value": "2,40,092",
+          "asOf": "2026-06-30",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+          }
+        },
+        {
+          "label": "Startups recognised in FY 2025-26",
+          "value": "55,200+ (highest ever)",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "Direct jobs reported by recognised startups",
+          "value": "23.36 lakh+",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "Startups granted 80-IAC tax exemption since inception",
+          "value": "3,700+",
+          "asOf": "2025-05-15",
+          "source": {
+            "label": "PIB – DPIIT clears 187 startups for tax relief under Section 80-IAC (15 May 2025)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128860"
+          }
+        },
+        {
+          "label": "Recognised startups recorded as closed (MCA)",
+          "value": "6,385 of 1,97,692",
+          "asOf": "2025-10-31",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Startups recognised by DPIIT per calendar year",
+          "unit": "startups",
+          "points": [
+            {
+              "period": "2019",
+              "value": 10604
+            },
+            {
+              "period": "2020",
+              "value": 13798
+            },
+            {
+              "period": "2021",
+              "value": 19371
+            },
+            {
+              "period": "2022",
+              "value": 26330
+            },
+            {
+              "period": "2023",
+              "value": 34779
+            }
+          ],
+          "source": {
+            "label": "PIB – DPIIT recognises 1,17,254 startups as on 31 Dec 2023 (2 Feb 2024)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2002100"
+          }
+        },
+        {
+          "label": "Startups recognised per financial year (approximate, '+' figures)",
+          "unit": "startups",
+          "points": [
+            {
+              "period": "FY2024-25",
+              "value": 36400
+            },
+            {
+              "period": "FY2025-26",
+              "value": 55200
+            }
+          ],
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+    "officialUrl": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+      },
+      {
+        "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+      },
+      {
+        "label": "PIB – DPIIT recognises 1,17,254 startups as on 31 Dec 2023 (2 Feb 2024)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2002100"
+      },
+      {
+        "label": "PIB – DPIIT clears 187 startups for tax relief under Section 80-IAC (15 May 2025)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128860"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+      },
+      {
+        "label": "Startup India – Startup recognition page",
+        "url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html"
+      },
+      {
+        "label": "Taxmann – DPIIT revises startup definition (G.S.R. 108(E), 4 Feb 2026) [secondary]",
+        "url": "https://www.taxmann.com/post/blog/dpiit-revises-startup-definition-introduces-deep-tech-framework/"
+      },
+      {
+        "label": "Nishith Desai Associates – DPIIT's new startup framework [secondary]",
+        "url": "https://www.nishithdesai.com/research-and-articles/hotline/regulatory-digest/dpiits-new-startup-framework-deep-tech-startup-recognition-and-key-reforms-15498"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The February 2026 definition change (G.S.R. 108(E): ₹200 crore turnover, 20 years/₹300 crore for deep tech, cooperatives allowed) is taken from legal-firm summaries (Taxmann, Nishith Desai), not the gazette text itself. The renumbering of 80-IAC under the Income-tax Act, 2025 (cited as section 140 by practitioners) and the unchanged ₹100 crore 80-IAC turnover cap were not verified against the Act. No official year-wise count of 80-IAC approvals was found. Recognition processing time is a typical range, not an official figure."
+  },
+  {
+    "slug": "startup-india-fund-of-funds",
+    "name": "Fund of Funds for Startups (FFS) and Startup India Fund of Funds 2.0",
+    "shortName": "FFS / FoF 2.0",
+    "provider": "DPIIT, Ministry of Commerce & Industry; implemented by SIDBI",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "equity"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No fixed cheque for founders: the government's ₹10,000 crore (FFS 1.0) plus a new ₹10,000 crore (FoF 2.0) goes into SEBI-registered VC funds (AIFs), which then invest in startups. FoF 2.0 micro-VCs must earmark 50% for seed/early stage, with cheques of up to ₹10 crore per startup",
+    "equity": "Yes. You give equity (or equity-linked instruments) to the VC fund, on normal VC terms",
+    "duration": "Normal VC holding period; FoF 2.0-backed AIFs can run up to 10–18 years depending on segment",
+    "timeToMoney": "Same as any VC round: typically 2–6 months from first meeting to money, if the fund invests",
+    "status": "rolling",
+    "deadline": "Rolling. Founders pitch FFS-backed AIFs any time; FoF 2.0 is now selecting AIFs (guidelines issued April 2026)",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any; FoF 2.0 prioritises deep tech, tech-driven manufacturing, early-growth startups via smaller funds, and sector-agnostic funds"
+    ],
+    "oneLiner": "The government doesn't invest in you directly; it backs VC funds that must invest in Indian startups.",
+    "what": "Under FFS 1.0 (2016), SIDBI committed the whole ₹10,000 crore corpus to 145 SEBI-registered Alternative Investment Funds, which invested over ₹25,500 crore in 1,370+ startups. In February 2026 the Cabinet approved Startup India Fund of Funds 2.0 with another ₹10,000 crore, aimed at deep tech, tech-driven manufacturing, early-growth startups via smaller funds, and investment beyond the big metros. As a founder you raise from these funds like any VC round.",
+    "who": [
+      "DPIIT-recognised startups (FFS-backed AIFs invest in recognised startups)",
+      "Startups that fit a supported AIF's thesis, stage and sector",
+      "For FoF 2.0 deep-tech segment: startups meeting DPIIT's 2026 'Deep Tech Startup' definition",
+      "For FoF 2.0 manufacturing segment: tech-driven startups in a government 'champion' manufacturing sector"
+    ],
+    "notFor": [
+      "Founders wanting non-dilutive money",
+      "Very early ideas with no team or traction (most AIFs won't invest)",
+      "Founders who expect to apply to the government directly; only AIFs apply to SIDBI",
+      "Businesses that aren't venture-scale (local services, small trading)"
+    ],
+    "why": [
+      "It has made more domestic VC money available, including for first-time fund managers",
+      "FoF 2.0 adds funds focused on deep tech, manufacturing and small seed-stage micro-VCs",
+      "FFS-backed funds invested in 217 startups from Tier 2/3 centres and 211 women-led/co-led startups (SIDBI)",
+      "Government-anchored funds are often more open to non-metro founders"
+    ],
+    "howItWorks": "SIDBI (and later a second implementing agency) commits capital to Category I and II AIFs selected through its Fund Application Portal. Each AIF must invest a multiple of the government money in startups (e.g., 1.5x for deep-tech funds, 2x for micro-VCs, 1.75x for manufacturing funds, 2.5x for sector-agnostic funds under FoF 2.0). The AIF's own investment committee picks startups; the government plays no role in individual deals.",
+    "steps": [
+      {
+        "title": "Get DPIIT recognition",
+        "detail": "FFS money must flow to DPIIT-recognised startups, so have your certificate ready."
+      },
+      {
+        "title": "Find FFS / FoF 2.0-backed AIFs",
+        "detail": "Use SIDBI's FFS page and fund announcements to list AIFs that match your sector and stage."
+      },
+      {
+        "title": "Prepare a VC-ready pitch",
+        "detail": "Build a deck with problem, traction, market size, unit economics, team and use of funds; prepare a data room."
+      },
+      {
+        "title": "Pitch and go through diligence",
+        "detail": "The AIF runs its normal process: partner meetings, investment committee, legal and financial due diligence."
+      },
+      {
+        "title": "Negotiate the term sheet",
+        "detail": "Agree valuation, board seats and investor rights; get a startup lawyer to review."
+      },
+      {
+        "title": "Close the round",
+        "detail": "Sign the shareholder agreement, complete FEMA/ROC filings, and receive funds."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition certificate",
+      "Pitch deck and financial model",
+      "Cap table and incorporation documents",
+      "Audited financials / management accounts and MIS",
+      "Customer contracts, traction metrics, IP filings"
+    ],
+    "benefits": [
+      "Access to a large pool of domestic VC money",
+      "VC partners bring hiring, follow-on funding and customer networks",
+      "Segment-specific funds for deep tech and manufacturing that need patient capital",
+      "Micro-VC track under FoF 2.0 for seed rounds up to ₹10 crore"
+    ],
+    "pros": [
+      "Big: ₹10,000 crore new corpus on top of a fully deployed ₹10,000 crore",
+      "FoF 2.0 explicitly targets gaps (deep tech, manufacturing, small funds, non-metros)",
+      "No government paperwork for founders; it's a normal VC process"
+    ],
+    "cons": [
+      "You give up equity",
+      "Very selective: only 1,370+ startups were funded by FFS-backed AIFs over a decade",
+      "No direct application route; you depend on individual fund managers' choices",
+      "FoF 2.0 money reaches founders only after AIFs are selected and raise their own capital, which takes time"
+    ],
+    "goodFitIf": [
+      "You have early revenue or strong traction and want to raise a VC round",
+      "You are deep-tech or tech-manufacturing and need patient, long-horizon capital",
+      "You are outside the big metros and looking for funds mandated to look wider"
+    ],
+    "skipIf": [
+      "You want a grant or don't want to dilute",
+      "You are at idea stage with no product (look at SISFS-style grants, NIDHI-PRAYAS or TIDE instead)",
+      "Your business won't grow 10x; VCs won't fit"
+    ],
+    "insiderTips": [
+      "Ask funds directly whether they are FFS or FoF 2.0 backed and which segment; segment rules shape what they can invest in",
+      "Micro-VCs under FoF 2.0 must put 50% of their corpus into seed/early stage, so they are the best first target for small rounds",
+      "Deep-tech funds must back startups meeting DPIIT's 2026 deep-tech definition; get recognised in that category first"
+    ],
+    "performance": {
+      "summary": "FFS 1.0's ₹10,000 crore was fully committed to 145 AIFs, which invested over ₹25,500 crore in 1,370+ startups (Feb 2026). By end of FY 2025-26, ₹7,000+ crore had been disbursed to 135+ AIFs, which had invested ₹26,900+ crore in 1,420+ startups. SIDBI's own page shows slightly different figures (₹11,808 crore commitments, 153 AIFs, ₹22,942 crore invested, 1,270 startups as of 31 March 2026), likely because it counts differently. New commitments slowed in 2024–2025 as the corpus ran out, which led to FoF 2.0.",
+      "metrics": [
+        {
+          "label": "FFS 1.0 corpus committed",
+          "value": "₹10,000 crore to 145 AIFs",
+          "asOf": "2026-02-14",
+          "source": {
+            "label": "PM India – Cabinet approves Startup India Fund of Funds 2.0 (14 Feb 2026)",
+            "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-startup-india-fund-of-funds-2-0-to-mobilize-venture-capital-for-indias-startup-ecosystem/"
+          }
+        },
+        {
+          "label": "Invested by FFS-backed AIFs",
+          "value": "₹26,900+ crore in 1,420+ startups",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "Disbursed to AIFs (cumulative)",
+          "value": "₹7,000+ crore to 135+ AIFs",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "SIDBI status page: invested / startups",
+          "value": "₹22,942 crore / 1,270 startups (153 AIFs, ₹11,808 crore commitments)",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "SIDBI – Fund of Funds for Startups status page",
+            "url": "https://www.sidbivcf.in/en/funds/ffs"
+          }
+        },
+        {
+          "label": "FoF 2.0 corpus",
+          "value": "₹10,000 crore, approved 14 Feb 2026",
+          "asOf": "2026-02-14",
+          "source": {
+            "label": "PM India – Cabinet approves Startup India Fund of Funds 2.0 (14 Feb 2026)",
+            "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-startup-india-fund-of-funds-2-0-to-mobilize-venture-capital-for-indias-startup-ecosystem/"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Amount committed to AIFs under FFS by calendar year (2025 = Jan–Oct)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2023",
+              "value": 2283.75
+            },
+            {
+              "period": "2024",
+              "value": 1319
+            },
+            {
+              "period": "2025",
+              "value": 850
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Amount disbursed / drawn down by AIFs under FFS by calendar year (2025 = Jan–Oct)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2023",
+              "value": 1153.05
+            },
+            {
+              "period": "2024",
+              "value": 1074.93
+            },
+            {
+              "period": "2025",
+              "value": 879.57
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.sidbivcf.in/en/funds/ffs",
+    "officialUrl": "https://www.dpiit.gov.in/static/uploads/2026/04/8949d8e0dabf11cb9291b00ec1d1f727.pdf",
+    "sources": [
+      {
+        "label": "PM India – Cabinet approves Startup India Fund of Funds 2.0 (14 Feb 2026)",
+        "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-startup-india-fund-of-funds-2-0-to-mobilize-venture-capital-for-indias-startup-ecosystem/"
+      },
+      {
+        "label": "DPIIT – Operational Guidelines, Startup India Fund of Funds 2.0 (Apr 2026)",
+        "url": "https://www.dpiit.gov.in/static/uploads/2026/04/8949d8e0dabf11cb9291b00ec1d1f727.pdf"
+      },
+      {
+        "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+      },
+      {
+        "label": "SIDBI – Fund of Funds for Startups status page",
+        "url": "https://www.sidbivcf.in/en/funds/ffs"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+      },
+      {
+        "label": "PIB – A Decade of Startup India (Jan 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Official sources give inconsistent FFS totals (PIB/Cabinet vs SIDBI page); both are shown. We could not confirm how many AIFs have received FoF 2.0 commitments as of October 2026 or whether the second implementing agency has been chosen. There is no direct founder application; the apply link goes to SIDBI's FFS page."
+  },
+  {
+    "slug": "credit-guarantee-scheme-startups",
+    "name": "Credit Guarantee Scheme for Startups",
+    "shortName": "CGSS",
+    "provider": "DPIIT, Ministry of Commerce & Industry; operated by NCGTC",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2022,
+    "instrument": [
+      "guarantee",
+      "loan"
+    ],
+    "maxAmountINR": 200000000,
+    "amountText": "Government guarantee on collateral-free loans of up to ₹20 crore per startup: 85% of the default amount covered for loans up to ₹10 crore, 75% above ₹10 crore",
+    "equity": "None (it's debt; venture debt lenders may ask for small warrants on their own terms)",
+    "duration": "Guarantee runs for the life of the loan; tenure is set by the lender",
+    "timeToMoney": "Depends on the lender's credit process, typically 1–3 months; guarantee cover is issued once eligibility is confirmed",
+    "status": "rolling",
+    "deadline": "Rolling, through member banks, NBFCs and venture-debt AIFs",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Government insurance that lets banks and venture-debt funds lend to startups without asking for property as security.",
+    "what": "CGSS covers lenders against a large share of losses when they lend to DPIIT-recognised startups. That makes banks, NBFCs and venture-debt funds more willing to give working capital, term loans, venture debt or convertible debt without collateral. From May 2025 the cap per borrower doubled to ₹20 crore, cover rose to 85% for loans up to ₹10 crore, and the annual fee for 27 'champion' sectors dropped to 1%.",
+    "who": [
+      "DPIIT-recognised startups",
+      "Not in default to any lender or investor, and not classified as a non-performing asset",
+      "Borrowing from a member institution (scheduled bank, NBFC, or SEBI-registered AIF) registered with NCGTC",
+      "The lender must certify you as eligible for cover"
+    ],
+    "notFor": [
+      "Startups without DPIIT recognition",
+      "Startups with a past default or NPA tag",
+      "Pre-revenue startups (lenders still apply normal credit checks; no repayment ability, no loan)",
+      "Founders hoping the guarantee means the loan is automatic"
+    ],
+    "why": [
+      "Raise debt without pledging your house or fixed deposits",
+      "Debt doesn't dilute your ownership",
+      "Venture debt can extend runway between equity rounds",
+      "Lower guarantee fee (1% p.a.) for startups in 27 champion manufacturing/service sectors"
+    ],
+    "howItWorks": "You apply for a loan to a member institution. It assesses you under its normal lending rules, then applies to NCGTC for guarantee cover. Under transaction-based cover, NCGTC pays 85% (loans up to ₹10 crore) or 75% (above ₹10 crore) of the defaulted amount. Under umbrella cover for venture-debt funds, losses are covered up to 5% of the pooled investment, capped at ₹20 crore per borrower. The lender pays an annual guarantee fee (2% p.a. standard, 1% for champion sectors) and usually passes it on.",
+    "steps": [
+      {
+        "title": "Get DPIIT recognition",
+        "detail": "Only recognised startups qualify."
+      },
+      {
+        "title": "Prepare your financials",
+        "detail": "Get audited statements, bank statements, revenue proof and a cash-flow forecast showing how you'll repay."
+      },
+      {
+        "title": "Apply online or at a member bank",
+        "detail": "Use the Jan Samarth portal's startup loan form, or approach a member bank, NBFC or venture-debt fund directly."
+      },
+      {
+        "title": "Go through credit appraisal",
+        "detail": "The lender checks your repayment capacity, business model and credit history as it would for any loan."
+      },
+      {
+        "title": "Lender obtains the CGSS cover",
+        "detail": "Once the lender sanctions the loan, it applies to NCGTC; cover is issued if eligibility is met."
+      },
+      {
+        "title": "Draw down and repay",
+        "detail": "Use the funds as agreed and repay on schedule; the guarantee fee is usually built into your cost."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition certificate",
+      "Audited financial statements and recent bank statements",
+      "GST returns and revenue/MIS reports",
+      "Business plan and repayment / cash-flow projections",
+      "KYC of the company and directors, board resolution to borrow"
+    ],
+    "benefits": [
+      "Collateral-free loans up to ₹20 crore",
+      "Covers working capital, term loans, venture debt, subordinated debt, debentures and optionally convertible debt",
+      "Non-dilutive growth capital",
+      "Builds a credit history for larger future loans"
+    ],
+    "pros": [
+      "Doubled cap (₹20 crore) and higher cover since May 2025",
+      "Usable with banks, NBFCs and venture-debt funds",
+      "Online application through Jan Samarth"
+    ],
+    "cons": [
+      "Lenders still decide; most want revenue and repayment ability, so early startups are often refused",
+      "Small reach so far: about 410 loans guaranteed by March 2026 versus 2.2 lakh+ recognised startups",
+      "Guarantee fee (1–2% a year) adds to your interest cost",
+      "Personal guarantees from founders may still be requested by some lenders"
+    ],
+    "goodFitIf": [
+      "You have steady revenue and need working capital or equipment finance",
+      "You want venture debt to extend runway without another equity round",
+      "You are in a champion manufacturing sector and can use the 1% fee"
+    ],
+    "skipIf": [
+      "You are pre-revenue (look at grants or SISFS-style support first)",
+      "You have a past loan default",
+      "You need small amounts under ₹10 lakh (MUDRA or CGTMSE-backed loans may be simpler)"
+    ],
+    "insiderTips": [
+      "Ask lenders directly whether they are CGSS member institutions; many branch staff don't know the scheme",
+      "Venture-debt funds use CGSS umbrella cover, so mention it when negotiating; it lowers their risk",
+      "Keep GST filings and audited accounts clean for 12+ months before applying; it is the main thing credit teams check"
+    ],
+    "performance": {
+      "summary": "CGSS started operations on 1 April 2023. Calendar-year guarantees rose from ₹220.78 crore in 2023 to ₹381.08 crore in 2024, then ₹153.4 crore in January–October 2025. By financial year, guaranteed amounts doubled from ₹305 crore (130 loans) in FY 2024-25 to ₹600+ crore (135+ loans) in FY 2025-26 after the May 2025 expansion. By 31 March 2026, 410+ loans worth over ₹1,250 crore had been guaranteed: growing, but still small next to the number of recognised startups.",
+      "metrics": [
+        {
+          "label": "Loans guaranteed (cumulative)",
+          "value": "410+ loans, over ₹1,250 crore",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "FY 2025-26 guarantees",
+          "value": "135+ loans, ₹600+ crore",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "FY 2024-25 guarantees",
+          "value": "130 loans, ₹305 crore",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        },
+        {
+          "label": "Maximum cover per borrower",
+          "value": "₹20 crore (raised from ₹10 crore)",
+          "asOf": "2025-05-01",
+          "source": {
+            "label": "PIB – Expansion of Credit Guarantee Scheme for Startups notified (May 2025)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127843"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Loans guaranteed under CGSS by calendar year (2025 = Jan–Oct)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2023",
+              "value": 220.78
+            },
+            {
+              "period": "2024",
+              "value": 381.08
+            },
+            {
+              "period": "2025",
+              "value": 153.4
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Loans guaranteed under CGSS by financial year (FY26 is '600+')",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "FY2024-25",
+              "value": 305
+            },
+            {
+              "period": "FY2025-26",
+              "value": 600
+            }
+          ],
+          "source": {
+            "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.jansamarth.in/business-loan-startup-scheme",
+    "officialUrl": "https://www.startupindia.gov.in/content/sih/en/credit-guarantee-scheme-for-startups.html",
+    "sources": [
+      {
+        "label": "PIB – 55,200+ startups recognised in FY 2025-26 (17 Apr 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253019"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.441 (DPIIT), answered 2 Dec 2025 – Startup India scheme data",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/186/AU441_oyPWzK.pdf?source=pqals"
+      },
+      {
+        "label": "PIB – Expansion of Credit Guarantee Scheme for Startups notified (May 2025)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127843"
+      },
+      {
+        "label": "Startup India – Credit Guarantee Scheme for Startups",
+        "url": "https://www.startupindia.gov.in/content/sih/en/credit-guarantee-scheme-for-startups.html"
+      },
+      {
+        "label": "NCGTC – CGSS product page",
+        "url": "https://www.ncgtc.in/en/product-details/CGSS/Credit-Guarantee-Scheme-for-Start-ups-(CGSS)"
+      },
+      {
+        "label": "Jan Samarth – Startup loan (CGSS) application",
+        "url": "https://www.jansamarth.in/business-loan-startup-scheme"
+      },
+      {
+        "label": "PIB – A Decade of Startup India (Jan 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The PIB release dated the CGSS expansion to May 2025 (exact day not shown on the page; we used 1 May as the month marker). The 2% standard annual guarantee fee is inferred from PIB's statement that champion sectors were cut 'to 1% p.a. from 2% p.a.'. The NCGTC product page did not load its scheme details, so borrower criteria come from the Startup India CGSS page. Calendar-year and financial-year series are from different official sources and overlap, so they are not added together."
+  },
+  {
+    "slug": "meity-tide-2",
+    "name": "Technology Incubation and Development of Entrepreneurs 2.0",
+    "shortName": "TIDE 2.0",
+    "provider": "Ministry of Electronics & Information Technology (MeitY), via MeitY Startup Hub",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2019,
+    "instrument": [
+      "grant",
+      "incubation"
+    ],
+    "maxAmountINR": 4000000,
+    "amountText": "Through a TIDE 2.0 incubator: up to ₹4 lakh (idea to proof of concept) and up to ₹7 lakh (prototype) as grants, and up to ₹40 lakh investment for product development and market outreach",
+    "equity": "Grants: none. The up-to-₹40 lakh investment tier is made through the incubator, which may take equity or similar instruments on its own terms",
+    "duration": "Incubation typically 12–24 months; funds released in stages by the incubator",
+    "timeToMoney": "Incubator-dependent; typically 2–6 months from application to first release",
+    "status": "unverified",
+    "deadline": "Each TIDE 2.0 incubator runs its own calls; no national deadline",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "ICT and emerging tech (IoT, AI, blockchain, robotics) in healthcare, education, agriculture, financial inclusion, infrastructure & transport, environment & clean tech"
+    ],
+    "oneLiner": "MeitY money and incubation for early tech startups, delivered through 51 incubators at top institutes.",
+    "what": "TIDE 2.0 funds 51 incubators at institutes of higher learning and R&D labs, which pick ICT startups using emerging technologies and give them small grants, incubation and, at the top tier, investment. The total outlay is ₹264.62 crore over five years, aiming to support about 2,000 startups. By December 2025, 1,706 startups had been supported.",
+    "who": [
+      "IT/ICT-based startups using emerging technologies (IoT, AI, blockchain, robotics etc.)",
+      "DPIIT-recognised startups (per the June 2026 Startup India playbook)",
+      "Working in one of the scheme's thematic areas (health, education, agriculture, fintech, infrastructure/transport, clean tech)",
+      "Selected by one of the 51 TIDE 2.0 incubators"
+    ],
+    "notFor": [
+      "Non-tech businesses",
+      "Startups wanting to apply to MeitY directly (you must go through an incubator)",
+      "Startups that already took the TIDE 2.0 scale-up support may be barred from some other MeitY schemes (e.g., GENESIS Pilot 2.0)"
+    ],
+    "why": [
+      "Small, fast grants for proof of concept and prototype work",
+      "Incubation at top institutes (IITs, IIMs, NITs and similar) with labs and mentors",
+      "A path to up to ₹40 lakh investment for the best startups",
+      "IP support: TIDE 2.0 startups have filed 1,672 IP/patents"
+    ],
+    "howItWorks": "MeitY funds incubators in three tiers. Each incubator runs open calls, selects startups through its own committee, and releases grants or investment in milestones. The incubator reports progress to MeitY Startup Hub. Some TIDE centres take equity or revenue share for sustainability.",
+    "steps": [
+      {
+        "title": "Find a TIDE 2.0 incubator",
+        "detail": "Check the TIDE 2.0 list on the MeitY Startup Hub website and pick incubators near you or in your domain."
+      },
+      {
+        "title": "Watch for the incubator's call",
+        "detail": "Follow the incubator's website and social media; most run one or two cohorts a year."
+      },
+      {
+        "title": "Apply with a clear tech plan",
+        "detail": "Submit your application, pitch deck and stage-wise budget (idea/PoC, prototype, or product)."
+      },
+      {
+        "title": "Pitch to the selection panel",
+        "detail": "Shortlisted founders present to the incubator's committee."
+      },
+      {
+        "title": "Sign the incubation agreement",
+        "detail": "Agree milestones, reporting and any equity or fee terms with the incubator."
+      },
+      {
+        "title": "Deliver milestones to unlock funds",
+        "detail": "Each release follows a milestone review and utilisation report."
+      }
+    ],
+    "documents": [
+      "Pitch deck and technical write-up of the product",
+      "Stage-wise budget and milestone plan",
+      "Founders' KYC and CVs",
+      "Certificate of incorporation and DPIIT certificate (if incorporated)",
+      "Prototype demo or PoC evidence"
+    ],
+    "benefits": [
+      "Grants of ₹4–7 lakh at the earliest stages",
+      "Up to ₹40 lakh investment for product development",
+      "Incubation space, labs and mentoring at a host institute",
+      "IP filing help through TIDE Centres of Excellence in IPR"
+    ],
+    "pros": [
+      "Small amounts but available at idea and prototype stage",
+      "Strong institutions run the incubators",
+      "Good track record: 1,706 startups supported, 150+ helped to go global"
+    ],
+    "cons": [
+      "Only 51 incubators, so seats are limited and competitive",
+      "Amounts at the grant tiers are small (₹4–7 lakh)",
+      "Scheme was approved for five years from 2019 and has run on extensions; new intake depends on each incubator",
+      "Incubator may take equity at the investment tier"
+    ],
+    "goodFitIf": [
+      "You are building an ICT product in one of the thematic areas",
+      "You are near (or can relocate to) a TIDE 2.0 host institute",
+      "You need a small first grant plus a credible incubator"
+    ],
+    "skipIf": [
+      "Your business isn't technology-led",
+      "You need more than ₹40 lakh",
+      "You don't want to be tied to an incubator"
+    ],
+    "insiderTips": [
+      "Ask the incubator how much TIDE money it still has unallocated before you apply; late in a scheme cycle funds may be thin",
+      "Being a TIDE 2.0 scale-up beneficiary can disqualify you from GENESIS Pilot 2.0 and similar MeitY calls, so plan the sequence"
+    ],
+    "performance": {
+      "summary": "TIDE 2.0 started in 2019 with a ₹264.62 crore outlay to support about 2,000 startups through 51 incubators over five years. By December 2025, 1,706 startups had been supported, 638 of them had filed 1,672 IP/patents, and 150+ had been helped to go global. Year-wise figures were not published in the sources we found.",
+      "metrics": [
+        {
+          "label": "Startups supported",
+          "value": "1,706",
+          "asOf": "2025-12-19",
+          "source": {
+            "label": "PIB – Over 1,700 startups supported under TIDE 2.0 (19 Dec 2025)",
+            "url": "https://negd.gov.in/wp-content/uploads/2025/12/Press-Release_Press-Information-Bureau1-7.pdf"
+          }
+        },
+        {
+          "label": "IP/patents filed by TIDE startups",
+          "value": "1,672 by 638 startups",
+          "asOf": "2025-12-19",
+          "source": {
+            "label": "PIB – Over 1,700 startups supported under TIDE 2.0 (19 Dec 2025)",
+            "url": "https://negd.gov.in/wp-content/uploads/2025/12/Press-Release_Press-Information-Bureau1-7.pdf"
+          }
+        },
+        {
+          "label": "Approved outlay",
+          "value": "₹264.62 crore over 5 years",
+          "asOf": "2025-12-19",
+          "source": {
+            "label": "PIB – Over 1,700 startups supported under TIDE 2.0 (19 Dec 2025)",
+            "url": "https://negd.gov.in/wp-content/uploads/2025/12/Press-Release_Press-Information-Bureau1-7.pdf"
+          }
+        },
+        {
+          "label": "Incubators",
+          "value": "51",
+          "asOf": "2025-12-19",
+          "source": {
+            "label": "PIB – Over 1,700 startups supported under TIDE 2.0 (19 Dec 2025)",
+            "url": "https://negd.gov.in/wp-content/uploads/2025/12/Press-Release_Press-Information-Bureau1-7.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://msh.meity.gov.in/schemes/tide",
+    "officialUrl": "https://msh.meity.gov.in/schemes/tide",
+    "sources": [
+      {
+        "label": "PIB – Over 1,700 startups supported under TIDE 2.0 (19 Dec 2025)",
+        "url": "https://negd.gov.in/wp-content/uploads/2025/12/Press-Release_Press-Information-Bureau1-7.pdf"
+      },
+      {
+        "label": "PIB – Digital India innovation (TIDE 2.0, SAMRIDH, GENESIS), 15 Mar 2023",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1907279"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "MeitY Startup Hub – TIDE 2.0",
+        "url": "https://msh.meity.gov.in/schemes/tide"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified: a July 2026 Lok Sabha answer lists TIDE 2.0 as an ongoing MeitY initiative and the June 2026 playbook still describes it, but we found no official notice on whether incubators are taking new TIDE-funded startups. The MeitY Startup Hub site had an expired security certificate when checked, so we could not read it. No year-wise series is published. The TIDE PIB release was read from a copy hosted on negd.gov.in (original PIB ID 2206765)."
+  },
+  {
+    "slug": "meity-samridh",
+    "name": "Startup Accelerators of MeitY for Product Innovation, Development and Growth",
+    "shortName": "SAMRIDH",
+    "provider": "MeitY, via MeitY Startup Hub / Digital India Corporation",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2021,
+    "instrument": [
+      "equity",
+      "incubation"
+    ],
+    "maxAmountINR": 4000000,
+    "amountText": "Up to ₹40 lakh investment from MeitY per startup (average ₹30 lakh), matched one-to-one by the accelerator or a private investor; accelerators also get ₹2 lakh per startup for services",
+    "equity": "Yes. The investment is made based on the startup's current valuation (equity or equity-linked), alongside a matching private investment",
+    "duration": "Cohort-based acceleration, typically several months; scheme outlay was ₹99 crore over 3–4 years",
+    "timeToMoney": "Accelerator-dependent; matching funds released after selection and private match is secured",
+    "status": "unverified",
+    "deadline": "No open cohort found; the 2nd cohort was launched in Sep 2024",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Software products: health-tech, ed-tech, agri-tech, consumer-tech, fintech, SaaS, sustainability"
+    ],
+    "oneLiner": "MeitY co-invests up to ₹40 lakh in software startups picked by approved accelerators, if a private investor matches it.",
+    "what": "SAMRIDH funds 43 accelerators across 16 states to run acceleration programmes for software product startups. Selected startups get customer, investor and international connections, plus a MeitY investment of up to ₹40 lakh that must be matched by the accelerator or another investor. The programme aimed at about 300 startups and had supported 373 by February 2026.",
+    "who": [
+      "IT-based / software product startups",
+      "Selected into a cohort by a SAMRIDH-approved accelerator",
+      "Able to raise matching private investment",
+      "Usually with a working product and some traction"
+    ],
+    "notFor": [
+      "Idea-stage founders without a product",
+      "Non-software businesses",
+      "Founders unwilling to give equity"
+    ],
+    "why": [
+      "Investment that doubles because a private investor must match it",
+      "Structured acceleration: customer connect, investor connect, international expansion",
+      "Government-backed signal for your next round"
+    ],
+    "howItWorks": "MeitY selected accelerators (Section 8 companies or societies) through open calls. Each accelerator picks a cohort of 5–15 startups, designs a programme and gets ₹2 lakh per startup (max ₹20 lakh per cohort) for services. MeitY then invests up to ₹40 lakh per startup, released when an equal private investment is in place.",
+    "steps": [
+      {
+        "title": "Check the accelerator list",
+        "detail": "Find SAMRIDH accelerators on MeitY Startup Hub and see which focus on your sector."
+      },
+      {
+        "title": "Apply to an accelerator cohort",
+        "detail": "Submit your product, traction and team details when the accelerator opens a call."
+      },
+      {
+        "title": "Get selected",
+        "detail": "Go through the accelerator's screening and pitch rounds."
+      },
+      {
+        "title": "Line up the private match",
+        "detail": "Secure a matching investment from the accelerator or an angel/VC."
+      },
+      {
+        "title": "Complete documentation",
+        "detail": "Sign investment documents on the agreed valuation and receive funds."
+      }
+    ],
+    "documents": [
+      "Pitch deck with traction and revenue metrics",
+      "Cap table and incorporation documents",
+      "DPIIT recognition (commonly required)",
+      "Valuation basis / term sheet from the matching investor"
+    ],
+    "benefits": [
+      "Up to ₹40 lakh MeitY investment plus an equal private investment",
+      "Acceleration services from experienced accelerators",
+      "Investor and international market connections"
+    ],
+    "pros": [
+      "Meaningful cheque size for a seed round",
+      "Matching rule forces a real investor to back you",
+      "Run by established accelerators"
+    ],
+    "cons": [
+      "Takes equity",
+      "Depends on raising a private match",
+      "Scheme period appears to have ended; no new cohort announced",
+      "Only about a quarter of sanctioned outlay per startup goes to accelerator services; quality varies"
+    ],
+    "goodFitIf": [
+      "You run a software product startup with early revenue",
+      "An accelerator from the SAMRIDH list already knows you",
+      "You can attract a matching angel or VC"
+    ],
+    "skipIf": [
+      "You want non-dilutive money",
+      "You are pre-product",
+      "You need money now: no open cohort was found"
+    ],
+    "insiderTips": [
+      "Watch MeitY Startup Hub announcements for any SAMRIDH successor or new cohort",
+      "If you were a SAMRIDH beneficiary, note that GENESIS Pilot 2.0 excludes you"
+    ],
+    "performance": {
+      "summary": "Launched in August 2021 with a ₹99 crore outlay to accelerate about 300 software startups. The first cohort had 22 accelerators in 12 states; a second cohort to select 125 startups launched in September 2024. By February 2026, 43 accelerators across 16 states had supported 373 startups. A Lok Sabha reply reported by Inc42 said ₹93.75 crore had been disbursed to 241 startups over five years. Year-wise data was not found.",
+      "metrics": [
+        {
+          "label": "Startups supported",
+          "value": "373",
+          "asOf": "2026-02-04",
+          "source": {
+            "label": "NeGD – SAMRIDH provides support to 373 startups through selected accelerators (4 Feb 2026)",
+            "url": "https://negd.gov.in/press_release/samridh-programme-provides-financial-support-to-373-startups-through-selected-accelerators/"
+          }
+        },
+        {
+          "label": "Accelerators selected",
+          "value": "43 across 16 states (from 186 applications)",
+          "asOf": "2026-02-04",
+          "source": {
+            "label": "NeGD – SAMRIDH provides support to 373 startups through selected accelerators (4 Feb 2026)",
+            "url": "https://negd.gov.in/press_release/samridh-programme-provides-financial-support-to-373-startups-through-selected-accelerators/"
+          }
+        },
+        {
+          "label": "Funds disbursed (secondary report of Lok Sabha reply)",
+          "value": "₹93.75 crore to 241 startups",
+          "asOf": "2026-02-04",
+          "source": {
+            "label": "Inc42 – SAMRIDH disbursed INR 94 Cr in 5 years (5 Feb 2026) [secondary]",
+            "url": "https://inc42.com/buzz/samridh-scheme-disbursed-inr-94-cr-startup-funding-in-5-years-mos-it/"
+          }
+        },
+        {
+          "label": "Outlay",
+          "value": "₹99 crore",
+          "asOf": "2024-09-05",
+          "source": {
+            "label": "PIB – 2nd cohort of SAMRIDH launched (5 Sep 2024)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2052139"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://msh.meity.gov.in/schemes/samridh",
+    "officialUrl": "https://msh.meity.gov.in/schemes/samridh",
+    "sources": [
+      {
+        "label": "NeGD – SAMRIDH provides support to 373 startups through selected accelerators (4 Feb 2026)",
+        "url": "https://negd.gov.in/press_release/samridh-programme-provides-financial-support-to-373-startups-through-selected-accelerators/"
+      },
+      {
+        "label": "PIB – 2nd cohort of SAMRIDH launched (5 Sep 2024)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2052139"
+      },
+      {
+        "label": "PIB – Digital India innovation (TIDE 2.0, SAMRIDH, GENESIS), 15 Mar 2023",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1907279"
+      },
+      {
+        "label": "Inc42 – SAMRIDH disbursed INR 94 Cr in 5 years (5 Feb 2026) [secondary]",
+        "url": "https://inc42.com/buzz/samridh-scheme-disbursed-inr-94-cr-startup-funding-in-5-years-mos-it/"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "MeitY Startup Hub – SAMRIDH",
+        "url": "https://msh.meity.gov.in/schemes/samridh"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status unverified: the 4-year window from August 2021 has passed and secondary sources say SAMRIDH concluded on 31 January 2026, but the June 2026 Startup India playbook still lists it and we found no official closure notice. The ₹93.75 crore disbursal figure comes from Inc42's report of a 4 Feb 2026 Lok Sabha reply; we could not open the official answer. MeitY Startup Hub's site had an expired certificate when checked."
+  },
+  {
+    "slug": "meity-genesis",
+    "name": "Gen-Next Support for Innovative Startups",
+    "shortName": "GENESIS",
+    "provider": "MeitY, via MeitY Startup Hub",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2022,
+    "instrument": [
+      "grant",
+      "equity",
+      "incubation"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "Through implementing agencies in Tier-II/III cities: up to ₹10 lakh for entrepreneurs-in-residence to validate ideas, pilot-linked support of up to ₹40 lakh (Pilot 2.0), and up to ₹1 crore for deep-tech startups",
+    "equity": "EIR support: none. Investment component and deep-tech support may be equity or equity-linked, depending on the implementing agency's terms",
+    "duration": "Scheme outlay of ₹490 crore over five years; support per startup released in stages",
+    "timeToMoney": "Implementing-agency dependent; typically a few months after selection",
+    "status": "rolling",
+    "deadline": "Applications accepted throughout the year; GENESIS Pilot 2.0 call (via implementing agencies) closes around 30 Oct 2026",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Technology startups aligned to MeitY focus areas; deep tech"
+    ],
+    "oneLiner": "MeitY's programme to fund and grow tech startups in Tier-II and Tier-III cities through about 65 local incubators.",
+    "what": "GENESIS gives money and support to incubators and accelerators (implementing agencies) in smaller cities, which then fund startups. Components include an Entrepreneur-in-Residence grant of up to ₹10 lakh, investment and pilot funding, and a ₹25 crore deep-tech pool for up to ₹1 crore per startup. The scheme aims to scale about 1,600 startups over five years.",
+    "who": [
+      "Tech startups or aspiring entrepreneurs based in Tier-II and Tier-III cities",
+      "For Pilot 2.0: DPIIT-recognised private limited company, 1–5 years old, ≥51% Indian founder ownership, revenue up to ₹1.5 crore, a pilot purchase/work order of ₹1 lakh–₹1 crore",
+      "Selected by one of the GENESIS implementing agencies"
+    ],
+    "notFor": [
+      "Startups in big metros (focus is Tier-II/III)",
+      "For Pilot 2.0: beneficiaries of TIDE 2.0 scale-up, SAMRIDH or the GENESIS investment component, and startups in an ongoing GENESIS EIR cohort",
+      "Resale businesses and pure manpower services (Pilot 2.0)"
+    ],
+    "why": [
+      "Built specifically for founders outside the big metros",
+      "EIR grant helps you test an idea before quitting your job",
+      "Pilot funding linked to a real customer order",
+      "Rare up-to-₹1 crore support for deep-tech in smaller cities"
+    ],
+    "howItWorks": "MeitY gives recurring support to about 50–65 implementing agencies (incubators, accelerators, universities). Each agency runs its own calls, selects startups and releases funds. Deep-tech support of up to ₹1 crore comes from a separate ₹25 crore pool.",
+    "steps": [
+      {
+        "title": "Find a GENESIS implementing agency",
+        "detail": "Look up the list of approved implementing agencies (about 65, across most states) on MeitY Startup Hub."
+      },
+      {
+        "title": "Pick the right component",
+        "detail": "EIR for idea validation; Pilot 2.0 if you have a customer pilot order; deep-tech track if you have novel IP."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit through the MeitY Startup Hub GENESIS page or the agency's own call, naming your preferred agency."
+      },
+      {
+        "title": "Get evaluated",
+        "detail": "The agency screens eligibility and holds pitch rounds."
+      },
+      {
+        "title": "Sign agreements and start",
+        "detail": "Agree milestones; funds are released as you hit them."
+      }
+    ],
+    "documents": [
+      "DPIIT certificate and incorporation documents (for startups)",
+      "Pitch deck and product demo / MVP evidence",
+      "Pilot purchase order or work order (for Pilot 2.0)",
+      "Cap table showing Indian ownership",
+      "Revenue statements and details of earlier government/private funding"
+    ],
+    "benefits": [
+      "Up to ₹10 lakh EIR support, up to ₹40 lakh pilot support, up to ₹1 crore for deep tech",
+      "Incubation and mentoring in your own region",
+      "Market connections and testing/certification cost support (Pilot 2.0)"
+    ],
+    "pros": [
+      "Year-round applications",
+      "Fills a real gap for non-metro founders",
+      "Pilot support tied to actual customers"
+    ],
+    "cons": [
+      "Implementing-agency quality varies",
+      "Many exclusions if you already used other MeitY schemes",
+      "Deep-tech pool had no proposals as of March 2025, showing slow uptake",
+      "Fragmented information; you must track individual agency calls"
+    ],
+    "goodFitIf": [
+      "You are a tech founder in a Tier-II/III city",
+      "You have a customer ready to run a paid pilot",
+      "You want to validate an idea with EIR support"
+    ],
+    "skipIf": [
+      "You are based in a metro",
+      "You already took SAMRIDH or TIDE 2.0 scale-up money (for Pilot 2.0)",
+      "Your business isn't technology-led"
+    ],
+    "insiderTips": [
+      "Get a signed pilot PO from a real customer before applying to Pilot 2.0; it's the core requirement",
+      "Deep-tech founders: the ₹1 crore pool was under-used in 2025, which may mean less competition",
+      "Check the official MeitY Startup Hub page, not only agency adverts, for the exact rules"
+    ],
+    "performance": {
+      "summary": "GENESIS was launched in July 2022 with a ₹490 crore outlay over five years to scale about 1,600 startups. Its 65 implementing agencies were announced in September 2024. By March 2025, 172 entrepreneurs/students had been shortlisted for EIR support and no proposal had yet been received for the deep-tech component. No year-wise data was found.",
+      "metrics": [
+        {
+          "label": "Implementing agencies",
+          "value": "65",
+          "asOf": "2025-03-12",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.2240 (MeitY), answered 12 Mar 2025 – GENESIS",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU2240_79NBJo.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "EIR entrepreneurs/students shortlisted",
+          "value": "172",
+          "asOf": "2025-03-12",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.2240 (MeitY), answered 12 Mar 2025 – GENESIS",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU2240_79NBJo.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Deep-tech proposals received",
+          "value": "0 (₹25 crore pool for 25 startups)",
+          "asOf": "2025-03-12",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.2240 (MeitY), answered 12 Mar 2025 – GENESIS",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU2240_79NBJo.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Outlay",
+          "value": "₹490 crore over 5 years",
+          "asOf": "2026-01-15",
+          "source": {
+            "label": "PIB – A Decade of Startup India (Jan 2026)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://msh.meity.gov.in/schemes/genesis",
+    "officialUrl": "https://msh.meity.gov.in/schemes/genesis",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.2240 (MeitY), answered 12 Mar 2025 – GENESIS",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU2240_79NBJo.pdf?source=pqals"
+      },
+      {
+        "label": "PIB – A Decade of Startup India (Jan 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+      },
+      {
+        "label": "ThePrint/ANI advertorial – ACIC-VGU invites applications for GENESIS Pilot 2.0 (19 Oct 2026) [secondary]",
+        "url": "https://theprint.in/ani-press-releases/acic-vgu-invites-startup-applications-for-meitys-genesis-pilot-2-0-funding-support-of-up-to-%E2%82%B940-lakh-available/3075868/"
+      },
+      {
+        "label": "MeitY Startup Hub – GENESIS",
+        "url": "https://msh.meity.gov.in/schemes/genesis"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Year-round application status is from the June 2026 Startup India playbook. Pilot 2.0 terms and the ~30 Oct 2026 deadline come from an incubator's paid press release (ThePrint/ANI), not an official notice. Performance figures date from March 2025; we found no newer official numbers. The MeitY Startup Hub site had an expired certificate when checked."
+  },
+  {
+    "slug": "atal-new-india-challenge",
+    "name": "Atal New India Challenge",
+    "shortName": "ANIC",
+    "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2018,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "Grant-in-aid of up to ₹1 crore per selected startup/MSME, in 3 tranches (30% / 40% / 30%) over 12–24 months",
+    "equity": "Grant-in-aid. The May 2026 guidelines also list a term sheet / share subscription and shareholding agreement among required documents; its terms are in a separate document we could not see",
+    "duration": "12–24 months (each tranche used over 4–8 months)",
+    "timeToMoney": "Several months after selection: 27 documents and PFMS registration are needed before the first tranche",
+    "status": "unverified",
+    "deadline": "Call-based. AIM issued fresh ANIC guidelines in May 2026, but we found no open call",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Sector challenges set by AIM and partner ministries (e.g., e-mobility, space tech, sanitation, medical devices, agriculture, clean tech, education)"
+    ],
+    "oneLiner": "A grant of up to ₹1 crore to take a working prototype that solves a national problem to market.",
+    "what": "ANIC funds startups and MSMEs that already have a working prototype for one of AIM's announced challenge areas, to help them reach commercialisation. The grant covers testing, piloting and market creation, and is paid in three milestone-based tranches. Capex is limited to 30% of the grant, opex must be at least 60%.",
+    "who": [
+      "Indian company under the Companies Act, Indian MSME, or DPIIT-recognised startup",
+      "Has a working prototype relevant to an announced ANIC challenge",
+      "More than 51% of the applicant held in India",
+      "Can fund any project cost beyond the AIM grant"
+    ],
+    "notFor": [
+      "Idea-stage teams without a working prototype",
+      "Solutions outside the announced challenge areas",
+      "Foreign-controlled companies",
+      "Founders who can't handle heavy compliance (PFMS, 27 documents, utilisation certificates)"
+    ],
+    "why": [
+      "Up to ₹1 crore non-repayable grant at the commercialisation stage",
+      "Challenges are set with ministries, so winners get government visibility and potential buyers",
+      "You keep the IP (government gets a non-exclusive licence for its own use)"
+    ],
+    "howItWorks": "AIM opens a call with specific challenges. Applications go through shortlisting, then a pitch to a Screening-cum-Selection Committee of experts and officials. Selected grantees go through due diligence and sign an agreement. Money flows through PFMS into a zero-balance account in three tranches; each later tranche needs the previous milestones met and at least 80% of the earlier tranche spent.",
+    "steps": [
+      {
+        "title": "Watch for an ANIC call",
+        "detail": "Track the AIM website and social media; applications are accepted only during a call window."
+      },
+      {
+        "title": "Match your prototype to a challenge",
+        "detail": "Read the challenge statements and apply only where your working prototype clearly fits."
+      },
+      {
+        "title": "Apply on the AIM portal",
+        "detail": "Submit project cost, detailed budget, goals and deliverables, and your plan to fund the balance."
+      },
+      {
+        "title": "Pitch to the selection committee",
+        "detail": "Shortlisted applicants present to the Screening-cum-Selection Committee."
+      },
+      {
+        "title": "Complete due diligence",
+        "detail": "Submit 27 signed documents, register on PFMS, open the dedicated accounts, and sign the MoA."
+      },
+      {
+        "title": "Deliver milestones for each tranche",
+        "detail": "Hit agreed goals, spend at least 80% of the previous tranche, and file utilisation certificates to unlock the next one."
+      }
+    ],
+    "documents": [
+      "Incorporation certificate, PAN, DPIIT/MSME registration",
+      "Audited financials and income-tax returns",
+      "Shareholding pattern and directors' details",
+      "Detailed budget and goals & deliverables in AIM's format",
+      "Prototype evidence (test data, demo)",
+      "Declarations, MoA, bond and term sheet/shareholding agreement (on selection)"
+    ],
+    "benefits": [
+      "Up to ₹1 crore grant",
+      "Access to AIM's network of incubators, mentors and partner ministries",
+      "Credibility with government buyers"
+    ],
+    "pros": [
+      "Large non-repayable grant",
+      "You own the IP",
+      "Supports the hard 'prototype to market' stage that few grants cover"
+    ],
+    "cons": [
+      "Calls are irregular; the last widely announced round was ANIC 2.0 (2022)",
+      "Very selective: AIM's page reports 30 startups selected",
+      "Heavy compliance: PFMS, 27 documents, strict budget heads",
+      "Tranches only after milestones, so you need bridge money"
+    ],
+    "goodFitIf": [
+      "You have a working prototype solving a public-sector problem",
+      "You can handle government grant compliance",
+      "You have some funds to cover costs between tranches"
+    ],
+    "skipIf": [
+      "You don't have a prototype yet",
+      "Your product doesn't fit any announced challenge",
+      "You need money within a few weeks"
+    ],
+    "insiderTips": [
+      "Read the May 2026 guidelines now and prepare the 27-document checklist in advance; the next call may give little time",
+      "Keep capex under 30% of your requested budget; AIM cuts extra capex",
+      "Register on PFMS early; delays there hold up the first tranche"
+    ],
+    "performance": {
+      "summary": "ANIC began in 2018; ANIC 2.0 phase 1 launched in April 2022 with 18 challenges across 7 sectors. AIM's ANIC page reports 30 startups selected, 29 receiving grants and over ₹12 crore disbursed (the page does not say which round or date). AIM published updated ANIC programme guidelines in May 2026. No year-wise data was found.",
+      "metrics": [
+        {
+          "label": "Startups selected (AIM page, round not stated)",
+          "value": "30",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Atal Innovation Mission – Atal New India Challenge",
+            "url": "https://www.aim.gov.in/atal-new-india-challenge.php"
+          }
+        },
+        {
+          "label": "Startups that received grant disbursement",
+          "value": "29",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Atal Innovation Mission – Atal New India Challenge",
+            "url": "https://www.aim.gov.in/atal-new-india-challenge.php"
+          }
+        },
+        {
+          "label": "Grants disbursed",
+          "value": "₹12+ crore",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Atal Innovation Mission – Atal New India Challenge",
+            "url": "https://www.aim.gov.in/atal-new-india-challenge.php"
+          }
+        },
+        {
+          "label": "ANIC 2.0 phase 1 challenges",
+          "value": "18 challenges in 7 sectors",
+          "asOf": "2022-04-29",
+          "source": {
+            "label": "PIB – Atal New India Challenge 2.0 launch (29 Apr 2022)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1821302"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.aim.gov.in/atal-new-india-challenge.php",
+    "officialUrl": "https://www.aim.gov.in/pdf/ANIC-2.0-Final-Guidelines.pdf",
+    "sources": [
+      {
+        "label": "AIM – ANIC Program Guidelines (May 2026)",
+        "url": "https://www.aim.gov.in/pdf/ANIC-2.0-Final-Guidelines.pdf"
+      },
+      {
+        "label": "Atal Innovation Mission – Atal New India Challenge",
+        "url": "https://www.aim.gov.in/atal-new-india-challenge.php"
+      },
+      {
+        "label": "PIB – Atal New India Challenge 2.0 launch (29 Apr 2022)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1821302"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status unverified: AIM released new ANIC guidelines dated May 2026, but the ANIC web pages (last updated Jan 2024) show no open call and we found no official announcement of a new round. The 30/29/₹12 crore figures are undated counters on AIM's page and may refer to an earlier round only. Whether AIM takes any equity under the shareholding agreement could not be checked. The 'asOf' date for AIM page counters is the date we read the page."
+  },
+  {
+    "slug": "atal-incubation-centres",
+    "name": "Atal Incubation Centres",
+    "shortName": "AIC",
+    "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "incubation"
+    ],
+    "maxAmountINR": null,
+    "amountText": "For founders: incubation (space, labs, mentors, investor access, sometimes seed money from the AIC's own funds). For institutions: up to ₹5 crore (no lab) or ₹10 crore (sector lab) grant over 5 years to set up an AIC",
+    "equity": "Varies by AIC; many take 2–10% equity or charge fees for incubation and seed support",
+    "duration": "Incubation usually 12–24 months",
+    "timeToMoney": "Incubation can start within weeks of selection; seed funding (if any) depends on the AIC",
+    "status": "rolling",
+    "deadline": "Rolling: each AIC runs its own intake. New AIC grants for institutions are call-based",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any; many AICs are sector-focused (health, agri, clean tech, deep tech etc.)"
+    ],
+    "oneLiner": "A national network of government-funded incubators where early founders get space, labs, mentors and investor access.",
+    "what": "AIM funds universities, research institutes and companies to run Atal Incubation Centres. Founders apply to an individual AIC to join its incubation programme. The AIC provides workspace, sector labs, mentoring, help with business planning, and links to seed capital and industry partners.",
+    "who": [
+      "Founders and early-stage startups with an innovative product or service",
+      "Admission criteria set by each AIC (sector, stage, team)",
+      "Institutions (academic, corporate, AIFs, accelerators) can apply to AIM to set up a new AIC"
+    ],
+    "notFor": [
+      "Founders looking for a direct government cheque",
+      "Businesses with no innovation angle",
+      "Startups that don't want to share equity or pay fees (check each AIC's terms)"
+    ],
+    "why": [
+      "Low-cost office space and specialised labs you couldn't afford alone",
+      "Mentors, investor demo days, and help applying to schemes like SISFS and BIG",
+      "Many AICs became SISFS incubators, so joining one opens funding routes"
+    ],
+    "howItWorks": "AIM gives an approved host institution up to ₹5–10 crore over five years for capital and operating costs (government hosts need no matching contribution; others match 25–100%). The AIC then runs open calls, selects startups through its own committee, and supports them for 1–2 years.",
+    "steps": [
+      {
+        "title": "Shortlist AICs",
+        "detail": "Use AIM's list of established AICs and pick ones in your city or sector."
+      },
+      {
+        "title": "Check the AIC's terms",
+        "detail": "Read its incubation agreement: equity, fees, duration, what's included."
+      },
+      {
+        "title": "Apply to the AIC's call",
+        "detail": "Submit your application and pitch deck through the AIC's website."
+      },
+      {
+        "title": "Pitch and join",
+        "detail": "Present to the AIC's panel; on selection, sign the incubation agreement and move in."
+      },
+      {
+        "title": "Use the network",
+        "detail": "Join mentoring sessions, demo days and scheme applications run by the AIC."
+      }
+    ],
+    "documents": [
+      "Pitch deck and short business plan",
+      "Founders' CVs and KYC",
+      "Incorporation documents (if incorporated)",
+      "Product demo or prototype details"
+    ],
+    "benefits": [
+      "Workspace and lab access",
+      "Mentoring and business support",
+      "Investor and corporate connects",
+      "Help accessing government schemes"
+    ],
+    "pros": [
+      "Present in most states (85 AICs/EICs per AIM)",
+      "Rolling intake",
+      "Good first step for student and first-time founders"
+    ],
+    "cons": [
+      "No guaranteed money; you rely on the AIC's own funds and schemes",
+      "Quality varies a lot between AICs",
+      "Some AICs take equity for fairly basic support"
+    ],
+    "goodFitIf": [
+      "You are a first-time or student founder needing structure and space",
+      "You need lab equipment for a hardware or biotech prototype",
+      "You want help applying to SISFS-type or BIG-type grants"
+    ],
+    "skipIf": [
+      "You only want cash",
+      "You already have an office, network and investors",
+      "The nearby AIC doesn't cover your sector"
+    ],
+    "insiderTips": [
+      "Talk to 2–3 current incubatees before joining; ask what they actually got",
+      "Negotiate equity: if the AIC gives no seed money, push for fee-based or minimal equity terms",
+      "Pick AICs that are also SISFS or BIG partners; they can route funding to you"
+    ],
+    "performance": {
+      "summary": "AICs are AIM's oldest programme (2016). A December 2024 Lok Sabha answer said 3,556 startups had been incubated in 72 AICs, creating 41,965 jobs. AIM's current AIC page shows 85 AICs/EICs, 2,900+ startups incubated and 32,000+ jobs (undated, lower than the 2024 answer). AIM's overall outlay is ₹2,750 crore up to March 2028 under AIM 2.0. No year-wise series was found.",
+      "metrics": [
+        {
+          "label": "Startups incubated in AICs",
+          "value": "3,556 in 72 AICs",
+          "asOf": "2024-12-18",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.3820 (Planning), answered 18 Dec 2024 – Atal Incubation Centres",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/183/AU3820_406x3D.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Jobs created by AIC startups",
+          "value": "41,965",
+          "asOf": "2024-12-18",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.3820 (Planning), answered 18 Dec 2024 – Atal Incubation Centres",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/183/AU3820_406x3D.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "AICs/EICs (AIM website)",
+          "value": "85",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Atal Innovation Mission – Atal Incubation Centres",
+            "url": "https://aim.gov.in/aic.php"
+          }
+        },
+        {
+          "label": "AIM outlay",
+          "value": "₹2,750 crore up to March 2028",
+          "asOf": "2026-01-15",
+          "source": {
+            "label": "PIB – A Decade of Startup India (Jan 2026)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://aim.gov.in/aic.php",
+    "officialUrl": "https://aim.gov.in/pdf/AIC-Guidelines-Final_24Nov-2023.pdf",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.3820 (Planning), answered 18 Dec 2024 – Atal Incubation Centres",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/183/AU3820_406x3D.pdf?source=pqals"
+      },
+      {
+        "label": "Atal Innovation Mission – Atal Incubation Centres",
+        "url": "https://aim.gov.in/aic.php"
+      },
+      {
+        "label": "AIM – AIC Guidelines (Nov 2023)",
+        "url": "https://aim.gov.in/pdf/AIC-Guidelines-Final_24Nov-2023.pdf"
+      },
+      {
+        "label": "PIB – A Decade of Startup India (Jan 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Founders apply to individual AICs, so 'rolling' reflects that intake model; we did not check each AIC. The equity range (2–10%) is typical market practice, not an official AIM figure. AIM's website counters are undated and lower than the Dec 2024 parliamentary figures. A Rajya Sabha figure of 6,782 startups in 83 AICs and 20 ACICs appears in secondary sources, but we could not open the official answer, so it is not used."
+  },
+  {
+    "slug": "msme-idea-hackathon-innovative-incubation",
+    "name": "MSME Innovative Scheme (Incubation) – MSME Idea Hackathon",
+    "shortName": "MSME Idea Hackathon",
+    "provider": "Ministry of Micro, Small & Medium Enterprises",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2022,
+    "instrument": [
+      "grant",
+      "incubation"
+    ],
+    "maxAmountINR": 1500000,
+    "amountText": "Up to ₹15 lakh grant per approved idea, released through an empanelled Host Institute (incubator) in instalments, for prototype development and validation",
+    "equity": "None from the ministry",
+    "duration": "Roughly 12–18 months to build the prototype; released in instalments",
+    "timeToMoney": "Slow: results come months after the call closes, and instalments need Host Institute requests (e.g., 5.0 first-instalment requests open until 31 Oct 2026)",
+    "status": "call-based",
+    "deadline": "Hackathon 6.0 window ran 27 June–14 July 2026 and is closed; ideas are under evaluation. Watch for 7.0 (calls have opened mid-year)",
+    "stages": [
+      "student",
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any; editions have had themes (2.0 theme-based, 3.0 women, 4.0 youth)"
+    ],
+    "oneLiner": "A national idea contest by the MSME Ministry that gives winning ideas up to ₹15 lakh through a host incubator.",
+    "what": "Under the incubation part of the MSME Innovative scheme (MSME Champions), the ministry runs the MSME Idea Hackathon. Individuals and startups submit ideas through an empanelled Host Institute; approved ideas get up to ₹15 lakh to build and test a prototype. Over 1,900 ideas have been approved across five editions.",
+    "who": [
+      "Individuals, students, innovators and MSMEs/startups with an original idea",
+      "Must apply through an empanelled Host Institute (HI) listed on the MSME incubation portal",
+      "Some editions are reserved for groups such as women or youth"
+    ],
+    "notFor": [
+      "Ideas copied or already commercialised",
+      "Applicants not willing to work with a Host Institute",
+      "Founders needing large or fast funding"
+    ],
+    "why": [
+      "Grant money for students and first-time innovators who can't get investors",
+      "No equity taken by the ministry",
+      "Host Institute provides lab space and mentoring"
+    ],
+    "howItWorks": "Host Institutes (incubators at colleges, universities and technical bodies) register on the MSME portal. They forward ideas to the ministry during a hackathon window. The ministry evaluates and approves ideas, then releases the grant in instalments to the Host Institute, which spends it on the innovator's prototype and submits a completion report.",
+    "steps": [
+      {
+        "title": "Find a Host Institute",
+        "detail": "Check the HI list on my.msme.gov.in/inc and approach one in your area or field."
+      },
+      {
+        "title": "Prepare your idea proposal",
+        "detail": "Write a clear problem statement, solution, novelty, budget (up to ₹15 lakh) and timeline."
+      },
+      {
+        "title": "Submit during the hackathon window",
+        "detail": "Register on innovative.msme.gov.in, pick your HI in the form (it can't be changed later), and submit before the deadline; one idea, one HI only."
+      },
+      {
+        "title": "Clear two rounds of evaluation",
+        "detail": "Your HI's expert panel screens the idea first, then the ministry evaluates and a committee (PMAC) makes the final selection."
+      },
+      {
+        "title": "Wait for evaluation and results",
+        "detail": "Approved ideas are published on the Hackathon Results page."
+      },
+      {
+        "title": "Build the prototype with the HI",
+        "detail": "The HI requests instalments from the ministry; you deliver the prototype and the HI files the completion report."
+      }
+    ],
+    "documents": [
+      "Idea proposal in the prescribed format",
+      "Applicant KYC (Aadhaar, PAN) and Udyam registration if an MSME",
+      "Budget and timeline for the prototype",
+      "Host Institute consent / endorsement"
+    ],
+    "benefits": [
+      "Up to ₹15 lakh grant",
+      "Lab, mentoring and incubation at the Host Institute",
+      "Government recognition of the idea"
+    ],
+    "pros": [
+      "Open to individuals and students, not just companies",
+      "No equity",
+      "Hundreds of ideas approved per edition (502 in 5.0)"
+    ],
+    "cons": [
+      "Slow: long gaps between call, results and instalments",
+      "Money flows through the Host Institute, not to you directly",
+      "Small amount; only enough for a prototype",
+      "Calls are once a year at best and windows can be short"
+    ],
+    "goodFitIf": [
+      "You are a student or first-time innovator with a prototype idea",
+      "You have a college incubator willing to host you",
+      "You can wait several months for money"
+    ],
+    "skipIf": [
+      "You need money soon",
+      "You already have a working product and revenue",
+      "You want to control the spending directly"
+    ],
+    "insiderTips": [
+      "Line up your Host Institute before the call opens; HIs often cap how many ideas they forward",
+      "Check which edition theme applies; reserved editions (women, youth) have less competition",
+      "Once approved, push your HI to file instalment requests before the portal deadlines"
+    ],
+    "performance": {
+      "summary": "The hackathon has run five completed editions since 2022, with approvals rising every time: 257 ideas in 2022, 276 in 2.0, 397 in 3.0 (women), 488 in 4.0 (youth) and 502 in 5.0. Hackathon 6.0 ideas are under evaluation. Total money released per edition was not published on the portal.",
+      "metrics": [
+        {
+          "label": "Ideas approved in Hackathon 5.0",
+          "value": "502",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Ministry of MSME – Hackathon results page",
+            "url": "https://my.msme.gov.in/inc/Hackathon_Result.aspx"
+          }
+        },
+        {
+          "label": "Grant per idea",
+          "value": "Up to ₹15 lakh",
+          "asOf": "2026-06-27",
+          "source": {
+            "label": "Ministry of MSME – MSME Idea Hackathon 6.0 Instructions for Participation (2026)",
+            "url": "https://my.msme.gov.in/inc/WriteReadData/Manuals/MSME_Idea_Hackathon_6.0_Instructions_for_Participation.pdf"
+          }
+        },
+        {
+          "label": "Hackathon 6.0 submission window",
+          "value": "27 June – 14 July 2026 (theme: Frontier Technology in MSMEs)",
+          "asOf": "2026-06-27",
+          "source": {
+            "label": "Ministry of MSME – MSME Idea Hackathon 6.0 Instructions for Participation (2026)",
+            "url": "https://my.msme.gov.in/inc/WriteReadData/Manuals/MSME_Idea_Hackathon_6.0_Instructions_for_Participation.pdf"
+          }
+        },
+        {
+          "label": "Hackathon 6.0",
+          "value": "Idea window closed; under evaluation",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Ministry of MSME – Incubation Scheme / MSME Idea Hackathon portal",
+            "url": "https://my.msme.gov.in/inc/"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Ideas approved per MSME Idea Hackathon edition",
+          "unit": "ideas",
+          "points": [
+            {
+              "period": "1.0 (2022)",
+              "value": 257
+            },
+            {
+              "period": "2.0",
+              "value": 276
+            },
+            {
+              "period": "3.0 (Women)",
+              "value": 397
+            },
+            {
+              "period": "4.0 (Youth)",
+              "value": 488
+            },
+            {
+              "period": "5.0",
+              "value": 502
+            }
+          ],
+          "source": {
+            "label": "Ministry of MSME – Hackathon results page",
+            "url": "https://my.msme.gov.in/inc/Hackathon_Result.aspx"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://my.msme.gov.in/inc/",
+    "officialUrl": "https://my.msme.gov.in/inc/",
+    "sources": [
+      {
+        "label": "Ministry of MSME – Incubation Scheme / MSME Idea Hackathon portal",
+        "url": "https://my.msme.gov.in/inc/"
+      },
+      {
+        "label": "Ministry of MSME – Hackathon results page",
+        "url": "https://my.msme.gov.in/inc/Hackathon_Result.aspx"
+      },
+      {
+        "label": "Ministry of MSME – MSME Idea Hackathon 6.0 Instructions for Participation (2026)",
+        "url": "https://my.msme.gov.in/inc/WriteReadData/Manuals/MSME_Idea_Hackathon_6.0_Instructions_for_Participation.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The ₹15 lakh limit and the 6.0 window (27 June–14 July 2026) are from the ministry's 6.0 instructions. The June 2026 playbook lists MSME-Innovative under MSME Champions (approved for 2021-22 to 2025-26). We could not confirm the scheme's formal extension beyond March 2026, though Hackathon 6.0 is under evaluation and instalments for earlier editions continue. Edition years for 2.0–5.0 are not shown on the results page. The amount released per edition and success rates were not published. The 'up to ₹1 crore for Host Institute equipment' and '5 ideas per HI per year' rules seen in secondary sources were not verified, so they are left out."
+  },
+  {
+    "slug": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme",
+    "shortName": "PMEGP",
+    "provider": "Ministry of MSME; implemented by KVIC, State KVIBs and District Industries Centres",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2008,
+    "instrument": [
+      "subsidy",
+      "loan"
+    ],
+    "maxAmountINR": 1750000,
+    "amountText": "Bank loan for a new micro-enterprise with a government 'margin money' subsidy of 15–35% of project cost. Project cost up to ₹50 lakh (manufacturing) or ₹20 lakh (service); max subsidy ₹17.5 lakh. A 2nd loan of up to ₹1 crore (15–20% subsidy) for good existing units",
+    "equity": "None",
+    "duration": "Subsidy is held for 3 years as a deposit against the loan and then adjusted if the unit is running; loan repaid over 3–7 years",
+    "timeToMoney": "Typically 2–6 months: online application, district task force interview, bank sanction, EDP training, then subsidy claim",
+    "status": "rolling",
+    "deadline": "Rolling; apply online any time (subject to yearly targets and bank sanction)",
+    "stages": [
+      "idea",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Non-farm manufacturing, services and trading activities (a negative list applies)"
+    ],
+    "oneLiner": "A bank loan to start a small business where the government pays 15–35% of the project cost for you.",
+    "what": "PMEGP helps people set up new micro-enterprises outside farming. You take a bank loan for the project, and the government gives a 'margin money' subsidy: 25% of project cost in rural areas and 15% in urban areas for general applicants, rising to 35% rural / 25% urban for SC, ST, OBC, minorities, women, ex-servicemen, persons with disabilities, transgender applicants, and those in the North-East, hill, border and aspirational districts. Budget 2026-27 raised the allocation to ₹4,500 crore.",
+    "who": [
+      "Any individual aged 18 or above",
+      "Class VIII pass needed for projects above ₹10 lakh in manufacturing or above ₹5 lakh in services",
+      "Self-help groups, registered societies, production cooperatives and charitable trusts",
+      "New projects only (except the 2nd-loan window for well-performing existing PMEGP/REGP/MUDRA units)"
+    ],
+    "notFor": [
+      "Existing units wanting a first-time subsidy (only new units qualify, except the 2nd loan)",
+      "Units that already got a government subsidy under another scheme",
+      "Activities on PMEGP's negative list (e.g., certain meat, liquor, tobacco-related businesses)",
+      "More than one person from the same family for the same unit"
+    ],
+    "why": [
+      "The subsidy can cover up to 35% of your project cost, money you never repay if the unit runs 3 years",
+      "Your own contribution can be as low as 5% (special category) or 10% (general)",
+      "Under RBI's Master Directions, banks must not insist on collateral for loans up to ₹20 lakh",
+      "Free entrepreneurship training (EDP) is part of the process"
+    ],
+    "howItWorks": "You apply online on the PMEGP e-portal. A district-level task force (KVIC/KVIB/DIC) interviews you and forwards your project to a bank. The bank appraises and sanctions the loan. After you complete the EDP training, the subsidy is released to the bank and kept as a 3-year term deposit in your name; if the unit is working after 3 years, it is adjusted against your loan.",
+    "steps": [
+      {
+        "title": "Prepare a project report",
+        "detail": "Work out the project cost (machines, working capital, building), expected sales and jobs; templates are on the e-portal."
+      },
+      {
+        "title": "Apply on the PMEGP e-portal",
+        "detail": "Fill the online form on kviconline.gov.in, choose the implementing agency (KVIC, KVIB or DIC) and preferred bank branch."
+      },
+      {
+        "title": "Attend the district task force interview",
+        "detail": "The committee checks your plan and recommends it to the bank."
+      },
+      {
+        "title": "Get the bank loan sanctioned",
+        "detail": "The bank appraises the project; you pay your own contribution (5–10%)."
+      },
+      {
+        "title": "Complete EDP training",
+        "detail": "Finish the mandatory entrepreneurship development training (offered online and offline)."
+      },
+      {
+        "title": "Subsidy is released and unit starts",
+        "detail": "The agency releases the margin money to the bank; set up the unit and keep it running for 3 years to keep the subsidy."
+      }
+    ],
+    "documents": [
+      "Aadhaar and PAN",
+      "Project report",
+      "Caste / special category certificate (if claiming higher subsidy)",
+      "Education certificate (for larger projects)",
+      "Rural area certificate (if claiming rural rate)",
+      "EDP training certificate (before subsidy claim)"
+    ],
+    "benefits": [
+      "15–35% capital subsidy",
+      "Collateral-free bank loans for smaller projects",
+      "Entrepreneurship training",
+      "2nd loan up to ₹1 crore for expansion of good units"
+    ],
+    "pros": [
+      "Large, long-running scheme with a big budget (₹4,500 crore in 2026-27)",
+      "Open to non-graduates and first-time entrepreneurs",
+      "Higher subsidy for women, SC/ST and backward regions"
+    ],
+    "cons": [
+      "Bank rejection is common; the subsidy only comes if a bank sanctions the loan",
+      "Paperwork and multiple offices (agency + bank) slow things down",
+      "Subsidy is locked for 3 years; if the unit closes, you can lose it",
+      "Not designed for tech startups; it's for small manufacturing/service units"
+    ],
+    "goodFitIf": [
+      "You want to start a small factory, workshop, shop-cum-service or processing unit",
+      "You qualify for the special category (35%/25%) subsidy",
+      "You have a solid project report and can bring 5–10% own money"
+    ],
+    "skipIf": [
+      "You already run the business (unless applying for the 2nd loan)",
+      "You are building a software/tech startup aiming for VC funding",
+      "You can't commit to running the unit for at least 3 years"
+    ],
+    "insiderTips": [
+      "Rural location (as defined by the scheme) gets a 10-point higher subsidy, so check whether your site qualifies",
+      "Use one of the 1,000+ model project reports on the PMEGP portal as your starting template",
+      "If a bank asks for collateral on a loan up to ₹20 lakh, point to the RBI rule the MSME Ministry re-emphasised to banks in 2026",
+      "Finish EDP training early; subsidy claims are blocked until it's done"
+    ],
+    "performance": {
+      "summary": "Since 2008-09, PMEGP has assisted over 10 lakh micro-units. Year-wise, units assisted peaked at 1,03,219 in 2021-22 (₹2,977.66 crore subsidy) and then declined to 59,708 units (₹2,202 crore) in 2024-25. Earlier years: 66,653 units (₹1,950.82 crore) in 2019-20 and 74,415 units (₹2,188.80 crore) in 2020-21. The budget for 2026-27 is ₹4,500 crore, up from ₹2,548.66 crore revised estimate in 2025-26.",
+      "metrics": [
+        {
+          "label": "Units assisted in FY 2024-25",
+          "value": "59,708 (₹2,202 crore subsidy, 4,77,664 estimated jobs)",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.5393 (MSME), answered 3 Apr 2025 – PMEGP",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU5393_icEm2i.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Units assisted in FY 2023-24",
+          "value": "89,118 (₹3,093.88 crore subsidy)",
+          "asOf": "2024-03-31",
+          "source": {
+            "label": "PIB – PMEGP financial disbursement FY 2023-24 (2024)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2040257"
+          }
+        },
+        {
+          "label": "Units assisted in FY 2019-20 / 2020-21",
+          "value": "66,653 / 74,415",
+          "asOf": "2021-03-31",
+          "source": {
+            "label": "PIB – Prime Minister's Employment Generation Programme (16 Mar 2023)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1907503"
+          }
+        },
+        {
+          "label": "Budget estimate 2026-27",
+          "value": "₹4,500 crore (RE 2025-26: ₹2,548.66 crore)",
+          "asOf": "2026-02-01",
+          "source": {
+            "label": "Union Budget 2026-27 – Notes on Demands for Grants, Ministry of MSME",
+            "url": "https://www.indiabudget.gov.in/doc/eb/sbe68.pdf"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Units assisted per financial year",
+          "unit": "units",
+          "points": [
+            {
+              "period": "FY2021-22",
+              "value": 103219
+            },
+            {
+              "period": "FY2022-23",
+              "value": 85167
+            },
+            {
+              "period": "FY2023-24",
+              "value": 89118
+            },
+            {
+              "period": "FY2024-25",
+              "value": 59708
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.5393 (MSME), answered 3 Apr 2025 – PMEGP",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU5393_icEm2i.pdf?source=pqals"
+          }
+        },
+        {
+          "label": "Margin money subsidy disbursed per financial year",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "FY2021-22",
+              "value": 2977.66
+            },
+            {
+              "period": "FY2022-23",
+              "value": 2722.17
+            },
+            {
+              "period": "FY2023-24",
+              "value": 3093.88
+            },
+            {
+              "period": "FY2024-25",
+              "value": 2202
+            }
+          ],
+          "source": {
+            "label": "Lok Sabha Unstarred Q.5393 (MSME), answered 3 Apr 2025 – PMEGP",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU5393_icEm2i.pdf?source=pqals"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp",
+    "officialUrl": "https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.5393 (MSME), answered 3 Apr 2025 – PMEGP",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/184/AU5393_icEm2i.pdf?source=pqals"
+      },
+      {
+        "label": "PIB – PMEGP financial disbursement FY 2023-24 (2024)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2040257"
+      },
+      {
+        "label": "PIB – Prime Minister's Employment Generation Programme (16 Mar 2023)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1907503"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.725 (MSME), answered 23 Jul 2026 – PMEGP",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU725_tWW6w1.pdf"
+      },
+      {
+        "label": "Union Budget 2026-27 – Notes on Demands for Grants, Ministry of MSME",
+        "url": "https://www.indiabudget.gov.in/doc/eb/sbe68.pdf"
+      },
+      {
+        "label": "PIB – A Decade of Startup India (Jan 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jan/doc2026115757801.pdf"
+      },
+      {
+        "label": "KVIC – PMEGP e-portal",
+        "url": "https://www.kviconline.gov.in/pmegpeportal/jsp/pmegponline.jsp"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status 'rolling' is based on the 2026-27 budget allocation and a July 2026 Lok Sabha answer describing PMEGP as ongoing; we could not load the KVIC e-portal itself from our network. Eligibility details (Class VIII threshold, 5%/10% own contribution, EDP training) are long-standing scheme rules confirmed in a July 2024 Lok Sabha answer and PIB, but the exact EDP duration was not verified. The 2024-25 figure is as on 31.03.2025. Max subsidy (₹17.5 lakh) is calculated as 35% of ₹50 lakh."
+  },
+  {
+    "slug": "stand-up-india",
+    "name": "Stand-Up India Scheme",
+    "shortName": "Stand-Up India",
+    "provider": "Department of Financial Services, Ministry of Finance; refinance and portal by SIDBI",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "loan"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "Bank loans from ₹10 lakh to ₹1 crore (term loan + working capital) for a first-time (greenfield) enterprise by an SC/ST or woman entrepreneur",
+    "equity": "None",
+    "duration": "Repayable within 7 years with up to 18 months moratorium",
+    "timeToMoney": "Bank-dependent; typically 1–3 months",
+    "status": "closed",
+    "deadline": "Scheme validity ended 31 March 2025. A successor (term loans up to ₹2 crore for 5 lakh first-time SC/ST/women entrepreneurs) was announced in Budget 2025-26 but not yet notified",
+    "stages": [
+      "idea",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Manufacturing, services, trading and agri-allied activities"
+    ],
+    "oneLiner": "Bank loans of ₹10 lakh–₹1 crore for SC/ST and women entrepreneurs starting their first business (scheme period ended March 2025).",
+    "what": "Stand-Up India asked every bank branch to lend between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and at least one woman borrower for a new enterprise. It ran from April 2016 to 31 March 2025 and sanctioned over ₹61,000 crore. The government announced a bigger successor scheme in Budget 2025-26, which was still being prepared when last checked.",
+    "who": [
+      "SC or ST entrepreneur, or a woman entrepreneur, aged 18+",
+      "Greenfield (first-time) enterprise in manufacturing, services, trading or agri-allied activities",
+      "For non-individual enterprises, at least 51% held by SC/ST and/or women",
+      "Not in default to any bank"
+    ],
+    "notFor": [
+      "Existing businesses (only greenfield projects)",
+      "Men from non-SC/ST categories",
+      "Anyone applying now under the old scheme: validity ended 31 March 2025"
+    ],
+    "why": [
+      "Larger loans (up to ₹1 crore) than MUDRA",
+      "Covers both term loan and working capital",
+      "Margin money support of up to 15% can come from other central/state schemes"
+    ],
+    "howItWorks": "Banks lend directly under their normal credit process, with credit guarantee support. Borrowers bring at least 10% of the project cost. The Stand-Up Mitra portal (SIDBI) gave handholding: project help, training and links to banks.",
+    "steps": [
+      {
+        "title": "Check the status first",
+        "detail": "The original scheme ended in March 2025; ask your bank whether it still offers a Stand-Up-type product or the successor scheme has been notified."
+      },
+      {
+        "title": "Register on Stand-Up Mitra",
+        "detail": "The SIDBI portal helps with project reports, training and bank links."
+      },
+      {
+        "title": "Prepare a project report",
+        "detail": "Detail the greenfield project, cost, own contribution (≥10%), and repayment plan."
+      },
+      {
+        "title": "Apply to a bank branch",
+        "detail": "Submit the application with documents; the bank appraises and sanctions."
+      },
+      {
+        "title": "Draw down and repay",
+        "detail": "Use the composite loan and repay within 7 years after up to 18 months moratorium."
+      }
+    ],
+    "documents": [
+      "Identity, address and caste certificate (for SC/ST)",
+      "Project report",
+      "Proof of own contribution",
+      "Business premises documents (lease/ownership)",
+      "Partnership deed / incorporation documents if not individual"
+    ],
+    "benefits": [
+      "Loans from ₹10 lakh to ₹1 crore",
+      "18-month moratorium",
+      "Handholding via Stand-Up Mitra"
+    ],
+    "pros": [
+      "Focused on groups underserved by banks",
+      "Covers larger projects than MUDRA",
+      "Large track record: 2.67 lakh accounts, 1.99 lakh to women"
+    ],
+    "cons": [
+      "Scheme validity ended March 2025",
+      "Successor scheme not notified as of the latest official page",
+      "Still a bank loan: credit checks, documents and repayment risk",
+      "Disbursed amount (₹34,450 crore) was well below sanctioned (₹60,504 crore)"
+    ],
+    "goodFitIf": [
+      "You are an SC/ST or woman first-time founder and want to be ready for the successor scheme",
+      "Your bank still offers a similar product",
+      "Your project needs ₹10 lakh–₹1 crore and is a brand-new (greenfield) enterprise"
+    ],
+    "skipIf": [
+      "You need money under the original scheme now",
+      "You already run the business",
+      "You need under ₹10 lakh (look at MUDRA)"
+    ],
+    "insiderTips": [
+      "Prepare your project report now; the successor scheme is expected to offer term loans up to ₹2 crore",
+      "Meanwhile, compare MUDRA (up to ₹20 lakh) and CGTMSE-backed loans"
+    ],
+    "performance": {
+      "summary": "Between April 2016 and March 2025, Stand-Up India sanctioned loans to 2.67 lakh accounts worth ₹60,504 crore (₹34,450 crore disbursed) by 28 February 2025; PIB reported ₹61,020.41 crore sanctioned by 17 March 2025. Women made up 1.99 lakh accounts. Sanctions grew more than four times from ₹14,431 crore in October 2018.",
+      "metrics": [
+        {
+          "label": "Accounts sanctioned (since launch)",
+          "value": "2.67 lakh",
+          "asOf": "2025-02-28",
+          "source": {
+            "label": "Department of Financial Services – Stand Up India Scheme (SUPI)",
+            "url": "https://financialservices.gov.in/stand-india-scheme-supi"
+          }
+        },
+        {
+          "label": "Amount sanctioned / disbursed",
+          "value": "₹60,504 crore / ₹34,450 crore",
+          "asOf": "2025-02-28",
+          "source": {
+            "label": "Department of Financial Services – Stand Up India Scheme (SUPI)",
+            "url": "https://financialservices.gov.in/stand-india-scheme-supi"
+          }
+        },
+        {
+          "label": "Accounts held by women",
+          "value": "1.99 lakh",
+          "asOf": "2025-02-28",
+          "source": {
+            "label": "Department of Financial Services – Stand Up India Scheme (SUPI)",
+            "url": "https://financialservices.gov.in/stand-india-scheme-supi"
+          }
+        },
+        {
+          "label": "SC / ST accounts (Nov 2024)",
+          "value": "46,248 / 15,228",
+          "asOf": "2024-11-30",
+          "source": {
+            "label": "PIB factsheet – Stand-Up India, 5 Apr 2025",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202545534701.pdf"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Cumulative amount sanctioned",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "Oct 2018",
+              "value": 14431.14
+            },
+            {
+              "period": "Mar 2025",
+              "value": 61020.41
+            }
+          ],
+          "source": {
+            "label": "PIB factsheet – Stand-Up India, 5 Apr 2025",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202545534701.pdf"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.standupmitra.in/",
+    "officialUrl": "https://financialservices.gov.in/stand-india-scheme-supi",
+    "sources": [
+      {
+        "label": "Department of Financial Services – Stand Up India Scheme (SUPI)",
+        "url": "https://financialservices.gov.in/stand-india-scheme-supi"
+      },
+      {
+        "label": "PIB factsheet – Stand-Up India, 5 Apr 2025",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202545534701.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "Stand-Up Mitra portal (SIDBI)",
+        "url": "https://www.standupmitra.in/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Closure is based on the DFS page ('upto 31.03.2025') and the June 2026 Startup India playbook ('valid/operational till March 2025'). The DFS page says the successor scheme's EFC note was still under preparation; we found no notification of it as of October 2026. A secondary source claims the Finance Minister told Lok Sabha in March 2026 the revamp would launch soon; not verified. Only two cumulative points are available for the chart."
+  },
+  {
+    "slug": "cgtmse",
+    "name": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
+    "shortName": "CGTMSE",
+    "provider": "Ministry of MSME and SIDBI (CGTMSE Trust)",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2000,
+    "instrument": [
+      "guarantee",
+      "loan"
+    ],
+    "maxAmountINR": 100000000,
+    "amountText": "Collateral-free loans to micro and small enterprises up to ₹10 crore per borrower, with 75–90% of the lender's loss guaranteed (90% for women entrepreneurs)",
+    "equity": "None",
+    "duration": "Guarantee runs for the loan tenure (term loan and/or working capital)",
+    "timeToMoney": "Bank-dependent; typically 2–8 weeks after a complete application",
+    "status": "rolling",
+    "deadline": "Rolling, through 270+ member banks and NBFCs",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Manufacturing, services and retail/wholesale trade by micro and small enterprises (including educational institutions)"
+    ],
+    "oneLiner": "The guarantee that lets small businesses get bank loans of up to ₹10 crore without pledging property.",
+    "what": "CGTMSE guarantees loans that banks and NBFCs give to micro and small enterprises, so the lender doesn't ask for collateral or a third-party guarantee. The cover limit doubled to ₹10 crore from April 2025 and the annual fee was cut (as low as 0.37% for loans up to ₹10 lakh). In FY 2024-25 it approved a record ₹3.06 lakh crore of guarantees.",
+    "who": [
+      "New or existing micro and small enterprises (as per the MSME definition) with Udyam registration",
+      "Engaged in manufacturing, services, retail trade, wholesale trade or education",
+      "Borrowing from a CGTMSE member lending institution (banks, NBFCs, small finance banks, RRBs)",
+      "Startups that are MSEs can use it too"
+    ],
+    "notFor": [
+      "Medium enterprises",
+      "Agriculture and self-help groups (not covered)",
+      "Borrowers already in default",
+      "Loans where the bank has also taken collateral beyond what the scheme allows (hybrid security rules apply)"
+    ],
+    "why": [
+      "No property or third-party guarantee needed",
+      "Works for term loans and working capital",
+      "Higher cover (85–90%) for women, SC/ST, persons with disability, ZED-certified units and aspirational districts"
+    ],
+    "howItWorks": "You apply for a loan to a member lending institution. If the bank sanctions it, the bank obtains CGTMSE cover online and pays an annual guarantee fee (usually passed to you). If you default, CGTMSE pays the bank 75–90% of the loss. Separately, RBI's Master Directions say banks must not insist on collateral for MSE loans up to ₹20 lakh.",
+    "steps": [
+      {
+        "title": "Register on Udyam",
+        "detail": "Get your free Udyam (MSME) registration online."
+      },
+      {
+        "title": "Prepare loan documents",
+        "detail": "Project report or business plan, financials, bank statements, GST returns."
+      },
+      {
+        "title": "Apply to a member bank or NBFC",
+        "detail": "Ask specifically for a CGTMSE-covered, collateral-free loan."
+      },
+      {
+        "title": "Bank appraises and sanctions",
+        "detail": "The bank checks repayment capacity and credit history."
+      },
+      {
+        "title": "Bank obtains CGTMSE cover",
+        "detail": "The bank registers the loan on the CGTMSE portal and pays the guarantee fee."
+      },
+      {
+        "title": "Disbursement",
+        "detail": "Funds are released; you pay interest plus the guarantee fee as agreed."
+      }
+    ],
+    "documents": [
+      "Udyam registration certificate",
+      "KYC of business and promoters",
+      "Project report / business plan",
+      "Last 2–3 years' financials and ITRs (for existing units)",
+      "Bank statements and GST returns"
+    ],
+    "benefits": [
+      "Collateral-free loans up to ₹10 crore",
+      "75–90% guarantee cover for lenders",
+      "Reduced annual fee from April 2025"
+    ],
+    "pros": [
+      "Huge scale and wide acceptance (27 lakh+ guarantees in FY 2024-25)",
+      "Available at almost every bank",
+      "Cover doubled to ₹10 crore"
+    ],
+    "cons": [
+      "Banks still decide; many refuse first-time or pre-revenue borrowers",
+      "Guarantee fee adds to your cost",
+      "Some branches still push for collateral despite the scheme",
+      "Not for medium enterprises"
+    ],
+    "goodFitIf": [
+      "You run or are starting a micro or small enterprise and lack collateral",
+      "You need working capital or machinery loans",
+      "You are a woman entrepreneur (90% cover)"
+    ],
+    "skipIf": [
+      "You are a medium enterprise",
+      "You are pre-revenue with no repayment plan",
+      "You are in farming or an SHG"
+    ],
+    "insiderTips": [
+      "Use the words 'CGTMSE cover' and 'collateral-free' in your application; ask the bank to note it in writing",
+      "For loans up to ₹20 lakh, RBI's Master Directions say no collateral; quote this if the branch insists",
+      "Women-led units get 90% cover, so register the business with a woman promoter where genuine"
+    ],
+    "performance": {
+      "summary": "CGTMSE has grown sharply since its 2023 revamp: guarantees approved rose from ₹56,172 crore in FY 2021-22 to ₹1,04,781 crore in FY 2022-23, ₹2,02,807 crore in FY 2023-24 and a record ₹3,05,507 crore in FY 2024-25 (27.15 lakh guarantees). By 31 March 2025 it had approved 1.15 crore guarantees worth ₹9.34 lakh crore since 2000, 72% of that amount in the last four years. FY 2025-26 totals were not yet published in the sources we found.",
+      "metrics": [
+        {
+          "label": "Guarantees approved in FY 2024-25",
+          "value": "27,15,275 worth ₹3,05,507 crore",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "CGTMSE Annual Report 2024-25",
+            "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+          }
+        },
+        {
+          "label": "Cumulative guarantees since 2000",
+          "value": "1.15 crore worth ₹9.34 lakh crore",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "CGTMSE Annual Report 2024-25",
+            "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+          }
+        },
+        {
+          "label": "Maximum cover per borrower",
+          "value": "₹10 crore (from 1 April 2025)",
+          "asOf": "2025-04-01",
+          "source": {
+            "label": "CGTMSE Annual Report 2024-25",
+            "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+          }
+        },
+        {
+          "label": "Guarantees approved FY 2023-24 (all India)",
+          "value": "₹2,02,807 crore",
+          "asOf": "2024-03-31",
+          "source": {
+            "label": "Lok Sabha Starred Q.343 (MSME), answered 19 Dec 2024 – CGTMSE",
+            "url": "https://sansad.in/getFile/loksabhaquestions/annex/183/AS343_x0JzaV.pdf?source=pqals"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Guarantee amount approved per financial year",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "FY2021-22",
+              "value": 56172
+            },
+            {
+              "period": "FY2022-23",
+              "value": 104781
+            },
+            {
+              "period": "FY2023-24",
+              "value": 202807
+            },
+            {
+              "period": "FY2024-25",
+              "value": 305507
+            }
+          ],
+          "source": {
+            "label": "CGTMSE Annual Report 2024-25",
+            "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+          }
+        },
+        {
+          "label": "Number of guarantees approved per financial year",
+          "unit": "guarantees",
+          "points": [
+            {
+              "period": "FY2021-22",
+              "value": 717020
+            },
+            {
+              "period": "FY2022-23",
+              "value": 1165786
+            },
+            {
+              "period": "FY2023-24",
+              "value": 1724073
+            },
+            {
+              "period": "FY2024-25",
+              "value": 2715275
+            }
+          ],
+          "source": {
+            "label": "CGTMSE Annual Report 2024-25",
+            "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.cgtmse.in/",
+    "officialUrl": "https://www.cgtmse.in/",
+    "sources": [
+      {
+        "label": "CGTMSE Annual Report 2024-25",
+        "url": "https://www.cgtmse.in/Default/ViewFile/CGTMSE-AR-2024-25-english.pdf?path=AnnualReport"
+      },
+      {
+        "label": "Lok Sabha Starred Q.343 (MSME), answered 19 Dec 2024 – CGTMSE",
+        "url": "https://sansad.in/getFile/loksabhaquestions/annex/183/AS343_x0JzaV.pdf?source=pqals"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.725 (MSME), answered 23 Jul 2026 – PMEGP",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU725_tWW6w1.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "CGTMSE official website",
+        "url": "https://www.cgtmse.in/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Year-wise figures for FY 2021-22 and FY 2022-23 (and the guarantee counts) were read from chart labels in CGTMSE's 2024-25 annual report; they reconcile with the report's cumulative totals and the Lok Sabha figure for FY 2022-23 and 2023-24. FY 2025-26 data was not found. The RBI ₹20 lakh no-collateral rule is cited from a July 2026 Lok Sabha answer by the MSME Ministry (Q.725); we did not open the RBI Master Direction itself. 'Rolling' reflects that guarantees are issued continuously through lenders."
+  },
+  {
+    "slug": "pm-mudra-yojana",
+    "name": "Pradhan Mantri MUDRA Yojana",
+    "shortName": "PMMY (MUDRA)",
+    "provider": "Department of Financial Services, Ministry of Finance; MUDRA Ltd (SIDBI subsidiary) refinances lenders",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2015,
+    "instrument": [
+      "loan"
+    ],
+    "maxAmountINR": 2000000,
+    "amountText": "Collateral-free loans up to ₹20 lakh in four tiers: Shishu (up to ₹50,000), Kishor (₹50,000–₹5 lakh), Tarun (₹5–10 lakh) and Tarun Plus (₹10–20 lakh, only for those who repaid a Tarun loan)",
+    "equity": "None",
+    "duration": "Term loans typically 3–7 years; overdraft/working capital renewed yearly (lender-dependent)",
+    "timeToMoney": "Typically 1–4 weeks at a bank branch or via the Jan Samarth portal",
+    "status": "rolling",
+    "deadline": "Rolling; apply at any bank, NBFC or MFI",
+    "stages": [
+      "idea",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Income-generating non-farm micro businesses: trading, manufacturing, services, and allied agriculture (poultry, dairy, beekeeping etc.)"
+    ],
+    "oneLiner": "Small business loans up to ₹20 lakh without collateral, available at almost any bank.",
+    "what": "MUDRA isn't a lender itself; it sets the rules and refinances banks, NBFCs and microfinance institutions that give collateral-free loans to micro businesses. Over 57 crore loans worth ₹40 lakh crore+ had been given by April 2026. Tarun Plus (₹10–20 lakh), started in 2024, lets borrowers who repaid a Tarun loan borrow more.",
+    "who": [
+      "Individuals, proprietorships, partnerships, private and public limited companies, and other legal forms",
+      "Running or starting an income-generating micro or small business",
+      "Not a defaulter with any bank",
+      "For Tarun Plus: must have taken and fully repaid a Tarun loan"
+    ],
+    "notFor": [
+      "Pure crop farming (allied activities are allowed)",
+      "Personal or consumption loans",
+      "Borrowers needing more than ₹20 lakh"
+    ],
+    "why": [
+      "No collateral or third-party guarantee needed",
+      "Available at almost every bank branch, NBFC and MFI",
+      "A stepping-stone: repay and move up to the next tier",
+      "Around 60% of loan accounts go to women"
+    ],
+    "howItWorks": "You apply to any member lending institution or through the Jan Samarth portal. The lender appraises you and sets the interest rate under RBI rules. Loans are guaranteed by the Credit Guarantee Fund for Micro Units (CGFMU), and MUDRA refinances the lender. Some lenders issue a MUDRA RuPay card for working capital.",
+    "steps": [
+      {
+        "title": "Pick your tier",
+        "detail": "Estimate how much you need: Shishu (≤₹50,000), Kishor (≤₹5 lakh), Tarun (≤₹10 lakh) or Tarun Plus (≤₹20 lakh after repaying Tarun)."
+      },
+      {
+        "title": "Prepare a simple business plan",
+        "detail": "Describe your business, costs, expected income and how you'll repay."
+      },
+      {
+        "title": "Apply online or at a branch",
+        "detail": "Use Jan Samarth or Udyamimitra, or walk into a bank, NBFC or MFI."
+      },
+      {
+        "title": "Submit KYC and documents",
+        "detail": "Provide identity, address, business proof and quotations for machines/stock."
+      },
+      {
+        "title": "Get sanctioned and disbursed",
+        "detail": "The lender appraises and disburses; repay on time to unlock the next tier."
+      }
+    ],
+    "documents": [
+      "Aadhaar, PAN and photographs",
+      "Proof of business address and existence (Udyam, GST, shop licence)",
+      "Quotations for machinery or items to be purchased",
+      "Bank statements (6–12 months) for existing businesses",
+      "Caste certificate if claiming any category benefit"
+    ],
+    "benefits": [
+      "Collateral-free credit up to ₹20 lakh",
+      "MUDRA card for flexible working capital at some lenders",
+      "Graduation path to larger loans"
+    ],
+    "pros": [
+      "Massive reach and simple process",
+      "No collateral",
+      "Good for first-time borrowers to build a credit history"
+    ],
+    "cons": [
+      "Interest rates vary by lender and can be high at MFIs/NBFCs",
+      "Most loans are small: average loan size was about ₹99,000 in FY 2024-25",
+      "Branch-level refusals and delays are common",
+      "Tarun Plus requires a repaid Tarun loan first, so new borrowers can't start there"
+    ],
+    "goodFitIf": [
+      "You run or are starting a shop, workshop, service or small manufacturing unit",
+      "You need under ₹20 lakh and have no collateral",
+      "You want to build a credit record for bigger loans later"
+    ],
+    "skipIf": [
+      "You need more than ₹20 lakh (look at CGTMSE-backed loans or CGSS)",
+      "You are building a VC-scale tech startup that needs equity",
+      "You can't show a repayment plan"
+    ],
+    "insiderTips": [
+      "Apply where you already bank; existing customers get faster approvals",
+      "Ask for an overdraft/MUDRA card for working capital so you only pay interest on what you use",
+      "Repay on time: a clean Tarun repayment is the only way into Tarun Plus"
+    ],
+    "performance": {
+      "summary": "MUDRA has scaled steadily: annual sanctions rose from ₹1.37 lakh crore across 3.49 crore loans in 2015-16 to ₹4.32 lakh crore across 5.88 crore loans in 2022-23 (as on 24 March 2023). Disbursements were ₹5.42 lakh crore in FY 2024-25, 90% of the ₹6 lakh crore target. By 26 June 2026, 59.14 crore loan accounts had been sanctioned for ₹41.72 lakh crore cumulatively. About 60% of accounts in FY 2024-25 belonged to women and 21% to new entrepreneurs.",
+      "metrics": [
+        {
+          "label": "Cumulative loans sanctioned",
+          "value": "59.14 crore accounts, ₹41.72 lakh crore sanctioned (₹40.76 lakh crore disbursed)",
+          "asOf": "2026-06-26",
+          "source": {
+            "label": "Lok Sabha Unstarred Q.72 (Finance), answered 20 Jul 2026 – PMMY in Tamil Nadu (includes all-India totals)",
+            "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU72_hZn67c.pdf"
+          }
+        },
+        {
+          "label": "Disbursed in FY 2024-25",
+          "value": "₹5,41,802.58 crore (90% of ₹6 lakh crore target)",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "MUDRA Annual Report 2024-25",
+            "url": "https://www.mudra.org.in/Default/DownloadFile/Annual-Report-2024-25.pdf"
+          }
+        },
+        {
+          "label": "Women's share of loan accounts (FY 2024-25)",
+          "value": "59.81%",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "PIB – 11 Years of Pradhan Mantri MUDRA Yojana (8 Apr 2026)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc202648842601.pdf"
+          }
+        },
+        {
+          "label": "New entrepreneurs' share of accounts (FY 2024-25)",
+          "value": "21%",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "PIB – 11 Years of Pradhan Mantri MUDRA Yojana (8 Apr 2026)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc202648842601.pdf"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Amount sanctioned per financial year (2022-23 as on 24.03.2023)",
+          "unit": "₹ lakh crore",
+          "points": [
+            {
+              "period": "FY2015-16",
+              "value": 1.37
+            },
+            {
+              "period": "FY2016-17",
+              "value": 1.8
+            },
+            {
+              "period": "FY2017-18",
+              "value": 2.54
+            },
+            {
+              "period": "FY2018-19",
+              "value": 3.22
+            },
+            {
+              "period": "FY2019-20",
+              "value": 3.37
+            },
+            {
+              "period": "FY2020-21",
+              "value": 3.22
+            },
+            {
+              "period": "FY2021-22",
+              "value": 3.39
+            },
+            {
+              "period": "FY2022-23",
+              "value": 4.32
+            }
+          ],
+          "source": {
+            "label": "PIB – 8 Years of PMMY, year-wise sanctions (Apr 2023)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/apr/doc2023410179101.pdf"
+          }
+        },
+        {
+          "label": "Number of loans sanctioned per financial year (2022-23 as on 24.03.2023)",
+          "unit": "crore loans",
+          "points": [
+            {
+              "period": "FY2015-16",
+              "value": 3.49
+            },
+            {
+              "period": "FY2016-17",
+              "value": 3.97
+            },
+            {
+              "period": "FY2017-18",
+              "value": 4.81
+            },
+            {
+              "period": "FY2018-19",
+              "value": 5.98
+            },
+            {
+              "period": "FY2019-20",
+              "value": 6.22
+            },
+            {
+              "period": "FY2020-21",
+              "value": 5.07
+            },
+            {
+              "period": "FY2021-22",
+              "value": 5.37
+            },
+            {
+              "period": "FY2022-23",
+              "value": 5.88
+            }
+          ],
+          "source": {
+            "label": "PIB – 8 Years of PMMY, year-wise sanctions (Apr 2023)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/apr/doc2023410179101.pdf"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.jansamarth.in/business-loan-pradhan-mantri-mudra-yojana-scheme",
+    "officialUrl": "https://www.mudra.org.in/",
+    "sources": [
+      {
+        "label": "Lok Sabha Unstarred Q.72 (Finance), answered 20 Jul 2026 – PMMY in Tamil Nadu (includes all-India totals)",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU72_hZn67c.pdf"
+      },
+      {
+        "label": "PIB – 11 Years of Pradhan Mantri MUDRA Yojana (8 Apr 2026)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc202648842601.pdf"
+      },
+      {
+        "label": "PIB – 8 Years of PMMY, year-wise sanctions (Apr 2023)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/apr/doc2023410179101.pdf"
+      },
+      {
+        "label": "MUDRA Annual Report 2024-25",
+        "url": "https://www.mudra.org.in/Default/DownloadFile/Annual-Report-2024-25.pdf"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "Jan Samarth – PM MUDRA Yojana loan application",
+        "url": "https://www.jansamarth.in/business-loan-pradhan-mantri-mudra-yojana-scheme"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The year-wise series stops at 2022-23 because the only official year-wise table we could open (PIB, April 2023) ends there; later years in the MUDRA annual report switch from sanctions to disbursements, so they are given as a separate metric rather than mixed into the chart. The FY 2024-25 disbursement figure was read from a table whose PDF layout was garbled; it matches the stated 90% achievement of the ₹6 lakh crore target. Interest rates are lender-specific and not published centrally. Average loan size (₹99,119) is from the MUDRA annual report."
+  },
+  {
+    "slug": "rdi-scheme-anrf",
+    "name": "Research, Development and Innovation Scheme (RDI Fund)",
+    "shortName": "RDI Scheme",
+    "provider": "Department of Science & Technology; fund housed in the Anusandhan National Research Foundation (ANRF)",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2025,
+    "instrument": [
+      "loan",
+      "equity",
+      "convertible"
+    ],
+    "maxAmountINR": null,
+    "amountText": "₹1 lakh crore over six years, routed through second-level fund managers. Companies get long-term, low-interest loans (generally up to 50% of project cost) or equity (up to 50% of a funding round) for TRL-4+ R&D projects",
+    "equity": "Depends on route: loans and optionally convertible debt take no equity; the equity route takes a stake on the fund manager's terms",
+    "duration": "Long-term financing; project and fund tenures set by the fund manager",
+    "timeToMoney": "New scheme; first fund managers were approved in 2026, so timelines are not yet established",
+    "status": "rolling",
+    "deadline": "Rolling; apply through an empanelled second-level fund manager (e.g., TDB, BIRAC, approved AIFs)",
+    "stages": [
+      "growth"
+    ],
+    "sectors": [
+      "Sunrise/strategic tech: energy transition & climate, quantum, robotics, AI (agri/health/education), biotech & healthcare, digital economy, semiconductors-adjacent, advanced materials, geospatial, gene & cell therapy and more"
+    ],
+    "oneLiner": "A ₹1 lakh crore government fund that lends to or invests in companies doing serious, late-stage R&D in strategic technologies.",
+    "what": "Approved by the Cabinet on 1 July 2025 and launched on 3 November 2025, the RDI Fund finances private-sector R&D at Technology Readiness Level 4 and above. It does not fund companies directly: money goes to second-level fund managers (AIFs, development finance institutions, NBFCs, focused research organisations, and agencies like TDB and BIRAC), which then lend to or invest in companies and startups. It can also back a Deep-Tech Fund of Funds and support acquisition of critical technologies.",
+    "who": [
+      "Private companies, including DPIIT-recognised startups, doing RDI-intensive work",
+      "Projects at TRL 4 or higher (lab-validated technology moving toward a product)",
+      "Working in the scheme's notified sunrise or strategic sectors",
+      "Able to bring matching funds (the scheme generally funds about 50%)"
+    ],
+    "notFor": [
+      "Idea-stage or early-prototype startups (TRL below 4)",
+      "Non-R&D businesses",
+      "Founders expecting a grant: this is loan or equity money",
+      "Projects outside the notified sectors"
+    ],
+    "why": [
+      "Very large, patient capital for deep-tech scale-up, which Indian VCs rarely provide",
+      "Low-interest, long-tenure loans that don't dilute ownership",
+      "Signals national-priority status for your technology"
+    ],
+    "howItWorks": "ANRF's RDI Fund gives capital to empanelled second-level fund managers (21 AIFs and FROs listed as empanelled, plus DFIs, NBFCs, TDB and BIRAC). Each fund manager evaluates company proposals and provides either debt (loan or optionally convertible debt, generally around 50% of project cost) or equity (around 50% of a funding round), with the rest from the company or co-investors.",
+    "steps": [
+      {
+        "title": "Check your TRL and sector",
+        "detail": "Confirm your technology is TRL 4+ and in one of the RDI Scheme's notified sectors."
+      },
+      {
+        "title": "Pick a second-level fund manager",
+        "detail": "Look at the empanelled SLFMs on the RDIF portal; TDB and BIRAC accept direct applications."
+      },
+      {
+        "title": "Prepare a project proposal",
+        "detail": "Show the technology, milestones, budget, market and how you'll fund your share."
+      },
+      {
+        "title": "Register and apply",
+        "detail": "For TDB, register on its RDIF portal; for AIFs, follow their own process."
+      },
+      {
+        "title": "Go through evaluation",
+        "detail": "Expect technical and financial due diligence by the fund manager."
+      },
+      {
+        "title": "Sign and draw funds",
+        "detail": "Agree loan or equity terms and draw money against milestones."
+      }
+    ],
+    "documents": [
+      "Detailed project report with TRL evidence",
+      "Audited financials and cap table",
+      "IP portfolio (patents filed/granted)",
+      "Proof of matching funds or co-investors",
+      "DPIIT certificate (for startups)"
+    ],
+    "benefits": [
+      "Large-ticket, long-term loans at low interest",
+      "Equity capital for deep-tech startups",
+      "Possible support for acquiring critical technologies"
+    ],
+    "pros": [
+      "Enormous corpus (₹1 lakh crore)",
+      "Fills the scale-up gap for deep tech",
+      "Multiple routes (TDB, BIRAC, AIFs)"
+    ],
+    "cons": [
+      "Only for TRL 4+; useless for early startups",
+      "Brand new, so processes and timelines are still settling",
+      "Requires matching money",
+      "Heavy due diligence and reporting"
+    ],
+    "goodFitIf": [
+      "You have a lab-validated deep-tech product and need ₹ crores to scale",
+      "You prefer long-term debt over heavy dilution",
+      "Your work fits a national-priority sector"
+    ],
+    "skipIf": [
+      "You are at idea or early prototype stage",
+      "You can't bring matching funds",
+      "Your business isn't R&D-led"
+    ],
+    "insiderTips": [
+      "Start with TDB or BIRAC if you are a startup; they accept direct applications and know early deep-tech companies",
+      "Document your TRL with test reports and third-party validation; it's the first filter",
+      "Ask AIFs that are empanelled as SLFMs whether they have a startup-focused RDI mandate"
+    ],
+    "performance": {
+      "summary": "The scheme is new: approved on 1 July 2025 with ₹1 lakh crore over six years (₹20,000 crore in FY 2025-26), launched on 3 November 2025. The first cohort of 19 second-level fund managers was announced, and the portal now lists 21 empanelled AIFs/FROs. No figures on companies funded or amounts disbursed had been published, so there is no time series yet.",
+      "metrics": [
+        {
+          "label": "Total outlay",
+          "value": "₹1 lakh crore over six years (₹20,000 crore in FY 2025-26)",
+          "asOf": "2026-10-26",
+          "source": {
+            "label": "ANRF – Research Development and Innovation Fund portal",
+            "url": "https://rdifund.anrf.gov.in/"
+          }
+        },
+        {
+          "label": "Launch",
+          "value": "3 November 2025 (ESTIC 2025)",
+          "asOf": "2025-11-03",
+          "source": {
+            "label": "ANRF – Research Development and Innovation Fund portal",
+            "url": "https://rdifund.anrf.gov.in/"
+          }
+        },
+        {
+          "label": "Empanelled second-level fund managers (AIFs & FROs)",
+          "value": "21",
+          "asOf": "2026-10-26",
+          "source": {
+            "label": "ANRF – Research Development and Innovation Fund portal",
+            "url": "https://rdifund.anrf.gov.in/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.e-techcom.tdb.gov.in/rdif-registration.php",
+    "officialUrl": "https://rdifund.anrf.gov.in/",
+    "sources": [
+      {
+        "label": "ANRF – Research Development and Innovation Fund portal",
+        "url": "https://rdifund.anrf.gov.in/"
+      },
+      {
+        "label": "ANRF RDIF – Funding modalities and amount",
+        "url": "https://rdifund.anrf.gov.in/funding-modalities-and-amount"
+      },
+      {
+        "label": "Startup India – Playbook of Government Schemes and Initiatives for Startups (June 2026)",
+        "url": "https://www.startupindia.gov.in/content/dam/startupindia/homebanners/Startup-Schemes-Playbook-June-2026.pdf"
+      },
+      {
+        "label": "Technology Development Board – RDIF registration",
+        "url": "https://www.e-techcom.tdb.gov.in/rdif-registration.php"
+      },
+      {
+        "label": "Lok Sabha Unstarred Q.1446 (DPIIT), answered 28 Jul 2026 – Startup India initiative",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU1446_N4i3CT.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The '50% of project cost / 50% of round' rule is from the June 2026 Startup India playbook; we did not read the full 2026 implementation guidelines. No data on companies funded was published. The apply link goes to TDB, one of several fund managers; others (BIRAC, AIFs) have their own processes. Sector list is abbreviated from the RDIF portal."
+  }
+]

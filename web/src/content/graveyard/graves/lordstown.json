@@ -1,0 +1,412 @@
+{
+  "slug": "lordstown",
+  "name": "Lordstown Motors",
+  "region": "global",
+  "country": "United States",
+  "city": "Lordstown, Ohio",
+  "sector": "Electric pickup trucks",
+  "founded": 2018,
+  "died": 2023,
+  "status": "bankrupt",
+  "brandColor": "#1d4f91",
+  "founders": [
+    {
+      "name": "Steve Burns",
+      "role": "Founder and CEO (resigned June 2021)"
+    }
+  ],
+  "epitaph": "100,000 pre-orders. 38 trucks sold. 35 bought back.",
+  "oneLiner": "Bought a giant old GM car plant in Ohio to build the Endurance, an electric pickup with a motor in each wheel.",
+  "causeOfDeath": "It raised money on 100,000 'pre-orders' that were non-binding, then found it couldn't afford to build the truck it had promised.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 10.2,
+  "moneyNote": "Total raised is not published as one figure; the 2020 SPAC deal estimated equity value at $1.6B (Wikipedia). The truck business was sold for $10.2M in 2023 (10-K); the factory had earlier gone to Foxconn for $230M.",
+  "moneySrc": [
+    0,
+    6
+  ],
+  "inOneMinute": [
+    "Lordstown claimed **100,000 pre-orders** for its electric pickup. They were **non-binding** and needed no deposit.",
+    "It sold the factory to Foxconn, built a few dozen trucks, and **sold just 38, then bought back 35** of them.",
+    "It filed for bankruptcy in June 2023. The founder who had resigned **bought the truck business back for $10.2M**."
+  ],
+  "killerLine": "A pre-order without money is a **compliment, not a customer**.",
+  "numbers": [
+    {
+      "value": "100,000+",
+      "label": "non-binding pre-orders it claimed",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "38",
+      "label": "Endurance trucks ever sold to customers (35 later bought back)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$1.17B",
+      "label": "total losses piled up by end of 2023",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "9",
+      "label": "employees left at the end of 2023",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a pickup with four motors",
+      "body": "Steve Burns had run Workhorse, a small electric delivery-truck company. In 2018 he founded Lordstown Motors, and in November 2019 it took over a huge former General Motors car plant in Lordstown, Ohio, with GM lending about $40 million toward the deal. The plan was the Endurance, an all-electric pickup for work fleets, with a **motor inside each of its four wheels** (called hub motors). Fewer moving parts meant less to break, Burns argued. Lordstown paid Workhorse $12 million for rights to its pickup design. In 2020, GM invested $75 million, and Vice President Mike Pence visited the factory. For a town that had lost its car plant, Lordstown felt like a **comeback story**.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "The rise: the SPAC and the order book",
+      "body": "In October 2020, Lordstown listed on the NASDAQ by merging with DiamondPeak Holdings, a SPAC (a shell company already on the stock market, built only to merge with a private firm). The deal estimated its equity value at **$1.6 billion**. Its biggest selling point was demand. Lordstown said it had more than **100,000 pre-orders** for the Endurance. Burns called them \"very serious orders\". But they were really **non-binding letters of intent**: no deposit, no promise to buy. The company itself had described them as \"non-binding production reservations\". Investors focused on the big number, not the small print.",
+      "src": [
+        2,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: 'fake orders' and a fire",
+      "body": "On 12 March 2021, short-seller Hindenburg Research published a report titled \"The Lordstown Motors Mirage\". It said many 'customers' had no fleets or no plan to buy; one firm listed for 14,000 trucks was run from a Texas apartment. It also said a prototype **caught fire on its first road test** in January 2021. The SEC asked for information. In June 2021, the company's own amended annual report warned it lacked the money to start commercial production. Days later, on 14 June 2021, **Burns and the finance chief resigned**, after an internal board investigation found the pre-orders had been overstated in number and seriousness. US prosecutors in New York also opened an investigation.",
+      "src": [
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    {
+      "title": "The fall: Foxconn and the buy-back",
+      "body": "To survive, Lordstown sold its factory to Taiwan's Foxconn (the company that assembles iPhones) for $230 million in 2022, and Foxconn agreed to invest about $170 million in shares. Production began in late 2022, but the trucks had a fault that could cause loss of power, and in February 2023 they were recalled and production stopped. Foxconn never paid most of the promised money. On 27 June 2023, Lordstown **sued Foxconn and filed for Chapter 11 bankruptcy** the same day. It had sold only **38 trucks** and bought 35 of them back. In October 2023, the truck business was sold for **$10.2 million to a company backed by Steve Burns**, the founder who had resigned two years earlier.",
+      "src": [
+        0,
+        4,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018",
+      "event": "Steve Burns founds Lordstown Motors",
+      "kind": "start",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "event": "Takes over GM's old Lordstown plant, helped by a ~$40M GM loan",
+      "kind": "money",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "event": "Lists on NASDAQ via DiamondPeak SPAC at an estimated $1.6B equity value",
+      "kind": "peak",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "event": "Endurance prototype catches fire on its first road test",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "12 Mar 2021",
+      "event": "Hindenburg report calls its 100,000 pre-orders largely fake or non-binding",
+      "kind": "crisis",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "14 Jun 2021",
+      "event": "CEO Burns and CFO resign after an internal probe of pre-order claims",
+      "kind": "crisis",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "May 2022",
+      "event": "Sells the factory to Foxconn for $230M",
+      "kind": "money",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Feb 2023",
+      "event": "Recalls trucks over loss-of-power risk; halts production",
+      "kind": "crisis",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "27 Jun 2023",
+      "event": "Sues Foxconn and files for Chapter 11 bankruptcy",
+      "kind": "end",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "Oct 2023",
+      "event": "Truck business sold for $10.2M to a buyer backed by founder Steve Burns",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2024",
+      "event": "Exits bankruptcy as Nu Ride Inc., a shell with no operations",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            null,
+            null,
+            0.2,
+            2.3
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            124.1,
+            410.4,
+            282.4,
+            343.1
+          ]
+        }
+      ],
+      "takeaway": "In 2023 it spent $91.6M just making trucks that brought in $2.3M of sales.",
+      "src": [
+        0,
+        5
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2020",
+      "round": "Strategic investment (GM)",
+      "amountUsdM": 75,
+      "valuationUsdM": null,
+      "investors": [
+        "General Motors"
+      ],
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "round": "SPAC merger (DiamondPeak Holdings)",
+      "amountUsdM": null,
+      "valuationUsdM": 1600,
+      "investors": [
+        "DiamondPeak Holdings shareholders"
+      ],
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "round": "Strategic investment (Foxconn, first tranche)",
+      "amountUsdM": 52.7,
+      "valuationUsdM": null,
+      "investors": [
+        "Foxconn"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 35
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "tech",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Sold investors on 'orders' nobody had paid for",
+      "explain": "The 100,000 pre-orders were **non-binding, with no deposit**. The company's own board investigation found they were overstated in number and seriousness, and the SEC later charged the company with misleading investors. When the headline number fell apart, so did trust, and the CEO and CFO resigned.",
+      "src": [
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "Promised dates it could not hit",
+      "explain": "Deliveries were promised for late 2020, then early 2021, then September 2021. Months after listing, its own filing admitted it **did not have the money to start production**. Every missed date made the next promise less believable. Dates that slip again and again teach investors to discount everything you say.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": "Bought a giant factory for a tiny output",
+      "explain": "A plant built for one of the world's biggest carmakers is expensive to run. Lordstown ended up **selling only 38 trucks**. Matching factory size to real demand would have saved hundreds of millions. It later had to sell the plant to Foxconn just to keep going.",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "title": "Bet everything on one rescuer",
+      "explain": "After selling the plant to Foxconn, Lordstown depended on Foxconn's promised $170 million. Foxconn never completed most of it, and Lordstown **filed for bankruptcy the day it sued Foxconn**. One partner held its whole future. Its lawsuit against Foxconn could not bring that money back in time.",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you counting sign-ups, waitlists or letters of intent as 'orders'?",
+    "Have you moved your launch date more than twice?",
+    "Is your factory, office or team sized for 100 times your current sales?",
+    "Does your survival depend on one partner sending money it hasn't sent yet?",
+    "Would your 'customers' be surprised to hear they are on your customer list?",
+    "Is your product failing basic tests while you still promise a launch date?"
+  ],
+  "lessons": [
+    {
+      "title": "Take a small deposit to test real demand",
+      "detail": "Even ₹99 or ₹499 tells you far more than a free sign-up. People who pay something are real leads. Report deposits and free interest separately, always."
+    },
+    {
+      "title": "Call your 'customers' before you quote them",
+      "detail": "If you put a company in your pitch as a customer, make sure they agree and know it. Hindenburg simply phoned Lordstown's listed buyers. Anyone can."
+    },
+    {
+      "title": "Promise dates you can beat",
+      "detail": "Give a launch date with buffer built in, then deliver early. Missed dates cost more trust than a later, honest date ever will."
+    },
+    {
+      "title": "Rent capacity before you buy it",
+      "detail": "Use shared kitchens, co-working spaces, contract manufacturers or cloud credits until demand is proven. A huge asset feels like progress but becomes a monthly weight."
+    },
+    {
+      "title": "Get money in the bank, not in a promise",
+      "detail": "A term sheet or partnership announcement is not cash. Keep running your company as if the money won't arrive until it actually does."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "Lordstown emerged from bankruptcy in March 2024 as Nu Ride Inc., a shell with no business, set up to pursue future deals; the SEC filings list it later as Stark Novus Financial. It set aside $25.5 million to help settle shareholder lawsuits after the SEC charged it with misleading investors about the truck. Its lawsuit against Foxconn moved slowly. The Endurance assets went to LandX Motors, a company backed by founder Steve Burns, for $10.2 million.",
+    "src": [
+      0,
+      4,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "Lordstown Motors, Form 10-K for 2023 (filed Feb 2024)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1759546/000155837024002081/ride-20231231x10k.htm"
+    },
+    {
+      "label": "Hindenburg Research, 'The Lordstown Motors Mirage' (12 Mar 2021)",
+      "url": "https://hindenburgresearch.com/lordstown/"
+    },
+    {
+      "label": "CNBC, 'Lordstown Motors shares fall after confirming SEC inquiry' (18 Mar 2021)",
+      "url": "https://www.cnbc.com/2021/03/18/lordstown-motors-shares-fall-as-much-as-12percent-after-confirming-sec-inquiry.html"
+    },
+    {
+      "label": "Lordstown Motors, Form 10-K for 2021 (legal proceedings)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1759546/000155837022002265/ride-20211231x10k.htm"
+    },
+    {
+      "label": "TechCrunch, 'Lordstown Motors exits bankruptcy as Nu Ride' (15 Mar 2024)",
+      "url": "https://techcrunch.com/2024/03/15/lordstown-motors-nu-ride-chapter-11-foxconn/"
+    },
+    {
+      "label": "Lordstown Motors, Form 10-K for 2021 (financial statements)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1759546/000155837022002265/ride-20211231x10k.htm"
+    },
+    {
+      "label": "Wikipedia, 'Lordstown Motors' / Nu Ride Inc. (timeline)",
+      "url": "https://en.wikipedia.org/wiki/Lordstown_Motors"
+    },
+    {
+      "label": "SEC EDGAR, filings list for CIK 1759546 (later names Nu Ride, Stark Novus Financial)",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001759546&type=10-K"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Burns paid consultants per pre-order to inflate the order book",
+        "note": "Alleged by short-seller Hindenburg (which profited from the fall). Not proven in court; kept out of the story."
+      },
+      {
+        "claim": "Steve Burns committed fraud",
+        "note": "The SEC charged the company, not (in our sources) Burns personally. An SDNY investigation was disclosed; we found no charges against him."
+      },
+      {
+        "claim": "Foxconn deliberately misled Lordstown",
+        "note": "This is Lordstown's allegation in its lawsuit; Foxconn sought to move the claims to arbitration. Unresolved in our sources."
+      }
+    ]
+  }
+}

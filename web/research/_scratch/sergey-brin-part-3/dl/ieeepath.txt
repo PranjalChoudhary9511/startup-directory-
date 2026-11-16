@@ -1,0 +1,155 @@
+ --> 
+ Raven.config('https://6b64f5cc8af542cbb920e0238864390a@sentry.io/147999').install();
+ Helium Giants Return: LTA Research Airship Over SF Bay - IEEE Spectrum 
+ IEEE.org IEEE Xplore IEEE Standards IEEE Job Site More Sites 
+ Sign In Join IEEE 
+ The November issue of IEEE Spectrum is here!
+ Download PDF  ↓ 
+ Close bar
+ LTA Research Airship Flies Over San Francisco Bay
+ Share FOR THE TECHNOLOGY INSIDER
+ Search: 
+ Explore by topic Aerospace AI Biomedical Climate Tech Computing Consumer Electronics Energy History of Technology Robotics Semiconductors Telecommunications Transportation 
+ IEEE Spectrum
+ FOR THE TECHNOLOGY INSIDER
+ Topics
+ Aerospace AI Biomedical Climate Tech Computing Consumer Electronics Energy History of Technology Robotics Semiconductors Telecommunications Transportation 
+ Sections
+ Features News Opinion Careers DIY Engineering Resources 
+ More
+ Newsletters Special Reports Collections Explainers Top Programming Languages Robots Guide ↗ IEEE Job Site ↗ 
+ For IEEE Members
+ Current Issue Magazine Archive The Institute The Institute Archive 
+ For IEEE Members
+ Current Issue Magazine Archive The Institute The Institute Archive 
+ IEEE Spectrum
+ About Us Contact Us Reprints & Permissions ↗ Advertising ↗ 
+ Follow IEEE Spectrum
+ Support IEEE Spectrum
+ IEEE Spectrum is the flagship publication of the IEEE — the world’s largest professional organization devoted to engineering and applied sciences. Our articles, videos, and infographics inform our readers about developments in technology, engineering, and science.
+ Subscribe 
+ About IEEE Contact & Support Accessibility Nondiscrimination Policy Terms IEEE Privacy Policy Cookie Preferences Ad Privacy Options 
+ © Copyright 2026 IEEE — All rights reserved. A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+ Enjoy more free content and benefits by creating an account
+ Saving articles to read later requires an IEEE Spectrum account
+ The Institute content is only available for members
+ Downloading full PDF issues is exclusive for IEEE Members
+ Downloading this e-book is exclusive for IEEE Members
+ Access to
+ Spectrum 
+ 's Digital Edition is exclusive for IEEE Members
+ Following topics is a feature exclusive for IEEE Members
+ Adding your response to an article requires an IEEE Spectrum account
+ Create an account to access more content and features on
+ IEEE Spectrum 
+ , including the ability to save articles to read later, download Spectrum Collections, and participate in
+ conversations with readers and editors. For more exclusive content and features, consider
+ Joining IEEE 
+ .
+ Join the world’s largest professional organization devoted to engineering and applied sciences and get access to
+ all of Spectrum’s articles, archives, PDF downloads, and other benefits.
+ Learn more about IEEE → 
+ Join the world’s largest professional organization devoted to engineering and applied sciences and get access to
+ this e-book plus all of
+ IEEE Spectrum’s 
+ articles, archives, PDF downloads, and other benefits.
+ Learn more about IEEE → 
+ CREATE AN ACCOUNT SIGN IN 
+ JOIN IEEE SIGN IN 
+ Close Access Thousands of Articles — Completely Free
+ Create an account and get exclusive content and features:
+ Save articles, download collections, 
+ and
+ post comments 
+ — all free! For full access and benefits,
+ subscribe 
+ to
+ Spectrum 
+ .
+ CREATE AN ACCOUNT SIGN IN 
+ Aerospace News Transportation 
+ LTA Research Airship Flies Over San Francisco Bay
+ Sergey Brin’s startup is exploring the limits of its giant Pathfinder 1 dirigible
+ Mark Ellis Harris 
+ 27 May 2025 
+ 6 min read
+ Mark Ellis Harris is a contributing editor for IEEE Spectrum and an investigative science and technology reporter.
+ LTA Research’s helium airship, Pathfinder 1, was flown over San Francisco Bay on 15 May, 2025.
+ LTA Research
+ The age of the airship is back, kind of. On 15 May, startup LTA Research flew its Pathfinder 1 airship outside Silicon Valley’s Moffett Federal Airfield for the first time. The 124-meter-long helium airship took two loops over the waters of San Francisco Bay before safely returning to base. That makes it the largest aircraft to fly in public since the 1930s, when a series of crashes ended the glory years of airship travel. (LTA has flown smaller, traditional blimps in the Bay Area a number of times for systems testing.)
+ The milestone flight was the culmination of 12 years’ work for LTA Research , which is funded by Google cofounder Sergey Brin . “I was a little bit emotional to see it over the bay, performing as well as it did,” says the startup’s vice president of engineering, Peter Sonnek. Sonnek grew up in the Lake Constance region of Germany, where the first Zeppelin airships were made. 
+ “Flight testing the Pathfinder 1 is more than just learning how it flies,” adds LTA’s new CEO, Brett Crozier. “It’s trying to lay the foundation for a future of electric aviation that’s more sustainable, more adaptable, and more capable, in a way that will potentially change the way we move cargo and people around the world.”
+ Airships can theoretically transport passengers and goods using about a quarter of the energy of jet planes—and with all-electric power sources that emit no carbon. The problem is that they move at only one-tenth the speed of commercial jets, can struggle with winds and weather, and would require a rethink of how airports traditionally operate. 
+ Making airships commercially relevant again is a challenge as big as the vehicles themselves, and LTA’s efforts to date have mostly been behind closed doors. But with the Pathfinder 1 now flying in full view around Silicon Valley , the startup granted IEEE Spectrum exclusive access to see the completed airship up close, and to talk with Crozier and Sonnek about the future of lighter-than-air travel. 
+ LTA Research airship is an updated helium giant
+ Hangar 2 at Moffett Field was built at the start of World War II to accommodate the Navy’s new lighter-than-air fleet and remains one of the largest unsupported wooden structures in the world. The interior space is breathtaking, a cathedral of wood so vast it can occasionally generate its own clouds. Beneath the vast vault of timber, the Pathfinder 1, awe inspiring in its enormity, rests on a few small landing wheels. 
+ The front of the airship is secured to a giant mobile mooring mast used to transport it in and out of the hangar. The semitruck that pulls the mast looks like a toy in comparison. One section of the airship’s covering of UV-resistant white Tedlar (polyvinyl fluoride) was peeled back to reveal a complex structure within. Four large carbon-fiber and foam-core tail fins stabilize the airship during forward flight. (LTA could fly the Pathfinder 1 backward but doesn’t because it would wobble.)
+ The Pathfinder 1 airship is housed at Hangar 2 at Moffett Field, California, which was built during World War II to shelter U.S. Navy airships. LTA Research 
+ Like the historic airships of old—but unlike the collapsible Goodyear blimp—the Pathfinder 1 has a three-dimensional, rigid frame supporting internal gas cells. This structure both makes the airship more resilient to weather and allows it to finely control its buoyancy and attitude. The similarities with last century’s airships end there. Instead of aluminum beams inside, Pathfinder 1 uses lightweight carbon fiber rods and titanium hubs, and each of its 13 huge nylon gas cells contains stable helium rather than flammable hydrogen . 
+ Conserving that helium, which is piped into the airship from below, is a major effort. The expensive, increasingly scarce, gas is never simply vented to the air. When engineers need to work on the airship’s gas cells, the helium is extracted from the top of the Pathfinder using thick yellow tubes suspended from the roof of the hangar. It is then decanted into a giant “nurse bag,” towering almost to the full height of the hangar like an elongated hot-air balloon. 
+ Another big difference to the airships of old is the propulsion. The Pathfinder 1 sports 12 electric motors , four spaced out on either side and four at the rear. Each can swivel 180 degrees in either direction, with a fly-by-wire system that allows pinpoint control of their thrust. The motors draw power from batteries that can be charged on the ground, or during flight using on-board generators. Small scoops on the side of the airship direct ambient air across the batteries to keep them cool. Crozier would not disclose the power source to charge the batteries during flight, other than to call it a hybrid system. This implies LTA is currently using a fossil fuel of some type. The company is exploring zero-carbon power solutions, although it is unlikely to use the hydrogen fuel cells favored by some electric aviation startups.
+ The flight test program approved by the FAA is almost glacially incremental. Since the Pathfinder 1 first ventured out of Hangar 2 in November 2023, it was first moored to the mast and then slowly released to be tested at higher altitudes and speeds. Not everything went smoothly, Crozier admits: “Flight testing is a slow, deliberate process. And after every test, you learn new things and there’s new things you want to adjust.”
+ For example, after the first flights, test engineers noticed that the gas cells were shifting too much within the carbon-fiber supports, making it tricky to keep the airship level. The company added stiffer bulkheads between the cells to fix the issue. Another change was to increase the size of the Pathfinder 1 ’s water ballast system. Many airships hold reservoirs of water on board, pumping the liquid fore or aft to help balance or direct the aircraft. If the airship needs to rise quickly, the water can also be released to add buoyancy. “It’s a very massive structure, but very small changes in buoyancy make a big difference,” says Sonnek. 
+ LTA Research 
+ As massive as the Pathfinder 1 is, it is merely a subscale prototype of the airship LTA really wants to build. The Pathfinder 3, currently under development at another WWII-era hangar in Akron, Ohio, will form the basis of the airship that LTA will eventually submit for certification by the FAA . The Pathfinder 3 will be larger than the current vessel and will carry more passengers or cargo, but other than that, its design is still far from set, says Crozier: “Everything we’re doing now will inform what that Pathfinder 3 will look like, with the goal of manufacturing commercial airships in Akron.”
+ Multiple airship startups foresee various uses
+ LTA is not the only company trying to bring airships back to life . British firm Hybrid Air Vehicles says that it is preparing a factory to build an intriguing 100-passenger design with a soft, blimp-like envelope in a wing-like shape to provide aerodynamic lift. The company hopes to be producing dozens by 2030, despite its only prototype so far breaking free of its mooring and deflating in 2019. Flying Whales , based in France, wants to build 180-meter airships at a factory in Quebec, while Aeros in L.A. plans to deploy drones from its airships. 
+ But LTA has something they don’t—a billionaire funder with a passion as deep as his pockets. Sergey Brin also controls disaster response nonprofit Global Support and Development , which provides assistance to islands hit by hurricanes and other climate disasters. While humanitarian missions are a possible future use case for LTA’s airships, Crozier insists that the Pathfinder 3 will also have to be commercially viable in cargo or passenger travel.
+ “We’re slower than a 777, but we’re faster than most other things, and we don’t need a runway,” he says. “That’s a sweet spot for light cargo and sustainable travel. And once you design to take care of those two, that leaves the door open for humanitarian work, which is important to us.”
+ For now, there’s much more to learn from flight testing at Moffett Field. The company had to ask the FAA for another special airworthiness certificate to extend testing into 2025 and will likely do the same again toward the end of this year. Near-term challenges include operating the Pathfinder 1 at higher speeds and altitudes, and starting to test it in more demanding conditions. 
+ “I feel like I’ve paid more attention to weather in the last month than I had my entire life of flying airplanes,” says Crozier. “We’re trying not to get ahead of ourselves. We’re going to focus on the flight testing now with an eye toward the future. And then we’ll use that to design whatever that next generation airship looks like.”
+ Only one thing seems certain. Whatever LTA builds next, it’s going to be very, very large. 
+ This article was updated on 28 May 2025. 
+ From Your Site Articles
+ EXCLUSIVE: Google Founder’s Airship Gets FAA Clearance › 
+ The Tech Is Finally Good Enough for an Airship Revival › 
+ Hydrogen Airship Transforms Infrastructure Inspections - IEEE Spectrum › 
+ Related Articles Around the Web
+ Join the Team at LTA Research - Employment Opportunities › 
+ Our Story - Lighter Than Air (LTA) Research › 
+ airship revival airships aviation electric aviation lta research sergey brin 
+ Mark Ellis Harris Mark Ellis Harris is an investigative science and technology reporter based in Seattle, focusing on transportation, climate, space, and surveillance. His book on the OceanGate submersible implosion is called Deep End. He’s on Signal at meharris.01 or Bluesky at @meharris for story leads.
+ The Conversation (4)
+ Marc Apter 11 Jun, 2025 
+ LS
+ The US Navy flew larger blimps in the 1950's!
+ 0 
+ Replies
+ Hide replies
+ Show More Replies
+ Jose Antonio Senna 05 Jun, 2025 I think the uses for airships must be found where their ability
+ to hover above one place for a long time is advantageous.
+ For instance, one has been recently used for clearing mines.
+ Telecom relays are another possibility.
+ Definitely not as cargo aircraft.
+ 0 
+ Replies
+ Hide replies
+ Show More Replies
+ W George Mckee 30 May, 2025 
+ LM
+ Airships are very cool, but their uses are so very limited. Regular STOL airplanes can handle "light cargo" with limited runways just fine. What they can't do is big, light cargo. Most big cargo is also heavy, which excludes airships. The only big, light cargo I can think of is wind turbine blades, which have grown too long for roads. But since rich people hate all wind because some turbines spoil their exclusive landscape views - see "Vineyard wind" and Trump's Scottish golf course - that market is blocked, too. That leaves only luxury air tourism, which isn't much.
+ 0 
+ Replies
+ Hide replies
+ Show More Replies
+ Telecommunications News 
+ What Would a U.S. Telecommunications Act 2.0 Look Like?
+ 6h 
+ 5 min read
+ AI Consumer Electronics Sponsored Article 
+ Consumer Appetite for Personal AI Goes Mainstream
+ 29 Oct 2026 
+ 5 min read
+ History of Technology Magazine Energy Past Forward Article November 2026 Transportation 
+ When Electric Cars Were for Women
+ 31 Oct 2026 
+ 7 min read
+ Related Stories
+ Aerospace News 
+ Autonomous Airships Keep Tabs on Energy Infrastructure
+ Aerospace News 
+ Ukraine Is Turning to 18th-Century Tech for Defense
+ Aerospace News Magazine January 2024 
+ EXCLUSIVE: Google Founder’s Airship Gets FAA Clearance
+ 

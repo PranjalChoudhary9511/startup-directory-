@@ -1,0 +1,172 @@
+{
+  "slug": "katerra",
+  "name": "Katerra",
+  "region": "global",
+  "country": "United States",
+  "city": "Menlo Park, California",
+  "sector": "Construction tech / prefab buildings",
+  "founded": 2015,
+  "died": 2021,
+  "status": "bankrupt",
+  "brandColor": "#f26b21",
+  "founders": [
+    { "name": "Michael Marks", "role": "Co-founder, chairman and CEO until 2020 (ex-CEO of Flextronics, ex-interim CEO of Tesla)" },
+    { "name": "Fritz Wolff", "role": "Co-founder (executive chairman of The Wolff Co.)" }
+  ],
+  "epitaph": "Did everything. That was the problem.",
+  "oneLiner": "Tried to build apartment buildings like factories build phones: design, materials, factory-made parts and on-site assembly, all in-house.",
+  "causeOfDeath": "It tried to own every step of construction at once, opened factories faster than it could run them, and ran out of money when its financing collapsed.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 4000,
+  "endValueUsdM": null,
+  "moneyNote": "Peak: about $4B by 2019 (Global Construction Review). SoftBank's Vision Fund reportedly put in more than $2B in total, but no audited total is public, so raised is left blank. End: factories sold in bankruptcy; prices not confirmed by a source we read.",
+  "moneySrc": [0, 4, 5],
+  "inOneMinute": [
+    "Katerra wanted to **build buildings the way Apple builds iPhones**: in factories, with software, owning every step. SoftBank loved it.",
+    "It went from about 550 staff to 1,300 in nine months, planned six factories in a year, and reached **a $4 billion valuation**.",
+    "Costs and delays never came down enough. When a key finance firm collapsed in 2021, Katerra **filed for bankruptcy** and sold its factories."
+  ],
+  "killerLine": "Owning every step only helps if you are **better than specialists at every step**. Otherwise you just own **every problem**.",
+  "numbers": [
+    { "value": "$865M", "label": "single funding round led by SoftBank, January 2018", "src": [0] },
+    { "value": "$4 billion", "label": "valuation by 2019", "src": [4] },
+    { "value": "6", "label": "factories it planned to open within about a year (2018)", "src": [2] },
+    { "value": "$1.3 billion", "label": "backlog of projects it said it had in 2018", "src": [0] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a factory for buildings",
+      "body": "Construction is one of the oldest, slowest industries. Most buildings are still made by hand, on site, with many separate companies: an architect designs, a contractor builds, suppliers send materials, and each handoff adds delay and cost. Michael Marks, who once ran Flextronics, one of the world's biggest electronics manufacturers, and was briefly Tesla's CEO, thought he could fix this. In 2015 he co-founded Katerra with property investor Fritz Wolff. The plan: **do everything in-house**. Katerra would design the building with its own software, buy the materials, make walls and panels in its own factories, ship them to site and assemble them. As Marks told CNBC: \"There's no handoff. We do everything.\" The idea was bold and **genuinely interesting**.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The rise: SoftBank's construction bet",
+      "body": "Investors were excited. In April 2017 Katerra raised $130 million at a **$1 billion valuation**, with about 550 staff, mostly building apartment blocks in Seattle and Portland. Just nine months later, in January 2018, SoftBank's Vision Fund led an **$865 million** round, valuing Katerra at over $3 billion. By then it had 1,300 employees, including 100 architects, and said it had $1.3 billion of projects waiting. It announced plans for six factories within about a year, including a giant 250,000-square-foot plant in Spokane, Washington, to make cross-laminated timber (super-strong engineered wood panels). It even bought an architecture firm, Michael Green Architecture. By 2019 it was valued at about **$4 billion**. Critics already questioned whether one company could manage so many steps.",
+      "src": [0, 1, 2, 5]
+    },
+    {
+      "title": "The cracks: factories are hard",
+      "body": "Running one factory well is difficult. Katerra was trying to run several, plus design studios, purchasing and building sites across the country, all at the same time. Construction projects are each a little different, which makes factory-style mass production much harder than with phones. In December 2019 Katerra announced it would **close its Phoenix factory and cut 200 jobs**, moving production to a more automated, lower-cost plant in Tracy, California. In May 2020 Marks stepped aside and Paal Kibsgaard, the company's operating chief and a former CEO of oilfield giant Schlumberger, was named CEO. Then COVID-19 hit building sites everywhere. Industry observers later said Katerra's software and factories **did not solve the delays and cost overruns** they were meant to fix.",
+      "src": [3, 4, 5]
+    },
+    {
+      "title": "The fall: the money stops",
+      "body": "Katerra kept needing outside money to keep its factories and projects running, and SoftBank remained its biggest backer. But in early 2021, Greensill Capital, a finance firm Katerra relied on, collapsed. Global Construction Review reported that this **wrecked Katerra's balance sheet**. Unable to raise new money, Katerra announced in June 2021 that it would shut down, and it filed for bankruptcy. It **sold its factories**, including the Spokane plant with one of the largest cross-laminated timber presses in the world. About two years after being valued at $4 billion, the company that wanted to rebuild construction from scratch was gone. One industry leader later said Katerra **drove a lot of investment** into the sector.",
+      "src": [4, 5]
+    }
+  ],
+  "timeline": [
+    { "date": "2015", "event": "Michael Marks and Fritz Wolff found Katerra in Menlo Park, California.", "kind": "start", "src": [0, 1] },
+    { "date": "Apr 2017", "event": "Raises $130 million at a $1 billion valuation, with about 550 staff.", "kind": "money", "src": [1] },
+    { "date": "Jan 2018", "event": "SoftBank Vision Fund leads an $865 million round at a valuation over $3 billion. Staff: 1,300.", "kind": "money", "src": [0] },
+    { "date": "Mar 2018", "event": "Plans six factories within a year, including a 250,000 sq ft mass-timber plant in Spokane.", "kind": "warning", "src": [2] },
+    { "date": "2019", "event": "Valued at about $4 billion.", "kind": "peak", "src": [4] },
+    { "date": "Dec 2019", "event": "Closes its Phoenix factory and cuts 200 jobs, moving work to Tracy, California.", "kind": "warning", "src": [3] },
+    { "date": "May 2020", "event": "Paal Kibsgaard is named CEO, succeeding Michael Marks.", "kind": "crisis", "src": [5] },
+    { "date": "Early 2021", "event": "Greensill Capital, a finance firm Katerra relied on, collapses.", "kind": "crisis", "src": [4, 5] },
+    { "date": "Jun 2021", "event": "Katerra announces it will shut down and files for bankruptcy; its factories are later sold.", "kind": "end", "src": [4, 5] }
+  ],
+  "charts": [
+    {
+      "title": "Katerra's headcount",
+      "unit": "employees",
+      "kind": "bar",
+      "labels": ["Apr 2017", "Jan 2018"],
+      "series": [
+        { "name": "Employees", "values": [550, 1300] }
+      ],
+      "takeaway": "Staff more than doubled in nine months, before the company had proved its factories could build cheaper and faster.",
+      "src": [0, 1]
+    }
+  ],
+  "rounds": [
+    { "date": "Apr 2017", "round": "Series C", "amountUsdM": 130, "valuationUsdM": 1000, "investors": [], "src": [1] },
+    { "date": "Jan 2018", "round": "Series D", "amountUsdM": 865, "valuationUsdM": 3000, "investors": ["SoftBank Vision Fund"], "src": [0, 2] }
+  ],
+  "causes": [
+    { "key": "over-expansion", "weight": 35 },
+    { "key": "business-model", "weight": 25 },
+    { "key": "burn", "weight": 20 },
+    { "key": "funding-dried", "weight": 20 }
+  ],
+  "mistakes": [
+    {
+      "title": "Tried to own every step from day one",
+      "explain": "Katerra was the architect, the materials buyer, the factory and the contractor all at once. Marks called it \"no handoff.\" But each step is its own hard business with experienced rivals. Critics questioned this from the start. To win, Katerra had to **beat specialists at every step simultaneously**, which almost no startup can do.",
+      "src": [0, 1]
+    },
+    {
+      "title": "Scaled factories before proving one",
+      "explain": "In 2018 it planned **six factories in about a year**. Factories are expensive, slow to tune, and need steady orders to pay off. By December 2019 it was closing the Phoenix plant and moving work elsewhere. Building many plants before one runs profitably **multiplies the learning cost**.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Grew the team faster than the proof",
+      "explain": "Headcount went from about **550 to 1,300 in nine months** after a giant SoftBank round. Big funding encouraged big hiring, but the core claim, that its method was cheaper and faster than normal construction, was still unproven. Observers later said the tech **did not fix delays and cost overruns**.",
+      "src": [0, 1, 4]
+    },
+    {
+      "title": "Depended on fragile financing",
+      "explain": "Katerra needed constant outside money to keep factories and projects going. When Greensill Capital collapsed in 2021, it **wrecked Katerra's balance sheet**. A company that cannot fund itself from its own operations is only as strong as its weakest financier.",
+      "src": [4, 5]
+    }
+  ],
+  "warningSigns": [
+    "Are you trying to do several hard jobs in-house that specialists already do well?",
+    "Are you building a second factory, store or warehouse before the first one makes money?",
+    "Did your team double after a big round, before your core promise was proven?",
+    "Are your projects still running late and over budget, even after the 'fix' you sell?",
+    "Would your business stop within months if one lender or financier disappeared?",
+    "Do critics keep raising the same doubt about your model, and do you still lack a clear answer with numbers?"
+  ],
+  "lessons": [
+    {
+      "title": "Integrate one step at a time",
+      "detail": "Start with the one step where you are clearly better (say, factory-made bathroom pods or kitchen modules) and partner with others for the rest. Add more steps only when you can show each one makes the whole cheaper or faster."
+    },
+    {
+      "title": "One great factory before many",
+      "detail": "Whether it is a cloud kitchen, a warehouse or a manufacturing unit, run one until it is consistently profitable and you understand every cost. Then copy it. Copying an unproven unit just copies the losses."
+    },
+    {
+      "title": "Prove the core promise with numbers",
+      "detail": "If you claim to build 30% cheaper or 2x faster, measure it on real projects and show it to customers. Katerra's critics asked this from the beginning. A clear answer with data is your strongest defence."
+    },
+    {
+      "title": "Do not let a giant round set your pace",
+      "detail": "A huge cheque creates pressure to spend and hire fast. Decide your hiring and expansion plan based on what the business has proven, then raise money to fund that plan, not the other way round."
+    },
+    {
+      "title": "Spread your financing risk",
+      "detail": "Do not rely on one bank, one NBFC or one investor for working capital. Keep backup credit lines and enough cash to survive if a financier suddenly stops lending."
+    }
+  ],
+  "quote": {
+    "text": "There's no handoff. We do everything.",
+    "who": "Michael Marks, co-founder and chairman of Katerra",
+    "context": "Explaining Katerra's all-in-house model to CNBC after the $865 million SoftBank-led round, January 2018",
+    "src": [0]
+  },
+  "afterlife": {
+    "text": "After filing for bankruptcy in 2021, Katerra sold its factories, including the Spokane, Washington plant that had one of the largest cross-laminated timber presses in the world. Its failure became a reference point for the whole construction-tech industry. Some industry voices argue Katerra's idea was right but its execution and timing were wrong, and that it helped draw investment into off-site and digital construction that continues today.",
+    "src": [4]
+  },
+  "sources": [
+    { "label": "CNBC: Katerra raises $865 million from SoftBank Vision Fund (Jan 2018)", "url": "https://www.cnbc.com/2018/01/24/katerra-raises-865-million-from-softbank-vision-fund.html" },
+    { "label": "Construction Dive: Offsite startup Katerra raises $130M (Apr 2017)", "url": "https://www.constructiondive.com/news/construction-tech-offsite-startup-katerra-raises-130m/440681/" },
+    { "label": "Construction Dive: Katerra plans major US factory expansion (Mar 2018)", "url": "https://www.constructiondive.com/news/katerra-plans-major-us-factory-expansion/518616/" },
+    { "label": "Archinect: Katerra cuts 200 jobs to embrace automation (Dec 2019)", "url": "https://archinect.com/news/article/150174575/modular-construction-startup-katerra-cuts-200-jobs-to-embrace-automation" },
+    { "label": "Global Construction Review: After Katerra, how digital construction is developing in the US (May 2022)", "url": "https://www.globalconstructionreview.com/after-katerra-how-digital-construction-is-developing-in-the-us/" },
+    { "label": "Wikipedia: Katerra (used for CEO change, MGA acquisition and SoftBank total; cross-check before quoting)", "url": "https://en.wikipedia.org/wiki/Katerra" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Katerra's valuation after the January 2018 round.", "note": "CNBC said 'more than $3 billion' post-money; Construction Dive said it had 'surpassed $2.5 billion'. Global Construction Review later said about $4B by 2019. We use $4B as the peak." },
+      { "claim": "SoftBank invested more than $2 billion in total, including a late-2020 rescue.", "note": "Widely reported, but we could not read a primary report of the exact amounts, so we present it as 'reportedly'." },
+      { "claim": "Katerra had about 7,500 employees in 2018.", "note": "Appears on Wikipedia without a clear primary source. The confirmed figure is 1,300 in January 2018." },
+      { "claim": "Employees were laid off without severance or earned time-off pay at the 2021 shutdown.", "note": "Reported on Wikipedia; we could not verify it in a primary source, so it is left out of the story." },
+      { "claim": "Exact bankruptcy date, court and debts.", "note": "Katerra filed for Chapter 11 in June 2021, but we could not access the court filings in this research pass, so no debt figures are given." }
+    ]
+  }
+}

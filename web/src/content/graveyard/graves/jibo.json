@@ -1,0 +1,155 @@
+{
+  "slug": "jibo",
+  "name": "Jibo",
+  "region": "global",
+  "country": "United States",
+  "city": "Boston",
+  "sector": "Home social robot",
+  "founded": 2012,
+  "died": 2018,
+  "status": "sold-for-parts",
+  "brandColor": "#3a3a3c",
+  "founders": [
+    { "name": "Cynthia Breazeal", "role": "Founder and chief scientist (MIT roboticist)" }
+  ],
+  "epitaph": "It turned to look at you. You turned to Alexa.",
+  "oneLiner": "A friendly tabletop robot with a round, expressive face that could talk, take photos and turn towards you when you spoke.",
+  "causeOfDeath": "Years of delays and a $899 price met a far cheaper Amazon Echo that did more; Jibo burned nearly $73M and sold its assets in 2018.",
+  "raisedUsdM": 73,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "'Nearly $73M' of venture capital plus over $3.5M from Indiegogo (The Robot Report). The 2018 asset sale price was not published; no valuation was made public.",
+  "moneySrc": [4, 5],
+  "inOneMinute": [
+    "MIT robotics pioneer Cynthia Breazeal built Jibo, **the first social robot for the home**. Its 2014 crowdfunding raised over $3.5 million.",
+    "Promised for 2015, it shipped in **late 2017 at $899**. By then Amazon's Echo cost far less and could do more.",
+    "Jibo burned **nearly $73 million**, laid off most staff in 2018 and sold its assets. TIME had put it on its cover months earlier."
+  ],
+  "killerLine": "Being first means nothing if you ship late. **A cheaper, simpler rival that ships now beats a magical one that ships later.**",
+  "numbers": [
+    { "value": "$899", "label": "Jibo's price at launch in 2017", "src": [3, 4] },
+    { "value": "~$73M", "label": "venture money burned", "src": [4, 5] },
+    { "value": "2 years", "label": "late: promised fall 2015, shipped late 2017", "src": [2, 4] },
+    { "value": "45", "label": "countries whose orders were cancelled", "src": [4] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a robot that feels like family",
+      "body": "Cynthia Breazeal is one of the world's best-known robotics researchers at MIT. She had spent years studying 'social robots', machines that interact with people using faces, voices and movement. In 2012 she co-founded Jibo to bring one into ordinary homes. Jibo looked like a small white lamp with **a round head and a screen for a face**. It could turn to look at you, giggle, dance, take family photos and read you the news. In July 2014 the team launched a crowdfunding campaign on Indiegogo, calling Jibo **the world's first family robot**. Thousands of people pre-ordered, and the campaign raised **over $3.5 million**.",
+      "src": [0, 3, 4]
+    },
+    {
+      "title": "The rise: big money, big promises",
+      "body": "Investors loved the vision. Jibo raised venture capital in rounds that eventually totalled **nearly $73 million**. The first robots were promised for **fall 2015**. Building a robot is far harder than building an app, though. Jibo needed motors that moved smoothly in three directions, cameras, microphones, speech recognition and a personality, all in a small, safe body. The three-way motor system alone was a big cost. The fall 2015 date passed. So did October 2016. The team told backers that **\"users had trouble discovering what Jibo could do\"** in testing, and said the technical problems would take time to fix. Every month of delay cost money, and the world kept moving.",
+      "src": [2, 4, 5]
+    },
+    {
+      "title": "The cracks: Alexa arrives first",
+      "body": "While Jibo was being perfected, Amazon launched the Echo smart speaker. It had no face and couldn't dance, but it played music, set timers and answered questions, at **a price about 75% lower than Jibo's**. Amazon also set up a $100 million fund to help others build on Alexa. In 2016 Jibo cancelled pre-orders from **45 countries**, saying the robot \"won't function up to our standards\" there because of language, speech and certification problems. Jibo finally shipped in September 2017 and went on sale at $899. TIME named it one of the best inventions of 2017 and put it on the cover. But reviewers noted it couldn't yet play requested music or work with apps.",
+      "src": [3, 4]
+    },
+    {
+      "title": "The fall: an empty office",
+      "body": "Early sales were weak. In 2018 Jibo laid off most of its workers to buy time to find more money or a buyer. In June 2018, its assets and patents were sold to SQN Venture Partners, an investment firm. A Boston Globe reporter found the office **full of packing material and sold furniture**. Software updates stopped coming. Jibo's last president confirmed simply: \"we sold the assets of the company\". As robotics writer Evan Ackerman put it, in consumer robots **\"the expectation is for things to work almost perfectly and cost almost nothing\"**. Jibo, a beautiful first attempt, could do neither. By November 2018, the company had shut down.",
+      "src": [1, 4, 5]
+    }
+  ],
+  "timeline": [
+    { "date": "2012", "event": "MIT roboticist Cynthia Breazeal co-founds Jibo", "kind": "start", "src": [0, 5] },
+    { "date": "Jul 2014", "event": "Indiegogo campaign launches; raises over $3.5M", "kind": "money", "src": [0, 4] },
+    { "date": "Fall 2015", "event": "Original launch target passes without a robot", "kind": "warning", "src": [2] },
+    { "date": "2016", "event": "Orders from 45 countries cancelled; launch slips again to 2017", "kind": "warning", "src": [2, 4] },
+    { "date": "Sep 2017", "event": "First robots ship; public sales open at $899 in October", "kind": "start", "src": [4, 5] },
+    { "date": "Nov 2017", "event": "TIME puts Jibo on the cover of its best inventions of 2017", "kind": "peak", "src": [0, 3] },
+    { "date": "2018", "event": "Most staff laid off to buy time for funding or a sale", "kind": "crisis", "src": [4] },
+    { "date": "Jun 2018", "event": "Assets and patents sold to SQN Venture Partners", "kind": "end", "src": [1, 5] },
+    { "date": "Nov 2018", "event": "Jibo shuts down", "kind": "end", "src": [5] },
+    { "date": "Mar 2020", "event": "NTT Disruption acquires Jibo patents for its own products", "kind": "after", "src": [5] }
+  ],
+  "charts": [],
+  "rounds": [
+    { "date": "2014", "round": "Indiegogo (pre-orders)", "amountUsdM": 3.5, "valuationUsdM": null, "investors": ["Indiegogo backers"], "src": [4, 5] }
+  ],
+  "causes": [
+    { "key": "tech", "weight": 35 },
+    { "key": "competition", "weight": 30 },
+    { "key": "timing", "weight": 20 },
+    { "key": "burn", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Promised dates it couldn't meet",
+      "explain": "Jibo promised robots for fall 2015, then October 2016, and finally shipped in late 2017. **Two years of delay** is an eternity in tech. It burned money, frustrated backers who had paid upfront, and gave Amazon and Google time to fill homes with cheaper smart speakers.",
+      "src": [2, 4]
+    },
+    {
+      "title": "Priced like a luxury, worked like a beta",
+      "explain": "At $899, buyers expected magic. But at launch Jibo **couldn't play requested music or work with apps** like Uber or Domino's. The Echo cost about 75% less and did more useful things. People pay premium prices for products that clearly do more, not for products that feel more charming.",
+      "src": [3, 4]
+    },
+    {
+      "title": "Expensive hardware choices",
+      "explain": "Jibo's smooth three-way moving body was what made it feel alive, but **the motor system was a major cost**. A former employee said the company was considering downgrading it. Hardware startups must decide early which delightful features are worth their cost.",
+      "src": [4]
+    },
+    {
+      "title": "Crowdfunding promises locked it in",
+      "explain": "Thousands of backers had pre-paid for a specific robot. That made it hard to pivot to a cheaper product or a different market. The Robot Report argued **Jibo's crowdfunding commitments kept it from changing course**. It also had to cancel orders in 45 countries it could not support.",
+      "src": [4]
+    }
+  ],
+  "warningSigns": [
+    "Have you missed your promised launch date more than once?",
+    "Does a big company sell something that does most of your job at a fraction of your price?",
+    "Are you promising customers in countries you haven't tested your product in?",
+    "Is one fancy part making your product too expensive for normal buyers?",
+    "Are pre-order promises stopping you from changing a product that isn't working?"
+  ],
+  "lessons": [
+    {
+      "title": "Ship a simple version early",
+      "detail": "Launch the smallest product that does one useful thing well. You can add personality and features later, once people are already using it."
+    },
+    {
+      "title": "Compare yourself to the cheapest alternative",
+      "detail": "Ask: what will a customer buy instead? If the answer costs one-fifth of your price, you need a much bigger advantage than charm."
+    },
+    {
+      "title": "Only promise dates you can beat",
+      "detail": "Add a big buffer to every hardware deadline. Under-promise and over-deliver keeps backers on your side."
+    },
+    {
+      "title": "Launch in one market first",
+      "detail": "Speech, language, plugs and safety rules differ by country. Win one market fully before taking orders from 45 more."
+    },
+    {
+      "title": "Research skill isn't product skill",
+      "detail": "A brilliant lab idea still needs tough decisions on price, cost and timing. Pair inventors with people who have shipped consumer products before."
+    }
+  ],
+  "quote": {
+    "text": "Users had trouble discovering what Jibo could do.",
+    "who": "Jibo, in an update to its backers",
+    "context": "Explaining why the robot was delayed again, to 2017",
+    "src": [2]
+  },
+  "afterlife": {
+    "text": "SQN Venture Partners bought Jibo's assets in June 2018. In March 2020, NTT Disruption, part of Japan's NTT, acquired Jibo patents to build its own products. Cynthia Breazeal returned to the MIT Media Lab, where the Jibo platform was used for research. Jibo's design later won a Core77 Design Award in 2025.",
+    "src": [0, 5]
+  },
+  "sources": [
+    { "label": "Wikipedia: Jibo, for the founding and later history", "url": "https://en.wikipedia.org/wiki/Jibo" },
+    { "label": "IEEE Spectrum: Jibo is probably totally dead now (Dec 2018)", "url": "https://spectrum.ieee.org/jibo-is-probably-totally-dead-now" },
+    { "label": "SlashGear: Jibo delayed to 2017 as social robot hits more hurdles (2016)", "url": "https://www.slashgear.com/jibo-delayed-to-2017-as-social-robot-hits-more-hurdles-20464725/" },
+    { "label": "TIME: The 25 best inventions of 2017", "url": "https://time.com/5023212/best-inventions-of-2017/" },
+    { "label": "The Robot Report: Jibo social robot, analyzing what went wrong (Jun 2018)", "url": "https://www.therobotreport.com/jibo-social-robot-analyzing-what-went-wrong/" },
+    { "label": "The Robot Report: Jibo assets acquired by NTT Disruption (Mar 2020)", "url": "https://www.therobotreport.com/jibo-social-robot-assets-acquired-ntt-disruption/" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Echo's price compared with Jibo", "note": "The Robot Report says Echo launched at a price 75% below Jibo's; exact Echo prices varied by model and date, so we use only the percentage." },
+      { "claim": "Size of the Series A", "note": "Wikipedia says Jibo hit a Series A goal of $70M, while The Robot Report says it raised nearly $73M in total; the round-by-round split is not clear." }
+    ]
+  }
+}

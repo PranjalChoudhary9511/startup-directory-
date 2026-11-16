@@ -1,0 +1,178 @@
+{
+  "slug": "lido-learning",
+  "name": "Lido Learning",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Edtech",
+  "founded": 2019,
+  "died": 2022,
+  "status": "insolvent",
+  "brandColor": "#f26b3a",
+  "founders": [{ "name": "Sahil Sheth", "role": "Founder & CEO" }],
+
+  "epitaph": "Promised a $100 M run rate. Ran out first.",
+  "oneLiner": "Live online tuition in small groups of six for school kids, in maths, science, coding and English.",
+  "causeOfDeath": "It spent about ₹6 for every ₹1 it earned, planned for growth that never came, and collapsed when an expected funding round fell through.",
+
+  "raisedUsdM": 24,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: Inc42 (Feb 2022) put total funding at close to $24 M; a Sept 2021 report said $20 M after the latest round. No valuation was ever published. The $100 M run-rate target is about ₹740 crore at the 2021 rate of roughly ₹74 per dollar. FY21 revenue of ₹11.3 crore is about $1.5 M at the same rate. No sale price; the company filed for insolvency.",
+  "moneySrc": [0, 4],
+
+  "inOneMinute": [
+    "In FY21 Lido earned **₹11.3 crore and spent ₹70 crore**. Months later it raised $10 million and talked of a **$100 million run rate**.",
+    "Five months after that round, a town hall told staff there was **no money for January salaries**. Most were let go over Zoom.",
+    "Employees and parents chased dues for months. In **September 2022** Lido filed for insolvency itself."
+  ],
+  "killerLine": "A forecast is not a bank balance. **Spend against cash you have**, not the round you think is coming.",
+
+  "numbers": [
+    { "value": "₹6.2", "label": "spent for every ₹1 earned in FY21 (₹70 cr costs vs ₹11.3 cr revenue)", "src": [0] },
+    { "value": "$100 M", "label": "revenue run rate it said it was on track for by March 2022", "src": [4] },
+    { "value": "5 months", "label": "from its $10 M round to telling staff it couldn't pay them", "src": [0] },
+    { "value": "Aug 2021", "label": "the last time it deposited employees' provident fund (PF)", "src": [0] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Sahil Sheth, a former Byju's executive, started Lido in Mumbai in April 2019. The idea was good and simple. Big video apps teach thousands at once, but many kids learn better with a real teacher who knows their name. Lido ran **live online classes for just six students**, in maths and science at first, later coding and English. Parents paid a yearly subscription, which by 2022 cost about ₹50,000 to ₹90,000. Strong names backed it early. Ronnie Screwvala, the media entrepreneur who started upGrad, led a $3 million Series A in late 2019. Picus Capital and Paytm's president Madhur Deora joined in March 2020, just as Covid made online classes a necessity.",
+      "src": [1, 5, 0]
+    },
+    {
+      "title": "The rise",
+      "body": "Covid was rocket fuel. Lido said the pandemic was pulling Indian parents to online tuition **faster than expected**. Revenue tripled from ₹3.7 crore in FY20 to ₹11.3 crore in FY21. But costs grew far more in rupees: ₹70 crore in FY21, driven mainly by staff costs. In September 2021 Screwvala's Unilazer Ventures led a **$10 million round**. Lido said it was on track for a **$100 million run rate** (yearly revenue pace) by the end of the financial year, about 65 times what it had just earned. It planned launches in the UK, Australia and Southeast Asia, a free app, and its **first TV ad campaign during the IPL**. Every plan cost money upfront.",
+      "src": [5, 0, 4]
+    },
+    {
+      "title": "The cracks",
+      "body": "Inside, the numbers did not match the plans. Over FY20 and FY21, Lido lost about ₹102 crore while raising about ₹111 crore. In other words, **almost every rupee raised was already spent**. Staff later told Inc42 that irregular salaries were not unusual. One employee alleged PF (provident fund, retirement savings cut from salary) was still being deducted, yet records showed the **last PF deposit was in August 2021**. Lido was counting on a fresh funding round. One employee said an investor backed out after committing. Talks of a merger or sale went nowhere. Parents, meanwhile, were complaining online about refunds that never came.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "The fall",
+      "body": "In February 2022, at a town hall, Sheth told staff Lido could not pay January salaries. \"We were not given any notice and were asked not to work from the next day,\" one employee said. **Between 150 and 200 people** were laid off, and pending pay was promised within 90 days. By May, dues were still unpaid. A settlement document said ex-employees **could not create bad publicity** if they wanted to be paid. Some parents who had taken loans for courses were still paying EMIs. On 5 September 2022, the shareholders approved filing for insolvency under **Section 10 of the IBC** (a company asking the tribunal to take over because it cannot pay its debts).",
+      "src": [0, 1, 2, 3]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Apr 2019", "event": "Sahil Sheth founds Lido Learning in Mumbai.", "kind": "start", "src": [5] },
+    { "date": "Nov 2019", "event": "Raises a $3 M Series A led by Ronnie Screwvala.", "kind": "money", "src": [5] },
+    { "date": "Mar 2020", "event": "Raises another $3 M from Picus Capital, Madhur Deora and others as Covid hits.", "kind": "money", "src": [5] },
+    { "date": "FY21", "event": "Revenue ₹11.3 crore; costs ₹70 crore; loss ₹58.7 crore.", "kind": "warning", "src": [0] },
+    { "date": "Aug 2021", "event": "Last recorded deposit of employees' provident fund.", "kind": "warning", "src": [0] },
+    { "date": "Sep 2021", "event": "Raises $10 M led by Unilazer Ventures; claims it is on track for a $100 M run rate.", "kind": "peak", "src": [4] },
+    { "date": "Feb 2022", "event": "Town hall: no money for January salaries. 150–200 staff laid off.", "kind": "crisis", "src": [0] },
+    { "date": "May 2022", "event": "Ex-employees go public; dues still unpaid, parents still waiting for refunds.", "kind": "crisis", "src": [1] },
+    { "date": "Sep 2022", "event": "Shareholders approve filing for insolvency at NCLT Mumbai under Section 10.", "kind": "end", "src": [2, 3] },
+    { "date": "Apr 2025", "event": "Sheth is reported to be building an AI healthtech startup in stealth.", "kind": "after", "src": [6] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY20", "FY21"],
+      "series": [
+        { "name": "Revenue", "values": [3.7, 11.3] },
+        { "name": "Net loss", "values": [43.5, 58.7] }
+      ],
+      "takeaway": "Revenue tripled, but the loss was still five times bigger than revenue.",
+      "src": [0]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Nov 2019", "round": "Series A", "amountUsdM": 3, "valuationUsdM": null, "investors": ["Ronnie Screwvala", "Ananth Narayanan", "Vikrampati Singhania", "Anupam Mittal", "Arihant Patni"], "src": [5] },
+    { "date": "Mar 2020", "round": "Series B (first close)", "amountUsdM": 3, "valuationUsdM": null, "investors": ["Picus Capital", "Madhur Deora"], "src": [5] },
+    { "date": "Apr 2020", "round": "Series B", "amountUsdM": null, "valuationUsdM": null, "investors": ["BAce Capital"], "src": [7] },
+    { "date": "Sep 2021", "round": "Growth round", "amountUsdM": 10, "valuationUsdM": null, "investors": ["Unilazer Ventures"], "src": [4] }
+  ],
+
+  "causes": [
+    { "key": "burn", "weight": 45 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "unit-economics", "weight": 15 },
+    { "key": "governance", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Spending for the dream, not the bank balance",
+      "explain": "Lido earned ₹11.3 crore in FY21 and **spent ₹70 crore**. Then, with a fresh $10 million, it planned new countries, a free app and IPL TV ads. Over two years it lost almost exactly what it raised. When one round slipped, **there was no cushion at all**, not even for one month's salaries.",
+      "src": [0, 4]
+    },
+    {
+      "title": "Betting the company on a round that hadn't closed",
+      "explain": "Lido was counting on new money. An investor reportedly pulled out after committing, and merger talks fell through. A term sheet (a non-binding offer) is not cash. **Until the money is in the account, plan as if it isn't coming**, and cut costs early, while cutting is still a choice.",
+      "src": [0, 2]
+    },
+    {
+      "title": "Letting staff pay for the company's cash problems",
+      "explain": "PF was last deposited in August 2021, months before the shutdown. Salaries became irregular. Then people were let go over Zoom with no notice. Later a settlement document asked ex-staff to **stay quiet to get paid**. Each step **destroyed trust** with the very people a founder needs for a second chance.",
+      "src": [0, 1]
+    },
+    {
+      "title": "A target that had no link to reality",
+      "explain": "Announcing a **$100 million run rate** when you just earned about $1.5 million a year sets everyone up to fail. It shapes hiring, marketing and investor hopes. When reality arrives, the gap is not a small miss. It becomes **a reason nobody believes you**.",
+      "src": [4, 0]
+    },
+    {
+      "title": "Not protecting parents who paid upfront",
+      "explain": "Parents paid ₹50,000–₹90,000 a year, some through loans. When Lido stopped, **refunds stalled** and some families kept paying EMIs for classes that no longer existed. Upfront fees feel like free cash, but they are **money you still owe in service**.",
+      "src": [0, 1]
+    }
+  ],
+
+  "warningSigns": [
+    "Would you run out of salary money within six months if no new round came?",
+    "Have you delayed or skipped any statutory payment (PF, TDS, GST) in the last year?",
+    "Are your public targets based on a spreadsheet's hopes rather than this month's numbers?",
+    "If your next round slipped by six months, would you be unsure which costs to cut?",
+    "Are refund requests quietly piling up unanswered?"
+  ],
+
+  "lessons": [
+    { "title": "Run a 'no new money' plan every quarter", "detail": "Write down what the company looks like if no investor ever pays you again. If the answer is 'dead in two months', cut costs now, while you still can do it calmly." },
+    { "title": "Treat PF and salaries as untouchable", "detail": "Statutory dues are not a loan from your team. Missing them is often illegal, and it tells everyone the end is near. Pay them first, before ads or new cities." },
+    { "title": "Never announce a target you can't explain line by line", "detail": "If you say '$100 million run rate', you should be able to show how many students at what price. Otherwise use a smaller, honest number." },
+    { "title": "Deferred fees are a promise, not profit", "detail": "Money parents pay for a full year is owed back in classes. Keep part of it aside, so you can refund families if things go wrong." },
+    { "title": "If you must shut down, do it with dignity", "detail": "Give notice, pay what you can in full, and talk to people directly. How you close decides whether staff and investors back you next time." }
+  ],
+
+  "quote": {
+    "text": "We were not given any notice and were asked not to work from the next day.",
+    "who": "A laid-off Lido employee",
+    "context": "Speaking to Inc42 after the February 2022 town hall",
+    "src": [0]
+  },
+
+  "afterlife": {
+    "text": "Lido stopped operating in February 2022 and its shareholders approved filing for insolvency at the NCLT Mumbai bench in September 2022. We could not find a public record of how the tribunal case ended. In April 2025, Inc42 (following Mint) reported that Sahil Sheth had been building an AI healthtech startup since May 2023, still in stealth and hiring.",
+    "src": [2, 3, 6]
+  },
+
+  "sources": [
+    { "label": "Inc42: Edtech startup Lido lays off over 150 employees, 5 months after raising $10 Mn (Feb 2022)", "url": "https://inc42.com/buzz/edtech-startup-lido-lays-off-over-150-employees-just-5-months-after-raising-10-mn" },
+    { "label": "Inc42: Lido's laid-off employees go public in fight for pay (May 2022)", "url": "https://inc42.com/?p=291520" },
+    { "label": "Inc42: Ronnie Screwvala-backed Lido Learning to file for insolvency (Sep 2022)", "url": "https://inc42.com/buzz/ronnie-screwvala-backed-edtech-startup-lido-learning-to-file-for-insolvency" },
+    { "label": "IIFL: Lido Learning files for bankruptcy (Sep 2022)", "url": "https://www.indiainfoline.com/news/markets/lido-learning-files-for-bankruptcy" },
+    { "label": "Free Press Journal: Lido Learning raises $10 mn from Unilazer Ventures (Sep 2021)", "url": "https://www.freepressjournal.in/business/edtech-startup-lido-learning-raises-10-mn-funding-from-unilazer-ventures" },
+    { "label": "Inc42: Lido Learning bags $3 Mn from Picus Capital, Paytm president (Mar 2020)", "url": "https://inc42.com/?p=202404" },
+    { "label": "Inc42: Lido founder Sahil Sheth building AI-powered healthtech platform (Apr 2025)", "url": "https://inc42.com/buzz/lido-founder-sahil-sheth-building-ai-powered-healthtech-platform" },
+    { "label": "Inc42 company archive: Lido Learning", "url": "https://inc42.com/company/lido-learning" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Lido fired 1,200 employees.", "note": "Some outlets (citing Business Standard) said 1,200; Inc42, from employee accounts, reported 150–200. We use 150–200 in the story." },
+      { "claim": "Lido raised $24 M in total.", "note": "Inc42 (Feb 2022) said close to $24 M; a Sept 2021 report said $20 M. The exact total and the BAce Capital round size were not published clearly." },
+      { "claim": "The insolvency case ended in liquidation.", "note": "We found the September 2022 Section 10 filing but no public order showing the final outcome." }
+    ]
+  }
+}

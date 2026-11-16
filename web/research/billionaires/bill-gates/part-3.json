@@ -1,0 +1,1828 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "Inside the machine",
+      "title": "How Bill Works",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The man who read the whole thing"
+        },
+        {
+          "t": "p",
+          "text": "Picture Redmond on ==30 June 1992==. Joel Spolsky, a young programme manager on the Excel team, has written a plan for a new Excel programming language. By his own memory it runs to about 500 pages. In those days every major feature at Microsoft went through a “BillG review”, a meeting with Bill Gates himself. Spolsky sent the printed stack to Gates's office about 24 hours before the meeting.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The room was packed with his whole chain of bosses. One colleague had a single job: to keep count of how many times Gates swore. A low count meant a good meeting. Gates sat down, turned to Spolsky, and started flipping through the plan. There were handwritten notes in the margins of every page.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Five hundred pages. Read overnight. For one meeting."
+        },
+        {
+          "t": "p",
+          "text": "The questions got harder and more detailed. Then came the killer. Would the new language have the same date and time functions as Excel, and would they all work the same way? Spolsky had happened to study exactly that the afternoon before. Yes, he said, except for January and February of 1900. The room went silent. Gates said good work and walked out with the marked-up copy. The swear counter announced four, the lowest anyone could remember. Gates was 36.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "example",
+          "text": "Why January and February 1900? The year 1900 was not a leap year, but Excel treated it as one so it could open Lotus 1-2-3 files, which had the same quirk. Basic started counting from a day earlier, so the two programs agreed on every date except those two months. Nobody in that room expected a junior employee to know this.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Afterwards a colleague explained the game to Spolsky. Gates was not really checking the document. He was checking whether you had the work under control. __He asked harder and harder questions until you admitted you did not know, and only then did the yelling start.__ He also left alone the software of people he trusted. But you could not bluff him, Spolsky says, because he was an actual programmer.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Chris Williams saw the same thing that very summer. Microsoft had just bought his employer, Fox Software, for ==$170 million==, and six newcomers were called to Redmond. Gates skipped the pleasantries. He wanted to know why their FoxPro database ran faster than Microsoft's own project. He found the right engineer and questioned him down to single bits and the size of a chip's instruction cache. Williams, who later became Microsoft's vice president of HR, says he watched Gates repeat this for years.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Williams noticed that people gave one of two answers under that pressure. Some said “I don't know” to the richest man on the planet. Others started guessing. The guessers got the swearing, and were told they had said the stupidest thing he had ever heard. In later years, Williams says, a look of disappointment did the same job. He also says Gates could take in a messy debate within seconds and pick out the two or three things that really mattered.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Fighting as a way of working"
+        },
+        {
+          "t": "p",
+          "text": "Paul Allen, who ran Microsoft with him, gives the rawest account. By 1978 Gates liked to settle things in intense one-on-one arguments, and he started many of them. Allen says a few people cringed at how Gates would demean colleagues and make them defend themselves. When someone ran late, Gates had a stock reply: he could write that code himself in a weekend.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "This is the boss everyone feared. Now read the twist."
+        },
+        {
+          "t": "p",
+          "text": "Here is the twist. Allen says Gates liked it when people pushed back. He would not pull rank to end an argument. If you stood your ground with the data behind you, he would look down, mutter that he saw your point, and try to make up. He hated losing talented people. Even quiet programmers learned to shout back at their boss.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Copy the standard. Do not copy the shouting."
+        },
+        {
+          "t": "p",
+          "text": "Allen himself did not think the shouting helped. He asked why civil discussion would not have worked better, and he stayed angry for weeks after their fights. One employee, Bob Greenberg, once put in ==81 hours in four days== to finish a job. When Gates heard he planned to take Friday off, he asked why anyone would want to do that. Allen says he truly could not understand it.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The parking lot and the empty calendar"
+        },
+        {
+          "t": "p",
+          "text": "Gates has confessed to this himself. On BBC Radio 4's Desert Island Discs in 2016, he said he knew every employee's licence plate, so he could look out at the parking lot and see when people came in. He said he eventually had to loosen up once the company grew. Allen remembers him prowling the lot on weekends.",
+          "src": [
+            4,
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He told students at Northern Arizona University in 2023 that at their age he did not believe in vacations or weekends, or that his colleagues should either. CNBC notes he has admitted to being a difficult boss who sent requests at 2 a.m. His diary was packed to the minute. What cracked that belief was a small paper date book. Warren Buffett showed him one, and whole days in it were blank.",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Busy is not the same as serious. It took him decades to see it."
+        },
+        {
+          "t": "p",
+          "text": "Gates told Charlie Rose in 2017 that he had thought a packed schedule was the only way to do things. __Buffett taught him that a full calendar proves nothing about how serious you are.__ In 2024 he wrote on Threads that it took him far too long to learn this, and that he could have learned it sooner. Today's routine sounds almost ordinary. He has said he aims for about seven hours of sleep, reads for an hour before bed, and washes the dinner dishes himself every night.",
+          "src": [
+            5,
+            6
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Think Week"
+        },
+        {
+          "t": "p",
+          "text": "In 2005 a Wall Street Journal reporter became the first journalist allowed into Gates's secret. Twice a year he flew by helicopter or seaplane to a plain two-storey cottage by the water, for seven days alone. Family and staff were banned. A caretaker slipped him two simple meals a day. The ritual began in the 1980s as quiet reading time during visits to his grandmother.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Two months before each trip, his technical assistant put out an open call across Microsoft. Anyone at any level could send a paper, and the database that year held nearly 300. He read in bed, at the kitchen table and at his desk upstairs, up to 18 hours straight on some days, drinking Diet Orange Crush. A small fridge and a bathroom had been added near the study so he would not lose time going downstairs. His breaks were five minutes for a daily online bridge puzzle and, that week, one 30-minute walk on the beach.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~300",
+              "label": "papers in the Think Week database in 2005",
+              "src": [
+                7
+              ]
+            },
+            {
+              "value": "112",
+              "label": "his record for papers read in one week",
+              "src": [
+                7
+              ]
+            },
+            {
+              "value": "18 hours",
+              "label": "straight reading on some days",
+              "src": [
+                7
+              ]
+            },
+            {
+              "value": "6 inches",
+              "label": "thickness of one executive’s printout of his comments",
+              "src": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the flood. By week's end he had read 100 papers and emailed hundreds of people. One executive carried a six-inch printout of the comments on a business trip. One Office team changed direction because of them. A general manager called the whole thing the coolest suggestion box in the world. A week in 1995 inspired “The Internet Tidal Wave”, and plans for the Tablet PC, more secure software and online gaming also grew out of these retreats.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "example",
+          "text": "In 2005 he read a paper from Microsoft's research group in England on stopping internet worms. He thought it might be too good to be true, and worked into the small hours emailing executives about it. By morning, replies had come back from as far away as Cambridge, England. An idea from a researcher had reached the top and travelled around the world in one night.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Any employee could reach the boss with one good paper. Build that."
+        },
+        {
+          "t": "h",
+          "text": "Memos with no padding"
+        },
+        {
+          "t": "quote",
+          "text": "Winning Internet browser share is a very very important goal for us.",
+          "who": "Bill Gates, email to executive Joachim Kempin, 6 January 1996, quoted in the US court’s Findings of Fact",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His writing is blunt, and we can read it because a court made it public. The same email named the problem in the next line: PC makers were displaying rival browsers and internet services more prominently than Microsoft's. It left no doubt about what he wanted. Gates told government lawyers in 1998 that he deleted ==98 percent== of his email, though he said nobody had intentionally deleted anything the government was seeking.",
+          "src": [
+            8,
+            9
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Who he hired"
+        },
+        {
+          "t": "p",
+          "text": "In 1989, at 33, he told NBC's Today show what he wanted. Age and experience did not matter much. He wanted people who were smart before they arrived and full of energy, and Microsoft would train them on the job. Most came straight from college or business school. He kept the company near Seattle partly, he said, because in Silicon Valley rumours spread and staff kept switching employers.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He was also scared of hiring too fast. When Steve Ballmer joined around 1980, Microsoft had about 30 people. By Ballmer's memory he soon said it needed 50 or 60 more. Gates replied that he was going to bankrupt the company. In that 1997 Newsweek talk, they recalled that Gates had tracked headcount, salaries and incoming cash by hand. He wanted bad news fast, and he went straight to the red numbers in a report.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He fought to keep good people, sometimes clumsily. In 1996 David Risher told Microsoft he was leaving for a tiny online bookstore. Gates called him in and told him it was the stupidest decision he had ever heard. Risher went anyway and became Amazon's 37th employee. He is now the CEO of Lyft. Gates, famous for being right, missed that one.",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Even a genius can call the next Amazon a stupid career move."
+        },
+        {
+          "t": "h",
+          "text": "The hard part: letting go"
+        },
+        {
+          "t": "p",
+          "text": "In January 2000 Gates handed the CEO job to Ballmer and became chief software architect. Ballmer had asked whether he wanted a real CEO or a figurehead, and Gates said a real one. It went badly anyway. Ballmer has said the two did not speak for about a year, because neither knew how to work under this new arrangement. Their wives arranged an awkward dinner to repair things.",
+          "src": [
+            13,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Later they split over hardware and phones. Ballmer pushed Microsoft to buy Nokia's phone business for $7.2 billion, and Microsoft later wrote down $8.4 billion on it. Ballmer has said the disagreement with Gates peaked around that phone decision. __If you built the thing, stepping aside takes more skill than building it did.__",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The intensity followed him into philanthropy, if one book is right. In 2024 the journalist Anupreeta Das wrote that Gates Foundation staff prepared frantically for his reviews and that one former executive compared them to a king holding court. A former employee told her he would catch a footnote on page 9 that did not match one on page 28. Gates's office rejected the book as relying on hearsay and anonymous sources. Treat it as one contested view, not settled fact.",
+          "src": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "The Gates Operating System",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Strip away the money and you find a short list of beliefs he has acted on for 50 years. Some made him rich. One nearly got his company split in two. Two of them he had to unlearn in middle age. Here are eight, each with the moment that shows it.",
+          "src": [
+            3,
+            8,
+            5
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Stick to what you actually know"
+        },
+        {
+          "t": "p",
+          "text": "In Boston in 1974, Paul Allen kept bringing him big ideas, many about hardware. Gates kept popping them. Those would take too many people and too much money, he said. They were not hardware experts. What they knew was software. Allen admits his ideas were often ahead of their time or beyond their reach, and that those reality checks stopped them wasting years. So when the Altair invitation came that December, they were ready for the one thing they could really do.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Saying no to good ideas is a skill. He had it at 18."
+        },
+        {
+          "t": "h",
+          "text": "2. Assume someone is about to kill you"
+        },
+        {
+          "t": "p",
+          "text": "In May 1995, Microsoft was huge and Windows 95 had not even shipped. Gates still sent his executives a memo warning about a young company called Netscape. He called it a new competitor born on the internet, and he saw that its browser could make the operating system underneath matter much less. Then he turned the whole company around. From 1995 onward, Microsoft spent more than ==$100 million a year== developing Internet Explorer.",
+          "src": [
+            8,
+            7
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "First we need to offer a decent client",
+          "who": "Bill Gates, “The Internet Tidal Wave” memo, May 1995, quoted in the US court’s Findings of Fact",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Look at how plain that is. The world's most powerful software boss wrote that his product first had to become merely decent. __Fear made him honest about how far behind he was.__ That same fear also pushed Microsoft into the conduct that a federal judge later condemned. The What Went Wrong chapter tells that half of the story.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "h",
+          "text": "3. Truth beats rank"
+        },
+        {
+          "t": "p",
+          "text": "Allen's stories and Williams's stories, from more than a decade apart, match. The fastest way to anger Gates was to bluff. The fastest way to win his respect was to know more than he did and say so loudly. Williams says senior people would call him out when they disagreed, and that he was almost always right anyway. Spolsky earned a word of praise by knowing about two strange months in 1900, and that was the end of the meeting.",
+          "src": [
+            3,
+            1,
+            0
+          ]
+        },
+        {
+          "t": "example",
+          "text": "Try this in your own team. When someone asks a question you cannot answer, say “I don't know, I'll find out by tonight”. In Gates's meetings, those were the people who survived. The ones who made something up did not.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. Every life has the same value"
+        },
+        {
+          "t": "p",
+          "text": "This is the belief that changed his second life. At Harvard in 2007 he described reading, with Melinda, an article about millions of children in poor countries dying from diseases rich countries had long ago made harmless. One he had never heard of, rotavirus, was killing half a million children a year. They had assumed the world would fix anything that could be fixed so cheaply. It had not. The market did not reward saving these children, he said, and governments did not pay for it.",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "reducing inequity is the highest human achievement",
+          "who": "Bill Gates, Harvard commencement address, 7 June 2007",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He made the same point with theatre at a TED talk in 2009. He opened a jar of mosquitoes on stage, said they were not infectious, and noted that the world had put more money into drugs for baldness than into malaria research. Rich men go bald. Poor children get malaria. __Markets follow money, not need, and he decided to fund the gap.__",
+          "src": [
+            18
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was 51 when he told Harvard this was his one regret."
+        },
+        {
+          "t": "h",
+          "text": "5. Measure it, and publish your failures"
+        },
+        {
+          "t": "p",
+          "text": "In the same speech he said the hard part of doing good is complexity. His method has four stages: set a clear goal, find the approach with the most leverage, find the best technology for it, and use the tools you already have in the meantime. Then measure the results and share both the wins and the losses so others can learn.",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He put that into practice in his first annual letter, in January 2009. The foundation had spent ==about $2 billion over nine years== trying to build better American high schools, much of it on smaller ones. He wrote plainly that many of the small schools did not improve student achievement in any significant way. Most billionaires never write that sentence about their own money. It is more useful than any success story.",
+          "src": [
+            19,
+            20
+          ]
+        },
+        {
+          "t": "h",
+          "text": "6. Optimism is a calculation"
+        },
+        {
+          "t": "p",
+          "text": "The foundation's most prized number is the drop in child deaths from preventable causes, which UN figures show fell by almost half between 2000 and 2020. That is his case for hope. He also reports the bad numbers. In a blog post around the turn of 2026 he noted that child deaths rose from 4.6 million to 4.8 million that year, the first rise this century, and warned of five difficult years. He still said he was hopeful about the long term.",
+          "src": [
+            21,
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The same habit explains his October 2025 climate memo, which angered some climate scientists. He wrote that climate change is serious but will not end civilisation, that temperature is not the best measure of progress, and that health and prosperity are the strongest defences for the poor. You may agree or not. __He judges a cause by the suffering it can reduce, and he will say so even when his own side objects.__",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Hope with numbers attached is harder to argue with."
+        },
+        {
+          "t": "h",
+          "text": "7. You are allowed to change your mind"
+        },
+        {
+          "t": "p",
+          "text": "He believed in packed calendars for decades, until Buffett's blank pages showed him otherwise. He told graduates in 2023 not to wait as long as he did to take a break. In 2023 he wrote that the risks of AI were real but manageable. By August 2026 he was warning that the coming transition would be one of the most turbulent periods in history. His 2009 letter shows the foundation changing course on schools in the same way.",
+          "src": [
+            5,
+            24,
+            25,
+            19
+          ]
+        },
+        {
+          "t": "h",
+          "text": "8. Money is for giving away"
+        },
+        {
+          "t": "p",
+          "text": "His mother, Mary, was seriously ill with cancer in the run-up to his wedding. At a bridal event she read aloud a letter to Melinda about marriage, and it closed with the old line that from those to whom much is given, much is expected. Gates repeated that line to Harvard's graduates. He told the BBC in 2016 that you are not going to spend it on yourself, and that only a small part should go to his children so they could make their own way.",
+          "src": [
+            17,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In May 2025 he took it to the end. He said he would give away ==99%== of his remaining fortune, about $107 billion at the time, and that the foundation would close in 2045 rather than two decades after his death. He told the Associated Press that 20 years struck the right balance. Critics ask why one rich family should have so much say over global health. His answer is that any private citizen can choose where their money goes.",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Once the world’s richest. Now planning to end up not rich."
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "Off the clock",
+      "title": "The Private Bill",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "Parents who pushed"
+        },
+        {
+          "t": "p",
+          "text": "Gates has always credited his parents, in both directions. His mother pushed him to develop social skills and to talk with adults, which he says he did not enjoy. His parents, he told the BBC, were involved in Planned Parenthood and taught him about giving back. Mary Gates died in 1994, the year he married. His father, Bill Gates Sr., lived to 94, helped steer the early foundation, and died in September 2020.",
+          "src": [
+            26,
+            4,
+            27,
+            28,
+            17
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His father's last years turned into a cause. In November 2017 Gates put ==$50 million of his own money== into the Dementia Discovery Fund, separate from the foundation, saying Alzheimer's had struck his own family. He described how awful it is to watch someone you love lose their mental capacity. In early 2018 he revealed that his father had the disease.",
+          "src": [
+            29,
+            30
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Different, and finally saying so"
+        },
+        {
+          "t": "p",
+          "text": "In his 2025 memoir, Source Code, Gates wrote that if he were growing up today he would probably be diagnosed on the autism spectrum. He has no formal diagnosis. He told Axios he always knew he was different, in his energy and intensity and in going off to study things, and that as a child he kept misreading social signals. The first time someone asked him about it, about 25 years earlier, he reacted angrily that he ran a company. Then he thought it was probably true.",
+          "src": [
+            26,
+            31
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He says he shared this for children like him. They should treat it as a strength, he says, and be proud of what they are good at. That is his own telling, and we leave it there. __He does not explain his harshness at Microsoft with it, and neither should we.__",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "note",
+          "text": "If you feel different, read that interview. He felt it too."
+        },
+        {
+          "t": "h",
+          "text": "A marriage, and its end"
+        },
+        {
+          "t": "p",
+          "text": "Melinda French studied computer science and business and built a career at Microsoft. She and Gates married, had three children, and built the foundation together. On ==3 May 2021== they announced their divorce after 27 years. It became final that August. They first agreed to a two-year test of running the foundation together. She left in May 2024 with $12.5 billion for her own philanthropy, a move he said disappointed him.",
+          "src": [
+            19,
+            32,
+            16,
+            33
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In her first interview on it, in 2022, she said there was no single moment. She named an affair he had in 2000 with a Microsoft employee, and his relationship with Jeffrey Epstein, whom she had told him not to deal with. She said she met Epstein once and had nightmares afterwards. Asked about other affairs and about his ties to Epstein, she said those were questions for him to answer. He said at the time that meeting Epstein was a mistake he deeply regretted.",
+          "src": [
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He told The Times of London in January 2025 that the divorce was the mistake he most regrets, and that it was miserable for both of them. He had earlier said on NBC that he was responsible for causing his family a lot of pain. Knowing it would not last, he said, he would still do it again for the three children and the work. In June 2026 he told Congress of three extramarital affairs and said they had been painful for his family.",
+          "src": [
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He now describes Paula Hurd, a philanthropist and the widow of Oracle's Mark Hurd, as his serious girlfriend. In early 2025 he said he had two grandchildren and still saw Melinda at family events. The family has kept the rest private, and so will we.",
+          "src": [
+            34,
+            33
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He told The Times his other regrets do not matter. This one does."
+        },
+        {
+          "t": "h",
+          "text": "How he spends it"
+        },
+        {
+          "t": "p",
+          "text": "Most of his money is going one way: Forbes counts more than ==$63.9 billion== donated to the foundation. What is left is run by a professional team at his investment firm, Cascade. Its oddest holding is dirt. The Land Report ranked him the largest private owner of farmland in America, with about 248,000 acres of farmland in 2022. He told Reddit in 2023 it was under 1/4,000 of US farmland, an investment to make farms more productive, and that there was no grand scheme.",
+          "src": [
+            37,
+            38
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His most famous purchase came in 1994, when he paid ==$30.8 million== for the Codex Leicester, a notebook in which Leonardo da Vinci worked through hydraulics and the moon. An American oil executive had bought it in 1980 for about $5.1 million. Gates has lent it to museums for public display. It is a very Gates trophy: a dead genius thinking on paper about how things work.",
+          "src": [
+            39,
+            40
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He admits to an obvious contradiction. In his 2025 climate memo he said some people would call him a hypocrite because of his carbon footprint, which he says he fully offsets with legitimate credits. His pleasures are less grand. He plays bridge, including that five-minute daily puzzle on Think Week. His Desert Island list included Under Pressure, Blue Skies, Are You Experienced and a song from Hamilton, and he asked for DVDs of the world's great lectures as his luxury.",
+          "src": [
+            23,
+            7,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He dedicated the Beatles' Two of Us to Steve Jobs on that show, the rival with whom he had competed and cooperated for decades. He said only the two of them understood how intense it had been. When Jobs was ill, their talks turned mellow, and were about their lives and their children. __Even his great rivalries ended up as long conversations.__",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Decades of competing, and the song he picks is Two of Us."
+        },
+        {
+          "t": "h",
+          "text": "Old friends"
+        },
+        {
+          "t": "p",
+          "text": "His deepest friendship is with Warren Buffett, 25 years his senior. Gates sat on the Berkshire board for 16 years, and Buffett gave the foundation more than $47 billion over two decades. In July 2026 Buffett stopped those gifts, called Gates's Epstein ties distasteful, and said in the same breath that he too had misjudged people. He called their friendship wonderful. Gates had visited him in Omaha a few weeks earlier, and said his gratitude was beyond measure.",
+          "src": [
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "The public Bill",
+      "title": "The Many Faces of Bill",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Few people have had as many public faces in one life. In the 1990s he was the nerd who won. By 1998 he was the bully in a courtroom. In the 2010s he was the kindly man who wanted to save children and talked about toilets. By 2026 he was explaining himself to Congress. He did not plan most of these turns. But he did work hard on the middle one.",
+          "src": [
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The nerd on late-night television"
+        },
+        {
+          "t": "p",
+          "text": "In November 1995 Gates, 39 and already the world's richest person at $12.9 billion, went on David Letterman's show to promote his book The Road Ahead and Internet Explorer. Only about 14% of Americans were using the web. Letterman asked what the internet actually was. When the talk turned to following a baseball game online, Letterman asked if radio rang a bell. He ended by joking that there was no money in it.",
+          "src": [
+            42
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He could not convince the host. He was also completely right."
+        },
+        {
+          "t": "p",
+          "text": "He did not win the room, and that became the image: not cool, just correct. In that same interview he called a thinking computer a scary thought, and said almost no progress had been made on it. Thirty-one years later, that scary thought has become the main subject of his public life.",
+          "src": [
+            42,
+            25
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The worst year of his public life"
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Early 1998",
+              "text": "In Brussels, activists protesting his wealth and corporate power throw cream tarts at him. Four hit him in the face.",
+              "src": [
+                46
+              ]
+            },
+            {
+              "when": "Apr 1998",
+              "text": "At a trade show, Windows 98 crashes on stage in front of him when an employee plugs in a scanner. He jokes that this must be why it is not shipping yet.",
+              "src": [
+                47
+              ]
+            },
+            {
+              "when": "May 1998",
+              "text": "The Justice Department and states sue Microsoft for monopoly abuse.",
+              "src": [
+                48,
+                9
+              ]
+            },
+            {
+              "when": "Aug to Sep 1998",
+              "text": "He gives 20 hours of videotaped testimony over three days at Microsoft’s campus.",
+              "src": [
+                9
+              ]
+            },
+            {
+              "when": "Nov 1998",
+              "text": "Fortune reports that he flopped on video after the government plays clips in court.",
+              "src": [
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The video did what no rival could. Gates argued about the meanings of ordinary words. At one point he said it depended on what the lawyer meant by the word compete. The judge openly laughed at the tape. The world saw the smartest man in software looking evasive. __A reputation that took 20 years to build was damaged by a few hours of video.__ One review of the leading book on the trial called it as much a public-relations disaster as a legal one.",
+          "src": [
+            43,
+            9,
+            49,
+            50
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Toilets, mosquitoes and the second act"
+        },
+        {
+          "t": "p",
+          "text": "Then came the rebuild, and it was clever because it was not about him. In 2009 he began publishing a yearly letter about what the foundation had learned, including what had failed. That year he opened the mosquito jar at TED. A year later he came back to TED with fireflies. CNBC later noted he had won a reputation as a great presenter, which nobody said in 1998.",
+          "src": [
+            19,
+            18
+          ]
+        },
+        {
+          "t": "example",
+          "text": "In January 2015 he went on The Tonight Show with two glasses of water marked 1 and 2, and had Jimmy Fallon choose one. They both drank. Then Gates revealed that both glasses held what had once been sewage, cleaned by a machine called the Omniprocessor. Fallon spat some out, then admitted it tasted really good. The stunt carried a hard number: about 1.8 billion people drink water contaminated with faeces.",
+          "src": [
+            44
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also made himself reachable. By January 2023 he had done 11 “Ask Me Anything” sessions on Reddit, taking questions on everything from being a grandfather to what phone he uses. He writes about what he is learning on his own site, Gates Notes. __He stopped defending himself and started explaining the world, and people warmed to it.__",
+          "src": [
+            38,
+            44
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His style is that of a teacher who cannot help himself. He leads with a number, then a surprise, then a joke. In his August 2026 AI essay he even warned readers of his own bias, saying he still has financial ties to the tech industry, and that readers must decide whether that clouds his view. Few billionaires put that in writing.",
+          "src": [
+            18,
+            25
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The microchip monster"
+        },
+        {
+          "t": "p",
+          "text": "Fame has a price. In May 2020 a Yahoo News/YouGov poll found ==28% of Americans== believed Gates wanted to use a Covid vaccine to implant tracking microchips, including 44% of Republicans. There is no truth in it. The Associated Press has described the foundation as the target of numerous unfounded conspiracy theories. Gates said he had never been involved in anything like a microchip, and called the poll result a bit concerning.",
+          "src": [
+            51,
+            52,
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Such theories have also reached the courts. In October 2024 a Dutch court in Leeuwarden ruled it had jurisdiction over him in a civil claim brought by people alleging vaccine injury. Fact-checkers stressed this was a procedural ruling in a civil case, not a criminal charge or a finding against him. The plaintiffs' claims remain unproven, and we found no reliable report of any verdict.",
+          "src": [
+            53,
+            54
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fame means strangers will invent a villain. Prepare for it."
+        },
+        {
+          "t": "h",
+          "text": "How India sees him"
+        },
+        {
+          "t": "p",
+          "text": "India has seen every version of him. In December 2001 he made a 24-hour trip, marking ten years of Microsoft in India and signing an alliance with Infosys. That morning he sat on an old wooden bench in a Delhi polio clinic and squeezed vaccine drops into the mouths of 30 squirming children. Most of the mothers, AP reported, had never heard of him. He said what mattered most was people having healthy children.",
+          "src": [
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "India then became the proof for his whole idea. By 2009 the foundation had committed nearly $1 billion there, and India's president gave him the Indira Gandhi Prize. He praised how the country sent over 2 million health workers to more than 200 million homes, and even to train stations and ferry terminals. India had the world's highest number of polio cases in 2009. By January 2012 it had gone a full year without a single reported case.",
+          "src": [
+            56,
+            57
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "30",
+              "label": "children he gave polio drops to at a Delhi clinic in 2001",
+              "src": [
+                55
+              ]
+            },
+            {
+              "value": "~$1bn",
+              "label": "foundation commitments in India by July 2009",
+              "src": [
+                56
+              ]
+            },
+            {
+              "value": "200m+",
+              "label": "homes visited on an Indian immunisation day",
+              "src": [
+                56
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The mood can flip fast. In late 2024 a clip went viral from a podcast with Reid Hoffman. Gates called India a kind of laboratory for trying things that, once proven, could be taken elsewhere. He was making a compliment, in his way: he said India was stable, improving, and home to the foundation's biggest non-US office and most of its pilot projects. But some Indians online heard guinea pigs. Others defended him and said the outrage was unfair.",
+          "src": [
+            58
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One careless word can sour twenty years of goodwill. Choose carefully."
+        },
+        {
+          "t": "p",
+          "text": "Then came February 2026. Gates was to give a keynote at India's AI Impact Summit in New Delhi. His foundation had dismissed rumours that he would not show. Hours before the speech, he pulled out. The foundation said it was to keep the focus on the summit's priorities, and sent Ankur Vora instead. It came as scrutiny of his Epstein links intensified, though the foundation did not answer Reuters' question on any link. He has also travelled there for talks, including in Andhra Pradesh on health and governance.",
+          "src": [
+            59,
+            60
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Elsewhere"
+        },
+        {
+          "t": "p",
+          "text": "Europe shows how far the wheel can turn. In 1998 Brussels threw cream tarts. On 21 October 2026 he was back there, meeting European Commission President Ursula von der Leyen and spending 25 minutes at the Atomium talking about nuclear energy. Three years earlier, Belgian media note, he had toured the city's Sewer Museum. In the United States, meanwhile, his name is now tied to a congressional inquiry. No one has one picture of him any more.",
+          "src": [
+            46,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "The costly mistakes",
+      "title": "What Went Wrong",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the chapter to read twice. Gates made some of the most expensive strategic errors in business, broke a partner's trust, saw his company ruled to have broken the law, and at 55 sat down with a convicted sex offender in the hope of raising money. Some of it he has admitted. Some of it he disputes. Here is what happened and how each one ended.",
+          "src": [
+            3,
+            8,
+            61,
+            35
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. The monopoly case"
+        },
+        {
+          "t": "p",
+          "text": "Fear of Netscape produced the most consequential behaviour of his career. A federal trial ran from October 1998 to June 1999, and in late 1999 Judge Thomas Penfield Jackson published his findings of fact. They are public, and they are remarkable to read. They describe Microsoft using control of Windows as a lever against almost everyone who worried it.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "example",
+          "text": "Three scenes from the court record. In 1995 Gates told Intel's CEO, Andy Grove, that Intel could not count on Microsoft to support its next chips as long as it built competing platform software. In 1997, after Apple made Netscape its standard browser install, Gates called Apple's CEO to ask how they should announce the cancellation of Mac Office. And while IBM kept promoting its own rival software, Microsoft tied IBM's Windows 95 licence to an audit dispute. IBM missed the back-to-school season and lost substantial revenue.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Through its conduct toward Netscape, IBM, Compaq, Intel, and others, Microsoft has demonstrated that it will use its prodigious market power and immense profits to harm any firm that insists on pursuing initiatives that could intensify competition against one of Microsoft's core products.",
+          "who": "Judge Thomas Penfield Jackson, Findings of Fact, paragraph 412",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gates saw it differently and never really budged. In his deposition he stuck to business explanations for everything the government called illegal, even when shown contradicting documents. The Seattle Times, after reading all 684 pages, said he quibbled and dodged, and that the government's excerpts had been fair. Microsoft complained they were out of context.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "18 May 1998",
+              "text": "The case is filed.",
+              "src": [
+                48
+              ]
+            },
+            {
+              "when": "June 2000",
+              "text": "Judge Jackson orders Microsoft split into an operating-systems company and an applications company. The order is put on hold pending appeal.",
+              "src": [
+                61
+              ]
+            },
+            {
+              "when": "28 June 2001",
+              "text": "The appeals court throws out the break-up and removes Jackson, but upholds the finding that Microsoft broke antitrust law.",
+              "src": [
+                61,
+                62
+              ]
+            },
+            {
+              "when": "12 Nov 2002",
+              "text": "The case settles with a final judgment. There is no break-up.",
+              "src": [
+                48
+              ]
+            },
+            {
+              "when": "12 May 2011",
+              "text": "The last of the court’s oversight expires.",
+              "src": [
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So who won? Both. Microsoft stayed in one piece, and the judge hurt his own case by giving secret interviews to reporters, including a half-joke that Gates should read a biography of Napoleon to learn about his own arrogance. But the ruling that Microsoft had illegally protected a monopoly stood. Oversight lasted until 2011. __He kept the company and lost years of attention and much of his good name.__",
+          "src": [
+            61,
+            62,
+            50,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Europe added a bill. The European Commission fined Microsoft ==€497 million== in 2004 for tying Windows Media Player to Windows, then €280 million more, then €899 million for not complying, later cut to €860 million. In 2013 came €561 million, after 15.3 million European users were not shown a promised browser choice screen. The total came to ==about €2.2 billion==. Gates was no longer CEO by then, but the playbook began on his watch.",
+          "src": [
+            63
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Being big changes the rules. What was hustle at 25 is illegal at 40."
+        },
+        {
+          "t": "h",
+          "text": "2. Losing the phone"
+        },
+        {
+          "t": "p",
+          "text": "Then the fear failed, just when he needed it. In 2019 Gates told the venture firm Village Global that his greatest mistake ever was whatever mismanagement of his caused Microsoft not to become what Android became. Software platforms, he explained, are winner-take-all markets. Microsoft was early with Windows Mobile and still lost the place beside Apple to Google. He has said the antitrust fight distracted the company at the time.",
+          "src": [
+            64,
+            65
+          ]
+        },
+        {
+          "t": "p",
+          "text": "You could not ask for a better warning. The man who spotted the internet threat in a Think Week missed the next one while his company was busy in court. His successor later spent $7.2 billion on Nokia's phones to catch up and wrote down $8.4 billion. __Winning one platform war does not make you ready for the next.__",
+          "src": [
+            64,
+            15,
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He spotted one wave and missed the next. Nobody is immune."
+        },
+        {
+          "t": "h",
+          "text": "3. How he treated Paul Allen"
+        },
+        {
+          "t": "p",
+          "text": "One more cost was personal, and we have it from one side: Allen's 2011 memoir. Allen says Gates pushed the partnership from 50-50 to 60-40 and then to 64-36. In 1980, Allen says, they agreed to offer Ballmer up to 5% of the company, and Gates, while Allen was away, offered ==8.75%==. Allen called it a major breach of faith. Gates made up the extra points from his own share.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In September 1982 Allen was diagnosed with Hodgkin's lymphoma and began radiation. One evening that December he says he overheard Gates and Ballmer complaining about his recent output and discussing how they might dilute his stake by issuing options to themselves and others. He burst in and shouted at them. Ballmer came to his home to apologise and said the plan was unfair. Gates sent a six-page handwritten letter of apology.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Allen says that as he was leaving in early 1983, Gates tried to buy his stock for $5 a share. Allen would not discuss less than $10. Gates said no. That refusal, Allen writes, worked in his favour, because he would otherwise have sold far too soon. __Trying to squeeze his partner's shares out cheaply only left Allen holding them.__",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Your co-founder is sick. Your first thought should not be his equity."
+        },
+        {
+          "t": "h",
+          "text": "4. The schools that did not work"
+        },
+        {
+          "t": "p",
+          "text": "His philanthropy has had its own big misses. As the mindset chapter showed, about $2 billion over nine years for American high schools fell short of its goal, and he said so. The critics ask a harder question that applies to all his giving: should one rich family set the agenda for schools or global health at all? AP noted researchers have asked this for years. He answers that people can criticise it, and that he will keep going.",
+          "src": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "t": "h",
+          "text": "5. Oxford and the vaccine rights"
+        },
+        {
+          "t": "p",
+          "text": "In April 2020 Oxford University promised to give its Covid vaccine rights to any drugmaker. A few weeks later, Kaiser Health News reported, Oxford, urged on by the Gates Foundation, reversed course and signed an exclusive deal with AstraZeneca. Critics said it was a rare chance to change how vaccines are priced, and that it was missed. Others still regarded the foundation as a positive force in the pandemic, as the Seattle Times reported. It remains argued over.",
+          "src": [
+            66,
+            67
+          ]
+        },
+        {
+          "t": "h",
+          "text": "6. Workplace conduct"
+        },
+        {
+          "t": "p",
+          "text": "In May 2021 Microsoft confirmed it had hired an outside law firm in late 2019 after an employee raised concerns about an intimate relationship with Gates some 20 years earlier. His spokesperson said there was an affair almost 20 years ago that ended amicably, and that leaving the board in March 2020 had nothing to do with it. The Wall Street Journal, citing anonymous sources, reported that board members had decided he should not stay. The New York Times, also citing anonymous sources, reported overtures to women who worked for him.",
+          "src": [
+            68
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Power at work is never just personal. Boards and staff notice."
+        },
+        {
+          "t": "h",
+          "text": "7. Jeffrey Epstein"
+        },
+        {
+          "t": "p",
+          "text": "This is the mistake that has cost him the most in recent years. Be precise about it. Gates has not been accused of any crime, and GeekWire reports that no Epstein victim has accused him of wrongdoing. He denies knowing about Epstein's ongoing abuse. What he admits is bad enough. He spent time with a man he knew had a sex-related conviction, and did not look into it.",
+          "src": [
+            41,
+            69,
+            36
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He told Congress the story went like this. His science adviser, Boris Nikolic, arranged a dinner in New York in January 2011. Epstein claimed he could raise billions for global health from wealthy clients. The money never came. Gates listed about 15 contacts through 2014, some of them Skype calls, including visits to homes in New York and Paris and one flight to Palm Beach. He said he only grasped the scale of the crimes in 2018, through the Miami Herald.",
+          "src": [
+            36,
+            35
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I should never have met with Epstein in the first place",
+          "who": "Bill Gates, transcribed interview with the US House Oversight Committee, 10 June 2026",
+          "src": [
+            70,
+            45
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Melinda warned him. GeekWire, citing the Wall Street Journal, reports that he kept meeting Epstein after she raised concerns in 2013. Foundation staff raised concerns too. The law firm WilmerHale, reviewing the foundation in 2026, found ==about 30 meetings== between Epstein and 10 foundation leaders and staff from 2011 to 2014. It found no evidence the foundation paid Epstein, and none of knowledge of or participation in his crimes. It did not look at Gates's personal dealings or communications with him.",
+          "src": [
+            69,
+            71,
+            72
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The Justice Department's release of files in early 2026 brought all of it back. On 24 February he apologised to foundation staff in a town hall, saying it was a huge mistake that hurt others, and he told them he did nothing illicit and saw nothing illicit. In June he testified voluntarily for nearly six hours and said he was not blackmailed, though Epstein's notes to himself looked as if they were heading that way. He said he never interacted with victims but may have been in their presence.",
+          "src": [
+            73,
+            36,
+            74,
+            75
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~30",
+              "label": "meetings between Epstein and foundation people, 2011–14, per WilmerHale",
+              "src": [
+                71
+              ]
+            },
+            {
+              "value": "No evidence",
+              "label": "that the foundation paid Epstein, per the same review",
+              "src": [
+                72
+              ]
+            },
+            {
+              "value": "~6 hours",
+              "label": "his voluntary interview with Congress, June 2026",
+              "src": [
+                36
+              ]
+            },
+            {
+              "value": "$47bn+",
+              "label": "given by Buffett since 2006, before he stopped in July 2026",
+              "src": [
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The costs are now visible. He gave up his India keynote. Warren Buffett left the foundation out of his yearly gift, though Buffett says the main reason is his children's readiness. People who have spoken with him told Axios his new AI campaign is partly an effort to rebuild his reputation. By his own telling, all of it began with a simple trade: he thought a bad man could bring in good money for a good cause. __No cause is good enough to skip checking who you are dealing with.__",
+          "src": [
+            59,
+            41,
+            76,
+            24
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What not to copy"
+        },
+        {
+          "t": "p",
+          "text": "Do not humiliate people to test them; you can demand facts without the abuse, and Allen thought it was never needed. Do not treat a sick partner as a problem on a spreadsheet. Do not assume that winning the market means the rules no longer apply to you. Do not argue about the meaning of words when a camera is on you. And do not let a good purpose become your excuse for ignoring the warnings of your spouse and your staff.",
+          "src": [
+            3,
+            8,
+            9,
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of November 2026",
+      "title": "Where He Stands Now",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bill Gates turned 71 on 28 October 2026. He is the chairman of the Gates Foundation and of the nuclear company TerraPower, the founder of Breakthrough Energy, and he still advises Microsoft. Forbes put his fortune at ==$120.4 billion== on 1 November 2026, which it ranked 16th in the world. His Microsoft stake is now under 1%, Forbes estimates.",
+          "src": [
+            37,
+            69,
+            77,
+            25
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$120.4bn",
+              "label": "Forbes real-time net worth, 1 Nov 2026 (#16 in the world)",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "$63.9bn+",
+              "label": "donated by him to the foundation so far, per Forbes",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "$9bn",
+              "label": "Gates Foundation budget for 2026, its largest ever",
+              "src": [
+                22
+              ]
+            },
+            {
+              "value": "31 Dec 2045",
+              "label": "the day the foundation closes for good",
+              "src": [
+                76
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That number will swing with markets, and the plan is for it to shrink to almost nothing. Forbes has estimated he would have about ==$356 billion== more if he had kept what he gave away. His stated aim is that the foundation will spend about $200 billion in 20 years, at around $9 billion a year, and then disappear. __Fortune lists usually reward what people hold on to. He is trying to fall off them on purpose.__",
+          "src": [
+            37,
+            21,
+            78
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A shrinking machine with a deadline"
+        },
+        {
+          "t": "p",
+          "text": "To run a charity that ends, you plan like a business winding down. In January 2026 the board approved a record $9 billion budget and capped operating costs at $1.25 billion, about 14% of the total. To get there the foundation will cut up to 500 of its 2,375 jobs by 2030. It also created a new division for its Africa and India offices. Its priorities are maternal and child health, infectious disease and poverty.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The money picture has changed too. About 41% of what the foundation has received so far came from Buffett, who has now stopped giving. Buffett's stated reason is that his children are ready to distribute his fortune. The foundation's 2025 endowment was $77 billion, and it expects Gates's own remaining wealth to fund the rest. Governance has also tightened: after the WilmerHale review, the board approved central vetting for brokers and donors, and heightened review of meetings held at private homes.",
+          "src": [
+            21,
+            41,
+            72
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A deadline focuses a charity the way cash running out focuses a startup."
+        },
+        {
+          "t": "h",
+          "text": "The nuclear bet"
+        },
+        {
+          "t": "p",
+          "text": "His biggest personal technology bet is being built in Wyoming, near a retiring coal plant. TerraPower won a federal permit on ==4 March 2026== for its Natrium reactor at Kemmerer, the first commercial reactor approved for construction in nearly a decade and the first of its non-water-cooled kind in more than 40 years. Official construction began on 23 April. It is a 345-megawatt sodium-cooled plant with molten-salt storage that can push output up to 500 megawatts when needed.",
+          "src": [
+            77,
+            79
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It is not finished, and it is not guaranteed. TerraPower expects completion around 2030, and it still needs a separate operating licence before it can run. On climate more broadly, Gates's October 2025 memo said the world should cut the cost gap between clean and dirty ways of making things like cement, steel and jet fuel down to zero. He calls that a key climate strategy.",
+          "src": [
+            79,
+            23
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The AI alarm"
+        },
+        {
+          "t": "p",
+          "text": "His new mission is the one he once called a scary thought. On 26 August 2026 he published a 6,000-word essay, his first long piece on AI in three years. It says the shift will be one of the most turbulent times in human history, and that the world is not preparing. He said many jobs will disappear for good, with entry and mid-level roles most at risk, within about a decade rather than over generations.",
+          "src": [
+            80,
+            81,
+            25
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also made concrete proposals, which is rare for him on AI. Tax AI tokens and robots. Set aside some kinds of work for people only, a zone he calls human reserved, like a nature reserve. Build new national bodies and an international one for AI, which would need US and China to cooperate. He told The Verge's Decoder podcast in October that his big concern is a 20-year transition with winners, losers and a lot of disruption.",
+          "src": [
+            80,
+            81,
+            82
+          ]
+        },
+        {
+          "t": "example",
+          "text": "Think about what this means if you are 18. Gates's essay names the accounting worker replaced by a bot, and the $20-an-hour worker who loses out to a $10-an-hour robot. He says the jobs at most risk are entry-level and mid-level, and that the new ones will mostly need skills that take years to learn. Those are the first jobs of your career. Plan for that now.",
+          "src": [
+            25
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In October 2026 Axios reported he was preparing a bigger campaign, talking with AI executives including Anthropic's Dario Amodei and telling one person he could reach CEOs better than they could. Axios also reported that people who have spoken with him see it partly as an effort to rebuild his reputation after Epstein, and he has said he knows some will dismiss his warnings because of it. Later that month he warned of more AI-powered cyberattacks within a year, while saying AI getting out of control is still years away.",
+          "src": [
+            24,
+            83
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What he says he wants next"
+        },
+        {
+          "t": "p",
+          "text": "He has been plain about it. He will write about AI regularly, raise it with lawmakers every time he visits Washington and with leaders abroad, and push for a national and international framework. He wants polio gone, malaria and other killers controlled, and malnutrition reduced by 2045. He told the AP that the foundation's work has had far more impact than he expected, and called it his second and final career.",
+          "src": [
+            25,
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also knows the clock is real. At 69 he acknowledged he may not have a say in how it all ends. So the question that hangs over the last pages of this book is simple. Will people remember the code, the courtroom, the children who lived, or the dinners with Epstein? He cannot control that. What he can control is where the money goes.",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Twenty more years of work. He will be 90 if he sees the end."
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "May 2025",
+              "text": "Pledges 99% of his fortune and sets the foundation’s closing date of 2045.",
+              "src": [
+                21
+              ]
+            },
+            {
+              "when": "Oct 2025",
+              "text": "Publishes his “Three tough truths about climate” memo before COP30.",
+              "src": [
+                23
+              ]
+            },
+            {
+              "when": "Jan 2026",
+              "text": "Foundation approves a record $9 billion budget and a cost cap, with up to 500 jobs to go.",
+              "src": [
+                22
+              ]
+            },
+            {
+              "when": "Feb 2026",
+              "text": "Pulls out of his Delhi keynote. Apologises to staff over Epstein.",
+              "src": [
+                59,
+                73
+              ]
+            },
+            {
+              "when": "Mar to Apr 2026",
+              "text": "TerraPower gets its construction permit and officially starts construction in Wyoming.",
+              "src": [
+                77
+              ]
+            },
+            {
+              "when": "Jun 2026",
+              "text": "Testifies to the House Oversight Committee for nearly six hours.",
+              "src": [
+                36,
+                45
+              ]
+            },
+            {
+              "when": "Jul 2026",
+              "text": "Buffett stops his gifts. WilmerHale’s review is published.",
+              "src": [
+                41,
+                72
+              ]
+            },
+            {
+              "when": "Aug to Oct 2026",
+              "text": "Launches his AI warning campaign with a long essay and interviews.",
+              "src": [
+                80,
+                24
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Read the whole thing.",
+      "text": "In 1992 Gates read a 500-page plan overnight and filled every margin with notes before one meeting. Nobody could bluff him after that. Before your next big meeting, do the reading nobody else will do."
+    },
+    {
+      "title": "Say \"I don't know\".",
+      "text": "At Microsoft, Chris Williams saw that people who admitted they did not know survived Gates's questions, and people who guessed got destroyed. Guessing costs more than ignorance. Say it, then go and find out by tonight."
+    },
+    {
+      "title": "Know the details of your own business.",
+      "text": "Gates questioned an engineer down to single bits after buying Fox Software in 1992. You cannot lead what you do not understand. Learn enough of the real work that nobody can fool you."
+    },
+    {
+      "title": "Take a think week.",
+      "text": "Twice a year he went alone to a cottage with a stack of papers, and a week in 1995 led to \"The Internet Tidal Wave\". You do not need a cottage. Block out real time to read and think about where your market is going."
+    },
+    {
+      "title": "Let anyone bring you an idea.",
+      "text": "Think Week took papers from every level of Microsoft, and a researcher's worm paper reached the top in a night. The best ideas rarely start with the boss. Build one simple route from the newest person to you."
+    },
+    {
+      "title": "Write the bad news down.",
+      "text": "In his 1995 memo Gates told his own executives that Microsoft first needed to offer a decent browser. In 2009 he wrote that many of the schools he funded did not work. Plain words about your own failure are how a team turns around."
+    },
+    {
+      "title": "Watch your payroll.",
+      "text": "When Ballmer wanted to add 50 or 60 people around 1980, Gates said he would bankrupt the company, and he had been tracking salaries and incoming cash by hand. Know your cash number by heart. Grow when you can afford it, then push hard."
+    },
+    {
+      "title": "Stop filling every minute.",
+      "text": "He packed his days until Warren Buffett showed him a date book with blank pages. A full calendar proves nothing. Keep empty space, because that is where your thinking happens."
+    },
+    {
+      "title": "Do not rule people through fear.",
+      "text": "He memorised licence plates and swore at staff, and Paul Allen never believed it helped. Gates himself later told graduates not to repeat it. Demand great work with your standards, not your temper."
+    },
+    {
+      "title": "Treat your co-founder fairly.",
+      "text": "Allen says Gates pushed the split to 64-36, offered Ballmer more equity behind his back, and discussed diluting him during his cancer treatment. Allen wrote it all down in a memoir decades later. Agree on equity early, put it in writing, and never touch it when someone is down."
+    },
+    {
+      "title": "Learn the rules before you get big.",
+      "text": "Tactics that looked like hustle at Microsoft became evidence in a federal court, where a judge ruled the company had illegally protected a monopoly. Once you are the giant, the law watches you differently. Get good advice before you squeeze a partner."
+    },
+    {
+      "title": "Fight the next war, not the last.",
+      "text": "He spotted the internet in 1995 and then lost phones to Android, which he calls his greatest mistake. Winning makes you slow. Ask every year what could make your best product matter less."
+    },
+    {
+      "title": "Check who you are dealing with.",
+      "text": "He met Epstein in 2011 hoping for billions for global health, knowing of a conviction and not looking into it. The money never came, and the cost has been enormous. A good cause is never a reason to skip the background check, or to ignore your spouse's warning."
+    },
+    {
+      "title": "Fund what the market ignores.",
+      "text": "At Harvard he said the market did not reward saving poor children, so they kept dying of things that cost under a dollar to prevent. Your biggest opportunities can sit where nobody is looking. Ask who is being ignored, and why."
+    },
+    {
+      "title": "Decide what your money is for.",
+      "text": "In 2025 he promised to give away 99% of his fortune and close his foundation in 2045, following his mother's line that much is expected from those given much. Wealth with no purpose only piles up. Decide early what you are working for."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Joel Spolsky, \"My First BillG Review\", Joel on Software, 16 June 2006",
+      "url": "https://www.joelonsoftware.com/2006/06/16/my-first-billg-review/"
+    },
+    {
+      "label": "Fortune, \"The top 3 lessons Bill Gates taught this former Microsoft VP\", 2 May 2023",
+      "url": "https://fortune.com/2023/05/02/bill-gates-top-lessons-skills-microsoft-chris-williams/"
+    },
+    {
+      "label": "Chris Williams (former Microsoft VP of HR), Entrepreneur, 2 May 2023",
+      "url": "https://entrepreneur.com/business-news/bill-gates-is-always-right-3-lessons-from-ex-microsoft-vp/450844"
+    },
+    {
+      "label": "Paul Allen, \"Microsoft's Odd Couple\", Vanity Fair, adapted from his memoir Idea Man, 2011",
+      "url": "https://www.vanityfair.com/news/2011/05/paul-allen-201105"
+    },
+    {
+      "label": "Fora, report on Gates on BBC Radio 4 Desert Island Discs, 1 February 2016",
+      "url": "https://fora.ie/bill-gates-desert-island-discs-2577886-Feb2016/"
+    },
+    {
+      "label": "CNBC via NBC 6, \"Bill Gates: I could have learned this lesson from Warren Buffett a lot sooner\", 24 May 2024",
+      "url": "https://www.nbcmiami.com/news/business/money-report/bill-gates-i-could-have-learned-this-lesson-from-warren-buffett-a-lot-sooner/3319683"
+    },
+    {
+      "label": "Entrepreneur/Business Insider, \"Why Bill Gates Washes the Dishes and Reads for an Hour\", 10 December 2021",
+      "url": "https://www.entrepreneur.com/article/401967"
+    },
+    {
+      "label": "Robert A. Guth, The Wall Street Journal, via The Seattle Times, \"Microsoft's Thoreau takes to woods to ponder future\", 29 March 2005",
+      "url": "https://archive.seattletimes.com/archive/20050329/gatesthink29/microsofts-thoreau-takes-to-woods-to-ponder-future"
+    },
+    {
+      "label": "U.S. v. Microsoft, Court's Findings of Fact (Judge Thomas Penfield Jackson), US Department of Justice",
+      "url": "https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact"
+    },
+    {
+      "label": "The Seattle Times, \"The Gates Deposition: 684 Pages Of Conflict\", 16 March 1999",
+      "url": "https://archive.seattletimes.com/archive/19990316/2949718/microsoft-trial----the-gates-deposition-684-pages-of-conflict"
+    },
+    {
+      "label": "CNBC, on Gates's 1989 NBC Today interview about hiring, 14 March 2019",
+      "url": "https://www.cnbc.com/2019/03/14/watch-33-year-old-bill-gates-describe-ideal-microsoft-job-candidate.html"
+    },
+    {
+      "label": "Newsweek, \"How We Did It\", Gates and Ballmer interview, 1997",
+      "url": "https://www.newsweek.com/how-we-did-it-173656"
+    },
+    {
+      "label": "Fortune, David Risher on Gates and Amazon, 1 October 2025",
+      "url": "https://fortune.com/2025/10/01/lyft-ceo-david-risher-bill-gates-jeff-bezos-microsoft-to-amazon/"
+    },
+    {
+      "label": "HistoryLink, Microsoft history essay (Ballmer becomes CEO, 13 January 2000)",
+      "url": "https://www.historylink.org/File/10426"
+    },
+    {
+      "label": "Benzinga, on Steve Ballmer on the Acquired podcast, 5 June 2025",
+      "url": "https://www.benzinga.com/news/topics/25/06/45786818/steve-ballmer-says-he-didnt-speak-to-bill-gates-for-a-year-after-becoming-microsoft-chief-reveals-pow"
+    },
+    {
+      "label": "CNN Money, \"Why Bill Gates and Steve Ballmer broke up\", 4 November 2016",
+      "url": "https://money.cnn.com/2016/11/04/technology/bill-gates-steve-ballmer"
+    },
+    {
+      "label": "Fortune, on Anupreeta Das's book Billionaire, Nerd, Savior, King, with Gates Ventures' response, 16 August 2024",
+      "url": "https://fortune.com/2024/08/16/bill-gates-terrified-employees-at-foundation-anupreeta-das-book-claims/"
+    },
+    {
+      "label": "Remarks of Bill Gates, Harvard Commencement, Harvard Gazette, 7 June 2007",
+      "url": "https://news.harvard.edu/gazette/story/2007/06/remarks-of-bill-gates-harvard-commencement-2007/"
+    },
+    {
+      "label": "CNBC, \"Bill Gates released swarming mosquitoes to make a point about malaria\", 28 November 2017",
+      "url": "https://www.cnbc.com/2017/11/28/bill-gates-released-swarming-mosquitoes-to-make-a-point-about-malaria.html"
+    },
+    {
+      "label": "Bill Gates, 2009 Annual Letter (U.S. education section), via The Atlantic Philanthropies, 26 January 2009",
+      "url": "https://www.atlanticphilanthropies.org/news/2009-annual-letter-bill-gates-us-education"
+    },
+    {
+      "label": "Education Week, \"Bill Gates Praises Charter Models\", 3 February 2009",
+      "url": "https://edweek.org/policy-politics/bill-gates-praises-charter-models/2009/02"
+    },
+    {
+      "label": "Associated Press via PBS NewsHour, \"Bill Gates pledges remaining fortune to Gates Foundation\", 8 May 2025",
+      "url": "https://www.pbs.org/newshour/nation/bill-gates-pledges-remaining-fortune-to-gates-foundation-which-will-close-in-2045"
+    },
+    {
+      "label": "Stephanie Beasley/Associated Press via Fortune, on the record $9 billion budget and staff cuts, 14 January 2026",
+      "url": "https://www.fortune.com/2026/01/14/bill-gates-foundation-9-billion-budget-cutting-jobs-headcount"
+    },
+    {
+      "label": "AFP via Channels Television, \"Climate Change Won't End Civilization\", 28 October 2025",
+      "url": "https://www.channelstv.com/2025/10/28/climate-change-wont-end-civilization-bill-gates/"
+    },
+    {
+      "label": "The Washington Times, reporting Axios on Gates's AI safety push, 15 October 2026",
+      "url": "https://www.washingtontimes.com/news/2026/oct/15/bill-gates-plans-bigger-ai-safety-push-leaning-ceos-sources-say/"
+    },
+    {
+      "label": "Bill Gates, \"The turbulent AI era is here. The choices we make now are critical.\", 26 August 2026",
+      "url": "https://www.linkedin.com/pulse/turbulent-ai-era-here-choices-we-make-now-critical-bill-gates-kkmze"
+    },
+    {
+      "label": "Ina Fried, Axios, on Gates and the autism spectrum, 3 February 2025",
+      "url": "https://www.axios.com/2025/02/03/bill-gates-interview-autism-spectrum"
+    },
+    {
+      "label": "International New York Times via Deccan Herald, \"Bill Gates father, Bill Gates Sr., passes away at 94\", 16 September 2020",
+      "url": "https://www.deccanherald.com/world/bill-gates-father-bill-gates-sr-passes-away-at-94-888257.html"
+    },
+    {
+      "label": "Press Herald, obituary coverage of William H. Gates Sr., September 2020",
+      "url": "https://www.pressherald.com/?p=5638751"
+    },
+    {
+      "label": "KFF Health News Morning Briefing, on Gates's $50 million Alzheimer's investment, 14 November 2017",
+      "url": "https://kffhealthnews.org/morning-breakout/bill-gates-notes-family-history-of-alzheimers-while-pledging-50m-to-help-fight-disease/"
+    },
+    {
+      "label": "Scripps News, \"Bill Gates reveals his father has Alzheimer's\", 2018",
+      "url": "https://www.scrippsnews.com/us-news/bill-gates-reveals-his-father-has-alzheimer-s"
+    },
+    {
+      "label": "The Tribune (India), on Gates and autism, no formal diagnosis, 2025",
+      "url": "https://www.tribuneindia.com/news/health/what-is-aspergers-syndrome-all-about-the-condition-that-bill-gates-has-as-per-his-daughter"
+    },
+    {
+      "label": "GeekWire, on Melinda French Gates on CBS Mornings, 3 March 2022",
+      "url": "https://www.geekwire.com/2022/melinda-french-gates-on-jeffrey-epsteins-evil-personified-her-passion-for-philanthropy-and-potential-dating/"
+    },
+    {
+      "label": "NBC News, on Gates's Times of London interview, 28 January 2025",
+      "url": "https://www.nbcnews.com/news/us-news/bill-gates-says-end-marriage-melinda-gates-mistake-regrets-rcna189599"
+    },
+    {
+      "label": "NBC News, on Gates on the TODAY show, 4 February 2025",
+      "url": "https://www.nbcnews.com/news/us-news/bill-gates-confirms-serious-girlfriend-says-marriage-melinda-gates-rcna190590"
+    },
+    {
+      "label": "CBS News, \"Bill Gates said Epstein tried to use knowledge of his affairs to pressure me\", 24 June 2026",
+      "url": "https://www.cbsnews.com/news/bill-gates-said-epstein-tried-to-use-knowledge-of-his-affairs-to-pressure-me/"
+    },
+    {
+      "label": "GeekWire, \"Transcript: Here's what Bill Gates told lawmakers\", 24 June 2026",
+      "url": "https://www.geekwire.com/2026/transcript-heres-what-bill-gates-told-lawmakers-in-his-recent-epstein-testimony/"
+    },
+    {
+      "label": "Forbes, Bill Gates profile (real-time net worth as of 1 November 2026)",
+      "url": "https://www.forbes.com/profile/bill-gates/"
+    },
+    {
+      "label": "The Land Report, \"Bill Gates Talks Farmland\", 17 January 2023",
+      "url": "https://landreport.com/bill-gates-responds"
+    },
+    {
+      "label": "Paul Fraser Collectibles, on the Codex Leicester sale prices",
+      "url": "https://www.paulfrasercollectibles.com/blogs/autographs/da-vinci-bill-gates-and-codex-leicester-why-it-pays-to-invest-in-genius"
+    },
+    {
+      "label": "The Seattle Times, \"Codex History\", 14 October 1997",
+      "url": "https://archive.seattletimes.com/archive/19971014/2566020/codex-history----a-coveted-trophy-for-the-intellectually-curious"
+    },
+    {
+      "label": "Reuters via BNN Bloomberg, on Buffett stopping Gates Foundation gifts, 15 July 2026",
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/07/14/warren-buffett-stops-gates-foundation-donations-following-epstein-revelations/"
+    },
+    {
+      "label": "CNBC, \"How Bill Gates described the internet to David Letterman in 1995\", 8 December 2019",
+      "url": "https://www.cnbc.com/2019/12/08/how-bill-gates-described-the-internet-to-david-letterman-in-1995.html"
+    },
+    {
+      "label": "Joseph Nocera, Fortune, \"His Own Worst Enemy\", 7 December 1998",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/1998/12/07/252139/index.htm"
+    },
+    {
+      "label": "HuffPost, on Gates and Jimmy Fallon and the Omniprocessor, 22 January 2015",
+      "url": "https://www.huffpost.com/entry/bill-gates-poop-water_n_6526204"
+    },
+    {
+      "label": "US House Committee on Oversight and Government Reform, release of the Gates and Groff transcripts, 23 June 2026",
+      "url": "https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/"
+    },
+    {
+      "label": "VRT NWS, \"Bill Gates in Brussels, visits Atomium\", 26 October 2026",
+      "url": "https://www.vrt.be/vrtnws/en/2026/10/26/bill-gates-in-brussels-visits-atomium/"
+    },
+    {
+      "label": "Business Standard, \"Windows 98 Crashes At Demo As Gates Look On\", 22 April 1998",
+      "url": "https://www.business-standard.com/article/specials/windows-98-crashes-at-demo-as-gates-look-on-198042201024_1.html"
+    },
+    {
+      "label": "Visual Studio Magazine, \"The Microsoft Consent Decree Expires\", 13 May 2011, citing the Justice Department",
+      "url": "https://visualstudiomagazine.com/Articles/2011/05/13/wnews_Consent-Decree-Expires.aspx"
+    },
+    {
+      "label": "CBS News/AP, \"The Enigmatic Microsoft Judge\", 3 April 2000",
+      "url": "https://www.cbsnews.com/news/the-enigmatic-microsoft-judge"
+    },
+    {
+      "label": "The A.V. Club, review of Ken Auletta's World War 3.0, 19 April 2002",
+      "url": "https://avclub.com/ken-auletta-world-war-3-0-microsoft-and-its-enemies-1798196794"
+    },
+    {
+      "label": "Yahoo News, on the Yahoo News/YouGov poll, May 2020",
+      "url": "https://news.yahoo.com/new-yahoo-news-you-gov-poll-shows-coronavirus-conspiracy-theories-spreading-on-the-right-may-hamper-vaccine-efforts-152843610.html"
+    },
+    {
+      "label": "Business Insider, on Gates rejecting the microchip theory, July 2020",
+      "url": "https://businessinsider.nl/bill-gates-spurns-conspiracy-wants-vaccine-to-give-people-microchips-2020-7"
+    },
+    {
+      "label": "Check Your Fact, \"Was Bill Gates Indicted By A Dutch Court Over COVID-19 Vaccines?\", 30 October 2024",
+      "url": "https://cdn01.checkyourfact.com/2024/10/30/fact-check-was-bill-gates-indicted-by-a-dutch-court-over-covid-19-vaccines"
+    },
+    {
+      "label": "Ground News, on the Leeuwarden judges ruling they are competent",
+      "url": "https://ground.news/article/lawsuit-against-bill-gates-over-vaccine-damage-continues-judges-in-leeuwarden-find-themselves-competent"
+    },
+    {
+      "label": "Associated Press via Nevada Business Weekly, \"Bill Gates, visiting India, gives children polio drops\", 19 December 2001",
+      "url": "https://nnbw.com/news/2001/dec/19/bill-gates-visiting-india-gives-children-polio-dro"
+    },
+    {
+      "label": "Associated Press via NBC News, \"Microsoft's Gates gets Indira Gandhi Prize\", 25 July 2009",
+      "url": "https://www.nbcnews.com/id/wbna32147266"
+    },
+    {
+      "label": "Chronicle of Philanthropy, \"Gates-Backed Vaccine Helps Eliminate Polio in India for a Year\", 13 January 2012",
+      "url": "https://www.philanthropy.com/news/gates-backed-vaccine-helps-eliminate-polio-in-india-for-a-year/"
+    },
+    {
+      "label": "The Tribune (India), on the \"laboratory\" remark, 3 December 2024",
+      "url": "https://www.tribuneindia.com/news/trending/bill-gates-says-india-is-kind-of-a-laboratory-to-try-things-social-media-divided-over-remark/amp"
+    },
+    {
+      "label": "Reuters via NBC News, \"Bill Gates pulls out of India AI summit amid Epstein scrutiny\", 20 February 2026",
+      "url": "https://www.nbcnews.com/world/asia/bill-gates-india-ai-summit-epstein-rcna259865?rand=245"
+    },
+    {
+      "label": "Telangana Today, Bill Gates news listing (Andhra Pradesh visit)",
+      "url": "https://telanganatoday.com/tag/Bill-Gates"
+    },
+    {
+      "label": "Redmond Magazine, \"Appeals Court Revokes Jackson's Break-Up Order\", 28 June 2001",
+      "url": "https://redmondmag.com/articles/2001/06/28/appeals-court-revokes-jacksons-breakup-order.aspx"
+    },
+    {
+      "label": "TidBITS, \"Appeals Court Unanimously Reverses Microsoft Breakup\", 28 June 2001",
+      "url": "https://tidbits.com/2001/06/28/appeals-court-unanimously-reverses-microsoft-breakup/"
+    },
+    {
+      "label": "The Sofia Globe, on the European Commission's €561 million fine, 6 March 2013",
+      "url": "https://sofiaglobe.com/2013/03/06/eu-fines-microsoft-561m-euro-for-browser-screen-fail/"
+    },
+    {
+      "label": "CNN Business, \"Bill Gates reveals the biggest mistake of his career\", 24 June 2019",
+      "url": "https://amp.cnn.com/cnn/2019/06/24/tech/bill-gates-android"
+    },
+    {
+      "label": "Engadget, \"Bill Gates claims his greatest mistake was not beating Android\", 24 June 2019",
+      "url": "https://www.engadget.com/2019/06/24/bill-gates-greatest-mistake/"
+    },
+    {
+      "label": "Jay Hancock, Kaiser Health News via Fortune, on the Oxford-AstraZeneca deal, 24 August 2020",
+      "url": "https://fortune.com/2020/08/24/oxford-astrazeneca-covid-vaccine-deal-pricing-profit-concerns/amp"
+    },
+    {
+      "label": "Sandi Doughton, The Seattle Times via The Columbian, on the Gates Foundation and Covid vaccines, 28 June 2021",
+      "url": "https://columbian.com/news/2021/jun/28/have-gates-foundation-efforts-to-vaccinate-the-world-against-covid-19-helped-or-hindered"
+    },
+    {
+      "label": "CBS News, \"Microsoft confirms it investigated intimate relationship Gates had with employee\", 17 May 2021",
+      "url": "https://www.cbsnews.com/news/bill-gates-microsoft-employee-relationship"
+    },
+    {
+      "label": "GeekWire, \"Bill Gates addresses Epstein fallout at foundation\", 25 February 2026",
+      "url": "https://www.geekwire.com/2026/bill-gates-addresses-epstein-fallout-at-foundation-as-new-microsoft-revelations-emerge/"
+    },
+    {
+      "label": "CNBC, \"Bill Gates testimony on Jeffrey Epstein ties released by House oversight panel\", 23 June 2026",
+      "url": "https://www.cnbc.com/2026/06/23/bill-gates-jeffrey-epstein-testimony-house-oversight.html"
+    },
+    {
+      "label": "ABC News (Australia)/AP/Reuters, on the WilmerHale review, 22 July 2026",
+      "url": "https://www.abc.net.au/news/2026-07-22/bill-gates-foundation-jeffrey-epstein-review/106943846"
+    },
+    {
+      "label": "Gates Foundation, \"Gates Foundation Concludes External Review\", 21 July 2026",
+      "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/07/external-review"
+    },
+    {
+      "label": "CBS News, \"Bill Gates apologizes to Gates Foundation staff over Epstein ties\", 25 February 2026",
+      "url": "https://www.cbsnews.com/news/bill-gates-epstein-files-apology-gates-foundation-melinda-gates"
+    },
+    {
+      "label": "Newser, summary of the transcript and New York Times and ABC reports, 24 June 2026",
+      "url": "https://www.newser.com/story/391628/gates-on-epstein-no-blackmail-just-veiled-references.html"
+    },
+    {
+      "label": "CNN, \"Bill Gates says he didn't witness crimes but may have been in presence of Epstein victims\", 23 June 2026",
+      "url": "https://www.cnn.com/2026/06/23/politics/bill-gates-epstein-deposition"
+    },
+    {
+      "label": "Fortune, on Buffett and the Gates Foundation review, 22 July 2026",
+      "url": "https://fortune.com/2026/07/22/bill-gates-warren-buffett-gates-foundation-review-philanthropy-fallout/"
+    },
+    {
+      "label": "POWER Magazine, \"TerraPower's Kemmerer 1 Enters Construction\", 23 April 2026",
+      "url": "https://www.powermag.com/terrapowers-kemmerer-1-enters-construction-timeline-of-the-natrium-projects-road-to-first-power/"
+    },
+    {
+      "label": "VnExpress, on Forbes's estimate of Gates's fortune with donations added back",
+      "url": "https://e.vnexpress.net/news/tech/personalities/bill-gates-would-be-world-s-second-richest-without-350b-plus-in-donations-5065684.html"
+    },
+    {
+      "label": "World Nuclear News, \"NRC issues construction permit for first Natrium plant\", 5 March 2026",
+      "url": "https://www.world-nuclear-news.org/articles/nrc-issues-construction-permit-for-first-natrium-plant"
+    },
+    {
+      "label": "The Verge, \"Bill Gates is deeply worried about AI\", 26 August 2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+    },
+    {
+      "label": "The Guardian, \"Bill Gates calls for human-reserved jobs\", 26 August 2026",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover"
+    },
+    {
+      "label": "The News International, on Gates on The Verge's Decoder podcast, 25 October 2026",
+      "url": "https://www.thenews.com.pk/latest/1421247-bill-gates-warns-how-ai-could-reshape-power-and-the-future-of-work-on-the-verges-decoder-podcast"
+    },
+    {
+      "label": "RealClearEnergy, \"Bill Gates: Cyberattacks Most Imminent AI Threat\", 29 October 2026",
+      "url": "https://www.realclearenergy.org/2026/10/29/bill_gates_cyberattacks_most_imminent_ai_threat_1211190.html"
+    }
+  ],
+  "factCheck": {
+    "method": "Written on 2 November 2026 from pages read through Exa's web_fetch and WebFetch and from WebSearch extracts. The court record was read in full from the Justice Department's copy. Every verbatim quote block was checked against its source text. Because of a copyright limit on this research agent, the chapters carry one short quote from a copyrighted source (Harvard 2007, 7 words) and otherwise use only quotes from US government records: the Findings of Fact and Gates's House transcript as reported by CNBC. Everything else Gates said is paraphrased without quote marks. An editor with access to the primary sources may add more verbatim quotes. Paul Allen's stories come only from his own memoir excerpt and are attributed as such. A WebSearch budget ran out before the end of research, so a few facts rest on search extracts rather than a full read: the Fortune 'compete' line, the Engadget note on the antitrust distraction, sleep and dishes, the Codex price, the microchip poll figures, the father's death and Alzheimer's dates, Mary Gates's death, Ballmer's CEO date (HistoryLink), the appeals court's remarks on the judge (TidBITS), the Forbes $356 billion estimate (VnExpress), the Oxford dispute's second side (Seattle Times via The Columbian), no formal autism diagnosis (The Tribune), and the Dutch case (Check Your Fact, Ground News). Several of those pages blocked or failed a direct fetch. The fact-checker should re-open those first. We did not read the House transcript itself, only press accounts that quote it.",
+    "disputed": [
+      {
+        "claim": "Ballmer asked for 50 to 60 more staff when Microsoft had about 30 people.",
+        "note": "This is from the 1997 Newsweek interview. An InternetNews blog reports Ballmer elsewhere recalling a request for 18 more. We used the Newsweek figure because it comes from his and Gates's own joint interview."
+      },
+      {
+        "claim": "How many times Gates met Epstein.",
+        "note": "Gates told Congress roughly a dozen in-person meetings plus video calls (CBS), and gave a yearly count totalling about 15 to 16 contacts including Skype (GeekWire). WilmerHale counted about 30 meetings, but that figure covers Epstein and 10 foundation leaders and staff, not Gates alone (ABC). These are different counts, not necessarily a contradiction."
+      },
+      {
+        "claim": "When contact with Epstein ended.",
+        "note": "ABC reports the relationship ended by December 2014; CBS reports Gates said he last had contact in 2015. The chapter says contacts ran through 2014, matching the meeting count."
+      },
+      {
+        "claim": "Why Buffett stopped giving in July 2026.",
+        "note": "Buffett told CNBC the main reason was that his children are ready to distribute his fortune, while calling the Epstein ties distasteful. Fortune, citing the WSJ, says he held off the gift while awaiting the Epstein review. The chapter gives both."
+      },
+      {
+        "claim": "Buffett total given to the foundation.",
+        "note": "CNBC in April 2026 said more than $43 billion; Reuters in July 2026 said more than $47 billion; Fortune said about $48 billion. We used Reuters."
+      },
+      {
+        "claim": "Date of the EU €899 million fine.",
+        "note": "The Sofia Globe says 2007; other reports say 2008. The chapter gives no year for this fine."
+      },
+      {
+        "claim": "How much the foundation spent on US high schools.",
+        "note": "Gates's letter says over $2 billion; Education Week says nearly $2 billion; other sources cite $650 million for one phase. We wrote about $2 billion."
+      },
+      {
+        "claim": "TerraPower Kemmerer completion date.",
+        "note": "World Nuclear News says completion in 2030. Other reports refer to fuel loading by 2030 and commercial operation by 2031. We wrote around 2030."
+      },
+      {
+        "claim": "Microsoft board and Gates leaving in 2020.",
+        "note": "Microsoft confirmed an investigation but did not comment on what led to the departure. Gates's spokesperson says it was unrelated. The WSJ, using anonymous sources, reported that board members had decided he should go. All three positions are stated, none as fact."
+      },
+      {
+        "claim": "Paul Allen's account of the 1982 dilution talk and the 1983 share offer.",
+        "note": "From Allen's memoir alone. In it Ballmer says the plan would not have been carried out. We found no independent record of the conversation, so the chapter attributes it to Allen."
+      }
+    ]
+  }
+}

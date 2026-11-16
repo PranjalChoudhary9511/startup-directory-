@@ -1,0 +1,357 @@
+{
+  "slug": "color-labs",
+  "name": "Color",
+  "region": "global",
+  "country": "United States",
+  "city": "Palo Alto, California",
+  "sector": "Social photo app",
+  "founded": 2010,
+  "died": 2012,
+  "status": "shut-down",
+  "brandColor": "#ff5a36",
+  "founders": [
+    {
+      "name": "Bill Nguyen",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Peter Pham",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Raised $41 million. Forgot to raise users.",
+  "oneLiner": "A photo-sharing app that showed you pictures taken by people physically near you, launched with $41M of funding before anyone had used it.",
+  "causeOfDeath": "It raised huge money and hype before proving people wanted the app; the confusing product flopped, leaders left, and pivots failed.",
+  "raisedUsdM": 41,
+  "peakValuationUsdM": 167,
+  "endValueUsdM": 7,
+  "moneyNote": "$41M from Sequoia ($25M), Bain Capital ($9M) and Silicon Valley Bank ($7M debt) at a reported $167M valuation. Apple hired the team in 2012 for a reported $7M (AllThingsD's sources said $2–5M).",
+  "moneySrc": [
+    0,
+    1,
+    3,
+    4
+  ],
+  "inOneMinute": [
+    "Color raised **$41 million before its app launched**, one of the biggest pre-launch rounds Silicon Valley had seen. It even turned down a reported $200 million from Google.",
+    "The app showed photos from people near you. But new users often found it **confusing and empty**, and it opened to a 2-star rating.",
+    "Co-founders and top staff left, pivots fizzled, and in 2012 Apple hired its 20 engineers for a reported **$7 million**. The app closed that December."
+  ],
+  "killerLine": "**Money and hype can't replace product-market fit.** Launch small, learn quietly, and raise big only after people love it.",
+  "numbers": [
+    {
+      "value": "$41M",
+      "label": "raised before the app launched",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "$200M",
+      "label": "reported Google offer before launch, turned down",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$350K",
+      "label": "paid for the color.com web address",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "~$7M",
+      "label": "reported price Apple paid to hire its ~20 engineers",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: photos from everyone around you",
+      "body": "Bill Nguyen was a famous serial founder; he had sold the music service Lala to Apple. In 2010 he and Peter Pham started Color in Palo Alto. The app was clever: when you took a photo, it was shared with **anyone nearby using Color**, not just your friends. At a concert, a party or a cricket match, you'd see everyone's photos of the same moment, grouped automatically. There were no friend requests. You simply connected with people around you. They bought the web address color.com for **$350,000**. Investors were dazzled. Before launch, Google reportedly offered $200 million for the company. Color said no.",
+      "src": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "title": "The rise: the most hyped launch of 2011",
+      "body": "In March 2011, Color announced **$41 million in funding**: $25 million from the top venture firm Sequoia, $9 million from Bain Capital and $7 million of loans from Silicon Valley Bank. The deal reportedly valued the company at $167 million. Sequoia's Doug Leone later said his firm invested just **three days before launch**. On 24 March 2011, the app arrived on the iPhone App Store. Tech media covered it everywhere, because of the money as much as the product. It was a huge amount for an app no one outside the company had used. Imagine an Indian startup raising hundreds of crores before showing its app to a single real customer.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The cracks: a crowded room with nobody in it",
+      "body": "Users opened Color and often didn't understand it. If nobody near you had the app, there was little to see; if people did, you saw strangers' photos. The app opened with a **2-star rating**. A week after launch, Color rushed out an update to explain itself better. The founders admitted the problem: **\"We threw a mountain at people.\"** Leone later said Color had a loud introduction of a product that didn't hit the market. In June 2011, less than three months after launch, co-founder Peter Pham left. Chief product officer DJ Patil followed in July. A company built on huge expectations now had to fix the product with the whole tech world watching.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The fall: pivots, then an acqui-hire",
+      "body": "Color tried to reinvent itself. It pivoted (changed direction) to an app connected to Facebook for sharing short silent videos, and later to a **live video app for Android** through a deal with Verizon, launched in May 2012. It reached about 460,000 monthly users, not nearly enough. In October 2012 the board voted to wind the company down. Apple hired Color's roughly **20-person engineering team**, for a price reported at about $7 million, but did not buy its app or brand. Color still had about $25 million in the bank when it wound down. In November 2012, Color announced its app would close at the end of the year.",
+      "src": [
+        0,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2010",
+      "event": "Bill Nguyen and Peter Pham start Color in Palo Alto",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2010",
+      "event": "Buys the color.com web address for $350,000",
+      "kind": "money",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Early 2011",
+      "event": "Reportedly turns down a $200 million offer from Google",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Mar 2011",
+      "event": "Announces $41M from Sequoia, Bain Capital and SVB at a reported $167M valuation",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "24 Mar 2011",
+      "event": "App launches on iPhone; opens with a 2-star rating",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun–Jul 2011",
+      "event": "Co-founder Peter Pham and product chief DJ Patil leave",
+      "kind": "warning",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Sep 2011",
+      "event": "Sequoia says 'stay tuned' for a pivot to a Facebook-linked app",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "May 2012",
+      "event": "Live video app for Android launches via Verizon; ~460,000 monthly users",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Oct 2012",
+      "event": "Board votes to wind down; Apple hires its ~20 engineers",
+      "kind": "end",
+      "src": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Dec 2012",
+      "event": "The Color app shuts down",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "2010–Mar 2011",
+      "round": "Pre-launch equity and debt",
+      "amountUsdM": 41,
+      "valuationUsdM": 167,
+      "investors": [
+        "Sequoia Capital",
+        "Bain Capital",
+        "Silicon Valley Bank"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "no-market",
+      "weight": 40
+    },
+    {
+      "key": "tech",
+      "weight": 20
+    },
+    {
+      "key": "team",
+      "weight": 20
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Raised and hyped before proving demand",
+      "explain": "Color announced **$41 million before real users had tried the app**. That turned the launch into a public exam. When the product disappointed, the story became 'the $41 million flop', making it harder to recruit, retain staff and get a second look from users.",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "title": "A product new users couldn't understand",
+      "explain": "Sharing photos with whoever was nearby only works when many people nearby use it. New users often saw strangers or nothing. The founders admitted they **threw a mountain at people**. A simpler first version, for one event or one campus, would have shown whether the idea worked.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Leaders left within months",
+      "explain": "Co-founder Peter Pham left **less than three months after launch**, and the chief product officer followed weeks later. Losing key builders right when the product needs fixing slows everything and signals trouble to everyone watching. The company had to fix a struggling product with fewer of the people who designed it.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Pivots without a clear user problem",
+      "explain": "Color moved from nearby photos to Facebook-linked silent video, then to live video on Android. Each pivot chased a new format rather than a **specific problem users had told them about**. None found enough users to justify the money already raised.",
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you announcing a big funding round before real users have tried your product?",
+    "Does your app only work well once lots of people near the user are already on it?",
+    "Do new users open your app and leave without understanding what to do?",
+    "Has a co-founder or senior leader left within months of launch?",
+    "Are you pivoting to a new format before talking to users about what they actually need?"
+  ],
+  "lessons": [
+    {
+      "title": "Launch quietly, learn fast",
+      "detail": "Test with 50 real users before any big announcement. If they don't come back by themselves, fix that first. Hype magnifies whatever your product already is."
+    },
+    {
+      "title": "Solve the empty-room problem",
+      "detail": "Apps that depend on other people nearby (social, dating, local) need a dense starting group: one college, one event, one housing society. Fill one room before opening the building."
+    },
+    {
+      "title": "Big money raises the bar",
+      "detail": "A huge round sets huge expectations from day one. Raise what you need to reach the next proof point, not the most you can get."
+    },
+    {
+      "title": "Make the first 30 seconds obvious",
+      "detail": "If a new user can't explain your app to a friend after one try, simplify. Remove features until the core action is unmistakable."
+    },
+    {
+      "title": "Talent can be the exit",
+      "detail": "Color's engineers landed at Apple. Even when a product fails, a strong team is valuable. Treat your people well; they are often what survives."
+    }
+  ],
+  "quote": {
+    "text": "We threw out a network you don’t know how to get good at…We threw a mountain at people.",
+    "who": "Peter Pham and Bill Nguyen, Color co-founders",
+    "context": "Interview with tech blogger Robert Scoble, April 2011, a week after the troubled launch",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Apple hired Color's roughly 20 engineers in October 2012, reportedly to work on cloud technology; it did not take the app or the brand. A former founding employee sued, saying he was left out of the move to Apple. Color remains Silicon Valley's favourite example of raising too much, too early.",
+    "src": [
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Color Labs (citing WSJ, TechCrunch, ZDNet, VentureBeat, Scobleizer)",
+      "url": "https://en.wikipedia.org/wiki/Color_Labs"
+    },
+    {
+      "label": "TechCrunch: Google tried to buy Color for $200 million. Color said no (Jul 2011)",
+      "url": "https://techcrunch.com/2011/07/21/google-tried-to-buy-color-for-200-million-color-said-no/"
+    },
+    {
+      "label": "TechCrunch: Sequoia's Doug Leone on Color, 'stay tuned' for the pivot (Sep 2011)",
+      "url": "https://techcrunch.com/2011/09/18/sequoias-doug-leone-we-are-thrilled-to-be-investors-in-color-stay-tuned-for-the-pivot/"
+    },
+    {
+      "label": "AllThingsD: What's really going on with Color: a small Apple talent acquisition (Oct 2012)",
+      "url": "http://allthingsd.com/20121018/whats-really-going-on-with-color-a-small-apple-talent-acquisition/"
+    },
+    {
+      "label": "TechCrunch: Sources: Apple paid $7 million for Color Labs (Nov 2012)",
+      "url": "https://techcrunch.com/2012/11/19/sources-apple-paid-7-million-for-color-labs/"
+    },
+    {
+      "label": "Domain Name Wire: Sequoia and Bain-backed startup was $350,000 Color.com buyer (Mar 2011)",
+      "url": "http://domainnamewire.com/2011/03/24/sequoia-and-bain-capital-backed-startup-was-350000-color-com-buyer/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Google offered $200 million",
+        "note": "Reported by TechCrunch from unnamed sources; never confirmed by Google or Color."
+      },
+      {
+        "claim": "Apple paid $7 million",
+        "note": "TechCrunch's sources said $7M; AllThingsD's sources said a nominal $2–5M. Neither company confirmed."
+      },
+      {
+        "claim": "Color had under 100,000 active users by September 2011",
+        "note": "Repeated widely, but flagged on Wikipedia as failing verification; left out."
+      },
+      {
+        "claim": "Misuse of company money",
+        "note": "AllThingsD reported internal accusations about personal expenses that were never fully addressed; unproven, so kept out of the story."
+      }
+    ]
+  }
+}

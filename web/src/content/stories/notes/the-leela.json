@@ -1,0 +1,229 @@
+{
+  "slug": "the-leela",
+  "company": "The Leela Palaces, Hotels and Resorts",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#A06E47",
+    "secondary": "#DD851E",
+    "accent": "#E0C474",
+    "ink": "#2B2622",
+    "paper": "#FBF6F0",
+    "note": "Bronze #A06E47, amber gold #DD851E, pale gold #E0C474 and the cream #FBF6F0 are sampled from theleela.com's own stylesheets. The ink is ours, darker than the site's grey text so it reads well on cream."
+  },
+  "tagline": "An army captain who sold cloth that bled, then opened his first hotel in his sixties.",
+  "hook": "In 1958 Krishnan Nair sold an American importer madras cloth at $1 a yard and warned him the colours would run. The warning never reached Brooks Brothers' customers, and they were furious. Nair talked the lawyers out of suing, helped sell the flaw as 'Bleeding Madras', and 28 years later opened his first hotel.",
+  "hookSrc": [6, 7, 8],
+  "cast": [
+    {
+      "name": "Leela Nair",
+      "role": "Wife, married 1950; daughter of industrialist A. K. Nair. She pushed him to leave the army for her father's textile business, and the lace firm and the hotels carry her name. Died in May 2021, aged 90.",
+      "photo": null,
+      "src": [5, 4, 15]
+    },
+    {
+      "name": "Vivek Nair",
+      "role": "Elder son. Became chairman and managing director when his father stepped down in February 2013.",
+      "photo": null,
+      "src": [0, 2]
+    },
+    {
+      "name": "Dinesh Nair",
+      "role": "Younger son. Became co-chairman and managing director in February 2013.",
+      "photo": null,
+      "src": [0, 2]
+    }
+  ],
+  "founder": {
+    "name": "Captain Chittarath Poovakkatt Krishnan Nair",
+    "role": "Founder, The Leela Palaces, Hotels and Resorts",
+    "born": "1922, near Kannur, Kerala",
+    "died": "17 May 2014, Mumbai",
+    "portrait": null,
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Leela_Palace_at_Kodhihalli.JPG/1280px-Leela_Palace_at_Kodhihalli.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Leela_Palace_at_Kodhihalli.JPG",
+        "caption": "The Leela Palace Bengaluru, opened in August 2001 (photo 2013)",
+        "author": "Veera.sj",
+        "license": "CC0",
+        "year": 2013
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Colourful_Madras_Checks_Fabric.jpg/1280px-Colourful_Madras_Checks_Fabric.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Colourful_Madras_Checks_Fabric.jpg",
+        "caption": "Madras check cotton, the kind of handloom cloth Nair exported (modern sample)",
+        "author": "Shweta Venkateswaran",
+        "license": "CC0",
+        "year": 2025
+      }
+    ],
+    "background": "Krishnan Nair grew up in a village near Kannur, one of eight children. His father Appu Nair was a government servant earning ₹9 a month and his mother Madhavi Amma farmed paddy. At about 10 he wrote a poem for the visiting Maharaja of Chirakkal and recited it at his school, and the Maharaja promised to pay for his education for life. As a teenager he fell in with communist leaders A. K. Gopalan and P. Krishna Pillai, and he joined the freedom movement at 13.",
+    "backgroundSrc": [0, 4, 5, 1],
+    "journey": [
+      { "year": "1922", "kind": "life", "title": "Born near Kannur", "detail": "Born into a poor family in north Kerala. His father earned ₹9 a month as a government servant.", "src": [0, 3, 5] },
+      { "year": "c. 1932", "kind": "life", "title": "A poem wins a scholarship", "detail": "He wrote and recited a poem for the Maharaja of Chirakkal at his school's annual day. The Maharaja hugged him and promised free education for life.", "src": [0, 4] },
+      { "year": "1935–1936", "kind": "attempt", "title": "Joins the freedom movement at 13", "detail": "Came under A. K. Gopalan's influence and, by his own account, gathered 18 students into one of Kerala's first student unions.", "src": [0, 4] },
+      { "year": "Late 1930s", "kind": "life", "title": "The Maharaja's diamond ring", "detail": "When it was time for college in Madras the Maharaja had fallen on hard times. Nair recalled that he gave him his diamond ring instead, which sold for ₹3,000.", "src": [4] },
+      { "year": "1942", "kind": "job", "title": "Wireless officer, Indian Army", "detail": "Went to Bangalore to enlist and was posted as a wireless officer in Abbottabad, now in Pakistan.", "src": [0, 1] },
+      { "year": "1947", "kind": "job", "title": "Captain, Maratha Light Infantry", "detail": "Joined the army's oldest regiment and rose to captain. The title stayed with him for life.", "src": [1, 0] },
+      { "year": "1950", "kind": "life", "title": "Marries Leela", "detail": "Married Leela, daughter of industrialist A. K. Nair. He later named his businesses after her.", "src": [4, 0, 15] },
+      { "year": "1951", "kind": "job", "title": "Leaves the army for handloom", "detail": "At his wife's urging he resigned his commission to sell his father-in-law's cloth. He also helped set up the All India Handloom Board and sold Indian hand-spun yarn in the US.", "src": [0, 5, 1] },
+      { "year": "1950s", "kind": "attempt", "title": "Leela Lace, a slow start", "detail": "He founded a lace business named after his wife. Business Standard says real success took about five years to arrive.", "src": [1, 5] },
+      { "year": "1957", "kind": "life", "title": "First trip abroad", "detail": "Went to West Germany with a handloom delegation: Frankfurt, Cologne, Munich and Hamburg. He said the hotels there gave him the idea of running one.", "src": [4] },
+      { "year": "1958", "kind": "breakthrough", "title": "'Bleeding Madras' becomes a craze", "detail": "Sold importer William Jacobson madras cloth at $1 a yard for $50 Brooks Brothers jackets. The colours ran, customers were furious, and a magazine story turned the flaw into the selling point.", "src": [6, 7, 17] },
+      { "year": "1981–1983", "kind": "attempt", "title": "Plans a hotel near the new airport", "detail": "Saw Mumbai's international airport rising near his Andheri bungalow, with no good hotel nearby. Set up Hotel Leelaventure on 4 acres he owned and 6.5 acres he leased. Bankers would not lend at first.", "src": [0, 2, 5] },
+      { "year": "1986", "kind": "breakthrough", "title": "The Leela Kempinski, Mumbai", "detail": "His first hotel opened in November 1986, branded through a tie-up with Kempinski. He was in his mid-sixties.", "src": [8, 1, 4] },
+      { "year": "2001–2013", "kind": "attempt", "title": "Palaces across India", "detail": "Opened palace hotels in Bengaluru (2001), Udaipur (2009), New Delhi (2011) and Chennai (2013), mostly on borrowed money.", "src": [8, 1] },
+      { "year": "2011–2014", "kind": "failure", "title": "Drowning in debt", "detail": "The Delhi hotel alone cost about ₹2,000 crore. Debt reached about ₹4,000–4,500 crore, the company made no profit after March 2012, and it sold its Kovalam resort for ₹500 crore.", "src": [1, 11, 5] },
+      { "year": "2013", "kind": "life", "title": "Hands over to his sons", "detail": "Stepped down as chairman on 7 February 2013. Vivek became chairman and Dinesh co-chairman.", "src": [0, 2] },
+      { "year": "2014", "kind": "life", "title": "Dies at 92", "detail": "Died at Hinduja Hospital in Mumbai on 17 May 2014. Weeks later, lenders sold the company's loans to an asset reconstruction company.", "src": [1, 2, 12] },
+      { "year": "Now", "kind": "now", "title": "The brand lives on, under new owners", "detail": "Brookfield bought four palaces and the Leela brand in 2019. The company listed in 2025 and renamed itself Leela Palaces Hotels & Resorts. His first hotel stayed with the family's company, HLV Ltd, under a brand licence.", "src": [14, 8, 10, 19] }
+    ],
+    "mindset": [
+      { "idea": "Turn the flaw into the pitch", "explain": "When his cloth bled in American washing machines, he did not deny it. He pitched it to Seventeen magazine as a 'miracle' handwoven fabric from India, and the running colours became the selling point.", "src": [6, 7] },
+      { "idea": "Look at the gap outside your window", "explain": "The hotel idea came from a plain observation: a new international airport was coming up next to his home, and there was no good hotel around it.", "src": [0] },
+      { "idea": "Start late if you must, but start", "explain": "He moved from textiles to hotels in his sixties, after more than 30 years in other work. 'I got into the hotel business when I was 64,' he said.", "src": [4, 1] },
+      { "idea": "Pride over profit", "explain": "He told his biographer he did not build hotels only for profit but to put India on the world map. His costs were high too: the Delhi palace had the highest cost per room in India.", "src": [5, 1] },
+      { "idea": "Friendships are part of the business", "explain": "He was friends with Lord Mountbatten, film stars and the Ambanis. His friendships with celebrities brought in orders for his fabrics.", "src": [5, 1] }
+    ],
+    "habits": [
+      { "habit": "At his desk by 10 a.m. in his eighties", "detail": "At 86 he still reached work by 10 and kept an eight-hour day.", "src": [4] },
+      { "habit": "Read every line", "detail": "His biographer says he micromanaged: he scanned every line of a ledger sheet and checked every publicity document himself.", "src": [5] },
+      { "habit": "Learned cities on foot", "detail": "He said he had walked the length and breadth of New York, because there was no better way to discover a city.", "src": [4] },
+      { "habit": "Gardened his own hotels", "detail": "He loved gardening and grew flowers from Thailand and Argentina in the Mumbai hotel's gardens.", "src": [4] }
+    ],
+    "darkestHour": {
+      "title": "The debt that outlived him",
+      "story": "The company had been almost free of debt in the early 2000s. Then it borrowed to build palaces: the Delhi hotel cost about ₹2,000 crore for 260 rooms, the highest cost per room in India. When the luxury market slowed, interest ate everything. In the October–December 2013 quarter alone the company paid ₹126 crore in interest. Banks restructured the loans from January 2012, and the plan required selling the Delhi and Chennai hotels, but at the asking price no serious buyer came. Nair stepped down in 2013 and died in May 2014. A month later the lenders ended the restructuring and sold the loans. In 2019 the company, now run by his sons, sold four palaces and its Agra land to Brookfield for ₹3,950 crore, and the family sold Brookfield the Leela brand for ₹150 crore. The sale cleared the bank debt and freed the family's personal guarantees.",
+      "src": [1, 11, 12, 14]
+    },
+    "genuineness": {
+      "story": "Nair gave the credit to his wife. Leela had pushed him to leave the army and join her father's textile business. He named his lace company and his hotel brand after her, and at 86 he told The Economic Times: 'To me, my wife, Leela has been the spirit behind the hotel.' He also had silver-plated elephants placed in his hotels as a tribute to the wild elephants he played with as a boy.",
+      "src": [5, 4, 1]
+    },
+    "now": "Captain Nair died in May 2014. The Leela brand and the palaces in Bengaluru, Chennai, Delhi and Udaipur now belong to the Brookfield-backed company once called Schloss Bangalore. It listed on the stock market in June 2025, renamed itself Leela Palaces Hotels & Resorts that September, and ran 15 hotels with 4,162 rooms in March 2026. His first hotel, The Leela Mumbai, was left out of the 2019 sale and runs under a Leela brand licence, though the Airports Authority of India is trying to take back the land it stands on.",
+    "nowSrc": [8, 10, 14, 18, 19, 20]
+  },
+  "numbers": [
+    { "value": "$1 a yard", "label": "Price of Nair's madras cloth; Brooks Brothers sold the jackets for $50", "asOf": "1958", "src": [6, 7] },
+    { "value": "64", "label": "His age when he entered the hotel business, by his own count", "asOf": "1986", "src": [4, 1] },
+    { "value": "₹4,130 crore", "label": "Restructured bank debt; lenders holding 97% of it sold their loans to an asset reconstruction firm", "asOf": "Jun 2014", "src": [11, 12] },
+    { "value": "₹3,950 crore", "label": "Price Brookfield paid for four Leela hotels and the Agra land", "asOf": "Oct 2019", "src": [14, 13] },
+    { "value": "4,162", "label": "Rooms (keys) across 15 operating Leela hotels, up from 3,553 in 13 hotels a year earlier", "asOf": "31 Mar 2026", "src": [18, 8] },
+    { "value": "₹1,598 crore", "label": "Total income of Leela Palaces Hotels & Resorts (formerly Schloss Bangalore), up from ₹1,407 crore", "asOf": "FY2026", "src": [18] }
+  ],
+  "milestones": [
+    { "year": "1958", "title": "Bleeding Madras", "detail": "Nair's handloom madras becomes a hit at Brooks Brothers after a magazine turns its running colours into a selling point.", "src": [6, 7] },
+    { "year": "1981", "title": "Hotel Leelaventure set up", "detail": "Nair forms the company to build a hotel near Mumbai's new international airport.", "src": [2, 0] },
+    { "year": "1986", "title": "First hotel opens", "detail": "The Leela Kempinski opens in Mumbai in November 1986.", "src": [8, 1] },
+    { "year": "2001", "title": "The Leela Palace Bengaluru", "detail": "The Leela Palace Bengaluru opens in August 2001.", "src": [8, 1] },
+    { "year": "2009", "title": "Udaipur", "detail": "The Leela Palace Udaipur opens in May 2009.", "src": [8, 1] },
+    { "year": "2011", "title": "The ₹2,000 crore Delhi palace", "detail": "The Leela Palace New Delhi opens in April 2011, among the costliest hotels per room in India.", "src": [8, 1] },
+    { "year": "2013", "title": "Chennai, and a handover", "detail": "The Chennai palace opens in January. In February the Captain steps down and his sons take charge.", "src": [8, 0, 2] },
+    { "year": "2014", "title": "Loans sold to an ARC", "detail": "After the debt rescue fails, 14 of 17 lenders sell their loans to JM Financial Asset Reconstruction Company.", "src": [12, 11] },
+    { "year": "2019", "title": "Brookfield buys the Leela", "detail": "Announced in March and completed in October, the deal sends four hotels, the Agra land, the brand and the management business to Brookfield; the bank debt is cleared.", "src": [14, 13] },
+    { "year": "2025", "title": "Back on the stock market", "detail": "Schloss Bangalore's ₹3,500 crore IPO (₹2,500 crore of new shares, ₹1,000 crore sold by Brookfield) lists on 2 June 2025 at ₹406, below its ₹435 issue price. In September it renames itself Leela Palaces Hotels & Resorts.", "src": [10, 9, 8, 19] }
+  ],
+  "howItMakesMoney": {
+    "summary": "The Leela makes money in three ways. At its 2025 listing it owned five hotels and earned from rooms, food and events there. It ran seven hotels that other people own and charged them management fees. And one hotel, The Leela Mumbai, paid to use the brand under a franchise. Its owned hotels earned an average of ₹22,545 per room per night in FY2025. By March 2026 about half its rooms were in hotels it owns and half in hotels it manages.",
+    "flows": [
+      { "from": "Guests", "to": "Owned Leela hotels", "what": "Room nights, restaurants, weddings and conferences" },
+      { "from": "Other hotel owners", "to": "The Leela (Schloss)", "what": "Management fees for running their hotels under the Leela name" },
+      { "from": "The Leela Mumbai's owner", "to": "The Leela (Schloss)", "what": "Franchise and central services fees" },
+      { "from": "The Leela (Schloss)", "to": "Lenders", "what": "Loan repayments, partly from the 2025 IPO money" }
+    ],
+    "src": [8, 9, 18]
+  },
+  "failures": [
+    {
+      "year": "2011",
+      "title": "The ₹2,000 crore palace",
+      "whatHappened": "The Leela Palace New Delhi cost about ₹2,000 crore for 260 rooms, the highest cost per room in India. The 2012 debt rescue required selling it, but in a slow market no serious buyer would pay the price.",
+      "lesson": "A beautiful asset is a bad investment if it can never earn back what it cost.",
+      "src": [1, 11, 12]
+    },
+    {
+      "year": "2014",
+      "title": "The rescue that failed",
+      "whatHappened": "For 12 straight quarters it made no operating profit, and in the quarter to March 2014, 65% of its gross profit went on interest. Talks for a KKR bridge loan broke down in May 2014, and in June the banks ended the restructuring and sold their loans.",
+      "lesson": "Debt that feels safe in a boom can sink you in a slowdown. Plan for the bad years before you borrow.",
+      "src": [11, 12]
+    },
+    {
+      "year": "2019",
+      "title": "Selling the name",
+      "whatHappened": "To clear the debt, the company sold four hotels and its Agra land to Brookfield for ₹3,950 crore, and the family sold Brookfield the Leela brand and trademarks for ₹150 crore. Rival ITC, which owned 7.92% of the company, fought the deal before the market regulator and the courts.",
+      "lesson": "If borrowing grows faster than earnings, you can end up selling the name you spent your life building.",
+      "src": [14, 13]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "He started from nothing at 65 with no business experience.",
+      "fact": "By then he had spent about 35 years in textiles and exports (he left the army in 1951), including the Bleeding Madras hit with Brooks Brothers. Hotels were his second business, not his first.",
+      "src": [0, 6, 1]
+    },
+    {
+      "myth": "Bleeding Madras was designed to bleed as a fashion idea.",
+      "fact": "Nair warned the importer the colours would run, but the warning never reached customers. The bleeding was a near-disaster that was turned into marketing afterwards.",
+      "src": [6, 7]
+    },
+    {
+      "myth": "The family lost every hotel to Brookfield.",
+      "fact": "The first hotel, The Leela Mumbai, was kept out of the 2019 sale and runs under a licensed Leela brand. Its future is uncertain: in June 2025 the Bombay High Court upheld the airport authority's right to evict it from the leased land.",
+      "src": [14, 8, 20]
+    }
+  ],
+  "quotes": [
+    { "text": "My mother was a poor paddy farmer. My father was a government servant with a salary of Rs9 a month. I was one of eight children. Situations were quite bad then.", "who": "C. P. Krishnan Nair, recalling his childhood in an interview, as quoted in his May 2014 obituary", "src": [0] },
+    { "text": "I agreed to supply this fabric to him but warned him that the colour would run and that the fabric must thus be washed with extreme care with cold water.", "who": "C. P. Krishnan Nair on the 1958 madras deal, in Peter Church's book Added Value", "src": [6] },
+    { "text": "I got into the hotel business when I was 64. To me, my wife, Leela has been the spirit behind the hotel and that has been the most important thing.", "who": "C. P. Krishnan Nair to The Economic Times, 2008", "src": [4] },
+    { "text": "I didn't necessarily enter this business only for profit … I wanted to put India on the world map in the hotel business. That has happened, I think.", "who": "C. P. Krishnan Nair to his biographer Pranay Gupte", "src": [5] }
+  ],
+  "lessons": [
+    { "title": "Tell the story of your flaw before others do", "detail": "When madras bled in American washing machines, Nair did not hide it. He went to the US, talked the lawyers out of suing and helped turn the running colours into the selling point. Own the weakness and explain it." },
+    { "title": "Look for the gap near you", "detail": "Nair's hotel began with a simple fact: a big airport was coming up near his home and nobody had built a good hotel there. Big ideas often sit in plain sight." },
+    { "title": "Your first business can fund your second", "detail": "About 35 years in textiles and exports gave Nair the money, contacts and taste for luxury that made the hotel possible. Skills and savings from one venture carry into the next." },
+    { "title": "Borrow for growth only if the numbers survive a bad year", "detail": "The Leela went from almost no debt to about ₹4,000 crore in about a decade. When luxury travel slowed, interest swallowed the profits. Test every loan against a slowdown." },
+    { "title": "Pride in quality needs a price check", "detail": "Nair built palaces to put India on the world map, and the Delhi hotel became the costliest per room in the country. Aim high, but make sure customers will pay for what you build." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "Hotel Online: In Memoriam, C. P. Krishnan Nair dies at 92 (syndicated newswire obituary, Mumbai, 17 May 2014)", "url": "https://www.hotel-online.com/news/c-p-krishnan-nair-founder-chairman-hotel-leelaventure-dies-at-92" },
+    { "label": "Business Standard: Captain Nair, ace hotelier who began his career at 65, May 2014", "url": "https://www.business-standard.com/article/companies/captain-nair-ace-hotelier-who-began-his-career-at-65-114051701137_1.html" },
+    { "label": "Business Standard (PTI): Hotel Leelaventure founder C P Nair passes away, May 2014", "url": "https://www.business-standard.com/amp/article/pti-stories/hotel-leelaventure-founder-c-p-nair-passes-away-114051700540_1.html" },
+    { "label": "Gulf Times: Leela hotels founder Capt Nair dies at 92, May 2014", "url": "https://gulf-times.com/story/392440/Leela-hotels-founder-Capt-Nair-dies-at-92" },
+    { "label": "The Economic Times: Tête-à-tête with Captain C P Krishnan Nair, Nov 2008", "url": "https://economictimes.indiatimes.com/articleshow/3748678.cms" },
+    { "label": "Mint: An appreciation: Capt. C. P. Krishnan Nair, by biographer Pranay Gupte, May 2014", "url": "https://www.livemint.com/Specials/TSpcCkhWm2bDsGmpJJcBOJ/An-appreciation-Capt-C-P-Krishnan-Nair.html" },
+    { "label": "Business Standard: Up close and personal (excerpt of Peter Church, Added Value, with Nair's own account of Bleeding Madras), Apr 2010", "url": "https://www.business-standard.com/article/beyond-business/up-close-and-personal-110041700023_1.html" },
+    { "label": "CNN (syndicated via ABC17 News): How a humble Indian fabric became a symbol of luxury in 1960s America", "url": "https://abc17news.com/?p=1331350" },
+    { "label": "SEBI: Schloss Bangalore Limited Red Herring Prospectus, May 2025", "url": "https://www.sebi.gov.in/filings/public-issues/may-2025/schloss-bangalore-limited-rhp_94063.html" },
+    { "label": "The Week: All you need to know about the IPO of Schloss Bangalore, owner of The Leela, May 2025", "url": "https://www.theweek.in/news/biz-tech/2025/05/21/all-you-need-to-know-about-the-upcoming-ipo-of-schloss-bangalore-owner-of-the-leela-hotels.html" },
+    { "label": "Business Standard: Leela Hotels IPO, Schloss Bangalore shares list at 6% discount, Jun 2025", "url": "https://www.business-standard.com/markets/news/leela-hotels-ipo-schloss-bangalore-shares-list-at-6-discount-on-nse-125060200222_1.html" },
+    { "label": "Business Standard: Leela weighs options to ease debt load, Oct 2014", "url": "https://www.business-standard.com/article/companies/leela-weighs-options-to-ease-debt-load-114103001531_1.html" },
+    { "label": "Gulf Times (Mint): SBI-led group sells Hotel Leela loans, Jul 2014", "url": "https://www.gulf-times.com/story/399259/sbi-led-group-sells-hotel-leela-loans" },
+    { "label": "Business Standard: Hotel Leelaventure may have to grapple with liability overhang, Apr 2019", "url": "https://www.business-standard.com/article/companies/hotel-leelaventure-may-have-to-grapple-with-liability-overhang-119042401367_1.html" },
+    { "label": "Business Today: Brookfield checks in at Hotel Leelaventure, Oct 2019", "url": "https://businesstoday.in/current/economy-politics/brookfield-checks-in-at-hotel-leelaventure-industry-experts-cheer/story/386389.html" },
+    { "label": "Onmanorama: Leela Krishnan Nair passes away, May 2021", "url": "https://onmanorama.com/news/india/2021/05/16/leela-krishnan-nair-wife-captain-krishnan-nair-dies.html" },
+    { "label": "Business Standard: Leela group founder Capt Nair passes away, May 2014", "url": "https://business-standard.com/amp/article/companies/leela-group-founder-capt-nair-passes-away-114051700534_1.html" },
+    { "label": "Ivy Style: Spin Cycle, how Bleeding Madras washed vice into virtue, 2013", "url": "https://www.ivy-style.com/spin-cycle-how-bleeding-madras-washed-vice-into-virtue.html" },
+    { "label": "Leela Palaces Hotels & Resorts (formerly Schloss Bangalore): Q4 & FY26 earnings presentation filed with NSE, 28 Apr 2026 (PDF)", "url": "https://nsearchives.nseindia.com/corporate/THELEELA_28042026134638_InvestorPresentationNSE.pdf" },
+    { "label": "NewsDrum (PTI): Schloss Bangalore gets MCA approval to change name to Leela Palaces Hotels and Resorts, 23 Sep 2025", "url": "https://www.newsdrum.in/business/schloss-bangalore-gets-mca-approval-for-changing-name-to-leela-palaces-hotels-and-resorts-10495288" },
+    { "label": "Free Press Journal: Bombay HC upholds AAI's right to evict Leela Mumbai from airport land, Jun 2025", "url": "https://www.freepressjournal.in/mumbai/bombay-hc-upholds-aais-right-to-evict-leela-mumbai-from-airport-land-rejects-arbitration-plea" }
+  ],
+  "factCheck": {
+    "method": "Researched from 18 sources; then independently re-checked claim by claim against the cited source plus a second source, adding 3 more (the company's FY26 results filing, the 2025 name change and the 2025 Bombay High Court ruling on the Mumbai hotel's land). The 2025 SEBI prospectus is the primary record for hotel opening dates; quotes were matched word for word to the 2014 obituary text, The Economic Times (2008), Business Standard's excerpt of Peter Church's book and Pranay Gupte's Mint appreciation; photos checked through the Commons API. Childhood details rest on Nair's own interviews and are cited to them. No free-licensed photo of Captain Nair exists on Commons (the two files there claim 'own work' in 2020, after his death), so there is no portrait.",
+    "disputed": [
+      { "claim": "Year the first hotel opened", "note": "The SEBI prospectus says The Leela Mumbai began operating in November 1986. Mint, Business Standard and Gulf Times obituaries say 1987. We use 1986." },
+      { "claim": "His age when he entered hotels", "note": "He told The Economic Times 64. Business Standard, Gulf Times and his biographer say 65; the same Business Standard piece also says 67." },
+      { "claim": "When Hotel Leelaventure was set up", "note": "PTI says 1981, Mint says 1983 and Gulf Times says the group was founded in 1985." },
+      { "claim": "Leela Lace dates and name", "note": "Business Standard says he founded Leela Lace in 1951; Mint says he set up a lace unit in Mumbai in 1958; his biographer calls the firm Leela Scottish Lace." },
+      { "claim": "Who coined 'Guaranteed to bleed'", "note": "Nair's own account credits a lawyer-arranged Seventeen magazine spread (seven pages). CNN, citing Bachi Karkaria's biography, credits ad man David Ogilvy and says eight pages. Readers on Ivy Style note madras was sold in the US before 1958." },
+      { "claim": "Freedom-fighter and INA claims", "note": "Business Standard says he joined Subhas Chandra Bose's INA and his biographer calls him an aide of Netaji at 14, yet he also joined the Indian Army in 1942. We could not verify these claims independently, so we leave them out of the story." },
+      { "claim": "Size of the debt", "note": "Figures differ by date and measure: about ₹4,000 crore (biographer), ₹4,130 crore of restructured debt (Business Standard), about ₹5,000 crore in total (Mint, Jul 2014), ₹3,781 crore at March 2018." },
+      { "claim": "Future of The Leela Mumbai", "note": "The hotel sits partly on Airports Authority of India land leased in 1983 and 1996; the leases ended in 2012 and March 2024. In June 2025 the Bombay High Court upheld AAI's right to evict HLV Ltd and let the eviction proceedings continue. The 2025 prospectus lists the hotel as operating under a Leela franchise; we found no report of an eviction by October 2026." },
+      { "claim": "Father's name", "note": "His biographer, Pranay Gupte, gives Appu Nair; Business Standard's 2014 obituary spells it Appa Nair." },
+      { "claim": "Captain Nair's death year", "note": "One Onmanorama report (2021) says he died in 2017. All 2014 obituaries confirm 17 May 2014." }
+    ]
+  }
+}

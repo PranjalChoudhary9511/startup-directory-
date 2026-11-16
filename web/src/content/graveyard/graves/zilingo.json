@@ -1,0 +1,379 @@
+{
+  "slug": "zilingo",
+  "name": "Zilingo",
+  "region": "global",
+  "country": "Singapore",
+  "city": "Singapore",
+  "sector": "Fashion e-commerce / B2B supply chain",
+  "founded": 2015,
+  "died": 2023,
+  "status": "insolvent",
+  "brandColor": "#e8336f",
+  "founders": [
+    {
+      "name": "Ankiti Bose",
+      "role": "Co-founder and CEO (fired May 2022)"
+    },
+    {
+      "name": "Dhruv Kapoor",
+      "role": "Co-founder and CTO"
+    }
+  ],
+  "epitaph": "Almost a unicorn. Then a whistle blew.",
+  "oneLiner": "Started as an online fashion marketplace for small Asian sellers, then sold software, sourcing and loans to fashion factories and merchants.",
+  "causeOfDeath": "Whistleblower complaints about finances led to the CEO's suspension and firing in 2022; lenders recalled loans and the company was liquidated.",
+  "raisedUsdM": 308,
+  "peakValuationUsdM": 970,
+  "endValueUsdM": null,
+  "moneyNote": "$308M total raised per TechCrunch (2019); $970M valuation at the 2019 Series D per Fortune. Tech assets were sold to Buyogo in 2023 for an undisclosed sum.",
+  "moneySrc": [
+    1,
+    2,
+    0
+  ],
+  "inOneMinute": [
+    "Ankiti Bose co-founded Zilingo in 2015. By 2019 it had raised **$308 million** from Sequoia, Temasek and others, at a **$970 million** valuation.",
+    "In March 2022 whistleblowers flagged payments she approved. She was suspended, and fired **'with cause'** in May after a Kroll investigation whose findings were never made public.",
+    "Lenders recalled loans and Zilingo was liquidated in 2023. **Bose denies all wrongdoing** and has since filed complaints against her co-founder; no court has ruled on the claims."
+  ],
+  "killerLine": "Your board can only trust you if **every rupee and every revenue number has a paper trail**.",
+  "numbers": [
+    {
+      "value": "$970M",
+      "label": "valuation at its 2019 Series D",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$308M",
+      "label": "total raised by 2019",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "51 days",
+      "label": "CEO suspended before being fired 'with cause' (2022)",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "~$9M+",
+      "label": "payments to one law firm and linked entities that whistleblowers questioned (alleged; Bose disputes)",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: putting small sellers online",
+      "body": "Ankiti Bose, who grew up in India, noticed that many small fashion shops in Bangkok had **no online presence**. In 2015 she and Dhruv Kapoor started Zilingo in Singapore as a marketplace for these sellers. Then they moved deeper into the supply chain: software for inventory and sales, sourcing, financing and trend-spotting tools for merchants and factories. Kapoor said fashion's supply chain was \"marred by outdated tech\". By September 2019, about 80% of revenue came from this B2B (business-to-business) side. Bose became one of the most celebrated young women founders in Asia.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise: a rounding error from $1 billion",
+      "body": "Money came fast. Sequoia India backed the seed round. An $8 million Series A in 2016, $18 million in 2017 and $54 million in 2018 followed. In February 2019 Zilingo raised **$226 million** from Sequoia India, Temasek, Burda, Sofina and Singapore's EDBI, taking total funding to $308 million at a valuation of about **$970 million**. Bose told TechCrunch revenue had grown 4X in a year but declined to share raw figures, and the company was not yet profitable. Then came COVID. In 2020 Zilingo closed its US and Australia offices and cut staff, and its CFO resigned.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The cracks: the whistleblowers",
+      "body": "On 30 March 2022 whistleblowers told the board about payments approved by Bose to companies that, they said, had no clear link to Zilingo's business. The next day she was **suspended**. Investors hired the forensic firm Kroll. According to Inc42's sources — and these remain **allegations** — about $9 million had gone to a legal firm and related entities, and shareholders had been sent three different revenue figures for one year. Bose denied wrongdoing, saying payments \"were processed by the finance team\" and that she had \"done absolutely nothing wrong\". She said she was suspended on an anonymous complaint and later told she was fired for \"insubordination\".",
+      "src": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The fall: a public fight, then liquidation",
+      "body": "On 20 May 2022 Zilingo said it had **terminated Bose \"with cause\"**. Kroll's findings were never made public. The fight played out in the press. Lenders recalled their loans, and investor Temasek publicly worried the dispute was hurting the company. In June 2022 Bose and Kapoor surprisingly offered to buy the company back; it did not happen. In January 2023 Zilingo's tech assets were sold to Buyogo, and in February 2023 the company **entered liquidation**, with reports that little was left to recover. In 2024 Bose filed a police complaint and a defamation suit in India against Kapoor and ex-COO Aadi Vaidya. These too are allegations.",
+      "src": [
+        0,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Ankiti Bose and Dhruv Kapoor found Zilingo in Singapore.",
+      "kind": "start",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Sep 2016",
+      "event": "Raises $8 million Series A.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2019",
+      "event": "$226 million Series D at about $970 million valuation; total funding $308 million.",
+      "kind": "peak",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2020",
+      "event": "Closes US and Australia offices, lays off staff; CFO resigns.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "30–31 Mar 2022",
+      "event": "Whistleblowers flag payments; Bose suspended as CEO.",
+      "kind": "crisis",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "4 May 2022",
+      "event": "Kroll questions Bose for about 10 hours, per Inc42.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "20 May 2022",
+      "event": "Zilingo fires Bose 'with cause'; lenders recall loans.",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jun 2022",
+      "event": "Bose and Kapoor propose a management buyout; it does not go ahead.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan–Feb 2023",
+      "event": "Tech assets sold to Buyogo; Zilingo enters liquidation.",
+      "kind": "end",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Apr–May 2024",
+      "event": "Bose files a police complaint and defamation suit in India against Kapoor and ex-COO Vaidya.",
+      "kind": "after",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Sep 2016",
+      "round": "Series A",
+      "amountUsdM": 8,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2017",
+      "round": "Series B",
+      "amountUsdM": 18,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2018",
+      "round": "Series C",
+      "amountUsdM": 54,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2019",
+      "round": "Series D",
+      "amountUsdM": 226,
+      "valuationUsdM": 970,
+      "investors": [
+        "Sequoia India",
+        "Temasek",
+        "Burda",
+        "Sofina",
+        "EDBI"
+      ],
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "governance",
+      "weight": 50
+    },
+    {
+      "key": "funding-dried",
+      "weight": 20
+    },
+    {
+      "key": "team",
+      "weight": 15
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Weak controls over money going out",
+      "explain": "Whatever the final truth, the trigger was **large payments the board couldn't explain** — over $9 million to one law firm and linked entities, per Inc42's sources. Bose says the finance team processed them. Either way, big payments without a clear, documented approval trail are exactly what destroys trust.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Numbers that didn't agree with each other",
+      "explain": "Inc42's sources say shareholders received **three different revenue figures for one year**, and other books showed much less. This is alleged, not proven. But a company whose own reports don't match gives investors every reason to panic. Investors forgive misses; they do not forgive numbers that change depending on who is asking.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Fighting in public",
+      "explain": "The founder, co-founder and investors traded accusations through the press. Lenders recalled loans and Temasek warned the dispute was **damaging the company**. A business can survive an investigation; it rarely survives a public civil war. Disputes between founders and investors are best settled privately and quickly, for the sake of staff and customers.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Too dependent on fresh money",
+      "explain": "Zilingo was still loss-making years after raising $308 million. When the crisis hit, **lenders pulled out** and no new investor stepped in. Without its own profits, the company had no cushion. Startups that rely on lenders and new rounds have no room for a scandal, whatever its final outcome.",
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are large payments to vendors or advisers approved by one person without a second sign-off?",
+    "Do different reports (board deck, MIS, audited accounts) show different revenue for the same period?",
+    "Has any senior person's pay risen sharply without written board approval?",
+    "Are co-founders or board members airing disagreements through the media?",
+    "Would losing one lender or investor leave you unable to pay salaries?"
+  ],
+  "lessons": [
+    {
+      "title": "Two signatures on big payments",
+      "detail": "Set a rule early: any payment above a set amount needs two people to approve it, and every vendor needs a written contract. It protects the company — and it protects you, the founder."
+    },
+    {
+      "title": "One version of the truth",
+      "detail": "Revenue in your pitch deck, board report and audited accounts must match, or the differences must be explained in writing. 'Different definitions' is where trouble hides."
+    },
+    {
+      "title": "Settle fights privately and fast",
+      "detail": "If you clash with co-founders or investors, use lawyers and mediators, not journalists. The company and its staff pay the price for public wars."
+    },
+    {
+      "title": "As an employee, use the whistleblower channel",
+      "detail": "Zilingo's crisis started with staff reporting payments that worried them. If you see something off, report it in writing through proper channels."
+    },
+    {
+      "title": "As an investor, check controls, not just growth",
+      "detail": "Ask who approves payments, how revenue is recognised and when the last audit was. A near-unicorn with weak controls is a risk, not a trophy."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "Zilingo entered liquidation in February 2023 after its tech assets were sold to Buyogo. Kroll's report was never published. As of our latest sources, no court or regulator has made findings against Bose; she denies all wrongdoing. Investor Burda was reported in 2023 to be weighing legal action against her. In 2024 Bose filed a police complaint in India accusing Kapoor and ex-COO Aadi Vaidya of cheating, criminal intimidation and harassment, plus a defamation suit in the Bombay High Court; no responses from them were reported in sources we read, and the cases were ongoing.",
+    "src": [
+      0,
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Zilingo (citing Bloomberg, Forbes, TechCrunch, Inc42, Livemint, Economic Times)",
+      "url": "https://en.wikipedia.org/wiki/Zilingo"
+    },
+    {
+      "label": "TechCrunch: Zilingo raises $226M (Feb 2019)",
+      "url": "https://techcrunch.com/2019/02/11/zilingo-raises-226m/"
+    },
+    {
+      "label": "Fortune/Bloomberg: Zilingo fires CEO Ankiti Bose after 51-day suspension (May 2022)",
+      "url": "https://fortune.com/2022/05/20/zilingo-fires-ceo-ankiti-bose-after-51-day-suspension-insubordination/"
+    },
+    {
+      "label": "Inc42: Inside Zilingo's multimillion-dollar catastrophe (Apr 2023)",
+      "url": "https://inc42.com/features/zilingo-ankiti-bose-multimillion-dollar-catastrophe/"
+    },
+    {
+      "label": "Business Today: Ankiti Bose files fresh lawsuit against Dhruv Kapoor, Aadi Vaidya (May 2024)",
+      "url": "https://www.businesstoday.in/technology/news/story/zilingos-ex-ceo-ankiti-bose-files-fresh-lawsuit-against-dhruv-kapoor-aadi-vaidya-for-alleged-defamation-428241-2024-05-03"
+    },
+    {
+      "label": "Inc42: Zilingo's nCinga tech assets acquired by Buyogo (Jan 2023)",
+      "url": "https://inc42.com/buzz/zilingo-ncinga-tech-assets-german-ecommerce-enabler-buyogo-ag/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Bose approved questionable payments and inflated revenue.",
+        "note": "Allegations from whistleblowers and Inc42's anonymous sources; Kroll's findings were never published. Bose denies wrongdoing, says payments were processed by the finance team and that she was fired for 'insubordination' after an anonymous complaint."
+      },
+      {
+        "claim": "Bose's salary rose more than 10X without board approval.",
+        "note": "Reported by Inc42's sources; Bose's side says there was 'no 10X growth' and she was on a 30% pay cut."
+      },
+      {
+        "claim": "Kapoor and Vaidya harassed and defrauded Bose.",
+        "note": "Allegations in Bose's 2024 police complaint and lawsuit in India; no findings or responses reported in sources we read."
+      },
+      {
+        "claim": "Zilingo's peak valuation.",
+        "note": "Fortune/Bloomberg cite $970 million; TechCrunch said it was 'a rounding error' from $1 billion."
+      }
+    ]
+  }
+}

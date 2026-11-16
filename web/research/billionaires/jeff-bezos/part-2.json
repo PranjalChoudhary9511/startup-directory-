@@ -1,0 +1,2465 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "Every venture, win or lose",
+      "title": "Every Company He Ever Started",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most biographies give you two names: Amazon and Blue Origin. The real list is longer and much funnier. It starts with a summer camp that signed up six children. It runs through a news service that a bank killed before it began. It includes a phone that sold so badly it was cut to 99 cents, and a health-care company built with Warren Buffett that closed within about three years.",
+          "src": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Read this chapter as a scorecard. Each entry shows the idea, the choice behind it, where the first money came from, what happened and what to copy. __Count the failures as you go, because the wins only make sense next to them.__",
+          "src": []
+        },
+        {
+          "t": "note",
+          "text": "Twenty-odd ventures. Count how many you had already heard of."
+        },
+        {
+          "t": "h",
+          "text": "Before Amazon"
+        },
+        {
+          "t": "venture",
+          "name": "The DREAM Institute",
+          "years": "High-school summer (early 1980s)",
+          "outcome": "shut",
+          "idea": "A 10-day summer camp for younger children, meant to make them think and read widely. The required reading included Dune, The Lord of the Rings, Gulliver's Travels and Stranger in a Strange Land.",
+          "decision": "He had spent a teenage summer working at McDonald's and disliked it. The next summer, instead of finding another job, he and his girlfriend created their own product.",
+          "howStarted": "Two teenagers, a reading list and a price. Six children signed up.",
+          "funding": "No investors. Parents paid $600 per child. Six children at $600 is $3,600 at most, by our arithmetic.",
+          "whatHappened": "It was a tiny one-off, and we found no record of it continuing. Then he left for Princeton. Its real value is what it shows: a teenager who would rather charge for an idea than wait for a wage.",
+          "lesson": "Charge real money for your first idea, even if only six people pay. A price tells you more than a compliment.",
+          "src": [
+            0,
+            4
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Worldwatch, the news service with Halsey Minor",
+          "years": "About 1990",
+          "outcome": "failed",
+          "idea": "Take several news feeds, sort them by topic and send each banker only the stories that matched their work. Think of a personal news feed, delivered by fax or email, long before most people had a feed at all.",
+          "decision": "Bezos was so taken with it that he nearly quit his job at Bankers Trust. Minor had worked at Merrill Lynch, and the pitch to the bank was simple: bankers would value a filter.",
+          "howStarted": "Two young men in New York and a partnership, with Merrill Lynch as the planned first customer and backer.",
+          "funding": "Merrill was going to put up $750,000, Minor recalled. Forbes reported in 1998 that the bank first approved the project and then pulled the plug. Merrill had lost money in 1990.",
+          "whatHappened": "They tried to work out how to raise the money elsewhere. On a phone call, they agreed they could not, and went their separate ways. Minor, crushed, later founded CNET. By 1998 his stake in it was valued at $184 million. Bezos moved on, and four years later he was driving to Seattle.",
+          "lesson": "Do not build a startup on one backer's promise. And keep your failures in perspective: both men recovered very well from this one.",
+          "src": [
+            1,
+            5,
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The engine"
+        },
+        {
+          "t": "p",
+          "text": "Everything else in this chapter depends on the next entry. Amazon's shares pay for the rockets, and his Amazon wealth bought the newspaper. Amazon's cash paid for most of the other experiments. So we give it the longest entry, and later chapters tell its story scene by scene.",
+          "src": [
+            6,
+            7
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Amazon.com",
+          "years": "1994 to today",
+          "outcome": "public",
+          "idea": "An online bookstore with millions of titles, something no physical shop could hold. The internet was growing fast, and he reckoned a store with unlimited shelves could only exist there.",
+          "decision": "He made the call, he says, with his heart more than his head, because he expected to regret not trying more than he would regret failing. He avoided Silicon Valley partly because of the sales tax he would have had to charge California shoppers. He then chose Kleiner Perkins over General Atlantic for his venture money.",
+          "howStarted": "A garage at a rented three-bedroom house in Bellevue, near Seattle, with desks made from Home Depot doors. Shel Kaphan, the first employee, built the site. It opened on ==16 July 1995== and took $12,000 in orders in its first week. By the end of the first month it had sold to all 50 US states and 45 countries.",
+          "funding": "$10,000 of his own for 10.2 million shares, plus $84,000 in interest-free loans he made to the company. Then $245,573 from his parents, about $1 million from around 20 angels, $8 million from Kleiner Perkins and $54 million from the 1997 stock market listing.",
+          "whatHappened": "Sales went from $511,000 in 1995 to $15.7 million in 1996, and to ==$716.9 billion== in 2025, with $80 billion in operating profit. It came close to a cash crisis around 2000 and 2001, as the near-death chapter shows. Bezos stepped down as CEO in July 2021 and is now executive chair. Andy Jassy runs it.",
+          "lesson": "Pick a narrow first product inside a market that is growing wildly. Books were the door. The everything store came later.",
+          "src": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "t": "note",
+          "text": "$10,000 in 1994. $716.9 billion in sales in 2025. Same company."
+        },
+        {
+          "t": "h",
+          "text": "The first big failures"
+        },
+        {
+          "t": "venture",
+          "name": "Amazon Auctions and zShops, later Marketplace",
+          "years": "1999 to today",
+          "outcome": "pivoted",
+          "idea": "Let other people sell through Amazon. Auctions copied eBay. zShops let small shops sell at fixed prices. Marketplace put outside sellers on the same page as Amazon's own stock.",
+          "decision": "eBay was the threat. Fortune noted that Amazon launched auctions two days after eBay announced a share sale. The bigger choice came later. Amazon decided to let rival sellers compete directly beside its own products, even when that took a sale from itself.",
+          "howStarted": "Auctions launched in March 1999 and zShops that autumn.",
+          "funding": "Amazon's own cash and borrowings. No separate investors.",
+          "whatHappened": "By Bezos's own telling, almost nobody came to Auctions and zShops did little better. The third attempt worked. In 2017 outside sellers passed half of all items sold. By the third quarter of 2026 they were ==61 percent== of units, and seller services brought in $172.2 billion in 2025.",
+          "lesson": "A failed product may be the right idea in the wrong shape. Change the form before you throw out the idea.",
+          "src": [
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I think seven people came, if you count my parents and siblings.",
+          "who": "Jeff Bezos on Amazon Auctions, 2014 letter to shareholders",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Today this brings in over $172 billion a year. Seven people. Read that twice."
+        },
+        {
+          "t": "venture",
+          "name": "The dot-com stakes: Pets.com, Kozmo, drugstore.com, HomeGrocer, living.com and more",
+          "years": "1998 to 2001",
+          "outcome": "failed",
+          "idea": "Buy big pieces of other online shops. Amazon would get a share of each new category without building it, and those shops would pay Amazon to promote them.",
+          "decision": "Amazon believed the internet was a land rush: grab ground now, make it pay later. In 1999 Fortune counted 46 percent of Drugstore.com, 35 percent of HomeGrocer, 54 percent of Pets.com and 49 percent of Gear.com. Amazon announced a major move about every six weeks that year.",
+          "howStarted": "Bezos and his team made these investments in rapid succession during the boom. Partners also agreed to pay fees, such as $105 million over three years from drugstore.com and $145 million over five years from living.com.",
+          "funding": "Amazon's stock and the billions it had borrowed. About $57.8 million went into Pets.com, $62.5 million into HomeGrocer and $60 million for 32 percent of Kozmo.",
+          "whatHappened": "The bust wiped most of it out. Pets.com closed in November 2000, sacking about 255 of its 320 staff, with $147 million in cumulative losses. Living.com went bankrupt and Kozmo shut in 2001. Amazon recorded $305 million in investment losses in 2000. It kept selling the Pets.com sock puppet at $19.99 even after the company had folded, 100 times the price of a Pets.com share.",
+          "lesson": "Owning part of a business does not fix its economics. Check whether each order makes money before you buy in.",
+          "src": [
+            18,
+            21,
+            22,
+            23,
+            24,
+            20,
+            25
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Amazon's most consequential small deal of 1998 had an Indian team behind it. Junglee was started in 1996 by Rakesh Mathur and Stanford PhD students, including Anand Rajaraman, Venky Harinarayan and Ashish Gupta. Four of its five founders were of Indian origin. Its software compared prices across websites. Amazon paid about 1.6 million shares. Then Ram Shriram, who was with Junglee at the sale, took Bezos to meet two students named Larry Page and Sergey Brin.",
+          "src": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Personal investing and Bezos Expeditions",
+          "years": "1998 to today",
+          "outcome": "running",
+          "idea": "Put his own money into young companies and science projects, separate from Amazon. Bezos Expeditions is the name of the vehicle he uses.",
+          "decision": "The first famous cheque went to Google in 1998. Asked why, he told author Ken Auletta that he simply fell in love with the two founders. His official list of holdings now includes many AI and robotics firms.",
+          "howStarted": "A meeting in a Menlo Park garage in 1998, arranged by Shriram. Bezos was one of only a few early angels.",
+          "funding": "His own money. The Google cheque was reported at $250,000, at four cents a share by Auletta's account.",
+          "whatHappened": "That cheque became about 3.3 million Google shares at the 2004 IPO. An Amazon spokesman declined to say what he did with them. The official site now lists Airbnb, Uber, Twitter, Workday, Stack Overflow, Remitly, Perplexity, Figure and Physical Intelligence among others. He also backed Cambrian Ventures, the fund of Junglee's Rajaraman and Harinarayan.",
+          "lesson": "Your first success opens doors you did not know about. Stay close to the smart people you meet on the way, because the next deal usually comes through them.",
+          "src": [
+            31,
+            32,
+            33,
+            28
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The rocket"
+        },
+        {
+          "t": "venture",
+          "name": "Blue Origin",
+          "years": "2000 to today",
+          "outcome": "running",
+          "idea": "Make getting to space far cheaper by reusing rockets, so that one day heavy industry can move off Earth. He says the point is to protect the planet, and he has wanted this since high school.",
+          "decision": "In 1999 he and novelist Neal Stephenson saw the rocket film October Sky and went for coffee. Bezos said he had long wanted a space company, and Stephenson asked why he did not start one that day. The team first explored alternatives to chemical rockets, then decided that conventional rockets, reused, were the right road.",
+          "howStarted": "Blue Operations LLC, in a former envelope factory in south Seattle. Stephenson says he was the only employee for a little while. Early members included inventor Danny Hillis, science historian George Dyson and Amazon's general counsel. Workers would tell neighbours only that they did scientific research.",
+          "funding": "Bezos alone for 26 years, with small NASA awards of $3.7 million and $22 million along the way. In 2017 he said he was selling about $1 billion of Amazon stock a year to pay for it. The Wall Street Journal, cited by CNBC, puts the total near ==$30 billion==.",
+          "whatHappened": "First test hop in November 2006, reaching 285 feet. A vehicle lost in August 2011. First rocket to land after reaching space in November 2015. Bezos flew in July 2021. New Glenn reached orbit in January 2025. In May 2026 a rocket blew up on the pad during a test, and SpaceNews says the rebuilt pad should be ready by the first half of December. That autumn, outside investors came in for the first time at a reported $140 billion.",
+          "lesson": "A very long project needs a money machine behind it. He built the machine first, then fed the dream from it.",
+          "src": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            6,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bets made with Amazon's money"
+        },
+        {
+          "t": "venture",
+          "name": "Amazon Prime",
+          "years": "2005 to today",
+          "outcome": "running",
+          "idea": "Pay once a year and get free two-day delivery on everything. All you can eat, for shipping.",
+          "decision": "Engineer Charlie Ward first raised the idea of a yearly fee. Bezos added speed to it. The team weighed $49 and $99 before he settled on $79, big enough to matter but small enough to try. Some senior people pushed back hard and told the team it should not let him do this.",
+          "howStarted": "A small secret team, code-named Futurama, built it in about six weeks over the 2004 holidays.",
+          "funding": "Amazon's own cash flow. Bezos told customers it would be expensive for Amazon in the short term.",
+          "whatHappened": "Launched on 2 February 2005. Tens of thousands signed up in the first month. The price rose to $99 in 2014. Video streaming was added later as a free extra. Subscription services, which include Prime fees, brought in $49.6 billion in 2025.",
+          "lesson": "Sell the habit, not the product. Once someone has paid up front, they stop comparing prices elsewhere.",
+          "src": [
+            47,
+            48,
+            49,
+            50,
+            19
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Amazon Web Services",
+          "years": "2006 to today",
+          "outcome": "running",
+          "idea": "Rent out computing power and storage over the internet, by the hour, so that anyone could run software without buying servers.",
+          "decision": "At a 2003 executive offsite at Bezos's home, his team asked what Amazon was truly good at. Running reliable, cheap data centres came out of that exercise. Fortune calls the decision to sell this to outsiders the turning point, one that could easily have gone the other way.",
+          "howStarted": "Andy Jassy wrote the plan, which reportedly went through 31 drafts. Chris Pinkham, who wanted to go home to South Africa, set up a team in Cape Town that built the computing service. By late 2004 a small office of about 14 people was working on it.",
+          "funding": "Amazon's own cash. There was no outside round and no separate company.",
+          "whatHappened": "Storage launched in March 2006 and computing that August. Amazon hid the numbers until 2015. In 2025 AWS earned $128.7 billion in sales and $45.6 billion in operating profit. By the third quarter of 2026 it made ==63 percent== of Amazon's operating profit on about 23 percent of its sales.",
+          "lesson": "List what you had to get good at to survive. One of those painful skills may be a bigger business than the one you are in.",
+          "src": [
+            51,
+            52,
+            53,
+            54,
+            14,
+            55,
+            19
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Kindle and Lab126",
+          "years": "2004 to today",
+          "outcome": "running",
+          "idea": "A reading device with a built-in wireless link that could fetch a book in under a minute, so Amazon would own digital books before Apple or Google could.",
+          "decision": "In 2004 Bezos took Steve Kessel off the job of running books, which Kessel thought was the best job in the world, and told him to act as if his goal was to put everyone selling physical books out of work. Bezos insisted one person could not run both the old and the new business.",
+          "howStarted": "A secret hardware lab called Lab126 in Silicon Valley, led by Palm veteran Gregg Zehr. Amazon had never built hardware. The code name, Fiona, came from a Neal Stephenson novel.",
+          "funding": "Amazon's own cash. Kessel first estimated 18 months and a small team. It took three and a half years and far more people.",
+          "whatHappened": "Launched on 19 November 2007 at $399, with 90,000 books, most new titles and bestsellers at $9.99. The first stock sold out in about five and a half hours, and Amazon ran out again the next Christmas.",
+          "lesson": "If your business will be disrupted, do it yourself first. And give the new team a boss who has no old business to protect.",
+          "src": [
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Abroad: one retreat, one fight"
+        },
+        {
+          "t": "venture",
+          "name": "Amazon China (Joyo)",
+          "years": "2004 to 2019",
+          "outcome": "shut",
+          "idea": "Enter the world's most populous market by buying a local online book and media seller.",
+          "decision": "Amazon chose to buy rather than build, paying $75 million for Joyo in 2004. Its largest shareholder at the time was Lei Jun, who later founded Xiaomi.",
+          "howStarted": "It kept the Joyo business and later rebranded it under the Amazon name.",
+          "funding": "Amazon's own cash.",
+          "whatHappened": "It held about 15 percent of the market around 2011 and 2012, and under 1 percent by 2019. Alibaba's Tmall and JD.com controlled 82 percent by then. Amazon closed its China marketplace on 18 July 2019, keeping cross-border sales, Kindle and cloud computing.",
+          "lesson": "A global brand does not beat local habits. Payment, delivery and marketing have to fit the country, or a local rival will fit it for you.",
+          "src": [
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Amazon India",
+          "years": "2012 to today",
+          "outcome": "running",
+          "idea": "After China, do not lose the last big e-commerce market. Enter India as a marketplace, with Amazon handling the warehousing and delivery for local sellers.",
+          "decision": "Indian rules barred foreign-owned online retailers from selling their own stock directly, so Amazon had to use the marketplace model. It sent Amit Agarwal, from Bezos's senior team in Seattle, to lead. It revived the old Junglee name first as a price-comparison site in February 2012.",
+          "howStarted": "Amazon.in opened in June 2013 with about 100 sellers, selling only books, films and TV shows, from a warehouse near Mumbai. Flipkart, founded by two former Amazon employees, had a six-year head start.",
+          "funding": "Amazon's cash. In July 2014, one day after Flipkart announced a $1 billion raise, Bezos announced $2 billion for India. Amazon spent it in under two years and added $3 billion in 2016.",
+          "whatHappened": "Amazon reached 100 million customers by 2018, with annual losses of up to about $1 billion, but still trailed the Flipkart group on gross sales. Walmart bought Flipkart in 2018. Bernstein estimated Amazon had invested around $6.5 billion, with India still unprofitable as of 2023.",
+          "lesson": "Money can buy you speed in a price war, but not automatically first place. Your rival can find a bigger backer too.",
+          "src": [
+            64,
+            65,
+            66,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Flipkart's founders trained at Amazon. Then they made Bezos spend billions."
+        },
+        {
+          "t": "h",
+          "text": "Bought, not built"
+        },
+        {
+          "t": "venture",
+          "name": "Zappos",
+          "years": "Bought 2009",
+          "outcome": "running",
+          "idea": "The top online shoe seller, famous for customer service and an unusual company culture.",
+          "decision": "Bezos visited in 2005 and was told no at any price, by Tony Hsieh's account. Four years later the recession had tightened credit, and Hsieh writes that his board wanted a sale and that he feared being replaced. Amazon agreed to preserve Zappos's independence and culture, and that made a deal possible.",
+          "howStarted": "Amazon came back after waiting four years. Zappos was by then doing over $1 billion in gross sales and had leaned on a $100 million credit line for stock.",
+          "funding": "About 10 million Amazon shares, plus $40 million in cash and restricted stock for staff. It was worth about $1.2 billion by closing because Amazon's stock rose.",
+          "whatHappened": "Zappos still runs as a separate brand. Hsieh's essay remains a warning about how investors can force a founder's hand when credit runs out.",
+          "lesson": "Founders: outside money gives outsiders a vote. Buyers: keep what makes the target special, and be ready to wait years.",
+          "src": [
+            70,
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Quidsi (Diapers.com)",
+          "years": "Bought 2010, shut 2017",
+          "outcome": "shut",
+          "idea": "Marc Lore and Vinit Bharara started Diapers.com in New Jersey in 2005, an online shop built around what new parents buy again and again.",
+          "decision": "Amazon slashed its own diaper prices while Quidsi was growing, which squeezed its margins and made investors shy. Brad Stone's book reports that Bezos threatened to take big losses and drive prices towards zero. Quidsi talked to Walmart, and Amazon won the bidding war.",
+          "howStarted": "Quidsi was a going business. Amazon bought it in November 2010.",
+          "funding": "$545 million from Amazon. The founders had raised money from venture investors, who grew reluctant during the price war.",
+          "whatHappened": "Amazon said it could never make the unit profitable, and closed the Quidsi sites in 2017, laying off 263 people. Lore left, built Jet.com and sold it to Walmart for $3.3 billion. The mistakes chapter covers the questions lawmakers later asked about it.",
+          "lesson": "If a giant can match your whole product, a price lead will not save you. Build something it cannot copy just by spending.",
+          "src": [
+            74,
+            73,
+            75
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The Washington Post",
+          "years": "Bought 2013",
+          "outcome": "running",
+          "idea": "Buy a famous, struggling newspaper personally, give it time and money, and help it find a national digital audience.",
+          "decision": "The Graham family had owned it for 80 years. Revenue had fallen for seven years straight, and publisher Katharine Weymouth warned of a possible $40 million loss in 2013. Bankers at Allen & Co. connected the sides, and Graham and Bezos met at the Sun Valley conference in July and quickly agreed. He told staff he could offer financial runway.",
+          "howStarted": "A $250 million cash purchase through a company of his own, not Amazon. He kept the senior editors in place.",
+          "funding": "His own money. Reuters noted that the price was about four times what comparable newspaper deals suggested.",
+          "whatHappened": "The paper had profitable years around the first Trump term. Then it lost $77 million in 2023 and about $100 million in 2024. In February 2026 it cut about a third of its staff. The mistakes chapter tells the wider story.",
+          "lesson": "Patient money still needs a working business model. Runway only helps if the plane can eventually fly.",
+          "src": [
+            7,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The phone and the voice"
+        },
+        {
+          "t": "venture",
+          "name": "Fire Phone",
+          "years": "2014 to 2015",
+          "outcome": "failed",
+          "idea": "An Amazon smartphone with a 3D-like display, face-tracking cameras and a free year of Prime.",
+          "decision": "Bezos defended it as a bold bet and said a phone would take many tries. Amazon chose an exclusive deal with one US carrier, AT&T, and launched just before Apple's new iPhones.",
+          "howStarted": "An internal devices team that grew to as many as 1,000 people, with Ian Freed a key leader.",
+          "funding": "Amazon's own money, reported at over $100 million for the team, plus the charge below.",
+          "whatHappened": "The $199 price fell to 99 cents with a two-year contract. An estimate put early sales at only 35,000. Amazon took a ==$170 million== charge in October 2014 and stopped selling it by September 2015. That same October, Amazon reported its biggest quarterly loss in 14 years.",
+          "lesson": "Do not enter a crowded market with a feature nobody asked for. But do keep the people and the code, because the next bet may need them.",
+          "src": [
+            2,
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Echo and Alexa",
+          "years": "2011 to today",
+          "outcome": "running",
+          "idea": "A speaker you talk to, with its brain in Amazon's cloud. Bezos's stated dream was the talking computer from Star Trek.",
+          "decision": "He sketched it himself on a whiteboard in early 2011. He wanted it to cost $20. He picked his technical adviser Greg Hart to lead it, even though Hart said he had no hardware experience. Bezos chose the name, after the ancient library of Alexandria.",
+          "howStarted": "A team that grew past 200 people with a budget above $50 million, per The New Yorker. Fire Phone people and lessons fed into it.",
+          "funding": "Amazon's own cash.",
+          "whatHappened": "Launched quietly on 6 November 2014 with a press release and a short video, not a big stage show. It created a whole category, and Amazon spoke of hundreds of millions of devices by 2020. It also cost a fortune: The Wall Street Journal reported tens of billions lost across the devices unit.",
+          "lesson": "A hit product can still be a poor business. Ask how it will make money before you ship a hundred million.",
+          "src": [
+            85,
+            86,
+            84,
+            87
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The graveyard"
+        },
+        {
+          "t": "p",
+          "text": "Fire Phone gets the headlines, but the small failures teach you more about how the place ran. People could pitch an idea and build it with very little second-guessing. Most of these experiments quietly died. Bloomberg listed 37 projects killed after Jassy took over in 2021, projects it described as dreamed up during the Bezos era.",
+          "src": [
+            88
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The small flops: WebPay, Wallet, Local, Local Register, Destinations, Dash, Restaurants, Halo",
+          "years": "2007 to 2023",
+          "outcome": "shut",
+          "idea": "Quick tests, each aimed at a rival's turf: PayPal and Square in payments, Groupon in local deals, Expedia in travel, the delivery apps in restaurant food. Dash was a physical button that reordered one household item. Halo was a health-tracking band.",
+          "decision": "Amazon's rule was to try, measure and move on. Bezos has argued that failure and invention are twins, and that a large company should run proportionately large experiments.",
+          "howStarted": "Small internal teams. Destinations launched in April 2015. Wallet lasted about six months. Restaurants began in 2015 and reached 20 US cities plus London.",
+          "funding": "Amazon's own budget in every case, with amounts rarely made public.",
+          "whatHappened": "WebPay closed in 2014 after seven years. Destinations stopped within six months, in October 2015. Local closed that December. Local Register ended in February 2016. Dash buttons stopped in 2019, and Restaurants closed in June 2019. Halo stopped working in August 2023, with Amazon refunding recent buyers.",
+          "lesson": "Run cheap experiments, kill them quickly, and make sure the failures are small enough that you can afford many.",
+          "src": [
+            89,
+            90,
+            17,
+            91,
+            92,
+            88,
+            93
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Whole Foods Market",
+          "years": "Bought 2017",
+          "outcome": "running",
+          "idea": "Buy a real-world, upmarket grocery chain with more than 460 stores to push into fresh food.",
+          "decision": "Activist investor Jana Partners took a stake of nearly 9 percent in April 2017 and pressed for change. Whole Foods looked for a friendly buyer. Amazon offered $41 a share, Whole Foods asked for $45, and Amazon named $42 as its best and final price.",
+          "howStarted": "CEO John Mackey and three executives flew to Seattle for what he called a blind date, arranged through mutual friends. Seven suitors circled in all, and Amazon came close to walking away.",
+          "funding": "$13.7 billion, its largest deal ever.",
+          "whatHappened": "By January 2026 Amazon reported over 40 percent sales growth and more than 550 stores, with 100-plus new stores planned.",
+          "lesson": "When you cannot build the skill fast, buy it. Then know your walk-away price, and name it out loud.",
+          "src": [
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Amazon Go and Amazon Fresh stores",
+          "years": "2016 to 2026",
+          "outcome": "shut",
+          "idea": "Shops with no checkout line. You scanned your phone, cameras and sensors watched what you took, and your account was charged when you left. Fresh stores later brought the idea to full supermarkets.",
+          "decision": "Amazon wanted a store format of its own to change physical shopping, not just to own Whole Foods.",
+          "howStarted": "A 1,800-square-foot shop in Seattle, open to staff from 5 December 2016 and to the public on 22 January 2018.",
+          "funding": "Amazon's own budget. It did not disclose the cost.",
+          "whatHappened": "In January 2026 Amazon said it had not created a distinctive experience with an economic model that could scale. It closed Go and Fresh stores within days, except in California, where they stayed open longer to meet state rules, and is converting some to Whole Foods. Fresh continues online.",
+          "lesson": "Clever technology is not a business model. If the shop does not earn its costs, shoppers' amazement will not save it.",
+          "src": [
+            101,
+            98,
+            97,
+            102,
+            100
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Haven",
+          "years": "2018 to 2021",
+          "outcome": "shut",
+          "idea": "Three giants, Amazon, Berkshire Hathaway and JPMorgan Chase, jointly tackle employee health-care costs.",
+          "decision": "The 2018 announcement was so bold that health-care shares fell. Surgeon and writer Atul Gawande was picked to lead it.",
+          "howStarted": "A nonprofit based in Boston, which had 57 staff at the end.",
+          "funding": "The three founding companies. The amount has not been disclosed.",
+          "whatHappened": "Gawande stepped back in May 2020. Each parent kept running its own projects with its own staff, which left Haven little to do. It closed at the end of February 2021. Bloomberg reported little evidence of new approaches.",
+          "lesson": "A partnership of giants needs one clear owner. If everyone also runs their own version, the joint project will die.",
+          "src": [
+            3,
+            103,
+            17
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Amazon Care",
+          "years": "2019 to 2022",
+          "outcome": "shut",
+          "idea": "App-based medical care with video visits and nurses who came to your home, first for Amazon staff in Seattle, then for other employers.",
+          "decision": "Test on your own employees first, then sell the service to other companies.",
+          "howStarted": "A pilot for Amazon staff around Seattle in 2019.",
+          "funding": "Amazon's own budget.",
+          "whatHappened": "Few businesses signed up. Amazon said it was not a complete enough offering and ended it on 31 December 2022, cutting 159 jobs, while 236 more went at the contracted clinic. About a month earlier it had agreed to buy One Medical for $3.9 billion.",
+          "lesson": "Your own employees are a captive audience. Real customers, who can say no, are the real test.",
+          "src": [
+            104,
+            105,
+            88,
+            106
+          ]
+        },
+        {
+          "t": "h",
+          "text": "His own money, his own causes"
+        },
+        {
+          "t": "venture",
+          "name": "Bezos Day One Fund and Bezos Earth Fund",
+          "years": "2018 and 2020 to today",
+          "outcome": "running",
+          "idea": "Two giving vehicles. Day One funds groups helping homeless families and runs free preschools. Earth Fund gives grants to fight climate change and protect nature.",
+          "decision": "He announced Day One in September 2018, a year after asking for ideas in public, and Earth Fund in February 2020. Each has one defined mission, and Earth Fund has a hard deadline.",
+          "howStarted": "Day One's first Bezos Academy preschool opened in Des Moines, Washington, in October 2020. Earth Fund's first $791 million in grants went to 16 groups in November 2020.",
+          "funding": "His own money: a $2 billion commitment to Day One and $10 billion to Earth Fund, to be fully given out by 2030.",
+          "whatHappened": "Forbes says Earth Fund had granted $2.4 billion as of its latest update. His giving has drawn criticism and praise, covered in the personal-life chapter.",
+          "lesson": "Give a cause a deadline and a number. A public target forces you to act.",
+          "src": [
+            107,
+            46,
+            108,
+            16,
+            109,
+            110
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The 10,000-Year Clock and the Apollo engines",
+          "years": "Clock: ongoing. Engines: 2010 to 2013",
+          "outcome": "running",
+          "idea": "Two strange projects with no profit in them. One is a giant clock meant to run for 10,000 years, designed by Danny Hillis, to make people think in long time spans. The other was to raise Apollo rocket engines from the sea floor.",
+          "decision": "Neither was meant to earn money. Hillis was an early colleague at Blue Origin, and Bezos has dreamed of space since he was five.",
+          "howStarted": "The clock is being built inside a mountain on his Texas land. For the engines, he assembled deep-sea explorers, including some who had searched for the Titanic.",
+          "funding": "His own money: a reported $42 million for the clock. The engine recovery was privately funded through Bezos Expeditions.",
+          "whatHappened": "After three weeks at sea in March 2013, his team lifted parts of two F-1 engines from more than 4 kilometres down. They stayed NASA's property, and restored parts are on show at Seattle's Museum of Flight.",
+          "lesson": "Keep something in your life that pays nothing. It is a good test of what you really care about.",
+          "src": [
+            34,
+            107,
+            111,
+            112,
+            108,
+            37
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Prometheus",
+          "years": "2025 to today",
+          "outcome": "running",
+          "idea": "AI for the physical economy: tools to speed up how engineers design and make real things. He calls the goal an artificial general engineer.",
+          "decision": "He had worked on it since late 2024, and it became the first CEO job he had taken since leaving that role at Amazon in 2021. He says it now takes the bulk of his time, and says it has nothing to do with robotics.",
+          "howStarted": "About 150 people by mid-2026 across San Francisco, London and Zurich, hired from places like OpenAI, Google DeepMind and Nvidia. His co-CEO is Vik Bajaj, who co-founded Alphabet's Verily.",
+          "funding": "$6.2 billion at launch in November 2025, with Bezos putting in capital. Then a $12 billion second round at a $41 billion valuation in June 2026. Bloomberg assumes he supplied about $5.6 billion of the first round and $2 billion of the second.",
+          "whatHappened": "Bezos says it is premature to disclose what it has achieved, though he calls the progress remarkable. Bloomberg values his stake at about $12 billion.",
+          "lesson": "Past success lets you skip the hard part of fundraising, not the hard part of building. Judge this one only when it ships.",
+          "src": [
+            15,
+            113,
+            114
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Two more long bets are still running inside Amazon. Zoox, the self-driving startup bought in 2020 for a reported $1 billion or more, now charges for robotaxi rides in Las Vegas and operates in 12 US cities. Amazon Leo, its satellite internet network, is due to begin first service later this year. Neither has yet proved it can make money.",
+          "src": [
+            115,
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Add it all up and a pattern appears. The ideas that lasted were ones where Amazon owned a hard skill, like logistics, cloud computing or a loyal customer base. __The flops were mostly attempts to enter someone else's market with nothing special to offer.__",
+          "src": []
+        },
+        {
+          "t": "note",
+          "text": "Before your next idea, ask what unfair skill you already have."
+        }
+      ]
+    },
+    {
+      "id": "the-first-money",
+      "kicker": "1994 to 1997",
+      "title": "Fifty Meetings for a Million",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The money ladder"
+        },
+        {
+          "t": "p",
+          "text": "Forget the legend for a minute and read the filing. Amazon's 1997 registration statement, the document a company must file before selling shares to the public, lists every early money move. In July 1994 Bezos bought 10.2 million shares for ==$10,000==. That is about a tenth of a cent per share.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He then lent the company $15,000, $29,000 and $40,000, with no interest, and it paid him back. He also personally guaranteed its bank merchant accounts and its company credit cards. So if Amazon failed, the bills would have come to him. He was not just the founder. In those first months he was the bank.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$10,000",
+              "label": "Bezos's own money for 10.2 million founder shares, July 1994",
+              "src": [
+                11
+              ]
+            },
+            {
+              "value": "$245,573",
+              "label": "From his parents in two purchases, Feb and July 1995",
+              "src": [
+                11,
+                116
+              ]
+            },
+            {
+              "value": "About $1M",
+              "label": "From around 20 angels, 1995 and early 1996",
+              "src": [
+                117,
+                13
+              ]
+            },
+            {
+              "value": "$8M",
+              "label": "From Kleiner Perkins, June 1996",
+              "src": [
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The family money did not arrive as one big cheque. The filing shows Miguel Bezos buying 582,528 shares in February 1995. In July, a family trust led by his mother Jacklyn bought 847,716 shares. Both paid $0.1717 a share, and the two purchases add up to $245,573. His brother and sister each bought 30,000 shares in May 1996 at $0.3333.",
+          "src": [
+            11,
+            116
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Filings beat folklore. Always read the boring document."
+        },
+        {
+          "t": "p",
+          "text": "Then he went looking for strangers, and that was brutal. Bezos told Congress that it took more than 50 meetings to raise $1 million, and that the most common question was what the internet was. Investors put in about $50,000 each for a little under 1 percent. Together they got about 20 percent of the company.",
+          "src": [
+            8,
+            117
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tom Alberg, a former McCaw Cellular executive, was one who said yes. He remembered a friend walking away because Bezos priced the company at $6 million before the new money. Bezos would not budge, and the raise dragged on through nearly all of 1995. Brad Stone's account has another backer talking him down to $5 million. The filing shows Alberg paying $0.3333 a share for 150,000 shares, which is $50,000.",
+          "src": [
+            12,
+            13,
+            118,
+            11
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 2016 Bezos worked out what those small early cheques could have become. A $50,000 stake held to that date, if never diluted, would have been worth about $3.5 billion, a return of 70,000 times. In practice, later rounds dilute early investors, meaning each share becomes a smaller slice as new shares are sold.",
+          "src": [
+            117
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The garage"
+        },
+        {
+          "t": "p",
+          "text": "The first home was a rented three-bedroom house in Bellevue, with desks built from Home Depot doors in the garage. The servers needed so much power that he and MacKenzie could not run a hair dryer or a vacuum without blowing a fuse. Early meetings were held at a local Barnes & Noble, which was the company they planned to beat.",
+          "src": [
+            9,
+            10,
+            119
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The site opened on 16 July 1995. A bell rang for every order, and staff crowded round to check it was not somebody's mother. Within days it was too annoying, so they switched it off. Orders hit $12,000 in the first week and $14,000 in the second, and by the end of the first month they had come from all 50 states and 45 countries.",
+          "src": [
+            9,
+            120,
+            10
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: one customer in Bulgaria had internet access but no credit card. He mailed cash, hidden inside a floppy disk, and explained that customs inspectors stole money but could not read English. Inside were two crisp $100 bills. Bezos told this story himself in 2010.",
+          "src": [
+            120
+          ]
+        },
+        {
+          "t": "p",
+          "text": "They had no real warehouse then. Everyone spent the second half of the day packing books on their knees on a cement floor. Bezos suggested kneepads. Someone more experienced suggested packing tables, and output rose by 20 percent. Amazon did not stock most books at first; it ordered them from distributors, and Ingram supplied 59 percent of its purchases in 1996.",
+          "src": [
+            120,
+            9,
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He thought kneepads. Someone else said tables. Listen to the floor."
+        },
+        {
+          "t": "h",
+          "text": "Two venture firms and a choice"
+        },
+        {
+          "t": "p",
+          "text": "Sales went from $511,000 in 1995 to $15.7 million in 1996. Venture capitalists, the professional investors who fund risky startups in exchange for shares, began to call. General Atlantic proposed a complicated price tied to whether and when Amazon went public. Kleiner Perkins offered a simple $60 million valuation. Bezos took the simple one.",
+          "src": [
+            11,
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The filing gives the exact deal: 569,396 preferred shares at $14.05, or ==$8 million==, signed on 21 June 1996. Preferred shares are a special class that turned into six ordinary shares each at the IPO, so Kleiner really paid about $2.34 per ordinary share. That was seven times Alberg's price from six months earlier. John Doerr joined the board.",
+          "src": [
+            11,
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Here is the detail almost nobody mentions. As part of that deal, Bezos gave Amazon the right to buy back 612,000 of his own shares at a tenth of a cent each if his job ended in certain circumstances. That right faded over 36 months. __Even the founder was put on a vesting schedule, which means earning your shares by staying.__ The filing ties it directly to the Kleiner round.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Founders: expect this clause. Read it, and do not take it personally."
+        },
+        {
+          "t": "p",
+          "text": "The money changed the mood. Staff grew from 11 to 151 during 1996, and a new slogan went on the T-shirts: Get Big Fast. Early engineer Greg Linden remembered designing for four times the current load and hitting it within months. Bezos's logic was that Barnes & Noble would come online eventually, and Amazon had to be big enough by then.",
+          "src": [
+            11,
+            121,
+            122
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He did not get rich on salary. The filing lists his pay as $64,333, with no bonus and no options. The company's total losses so far were $6 million. The risk section even admits that it depended heavily on Bezos and held no key-person life insurance, a policy that pays out if a vital leader dies.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He owned nearly half the company and paid himself $64,333."
+        },
+        {
+          "t": "h",
+          "text": "Going public"
+        },
+        {
+          "t": "p",
+          "text": "An IPO, or initial public offering, is when a private company first sells shares to anyone on a stock exchange. Amazon filed in March 1997, assuming a price of $13 a share and 2.5 million shares. By 15 May it sold 3 million shares at ==$18== and raised $54 million, at a market value of about $438 million.",
+          "src": [
+            11,
+            13,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The filing said Bezos would own about 43 percent, and his family another 10 percent, on the first draft of the deal. The bigger final deal brought his share to about 41 percent. His 9.885 million shares were worth roughly $178 million at the offer price. Kleiner's $8 million had turned into about $61.5 million on paper in 11 months.",
+          "src": [
+            11,
+            123,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The Scott Cook detail is worth noticing too. Cook, the co-founder of Intuit, and Patricia Stonesifer, a former senior Microsoft executive, each paid $100,000 for preferred shares in early 1997, joined the board and received stock options. Bezos was collecting people who had already built big things.",
+          "src": [
+            11,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Barnes & Noble, the giant of the trade, answered with lawyers. Days before the IPO it sued over the slogan Earth's Biggest Bookstore. Amazon countersued, and in October the two settled with no damages paid and no liability admitted. A barnesandnoble.com employee later told WIRED that suing Amazon just was not cool. Analysts branded the company Amazon.toast all the same.",
+          "src": [
+            124,
+            125,
+            8,
+            20
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: one $18 share from the IPO became 240 shares after four splits, in 1998, twice in 1999 and in 2022. A split cuts a share into more pieces without changing the total value. At the 30 October 2026 closing price of $240.35, that single share is worth about ==$57,684==, by our arithmetic.",
+          "src": [
+            126,
+            19
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Jul 1994",
+              "text": "Bezos buys his founder shares for $10,000 and lends the company money.",
+              "src": [
+                11
+              ]
+            },
+            {
+              "when": "Feb 1995",
+              "text": "His father buys in. His mother's trust follows in July.",
+              "src": [
+                11
+              ]
+            },
+            {
+              "when": "Jul 1995",
+              "text": "The site opens. First week: $12,000 in orders.",
+              "src": [
+                9
+              ]
+            },
+            {
+              "when": "Dec 1995",
+              "text": "Tom Alberg invests $50,000 as the angel round closes.",
+              "src": [
+                11,
+                13
+              ]
+            },
+            {
+              "when": "Jun 1996",
+              "text": "Kleiner Perkins invests $8 million. John Doerr joins the board.",
+              "src": [
+                11
+              ]
+            },
+            {
+              "when": "May 1997",
+              "text": "IPO at $18 raises $54 million.",
+              "src": [
+                13
+              ]
+            },
+            {
+              "when": "Oct 1997",
+              "text": "Barnes & Noble lawsuit settled. Neither side pays.",
+              "src": [
+                124
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "1998 to 2002",
+      "title": "One Word: Ouch",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "Borrowing billions"
+        },
+        {
+          "t": "p",
+          "text": "Once it was public, Amazon discovered that Wall Street would lend it almost anything. In 1998 CFO Joy Covey raised $326 million in junk bonds, the first such issue by an internet company, with no payments due for five years. Junk bonds are loans to risky companies at high interest. This one yielded 10 percent.",
+          "src": [
+            127
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came January 1999. Amazon asked for $500 million in convertible bonds and got ==$1.25 billion== the same day, because lenders kept offering. A convertible bond is a loan that the lender can swap for shares if the stock rises enough, in this case at about $156. So Amazon was paying 4.75 percent, and it did not even say what the money was for.",
+          "src": [
+            128,
+            127
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It spent fast. In 1998 and 1999 it put $429 million into warehouses and systems, and by late 1999 it reportedly had 70 to 80 percent more capacity than it needed. Its chief accounting officer warned Bezos that at this rate it would not be profitable for decades. In May 1999, Barron's ran a cover story calling the company Amazon.bomb.",
+          "src": [
+            118,
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Easy money is the most dangerous kind. It hides your mistakes."
+        },
+        {
+          "t": "p",
+          "text": "Then came the decision that saved the company, and Bezos did not make it alone. New CFO Warren Jenson, who arrived in September 1999, feared suppliers might demand faster payment if confidence cracked. Advised by Morgan Stanley's Ruth Porat, he went to Europe in February 2000 and sold about $672 million of convertible bonds at nearly 7 percent. It was an expensive deal.",
+          "src": [
+            118,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The Nasdaq peaked on 10 March, about a month later. Brad Stone reported that the deal could not have gone through just three weeks later, and that without that cushion Amazon would almost certainly have faced insolvency, meaning it could not pay its debts. __The best time to raise money is when you do not need it, because the door can shut without warning.__",
+          "src": [
+            118
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: here is why cash mattered so much. A customer paid Amazon for a book immediately, but Amazon paid the supplier up to about 90 days later. So growth actually pumped cash into the company. If suppliers got nervous and demanded quicker payment, that pump would run in reverse, and fast.",
+          "src": [
+            118
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The analyst who said it would die"
+        },
+        {
+          "t": "p",
+          "text": "On 22 June 2000 a young Lehman Brothers bond analyst named Ravi Suria published a report that spread everywhere. He called Amazon's credit extremely weak and deteriorating, and said it would run out of cash within four quarters unless it pulled another financing rabbit from its hat. Its 4.75 percent bonds fell from about $75 to $58 in days, and the stock dropped about 20 percent in one day.",
+          "src": [
+            129,
+            130,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bezos hit back on stage at PC Expo in New York days later. He told a crowd of nearly 1,000 that the analyst had not even called the company, and that Amazon had a billion dollars in cash. Behind the scenes, he, Jenson and treasurer Russ Grandinetti flew around reassuring suppliers. If the suppliers had panicked, the prediction could have come true by itself.",
+          "src": [
+            131,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Suria kept going. In February 2001 he warned of a creditor squeeze in the second half of the year. His numbers were real: Amazon's working capital, its short-term assets minus short-term debts, had fallen to $386 million from over $700 million. Its shareholders' equity had gone to negative $967 million. Amazon's spokesman called it a silly report and said Suria had already missed his first prediction by $1.1 billion.",
+          "src": [
+            132,
+            133,
+            130
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$116 to $6",
+              "label": "Amazon's share price, peak to trough, 1999 to 2001, as Bezos told Congress",
+              "src": [
+                8
+              ]
+            },
+            {
+              "value": "$1.41B",
+              "label": "Net loss in 2000, after $720M in 1999",
+              "src": [
+                132
+              ]
+            },
+            {
+              "value": "Nearly $3B",
+              "label": "Total losses from founding to the end of 2001",
+              "src": [
+                8
+              ]
+            },
+            {
+              "value": "1,300",
+              "label": "Jobs cut in January 2001, 15 percent of staff",
+              "src": [
+                134,
+                133
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bezos opened his letter to shareholders for 2000 with one word: Ouch. His own fortune shrank with the stock, from over $9 billion in mid-1999 to about $1.7 billion by 2003. Pundits thought Amazon was going out of business. But he also argued that the company was stronger than ever, and that a falling share price was not a failing business.",
+          "src": [
+            8,
+            135,
+            38,
+            20
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The stock fell over 90 percent. He kept shipping. Separate price from business."
+        },
+        {
+          "t": "h",
+          "text": "The cuts and the coffee"
+        },
+        {
+          "t": "p",
+          "text": "Survival needed real pain. In January 2001 Amazon cut 1,300 jobs, closed a warehouse in McDonough, Georgia, shut a Seattle customer service centre, and took a charge of over $150 million. It also stopped selling items that lost money. Bezos had resisted running to Wall Street's expectations, but the bust forced his hand.",
+          "src": [
+            134,
+            133,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It also rented out what it had built. In August 2000 it signed a 10-year deal to run the online toy store for Toysrus.com, handling the site, fulfilment and customer service. Borders followed in 2001, and Internet News reported $125 million coming in from Toys R Us after one Christmas. That excess warehouse space had started earning. In July 2001 AOL put ==$100 million== into Amazon shares.",
+          "src": [
+            136,
+            137,
+            138,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That same year Bezos had coffee with Jim Sinegal, the founder of Costco, at a Starbucks inside a Barnes & Noble. He had come to talk about buying goods wholesale. Sinegal instead explained how Costco kept prices so low that members saw the value every time they walked in. Days later, Stone reports, Bezos called a meeting on Amazon's incoherent pricing. To be fair, Bezos has never publicly credited that coffee.",
+          "src": [
+            139
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That summer Amazon cut book, music and video prices by up to 30 percent, while its cost cuts paid for it. Then, on 22 January 2002, came results that almost nobody had predicted. Sales for the last quarter of 2001 were $1.12 billion, its first billion-dollar quarter. Net profit was ==$5 million==, or one cent a share.",
+          "src": [
+            139,
+            140,
+            141,
+            142
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One cent per share. Seven years in. Celebrate your small wins."
+        },
+        {
+          "t": "p",
+          "text": "In the same announcement he introduced Super Saver Shipping, free on orders over $99, as an everyday offer and not a promotion. He had just scraped into profit, and he gave the money straight back to customers. Bezos said there were two kinds of retailer, those working to raise prices and those working to lower them, and that Amazon had chosen the second.",
+          "src": [
+            140
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So was Suria wrong? He was wrong about the outcome, and by then he had left for a hedge fund. But Commoncog's case study makes a fair point: he had correctly spotted a real weakness, and the company survived partly because of a bond sale that closed just in time. Stone called it a mix of conviction, improvisation and luck. __Never let a good outcome convince you there was no danger.__",
+          "src": [
+            130,
+            118
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Late 1998",
+              "text": "$326 million junk bond, the first from an internet company.",
+              "src": [
+                127
+              ]
+            },
+            {
+              "when": "Jan 1999",
+              "text": "$1.25 billion convertible, raised from a $500 million ask.",
+              "src": [
+                128
+              ]
+            },
+            {
+              "when": "May 1999",
+              "text": "Barron's prints Amazon.bomb.",
+              "src": [
+                8
+              ]
+            },
+            {
+              "when": "Feb 2000",
+              "text": "About $672 million raised in Europe, weeks before the crash.",
+              "src": [
+                118
+              ]
+            },
+            {
+              "when": "Jun 2000",
+              "text": "Lehman warns Amazon will run out of cash.",
+              "src": [
+                129
+              ]
+            },
+            {
+              "when": "Jan 2001",
+              "text": "1,300 jobs cut.",
+              "src": [
+                134
+              ]
+            },
+            {
+              "when": "Jul 2001",
+              "text": "AOL invests $100 million.",
+              "src": [
+                138
+              ]
+            },
+            {
+              "when": "Jan 2002",
+              "text": "First profit: $5 million. Free shipping over $99.",
+              "src": [
+                140,
+                142
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-big-bets",
+      "kicker": "2002 to 2021",
+      "title": "Spending Profits Before They Existed",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most companies that nearly die become careful. Amazon did the opposite. Within six years of its first profit, it launched a shipping club that would be expensive at first, a cloud business that outsiders called a distraction and a device that could wreck its own book sales. Here is what those decisions looked like from inside the room.",
+          "src": [
+            47,
+            8,
+            56
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The boathouse"
+        },
+        {
+          "t": "p",
+          "text": "It began with an annoyance. Engineer Charlie Ward loved 1-Click ordering, but it did not work with free shipping, and that irritated him more and more. He wondered aloud whether customers might pay a lump sum each year and never see a shipping charge again. His colleagues paused, wondering if he was crazy, so he wrote it up in half a page and used the employee suggestion box.",
+          "src": [
+            47,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Late in 2004 Bezos took it up. One Friday in December, the team cancelled a meeting with him because the site had crashed for hours. He understood, then told them to come over on Saturday morning anyway. They were sent to the boathouse at his home, which one of them remembers as bigger than his own apartment. Bezos wanted a moat around Amazon's best customers.",
+          "src": [
+            47,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He gave them four weeks. They said six was the minimum. So he moved the date of a quarterly earnings call by about two weeks to fit, which is not a thing CEOs usually do for a side project. The team printed T-shirts saying it would ship in six weeks or less, and left one behind whenever they poached an engineer from another team.",
+          "src": [
+            47
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: two-day delivery cost $9.48 an order back then, so Prime at $79 paid for itself in nine orders. Amazon weighed $49 and $99 before Bezos chose. An insider later said it was never really about the $79. It was about changing how people thought, so that they stopped shopping around.",
+          "src": [
+            47,
+            50
+          ]
+        },
+        {
+          "t": "note",
+          "text": "An engineer's half-page became a business with 100 million-plus US customers."
+        },
+        {
+          "t": "h",
+          "text": "The side project nobody understood"
+        },
+        {
+          "t": "p",
+          "text": "AWS started as a cleanup job. Around 2000, Amazon tried to run online shops for other retailers and found its code was a mess, so it split its systems into clean building blocks. Projects still took too long because every team built its own storage and computing. Then, at a 2003 offsite at Bezos's home, a 30-minute exercise on what the company was good at ran long.",
+          "src": [
+            51
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The answer surprised them. To survive on thin retail margins, they had become very good at cheap, reliable data centres. Jassy got the job of turning that into a business. By late 2004 a tiny team was in Cape Town, working thousands of miles from headquarters because its leader wanted to go home. It built the computing service almost independently of Seattle.",
+          "src": [
+            51,
+            52,
+            54
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Observers called it a risky distraction. Bezos remembered them asking what storage had to do with selling books. It launched in 2006, charging by use, so a startup with a credit card could rent what used to require millions of dollars of its own servers. Rivals took years to respond. __Amazon's great advantage was that for years nobody thought a bookshop was serious competition in computing.__",
+          "src": [
+            8,
+            51,
+            53
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then Amazon kept quiet about how well it was going. It stayed silent on the unit's numbers until 2015, when it finally reported them. Even then the quarterly operating profit of over $250 million surprised people, at about 17 percent margins, against 2 to 3 percent in retail. By then its lead was already large.",
+          "src": [
+            54
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$128.7B",
+              "label": "AWS sales in 2025",
+              "src": [
+                14
+              ]
+            },
+            {
+              "value": "$45.6B",
+              "label": "AWS operating profit in 2025, out of $80B company-wide",
+              "src": [
+                14
+              ]
+            },
+            {
+              "value": "$184B",
+              "label": "AWS annualised revenue run rate, Q3 2026",
+              "src": [
+                55
+              ]
+            },
+            {
+              "value": "39%",
+              "label": "AWS growth in Q3 2026, its fastest in nearly five years",
+              "src": [
+                55
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Kill your own business"
+        },
+        {
+          "t": "p",
+          "text": "In 2004 books were at the heart of Amazon, and Apple was showing with the iPod how fast a media business could move to a device. So Bezos reassigned Steve Kessel, the man running books, and told him his job was to destroy that business. Asked for a deadline, Bezos said he was already late, according to Brad Stone.",
+          "src": [
+            56,
+            59
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bezos then did something most leaders would not dare. He priced most e-books at $9.99 at launch, a number one case study traces to Apple's 99-cent songs, not to any margin calculation. The team tested prototypes during a weekend away with him, reading for an hour and then discussing how the device felt in the hand. Kessel told him it would take 18 months. It took three and a half years.",
+          "src": [
+            56,
+            60,
+            58
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He attacked his own best business before anyone else could."
+        },
+        {
+          "t": "h",
+          "text": "Failing at the right size"
+        },
+        {
+          "t": "p",
+          "text": "Fire Phone was the expensive embarrassment. In October 2014 Amazon took its $170 million charge, and hedge fund manager David Einhorn told investors that Amazon's story was breaking: growth was slowing, and losses were growing. It was the biggest quarterly loss in 14 years. The critics seemed to have a point.",
+          "src": [
+            83,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Freed, a key leader on the phone, might have expected to take the blame. According to The New Yorker, Bezos told him he must not lose one minute of sleep over it. Earlier, during a demo of the phone's software, Bezos had asked it for Hotel California. When the song played, he was delighted, and soon asked Freed to build a cloud computer you could talk to. Four months after the phone, Echo arrived.",
+          "src": [
+            84,
+            87
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dave Limp, who ran devices, later said that if you had listened to the skeptics you would have cancelled both products. In his 2018 letter Bezos wrote that Amazon's experiments should grow with the company, even to multibillion-dollar failures. He said Fire Phone's lessons and developers sped up Echo and Alexa. __The team that failed was kept, and that is why the next try was possible.__",
+          "src": [
+            87,
+            143
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Keep the team after a failure. They just paid for the lesson."
+        },
+        {
+          "t": "h",
+          "text": "The deals"
+        },
+        {
+          "t": "p",
+          "text": "Amazon also bought what it could not build. The shoe seller Zappos came in 2009, the warehouse robot maker Kiva in 2012 for $775 million, and the game-streaming site Twitch in 2014 at a reported $970 million. PillPack in 2018 pushed it into pharmacy. MGM, the James Bond studio, was agreed in 2021 for $8.45 billion. By then Bezos had already announced he was stepping aside as CEO.",
+          "src": [
+            99,
+            115,
+            109
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The biggest was Whole Foods. CEO John Mackey said publicly that it was love at first sight after a blind date in Seattle. The filings tell a tougher story. Amazon offered $41 a share and warned that it would walk away if word leaked or if Whole Foods shopped the deal. Whole Foods asked for $45, and Amazon said $42 was final. Whole Foods took it.",
+          "src": [
+            96,
+            94,
+            95,
+            144
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Ring began as Doorbot, a video doorbell pitched on the TV show Shark Tank in 2013. Founder Jamie Siminoff asked for $700,000, was turned down by every Shark but one, refused that offer and ended up in tears, almost out of money. Five years later Amazon bought the company at a reported $1 billion or more.",
+          "src": [
+            145,
+            146,
+            147,
+            148
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Hundreds of investors rejected Ring. Rejection is data, not a verdict."
+        },
+        {
+          "t": "h",
+          "text": "Who he beat, and who beat him"
+        },
+        {
+          "t": "p",
+          "text": "The honest scorecard is mixed. Against book chains he won clearly. He ended up running Borders' website from 2001, and Barnes & Noble's attack in court gave way to Amazon's own patent suit against it over 1-Click in 1999. He also built a cloud business years before rivals responded.",
+          "src": [
+            137,
+            125,
+            149,
+            51
+          ]
+        },
+        {
+          "t": "p",
+          "text": "But he lost phones to Apple and Samsung, and China to Alibaba and JD.com. India remains unfinished, with Flipkart still ahead on gross sales at last count. In space, SpaceX got its big NASA lander deal first in 2021, Blue Origin winning a $3.4 billion lander contract only in 2023. Walmart bought both Jet.com and Flipkart, and became a stronger rival.",
+          "src": [
+            82,
+            61,
+            68,
+            150,
+            74
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Amazon crossed a market value of ==$1 trillion== for the first time in September 2018. In February 2021, Bezos told staff he would hand the CEO job to Jassy that summer and focus on Day One, Earth Fund, Blue Origin and The Washington Post. It ended 27 years in the job, and began the next stage of his working life.",
+          "src": [
+            151,
+            109,
+            15
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Feb 2005",
+              "text": "Prime launches at $79 a year.",
+              "src": [
+                49
+              ]
+            },
+            {
+              "when": "Mar 2006",
+              "text": "AWS launches its storage service. Computing follows in August.",
+              "src": [
+                53
+              ]
+            },
+            {
+              "when": "Nov 2007",
+              "text": "Kindle launches at $399 and sells out in hours.",
+              "src": [
+                56
+              ]
+            },
+            {
+              "when": "Nov 2009",
+              "text": "Zappos deal closes at about $1.2 billion.",
+              "src": [
+                72
+              ]
+            },
+            {
+              "when": "Nov 2014",
+              "text": "Echo launches, five months after Fire Phone.",
+              "src": [
+                85,
+                87
+              ]
+            },
+            {
+              "when": "Aug 2017",
+              "text": "Whole Foods purchase, $13.7 billion, reached with a final bid of $42 a share.",
+              "src": [
+                72,
+                94
+              ]
+            },
+            {
+              "when": "Sep 2018",
+              "text": "Amazon briefly touches $1 trillion in market value.",
+              "src": [
+                151
+              ]
+            },
+            {
+              "when": "Jul 2021",
+              "text": "Bezos steps down as CEO and becomes executive chair.",
+              "src": [
+                15
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-fortune",
+      "kicker": "As of 3 November 2026",
+      "title": "Where the Billions Actually Sit",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Forbes puts Jeff Bezos at ==$361.3 billion== as of 2 November 2026, number two in the world. Bloomberg's index, updated on 1 November, says $352 billion. Both ranked him second. The gap between them comes mostly from how you value companies that have no share price. Almost none of it is money in a bank.",
+          "src": [
+            16,
+            113
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "About $211B",
+              "label": "His 879 million Amazon shares at the 30 Oct 2026 close of $240.35, our arithmetic",
+              "src": [
+                152,
+                19
+              ]
+            },
+            {
+              "value": "$123.5B",
+              "label": "Bloomberg's value for about 93% of Blue Origin, Oct 2026",
+              "src": [
+                114
+              ]
+            },
+            {
+              "value": "$12.2B",
+              "label": "Bloomberg's value for his Prometheus stake, Oct 2026",
+              "src": [
+                114,
+                113
+              ]
+            },
+            {
+              "value": "$4.7B",
+              "label": "Bloomberg's estimate of his cash, Oct 2026",
+              "src": [
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Here is how to rebuild Bloomberg's number. About 879 million Amazon shares at $240.35 gives about $211 billion. Blue Origin adds $123.5 billion, and Prometheus $12.2 billion. Cash adds $4.7 billion. The Washington Post is carried at its $250 million purchase price, and his yacht at $500 million. Add it up and you land at about $352 billion, matching Bloomberg's figure.",
+          "src": [
+            152,
+            19,
+            114,
+            113
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forbes values Blue Origin at $130 billion and uses a rounded 8 percent Amazon stake. Bloomberg uses about 8.2 percent and a $140 billion valuation with a 5 percent discount because the shares are hard to sell. Neither is wrong. __Your net worth on a private company is only somebody's estimate, until a buyer actually pays.__",
+          "src": [
+            16,
+            114,
+            113
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Nearly 40 percent of his fortune is private-company estimates. Not cash."
+        },
+        {
+          "t": "p",
+          "text": "Watch what happened this autumn. Blue Origin raised its first outside money, about $10 billion, including a reported $2 billion from Bezos himself. Switching to the new price added about $85 billion to Bloomberg's estimate of his wealth in October, with no share sold and no cash received. In a single month the index moved him to number two.",
+          "src": [
+            42,
+            114
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Amazon shares move this number too. On the Bloomberg figures, a 1 percent rise in Amazon's price adds about $2 billion to his wealth, and a 1 percent fall removes it. Bloomberg showed him losing $3.05 billion in its last daily update, without him doing anything.",
+          "src": [
+            113,
+            152,
+            19
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How the stake shrank and the money grew"
+        },
+        {
+          "t": "p",
+          "text": "At the IPO he owned about 41 percent of Amazon. He now owns about 8.2 percent. Yet that stake went from about $178 million in 1997 to about $211 billion, nearly 1,200 times as much, by our arithmetic. __A small slice of something enormous beats all of something small.__ Founders who fight over every last percent should think about that.",
+          "src": [
+            11,
+            20,
+            123,
+            113,
+            152,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The sharpest single drop came in 2019. Under the divorce settlement he transferred a quarter of the shares he and MacKenzie held together, about 19.7 million before later splits, leaving her about 4 percent, then worth about $36 billion. His stake had been about 16 percent. The terms let him keep voting control over her shares. In 2025, Amazon's filing still counted about 112 million shares that he could vote but not sell.",
+          "src": [
+            153,
+            16,
+            154
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The rest came from steady selling. Forbes found he sold shares every year from 1998 except 2005, 2006, 2007 and 2011. He sold just under $46 million in 1998, $21 million in 1999 and $29 million in 2000. By mid-2021 he had sold nearly $27 billion in total.",
+          "src": [
+            155
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$46M",
+              "label": "His share sales in 1998, his first year selling",
+              "src": [
+                155
+              ]
+            },
+            {
+              "value": "$27B",
+              "label": "Total sold by June 2021",
+              "src": [
+                155
+              ]
+            },
+            {
+              "value": "$5.7B",
+              "label": "Sold in 2025, 25 million shares",
+              "src": [
+                156
+              ]
+            },
+            {
+              "value": "Over $50B",
+              "label": "Sold since 2002, as of early 2026",
+              "src": [
+                157
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Later the numbers grew. He sold about $13.5 billion in 2024, after a pause. In 2025 he sold 25 million shares for about $5.7 billion, starting around his wedding that June, under a pre-set trading plan, which is an arrangement made in advance so that sales do not depend on what an insider knows at the time. Sales since 2002 now top $50 billion.",
+          "src": [
+            154,
+            156,
+            157
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Where does the money go? In 2017 he said about $1 billion a year was going to Blue Origin, and he told WIRED that the rocket company's business model was that he sold Amazon stock, and that he could be patient for decades. The Wall Street Journal's estimate of about $30 billion in total investment shows the scale. __Amazon is the engine, and everything else runs on its fuel.__",
+          "src": [
+            6,
+            34,
+            42
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The family's bet"
+        },
+        {
+          "t": "p",
+          "text": "The most remarkable return may not be his. Bloomberg calculated in 2018 that his parents' $245,573 could have been worth $30 billion if they had kept every share, one of the great venture investments ever. The share count from the filing, 1,430,244, would be about 343 million shares now after splits, or about $82 billion at $240.35, by our arithmetic.",
+          "src": [
+            116,
+            11,
+            126,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Treat that figure as a thought experiment. Nobody outside the family knows what they still hold, and they have sold and given away shares. In 2003 they set up the Bezos Family Foundation with proceeds from Amazon stock. Mike Bezos has said only that they had saved a few pennies from years abroad and so could be angels.",
+          "src": [
+            116,
+            110,
+            135
+          ]
+        },
+        {
+          "t": "note",
+          "text": "They didn't understand the internet. They understood their son."
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "May 1997",
+              "text": "Stake worth about $178 million at the IPO price.",
+              "src": [
+                123,
+                11
+              ]
+            },
+            {
+              "when": "Mid-1999",
+              "text": "Net worth tops $9 billion at the bubble's height.",
+              "src": [
+                135
+              ]
+            },
+            {
+              "when": "2003",
+              "text": "Newsweek puts his fortune at about $1.7 billion after the crash.",
+              "src": [
+                38
+              ]
+            },
+            {
+              "when": "Oct 2017",
+              "text": "Passes Bill Gates on Bloomberg's index at $88 billion.",
+              "src": [
+                123
+              ]
+            },
+            {
+              "when": "Nov 2017",
+              "text": "Forbes: first to hold $100 billion since Gates in 1999.",
+              "src": [
+                158
+              ]
+            },
+            {
+              "when": "Aug 2020",
+              "text": "Forbes: first person ever worth $200 billion.",
+              "src": [
+                159
+              ]
+            },
+            {
+              "when": "Oct 2026",
+              "text": "Bloomberg: $372 billion after Blue Origin's new valuation.",
+              "src": [
+                114
+              ]
+            },
+            {
+              "when": "2 Nov 2026",
+              "text": "Forbes: $361.3 billion, number two in the world.",
+              "src": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Today the company he started in a garage is valued at about $2.6 trillion, and its cloud arm alone earns most of its operating profit. It is spending about $220 billion on capital projects in 2026, mostly for AI, and its free cash flow has turned negative for now. __The bet he has always made, spend now and collect later, is still running at a scale he could never have planned.__",
+          "src": [
+            19,
+            55
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Business Insider, Nicholas Carlson and Jay Yarow (5 Aug 2013): Amazon billionaire Jeff Bezos's life story (citing WIRED)",
+      "url": "https://www.businessinsider.com/amazon-billionaire-jeff-bezoss-life-story-2013-8"
+    },
+    {
+      "label": "The Next Web, Martin Bryant (6 Feb 2016): The incredible story of CNET's founder (Halsey Minor interview)",
+      "url": "https://thenextweb.com/news/the-incredible-story-of-cnets-founder-he-beat-bankruptcy-now-he-wants-to-beat-the-banks"
+    },
+    {
+      "label": "Vox / Recode, Jason Del Rey (23 Oct 2014): Amazon takes $170 million writedown on weak Fire Phone sales",
+      "url": "https://www.vox.com/2014/10/23/11632220/amazon-takes-170-million-writedown-on-weak-fire-phone-sales"
+    },
+    {
+      "label": "CNBC, Hugh Son (4 Jan 2021): Haven is disbanding after three years",
+      "url": "https://www.cnbc.com/2021/01/04/haven-the-amazon-berkshire-jpmorgan-venture-to-disrupt-healthcare-is-disbanding-after-3-years.html"
+    },
+    {
+      "label": "Business Insider, Avery Hartmans (15 May 2017): The early life and rise of Jeff Bezos",
+      "url": "https://www.businessinsider.com/amazon-founder-ceo-jeff-bezos-early-life-2017-5"
+    },
+    {
+      "label": "Forbes (27 Jul 1998): Surf's up",
+      "url": "https://www.forbes.com/forbes/1998/0727/6202106a.html"
+    },
+    {
+      "label": "The New York Times, Nicholas St. Fleur (5 Apr 2017): Jeff Bezos says he is selling $1 billion a year in Amazon stock",
+      "url": "https://www.nytimes.com/2017/04/05/science/blue-origin-rocket-jeff-bezos-amazon-stock.html"
+    },
+    {
+      "label": "Graham Holdings press release (5 Aug 2013): Jeffrey P. Bezos to purchase The Washington Post",
+      "url": "https://www.ghco.com/news-releases/news-release-details/jeffrey-p-bezos-purchase-washington-post"
+    },
+    {
+      "label": "Jeff Bezos, written statement to the US House Judiciary antitrust subcommittee (29 Jul 2020)",
+      "url": "https://docs.house.gov/meetings/JU/JU05/20200729/110883/HHRG-116-JU05-Wstate-BezosJ-20200729.pdf"
+    },
+    {
+      "label": "HistoryLink.org (7 Apr 2025): Amazon, the early years, 1995-1999",
+      "url": "https://www.historylink.org/File/23230"
+    },
+    {
+      "label": "About Amazon, Connie Chen (18 Oct 2023): Amazon's humble beginnings out of Jeff Bezos' garage",
+      "url": "https://www.aboutamazon.com/news/workplace/first-amazon-office-jeff-bezos-garage"
+    },
+    {
+      "label": "Amazon.com, Form S-1 registration statement (filed 24 Mar 1997), copy on Amazon's investor-relations CDN",
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001018724/eca84be1-84c3-447f-abf6-ae42ba20bd98.pdf"
+    },
+    {
+      "label": "GeekWire, Dan Richman (3 Jan 2017): Why this early Amazon investor bet on Jeff Bezos",
+      "url": "https://www.geekwire.com/2017/early-amazon-investor-bet-jeff-bezos-vision-tech-giant-created-flywheel/"
+    },
+    {
+      "label": "Business Insider, Ashley Stewart (23 Nov 2019): Tom Alberg explains why he took a chance on Jeff Bezos",
+      "url": "https://www.businessinsider.com/jeff-bezos-tom-alberg-amazon-2019-11"
+    },
+    {
+      "label": "Amazon press release (5 Feb 2026): Fourth quarter and full-year 2025 results",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/"
+    },
+    {
+      "label": "CNBC, Annie Palmer (11 Jun 2026): Jeff Bezos and Vik Bajaj open up about Prometheus",
+      "url": "https://www.cnbc.com/2026/06/11/project-prometheus-bezos-bajaj-live-updates.html"
+    },
+    {
+      "label": "Forbes real-time profile: Jeff Bezos (read 3 Nov 2026; figure as of 2 Nov 2026)",
+      "url": "https://www.forbes.com/profile/jeff-bezos/"
+    },
+    {
+      "label": "GOBankingRates via Yahoo Finance, Laura Woods (20 Jan 2021): Jeff Bezos' most outrageous business failures (quotes his shareholder letters)",
+      "url": "https://finance.yahoo.com/news/jeff-bezos-most-outrageous-business-193000384.html"
+    },
+    {
+      "label": "Fortune (8 Nov 1999): Amazon vs. Everybody",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/1999/11/08/268493/"
+    },
+    {
+      "label": "SEC-API Insights (31 Oct 2026): Amazon Q3 2026 earnings filing analysis (share price, market value, revenue split)",
+      "url": "https://sec-api.io/insights/amazon-amzn-q3-2026-earnings-sec-filing-analysis"
+    },
+    {
+      "label": "Atticus Li (11 Jul 2026): How Amazon actually grew (lists filings and Amazon press releases it draws on)",
+      "url": "https://atticusli.com/startup/amazon/"
+    },
+    {
+      "label": "eWeek (9 Apr 2001): Amazon's poor returns",
+      "url": "https://www.eweek.com/cloud/amazons-poor-returns/"
+    },
+    {
+      "label": "The New York Times (8 Nov 2000): Pets.com, sock puppet's home, will close",
+      "url": "https://www.nytimes.com/2000/11/08/business/technology-petscom-sock-puppet-s-home-will-close.html"
+    },
+    {
+      "label": "Los Angeles Times (8 Nov 2000): Pets.com rolls over, prepares to shut down",
+      "url": "https://www.latimes.com/archives/la-xpm-2000-nov-08-fi-48684-story.html"
+    },
+    {
+      "label": "Forbes (16 Nov 2000): Liquidation lotto",
+      "url": "https://www.forbes.com/2000/11/16/1116simons.html"
+    },
+    {
+      "label": "Amazon.com, Form 8-K (Jan/Feb 2000): press releases on partnerships with Greenlight.com, drugstore.com and living.com",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000089102000000129/0000891020-00-000129.txt"
+    },
+    {
+      "label": "Forbes (6 Apr 1998): Classified pipeline (Junglee)",
+      "url": "https://www.forbes.com/forbes/1998/0406/6107046s1.html"
+    },
+    {
+      "label": "The Economic Times, Kunal Talgeri (16 Mar 2017): Why the Junglee founders' playbook hasn't changed",
+      "url": "https://economictimes.indiatimes.com/small-biz/startups/junglee-com-founders-invest-in-a-delhi-startup-in-the-mobile-commerce-era/articleshow/57657897.cms"
+    },
+    {
+      "label": "Forbes India, Sayan Chakraborty (17 Jan 2020): Interview with Anand Rajaraman of Rocketship",
+      "url": "https://www.forbesindia.com/article/real-issue/data-helps-us-invest-beyond-geographies-anand-rajaraman-of-rocketship/57171/1"
+    },
+    {
+      "label": "Amazon press release (4 Aug 1998): Amazon.com acquires two leading internet companies",
+      "url": "https://press.aboutamazon.com/1998/8/amazon-com-acquires-two-leading-internet-companies"
+    },
+    {
+      "label": "WIRED (4 Aug 1998): Amazon's acquisition rampage",
+      "url": "https://www.wired.com/1998/08/amazons-acquisition-rampage/"
+    },
+    {
+      "label": "AllThingsD, Kara Swisher (5 Oct 2009): Bezos' initial Google investment was $250K in 1998 (citing Ken Auletta's Googled)",
+      "url": "https://allthingsd.com/20091005/new-yorker-bezos-initial-google-investment-was-250000-in-1998-because-i-just-fell-in-love-with-larry-and-sergey/"
+    },
+    {
+      "label": "Bezos Expeditions official website: selected investments",
+      "url": "https://www.bezosexpeditions.com/"
+    },
+    {
+      "label": "GeekWire (2019): The Jeff Bezos portfolio",
+      "url": "https://www.geekwire.com/2019/jeff-bezos-portfolio-heres-amazon-chief-invested-billions/"
+    },
+    {
+      "label": "WIRED, Steven Levy (15 Oct 2018): Blue Origin and Jeff Bezos want us all to leave Earth",
+      "url": "https://www.wired.com/story/jeff-bezos-blue-origin/"
+    },
+    {
+      "label": "The Washington Post, Christian Davenport (9 Feb 2021): Jeff Bezos's next act after Amazon",
+      "url": "https://www.washingtonpost.com/technology/2021/02/09/amazon-bezos-blue-origin/"
+    },
+    {
+      "label": "Neal Stephenson's official website: Blue Origin",
+      "url": "https://www.nealstephenson.com/blue-origin.html"
+    },
+    {
+      "label": "Ars Technica, Eric Berger (9 Mar 2016): Inside Blue Origin's secretive rocket factory",
+      "url": "https://arstechnica.com/science/2016/03/behind-the-curtain-ars-goes-inside-blue-origins-secretive-rocket-factory/"
+    },
+    {
+      "label": "Newsweek (5 May 2003): Bezos in space",
+      "url": "https://www.newsweek.com/bezos-space-137111"
+    },
+    {
+      "label": "Space.com, Elizabeth Howell (16 Jul 2021): Blue Origin, quiet plans for spaceships",
+      "url": "https://www.space.com/19584-blue-origin-quiet-plans-for-spaceships.html"
+    },
+    {
+      "label": "The New York Times via The Ledger, Kenneth Chang (3 Sep 2011): Rocket financed by Amazon founder crashes in test",
+      "url": "https://www.theledger.com/story/news/2011/09/03/rocket-financed-by-amazon-founder/26446677007/"
+    },
+    {
+      "label": "Blue Origin, Jeff Bezos (2 Sep 2011): Successful short hop, setback, and next vehicle",
+      "url": "https://www.blueorigin.com/news/successful-short-hop-setback-and-next-vehicle"
+    },
+    {
+      "label": "CNBC, Morgan Brennan and Grace Kazarian (30 Sep 2026): Blue Origin funding round is oversubscribed",
+      "url": "https://www.cnbc.com/2026/09/30/blue-origin-funding-round.html"
+    },
+    {
+      "label": "Reuters, Joey Roulette (16 Jan 2025): Blue Origin reaches orbit in first New Glenn launch",
+      "url": "https://www.reuters.com/science/blue-origins-debut-new-glenn-rocket-fully-fueled-next-launch-attempt-2025-01-16/"
+    },
+    {
+      "label": "CNN, Deblina Chakraborty and Ashley Strickland (28 May 2026): Blue Origin rocket explodes during ground test",
+      "url": "https://www.cnn.com/2026/05/28/science/blue-origin-rocket-anomaly"
+    },
+    {
+      "label": "SpaceNews, Jeff Foust (28 Oct 2026): Blue Origin still pushing for return to flight of New Glenn this year",
+      "url": "https://spacenews.com/blue-origin-still-pushing-for-return-to-flight-of-new-glenn-this-year/"
+    },
+    {
+      "label": "Bezos Earth Fund: Jeff Bezos",
+      "url": "https://www.bezosearthfund.org/who-we-are/our-people/jeff-bezos"
+    },
+    {
+      "label": "Vox / Recode, Jason Del Rey (3 May 2019): How Amazon created the Prime membership program (oral history)",
+      "url": "https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping"
+    },
+    {
+      "label": "The Seattle Times, Jay Greene (3 Feb 2015): 10 years later, Amazon celebrates Prime's triumph",
+      "url": "https://www.seattletimes.com/business/amazon/10-years-later-amazon-celebrates-primes-triumph/"
+    },
+    {
+      "label": "Amazon press release (2 Feb 2005): Introduces new express shipping program, Amazon Prime",
+      "url": "https://press.aboutamazon.com/2005/2/amazon-com-announces-record-free-cash-flow-fueled-by-lower-prices-and-free-shipping-introduces-new-express-shipping-program-amazon-prime"
+    },
+    {
+      "label": "Quartz, Zachary Seward (13 Mar 2014): The very unscientific tale of how Amazon first set the price of Prime",
+      "url": "https://qz.com/187442/the-very-unscientific-tale-of-how-amazon-first-set-the-price-of-prime"
+    },
+    {
+      "label": "TechCrunch, Ron Miller (2 Jul 2016): How AWS came to be",
+      "url": "https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/"
+    },
+    {
+      "label": "TechCrunch, Ron Miller (28 Aug 2021): How Amazon EC2 grew from a notion into a foundational element of cloud computing",
+      "url": "https://techcrunch.com/2021/08/28/how-amazon-ec2-grew-from-a-notion-into-a-foundational-element-of-cloud-computing/"
+    },
+    {
+      "label": "Fortune, Geoff Colvin (30 Nov 2022): How Amazon grew an awkward side project into AWS",
+      "url": "https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/"
+    },
+    {
+      "label": "GeekWire (2026): AWS at 20, inside the rise of Amazon's cloud empire",
+      "url": "https://www.geekwire.com/2026/aws-at-20-inside-the-rise-of-amazons-cloud-empire-and-whats-at-stake-in-the-ai-era/"
+    },
+    {
+      "label": "Amazon press release (29 Oct 2026): Third quarter results",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+    },
+    {
+      "label": "The Indian Express, Anuj Bhatia (19 May 2020): History of Amazon Kindle",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/rewind-history-of-amazon-kindle-the-first-mainstream-successful-e-reader-6416926/"
+    },
+    {
+      "label": "Publishers Lunch, Michael Cader (17 Oct 2013): Amazon tales, you could be reading this on your Fiona",
+      "url": "https://lunch.publishersmarketplace.com/2013/10/amazon-tales-reading-fiona/"
+    },
+    {
+      "label": "About Amazon, Neal Karlinsky (15 Nov 2017): The inside story of how the Kindle was born",
+      "url": "https://www.aboutamazon.com/news/devices/the-inside-story-of-how-the-kindle-was-born"
+    },
+    {
+      "label": "Good e-Reader, Michael Kozlowski (4 Dec 2018): Project Fiona, the tale of the first Kindle (quotes Brad Stone's The Everything Store)",
+      "url": "https://goodereader.com/blog/electronic-readers/project-fiona-the-tale-of-the-very-first-kindle-e-reader"
+    },
+    {
+      "label": "Commoncog Case Library: The Kindle, reinventing the book (quotes Brad Stone and Jeff Bezos)",
+      "url": "https://commoncog.com/c/cases/inventing-kindle/"
+    },
+    {
+      "label": "Reuters, Jeffrey Dastin and Cate Cadell (18 Apr 2019): Amazon, facing entrenched rivals, says to shut China online store",
+      "url": "https://www.reuters.com/article/us-amazon-com-china/amazon-to-close-domestic-marketplace-business-in-china-sources-idUSKCN1RT2A7/"
+    },
+    {
+      "label": "CNBC, Jade Tungul and Tala Hadavi (2 Feb 2023): Why Amazon China fell behind Alibaba and JD.com",
+      "url": "https://www.cnbc.com/2023/02/02/why-amazon-china-fell-behind-alibaba-jdcom-and-taobao.html"
+    },
+    {
+      "label": "TechNode (18 Apr 2019): Outpaced by local rivals, Amazon struggles to remain relevant in China",
+      "url": "https://technode.com/2019/04/18/amazon-retail-china-kindle/"
+    },
+    {
+      "label": "BBC News (5 Jun 2013): Amazon launches first online shopping site in India",
+      "url": "https://www.bbc.com/news/business-22780571"
+    },
+    {
+      "label": "Knowledge at Wharton (16 Jun 2014): Year one and counting, Amazon in India",
+      "url": "https://knowledge.wharton.upenn.edu/article/year-one-counting-amazon-aims-strike-big-india/"
+    },
+    {
+      "label": "Reuters (30 Jul 2014): Amazon to invest $2 billion more in India",
+      "url": "https://www.reuters.com/article/idUSKBN0FZ0O020140730/"
+    },
+    {
+      "label": "Mint, Mihir Dalal (8 Jun 2016): Amazon increases India investments to $5 billion",
+      "url": "https://www.livemint.com/Companies/InTrpA1lX6EFAfbAcLCIgM/Amazon-to-invest-3-billion-more-in-India-ops.html"
+    },
+    {
+      "label": "The Economic Times, Mugdha Variyar (2023): Amazon's decade in India",
+      "url": "https://economictimes.indiatimes.com/prime/technology-and-startups/amazons-indian-decade-the-good-the-bad-the-ugly/immersivestories/101274143.cms"
+    },
+    {
+      "label": "BBC News, Prasanto K Roy (14 Aug 2014): Why Amazon and Flipkart will spend billions in India",
+      "url": "https://www.bbc.com/news/world-asia-india-28772070"
+    },
+    {
+      "label": "Inc., Tony Hsieh (1 Jun 2010): Why I sold Zappos",
+      "url": "https://www.inc.com/magazine/20100601/why-i-sold-zappos.html"
+    },
+    {
+      "label": "Business Insider (21 Oct 2010): Tony Hsieh, here is why I sold Zappos to Amazon",
+      "url": "https://www.businessinsider.com/tony-hsieh-why-i-sold-zappos-to-amazon-2010-10"
+    },
+    {
+      "label": "Investopedia, Matthew Johnston: Companies owned by Amazon (Zappos terms and closing value)",
+      "url": "https://www.investopedia.com/articles/markets/102115/top-10-companies-owned-amazon.asp"
+    },
+    {
+      "label": "CNBC, Ari Levy (3 Apr 2017): Amazon was sucking in Quidsi's inventory over a year before shutdown",
+      "url": "https://www.cnbc.com/2017/04/03/amazon-was-sucking-in-quidsis-inventory-over-a-year-before-shutdown.html"
+    },
+    {
+      "label": "GeekWire, Kurt Schlosser (29 Mar 2017): Amazon to shutter Diapers.com parent Quidsi",
+      "url": "https://www.geekwire.com/2017/amazon-shutter-diapers-com-parent-quidsi-cites-lack-profits-7-years-545m-acquisition/"
+    },
+    {
+      "label": "Vox / Recode, Jason Del Rey (29 Mar 2017): Amazon is shutting down Diapers.com",
+      "url": "https://www.vox.com/2017/3/29/15112314/amazon-shutting-down-diapers-com-quidsi-soap-com"
+    },
+    {
+      "label": "The Washington Post, Craig Timberg (6 Aug 2013): How the unthinkable choice became the clear path",
+      "url": "https://www.washingtonpost.com/business/technology/2013/08/06/46216532-fed7-11e2-9711-3708310f6f4d_story.html"
+    },
+    {
+      "label": "Poynter, Andrew Beaujon (6 Aug 2013): What journalists need to know about Bezos' purchase of The Washington Post",
+      "url": "https://www.poynter.org/reporting-editing/2013/what-you-need-to-know-about-jeff-bezos-purchase-of-the-washington-post/"
+    },
+    {
+      "label": "Reuters, Jennifer Saba (7 Aug 2013): Amazon's Bezos pays hefty price for Washington Post",
+      "url": "https://www.reuters.com/article/2013/08/07/us-washingtonpost-bezos-idUSBRE9740Y420130807/"
+    },
+    {
+      "label": "The New Yorker, Ruth Marcus (4 Feb 2026): How Jeff Bezos brought down the Washington Post",
+      "url": "https://www.newyorker.com/news/annals-of-communications/how-jeff-bezos-brought-down-the-washington-post"
+    },
+    {
+      "label": "Reuters, Helen Coster (4 Feb 2026): Jeff Bezos's Washington Post lays off a third of staff",
+      "url": "https://www.reuters.com/business/retail-consumer/washington-post-lay-off-hundreds-journalists-nyt-reports-2026-02-04/"
+    },
+    {
+      "label": "The New York Times, Benjamin Mullin, Erik Wemple and Katie Robertson (14 Mar 2026): How Jeff Bezos upended The Washington Post",
+      "url": "https://www.nytimes.com/2026/03/14/business/media/washington-post-jeff-bezos-layoffs.html"
+    },
+    {
+      "label": "The Guardian, Samuel Gibbs (5 Nov 2014): Amazon undeterred by Fire Phone failure",
+      "url": "https://www.theguardian.com/technology/2014/nov/05/amazon-fire-phone-failure"
+    },
+    {
+      "label": "Fast Company, Austin Carr (6 Jan 2015): The inside story of Jeff Bezos's Fire Phone debacle",
+      "url": "https://www.fastcompany.com/3039887/under-fire"
+    },
+    {
+      "label": "CNBC Make It, Cat Clifford (22 May 2020): Jeff Bezos, why you can't feel bad about failure (quotes The New Yorker)",
+      "url": "https://www.cnbc.com/2020/05/22/jeff-bezos-why-you-cant-feel-bad-about-failure.html"
+    },
+    {
+      "label": "WIRED, Brad Stone (11 May 2021): The secret origins of Amazon's Alexa (book excerpt)",
+      "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/"
+    },
+    {
+      "label": "The Verge, Jennifer Pattison Tuohy (30 Oct 2024): Alexa, where's my Star Trek computer?",
+      "url": "https://www.theverge.com/24282710/amazon-alexa-ai-star-trek-computer-10-years-assistant"
+    },
+    {
+      "label": "GeekWire (2019): How Amazon's biggest flop paved the way for one of its most important pillars",
+      "url": "https://www.geekwire.com/2019/amazons-biggest-flop-paved-way-one-companys-important-pillars/"
+    },
+    {
+      "label": "Bloomberg, Matt Day (31 May 2023): Amazon's kill list, 37 projects that are no more",
+      "url": "https://www.bloomberg.com/features/2023-amazon-projects-killed/"
+    },
+    {
+      "label": "The Motley Fool, Leo Sun (7 Oct 2017): 6 industries Amazon failed to disrupt",
+      "url": "https://www.fool.com/investing/2017/10/07/6-industries-amazon-failed-to-disrupt.aspx"
+    },
+    {
+      "label": "TheStreet, Rebecca Borison (13 Nov 2015): 10 of Amazon's biggest failures",
+      "url": "https://www.thestreet.com/investing/stocks/here-are-10-of-amazon-s-biggest-failures-13364106"
+    },
+    {
+      "label": "Business Insider, Dennis Green and Mary Meisenzahl (29 Jun 2021): Amazon products and services that failed",
+      "url": "https://www.businessinsider.com/amazon-products-services-failed-discontinued-2019-3"
+    },
+    {
+      "label": "About Amazon (26 Apr 2023): Our decision to wind down Amazon Halo",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-halo-discontinued"
+    },
+    {
+      "label": "StartupTalky, Anamika Mahapatra and Apoorva Bajj (21 Mar 2025): List of Amazon failed products (secondary, used only for the end of Dash buttons)",
+      "url": "https://startuptalky.com/amazon-failed-products/"
+    },
+    {
+      "label": "CNBC, Lauren Thomas (7 Jul 2017): Amazon raised bid, beat out six other suitors to land Whole Foods",
+      "url": "https://www.cnbc.com/2017/07/07/deal-drama-amazon-whole-foods.html"
+    },
+    {
+      "label": "Business Insider, Alex Morrell (7 Jul 2017): How Amazon came to buy Whole Foods",
+      "url": "https://www.businessinsider.com/amazon-tough-negotiations-how-the-whole-foods-deal-went-down-2017-7"
+    },
+    {
+      "label": "Supermarket News, Jon Springer (21 Jun 2017): Mackey on the Whole Foods and Amazon deal",
+      "url": "https://www.supermarketnews.com/finance/mackey-love-at-first-sight-for-whole-foods-amazon"
+    },
+    {
+      "label": "About Amazon (27 Jan 2026): Amazon to close Fresh and Go stores, expanding Whole Foods",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-fresh-go-stores-closing-expanding-whole-foods"
+    },
+    {
+      "label": "The Seattle Times, Matt Day (21 Jan 2018): Amazon Go cashierless convenience store opens to the public",
+      "url": "https://www.seattletimes.com/business/amazon/amazon-go-cashierless-convenience-store-opening-to-the-public/"
+    },
+    {
+      "label": "Forbes, Alison Durkee (24 May 2021): Amazon's biggest acquisitions",
+      "url": "https://www.forbes.com/sites/alisondurkee/2021/05/24/amazon-biggest-acquisitions-have-allowed-it-to-become-a-marketplace-for-nearly-everything-mgm-deal/"
+    },
+    {
+      "label": "Reuters (27 Jan 2026): Amazon to convert select physical stores into Whole Foods",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-expand-same-day-delivery-close-some-stores-whole-foods-expansion-push-2026-01-27/"
+    },
+    {
+      "label": "Reuters, Jeffrey Dastin (22 Jan 2018): Amazon's automated grocery store of the future opens Monday",
+      "url": "https://www.reuters.com/article/world/amazons-automated-grocery-store-of-the-future-opens-monday-idUSKBN1FA0QZ/"
+    },
+    {
+      "label": "AP, Anne D'Innocenzio (27 Jan 2026): Amazon to shut down Amazon Go and Amazon Fresh stores",
+      "url": "https://apnews.com/article/amazon-amazon-go-amazon-fresh-deliveries-6db095b6631fecfe03e5f2fc2ad63b69"
+    },
+    {
+      "label": "Bloomberg via The Boston Globe, John Tozzi (4 Jan 2021): Haven will shut down next month",
+      "url": "https://www.bostonglobe.com/2021/01/04/business/amazon-berkshire-jpmorgan-health-venture-haven-shutdown-next-month/"
+    },
+    {
+      "label": "AP (25 Aug 2022): Amazon to shutter virtual health care service Amazon Care",
+      "url": "https://apnews.com/article/technology-health-seattle-23deb95626df3894769ade8622dd06da"
+    },
+    {
+      "label": "CNBC, Annie Palmer (9 Sep 2022): Amazon plans job cuts in health-care unit after shuttering telehealth",
+      "url": "https://www.cnbc.com/2022/09/09/amazon-plans-job-cuts-in-health-care-unit-after-shuttering-telehealth.html"
+    },
+    {
+      "label": "CNBC, Annie Palmer (21 Jul 2022): Amazon, One Medical joins Whole Foods and MGM as strategic growth buys",
+      "url": "https://www.cnbc.com/2022/07/21/amazon-one-medical-joins-whole-foods-mgm-as-strategic-growth-buys.html"
+    },
+    {
+      "label": "CNBC Make It, Leah Ginsberg and Tom Huddleston Jr. (3 Oct 2018): How Amazon CEO Jeff Bezos spends his billions",
+      "url": "https://www.cnbc.com/make-it/2018/09/13/jeff-bezos-launches-day-one-fund-charity-how-he-spends-his-billions.html"
+    },
+    {
+      "label": "CNN Newsource via KESQ (2 Jul 2026): Jeff Bezos fast facts",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/07/02/jeff-bezos-fast-facts-6/"
+    },
+    {
+      "label": "Forbes, Carlie Porterfield (2 Feb 2021): What's next for Jeff Bezos after he steps down as Amazon CEO",
+      "url": "https://www.forbes.com/sites/carlieporterfield/2021/02/02/heres-whats-next-for-jeff-bezos-after-he-steps-down-as-amazon-ceo/"
+    },
+    {
+      "label": "Inside Philanthropy (9 Jun 2026): Jeff Bezos's philanthropy",
+      "url": "https://www.insidephilanthropy.com/find-a-grant/major-donors/jeff-bezos"
+    },
+    {
+      "label": "BBC News (21 Mar 2013): Apollo rocket engines recovered by Bezos team",
+      "url": "https://www.bbc.com/news/science-environment-21880147"
+    },
+    {
+      "label": "The Museum of Flight: Recovered F-1 engine parts",
+      "url": "https://pages.museumofflight.org/recovered-f-1-engine-parts"
+    },
+    {
+      "label": "Bloomberg Billionaires Index: Jeff Bezos (last updated 1 Nov 2026)",
+      "url": "https://www.bloomberg.com/billionaires/profiles/jeffrey-p-bezos/"
+    },
+    {
+      "label": "Nairametrics, Deborah Dan-Awoh (12 Oct 2026): Jeff Bezos hits world's 2nd-richest status (Bloomberg breakdown)",
+      "url": "https://nairametrics.com/2026/10/12/jeff-bezos-hits-worlds-2nd-richest-status-as-net-worth-rises-122-billion-in-2026/"
+    },
+    {
+      "label": "Reuters (26 May 2021): Amazon's major acquisitions over the years",
+      "url": "https://www.reuters.com/technology/amazons-major-acquisitions-over-years-2021-05-26/"
+    },
+    {
+      "label": "Bloomberg, Tom Metcalf (31 Jul 2018): A hidden Amazon fortune, Bezos parents may be worth billions",
+      "url": "https://www.bloomberg.com/news/articles/2018-07-31/a-hidden-amazon-fortune-bezos-parents-could-be-worth-billions"
+    },
+    {
+      "label": "Business Insider, Matt Rosoff (20 Oct 2016): Jeff Bezos on early Amazon investors",
+      "url": "https://www.businessinsider.com/jeff-bezos-on-early-amazon-investors-2016-10"
+    },
+    {
+      "label": "Commoncog Case Library: How Amazon survived the dotcom bust (summarises Brad Stone, The Everything Store, and press of the time)",
+      "url": "https://commoncog.com/c/cases/how-amazon-survived-dotcom-bust/"
+    },
+    {
+      "label": "Business Insider, Jillian D'Onfro (10 May 2014): Amazon and Jeff Bezos facts and history",
+      "url": "https://www.businessinsider.com/amazon-jeff-bezos-facts-story-history-2014-5"
+    },
+    {
+      "label": "Seattle 24x7 (3 Aug 2010): The Jeff Bezos ShopTalk, Bezos in his own words on the early days",
+      "url": "https://www.seattle24x7.com/community/shoptalk/2010/08/03/the-jeff-bezos-shoptalk/"
+    },
+    {
+      "label": "Greg Linden, early Amazon engineer, Geeking with Greg (25 Jan 2006): Early Amazon, get big fast",
+      "url": "http://glinden.blogspot.com/2006/01/early-amazon-get-big-fast.html"
+    },
+    {
+      "label": "Britannica Scholars: Amazon.com",
+      "url": "https://kids.britannica.com/scholars/article/Amazoncom/438590"
+    },
+    {
+      "label": "Bloomberg, Tom Metcalf, Jack Witzig and Brendan Coffey (27 Oct 2017): Jeff Bezos's path to becoming the richest person on Earth",
+      "url": "https://www.bloomberg.com/graphics/2017-bezos-richest-person/"
+    },
+    {
+      "label": "Amazon press release (21 Oct 1997): Barnes & Noble and Amazon.com announce settlement of lawsuit",
+      "url": "https://press.aboutamazon.com/1997/10/barnes-noble-and-amazon-com-announce-settlement-of-lawsuit"
+    },
+    {
+      "label": "WIRED, Warren St. John (1 Jun 1999): Barnes & Noble's epiphany",
+      "url": "https://www.wired.com/1999/06/barnes-2/"
+    },
+    {
+      "label": "CompaniesMarketCap: Amazon stock split history",
+      "url": "https://companiesmarketcap.com/amazon/stock-splits/"
+    },
+    {
+      "label": "Forbes, Rita Koselka (5 Apr 1999): A real Amazon",
+      "url": "https://www.forbes.com/global/1999/0405/0207024a.html"
+    },
+    {
+      "label": "WIRED, Joanna Glasner (28 Jan 1999): An Amazonian debt",
+      "url": "https://www.wired.com/1999/01/an-amazonian-debt/"
+    },
+    {
+      "label": "WIRED (23 Jun 2000): Analysts send Amazon down river",
+      "url": "https://www.wired.com/2000/06/analysts-send-amazon-down-river/"
+    },
+    {
+      "label": "The New Yorker, James Surowiecki (20 May 2002): Doom, Incorporated",
+      "url": "https://www.newyorker.com/magazine/2002/05/20/doom-incorporated"
+    },
+    {
+      "label": "WIRED (28 Jun 2000): Bezos blasts low-cash report",
+      "url": "https://www.wired.com/2000/06/bezos-blasts-low-cash-report/"
+    },
+    {
+      "label": "Lehman Brothers, Ravi Suria (Feb 2001): Revisiting Amazon's liquidity (research report)",
+      "url": "https://www.shareholderforum.com/nyssa/published/AMZN/20010206_Suria_Report.pdf"
+    },
+    {
+      "label": "Los Angeles Times, Jonathan Stempel (7 Feb 2001): Amazon.com challenges analyst report",
+      "url": "https://www.latimes.com/archives/la-xpm-2001-feb-07-fi-22213-story.html"
+    },
+    {
+      "label": "ABC News (31 Jan 2001): Amazon announces job cuts, narrower Q4 loss",
+      "url": "https://abcnews.com/Business/story?id=88685&page=1"
+    },
+    {
+      "label": "CNBC Make It, Zameena Mejia (2 Aug 2018): How Jeff Bezos got his parents to invest in Amazon",
+      "url": "https://www.cnbc.com/make-it/2018/08/02/how-jeff-bezos-got-his-parents-to-invest-in-amazon--turning-them-into.html"
+    },
+    {
+      "label": "Amazon press release (10 Aug 2000): Amazon.com and Toysrus.com announce strategic alliance",
+      "url": "https://press.aboutamazon.com/2000/8/amazon-com-and-toysrus-com-announce-strategic-alliance"
+    },
+    {
+      "label": "Internet News, Christine Gordon (11 Apr 2001): Amazon.com allies with Borders.com",
+      "url": "https://www.internetnews.com/small-business/amazon-com-inc-allies-with-borders-com/"
+    },
+    {
+      "label": "Amazon press release (23 Jul 2001): America Online and Amazon.com announce expanded strategic alliance",
+      "url": "https://press.aboutamazon.com/2001/7/america-online-and-amazon-com-announce-expanded-strategic-alliance-that-will-create-new-shopping-experience-for-online-consumers"
+    },
+    {
+      "label": "CNBC Make It, Tom Huddleston Jr. (17 Nov 2024): Bezos and the Costco founder's coffee meeting",
+      "url": "https://www.cnbc.com/make-it/2024/11/17/jeff-bezos-costco-founder-coffee-meeting-helped-revive-amazon.html"
+    },
+    {
+      "label": "Amazon press release (22 Jan 2002): 4th quarter profit, introduces free Super Saver Shipping",
+      "url": "https://press.aboutamazon.com/2002/1/amazon-com-announces-4th-quarter-profit-exceeds-sales-and-profit-objectives-lower-prices-for-customers-drove-sales-and-profits"
+    },
+    {
+      "label": "Los Angeles Times, Karen Kaplan (23 Jan 2002): Amazon reports its first profit",
+      "url": "https://www.latimes.com/archives/la-xpm-2002-jan-23-fi-amazon23-story.html"
+    },
+    {
+      "label": "BBC News (22 Jan 2002): Amazon turns its first profit",
+      "url": "https://newsimg.bbc.co.uk/1/hi/business/1775294.stm"
+    },
+    {
+      "label": "CNBC, Jessica Bursztynsky (11 Apr 2019): Jeff Bezos warns Amazon will have multibillion-dollar failures",
+      "url": "https://www.cnbc.com/2019/04/11/jeff-bezos-warns-amazon-will-have-multibillion-dollar-failures.html"
+    },
+    {
+      "label": "Program on Negotiation, Harvard Law School (7 Oct 2026): Lessons from the Amazon and Whole Foods negotiation",
+      "url": "https://www.pon.harvard.edu/daily/business-negotiations/the-amazon-whole-foods-merger-scoring-a-table-for-two-in-a-crowded-field-nb/"
+    },
+    {
+      "label": "CNBC Make It, Ali Montag and Sarah Berger (2018-19): Amazon bought Shark Tank reject Ring",
+      "url": "https://www.cnbc.com/make-it/2018/02/27/amazon-buys-ring-a-former-shark-tank-reject.html"
+    },
+    {
+      "label": "Business Insider, Alexei Oreskovic (27 Feb 2018): Amazon is spending $1 billion to buy Ring",
+      "url": "https://www.businessinsider.com/amazon-acquiring-doorbell-videocamera-startup-ring-2018-2"
+    },
+    {
+      "label": "Business Insider, Eugene Kim and Biz Carson (25 Jan 2017): Ring, formerly Doorbot on Shark Tank",
+      "url": "https://www.businessinsider.com/ring-doorbot-shark-tank-goldman-sachs-2017-1"
+    },
+    {
+      "label": "GeekWire (2019): Shark Tank's billion-dollar blunder (Jamie Siminoff interview)",
+      "url": "https://www.geekwire.com/2019/shark-tanks-billion-dollar-blunder-startup-ring-went-tv-rejection-amazon-acquisition/"
+    },
+    {
+      "label": "CNN Money, Jamey Keaten (22 Oct 1999): Amazon sues barnesandnoble.com to protect patent",
+      "url": "https://money.cnn.com/1999/10/22/bizbuzz/amazon/"
+    },
+    {
+      "label": "Reuters, Joey Roulette (19 May 2023): Blue Origin wins NASA contract to build astronaut lunar lander",
+      "url": "https://www.reuters.com/technology/space/nasa-name-second-company-build-astronaut-lunar-lander-2023-05-19/"
+    },
+    {
+      "label": "Forbes, Lauren Debter (4 Sep 2018): Amazon's market cap briefly hits $1 trillion",
+      "url": "https://www.forbes.com/sites/billions/2018/09/04/jeff-bezos-is-18-billion-richer-as-amazons-market-cap-briefly-hits-1-trillion/"
+    },
+    {
+      "label": "The Motley Fool, Robin Hartill (22 Oct 2026): Who owns Amazon?",
+      "url": "https://www.fool.com/investing/how-to-invest/stocks/who-owns-amazon/"
+    },
+    {
+      "label": "Fox Business, Jonathan Garber (1 Aug 2019): How much Amazon stock Jeff Bezos gave his ex-wife",
+      "url": "https://www.foxbusiness.com/technology/amazon-stock-jeff-bezos-mackenzie-divorce-settlement"
+    },
+    {
+      "label": "Variety, Todd Spangler (2 May 2025): How much Amazon stock Jeff Bezos owns",
+      "url": "https://variety.com/2025/digital/news/jeff-bezos-stock-sale-share-ownership-1236385238/"
+    },
+    {
+      "label": "Forbes, Rachel Sandler (24 Jun 2021): How much money Jeff Bezos has reaped from selling Amazon stock",
+      "url": "https://www.forbes.com/sites/rachelsandler/2021/06/24/heres-how-much-money-jeff-bezos-has-reaped-from-selling-amazon-stock/"
+    },
+    {
+      "label": "Bloomberg, Biz Carson (25 Jul 2025): Bezos wraps up massive Amazon share sale, netting $5.7 billion",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-25/bezos-wraps-up-massive-amazon-share-sale-netting-5-7-billion"
+    },
+    {
+      "label": "Investing.com via Yahoo Finance, Vlad Schepkov (2 Jan 2026): Who cashed out the most in 2025?",
+      "url": "https://finance.yahoo.com/news/bezos-huang-dell-zuckerberg-cashed-115103450.html"
+    },
+    {
+      "label": "Forbes, Kate Vinton (27 Nov 2017): Jeff Bezos' net worth tops $100 billion",
+      "url": "https://www.forbes.com/sites/katevinton/2017/11/27/as-amazon-stock-surges-jeff-bezos-net-worth-tops-100-billion/"
+    },
+    {
+      "label": "Forbes, Jonathan Ponciano (26 Aug 2020): Jeff Bezos becomes the first person ever worth $200 billion",
+      "url": "https://www.forbes.com/sites/jonathanponciano/2020/08/26/worlds-richest-billionaire-jeff-bezos-first-200-billion/"
+    }
+  ],
+  "factCheck": {
+    "method": "Written from sources read on 3 November 2026. The core funding history comes from Amazon's 1997 Form S-1 as hosted on Amazon's investor-relations CDN; other money figures come from Amazon press releases, Bezos's 2020 statement to Congress, a Lehman Brothers report, Tony Hsieh's own Inc. essay and established press (Reuters, AP, BBC, CNBC, Forbes, Bloomberg, WIRED, The New Yorker, NYT, Economic Times, Mint). Where a page was paywalled or refused automated reading, only the text returned by search was used; this applies to several Forbes, Bloomberg, GeekWire and WSJ-derived figures, which are worth a manual check. SEC EDGAR refused a direct automated request, so filings are cited through Amazon's own copies, apart from one 2000 Form 8-K whose text came back in search results. Brad Stone's books are used only through press accounts and excerpts, never pirated copies. Sums and per-share figures marked 'our arithmetic' or 'by our arithmetic' are our own calculations from sourced inputs. Bezos's and others' words are paraphrased in our own words, with one short verbatim quote; single terms such as Amazon.bomb, Ouch and Get Big Fast are given as names. Reddit, forums and social posts were not used as sources. Share price is the 30 October 2026 close, the latest we could verify. Weakest single sourcing, for the fact-checker: the end date of Dash buttons (StartupTalky only); Kozmo's 2001 closure and the IPO-size arithmetic (Atticus Li, who cites filings); AWS's 2015 profit figure (GeekWire search text only).",
+    "disputed": [
+      {
+        "claim": "How many meetings it took to raise Amazon's first $1 million.",
+        "note": "Bezos's 2020 statement to Congress says more than 50; CNBC, citing Brad Stone, says about 60 meetings with about 20 yeses. We use his own sworn-hearing figure. Investor counts vary between about 20 and 22."
+      },
+      {
+        "claim": "Amazon's pre-money valuation in the angel round.",
+        "note": "Alberg recalled $6 million with Bezos refusing to lower it (GeekWire). Stone's account, summarised by Commoncog, has Eric Dillon negotiating it to $5 million. Both are reported with attribution."
+      },
+      {
+        "claim": "Bezos's stake at the IPO.",
+        "note": "The March 1997 S-1 says 43.1%, based on selling 2.5 million shares. The final deal sold 3 million, giving about 41% by our arithmetic, using the 23.86 million outstanding shares reported by a secondary source. We say 'about 41 percent' and flag the S-1 draft figure. We did not read the final 424B1 directly."
+      },
+      {
+        "claim": "The February 2000 European bond amount.",
+        "note": "Stone (via Commoncog) gives $672 million at 6.9%; a filings-based secondary source gives EUR 690 million at 6.875%. These are probably the same deal in different currencies."
+      },
+      {
+        "claim": "Amazon's peak share price in the bubble.",
+        "note": "Bezos told Congress $116. Commoncog says $113 on 9 December 1999. Atticus Li gives about $107 on a closing, split-adjusted basis. Intraday, closing and adjustment methods differ. We use Bezos's figure and attribute it."
+      },
+      {
+        "claim": "Ravi Suria's age in June 2000.",
+        "note": "Commoncog says 28, Atticus Li says 29. We write 'young'."
+      },
+      {
+        "claim": "Price paid for Junglee.",
+        "note": "Reports range from $173.2 million (WIRED, at the prior day's close) and $180 million (WSJ abstract) through about $200 million (Forbes India) and $240 million (Economic Times) to $250 million in other accounts. All agree on about 1.6 million shares, so we give the share count."
+      },
+      {
+        "claim": "Size and pricing of Bezos's 1998 Google investment.",
+        "note": "Ken Auletta reported $250,000 at four cents a share; AllThingsD notes earlier reports of $100,000 and six cents; CNBC in 2017 wrote $1 million; Forbes says an 'estimated' $250,000. Other accounts differ on whether the other angels invested equal sums. We use $250,000 as reported. Amazon has not confirmed what he later did with the shares."
+      },
+      {
+        "claim": "Where Bezos met Page and Brin.",
+        "note": "Auletta via AllThingsD says a Menlo Park garage; a podcast account says Shriram's house. We follow Auletta."
+      },
+      {
+        "claim": "Blue Origin's valuation in the 2026 round.",
+        "note": "CNBC, citing the WSJ, and PitchBook via Nairametrics report $140 billion; Forbes uses $130 billion. Blue Origin's CEO did not confirm numbers."
+      },
+      {
+        "claim": "Bezos's Prometheus stake.",
+        "note": "Bloomberg assumes about 35%, explicitly from its own assumptions about founder splits and investment. A secondary French report attributes about 20% to Forbes. Neither is disclosed by the company."
+      },
+      {
+        "claim": "Price of Zappos.",
+        "note": "About $1.2 billion at closing because Amazon's stock rose (Investopedia, Forbes); a GeekWire list gives $928 million from the original announcement. We report the closing value."
+      },
+      {
+        "claim": "Price of Ring and Twitch.",
+        "note": "Forbes lists Ring at $839 million while Bloomberg and others reported about $1 billion. Twitch is commonly given as $970 million, while The Seattle Times says the filing penciled out to about $840 million. We say 'reported'."
+      },
+      {
+        "claim": "Fire Phone sales of 35,000.",
+        "note": "This is an outside estimate reported by The Guardian, not an Amazon figure. Amazon never disclosed sales."
+      },
+      {
+        "claim": "Who started the voice-computer project that became Alexa.",
+        "note": "Brad Stone (WIRED excerpt) has Bezos sketching it on a whiteboard in early 2011 and giving it to Greg Hart. The New Yorker, via CNBC and GeekWire, ties the moment to a Fire Phone software demo with Ian Freed. Both are given with attribution; the accounts may describe different stages."
+      },
+      {
+        "claim": "Amazon Marketplace's start date.",
+        "note": "Sources agree Auctions came in March 1999 and zShops later that year, but we did not verify an exact primary date for the Marketplace launch, so we do not state one."
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "slug": "bench",
+  "name": "Bench Accounting",
+  "region": "global",
+  "country": "Canada",
+  "city": "Vancouver",
+  "sector": "Fintech / bookkeeping",
+  "founded": 2012,
+  "died": 2024,
+  "status": "sold-for-parts",
+  "brandColor": "#2a4365",
+  "founders": [
+    {
+      "name": "Ian Crosby",
+      "role": "Co-founder and CEO (left 2021)"
+    },
+    {
+      "name": "Jordan Menashy",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Balanced everyone's books but its own.",
+  "oneLiner": "Online bookkeeping for small businesses in the US: software pulled in your transactions and a dedicated human bookkeeper kept your books.",
+  "causeOfDeath": "It owed $65M with $2.8M in cash; a failed sale and its bank calling in debt forced an overnight shutdown days after Christmas 2024.",
+  "raisedUsdM": 113,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "TechCrunch: Bench raised $113 million in total. No valuation published. Employer.com bought the business for an undisclosed price; the old company filed for bankruptcy in Canada (liabilities converted at 1 USD = 1.44 CAD).",
+  "moneySrc": [
+    3,
+    4,
+    5
+  ],
+  "inOneMinute": [
+    "Bench promised small businesses **software plus a real human bookkeeper**, and raised $113 million from Bain Capital Ventures, Shopify and others.",
+    "Later it pushed hard on automation that staff say **didn't work well**. Books got delayed, customers left, and the founder was pushed out in 2021.",
+    "On 27 December 2024 it **shut down with no warning**, staff lost jobs without severance, and customers lost access mid–tax season prep. A buyer rescued the brand days later."
+  ],
+  "killerLine": "Customers forgive slow growth. **They never forgive losing their data overnight.**",
+  "numbers": [
+    {
+      "value": "$113M",
+      "label": "total venture funding raised",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "value": "$65.4M vs $2.8M",
+      "label": "liabilities vs cash at bankruptcy (Jan 2025)",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "$51M",
+      "label": "owed to its bank, National Bank of Canada",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "~12,000",
+      "label": "customers at shutdown (its website had claimed 35,000+)",
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a bookkeeper in your pocket",
+      "body": "Small business owners hate bookkeeping (recording every rupee or dollar that comes in and goes out). Bench started in 2012 as **10sheet**, went through the TechStars accelerator in New York, then moved to Vancouver in 2013 and became Bench. The model was simple and friendly: Bench's software pulled transactions from your bank and cards, and **a dedicated in-house bookkeeper** sorted them and answered your questions by chat. In 2015 it raised a $7 million Series A led by Altos Ventures and had 126 employees, many of them accountants. Customers liked having a real person who knew their business.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise: money, then a 'professional CEO'",
+      "body": "Bench kept raising: $16 million led by Bain Capital Ventures in 2016, $18 million led by iNovia in 2018, and **$60 million in a 2021 Series C** led by Contour Venture Partners — $113 million in total, with Shopify among its backers. It added tax help, a cash-flow tool and Bench Banking. But months after the Series C, co-founder Ian Crosby left. He said board members forced him out to bring in a **\"professional CEO\"**. A former CFO took over and focused on profitability. Bench's archived website claimed more than 35,000 small-business customers; the buyer later said it had about 12,000.",
+      "src": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: automation that didn't deliver",
+      "body": "To serve more customers with fewer expensive humans, Bench leaned heavily on AI and automation. Former staff told TechCrunch the tools were **flawed and didn't work properly**, and books bounced between teams. Some customers were still waiting for their 2023 books in September 2024. Delays drove customers away. Layoffs started in late 2022; headcount on LinkedIn fell from almost 700 to under 400. Investors had lost interest in non-AI companies. In November 2024 a new CEO ran a sale process. It failed, and according to The Information (as cited by TechCrunch), **the bank called in Bench's venture debt** (a loan given to startups).",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "The fall: gone overnight",
+      "body": "On Friday 27 December 2024 customers got a notice: **\"We regret to inform you that as of December 27, 2024, the Bench platform will no longer be accessible.\"** Hundreds of staff were let go immediately, without notice or severance, according to former employees. Customers were told to file for a tax extension and find a new bookkeeper. Within about 36 hours Employer.com, an HR company with no accounting experience, agreed to buy the business. In January 2025 the old company filed for bankruptcy in Canada with **$65.4 million in liabilities and $2.8 million in cash**, $51 million of it owed to National Bank of Canada.",
+      "src": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2012",
+      "event": "Founded as 10sheet; joins TechStars NYC.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2013",
+      "event": "Moves to Vancouver and renames itself Bench.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "event": "$7 million Series A led by Altos Ventures; 126 employees.",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "event": "$60 million Series C led by Contour Venture Partners; total funding reaches $113 million.",
+      "kind": "peak",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "2021",
+      "event": "Co-founder Ian Crosby leaves; says the board wanted a 'professional CEO'.",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Late 2022–2024",
+      "event": "Repeated layoffs; automation problems delay customers' books.",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Nov 2024",
+      "event": "New CEO Adam Schlesinger runs a sale process that fails.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "27 Dec 2024",
+      "event": "Bench shuts down overnight; staff let go without notice.",
+      "kind": "end",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "30 Dec 2024",
+      "event": "Employer.com announces it will acquire Bench for an undisclosed sum.",
+      "kind": "after",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "date": "7 Jan 2025",
+      "event": "Old company files for bankruptcy in Canada: $65.4M liabilities, $2.8M cash.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Aug 2025",
+      "event": "Employer.com rebrands and folds Bench into its back-office business with MainStreet.",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Bench's balance sheet at the end",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Liabilities",
+        "Cash on hand"
+      ],
+      "series": [
+        {
+          "name": "At bankruptcy filing, Jan 2025",
+          "values": [
+            65.4,
+            2.8
+          ]
+        }
+      ],
+      "takeaway": "Bench owed more than 23 times the cash it had left.",
+      "src": [
+        4
+      ]
+    },
+    {
+      "title": "Who Bench owed money to",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "National Bank of Canada",
+        "Office landlord (rent)",
+        "VC investors (loans)",
+        "Ex-employees (severance)"
+      ],
+      "series": [
+        {
+          "name": "Amount owed",
+          "values": [
+            51,
+            4,
+            4,
+            1.8
+          ]
+        }
+      ],
+      "takeaway": "Most of the debt was a bank loan — when the bank wanted it back, Bench had no way to pay.",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "2013",
+      "round": "Seed",
+      "amountUsdM": 2,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "round": "Series A",
+      "amountUsdM": 7,
+      "valuationUsdM": null,
+      "investors": [
+        "Altos Ventures",
+        "Contour Venture Partners"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "2016",
+      "round": "Series B",
+      "amountUsdM": 16,
+      "valuationUsdM": null,
+      "investors": [
+        "Bain Capital Ventures",
+        "Altos Ventures",
+        "Contour Venture Partners"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2018",
+      "round": "Series B-1",
+      "amountUsdM": 18,
+      "valuationUsdM": null,
+      "investors": [
+        "iNovia Capital",
+        "Bain Capital Ventures",
+        "Altos Ventures",
+        "Silicon Valley Bank"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "round": "Series C",
+      "amountUsdM": 60,
+      "valuationUsdM": null,
+      "investors": [
+        "Contour Venture Partners"
+      ],
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "funding-dried",
+      "weight": 30
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "team",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Shutting down with zero warning",
+      "explain": "Bench switched off **overnight, right after Christmas**, as customers prepared for tax season and staff left without severance. Even a failing company can wind down with notice, data exports and a handover plan. Bench's exit turned a business failure into a trust disaster.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Automating before the automation worked",
+      "explain": "Former staff say Bench leaned on AI tools that **didn't work properly**, sometimes at the expense of human bookkeepers — the very thing customers paid for. Books got delayed by months and customers churned (left). Automation should make the human service faster, not replace it before it is ready.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Too much bank debt, too little cash",
+      "explain": "At the end, Bench owed **$51 million to its bank** and had $2.8 million in cash. Venture debt is cheap until the lender asks for it back. When the sale failed and the bank called the loan, there was no Plan B.",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Leadership churn after the big raise",
+      "explain": "The co-founder left months after the $60 million round, then came a finance-focused CEO and, in late 2024, another CEO to sell the company. **Three leaders in three years** made it hard to fix the core product problem. Every leadership change resets priorities, and customers feel the gap.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are customers waiting weeks or months for something your product promises as routine?",
+    "Are you replacing the human part of your service with automation that your own staff say isn't ready?",
+    "Is most of your debt owed to one lender who can call it in if you miss a target?",
+    "Would you have to shut down within a month if your next fundraise or sale falls through?",
+    "Is the customer number on your website much bigger than the number of customers you actually serve?"
+  ],
+  "lessons": [
+    {
+      "title": "Plan your 'worst week' in advance",
+      "detail": "Write a simple shutdown plan while things are fine: how customers export their data, how much notice staff get, who you'd hand customers to. Your reputation survives a closure; it doesn't survive a disappearance."
+    },
+    {
+      "title": "Automate the boring parts, keep the promised parts human",
+      "detail": "If customers pay for a human expert, automate behind the scenes but don't let quality drop. Test automation on a small group first and watch delays and complaints."
+    },
+    {
+      "title": "Treat venture debt like a loaded spring",
+      "detail": "Loans feel easier than giving up equity, but lenders can call them in. Keep enough cash to survive at least 12 months if the lender pulls out."
+    },
+    {
+      "title": "As an employee, watch the delay queue",
+      "detail": "When backlogs grow, layoffs repeat and CEOs change quickly, save money and keep your options open. Bench staff lost jobs overnight without severance."
+    },
+    {
+      "title": "As a customer, keep your own copy",
+      "detail": "If a startup holds your business records, download backups regularly. Bench customers suddenly had to scramble for their own books during tax season."
+    }
+  ],
+  "quote": {
+    "text": "I hope the story of Bench goes on to become a warning for VCs",
+    "who": "Ian Crosby, Bench co-founder and former CEO",
+    "context": "Speaking to TechCrunch after the shutdown, January 2025; he said the board had pushed him out in 2021",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "Employer.com, led by CEO Jesse Tinsley, struck a deal within about 36 hours of the shutdown and revived Bench in January 2025, honouring customer contracts and re-hiring some former staff (some on 30-day contracts). Tinsley said they 'saved hundreds of jobs'. The old company went through bankruptcy in Canada, owing its bank $51 million and ex-employees $1.8 million in severance. In August 2025 Employer.com rebranded and folded Bench into its back-office business alongside MainStreet. This was an honest business failure: no fraud has been alleged in sources we read.",
+    "src": [
+      0,
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Bench Accounting (funding history, rebrand; flagged for promotional tone)",
+      "url": "https://en.wikipedia.org/wiki/Bench_Accounting"
+    },
+    {
+      "label": "TechCrunch: Bench bookkeeping service cooks up $7 million Series A (Jan 2015)",
+      "url": "https://techcrunch.com/2015/01/29/bench-bookkeeping-service-cooks-up-7-million-series-a/"
+    },
+    {
+      "label": "TechCrunch: Bench to be acquired after abruptly shutting down (Dec 2024)",
+      "url": "https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/"
+    },
+    {
+      "label": "TechCrunch: Inside the wild fall and last-minute revival of Bench (Jan 2025)",
+      "url": "https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/"
+    },
+    {
+      "label": "TechCrunch: Failed fintech startup Bench racked up over $65 million in debt, documents reveal (Jan 2025)",
+      "url": "https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/"
+    },
+    {
+      "label": "Yahoo Finance: Employer.com acquires Canadian accounting startup Bench (Dec 2024)",
+      "url": "https://finance.yahoo.com/news/employer-com-acquires-canadian-accounting-075158568.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Bench had 35,000+ customers.",
+        "note": "Claimed on Bench's archived website; Employer.com told TechCrunch it had about 12,000."
+      },
+      {
+        "claim": "Bench's bank calling in its venture debt directly forced the shutdown.",
+        "note": "Reported by The Information and cited by TechCrunch; not confirmed in a court filing we read."
+      },
+      {
+        "claim": "Bench's board forced Ian Crosby out.",
+        "note": "Crosby's account to TechCrunch; the board's side was not reported."
+      }
+    ]
+  }
+}

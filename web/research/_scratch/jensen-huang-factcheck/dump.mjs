@@ -1,0 +1,16 @@
+import fs from 'node:fs';
+const b=JSON.parse(fs.readFileSync('src/content/billionaires/books/jensen-huang.json','utf8'));
+const out=[];
+const {chapters,sources,...rest}=b;
+out.push(JSON.stringify(rest,null,1));
+chapters.forEach((c,ci)=>{out.push(`\n=== CH${ci} ${c.id} | ${c.kicker} | ${c.title}`);
+c.blocks.forEach((x,i)=>{const s=x.src?` [${x.src}]`:'';
+if(x.t==='p'||x.t==='example'||x.t==='note'||x.t==='h')out.push(`${i} ${x.t}: ${x.text}${s}`);
+else if(x.t==='quote')out.push(`${i} QUOTE: "${x.text}" -- ${x.who}${s}`);
+else if(x.t==='facts'||x.t==='timeline')out.push(`${i} ${x.t}: `+x.items.map(it=>`\n    ${it.value||it.when} :: ${it.label||it.text} [${it.src}]`).join(''));
+else if(x.t==='photo')out.push(`${i} photo: ${x.photo.page} | ${x.photo.caption} | ${x.photo.author} | ${x.photo.license}`);
+else if(x.t==='venture')out.push(`${i} VENTURE ${JSON.stringify(x,null,1)}`);
+else out.push(`${i} ${x.t}: ${x.title}: ${x.text}`);
+});});
+fs.writeFileSync('research/_scratch/jensen-huang-factcheck/book.txt',out.join('\n'));
+fs.writeFileSync('research/_scratch/jensen-huang-factcheck/sources.txt',sources.map((s,i)=>`${i}\t${s.label}\t${s.url}`).join('\n'));

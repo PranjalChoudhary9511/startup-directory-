@@ -1,0 +1,579 @@
+{
+  "chapters": [
+    {
+      "id": "origins",
+      "kicker": "Ages 0–12",
+      "title": "Ten Words a Day",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Jen-Hsun Huang was born on ==17 February 1963== in Taiwan. According to Nvidia, he was born in Taipei, and the family later moved south to the city of Tainan. Decades later the world would call him Jensen. As a small boy he was simply the younger of two brothers in a family that moved wherever his father's work took them.",
+          "src": [3, 4]
+        },
+        {
+          "t": "p",
+          "text": "His father was a chemical engineer whose job took the family to an oil refinery in Thailand. Jen-Hsun was about five when they moved. So before he was ten, he had already lived in two countries.",
+          "src": [3, 4]
+        },
+        {
+          "t": "p",
+          "text": "The family was not rich. Years later, talking with Stripe's Patrick Collison, Huang said plainly that his parents “weren't wealthy.” But they had a plan for their sons, and the plan was bigger than their bank account.",
+          "src": [5]
+        },
+        {
+          "t": "note",
+          "text": "Not rich. Not connected. Just a plan, and parents who stuck to it."
+        },
+        {
+          "t": "h",
+          "text": "The trip that changed the family"
+        },
+        {
+          "t": "p",
+          "text": "In the late 1960s his father, then in his thirties, flew to the United States for the first time. He went to New York City for a training programme with Carrier, the air-conditioner company. He came home with one clear decision. __His two boys would grow up in America.__",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "There was a problem. Nobody in the house spoke English, including his mother, who was a schoolteacher. So she invented her own course. Every day she opened the dictionary, picked ==10 random words==, and made the boys spell them and explain what they meant.",
+          "src": [2, 3]
+        },
+        {
+          "t": "quote",
+          "text": "She [had] no idea whether we'd said it right or not.",
+          "who": "Jensen Huang on his mother's dictionary lessons, CNBC, 2018",
+          "src": [2]
+        },
+        {
+          "t": "example",
+          "text": "Do the maths on her method. Ten words every single day adds up to about 3,650 words a year. A teacher who could not check the answers still built her sons a real vocabulary, simply by never skipping a day.",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "Huang has never pretended he got where he is alone. “I'm the product of my parents' dreams and aspirations,” he told CNBC's Jim Cramer in 2018. He added, simply, that he owed them a great deal.",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "There is one more surprising branch on the family tree. Lisa Su, who later became CEO of AMD, Nvidia's big rival, is a relative through his mother's side. A Taiwanese genealogist worked out that they are first cousins once removed, and an Nvidia spokesperson confirmed that the two are distant cousins. They did not grow up together.",
+          "src": [3]
+        },
+        {
+          "t": "note",
+          "text": "Two cousins now run two rival chip giants. Real life, not a movie."
+        },
+        {
+          "t": "h",
+          "text": "Sent ahead, at nine"
+        },
+        {
+          "t": "p",
+          "text": "In ==1973== Thailand went through serious political unrest. Huang remembers his parents deciding it was safer to send the children to America first and follow later. Jen-Hsun was nine. His brother was only a little older. They flew to Tacoma, Washington, to stay with an uncle and aunt who were themselves new immigrants.",
+          "src": [0, 1, 3]
+        },
+        {
+          "t": "p",
+          "text": "The relatives spoke little English. They looked for a good boarding school, and they chose the Oneida Baptist Institute, deep in the mountains of eastern Kentucky. They thought it was a prep school. Wired later reported that it was really closer to a reform school.",
+          "src": [0, 1, 6]
+        },
+        {
+          "t": "p",
+          "text": "The school's own president later explained its history to NPR. Oneida was founded in the 1890s to stop feuding clans in Clay County from killing each other. In the 1970s, county schools would send it children who had been expelled for not following the rules. For local kids it was often free, but every student had to work.",
+          "src": [0]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/OBI_Sign_01.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:OBI_Sign_01.jpg",
+            "caption": "The welcome sign at Oneida Baptist Institute in Clay County, Kentucky, photographed in 2010. Huang arrived here as a nine- or ten-year-old in the early 1970s.",
+            "author": "Principal01",
+            "license": "Public domain",
+            "year": 2010
+          }
+        },
+        {
+          "t": "quote",
+          "text": "And the kids were really tough. They all had pocket knives.",
+          "who": "Jensen Huang, NPR, 2012",
+          "src": [0]
+        },
+        {
+          "t": "p",
+          "text": "He was small, new, foreign and still learning English, and the Carnegie profile notes that he was badly bullied. Talking to The New Yorker much later, he did not make it sound heroic. There was no counsellor to talk to, he said, and you simply had to toughen up and move on.",
+          "src": [6, 27]
+        },
+        {
+          "t": "h",
+          "text": "The boy who cleaned every toilet"
+        },
+        {
+          "t": "p",
+          "text": "Every student had a job. The older boys were sent to do farm work. The youngest got what was left, and for Jen-Hsun that meant the bathrooms. Wired reported that he scrubbed all the toilets in his ==three-storey dorm, every day==.",
+          "src": [0, 1, 5]
+        },
+        {
+          "t": "quote",
+          "text": "You can't unsee that kind of stuff. But that was my job and so I did it delightfully.",
+          "who": "Jensen Huang, fireside chat with Patrick Collison, 2024 (via Fortune)",
+          "src": [5]
+        },
+        {
+          "t": "p",
+          "text": "Then there was his roommate. Wired described him as a 17-year-old who could not read, covered in tattoos and knife scars. The boy from Thailand taught him to read. NPR adds that he helped an older dorm-mate with maths. __He paid his way into respect by being useful.__",
+          "src": [0, 1]
+        },
+        {
+          "t": "note",
+          "text": "He was about ten, teaching a 17-year-old to read."
+        },
+        {
+          "t": "p",
+          "text": "Small good things kept him going. He found he could reach out of his window and pick apples. He joined the swim team. According to Wired, the man who came to refill the vending machines taught him table tennis. That game would soon become his first obsession.",
+          "src": [0, 1]
+        },
+        {
+          "t": "p",
+          "text": "What is surprising is how he remembers it now. He does not call it trauma. He told NPR he loved his time there, because everyone worked hard, studied hard and was tough. In 2002, at 39, he pulled up the school's website in his Silicon Valley office. “I remember that part of my life more vividly than just about any other,” he told Wired.",
+          "src": [0, 1]
+        },
+        {
+          "t": "quote",
+          "text": "It may have helped define him, but he wasn't defined by it.",
+          "who": "Chris Malachowsky, Nvidia co-founder, on Huang's Kentucky years, NPR, 2012",
+          "src": [0]
+        },
+        {
+          "t": "p",
+          "text": "Eventually his parents reached America too. The family got back together in Oregon, and the brothers left Kentucky. Looking back, Huang told Oregon State University that Oneida was where he first learned about America.",
+          "src": [6, 7, 17]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "17 Feb 1963", "text": "Born in Taiwan (Taipei, per Nvidia); the family later lives in Tainan.", "src": [3, 4] },
+            { "when": "Late 1960s", "text": "His father trains with Carrier in New York and decides his sons will go to America.", "src": [2] },
+            { "when": "Age ~5", "text": "The family moves to Thailand for his father's oil-refinery job.", "src": [3, 4] },
+            { "when": "Late 1960s–1973", "text": "His mother teaches the boys 10 dictionary words a day.", "src": [2] },
+            { "when": "1973, age 9", "text": "Unrest in Thailand: the boys are sent ahead to relatives in Tacoma, Washington.", "src": [0, 3] },
+            { "when": "From age 9–10", "text": "Oneida Baptist Institute, Kentucky: cleans toilets, teaches his roommate to read.", "src": [0, 1, 6] },
+            { "when": "Mid-1970s", "text": "His parents arrive; the family settles in Oregon.", "src": [6, 7] }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Do the lowest job like it is the most important one",
+          "text": "Nobody chose Oneida for him, and nobody asked whether he wanted the toilets. What he did choose was how to do the work, and he chose to do it fully. Today he says no task is beneath him. When life hands you a bad first job, don't spend your energy complaining about it. Use it to build a reputation for doing everything well."
+        }
+      ]
+    },
+    {
+      "id": "growing-up",
+      "kicker": "Ages 13–17",
+      "title": "Paddles, Plates and Straight A's",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The reunited family settled near Portland, Oregon, and Jen-Hsun finished high school in Beaverton. He was a sharp student who moved ahead of his age group. Business Insider and the Carnegie profile both report that he finished high school at ==just 16==.",
+          "src": [6, 7, 11, 17]
+        },
+        {
+          "t": "p",
+          "text": "Outside class, one thing took over his life: table tennis. The game he had picked up in Kentucky turned into a real ambition. Near Portland there was a table-tennis shop and club called Paddle Palace, and that is where the teenager spent his time.",
+          "src": [1, 11]
+        },
+        {
+          "t": "h",
+          "text": "Scrubbing floors to pay for the game"
+        },
+        {
+          "t": "p",
+          "text": "Paddle Palace was owned by Lou Bochenski, whose daughter Judy played on the U.S. national team. Bochenski liked to find promising young players and help them grow. In his book The Nvidia Way, the journalist Tae Kim writes that Bochenski paid the young Huang to scrub the club's floors. That money covered his tournament trips.",
+          "src": [11, 12]
+        },
+        {
+          "t": "p",
+          "text": "In January 1978, Bochenski did something unusual. Sports Illustrated had written about promising junior players and left Huang out, so Bochenski wrote the magazine a letter. It was printed, and in it he called the boy ==“perhaps the most promising junior ever to play table tennis in the Northwest.”==",
+          "src": [11, 12, 13]
+        },
+        {
+          "t": "quote",
+          "text": "He is a straight-A student and very hungry to become a table-tennis champion. He has played only three months, but I suggest you watch out for him in another year.",
+          "who": "Lou Bochenski, letter to Sports Illustrated, January 1978",
+          "src": [12, 13]
+        },
+        {
+          "t": "note",
+          "text": "Only three months, and already in Sports Illustrated. Hunger beats head starts."
+        },
+        {
+          "t": "p",
+          "text": "Bochenski's prediction partly came true. At 15 Huang finished ==third in junior doubles== at the U.S. Open Table Tennis Championships, the Seattle Post-Intelligencer reported in 2005. But he also told that paper where his heart really was: “I loved that sport, but I never loved it more than academics.”",
+          "src": [11]
+        },
+        {
+          "t": "h",
+          "text": "The Las Vegas mistake"
+        },
+        {
+          "t": "p",
+          "text": "Not every tournament went well. As a young teenager he travelled to a national event in Las Vegas. He should have been resting. Instead he stayed up late walking the Las Vegas Strip. He later admitted he could not even remember his results, only that he did not win.",
+          "src": [11]
+        },
+        {
+          "t": "quote",
+          "text": "To this day, I regret not being more focused on the tournament.",
+          "who": "Jensen Huang, Seattle Post-Intelligencer, 2005 (via CNBC)",
+          "src": [11]
+        },
+        {
+          "t": "p",
+          "text": "That is a rare thing to hear from a billionaire. __He still remembers one lost match because he lost his focus, not his skill.__ The lesson he took was simple: talent and practice are wasted if your attention is somewhere else on the day that counts.",
+          "src": [11]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice before your next exam week."
+        },
+        {
+          "t": "h",
+          "text": "Denny's, age 15"
+        },
+        {
+          "t": "p",
+          "text": "At 15 he took his first real job, at a Denny's restaurant in Portland. Denny's is an American diner chain that is open all night. The Oregonian reported in 2008 that he worked the graveyard shift. On his LinkedIn page, Denny's from ==1978 to 1983== is one of the only two jobs he lists. The other is Nvidia.",
+          "src": [14, 11, 16]
+        },
+        {
+          "t": "p",
+          "text": "He started at the very bottom, as a dishwasher. Then he was promoted to busboy, the person who clears and resets the tables, and later he waited tables. He also told Denny's CEO that he ate his first hamburger and his first milkshake at Denny's.",
+          "src": [14, 15]
+        },
+        {
+          "t": "quote",
+          "text": "I was a dishwasher, I was a busboy, I waited tables. No one can carry more coffee cups than I can.",
+          "who": "Jensen Huang, at Denny's, September 2023",
+          "src": [14]
+        },
+        {
+          "t": "p",
+          "text": "He did not treat it as a throwaway teenage job. At Stanford in 2024 he explained how he worked. He planned the work and set up his station before the rush, the way chefs call “mise en place.” As a busboy he made a rule that he never walked anywhere empty-handed, in either direction.",
+          "src": [15, 4]
+        },
+        {
+          "t": "example",
+          "text": "Picture a busboy on a busy night. A normal one carries dirty plates to the kitchen and walks back with nothing. Huang's rule was that every trip carried something both ways: dirty dishes in, something useful back out. That can cut the wasted walking roughly in half. It is the same kind of thinking that later goes into designing an efficient chip.",
+          "src": [15]
+        },
+        {
+          "t": "p",
+          "text": "The job also changed his personality. CNBC, citing a 2010 New York Times interview, reported that waiting tables brought the future CEO out of his shell and taught him to handle chaos calmly. In 2023 he gave young people plain advice: start your first job in a restaurant, because “it teaches you humility, it teaches you hard work, it teaches you hospitality.”",
+          "src": [2, 14]
+        },
+        {
+          "t": "note",
+          "text": "Your first job is training, not a title. Do it brilliantly."
+        },
+        {
+          "t": "p",
+          "text": "He also played a lot of video games. CNBC reported that in 2010 he said games taught him perseverance, because losing over and over pushed him to keep going until he won. Games, table tennis and the diner all taught the same thing. You get better by doing many rounds and being honest about each loss.",
+          "src": [2]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "16", "label": "His age when he finished high school", "src": [6, 17] },
+            { "value": "15", "label": "His age at his first Denny's job, in Portland", "src": [14] },
+            { "value": "3rd", "label": "U.S. Open junior doubles finish, at age 15", "src": [11] },
+            { "value": "3 months", "label": "How long he had played when Sports Illustrated printed his name", "src": [12] }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "Mid-1970s", "text": "The family reunites near Portland; he attends high school in the Beaverton area.", "src": [7, 17] },
+            { "when": "c. 1977", "text": "He scrubs floors at Paddle Palace to pay for table-tennis tournaments.", "src": [11, 12] },
+            { "when": "30 Jan 1978", "text": "A Sports Illustrated letter calls him the Northwest's most promising junior.", "src": [12, 13] },
+            { "when": "1978", "text": "He starts at Denny's as a dishwasher, then becomes a busboy and a waiter.", "src": [14, 16] },
+            { "when": "Age 15", "text": "He finishes third in junior doubles at the U.S. Open Table Tennis Championships.", "src": [11] },
+            { "when": "1980, age 16–17", "text": "He leaves high school and starts electrical engineering at Oregon State University.", "src": [8, 9] }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Be the best at the job you have, not the job you want",
+          "text": "At 15, Huang was not dreaming about running a company. He was trying to be the best dishwasher in the restaurant. That habit of planning, never wasting a trip and doing small things perfectly is the same habit people later saw in him as a CEO. The lesson he took from Las Vegas matters just as much: on the day that counts, your focus is worth more than your talent."
+        }
+      ]
+    },
+    {
+      "id": "first-steps",
+      "kicker": "Ages 16–30",
+      "title": "From Lab Partner to Denny's Booth",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In 1980 Huang arrived at Oregon State University in Corvallis to study electrical engineering. He was 16. He looked even younger than he was, in a room full of young men. Speaking in Hong Kong in 2024, he remembered there being about 250 students and only three women.",
+          "src": [8, 9, 10]
+        },
+        {
+          "t": "quote",
+          "text": "I was the youngest kid in school, in the class. There were 250 students and three girls.",
+          "who": "Jensen Huang, Hong Kong University of Science and Technology, November 2024",
+          "src": [9, 10]
+        },
+        {
+          "t": "h",
+          "text": "“Do you wanna see my homework?”"
+        },
+        {
+          "t": "p",
+          "text": "In a first-year electrical engineering lab, he was paired with a student named Lori Mills. He was 17 and she was 19. He guessed that because he looked like a child, she would assume he was very clever. So he went with the boldest line he had.",
+          "src": [7, 9, 10]
+        },
+        {
+          "t": "quote",
+          "text": "So I walked up to her and I said, ‘Do you wanna see my homework?’",
+          "who": "Jensen Huang, recalling meeting Lori, 2024",
+          "src": [9]
+        },
+        {
+          "t": "p",
+          "text": "Then he offered a deal. If she did homework with him every Sunday, he promised, she would get straight A's. He also secretly finished his own homework in advance, so that he would look like a genius when they compared answers. As he tells it, that gave him a date every single Sunday.",
+          "src": [9, 10]
+        },
+        {
+          "t": "p",
+          "text": "At 20, he made a bigger promise. He told Lori he would be a CEO by the time he was 30. “I had no idea what I was talking about,” he admitted. They married about five years after they first met. In 2013 he joked to Oregon State students that she would not have liked him so much without the quality of his work.",
+          "src": [7, 8, 9, 10]
+        },
+        {
+          "t": "note",
+          "text": "He said CEO by 30. Nvidia was founded weeks after his 30th birthday."
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Kelley_Engineering_Center%2C_Oregon_State_University%2C_Corvallis_-_DPLA_-_21aa59fccd47b72de2dd4a2242bdcaae.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Kelley_Engineering_Center,_Oregon_State_University,_Corvallis_-_DPLA_-_21aa59fccd47b72de2dd4a2242bdcaae.jpg",
+            "caption": "Oregon State University's Kelley Engineering Center, photographed in 2019. In 2013 Huang sat on its atrium steps and told students how he met Lori in a first-year lab.",
+            "author": "Gary Halvorson, Oregon State Archives",
+            "license": "CC BY 4.0",
+            "year": 2019
+          }
+        },
+        {
+          "t": "p",
+          "text": "Oregon State was also where he fell for the technology itself. “I enjoyed computers growing up, but OSU opened up my eyes to the magic behind them,” he said when the university put him in its engineering hall of fame. He credited a few great professors and some classes that “set my mind on fire.” He graduated with a bachelor's degree in electrical engineering in ==1984==.",
+          "src": [7, 9]
+        },
+        {
+          "t": "h",
+          "text": "First job: designing microprocessors"
+        },
+        {
+          "t": "p",
+          "text": "His first engineering job was in Silicon Valley at Advanced Micro Devices, or AMD, where he designed microprocessors, the chips that act as a computer's brain. Nvidia's 1999 stock-market filing says he did this from 1983 to 1985. Most later profiles say he started in 1984, after he graduated.",
+          "src": [18, 17, 10]
+        },
+        {
+          "t": "p",
+          "text": "In 1985 he moved to LSI Logic, which was pioneering a new way to design chips. Instead of laying out a chip gate by gate, LSI's idea was to describe its logic in a high-level language and let software tools do much of the heavy work. Huang loved it immediately.",
+          "src": [18, 19]
+        },
+        {
+          "t": "quote",
+          "text": "That logic was so sensible to me. I was 21 years old at the time, and I wanted to pursue that vision.",
+          "who": "Jensen Huang, Acquired podcast, 2023",
+          "src": [19]
+        },
+        {
+          "t": "p",
+          "text": "He spent eight years at LSI, from 1985 to 1993, and worked in several roles. By the end he was director of its CoreWare business unit, which ran LSI's “system-on-a-chip” strategy. In plain words, he helped customers put whole systems onto a single piece of silicon. __He was learning how customers think, not just how chips work.__",
+          "src": [18, 21]
+        },
+        {
+          "t": "p",
+          "text": "He also kept studying. While working full time, he took a master's degree in electrical engineering at Stanford University and finished it in ==1992==. By then he and Lori had two small children, and the family lived in San Jose near a busy Denny's.",
+          "src": [7, 14, 20]
+        },
+        {
+          "t": "note",
+          "text": "Full-time job, two kids, night degree. No shortcuts here."
+        },
+        {
+          "t": "h",
+          "text": "The two engineers from Sun"
+        },
+        {
+          "t": "p",
+          "text": "LSI's customers included Sun Microsystems, which made powerful workstation computers. Through that work Huang met two Sun engineers, Chris Malachowsky and Curtis Priem. Malachowsky was a co-inventor of Sun's GX graphics architecture. Priem designed the GX products, including what Nvidia later called the world's first single-chip GUI accelerator, a chip that sped up on-screen windows and menus.",
+          "src": [18, 19, 15]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sun_GX_version_1.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Sun_GX_version_1.jpg",
+            "caption": "A first-version Sun GX graphics board. According to the photo's Commons description, its accelerator was built from LSI Logic chips, the kind of work that brought Huang, Malachowsky and Priem together.",
+            "author": "DavidSHRosenthal",
+            "license": "CC BY-SA 4.0",
+            "year": 2025
+          }
+        },
+        {
+          "t": "p",
+          "text": "By 1992 the two Sun engineers had lost an internal political battle over where Sun's technology should go, Fortune reported, and they wanted out. Huang was not looking for anything. He loved LSI and had a good job. They asked him to help them work out what to leave Sun for.",
+          "src": [21, 15]
+        },
+        {
+          "t": "quote",
+          "text": "If it wasn't because of Chris and Curtis convincing me to do Nvidia, I would still be at LSI Logic today. I'm certain of it.",
+          "who": "Jensen Huang, Acquired podcast, 2023",
+          "src": [19]
+        },
+        {
+          "t": "note",
+          "text": "Very important: pick co-founders who push you."
+        },
+        {
+          "t": "h",
+          "text": "Coffee, a booth and a 450-page book"
+        },
+        {
+          "t": "p",
+          "text": "Through 1992 and into 1993, the three met at the Denny's on Berryessa Road in East San Jose, near Huang's home. He liked it because, he later said, it had “all the coffee you could drink and no one could chase you out.” The PC boom was just starting. Windows 95 did not exist yet, and Intel had not yet announced the Pentium.",
+          "src": [14, 15, 21, 4]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/2484_Berryessa_Road.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:2484_Berryessa_Road.jpg",
+            "caption": "The Denny's at 2484 Berryessa Road, San Jose, in 2023. In 2023 a plaque went up over the booth where Nvidia's founders met.",
+            "author": "Coolcaesar",
+            "license": "CC BY-SA 4.0",
+            "year": 2023
+          }
+        },
+        {
+          "t": "p",
+          "text": "Their idea was to build a chip for problems that ordinary processors handled badly, and to start with realistic 3D graphics for PC games. There was one problem. None of them had ever started a company. “None of us knew how to do anything,” Huang told 60 Minutes, sitting in that same Denny's in 2024.",
+          "src": [14, 15, 20]
+        },
+        {
+          "t": "p",
+          "text": "So Huang went to a bookstore and bought a guide on how to write a business plan. It was about 450 pages long. He flipped through a few pages and gave up, thinking that by the time he finished it, he would be out of business. Money was tight. He and Lori had roughly six months of savings, with two small children and a dog to feed.",
+          "src": [15, 4]
+        },
+        {
+          "t": "example",
+          "text": "Here is what six months of runway meant. If the idea failed or the money never came, a 30-year-old engineer with a family would have had to go back and ask for a job. Huang left a secure director's role with only about half a year of cushion. That is the real size of the bet.",
+          "src": [15, 21]
+        },
+        {
+          "t": "h",
+          "text": "“Give this kid money”"
+        },
+        {
+          "t": "p",
+          "text": "Then his old boss called. Wilf Corrigan, the CEO of LSI Logic, wanted to know why Huang had left without explaining his plans, and told him to come back and explain. Huang did his best. Corrigan's verdict, as Huang tells it, was that it was one of the worst elevator pitches he had ever heard.",
+          "src": [15, 19]
+        },
+        {
+          "t": "p",
+          "text": "Then Corrigan picked up the phone anyway. He called Don Valentine, founder of the venture firm Sequoia Capital, and told him he was sending a kid over and wanted Valentine to give him money. __Eight years of excellent work at LSI did what a bad pitch could not.__",
+          "src": [15, 19]
+        },
+        {
+          "t": "quote",
+          "text": "You can even have a bad interview. But you can't run away from your past, and so have a good past.",
+          "who": "Jensen Huang, Stanford GSB View From The Top, 2024",
+          "src": [15]
+        },
+        {
+          "t": "p",
+          "text": "Valentine invested, though not gently. According to Huang, his parting words were: “If you lose my money, I'll kill you.” Sequoia and Sutter Hill Ventures became Nvidia's founding investors. Thirty years later, partners from both firms were still on its board.",
+          "src": [15, 19, 18]
+        },
+        {
+          "t": "p",
+          "text": "Nvidia was founded on ==5 April 1993== and incorporated in California that month. Huang had turned 30 just seven weeks earlier. He became president and CEO on day one. According to its stock-market filing, the company sold 4,303,000 Series A preferred shares at ==$0.50 each== in 1993, which raised about $2.15 million. That was the first real money behind what is now one of the world's most valuable companies.",
+          "src": [22, 18, 28]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "1984", "label": "BS in electrical engineering, Oregon State", "src": [7] },
+            { "value": "8 years", "label": "At LSI Logic, 1985–1993, ending as CoreWare director", "src": [18] },
+            { "value": "1992", "label": "MS in electrical engineering, Stanford, earned while working", "src": [7] },
+            { "value": "≈$2.15M", "label": "Nvidia's 1993 Series A (4,303,000 shares at $0.50)", "src": [18] }
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "1980", "text": "Starts at Oregon State at 16; meets lab partner Lori Mills.", "src": [8, 9] },
+            { "when": "1983/84–1985", "text": "Designs microprocessors at AMD.", "src": [18, 17] },
+            { "when": "1984", "text": "Graduates from Oregon State with a BSEE.", "src": [7] },
+            { "when": "1985–1993", "text": "LSI Logic, ending as director of the CoreWare business unit.", "src": [18] },
+            { "when": "1992", "text": "Finishes a Stanford MSEE while working full time.", "src": [7] },
+            { "when": "1992–93", "text": "Meets Malachowsky and Priem at a Denny's in East San Jose.", "src": [14, 15] },
+            { "when": "5 Apr 1993", "text": "Nvidia is founded; Sequoia and Sutter Hill back it.", "src": [22, 18, 19] }
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "Your track record is your real pitch",
+          "text": "Huang could not write a business plan, and his first pitch flopped. He still got funded, because a CEO who had watched him work for eight years vouched for him. For founders aged 16 to 28, the takeaway is uncomfortable but useful. The reputation you build in your current job, class or internship is the funding round you will raise later. Choose bold co-founders too. Without Malachowsky and Priem pushing him, Huang says he would never have left LSI."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "NPR, Steve Henn, “Tech Pioneer Channels Hard Lessons Into Silicon Valley Success” (20 Feb 2012)", "url": "https://www.npr.org/sections/alltechconsidered/2012/02/20/147162496/tech-pioneer-channels-hard-lessons-into-silicon-valley-success" },
+    { "label": "Wired, “Meet Nvidia CEO Jen-Hsun Huang, the man who plans to make the CPU obsolete” (July 2002)", "url": "https://www.wired.com/2002/07/nvidia/" },
+    { "label": "CNBC, “Nvidia CEO: My mom taught me English a ‘random 10 words at a time’” (6 May 2018)", "url": "https://www.cnbc.com/2018/05/06/nvidia-ceo-my-mom-taught-me-english-a-random-10-words-at-a-time.html" },
+    { "label": "CNN Business, “Nvidia and AMD CEOs: The Taiwanese American cousins going head-to-head” (5 Nov 2023)", "url": "https://edition.cnn.com/2023/11/05/tech/nvidia-amd-ceos-taiwan-intl-hnk/index.html" },
+    { "label": "Fortune, “How Nvidia's billionaire CEO went from Denny's dishwasher…” (12 Mar 2024)", "url": "https://fortune.com/2024/03/12/billionaire-nvidia-ceo-first-job-dennys/" },
+    { "label": "Fortune, “Nvidia's billionaire boss: ‘I used to clean bathrooms, and now I'm the CEO’” (28 Aug 2024)", "url": "https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo/" },
+    { "label": "Carnegie Corporation of New York, Great Immigrants honoree: Jensen Huang", "url": "https://www.carnegie.org/awards/honoree/jensen-huang/" },
+    { "label": "Oregon State University College of Engineering, “Jen-Hsun Huang: Engineering Hall of Fame – 2013”", "url": "https://engineering.oregonstate.edu/alumni-partners/oregon-stater-awards/searchable-awards-database/jen-hsun-huang-engineering-hall" },
+    { "label": "Oregon State University College of Engineering, “Serendipity and hard work”", "url": "https://engineering.oregonstate.edu/all-stories/serendipity-and-hard-work" },
+    { "label": "Fortune, “Jensen Huang shares the pick-up line he used in college when he first met his wife” (30 Nov 2024)", "url": "https://fortune.com/2024/11/30/jensen-huang-nvidia-ceo-pick-up-line-freshman-college-wife-lori/" },
+    { "label": "Business Insider, “Here's how Nvidia CEO Jensen Huang won over his wife” (Nov 2024)", "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-how-he-met-his-wife-lori-2024-11" },
+    { "label": "CNBC Make It, “Nvidia CEO scrubbed floors to pay for table tennis tournaments in high school” (17 Dec 2024)", "url": "https://www.cnbc.com/2024/12/17/nvidia-ceo-scrubbed-floors-to-pay-for-table-tennis-tournaments-in-high-school.html" },
+    { "label": "PC Gamer, Jacob Fox, on the 1978 Sports Illustrated letter about Huang (12 Dec 2024)", "url": "https://www.pcgamer.com/hardware/jen-hsun-huang-might-be-taylor-swift-but-for-tech-but-did-you-know-he-was-once-praised-in-sports-illustrated-as-being-perhaps-the-most-promising-junior-ever-to-play-table-tennis-in-the-northwest/" },
+    { "label": "Sports Illustrated Vault, “19th Hole: The Readers Take Over” (30 Jan 1978)", "url": "https://vault.si.com/vault/1978/01/30/19th-hole-the-readers-take-over" },
+    { "label": "NVIDIA Blog, “NVIDIA Founder and CEO Jensen Huang Returns to Denny's Where NVIDIA Launched a Trillion-Dollar Vision” (26 Sep 2023)", "url": "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/" },
+    { "label": "Stanford Graduate School of Business, View From The Top: Jensen Huang (2024), transcript", "url": "https://www.gsb.stanford.edu/insights/jensen-huang-how-use-first-principles-thinking-drive-decisions" },
+    { "label": "Business Standard, “Nvidia CEO Jensen Huang's experience as ‘dishwasher’ goes viral on LinkedIn” (28 Aug 2024)", "url": "https://www.business-standard.com/companies/people/nvidia-ceo-jensen-huang-s-experience-as-dishwasher-goes-viral-on-linkedin-124082800279_1.html" },
+    { "label": "Business Insider, profile of Jensen Huang's career and wealth", "url": "https://www.businessinsider.com/nvidia-jensen-huang-chipmaker-cofounder-ceo-wealth-net-worth-ai-2023-5" },
+    { "label": "NVIDIA Corp, Form S-1/A registration statement, SEC EDGAR (filed 13 Jan 1999)", "url": "https://www.sec.gov/Archives/edgar/data/1045810/0001012870-99-000100.txt" },
+    { "label": "Acquired podcast, interview with Jensen Huang (Oct 2023), transcript", "url": "https://www.acquired.fm/episodes/jensen-huang" },
+    { "label": "CBS News 60 Minutes, Bill Whitaker, “Meet Nvidia CEO Jensen Huang…” transcript (2024)", "url": "https://www.cbsnews.com/news/meet-nvida-ceo-jensen-huang-company-powering-ai-today-60-minutes-transcript/" },
+    { "label": "Fortune, Andrew Nusca, “This Man Is Leading an AI Revolution in Silicon Valley” (16 Nov 2017)", "url": "https://fortune.com/2017/11/16/nvidia-ceo-jensen-huang/" },
+    { "label": "NVIDIA, Corporate Timeline", "url": "https://www.nvidia.com/en-us/about-nvidia/corporate-timeline/" },
+    { "label": "NVIDIA Blog, “NVIDIA CEO Tells NTU Grads to Run, Not Walk” (26 May 2023)", "url": "https://blogs.nvidia.com/blog/huang-ntu-commencement/" },
+    { "label": "CNBC Make It, “Success requires ‘ample doses of pain,’ billionaire Nvidia CEO tells Stanford students” (15 Mar 2024)", "url": "https://www.cnbc.com/2024/03/15/nvidia-ceo-huang-at-stanford-pain-and-suffering-breeds-success.html" },
+    { "label": "Fortune, “Nvidia cofounder Jensen Huang says ‘nobody in their right mind’ would start a company” (23 Oct 2023)", "url": "https://fortune.com/2023/10/23/nvidia-ceo-jensen-huang-tech-startup-entrepreneur/" },
+    { "label": "CNBC Make It, “Nvidia briefly overtakes Apple… it began in a breakfast booth at Denny's” (5 Nov 2024)", "url": "https://www.cnbc.com/2024/11/05/nvidia-briefly-overtakes-apple-as-most-valuable-us-company-origin-story.html" },
+    { "label": "CNBC Make It, “Nvidia's CEO was labeled a ‘demanding’ boss by staff” (13 May 2024)", "url": "https://www.cnbc.com/2024/05/13/nvidias-ceo-was-labeled-a-demanding-boss-by-staff-experts-discuss.html" },
+    { "label": "NVIDIA Newsroom, Jensen Huang biography", "url": "https://nvidianews.nvidia.com/bios/jensen-huang" }
+  ],
+  "factCheck": {
+    "method": "Primary and official sources were read directly where possible: Nvidia's January 1999 S-1/A on SEC EDGAR (career dates, LSI title, 1993 Series A, April 1993 incorporation), Nvidia's corporate timeline and newsroom bio, Nvidia's own blog posts (Denny's 2023, NTU 2023), the Stanford GSB 2024 View From The Top transcript, the Acquired 2023 transcript, the CBS 60 Minutes transcript, Oregon State University's hall-of-fame page and alumni story, and the NPR 2012 transcript. These were cross-checked against established press (Wired 2002, CNBC, CNN, Fortune, Business Insider, Business Standard). Wikipedia was used only to find leads and was never cited. The New Yorker (2023), The Oregonian (2008, 2024), the Seattle Post-Intelligencer (2005) and The Nvidia Way could not be fetched directly. Details from them appear only where CNBC, PC Gamer or Carnegie quote them, and the text says so. Commons photo authors and licences were taken from the Commons API.",
+    "disputed": [
+      { "claim": "Birthplace: Taipei or Tainan", "note": "Nvidia, via CNN, says he was born in Taipei and moved to Tainan as a child. Some profiles give Tainan as his birthplace. We follow Nvidia." },
+      { "claim": "When he started at AMD", "note": "Nvidia's 1999 S-1/A says 'From 1983 to 1985' he designed microprocessors at AMD. Business Insider and most later profiles say 1984–1985, after his 1984 graduation. The text gives both." },
+      { "claim": "Size of his Oregon State engineering class", "note": "Oregon State's alumni story says a class of about 80 with three women. In his 2024 HKUST speech Huang remembered 250 students and three women. We quote Huang and attribute the number to him." },
+      { "claim": "Age when he worked at Denny's", "note": "Nvidia's blog and 60 Minutes say he started at 15, and his LinkedIn lists 1978–1983. CNBC (2018) wrote that he waited tables 'in his 20s'. LinkedIn dates suggest he worked there into his college years. We use 15 as the start." },
+      { "claim": "Where he learned table tennis", "note": "Wired (2002) says he took up table tennis in Kentucky with help from the vending-machine man. Bochenski's January 1978 letter says he had 'played only three months'. The letter may mean serious, competitive play. Both are reported." },
+      { "claim": "His age at the founding", "note": "Fortune (2017) calls him 'just 29' at the Denny's meetings. Those meetings began in 1992, when he was 29. Nvidia was founded on 5 April 1993, after his 30th birthday on 17 February 1993." },
+      { "claim": "Nvidia's starting capital", "note": "CNBC (2018) says the founders started with '$40,000'. Secondary accounts based on Tae Kim's book describe each founder putting in about $200. We could not verify either figure in a primary source, so the text gives only the SEC-documented 1993 Series A: 4,303,000 shares at $0.50." },
+      { "claim": "Exact words Wilf Corrigan used to Don Valentine", "note": "Huang tells the story slightly differently each time. At Stanford GSB in 2024 he quoted 'I want you to give him money'. On Acquired in 2023 he said 'invest in this kid'. We paraphrase it and quote neither as Corrigan's exact words." },
+      { "claim": "Timing of the Denny's decision", "note": "The Commons description of the Berryessa Road photo says the decision came in 'late 1992'. Huang at Stanford said they met in 1992 and 1993, and Nvidia's blog says 1993. We say the meetings ran through 1992 and into 1993." }
+    ]
+  }
+}

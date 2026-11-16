@@ -1,0 +1,403 @@
+{
+  "slug": "sidecar",
+  "name": "Sidecar",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Ride-hailing",
+  "founded": 2011,
+  "died": 2015,
+  "status": "sold-for-parts",
+  "brandColor": "#f15a29",
+  "founders": [
+    {
+      "name": "Sunil Paul",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Jahan Khanna",
+      "role": "Co-founder and CTO"
+    },
+    {
+      "name": "Adrian Fortino",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Got there early. Got outspent all the way.",
+  "oneLiner": "An app that let everyday drivers give rides to strangers in their own cars, one of the earliest ride-sharing services, like Lyft and Uber.",
+  "causeOfDeath": "It invented features rivals later copied, but with $35M against Uber's $10B+ and Lyft's $1.26B, it lost the price war; a late pivot to delivery failed.",
+  "raisedUsdM": 35,
+  "peakValuationUsdM": 70,
+  "endValueUsdM": 39,
+  "moneyNote": "TechCrunch: $35M raised (a later TechCrunch report citing PitchBook says $43M, with a peak valuation of about $70M in 2014). GM bought its assets and hired staff for a reported $39M in cash.",
+  "moneySrc": [
+    2,
+    3,
+    5
+  ],
+  "inOneMinute": [
+    "Sidecar was one of the **first apps to let ordinary people drive strangers** in their own cars for money, years before 'ride-sharing' was normal.",
+    "It tried smart ideas early: shared rides, drivers setting prices. But it raised **$35 million while Uber raised over $10 billion**.",
+    "Rivals cut prices and spent heavily. Sidecar pivoted to deliveries, then **shut down on 31 December 2015**. GM bought what was left."
+  ],
+  "killerLine": "**Being early and clever isn't enough in a winner-takes-most market.** Know if you can fund the war before you start it.",
+  "numbers": [
+    {
+      "value": "$35M",
+      "label": "Sidecar's total funding",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$10B+",
+      "label": "raised by Uber by the time Sidecar closed",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$70M",
+      "label": "peak valuation in 2014 (PitchBook)",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "$39M",
+      "label": "what GM reportedly paid for its assets and team",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: your car, your neighbour's ride",
+      "body": "Sunil Paul had been thinking about shared rides for a long time. He held a patent from years earlier on working out efficient routes for shared transport, and TechCrunch notes he is credited as one of the first to imagine the idea behind Uber, before Uber existed. In September 2011 he started Sidecar in San Francisco with Jahan Khanna and Adrian Fortino. The idea: **let regular people with spare seats give rides** to others going their way, booked through an app. Today that sounds normal, thanks to Ola and Uber. In 2012 it was radical, and arguably illegal in many cities. Sidecar called it organised carpooling, not a taxi service.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The rise: fighting regulators, winning rules",
+      "body": "In 2012 Sidecar raised **$10 million from Google Ventures and Lightspeed**. California's transport regulator sent cease-and-desist letters to Sidecar, Lyft and Uber, fining each $20,000. In Philadelphia, officials ran a sting and shut Sidecar down as unauthorised. But the young companies pushed back, and in September 2013 California became **the first US state to create rules** for 'transportation network companies'. Sidecar helped make ride-sharing legal. It expanded to Boston, Chicago, Washington and other cities. It also tried new ideas: drivers could set their own prices, riders could choose drivers, and from 2014 **shared rides** let strangers heading the same way split a fare. In September 2014 it raised $15 million, including from Richard Branson.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The cracks: a money war it couldn't win",
+      "body": "Ride-hailing turned into a price war. Uber and Lyft spent heavily on cheap rides for passengers and bonuses for drivers. Sidecar's whole funding was about **$35 million**. Lyft raised $1.26 billion, and Uber **over $10 billion**. Sunil Paul later said Sidecar faced a 'significant capital disadvantage'. Every city it entered meant fighting rivals that could lose far more money for far longer. Its valuation peaked at about $70 million in 2014. In February 2015 Sidecar began delivering packages and food for local businesses using its drivers. By August 2015, it had **mostly given up on passengers** and become a delivery company. That pivot did not work either.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The fall: last ride on New Year's Eve",
+      "body": "On 29 December 2015, Sidecar announced it would stop all rides and deliveries on **31 December at 2pm**. In January 2016, General Motors, which had just invested $500 million in Lyft, bought Sidecar's assets, reportedly for **$39 million in cash**, and hired Jahan Khanna and about 20 employees. Sidecar kept its patents and licensed them to GM. In 2018, Sidecar sued Uber, **alleging** it used illegal tactics, including heavily subsidised pricing and fake ride requests on rivals' apps, to push competitors out. Uber said the lawsuit 'has it backwards'. Paul's view was blunt: Uber was willing to win at any cost.",
+      "src": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Sep 2011",
+      "event": "Sunil Paul, Jahan Khanna and Adrian Fortino found Sidecar in San Francisco",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2012",
+      "event": "Raises $10M Series A from Google Ventures and Lightspeed",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Fall 2012",
+      "event": "California regulator orders Sidecar, Lyft and Uber to stop and fines each $20,000",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2013",
+      "event": "Philadelphia officials run a sting and shut Sidecar down there",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2013",
+      "event": "California becomes first state to legalise ride-sharing companies",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2014",
+      "event": "Raises $15M with Richard Branson; valuation peaks near $70M",
+      "kind": "money",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Feb 2015",
+      "event": "Starts same-day deliveries for local businesses",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2015",
+      "event": "Becomes mostly a delivery company",
+      "kind": "crisis",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "31 Dec 2015",
+      "event": "Stops all rides and deliveries",
+      "kind": "end",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jan 2016",
+      "event": "GM buys its assets for a reported $39M and hires about 20 staff",
+      "kind": "after",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Dec 2018",
+      "event": "Sidecar sues Uber, alleging illegal tactics; Uber disputes it",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Money raised by December 2015",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Sidecar",
+        "Lyft",
+        "Uber"
+      ],
+      "series": [
+        {
+          "name": "Total raised",
+          "values": [
+            35,
+            1260,
+            10000
+          ]
+        }
+      ],
+      "takeaway": "Uber had raised roughly 285 times more money than Sidecar. Sidecar barely shows on the chart.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2012",
+      "round": "Series A",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [
+        "Google Ventures",
+        "Lightspeed Venture Partners"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2014",
+      "round": "Follow-on round (after $20M in Series A and B)",
+      "amountUsdM": 15,
+      "valuationUsdM": null,
+      "investors": [
+        "Avalon Ventures",
+        "Union Square Ventures",
+        "Richard Branson"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 50
+    },
+    {
+      "key": "funding-dried",
+      "weight": 20
+    },
+    {
+      "key": "regulation",
+      "weight": 15
+    },
+    {
+      "key": "focus",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Entered a money war without the money",
+      "explain": "Ride-hailing became a battle of **who could lose money longest**: cheap fares for riders, bonuses for drivers. Sidecar raised $35 million; Uber raised over $10 billion. Better features could not make up for a gap that large in a market where riders mostly chose the cheapest, fastest car.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Spread across many cities",
+      "explain": "Sidecar operated in about **11 US markets** with a small fraction of its rivals' money. In each one it faced the same giants. Concentrating on a few cities where it could be the best option might have built a stronger base.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "Its edge was easy to copy",
+      "explain": "Sidecar was early with **shared rides and driver-set pricing**. But features in an app can be copied quickly by richer rivals, and Paul himself said Sidecar was first with many features. Without a lasting advantage, being first gave only a short head start.",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "title": "Pivoted late and away from its core",
+      "explain": "By August 2015 Sidecar had **mostly abandoned passengers** for deliveries, a new business with its own costs and rivals. Pivots made with little money left rarely have time to work. It shut down five months later. Its drivers and app were built for passengers, so much had to be relearned.",
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Has a rival raised 10 times or more what you have, in the same market?",
+    "Do customers mostly choose on price, where the richest player can always undercut you?",
+    "Could a big competitor copy your best feature in a few months?",
+    "Are you in more cities than you can afford to win?",
+    "Are you planning a major pivot with less than a year of money left?"
+  ],
+  "lessons": [
+    {
+      "title": "Check the capital gap honestly",
+      "detail": "Before entering a market, look at how much your top rivals have raised. If it's 10x or 100x more and customers choose on price, find a niche they ignore instead of fighting head-on."
+    },
+    {
+      "title": "Build an advantage that's hard to copy",
+      "detail": "Features get copied. Lasting edges come from things like a loyal community, special partnerships, regulatory licences, or unique data. Ask what you have that a rich rival can't buy quickly."
+    },
+    {
+      "title": "Own a niche deeply",
+      "detail": "Instead of many cities, dominate one segment: airport runs, office commutes, a few dense neighbourhoods. Being number one somewhere beats being number three everywhere."
+    },
+    {
+      "title": "Pivot while you still have runway",
+      "detail": "If the core is losing, decide early. A pivot with 18 months of cash has a chance; a pivot with five months usually doesn't."
+    },
+    {
+      "title": "Patents and people still have value",
+      "detail": "Sidecar's patents and team were bought and licensed by GM. Protect your inventions and keep a strong team; they can be worth something even if the company doesn't survive."
+    }
+  ],
+  "quote": {
+    "text": "Uber is willing to win at any cost.",
+    "who": "Sunil Paul, co-founder and CEO of Sidecar",
+    "context": "Writing about Sidecar's sale to GM in early 2016",
+    "src": [
+      5
+    ]
+  },
+  "afterlife": {
+    "text": "GM folded Sidecar's people, data and customers into its car-sharing unit, Maven, and licensed Sidecar's patents. In 2018 Sidecar sued Uber, alleging predatory pricing and fake ride requests designed to hurt rivals; Uber denied it. Ride-sharing itself, the idea Sidecar helped make legal, became a global industry, from Uber and Lyft to Ola and Rapido in India.",
+    "src": [
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Sidecar (company) (citing Forbes, TechCrunch, Bloomberg, SFGate)",
+      "url": "https://en.wikipedia.org/wiki/Sidecar_(company)"
+    },
+    {
+      "label": "TechCrunch: Sidecar raises another $15 million, adds Richard Branson (Sep 2014)",
+      "url": "https://techcrunch.com/2014/09/15/ridesharing-service-sidecar-raises-another-15-million-adds-sir-richard-branson-as-investor/"
+    },
+    {
+      "label": "TechCrunch: Sidecar is calling it quits on rides and deliveries (Dec 2015)",
+      "url": "https://techcrunch.com/2015/12/29/sidecar-is-calling-it-quits-on-rides-and-deliveries/"
+    },
+    {
+      "label": "TechCrunch: One Sidecar, up with a twist (GM deal analysis, Jan 2016)",
+      "url": "https://techcrunch.com/2016/01/30/one-sidecar-up-with-a-twist/"
+    },
+    {
+      "label": "TechCrunch: Keep an eye on Sidecar's patents (Jan 2016)",
+      "url": "https://techcrunch.com/2016/01/20/sidecar-patents/"
+    },
+    {
+      "label": "TechCrunch: Sidecar says Uber 'took illegal steps to undermine' competitors (Dec 2018)",
+      "url": "https://techcrunch.com/2018/12/11/sidecar-says-uber-took-illegal-steps-to-undermine-competitors-in-new-lawsuit/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Uber used illegal tactics to kill Sidecar",
+        "note": "This is Sidecar's allegation in a 2018 civil lawsuit. Uber denied it, and the claims were not proven in what we read."
+      },
+      {
+        "claim": "Total raised",
+        "note": "TechCrunch said $35M in 2015; a 2018 TechCrunch report citing PitchBook said $43M."
+      },
+      {
+        "claim": "Sidecar was the first peer-to-peer ride-sharing app",
+        "note": "Sidecar and its founder claim several firsts; the exact order of launches versus Lyft and UberX is debated, so the page says 'one of the first'."
+      },
+      {
+        "claim": "GM paid $39 million",
+        "note": "The figure comes from reporting on the deal; GM did not publish a price in what we read."
+      }
+    ]
+  }
+}

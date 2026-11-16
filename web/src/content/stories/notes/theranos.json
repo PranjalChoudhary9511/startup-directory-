@@ -1,0 +1,245 @@
+{
+  "slug": "theranos",
+  "company": "Theranos",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#00A580",
+    "secondary": "#3ABCA9",
+    "accent": "#C8102E",
+    "ink": "#2B2C30",
+    "paper": "#F2F5F4",
+    "note": "Teal #00A580 and #3ABCA9 come from the gradient in Theranos's logo file on Wikimedia Commons, and the ink is a darker shade of its grey wordmark (#65666A). The red accent is ours, a warning colour for a fraud story."
+  },
+  "tagline": "A 19-year-old's promise of blood tests from a finger prick raised over $700 million, and the machine never did what she said.",
+  "hook": "Theranos told investors it would bring in more than $100 million in 2014. It actually made a little more than $100,000 from operations that year.",
+  "hookSrc": [2, 0],
+  "cast": [
+    {
+      "name": "Ramesh \"Sunny\" Balwani",
+      "role": "Holmes's former romantic partner. At Theranos from September 2009 to July 2016 as board member, chief operating officer and president. Convicted on all 12 counts in July 2022 and sentenced to 155 months (12 years, 11 months).",
+      "photo": null,
+      "src": [1, 36]
+    },
+    {
+      "name": "Tyler Shultz",
+      "role": "Whistleblower. A young biology graduate who joined Theranos in 2013, a job that came through his grandfather, board member George Shultz. Found that test data did not add up, emailed his concerns, quit after about eight months, and became a source for the Wall Street Journal. Theranos's lawyers pursued him for years.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tyler_Shultz_at_the_International_Journalism_Festival_2024_in_Perugia%2C_Italy.jpg/1280px-Tyler_Shultz_at_the_International_Journalism_Festival_2024_in_Perugia%2C_Italy.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tyler_Shultz_at_the_International_Journalism_Festival_2024_in_Perugia,_Italy.jpg",
+        "caption": "Tyler Shultz speaking about whistleblowing at the International Journalism Festival in Perugia, 2024.",
+        "author": "Jay Dixit",
+        "license": "CC BY-SA 4.0",
+        "year": 2024
+      },
+      "src": [12, 13, 27, 10]
+    },
+    {
+      "name": "Erika Cheung",
+      "role": "Whistleblower. Joined the Theranos lab in 2013 straight out of college and left in spring 2014. Saw devices failing quality control and data points being deleted, reported the company to the regulator CMS in 2015, and testified at Holmes's trial in 2021.",
+      "photo": null,
+      "src": [10]
+    },
+    {
+      "name": "John Carreyrou",
+      "role": "Wall Street Journal reporter whose story on 15 October 2015 revealed that Theranos ran few tests on its own machine. He later wrote the book Bad Blood (2018), based on interviews with about 150 people, including 60 former employees.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/John_Carreyrou_9-12-2019_DSC02013_%2848724580882%29_%28cropped%29.jpg/1280px-John_Carreyrou_9-12-2019_DSC02013_%2848724580882%29_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:John_Carreyrou_9-12-2019_DSC02013_(48724580882)_(cropped).jpg",
+        "caption": "John Carreyrou speaking in September 2019.",
+        "author": "kellywritershouse",
+        "license": "CC BY 2.0",
+        "year": 2019
+      },
+      "src": [7, 26]
+    }
+  ],
+  "founder": {
+    "name": "Elizabeth Holmes",
+    "role": "Founder, chair and CEO of Theranos (2003-2018); convicted of defrauding investors in 2022",
+    "born": "Feb 1984, Washington, D.C., USA",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Elizabeth_Holmes_2014_cropped.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Holmes_2014_cropped.jpg",
+      "caption": "Elizabeth Holmes backstage at TechCrunch Disrupt, September 2014, the year Theranos was valued at $9 billion.",
+      "author": "Photo by Max Morse for TechCrunch",
+      "license": "CC BY 2.0",
+      "year": 2014
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ashton_B._Carter%2C_William_Perry%2C_and_Elizabeth_Holmes_-_130417-D-NI589-215_%288660144172%29.jpg/1280px-Ashton_B._Carter%2C_William_Perry%2C_and_Elizabeth_Holmes_-_130417-D-NI589-215_%288660144172%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Ashton_B._Carter,_William_Perry,_and_Elizabeth_Holmes_-_130417-D-NI589-215_(8660144172).jpg",
+        "caption": "Deputy Defense Secretary Ashton Carter and former Defense Secretary William Perry, a Theranos board member, meet Holmes in Palo Alto, April 2013.",
+        "author": "OSD Deputy Secretary of Defense",
+        "license": "Public domain",
+        "year": 2013
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Theranos_Chairman%2C_CEO_and_Founder_Elizabeth_Holmes_speaks_onstage_at_TechCrunch_Disrupt_at_Pier_48_on_September_8%2C_2014_%2814996937900%29.jpg/1280px-Theranos_Chairman%2C_CEO_and_Founder_Elizabeth_Holmes_speaks_onstage_at_TechCrunch_Disrupt_at_Pier_48_on_September_8%2C_2014_%2814996937900%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Theranos_Chairman,_CEO_and_Founder_Elizabeth_Holmes_speaks_onstage_at_TechCrunch_Disrupt_at_Pier_48_on_September_8,_2014_(14996937900).jpg",
+        "caption": "Holmes on stage at TechCrunch Disrupt, San Francisco, 8 September 2014.",
+        "author": "TechCrunch",
+        "license": "CC BY 2.0",
+        "year": 2014
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/R_Theranos_Inc_CMS_07-07-2016_Letter.pdf/page1-960px-R_Theranos_Inc_CMS_07-07-2016_Letter.pdf.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:R_Theranos_Inc_CMS_07-07-2016_Letter.pdf",
+        "caption": "Page one of the regulator's letter of 7 July 2016 imposing sanctions on Theranos's Newark lab, addressed to the lab director and to Holmes and Balwani as owners.",
+        "author": "Karen Fuller, Centers for Medicare & Medicaid Services",
+        "license": "Public domain",
+        "year": 2016
+      }
+    ],
+    "background": "Holmes was born in February 1984 in Washington, D.C. Her father, Christian Holmes IV, spent most of his career in government and aid work, and her mother, Noel, was a congressional committee staffer. The family moved to Houston when she was about nine, where she learned Mandarin from a Saturday tutor. At nine she wrote to her father that what she wanted out of life was 'to discover something new, something mankind didn't know was possible to do'. She entered Stanford in 2002 to study chemical engineering as a 'president's scholar' with a $3,000 research stipend.",
+    "backgroundSrc": [5, 18],
+    "journey": [
+      { "year": "1984", "kind": "life", "title": "Born in Washington, D.C.", "detail": "Daughter of a government aid official and a congressional staffer.", "src": [5] },
+      { "year": "c.1993", "kind": "life", "title": "A letter to 'Dear Daddy'", "detail": "At nine she wrote that she wanted to discover something new. The family moved to Houston, and she began Mandarin lessons.", "src": [5] },
+      { "year": "2002", "kind": "life", "title": "Stanford, chemical engineering", "detail": "As a freshman she persuaded professor Channing Robertson to let her spend her $3,000 stipend in his lab alongside PhD students.", "src": [5, 18] },
+      { "year": "2003", "kind": "job", "title": "Summer lab job in Singapore", "detail": "Worked at the Genome Institute of Singapore on tests to detect the SARS virus, a post she got partly because she spoke Mandarin.", "src": [5] },
+      { "year": "2003", "kind": "attempt", "title": "A patch patent and a new company", "detail": "She wrote a patent application for a wearable patch that would give a drug and check the patient's blood. Robertson backed her; medicine professor Phyllis Gardner raised doubts.", "src": [5, 18] },
+      { "year": "2004", "kind": "attempt", "title": "Drops out to run Theranos", "detail": "A semester after starting the company she left Stanford. Her parents let her put the money saved for her education into the business.", "src": [5, 0] },
+      { "year": "2009-11", "kind": "failure", "title": "Revenue falls, promises rise", "detail": "Revenue dropped from $2.8 million in 2009 to under $600,000 in 2011, yet in 2010 she told an investor to expect $223 million in 2011. Balwani joined in September 2009.", "src": [0, 1] },
+      { "year": "2013", "kind": "failure", "title": "Chief scientist Ian Gibbons dies", "detail": "Gibbons, at Theranos since 2005, died in 2013 after an overdose, while dreading a court deposition about the company. His widow later said he told her 'there was nothing there'.", "src": [15] },
+      { "year": "2013", "kind": "breakthrough", "title": "Into Walgreens stores", "detail": "Walgreens committed to a national rollout in September 2013. Patients got fingerstick tests in Palo Alto and Phoenix stores, but most were run on modified commercial machines.", "src": [5, 0] },
+      { "year": "2014", "kind": "breakthrough", "title": "The peak: $9 billion on paper", "detail": "Investors paid prices valuing Theranos at $9 billion. She owned about half, and Forbes put her worth at $4.5 billion.", "src": [5, 6] },
+      { "year": "2015", "kind": "failure", "title": "The Wall Street Journal story", "detail": "On 15 October 2015 the Journal reported that by the end of 2014 only 15 of more than 240 tests ran on Theranos's own Edison device. Theranos called the story 'factually and scientifically erroneous'.", "src": [7] },
+      { "year": "2016", "kind": "failure", "title": "Regulators shut the lab", "detail": "In January CMS found the Newark lab put patients in 'immediate jeopardy'. In June Forbes cut her net worth to zero and Walgreens ended the partnership. In July CMS moved to revoke the lab's certificate, which carried a two-year ban on Holmes owning or running a lab.", "src": [4, 3, 6, 9, 33] },
+      { "year": "2018", "kind": "failure", "title": "Charged, then the company dies", "detail": "In March she settled SEC fraud charges with a $500,000 penalty and a 10-year bar from leading a public company, without admitting or denying them. She was indicted in June, and in September Theranos said it would dissolve.", "src": [2, 0, 16] },
+      { "year": "2022", "kind": "failure", "title": "Convicted and sentenced", "detail": "On 3 January 2022 a jury convicted her on four counts (one conspiracy, three wire fraud) of defrauding investors. It acquitted her on four counts about patients and could not agree on three more investor counts, which prosecutors dropped. On 18 November she was sentenced to 135 months in prison.", "src": [0, 36, 31] },
+      { "year": "2023", "kind": "life", "title": "Enters prison", "detail": "Began her sentence in May 2023 at the minimum-security Federal Prison Camp in Bryan, Texas.", "src": [25, 22] },
+      { "year": "2026", "kind": "now", "title": "Sentence cut, still inside", "detail": "In March 2026 a judge cut her term to 123 months under a retroactive guideline change. The Bureau of Prisons lists her release for 22 February 2030, and in September 2026 she was approved to move to a halfway house in August 2027.", "src": [19, 20, 22, 29] }
+    ],
+    "mindset": [
+      { "idea": "Change everything at once", "explain": "Robertson recalled her saying: 'I don't want to make an incremental change in some technology in my life.' Where it went wrong: the ambition ran far ahead of the science, and prosecutors said she knew the analyzer could run only a few basic tests.", "src": [5, 0] },
+      { "idea": "The mission as a shield", "explain": "She framed Theranos around people having to 'say goodbye too soon'. Prosecutors said she used that selfless image while raising hundreds of millions of dollars and hiding what the machine could not do.", "src": [5, 0] },
+      { "idea": "Secrecy over evidence", "explain": "In 2014 she would not explain how the analyzers worked or let them be photographed, citing trade secrets. At trial she said the company's lawyers advised keeping its methods confidential. Secrecy kept outsiders from checking whether the machine worked at all.", "src": [5, 11] },
+      { "idea": "Control every room", "explain": "A handwritten note shown at trial reads 'I know the outcome of every encounter' and 'I show no excitement'. Holmes testified these were Balwani's rules for her; his lawyer denied her abuse allegations.", "src": [23] },
+      { "idea": "Treat critics as enemies", "explain": "Theranos dismissed the Journal's sources as 'inexperienced and disgruntled former employees'. A court filing says it spent more than $150,000 on a private investigator to watch whistleblowers Cheung and Shultz.", "src": [7, 10] }
+    ],
+    "habits": [
+      { "habit": "16-hour days, seven days a week", "detail": "A vegan, she told Fortune in 2014 she had dropped coffee for green vegetable juices to get through her 16-hour days and seven-day weeks.", "src": [5] },
+      { "habit": "The same black outfit every day", "detail": "Over four days in 2014 she wore the same black outfit daily, and kept a framed screenshot of Steve Jobs's Apple biography in her office.", "src": [5] },
+      { "habit": "A written schedule from 4 a.m.", "detail": "A handwritten daily plan, entered as evidence at her trial, starts with a 4:00 a.m. wake-up and lists her meals.", "src": [23] }
+    ],
+    "darkestHour": {
+      "title": "2015-2016: the truth comes out",
+      "story": "On 15 October 2015 the Wall Street Journal reported that Theranos ran only a fraction of its tests on its own device. Theranos attacked the story. On 25 January 2016 the regulator CMS told the company that problems at its Newark lab amounted to 'immediate jeopardy to patient health and safety'. In May 2016 Theranos told regulators it had voided two years of results from its Edison devices and sent out tens of thousands of corrected reports. In June Forbes cut Holmes's estimated net worth from $4.5 billion to nothing, and Walgreens ended the partnership. In July CMS imposed sanctions, including revoking the lab's certificate and a fine of $10,000 a day, and Holmes was barred from owning or running a lab for two years. Holmes said Theranos took 'full responsibility for the issues' at the lab. The collapse ended with SEC fraud charges in 2018.",
+      "src": [7, 3, 34, 6, 33, 9, 32, 2]
+    },
+    "genuineness": {
+      "story": "The honest people in this story were two people in their twenties. Tyler Shultz, a research engineer for about eight months, saw validation data that did not add up, emailed his concerns, and resigned. His parents advised him to quit quietly. Instead he contacted New York state regulators under an alias and became a source for the Journal. His grandfather, a Theranos board member, told him 'I think you're wrong'. Theranos lawyers tried to intimidate him, private investigators followed him, and his family spent more than $400,000 on legal fees. Erika Cheung, in her first job after college, saw roughly a quarter of tests on Theranos devices fail quality control in March 2014. A senior executive dismissed her as unqualified to judge. She contacted CMS in 2015 and testified at Holmes's trial in 2021. The two later co-founded the non-profit Ethics in Entrepreneurship.",
+      "src": [27, 13, 12, 10, 30]
+    },
+    "now": "Holmes is serving her sentence at Federal Prison Camp Bryan, Texas. In March 2026 Judge Edward Davila cut her term from 135 to 123 months, and the Bureau of Prisons lists her projected release as 22 February 2030 (checked 28 October 2026). In September 2026 she was approved to move to a halfway house in Texas, scheduled for August 2027. An appeals court upheld her conviction and the $452 million restitution she owes with Balwani. Her request for a commutation, filed in 2025, was listed as pending in January 2026. In the October 2026 documentary You Can See Everything she maintains she did nothing wrong.",
+    "nowSrc": [19, 20, 22, 29, 21, 23]
+  },
+  "numbers": [
+    { "value": "$9 billion", "label": "Valuation implied by 2014 share sales (peak)", "asOf": "2014", "src": [5, 6] },
+    { "value": "$700M+", "label": "Raised from investors on false claims", "asOf": "Mar 2018", "src": [2, 6] },
+    { "value": "~$100,000", "label": "Actual 2014 revenue from operations (claimed: over $100M)", "asOf": "2014", "src": [2, 0] },
+    { "value": "15 of 240+", "label": "Tests run on its own Edison device, per WSJ sources (Theranos disputed)", "asOf": "End 2014", "src": [7] },
+    { "value": "$452 million", "label": "Restitution owed to 12 investors, jointly with Balwani", "asOf": "Mar 2026", "src": [20, 21] },
+    { "value": "123 months", "label": "Holmes's prison term after a 2026 cut (was 135)", "asOf": "Mar 2026", "src": [0, 19, 20] }
+  ],
+  "milestones": [
+    { "year": "2003", "title": "Founded at 19", "detail": "Holmes started the company in 2003 as a Stanford sophomore. The name joins 'therapy' and 'diagnosis'.", "src": [0, 5] },
+    { "year": "2013", "title": "Walgreens rollout", "detail": "Walgreens committed in September 2013 to put Theranos centres in its stores; there were 21 by mid-2014, one in Palo Alto and the rest in Phoenix.", "src": [5] },
+    { "year": "2014", "title": "$9 billion valuation", "detail": "About 500 staff, more than $400 million raised, and a board of former cabinet secretaries and senators including George Shultz, Henry Kissinger and William Perry.", "src": [5, 6] },
+    { "year": "2015", "title": "WSJ exposé", "detail": "John Carreyrou's report on 15 October 2015 said most tests ran on ordinary commercial machines.", "src": [7, 26] },
+    { "year": "2016", "title": "Lab sanctioned, Walgreens leaves", "detail": "CMS found 'immediate jeopardy' in January. Walgreens ended the partnership in June and closed all 40 Theranos centres in Arizona. In July CMS imposed sanctions, including a $10,000-a-day fine and revocation of the Newark lab's certificate.", "src": [4, 3, 9, 33] },
+    { "year": "2018", "title": "SEC charges and indictment", "detail": "The SEC charged Holmes, Balwani and Theranos with an 'elaborate, years-long fraud' on 14 March. A grand jury indictment followed on 14 June.", "src": [2, 0, 36] },
+    { "year": "2018", "title": "Theranos dissolves", "detail": "Unable to find a buyer, the company said in September it would pay its last $5 million or so to creditors and shut down.", "src": [16] },
+    { "year": "2022", "title": "Verdicts and sentences", "detail": "Holmes was convicted in January on four investor-fraud counts and sentenced in November to 135 months. Balwani was convicted on all 12 counts in July and sentenced to 155 months in December.", "src": [0, 1, 36] },
+    { "year": "2026", "title": "Sentence reduced", "detail": "On 26 March 2026 the judge cut Holmes's sentence to 123 months under a retroactive guideline change for first-time offenders.", "src": [19, 20] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Theranos never built a business that worked. Its money came mostly from investors who were told one fingerstick device could run any blood test faster, cheaper and better than big labs. Patients paid low prices for tests at Walgreens wellness centres, but most of those tests ran on modified commercial analyzers made by other companies. In 2014 its real revenue from operations was a little over $100,000.",
+    "flows": [
+      { "from": "Investors", "to": "Theranos", "what": "More than $700 million in equity, raised on false claims about the device, pharma validation and military use" },
+      { "from": "Patients and doctors", "to": "Theranos (via Walgreens centres)", "what": "Payment for cheap blood tests, mostly run on other companies' machines" },
+      { "from": "Walgreens and Safeway", "to": "Theranos", "what": "Retail partnerships; Safeway spent about $350 million preparing clinics for more than 800 stores, but the blood tests never began" },
+      { "from": "Pharma companies", "to": "Theranos", "what": "Testing work for drug trials from 2005 onwards" }
+    ],
+    "src": [2, 0, 17, 5]
+  },
+  "failures": [
+    { "year": "2010-2015", "title": "The device that couldn't", "whatHappened": "The Edison could run only a few basic tests and was slower than existing machines. Theranos quietly ran most patient tests on modified commercial analyzers, diluting the small samples to make them fit.", "lesson": "If your product doesn't work yet, say so. Selling the future as the present is fraud, not marketing.", "src": [0, 2, 7] },
+    { "year": "2010s", "title": "Borrowed logos", "whatHappened": "Holmes put Pfizer and Schering-Plough logos on Theranos reports that were shown to Walgreens and investors, suggesting the drug makers backed the device. At trial she admitted adding them: 'I wish I had done it differently.'", "lesson": "Never use another company's name or logo to suggest an endorsement you don't have.", "src": [0, 11] },
+    { "year": "2014-2016", "title": "Wrong results for real patients", "whatHappened": "A pregnant patient in Arizona was told her Theranos results suggested a miscarriage, though later tests showed she was still pregnant; prosecutors said other tests falsely suggested HIV or prostate cancer. CMS found 'immediate jeopardy', and Theranos voided two years of results from its Edison devices.", "lesson": "In health, food and money, a product error lands on a real person. Test more than you think you need to.", "src": [35, 3, 4, 34, 1] },
+    { "year": "2010-2014", "title": "Revenue fiction", "whatHappened": "Investors were shown projections of $223 million for 2011 and over $100 million for 2014, while real revenue was under $600,000 and about $100,000.", "lesson": "Projections are promises. Investors who catch you inflating them once will never trust you again.", "src": [0, 2] }
+  ],
+  "mythVsFact": [
+    { "myth": "One drop of blood from a finger ran hundreds of tests on Theranos's own machine.", "fact": "The device could perform only a few basic tests. By the end of 2014 only about 15 of more than 240 tests ran on it, according to the Journal's sources; most tests used modified commercial analyzers.", "src": [0, 2, 7] },
+    { "myth": "The US military used Theranos devices on the battlefield.", "fact": "Theranos claimed its technology was used by the Department of Defense in Afghanistan and on medevac helicopters. The SEC said it was never deployed by the military.", "src": [2] },
+    { "myth": "Holmes went to prison for harming patients.", "fact": "Her jury acquitted her on the four counts about defrauding patients and convicted her on four counts of defrauding investors. It could not agree on three more investor counts, which prosecutors dropped. Balwani's separate jury convicted him on all 12 counts, including those about patients.", "src": [0, 1, 36, 31] }
+  ],
+  "quotes": [
+    { "text": "I genuinely don't believe anything else matters more than when you love someone so much and you have to say goodbye too soon.", "who": "Elizabeth Holmes to Fortune, June 2014", "src": [5] },
+    { "text": "I wish I had done it differently.", "who": "Elizabeth Holmes at her trial, November 2021, on adding drug makers' logos to Theranos reports", "src": [11] },
+    { "text": "I realized that there was an open secret at this company that the technology flat out did not exist.", "who": "Tyler Shultz, speaking at Wake Forest University, 22 September 2025", "src": [14] },
+    { "text": "…reflects the audacity of her massive fraud and the staggering damage she caused.", "who": "U.S. Attorney Stephanie M. Hinds, on Holmes's sentence, 18 November 2022", "src": [0, 28] }
+  ],
+  "lessons": [
+    { "title": "Never sell what doesn't exist yet", "detail": "'Fake it till you make it' might survive in an app. In blood tests, false results reached real patients, including a pregnant woman wrongly told she might be miscarrying. If it's not ready, say so." },
+    { "title": "Data beats a story", "detail": "Theranos had a moving mission and a famous board but published no data. Before you raise money, have proof you would be happy for an expert to check." },
+    { "title": "Never borrow someone else's name", "detail": "Putting Pfizer's logo on your own report was some of the most damaging evidence at trial. Endorsements must be real and in writing." },
+    { "title": "Thank the junior who says it's broken", "detail": "Tyler Shultz and Erika Cheung were in their first jobs when they spotted the problem. Theranos hired lawyers and investigators against them. Build a team where bad news travels up fast." },
+    { "title": "Choose a board that can check your work", "detail": "Theranos's board was packed with former cabinet secretaries and senators, famous for public service rather than lab science. Pick advisers who understand your product well enough to ask hard questions." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "U.S. Department of Justice (18 Nov 2022): Elizabeth Holmes sentenced to more than 11 years for defrauding Theranos investors", "url": "https://www.justice.gov/usao-ndca/pr/elizabeth-holmes-sentenced-more-11-years-defrauding-theranos-investors-hundreds" },
+    { "label": "U.S. Department of Justice (7 Dec 2022): Theranos president sentenced to more than 12 years", "url": "https://www.justice.gov/usao-ndca/pr/theranos-president-sentenced-more-12-years-fraud-jeopardized-patient-health-and-bilked" },
+    { "label": "SEC press release 2018-41 (14 Mar 2018): Theranos, CEO Holmes and former president Balwani charged with massive fraud", "url": "https://www.sec.gov/news/press-release/2018-41" },
+    { "label": "CMS letter to Theranos imposing sanctions, 7 Jul 2016 (public domain copy on Wikimedia Commons)", "url": "https://commons.wikimedia.org/wiki/File:R_Theranos_Inc_CMS_07-07-2016_Letter.pdf" },
+    { "label": "CMS letter to Theranos proposing sanctions, 18 Mar 2016 (public domain copy on Wikimedia Commons)", "url": "https://commons.wikimedia.org/wiki/File:Cms-letter-theranos.pdf" },
+    { "label": "Fortune (12 Jun 2014): This CEO is out for blood, by Roger Parloff", "url": "https://fortune.com/2014/06/12/theranos-blood-holmes/" },
+    { "label": "NPR via GBH News (1 Jun 2016): Net worth of Theranos' Elizabeth Holmes plunges to $0 in new Forbes estimate", "url": "https://www.wgbh.org/news/2016-06-01/net-worth-of-theranos-elizabeth-holmes-plunges-to-0-in-new-forbes-estimate" },
+    { "label": "TIME/Fortune (15 Oct 2015): summary of the Wall Street Journal's Theranos report", "url": "https://time.com/4075198/theranos-blood-tests-wsj/" },
+    { "label": "Fortune (27 Jan 2016): Federal regulators say Theranos lab poses 'immediate jeopardy'", "url": "https://fortune.com/2016/01/27/theranos-letter-safety" },
+    { "label": "MedCity News (8 Jul 2016): CMS sanctions Theranos", "url": "https://medcitynews.com/2016/07/cms-fines-theranos/" },
+    { "label": "CNN via ABC17 (15 Sep 2021): Former Theranos lab worker Erika Cheung details concerns", "url": "https://abc17news.com/money/cnn-social-media-technology/2021/09/15/former-theranos-lab-worker-details-concerns-about-companys-ability-to-conduct-blood-tests/" },
+    { "label": "CNN via ABC17 (24 Nov 2021): What we've learned so far from Elizabeth Holmes' testimony", "url": "https://abc17news.com/money/cnn-social-media-technology/2021/11/24/what-weve-learned-so-far-from-elizabeth-holmes-testimony/" },
+    { "label": "BioSpace (2016): The 27-year-old who blew up Theranos is the grandson of a company director", "url": "https://www.biospace.com/article/the-27-year-old-who-blew-up-theranos-is-the-grandson-of-a-company-director-/" },
+    { "label": "NPR via KPBS (5 Jan 2022): Theranos whistleblower celebrated Elizabeth Holmes verdict by popping champagne", "url": "https://www.kpbs.org/news/national/2022/01/05/theranos-whistleblower-celebrated-elizabeth-holmes-verdict-by-popping-champagne" },
+    { "label": "Old Gold & Black, Wake Forest University (6 Oct 2025): Tyler Shultz speaks on courage and integrity", "url": "https://wfuogb.com/27996/news/tyler-shultz-speaks-on-courage-and-integrity/" },
+    { "label": "CBS News (12 Jan 2022): Theranos scientist's widow blames Elizabeth Holmes", "url": "https://www.cbsnews.com/news/theranos-scientist-widow-elizabeth-holmes" },
+    { "label": "Associated Press via Phys.org (5 Sep 2018): Blood-testing startup Theranos to dissolve", "url": "https://phys.org/news/2018-09-blood-testing-startup-theranos-wsj.html" },
+    { "label": "Fox News (3 May 2016): Safeway seeks to dissolve secret $350 million deal with Theranos", "url": "https://www.foxnews.com/us/safeway-seeks-to-dissolve-secret-350-million-deal-with-beleaguered-blood-startup-theranos.print" },
+    { "label": "The Stanford Daily (1 Sep 2021): Who is Elizabeth Holmes, the Stanford dropout now on trial?", "url": "https://stanforddaily.com/2021/09/01/who-is-elizabeth-holmes/" },
+    { "label": "Reason, The Volokh Conspiracy (27 Mar 2026): Elizabeth Holmes sentence reduced by one year", "url": "https://reason.com/volokh/2026/03/27/theranos-fraudster-elizabeth-holmes-sentence-reduced-by-1-year" },
+    { "label": "InvestmentNews (31 Mar 2026): Federal court cuts Holmes sentence", "url": "https://www.investmentnews.com/regulation-legal-compliance/federal-court-cuts-holmes-sentence-after-finding-no-investor-suffered-hardship/265955" },
+    { "label": "ABC7 News (22 Jan 2026): Elizabeth Holmes asks Trump administration to commute her prison sentence", "url": "https://abc7news.com/post/theranos-founder-elizabeth-holmes-requests-president-donald-trump-commute-prison-sentence-us-department-justice/18444913/" },
+    { "label": "Federal Bureau of Prisons inmate locator (Elizabeth Holmes, 24965-111, FPC Bryan; projected release 22 Feb 2030; checked 28 Oct 2026)", "url": "https://www.bop.gov/inmateloc/" },
+    { "label": "Fortune (11 Sep 2026): Elizabeth Holmes' handwritten note and how she presented herself as CEO", "url": "https://fortune.com/article/elizabeth-holmes-handwritten-note-present-herself-as-ceo/" },
+    { "label": "Fortune (25 Oct 2026): Billy Evans' 'Theranos 2.0' startup has patents and investors but no product", "url": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/" },
+    { "label": "NBC News (2024): Elizabeth Holmes's prison release date moved up", "url": "https://www.nbcnews.com/news/us-news/elizabeth-holmes-prison-release-date-rcna149825" },
+    { "label": "Penguin Random House: Bad Blood by John Carreyrou", "url": "https://www.penguinrandomhouse.com/books/549478/bad-blood-by-john-carreyrou/" },
+    { "label": "Markkula Center for Applied Ethics, Santa Clara University: Teaching note, interview of Theranos whistleblower Tyler Shultz", "url": "https://www.scu.edu/ethics/focus-areas/business-ethics/resources/teaching-note-interview-of-theranos-whistleblower-tyler-shultz/" },
+    { "label": "Insurance Journal (21 Nov 2022): Elizabeth Holmes sentenced to more than 11 years in prison for Theranos fraud", "url": "https://www.insurancejournal.com/news/national/2022/11/21/695960.htm" },
+    { "label": "Scripps News (Sep 2026): Elizabeth Holmes reportedly approved to move to halfway house next year", "url": "https://www.scrippsnews.com/us-news/elizabeth-holmes-reportedly-approved-to-move-to-halfway-house-next-year" },
+    { "label": "MedCity News (Oct 2019): What the Theranos whistleblowers learned about ethics in health startups", "url": "https://medcitynews.com/2019/10/what-the-theranos-whistleblowers-learned-about-ethics-in-health-startups/" },
+    { "label": "Yahoo Finance (13 Jan 2022): Elizabeth Holmes sentencing date set, deadlocked charges dropped", "url": "https://finance.yahoo.com/news/elizabeth-holmes-trial-sentencing-date-151348891.html" },
+    { "label": "PBS NewsHour (8 Jul 2016): Theranos CEO Elizabeth Holmes banned from operating a medical laboratory for two years", "url": "https://www.pbs.org/newshour/health/elizabeth-holmes-theranos-ceo-banned-from-operating-medical-laboratory-for-two-years" },
+    { "label": "NPR via GBH News (13 Jun 2016): Walgreens cuts ties with blood test company Theranos", "url": "https://wgbh.org/news/2016-06-13/walgreens-cuts-ties-with-blood-test-company-theranos" },
+    { "label": "The Register (19 May 2016): Theranos bins two years of test results", "url": "https://www.theregister.com/2016/05/19/theranos_bins_two_years_of_test_results/" },
+    { "label": "The Daily Beast (21 Sep 2021): Theranos tests told her she'd miscarried, but she was still pregnant", "url": "https://thedailybeast.com/theranos-tests-told-her-shed-miscarried-but-she-was-still-pregnant-says-patient-at-elizabeth-holmes-trial" },
+    { "label": "U.S. Attorney's Office, N.D. California: U.S. v. Elizabeth Holmes et al. case page (charges, verdicts, sentences)", "url": "https://www.justice.gov/usao-ndca/us-v-elizabeth-holmes-et-al" }
+  ],
+  "factCheck": {
+    "method": "Researched from 28 sources; then independently re-checked claim by claim against the cited source plus a second source (37 sources in all). Court facts (counts convicted, acquitted and hung; sentences; restitution; 2026 reduction) checked against the DOJ case page and wire-service reports; CMS sanctions read from the 7 July 2016 letter itself; release date read from the Bureau of Prisons locator record (24965-111) on 28 Oct 2026; quotes matched to the page that prints them, and a quote that could not be traced was replaced. Where a DOJ release could not be loaded directly, its wording was confirmed through search excerpts and other reports.",
+    "disputed": [
+      { "claim": "Theranos's peak valuation", "note": "Fortune (2014) and Forbes (2016) give $9 billion; an AP report in 2018 said 'more than $10 billion'. We use $9 billion." },
+      { "claim": "15 of 240+ tests on Edison", "note": "From a former senior employee quoted by the Wall Street Journal. Theranos disputed it in 2015 but gave no number of its own. Prosecutors later said the device could perform only a few basic tests." },
+      { "claim": "Tyler Shultz's legal bills", "note": "Reported as more than $400,000 (BioSpace 2016, Santa Clara University teaching note). Some later interviews give higher totals of up to $500,000; we use the lower, better-sourced figure." },
+      { "claim": "Holmes's abuse allegations against Balwani", "note": "Holmes testified in 2021 that Balwani abused and controlled her, and that the handwritten rules were his. Balwani's lawyers denied the allegations. The jury did not have to decide this question." },
+      { "claim": "Ian Gibbons's account of the company", "note": "Comes from his widow, Rochelle Gibbons, speaking to CBS in 2022. Theranos never responded publicly." },
+      { "claim": "Holmes's release date", "note": "The Bureau of Prisons date has moved several times with credits and the 2026 sentence cut: late 2032, then August 2032, then December 2031, and now 22 February 2030. A September 2026 notice to victims set a halfway-house move for August 2027. Treat both as projections." },
+      { "claim": "The U.S. Attorney's quote", "note": "News reports print only the part beginning 'reflects the audacity…'; we could not load the DOJ release to confirm the words before it, so we quote only that part." },
+      { "claim": "Holmes's exact birth date", "note": "We give only February 1984, as Fortune printed it." }
+    ]
+  }
+}

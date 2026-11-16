@@ -1,0 +1,2485 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "Every bet, win or lose",
+      "title": "Twenty-Six Bets",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most founder stories show you the one thing that worked. This chapter shows every company, fund and big project we could trace to Michael Dell, including the ones his company would rather you forgot. We count ==26==. He truly founded only two of them himself: a computer company and a family investment firm. The rest he launched inside Dell, bought, backed, or fought over.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Count the failures as you read. There are more than you think."
+        },
+        {
+          "t": "venture",
+          "name": "PC's Limited, then Dell Computer, Dell Inc. and Dell Technologies",
+          "years": "1984 to today",
+          "outcome": "public",
+          "idea": "Sell IBM-compatible PCs straight to the people using them, through magazine ads and a phone line, and build each one after the order comes in. Cutting out the dealer removed a markup of 10 to 15 percent. In 1985 his Turbo PC sold for $795, well under IBM's price.",
+          "decision": "Dealers would not stock an unknown teenager's machines, so he went around them and made that the whole strategy. The early turning points were bringing in 44-year-old investment banker Lee Walker as president in 1986, and dropping the name PC's Limited for Dell Computer in 1987.",
+          "howStarted": "From a dorm room to a condominium to a 1,000-square-foot office. By 1986 the company had 100 workers, and then a factory of more than 80,000 square feet in north Austin was turning out 7,000 machines a month. Early buyers were computer-savvy individuals and nearby businesses, and big companies and government agencies followed.",
+          "funding": "$1,000 to incorporate. Then the part the legend skips: a Harvard Business School case says his family lent the firm $500,000, repaid by the end of 1986. After that came bank loans including a $10 million credit line, more than $21 million in a 1987 private placement, and a stock market listing in 1988.",
+          "whatHappened": "Sales went from $6 million in 1985 to $159 million in 1988 and $25.3 billion in 2000. It became the world's top computer seller in 2001, lost that spot to HP in 2006, went private in 2013 and came back to the stock market in 2018. Revenue in the year to January 2026 was a record $113.5 billion.",
+          "lesson": "If the gatekeeper will not let you in, ask whether you need the gatekeeper at all. His weakness, no dealers, became his edge.",
+          "src": [
+            2,
+            3,
+            4,
+            1,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A $500,000 family loan. The $1,000 legend has a footnote."
+        },
+        {
+          "t": "p",
+          "text": "Look again at that funding line, because it changes how the story reads. The famous $1,000 is real, and it was what the company was incorporated with. But the Harvard case, citing a published profile of him, says his family also lent the firm ==$500,000== for its early operations. So this was a brilliant idea and a real risk, and it also had a family safety net. __Most \"self-made\" stories have a line like this somewhere, so go looking for it before you compare yourself to anyone.__",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Olympic",
+          "years": "1988 to 1990",
+          "outcome": "failed",
+          "idea": "A single family of machines to cover desktops, workstations and servers, with one or two processors and many operating systems. Dell later called it a \"boil the ocean\" product, which means trying to do everything at once.",
+          "decision": "The company was doing about $250 million a year and wanted a product that would put it on the map. It had just hired computer scientist Glenn Henry from IBM, and he built research and development up from almost nothing to 150 engineers. The safer option was to keep making small improvements to what already sold.",
+          "howStarted": "An internal project with a large group of young engineers. It went in front of the public as prototypes at the Comdex trade show in November 1989.",
+          "funding": "Company money. Dell's research budget was only about $7 million in 1989, and Olympic took perhaps half of it.",
+          "whatHappened": "Customers said no. \"Thanks very much, but we don't need that much technology,\" is how Dell recalls the verdict. He shut it before any product shipped, kept the engineers, and reused the graphics and disk technology in a broad new product line within six to nine months.",
+          "lesson": "Show your idea to paying customers before you fall in love with it. And when you kill a project, keep the people.",
+          "src": [
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Selling through shops: the first retail experiment",
+          "years": "1990 to 1994",
+          "outcome": "shut",
+          "idea": "Reach small businesses and home buyers who wanted to see a computer before paying, through CompUSA, Staples, Best Buy, Sam's Club and others.",
+          "decision": "Conventional wisdom said direct selling would only ever be a niche, and Dell gave in to it. The alternative, which he later went back to, was to stay direct and keep the customer relationship for himself.",
+          "howStarted": "A 1990 deal with Soft Warehouse superstores, later renamed CompUSA, at mail-order prices, followed by Staples in 1991.",
+          "funding": "No special funding. The real cost was hidden: when Dell cut prices, it had to pay stores for the fall in value of machines sitting on their shelves.",
+          "whatHappened": "It helped push sales from $890 million to over $2 billion. But when Dell finally measured profit by channel, retail was about 10 percent of sales and lost money. \"We were losing our shirts,\" CFO Tom Meredith told Fortune. Dell walked out in 1994.",
+          "lesson": "Count profit per channel, not just sales. A channel can grow every month and still be killing you.",
+          "src": [
+            5,
+            2,
+            10,
+            13,
+            14
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The first notebook line",
+          "years": "1991 to 1994",
+          "outcome": "pivoted",
+          "idea": "Get into the fastest-growing part of the PC market: laptops. Dell's first notebook arrived in 1991 and a colour model followed in 1992.",
+          "decision": "By 1993 the machines had quality problems. New hire John Medica, who had been chief designer of Apple's PowerBook, persuaded Dell to scrap every existing laptop plan and bet on one premium model. The other choice was to keep patching a bad line.",
+          "howStarted": "Medica's redo took an extra six months of customer research before the design was settled.",
+          "funding": "Dell's own money, and a $20 million write-off for the cancelled models.",
+          "whatHappened": "Dell sat out the market for more than a year. Notebooks fell from 12 percent of its system revenue to 3 percent. Then the Latitude XP launched in August 1994 and sold about 34,000 units in one quarter, as many as all of Dell's 1993 laptops combined.",
+          "lesson": "Sometimes starting over is cheaper than fixing. Hire the person who built your rival's best product and then actually listen to them.",
+          "src": [
+            10,
+            15,
+            16,
+            17,
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Notice the pattern already. Each of these failures happened when Dell stopped doing the thing that made it different, or stopped listening to the buyer. And each failure handed him a rule he used for decades. Olympic gave him \"relevant technology\". The retail exit gave him total focus on direct sales. The notebook mess gave him a reason to hire people who knew more than he did.",
+          "src": [
+            9,
+            5,
+            18
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Dell.com",
+          "years": "1994 to today",
+          "outcome": "running",
+          "idea": "Take the phone-order model online: let buyers configure a PC, see the price, order it and track it.",
+          "decision": "After leaving shops in 1994, Dell needed a new way to grow. It tested kiosks and online shopping services first, and the web won.",
+          "howStarted": "A site offering technical support and product information came first, and online shopping for PCs followed in 1996, aimed mainly at catalogue customers. Big clients got private \"Premier Pages\".",
+          "funding": "Paid for by the business itself. No outside money.",
+          "whatHappened": "Sales through the site passed $1 million a day in 1996, $12 million a day in 1998 and about $50 million a day by 2000. By mid-2000 there were over 50,000 Premier Pages.",
+          "lesson": "New technology pays best when it speeds up something you already do well.",
+          "src": [
+            19,
+            6,
+            13
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "MSD Capital, now DFO Management",
+          "years": "1998 to today",
+          "outcome": "running",
+          "idea": "A private firm to invest his personal fortune outside Dell. MSD stands for his initials, Michael Saul Dell.",
+          "decision": "Almost everything he owned was one tech stock. He chose diversification, and hired two professional investors, Glenn Fuhrman and John Phelan, rather than picking stocks himself.",
+          "howStarted": "An office in New York, far from Texas. The Wall Street Journal reported in December 1998 that he had quietly launched it.",
+          "funding": "His own money. The Journal reported \"resources of $1 billion\" in 1998, and a later 2019 article put the start at $400 million.",
+          "whatHappened": "By 2013 it held an estimated $16 billion across stocks, companies, real estate and timberland, including businesses in dentistry and landscaping. It paid $875 million for the Boca Raton resort in 2019 and owns about 7.5 percent of the developer Related. It was restructured as DFO Management at the end of 2022.",
+          "lesson": "Your company is your biggest risk as well as your biggest asset. Move some winnings away from it, and hire professionals to do it.",
+          "src": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "A first cheque to Silver Lake",
+          "years": "Late 1990s to today",
+          "outcome": "running",
+          "idea": "Back a new private equity firm that invested only in technology, run by people he already knew.",
+          "decision": "He had met co-founder Roger McNamee on his IPO road show in the late 1980s, and knew the other founders too. One of MSD's first investments went into Silver Lake's first fund.",
+          "howStarted": "A cheque into an unknown fund, followed by years of staying in touch, including vacation homes in the same Hawaiian community as several partners.",
+          "funding": "MSD's money. The amount is not public.",
+          "whatHappened": "More than a decade later, Silver Lake's Egon Durban became his partner in the 2013 buyout, then in EMC. Silver Lake also held about 10 percent of VMware when Broadcom bought it, a stake CRN said could bring it about $6 billion.",
+          "lesson": "Stay close to smart people long before you need anything from them. That small early cheque later helped make the biggest deals of his life possible.",
+          "src": [
+            20,
+            27,
+            28
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Dell Ventures",
+          "years": "1999 to 2004",
+          "outcome": "shut",
+          "idea": "A company fund to buy stakes in internet start-ups, for financial gains and early looks at new technology.",
+          "decision": "Everyone in tech was doing it, and Dell had the cash. Its later head described the first version as late-stage investing that used Dell's balance sheet to chase capital gains.",
+          "howStarted": "Set up in 1999 inside Dell. By July 2000 it had put about $700 million into roughly 50 internet companies.",
+          "funding": "Dell's own balance sheet.",
+          "whatHappened": "When the Nasdaq collapsed, Dell said its investment portfolio was down more than $1 billion. It chose to sell the portfolio and wound the effort down in 2004. A much smaller, strategy-led Dell fund restarted around 2012. After the EMC merger, EMC's own venture team became Dell Technologies Capital. That team led the first institutional round of the security firm Zscaler in 2012, and says it has invested more than $1.8 billion since.",
+          "lesson": "Do not invest because everyone else is. The second version worked because it had a reason besides greed.",
+          "src": [
+            19,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The dot-com side shows: Gigabuys, Dellnet, DellHost, Dell Auctions, Dell Marketplace",
+          "years": "1999 to 2001",
+          "outcome": "shut",
+          "idea": "Use Dell's famous website to sell everything else: 30,000 electronics products on Gigabuys.com, internet access through Dellnet, web hosting through DellHost, used PCs through Dell Auctions, and a business-to-business exchange called Dell Marketplace.",
+          "decision": "The core PC business was showing signs of slowing and the internet hype was at its peak. Dell even risked competing with its own customers by entering web hosting. Compaq publicly refused to do the same.",
+          "howStarted": "Gigabuys in March 1999. DellHost in February 2000 through a partner, Interliant. Dell Marketplace in autumn 2000 with software partner Ariba.",
+          "funding": "Dell's own cash. We found no public figures for each one.",
+          "whatHappened": "Dell Marketplace closed in February 2001 after only three suppliers signed up. Press reported in August 2001 that Dell was pulling out of hosting through a deal with Sprint, and that Marketplace and Auctions were already gone. We could not find a reliable closing date for Gigabuys or Dellnet.",
+          "lesson": "Being great at selling your own product does not make you great at running a marketplace for everyone else's.",
+          "src": [
+            33,
+            10,
+            19,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$700M",
+              "label": "put into about 50 internet companies by July 2000",
+              "src": [
+                19
+              ]
+            },
+            {
+              "value": "$1B+",
+              "label": "fall in Dell's investment portfolio, as of June 2001",
+              "src": [
+                29
+              ]
+            },
+            {
+              "value": "3",
+              "label": "suppliers who ever joined Dell Marketplace",
+              "src": [
+                36,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Even winners catch the fever. Dell chased hype too, and paid for it."
+        },
+        {
+          "t": "venture",
+          "name": "The consumer push: Axim, Dell DJ, Dell Music Store, TVs and printers",
+          "years": "2002 to 2007",
+          "outcome": "failed",
+          "idea": "Treat gadgets like PCs: use Dell's low-cost model to crush prices in handhelds, music players, printers and flat-screen TVs. It was a bet on the \"digital home\" with the PC at its centre.",
+          "decision": "Dell earned most of its money from businesses and wanted another engine of growth. A marketing vice-president told TIME they were laying \"the foundation for trench warfare\". Some doubters inside the company asked whether customers would really buy ink online.",
+          "howStarted": "The Axim handheld launched in November 2002 at $199, against rivals at $400 to $600, and quickly took nearly 38 percent of its US market. Printers followed in March 2003, and the Digital Jukebox, music store and TVs were announced that September.",
+          "funding": "Dell's own money.",
+          "whatHappened": "The music player never threatened the iPod. Dell dropped the hard-drive DJ in early 2006 and the $99 DJ Ditty on 17 August 2006, less than a year after launch. It stopped selling the Axim in April 2007 as handhelds shrank. Fortune said in 2005 that consumer electronics had proved harder than expected.",
+          "lesson": "Low prices win when buyers are comparing specifications. They lose when buyers want a product they love.",
+          "src": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Dell Direct kiosks",
+          "years": "2002 to 2008",
+          "outcome": "shut",
+          "idea": "Small mall stands where people could touch a Dell, then order it for delivery. They carried no stock, so they fitted the direct model.",
+          "decision": "Consumers wanted to see machines, but Dell did not want to go back to selling through shops.",
+          "howStarted": "Launched in 2002 in US shopping malls, staffed by Dell representatives.",
+          "funding": "Dell's own money.",
+          "whatHappened": "There were more than 140 in the US by 2008. Dell shut them all on 30 January 2008, once its products were on sale in over 10,000 retail outlets worldwide. Dell said the need for them had declined.",
+          "lesson": "A half-step can be a useful experiment. Know when it has finished teaching you.",
+          "src": [
+            43,
+            10,
+            44
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Alienware",
+          "years": "2006 to today",
+          "outcome": "running",
+          "idea": "Buy a cult gaming-PC maker with UFO-themed machines costing an average of $3,000 to $4,000.",
+          "decision": "Dell already had its own high-end XPS line, but no credibility with gamers and little chance of creating it. The deal, rumoured for weeks, was announced in March 2006. Forbes noted it was only Dell's third acquisition ever.",
+          "howStarted": "Founded in Miami in 1996 by childhood friends Nelson Gonzalez and Alex Aguila. Dell left it as a separate subsidiary with its own brand, design, marketing and support, and said none of about 700 staff were expected to be laid off.",
+          "funding": "A Dell purchase on undisclosed terms.",
+          "whatHappened": "Alienware got Dell's supply chain, cutting wait times that had run four to six weeks. Dell got a credible gaming brand. It also brought in machines using AMD chips, which Dell had resisted selling until then. That matters later in this book.",
+          "lesson": "If you cannot build a reputation, buy it, and then do not smother it.",
+          "src": [
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By 2007, Dell's PC business was under attack, and his answer was to go shopping. From 2010 to 2012 alone, the company spent about ==$14 billion== on eleven businesses, trying to become a seller of software, services and data-centre gear to large companies. The next six ventures are the pieces of that plan. Some became gold, and some were sold at a loss.",
+          "src": [
+            48,
+            18
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "EqualLogic",
+          "years": "2007 to 2008",
+          "outcome": "merged",
+          "idea": "Buy a maker of networked storage for mid-sized companies, so Dell would own its storage technology instead of reselling others'.",
+          "decision": "Michael Dell returned as CEO in 2007, and this was his opening move into big-company technology.",
+          "howStarted": "Dell agreed to buy it in 2007 and kept the brand and its reseller network, even though Dell had built its name on avoiding resellers.",
+          "funding": "$1.4 billion in cash, by far Dell's largest deal at that point.",
+          "whatHappened": "The deal closed in January 2008. CRN later said it set the foundation for Dell's reseller partner programme.",
+          "lesson": "One purchase can force you to change a belief. Dell bought storage and also bought its way back into reselling.",
+          "src": [
+            49,
+            50,
+            18
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Perot Systems, renamed Dell Services",
+          "years": "2009 to 2016",
+          "outcome": "sold",
+          "idea": "Buy an IT services and outsourcing company, founded by Texas billionaire Ross Perot, so Dell could sell advice and long contracts as well as boxes.",
+          "decision": "Rivals IBM and HP were already big in services. Texas Monthly called this a \"me-too\" move. Dell paid $30 a share.",
+          "howStarted": "An existing company, added to Dell's other purchases.",
+          "funding": "About $3.9 billion, paid by Dell.",
+          "whatHappened": "In March 2016, needing cash for the EMC deal, Dell agreed to sell it to Japan's NTT Data for $3.06 billion. Ars Technica's headline counted the loss at about $800 million.",
+          "lesson": "A deal that looks strategic can still lose money. Copying your rivals' move late usually costs you a premium.",
+          "src": [
+            50,
+            51,
+            18
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "3PAR: the deal that got away",
+          "years": "2010",
+          "outcome": "failed",
+          "idea": "Buy a high-end storage maker to fill the top of Dell's storage range.",
+          "decision": "Dell agreed to $18 a share, $1.15 billion, on 16 August 2010, an 87 percent premium. HP jumped in at $24. The two raised their bids in public for about two weeks. Dell reached $32, then chose to stop.",
+          "howStarted": "Dell made the first agreed offer, on terms that included a break-up fee.",
+          "funding": "Dell's cash, had it won.",
+          "whatHappened": "HP won at $33 a share, or $2.35 billion, about ten times 3PAR's yearly revenue. 3PAR paid Dell a $72 million break-up fee. Dell later bought another storage firm, Compellent, for about $938 million.",
+          "lesson": "Decide your walk-away price before the auction starts. Losing cleanly can be better than winning badly.",
+          "src": [
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Boomi",
+          "years": "2010 to 2021",
+          "outcome": "sold",
+          "idea": "A small cloud service that moves data between a company's different software systems. Salesforce was a client.",
+          "decision": "Cloud software was the new growth area, and IBM had just bought a similar company. Dell had just lost 3PAR.",
+          "howStarted": "Founded in Pennsylvania in 2000. It had raised $4 million in its first institutional round in 2008.",
+          "funding": "A Dell purchase on undisclosed terms.",
+          "whatHappened": "By 2021 it had more than 15,000 customers. Dell sold it to Francisco Partners and TPG for about $4 billion in cash, and the filing shows a $4.0 billion pre-tax gain on the sale.",
+          "lesson": "Your smallest, cheapest purchase may turn out to be the best. Boomi was a footnote in 2010 and a $4 billion cheque in 2021.",
+          "src": [
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Dell Software: Quest and SonicWall",
+          "years": "2012 to 2016",
+          "outcome": "sold",
+          "idea": "Create a software arm by buying IT-management tools from Quest and network security from SonicWall.",
+          "decision": "Dell named John Swainson as software chief in March 2012 with a mandate to expand. Software was meant to lift profit margins.",
+          "howStarted": "Bought from existing owners: SonicWall in spring 2012 and Quest later that year.",
+          "funding": "Dell's cash: about $1.2 billion for SonicWall, as reported, since Dell kept that price private, and $2.4 billion for Quest.",
+          "whatHappened": "In June 2016, Dell sold the software group to Francisco Partners and Elliott Management, reportedly for just over $2 billion. That is well under the $3.6 billion it had paid for those two alone. Elliott was the same activist fund that had pushed EMC toward a sale.",
+          "lesson": "When you need cash for a bigger bet, your old bets go on sale. Being willing to take that loss is part of betting big.",
+          "src": [
+            59,
+            60,
+            61,
+            62
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "SecureWorks",
+          "years": "2011 to 2025",
+          "outcome": "sold",
+          "idea": "A security-services firm that watches corporate networks for attacks. At purchase it protected over 3,000 customers, including more than 1,500 banks and credit unions.",
+          "decision": "Dell wanted security inside its services offer to large companies.",
+          "howStarted": "Bought for about $612 million, closing in February 2011.",
+          "funding": "Dell's cash. Its 2016 stock market listing raised $112 million at $14 a share, while Dell's parent kept about 86.8 percent of the shares.",
+          "whatHappened": "Sophos bought the company in February 2025 for $8.50 a share, about $859 million in total. Michael Dell had chaired its board since 2015.",
+          "lesson": "A stock listing does not prove a business is winning. This one sold for about 40 percent below its listing price nine years later.",
+          "src": [
+            63,
+            55,
+            64,
+            65,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Phones, tablets and Adamo",
+          "years": "2009 to 2012",
+          "outcome": "failed",
+          "idea": "Compete with Apple and Android makers using Dell-built phones and tablets, plus a thin luxury laptop called Adamo at $2,000.",
+          "decision": "The world was going mobile and Dell had nothing to sell. It entered late, and Dell's own statements kept pointing to future products.",
+          "howStarted": "A phone with China Mobile in 2009. In the US, the Aero phone and 5-inch Streak arrived in August 2010, then the Venue and Venue Pro.",
+          "funding": "Dell's own money.",
+          "whatHappened": "The Streak 5 died after about a year, and the Streak 7 in December 2011. Adamo ended in 2011. In March 2012, Dell stopped selling smartphones in the US, while the Venue Pro kept selling in India. A Dell vice-president declared that year: \"We're no longer a PC company.\"",
+          "lesson": "A me-too product with no one behind it dies quietly. Enter a market with real commitment or do not enter.",
+          "src": [
+            3,
+            66,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So by 2012 the scoreboard looked bad. Billions had gone into acquisitions, the consumer gadgets had flopped, and investors still treated Dell as a dying PC maker. What came next was three giant deals in a row. __Each of those deals was mostly other people's money, and each one depended on him being willing to put his own name and fortune on the line.__",
+          "src": [
+            70,
+            48,
+            71
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Next: the biggest bets. The full story is in the following chapters."
+        },
+        {
+          "t": "venture",
+          "name": "The 2013 buyout (Denali Holding)",
+          "years": "2013 to 2018",
+          "outcome": "public",
+          "idea": "Buy Dell back from public shareholders and rebuild it without quarterly pressure.",
+          "decision": "Investor Southeastern and then Silver Lake raised the idea in 2012. KKR, TPG and Blackstone looked and walked away, citing PC risk. HP never bid.",
+          "howStarted": "Conversations in Hawaii in August 2012 with his neighbour Egon Durban. Michael Dell told the board first and a committee of independent directors ran the sale.",
+          "funding": "About $24.9 billion in total at the final price. His own shares, worth about $3.7 billion, plus $750 million cash from him and an affiliate, about $1.4 billion from Silver Lake, a $2 billion Microsoft loan, and new debt.",
+          "whatHappened": "After a public fight with Carl Icahn, shareholders approved it on 12 September 2013, and he ended up with 74.9 percent. Dell returned to the stock market in December 2018.",
+          "lesson": "When the market hates your stock and you believe in the business, cheap shares are an opportunity. So are the lawsuits that come with it.",
+          "src": [
+            48,
+            20,
+            72,
+            73,
+            64,
+            6,
+            57
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "EMC",
+          "years": "2015 to 2016",
+          "outcome": "merged",
+          "idea": "Buy the world's leading data-storage maker, with its 81 percent stake in the software company VMware, and become a one-stop shop for corporate technology.",
+          "decision": "Rivals such as HP were shedding businesses. Dell went the other way. He had looked at EMC in 2009 and the talks failed. EMC was under pressure from activist fund Elliott and its CEO was close to retiring.",
+          "howStarted": "A phone call to EMC's Joe Tucci less than a year after going private. Plans date to October 2014, and the deal was announced on 12 October 2015.",
+          "funding": "About $67 billion: nearly $50 billion of debt, a new \"tracking stock\" tied to VMware, and new equity from Michael Dell, MSD Partners, Silver Lake and Singapore's Temasek.",
+          "whatHappened": "It closed on 7 September 2016 with 98 percent of votes cast in favour, the biggest pure tech deal in history at the time. The new Dell Technologies carried nearly $57 billion of debt and paid down billions quickly.",
+          "lesson": "When rivals shrink, ask whether being bigger could be your edge. But size only works if your cash flow can carry the debt.",
+          "src": [
+            62,
+            20,
+            74,
+            75,
+            76,
+            77,
+            71
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "VMware",
+          "years": "2016 to 2023",
+          "outcome": "sold",
+          "idea": "A software company that lets one computer behave like many. It came with EMC and was the real prize of the deal, growing at 10 percent a year.",
+          "decision": "Selling it would have wiped out much debt at once. Dell and Durban kept it, used it as collateral, and took dividends from it instead.",
+          "howStarted": "Already a listed company with its own board, and Michael Dell became chairman in 2016.",
+          "funding": "Part of the EMC purchase. The tracking stock let public investors follow about half of Dell's VMware stake.",
+          "whatHappened": "An $11 billion dividend helped fund the 2018 return to the market. An $11.5 billion dividend came with the spin-off to shareholders on 1 November 2021. Broadcom then agreed to buy it for $61 billion plus $8 billion of debt, closing in November 2023. Michael Dell personally owned about 40 percent.",
+          "lesson": "Look for the asset in a deal that the market is undervaluing. Sometimes the hidden piece pays for the whole thing.",
+          "src": [
+            20,
+            62,
+            78,
+            79,
+            80,
+            27,
+            0,
+            81
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Pivotal",
+          "years": "2016 to 2019",
+          "outcome": "merged",
+          "idea": "A software-tools company carved out of EMC and VMware in 2013, with General Electric buying about 10 percent.",
+          "decision": "It came with EMC, and Dell chose to take it public rather than fold it in.",
+          "howStarted": "Listed on the New York Stock Exchange in April 2018 at $15 a share, raising $555 million. Dell kept about 70 percent of the shares.",
+          "funding": "$1.7 billion from investors before the listing, including $182 million from Ford, as TechCrunch reported.",
+          "whatHappened": "The stock fell from a high of $21.44 to $8.30 in a few months of 2019. VMware, also controlled by Dell, then bought it at an enterprise value of $2.7 billion. Public shareholders got $15 a share, the same price as the listing.",
+          "lesson": "Hot stock market stories fade fast when growth slows. It helps if a big sibling can catch you, but don't plan on that.",
+          "src": [
+            82,
+            83,
+            84
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "RSA and other EMC pieces",
+          "years": "2016 to 2020",
+          "outcome": "sold",
+          "idea": "Use EMC's non-core businesses as a source of cash. RSA was a well-known security firm, and EMC's document-management unit was another.",
+          "decision": "The debt forced the choice. Five days after the merger closed, the document unit went to OpenText.",
+          "howStarted": "Inherited from EMC, which had paid just under $2.1 billion for RSA in 2006.",
+          "funding": "None needed. These sales raised money.",
+          "whatHappened": "OpenText paid $1.62 billion. RSA went to a Symphony Technology Group consortium for $2.075 billion in 2020, roughly what EMC had paid 14 years earlier.",
+          "lesson": "Before a huge deal, list exactly what you would sell to pay for it. Dell's plan needed more than $6 billion of asset sales.",
+          "src": [
+            20,
+            85,
+            62
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "MSD Partners, now part of BDT & MSD Partners",
+          "years": "2009 to today",
+          "outcome": "merged",
+          "idea": "Open the family investing team's methods to outside rich families and institutions.",
+          "decision": "MSD's record attracted other wealthy people, so in 2009 its leaders formed a separate firm that could take outside money.",
+          "howStarted": "From MSD Capital's team and strategies, in New York, Santa Monica and West Palm Beach.",
+          "funding": "Dell family capital first, then outside investors. It managed over $20 billion by 2022.",
+          "whatHappened": "It merged in January 2023 with BDT & Company, the merchant bank of Byron Trott, known as Warren Buffett's investment banker, with about $50 billion in assets combined. Trott and Gregg Lemkau became co-CEOs, and Michael Dell chairs the advisory board.",
+          "lesson": "A skill you build to solve your own problem can become a business for others.",
+          "src": [
+            25,
+            86,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "AI servers",
+          "years": "2024 to today",
+          "outcome": "running",
+          "idea": "Build the racks of Nvidia-powered servers that train and run AI models, and sell them with installation, support and financing.",
+          "decision": "Dell launched its network server line in 1996 and already had the supply chain and customer list needed. It accepted thin profits on this work: its target is a mid-single-digit operating margin.",
+          "howStarted": "Publicly visible from June 2024, when Michael Dell posted that Dell was building an \"AI factory\" with Nvidia for Elon Musk's xAI. CoreWeave expanded its relationship with Dell that December.",
+          "funding": "Dell's own cash flow. Dell also offers its customers financing through its finance arm.",
+          "whatHappened": "AI orders hit $64.1 billion in the year to January 2026. In the quarter reported on 1 September 2026, orders were a record $60.9 billion, with a backlog of $95 billion waiting to be delivered. Dell expects about $74 billion of AI server revenue that year.",
+          "lesson": "Forty years of boring supply-chain skill became priceless when the whole world wanted the same scarce machines.",
+          "src": [
+            10,
+            87,
+            88,
+            89,
+            7,
+            90,
+            91
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Add it up and an uncomfortable truth appears. Of these 26 bets, the ones that made him richest were not the ones he invented in a burst of genius. They were direct selling, a patient family office, and three huge deals built on cheap prices and other people's debt. __Failures were common, but none of them was big enough to end the game, and that is the part to copy.__",
+          "src": [
+            71,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "1987 to 1995",
+      "title": "Three Times It Nearly Broke",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The third week of October 1987 should have killed the deal. Dell had hired Goldman Sachs and was raising money through a private placement, which means selling shares quietly to a small group of big investors rather than to the public. On ==19 October==, known as Black Monday, the US stock market lost more than a fifth of its value in one day. In his memoir, as read aloud on a podcast, Dell says his president Lee Walker came into his office convinced the deal was finished. He says he was busy taking apart a competitor's computer.",
+          "src": [
+            92
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The deal survived. Dell claims it was the only one of hundreds of financings under way that day to make it through, and we could only check that claim against his own account. What the Harvard case confirms is that the placement closed in the wake of the crash and raised more than ==$21 million==. Investors were looking at a company doubling every year. __Numbers that strong can get a deal through a panic that scares everyone else away.__",
+          "src": [
+            92,
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Market crashing? He was opening a rival's PC. Focus is a superpower."
+        },
+        {
+          "t": "p",
+          "text": "Next came the IPO. An IPO, or initial public offering, is when a company first sells its shares to the public on a stock exchange. In ==June 1988==, Dell sold shares at $8.50 each, raising about $30 million and valuing the whole company at about $85 million. He was 23, and he still owned more than half of the company. He now had a public share price, public critics and a quarterly report card.",
+          "src": [
+            6,
+            3,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Around then he also showed how badly a young founder can handle experienced people. Dell had hired a group of marketing executives from Tandy, a bigger PC maker, and they quickly lifted gross margins from 23 to 31 percent. Then came fights over ad budgets and the size of the sales force. By early 1988 most of the Tandy group had resigned or been forced out. Some people at the time questioned whether he could share control at all.",
+          "src": [
+            10,
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Break one: the warehouse"
+        },
+        {
+          "t": "p",
+          "text": "The IPO cash was gone fast. Dell spent it on factory capacity and warehouse space, because it had been struggling to meet demand. Then it overestimated demand in the last quarter of 1988, and suddenly had no cash and warehouses full of unsold computers. For a company built on making machines only after an order came in, this was an embarrassing place to end up. It had also announced a clone of IBM's new PS/2 machine long before it was ready, and then could not deliver it on time.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Break two: the memory chips"
+        },
+        {
+          "t": "p",
+          "text": "In 1989 he made the mistake he still talks about. The industry was moving from one type of memory chip to a newer one, and Dell had loaded up on the older kind and designed its products around them. It was left holding chips it could not use or easily sell, and it had to raise prices to cover the loss. Add the Olympic write-off and the result was brutal: profits fell 65 percent to ==$5 million==, even though sales had doubled.",
+          "src": [
+            13,
+            10,
+            12
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Failure is always an ingredient of success.",
+          "who": "Michael Dell, The Tim Ferriss Show, 2021",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "This is where the famous Dell supply chain really came from. In his own words, it grew out of \"a horrible mistake we made in managing our supply chain\", one that nearly took the company out of business. After that, Dell asked suppliers to hold parts close by and deliver them only when needed. __The thing he is most praised for began as a scar.__",
+          "src": [
+            12,
+            13,
+            5
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Dell later explained the maths of stock with a single sum. A typical rival held about 30 days of stock, plus another 40 days sitting with dealers. Dell held 12. That is a 58-day gap, and in 58 days, Dell said, parts prices fall about 6 percent. So on every machine, Dell paid the newer, lower price and its rival paid the older, higher one.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for hardware founders. Stock loses value every single day."
+        },
+        {
+          "t": "h",
+          "text": "Break three: the summer of 1993"
+        },
+        {
+          "t": "p",
+          "text": "Then growth nearly finished the job. \"We went right from 890 million to 2.1 billion in one year,\" Dell remembers. \"And everything started to fall apart.\" The company did not have the systems, the people or the capital for that size. Worse, much of that growth came through retail stores, where it was making no money.",
+          "src": [
+            12,
+            5
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The attacks came from outside too. On 20 November 1992, Kidder Peabody analyst David Korus questioned how Dell accounted for its currency trading, and suggested it might be flattering profits. Dell's officials heatedly denied that, and the stock fell $3.75 in a day. Dell itself went to the Securities and Exchange Commission about unusual trading in its shares. In February 1993, it withdrew a planned sale of four million shares, and its stock dropped nearly 17 percent in a day.",
+          "src": [
+            93,
+            94
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By August 1993 the numbers were out: a net loss of ==$75.7 million== in one quarter, its first since going public. The chief financial officer had resigned. Every new notebook line was scrapped. The stock had fallen from $49 in January to $16 by July. By November, short sellers held about 30 percent of the shares in public hands. A short seller borrows shares and sells them, betting that the price will fall so they can buy them back cheaper.",
+          "src": [
+            93,
+            16,
+            95
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I felt a gradual panicking.",
+          "who": "Michael Dell, to Fortune, about 1993",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$890M to $2.1B",
+              "label": "sales jump in one year, as he remembers it",
+              "src": [
+                12
+              ]
+            },
+            {
+              "value": "$49 to $16",
+              "label": "share price, January to July 1993",
+              "src": [
+                16
+              ]
+            },
+            {
+              "value": "$75.7M",
+              "label": "net loss in the quarter to 1 August 1993",
+              "src": [
+                93
+              ]
+            },
+            {
+              "value": "About 30%",
+              "label": "of public shares sold short, November 1993",
+              "src": [
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He had a harder time at night than the numbers show. \"It's hard to not think about all the people you're responsible for,\" he told Tim Ferriss, thinking of employees who had moved their families to Austin. He was 28. And he has admitted the real danger: \"we were running out of capital\".",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The airport"
+        },
+        {
+          "t": "p",
+          "text": "The turning point is a scene in Heathrow Airport. Dell was hurrying through it with Tom Meredith, his new chief financial officer from Sun Microsystems, to catch a plane to Ireland. Meredith said he saw a silver lining in the notebook disaster, because of what it had revealed about the company's information systems. Dell had not yet been breaking down profit by business segment, and it was time to look. Meredith's message was simple: growth had to be balanced with cash in the bank and real profit.",
+          "src": [
+            16,
+            96,
+            2,
+            13
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Any one strength used to excess becomes a weakness.",
+          "who": "Tom Meredith, Dell CFO",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then Dell did something few 28-year-old founders manage: he went and got adults. With help from his board and a search firm, he recruited Mort Topfer, a 23-year Motorola veteran, as vice chairman. Fortune's headline two years later put it bluntly, saying a bunch of old guys got Michael Dell to grow up. __He gave up authority to keep the company, the opposite of what happened with the Tandy team a few years earlier.__",
+          "src": [
+            2,
+            16,
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The cure was boring. Dell left retail. It began tracking cash and return on invested capital, and tied the pay of its top 500 managers to those numbers. It also leaned into a lovely quirk of direct selling: customers often paid Dell before Dell paid its suppliers, so growth could produce cash instead of eating it. In 1995, profits came in at ==$149 million== after the 1994 loss of $36 million.",
+          "src": [
+            2,
+            96,
+            10
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "Oct 1987",
+              "text": "Private placement survives Black Monday, raising over $21 million.",
+              "src": [
+                1,
+                92
+              ]
+            },
+            {
+              "when": "June 1988",
+              "text": "IPO at $8.50 a share. He is 23.",
+              "src": [
+                6,
+                3
+              ]
+            },
+            {
+              "when": "Late 1988",
+              "text": "Demand overestimated. Cash gone, warehouses full.",
+              "src": [
+                10
+              ]
+            },
+            {
+              "when": "1989",
+              "text": "Too many old memory chips. Olympic is shown, and customers shrug.",
+              "src": [
+                13,
+                9
+              ]
+            },
+            {
+              "when": "Nov 1992",
+              "text": "Kidder Peabody questions the currency trading accounting. Dell denies it.",
+              "src": [
+                93
+              ]
+            },
+            {
+              "when": "Aug 1993",
+              "text": "First quarterly loss since the IPO: $75.7 million.",
+              "src": [
+                93
+              ]
+            },
+            {
+              "when": "1994",
+              "text": "Dell leaves retail stores, and the Latitude XP launches.",
+              "src": [
+                5,
+                15
+              ]
+            },
+            {
+              "when": "1995",
+              "text": "Profit of $149 million. Fortune writes his \"resurrection\".",
+              "src": [
+                10,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Grow fast, but ask every month: how many weeks of cash do we have?"
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "kicker": "1995 to 2012",
+      "title": "King of PCs, Then Not",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "What followed was one of the great runs in stock market history. Dell Computer was the best-performing American stock of the 1990s, up ==87,000 percent== by one Harvard count. Austin was never the same. At one point Dell's stock was said to have created 2,700 millionaires, nicknamed \"Dellionaires\", including secretaries. In 1991, Michael Dell was worth $300 million. By the end of the decade he was worth over $21 billion, the richest American under 40.",
+          "src": [
+            97,
+            1,
+            98
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "87,000%",
+              "label": "rise in Dell's stock during the 1990s",
+              "src": [
+                1
+              ]
+            },
+            {
+              "value": "$25.3B",
+              "label": "sales in 2000, up from $546M in 1991",
+              "src": [
+                1
+              ]
+            },
+            {
+              "value": "2,700",
+              "label": "reported \"Dellionaires\" at one point",
+              "src": [
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he beat Compaq"
+        },
+        {
+          "t": "p",
+          "text": "His main early rival was Compaq, a fellow Texan that built expensive, high-quality machines. In the early 1990s, Compaq fought back with a PC at just $899, and Dell slashed prices by up to $1,400 to keep its share. Dell could do this because its operating costs were 18 percent of revenue, against Compaq's 36 percent. Compaq also sued Dell over its advertising and eventually won. But in a price war, the company with the lowest costs can stay in longest.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: when the world PC market had its worst slump yet in 2000 and 2001, most makers cut back. Dell started a price war. Rivals were slow to respond, and by 2001 Dell was number one in the world with a 13 percent share. It also made its first big layoffs, cutting 5,700 jobs, while still earning $1.78 billion.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Compaq's end shows how hard this market was. It disappeared into HP in 2002, and the merged giant took the top spot for a while before Dell got it back. Selling the most PCs turned out to be a dangerous prize, and __a lead built only on low cost lasts until someone else lowers their costs.__",
+          "src": [
+            3,
+            10,
+            8
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Steve Jobs at the door"
+        },
+        {
+          "t": "p",
+          "text": "Here is a strange secret from this era, which Dell told only in 2021. In 1993, Steve Jobs visited Dell's house in Texas several times trying to sell him on the NeXT operating system. Dell said no, because there was too little software and too little customer interest. In 1997, back at Apple, Jobs tried again and showed him a Dell desktop running Mac OS. \"Why don't you license the Mac OS?\" Jobs asked, in Dell's telling.",
+          "src": [
+            99
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dell was interested and offered a licence fee on every PC sold with Mac OS. Jobs worried that this would eat into Mac sales, so he countered: put Mac OS and Windows on every Dell, and pay Apple on all of them. Dell refused to pay Apple for customers who used only Windows. That October he also gave one of the most famous bad answers in tech history.",
+          "src": [
+            99,
+            100
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "What would I do? I'd shut it down and give the money back to the shareholders.",
+          "who": "Michael Dell, asked in October 1997 what he would do with Apple",
+          "src": [
+            101
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In January 2006, Apple's market value passed Dell's, $72.13 billion to $71.97 billion. Market value means the share price times all the shares, and it is the market's price tag for the whole company. Dell later said the line was misunderstood: he had first declined the question, and meant only that he could not imagine running any company but his own. He says the two stayed friends.",
+          "src": [
+            100,
+            102,
+            99
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Never mock a rival in public. Apple's market value passed Dell's in 2006."
+        },
+        {
+          "t": "h",
+          "text": "Intel's secret money"
+        },
+        {
+          "t": "p",
+          "text": "In July 2004 he handed the CEO job to Kevin Rollins, who had shared an office with him in a \"two-in-a-box\" arrangement, and stayed on as chairman. Under the surface, a problem had been growing. The Securities and Exchange Commission later alleged that Intel was paying Dell large sums not to use chips from its rival AMD. By the SEC's count, those payments rose from 10 percent of Dell's operating income in fiscal 2003 to 38 percent in fiscal 2006, and peaked at ==76 percent== in one quarter of fiscal 2007.",
+          "src": [
+            10,
+            103,
+            104
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The SEC alleged that investors were not told, and that these payments, rather than management and operations, let Dell meet Wall Street's targets. Without them, it said, Dell would have missed its earnings target in every quarter from fiscal 2002 to 2006. When Dell added AMD, Intel cut the payments and profits sank. The SEC said executives then blamed pricing and component costs when speaking to investors.",
+          "src": [
+            104,
+            105
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "for 3 qtrs now, Intel money has made the qtr. A bad way to run the railroad.",
+          "who": "Kevin Rollins, internal email to Michael Dell, 2004, quoted by the SEC",
+          "src": [
+            104
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In July 2010 it was settled. The company paid a ==$100 million== penalty, and Michael Dell and Rollins paid $4 million each, without admitting or denying the charges. The details matter: Dell's own statement says Michael Dell's settlement covered disclosure about Intel only, not the separate accounting fraud charges, and only claims that do not require fraudulent intent. He accepted a court order against future violations and stayed as CEO, with no restrictions on serving.",
+          "src": [
+            104,
+            106
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Ask where your profit really comes from. Then tell your investors the truth."
+        },
+        {
+          "t": "h",
+          "text": "The bad years"
+        },
+        {
+          "t": "p",
+          "text": "Everything went wrong together. In October 2005, Dell warned of weak sales and took a charge of about $450 million, largely over faulty capacitors in desktops. At least 11.8 million computers made from 2003 to 2005 were at risk of failing, and one customer's lawsuit accused Dell of hiding the defects. Dell disputed that and settled in September 2010 on undisclosed terms. Meanwhile, customers were waiting 30 minutes to reach a support agent on the phone.",
+          "src": [
+            42,
+            107,
+            44
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In August 2006 came the recall of about ==4.1 million== laptop batteries with Sony-made cells, because they could overheat. The US safety regulator called it the largest electronics recall it had handled. That same quarter, HP passed Dell as the world's biggest PC seller, by 16.3 percent to 16.1 percent in Gartner's count. By the end of the year it was not close, with HP at 17 to 18 percent and Dell at 14 to 15.",
+          "src": [
+            108,
+            109,
+            110,
+            8,
+            111
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On 31 January 2007, Rollins left and Michael Dell took the CEO job back. Two days later he wrote to staff that results were \"disappointing\" and \"unacceptable\", and named a new foe: \"bureaucracy, which costs us money and slows us down.\" He cut the number of managers reporting to him, and ended that year's bonuses. Then he did something harder, and began taking apart his own creed.",
+          "src": [
+            103,
+            112
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The direct model has been a revolution, but is not a religion.",
+          "who": "Michael Dell, memo to staff, 25 April 2007",
+          "src": [
+            113
+          ]
+        },
+        {
+          "t": "p",
+          "text": "__He dropped the idea that made him famous once the numbers proved it had stopped working.__ In 2007, Dell went back into retail stores, which it had walked out of in 1994. By early 2008 it was in over 10,000 retail outlets. It moved away from building every PC to order, and looked to partners for more of its assembly. In India and other emerging markets, it opened plants of its own.",
+          "src": [
+            110,
+            43,
+            114,
+            113,
+            115
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The human cost was real. Dell promised to cut 10 percent of its workforce, about 8,800 people. It closed its Austin desktop plant, with about 900 jobs lost. In January 2009, it moved European manufacturing to Poland, cutting 1,900 of 3,000 jobs in Limerick, Ireland, a country where it ranked itself the largest exporter. In October 2009 it said it would close its North Carolina plant, with 905 jobs lost.",
+          "src": [
+            114,
+            116,
+            117
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The rise of Lenovo and the fall of the stock"
+        },
+        {
+          "t": "p",
+          "text": "It was not enough. Lenovo and HP kept taking PC share, and then the iPhone and iPad made people ask if anyone needed a PC at all. A court later summed up the three threats he saw on his return: cheap PC makers like Lenovo, smartphones and tablets, and cloud storage from companies like Amazon. His answer was the shopping spree you read about in the last chapter.",
+          "src": [
+            70,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Wall Street did not buy it. Inside the company, a January 2011 analysis valued the shares at $22 to $27. On the market they sold for about $14. During the first half of 2012, they fell from about $18 to about $12, and that October they hit $9.66. Dell complained that the market just did not get it. __That gap, between what he thought his company was worth and what strangers would pay, would become the biggest opportunity of his life.__",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1996",
+              "text": "Online sales start. Servers launch.",
+              "src": [
+                10,
+                19
+              ]
+            },
+            {
+              "when": "2001",
+              "text": "Dell becomes number one worldwide.",
+              "src": [
+                6,
+                10
+              ]
+            },
+            {
+              "when": "July 2004",
+              "text": "Rollins becomes CEO. Michael Dell stays chairman.",
+              "src": [
+                10
+              ]
+            },
+            {
+              "when": "Oct 2005",
+              "text": "About $450 million charge, largely for faulty capacitors.",
+              "src": [
+                42
+              ]
+            },
+            {
+              "when": "Aug 2006",
+              "text": "About 4.1 million batteries recalled.",
+              "src": [
+                108
+              ]
+            },
+            {
+              "when": "Jan 2007",
+              "text": "Michael Dell returns as CEO.",
+              "src": [
+                103
+              ]
+            },
+            {
+              "when": "2007",
+              "text": "Back into retail stores, after 13 years out.",
+              "src": [
+                110
+              ]
+            },
+            {
+              "when": "July 2010",
+              "text": "SEC settlement: $100 million for Dell, $4 million for him.",
+              "src": [
+                104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-big-bets",
+      "kicker": "2012 to 2023",
+      "title": "Buying Back His Own Name",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The idea did not start with him. In ==June 2012==, Staley Cates of Southeastern Asset Management, Dell's biggest outside shareholder, asked Michael Dell if he would consider a management buyout. That is when a company's leader joins investors to buy all the shares and take it off the stock market. The next month he met Egon Durban of the buyout firm Silver Lake at a Fortune conference in Aspen. In August, the two talked again in Hawaii, where both had vacation homes.",
+          "src": [
+            48,
+            20,
+            18
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also went to his friend George Roberts of the buyout giant KKR, who said that if the numbers worked, KKR would want in. Then he did the part that protects a founder and everyone else: he called the board's lead independent director, Alex Mandl, and told him. He promised not to hire an adviser without first telling the board. The directors formed a special committee with full power over the process, and he left the room.",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Tell the board first, before the bankers. Process matters when the lawyers come."
+        },
+        {
+          "t": "p",
+          "text": "This was to be a leveraged buyout, which means buying a company mostly with borrowed money, and repaying it from the company's own cash. The bids came in on 23 October 2012, when the stock was $9.35. Silver Lake offered $11.22 to $12.16 a share, and KKR offered $12 to $13. Then the buyers started to run. KKR left on 3 December, saying it could not get its arms around the risks of the PC business. TPG looked and said no on 23 December.",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Silver Lake raised its bid to $12.70, and the committee said no. It then held out for $13.75. Durban called Mandl and offered $13.25, and when Mandl refused, Durban threatened to walk away. Mandl told him to go ahead. __A good board works for the shareholders, not the founder, and sometimes its job is to tell him no.__",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "To break the deadlock, Michael Dell agreed to take less for his own shares than everyone else would get. That let Silver Lake reach ==$13.65== a share for the public, and the deal was signed on 5 February 2013. Microsoft came in with a $2 billion loan. It was a premium of 37 percent over the average price of the previous 90 days. Many shareholders still felt it was far too low.",
+          "src": [
+            48,
+            3,
+            70
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$3.7B",
+              "label": "his Dell shares, rolled into the deal",
+              "src": [
+                72
+              ]
+            },
+            {
+              "value": "$750M",
+              "label": "new cash from him and an affiliate",
+              "src": [
+                72,
+                48
+              ]
+            },
+            {
+              "value": "$1.4B",
+              "label": "cash from Silver Lake",
+              "src": [
+                72,
+                20
+              ]
+            },
+            {
+              "value": "$2B",
+              "label": "loan from Microsoft",
+              "src": [
+                72,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The rest of the original $24.4 billion came mostly from new borrowing of about $13.75 billion, plus other cash. Next came a \"go-shop\", a set period of 45 days when the company could look for a better offer. Advisers called about 60 parties. Blackstone bid $14.25 and then quit in April, pointing to a 14 percent fall in PC sales, the steepest ever. HP, the obvious buyer, signed the paperwork but never even opened the data room.",
+          "src": [
+            72,
+            48
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The raider"
+        },
+        {
+          "t": "p",
+          "text": "Then came Carl Icahn. An activist investor buys shares in a company and then publicly pressures it to change, and Icahn was one of the most feared. He bought about 72 million shares from Southeastern at $13.52, built a stake near 9 percent, and promised a $14 buyback funded by $5.2 billion of debt. On Twitter he wrote: \"All would be swell at Dell if Michael and the board bid farewell.\" He said he would replace the board, and Michael Dell with it.",
+          "src": [
+            48,
+            118,
+            119,
+            18
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It got personal. One spring evening in 2013, Dell walked through Manhattan to Icahn's home for dinner. He walked because he did not want his driver or anyone else to know where he was going. Over a meal that included Mrs. Icahn's meatloaf, he tried to find out whether Icahn had any real plan. At one point, by his own account, he looked at him and said: \"I don't think you have a plan.\" Then he told him that if Icahn won, he would go to Hawaii, lose twenty pounds, and come home to buy Dell back for $8 a share.",
+          "src": [
+            120,
+            121,
+            12
+          ]
+        },
+        {
+          "t": "note",
+          "text": "In a fight, find out if the other side actually has cards."
+        },
+        {
+          "t": "p",
+          "text": "The worst moment was not the meatloaf. Dell told Tim Ferriss that the board, at one point, asked him not to talk to any of his own management team. \"And I'm the CEO of the company,\" he said. \"It was just a short period of time, but it was pretty weird.\" On 17 July 2013, the committee learned that the shareholders would vote no. The next morning, the meeting opened at the Round Rock headquarters and adjourned within minutes, about 100 million votes short.",
+          "src": [
+            12,
+            48,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Here is a detail buried in the court record. On 2 August, the final deal came together at $13.75 plus dividends, worth ==$13.96== a share in total, in exchange for a change in the vote-counting rule. The Delaware court opinion shows who paid for that bump. Michael Dell did, by agreeing to value his own shares at ==$12.51== instead of $13.36. __He paid everyone else more by accepting less himself. Control was worth more to him than the difference.__",
+          "src": [
+            48,
+            122
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Most functioning dictatorships only need to postpone the vote once to win.",
+          "who": "Carl Icahn, letter giving up the fight, 9 September 2013",
+          "src": [
+            123
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Three days after that letter, the vote finally passed, with about 57 percent of all shares in favour, about 70 percent of those voting. He then closed the deal on 29 October 2013 and ended up owning 74.9 percent, with Silver Lake holding 25.1 percent. Icahn later phoned him. \"It was a hard fight, but you won fair and square,\" Dell remembers him saying.",
+          "src": [
+            48,
+            124,
+            121,
+            125
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Did he underpay?"
+        },
+        {
+          "t": "p",
+          "text": "You should hear the other side too. Some shareholders refused the deal and asked a court to set a fair value, a legal process called appraisal. In May 2016, Delaware's Vice Chancellor Travis Laster found the fair value was ==$17.62==, about $4 above the price paid. He said the sale process had been thorough, but that the price had been held down by the way buyout firms value companies, and by the gap between the market's view and Dell's real prospects.",
+          "src": [
+            48,
+            70,
+            126
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In December 2017, the Delaware Supreme Court reversed that. It said the deal price deserved \"heavy, if not dispositive weight\", meaning it should count heavily or even settle the question. It also noted that the market for Dell's stock had been efficient. So the highest court rejected the higher figure, and even the trial judge had said the process would not support a claim that its leaders broke their duties. But honest experts disagreed for years about whether he bought his company cheaply. The stock's later rise is why that argument stays alive.",
+          "src": [
+            70,
+            127,
+            126
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Two courts, two answers. Even experts can't agree what a company is worth."
+        },
+        {
+          "t": "h",
+          "text": "The napkin"
+        },
+        {
+          "t": "p",
+          "text": "Private at last, he turned to the biggest deal in tech. The roots went back to a 2001 alliance with the storage giant EMC, and a failed merger study in 2009. \"While I have an above-average appetite for risk, not all participants had the same level,\" he told Fortune. Less than a year after going private, he phoned EMC's boss, Joe Tucci. \"Hey, Joe, maybe we should get the band back together,\" he recalled saying.",
+          "src": [
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The problem was money. EMC was worth about ==$55 billion== on the market, and Dell was already deep in debt. In April 2015, after a meeting at Dell's home in Austin, EMC executive Harry You flew back to California with Durban. On the plane, You drew an idea on a napkin: a tracking stock. This is a share that follows the fortunes of one business without owning it. EMC shareholders could get paper tied to VMware, knocking billions off the cash needed.",
+          "src": [
+            20,
+            71,
+            128
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: at a later dinner, the group laughed at the idea of walking into a bank and saying \"I want to borrow $50 billion\". Then Durban pointed out, in Dell's memoir, that banks could count the VMware shares, worth about $40 billion, even if the tracking stock passed its gains to others. That argument moved much of the debt into safer, cheaper \"investment grade\" territory, so Dell avoided selling a costly stake to Singapore's Temasek.",
+          "src": [
+            128,
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the selling. Some banks refused, saying they could not sell that much junk debt. JPMorgan's boss, Jamie Dimon, had to tell EMC's directors in person that the money would be there. The first loan sale in March 2016 raised $9.4 billion. In May, $20 billion of investment-grade bonds sold after demand beat the original $16 billion plan. Later tranches were so popular that they could be cut in size and priced at nearly half the interest rate expected.",
+          "src": [
+            62
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We were looking for every vein of money that was available.",
+          "who": "Jim Casey, head of debt capital markets at JPMorgan",
+          "src": [
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On 7 September 2016 the deal closed, at about ==$67 billion==. Dell Technologies had about 140,000 staff and nearly $57 billion of debt. \"Go big or go home, baby,\" he had told a crowd in 2015. Layoffs of about 3,000 were reported. Five days after closing, Dell sold a division for $1.62 billion, and it retired $5.8 billion of debt within months. By 2020 it had paid down $19.5 billion since the merger.",
+          "src": [
+            20,
+            76,
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Debt can build an empire. It also puts a clock on everything you do."
+        },
+        {
+          "t": "h",
+          "text": "The way back, and Icahn again"
+        },
+        {
+          "t": "p",
+          "text": "In July 2018 he moved to return to the stock market, in the strangest way possible: no IPO. Dell would buy back the VMware tracking stock for ==$21.7 billion== in cash and new shares, which would then trade on the New York Stock Exchange. This let him skip grilling by IPO investors over his $52.7 billion debt pile. Who should appear but Carl Icahn, who bought in and accused him and Silver Lake of trying to capture $11 billion of value from the holders.",
+          "src": [
+            78,
+            129
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dell raised its offer to $120 a share, valuing the stock at ==$23.9 billion==, and signed up big investors holding about 17 percent. Icahn called a further fight \"unwinnable\" and quit, while taking the credit for the extra money. The shares began trading on 28 December 2018.",
+          "src": [
+            130,
+            131,
+            129,
+            57
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The case did not end there. Shareholders sued, claiming the deal had short-changed them, and it was settled for ==$1 billion== in November 2022, a month before trial, so no court ruled on the claim. The Delaware Supreme Court upheld a $266.7 million legal fee from that settlement in August 2024. __When you hold all the power in a deal, expect to defend the price for years afterwards.__",
+          "src": [
+            132,
+            133,
+            134
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The last act belonged to VMware. Dell spun off its 81 percent stake to its shareholders on 1 November 2021, and collected its share of an $11.5 billion dividend to pay down debt. Since Michael Dell owned so much of Dell, he came out with about 40 percent of VMware directly. In May 2022, Broadcom's boss Hock Tan called him and proposed a $61 billion takeover. Tech stocks were falling. He said yes.",
+          "src": [
+            79,
+            77,
+            135,
+            27
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$7.5B",
+              "label": "his all-in cost of Dell stock and cash, Forbes estimate, 2021",
+              "src": [
+                81
+              ]
+            },
+            {
+              "value": "$21.65B",
+              "label": "his cash and Broadcom stock from VMware, per filing",
+              "src": [
+                136
+              ]
+            },
+            {
+              "value": "$12.06B",
+              "label": "the cash part of that payout",
+              "src": [
+                136
+              ]
+            },
+            {
+              "value": "$40B+",
+              "label": "total gains for him and partners by 2021, Forbes estimate",
+              "src": [
+                71
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forbes called it the deal of the century. In 2013, Dell could be bought for about $25 billion. By August 2021, Forbes valued Dell Technologies at $75 billion, more than four times its value before going private. It counted over $40 billion of gains for him, Silver Lake and co-investors, with his own fortune near $50 billion. Most of that came from borrowed money amplifying a good result, which is exactly how it could have gone the other way. __Leverage turned a good call into a historic one, and a bad call would have been historic too.__",
+          "src": [
+            71,
+            73
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "June 2012",
+              "text": "Southeastern suggests a buyout.",
+              "src": [
+                48
+              ]
+            },
+            {
+              "when": "Feb 2013",
+              "text": "Deal signed at $13.65. Icahn soon appears.",
+              "src": [
+                48
+              ]
+            },
+            {
+              "when": "Sept 2013",
+              "text": "Shareholders approve at $13.75 plus dividends.",
+              "src": [
+                73
+              ]
+            },
+            {
+              "when": "Oct 2015",
+              "text": "EMC deal announced at about $67 billion.",
+              "src": [
+                74
+              ]
+            },
+            {
+              "when": "Sept 2016",
+              "text": "EMC closes. Dell Technologies is born.",
+              "src": [
+                75
+              ]
+            },
+            {
+              "when": "Dec 2018",
+              "text": "Back on the stock market, without an IPO.",
+              "src": [
+                57
+              ]
+            },
+            {
+              "when": "Nov 2021",
+              "text": "VMware spun off to shareholders.",
+              "src": [
+                79
+              ]
+            },
+            {
+              "when": "Nov 2023",
+              "text": "Broadcom completes its purchase of VMware.",
+              "src": [
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-fortune",
+      "kicker": "2024 to 3 November 2026",
+      "title": "Where the Money Is Now",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "On 19 June 2024, Michael Dell posted one line on X: \"We're building a Dell AI factory with Nvidia to power Grok for xAI.\" The startup belonged to Elon Musk, who soon clarified that Dell would assemble half of the racks for his supercomputer, and Super Micro the other half. Dell's shares jumped as much as 8 percent that morning. For a 40-year-old PC company, the old skills suddenly mattered again: moving huge volumes of scarce parts, and delivering them to spec.",
+          "src": [
+            88,
+            137
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The numbers came quickly. In late 2024, Dell reported $3.6 billion of AI server orders in a quarter. In February 2025, reports said it was close to a $5 billion deal for xAI, which Dell declined to comment on. In the year to January 2026, it booked ==$64.1 billion== of AI orders and shipped more than $25 billion. In the quarter it reported that September it booked ==$60.9 billion==, close to the whole of the previous year, in just three months.",
+          "src": [
+            138,
+            7,
+            90,
+            87
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$113.5B",
+              "label": "revenue, year to January 2026 (a record)",
+              "src": [
+                7
+              ]
+            },
+            {
+              "value": "$95B",
+              "label": "AI server backlog, reported 1 September 2026",
+              "src": [
+                90
+              ]
+            },
+            {
+              "value": "$192B",
+              "label": "Dell's revenue forecast for the current year, as of 1 September 2026",
+              "src": [
+                90
+              ]
+            },
+            {
+              "value": "$74B",
+              "label": "AI server revenue it expects in the same year",
+              "src": [
+                91
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Before you get carried away, look at what kind of business this is. Dell does not design the AI chip. It buys Nvidia's and puts together, installs and supports the machines. Its own target for AI servers is only a mid-single-digit operating margin, which means about five cents of profit on each dollar of sales. __This is the same trade Dell has always made: thin margins and enormous volume, with a supply chain nobody else can easily copy.__",
+          "src": [
+            87,
+            88
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Remember 1989? The memory chip scar is now worth billions."
+        },
+        {
+          "t": "h",
+          "text": "The wildest year"
+        },
+        {
+          "t": "p",
+          "text": "Then came 2026. Dell's stock began the year at about $128. By 8 September it closed at $533.88, and Michael Dell passed Jeff Bezos on the Forbes list with an estimated $267.7 billion. The next morning he was briefly second in the world, behind only Musk. He had started the year 13th, with $141 billion. His fortune had gone up by well over $100 billion in about eight months, nearly all of it because the market had changed its mind about one stock.",
+          "src": [
+            91,
+            139,
+            140
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It went the other way just as quickly. On 14 October, Barclays cut its rating, arguing that strong enterprise sales were \"more of a function of memory costs\" than real AI demand, and the stock fell 11 percent. That week Dell lost 23 percent, its biggest weekly fall since returning to the market in 2018. On 30 October it dropped almost 11 percent more after Intel warned of a long PC slump, with Dell's own PC shipments reported down about 25 percent in the third quarter.",
+          "src": [
+            141,
+            142,
+            143,
+            144,
+            145
+          ]
+        },
+        {
+          "t": "note",
+          "text": "More than $40 billion gone in seven weeks, on paper. Paper moves both ways."
+        },
+        {
+          "t": "h",
+          "text": "What the $228.5 billion is made of"
+        },
+        {
+          "t": "p",
+          "text": "Forbes put him at ==$228.5 billion== on 2 November 2026, fourth in the world. But here is what most headlines skip. His 2026 proxy statement shows about 265.7 million Dell shares, or 40.9 percent of the company. At the 30 October closing price of $424.30, our arithmetic puts that stake at about ==$113 billion==. That is roughly half of the Forbes number.",
+          "src": [
+            146,
+            147,
+            143
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So where is the rest? Forbes says much of his fortune lies in DFO Management, his family's private investment firm, which has stakes in hotels and invests in corporate credit. The biggest single inflow we can trace was VMware: about $21.65 billion in cash and Broadcom shares in 2023, including over 21 million Broadcom shares. We could not confirm how much of that he still holds, and DFO is a private firm. So treat the total as an educated estimate rather than an audited fact.",
+          "src": [
+            146,
+            136,
+            26
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "40.9%",
+              "label": "his share of Dell's common stock, 2026 proxy",
+              "src": [
+                147
+              ]
+            },
+            {
+              "value": "About $113B",
+              "label": "value of that stake at $424.30, 30 Oct 2026 (our arithmetic)",
+              "src": [
+                147,
+                143
+              ]
+            },
+            {
+              "value": "About $116B",
+              "label": "the rest of the Forbes figure, as of 2 Nov 2026 (our arithmetic)",
+              "src": [
+                146,
+                147,
+                143
+              ]
+            },
+            {
+              "value": "$400M",
+              "label": "what MSD started with in 1998, as later reported",
+              "src": [
+                21,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The way his stake moved is the real lesson of this book. He owned more than half at the IPO in 1988, and his share fell to about 12 percent by 2004 and 15.4 percent by 2012. Then, when the market said PCs were dying, he bought his way back up to 74.9 percent using mostly debt, and his cost was about $7.5 billion by Forbes' estimate. __He got richest by buying more of his own company at the moment most of the market wanted out.__",
+          "src": [
+            1,
+            10,
+            48,
+            81
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1991",
+              "text": "Worth $300 million, age 26.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "1997",
+              "text": "Worth $4.3 billion, the richest man in Texas.",
+              "src": [
+                148
+              ]
+            },
+            {
+              "when": "1999",
+              "text": "Worth over $21 billion, the richest American under 40.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "2021",
+              "text": "Worth about $50 billion after the buyout and EMC.",
+              "src": [
+                71
+              ]
+            },
+            {
+              "when": "2025",
+              "text": "Forbes 400 estimate: $97.7 billion.",
+              "src": [
+                149
+              ]
+            },
+            {
+              "when": "Jan 2026",
+              "text": "About $141 billion, world number 13.",
+              "src": [
+                139
+              ]
+            },
+            {
+              "when": "Sept 2026",
+              "text": "About $270 billion or more at the peak, world number 2 briefly.",
+              "src": [
+                140,
+                150,
+                149
+              ]
+            },
+            {
+              "when": "2 Nov 2026",
+              "text": "$228.5 billion, world number 4.",
+              "src": [
+                146
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Two things are worth keeping in mind as you finish this chapter. First, the story is not over: the AI boom could fade, memory shortages could squeeze his PCs, and his backlog depends on customers who are themselves borrowing heavily. Second, he has heard the same funeral speech before. Analysts wrote off Dell in 1993, the market wrote off the PC in 2012, and each time he had a plan that looked crazy until it worked. He could still be wrong this time.",
+          "src": [
+            141,
+            145,
+            95,
+            48
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Numbers will change by the time you read this. The pattern will not."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Dell Technologies Inc., Form 10-K for fiscal year ended 30 January 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/dell-20260130.htm"
+    },
+    {
+      "label": "Nancy F. Koehn, Michael Dell: Winning on the Demand Side of the Information Revolution, Harvard Business School case 9-801-363",
+      "url": "https://economicstrategy.org/wp-content/uploads/2014/01/9-801-363.pdf"
+    },
+    {
+      "label": "strategy+business: Lawrence M. Fisher, Inside Dell Computer Corporation: Managing Working Capital, 1 January 1998",
+      "url": "https://www.strategy-business.com/article/9571"
+    },
+    {
+      "label": "Reuters: Timeline: Dell since 1984, a roller-coaster ride, 5 February 2013",
+      "url": "https://www.reuters.com/article/technology/timeline-dell-since-1984-a-roller-coaster-ride-idUSDEE9140BI/"
+    },
+    {
+      "label": "Texas State Historical Association, Handbook of Texas: Dell Computer Corporation",
+      "url": "https://www.tshaonline.org/handbook/entries/dell-computer-corporation"
+    },
+    {
+      "label": "Haim Mendelson, Dell Direct, Stanford Graduate School of Business case (MIT course copy)",
+      "url": "https://web.mit.edu/course/15/15.823/attach/Dell%20CASE.pdf"
+    },
+    {
+      "label": "Dell Technologies: How we got here (company timeline)",
+      "url": "https://www.dell.com/en-us/learn/our-company/lp/timeline"
+    },
+    {
+      "label": "Dell Technologies: Fourth Quarter and Full-Year Fiscal 2026 Results, 26 February 2026",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/93/dell-technologies-delivers-fourth-quarter-and-full-year-fiscal-2026-results"
+    },
+    {
+      "label": "Computerworld: HP overtakes Dell in worldwide PC market, 19 October 2006",
+      "url": "https://www.computerworld.com/article/1482649/hp-overtakes-dell-in-worldwide-pc-market.html"
+    },
+    {
+      "label": "Michael Dell, My Smartest Mistake: Ignoring the customer, Hemispheres magazine (archived by co-writer Catherine Fredman)",
+      "url": "https://catherinefredman.com/pages/dell.html"
+    },
+    {
+      "label": "Encyclopedia.com: Dell Inc. (International Directory of Company Histories)",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/dell-inc"
+    },
+    {
+      "label": "Fortune: The Education of Michael Dell, 7 March 2005",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/2005/03/07/8253438/index.htm"
+    },
+    {
+      "label": "The Tim Ferriss Show #534: Michael Dell transcript, 28 September 2021",
+      "url": "https://tim.blog/2021/09/28/michael-dell-transcript/"
+    },
+    {
+      "label": "Encyclopedia.com: Michael Dell (business leader entries)",
+      "url": "https://www.encyclopedia.com/people/social-sciences-and-law/business-leaders/michael-dell"
+    },
+    {
+      "label": "Reference for Business: Dell Computer Corporation, Big Doings in Room 2713 (quotes Fortune)",
+      "url": "https://www.referenceforbusiness.com/businesses/A-F/Dell-Computer-Corporation.html"
+    },
+    {
+      "label": "Bloomberg BusinessWeek: Peter Burrows, This Laptop Runs Cross Country, 4 June 1995",
+      "url": "https://www.bloomberg.com/news/articles/1995-06-04/this-laptop-runs-cross-country"
+    },
+    {
+      "label": "Fortune: Rahul Jacob, The Resurrection of Michael Dell, 18 September 1995",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/1995/09/18/206081/index.htm"
+    },
+    {
+      "label": "Dell Computer Corp., annual report filing for fiscal 1995 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/826083/000095013495000391/0000950134-95-000391.txt"
+    },
+    {
+      "label": "Texas Monthly: Loren Steffy, Dell and Back, August 2013",
+      "url": "https://www.texasmonthly.com/culture/dell-and-back/"
+    },
+    {
+      "label": "Kenneth L. Kraemer and Jason Dedrick, Dell Computer: Using E-commerce To Support the Virtual Company, UC Irvine",
+      "url": "https://escholarship.org/content/qt7r55529z/qt7r55529z.pdf"
+    },
+    {
+      "label": "Fortune: Michal Lev-Ram, The Gamblers Behind Tech's Biggest Deal Ever, 27 December 2016",
+      "url": "https://fortune.com/longform/dell-emc-merger-tech-biggest-deal/"
+    },
+    {
+      "label": "The Wall Street Journal: Juliet Chung, Michael Dell's Money Managers Change How His Wealth Is Invested, 6 December 2019",
+      "url": "https://www.wsj.com/articles/michael-dells-money-managers-change-how-his-wealth-is-invested-11575628204"
+    },
+    {
+      "label": "The Wall Street Journal: Gary McWilliams, Michael Dell Assumes a Big Role As a Venture-Capital Investor, 16 December 1998",
+      "url": "https://www.wsj.com/articles/SB913767341870109000"
+    },
+    {
+      "label": "The New York Times DealBook: Peter Lattman, Michael Dell's Empire in a Buyout Spotlight, 17 January 2013",
+      "url": "https://dealbook.nytimes.com/2013/01/17/michael-dells-empire-in-a-buyout-spotlight/"
+    },
+    {
+      "label": "Commercial Observer: Michael Dell, Power series profile, 21 July 2025",
+      "url": "https://commercialobserver.com/power-series/player/michael-dell/"
+    },
+    {
+      "label": "The Real Deal: Rich Bockmann, Dell dials up, April 2023",
+      "url": "https://therealdeal.com/magazine/national-april-2023/dell-dials-up-how-the-tech-billionaire-quietly-became-a-major-real-estate-player/"
+    },
+    {
+      "label": "DFO Management: About",
+      "url": "https://www.dellfamilyoffice.com/about"
+    },
+    {
+      "label": "CRN: Broadcom's $61B Buy Of 'Iconic' VMware: 5 Big Things To Know, May 2022",
+      "url": "https://www.crn.com/slide-shows/cloud/broadcom-s-61b-buy-of-iconic-vmware-5-big-things-to-know"
+    },
+    {
+      "label": "CRN: It's Official: Broadcom To Acquire VMware For $61B, May 2022",
+      "url": "https://www.crn.com/news/virtualization/it-s-official-broadcom-to-acquire-vmware-for-61-billion"
+    },
+    {
+      "label": "Los Angeles Times: Joseph Menn, Tech Giants Lose Big on Start-Up Ventures, 11 June 2001",
+      "url": "https://www.latimes.com/archives/la-xpm-2001-jun-11-fi-9011-story.html"
+    },
+    {
+      "label": "Pund-IT Spotlight: interview with Dell Ventures head Marc Lussier, 26 March 2014 (hosted by Dell)",
+      "url": "https://i.dell.com/sites/csdocuments/Corporate_secure_Documents/en/Pund-IT-Spotlight-26mar14.pdf"
+    },
+    {
+      "label": "Dell Technologies: Dell Technologies Capital Announces Strong Exit & Investment Momentum, 30 April 2018",
+      "url": "https://www.dell.com/en-us/dt/corporate/newsroom/dell-technologies-capital-announces-strong-exit-investment-momentum-in-its-first-year-out-of-stealth.htm"
+    },
+    {
+      "label": "Dell Technologies Capital: About",
+      "url": "https://www.delltechnologiescapital.com/about"
+    },
+    {
+      "label": "The Wall Street Journal: Evan Ramstad, Expanding Its Reach, Dell Computer Builds a Superstore on the Internet, 3 March 1999",
+      "url": "https://www.wsj.com/articles/SB920419067209269000"
+    },
+    {
+      "label": "Computerworld: Sprint, Dell team on small-business Web hosting, 30 August 2001",
+      "url": "https://www.computerworld.com/article/1415918/sprint-dell-team-on-small-business-web-hosting.html"
+    },
+    {
+      "label": "Computable (Netherlands): Dell doet ook webhosting de deur uit, 31 August 2001",
+      "url": "https://www.computable.nl/2001/08/31/dell-doet-ook-webhosting-de-deur-uit/"
+    },
+    {
+      "label": "Computerworld: Dell cuts workforce by 4%, warns of uncertain outlook, 15 February 2001",
+      "url": "https://www.computerworld.com/article/1357651/update-dell-cuts-workforce-by-4-warns-of-uncertain-outlook.html"
+    },
+    {
+      "label": "TIME: Cathy Booth Thomas, Dell Wants Your Home, 6 October 2003",
+      "url": "https://time.com/archive/6669694/dell-wants-your-home/"
+    },
+    {
+      "label": "BBC News: Dell launches iPod rival, 25 September 2003",
+      "url": "http://news.bbc.co.uk/2/hi/business/3140450.stm"
+    },
+    {
+      "label": "The Guardian: Charles Arthur, Why did Dell discontinue its hard drive MP3 player?, 9 February 2006",
+      "url": "https://www.theguardian.com/technology/2006/feb/09/guardianweeklytechnologysection.dell"
+    },
+    {
+      "label": "NBC News / AP: Dell stops selling music player, 23 August 2006",
+      "url": "https://www.nbcnews.com/id/wbna14486826"
+    },
+    {
+      "label": "CBC News: Dell drops Axim hand-held from product line, 10 April 2007",
+      "url": "https://www.cbc.ca/news/science/dell-drops-axim-hand-held-from-product-line-1.645724"
+    },
+    {
+      "label": "Fortune: Andy Serwer, Dell's Midlife Crisis, 28 November 2005",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/2005/11/28/8361935/index.htm"
+    },
+    {
+      "label": "InfoWorld: Dell shuts 140 retail kiosks in United States, 31 January 2008",
+      "url": "https://www.infoworld.com/article/2327900/dell-shuts-140-retail-kiosks-in-united-states.html"
+    },
+    {
+      "label": "TIME: Ta-Nehisi Paul Coates, Can Dell Mount a Comeback?, 23 July 2006",
+      "url": "https://time.com/archive/6677863/can-dell-mount-a-comeback/"
+    },
+    {
+      "label": "The New York Times: Dell to Buy Alienware, a Maker of High-End PC's for Gamers, 23 March 2006",
+      "url": "https://www.nytimes.com/2006/03/23/technology/dell-to-buy-alienware-a-maker-of-highend-pcs-for-gamers.html"
+    },
+    {
+      "label": "Network World: Dell snaps up Alienware, 23 March 2006",
+      "url": "https://www.networkworld.com/article/847928/data-center-dell-snaps-up-alienware.html"
+    },
+    {
+      "label": "Forbes: Why Is Dell Playing Games?, 23 March 2006",
+      "url": "https://www.forbes.com/2006/03/23/alienware-dell-lenovo-_cx_ckmr_0323dell.html"
+    },
+    {
+      "label": "Delaware Court of Chancery: In re Appraisal of Dell Inc., C.A. No. 9322-VCL, opinion of 31 May 2016",
+      "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=241590"
+    },
+    {
+      "label": "Computing: Dell plans to buy EqualLogic for $1.4bn, 2007",
+      "url": "https://www.computing.co.uk/news/1850419/dell-plans-equallogic-usd14bn"
+    },
+    {
+      "label": "CRN: 12 Dell Acquisitions And What They've Brought To The Company",
+      "url": "https://www.crn.com/slide-shows/data-center/228300266/12-dell-acquisitions-and-what-theyve-brought-to-the-company"
+    },
+    {
+      "label": "Ars Technica: Dell to sell Perot Systems unit to NTT Data at loss of $800 million, 28 March 2016",
+      "url": "https://arstechnica.com/information-technology/2016/03/dell-to-sell-perot-systems-unit-to-ntt-data-at-loss-of-800-million/"
+    },
+    {
+      "label": "TAdviser: Acquisition and Sale of Dell Assets (bid sequence for 3PAR)",
+      "url": "https://tadviser.com/index.php/Article:Acquisition_and_Sale_of_Dell_Assets"
+    },
+    {
+      "label": "CMSWire: HP On Target for 3Par after Dell Withdrawal, 3 September 2010",
+      "url": "https://www.cmswire.com/cms/enterprise-cms/hp-on-target-for-3par-after-dell-withdrawal-ups-rivalry-with-emc-008499.php"
+    },
+    {
+      "label": "Enterprise Storage Forum: Dell Enterprise Storage: Contender or Pretender?, 28 September 2010",
+      "url": "https://www.enterprisestorageforum.com/news/dell-enterprise-storage-contender-or-pretender/"
+    },
+    {
+      "label": "CRN: Dell Cloud Computing Spending Spree Nears $2 Billion (quotes Dell's Form 10-K)",
+      "url": "https://www.crn.com/news/cloud/229401074/dell-cloud-computing-spending-spree-nears-2-billion"
+    },
+    {
+      "label": "Reuters: Dell to buy cloud computing company Boomi, 2 November 2010",
+      "url": "https://www.reuters.com/article/technology/dell-to-buy-cloud-computing-company-boomi-idUSTRE6A116Q/"
+    },
+    {
+      "label": "Dell Technologies Inc., Form 10-Q for quarter ended 29 October 2021 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199621000063/dell-20211029.htm"
+    },
+    {
+      "label": "Dell Technologies Inc., Form 8-K and press release: Francisco Partners and TPG to Acquire Boomi, May 2021",
+      "url": "https://investors.delltechnologies.com/static-files/07748710-15c8-4d1f-930b-6f1be1933c69"
+    },
+    {
+      "label": "Reuters: Dell to buy SonicWall from Thoma Bravo, 13 March 2012",
+      "url": "https://www.reuters.com/article/internetNews/idUSBRE82C0QO20120313/"
+    },
+    {
+      "label": "Fortune: Barb Darrow, Dell Just Got a Little Closer to Paying Down Its Ginormous Debt, 20 June 2016",
+      "url": "https://fortune.com/2016/06/20/dell-software-private-equity/"
+    },
+    {
+      "label": "TechCrunch: Confirmed: Dell sells software division to Francisco Partners and Elliott Management, 20 June 2016",
+      "url": "https://techcrunch.com/2016/06/20/confirmed-dell-sells-software-division-to-francisco-partners-and-elliott-management/"
+    },
+    {
+      "label": "The New York Times, via Financial Post: How Dell was able to piece together the US$67 billion needed to buy EMC, 8 August 2016",
+      "url": "https://financialpost.com/technology/how-dell-was-able-to-piece-together-the-us67-billion-needed-to-buy-emc/"
+    },
+    {
+      "label": "Dell: Dell Closes SecureWorks Acquisition, 8 February 2011",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/991/dell-closes-secureworks-acquisition"
+    },
+    {
+      "label": "SecureWorks Corp., final IPO prospectus, 21 April 2016 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1468666/000119312516551881/d934761d424b4.htm"
+    },
+    {
+      "label": "Sophos: Sophos Completes Secureworks Acquisition, 3 February 2025",
+      "url": "https://www.sophos.com/en-us/press/press-releases/2025/02/sophos-completes-secureworks-acquisition"
+    },
+    {
+      "label": "PCWorld: Dell Ends Smartphone Sales in the US, 29 March 2012",
+      "url": "https://www.pcworld.com/article/469495/dell_ends_smartphone_sales_in_the_us.html"
+    },
+    {
+      "label": "Ars Technica: Dell kills off its last Android tablet in the US, 5 December 2011",
+      "url": "https://arstechnica.com/gadgets/2011/12/dell-kills-off-its-last-android-tablet-in-the-us/"
+    },
+    {
+      "label": "Laptop Mag: Top 5 Dell Flops, 29 March 2012",
+      "url": "https://www.laptopmag.com/articles/top-5-dell-flops"
+    },
+    {
+      "label": "The Verge: Nilay Patel, Dell's downward spiral: 10 years of failed consumer devices, 6 February 2013",
+      "url": "https://www.theverge.com/2013/2/6/3958198/10-years-of-dells-failed-consumer-devices"
+    },
+    {
+      "label": "Delaware Supreme Court: Dell, Inc. v. Magnetar Global Event Driven Master Fund Ltd, 14 December 2017 (Justia)",
+      "url": "https://law.justia.com/cases/delaware/supreme-court/2017/565-2016.html"
+    },
+    {
+      "label": "Forbes: Antoine Gara, Deal Of The Century: How Michael Dell Turned His Declining PC Business Into A $40 Billion Windfall, 3 August 2021",
+      "url": "https://www.forbes.com/sites/antoinegara/2021/08/03/deal-of-the-century-how-michael-dell-turned-his-declining-pc-business-into-40-billion-windfall/"
+    },
+    {
+      "label": "The Stock Market Game: Farmer in the Dell, In the News (buyout funding table)",
+      "url": "https://www.stockmarketgame.org/cgi-bin/nshaibin/ntrc_pdfs/ITN44-02.pdf?FILE=ntrc_pdfs%2FITN44-02.pdf"
+    },
+    {
+      "label": "Dell: Dell Stockholders Approve Merger Transaction, 12 September 2013",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/480/dell-stockholders-approve-merger-transaction"
+    },
+    {
+      "label": "Dell: Michael S. Dell, MSD Partners and Silver Lake Lead Acquisition of EMC, 12 October 2015",
+      "url": "https://www.dell.com/en-us/dt/corporate/newsroom/announcements/2015/10/20151012-02.htm"
+    },
+    {
+      "label": "Dell Technologies: Historic Dell and EMC Merger Complete, 7 September 2016",
+      "url": "https://www.dell.com/en-us/dt/corporate/newsroom/announcements/2016/09/20160907-01.htm"
+    },
+    {
+      "label": "TechCrunch: Dell spent $67B buying EMC, more than 3 years later, was it worth the debt?, 10 March 2020",
+      "url": "https://techcrunch.com/2020/03/10/dell-spent-67b-buying-emc-more-than-3-years-later-was-it-worth-the-debt/"
+    },
+    {
+      "label": "Reuters: Dell spins off VMware stake, generating up to $9.7 bln to pay down debt, 14 April 2021",
+      "url": "https://www.reuters.com/technology/dell-spin-off-vmware-stake-2021-04-14/"
+    },
+    {
+      "label": "Reuters: Carl O'Donnell, Dell moves to go public, spurns IPO, 2 July 2018",
+      "url": "https://www.reuters.com/article/us-dell-vmware/dell-to-buy-out-vmware-tracking-stock-in-move-to-go-public-again-idUSKBN1JS11X/"
+    },
+    {
+      "label": "Dell Technologies Inc., Form 8-K on the VMware spin-off, 1 November 2021",
+      "url": "https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001193125-21-315488/d146470d8k.htm"
+    },
+    {
+      "label": "Reuters: Chipmaker Broadcom to buy VMware in $61 bln deal, 26 May 2022",
+      "url": "https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/"
+    },
+    {
+      "label": "Forbes: Antoine Gara, How Wall Street's Greatest Piece Of Financial Engineering Propelled Michael Dell To A $50 Billion Fortune, 18 April 2021",
+      "url": "https://www.forbes.com/sites/antoinegara/2021/04/18/how-wall-streets-greatest-piece-of-financial-engineering-propelled-michael-dell-to-a-50-billion-fortune/"
+    },
+    {
+      "label": "Pivotal Software, Inc., IPO prospectus, 19 April 2018 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1574135/000104746918003019/a2235389z424b4.htm"
+    },
+    {
+      "label": "VMware press release via Dell Technologies Form 8-K: VMware Signs Definitive Agreement to Acquire Pivotal Software, 22 August 2019",
+      "url": "https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001193125-19-226939/d793920dex991.htm"
+    },
+    {
+      "label": "TechCrunch: How Pivotal got bailed out by fellow Dell family member, VMware, 23 August 2019",
+      "url": "https://techcrunch.com/2019/08/23/how-pivotal-got-bailed-out-by-fellow-dell-family-member-vmware/"
+    },
+    {
+      "label": "TechTarget: Dell sells RSA Security to private equity firm for $2 billion, 18 February 2020",
+      "url": "https://www.techtarget.com/news/Dell-sells-RSA-Security-to-private-equity-firm-for-2-billion/839682/"
+    },
+    {
+      "label": "BDT & MSD: BDT & Company and MSD Partners Combine, 20 October 2022",
+      "url": "https://bdtmsd.com/news/bdt-company-and-msd-partners-to-combine-as-the-preeminent-advisory-and-investment-firm-serving-family--and-founder-led-business-owners-and-strategic-long-term-investors"
+    },
+    {
+      "label": "Dell Technologies: Q4 FY26 earnings call transcript",
+      "url": "https://investors.delltechnologies.com/_assets/_05e732f9d8ad1d0b18d288b809a5a6c8/delltechnologies/db/3595/34520/webcast_transcript/DELL_Q4FY26_Earnings_Transcript.pdf"
+    },
+    {
+      "label": "Fortune / Bloomberg: Nvidia and Dell shares rise on news of 'AI factory' for Elon Musk's xAI, 20 June 2024",
+      "url": "https://fortune.com/2024/06/20/nvidia-super-micro-michael-dell-elon-musk-ai-xai/"
+    },
+    {
+      "label": "Dell Technologies: CoreWeave and Dell Technologies Extend Relationship to Deliver AI at Scale, 9 December 2024",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/134/coreweave-and-dell-technologies-extend-relationship-to-deliver-ai-at-scale"
+    },
+    {
+      "label": "Dell Technologies: Second Quarter Fiscal 2027 Financial Results, 1 September 2026",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1653/dell-technologies-delivers-second-quarter-fiscal-2027-financial-results"
+    },
+    {
+      "label": "Quartz: Michael Dell passes Jeff Bezos to become world's third-richest person, 9 September 2026",
+      "url": "https://qz.com/michael-dell-jeff-bezos-net-worth-billionaire-ranking-090926"
+    },
+    {
+      "label": "Colossus / Founders podcast #385: Michael Dell, transcript of a reading of Play Nice But Win (auto-generated, via TLDL)",
+      "url": "https://app.tldl.pro/episodes/385-michael-dell/01M0WPF1JJ6Y3WNMDM43G03E7E/chapters/19"
+    },
+    {
+      "label": "Kyle Pope, Wall Street Journal reports of 1992 and 1993 on Dell, abstracts via ReadAbstracts",
+      "url": "https://www.readabstracts.com/Business-general/Dell-Computer-shares-drop-by-98-on-analysts-currency-trading-report.html"
+    },
+    {
+      "label": "The New York Times: Dell's Stock Price Plunges After Forecast, 25 February 1993",
+      "url": "https://www.nytimes.com/1993/02/25/business/company-news-dell-s-stock-price-plunges-after-forecast.html"
+    },
+    {
+      "label": "The New York Times: Steve Lohr, Is Dell Computer's fall from grace about to be reversed?, 29 November 1993",
+      "url": "https://www.nytimes.com/1993/11/29/business/market-place-is-dell-computer-s-fall-from-grace-about-to-be-reversed.html"
+    },
+    {
+      "label": "CFO: Stephen Barr, Thomas Meredith, Dell Computer Corp., 1 September 1998",
+      "url": "https://www.cfo.com/news/thomas-meredith-dell-computer-corp/684673/"
+    },
+    {
+      "label": "MIT Technology Review: Direct from Dell, 1 July 2001",
+      "url": "https://www.technologyreview.com/2001/07/01/235673/direct-from-dell/"
+    },
+    {
+      "label": "Texas Monthly: S. C. Gwynne, Dell's Great Success Story, 7 February 2013",
+      "url": "https://www.texasmonthly.com/culture/dells-great-success-story/"
+    },
+    {
+      "label": "AppleInsider: Steve Jobs wanted Dell to license Mac OS, 6 October 2021 (reports Dell's CNET interview)",
+      "url": "https://appleinsider.com/articles/21/10/06/steve-jobs-wanted-dell-to-license-mac-os"
+    },
+    {
+      "label": "Macworld: Jobs Nearly Licensed Mac OS To Dell, 6 October 2021",
+      "url": "https://www.macworld.com/article/677883/jobs-nearly-licensed-mac-os-to-dell.html"
+    },
+    {
+      "label": "CNN: 14 years later, Dell founder backtracks on Apple attack, 18 October 2011",
+      "url": "https://edition.cnn.com/2011/10/18/tech/web/michael-dell-apple/index.html"
+    },
+    {
+      "label": "TechCrunch: Michael Dell On His Infamous 'I'd Shut Down Apple' Quote, 18 October 2011",
+      "url": "https://techcrunch.com/2011/10/18/michael-dell-on-the-infamous-apple-shut-it-down-quote-my-answer-was-largely-misconstrued/"
+    },
+    {
+      "label": "InfoWorld: Michael Dell back in charge as Rollins exits Dell, 1 February 2007",
+      "url": "https://www.infoworld.com/article/2198136/michael-dell-back-in-charge-as-rollins-exits-dell-2.html"
+    },
+    {
+      "label": "U.S. Securities and Exchange Commission: Litigation Release No. 21599, SEC v. Dell Inc. et al., 22 July 2010",
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21599"
+    },
+    {
+      "label": "BBC News: Dell computers pays $100m to settle SEC fraud charge, 23 July 2010",
+      "url": "https://www.bbc.com/news/business-10736517"
+    },
+    {
+      "label": "Dell: Dell Reaches Settlement with Securities and Exchange Commission, 22 July 2010",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1073/dell-reaches-settlement-with-securities-and-exchange-commission"
+    },
+    {
+      "label": "The New York Times, via Herald-Tribune: Verne G. Kopytoff, Dell Settles a Client's Claim That It Hid Computer Defects, 25 September 2010",
+      "url": "https://www.heraldtribune.com/story/news/2010/09/25/dell-settles-client-x2019-s/28968623007/"
+    },
+    {
+      "label": "BetaNews: Dell Recalls 4.1 Million Laptop Batteries, 15 August 2006",
+      "url": "https://betanews.com/2006/08/15/dell-recalls-4-1-million-laptop-batteries"
+    },
+    {
+      "label": "eWeek: Dell to Recall Millions of Laptop Batteries, August 2006",
+      "url": "https://www.eweek.com/pc-hardware/dell-to-recall-millions-of-laptop-batteries/"
+    },
+    {
+      "label": "The New York Times: Can Michael Dell Refocus His Namesake?, 9 September 2007",
+      "url": "https://www.nytimes.com/2007/09/09/technology/09dell.html"
+    },
+    {
+      "label": "CNBC / AP: Hewlett-Packard Extends Lead Over Dell in PC Market, 18 January 2007",
+      "url": "https://www.cnbc.com/2007/01/18/hewlettpackard-extends-lead-over-dell-in-pc-market-studies-say.html"
+    },
+    {
+      "label": "InfoWorld: Dell describes cost cuts in leaked memo, 5 February 2007",
+      "url": "https://www.infoworld.com/article/2202562/dell-describes-cost-cuts-in-leaked-memo.html"
+    },
+    {
+      "label": "Computerworld: Dell memo hints at layoffs, acquisitions, 30 April 2007",
+      "url": "https://www.computerworld.com/article/1473553/dell-memo-hints-at-layoffs-acquisitions.html"
+    },
+    {
+      "label": "Houston Chronicle / Bloomberg: Dell moves away from its build-to-order model, 2 April 2008",
+      "url": "https://www.chron.com/business/technology/article/Dell-moves-away-from-its-build-to-order-model-1754048.php"
+    },
+    {
+      "label": "InfoWorld: Dell ironing out kinks in supply chain, executive says, 3 April 2008",
+      "url": "https://www.infoworld.com/article/2166973/dell-ironing-out-kinks-in-supply-chain-executive-says.html"
+    },
+    {
+      "label": "Reuters: Dell shifts manufacturing from Ireland to Poland, 8 January 2009",
+      "url": "https://www.reuters.com/article/business/dell-shifts-manufacturing-from-ireland-to-poland-idUSTRE5076PT/"
+    },
+    {
+      "label": "Reuters: Dell to shut North Carolina plant, cut 905 workers, 7 October 2009",
+      "url": "https://www.reuters.com/article/us-dell-layoffs-sb1/dell-to-shut-north-carolina-plant-cut-905-workers-idUSTRE5965TS20091007/"
+    },
+    {
+      "label": "Reuters: Dell postpones meeting on buyout as more votes needed, 18 July 2013",
+      "url": "https://www.reuters.com/article/topNews/idUSBRE96G1F920130718/"
+    },
+    {
+      "label": "Forbes: Connie Guglielmo, Dell Officially Goes Private: Inside The Nastiest Tech Buyout Ever, 30 October 2013",
+      "url": "https://www.forbes.com/sites/connieguglielmo/2013/10/30/you-wont-have-michael-dell-to-kick-around-anymore/"
+    },
+    {
+      "label": "Forbes: Michael Dell, How To Win A Game Of Chicken With Carl Icahn (excerpt from Play Nice But Win), 7 October 2021",
+      "url": "https://www.forbes.com/sites/forbesdigitalcovers/2021/10/07/michael-dell-book-excerpt-play-nice-but-win-how-to-win-a-game-of-chicken-with-carl-icahn/"
+    },
+    {
+      "label": "Inc.: Michael Dell, Why Michael Dell Decided to Take His PC Company Private, 5 October 2021",
+      "url": "https://www.inc.com/magazine/202109/michael-dell/michael-dell-play-nice-but-win-ceo-public-private-company.html"
+    },
+    {
+      "label": "Reuters: Michael Dell closes in on prize with sweeter $25 billion deal, 2 August 2013",
+      "url": "https://www.reuters.com/article/us-dell-buyout-vote-idUSBRE97106220130802/"
+    },
+    {
+      "label": "CNBC: Carl Icahn gives up: Full letter to Dell shareholders, 9 September 2013",
+      "url": "https://www.cnbc.com/2013/09/09/carl-icahn-gives-up-full-letter-to-dell-shareholders.html"
+    },
+    {
+      "label": "Reuters: Dell seals $24.9 billion buyout, delisting Tuesday, 29 October 2013",
+      "url": "https://www.reuters.com/article/technology/dell-seals-249-billion-buyout-delisting-tuesday-idUSBRE99S0VQ/"
+    },
+    {
+      "label": "Reuters: Icahn ends battle for control of Dell, 9 September 2013",
+      "url": "https://www.reuters.com/article/topNews/idUSBRE9880M720130909/"
+    },
+    {
+      "label": "Wilson Sonsini: Delaware Supreme Court Issues Important Opinion in Dell Appraisal Case, 15 December 2017",
+      "url": "https://www.wsgr.com/en/insights/delaware-supreme-court-issues-important-opinion-in-dell-appraisal-case.html"
+    },
+    {
+      "label": "Richards, Layton & Finger: note on Dell v. Magnetar, 14 December 2017",
+      "url": "https://www.rlf.com/dell-inc-v-magnetar-global-event-driven-master-fund-ltd-et-al-no-565-2016-del-dec-14-2017-delaware-supreme-court-reverses-dell-appraisal-decision-remands-for-consideration-of-market-da/"
+    },
+    {
+      "label": "Commoncog: Dell's Go Private and Second IPO (case, quotes Play Nice But Win at length)",
+      "url": "https://commoncog.com/c/cases/dells-go-private-and-second-ipo/"
+    },
+    {
+      "label": "CRN: Carl Icahn Drops 'Unwinnable' Case Against Dell's VMware Stock Swap Deal, 15 November 2018",
+      "url": "https://www.crn.com/news/data-center/carl-icahn-drops-unwinnable-case-against-dell-s-vmware-stock-swap-deal"
+    },
+    {
+      "label": "Dell Technologies: Announces Significant Enhancements to Class V Transaction, 15 November 2018",
+      "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1604/dell-technologies-announces-significant-enhancements-to-class-v-transaction"
+    },
+    {
+      "label": "Reuters: Dell sweetens tracking stock offer, Icahn drops opposition, 15 November 2018",
+      "url": "https://www.reuters.com/article/technology/dell-sweetens-tracking-stock-offer-icahn-drops-opposition-idUSKCN1NK2ES/"
+    },
+    {
+      "label": "Delaware Supreme Court: In re Dell Technologies Inc. Class V Stockholders Litigation, 14 August 2024",
+      "url": "https://courts.delaware.gov/Opinions/Download.aspx?id=368080"
+    },
+    {
+      "label": "Quinn Emanuel: Secures Historic Settlement in Dell Technologies Shareholder Suit, 16 November 2022",
+      "url": "https://www.quinnemanuel.com/the-firm/news-events/quinn-emanuel-secures-historic-settlement-in-dell-technologies-shareholder-suit/"
+    },
+    {
+      "label": "Reuters: Court upholds blockbuster $267 million legal fee award in Dell lawsuit, 14 August 2024",
+      "url": "https://www.reuters.com/legal/court-upholds-blockbuster-267-million-legal-fee-award-dell-lawsuit-2024-08-14/"
+    },
+    {
+      "label": "Reuters: How Broadcom CEO Tan shaped a tech giant through acquisitions, 27 May 2022",
+      "url": "https://www.reuters.com/markets/us/how-broadcom-ceo-tan-shaped-tech-giant-through-acquisitions-2022-05-27/"
+    },
+    {
+      "label": "CRN: Broadcom's VMware Deal To Net Michael Dell $21.65B In Cash And Stock (quotes VMware's SEC filing)",
+      "url": "https://www.crn.com/news/channel-news/broadcom-s-vmware-deal-to-net-michael-dell-21-65b-in-cash-and-stock"
+    },
+    {
+      "label": "Yahoo Finance: Dell, Super Micro stocks rise after Musk says companies will supply hardware for xAI, 20 June 2024",
+      "url": "https://finance.yahoo.com/news/dell-super-micro-stocks-rise-after-musk-says-companies-will-supply-hardware-for-xai-153607641.html"
+    },
+    {
+      "label": "CNBC: Dell pops on report of $5 billion deal for AI servers for Musk's xAI, 14 February 2025",
+      "url": "https://www.cnbc.com/2025/02/14/dell-shares-pop-on-report-of-5-billion-deal-for-ai-servers-for-elon-musks-xai.html"
+    },
+    {
+      "label": "Mint: Michael Dell overtakes Jeff Bezos to become the world's third-richest person, 10 September 2026",
+      "url": "https://www.livemint.com/companies/people/michael-dell-overtakes-jeff-bezos-to-become-the-worlds-third-richest-person-check-their-net-worth-11789003198644.html"
+    },
+    {
+      "label": "Forbes: Mary Whitfill Roeloffs, Michael Dell Is Now The Second Richest Person In The World, 9 September 2026",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/09/michael-dell-hits-no-2-on-forbes-billionaire-list-for-first-time-passing-larry-page/"
+    },
+    {
+      "label": "CNBC: Dell stock plunges 11%, leading data center sell-off, 14 October 2026",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html"
+    },
+    {
+      "label": "The Wall Street Journal: Rob Curran, Dell Stock Closes Its Worst Week in Years, 16 October 2026",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/dell-stock-closes-its-worst-week-in-years-tS0IhYk6byU2U8I1QBJn"
+    },
+    {
+      "label": "StockAnalysis: Dell Technologies stock price history (S&P Global data), to 2 November 2026",
+      "url": "https://stockanalysis.com/stocks/dell/history/"
+    },
+    {
+      "label": "Yahoo Finance: Intel CEO Warning Sends Dell Stock Sinking, 30 October 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-ceo-warning-sends-dell-142403672.html"
+    },
+    {
+      "label": "Yahoo Finance: Why Dell (DELL) shares are getting obliterated today, 31 October 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-dell-dell-shares-getting-161929339.html"
+    },
+    {
+      "label": "Forbes: Michael Dell profile, real-time net worth as of 2 November 2026",
+      "url": "https://www.forbes.com/profile/michael-dell/"
+    },
+    {
+      "label": "Dell Technologies Inc., 2026 proxy statement, Form DEF 14A (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001571996/000119312526226734/d132444ddef14a.htm"
+    },
+    {
+      "label": "Fortune: Andrew E. Serwer, Michael Dell Turns the PC World Inside Out, 8 September 1997",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/1997/09/08/230827/index.htm"
+    },
+    {
+      "label": "Yahoo Finance / Forbes: Michael Dell's Net Worth Falls Over $20 Billion, 14 October 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-dell-net-worth-falls-200412200.html"
+    },
+    {
+      "label": "Forbes: Antonio Pequeno IV, Dell Shares Hit All-Time High As Michael Dell Becomes Third-Wealthiest Billionaire Again, 11 September 2026",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/11/dell-shares-hit-all-time-high-as-michael-dell-and-jeff-bezos-jockey-for-third-wealthiest-billionaire/"
+    }
+  ],
+  "factCheck": {
+    "method": "Built from primary records first: the 115-page Delaware Court of Chancery opinion of 31 May 2016 was downloaded and read for the buyout chronology, along with the Delaware Supreme Court rulings of 2017 and 2024, SEC Litigation Release 21599, Dell's SEC filings (10-K, 10-Q, 8-K, 2026 proxy), SecureWorks' and Pivotal's prospectuses, and Dell's own press releases. Early finance comes from Harvard Business School case 9-801-363, downloaded as a PDF and read in the relevant passages, and the International Directory of Company Histories. First-person material comes from the relevant passages of the Tim Ferriss transcript, whose quotes were machine-checked against the page text, and from excerpts of Michael Dell's Hemispheres article. Forbes, Fortune, Reuters and New York Times items were often visible only as search-result excerpts or partial page reads, because direct reading was blocked or truncated, and no block was bypassed: a fact-checker should recheck them. Share-price data comes from StockAnalysis (S&P Global data) and Yahoo Finance tables. Play Nice But Win was not read directly: details come from the Forbes and Inc. excerpts Dell published, the Commoncog case that quotes it at length, and an auto-generated Founders Podcast transcript, which we paraphrased and never quoted. The $113 billion stake value and the roughly $116 billion remainder are our own arithmetic (265,674,689 shares from the 2026 proxy, times $424.30, the 30 October 2026 close, set against Forbes's $228.5 billion dated 2 November) and are labelled as such. Reddit, forums and social posts were not used as evidence. The research tools ran out before a last round of checks, so three things need a recheck: the battery-recall ranking below, the wording of Fortune's 1995 Heathrow passage, of which we saw only part, and the Forbes and Reuters excerpts.",
+    "disputed": [
+      {
+        "claim": "The size of the 1988 IPO.",
+        "note": "Dell's own timeline and Reuters say about $30 million at a market value of $85 million. The company-history reference says 3.5 million shares at $8.50, which is $29.75 million. The Harvard case says about 4 million shares, over $34 million, about a quarter of the stock, with net proceeds of about $31 million, and those figures imply a far higher market value than $85 million. We use about $30 million and $85 million. His stake at the IPO is \"more than half\" in the Harvard case and \"around 73%\" per the host of the Founders Podcast; we use the former."
+      },
+      {
+        "claim": "The $500,000 family loan.",
+        "note": "This rests on one secondary source: the Harvard case, citing Aronoff and Ward, \"Michael Dell\", p. 121. We found no first-person confirmation and no primary record. It is attributed in the text. A fact-checker should try to confirm it."
+      },
+      {
+        "claim": "Dell's private placement was the only financing to survive Black Monday.",
+        "note": "This is Dell's own claim in his memoir, known to us through an auto-generated podcast reading. The Harvard case confirms only that the placement closed after the crash and raised more than $21 million. Presented as his claim."
+      },
+      {
+        "claim": "The 87,000 percent stock rise.",
+        "note": "The Harvard case applies it to the decade of the 1990s. Texas Monthly applies the same figure to the period from the 1988 IPO to the March 2000 peak. A secondary finance site gives 64,488 percent from IPO to peak. We use the Harvard wording and call it \"one Harvard count\"."
+      },
+      {
+        "claim": "Olympic's end date and whether it reached the market.",
+        "note": "Dell's own Hemispheres article says the project began in 1988, was shown as prototypes in November 1989, and was shut before products saw the light of day. One Encyclopedia.com entry says it was \"introduced in 1990\". The company history says it was abandoned around 1990. We follow Dell's account."
+      },
+      {
+        "claim": "The size of the 1989 chip and Olympic hit to profit.",
+        "note": "The company history says 1990 profits fell 65 percent to $5 million. The Stanford case gives profit of $27.2 million for \"1990\", which appears to be a later fiscal-year label. We use the company-history figure and describe it without a fiscal-year claim."
+      },
+      {
+        "claim": "When Dell left retail.",
+        "note": "The company history says late 1993. The Stanford case says mid-1994. Encyclopedia.com, Reference for Business and strategy+business say 1994. We use 1994."
+      },
+      {
+        "claim": "The 1994 fiscal-year loss.",
+        "note": "Most sources say $36 million, the Stanford case $35.8 million, and CFO magazine $39 million. We use $36 million."
+      },
+      {
+        "claim": "The 1992 currency-trading questions.",
+        "note": "Kidder Peabody's analyst raised questions about the accounting and said he was not making allegations; Dell's officials denied the implication. The Wall Street Journal abstract says the SEC was examining Dell's books for a planned offering, and that Dell itself approached the SEC about unusual trading. We found no record of any finding against Dell on this, and the text does not suggest one."
+      },
+      {
+        "claim": "When Dell.com launched.",
+        "note": "Encyclopedia.com says 1994. Kraemer and Dedrick say the site was created in 1995 after experiments that began in 1994. Dell's online sales in 2000 are given as $50 million a day by Encyclopedia.com and Kraemer, and $35 million a day by Texas Monthly. We use 1994 for the start of the project and $50 million."
+      },
+      {
+        "claim": "How much MSD Capital started with.",
+        "note": "The Wall Street Journal's 1998 report says \"resources of $1 billion\". Its 2019 report and The Real Deal say $400 million. Both are given."
+      },
+      {
+        "claim": "DellHost's end in 2001.",
+        "note": "The Dutch trade publication Computable reported a sale to Sprint. Computerworld, on the same day, described an alliance and said no joint venture was involved. We say Dell was \"pulling out of hosting through a deal with Sprint\" and attribute it to press reports. We found no reliable closing dates for Gigabuys or Dellnet."
+      },
+      {
+        "claim": "Battery recall size and rank.",
+        "note": "Most reports say 4.1 million batteries; InfoWorld says 4.2 million. We use about 4.1 million. The statement that the US safety regulator called it the largest electronics recall it had handled comes from search summaries of August 2006 reports; the BetaNews and eWeek pages refused automated reading, so a fact-checker should confirm it on the regulator's site. Sources also differ on when HP first passed Dell: Gartner and IDC data put it in the third quarter of 2006 (IDC called that a statistical tie), while a Reuters timeline says the fourth quarter. We use the third quarter and note the close margin."
+      },
+      {
+        "claim": "Faulty capacitor costs.",
+        "note": "Fortune and InfoWorld report a $450 million charge in 2005 covering capacitors, excess stock and layoffs. The New York Times report on the lawsuit says $300 million covered the computers. The text uses \"about $450 million, largely over faulty capacitors\", following Fortune. The lawsuit's claims were disputed by Dell and the case settled on undisclosed terms, so no court ruled on them."
+      },
+      {
+        "claim": "The 2013 buyout's value and his contribution.",
+        "note": "The original deal was $24.4 billion at $13.65, and the final deal $24.9 billion at $13.75 plus $0.13. Fortune says $500 million of new cash from Dell and 70 percent ownership; Forbes says $750 million and 75 percent. The Chancery opinion reconciles these: up to $500 million from him, up to $250 million from an affiliate, and 74.9 percent ownership. We use the court's figures. The total package is given as $13.88 in Dell's press release, excluding the regular dividend, and $13.96 in the court's opinion, including it. His rolled shares are valued at $3.7 billion in one table and \"roughly $4 billion\" or \"more than $3 billion\" elsewhere."
+      },
+      {
+        "claim": "Whether $13.75 was a fair price.",
+        "note": "The Court of Chancery set fair value at $17.62 in 2016. The Delaware Supreme Court reversed in 2017 and sent the case back, saying the deal price deserved heavy weight. We could not verify the final figure on remand, so the text does not state one. The text says the trial judge found the process would not support a claim that the company's leaders broke their duties, relying on Wilson Sonsini's summary of the 2016 opinion. Writers should treat the fairness of the price as debated, as we do."
+      },
+      {
+        "claim": "How the EMC deal's price is stated.",
+        "note": "Dell and most press say about $67 billion at announcement. Institutional Investor says $65.7 billion. Forbes's profile says a \"$60 billion merger\", which we think refers to the value at closing after the fall in the tracking stock's price. We use about $67 billion."
+      },
+      {
+        "claim": "Michael Dell's VMware payout.",
+        "note": "CRN, quoting a VMware SEC filing, says 169,278,015 shares, $12.06 billion cash and 21,329,029 Broadcom shares, totalling $21.65 billion at that date. Other outlets said about $24 billion at announcement. Forbes's profile says Broadcom paid $69 billion, 39 percent of it going to Dell, and the Financial Times reported a higher deal value at closing. We use the filing figures and do not know how many Broadcom shares he still holds."
+      },
+      {
+        "claim": "The price of SonicWall and Dell Software.",
+        "note": "Dell never disclosed the SonicWall price. Analysts estimated $1 billion to $1.5 billion, and the $1.2 billion figure comes from The Wall Street Journal as reported by others. The 2016 sale of the software group was reported at about $2 billion or just over $2 billion; terms were not disclosed. The 3PAR bid sequence comes from TAdviser, a less established source, while the $33 final price and $72 million fee are confirmed by other press."
+      },
+      {
+        "claim": "Forbes's net worth figure.",
+        "note": "It is an estimate. Forbes shows $228.5 billion on 2 November 2026, and the Dell-stock portion is calculated from public filings, while the remainder cannot be checked because DFO Management is private. A one-day Forbes move of $4.6 billion on a 1.9 percent share rise in September 2026 implies Forbes counts other holdings that move with the market, which we could not break down. His stake is also reported as \"about 40 percent\" in the press, 40.9 percent of all common stock in the proxy, and 45.7 percent in a Schedule 13G that uses a different denominator."
+      },
+      {
+        "claim": "Whether Jobs and Dell \"stayed friends\".",
+        "note": "This is Dell's own account in 2021 and 2011. Steve Jobs's side is not available, and a widely repeated profane reply by Jobs in 1997 is reported only by Business Insider as \"reportedly\", so we left it out."
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "name": "Larry Page",
+  "title": "The Boy Who Dreamed the Whole Web",
+  "subtitle": "A Lego printer, a midnight idea and a borrowed garage: how Larry Page built Google, stepped back from running it, and still steers it for a salary of $1 a year.",
+  "hook": "At ==23==, Larry Page woke in the middle of the night from a vivid dream. He grabbed a pen and scribbled an idea: what if he could download the **whole web** and keep just the links? He told his Stanford adviser it would take a couple of weeks. It took far longer, he was not even trying to build a search engine, and yet that midnight scribble grew into Google.",
+  "hookSrc": [
+    4
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg/960px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Larry_Page_in_the_European_Parliament,_17.06.2009_(cropped).jpg",
+    "caption": "Larry Page, co-founder of Google, speaking at the European Parliament on 17 June 2009.",
+    "author": "Stansfield PL",
+    "license": "CC BY-SA 3.0",
+    "year": 2009
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/960px-Google_page_brin.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Google_page_brin.jpg",
+      "caption": "Larry Page and Sergey Brin, the founders of Google, in September 2003.",
+      "author": "Ehud Kenan",
+      "license": "CC BY 2.0",
+      "year": 2003
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Google_garage.JPG/960px-Google_garage.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Google_garage.JPG",
+      "caption": "The garage in Menlo Park, California, where Google began, photographed in 2011.",
+      "author": "Jordiipa",
+      "license": "CC BY-SA 3.0",
+      "year": 2011
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google%E2%80%99s_First_Production_Server.jpg/960px-Google%E2%80%99s_First_Production_Server.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Google%E2%80%99s_First_Production_Server.jpg",
+      "caption": "Google's first production server, from around 1999: a rack of cheap PC boards packed tightly together, built on the idea that cheap parts would be replaced rather than repaired. Photographed in 2006.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2006
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gates_Computer_Science_Building_%282025%29-L1007406.jpg/960px-Gates_Computer_Science_Building_%282025%29-L1007406.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gates_Computer_Science_Building_(2025)-L1007406.jpg",
+      "caption": "The Gates Computer Science Building at Stanford University, June 2025.",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "year": 2025
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/960px-Schmidt-Brin-Page-20080520.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Schmidt-Brin-Page-20080520.jpg",
+      "caption": "Left to right: Eric Schmidt, Sergey Brin and Larry Page of Google, May 2008.",
+      "author": "Joi Ito from Inbamura, Japan",
+      "license": "CC BY 2.0",
+      "year": 2008
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Charlie_Rose%2C_Larry_Page%2CTED_2014.jpg/960px-Charlie_Rose%2C_Larry_Page%2CTED_2014.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Charlie_Rose,_Larry_Page,TED_2014.jpg",
+      "caption": "Charlie Rose interviewing Larry Page on stage at TED2014, March 2014.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2014
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/960px-Googleplex_HQ_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
+      "caption": "The Googleplex, Google's headquarters in Mountain View, California, July 2016.",
+      "author": "Asoundd",
+      "license": "CC BY-SA 4.0",
+      "year": 2016
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "26 March 1973, Lansing, Michigan, USA",
+      "src": [
+        5,
+        3
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "In Michigan, in a home full of early personal computers and science magazines. His father, Carl Victor Page, taught computer science and artificial intelligence at Michigan State University, where his mother, Gloria, taught computer programming. Montessori school, then East Lansing High School.",
+      "src": [
+        5,
+        4
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "Bachelor's in engineering (computer engineering), University of Michigan; master's in computer science, Stanford University. He left the Stanford PhD to build Google and still had not finished it in 2009.",
+      "src": [
+        0,
+        5,
+        4
+      ]
+    },
+    {
+      "label": "First big build",
+      "value": "In college he built a working inkjet printer out of Lego bricks, reverse-engineering the ink cartridge so he could print huge posters cheaply.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "label": "First company (age 25)",
+      "value": "Google, 1998. First office: a garage in Menlo Park. First cheque: $100,000 from Sun co-founder Andy Bechtolsheim. First hardware: hard disks bought on three maxed-out credit cards.",
+      "src": [
+        6,
+        4
+      ]
+    },
+    {
+      "label": "Roles",
+      "value": "Google CEO 1998–2001 and 2011–2015; Alphabet CEO 2015–2019. Today an Alphabet director and chair of the board's Executive Committee.",
+      "src": [
+        0,
+        11,
+        12
+      ]
+    },
+    {
+      "label": "Stake and pay",
+      "value": "About 389 million Class B shares, carrying 27.4% of all Alphabet votes (April 2026). His salary is $1 a year.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "label": "Net worth",
+      "value": "About $238.1 billion, No. 4 in the world (Forbes real-time, 29 October 2026). Source of wealth: Google.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "label": "Family",
+      "value": "Married to Lucy (Lucinda) Southworth. His older brother, Carl Page Jr., also became an internet entrepreneur.",
+      "src": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "label": "Lives in",
+      "value": "Miami, Florida, USA. In early 2026 his family office and holding companies left California for new Florida addresses.",
+      "src": [
+        3,
+        10
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "Larry Page almost never gives interviews, and we found no verified personal social media account, so any profile or message in his name that promises money, jobs or investment is fake. The only official door that names him is Alphabet's board mailbox, directors@abc.xyz: Alphabet's 2026 proxy statement says shareholders with genuine questions about Alphabet can write there and ask for the note to be forwarded to a specific director. Journalists should use press@google.com (Google says only press get a reply), and shareholders should use Alphabet Investor Relations; none of these inboxes is for startup pitches, fan mail or job requests. If you do write, keep it to five lines: who you are, one specific question about Alphabet, and why it matters, with no attachments and no request for money.",
+    "channels": [
+      {
+        "kind": "phone",
+        "label": "Alphabet / Google head office switchboard",
+        "value": "+1 (650) 253-0000",
+        "url": "tel:+16502530000",
+        "whose": "Alphabet Inc.",
+        "src": [
+          1,
+          2
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Alphabet principal executive office (head office)",
+        "value": "1600 Amphitheatre Parkway, Mountain View, California 94043, USA",
+        "url": null,
+        "whose": "Alphabet Inc.",
+        "src": [
+          1,
+          2
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Board of Directors (shareholders can ask for forwarding to a named director)",
+        "value": "directors@abc.xyz",
+        "url": "mailto:directors@abc.xyz",
+        "whose": "Alphabet Inc. (Corporate Secretary)",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Corporate Secretary",
+        "value": "corporatesecretary@abc.xyz",
+        "url": "mailto:corporatesecretary@abc.xyz",
+        "whose": "Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "Corporate Secretary and Board post",
+        "value": "Alphabet Inc., Attn: Corporate Secretary, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA",
+        "url": null,
+        "whose": "Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Investor relations",
+        "value": "investor-relations@abc.xyz",
+        "url": "mailto:investor-relations@abc.xyz",
+        "whose": "Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Investor relations and shareholder enquiries",
+        "value": "+1 (650) 253-3393",
+        "url": "tel:+16502533393",
+        "whose": "Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Investor relations website",
+        "value": "abc.xyz/investor",
+        "url": "https://abc.xyz/investor/",
+        "whose": "Alphabet Inc.",
+        "src": [
+          1,
+          13
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press and media enquiries (press only)",
+        "value": "press@google.com",
+        "url": "mailto:press@google.com",
+        "whose": "Google LLC",
+        "src": [
+          7,
+          8
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Shareholder services: transfer agent Computershare (toll free in US and Canada)",
+        "value": "1-866-298-8535",
+        "url": "tel:+18662988535",
+        "whose": "Computershare Investor Services, for Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Shareholder services: Computershare (other callers)",
+        "value": "+1 781-575-2879",
+        "url": "tel:+17815752879",
+        "whose": "Computershare Investor Services, for Alphabet Inc.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Alphabet company website",
+        "value": "abc.xyz",
+        "url": "https://abc.xyz/",
+        "whose": "Alphabet Inc.",
+        "src": [
+          1
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Contact Google page",
+        "value": "about.google/contact-google",
+        "url": "https://about.google/contact-google/",
+        "whose": "Google LLC",
+        "src": [
+          8
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "x",
+        "handle": "@Google",
+        "url": "https://x.com/Google",
+        "whose": "Google (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@google",
+        "url": "https://www.instagram.com/google/",
+        "whose": "Google (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "Google",
+        "url": "https://www.youtube.com/google",
+        "whose": "Google (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "Google",
+        "url": "https://www.linkedin.com/company/google",
+        "whose": "Google (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "Google",
+        "url": "https://www.facebook.com/Google",
+        "whose": "Google (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "website",
+        "handle": "blog.google",
+        "url": "https://blog.google/",
+        "whose": "Google's official blog, The Keyword (company)",
+        "src": [
+          9
+        ]
+      },
+      {
+        "platform": "website",
+        "handle": "abc.xyz",
+        "url": "https://abc.xyz/",
+        "whose": "Alphabet Inc. (company)",
+        "src": [
+          1
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Front matter and contact card built from primary sources first: Alphabet's 2026 proxy statement (Page's biography, roles, share count, voting power, $1 salary, board-contact and Corporate Secretary details, transfer agent) and FY2025 Form 10-K (head office address and phone, IR website), cross-checked with SEC EDGAR company data; Page's own words in his 2009 University of Michigan commencement address (full transcript on Google's press blog) and his 2000 Academy of Achievement interview; Google's official history page, press page and blog (2015 Alphabet letter, 2019 founders' letter, links to official social accounts); Forbes' real-time profile (net worth, residence, marital status, viewed 29 Oct 2026); and Fortune (Jan 2026) for the move of his entities to Florida. Photos come from Wikimedia Commons with author and licence read from the Commons API (extmetadata); thumbnails are 960px on upload.wikimedia.org and were checked to load. A GODL-India-licensed Commons photo was rejected because that licence is not on our allowed list. Social accounts are only the company accounts linked from Google's own blog; we found no verified personal account for Page, so none is listed. No personal phone numbers, guessed emails or home addresses were used; the garage caption omits the street address. The shared web-search budget ran out mid-research, so some leads could not be chased to a reliable source and were left out.",
+    "disputed": [
+      {
+        "claim": "Birthplace",
+        "note": "The Academy of Achievement says Lansing, Michigan; some profiles say East Lansing, the neighbouring city where he went to high school. We use Lansing."
+      },
+      {
+        "claim": "When Google was founded",
+        "note": "Google's own history says Google Inc. was 'officially born' in August 1998, when Andy Bechtolsheim wrote the $100,000 cheque; Alphabet's proxy says Page served as CEO from September 1998 (incorporation is commonly dated 4 September 1998). We say 1998."
+      },
+      {
+        "claim": "Number of children",
+        "note": "Forbes' profile (viewed 29 Oct 2026) lists one child, while other references list two. We do not state a number."
+      },
+      {
+        "claim": "Voting power",
+        "note": "The 10-K says Page and Brin together held about 52.7% of Alphabet's voting power on 31 Dec 2025; the 2026 proxy gives Page alone 27.4% as of 6 Apr 2026. These are consistent; we quote Page's own figure with its date."
+      },
+      {
+        "claim": "Where he lives",
+        "note": "Forbes now lists Miami, Florida. Earlier press reported he spent the pandemic in Fiji and holds New Zealand residency; we did not re-verify those reports and use only Forbes' current city."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Alphabet Inc. 2026 Proxy Statement (DEF 14A, SEC, filed 24 Apr 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm"
+    },
+    {
+      "label": "Alphabet Inc. Form 10-K for fiscal 2025 (SEC, filed 5 Feb 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+    },
+    {
+      "label": "SEC EDGAR: Alphabet Inc. company filings page (business address and phone)",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001652044&type=10-K"
+    },
+    {
+      "label": "Forbes: Larry Page real-time profile (viewed 29 Oct 2026)",
+      "url": "https://www.forbes.com/profile/larry-page/"
+    },
+    {
+      "label": "Larry Page's University of Michigan commencement address, 2 May 2009 (full transcript, Google press blog)",
+      "url": "https://googlepress.blogspot.com/2009/05/larry-pages-university-of-michigan.html"
+    },
+    {
+      "label": "Academy of Achievement: Larry Page biography and interview (London, 28 Oct 2000)",
+      "url": "https://achievement.org/achiever/larry-page/"
+    },
+    {
+      "label": "Google: Our story (official company history)",
+      "url": "https://about.google/our-story/"
+    },
+    {
+      "label": "Google, The Keyword: Press corner (media contact)",
+      "url": "https://blog.google/press/"
+    },
+    {
+      "label": "About Google: Contact Google",
+      "url": "https://about.google/contact-google/"
+    },
+    {
+      "label": "Google, The Keyword: official Google blog home page (links to Google's official social accounts)",
+      "url": "https://blog.google/"
+    },
+    {
+      "label": "Fortune: Google billionaire Larry Page moves to Florida as wealth tax looms (8 Jan 2026)",
+      "url": "https://fortune.com/2026/01/08/google-billionaire-larry-page-moves-to-florida-wealth-tax-jeff-bezos-playbook/"
+    },
+    {
+      "label": "Larry Page, \"G is for Google\" (Alphabet announcement, Google blog, 10 Aug 2015)",
+      "url": "https://blog.google/alphabet/google-alphabet/"
+    },
+    {
+      "label": "Larry Page and Sergey Brin, \"A letter from Larry and Sergey\" (Google blog, 3 Dec 2019)",
+      "url": "https://blog.google/alphabet/letter-from-larry-and-sergey/"
+    },
+    {
+      "label": "Alphabet Investor Relations website",
+      "url": "https://abc.xyz/investor/"
+    }
+  ]
+}

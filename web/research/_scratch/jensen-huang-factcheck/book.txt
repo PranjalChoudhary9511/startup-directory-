@@ -1,0 +1,1519 @@
+{
+ "slug": "jensen-huang",
+ "name": "Jensen Huang",
+ "title": "From Toilet Duty to Five Trillion",
+ "subtitle": "How a boy from a Kentucky reform school and a Denny's kitchen built Nvidia, the chip company that powers AI, and what he got right and wrong along the way.",
+ "hook": "In the mid-1970s, a ==nine-year-old== Jensen Huang and his older brother were sent to live in the dormitory of Oneida Baptist Institute in rural Kentucky. His relatives thought it was a good boarding school. It was a reform academy, and the little boy's job was to __clean all the bathrooms__. Fifty years later he runs Nvidia, which in 2025 became worth ==more than $5 trillion==, and that same school now has a building named after him, paid for with a **$2 million** matching grant from Huang and his wife, Lori.",
+ "hookSrc": [
+  1,
+  2,
+  3,
+  0
+ ],
+ "portrait": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/960px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+  "caption": "Jensen Huang, founder and CEO of Nvidia, during a fireside chat in Stanford University's CS 153 course, 30 April 2026.",
+  "author": "Anderseidesvik",
+  "license": "CC BY-SA 4.0",
+  "year": 2026
+ },
+ "photos": [
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/OBI_Sign_01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:OBI_Sign_01.jpg",
+   "caption": "The welcome sign at Oneida Baptist Institute in Oneida, Clay County, Kentucky, the boarding school where nine-year-old Jensen and his brother lived in the dormitory in the 1970s. Photographed in 2010.",
+   "author": "Principal01",
+   "license": "Public domain",
+   "year": 2010
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/VisionTek_GeForce_256.jpg/960px-VisionTek_GeForce_256.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:VisionTek_GeForce_256.jpg",
+   "caption": "A VisionTek GeForce 256 DDR graphics card, built around the Nvidia GeForce 256 chip, launched in 1999 and often called the first GPU.",
+   "author": "Hyins",
+   "license": "Public domain",
+   "year": 2010
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nvidia_HQ.jpg/960px-Nvidia_HQ.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nvidia_HQ.jpg",
+   "caption": "Nvidia's headquarters in Santa Clara, California, in May 2005.",
+   "author": "Kevin McCarthy",
+   "license": "CC BY 2.0",
+   "year": 2005
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/NVidiaMobileMediaPress_JensenHuang.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:NVidiaMobileMediaPress_JensenHuang.jpg",
+   "caption": "Jensen Huang at Nvidia's press conference at Computex in Taipei, 7 June 2006.",
+   "author": "Rico Shen",
+   "license": "CC BY-SA 3.0",
+   "year": 2006
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jensen_Huang_at_Computex_Taipei_20100531.jpg/960px-Jensen_Huang_at_Computex_Taipei_20100531.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20100531.jpg",
+   "caption": "Nvidia CEO Jensen Huang at the Computex trade show in Taipei, 31 May 2010.",
+   "author": "Masaru Kamikura",
+   "license": "CC BY 2.0",
+   "year": 2010
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nvdia_Endeavor_Grand_Opening_entry.jpg/960px-Nvdia_Endeavor_Grand_Opening_entry.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Nvdia_Endeavor_Grand_Opening_entry.jpg",
+   "caption": "The landscaped approach to Endeavor, Nvidia's newer headquarters building in Santa Clara, at its grand opening in November 2017.",
+   "author": "Daniel J. Prostak",
+   "license": "CC BY-SA 4.0",
+   "year": 2017
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/JensenHuangSC18.jpg/960px-JensenHuangSC18.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:JensenHuangSC18.jpg",
+   "caption": "Jensen Huang at SC18, the supercomputing conference, November 2018.",
+   "author": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine",
+   "license": "CC0",
+   "year": 2018
+  },
+  {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/960px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(2).jpg",
+   "caption": "Jensen Huang presents the next generation of RTX Blackwell GPUs at Nvidia's keynote at CES 2025 in Las Vegas, 6 January 2025.",
+   "author": "Pronoia",
+   "license": "CC0",
+   "year": 2025
+  }
+ ],
+ "glance": [
+  {
+   "label": "Born",
+   "value": "1963, Tainan, Taiwan",
+   "src": [
+    4,
+    12
+   ]
+  },
+  {
+   "label": "Grew up",
+   "value": "Taiwan, then Thailand. Sent to the US at nine with his older brother, first to a reform academy in Kentucky, then reunited with his family in Oregon. Finished high school at 16 and was a nationally ranked junior table-tennis player.",
+   "src": [
+    0,
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "label": "Education",
+   "value": "BS in electrical engineering, Oregon State University (1984); MS in electrical engineering, Stanford (1992), earned while working full time",
+   "src": [
+    5,
+    7
+   ]
+  },
+  {
+   "label": "First job",
+   "value": "At 15, a Denny's restaurant in the Portland, Oregon area: dishwasher, then busboy, then waiter",
+   "src": [
+    8,
+    9
+   ]
+  },
+  {
+   "label": "Before Nvidia",
+   "value": "Chip designer at AMD (1984–85), then eight years at LSI Logic (1985–93)",
+   "src": [
+    7
+   ]
+  },
+  {
+   "label": "First company (age)",
+   "value": "Nvidia, co-founded in 1993 at 30 with Chris Malachowsky and Curtis Priem, planned in a Denny's booth in San Jose",
+   "src": [
+    3,
+    9,
+    10,
+    12
+   ]
+  },
+  {
+   "label": "Main company today",
+   "value": "Nvidia: president and CEO since day one. About 42,000 employees in 38 countries; market value passed $5 trillion in 2025",
+   "src": [
+    0,
+    7,
+    12
+   ]
+  },
+  {
+   "label": "Source of wealth",
+   "value": "About 4% of Nvidia. Forbes real-time net worth $186.6 billion, No. 7 in the world (29 Oct 2026)",
+   "src": [
+    0
+   ]
+  },
+  {
+   "label": "Family",
+   "value": "Married to Lori Huang (née Mills), his lab partner in a first-year engineering class at Oregon State; two adult children, Spencer and Madison",
+   "src": [
+    5,
+    6,
+    11
+   ]
+  },
+  {
+   "label": "Lives in",
+   "value": "Los Altos, California, USA",
+   "src": [
+    0
+   ]
+  }
+ ],
+ "contact": {
+  "howToReach": "Huang has no personal X or Instagram account that we could find; his one personal social account is a LinkedIn profile with about 2 million followers, so a cold message there is very unlikely to be read. If you are building an AI startup, the real door into his world is NVIDIA Inception: it is free, takes companies under 10 years old at any stage with no revenue needed, and includes networking events with investors and Nvidia executives. Journalists should use press@nvidia.com (or india-pr@nvidia.com in India), investors should use the Investor Relations form or (877) 7-NVIDIA, and job seekers should go through the careers site, not the CEO. Never email guessed addresses, pay a \"contact finder\" site, or trust anyone online who claims to be Huang and asks for money or crypto. Whatever channel you use, keep it under 150 words: who you are, what you have actually built with Nvidia technology, and one clear ask.",
+  "channels": [
+   {
+    "kind": "address",
+    "label": "Nvidia head office (principal executive offices)",
+    "value": "NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, California 95051, USA",
+    "url": null,
+    "whose": "NVIDIA Corporation",
+    "src": [
+     12,
+     13
+    ]
+   },
+   {
+    "kind": "phone",
+    "label": "Head office switchboard (as filed with the SEC)",
+    "value": "+1 (408) 486-2000",
+    "url": "tel:+14084862000",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     12,
+     13
+    ]
+   },
+   {
+    "kind": "phone",
+    "label": "Investor inquiries",
+    "value": "(877) 7-NVIDIA",
+    "url": "tel:+18777684342",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     13
+    ]
+   },
+   {
+    "kind": "form",
+    "label": "Investor Relations contact form",
+    "value": "investor.nvidia.com: Contact Investor Relations",
+    "url": "https://investor.nvidia.com/investor-resources/contact-investor-relations/default.aspx",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     15
+    ]
+   },
+   {
+    "kind": "website",
+    "label": "Investor Relations website (filings, results, events)",
+    "value": "investor.nvidia.com",
+    "url": "https://investor.nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     12
+    ]
+   },
+   {
+    "kind": "email",
+    "label": "General enquiries",
+    "value": "info@nvidia.com",
+    "url": "mailto:info@nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     13
+    ]
+   },
+   {
+    "kind": "email",
+    "label": "Press (Corporate Communications)",
+    "value": "press@nvidia.com",
+    "url": "mailto:press@nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     14
+    ]
+   },
+   {
+    "kind": "email",
+    "label": "Press, India",
+    "value": "india-pr@nvidia.com",
+    "url": "mailto:india-pr@nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     14
+    ]
+   },
+   {
+    "kind": "email",
+    "label": "Press, rest of Asia-Pacific (Australia, Korea, South Asia, Taiwan)",
+    "value": "restofapac-pr@nvidia.com",
+    "url": "mailto:restofapac-pr@nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     14
+    ]
+   },
+   {
+    "kind": "form",
+    "label": "NVIDIA Inception: free programme for AI startups (apply here)",
+    "value": "nvidia.com/startups",
+    "url": "https://www.nvidia.com/en-us/startups/",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     16
+    ]
+   },
+   {
+    "kind": "website",
+    "label": "Careers",
+    "value": "nvidia.com/en-us/about-nvidia/careers",
+    "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     13
+    ]
+   },
+   {
+    "kind": "form",
+    "label": "Contact sales",
+    "value": "nvidia.com/en-us/contact/sales",
+    "url": "https://www.nvidia.com/en-us/contact/sales/",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     13
+    ]
+   },
+   {
+    "kind": "website",
+    "label": "Asia offices, including India (Bengaluru, Gurugram, Hyderabad, Mumbai, New Delhi, Pune) and Taiwan (Hsinchu, Taipei)",
+    "value": "nvidia.com/en-in/contact/asia",
+    "url": "https://www.nvidia.com/en-in/contact/asia/",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     17
+    ]
+   },
+   {
+    "kind": "website",
+    "label": "Official website",
+    "value": "nvidia.com",
+    "url": "https://www.nvidia.com",
+    "whose": "NVIDIA Corporation",
+    "src": [
+     12,
+     13
+    ]
+   }
+  ],
+  "socials": [
+   {
+    "platform": "linkedin",
+    "handle": "Jensen Huang (jenhsunhuang)",
+    "url": "https://www.linkedin.com/in/jenhsunhuang/",
+    "whose": "Jensen Huang (personal; about 2M followers, no verification badge shown on the public page)",
+    "src": [
+     20
+    ]
+   },
+   {
+    "platform": "x",
+    "handle": "@nvidia",
+    "url": "https://x.com/nvidia",
+    "whose": "Nvidia (company)",
+    "src": [
+     13,
+     18
+    ]
+   },
+   {
+    "platform": "linkedin",
+    "handle": "NVIDIA",
+    "url": "https://www.linkedin.com/company/nvidia/",
+    "whose": "Nvidia (company)",
+    "src": [
+     13,
+     18
+    ]
+   },
+   {
+    "platform": "instagram",
+    "handle": "@nvidia",
+    "url": "https://www.instagram.com/nvidia/",
+    "whose": "Nvidia (company)",
+    "src": [
+     13,
+     18
+    ]
+   },
+   {
+    "platform": "youtube",
+    "handle": "NVIDIA",
+    "url": "https://www.youtube.com/user/nvidia",
+    "whose": "Nvidia (company; keynotes such as GTC are posted here)",
+    "src": [
+     13,
+     18
+    ]
+   },
+   {
+    "platform": "facebook",
+    "handle": "NVIDIA",
+    "url": "https://www.facebook.com/NVIDIA",
+    "whose": "Nvidia (company)",
+    "src": [
+     13,
+     18
+    ]
+   },
+   {
+    "platform": "weibo",
+    "handle": "NVIDIA China",
+    "url": "https://weibo.com/u/5943087025",
+    "whose": "Nvidia China (company)",
+    "src": [
+     19
+    ]
+   },
+   {
+    "platform": "other",
+    "handle": "NVIDIA on Bilibili",
+    "url": "https://space.bilibili.com/1320140761/",
+    "whose": "Nvidia China (company)",
+    "src": [
+     19
+    ]
+   }
+  ]
+ },
+ "lessons": [
+  {
+   "title": "Do your most important work first.",
+   "text": "Huang starts each morning with the top item on his priority list, before he even gets to the office. By the time people start interrupting him, his day is already a success. You can copy this tomorrow, and it costs nothing."
+  },
+  {
+   "title": "Tell the bad news early.",
+   "text": "When Huang realised Nvidia's Sega chip was wrong, he told Sega's boss to find another partner and asked to be paid anyway. Sega agreed, and that gave Nvidia six months to live. Hiding the problem would have killed the company."
+  },
+  {
+   "title": "Stay a little afraid.",
+   "text": "For more than 30 years Huang has told staff that Nvidia is 30 days from going out of business, and he says the feeling has never left him. Fear keeps you looking around corners when success tells you to relax. Just don't let it run your whole life, because he admits it is exhausting."
+  },
+  {
+   "title": "Lower your expectations and raise your effort.",
+   "text": "He told Stanford students that high expectations produce low resilience, and wished them ample pain and suffering. He had already cleaned bathrooms at nine, so nothing later felt beneath him. Expect it to be hard, then be pleasantly surprised."
+  },
+  {
+   "title": "No job is beneath you.",
+   "text": "“You can't show me a task that's beneath me,” he told Stanford's business students, and his proof was the toilets he cleaned as a boy. At 15 he washed dishes at Denny's and treated it like a craft. Founders who won't do the small jobs rarely get to the big ones."
+  },
+  {
+   "title": "Build where nobody is standing.",
+   "text": "He put CUDA into every chip in 2007 while shareholders complained and the market cap hovered just above a billion dollars. Years later, researchers came and the AI boom ran on it. If a market already has a size on a slide, you are probably late."
+  },
+  {
+   "title": "Know what you will walk away from.",
+   "text": "Nvidia left the phone chip market even though it was huge, because it wasn't where Nvidia could make a unique contribution. That retreat freed it to build for robots and cars. Choosing what to give up is a decision, not a defeat."
+  },
+  {
+   "title": "Don't let your information rot on its way up.",
+   "text": "He relies on Top-5 emails because status reports get cleaned of bad news at every layer. Reading them daily, he picked up weak signals such as early interest in machine learning. Even in a five-person team, make it easy to hear the uncomfortable truth directly."
+  },
+  {
+   "title": "Share information instead of hoarding it.",
+   "text": "He runs 60-plus direct reports with almost no private meetings, so everyone hears the same reasoning at the same time. He says power should come from your ability to reason and help others, not from what you know that others don't. Start this while your team is small, when it is easiest."
+  },
+  {
+   "title": "Reason out loud.",
+   "text": "At Nvidia he works through problems in front of the group, and he admits that half the time he is the one who's wrong. That teaches people how to think, not only what to do. Do it, but keep his honesty and skip his temper."
+  },
+  {
+   "title": "Be honest with investors about your risky revenue.",
+   "text": "“Crypto is small for us” led to a $5.5 million SEC penalty and an investor suit that ran for nearly eight years and reached the Supreme Court. Nvidia never admitted wrongdoing, but the distraction was enormous. When a hot, shaky revenue source shows up, say so loudly and early."
+  },
+  {
+   "title": "Being great doesn't mean everyone will trust you.",
+   "text": "The Arm deal looked brilliant to Huang, but customers and regulators feared giving Nvidia that much control, and Nvidia took a $1.36 billion charge when it collapsed. Before a big move, ask who gets hurt if it works. Those people will be the ones who stop you."
+  },
+  {
+   "title": "Don't mistake cruelty for standards.",
+   "text": "Staff call his worst outbursts the Wrath of Huang, and some still stay because they know he believes in them and rarely fires anyone. That loyalty took decades and a lot of wealth to earn, and you have neither yet. Be demanding about the work and careful with the person."
+  },
+  {
+   "title": "Find your craft and stop rushing.",
+   "text": "A gardener in Kyoto, picking dead moss with bamboo tweezers, told Huang, “I have cared for my garden for 25 years. I have plenty of time.” Huang has now spent 33 years on one company. Pick a craft worth that, and speed will stop feeling like panic."
+  },
+  {
+   "title": "Choose people who will not give up on you.",
+   "text": "Asked how he survived the emotional damage of building Nvidia, Huang named his family and the colleagues who have stayed for 30 years. He also says that knowing all the pain in advance, he wouldn't start again. Do not start this journey alone."
+  }
+ ],
+ "factCheck": {
+  "method": "Front matter and contact card built from primary records first: Nvidia's FY2026 10-K (SEC EDGAR, filed 25 Feb 2026), Nvidia's own contact, newsroom, investor-relations and Inception pages, and Huang's official company biography. Childhood and education facts were cross-checked against Oneida Baptist Institute's own page on Jen-Hsun Huang Hall, Oregon State University's Engineering Hall of Fame entry and newsroom, the Carnegie Corporation's Great Immigrants profile and the Computer History Museum. Press details come from Fortune, NBC Bay Area and CBS 60 Minutes. Net worth and ownership are the Forbes real-time figures read on 29 Oct 2026. Photos and licences were read from the Wikimedia Commons API (imageinfo/extmetadata); thumbnails use 960px because Commons rejects a 1000px width. Socials cite Nvidia's own website footers or the profile itself; no personal phones, guessed emails or data-broker sites were used. Several outlets (Britannica, New Yorker, Business Insider, NYT, Bloomberg, CNBC) blocked our fetcher, so we did not cite them. Primary and official sources were read directly where possible: Nvidia's January 1999 S-1/A on SEC EDGAR (career dates, LSI title, 1993 Series A, April 1993 incorporation), Nvidia's corporate timeline and newsroom bio, Nvidia's own blog posts (Denny's 2023, NTU 2023), the Stanford GSB 2024 View From The Top transcript, the Acquired 2023 transcript, the CBS 60 Minutes transcript, Oregon State University's hall-of-fame page and alumni story, and the NPR 2012 transcript. These were cross-checked against established press (Wired 2002, CNBC, CNN, Fortune, Business Insider, Business Standard). Wikipedia was used only to find leads and was never cited. The New Yorker (2023), The Oregonian (2008, 2024), the Seattle Post-Intelligencer (2005) and The Nvidia Way could not be fetched directly. Details from them appear only where CNBC, PC Gamer or Carnegie quote them, and the text says so. Commons photo authors and licences were taken from the Commons API. Primary first. Nvidia's 1999 IPO prospectus was downloaded and read directly for all round sizes, prices, customer shares, losses, founders' stakes and the NV2 development note. SEC orders and Nvidia 8-Ks, 10-Ks, CFO commentaries and press releases were used for the 2000 accounting case, Xbox, 3dfx, chipsets, Intel, Icera, Mellanox, Arm, the OpenAI guaranties and Hugging Face. Scenes come from Huang's own interviews (Sequoia's official transcript, National Taiwan University speech, Computer History Museum, The Joe Rogan Experience via a third-party transcript), Morris Chang's Acquired interview, and book excerpts by Stephen Witt and Tae Kim published in established outlets. Our own arithmetic (Sega's shares today, $1,000 at IPO, foundation value, profit per day) was done from filed share counts, the 480x split history and the $204.64 close on 30 Oct 2026. SEC.gov blocked a direct download of Nvidia's 2026 proxy and Form 4, so those holdings are taken from reconciliations by DaveManuel.com, TheStreet and My Investing News, which quote those filings. Law360's Oct 2026 settlement report was readable only in its opening lines, so terms are not stated. A pirated full-text PDF of The Nvidia Way surfaced in search and was not used. Nvidia is the only company we could find that Huang founded; we found no public record of another, which is an absence of evidence and not a sworn statement. Huang's own words were taken from primary transcripts wherever possible: Stripe's official transcript and its YouTube version, Stanford GSB, Acquired, CBS 60 Minutes, NVIDIA's blog, and Nvidia's earnings release. Legal and financial outcomes come from the SEC press release, SEC filings (8-K, proxy, 10-K note), court orders (Ninth Circuit in the GPU litigation, the N.D. Cal. orders in the securities and Nazemian cases) and established press. Workplace accounts from former staff come from the on-the-record excerpt of Tae Kim's book on Marketplace, the New Yorker, and Bloomberg's report, whose sources were anonymous and are labelled so. Witt's book was used only through reputable reviews and interviews (Telegraph, Atlantic, NYT, Business Insider, Taipei Times/CNA, The Conversation). Most pages were read in full. The WSJ, the NYT tax story, Bloomberg's pay and Groq stories, Bloomberg Law, both Law360 items and the Reuters items were read in part or through preview text and search excerpts, so only what those excerpts state is used. Forum posts, LinkedIn posts, podcast notes and an unauthorised book copy that surfaced in search were treated as leads only and are not cited.",
+  "disputed": [
+   {
+    "claim": "Huang's birthplace",
+    "note": "The Computer History Museum says Tainan, Taiwan; Wikipedia gives Taipei, citing Stephen Witt's 2025 book. We use Tainan."
+   },
+   {
+    "claim": "Huang's exact birth date",
+    "note": "17 February 1963 is widely reported, and Nvidia's Feb 2026 10-K lists him as 63, which fits. We could not read a primary source giving the day, so the glance gives the year only."
+   },
+   {
+    "claim": "Huang's age at Oneida Baptist Institute",
+    "note": "The school's own page says he was nine; the Carnegie Corporation says he was sent to an uncle at nine and enrolled at Oneida at ten. We say nine, and the chapters may say 'nine or ten'."
+   },
+   {
+    "claim": "Which Denny's employed teenage Huang",
+    "note": "Fortune, citing an Nvidia blog post, says a Denny's in the Portland, Oregon area at 15. NBC Bay Area's report from the San Jose plaque event suggests he worked at that San Jose branch. He grew up in Oregon, so we go with the Portland area; the San Jose Denny's on Berryessa Road is where Nvidia was planned."
+   },
+   {
+    "claim": "Year Jensen and Lori Huang married",
+    "note": "Oregon State says they met as freshman lab partners and married five years later; 1985 is often given but we found no primary source, so we leave the year out."
+   },
+   {
+    "claim": "Investor-relations phone number",
+    "note": "Nvidia publishes it as the vanity number (877) 7-NVIDIA; the dial link spells it out as +1 877 768 4342 using standard keypad letters."
+   },
+   {
+    "claim": "Birthplace: Taipei or Tainan",
+    "note": "Nvidia, via CNN, says he was born in Taipei and moved to Tainan as a child. Some profiles give Tainan as his birthplace. We follow Nvidia."
+   },
+   {
+    "claim": "When he started at AMD",
+    "note": "Nvidia's 1999 S-1/A says 'From 1983 to 1985' he designed microprocessors at AMD. Business Insider and most later profiles say 1984–1985, after his 1984 graduation. The text gives both."
+   },
+   {
+    "claim": "Size of his Oregon State engineering class",
+    "note": "Oregon State's alumni story says a class of about 80 with three women. In his 2024 HKUST speech Huang remembered 250 students and three women. We quote Huang and attribute the number to him."
+   },
+   {
+    "claim": "Age when he worked at Denny's",
+    "note": "Nvidia's blog and 60 Minutes say he started at 15, and his LinkedIn lists 1978–1983. CNBC (2018) wrote that he waited tables 'in his 20s'. LinkedIn dates suggest he worked there into his college years. We use 15 as the start."
+   },
+   {
+    "claim": "Where he learned table tennis",
+    "note": "Wired (2002) says he took up table tennis in Kentucky with help from the vending-machine man. Bochenski's January 1978 letter says he had 'played only three months'. The letter may mean serious, competitive play. Both are reported."
+   },
+   {
+    "claim": "His age at the founding",
+    "note": "Fortune (2017) calls him 'just 29' at the Denny's meetings. Those meetings began in 1992, when he was 29. Nvidia was founded on 5 April 1993, after his 30th birthday on 17 February 1993."
+   },
+   {
+    "claim": "Nvidia's starting capital",
+    "note": "CNBC (2018) says the founders started with '$40,000'. Secondary accounts based on Tae Kim's book describe each founder putting in about $200. We could not verify either figure in a primary source, so the text gives only the SEC-documented 1993 Series A: 4,303,000 shares at $0.50."
+   },
+   {
+    "claim": "Exact words Wilf Corrigan used to Don Valentine",
+    "note": "Huang tells the story slightly differently each time. At Stanford GSB in 2024 he quoted 'I want you to give him money'. On Acquired in 2023 he said 'invest in this kid'. We paraphrase it and quote neither as Corrigan's exact words."
+   },
+   {
+    "claim": "Timing of the Denny's decision",
+    "note": "The Commons description of the Berryessa Road photo says the decision came in 'late 1992'. Huang at Stanford said they met in 1992 and 1993, and Nvidia's blog says 1993. We say the meetings ran through 1992 and into 1993."
+   },
+   {
+    "claim": "What Sega actually paid: a contract payment or an investment",
+    "note": "Huang told Sequoia that Sega kept paying 'some 5 million dollars' under the contract. He told Joe Rogan he asked Sega to convert the last $5 million into an investment. The 1999 prospectus shows both: $5 million of non-refundable NV2 development payments (1995-96) and a separate $5 million Series C purchase in July 1995, which predates the cancellation. The prospectus does not name Sega; we link it through the NV2 name. Text uses the filing and flags the inference."
+   },
+   {
+    "claim": "Value today of Sega's stake",
+    "note": "Huang told Rogan it would be worth about a trillion dollars. By our arithmetic, 750,000 shares x 480 (split history) = 360 million shares, about $74 billion at $204.64. We state our figure. Wikipedia's claim that Sega sold for $15 million after 2000 could not be traced to a source we could read and was dropped; Huang says Sega sold around the IPO."
+   },
+   {
+    "claim": "Who made the first RIVA 128 chips",
+    "note": "Popular versions, Huang on Rogan and Morris Chang's memory have TSMC making the rescue chip. The 1999 prospectus says Nvidia 'in the past utilized ST' and names TSMC for the later RIVA128ZX and RIVA TNT; Nvidia's timeline dates the TSMC partnership to March 1998; Huang said in 2007 that work with TSMC began the year after they met in 1997. Text says first RIVA 128s appear to have come from ST."
+   },
+   {
+    "claim": "When Huang wrote to Morris Chang",
+    "note": "An Nvidia Taiwan blog recounting Huang's 2018 remarks says about 1995. Chang says he thinks 1997. Huang in 2007 also says 1997. Text gives no exact year in the scene."
+   },
+   {
+    "claim": "Emulator maker 'went out of business'",
+    "note": "Huang says Icos told him it was out of business and sold him the last machine. SEC filings show IKOS Systems was still operating and was bought by Mentor Graphics in 2002 for $11 a share, and EE Times shows it launching new emulators in 1996. Possibly a unit, an old product line or a faulty memory. We name 'a firm he calls Icos' and do not repeat the out-of-business claim as fact."
+   },
+   {
+    "claim": "Price of the emulator",
+    "note": "Huang on Rogan: half of about $1 million left. Some business-school write-ups say $1 million, or a third of $3 million in cash (Crewdle, citing Howard Yu of IMD). Witt says it took the last of the company's funds. Text uses Huang's words, attributed."
+   },
+   {
+    "claim": "How deep the 1996 layoffs were",
+    "note": "Witt in Inc.: from more than 100 to 35. Wikipedia: 100 to 40. New Yorker and CNBC: more than half. The prospectus shows 71 staff by Sept 1997, and Chang recalls 50-60. Huang in 2007 said 100 people in 1997. Text says from about 100 to a much smaller crew."
+   },
+   {
+    "claim": "How low Nvidia's market value fell in the CUDA years",
+    "note": "Huang's own numbers vary: 'just above $1 billion' (NTU 2023), about $1.5 billion from $6-8 billion (Lex Fridman), and $2-3 billion from about $12 billion (Rogan). Market data shows about $3.3 billion at the November 2008 low. Also, that crash coincided with the financial crisis, the laptop-chip charge and ATI's comeback, so CUDA was not the only cause. Text uses market data."
+   },
+   {
+    "claim": "DGX-1 price and development time",
+    "note": "$129,000 at launch per SiliconANGLE and Bloomberg; Huang said $300,000 on Rogan. Development: 3 years and 3,000 people per Nvidia's 2016 blog; 'five years' per Huang in Fortune. Cost: about $2 billion per Nvidia's blog and MIT Technology Review; 'a few billion' per Huang on Rogan. Text reports launch price and attributes the rest."
+   },
+   {
+    "claim": "Size of the DeepSeek one-day loss",
+    "note": "Bloomberg: $589 billion. Reuters: $593 billion. AP: nearly $600 billion. Text uses Bloomberg."
+   },
+   {
+    "claim": "Huang's stake at the IPO",
+    "note": "Prospectus: 3,100,000 shares including family trusts and relatives, 13.1% before and 10.8% after. Business Insider: 12.8% before and 9.9% in 1999. TheStreet: 2.9 million shares, 9.9% in 1999. TheStreet's figure of 2.8 billion split-adjusted shares looks wrong; at 480x the number is about 1.4 billion. Text uses the prospectus for the IPO and Business Insider for the later path."
+   },
+   {
+    "claim": "Huang's current share count",
+    "note": "Proxy (23 Mar 2026): 870.6 million including 58.7 million foundation shares in which he has no pecuniary interest. Form 4 (18 Sep 2026): about 811.5 million. About 140 million of those are in irrevocable family trusts. Forbes says about 4%, Bloomberg about 3.3%. All are shown with labels."
+   },
+   {
+    "claim": "Size of the Groq deal",
+    "note": "CNBC reports $20 billion from Disruptive's CEO. Nvidia and Groq did not confirm a price and call it a non-exclusive licence with hires. Text attributes the figure."
+   },
+   {
+    "claim": "Hugging Face price",
+    "note": "The 8-K says about $11.9 billion to stockholders plus up to about $1.0 billion in retention equity. Huang's blog gives $12,930,300,000. The two are consistent. Wikipedia already lists Hugging Face as a subsidiary, but the deal had not closed as of 2 Nov 2026."
+   },
+   {
+    "claim": "OpenAI investment",
+    "note": "Announced in Sept 2025 as up to $100 billion; replaced by about $30 billion, which Huang said was finalised in March 2026. Huang said the larger figure was never a commitment."
+   },
+   {
+    "claim": "When Huang wakes up",
+    "note": "He has given different answers at different times: 4 a.m. to exercise and see family (FT 2020, via CNBC), 5 a.m. with bed by 9:30 p.m. (Norges 2023), 6 a.m. because of his dogs (Stripe 2024), and checking email from 4 a.m. (Rogan 2025, via Fortune). The chapter presents these as a changing answer, not one fact."
+   },
+   {
+    "claim": "How many direct reports he has",
+    "note": "Huang and the press have given 40, 50, 55 and 60-plus across 2023 to 2026. A search summary also gave 36, attributed to an internal list seen by Business Insider, but we could not find that report, so it is not used. We use 60-plus, his own number in 2026."
+   },
+   {
+    "claim": "How many days he works",
+    "note": "Huang says seven days a week. The Conversation's review of Witt's book says over 12 hours a day, six days a week. We use Huang's own statement."
+   },
+   {
+    "claim": "How long T5T emails have existed and how many he reads",
+    "note": "The WSJ says decades; the Telegraph's review says all staff have emailed lists since 2020. Reads are put at about 100 a morning (WSJ, 2023 Sana interview) or hundreds (Tae Kim). Huang separately told Rogan he reads several thousand emails of all kinds a day. We attribute each number."
+   },
+   {
+    "claim": "Venue of the March 2024 'pain and suffering' remarks",
+    "note": "CNBC places them at Stanford's SIEPR event; Fortune describes them as part of a Stanford GSB interview. We say only 'Stanford'."
+   },
+   {
+    "claim": "Price of the failed Arm deal",
+    "note": "Announced at $40 billion. The rising Nvidia share price later pushed reported value to about $60 billion (NYT), $66 billion (The Register) or up to $80 billion (Reuters). We use the announced figure and note it was 'then valued'."
+   },
+   {
+    "claim": "Size of the Groq licensing deal",
+    "note": "Reuters, citing the NYT, says $17 billion; Bloomberg says $20 billion. The chapter gives no figure and calls the DOJ inquiry reported, as neither Nvidia nor the DOJ has confirmed its scope."
+   },
+   {
+    "claim": "Huang's stake in Nvidia",
+    "note": "The 2026 proxy lists 3.58% beneficial ownership; Bloomberg's index says about 3.4%; Forbes says roughly 3%. Definitions differ, for example over family trusts and foundation shares. Proxy figure used, worded as 'listed against his name'."
+   },
+   {
+    "claim": "Nvidia's China market share",
+    "note": "Huang says 95% fell to zero. Other estimates differ: a September 2026 analysis cited IDC at about 55% of AI accelerator cards shipped in China in 2025. His figure is quoted as his own statement."
+   },
+   {
+    "claim": "Outcome of the crypto investor suit",
+    "note": "Law360 reported on 23 October 2026 that investors told the judge a deal had been reached. We could read only the summary, so the amount, terms and court approval are unconfirmed as of 2 November 2026."
+   },
+   {
+    "claim": "Whether the anger is strategic",
+    "note": "Witt reports that some staff see Huang's outbursts as deliberate theatre, and former staff told Bloomberg of real fights and shouting. Both are presented; neither is stated as the final truth."
+   }
+  ]
+ }
+}
+
+=== CH0 origins | Ages 0–12 | Ten Words a Day
+0 p: Jen-Hsun Huang was born on ==17 February 1963== in Taiwan. According to Nvidia, he was born in Taipei, and the family later moved south to the city of Tainan. Decades later the world would call him Jensen. As a small boy he was simply the younger of two brothers in a family that moved wherever his father's work took them. [24,8]
+1 p: His father was a chemical engineer whose job took the family to an oil refinery in Thailand. Jen-Hsun was about five when they moved. So before he was ten, he had already lived in two countries. [24,8]
+2 p: The family was not rich. Years later, talking with Stripe's Patrick Collison, Huang said plainly that his parents “weren't wealthy.” But they had a plan for their sons, and the plan was bigger than their bank account. [2]
+3 note: Not rich. Not connected. Just a plan, and parents who stuck to it.
+4 h: The trip that changed the family
+5 p: In the late 1960s his father, then in his thirties, flew to the United States for the first time. He went to New York City for a training programme with Carrier, the air-conditioner company. He came home with one clear decision. __His two boys would grow up in America.__ [23]
+6 p: There was a problem. Nobody in the house spoke English, including his mother, who was a schoolteacher. So she invented her own course. Every day she opened the dictionary, picked ==10 random words==, and made the boys spell them and explain what they meant. [23,24]
+7 QUOTE: "She [had] no idea whether we'd said it right or not." -- Jensen Huang on his mother's dictionary lessons, CNBC, 2018 [23]
+8 example: Do the maths on her method. Ten words every single day adds up to about 3,650 words a year. A teacher who could not check the answers still built her sons a real vocabulary, simply by never skipping a day. [23]
+9 p: Huang has never pretended he got where he is alone. “I'm the product of my parents' dreams and aspirations,” he told CNBC's Jim Cramer in 2018. He added, simply, that he owed them a great deal. [23]
+10 p: There is one more surprising branch on the family tree. Lisa Su, who later became CEO of AMD, Nvidia's big rival, is a relative through his mother's side. A Taiwanese genealogist worked out that they are first cousins once removed, and an Nvidia spokesperson confirmed that the two are distant cousins. They did not grow up together. [24]
+11 note: Two cousins now run two rival chip giants. Real life, not a movie.
+12 h: Sent ahead, at nine
+13 p: In ==1973== Thailand went through serious political unrest. Huang remembers his parents deciding it was safer to send the children to America first and follow later. Jen-Hsun was nine. His brother was only a little older. They flew to Tacoma, Washington, to stay with an uncle and aunt who were themselves new immigrants. [21,22,24]
+14 p: The relatives spoke little English. They looked for a good boarding school, and they chose the Oneida Baptist Institute, deep in the mountains of eastern Kentucky. They thought it was a prep school. Wired later reported that it was really closer to a reform school. [21,22,3]
+15 p: The school's own president later explained its history to NPR. Oneida was founded in the 1890s to stop feuding clans in Clay County from killing each other. In the 1970s, county schools would send it children who had been expelled for not following the rules. For local kids it was often free, but every student had to work. [21]
+16 photo: https://commons.wikimedia.org/wiki/File:OBI_Sign_01.jpg | The welcome sign at Oneida Baptist Institute in Clay County, Kentucky, photographed in 2010. Huang arrived here as a nine- or ten-year-old in the early 1970s. | Principal01 | Public domain
+17 QUOTE: "And the kids were really tough. They all had pocket knives." -- Jensen Huang, NPR, 2012 [21]
+18 p: He was small, new, foreign and still learning English, and the Carnegie profile notes that he was badly bullied. Talking to The New Yorker much later, he did not make it sound heroic. There was no counsellor to talk to, he said, and you simply had to toughen up and move on. [3,42]
+19 h: The boy who cleaned every toilet
+20 p: Every student had a job. The older boys were sent to do farm work. The youngest got what was left, and for Jen-Hsun that meant the bathrooms. Wired reported that he scrubbed all the toilets in his ==three-storey dorm, every day==. [21,22,2]
+21 QUOTE: "You can't unsee that kind of stuff. But that was my job and so I did it delightfully." -- Jensen Huang, fireside chat with Patrick Collison, 2024 (via Fortune) [2]
+22 p: Then there was his roommate. Wired described him as a 17-year-old who could not read, covered in tattoos and knife scars. The boy from Thailand taught him to read. NPR adds that he helped an older dorm-mate with maths. __He paid his way into respect by being useful.__ [21,22]
+23 note: He was about ten, teaching a 17-year-old to read.
+24 p: Small good things kept him going. He found he could reach out of his window and pick apples. He joined the swim team. According to Wired, the man who came to refill the vending machines taught him table tennis. That game would soon become his first obsession. [21,22]
+25 p: What is surprising is how he remembers it now. He does not call it trauma. He told NPR he loved his time there, because everyone worked hard, studied hard and was tough. In 2002, at 39, he pulled up the school's website in his Silicon Valley office. “I remember that part of my life more vividly than just about any other,” he told Wired. [21,22]
+26 QUOTE: "It may have helped define him, but he wasn't defined by it." -- Chris Malachowsky, Nvidia co-founder, on Huang's Kentucky years, NPR, 2012 [21]
+27 p: Eventually his parents reached America too. The family got back together in Oregon, and the brothers left Kentucky. Looking back, Huang told Oregon State University that Oneida was where he first learned about America. [3,5,34]
+28 timeline: 
+    17 Feb 1963 :: Born in Taiwan (Taipei, per Nvidia); the family later lives in Tainan. [24,8]
+    Late 1960s :: His father trains with Carrier in New York and decides his sons will go to America. [23]
+    Age ~5 :: The family moves to Thailand for his father's oil-refinery job. [24,8]
+    Late 1960s–1973 :: His mother teaches the boys 10 dictionary words a day. [23]
+    1973, age 9 :: Unrest in Thailand: the boys are sent ahead to relatives in Tacoma, Washington. [21,24]
+    From age 9–10 :: Oneida Baptist Institute, Kentucky: cleans toilets, teaches his roommate to read. [21,22,3]
+    Mid-1970s :: His parents arrive; the family settles in Oregon. [3,5]
+29 lesson: Do the lowest job like it is the most important one: Nobody chose Oneida for him, and nobody asked whether he wanted the toilets. What he did choose was how to do the work, and he chose to do it fully. Today he says no task is beneath him. When life hands you a bad first job, don't spend your energy complaining about it. Use it to build a reputation for doing everything well.
+
+=== CH1 growing-up | Ages 13–17 | Paddles, Plates and Straight A's
+0 p: The reunited family settled near Portland, Oregon, and Jen-Hsun finished high school in Beaverton. He was a sharp student who moved ahead of his age group. Business Insider and the Carnegie profile both report that he finished high school at ==just 16==. [3,5,28,34]
+1 p: Outside class, one thing took over his life: table tennis. The game he had picked up in Kentucky turned into a real ambition. Near Portland there was a table-tennis shop and club called Paddle Palace, and that is where the teenager spent his time. [22,28]
+2 h: Scrubbing floors to pay for the game
+3 p: Paddle Palace was owned by Lou Bochenski, whose daughter Judy played on the U.S. national team. Bochenski liked to find promising young players and help them grow. In his book The Nvidia Way, the journalist Tae Kim writes that Bochenski paid the young Huang to scrub the club's floors. That money covered his tournament trips. [28,29]
+4 p: In January 1978, Bochenski did something unusual. Sports Illustrated had written about promising junior players and left Huang out, so Bochenski wrote the magazine a letter. It was printed, and in it he called the boy ==“perhaps the most promising junior ever to play table tennis in the Northwest.”== [28,29,30]
+5 QUOTE: "He is a straight-A student and very hungry to become a table-tennis champion. He has played only three months, but I suggest you watch out for him in another year." -- Lou Bochenski, letter to Sports Illustrated, January 1978 [29,30]
+6 note: Only three months, and already in Sports Illustrated. Hunger beats head starts.
+7 p: Bochenski's prediction partly came true. At 15 Huang finished ==third in junior doubles== at the U.S. Open Table Tennis Championships, the Seattle Post-Intelligencer reported in 2005. But he also told that paper where his heart really was: “I loved that sport, but I never loved it more than academics.” [28]
+8 h: The Las Vegas mistake
+9 p: Not every tournament went well. As a young teenager he travelled to a national event in Las Vegas. He should have been resting. Instead he stayed up late walking the Las Vegas Strip. He later admitted he could not even remember his results, only that he did not win. [28]
+10 QUOTE: "To this day, I regret not being more focused on the tournament." -- Jensen Huang, Seattle Post-Intelligencer, 2005 (via CNBC) [28]
+11 p: That is a rare thing to hear from a billionaire. __He still remembers one lost match because he lost his focus, not his skill.__ The lesson he took was simple: talent and practice are wasted if your attention is somewhere else on the day that counts. [28]
+12 note: Read this twice before your next exam week.
+13 h: Denny's, age 15
+14 p: At 15 he took his first real job, at a Denny's restaurant in Portland. Denny's is an American diner chain that is open all night. The Oregonian reported in 2008 that he worked the graveyard shift. On his LinkedIn page, Denny's from ==1978 to 1983== is one of the only two jobs he lists. The other is Nvidia. [31,28,33]
+15 p: He started at the very bottom, as a dishwasher. Then he was promoted to busboy, the person who clears and resets the tables, and later he waited tables. He also told Denny's CEO that he ate his first hamburger and his first milkshake at Denny's. [31,32]
+16 QUOTE: "I was a dishwasher, I was a busboy, I waited tables. No one can carry more coffee cups than I can." -- Jensen Huang, at Denny's, September 2023 [31]
+17 p: He did not treat it as a throwaway teenage job. At Stanford in 2024 he explained how he worked. He planned the work and set up his station before the rush, the way chefs call “mise en place.” As a busboy he made a rule that he never walked anywhere empty-handed, in either direction. [32,8]
+18 example: Picture a busboy on a busy night. A normal one carries dirty plates to the kitchen and walks back with nothing. Huang's rule was that every trip carried something both ways: dirty dishes in, something useful back out. That can cut the wasted walking roughly in half. It is the same kind of thinking that later goes into designing an efficient chip. [32]
+19 p: The job also changed his personality. CNBC, citing a 2010 New York Times interview, reported that waiting tables brought the future CEO out of his shell and taught him to handle chaos calmly. In 2023 he gave young people plain advice: start your first job in a restaurant, because “it teaches you humility, it teaches you hard work, it teaches you hospitality.” [23,31]
+20 note: Your first job is training, not a title. Do it brilliantly.
+21 p: He also played a lot of video games. CNBC reported that in 2010 he said games taught him perseverance, because losing over and over pushed him to keep going until he won. Games, table tennis and the diner all taught the same thing. You get better by doing many rounds and being honest about each loss. [23]
+22 facts: 
+    16 :: His age when he finished high school [3,34]
+    15 :: His age at his first Denny's job, in Portland [31]
+    3rd :: U.S. Open junior doubles finish, at age 15 [28]
+    3 months :: How long he had played when Sports Illustrated printed his name [29]
+23 timeline: 
+    Mid-1970s :: The family reunites near Portland; he attends high school in the Beaverton area. [5,34]
+    c. 1977 :: He scrubs floors at Paddle Palace to pay for table-tennis tournaments. [28,29]
+    30 Jan 1978 :: A Sports Illustrated letter calls him the Northwest's most promising junior. [29,30]
+    1978 :: He starts at Denny's as a dishwasher, then becomes a busboy and a waiter. [31,33]
+    Age 15 :: He finishes third in junior doubles at the U.S. Open Table Tennis Championships. [28]
+    1980, age 16–17 :: He leaves high school and starts electrical engineering at Oregon State University. [25,26]
+24 lesson: Be the best at the job you have, not the job you want: At 15, Huang was not dreaming about running a company. He was trying to be the best dishwasher in the restaurant. That habit of planning, never wasting a trip and doing small things perfectly is the same habit people later saw in him as a CEO. The lesson he took from Las Vegas matters just as much: on the day that counts, your focus is worth more than your talent.
+
+=== CH2 first-steps | Ages 16–30 | From Lab Partner to Denny's Booth
+0 p: In 1980 Huang arrived at Oregon State University in Corvallis to study electrical engineering. He was 16. He looked even younger than he was, in a room full of young men. Speaking in Hong Kong in 2024, he remembered there being about 250 students and only three women. [25,26,27]
+1 QUOTE: "I was the youngest kid in school, in the class. There were 250 students and three girls." -- Jensen Huang, Hong Kong University of Science and Technology, November 2024 [26,27]
+2 h: “Do you wanna see my homework?”
+3 p: In a first-year electrical engineering lab, he was paired with a student named Lori Mills. He was 17 and she was 19. He guessed that because he looked like a child, she would assume he was very clever. So he went with the boldest line he had. [5,26,27]
+4 QUOTE: "So I walked up to her and I said, ‘Do you wanna see my homework?’" -- Jensen Huang, recalling meeting Lori, 2024 [26]
+5 p: Then he offered a deal. If she did homework with him every Sunday, he promised, she would get straight A's. He also secretly finished his own homework in advance, so that he would look like a genius when they compared answers. As he tells it, that gave him a date every single Sunday. [26,27]
+6 p: At 20, he made a bigger promise. He told Lori he would be a CEO by the time he was 30. “I had no idea what I was talking about,” he admitted. They married about five years after they first met. In 2013 he joked to Oregon State students that she would not have liked him so much without the quality of his work. [5,25,26,27]
+7 note: He said CEO by 30. Nvidia was founded weeks after his 30th birthday.
+8 photo: https://commons.wikimedia.org/wiki/File:Kelley_Engineering_Center,_Oregon_State_University,_Corvallis_-_DPLA_-_21aa59fccd47b72de2dd4a2242bdcaae.jpg | Oregon State University's Kelley Engineering Center, photographed in 2019. In 2013 Huang sat on its atrium steps and told students how he met Lori in a first-year lab. | Gary Halvorson, Oregon State Archives | CC BY 4.0
+9 p: Oregon State was also where he fell for the technology itself. “I enjoyed computers growing up, but OSU opened up my eyes to the magic behind them,” he said when the university put him in its engineering hall of fame. He credited a few great professors and some classes that “set my mind on fire.” He graduated with a bachelor's degree in electrical engineering in ==1984==. [5,26]
+10 h: First job: designing microprocessors
+11 p: His first engineering job was in Silicon Valley at Advanced Micro Devices, or AMD, where he designed microprocessors, the chips that act as a computer's brain. Nvidia's 1999 stock-market filing says he did this from 1983 to 1985. Most later profiles say he started in 1984, after he graduated. [35,34,27]
+12 p: In 1985 he moved to LSI Logic, which was pioneering a new way to design chips. Instead of laying out a chip gate by gate, LSI's idea was to describe its logic in a high-level language and let software tools do much of the heavy work. Huang loved it immediately. [35,36]
+13 QUOTE: "That logic was so sensible to me. I was 21 years old at the time, and I wanted to pursue that vision." -- Jensen Huang, Acquired podcast, 2023 [36]
+14 p: He spent eight years at LSI, from 1985 to 1993, and worked in several roles. By the end he was director of its CoreWare business unit, which ran LSI's “system-on-a-chip” strategy. In plain words, he helped customers put whole systems onto a single piece of silicon. __He was learning how customers think, not just how chips work.__ [35,11]
+15 p: He also kept studying. While working full time, he took a master's degree in electrical engineering at Stanford University and finished it in ==1992==. By then he and Lori had two small children, and the family lived in San Jose near a busy Denny's. [5,31,10]
+16 note: Full-time job, two kids, night degree. No shortcuts here.
+17 h: The two engineers from Sun
+18 p: LSI's customers included Sun Microsystems, which made powerful workstation computers. Through that work Huang met two Sun engineers, Chris Malachowsky and Curtis Priem. Malachowsky was a co-inventor of Sun's GX graphics architecture. Priem designed the GX products, including what Nvidia later called the world's first single-chip GUI accelerator, a chip that sped up on-screen windows and menus. [35,36,32]
+19 photo: https://commons.wikimedia.org/wiki/File:Sun_GX_version_1.jpg | A first-version Sun GX graphics board. According to the photo's Commons description, its accelerator was built from LSI Logic chips, the kind of work that brought Huang, Malachowsky and Priem together. | DavidSHRosenthal | CC BY-SA 4.0
+20 p: By 1992 the two Sun engineers had lost an internal political battle over where Sun's technology should go, Fortune reported, and they wanted out. Huang was not looking for anything. He loved LSI and had a good job. They asked him to help them work out what to leave Sun for. [11,32]
+21 QUOTE: "If it wasn't because of Chris and Curtis convincing me to do Nvidia, I would still be at LSI Logic today. I'm certain of it." -- Jensen Huang, Acquired podcast, 2023 [36]
+22 note: Very important: pick co-founders who push you.
+23 h: Coffee, a booth and a 450-page book
+24 p: Through 1992 and into 1993, the three met at the Denny's on Berryessa Road in East San Jose, near Huang's home. He liked it because, he later said, it had “all the coffee you could drink and no one could chase you out.” The PC boom was just starting. Windows 95 did not exist yet, and Intel had not yet announced the Pentium. [31,32,11,8]
+25 photo: https://commons.wikimedia.org/wiki/File:2484_Berryessa_Road.jpg | The Denny's at 2484 Berryessa Road, San Jose, in 2023. In 2023 a plaque went up over the booth where Nvidia's founders met. | Coolcaesar | CC BY-SA 4.0
+26 p: Their idea was to build a chip for problems that ordinary processors handled badly, and to start with realistic 3D graphics for PC games. There was one problem. None of them had ever started a company. “None of us knew how to do anything,” Huang told 60 Minutes, sitting in that same Denny's in 2024. [31,32,10]
+27 p: So Huang went to a bookstore and bought a guide on how to write a business plan. It was about 450 pages long. He flipped through a few pages and gave up, thinking that by the time he finished it, he would be out of business. Money was tight. He and Lori had roughly six months of savings, with two small children and a dog to feed. [32,8]
+28 example: Here is what six months of runway meant. If the idea failed or the money never came, a 30-year-old engineer with a family would have had to go back and ask for a job. Huang left a secure director's role with only about half a year of cushion. That is the real size of the bet. [32,11]
+29 h: “Give this kid money”
+30 p: Then his old boss called. Wilf Corrigan, the CEO of LSI Logic, wanted to know why Huang had left without explaining his plans, and told him to come back and explain. Huang did his best. Corrigan's verdict, as Huang tells it, was that it was one of the worst elevator pitches he had ever heard. [32,36]
+31 p: Then Corrigan picked up the phone anyway. He called Don Valentine, founder of the venture firm Sequoia Capital, and told him he was sending a kid over and wanted Valentine to give him money. __Eight years of excellent work at LSI did what a bad pitch could not.__ [32,36]
+32 QUOTE: "You can even have a bad interview. But you can't run away from your past, and so have a good past." -- Jensen Huang, Stanford GSB View From The Top, 2024 [32]
+33 p: Valentine invested, though not gently. According to Huang, his parting words were: “If you lose my money, I'll kill you.” Sequoia and Sutter Hill Ventures became Nvidia's founding investors. Thirty years later, partners from both firms were still on its board. [32,36,35]
+34 p: Nvidia was founded on ==5 April 1993== and incorporated in California that month. Huang had turned 30 just seven weeks earlier. He became president and CEO on day one. According to its stock-market filing, the company sold 4,303,000 Series A preferred shares at ==$0.50 each== in 1993, which raised about $2.15 million. That was the first real money behind what is now one of the world's most valuable companies. [37,35,43]
+35 facts: 
+    1984 :: BS in electrical engineering, Oregon State [5]
+    8 years :: At LSI Logic, 1985–1993, ending as CoreWare director [35]
+    1992 :: MS in electrical engineering, Stanford, earned while working [5]
+    ≈$2.15M :: Nvidia's 1993 Series A (4,303,000 shares at $0.50) [35]
+36 timeline: 
+    1980 :: Starts at Oregon State at 16; meets lab partner Lori Mills. [25,26]
+    1983/84–1985 :: Designs microprocessors at AMD. [35,34]
+    1984 :: Graduates from Oregon State with a BSEE. [5]
+    1985–1993 :: LSI Logic, ending as director of the CoreWare business unit. [35]
+    1992 :: Finishes a Stanford MSEE while working full time. [5]
+    1992–93 :: Meets Malachowsky and Priem at a Denny's in East San Jose. [31,32]
+    5 Apr 1993 :: Nvidia is founded; Sequoia and Sutter Hill back it. [37,35,36]
+37 lesson: Your track record is your real pitch: Huang could not write a business plan, and his first pitch flopped. He still got funded, because a CEO who had watched him work for eight years vouched for him. For founders aged 16 to 28, the takeaway is uncomfortable but useful. The reputation you build in your current job, class or internship is the funding round you will raise later. Choose bold co-founders too. Without Malachowsky and Priem pushing him, Huang says he would never have left LSI.
+
+=== CH3 every-company | Every venture, win or lose | Everything He Ever Bet On
+0 p: Here is the first surprise. In more than 40 years of work, Jensen Huang has run only one company of his own. He has no side startups in the public record, and he has been CEO of Nvidia since day one. So this list is different from most founder lists. __His real portfolio is the set of bets he placed from inside one company, and many of those bets lost.__ [159,0]
+1 p: Some of the losers were huge. A first chip that came back from the shops almost in full. A phone business he walked away from. A ==$40 billion== takeover killed by regulators. Below is each bet with its first money, its turning point and how it ended. [44,38,105]
+2 note: Count the failures on this page. Then look at the market value.
+3 h: Before Nvidia
+4 VENTURE {
+ "t": "venture",
+ "name": "CoreWare at LSI Logic",
+ "years": "to 1993",
+ "outcome": "sold",
+ "idea": "LSI Logic helped computer makers design their own custom chips. Its CoreWare unit, which Huang ended up directing, pushed the “system on a chip” idea, which means putting a whole system onto one piece of silicon.",
+ "decision": "Huang left AMD for LSI after a short spell because he had seen software design tools make one engineer far more powerful. He has said this full-stack way of thinking still shapes Nvidia. A co-founder request later pulled him out, and he says he would otherwise have stayed.",
+ "howStarted": "He held several jobs at LSI from 1985. The company assigned him to work with customers, including two Sun Microsystems engineers, Chris Malachowsky and Curtis Priem. In Stephen Witt's biography, he was still in his twenties when he ran a division with $250 million in yearly revenue.",
+ "funding": "This was LSI's own money. Huang was an employee and put in none of his own.",
+ "whatHappened": "According to Witt's book, as reviewed, LSI's CEO Wilf Corrigan brought in a senior Intel man to co-manage Huang's product line, and Huang was furious. Soon after, he left to start Nvidia. Corrigan still sent him to Sequoia. LSI itself was bought by Avago in 2014 for about $6.6 billion.",
+ "lesson": "Run something real before you found something. Huang's old boss vouched for him because he had seen eight years of results.",
+ "src": [
+  159,
+  53,
+  44,
+  158,
+  160
+ ]
+}
+5 h: The company
+6 VENTURE {
+ "t": "venture",
+ "name": "Nvidia",
+ "years": "1993–today",
+ "outcome": "public",
+ "idea": "Build a chip that makes 3D graphics possible on an ordinary personal computer, and use video games as the first market. In 1993 market researchers would have sized that market at zero, as Sequoia's Mark Stevens later said.",
+ "decision": "Plain 2D graphics was already crowded with chip firms. The founders bet that once the PC reached homes, the thing people would want most was games, and that 3D was the missing piece. Gaming got little respect then, and PC gamers were mostly teenagers. None of the three had even seen a PC up close, so they bought a Gateway 2000 and took it apart.",
+ "howStarted": "Three engineers worked from Curtis Priem's townhouse. Huang has said that after lunch they went to arcades to study Sega's Virtua Fighter and Daytona. Then came a strip-mall office on East Arques Avenue in Sunnyvale and about 20 hires. There were no customers yet.",
+ "funding": "The company began with about $40,000 in the bank. Then came venture capital, which is money from firms that buy a slice of young companies. Sequoia and Sutter Hill backed the 1993 round: 4,303,000 shares at $0.50 each, or about $2.15 million. All the private rounds up to 1997 added up to roughly $19.8 million.",
+ "whatHappened": "Two failed chips, one rescue, an IPO in 1999, long flat years, then the AI boom. Revenue for fiscal 2026 was $215.9 billion. Nvidia's market value closed at $4.93 trillion on 30 October 2026.",
+ "lesson": "Pick a market nobody respects yet, if your reasoning says it must grow. Then be ready to stay alive for a very long time.",
+ "src": [
+  44,
+  49,
+  55,
+  45,
+  124,
+  126
+ ]
+}
+7 p: The three founders split the company almost equally. Going into the IPO, Huang's family holdings stood at 3,100,000 shares and Malachowsky and Priem had 3,062,500 each. Priem later left in 2003 and had sold his last shares by 2006, after giving most of his stake to a charitable foundation. Forbes estimated in 2023 that keeping it all would have made him worth ==$70 billion==. [45,161]
+8 h: The first two chips, both failures
+9 VENTURE {
+ "t": "venture",
+ "name": "NV1, the Swiss Army knife chip",
+ "years": "1995–1996",
+ "outcome": "failed",
+ "idea": "One chip that did everything: 3D graphics, video, audio and game-port input, all on one card. It was sold in shops as the Diamond Edge 3D.",
+ "decision": "Nvidia chose to draw 3D scenes with curved four-sided shapes because the method was clever and cheap. Rivals and then Microsoft went with triangles. Huang now says the team got the core technical choices exactly wrong. He also admits they did not yet know how to price or position a product.",
+ "howStarted": "It took about 18 to 24 months to deliver. ST Microelectronics was the manufacturing partner and also had a licence to sell it. Diamond Multimedia was the main buyer, at 86% of Nvidia's 1995 revenue.",
+ "funding": "Series A and Series B venture money. The 1994 and 1995 Series B round sold about 2.8 million shares at $1.80 each, or about $5 million.",
+ "whatHappened": "Huang's own telling is brutal. Diamond took 250,000 units and about 249,000 came back. Nvidia's 1995 revenue was just $1.18 million and its gross profit was negative, so it lost money on the chips themselves. The company lost $6.4 million that year.",
+ "lesson": "Nobody walks into a shop looking for a Swiss Army knife. Sell one clear thing that beats the alternative at one clear job.",
+ "src": [
+  44,
+  49,
+  45,
+  168,
+  53,
+  50
+ ]
+}
+10 VENTURE {
+ "t": "venture",
+ "name": "NV2, the Sega console chip",
+ "years": "1995–1996",
+ "outcome": "shut",
+ "idea": "Sega would bring its arcade games to PCs running Nvidia chips, and Nvidia would design the graphics chip for Sega's next console. Both sides got something.",
+ "decision": "This was the most famous decision of Huang's career. Finish the job and spend two years on technology the industry had left behind, or quit and lose the money that paid the salaries. He chose to tell Sega the truth, recommend a different partner and still ask to be paid.",
+ "howStarted": "Huang flew to Japan to pitch Sega. In May 1995 the two sides signed a five-year alliance. The prospectus does not name Sega, but it does call the product NV2, which is the chip Huang and Witt both tie to Sega.",
+ "funding": "The filing shows two separate cheques. Non-refundable development payments of $2 million in 1995 and $3 million in 1996, and a July 1995 purchase of 750,000 Series C shares for $5 million.",
+ "whatHappened": "Work stopped in 1996. Sega's president Shoichiro Irimajiri took a few days and agreed. Huang says it gave Nvidia about six months to live. Sega sold its shares after the IPO. On Nvidia's split history, those 750,000 shares would be 360 million shares today, worth about $74 billion at the 30 October 2026 close.",
+ "lesson": "Bad news delivered early, with a plan and with humility, can win you more than a promise you cannot keep.",
+ "src": [
+  44,
+  49,
+  45,
+  50,
+  47,
+  153
+ ]
+}
+11 QUOTE: "Finish the project and die, or not finish the project and die right away." -- Jensen Huang on his choice over the Sega contract, Sequoia's Crucible Moments [44]
+12 h: The rescue
+13 VENTURE {
+ "t": "venture",
+ "name": "RIVA 128",
+ "years": "1996–1998",
+ "outcome": "pivoted",
+ "idea": "Stop being different. Build the fastest possible chip for the triangle method Microsoft had chosen, and get it to market before anyone else.",
+ "decision": "Normal chipmaking needed a test run, fixes and a second test run. Nvidia had time and money for one attempt only. So Huang bought an emulator, a fridge-sized machine that pretends to be a chip, and tested the design and its software before any silicon existed.",
+ "howStarted": "He cut a staff of about 100 to a much smaller crew and bet the rest on this. Engineers ran the emulator in double shifts, and it sat in the break room because it did not fit the lab. He bought his architects three Silicon Graphics textbooks at $60 each.",
+ "funding": "Sega's money, $2.5 million in advance royalties from ST in 1996, and a 1997 Series D round of about $7.6 million at $5.26 a share.",
+ "whatHappened": "It shipped in August 1997 and sold about a million units in four months. Revenue jumped from $3.9 million in 1996 to $29.1 million in 1997. Nvidia made the first profit of its life in the last quarter of 1997, four and a half years after it was founded.",
+ "lesson": "When you only have one shot, change the method so one shot is enough. Constraints can produce your best invention.",
+ "src": [
+  44,
+  47,
+  49,
+  45,
+  48
+ ]
+}
+14 note: Four and a half years before the first profitable quarter. Remember that.
+15 h: The console years
+16 VENTURE {
+ "t": "venture",
+ "name": "Xbox",
+ "years": "2000–about 2005",
+ "outcome": "shut",
+ "idea": "Supply both main chips for Microsoft's first game console: the graphics processor and the media and communications processor.",
+ "decision": "Winning a console meant guaranteed volume, a big prepayment and a shot at the living room. The price was very thin margins and a giant customer. Sega had once been a similar bet, and Huang took it again with Microsoft.",
+ "howStarted": "The agreement was signed on 5 March 2000, just months after the GeForce 256 launched. Commercial shipments began in July 2001.",
+ "funding": "Microsoft paid ==$200 million== up front in April 2000 as an advance against future purchases. For a company whose total 1999 revenue was $374.5 million, that was enormous.",
+ "whatHappened": "Xbox drove 23% of Nvidia's revenue in fiscal 2003. But Microsoft took a pricing fight to binding arbitration in April 2002. They settled in February 2003 and Nvidia booked $40.4 million in added revenue. In August 2003 Microsoft signed a rival for the next Xbox. Nvidia then won Sony's PlayStation 3 and, years later, the Nintendo Switch.",
+ "lesson": "A giant customer can fund you for a few years, but do not build your future on it. Win the next customer before the current one leaves.",
+ "src": [
+  62,
+  63,
+  64,
+  178,
+  162,
+  163,
+  44
+ ]
+}
+17 VENTURE {
+ "t": "venture",
+ "name": "Buying 3dfx's graphics assets",
+ "years": "2000–2001",
+ "outcome": "merged",
+ "idea": "Buy the patents, brands and engineers of 3dfx, the pioneer of consumer 3D cards and maker of Voodoo, once Nvidia's most feared rival.",
+ "decision": "Nvidia bought assets and not the whole company. The deal also ended a patent war between them, including a suit 3dfx had filed in 1998.",
+ "howStarted": "The deal was signed on 15 December 2000 and closed on 18 April 2001. Huang said on a call that the main prize was its team of engineers.",
+ "funding": "Nvidia's own cash and shares: $70 million in cash and 1,000,000 shares. By then it had also raised about $102 million in new stock at $73 a share, along with $300 million in notes.",
+ "whatHappened": "3dfx wound itself up. In 1998 it had agreed to buy card maker STB, then Nvidia's biggest customer. Shortly before the end it had paid $186 million for a firm called Gigapixel. Nvidia got 3dfx's core graphics assets for roughly $120 million, if you count the shares at the $50 the contract itself used.",
+ "lesson": "If you outlast your rival, you can often hire its best people and buy its best ideas at a bargain. Survival is a strategy.",
+ "src": [
+  59,
+  60,
+  61,
+  65,
+  45
+ ]
+}
+18 VENTURE {
+ "t": "venture",
+ "name": "GeForce FX, the “Dustbuster”",
+ "years": "2002–2003",
+ "outcome": "failed",
+ "idea": "A next-generation GeForce line, led by the 5800 card, to keep Nvidia on top of the PC gaming market.",
+ "decision": "Nvidia pushed on with its usual rapid upgrades, but its chip arrived several months after ATI's rival. To keep the first card cool, it shipped with a very large, very loud fan that buyers mocked as a “Dustbuster”.",
+ "howStarted": "Nvidia's own chip teams built it, and the first cards reached the market around the end of 2002.",
+ "funding": "Internal cash flow.",
+ "whatHappened": "Huang came home in 2003 to a harsh magazine review with a sticky note from his son, then 13, telling him to kick it up a notch. Gross margin fell from 38% in fiscal 2002 to 29% in fiscal 2004, and the filing blames the FX line in part. Instead of firing the managers, Huang had them walk a few hundred colleagues through every decision. Nvidia even released a joke video using the card as a leaf blower.",
+ "lesson": "Share a failure in public, inside the company, while it still hurts. People copy what you do with failure far more than what you say about it.",
+ "src": [
+  70,
+  63,
+  48,
+  169
+ ]
+}
+19 VENTURE {
+ "t": "venture",
+ "name": "nForce chipsets",
+ "years": "about 2001–2010",
+ "outcome": "shut",
+ "idea": "Make the second-most important chip in a PC, the one that links the processor to everything else, and so sell more of the machine.",
+ "decision": "It was a move into a business that Intel also dominated. Nvidia signed a licence with Intel in 2004. It later bought Taiwan's ULi to grow the line and get closer to customers in Asia.",
+ "howStarted": "An internal team built it. The early hit was with buyers of AMD-based PCs, and Intel versions followed.",
+ "funding": "Internal cash flow.",
+ "whatHappened": "By mid-2009, one analyst put chipsets at about 31% of Nvidia's revenue. Intel sued in February 2009 to say the licence did not cover its new chips. In October 2009 Nvidia stopped investing in chipsets for them, blaming Intel. In January 2011 they settled. Intel agreed to pay Nvidia ==$1.5 billion== in instalments through 2016, and the new licence did not cover chipsets for Intel's processors.",
+ "lesson": "Never let your growth depend on the permission of your biggest competitor. And if you must fight, make sure you get paid when you stop.",
+ "src": [
+  93,
+  92,
+  69,
+  170,
+  171
+ ]
+}
+20 h: The mobile disaster
+21 VENTURE {
+ "t": "venture",
+ "name": "Tegra phone chips",
+ "years": "2003–2015",
+ "outcome": "pivoted",
+ "idea": "Bring Nvidia's graphics into phones and tablets, the fastest-growing computers on earth, with a low-power chip holding a whole computer.",
+ "decision": "Huang built the position by buying. MediaQ cost $70 million in 2003. PortalPlayer, the chipmaker in early iPods, cost about $357 million in 2006, only seven months after Apple had dropped it and its shares had crashed. The bet then became Tegra.",
+ "howStarted": "Huang says Google's push to turn Android into a real mobile computer around 2010 opened the door. Early wins included Motorola's Xoom and Atrix and Google's Nexus 7.",
+ "funding": "Nvidia's own cash, supported by the profits from GeForce.",
+ "whatHappened": "Sales first surged. Then rivals swarmed in, as modem makers learned computing while Nvidia tried to learn modems. Tegra revenue fell from $764 million in fiscal 2013 to $398 million in fiscal 2014, and one analysis put the unit's loss above $400 million in the first three quarters. In 2015 Huang said flatly that Nvidia had decided not to do phones any more. Tegra then found homes in cars and the Nintendo Switch.",
+ "lesson": "A giant market you cannot win is worth less than a tiny market you can own. Quit when your edge is gone, even if the market is booming.",
+ "src": [
+  81,
+  79,
+  80,
+  50,
+  87,
+  88,
+  89,
+  90,
+  163
+ ]
+}
+22 VENTURE {
+ "t": "venture",
+ "name": "Icera modems",
+ "years": "2011–2015",
+ "outcome": "shut",
+ "idea": "Own the second key chip in a phone, the modem that talks to the network. Icera's trick was a software-defined modem that could be updated for new network standards.",
+ "decision": "Nvidia wanted to sell both main phone chips and so double what it earned per phone. At first Huang said he had no plan to merge modem and processor on one chip. That turned out to be exactly what the market wanted.",
+ "howStarted": "Bought in May 2011. Icera came with more than 550 patents and approvals from more than 50 phone networks. Its people were mostly in Britain and France.",
+ "funding": "==$367 million== in cash from Nvidia.",
+ "whatHappened": "The integrated chip, Tegra 4i, landed in only a handful of devices. On 5 May 2015 Nvidia said it would wind Icera down, with about 500 employees affected, and that it would buy modems from others. Even in 2017, $271 million of goodwill from the deal still sat on the books, more than any other past purchase.",
+ "lesson": "If you buy a company to enter a market, check first what customers will want in three years, not what the seller's slides say.",
+ "src": [
+  82,
+  83,
+  84,
+  85,
+  87,
+  86
+ ]
+}
+23 VENTURE {
+ "t": "venture",
+ "name": "Project Denver server CPU",
+ "years": "2011–2014",
+ "outcome": "shut",
+ "idea": "Design Nvidia's own main processors, based on Arm designs, and pair them with graphics chips in everything from PCs to servers and supercomputers.",
+ "decision": "The Intel settlement gave Nvidia no licence for Intel-compatible processors. So Arm was the obvious route into main processors, and into the part of the data centre that graphics alone could not reach.",
+ "howStarted": "Announced in 2011 as a big new direction.",
+ "funding": "Internal research and development money, in the same years when R&D spending passed $1 billion a year.",
+ "whatHappened": "In 2014 a senior Nvidia executive said a dedicated server CPU was not something the company was doing. Years later the idea came back. In 2026 Nvidia unveiled its Vera processor, with big AI customers lined up.",
+ "lesson": "A cancelled idea is not always a dead idea. It can be right and early, so write down why you stopped and what would change your mind.",
+ "src": [
+  91,
+  92,
+  120,
+  173
+ ]
+}
+24 VENTURE {
+ "t": "venture",
+ "name": "SHIELD and GeForce NOW",
+ "years": "2013–today",
+ "outcome": "running",
+ "idea": "Nvidia's own branded gaming gadgets, starting with a handheld Android device, then a TV box, plus cloud gaming that streams games from Nvidia's data centres.",
+ "decision": "After leaving phones, Huang needed new homes for Tegra and for gaming. He called Android the next big gaming platform and said he would be disappointed if SHIELD did not sell tens or hundreds of millions of units over time.",
+ "howStarted": "SHIELD began as an internal project announced in 2013. GeForce NOW launched to the public in February 2020 at $4.99 a month.",
+ "funding": "Internal cash flow.",
+ "whatHappened": "We could not find any Nvidia figure showing SHIELD reached those numbers. GeForce NOW hit a different wall: within weeks, Activision Blizzard and most of Bethesda's games were pulled from the service. Both products carried on as small side lines.",
+ "lesson": "Your own excitement is not market research. Also check who actually controls the thing your product depends on.",
+ "src": [
+  89,
+  90,
+  164,
+  165,
+  173,
+  172
+ ]
+}
+25 h: The bets that changed everything
+26 VENTURE {
+ "t": "venture",
+ "name": "CUDA",
+ "years": "2006–today",
+ "outcome": "running",
+ "idea": "Software that lets programmers use a graphics chip for any heavy maths, not just games. It turns a gaming card into a small supercomputer.",
+ "decision": "Huang decided to put CUDA into every GeForce, even though gamers would not pay for it, because a programming platform lives or dies by how many machines already run it. He also gave up profit to do it.",
+ "howStarted": "A Stanford student, Ian Buck, had hacked GeForce cards into a cheap supercomputer. Nvidia hired him, and he has led the software since 2004. It launched in late 2006, and Huang says the audience sat in silence.",
+ "funding": "Nvidia's own profits, at great cost. Huang says it raised the cost of each chip by about 50% at a company with roughly 35% gross margin. R&D spending from 2006 to 2017 came to nearly $12 billion.",
+ "whatHappened": "Customers were few and odd, including a General Mills project to simulate cooking frozen pizza. Downloads peaked in 2009 and then fell for three years. Then in 2012 two University of Toronto students trained AlexNet on two GeForce cards, and AI came to CUDA.",
+ "lesson": "Build your platform years before the killer app exists, then stay alive until it appears. Nobody can copy ten years of head start in a hurry.",
+ "src": [
+  48,
+  77,
+  49,
+  78,
+  50
+ ]
+}
+27 VENTURE {
+ "t": "venture",
+ "name": "DGX-1, the AI supercomputer",
+ "years": "2016–today",
+ "outcome": "running",
+ "idea": "One box built only for training AI, with eight linked Nvidia chips, sold as a ready-made supercomputer.",
+ "decision": "Huang concluded after AlexNet that neural networks would change software itself. Around 2013, he sent a Friday-night email saying everything would go to deep learning. An Nvidia vice-president recalled that by Monday they were an AI company.",
+ "howStarted": "About 3,000 people worked on it for three years. It was announced in April 2016 at a price of $129,000.",
+ "funding": "Nvidia's own cash. Nvidia's estimate of the cost was about $2 billion, and Huang later said a few billion.",
+ "whatHappened": "Huang says he had no purchase orders at all. The one taker was Elon Musk, for a nonprofit called OpenAI. So in August 2016 Huang drove the first one to San Francisco and donated it. Systems that grew out of that idea now earn the company most of its money. Data centre revenue reached $193.7 billion in fiscal 2026.",
+ "lesson": "When nobody will buy your new thing, put it in the hands of the smartest people you can find. That was the best marketing Nvidia ever did.",
+ "src": [
+  48,
+  97,
+  98,
+  95,
+  49,
+  96,
+  124
+ ]
+}
+28 QUOTE: "I had no purchase orders, not one." -- Jensen Huang on the launch of the DGX-1, The Joe Rogan Experience, 2025 [49]
+29 VENTURE {
+ "t": "venture",
+ "name": "Mellanox",
+ "years": "2019–2020",
+ "outcome": "merged",
+ "idea": "Buy the world's best high-speed links between computers. If AI needs tens of thousands of chips working as one machine, the wiring matters as much as the chips.",
+ "decision": "An activist fund, Starboard, had helped push Mellanox towards a sale. Huang was not looking for it, but he joined the auction in October 2018. Intel and Xilinx bid up to about $122.50 a share. Nvidia won at $125.",
+ "howStarted": "Won on 7 March 2019 and completed on 27 April 2020, after regulators, including China's, had approved it.",
+ "funding": "All cash from Nvidia. The headline was $6.9 billion and the final accounting total was $7.13 billion.",
+ "whatHappened": "Nvidia's whole networking line reached $31.4 billion in revenue in fiscal 2026 alone, more than four times the full price paid. China's regulator said in a preliminary finding in 2025 that Nvidia had broken conditions attached to the deal.",
+ "lesson": "See what the next bottleneck will be, then buy it before everyone else notices. A great deal can start as somebody else's fight.",
+ "src": [
+  57,
+  104,
+  125,
+  142
+ ]
+}
+30 QUOTE: "We never should have exited the position." -- Jeff Smith of Starboard Value, which sold its Nvidia stake by 2014, via Tae Kim [57]
+31 VENTURE {
+ "t": "venture",
+ "name": "The attempt to buy Arm",
+ "years": "2020–2022",
+ "outcome": "failed",
+ "idea": "Buy Arm, the British firm whose chip designs are licensed for smartphones, cars and data centres, from its owner SoftBank.",
+ "decision": "This was Huang's biggest gamble on a deal. Rivals licensed Arm's designs, so owning Arm meant owning a supplier to all of them. That was exactly what made the regulators nervous.",
+ "howStarted": "Signed on 13 September 2020 and valued at $40 billion at the time. Part of the price was Nvidia stock, and by December 2021 Reuters put the value above $80 billion.",
+ "funding": "$2 billion in cash at signing, and the plan was $10 billion more in cash and 44.3 million Nvidia shares at closing.",
+ "whatHappened": "The US FTC sued to block the deal on 2 December 2021, and the UK and EU were also investigating. On 7 February 2022 the two sides gave up. SoftBank kept the $1.25 billion prepayment and Nvidia took a $1.36 billion charge, but it kept a 20-year Arm licence.",
+ "lesson": "When you are big enough, the government is one of your stakeholders. Price in regulators before you price the deal, and get a useful fallback in writing.",
+ "src": [
+  105,
+  106,
+  107,
+  108,
+  109
+ ]
+}
+32 h: The shopping spree of the AI boom
+33 p: Once the cash arrived, Huang started buying again, and regulators watched closely. Run:ai, an Israeli startup that squeezes more work out of each chip, cost about $700 million and closed in December 2024 only after an EU review. The next two deals were far larger. [140]
+34 VENTURE {
+ "t": "venture",
+ "name": "Groq",
+ "years": "2025–today",
+ "outcome": "running",
+ "idea": "Groq, founded by people who created Google's TPU AI chip, built chips aimed at inference, the step where a trained AI actually answers you.",
+ "decision": "Rather than a normal takeover, the deal was framed as a non-exclusive technology licence, with the founder and key leaders moving to Nvidia. Reuters placed it in a wider spree of Big Tech deals for AI talent.",
+ "howStarted": "Agreed in December 2025. The lead investor in Groq said the deal came together quickly.",
+ "funding": "About $20 billion in cash, according to that investor, Disruptive's Alex Davis. Neither Nvidia nor Groq stated a price. Groq had been valued at $6.9 billion three months earlier.",
+ "whatHappened": "Groq said it would stay independent under a new CEO. By August 2026 Nvidia reported that a Groq-branded inference product was in full production.",
+ "lesson": "Watch for the rival who could make your product unnecessary, and be willing to pay up early.",
+ "src": [
+  136,
+  137,
+  120
+ ]
+}
+35 VENTURE {
+ "t": "venture",
+ "name": "Hugging Face",
+ "years": "2026–pending",
+ "outcome": "running",
+ "idea": "Hugging Face is the main meeting place for open AI models, with more than 18 million developers and more than 3 million models.",
+ "decision": "Open models keep demand for chips broad, so that a few closed labs are not the only big buyers. Nvidia promised to keep the platform open, including for other chip makers.",
+ "howStarted": "A definitive agreement was signed on 2 September 2026.",
+ "funding": "About $11.9 billion to stockholders and up to about $1 billion in retention stock for staff. Huang gave a total of $12,930,300,000 on Nvidia's blog.",
+ "whatHappened": "As of 2 November 2026 the deal was not done. Closing is expected in the first half of 2027, subject to regulators.",
+ "lesson": "Own the place where your customers' developers gather. Then keep it open enough that they do not leave.",
+ "src": [
+  138,
+  139
+ ]
+}
+36 h: His own money
+37 VENTURE {
+ "t": "venture",
+ "name": "The Jen-Hsun & Lori Huang Foundation",
+ "years": "2007–today",
+ "outcome": "running",
+ "idea": "A private charity funded with Nvidia stock. In practice it is the only other large pot of money tied to Huang's name.",
+ "decision": "He and Lori fund it by giving shares. A foundation must give away about 5% of its assets each year, so the rising share price keeps forcing the giving up.",
+ "howStarted": "Set up in 2007. Inside Philanthropy reported in 2024 that it had no listed staff and no website.",
+ "funding": "It began with 370,000 Nvidia shares, then worth $12.6 million.",
+ "whatHappened": "Assets reached $9.2 billion at the end of 2024. It gave about $126 million that year, and about $82 million of that went to a donor-advised fund, where the final recipients need not be disclosed. Critics have pointed to that opacity. Oregon State, where the couple met, is its biggest visible beneficiary.",
+ "lesson": "If you give stock early, it can grow into a far bigger gift. But size is not the same as impact, and people will ask where the money went.",
+ "src": [
+  155,
+  156,
+  157
+ ]
+}
+38 p: That is the whole list. The chapters below tell the same story in order, with the scenes and the numbers that the summaries leave out. Keep one number in mind as you read. Before its first profitable quarter, Nvidia lost money for ==about four and a half years==. [45]
+
+=== CH4 near-death | 1993–1999 | Thirty Days From Death
+0 h: The money, round by round
+1 p: Startups sell slices of themselves in “rounds”, usually named Series A, B, C. If each round is sold at a higher price, people believe the company is getting more valuable. Nvidia's stock-market filing lists every round it did in those years, and they tell a story that speeches leave out. Read this list like a medical chart. [45]
+2 timeline: 
+    1993 :: Series A: 4,303,000 shares at $0.50, about $2.15 million. Sequoia and Sutter Hill back three engineers with no product. [45,44]
+    1994–95 :: Series B: about 2.8 million shares at $1.80, about $5 million. The price is more than three times higher. [45]
+    July 1995 :: Series C: 750,000 shares at $6.67, exactly $5 million, bought by the partner on the NV2 console chip. [45]
+    1996 :: ST pays $2.5 million as an advance on future royalties. In 1998 it forgives the advance in return for support work. [45]
+    Aug–Sep 1997 :: Series D: 1,438,812 shares at $5.26, about $7.6 million. The price has gone down. [45]
+    Jul–Aug 1998 :: Customers Creative, Diamond and STB lend $11 million through notes that convert into shares. [45]
+    22 Jan 1999 :: IPO: 3.5 million shares at $12, raising $42 million before fees. [45,46]
+3 p: Look at Series D. The price fell from $6.67 to $5.26. That is called a down round, meaning new investors pay less than the last ones, and most founders treat it as a public embarrassment. Nvidia sold those shares in the same weeks that its rescue chip began to ship. __Even with a hit product arriving, investors would not pay the old price.__ [45]
+4 p: Add up the private rounds and you get about ==$19.8 million==. That is the “$20 million of venture capital” in most accounts of Nvidia. Four rounds and two failed chips, spread over more than four years. [45,55]
+5 note: Very important for first-time founders: a down round did not kill Nvidia.
+6 h: What the Sega story really was
+7 p: The Sega tale is usually told as a single act of kindness. It was, but the paperwork is more interesting. Nvidia's own prospectus records a May 1995 five-year alliance with an unnamed partner to build “the NV2”, which is the chip Huang has always tied to Sega. That partner paid $2 million in 1995 and $3 million in 1996, and neither payment had to be returned. [45,44]
+8 p: The same partner also bought $5 million of stock in July 1995. So there were two sums of $5 million: one for the work and one for the shares. That may be why Huang's own retellings differ. In one, Sega simply kept paying. In another, he asked to turn the last $5 million into an investment. __The filing suggests both pots of money were real, and the total was closer to ten million dollars.__ [45,44,49]
+9 example: For example: the filing says, in dry accountant's language, that the partner “revised its product development plans” and that Nvidia stopped work in 1996. Behind that sentence is a 33-year-old CEO in Japan telling an older executive that his technology did not work, that Sega should hire someone else, and that he still needed the money. [45,49]
+10 p: Inside the company, things were ugly. According to Stephen Witt, what began as a private technical argument between Huang and his co-founder and CTO, Curtis Priem, turned into shouting in front of staff. Priem wanted to stay on the NV2 path. Huang wanted customers to stop returning the product. Graphics expert David Kirk, who arrived in 1996, took one look and insisted on being handed a paper cheque every week, because he doubted the company would last. [47]
+11 note: He asked to be paid weekly. By hand. That's how bad it looked.
+12 h: One shot
+13 p: Huang cut the staff from about 100 to a small crew and then did the maths. A normal chip takes months in the factory, then comes back with bugs, then goes round again. Nvidia could not afford a second round. He has said there was about $1 million left and that he spent half of it on an emulator from a firm he calls Icos. He also says he walked into a store with $200 in his pocket and bought his architects the only three copies of a Silicon Graphics textbook, at $60 each, because nobody at Nvidia knew how to build 3D the right way. [49,47,48,56]
+14 p: The emulator was slow and ugly, with cables all over the floor, and the staff shoved the ping-pong table aside to make room for it in the break room. Dwight Diercks ran it by day and Kirk by night. They tested the drivers and games on a chip that did not exist yet. Huang remembers the seller as going out of business, though filings show IKOS, the emulator maker of that name, carried on until Mentor Graphics bought it in 2002. Huang says this made Nvidia the first chip company to emulate a chip like this before making it, and that the method later became normal. [47,53,44,49,166,167]
+15 p: Then came the hard part: ordering production without a working sample. Huang has said the odds were fifty-fifty, and that the company was going out of business anyway. __That is the logic of a real bet. When the alternative to risk is certain death, the risky choice is the safe one.__ [48]
+16 p: RIVA 128 worked, and it reached shops in August 1997 with one month of payroll left. It sold about a million units in four months. For the first time, Nvidia's slogan felt earned, and Huang kept using it to open staff presentations for years. [48,45,44]
+17 QUOTE: "Our company is thirty days from going out of business." -- Jensen Huang's opening line to staff for years, via The New Yorker [48]
+18 facts: 
+    $1.18M :: Revenue in 1995, the NV1 year [45]
+    $3.9M :: Revenue in 1996, the year of cuts [45]
+    $29.1M :: Revenue in 1997, with RIVA 128 from August [45]
+    $17.1M :: Total losses since founding, as of Oct 1998 [45]
+19 h: The letter to Morris Chang
+20 p: One of the best stories in the business began with a stamp. Nvidia had tried TSMC's San Jose sales office and heard nothing. So Huang wrote directly to Morris Chang, TSMC's founder in Taiwan. By Chang's own account, the letter made him curious and a little annoyed with his own sales team. [51]
+21 p: Chang then phoned while on a trip to California. Huang picked up with an argument going on behind him, and he shouted at the room: “Quiet. Morris Chang is calling me.” At their first meeting Huang admitted that Nvidia was in financial trouble and promised to become a major customer anyway. Chang took that to mean at least $50 million a year. Within two or three years, Nvidia was among TSMC's five biggest customers. [51]
+22 p: One detail is usually lost. The prospectus says Nvidia “in the past utilized ST” and that TSMC made the later RIVA128ZX and RIVA TNT. Nvidia's own timeline dates its TSMC partnership to March 1998, and Huang told a Computer History Museum audience in 2007 that the work started the year after they met. So the first RIVA 128 chips appear to have come from ST and not from TSMC, whatever the popular version says. [45,54,52]
+23 note: Cold letter, CEO to CEO. It still works. Write the letter.
+24 h: Intel comes for the kids
+25 p: Survival lasted about a season. In late 1997 Intel told the industry it was bringing out its own graphics chip, the i740, with twice the memory of the RIVA 128. Tae Kim reports that Intel was then about 860 times Nvidia's size by revenue, and Nvidia's orders began to shrink. Huang told the company that Intel wanted it gone, and that it had to strike first. [58,45]
+26 p: The rescue came from an engineer's paranoia. During the first RIVA rush, he had left spare room on the chip. Now that space let the team rework the wiring to handle 8MB of memory, and a new RIVA128ZX appeared just 11 days after Intel's launch. It cost $32 against Intel's $28 and was faster, and that was enough to hold Nvidia's place. [58]
+27 h: Going public anyway
+28 p: An IPO, or initial public offering, is when a private company first sells shares to anyone on a stock market. It brings in money, and also forces the company to publish its secrets. The Nvidia prospectus reads like a list of reasons not to buy. It lists 184 employees, losses in two of the three most recent quarters, and a warning that losing key people, “particularly” Jen-Hsun Huang, could hurt the business. [45]
+29 p: The timing looked terrible. SGI, S3 and 3dfx had all filed patent suits in 1998. Then 3dfx agreed to buy STB, the customer that had made up 63% of Nvidia's 1997 revenue. Nvidia's biggest customer was being bought by one of its fiercest rivals. __Nvidia went public anyway, and it told buyers about all of this in plain print.__ [45]
+30 p: On 22 January 1999, underwriters led by Morgan Stanley sold 3.5 million shares at $12 each. It raised $42 million before fees, and the shares closed the first day at $19.6875, up 64%. Nvidia was now worth $626.1 million. Huang was 35, and his family's 3.1 million shares fell from 13.1% of the company to 10.8%. [45,46]
+31 example: For example: at that first-day close his 3.1 million shares were worth about $61 million on paper. Then look at $1,000 of stock bought at the $12 IPO price. After six stock splits that would be 40,000 shares today, worth about $8.2 million at the 30 October 2026 close of $204.64, before counting dividends. [45,46,153,150]
+32 lesson: What to take from the first six years: Nvidia did not win by avoiding mistakes. It made nearly every mistake a startup can make, then survived each one with honesty, speed and very thin margins for error. Tell partners the truth early. Keep your burn low enough to survive one more try. And treat any scary number, a down round or a lost customer, as information and not as a verdict on you.
+
+=== CH5 the-long-wait | 2000–2015 | Fifteen Years of Being Doubted
+0 p: After the GeForce 256 launched in 1999, Nvidia began calling its chip a GPU, a graphics processing unit. Its marketing chief later admitted they invented the category so that they could lead it. Sales rocketed, reaching $1.37 billion in fiscal 2002. Then came a long stretch that people forget. For well over a decade, Nvidia was a good company that Wall Street could not get excited about. [48,63]
+1 h: The accounting problem
+2 p: In February 2002 Nvidia disclosed that the US Securities and Exchange Commission was looking at its books. That April it restated three years of results. Most of the changes were small and the three-year total actually rose by about $1.3 million. One quarter, however, stood out. [68,69]
+3 p: According to the SEC's order, Nvidia in early 2000 got a supplier to cut $3.3 million of costs in one quarter in exchange for a promise to pay it back through higher prices later. The deal was split into two documents, and the auditors saw only one. That lifted reported net income for the quarter by 15.3% and helped beat Wall Street's forecasts. The order described this as accounting misconduct. [66]
+4 p: The outcome: in September 2003 Nvidia agreed to a cease-and-desist order, without admitting or denying the findings, and it paid no fine. The then CFO settled separately, paid back about $494,000 plus interest and a $75,000 penalty, and was suspended from practising before the SEC. __A $3.3 million move brought a year and a half of investigation down on a company that would soon earn billions.__ [66,68,67]
+5 note: Never fudge the small number. The small number is what ends careers.
+6 h: Falling behind, then coming back
+7 p: Around the same time, the GeForce FX flopped and ATI got its new chips out first. Revenue dipped 5% in fiscal 2004 as Xbox sales fell, and gross margin sat at 29%. Huang responded with the very public failure review described earlier. By the end of 2007, Forbes had named Nvidia its Company of the Year and described a four-year climb from trailing to dominant. [63,48,70,169,172]
+8 h: CUDA, the bet that looked insane
+9 p: Then, near the top, he did something that dismayed Wall Street. CUDA arrived in late 2006, and Huang decided every gaming chip would carry it. Gamers would not pay extra for it. He says it swallowed the company's gross profit dollars for a time, and his managers knew margins would get crushed. [48,77]
+10 example: For example: think of a car maker adding a jet engine to every family car at no extra charge, on the theory that one day people might want to fly. Huang says the chip's cost rose by about 50%, in a company that kept only about 35 cents of each sales dollar after making the product. [77]
+11 p: By the end of 2008 Nvidia's shares had lost about three quarters of their value, though the financial crisis and other problems played their part. Then, for years, the market value barely moved. One count has it stuck between about $8.5 billion and $10 billion from 2009 to 2015, while the company kept pouring money into research. It spent nearly $12 billion on R&D from 2006 to 2017, with much of it going to CUDA. Bryan Catanzaro, who leads its applied deep-learning research, recalled that it took about ten years for Wall Street to believe. [76,48,78]
+12 p: Even the early AI story had a comic low point. In 2009 Geoffrey Hinton told a room of a thousand researchers to buy Nvidia cards, then asked Nvidia for a free one. It said no. __Your future can walk in the door, ask for a sample, and be turned away by someone following the rules.__ [48]
+13 note: Hinton asked for one free card. They said no. Read that twice.
+14 h: 2008, the worst year
+15 p: The bad news came in a pile in 2008. On 2 July, Nvidia said some laptop chips were failing at high rates because of weak materials and that it would take a charge of up to $200 million. The stock fell 31% in a day, to $12.98, as a later lawsuit noted. HP alone listed 24 affected laptop models and Dell 15. Huang told analysts the failures were a small share of chips, but that laptop repairs were expensive. [71,72]
+16 p: The $196 million estimate was far too low. By August 2010, the total charge had grown to ==$475.9 million==, and that quarter ended in a $141 million loss. Nvidia settled the laptop owners' class action while denying wrongdoing. In September 2008 it cut about 360 jobs, or 6.5% of staff, with shares already down more than 65% for the year. [73,74,175]
+17 p: With the shares crushed, many staff stock options were worth little, which is dangerous for a company that lives on its engineers. So in 2009 Nvidia paid cash to buy options back through a tender offer, and took a $140.2 million charge. It was money spent on keeping people. At the low in November 2008, the whole company was worth about $3.3 billion, or about five days of its profit in mid-2026. [75,76,120]
+18 h: Pizza, salad and $100 million
+19 p: Here is a little-known scene from the same years. TSMC's new 40-nanometre chip process had serious problems, and Nvidia took the worst of the damage. Huang had asked for compensation and an arbitrator. TSMC's then CEO offered him nothing. When Morris Chang took the job back, he spent almost half of his first weeks on this one dispute. [51]
+20 p: Then he emailed Huang to say he was coming over for salad and pizza. They ate at Huang's home and did not discuss business until exactly eight. In Huang's study, Chang made an offer of more than ==$100 million==, good for 48 hours and not open to bargaining. Huang took it within two days. __A partnership that survives a fight over money is worth more than one that has never been tested.__ [51]
+21 h: Beating Intel without beating Intel
+22 p: Intel was the giant in the room for all these years. It planned to enter graphics with a chip called Larrabee, which helped push UBS to tell clients to sell Nvidia in 2008. It also sued in 2009 over the chipset licence. Then in December 2009, Intel said the first Larrabee would not be sold as a retail product. And in January 2011 it agreed to pay Nvidia $1.5 billion in instalments over six years. [74,92,94]
+23 p: So one of Nvidia's main funders during the long CUDA years was, in a way, its biggest enemy. Huang has joked about the relationship, saying he picks up his chips and runs whenever Intel comes near. [48,92]
+24 h: The activist at the door
+25 p: By early 2013 the board was scared. The whole company was worth about $8 billion, and about $3 billion of that was cash. Longtime director Jim Gaither said they did everything they could to protect Nvidia from an activist investor, meaning a fund that buys shares and then pressures a company to change. One arrived anyway: Starboard Value built a $62 million stake. [57,48]
+26 p: Executives feared Starboard would force cuts to CUDA, which would have ended the AI story before it began. It instead pushed for share buybacks and less spending on phone chips, and it got the buybacks: a $1 billion commitment plus a further $1 billion authorised. The shares rose about 20% and Starboard sold out by March 2014. Huang has said he does not particularly remember what they discussed. [57]
+27 h: The retreat
+28 p: Starboard was right about phones, though Huang had to learn it himself. In the 2023 speech to graduates in Taipei, he described leaving the phone market as a hard choice: a giant market given up on purpose, in order to work on robots and cars that hardly anyone was buying. Automotive reached $2.35 billion in revenue in fiscal 2026, a fraction of the whole but far from nothing. [50,125]
+29 QUOTE: "By leaving the phone market, we opened our minds to invent a new one." -- Jensen Huang, National Taiwan University commencement, 2023 [50]
+30 lesson: What to take from the long wait: Most of Nvidia's value was created by a decision that looked stupid for ten years. To do that yourself you need three things: a core business that pays the bills, a reason you can explain from first principles, and the stubbornness to ignore a stock price. But stubbornness is not the same as being right. In the same years Huang was also wrong about phones and modems, and he quit those. The skill is knowing which of your bets is which.
+
+=== CH6 scale | 2016–2026 | From Zero Billion to Five Trillion
+0 p: Huang liked to say Nvidia invests in “zero billion dollar markets”, meaning markets that do not yet exist. In 2016 the market for AI computers was still close to that: the DGX-1 launched to silence. Researchers were excited, but the big money had not arrived. Then a side-show nearly derailed the main event. [44,49]
+1 h: The crypto hangover
+2 p: In 2017 cryptocurrency prices soared, and miners bought gaming cards in huge numbers to mine coins. Nvidia's gaming revenue jumped 52% in one quarter and 25% in the next compared with a year before. In late 2018 crypto crashed. Unsold cards piled up in shops. On 15 November 2018 Nvidia cut its forecast, Huang called it a crypto hangover, and the stock fell 28.5% over two trading days. [174,102]
+3 p: The legal cleanup took eight years. In May 2022 the SEC found that Nvidia had failed to disclose that crypto was a significant factor in its gaming growth. Nvidia paid a $5.5 million penalty without admitting or denying the findings. Separately, investors sued Nvidia and Huang for fraud. The Supreme Court heard the case and then dismissed Nvidia's appeal in December 2024, a judge certified a class in March 2026, and in October 2026 investors told the court they had reached a deal. Nvidia had fought the case for years. We could not read the deal's terms, and the claims were never decided at trial. [99,100,101,103,177]
+4 note: Boom revenue can vanish in a month. Know where your sales really come from.
+5 h: The two big deals
+6 p: Then came two moves that showed Huang's new idea: the entire data centre should work like a single computer. Mellanox, won in an auction in 2019, gave Nvidia the connections between chips. Arm, attempted in 2020, would have given it the processor designs too. One deal became a triumph, and one was blocked. Nvidia's fate turned out to depend far more on the first. [57,105]
+7 p: Huang has explained how he prepares people for moves like this. He talks about an idea, step by step, with his board and staff for a long time before announcing it. By the day of the announcement, he hopes, people ask why it took so long. So Mellanox did not seem like a surprise inside the company, and neither did the turn to AI. [77]
+8 h: The 2022 slump, right before the boom
+9 p: Few people remember how bad it looked just before ChatGPT. In the quarter ending July 2022, revenue fell 19% from the quarter before, gross margin fell from 65.5% to 43.5%, and profit dropped 59%. In October 2022 the US blocked sales of its best AI chips to China. For fiscal 2023, revenue was flat at $26.97 billion and earnings per share fell by more than half. [111,110,142]
+10 p: Then, in November 2022, a chatbot trained on Nvidia supercomputers went public. On 24 May 2023 Nvidia forecast $11 billion in sales for the next quarter, when analysts expected $7.15 billion. The stock jumped 24% the next day and added about $184 billion in value. __Huang told CNBC the killer app had shown up, 17 years after CUDA was built for one.__ [113,112,48]
+11 timeline: 
+    30 May 2023 :: Nvidia touches a $1 trillion market value for the first time. [114]
+    5 Jun 2024 :: It closes at about $3.01 trillion and passes Apple as the world's No. 2. [115]
+    27 Jan 2025 :: DeepSeek scare: shares fall 17% and about $589 billion disappears, the biggest one-day loss in US market history. [118,119]
+    9 Jul 2025 :: First company ever to reach $4 trillion, during trading. [116]
+    29 Oct 2025 :: First company ever to reach $5 trillion. [117]
+    7 Oct 2026 :: Shares near a record, with a market value of about $5.8 trillion. [127]
+    30 Oct 2026 :: Shares fall 4.2% as doubts over AI spending grow. Apple passes Nvidia at $5.03 trillion against $4.93 trillion. [126]
+12 facts: 
+    $27.0B :: Revenue, fiscal 2023 (to Jan 2023) [110]
+    $60.9B :: Revenue, fiscal 2024 [125]
+    $130.5B :: Revenue, fiscal 2025 [124]
+    $215.9B :: Revenue, fiscal 2026 (to Jan 2026) [124]
+13 p: Those numbers are hard to take in. In the quarter ended July 2026 alone, revenue was $96.2 billion and net income was $59.7 billion, with data centres making up about 92% of sales. Its gross margin was 75%. The company that once kept 35 cents of each sales dollar now keeps 75 cents. Nvidia also forecast about 70% growth for the following fiscal year, and said supply was the limit. [120,121,122,77,123]
+14 example: For example: Nvidia's IPO in 1999 raised $42 million in total. In the quarter ended July 2026, Nvidia earned about $59.7 billion after tax, or roughly $650 million per day. So it now makes the entire proceeds of that IPO about every hour and a half. [45,120]
+15 note: The company that raised $42 million now earns that every 90 minutes.
+16 h: Rivals, and who is really the threat
+17 p: The old rivals were never quite beaten. AMD stayed in the fight, and by late September 2026 one tracker valued it at close to $1 trillion. But the newer threat comes from customers. Companies like Google and OpenAI are developing their own chips, and just three direct customers made up 44% of Nvidia's sales in the first half of fiscal 2027. Groq's founders, remember, helped create Google's AI chip. [176,113,122,127,137]
+18 h: China, the market that keeps closing
+19 p: Before US export curbs tightened, Nvidia held about 95% of China's advanced chip market. Then came a seesaw. Sales of top chips were blocked in October 2022. Nvidia designed a weaker chip for China, the H20, and in April 2025 the US effectively blocked it too, leading to an expected $5.5 billion charge. In August 2025 Nvidia and AMD agreed to hand the US government 15% of certain China sales, which was a remarkable arrangement. [145,142,141]
+20 p: In December 2025 President Trump allowed sales of the stronger H200, with a 25% cut for the US. Beijing then discouraged buyers. Huang joined Trump's May 2026 trip to Beijing. By August 2026, H200 sales were under 1% of data-centre revenue, and Nvidia's forecast assumed no data-centre compute revenue from China at all. China's regulator has also said, in a preliminary finding, that Nvidia broke conditions on the Mellanox deal. That matter was still open in what we could find. [144,143,145,120,142]
+21 h: The new worry: paying its own customers
+22 p: The newest bets are not chips. Nvidia now invests in its own customers. It put $5 billion into Intel in 2025, committed up to $10 billion to Anthropic and finished a ==$30 billion== investment in OpenAI in 2026. That last one replaced a much-publicised plan for up to $100 billion. Nvidia told investors in August 2026 that it had invested nearly $50 billion in frontier AI labs. [131,130,128,129,123]
+23 p: In August 2026 it went further. Nvidia signed guarantees of up to ==$105 billion== so OpenAI could lease a giant data centre in Ohio from SB Energy, and it would have to cover shortfalls if OpenAI could not pay. OpenAI would then fill the site with Nvidia equipment. Payments are not expected to begin before 2028, and OpenAI has agreed to reimburse Nvidia for anything it pays out. [132,133]
+24 p: Critics call this “circular financing”, because the seller helps fund the buyer who buys its products. Fortune noted that the reported $250 billion figure had come down to $105 billion, and that the shares fell about 4.5% when the larger number surfaced. Bank of America estimated total potential commitments near $300 billion, according to IFR. Huang says it is not circular financing, and he has said his only regret on such stakes is not investing more and sooner. __Both things can be true: real demand and real risk.__ [134,135,133,121]
+25 QUOTE: "The only regret that I have is that I didn't invest more and sooner." -- Jensen Huang on stakes in AI labs, earnings call, via CNBC, Aug 2026 [121]
+26 p: The last weeks before this book was checked showed the mood. Between early October and 30 October 2026, Nvidia's value fell by close to $900 billion. Forbes had Huang's fortune at $204.5 billion on 2 October and $177.5 billion on 1 November. Nvidia's chips had not changed in those weeks. Investors' belief had. __At this scale, the risk is no longer that the company dies in 30 days, but that a whole industry changes its mind.__ [127,126,146,0]
+
+=== CH7 the-fortune | As of 2 November 2026 | Where the Money Sits
+0 p: Most billionaires own a mix of things. Huang mostly owns one. Forbes valued him at ==$177.5 billion== as of 1 November 2026, the seventh-richest person in the world. Almost all of it is Nvidia shares, and we found no sign of any large outside business. When Nvidia moves by $10 a share, he moves by about $8 billion. [0,150]
+1 facts: 
+    $177.5B :: Forbes real-time net worth, No. 7 (1 Nov 2026) [0]
+    $172B :: Bloomberg estimate, No. 8 (Oct 2026) [150]
+    About 811.5M :: Shares in his Form 4 filed 18 Sep 2026 [150]
+    $166.1B :: Those shares at the $204.64 close (30 Oct 2026) [150]
+2 h: Which pot holds what
+3 p: Because he is a company insider, Huang has to report his holdings to the SEC, and these show the structure plainly. As of his September 2026 filing, about 467.7 million shares sat in a living trust with his wife, about 133.3 million in six LLCs owned by that trust, and about 70.1 million in his own name. Another 140.5 million or so sat in two irrevocable family trusts. [150]
+4 example: For example: at the 30 October 2026 close, the living trust's shares were worth about $95.7 billion, the six LLCs about $27.3 billion, the shares he holds directly about $14.3 billion, and the two irrevocable trusts about $28.7 billion. Whether those last two count as “his” depends on who is counting. [150]
+5 p: That is why trackers disagree. Nvidia's 2026 proxy lists him at 870.6 million shares, or 3.58%, but that figure includes about 58.7 million shares in the foundation, in which the proxy says he and his wife have no personal financial interest. Forbes says he owns “about 4%”. The foundation's shares alone would be worth about $12 billion at the same price. [148,149,150,0]
+6 h: Why 13% became 3.4%
+7 p: His stake has shrunk from about 13% before the IPO to about 3.4% today, and he did not get there mainly by selling. Business Insider's count of filings shows it at 9.9% in 1999, 7.1% in 2003 and 4.4% in 2010. The main cause was that Nvidia kept giving new shares to its employees, year after year. Each new share makes every old share a slightly smaller slice. [45,147]
+8 p: He has sold, but not much relative to the whole. Bloomberg calculated in late 2025 that he had sold more than $2.9 billion of stock since 2001. That includes about $713 million in 2024 and more than $1 billion in 2025. Those recent sales were made under a 10b5-1 plan, a pre-arranged schedule that insiders set in advance so that they are not trading on secret news. He has also given shares away, more than $300 million worth in 2025 alone. Against a stake worth well over $100 billion, those sums are small. [151,152]
+9 note: His slice shrank to a quarter. The pie grew about 14,000 times.
+10 example: For example: Business Insider worked out that the 12.8% it counted before the IPO would have been worth over $500 billion by 2025. That sounds like a loss. But those shares paid for the engineers who built everything. A smaller slice of a giant pie beat a giant slice of a small one, and Nvidia's staff-share programme is a big part of how the giant pie got made. [147]
+11 h: His pay is the smallest part
+12 p: Huang's salary is almost irrelevant. In fiscal 2025, his total pay was $35.5 million, of which $1.5 million was base salary, $3 million was a cash bonus and about $31 million was stock based on performance targets. At 2026 share prices, one normal trading day can move his wealth by more than that. His job is paid mainly in the price of the thing he built. [148,146]
+13 h: Passing it on
+14 p: In December 2024 the New York Times reported that Huang was using popular estate and gift tax strategies, including trusts, on a pace to save his family roughly $8 billion. The paper based that on securities and tax filings, and it framed the story around loopholes in the tax law. Trusts of this kind are part of why his holdings sit in separate pots. The debate is about the law as much as about him. [154]
+15 p: Most of the wealth is also very recent. On Forbes's annual lists he was at $21.1 billion in 2023, $77 billion in 2024, $98.7 billion in 2025 and $154 billion in 2026. He had already been CEO for 30 years before the first of those numbers. [150]
+16 lesson: How the fortune actually got made: There was no clever exit and no second company. He kept a founder's stake in one business for 33 years, sold very little of it, and let the company reinvent itself several times. Do not plan your life around the last three years of this story. Plan around the first thirty.
+
+=== CH8 how-they-work | Inside the machine | Sixty Reports, Zero One-on-Ones
+0 h: The day starts before the day
+1 p: Ask Jensen Huang about work-life balance and he makes a joke of it. “I work as much as I can,” he told Stripe's Patrick Collison in 2024, while the room laughed. Then he explained that he works from the moment he wakes up to the moment he goes to bed, seven days a week. He sits through movies and cannot remember them, because he is thinking about work. [179,262]
+2 p: His wake-up time depends on when you ask. In 2023 he said ==5 a.m.==, with sleep by about 9:30 p.m. In 2024 he said six, because he feels guilty waking his dogs, so he lies still and reads in bed until then. The Financial Times had reported a 4 a.m. start in 2020, for exercise and family time, and on Joe Rogan's podcast in late 2025 he talked about checking email from 4 a.m. [200,270,262,204,201]
+3 QUOTE: "Every day. Every single day. Not one day missed. Including Thanksgiving, Christmas." -- Jensen Huang on The Joe Rogan Experience, as reported by Fortune, December 2025 [201]
+4 p: The trick that matters is the order, not the hours. At Caltech in 2024 he described his morning: he keeps a clear priority list and starts with the top item before he even reaches the office. __By the time his workday begins, the most important job is already finished.__ So when people apologise for interrupting him, he can honestly tell them he has plenty of time. His biographer Stephen Witt names the same habit as one of his two main scheduling tricks. [205,193]
+5 note: Copy this one tomorrow morning. Hardest task first, before your phone wins.
+6 h: Only problem meetings allowed
+7 p: Huang says he hates reporting meetings. People do not have to report to him, he told Collison. He goes to problem meetings, idea meetings and brainstorming meetings, and leaves regular operations to the people who run them. He also says he tries hard not to let Outlook manage his life. [262]
+8 QUOTE: "CEOs are pinch hitters. We should be working on the things that nobody else can or nobody else is." -- Jensen Huang, Stripe Sessions, 2024 [262]
+9 p: His meetings look different too. Bloomberg reported that he has no time for detailed PowerPoint decks. A write-up on Tae Kim's Substack says Nvidia uses whiteboards in meetings instead, and that people still remember one meeting where Huang listened to someone else present for a full hour, because it was so unusual. A 2023 Times of India summary of his leadership interview said Nvidia also skips the five-year and one-year plans most big companies use, and keeps adjusting to the market instead. [189,260,259]
+10 h: Sixty direct reports
+11 p: Most CEOs run a small circle of five to ten executives. Huang has more than ==60== people reporting straight to him. His logic is simple: the people at the top need the least managing, so the CEO should have the most reports. He told Collison that this removes something like seven layers from the company. [260,32,179,181]
+12 p: He also refuses to hold private meetings with them. “I don't do one-on-ones,” he said at Stripe. His staff meets about once every two weeks, around whatever problems exist, and everyone hears the same reasoning at the same moment. In 2026 he told Lex Fridman the reason in fewer words: “I don't have one-on-ones with them because it's impossible.” [179,181]
+13 QUOTE: "There's not one piece of information that I somehow secretly tell the staff; I don't tell the rest of the company." -- Jensen Huang at Stanford, reported by Fortune, June 2024 [180]
+14 facts: 
+    60+ :: People reporting directly to Huang [181]
+    ~7 :: Layers of management he says this removes [179]
+    100 :: Top-5 emails he scans each morning, per the WSJ [183]
+    2.7% :: Nvidia staff turnover in its 2024 report, against 17.7% for the chip industry [189,190]
+15 p: He does not call it a rule for everyone. When Collison asked whether each of the 60 also gets 60 reports, Huang said no, because people lower down need more supervision. The structure can still spread in messy ways: one former support worker told Bloomberg his supervisor had more than 100 direct reports. And Huang says that if someone truly needs him privately, he will drop everything for them. [179,189,180]
+16 note: Sixty sounds crazy. He says it isn't scalable down the ladder. Don't copy blindly.
+17 h: Five bullets that reach the top
+18 p: Nvidia staff send short notes called T5Ts, or Top-5 Things: what they are working on, what they are thinking about, what they have noticed. The Wall Street Journal reported that Huang looks at about 100 of them every morning, then reads more on Sunday nights with a glass of his favourite Scotch. “If you send it, I'll read it,” he says. Reporter Tae Kim explains why: in most companies a status report gets cleaned up at every layer, until the CEO receives something with the bad news removed. [183,184]
+19 QUOTE: "I'm looking to detect the weak signals. It's easy to pick up the strong signals, but I want to intercept them when they are weak." -- Jensen Huang to Tae Kim, reported by Fortune, January 2025 [182]
+20 p: The Journal credits these emails with helping him decide, years ago, that Nvidia needed to boost workloads on its graphics chips. He does not send a T5T of his own, because he fears everyone else's would start to copy it. “I have my own Top-5 Things that I keep to myself,” he said. As Nvidia grew, even this system had to change: in January 2026 its big field sales group narrowed distribution to a much smaller group that still includes Huang. [182,186]
+21 example: For example: because Huang often answers within minutes, staff learned to time their emails. Don't send it late on a Friday evening, one former employee told Kim. “It would wreck your weekend.” Most people send theirs late on Sunday instead, just as he settles down with his single malt, so they can act on his reply when the week starts. [185]
+22 p: Email is his main voice. The New Yorker reported that he writes hundreds a day, often only a few words long. One executive compared them to haiku, and another to ransom notes. On Rogan's show he estimated that he reads several thousand emails a day, and Kim says people who left Nvidia 20 years ago can still get a reply within a minute. [48,203,184]
+23 note: Haiku or ransom notes. Either way: short, clear, no place to hide.
+24 h: How he decides
+25 p: He has catchphrases, and they are working tools. “The speed of light” means asking how fast a task could possibly be done, then working backwards to a real deadline. The “zero-billion-dollar market” means a product with no rivals and no obvious customers yet. Nvidia also has a defining mantra, reported by Business Insider from Kim's book: “The mission is the boss.” A project leader can suddenly find themselves reporting directly to Huang as a “pilot in charge”. [48,193,188]
+26 example: For example: when Nvidia's headquarters was being designed, a virtual-reality headset took five hours to show a design change. Under Huang's pushing, engineers got it down to ten seconds. The lead architect, Hao Ko, later explained why that was not just bullying. At five hours he would have settled for any adequate shade of green, and at ten seconds he could pick the best one. [48]
+27 p: When he changes direction, it can happen in a weekend. Nvidia vice-president Greg Estes told the New Yorker about the moment Huang bet the company on neural networks. In Estes's telling, an email went out on a Friday evening saying everything was going to deep learning and that Nvidia was no longer a graphics company. Bryan Catanzaro, then Nvidia's lead deep-learning researcher, admitted he had doubts about the bet, and later admitted Huang was right. [48]
+28 QUOTE: "By Monday morning, we were an A.I. company. Literally, it was that fast." -- Greg Estes, Nvidia vice-president, to The New Yorker, 2023 [48]
+29 p: So does he delegate? Yes and no. Staff have real freedom, and Nvidia was still remote-friendly in 2025. But Bloomberg reported that he will step into small choices, such as which photo to use in a marketing campaign. Fortune's 2024 profile quoted Arm's Rene Haas describing him as “reaching down into different layers of the organization”, and Fortune added its own blunter word: micromanaging. A former director told Business Insider: “His ability to track small details across countless projects is incredible.” [188,189,261]
+30 h: Hiring, firing and “torture”
+31 p: Collison once heard Huang say he rarely fires people, and asked about it on stage. Huang's answer started with his own life. “I used to clean bathrooms, and now I'm the CEO of a company,” he said, so he believes most jobs can be learned. He then said, tongue in cheek, that he would rather push people until they got it. [179]
+32 QUOTE: "So I'd rather torture you into greatness because I believe in you." -- Jensen Huang, Stripe Sessions, 2024 [179]
+33 p: He hires fast, but with a limit. At a November 2025 all-hands he said Nvidia had hired several thousand people in one quarter and was still about 10,000 short, but that hiring should match how quickly new people can be integrated. In that same meeting he heard that some managers were telling staff to use less AI. “Are you insane?” he replied, and added: “I promise you, you will have work to do.” [197,198,263]
+34 p: Money helps hold people in place. Staff can put up to 15% of their salary into Nvidia shares at a 15% discount, and stock grants usually vest over four years. Former employees described this to Bloomberg as golden handcuffs. In January 2026 Huang said Nvidia had about 40,000 people, and that many stay for 20 to 25 years. [190,189,257]
+35 h: What it is like to work for him
+36 p: The people who worked there in the early days describe a place that never stopped. Former CFO Geoff Ribar sat near Huang and learned that the first person he saw each morning got “the first blast”, whatever the topic. Ribar used to tell rivals to count the cars in Nvidia's parking lot on weekends. Marketing director Andrew Logan left one night to take his wife to a 9:30 p.m. showing of Titanic, and a coworker shouted, “Oh, half day, Andy?” [187]
+37 example: For example: engineer Kenneth Hurley was at a urinal when Huang stepped up beside him and asked, “Hey, what's up?” Hurley said “not much”, got a sideways look, and panicked. So he listed twenty things he was working on. “Okay,” said Huang. [187]
+38 note: No place in that building was safe. Not even that one.
+39 p: The recent accounts are harder. Ten current and former staff spoke to Bloomberg in 2024, all anonymously. One described seven-day weeks ending at 1 or 2 a.m. Another described seven to ten meetings a day, each with more than 30 people, often with fighting and shouting. She warned that the flat structure can push people to compete for Huang's attention rather than work together. [189]
+40 p: Huang's public criticism is real, and it is deliberate. The Telegraph's review of Witt's book opens with a chip architect being berated in front of about 150 colleagues for an hour and a half or more, an experience staff call “the Wrath of Huang”. The company's former chief scientist explained the logic: “He would never just yell at some guy in the hall.” Huang's own version is calmer. “I give you feedback right there in front of everybody,” he told Collison, because everyone should learn from it, and he adds that half the time he is the one who is wrong. [191,179]
+41 QUOTE: "I've been afraid of Jensen sometimes, but I also know that he loves me." -- Bryan Catanzaro, Nvidia researcher, to The New Yorker, 2023 [48]
+42 p: That quote is the whole puzzle in one line. Catanzaro left Nvidia for another company and came back. Jeff Fisher, an original employee, is now very wealthy and still works: “Many of us are financial volunteers at this point.” Witt says some staff think the anger is deliberate theatre and trade custom Jensen emojis, and one review of his book notes that Huang could be very generous to staff facing medical problems. Glassdoor reviewers gave him 97% approval, according to Bloomberg, as reported by Mint. [48,193,196,264]
+43 p: Told on 60 Minutes that people call him demanding, a perfectionist and not easy to work for, he agreed. “It should be like that,” he said. “If you want to do extraordinary things, it shouldn't be easy.” His own explanation of the temper is odd and rather honest: “It's really about what's going on in my brain versus what's coming out of my mouth. When the mismatch is great, then it comes out as anger.” __Remember that all of this was built by a founder with decades of context, and for him.__ [10,48]
+44 QUOTE: "I built Nvidia in a way where I could drive it, and manage it, and steer it perfectly." -- Jensen Huang, quoted on Tae Kim's Key Context, 2026 [260]
+
+=== CH9 mindset | What he believes | Thirty Days From Dead
+0 h: Belief 1: Suffering builds the thing that matters
+1 p: In March 2024 Huang stood in front of Stanford students, some of the most credentialed young people in America, and wished them misery. He said his great advantage was very low expectations. People with very high expectations, he argued, have very low resilience, because they have never been ready for failure. It sounded like a joke, and he was completely serious. [39,206]
+2 QUOTE: "Greatness is not intelligence. Greatness comes from character. And character isn't formed out of smart people, it's formed out of people who suffered." -- Jensen Huang at Stanford, reported by CNBC, March 2024 [39]
+3 p: This comes from his own life: the Kentucky school, the bathrooms, the near-death of his company. He does not pretend suffering is fun. “I don't love every day of my job,” he told Collison. “I don't think every day brings me joy nor does joy have to be the definition of a good day.” At Caltech he listed his superpowers, and intelligence was not at the top. Enduring pain and working on one thing for a very long time were. [179,205]
+4 p: Here is the twist young founders should hear. Asked in 2023 what company he would start if he were 30 again, he said, “I wouldn't do it.” Building Nvidia, he said, was ==a million times harder== than anyone expected, with vulnerability, embarrassment and shame he would not choose to repeat. __He says he still tricks his brain by asking, “How hard can it be?”__ In his view, the entrepreneur's superpower is not knowing the answer. [36,40]
+5 note: A trillion-dollar founder says nobody in their right mind would start. Read twice.
+6 h: Belief 2: You are always about to die
+7 p: When Nvidia's RIVA 128 chip reached stores, the company had enough money for one month of payroll. Huang never let that feeling go. For years he opened staff presentations with the words “Our company is thirty days from going out of business.” Tae Kim's book admits this was hyperbole on one level, and says it also tested new hires: if they could not take the pressure, they should leave early. [48,187]
+8 example: For example: long-time Nvidia manager Dwight Diercks remembers that it always felt like the company was at zero. However much money sat in the bank, Huang could explain how three things could happen and all of it would be gone. Veteran Jeff Fisher says the fear clears your head, because you are always trying to see around corners. [187]
+9 p: Thirty-three years later, running the most valuable company on earth, he told Rogan the feeling had not changed. He called it exhausting and said he is always in a state of anxiety. Asked what drives him, he gave an unusual answer. At a 2023 New York Times event he had said it another way: “I don't wake up proud and confident. I wake up worried and concerned.” [201,208]
+10 QUOTE: "I have a greater drive from not wanting to fail than the drive of wanting to succeed." -- Jensen Huang on The Joe Rogan Experience, December 2025 [201,202]
+11 h: Belief 3: Say the embarrassing thing early
+12 p: In the mid-1990s Nvidia had one big contract, to build a chip for a Sega game console. A year in, Huang realised the whole approach was wrong. If he finished the job, Nvidia would own inferior technology. If he did not, it would run out of money. So he contacted Sega's chief executive, Shoichiro Irimajiri, told him to find another partner, and then asked to be paid in full anyway. [207]
+13 p: “I was embarrassed to ask,” Huang told graduates in Taipei in 2023. Irimajiri agreed, and Huang said the deal “gave us six months to live.” On Rogan's show he added a detail: the remaining $5 million was turned into an investment. __Most founders hide this kind of problem until it kills them.__ Huang went to the one person who could end the company and told him the truth. [207,201]
+14 QUOTE: "Confronting our mistake and, with humility, asking for help saved NVIDIA." -- Jensen Huang, National Taiwan University commencement, May 2023 [38]
+15 note: Very important for first-time founders! Bad news doesn't get cheaper with time.
+16 h: Belief 4: Build for customers who don't exist yet
+17 p: In 2007 Nvidia put CUDA, its software system for general computing, into all its graphics chips. It was expensive and paid little for years. “Our market cap hovered just above a billion dollars,” Huang recalled. “Our shareholders were skeptical of CUDA and preferred we improve profitability.” The New Yorker compared him to the farmer in Field of Dreams, who builds a baseball diamond in a cornfield and waits for players to come. [38,48]
+18 p: He does not call this gambling. The New Yorker describes a practical man who has never read a science-fiction novel and dislikes speculation. He reasons from what chips can do today, then bets heavily on what they will do next. At Stanford he said he keeps sending the company back to first principles, asking how he would build a computer from scratch given today's tools. His 2024 advice to Caltech graduates follows from this: believe in something unexplored, but let it be informed and reasoned. [48,32,205]
+19 h: Belief 5: Knowing what to give up is the real skill
+20 p: In 2010 Nvidia charged into mobile phone chips. By his telling it did well at first, then modem makers learned to build computing chips faster than Nvidia learned to build modems. He could have fought for a share of a huge market. He left instead, and told the Taipei graduates that the retreat freed Nvidia to build computers for robots and cars, a market worth zero billion dollars at the time. Deciding what to give up, he said, is at the very core of success. [207,38]
+21 QUOTE: "By leaving the phone market, we opened our minds to invent a new one." -- Jensen Huang, National Taiwan University commencement, May 2023 [38]
+22 note: Quitting isn't failing if you know exactly what you're quitting for.
+23 h: Belief 6: No job is beneath you
+24 p: At Stanford's business school in 2024, he was asked why he designed such a flat company. He did not begin with management theory. He began with toilets. He then explained what that attitude looks like at the top: if someone sends him their work and wants his input, he will go through it and show how he reasons about it, and he says he learns from it as well. [32]
+25 QUOTE: "To me, no task is beneath me because, remember, I used to be a dishwasher, and I mean that. I used to clean toilets." -- Jensen Huang, Stanford Graduate School of Business, 2024 [32]
+26 h: Belief 7: Hoarded information is fake power
+27 p: Huang thinks most corporate hierarchies exist to protect secrets. He mocks the idea that a CEO's knowledge is so precious it can be shared with only two or three people. His job, he says, is to create the conditions for people to do their life's work, and they can only act well if they understand the situation, even when it is hard to hear. He has a memorable phrase for what layers of managers do to the truth: “information mutilation”. [32]
+28 QUOTE: "I don't believe in a culture, in an environment where the information that you possess is the reason why you have power." -- Jensen Huang, Stanford Graduate School of Business, 2024 [32]
+29 h: Belief 8: Find a craft, and you have plenty of time
+30 p: The most gentle story he tells comes from a family summer in Japan. On a suffocating day in Kyoto, at the Silver Temple, he noticed one gardener squatting in a huge moss garden, picking at the moss with bamboo tweezers and dropping it into a basket that looked empty. Huang walked over and asked what he was doing. The man said he was picking dead moss and taking care of his garden. Huang pointed out that the garden was very big. [205]
+31 QUOTE: "I have cared for my garden for 25 years. I have plenty of time." -- A gardener in Kyoto, as retold by Jensen Huang at Caltech, 2024 [205]
+32 p: Huang called it one of the most profound lessons of his life. It ties together two sides of him that look contradictory. In Taipei he told graduates to run, “either you are running for food; or you are running from becoming food.” In Pasadena he told graduates to find a craft and let it be their life's work. __Running hard and having plenty of time are the same idea when you have chosen one thing.__ [38,205]
+33 note: He has run the same company for over thirty years. Plenty of time.
+
+=== CH10 personal-life | Off stage | Family, Dogs and a Quiet Fortune
+0 h: The people at home
+1 p: Huang and Lori Mills married after Oregon State, and both worked in Silicon Valley as chip designers. “She actually made more than me,” he told the New Yorker. Within a few years she left the workforce to raise their children while he ran a division and studied at Stanford at night. Her name is on the family's foundation as president. [48,226]
+2 p: He is not shy about what that support meant. When the Acquired hosts asked how anyone survives the emotional damage of building a company, he named family, friends and colleagues who never gave up on him. Witt, who spent years studying him, describes a goofy dad at home who likes to cook and throw a baseball around. Beyond that he says little, and The Atlantic's review of Witt's book notes his reluctance to talk about himself. [36,193,192]
+3 QUOTE: "You need the unwavering support of people around you." -- Jensen Huang, Acquired podcast, October 2023 [36]
+4 p: Their two children, Spencer and Madison, are adults, and their careers have been widely reported. In 2017 Fortune described them as a speakeasy owner and a hospitality professional. Madison trained in cooking, and Spencer ran a cocktail bar in Taipei. Then both moved to Nvidia, Madison in 2020 and Spencer in 2022, working on simulation software and robotics. The New Yorker's dry phrase for how this happened was “following years of paternal browbeating”. [209,225,48]
+5 p: Huang's parents are still part of the story too. In 2024 he said they “work hard today”, and in 2023 they sat in the audience in Taipei when he gave the speech at National Taiwan University. On Rogan's show he said both his kids work at Nvidia and work every day. Whether you read that as sweet or alarming probably says something about you. [179,38,201]
+6 note: His kids work every day too. Decide if that's your goal.
+7 h: Sleep, anxiety and the off switch
+8 p: We found no public report of a major health crisis, so we will not guess at one. What he has spoken about openly is the mental load. He told Rogan the job is exhausting and that he is always in a state of anxiety. When the New Yorker asked about the bullying he faced as a boy, he said there was no counsellor back then, and you simply had to toughen up and move on. His biographer says he hates losing so much that he still seemed upset about a high-school table tennis final. [201,48,193]
+9 p: Sleep is where his answers change the most. In 2023 he told Norway's wealth fund chief, “I like my sleep and sleep is really important to me.” In October 2026, asked about bringing data centres online faster, he offered a different mantra: “Try less sleep, which is what I do.” He also claims that work itself calms him. “Working is relaxing for me,” he said, adding that the most relaxing thing of all is hanging out with his family. [270,244,200]
+10 note: Don't copy the sleep part. Your brain is your only factory.
+11 h: How he spends
+12 p: He does not live like a monk. He flies by private jet, and the embossed Tom Ford biker jacket he wore in Taiwan in 2024 cost about $9,000. But he also goes back to Denny's. Over one breakfast there with the New Yorker's reporter he ordered seven items, rolled a pancake around a sausage with his fingers, and then tipped the waitress a thousand dollars. His 2026 pay package was $36.3 million, which is small next to his shares: Nvidia's latest proxy lists him with 3.58% of the company. [213,211,48,228,229]
+13 facts: 
+    $36.3M :: His fiscal 2026 pay, down 27% on smaller stock awards [228]
+    3.58% :: Nvidia stock listed against his name in the 2026 proxy [229]
+    $9.1B :: Net assets of the Huangs' foundation, end of 2024 [226]
+    $1,000 :: The tip he left at Denny's [48]
+14 h: A giant, silent foundation
+15 p: Jensen and Lori started their foundation in 2007 with 370,000 Nvidia shares worth ==$12.6 million==. Those shares did what Nvidia shares did. By the end of 2024 the foundation held about $9.1 billion in net assets, one of the 15 largest private foundations in the US according to the data firm FoundationMark. Lori is listed as president and Jensen as secretary and CFO, both on zero pay. [155,226]
+16 p: What it actually does is harder to see. As of 2023 it had no paid staff, and it has no website. For its first nine years it never made more than one grant a year. Most of its money goes to donor-advised funds, accounts where a donor gets a tax deduction now and can decide later where the money goes, with no deadline and no public list of recipients. In 2023 one such fund received $46 million, which was 77% of the foundation's giving. [155,157]
+17 p: The public gifts lean towards education and their own history. They pledged $50 million towards a $213 million research complex at Oregon State that carries both their names. In 2019 he gave a building to the Kentucky school where he once cleaned the bathrooms. In 2025 they gave $22.5 million to the California College of the Arts. Private foundations must by law pay out about 5% of assets a year, so as the fortune grows the giving should grow too, and FoundationMark estimated $369 million would be due for 2025. [155,157,48]
+18 note: Giving at this scale is a skill too. Watch what he does next.
+19 h: Taxes
+20 p: In December 2024 the New York Times reported, from securities and tax filings, that Huang had used popular loopholes in the federal estate and gift taxes. The paper estimated the savings for his family at roughly ==$8 billion==. The report described moves that use gaps in the law, not a criminal case. A year later California campaigners proposed a one-time 5% tax on billionaires' wealth, which might cost him nearly $8 billion. Other tech executives criticised it and threatened to leave the state. [154,227,273]
+21 QUOTE: "We chose to live in Silicon Valley, and whatever taxes they would like to apply, so be it. I'm perfectly fine with it." -- Jensen Huang on Bloomberg Television, reported by CNBC, January 2026 [227]
+
+=== CH11 the-brand | The show | The Rock Star Who Hates the Stage
+0 p: Here is the strangest fact about the most watched CEO in technology: he says he hates this part. “I hate public speaking,” he told the New Yorker's reporter while nervously rocking on his feet before a talk. When more than 11,000 people screamed for him at Nvidia's 2024 conference, he told 60 Minutes it was the scariest he had ever been. “I'm an engineer. I'm not a performer.” [48,10]
+1 p: Witt, who knows him as well as any outsider, says the nerves are real, even after thousands of talks. On The Times's tech podcast, in an episode built around an interview with Witt, the public Jensen is called an act, a carefully cultivated persona. Both can be true. __A brand can be a costume you choose on purpose, as long as the work underneath is real.__ [193,265]
+2 note: If you get nervous before speaking, good. So does he.
+3 h: The jacket, the tattoo, the kitchen
+4 p: An Nvidia spokesperson told the BBC he has worn a leather jacket for more than two decades, and he credits his wife and daughter for the look. He has kept it on even in humid Singapore. Before one event in 2023, he spent six minutes mocking Nvidia's architect for wearing the same outfit with too many pockets. “Simplify, man!” he said. Mark Zuckerberg swapped jackets with him in 2024, and called him “Taylor Swift, but for tech”. [211,48]
+5 p: The tattoo story is pure comedy. At a company off-site someone asked what the team would do if the stock hit $100. People offered a shaved head, blue hair and a nipple ring, and by the time it reached Huang the bidding had reached tattoo level. The stock hit $100, and he got the Nvidia logo on his shoulder. [209]
+6 QUOTE: "I was crying like a baby. My kids were with me, and they're like, 'Dad, you've gotta control yourself.'" -- Jensen Huang to Fortune, 2017 [209]
+7 p: Six years later a host asked what was next. “Ageing gracefully. No more tattoos,” he said. “It hurts way more than anybody tells you.” During the pandemic he invented another signature: his kitchen. In one launch video he reached for a pot holder and lifted a chip the size of a baking sheet from his oven, telling viewers it had been cooking for a while. [210,224]
+8 example: For example: in August 2021 Nvidia revealed a trick from its April keynote. Engineers had scanned his face and body, trained an AI to mimic his gestures, and built a perfect digital copy of his kitchen. For 14 seconds of a presentation lasting 1 hour 48 minutes, the man on screen was not him. Nvidia said the stunt left its audience wondering how much of the keynote was real, and that was exactly the point of the demo. [222,223]
+9 h: How he talks
+10 p: His style is a running deadpan with a serious point inside. Worried that AI might replace humans the way cars replaced horses? “Horses have limited career options,” he told the New Yorker. “For example, horses can't type.” He tells the dishwasher story everywhere, because it works. “There's no magic,” he told 60 Minutes. “It's just 61 years of hard work every single day.” [48,10]
+11 p: His media habits are unusual for a modern billionaire. Nvidia's official X account has carried statements from him, but he built his fame mostly through long keynotes and long-form conversations. In recent years he has done Acquired, 60 Minutes, Joe Rogan and Lex Fridman. Those shows suit him because they give him time to tell the whole story. He is much less keen on people probing his inner life, and The Atlantic notes that his reluctance to talk about himself made him a challenging subject for Witt. [246,36,10,201,181,192]
+12 h: Jensanity: how the world sees him
+13 p: In Taiwan he is treated like a pop star. Local media call it “Jensanity”. During the 2024 Computex fair, TV crews followed him everywhere, and restaurants he ate at saw business boom. He threw the first pitch at a baseball game and walked a night market. At one point he signed a woman's top and wondered aloud whether this was a good idea. Colleagues and other chip executives were bemused, and some noted that this kind of attention never happens in the US. [212,214,215,211]
+14 QUOTE: "He's like a pop star. That's how we view him." -- Amanda Shih, a finance worker at Computex in Taipei, to Reuters, 2024 [214]
+15 note: A chip designer mobbed for selfies. Twenty years ago this was impossible.
+16 p: South Korea got its own moment in October 2025. On his first official visit in more than a decade, he went to a local fried-chicken restaurant called Kkanbu with Samsung's Jay Y. Lee and Hyundai's Chung Euisun. Photos of the three men with beer and chicken went viral, and Bloomberg reported that investors drove up Korean fried-chicken stocks. China is more complicated. He went there three times in 2025 in what Reuters called a charm offensive, and said about half the world's AI researchers are Chinese, while his company was squeezed by both governments. [216,217,250,266]
+17 h: India: a promise and a missed date
+18 p: India matters to him, and he says so in his own stories. He recalls that about six years before 2024, Prime Minister Narendra Modi asked him to address the Indian cabinet on artificial intelligence. “It was literally the first time any government leader, any national leader asked me to address his cabinet on this particular topic,” he said. In his retelling, Modi later gave him a line about value: India should not just export flour to import bread. [219]
+19 p: He carried that line onto a Mumbai stage on 24 October 2024, at Nvidia's AI Summit, sitting beside Mukesh Ambani of Reliance. “You should not export data to import intelligence,” he said, and the two men talked through how Reliance and Nvidia would build AI infrastructure in India. Then in February 2026 he was expected to be one of the biggest names at the India AI Impact Summit in New Delhi. He withdrew days before, with Nvidia citing “unforeseen circumstances” and sending executive Jay Puri to lead a senior delegation. [218,220,221]
+20 QUOTE: "It makes complete sense that India should manufacture its own AI." -- Jensen Huang, Nvidia AI Summit, Mumbai, October 2024 [218]
+21 p: Indian readers see two Jensens in their own papers. One is the immigrant dishwasher who was invited to address India's cabinet. The other appears in headlines about workers paying with 2 a.m. workdays, and in stories about a boss who says he works from the moment he wakes until bedtime. Young Indian founders should notice that the second is the price of the first, and decide for themselves how much of it they want. [267,268]
+22 h: Close to power
+23 p: In Washington his image is built on access. He told Rogan that when he first spoke to Commerce Secretary Howard Lutnick, Lutnick called him and Nvidia a national treasure and said he could call any time. “Every single time I called, if I needed something, I want to get something off my chest, express some concern, they're always available,” he said. The San Francisco Standard reported that he heaped praise on President Trump, and that he had helped talk him out of sending the National Guard to San Francisco. To admirers this is statesmanship, and to critics it is a chip seller lobbying for his own sales, a tension the next chapter returns to. [202,247]
+
+=== CH12 what-went-wrong | The scars | What Not to Copy
+0 p: Huang tells some of his failures beautifully on stage. Others he tells less often, and a few ended in court papers. This chapter lists them plainly. Where a case is still open we say so, because an accusation is not a verdict. [38,231]
+1 h: The early technology bet
+2 p: Nvidia's first chips used quadrilaterals to draw 3D shapes while rivals used triangles. Then Microsoft announced that its graphics software would support only triangles. Huang's own verdict at Taipei was that the approach was technically poor. In 1996 he laid off more than half of about 100 staff and bet what was left on untested chips. “It was fifty-fifty,” he said, “but we were going out of business anyway.” [48,207]
+3 note: He was thirty-three and sacking half his staff. Check the industry standard first.
+4 h: 2008: the laptops that wouldn't start
+5 p: In July 2008 Nvidia disclosed that some of its laptop graphics chips were failing at unusually high rates, because of weak materials. Screens went blank or scrambled. HP named 24 affected models and Dell 15, and both made fans run harder to hold off the failures. Nvidia booked a ==$196 million== charge, nearly eight times its normal warranty reserve across all its products. [71]
+6 p: The way it was handled hurt too. Huang stressed that Nvidia was not obliged to replace the chips. Apple later said that, contrary to what it had been told by Nvidia months earlier, some MacBook Pros did contain the flawed parts. A class action followed and was settled: owners could get replacement parts, a replacement computer or reimbursement. An appeals court upheld the deal in 2013, including $13 million in lawyers' fees, noting that about 5 million consumers had been notified. [71,272,235,236]
+7 h: The phone years
+8 p: The strategic retreat from phones makes a lovely speech, and we told it that way earlier. The balance sheet version is rougher. In 2011 Nvidia paid $367 million for Icera, a modem company, to get into smartphones. Ars Technica called Nvidia something of a non-entity in phones, and the Icera-equipped chip landed in only a handful of devices. In 2015 Nvidia wound Icera down, in a unit of about 500 people. It can be true that leaving was wise and that going in was costly. [84,83]
+9 note: A brave exit and an expensive entry. Both are true.
+10 h: Rough edges with customers and partners
+11 p: Two smaller episodes show how a dominant company can look from the outside. In 2016 Nvidia agreed to settle consumer suits claiming it misled buyers about a graphics card's performance and storage, paying $30 per buyer plus $1.3 million in lawyers' fees. In March 2018 it launched the GeForce Partner Program, which The Verge said amounted to pressing card makers to tie their gaming brands exclusively to Nvidia. After two months of anger Nvidia cancelled it, while complaining of “rumors, conjecture, and mistruths” and denying it had wanted exclusivity. [238,237]
+12 h: The crypto problem
+13 p: This one reached the US Supreme Court, and Huang personally was named. In 2017 and 2018, crypto miners bought huge numbers of Nvidia gaming chips. The SEC later found Nvidia failed to disclose in two quarterly reports that crypto mining was a significant driver of its gaming revenue growth. In 2022 Nvidia paid a ==$5.5 million== penalty, without admitting or denying the findings. Inside the company, Witt reports, many engineers considered crypto an idiotic distraction. [230,196]
+14 p: Investors sued separately. They point to Huang saying “Crypto is small for us” and “Our core business is elsewhere.” In November 2018 Nvidia missed its revenue target by 2% amid a sharp crypto falloff, and the stock fell 28.5% over two sessions. Nvidia has always denied wrongdoing and has fought every step. As the case stands, no court has found that it or Huang committed fraud. Reuters noted the odd backdrop: anyone who bought in 2017 and held on has since gained 3,400% or more. [231,232,103]
+15 timeline: 
+    Dec 2018 :: Shareholders sue Nvidia and executives including Huang. [231,232]
+    Mar 2021 :: A federal judge dismisses the case. [232]
+    Aug 2023 :: The Ninth Circuit partly revives it, keeping claims against Huang and Nvidia. [232,102]
+    Dec 2024 :: The Supreme Court hears Nvidia's appeal, then dismisses it as improvidently granted. [232]
+    Mar 2026 :: The judge certifies an investor class. Nvidia asks the Ninth Circuit to step in. [102,231]
+    Oct 2026 :: Investors tell the judge they have struck a deal with Nvidia. We could not confirm the terms. [103]
+16 note: Be loud about risky revenue. The $5.5M fine was the cheap part.
+17 h: Arm: the $40 billion deal that died
+18 p: In September 2020 Huang agreed to buy Arm, whose designs run nearly every smartphone, from SoftBank. The price was then valued at $40 billion. Customers including Microsoft, Qualcomm and Google worried Nvidia would restrict access. The US Federal Trade Commission sued to block it in December 2021, and British regulators raised national security concerns. In February 2022 the deal was abandoned. [233,234,271]
+19 p: The bill was real. SoftBank kept Nvidia's $1.25 billion prepayment, and Nvidia took a ==$1.36 billion== charge. Nvidia did keep a 20-year Arm licence, which it now uses for its own processors, so the loss had a silver lining. “We gave it our best shot,” Huang told analysts. The miss was believing that being the best at something would convince everyone who depended on Arm to trust you with it. [105,106,234]
+20 facts: 
+    $196M :: Faulty laptop chips, 2008 [71]
+    $1.36B :: Charge from the dead Arm deal, 2022 [106]
+    $4.5B :: Charge from the H20 China ban, 2025 [269]
+    $5.5M :: SEC crypto disclosure penalty, 2022 [230]
+21 h: China: caught between two governments
+22 p: No business problem has cost him more attention. US export limits blocked Nvidia's best chips from China. In 2025 new US limits on the H20, a chip Nvidia had designed for China, led to a $4.5 billion charge. “We went from 95% market share to 0%,” Huang said in October 2025, calling the policy a mistake. [269,248]
+23 p: Nvidia then agreed to give the US government 15% of certain China sales, an unusual arrangement. Chinese officials, meanwhile, summoned Nvidia about alleged backdoors, which it denies, and in September 2025 China's regulator said a preliminary probe found Nvidia broke antitrust law over its 2020 Mellanox purchase. Nvidia says it complies with the law in all respects, and the regulator said it would keep investigating. [248,246,250,251]
+24 p: Even the win arrived late. President Trump cleared the H200 chip in December 2025 in exchange for a 25% cut. In May 2026 Reuters reported that about 10 Chinese firms were approved with no deliveries yet. Tom's Hardware reported the first deliveries in August: roughly 10,000 chips each to ByteDance and Tencent. Nvidia's forecast that same month assumed no data-centre compute revenue from China at all. [249,145,120]
+25 p: His words made it worse at times. In November 2025 he told the Financial Times, “China is going to win the AI race.” Within hours Nvidia posted a softer line on X: “China is nanoseconds behind America in AI.” Critics in Washington accused him of putting sales first. A sharp opinion piece in Foreign Policy said Nvidia's private interests had beaten national security when a chip-export bill was left out of a defence law. Huang argues that keeping the world's developers on American chips is how America wins. That argument remains unsettled, and it happens to match his revenue. [245,246,247]
+26 note: One line to a newspaper, then hours of cleaning up. Watch your words.
+27 h: AI's open questions
+28 p: Three newer fights are unresolved, so read these carefully. Authors say Nvidia trained AI models on pirated books; in May 2026 a federal judge let direct and contributory claims go forward and dismissed a vicarious claim, which is an early step and not a finding of copying. In September 2026, Reuters and Bloomberg reported that the Justice Department was examining whether Nvidia structured its late-2025 licensing deal with chip startup Groq to avoid antitrust review. Nvidia called the deal a prime example of the American system working as designed. [252,253,239,240]
+29 p: The third is money going around in circles. In September 2025 Nvidia said it planned to invest up to $100 billion in OpenAI, a big customer. By February 2026 Huang was saying, “It was never a commitment,” and Nvidia settled on $30 billion. It has also backed partners' data centres, including a guarantee of up to $105 billion on one OpenAI project in Ohio. Critics say this blurs the line between real demand and vendor financing. Huang stays confident, and in October 2026 he said demand from these cloud companies was “off the charts”, even as their shares fell at least 30% that month. [242,241,243]
+30 note: If your customer's money is your money, count your sales twice.
+31 h: The temper and the empty chair
+32 p: The last two costs are personal. Witt's book ends with Huang yelling at him when he raised the risks of AI. Business Insider's headline summed it up: he shot down comparisons to Elon Musk and yelled at his biographer. He told Witt he was a serious person doing serious work. The New Yorker had noted earlier that he did not sign the 2023 statement comparing AI risk to nuclear war, and said he had never worried about the technology, not once. A leader who shouts down a hard question teaches his whole staff not to ask it. [194,195,196,48]
+33 p: The other cost is succession. Nvidia has no publicly disclosed successor plan, and the company has been shaped so tightly around one driver that it is hard to imagine another. One write-up on Kim's Substack said Huang has more or less admitted he does not know what happens to Nvidia after he leaves. For a company that makes up about 8% of the S&P 500, that is a real risk to millions of people's savings. [257,260]
+34 h: What a young founder should NOT copy
+35 p: Do not copy the public humiliation unless you have his record, because most founders only have his volume. Do not copy 60 reports at a 12-person startup, since he says himself the idea doesn't scale downwards and his staff are seasoned veterans. Do not copy the sleep. Do not play down a risky revenue source to investors. __Copy the honesty with Sega, the patience with CUDA and the discipline of the first hour.__ Those were free, and they are what actually saved him. [191,179,244,230,207,38,205]
+
+=== CH13 today | As of 2 November 2026 | Still Thirty Days Out
+0 p: Jensen Huang is 63 and has been president, CEO and a director of Nvidia for every day of its existence since 1993. He sits on no other public company board. He told reporters in January 2026 how he has lasted that long: “The secret for being CEO for this long is 1, don't get fired, and 2, don't get bored.” [229,258]
+1 h: The money
+2 p: On 2 October 2026 Forbes put him at ==$204.5 billion==, the seventh-richest person in the world, after Nvidia shares hit a record. Six days later he was back below $200 billion, after a report on OpenAI's revenue knocked tech stocks and Nvidia closed at $230.48. Those swings tell you how his wealth really works. It is almost entirely Nvidia shares, valued by outsiders, and estimates vary between trackers. [146,254,255]
+3 example: For example: Nvidia's 2026 proxy lists 870,604,104 shares against Huang's name. At $230.48 a share, that block is worth about $200.7 billion on paper. Every $1 the stock moves changes its value by about $870 million, so one bad afternoon can erase more than most founders will ever earn. [229,254]
+4 h: The company
+5 p: On 26 August 2026 Nvidia reported ==$96.2 billion== in quarterly revenue, up 106% in a year, and forecast about $108 billion for the next quarter. Finance chief Colette Kress told analysts to expect about 70% growth in the following fiscal year, and said supply was the limit. Huang's message was that AI had turned from promise to profit. It is a long way from having one month of payroll in the bank. [120,121,48]
+6 QUOTE: "AI has reached its inflection point. It's doing useful work. Its tokens are productive and profitable. Now, compute is revenue." -- Jensen Huang, Nvidia earnings statement, 26 August 2026 [120]
+7 note: A company he started at a Denny's now forecasts $108 billion a quarter.
+8 h: The bets
+9 p: He answered the question about the next gamble back in 2023, in one word: Omniverse, Nvidia's simulated version of the real world. It now sits underneath what he calls physical AI, or AI that acts in the real world through robots, factories and cars. At GTC Berlin on 21 October 2026, he put humanoid robots and self-driving at the centre, with a reference robot built with Germany's Agile Robots due in early 2027. He even spent part of the keynote talking to small robot ducks. [48,256,244]
+10 p: He is also trying to widen Nvidia's grip beyond chips. In September 2026 it agreed to buy the AI model hub Hugging Face for $12.9 billion, in a deal expected to close in 2027. In Berlin he showed seven Vera Rubin racks packed into a shipping container, to bring computing online faster. Nvidia has lined up partners to mobilise more than $500 billion of outside capital for AI building. He has said he hopes Nvidia will someday be a 50,000-employee company with 100 million AI assistants. [255,244,120,199]
+11 timeline: 
+    Jan 2026 :: Says he will stay “for as long as I deserve it” at CES in Las Vegas. [258]
+    Feb 2026 :: Says the $100 billion OpenAI plan was “never a commitment”; skips the India AI Impact Summit. [242,220]
+    Mar 2026 :: Tells Lex Fridman he still has 60-plus direct reports and no one-on-ones. [181]
+    Aug 2026 :: Reports $96.2 billion in quarterly revenue with Vera Rubin in full production. [120]
+    Sep 2026 :: Agrees to buy Hugging Face; the DOJ's Groq inquiry is reported. [255,239]
+    Oct 2026 :: Tours Europe and Kazakhstan; GTC Berlin; neocloud shares slump; investor suit reaches a deal. [244,243,103]
+12 h: The worries
+13 p: The risks are bigger than the old ones. Nvidia now acts as banker to part of its own customer base, and CNBC called the October selloff in cloud companies its first big stress test. Huang admitted capital itself is getting tight: “The demand of the capital is much greater than the availability of the capital,” he said, adding, “That's going to get solved.” A forecast with zero China compute revenue is a real wound. His own stretch pay targets for fiscal 2026 were automatically lowered because of export limits, though Nvidia's $215.9 billion in revenue beat even the original $190 billion goal. [243,244,120,229]
+14 note: Peak success, and he says he feels exactly as scared. Believe him.
+15 h: What he says he wants next
+16 p: Ask what he wants next and he talks about work, not retirement. On a week-and-a-half European tour in October 2026 he met UK, French and German leaders, and then he went to Kazakhstan to pitch it as an AI hub. He says his job is to create the conditions for people to do their life's work, and he appears to mean his own too. In January he said he would stay “for as long as I deserve it”, and he has earlier floated another 30 to 40 years. [244,32,258,257]
+17 QUOTE: "We are the captain of this industry and we have supply chain partners and collaboration partners all over the world who are counting on us to do our part." -- Jensen Huang at CES, reported by Quartz, January 2026 [258]
+18 p: So picture him now. He is a 63-year-old in a leather jacket, up early reading five-bullet emails from a company worth trillions, and still using a line he first used when the bank account was nearly empty. Witt thinks that if you gave him a full day off, he would most likely start another business. __The boy who says he was the best bathroom cleaner the world has ever seen is still trying to be the best at the job in front of him.__ [201,183,193,179,48]

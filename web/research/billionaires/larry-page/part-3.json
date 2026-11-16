@@ -1,0 +1,2171 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "How he runs things",
+      "title": "The Boss Who Hated Meetings",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Start with what we cannot tell you. No reliable source has published a Larry Page daily routine: no 5 a.m. alarm, no morning ritual, no secret breakfast. Anyone selling you one is guessing. What we do have is better, because it comes from people who sat across the table from him.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "When he took the CEO job back in 2011, Bloomberg Businessweek reported, he treated it like an engineering puzzle. He worked ==80-hour weeks==, read business leadership books by the pile, and studied people he admired, such as the coach Bill Campbell and the investor Warren Buffett. By 2014 Fortune found him going to meetings with only his phone, no laptop. He did this on purpose. He wanted to feel what users felt as the world moved to mobile, and he asked engineers to try a phone-only day each week too.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He made himself the test user. A CEO with only a phone."
+        },
+        {
+          "t": "h",
+          "text": "The day he fired the middle"
+        },
+        {
+          "t": "p",
+          "text": "July 2001. Google had about 400 staff and Page was 28. He had come to hate the layer of managers between him and the engineers. He thought great engineers did not need supervising. He also suspected the managers were steering people away from projects he cared about, like scanning the world's books.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Google's HR head, Stacy Sullivan, told him the plan was crazy. People need somebody to go to with problems, she said. Eric Schmidt agreed with her. So did Page's coach, Bill Campbell, who one evening brought engineer after engineer into Page's office to say they actually wanted a manager, someone to settle arguments and give direction. Page did it anyway.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That afternoon about 130 engineers and a half-dozen project managers stood outside his office among second-hand furniture. The new engineering chief, Wayne Rosing, announced the change. The managers had no warning.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Page explained himself in a flat voice, avoiding eye contact, and added that they had not been doing a very good job. One engineer shouted at him that an all-hands meeting was no place for a performance review. One of the managers later said the moment felt humiliating.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Imagine hearing this in front of the whole company."
+        },
+        {
+          "t": "p",
+          "text": "It failed. Steven Levy reported that more than 100 people ended up reporting to one overwhelmed head of engineering. Projects went short of resources, work was duplicated, and engineers wondered where their careers were going. The \"fired\" managers were moved to another team and Google quietly brought managers back.",
+          "src": [
+            3,
+            2,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "__Page was right about one thing and wrong about another: engineers should be led by people who understand engineering, but they still need to be led.__ With Jonathan Rosenberg he later settled on hiring computer scientists as product managers instead of only MBAs.",
+          "src": [
+            3,
+            2,
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders! Being half right can still hurt people."
+        },
+        {
+          "t": "example",
+          "text": "For example: Page eventually wrote down his own management rules. In our words: do not delegate if you can do it faster yourself. If you add nothing, get out of the way and let the workers talk directly. Do not be a bureaucrat. A good idea beats a senior title. And never just say no; if you refuse something, help the person find a better way. Rule one is the one he later reversed.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "He read every hire"
+        },
+        {
+          "t": "p",
+          "text": "Page insisted on signing off on every new hire at Google. By 2011 he had checked ==more than 30,000== people. Custom software squeezed each candidate's hiring packet into something he could scan quickly. A batch arrived each week, and he normally sent it back within three or four days, with approvals and some rejections. His reason was simple: it told him what was really going on inside the company.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Indian readers will enjoy the footnote. Sundar Pichai interviewed at Google on 1 April 2004, just after Page had stopped personally interviewing candidates. Years later, as Google's CEO, he told students at IIT Kharagpur a joke he liked to repeat.",
+          "src": [
+            5,
+            6
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I got into Google because Larry didn't interview me.",
+          "who": "Sundar Pichai, at IIT Kharagpur, January 2017",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "h",
+          "text": "War on meetings"
+        },
+        {
+          "t": "p",
+          "text": "In 2007 Page noticed something odd about having an assistant. People were too shy to ask him for a meeting, but they happily asked his assistant. So he and Sergey Brin got rid of their assistants. If you wanted Larry, you had to catch him walking down a corridor. Googlers traded tips on where he might be, and he was very good at flashing a big smile and speeding up as he passed.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "As CEO in 2011 he changed the rules for everyone. Business Insider reported that one of his first acts was an email to the whole company on how to run meetings. Kristen Gil, a Google operations VP, later published the basics.",
+          "src": [
+            7,
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Every decision meeting needs one clear decision-maker, or it should not happen. Ten people at most. If you have nothing to add, you should not be there. And a decision must never wait for a meeting: if a meeting really is needed first, hold it right away.",
+          "src": [
+            7,
+            8
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "There are no companies that make good slow decisions.",
+          "who": "Larry Page, closing speech at Zeitgeist, as quoted by Google's Kristen Gil",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Copy this list onto your wall. Works for a college club too."
+        },
+        {
+          "t": "h",
+          "text": "The scrutinizer"
+        },
+        {
+          "t": "p",
+          "text": "The night Google launched its first ads, in 2000, Page stayed late typing search after search. When Amit Singhal, later Google's search chief, arrived the next morning, the corridor walls were covered in printouts.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On each one Page had scribbled a sharp question. Is this ad good for users? Why is that one showing? What went wrong here?",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He did something similar one Friday in 2002. He posted printed ad results on the wall of the office kitchen and scrawled across them that these ads sucked. A search for a vintage Kawasaki motorcycle, the H1B, was bringing up ads for lawyers offering help with H-1B work visas.",
+          "src": [
+            9,
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He gave no order. Five engineers who were not even on the ads team spent the weekend on it, and by ==5 a.m. on Monday== they had sent round a prototype. It became the core insight behind AdWords, and the fix proved to be worth billions.",
+          "src": [
+            9,
+            10
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He didn't assign it. Smart people saw a problem and took it."
+        },
+        {
+          "t": "p",
+          "text": "The critics have a point here too. The Financial Times review of the book that tells this story called it management by humiliation. Schmidt and Rosenberg's answer is that Google's culture attracted the kind of people who would respond by fixing it. __On most teams, a note like that just makes people hide.__",
+          "src": [
+            11,
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also measured everything. Walking down a street in Morocco with the early Googler Megan Smith, he pulled her into an internet cafe and began timing how long pages took to load.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Paul Buchheit, who created Gmail, once showed him an early demo, and Page said it took at least 600 milliseconds to reload. Buchheit doubted anyone could tell. He checked the server logs. Six hundred milliseconds.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He could feel a 0.6-second delay. Speed was an obsession."
+        },
+        {
+          "t": "h",
+          "text": "How he decides"
+        },
+        {
+          "t": "p",
+          "text": "Page once told a colleague that he solves hard problems by boiling them down to two choices and picking the better one. Whatever got hurt along the way he treated as damage he could live with. That method makes decisions fast. It also explains a lot of the wreckage in the \"what went wrong\" chapter.",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His favourite way to end an argument is to test it himself. In 2002 nobody could say how long it would take to scan all the world's books. So Page and Marissa Mayer set up a scanner in his office, using a metronome to keep the page-turning steady.",
+          "src": [
+            12,
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "A 300-page book took ==40 minutes==. He filled spreadsheets with the costs and storage. When people still did not believe the numbers, he went ahead and built it.",
+          "src": [
+            12,
+            3
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: for company purchases he used what The New York Times called the toothbrush test. Is this something you will use once or twice a day, and does it make your life better? Not earnings, not cash flow. Google bought Nest for $3.2 billion even though its sales were tiny next to Google's profits.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What working for him felt like"
+        },
+        {
+          "t": "quote",
+          "text": "You feel terrified, inspired, and nurtured at the same time.",
+          "who": "Andy Conrad, head of Google X life sciences, on pitching ideas to Page",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Those who worked for him describe the same pattern. Eric Veach, an engineer on the ad system, said Page's ideas were far-fetched and he wanted them immediately. When Veach pointed out that not all countries use credit cards, Page suggested that in Uzbekistan Google could take payment in goats. Veach gently suggested starting with Visa and MasterCard.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "But the odd ideas sometimes worked. In 2003 Denise Griffin, who ran customer support, asked for more staff. Page told her the whole idea of answering users one by one made no sense, and that users should answer each other. It felt mad to her.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Google built forums where users did exactly that, and it worked. Staff also learned how to handle him. The product manager Wesley Chan once started a Google Voice review by letting Page and Brin choose their own phone numbers. They spent the hour inventing maths puns, and the product passed.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Your manager's job is partly to be managed. Learn how."
+        },
+        {
+          "t": "note",
+          "text": "Boss has a weird idea? Test it before you laugh."
+        },
+        {
+          "t": "h",
+          "text": "The man changes"
+        },
+        {
+          "t": "p",
+          "text": "Here is the most useful part for you. __Page learned.__ Early Google settled fights by loud argument, and he was perhaps the most aggressive of all. Over the years the executives became bitter rivals.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Soon after he became CEO again, at a retreat at the Carneros Inn, he stood up and told his top people that the fighting had to stop. Google's goals were too big now, he said, and those goals needed people working together. From now on there would be ==“zero tolerance for fighting.”==",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Rewrite your own rules as you grow. He did."
+        },
+        {
+          "t": "p",
+          "text": "His \"do not delegate\" rule also died. The success he was proudest of as president of products was Android, and Carlson argues it came from delegation: he picked Andy Rubin and insisted Rubin be left alone. As CEO he copied that, giving YouTube, Ads and Search their own CEO-like leaders. Then in October 2014 he handed most Google products to Pichai, and he explained why to Fortune.",
+          "src": [
+            4,
+            2,
+            1
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "any time I can delegate some things, I should.",
+          "who": "Larry Page, Fortune, December 2014",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He never fell in love with routine management, though. A former executive told Bloomberg Businessweek that Page's eyes would glaze over when talk moved from technology to ordinary business, and recalled him telling someone that what they did was boring. A former senior director recalled a heated fight among his top team, and Page asking why they could not sort it out themselves. __Know which part of the job you are bad at, then hire for it.__ That is what Alphabet eventually became.",
+          "src": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "Why Does It Need a Plug?",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Inside Google X they tell a joke about him. A scientist wheels a working time machine into Page's office. Page looks at the power cord and asks why it needs to be plugged in.",
+          "src": [
+            15,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Astro Teller, who ran the lab, says this is not ingratitude. It is simply how the man's mind works: there is always a next step to find. Here are the seven beliefs behind the joke.",
+          "src": [
+            15,
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Small improvements are a slow death"
+        },
+        {
+          "t": "p",
+          "text": "Page told Wired that most companies decay slowly because they keep doing roughly what they did before. It feels safe. It is not. In technology, big jumps are coming anyway, so whoever only polishes will be overtaken.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That is why, when Google was just a search company, it launched an email service with ==100 times== the storage anyone else offered. Levy called this the gospel of 10x.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "But incremental improvement is guaranteed to be obsolete over time.",
+          "who": "Larry Page, Wired, 2013",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the leader of Project Loon, Google's internet balloon project, told Page it might raise the internet's total bandwidth by 5%. Page asked why it could not double or triple it. Teller called this making sure there was a moon shot after the moon shot.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "2. Huge problems are less crowded"
+        },
+        {
+          "t": "p",
+          "text": "This is the most surprising idea in the whole book, so read it slowly. In his 2009 University of Michigan speech, Page argued that mega-ambitious dreams are often easier to make progress on. Hardly anyone else is crazy enough to try, so there is little competition. And the best people want the biggest challenges, so big goals help you hire.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Always work hard on something uncomfortably exciting!",
+          "who": "Larry Page, University of Michigan, 2009",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He even has a name for the sweet spot: the \"zero million dollar\" research problem. He looks for a question that nobody is funding. Balloons for internet access were one. Experts said a balloon could not stay up long enough.",
+          "src": [
+            17,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So he went searching on his own, and found a picture of a 1960 balloon that had gone around the Earth about five times. His reasoning: if someone did that in 1960, we can do it with better materials. By 2014 Loon balloons were routinely staying up for about 100 days.",
+          "src": [
+            17,
+            1
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "And you know that zero million dollars are going into that problem.",
+          "who": "Larry Page, Fortune, 2014",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Search what nobody is working on. Read this twice."
+        },
+        {
+          "t": "h",
+          "text": "3. Aim high and even failure pays"
+        },
+        {
+          "t": "p",
+          "text": "Page does not count missing a bold goal as failing. Not trying is what counts. His argument to Steven Levy was that even a big miss tends to leave something behind. Loon shows both sides.",
+          "src": [
+            3,
+            18,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Alphabet shut it in 2021 because it could not get costs low enough. But its laser links for beaming data live on in another project, Taara, which is working with partners to bring cheaper internet to parts of Sub-Saharan Africa.",
+          "src": [
+            3,
+            18,
+            19
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Even if you fail at your ambitious thing, it's very hard to fail completely.",
+          "who": "Larry Page, Wired, 2011",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. An invention nobody uses is a sad story"
+        },
+        {
+          "t": "p",
+          "text": "Page admires researchers but does not want to be one of them. When Levy brought up Xerox PARC, the lab that invented many tools of modern computing, Page said its problem was simple. It was not focused on selling anything.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "You need both invention and commercialisation. He praised Tesla for spending most of its effort on getting a car out to real people. __A prototype is the start of the work, not the end.__",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "h",
+          "text": "5. Technology should buy back human time"
+        },
+        {
+          "t": "p",
+          "text": "At the 2013 Google I/O conference he talked about farming. Long ago, he said, nearly all humans spent all their time hunting or farming. Farming is great if you choose it, he said, and not great if you have no choice. Technology gave people that choice. He sees self-driving cars the same way: you get back the hours you spend driving, and cities get more green space and fewer parking lots.",
+          "src": [
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In Michigan he gave students an unusual tip: be lazy. What he meant was leverage. Three people can write software that millions of people use, but three people cannot answer the phone a million times a day. His advice was to find that kind of leverage. For a student with a laptop in Pune or Patna, that is the most hopeful line in this chapter.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We should be building great things that don't exist.",
+          "who": "Larry Page, Google I/O, 2013",
+          "src": [
+            20
+          ]
+        },
+        {
+          "t": "h",
+          "text": "6. Beating rivals is a boring goal"
+        },
+        {
+          "t": "p",
+          "text": "Page told Wired that he worries something has gone wrong with how companies are run. Press coverage reads like a sports match, he said, and few amazing things happen only because of competition. He finds it hard to get excited about going to work just to crush someone doing roughly the same thing. His own test as Google grew was to keep asking whether he would want to work there. Dying tech companies, he said, stopped being a home for curious people.",
+          "src": [
+            15,
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "This is why he argued for years with Steve Jobs, a mentor to him. Jobs told him Google was spread far too thin, and Page later admitted Jobs was right in some sense. But Page wanted more impact, not less.",
+          "src": [
+            21,
+            1,
+            15,
+            22,
+            23
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He said Google was touching maybe 0.1% of what technology could do for people. So who was right? Apple stayed focused. Google ended up with a graveyard of dead projects and a few giant wins, and Alphabet still reached about $4.5 trillion in 2026.",
+          "src": [
+            21,
+            1,
+            15,
+            22,
+            23
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "You guys are doing too much stuff.",
+          "who": "Steve Jobs to Larry Page, as Page retold it in 2014",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. A good company can be a form of charity"
+        },
+        {
+          "t": "p",
+          "text": "In March 2014 at TED, Charlie Rose asked about his old remark that he might leave his money to Elon Musk rather than a charity. Page did not back away. He said businesses can drive revolutionary change, and praised Musk's dream of Mars as a way to back up humanity. It was a bold thing to say, and critics later used it against him. We return to that argument in the next chapter.",
+          "src": [
+            24,
+            25
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "That's a company, and that's philanthropical.",
+          "who": "Larry Page on Elon Musk's Mars plan, TED, 2014",
+          "src": [
+            24
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Where the belief runs out"
+        },
+        {
+          "t": "p",
+          "text": "Every strong belief has a blind spot. Page and Musk had been friends for over a decade, and Musk used to joke about crashing on Page's sofa. At Musk's 44th birthday party in Napa in July 2015, the two sat by a fire pit and argued about artificial intelligence late into the night.",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Page, speaking almost in a whisper, described a future where humans merge with intelligent machines and the best intelligence wins. Musk said the machines would destroy us. Page called him a “specieist”, someone who favours humans over future digital life. Musk later said that was the last straw.",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A whispered argument by a fire pit ended a decade-long friendship."
+        },
+        {
+          "t": "p",
+          "text": "Only a few weeks later, The New York Times reported, Musk had dinner with Sam Altman and several researchers. The dinner led to OpenAI. Walter Isaacson wrote that, before that, Musk had tried to talk Demis Hassabis out of selling DeepMind to Google. __Weeks after a birthday-party argument, one of Google's biggest future rivals was taking shape.__ We only have Musk's side and other people's memories of that night; we found no public account from Page.",
+          "src": [
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The future of AI should not be controlled by Larry.",
+          "who": "Elon Musk to Demis Hassabis, according to Walter Isaacson",
+          "src": [
+            27
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Same man, two sides: his optimism built Google and alarmed his friend."
+        },
+        {
+          "t": "p",
+          "text": "Levy noticed the same blind spot closer to home. Page sees Google's goodness in black and white, he wrote, and that has probably hurt the company's reputation. Yet that same refusal to see grey also gave him the nerve to order the wildest projects. The two come as a package.",
+          "src": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "The private man",
+      "title": "A Soft Voice, a Long Shadow",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Larry Page is one of the most private people in this series. He almost never talks about his family, so this chapter is short on purpose. We report only what is on the public record and what shaped his work, and we leave his children out of it.",
+          "src": [
+            29,
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Lucy"
+        },
+        {
+          "t": "p",
+          "text": "Page married Lucinda \"Lucy\" Southworth in December 2007. Reuters described her as a doctoral student in biomedical informatics at Stanford, with a degree from the University of Pennsylvania and a master's from Oxford. They wed on Necker Island, Richard Branson's Caribbean retreat, and reports named Branson as best man. Up to 600 guests were expected, and Google declined to confirm any of it.",
+          "src": [
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "She is a serious figure in her own right. TechCrunch reported in 2022 that Southworth, a research geneticist, founded and directs Oceankind, which had by then spent more than ==$121 million== on marine science, ocean life and climate work. That made it one of the biggest non-government funders of ocean science in the world. Even there, the money is hard to trace, because Oceankind is a company and not a public charity.",
+          "src": [
+            33
+          ]
+        },
+        {
+          "t": "note",
+          "text": "She runs her own mission, at serious scale."
+        },
+        {
+          "t": "h",
+          "text": "The trip to India"
+        },
+        {
+          "t": "p",
+          "text": "The most moving thing he has said in public came in that 2009 Michigan speech, with an India connection most Indian readers have never heard. He and Lucy were walking through narrow streets in a very hot, very poor village in rural India. Waste ran through an open gutter into the river. They met a boy whose leg was paralysed by polio.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His mind went to his father. Carl Page caught polio as a first-grader, and it left him with lifelong breathing problems. In late March 1996, soon after Larry moved to Stanford, his father had trouble breathing and drove himself to hospital.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He died two months later. Larry was 23, and he told the students he was completely devastated. That day in Michigan he said the world was close to ending polio, with 328 cases so far that year, and asked the graduates to finish the job.",
+          "src": [
+            16
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Google's founder, in an Indian village, thinking about his dad."
+        },
+        {
+          "t": "h",
+          "text": "The voice"
+        },
+        {
+          "t": "p",
+          "text": "Listen to any recent clip of Page and you will notice the voice: thin, raspy, sometimes almost gone. He explained why in a Google+ post in May 2013, at age 40. About 14 years earlier, a bad cold had left him hoarse, and his voice never fully came back.",
+          "src": [
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Doctors found paralysis in his left vocal cord. In 2012 another cold affected the right one too. Doctors called the combination extremely rare. They could not find the cause.",
+          "src": [
+            34
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "c. 1999",
+              "text": "After a bad cold his voice stays hoarse. Doctors later find his left vocal cord paralysed.",
+              "src": [
+                34
+              ]
+            },
+            {
+              "when": "2003",
+              "text": "Diagnosed with Hashimoto's thyroiditis, which he said was common, benign and caused him no problems. It is unclear whether it is linked.",
+              "src": [
+                34
+              ]
+            },
+            {
+              "when": "2012",
+              "text": "Another cold affects the right cord. He misses the June shareholder meeting and the July earnings call, and investors start to worry.",
+              "src": [
+                34
+              ]
+            },
+            {
+              "when": "Oct 2012",
+              "text": "He returns on an earnings call with a raspy voice.",
+              "src": [
+                34
+              ]
+            },
+            {
+              "when": "May 2013",
+              "text": "He explains it all in public and funds a voice research programme led by Dr Steven Zeitels of Harvard Medical School, a gift believed to be in the tens of millions of dollars.",
+              "src": [
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Look at the choice he made. Investors had just lived through Apple's secrecy about Steve Jobs's health, and an analyst said shareholders deserved to know. Page told them, and then he turned a private problem into a research project. He asked other patients with similar symptoms for data and paid for science. He also made a joke, saying his friends still found he had “way more stamina than them when we go kitesurfing!”",
+          "src": [
+            34,
+            35
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Sergey says I'm probably a better CEO because I choose my words more carefully",
+          "who": "Larry Page, Google+ post, 2013, quoted by Bloomberg Businessweek",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The cost was real, though. Two former Google vice presidents told Bloomberg Businessweek that the pace of the CEO job weighed on his health. The Verge's history of his career marks this as the point when he began to cut back drastically on speaking in public. Whatever else we say about his silence in later chapters, remember this: talking is physically harder for him than it is for you.",
+          "src": [
+            0,
+            36
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Before you judge a quiet founder, remember what talking costs him."
+        },
+        {
+          "t": "h",
+          "text": "His giving: billions in, little visible out"
+        },
+        {
+          "t": "p",
+          "text": "Page set up the Carl Victor Page Memorial Foundation, named after his father, in 2006. It is huge. By a 2023 count it held ==$6.7 billion== in assets. Yet it has no staff, and in 2023 Inside Philanthropy found that 97.8% of the more than $600 million it granted between 2017 and 2021 went into donor-advised funds. These are accounts at charity sponsors, where money can sit and where grants do not have to be publicly disclosed.",
+          "src": [
+            37,
+            38
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Critics are blunt. Nonprofit Quarterly called it a violation of the spirit of the rule that foundations must spend 5% of their assets a year. It also pointed to the foundation's tax filing, which showed Page spending an average of 15 minutes a week on foundation work. Forbes gives him a philanthropy score of 1, its lowest, meaning less than 1% of wealth given away, based on about $7 million in grants it could trace.",
+          "src": [
+            25,
+            39,
+            40
+          ]
+        },
+        {
+          "t": "p",
+          "text": "To be fair, Forbes itself warned that the score could be too low: if those funds are making grants, his real giving could be far higher, and nobody outside can tell. The Chronicle of Philanthropy notes that foundations have legitimate reasons for using such funds, including donor privacy. Page did not answer Forbes's request for comment. __So we can't say he gives little. We can only say he does not show it.__",
+          "src": [
+            39,
+            41
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the visible gifts are mostly about germs. He pledged $15 million to fight Ebola in 2014. After seeing data from Google's flu tracker, he paid for free flu shots for children across the Bay Area. A program called Shoo the Flu has offered free shots to schoolchildren around Oakland, and a company called Flu Lab funds work on a universal flu vaccine.",
+          "src": [
+            37,
+            15,
+            42
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Polio, flu, Ebola. Notice the pattern. His dad caught a virus."
+        },
+        {
+          "t": "h",
+          "text": "How he spends and what he plays at"
+        },
+        {
+          "t": "p",
+          "text": "His best-known hobby is kitesurfing, often with Branson. His spending runs to the very large but quiet. In 2011 The Independent described his yacht, Senses, at 193 feet, with an interior by Philippe Starck, and noted that he bought it second-hand. Bloomberg Businessweek reported he has a private Caribbean island. Around the turn of 2026 he paid about ==$173.4 million== for two waterfront homes in Miami.",
+          "src": [
+            34,
+            29,
+            0,
+            43
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mostly he seems to spend on the future he wants. He has personally funded companies working on flying vehicles, a dream that goes back to his student plan for a personal transit system at Michigan. In that 2009 speech he said a dream like that never really goes away. It just incubates as a hobby.",
+          "src": [
+            0,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "His public image",
+      "title": "Eight Hours a Year",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most founders build a personal brand. Page built the opposite. In 2008, according to the author Ken Auletta, he told Google's PR team they could have ==eight hours== of his time for the whole year, for press conferences, speeches and interviews combined. Auletta described him as openly contemptuous of the whole trade.",
+          "src": [
+            29
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "aggressively disdainful of public relations and marketing",
+          "who": "Ken Auletta on Larry Page, quoted in The Independent",
+          "src": [
+            29
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There may have been a strategy in it too. One Page loyalist told Bloomberg Businessweek that keeping him out of view was partly deliberate. Google had watched Bill Gates become a cartoon villain during Microsoft's antitrust fight, and did not want Page to become the same kind of mascot and punching bag. __The product became the brand. The man stayed out of the picture.__",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The Playboy problem"
+        },
+        {
+          "t": "p",
+          "text": "His biggest brush with old-style publicity was a near disaster. In April 2004, just before Google filed for its stock market debut, he and Brin gave an interview to Playboy magazine. Companies going public are meant to stay quiet, so that nobody can be accused of hyping the shares. The interview appeared in the September issue, just as the share auction opened.",
+          "src": [
+            44,
+            45
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Regulators could have delayed the whole deal. Instead, the Securities and Exchange Commission required disclosures, and Google printed the entire Playboy article inside its official prospectus, as Appendix B. A securities lawyer called this unprecedented. Google also warned investors that it might have to buy back shares if a court found a violation, and it corrected facts in the piece, such as its staff numbers. The IPO still went ahead at $85 a share.",
+          "src": [
+            44,
+            46,
+            45
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Google's IPO document contains a Playboy interview. Look it up. It's real."
+        },
+        {
+          "t": "h",
+          "text": "Written, not spoken"
+        },
+        {
+          "t": "p",
+          "text": "His best communication has always been on paper. The 2004 founders' letter in the prospectus told Wall Street to its face that Google would not behave like other companies. That line became a kind of flag. Eleven years later he repeated it word for word when announcing Alphabet, in a blog post that even joked about the new name.",
+          "src": [
+            3,
+            47
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Google is not a conventional company. We do not intend to become one.",
+          "who": "Larry Page, 2004 founders' letter, repeated in 2015",
+          "src": [
+            47
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His exit letter with Brin in 2019 used the same warm, slightly goofy voice. It compared Google to a 21-year-old leaving home, and said the founders would become proud parents.",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "offering advice and love, but not daily nagging!",
+          "who": "Larry Page and Sergey Brin, December 2019",
+          "src": [
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Out loud it is a different story. Fortune described rambling sentences in a raspy monotone, and counted nearly two dozen uses of the word \"excited\" or similar in one hour with him. Before his 2014 TED talk, Business Insider reported, he and two senior staff spent a day in a hotel room preparing.",
+          "src": [
+            1,
+            2,
+            49
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On stage he showed an AI teaching itself a video game, and the audience had little idea what he was getting at. Nicholas Carlson's verdict was blunt: the ideas are good, but they get lost in sentences he doesn't finish. Fortune's reporter saw it differently, and came away with a picture of a confident, in-control chief.",
+          "src": [
+            1,
+            2,
+            49
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He couldn't pitch like Steve Jobs. He still built Google."
+        },
+        {
+          "t": "h",
+          "text": "Moments the world remembers"
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2004",
+              "text": "The founders' letter and the Playboy interview, in the same prospectus.",
+              "src": [
+                44
+              ]
+            },
+            {
+              "when": "2009",
+              "text": "The Michigan speech: his parents' love story, his dream at 23, his father's death.",
+              "src": [
+                16
+              ]
+            },
+            {
+              "when": "Jan 2011",
+              "text": "Eric Schmidt jokes on Twitter that day-to-day adult supervision is no longer needed, as Page becomes CEO again.",
+              "src": [
+                3
+              ]
+            },
+            {
+              "when": "May 2013",
+              "text": "At Google I/O he takes on Microsoft and Oracle and wonders aloud about setting aside part of the world for tech experiments.",
+              "src": [
+                50,
+                51
+              ]
+            },
+            {
+              "when": "Mar 2014",
+              "text": "TED with Charlie Rose: the Elon Musk remark.",
+              "src": [
+                24
+              ]
+            },
+            {
+              "when": "Aug 2015",
+              "text": "“G is for Google”: Alphabet is born and Sundar Pichai becomes Google's CEO.",
+              "src": [
+                47
+              ]
+            },
+            {
+              "when": "Sept 2018",
+              "text": "The empty chair at a Senate hearing.",
+              "src": [
+                0
+              ]
+            },
+            {
+              "when": "Dec 2019",
+              "text": "He and Brin step down from running the company.",
+              "src": [
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That 2013 I/O session shows why his handlers worried. Asked an open question, he criticised Microsoft and said of Oracle that money mattered more to it than working together.",
+          "src": [
+            51,
+            50
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also complained about press stories setting Google against rivals. The Verge joked that he wanted a beta-test country. Slate mocked the whole thing. It was the honest Page, unfiltered, and few CEOs would have dared.",
+          "src": [
+            51,
+            50
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Money is obviously more important to them than any collaboration.",
+          "who": "Larry Page on Oracle, Google I/O, 2013",
+          "src": [
+            51
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Then he went silent"
+        },
+        {
+          "t": "p",
+          "text": "In October 2013 he told investors he would stop joining every earnings call, because they needed him to “ruthlessly prioritize my time”. He did not come back. By 2018 he had not presented at a product launch or on an earnings call since 2013, or done press since 2015. In his place, Google's public faces were Schmidt and then Pichai.",
+          "src": [
+            52,
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How the world sees him"
+        },
+        {
+          "t": "p",
+          "text": "In America the image shifted over time, from cheerful futurist to absent landlord. After the 2018 hearing, pundits called him unpatriotic, and a former colleague told Bloomberg there was no strong central voice on society's problems. Yet to engineers he remains a hero. Ben Horowitz compared the breadth of his ambition to Thomas Edison's. In Europe, Fortune noted in 2014, the criticism of Google's power was especially sharp, and European regulators have since issued some of its biggest fines.",
+          "src": [
+            0,
+            1,
+            53
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In India most people meet Larry Page through someone else. He is the man who named Chennai-born Sundar Pichai as Google's CEO in 2015. The Hindu ran his whole announcement. In it, he praised Pichai warmly.",
+          "src": [
+            54,
+            47,
+            5,
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "When Pichai went back to IIT Kharagpur in 2017, more than 3,500 people waited for him, and most hands went up when the students were asked who wanted to work at Google. This next line is our reading, not a survey: __in India, Page's reputation is built on who he promoted.__",
+          "src": [
+            54,
+            47,
+            5,
+            55
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Sundar has been saying the things I would have said (and sometimes better!)",
+          "who": "Larry Page, announcing Pichai as Google CEO, August 2015",
+          "src": [
+            54
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There are also harder views of Google in India. By late 2015 India was sending Google its second-highest search traffic after the United States, and Pichai was calling it a big bet. In 2022 the Competition Commission of India fined Google ==₹1,337.76 crore== over its Android rules, which we cover in the next chapter.",
+          "src": [
+            6,
+            56,
+            57
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He promoted an IIT boy to run Google. Remember whom you promote."
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "The bad calls",
+      "title": "What Not to Copy",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Larry Page was right about the big things so often that it is easy to skip his mistakes. Don't. Some were honest bets that failed, some cost other people dearly, and a few ended up in front of judges. We have tried to say which is which. Remember too that the rulings below are against Google, not against him personally, and that Google has often been run by other people.",
+          "src": [
+            53,
+            58
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Betting everyone's bonus on Google+"
+        },
+        {
+          "t": "p",
+          "text": "As he took over as CEO in April 2011, Page sent a companywide memo tying staff bonuses to Google's social strategy. A leaked internal FAQ described a multiplier from 0.75 to 1.25, so bonuses could be 25% higher or 25% lower depending on how the whole effort went. People who had nothing to do with social products were told to test them and push them on family and friends.",
+          "src": [
+            59,
+            60
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Google+ launched that June. Under Vic Gundotra, it shipped features at record speed and Google proudly reported over 40 million users. But nobody really stayed. In 2018 Google itself admitted that ==90%== of Google+ sessions lasted less than five seconds.",
+          "src": [
+            8,
+            23,
+            61
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bugs had also exposed the private data of up to 52.5 million users to app developers, though Google said it saw no evidence of misuse. It shut the consumer service in April 2019.",
+          "src": [
+            8,
+            23,
+            61
+          ]
+        },
+        {
+          "t": "note",
+          "text": "You can't pay people to love a product. Read this twice."
+        },
+        {
+          "t": "h",
+          "text": "2. The $12.5 billion phone company"
+        },
+        {
+          "t": "p",
+          "text": "Levy called the Motorola purchase the boldest move of his tenure. Google paid ==$12.5 billion== in 2012, mostly to get patents that would protect Android from lawsuits. Less than two years later, Page sent a memo announcing the sale of the phone business to Lenovo for ==$2.91 billion==. His reason was that the smartphone market was super competitive and you had to be all in to thrive.",
+          "src": [
+            15,
+            2,
+            62,
+            63
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Do not read that as a simple $9.6 billion loss, because Google kept most of the patents, which was the main point of the deal. Still, Page's own memo argued that Motorola would do better under a company fully committed to making phones. The lesson is about clarity: know exactly which piece of a deal you actually want.",
+          "src": [
+            62,
+            63
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Buying patents and running a phone factory are different jobs."
+        },
+        {
+          "t": "h",
+          "text": "3. The moon shots that crashed"
+        },
+        {
+          "t": "p",
+          "text": "Failure was part of his method, and these were honest bets. Some were still expensive. Google Glass went on sale at $1,500 and got banned from some bars and restaurants; sales stopped in January 2015. Loon closed in 2021.",
+          "src": [
+            64,
+            18,
+            65,
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Google Fiber was reported to be costing at least $1 billion per market, and in 2016 Page reportedly ordered its staff cut in half. Bloomberg found a project called Heliox, a giant plastic tube meant to blow cyclists through the air on a mix of oxygen and helium. It fizzled.",
+          "src": [
+            64,
+            18,
+            65,
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "An honest failed bet is not the same as a scandal."
+        },
+        {
+          "t": "p",
+          "text": "Investors eventually pushed back, and Bloomberg reported that almost all of Alphabet's spending was going to Google by 2018. __Google could afford all this because search paid for it. You cannot.__ If you have no search business behind you, make the same kind of bet at a smaller scale, with a cheap test first, the way he did with the metronome.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. The pharmacy ads: $500 million"
+        },
+        {
+          "t": "p",
+          "text": "Here is a case that many young founders have never heard of. In August 2011 Google agreed to forfeit ==$500 million==, one of the largest forfeitures in US history, over ads for Canadian online pharmacies aimed at American customers. The Justice Department said Google knew from about 2003 that shipping these drugs into the US was usually illegal, and did not change course until it learned of the investigation in 2009. Google admitted improperly helping those advertisers.",
+          "src": [
+            66,
+            67
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Larry Page knew what was going on",
+          "who": "Peter Neronha, US Attorney for Rhode Island, to The Wall Street Journal, 2011",
+          "src": [
+            67
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Be careful with that quote. It is a prosecutor's claim. The documents behind it were never made public because Google signed a non-prosecution agreement, so the claim was never tested in court.",
+          "src": [
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Neronha said he had no plans to charge Page or other executives, though he said they were not off limits. Wired reported that Google denied the allegation, according to press accounts. Shareholders also sued over the money; we could not confirm how those suits ended, so we leave that open.",
+          "src": [
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "it's obvious with hindsight that we shouldn't have allowed these ads",
+          "who": "Google statement, August 2011",
+          "src": [
+            66
+          ]
+        },
+        {
+          "t": "h",
+          "text": "5. The Andy Rubin payout"
+        },
+        {
+          "t": "p",
+          "text": "This is the one that hurt his own people most. In October 2018 The New York Times reported that Google had investigated a claim of sexual misconduct against Android's creator, Andy Rubin, in 2014 and found it credible. According to executives who spoke to the paper, Page asked for his resignation. Rubin denied the accusation.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "p",
+          "text": "What came next caused the fury. Rubin reportedly left with ==$90 million== paid in instalments, a loan deal and a warm public goodbye. Weeks before, the board had approved a $150 million stock grant for him. The Times said Page usually recommended senior pay, and that it was unclear whether he or the board knew about the inquiry when that grant was approved. Page did not respond to the paper.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "With Android he created something truly remarkable",
+          "who": "Larry Page's public farewell to Andy Rubin, 2014",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "p",
+          "text": "At the staff meeting that week, the top-voted question to Page and Pichai asked what real action would follow, and said the company seemed to value powerful abusers over their victims. Pichai told staff that 48 people had been fired for sexual harassment in two years with no exit package. Then more than ==20,000== employees walked out. Shareholders sued, alleging that the board and Page knew of the claims when they approved his pay. In 2020 Alphabet settled by pledging $310 million over ten years to diversity and anti-harassment work, ending forced arbitration in such cases and limiting non-disclosure agreements.",
+          "src": [
+            72,
+            71,
+            73,
+            74,
+            75
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Rule: how you treat a star when it's hard is your real culture."
+        },
+        {
+          "t": "h",
+          "text": "6. The empty chair"
+        },
+        {
+          "t": "p",
+          "text": "On 5 September 2018 the Senate Intelligence Committee met about foreign manipulation of social platforms. Jack Dorsey of Twitter and Sheryl Sandberg of Facebook sat at the table. Next to them was a black leather chair with a place card marked \"Google\" and a blank notepad. Page had been called and did not come, and neither did Pichai. Alphabet said it had offered its head of global affairs, and that freeing Larry to focus on long-term technical problems was what Alphabet was set up for.",
+          "src": [
+            0,
+            76
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Senators called it arrogant and an outrage. Mark Warner asked what the company had to hide. An early Google investor, Roger McNamee, called it a basic failure of corporate governance.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bloomberg's report also noted that his health might have played a part in his retreat, without saying it was the reason for that day. Either way, __an empty chair becomes the only story when you are the one missing.__ Your critics will happily speak for you.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. The monopoly rulings"
+        },
+        {
+          "t": "p",
+          "text": "By far the largest bill came from Google's dominance itself. Page co-founded a company so strong that courts and regulators on three continents found it broke competition law. Page once told Levy he could not think of a company that had failed because of litigation, only because of bad choices or lack of ambition. He may yet be right. But look at the list.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2012",
+              "text": "Google pays a $22.5 million civil penalty to the US Federal Trade Commission over tracking on Apple's Safari browser, at the time its largest for violating an FTC order. No admission of wrongdoing.",
+              "src": [
+                77
+              ]
+            },
+            {
+              "when": "2017",
+              "text": "EU fines Google €2.42 billion over its shopping comparison service. Upheld by Europe's top court in September 2024.",
+              "src": [
+                78
+              ]
+            },
+            {
+              "when": "2018",
+              "text": "EU fines Google €4.34 billion over Android, later cut to about €4.1 billion. Europe's top court ended the fight against Google in July 2026.",
+              "src": [
+                53
+              ]
+            },
+            {
+              "when": "Oct 2022",
+              "text": "India's competition regulator fines Google ₹1,337.76 crore over Android. A tribunal kept the fine but dropped some orders in 2023; both sides went to the Supreme Court, where we last found it pending in September 2024.",
+              "src": [
+                57,
+                79
+              ]
+            },
+            {
+              "when": "Aug 2024",
+              "text": "US Judge Amit Mehta rules that Google illegally kept a search monopoly. In September 2025 he declines to order a sale of Chrome but orders data sharing. Google is appealing.",
+              "src": [
+                80,
+                81,
+                82
+              ]
+            },
+            {
+              "when": "Sept 2025",
+              "text": "EU fines Google €2.95 billion over advertising technology.",
+              "src": [
+                83
+              ]
+            },
+            {
+              "when": "Sept 2026",
+              "text": "US Judge Leonie Brinkema, who found an illegal ad tech monopoly in April 2025, refuses a breakup and orders behaviour changes and a monitor for six years. Google says it will appeal.",
+              "src": [
+                28
+              ]
+            }
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Google is a monopolist, and it has acted as one to maintain its monopoly",
+          "who": "US District Judge Amit Mehta, August 2024",
+          "src": [
+            80
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In fairness, his habit of charging ahead sometimes won in court as well. Authors sued over scanning books, and in 2015 an appeals court found Google's project was fair use; the Supreme Court declined to hear the case in 2016.",
+          "src": [
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oracle sued over Android's use of Java code, and in 2021 the Supreme Court ruled 6–2 for Google. So do not take the easy lesson that he was simply reckless. __Sometimes the rule-breaker gets vindicated. You will not know which you are until the bills arrive.__",
+          "src": [
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What a young founder should not copy"
+        },
+        {
+          "t": "example",
+          "text": "For example, do not copy these: (1) Firing people in public with no warning. (2) Paying your team to pretend a product is working. (3) Going quiet just when your company most needs a voice. (4) Treating every critic as wrong. Page told Levy much of the anger over his book project was phony, and Levy wrote that this dismissive streak hurt Google's reputation. (5) Letting a star's value decide how you handle misconduct.",
+          "src": [
+            2,
+            59,
+            0,
+            3,
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of November 2026",
+      "title": "The Quietest Giant",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "As of 2 November 2026, Larry Page is 53. He has not run anything at Google for almost seven years. And he still holds more of its votes than anyone else. He is a director of Alphabet and chairs the board's Executive Committee, though that committee held no meetings in 2025.",
+          "src": [
+            58,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sundar Pichai is the CEO. Page stepped back with Brin in December 2019, promising to stay on as directors and shareholders and to keep talking with Pichai.",
+          "src": [
+            58,
+            48
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "389 million",
+              "label": "Class B Alphabet shares he owned in April 2026",
+              "src": [
+                58
+              ]
+            },
+            {
+              "value": "27.4%",
+              "label": "of all Alphabet votes held by Page alone; Brin holds another 25.3%",
+              "src": [
+                58
+              ]
+            },
+            {
+              "value": "$232.7B",
+              "label": "Forbes net worth, 1 November 2026: No. 3 in the world",
+              "src": [
+                40
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Those votes matter. In 2026 a shareholder proposal asked for equal voting rights, and the board recommended against it. All ten directors, Page included, were re-elected. Each of his shares carries ten votes, against one for an ordinary Class A share. __That is how a man who barely appears in public can still help steer a company worth trillions.__",
+          "src": [
+            58,
+            87,
+            22
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A $68 billion wobble"
+        },
+        {
+          "t": "p",
+          "text": "Here is how strange it is to be this rich. At the end of April 2026, on strong AI and cloud results, Forbes put Page above ==$300 billion== for the first time, at No. 2 in the world. Alphabet was worth about $4.5 trillion.",
+          "src": [
+            22,
+            88,
+            89
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By mid-October Forbes had him around $288 billion. Then on 29 October, Alphabet's shares fell more than 12% after third-quarter revenue missed expectations and it spent $51.4 billion in a single quarter, mostly on AI. Page lost about ==$31 billion== in a morning.",
+          "src": [
+            22,
+            88,
+            89
+          ]
+        },
+        {
+          "t": "note",
+          "text": "One share price moves his whole fortune."
+        },
+        {
+          "t": "p",
+          "text": "Forbes called it Alphabet's worst dollar-loss day and the second-worst one-day wipeout in market history. And yet he climbed to No. 3 the next day, because Dell's shares fell harder. Elon Musk, his old friend, led the list at about $869 billion on 1 November. These numbers swing with one share price, so treat them as a snapshot.",
+          "src": [
+            90,
+            91
+          ]
+        },
+        {
+          "t": "note",
+          "text": "$31 billion gone in one morning. He was still No. 3."
+        },
+        {
+          "t": "h",
+          "text": "His AI moment, from the sidelines"
+        },
+        {
+          "t": "p",
+          "text": "He saw this coming long before most. Levy described him in 2011 as wanting Google to be a learning machine fed by massive data. Bloomberg credited his tenure with prescient investments in AI. In 2014 he stood on the TED stage showing an AI teach itself a video game, and the crowd did not quite get it. Google bought DeepMind that same year.",
+          "src": [
+            3,
+            0,
+            2,
+            27
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came ChatGPT. In December 2022, at Pichai's invitation, The New York Times reported, Page and Brin came back for several meetings about Google's AI plans. They reviewed strategy, approved plans and pitched ideas for putting chatbot features into search. They had not spent much time at Google since 2019. Beyond that, we have not found any reliable public account of how much Page personally does at Google today.",
+          "src": [
+            92
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Current bets: making physical things"
+        },
+        {
+          "t": "p",
+          "text": "His own money has gone where his head has always been: transport and building things. He backed the flying-car company Kittyhawk, started as Zee.Aero in 2010. It showed off a one-person Flyer in 2018, and by 2020 it was dropping that programme. It wound down in September 2022, though its partnership with Boeing, Wisk, carried on.",
+          "src": [
+            93
+          ]
+        },
+        {
+          "t": "p",
+          "text": "As Kittyhawk was closing, its chief technology officer, Chris Anderson, gathered a few staff to try something new. That became Dynatomics, a startup Business Insider says is exploring AI and 3D printing to build aircraft, drawing on filings. Page had already been pushing Kittyhawk's engineers to try 3D printing to cut costs. The Information reported, as carried by The Indian Express, that it aims to use AI for highly optimised designs that factories can make. He has not spoken about any of it in public.",
+          "src": [
+            94,
+            95
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: think how small this looks. A man worth more than $200 billion, backing a small team that is working out how to design and print parts. It is the same habit you saw with the metronome. Find the cheap way to test a big idea.",
+          "src": [
+            94,
+            95
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Goodbye, California"
+        },
+        {
+          "t": "p",
+          "text": "The biggest thing he has done lately was about tax. California's Proposition 40 would charge billionaires a one-time 5% tax if they lived in the state on 1 January 2026. In late December 2025, his family office, Koop, and other linked entities, including Flu Lab and Oceankind, were moved out of California and incorporated in Delaware. He also bought those Miami homes. Fortune's estimate, at his October net worth, is that he would have owed nearly ==$15 billion== if he had stayed.",
+          "src": [
+            96,
+            43
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His representatives told Forbes he is now a Florida resident, and Forbes's profile lists Miami. But Forbes also could not find updated voter registration or a declaration of domicile, and his spokespeople declined to provide proof. As of mid-October he was still not registered to vote in Florida. Courts may yet test the residency date. California voters decide on 3 November 2026, the day after this chapter was checked, so look up the result.",
+          "src": [
+            88,
+            97,
+            40,
+            96
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fair or not, he moved before the deadline. Decide what you think."
+        },
+        {
+          "t": "p",
+          "text": "Silicon Valley split over it. Congressman Ro Khanna responded sarcastically that he would miss them. Palmer Luckey warned that founders would have to sell parts of their companies to pay.",
+          "src": [
+            43,
+            96,
+            97
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Jensen Huang said he was perfectly fine with the tax and would stay. Page has not made his case in public. Sergey Brin put more than $100 million into opposing the measure; we could not confirm any spending by Page himself.",
+          "src": [
+            43,
+            96,
+            97
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Smart people disagree here. Find the strongest version of each side."
+        },
+        {
+          "t": "h",
+          "text": "What he says he wants next"
+        },
+        {
+          "t": "p",
+          "text": "Honest answer: he has not told us. There is no recent interview. So the best guide is the last thing he said on the record about what drives him. In 2014 he told Fortune he wanted to build a company that could stay on top for generations, and said Google's mission had become too narrow.",
+          "src": [
+            1,
+            14,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He said then that the world was spending too little on important problems like self-driving cars. When he left in 2019, the first bet his letter pointed to was Waymo.",
+          "src": [
+            1,
+            14,
+            48
+          ]
+        },
+        {
+          "t": "p",
+          "text": "As a young man he was struck by how Nikola Tesla ended up short of resources. He got everything Tesla lacked: money, control, time. He now runs almost nothing, yet holds more votes than anyone at one of the world's largest companies. __Whether that silence is wisdom or absence is the last open question about Larry Page__, and so far he has left it unanswered.",
+          "src": [
+            3,
+            58,
+            22
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Write your own answer in this margin. What would you do with his freedom?"
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Work on what nobody else is crazy enough to try.",
+      "text": "In 2009 Page told Michigan graduates that mega-ambitious dreams are often easier because there is so little competition. Balloons for internet access were a problem with zero money going into it, which is exactly why top people came. Look for your own empty field."
+    },
+    {
+      "title": "Test it yourself before you argue.",
+      "text": "When nobody knew how long it would take to scan the world's books, Page and Marissa Mayer used a metronome and turned the pages of a 300-page book. It took 40 minutes, and that crude number started Google Books. An ugly weekend test beats a month of debate."
+    },
+    {
+      "title": "Go ten times better, or don't bother.",
+      "text": "Gmail launched with 100 times the storage of rivals when Google was only a search company. Page's view was that small improvements keep you playing the same game as everyone else. Ask what would have to be true for your idea to be ten times better."
+    },
+    {
+      "title": "Don't fire anyone in front of a crowd.",
+      "text": "In July 2001 Page removed Google's project managers in front of their colleagues, with no warning. The plan fell apart, the people felt humiliated, and veterans still remembered it years later. You can be right about a structure and still be wrong about how you treat people."
+    },
+    {
+      "title": "Keep the managers, but choose the right ones.",
+      "text": "After scrapping managers, Page found engineers actually wanted someone to break ties and help them grow. His lasting fix was computer scientists as product managers instead of only MBAs. Don't remove a role until you know what it was really doing."
+    },
+    {
+      "title": "Make meetings earn their place.",
+      "text": "In 2011 Page's new rules were one decision-maker, ten people at most, and no decision waiting for a meeting. He had already dropped his assistant for a while because it made booking his time too easy. Protect your time as if it were cash."
+    },
+    {
+      "title": "Let go of the thing you're proud of.",
+      "text": "His early rule was not to delegate, yet his best result as president of products was Android, which he left to Andy Rubin. By 2014 he had handed most of Google to Sundar Pichai. Do your job until you find someone better at it, and then promote them."
+    },
+    {
+      "title": "Be willing to admit your style has expired.",
+      "text": "Page helped create a culture of loud fighting at Google. Back in the CEO's chair, he stood up and told his executives there would be zero tolerance for it, because bigger goals needed cooperation. What worked for ten people may wreck a hundred."
+    },
+    {
+      "title": "Don't pay people to believe.",
+      "text": "In 2011 Page tied every employee's bonus to Google's social strategy, and Google+ still failed, with 90% of sessions lasting under five seconds. Money can make people use a product at work. It can't make strangers love it."
+    },
+    {
+      "title": "Tell the truth about your weakness early.",
+      "text": "When Page lost his voice in 2012, silence spooked investors for months. In 2013 he explained it in his own words, joked about kitesurfing and funded research on it. Say the hard thing before others guess worse."
+    },
+    {
+      "title": "Do not skip the hard room.",
+      "text": "In 2018 the Senate set out a chair for Page, and he stayed away. The empty seat became the story, and critics filled the silence for him. Being private is fine; hiding when your company most needs you is not."
+    },
+    {
+      "title": "Check who you are protecting.",
+      "text": "Google paid Andy Rubin a reported $90 million after finding a misconduct claim against him credible, a claim he denied, and the company's own people walked out by the thousands. It later pledged $310 million to settle with shareholders. Your values are what you do when a star is in trouble."
+    },
+    {
+      "title": "Never treat the law as a detail.",
+      "text": "Google forfeited $500 million in 2011 over illegal pharmacy ads, and in later years courts and regulators on three continents ruled against it on competition. Some of Page's boldness won in court, as with Google Books, but much of it became very costly. Move fast, and pay for a good lawyer early."
+    },
+    {
+      "title": "Own the voting rights if you plan to think long-term.",
+      "text": "In 2026 Page still held 27.4% of Alphabet's votes, more than six years after stepping back as CEO. That control is part of why he could keep funding odd projects while investors worried. Before you raise money, read what you are giving away."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bloomberg Businessweek, Mark Bergen and Austin Carr, \"Where in the World Is Larry Page?\" (13 Sep 2018, syndicated on inkl)",
+      "url": "https://www.inkl.com/news/where-in-the-world-is-larry-page"
+    },
+    {
+      "label": "Fortune, Miguel Helft, \"Google's Larry Page: The Most Ambitious CEO in the Universe\" (13 Nov 2014)",
+      "url": "https://www.fortune.com/2014/11/13/googles-larry-page-the-most-ambitious-ceo-in-the-universe/"
+    },
+    {
+      "label": "Business Insider, Nicholas Carlson, \"The Untold Story of Larry Page's Incredible Comeback\" (24 Apr 2014)",
+      "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4"
+    },
+    {
+      "label": "Wired, Steven Levy, \"Larry Page Wants to Return Google to Its Startup Roots\" (18 Mar 2011; adapted from In the Plex)",
+      "url": "https://www.wired.com/2011/03/mf-larrypage/"
+    },
+    {
+      "label": "Quartz, Max Nisen, \"Larry Page's lost decade was the best thing to ever happen to Google\" (25 Apr 2014)",
+      "url": "https://qz.com/202710/larry-pages-lost-decade-was-the-best-thing-to-ever-happen-to-google"
+    },
+    {
+      "label": "FactorDaily, Ramarko Sengupta, \"Sundar Pichai in India: 'What happens in the dorm stays there'\" (5 Jan 2017)",
+      "url": "https://archive.factordaily.com/sundar-pichai-india-iit-kharagpur/"
+    },
+    {
+      "label": "The Times of India, \"India tops Google's search for next big market\" (17 Dec 2015)",
+      "url": "https://timesofindia.indiatimes.com/tech-news/india-tops-googles-search-for-next-big-market/articleshow/50212296.cms"
+    },
+    {
+      "label": "Business Insider, Matt Rosoff, \"How Larry Page Changed Meetings at Google\" (10 Jan 2012)",
+      "url": "https://www.businessinsider.com/this-is-how-larry-page-changed-meetings-at-google-after-taking-over-last-spring-2012-1"
+    },
+    {
+      "label": "Think with Google (Think Quarterly), Kristen Gil, Google VP of operations, \"Start-up speed\"",
+      "url": "https://www.thinkwithgoogle.com/_qs/documents/227/start-up-speed-kristen-gil_articles.pdf"
+    },
+    {
+      "label": "The New Yorker, Nicholas Lemann, \"When G.M. Was Google\" (1 Dec 2014; review of How Google Works)",
+      "url": "https://www.newyorker.com/magazine/2014/12/01/g-m-google"
+    },
+    {
+      "label": "Wired, Nitasha Tiku, \"Three Years of Misery Inside Google, the Happiest Company in Tech\" (13 Aug 2019)",
+      "url": "https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/"
+    },
+    {
+      "label": "Financial Times, Richard Waters, \"Secrets of Silicon Valley\" (19 Sep 2014; review of How Google Works)",
+      "url": "https://www.ft.com/content/b7a695a6-3e5f-11e4-b7fc-00144feabdc0"
+    },
+    {
+      "label": "Google Books: official project history (Spanish-language edition of Google's page)",
+      "url": "https://books.google.es/intl/ES/googlebooks/history.html"
+    },
+    {
+      "label": "The New York Times DealBook, David Gelles, \"In Silicon Valley, Mergers Must Meet the Toothbrush Test\" (17 Aug 2014)",
+      "url": "https://archive.nytimes.com/dealbook.nytimes.com/2014/08/17/in-silicon-valley-mergers-must-meet-the-toothbrush-test/index.html"
+    },
+    {
+      "label": "Fortune, Miguel Helft, \"Larry Page explains why dominant tech companies falter\" (4 Dec 2014)",
+      "url": "https://fortune.com/2014/12/04/larry-page-explains-why-dominant-tech-companies-falter"
+    },
+    {
+      "label": "Wired, Steven Levy, \"Google's Larry Page on Why Moon Shots Matter\" (17 Jan 2013)",
+      "url": "https://www.wired.com/2013/01/ff-qa-larry-page/"
+    },
+    {
+      "label": "Google press blog: full transcript of Larry Page's University of Michigan commencement address (2 May 2009)",
+      "url": "https://googlepress.blogspot.com/2009/05/larry-pages-university-of-michigan.html"
+    },
+    {
+      "label": "Fortune, Miguel Helft, \"Google CEO on moonshots: Find a 'zero million dollar' research problem\" (14 Nov 2014)",
+      "url": "https://fortune.com/2014/11/14/google-ceo-larry-page-moonshots"
+    },
+    {
+      "label": "Reuters, Paresh Dave, \"Alphabet shutting Loon, which used balloon alternative to cell towers\" (22 Jan 2021)",
+      "url": "https://www.reuters.com/technology/alphabet-shutting-loon-which-used-balloon-alternative-cell-towers-2021-01-22/"
+    },
+    {
+      "label": "X, the moonshot factory, Astro Teller, \"Loon's final flight\" (22 Jan 2021)",
+      "url": "https://blog.x.company/loons-final-flight-e9d699123a96"
+    },
+    {
+      "label": "PCWorld, transcript of Larry Page's remarks at Google I/O (15 May 2013)",
+      "url": "https://www.pcworld.com/article/451887/hello-larry-googles-page-on-negativity-laws-and-competitors.html"
+    },
+    {
+      "label": "Fortune, Philip Elmer-DeWitt, \"Steve Jobs to Larry Page: 'You guys are doing too much'\" (7 Jul 2014)",
+      "url": "https://fortune.com/2014/07/07/steve-jobs-to-larry-page-you-guys-are-doing-too-much/"
+    },
+    {
+      "label": "Forbes (Forbes Australia edition), Ty Roush, \"Larry Page's worth over $300 billion for first time\" (May 2026)",
+      "url": "https://www.forbes.com.au/news/billionaires/larry-pages-worth-over-300-billion-for-first-time-amid-alphabet-earnings-rally/"
+    },
+    {
+      "label": "BBC News, Chris Fox, \"Google shuts failed social network Google+\" (1 Apr 2019)",
+      "url": "https://www.bbc.com/news/technology-47771927"
+    },
+    {
+      "label": "The Chronicle of Philanthropy, \"Google CEO Says He'd Give Billions to Elon Musk, Not Charity\" (21 Mar 2014)",
+      "url": "https://www.philanthropy.com/news/google-ceo-says-hed-give-billions-to-elon-musk-not-charity/"
+    },
+    {
+      "label": "Nonprofit Quarterly, Ruth McCambridge, \"Larry Page Makes a Good Case for the Regulation of Donor-Advised Funds\" (19 Dec 2019)",
+      "url": "https://nonprofitquarterly.org/larry-page-makes-a-good-case-for-the-regulation-of-donor-advised-funds/"
+    },
+    {
+      "label": "The New York Times, Cade Metz, Karen Weise, Nico Grant and Mike Isaac, \"Ego, fear and money\" (Dec 2023, syndicated by the Pittsburgh Post-Gazette)",
+      "url": "https://pge.post-gazette.com/.pf/showstory/202312100054/3"
+    },
+    {
+      "label": "Business Insider, Lakshmi Varanasi, on Page, Musk and the AI argument (3 Dec 2023, via Yahoo News)",
+      "url": "https://ca.news.yahoo.com/larry-page-accused-elon-musk-190146858.html"
+    },
+    {
+      "label": "Reuters, Jonathan Stempel and Jody Godoy, on Judge Brinkema's ad tech remedies decision (16 Sep 2026, via The Star)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/17/google-should-relax-ad-tech-rules-appoint-antitrust-monitor-us-judge-finds"
+    },
+    {
+      "label": "The Independent, David Usborne, \"Larry Page: A very private poster boy\" (22 Jan 2011)",
+      "url": "https://www.independent.co.uk/tech/larry-page-a-very-private-poster-boy-2191290.html"
+    },
+    {
+      "label": "Reuters, \"Google founder set to wed on Branson isle\" (6 Dec 2007)",
+      "url": "https://www.reuters.com/article/technology/google-founder-set-to-wed-on-branson-isle-idUSN05604207/"
+    },
+    {
+      "label": "Reuters, \"Google founder Larry Page to marry\" (15 Nov 2007)",
+      "url": "https://www.reuters.com/article/technology/google-founder-larry-page-to-marry-idUSN13632655/"
+    },
+    {
+      "label": "The Guardian, Graeme Wearden, \"Google co-founder weds\" (10 Dec 2007)",
+      "url": "https://www.theguardian.com/business/2007/dec/10/google.technology"
+    },
+    {
+      "label": "TechCrunch, Mark Harris, on Oceankind and its funding (2 May 2022)",
+      "url": "https://techcrunch.com/2022/05/02/inside-the-secretive-silicon-valley-startup-trying-to-save-the-oceans-with-tech/"
+    },
+    {
+      "label": "CBS News / AP, \"Google CEO Larry Page explains his vocal cord paralysis\" (15 May 2013)",
+      "url": "https://www.cbsnews.com/news/google-ceo-larry-page-explains-his-vocal-cord-paralysis"
+    },
+    {
+      "label": "TechCrunch, \"Google CEO Larry Page Reveals He's Recovering From Vocal Cord Paralysis, Will Fund Research\" (14 May 2013)",
+      "url": "https://techcrunch.com/2013/05/14/ahead-of-io-2013-google-ceo-larry-page-discusses-his-voice-issues-for-the-first-time/amp/"
+    },
+    {
+      "label": "The Verge, Nick Statt, \"Google co-founders Larry Page and Sergey Brin: a timeline of their rise and disappearance\" (4 Dec 2019)",
+      "url": "https://www.theverge.com/2019/12/4/20994361/google-alphabet-larry-page-sergey-brin-sundar-pichai-co-founders-ceo-timeline"
+    },
+    {
+      "label": "Inside Philanthropy, Michael Kavate, \"Larry Page's Foundation Doubled in Size to Hit $6.7 Billion in Assets\" (10 May 2023)",
+      "url": "https://www.insidephilanthropy.com/home/2023-5-10-larry-pages-foundation-doubled-in-size-to-hit-67-billion-in-assets-98-of-giving-goes-to-dafs"
+    },
+    {
+      "label": "Inside Philanthropy, \"Larry Page and Lucinda Southworth's Philanthropy\" (7 Jul 2026)",
+      "url": "https://www.insidephilanthropy.com/find-a-grant/grants-p/carl-victor-page-memorial-foundation"
+    },
+    {
+      "label": "Forbes (Forbes Middle East edition), \"The Forbes Philanthropy Score 2024: How Charitable Are America's Richest People?\" (4 Oct 2024)",
+      "url": "https://db.forbesmiddleeast.com/billionaires/world-billionaires/the-forbes-philanthropy-score-2024-how-charitable-are-americas-richest-people-1"
+    },
+    {
+      "label": "Forbes: Larry Page real-time profile (viewed 2 Nov 2026; net worth as of 1 Nov 2026)",
+      "url": "https://www.forbes.com/profile/larry-page/"
+    },
+    {
+      "label": "The Chronicle of Philanthropy, \"Foundations Are Sending More Dollars to Donor-Advised Funds, Chronicle Analysis Finds\"",
+      "url": "https://www.philanthropy.com/news/foundations-are-sending-more-dollars-to-donor-advised-funds-chronicle-analysis-finds/"
+    },
+    {
+      "label": "The Verge, Nicole Wetsman, \"Larry Page is quietly funding efforts to develop a universal flu vaccine\" (11 Dec 2019)",
+      "url": "https://www.theverge.com/2019/12/11/21011097/universal-flu-vaccine-larry-page-google-cofounder-funding-private-foundation"
+    },
+    {
+      "label": "Fortune, Nick Lichtenberg, on Larry Page's Miami purchases and the wealth tax (8 Jan 2026)",
+      "url": "https://fortune.com/2026/01/08/google-billionaire-larry-page-moves-to-florida-wealth-tax-jeff-bezos-playbook/"
+    },
+    {
+      "label": "Google Inc. final IPO prospectus (SEC Rule 424(b)(4), 18 Aug 2004), including the Playboy article as Appendix B",
+      "url": "https://www.sec.gov/Archives/edgar/data/1288776/000119312504143377/d424b4.htm"
+    },
+    {
+      "label": "The Washington Post, David A. Vise and Carrie Johnson, \"Google Promises Fight Over Playboy Interview\" (13 Aug 2004)",
+      "url": "https://www.washingtonpost.com/wp-dyn/articles/A62660-2004Aug13.html"
+    },
+    {
+      "label": "The New York Times / International Herald Tribune, \"Playboy interview defied convention: Swagger at Google clouds IPO\" (14 Aug 2004)",
+      "url": "https://www.nytimes.com/2004/08/14/IHT-playboy-interview-defied-convention-swagger-at-google-clouds-ipo.html"
+    },
+    {
+      "label": "Larry Page, \"G is for Google\" (Alphabet announcement, Google blog, 10 Aug 2015)",
+      "url": "https://blog.google/alphabet/google-alphabet/"
+    },
+    {
+      "label": "Larry Page and Sergey Brin, \"A letter from Larry and Sergey\" (Google blog, 3 Dec 2019)",
+      "url": "https://blog.google/alphabet/letter-from-larry-and-sergey/"
+    },
+    {
+      "label": "Fortune, Adam Lashinsky, \"Dispatch from TED: Larry Page on Google's 'moon shots'\" (20 Mar 2014)",
+      "url": "https://fortune.com/2014/03/20/dispatch-from-ted-larry-page-on-googles-moon-shots/"
+    },
+    {
+      "label": "The Verge, Nathan Ingraham, \"Larry Page wants to 'set aside a part of the world' for unregulated experimentation\" (15 May 2013)",
+      "url": "https://www.theverge.com/2013/5/15/4334356/larry-page-wants-to-set-aside-a-part-of-the-world-for-experimentation"
+    },
+    {
+      "label": "Slate, Will Oremus, on Larry Page's Google I/O keynote (15 May 2013)",
+      "url": "https://slate.com/technology/2013/05/larry-page-io-keynote-google-ceo-blasts-microsoft-oracle-laws-and-the-media.html"
+    },
+    {
+      "label": "Quartz, \"Does Alphabet's CEO have the right to be forgotten?\" (22 May 2019)",
+      "url": "https://qz.com/1625107/where-in-the-world-is-larry-page"
+    },
+    {
+      "label": "Reuters, Foo Yun Chee and Sudip Kar-Gupta, \"Google loses fight against record 4.1 billion euro EU antitrust fine\" (2 Jul 2026)",
+      "url": "https://www.reuters.com/world/eu-top-court-dismisses-google-fight-against-record-41-billion-eu-antitrust-fine-2026-07-02/"
+    },
+    {
+      "label": "The Hindu, \"I know Sundar will be focused on innovation: Larry Page\" (11 Aug 2015)",
+      "url": "https://www.thehindu.com/sci-tech/technology/internet/Larry-Page-speaks-on-Sundar-Pichai-becoming-CEO-of-Google/article60350936.ece"
+    },
+    {
+      "label": "Gadgets 360, on Sundar Pichai's interview story at IIT Kharagpur (5 Jan 2017)",
+      "url": "https://www.gadgets360.com/internet/features/sundar-pichai-had-to-list-improvements-gmail-needed-for-his-google-interview-1645360"
+    },
+    {
+      "label": "ETTelecom / The Economic Times, \"India to be test bed for Google's new initiatives\" (16 Sep 2014)",
+      "url": "https://telecom.economictimes.indiatimes.com/news/devices/india-to-be-test-bed-for-googles-new-initiatives/42591579"
+    },
+    {
+      "label": "Competition Commission of India, Press Release No. 55/2022-23 (20 Oct 2022)",
+      "url": "https://www.cci.gov.in/images/pressrelease/en/press-release-no-552022-231666275025.pdf"
+    },
+    {
+      "label": "Alphabet Inc. 2026 Proxy Statement (DEF 14A, SEC, filed 24 Apr 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm"
+    },
+    {
+      "label": "Business Insider, Nicholas Carlson, \"Larry Page Just Tied ALL Employees' Bonuses To The Success Of Google's Social Strategy\" (7 Apr 2011)",
+      "url": "https://www.businessinsider.com/larry-page-just-tied-employee-bonuses-to-the-success-of-the-googles-social-strategy-2011-4"
+    },
+    {
+      "label": "Search Engine Land, Matt McGee, on Page's bonus multiplier and management changes (8 Apr 2011)",
+      "url": "https://searchengineland.com/report-google-ceo-page-ties-bonuses-to-social-success-reorganizes-google-mgmt-team-72197"
+    },
+    {
+      "label": "NPR, Bill Chappell, on the Google+ data exposure and shutdown (11 Dec 2018)",
+      "url": "https://www.npr.org/2018/12/11/675529798/with-52-5-million-users-data-exposed-on-google-google-quickens-shutdown"
+    },
+    {
+      "label": "TechCrunch, Matt Burns, Larry Page's internal memo on the Motorola sale (29 Jan 2014)",
+      "url": "https://techcrunch.com/2014/01/29/heres-googles-internal-memo-on-motorolas-sale-to-lenovo/"
+    },
+    {
+      "label": "Lenovo press release, \"Lenovo Completes Acquisition of Motorola Mobility from Google\" (30 Oct 2014)",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-completes-full-acquisition-motorola-mobility-from-google/"
+    },
+    {
+      "label": "BBC News, \"Google Glass sales halted but firm says kit is not dead\" (15 Jan 2015)",
+      "url": "https://www.bbc.com/news/technology-30831128"
+    },
+    {
+      "label": "Vox / Recode, Mark Bergen, \"Google Fiber is pulling back on its broadband rollout\" (25 Aug 2016)",
+      "url": "https://www.vox.com/2016/8/25/12644888/google-fiber-broadband-cost-cuts"
+    },
+    {
+      "label": "InfoWorld, Juan Carlos Perez, \"Google to pay $500 million to settle DOJ pharma ads charges\" (24 Aug 2011)",
+      "url": "https://www.infoworld.com/article/2306489/google-to-pay-500-million-to-settle-doj-pharma-ads-charges.html"
+    },
+    {
+      "label": "BBC News, \"Google boss 'knew about' unlicensed pharmacy adverts\" (29 Aug 2011)",
+      "url": "https://www.bbc.com/news/technology-14708119"
+    },
+    {
+      "label": "Search Engine Land, Greg Sterling, on the non-prosecution agreement and Neronha's remarks (29 Aug 2011)",
+      "url": "https://searchengineland.com/google-ceo-page-said-to-avoid-potential-criminal-prosecution-in-pharma-settlement-90984"
+    },
+    {
+      "label": "Wired, Jake Pearson, \"How a Career Con Man Led a Federal Sting That Cost Google $500 Million\" (14 May 2013)",
+      "url": "https://www.wired.com/2013/05/google-pharma-whitaker-sting/"
+    },
+    {
+      "label": "E-Commerce Times, \"Steamed Shareholder Sues Google Over Drug Ads Debacle\" (2011)",
+      "url": "https://ecommercetimes.com/?p=174598"
+    },
+    {
+      "label": "The New York Times, Katie Benner and Daisuke Wakabayashi, \"How Google Protected Andy Rubin, the 'Father of Android'\" (25 Oct 2018; full text syndicated in The Seattle Times)",
+      "url": "https://www.seattletimes.com/business/how-google-protected-andy-rubin-the-father-of-android/"
+    },
+    {
+      "label": "The New York Times, Daisuke Wakabayashi and Kate Conger, \"Google Workers Fume Over Executives' Payouts After Sexual Harassment Claims\" (26 Oct 2018)",
+      "url": "https://www.nytimes.com/2018/10/26/technology/sexual-harassment-google.html"
+    },
+    {
+      "label": "Yahoo News / Deadline, \"Alphabet Settles Shareholder Sexual Harassment Suit; Limits NDAs, Ends Mandatory Arbitration\" (2020)",
+      "url": "https://ca.news.yahoo.com/alphabet-settles-shareholder-sexual-harassment-195309487.html"
+    },
+    {
+      "label": "Bloomberg, Mark Bergen, \"Google reaches $310 million settlement in misconduct case\" (28 Sep 2020, syndicated by Employee Benefit News)",
+      "url": "https://www.benefitnews.com/articles/google-reaches-310-million-settlement-in-misconduct-case"
+    },
+    {
+      "label": "Scott+Scott (plaintiffs' co-lead counsel), \"Google: Record-setting $310 million corporate reform settlement\"",
+      "url": "https://scott-scott.com/google-record-setting-310-million-corporate-reform-settlement/"
+    },
+    {
+      "label": "CNN Business, Kaya Yurieff, \"Google co-founders Larry Page and Sergey Brin stepping down from Alphabet roles\" (3 Dec 2019)",
+      "url": "https://www.cnn.com/2019/12/03/tech/alphabet-google-co-founder-larry-page-step-down"
+    },
+    {
+      "label": "Reuters, Jasmin Melvin, \"Google pays $22.5 million to settle Apple Safari charges\" (9 Aug 2012)",
+      "url": "https://www.reuters.com/article/idUSBRE8780VE20120809/"
+    },
+    {
+      "label": "Court of Justice of the European Union, Press Release No 135/24, Google Shopping (10 Sep 2024)",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2024-09/cp240135en.pdf"
+    },
+    {
+      "label": "The Indian Express, Karan Mahadik, on Google and CCI pleas before the Supreme Court (20 Sep 2024)",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-cci-pleas-android-antitrust-case-supreme-court-9578620/"
+    },
+    {
+      "label": "Reuters, David Shepardson and Mike Scarcella, \"Google has an illegal monopoly on search, US judge finds\" (5 Aug 2024)",
+      "url": "https://www.reuters.com/legal/us-judge-rules-google-broke-antitrust-law-search-case-2024-08-05/"
+    },
+    {
+      "label": "Reuters, Jody Godoy and Mike Scarcella, \"Google keeps Chrome and Apple deal but must share data\" (2 Sep 2025)",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/google-keeps-chrome-apple-deal-must-share-data-big-antitrust-ruling-2025-09-02/"
+    },
+    {
+      "label": "Reuters, Jody Godoy, \"Google appeals US court ruling on search monopoly\" (22 May 2026)",
+      "url": "https://www.reuters.com/legal/litigation/google-appeals-us-court-ruling-search-monopoly-2026-05-22/"
+    },
+    {
+      "label": "European Commission press release IP/25/1992, \"Commission fines Google 2.95 billion euros\" (5 Sep 2025)",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_25_1992/IP_25_1992_EN.pdf"
+    },
+    {
+      "label": "U.S. Court of Appeals for the Second Circuit, Authors Guild v. Google, No. 13-4829 (16 Oct 2015)",
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca2-13-04829/pdf/USCOURTS-ca2-13-04829-0.pdf"
+    },
+    {
+      "label": "Supreme Court of the United States, docket 15-849 (petition denied 18 Apr 2016)",
+      "url": "https://www.supremecourt.gov/docketfiles/15-849.htm"
+    },
+    {
+      "label": "Supreme Court of the United States, Google LLC v. Oracle America, Inc., No. 18-956 (5 Apr 2021)",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf"
+    },
+    {
+      "label": "Alphabet Investor Relations: 2026 Annual Meeting of Shareholders, voting results",
+      "url": "https://abc.xyz/investor/annual-meeting/"
+    },
+    {
+      "label": "Forbes, Matt Durot, \"How California's Billionaire Exodus Is Changing Who's Richest In Other States\" (14 Oct 2026)",
+      "url": "https://www.forbes.com/sites/mattdurot/2026/10/14/how-californias-billionaire-exodus-is-changing-whos-richest-in-other-states/"
+    },
+    {
+      "label": "Forbes, Mary Whitfill Roeloffs, \"Larry Page, Sergey Brin Lose Combined $60 Billion As Alphabet Stock Drops\" (29 Oct 2026)",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/29/googles-larry-page-sergey-brin-lose-combined-60-billion-as-alphabet-stock-drops/"
+    },
+    {
+      "label": "Forbes, Fiona Riley, \"Google's Larry Page Ascends To World's Third-Richest\" (30 Oct 2026, via Yahoo Finance)",
+      "url": "https://uk.finance.yahoo.com/news/google-larry-page-ascends-world-161234523.html"
+    },
+    {
+      "label": "Forbes Wealth Team, \"The Top 10 Richest People In The World, November 2026\"",
+      "url": "https://www.forbes.com/sites/forbeswealthteam/article/the-top-ten-richest-people-in-the-world/"
+    },
+    {
+      "label": "The New York Times, \"Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and A.I. Chatbots\" (20 Jan 2023)",
+      "url": "https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html"
+    },
+    {
+      "label": "CNBC, Ashley Capoot, \"Google co-founder's flying car startup is winding down\" (21 Sep 2022)",
+      "url": "https://www.cnbc.com/2022/09/21/google-co-founders-flying-car-start-up-is-winding-down.html"
+    },
+    {
+      "label": "Business Insider, Hugh Langley, \"Inside Larry Page's secret bet to 3D-print the future of air travel\" (12 Mar 2025)",
+      "url": "https://www.businessinsider.com/larry-page-new-aviation-startup-dynatomics-2025-1"
+    },
+    {
+      "label": "The Indian Express, Karan Mahadik, on Larry Page's new AI manufacturing startup (7 Mar 2025)",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-larry-page-new-ai-startup-product-manufacturing-report-9873504/"
+    },
+    {
+      "label": "Fortune, Sydney Lake, \"Larry Page could dodge nearly $15 billion in taxes after leaving California\" (20 Oct 2026)",
+      "url": "https://fortune.com/2026/10/20/larry-page-left-california-before-its-billionaire-tax-cutoff-and-spent-173-million-on-miami-mansions-hed-avoid-nearly-15-billion-if-it-passes/"
+    },
+    {
+      "label": "Forbes, Richard Nieva, on Sergey Brin's Nevada voter registration and the billionaire tax (16 Oct 2026)",
+      "url": "https://www.forbes.com/sites/mattdurot/2026/10/16/sergey-brin-registered-to-vote-in-nevada-amid-california-billionaire-tax-frenzy/"
+    }
+  ],
+  "factCheck": {
+    "method": "Every factual sentence was checked against the listed source pages read during this pass (2 November 2026). Filings, court documents and regulators' releases take priority over press where both exist, and Page's own transcripts and letters over retellings. Paywalled or blocked pages were used only as far as the search tool returned their text. Business Insider's long 2014 profile could not be fetched directly, so it rests on the excerpts the search tool returned (one served from an archived copy) and on Quartz's summary; a human should read it once in full. Quotes are verbatim, attributed and deliberately short (under 15 words). No reliable daily routine for Page exists, and the chapter says so. Copy-check before publishing: Prop 40's result (vote on 3 Nov 2026), the Indian Supreme Court status of the Android case (last confirmed Sept 2024), and the Forbes figure.",
+    "disputed": [
+      {
+        "claim": "Year of the Page–Musk 'specieist' argument",
+        "note": "The New York Times places it at Musk's 44th birthday party in July 2015; Walter Isaacson's biography dates it to 2013, per Business Insider. We use the Times date. The wording is second-hand: it comes from Musk and other attendees, and Page has not publicly described it."
+      },
+      {
+        "claim": "Details of the 2001 removal of managers",
+        "note": "Business Insider (citing Levy and Douglas Edwards) dates it to July 2001 with about 130 engineers and a half-dozen project managers and calls the idea Page's. Wired/Levy says Page and Brin decided together, with 100+ people reporting to one head of engineering. A secondary case study reports that Trillion Dollar Coach says it lasted over a year and credits the idea partly to Wayne Rosing, while Harvard Business Review dates it to 2002 and a few months. We use the Business Insider date and do not state a duration."
+      },
+      {
+        "claim": "Larry Page knew about the illegal pharmacy ads",
+        "note": "This is US Attorney Peter Neronha's statement to the Wall Street Journal, based on documents that were never made public. Wired reports that Google denied it, according to press accounts; the BBC says Google declined to address specifics. Never tested in court because of the non-prosecution agreement. Presented as a claim, not a fact."
+      },
+      {
+        "claim": "Page's knowledge of the misconduct inquiry when Rubin's $150 million grant was approved",
+        "note": "The New York Times says it is unclear whether Page or the board knew. A shareholder suit alleged they did. Rubin denied the accusation against him. The suit was settled, so no court made a finding that we could verify. The 20,000 walkout figure is from press and plaintiffs' counsel accounts."
+      },
+      {
+        "claim": "Whether California's proposed tax is annual or one-time",
+        "note": "Fortune's 8 January 2026 article calls it a 5% annual levy; Fortune's October 2026 article, CBS and other later reports describe a one-time 5% tax. We use one-time. Estimates of Page's exposure also vary with his net worth: 'well over $10 billion' in January, 'nearly $15 billion' at $292 billion in October."
+      },
+      {
+        "claim": "Page's net worth and rank",
+        "note": "Forbes figures in this chapter move daily: $300.9B (late April 2026), about $288B (14 Oct), $292B per Fortune (20 Oct), lost $31B on 29 Oct, No. 4 that morning, No. 3 by 30 Oct, $232.7B on 1 Nov. The profile fragment cites $238.1B and No. 4 on 29 Oct. These are different dates, not a contradiction, but the book should show one date."
+      },
+      {
+        "claim": "Page's Florida residency",
+        "note": "His representatives told Forbes he is a Florida resident and Forbes lists Miami, but Forbes could not find updated voter registration or a domicile declaration and said in October 2026 that he was not registered to vote in Florida."
+      },
+      {
+        "claim": "The Motorola 'loss'",
+        "note": "The headline gap between the $12.5 billion purchase and $2.91 billion sale ignores the patents Google kept. We do not state a net loss figure."
+      }
+    ]
+  }
+}

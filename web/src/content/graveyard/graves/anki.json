@@ -1,0 +1,174 @@
+{
+  "slug": "anki",
+  "name": "Anki",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Consumer robots and AI toys",
+  "founded": 2010,
+  "died": 2019,
+  "status": "sold-for-parts",
+  "brandColor": "#e94e1b",
+  "founders": [
+    { "name": "Boris Sofman", "role": "Co-founder and CEO" },
+    { "name": "Mark Palatucci", "role": "Co-founder" },
+    { "name": "Hanns Tappeiner", "role": "Co-founder" }
+  ],
+  "epitaph": "Cozmo had feelings. The cash flow had none.",
+  "oneLiner": "Robotics PhDs who made AI-powered toys: self-driving race cars and Cozmo and Vector, tiny robots with big personalities.",
+  "causeOfDeath": "Anki sold real products and over $100M a year, but costly hardware and heavy overheads needed constant new money, and a last funding deal fell through.",
+  "raisedUsdM": 182,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "$182M raised per Crunchbase (TechCrunch); The Robot Report says about $200M. No valuation published. Assets sold to Digital Dream Labs in 2019 for an undisclosed price.",
+  "moneySrc": [2, 3],
+  "inOneMinute": [
+    "Anki's robotics PhDs **debuted on stage at Apple's 2013 developer conference**, then built Cozmo, a palm-sized robot with the personality of a cartoon pet.",
+    "It sold **1.5 million robots** and made **$118 million in revenue in 2018**. This was not a company without customers.",
+    "But hardware was costly and overheads high. When **a late-stage investor deal fell through** in April 2019, Anki shut down within days."
+  ],
+  "killerLine": "Revenue is not survival. **If every dollar of sales costs more than a dollar to earn, growth just digs the hole faster.**",
+  "numbers": [
+    { "value": "1.5M", "label": "robots sold by August 2018", "src": [3, 4] },
+    { "value": "$118M", "label": "gross revenue in 2018", "src": [2] },
+    { "value": "$182M", "label": "raised from investors", "src": [3] },
+    { "value": "6.5M", "label": "customers over its lifetime", "src": [2] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: robots that feel alive",
+      "body": "Boris Sofman, Mark Palatucci and Hanns Tappeiner met while studying robotics at Carnegie Mellon University. In 2010 they started Anki in San Francisco with a bold idea: take the AI used in research robots and put it **into toys that ordinary families could afford**. In June 2013, Apple invited them on stage at its WWDC keynote to show Anki Drive: little race cars that drove themselves around a track, controlled from your iPhone, making \"thousands of decisions every second\". That same day Anki announced **$50 million in funding** from Andreessen Horowitz, Index Ventures and Two Sigma. Few hardware startups ever get a launch like that.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The rise: Cozmo steals hearts",
+      "body": "Anki Drive went on sale in Apple Stores in October 2013. In 2014 Anki raised $55 million more, led by JP Morgan, and launched the improved Overdrive track set in 2015. Then in October 2016 came **Cozmo**, a $180 forklift-shaped robot that could recognise faces, play games and sulk when it lost. Sofman said it was purposely designed to be imperfect, because perfection is boring. Anki said Cozmo was **the best-selling toy in its class for the whole of 2017**. Revenue in 2017 was just under $100 million. In 2018 it launched Vector, a $250 home robot, after a $2 million Kickstarter. By August 2018, Anki had sold **1.5 million robots**.",
+      "src": [0, 4, 5, 6]
+    },
+    {
+      "title": "The cracks: the hardware treadmill",
+      "body": "Behind the success was a hard business. Each robot needed motors, cameras, chips and batteries, plus years of software and character animation work before a single unit could be sold. Anki also kept costly cloud servers running so the robots could think and talk. In 2018 its gross revenue reached **$118 million**, and over its life it earned **more than $325 million**. Yet the company still depended on raising new money to fund the next product. Jacob Hanchar, who later bought Anki's assets, said its **overhead (running costs) was the main cause** of its troubles.",
+      "src": [2, 3]
+    },
+    {
+      "title": "The fall: the deal that didn't close",
+      "body": "In early 2019 Anki was negotiating with a strategic investor (a company that invests for business reasons, not just profit). Late in the process, the deal fell through. Anki said it lacked the **\"significant funding to support a hardware and software business\"**. On 29 April 2019, CEO Boris Sofman held an emotional staff meeting, and the whole team was let go that week. The patents, brands and data were sold through an auction firm. As Hanchar put it: **\"They had a plan, were patenting things like crazy, and then it just falls off a cliff and ends one day.\"** Millions of robots in homes suddenly depended on servers with no company behind them.",
+      "src": [2, 3]
+    }
+  ],
+  "timeline": [
+    { "date": "2010", "event": "Carnegie Mellon robotics graduates found Anki", "kind": "start", "src": [0] },
+    { "date": "Jun 2013", "event": "Debuts Anki Drive on stage at Apple's WWDC; announces $50M funding", "kind": "money", "src": [1] },
+    { "date": "Oct 2013", "event": "Anki Drive goes on sale in Apple Stores", "kind": "start", "src": [0] },
+    { "date": "Sep 2014", "event": "Raises $55M Series C led by JP Morgan", "kind": "money", "src": [0] },
+    { "date": "Oct 2016", "event": "Cozmo launches at $180", "kind": "peak", "src": [6] },
+    { "date": "2017", "event": "Revenue just under $100M; Cozmo best-selling toy in its class", "kind": "peak", "src": [4] },
+    { "date": "Oct 2018", "event": "Vector home robot launches at $250", "kind": "start", "src": [5] },
+    { "date": "2018", "event": "Gross revenue hits $118M; 1.5M robots sold", "kind": "peak", "src": [2, 4] },
+    { "date": "Apr 2019", "event": "Late-stage strategic investment falls through; all staff let go", "kind": "end", "src": [3] },
+    { "date": "Dec 2019", "event": "Digital Dream Labs buys all of Anki's assets", "kind": "after", "src": [2] },
+    { "date": "Sep 2024", "event": "Pennsylvania sues Digital Dream Labs over unfulfilled robot orders", "kind": "after", "src": [7] }
+  ],
+  "charts": [
+    {
+      "title": "Anki's revenue",
+      "unit": "$ millions (2017 = 'just under $100M')",
+      "kind": "bar",
+      "labels": ["2017", "2018"],
+      "series": [{ "name": "Revenue", "values": [100, 118] }],
+      "takeaway": "Sales were growing when Anki died. Revenue alone doesn't keep a costly hardware company alive.",
+      "src": [2, 4]
+    }
+  ],
+  "rounds": [
+    { "date": "Jun 2013", "round": "Series A and B", "amountUsdM": 50, "valuationUsdM": null, "investors": ["Andreessen Horowitz", "Index Ventures", "Two Sigma"], "src": [1] },
+    { "date": "Sep 2014", "round": "Series C", "amountUsdM": 55, "valuationUsdM": null, "investors": ["JP Morgan"], "src": [0] },
+    { "date": "Jun 2016", "round": "Series D", "amountUsdM": 53, "valuationUsdM": null, "investors": ["JP Morgan"], "src": [0] }
+  ],
+  "causes": [
+    { "key": "unit-economics", "weight": 35 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "burn", "weight": 25 },
+    { "key": "business-model", "weight": 10 }
+  ],
+  "mistakes": [
+    {
+      "title": "Revenue without enough profit",
+      "explain": "Anki made $118 million in 2018, but it still needed outside money to survive. That means **making and selling each robot, plus running the company, cost more than it earned**. Its future buyer blamed overhead. Big sales numbers can hide a business that loses money on every step.",
+      "src": [2, 3]
+    },
+    {
+      "title": "One funding deal from death",
+      "explain": "When a single strategic investor walked away late in talks, **Anki had no plan B** and closed within days. A company that can't survive one failed fundraise is running too close to the edge. Raising earlier, cutting costs sooner, or having backup investors could have bought time.",
+      "src": [3]
+    },
+    {
+      "title": "Robots that depended on its servers",
+      "explain": "Cozmo and Vector needed Anki's cloud servers to work fully. That added running costs every month, and when Anki died, **millions of customers' robots were left at risk**. The buyer had to keep Amazon servers running just to keep them alive.",
+      "src": [2]
+    },
+    {
+      "title": "A new hit needed again and again",
+      "explain": "Anki went from Drive to Overdrive to Cozmo to Vector, each a new product needing years of engineering and fresh money. **A business that needs a new hit every couple of years** must have plenty of cash between hits, and Anki didn't. One slow launch or one failed fundraise could end it.",
+      "src": [0, 2]
+    }
+  ],
+  "warningSigns": [
+    "Does your company still need fresh investment to survive even though sales are growing?",
+    "Would one investor walking away force you to shut down within weeks?",
+    "Will your product stop working if your company's servers go offline?",
+    "Do most of your sales come in one season of the year?",
+    "Is each new product taking years and most of your cash to build?"
+  ],
+  "lessons": [
+    {
+      "title": "Know your profit per unit and your monthly costs",
+      "detail": "For every product, write down: price, cost to make, shop's cut, shipping and support. Then add your monthly salaries and rent. If the math doesn't close, more sales won't save you."
+    },
+    {
+      "title": "Start fundraising when you don't need it",
+      "detail": "Begin raising at least 9–12 months before cash runs out, and talk to several investors at once. Never bet the company on one deal closing."
+    },
+    {
+      "title": "Design products that work offline",
+      "detail": "If your gadget needs your servers, plan what happens if you shut down. Customers trust brands that don't leave them with a dead device."
+    },
+    {
+      "title": "Add recurring revenue to hardware",
+      "detail": "Subscriptions, add-on content or services smooth out seasonal sales. A toy sold once at Diwali or Christmas pays only once."
+    },
+    {
+      "title": "A great stage debut is not a business",
+      "detail": "Launching at Apple's conference gave Anki huge attention. Still, judge your company by profit and cash, not by applause."
+    }
+  ],
+  "quote": {
+    "text": "They had a plan, were patenting things like crazy, and then it just falls off a cliff and ends one day.",
+    "who": "Jacob Hanchar, CEO of Digital Dream Labs (which bought Anki's assets)",
+    "context": "Speaking to The Robot Report about Anki's sudden end, December 2019",
+    "src": [2]
+  },
+  "afterlife": {
+    "text": "In December 2019 Digital Dream Labs, a Pittsburgh edtech startup, bought all of Anki's patents, brands, data and the anki.com domain, and later relaunched Cozmo and Vector. In September 2024, Pennsylvania's Attorney General sued Digital Dream Labs, alleging most of about 14,000 prepaid robot orders went unfulfilled. In early 2025 the company rebranded back to Anki.",
+    "src": [0, 2, 7]
+  },
+  "sources": [
+    { "label": "Wikipedia: Anki (American company), for products and funding rounds", "url": "https://en.wikipedia.org/wiki/Anki_(American_company)" },
+    { "label": "TechCrunch: Anki debuts at WWDC with an AI car racing game, raises $50M (Jun 2013)", "url": "https://techcrunch.com/2013/06/10/anki-debuts-at-wwdc-with-an-ai-car-racing-game-raises-50m-from-a16z-and-others/" },
+    { "label": "The Robot Report: Anki assets acquired by Digital Dream Labs (Dec 2019)", "url": "https://www.therobotreport.com/anki-assets-acquired-by-digital-dream-labs/" },
+    { "label": "TechCrunch: Cozmo maker Anki is shutting its doors (Apr 2019)", "url": "https://techcrunch.com/2019/04/29/cozmo-maker-anki-is-shutting-its-doors/" },
+    { "label": "TechCrunch: Anki has sold 1.5 million robots (Aug 2018)", "url": "https://techcrunch.com/2018/08/08/anki-has-sold-1-5-million-cozmo-robots/" },
+    { "label": "Engadget: Anki's Vector robot companion is available today (Oct 2018)", "url": "https://www.engadget.com/2018-10-15-anki-vector-robot-companion-available-today.html" },
+    { "label": "Wikipedia: Cozmo, for launch date and price", "url": "https://en.wikipedia.org/wiki/Cozmo" },
+    { "label": "CBS News Pittsburgh: Pennsylvania AG sues Digital Dream Labs (Sep 2024)", "url": "https://www.cbsnews.com/pittsburgh/news/pa-attorney-general-lawsuit-digital-dream-labs/" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Total funding", "note": "TechCrunch (citing Crunchbase) says $182M; The Robot Report says about $200M." },
+      { "claim": "Cozmo sold 1.5 million units", "note": "TechCrunch corrected its headline: 1.5 million is all Anki robots; Cozmo sold 'hundreds of thousands'." },
+      { "claim": "Who the failed strategic investor was", "note": "Never named publicly." },
+      { "claim": "Pennsylvania's case against Digital Dream Labs", "note": "These are allegations in a lawsuit against the later owner, not findings, and do not concern Anki's original team." }
+    ]
+  }
+}

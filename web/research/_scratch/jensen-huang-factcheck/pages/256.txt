@@ -1,0 +1,149 @@
+ 
+ Jensen Huang puts humanoid robots and physical AI at the centre of NVIDIA’s European ambitions - Rockingrobots 
+ Home 
+ Categories 
+ Bots & Business 
+ Bots &#038; Brains 
+ Bots in Society 
+ Bots &#038; Bullets 
+ Bots on stage 
+ People in Robotics 
+ Events 
+ Partners 
+ About us 
+ Contact 
+ Zoek 
+ Home Bots & Business Jensen Huang puts humanoid robots and physical AI at the centre of NVIDIA’s European ambitions 
+ Bots & Business Bots in Society Bots on stage International People in Robotics Spotlight 
+ Jensen Huang puts humanoid robots and physical AI at the centre of NVIDIA’s European ambitions
+ Rocking Robots reports from NVIDIA GTC in Berlin
+ by Marco van der Hoeven 
+ 22 oktober 2026 
+ written by Marco van der Hoeven 
+ 22 oktober 2026 
+ 228 
+ Humanoid robots, autonomous vehicles and AI systems capable of learning new physical skills were among the central themes of NVIDIA CEO Jensen Huang’s keynote at GTC Berlin on Wednesday. NVIDIA announced a new humanoid reference platform with Germany’s Agile Robots, expanded its autonomous-driving partnerships and demonstrated how AI agents can help develop and train robots. Behind these announcements was a broader message: Huang believes Europe’s industrial expertise could give the region an important position in the emerging market for physical AI. 
+ Speaking at the Tempodrom in Berlin on 21 October, Huang identified humanoid robotics as a potential next major computing platform. His argument was that robotics development has historically been fragmented, with different machines designed and programmed for individual tasks. A more standardized humanoid platform, combined with AI models capable of learning new skills, could allow robot manufacturers and developers to build on common technology rather than starting from scratch.
+ Humanoid robots will not necessarily be the best solution for every application, Huang acknowledged, but their ability to operate in environments designed for people could make them suitable for a broad range of activities. The challenge is to develop systems that can acquire new skills without requiring extensive programming by specialist robotics teams.
+ Agile Robots introduces humanoid reference platform
+ One of the main robotics announcements was Agile ONE SN, a humanoid reference platform developed by German robotics company Agile Robots in collaboration with NVIDIA. The robot is designed to provide researchers and developers with an integrated starting point for building and testing humanoid applications.
+ Agile ONE SN is based on the Agile ONE S humanoid, which stands 1.40 metres tall and weighs 40 kilograms. It has 31 degrees of freedom and two five-fingered hands equipped with tactile sensing. NVIDIA's Jetson Thor platform provides onboard computing, while the Isaac GR00T foundation model supports the development of robot behaviours and coordinated movement.
+ The platform is scheduled to become available in early 2027. Its primary purpose is research and development rather than immediate deployment as an autonomous industrial worker. By supplying hardware, computing capabilities and software in a preconfigured system, NVIDIA and Agile Robots aim to reduce the integration work required before developers can begin training robot skills.
+ Agile Robots CEO Zhaopeng Chen also told Reuters that the company plans to produce between 1,000 and 2,000 humanoid robots next year, with production expected to begin in late 2026.
+ Huang presented the collaboration as part of NVIDIA's wider effort to establish a common development environment for humanoid robotics. The company's Isaac platform is being expanded with Isaac Lab 3.0 for robot learning, Isaac OS for connecting AI software to robotic hardware, and additional simulation assets and datasets.
+ European robotics companies including ABB Robotics, KUKA, NEURA Robotics, Sereact, Universal Robots, Hexagon Robotics and Humanoid are already developing applications with parts of NVIDIA's robotics technology.
+ Training robots before they enter the real world
+ A recurring theme throughout Huang's presentation was that intelligent robots need more than powerful AI models. NVIDIA's approach relies on three computing environments: one for training AI models, another for developing and testing robot behaviour in simulation, and a third for running the resulting software on the physical machine.
+ The simulation stage is particularly important because robots must learn to deal with situations that would be expensive, slow or potentially dangerous to reproduce repeatedly in the real world. NVIDIA's Omniverse, Isaac Sim and Isaac Lab technologies are designed to support this process by allowing developers to create virtual environments in which robots can practice movements, interact with objects and learn from repeated attempts.
+ Huang illustrated the approach with Microduck, a small walking robot developed by France's Pollen Robotics in collaboration with Hugging Face. During the keynote, several of the duck-shaped robots walked around the stage, responded to commands and demonstrated movements, including somersaults.
+ The accompanying demonstration showed how AI agents could help automate the robot development process. Using NVIDIA's RTX Spark computing platform, agents worked with engineering and simulation tools including FreeCAD, Blender, Isaac Sim and the Newton physics engine to construct a virtual environment and prepare the robot for training.
+ Thousands of simulated Microducks then practiced navigating obstacles in Isaac Lab. The resulting control software was transferred to the physical robots. The demonstration connected two of Huang's main themes: AI agents that can use software tools independently, and physical AI systems that learn through simulation before operating in the real world.
+ Autonomous vehicles become part of the same robotics strategy
+ Huang also described autonomous vehicles as one of the most immediate commercial applications of physical AI. NVIDIA is expanding the ecosystem around its Hyperion platform, which combines onboard computing, sensors and software infrastructure for automated and autonomous driving.
+ Among the European partners highlighted were Volkswagen Commercial Vehicles, Mercedes-Benz and Volvo Cars. Volkswagen Commercial Vehicles is using Hyperion for its autonomous ID. Buzz AD platform, while Volvo is adopting Hyperion and NVIDIA's Alpamayo software stack for future automated-driving systems. Mercedes-Benz is extending its existing collaboration with NVIDIA on higher levels of driving automation.
+ Mobility provider Bolt is also working with NVIDIA on a European robotaxi programme involving future Lucid vehicles. The companies plan to begin gathering driving data in Madrid in 2027, subject to regulatory approval, as part of preparations for a proposed European fleet of at least 25,000 level 4-capable vehicles.
+ These developments remain at different stages of implementation. Some concern technology platforms and validation programmes rather than commercially operating robotaxi services. NVIDIA's strategy is to provide an underlying architecture that multiple vehicle manufacturers and mobility providers can use, rather than developing a single branded autonomous fleet.
+ Physical AI applications discussed during the keynote also extended beyond conventional robotics. Huang highlighted work with Siemens Healthineers on adaptive radiotherapy, where AI-supported robotic systems could help adjust radiation treatment as a patient's position or tumour geometry changes.
+ AI agents move beyond generating answers
+ After discussing robotics and autonomous machines, Huang returned to the software systems that could increasingly develop, operate and support them.
+ He argued that AI agents represent a fundamental change in how computing resources are used. Rather than simply responding to prompts, agents can reason about problems, develop plans, access information and use software tools to carry out sequences of tasks.
+ Huang identified five components of an AI agent: a model that supports reasoning and planning, a software harness that coordinates its activities, a secure execution environment, access to relevant knowledge, and tools that allow it to perform work.
+ Security was a major part of this discussion. NVIDIA introduced its OpenShell Reference Architecture, which builds on its OpenShell secure runtime and combines software isolation with hardware-supported monitoring through NVIDIA BlueField-4 and Sentry.
+ The objective is to give autonomous agents access to company systems without allowing them unrestricted control over files, networks or credentials. Policies determine which resources an agent can use, while monitoring systems can intervene when its behaviour crosses defined boundaries.
+ Huang also demonstrated how agents could use specialist software in industrial environments. At Siemens' Electronics Factory in Erlangen, agents are being developed to support production planning and prepare inspection systems using virtual prototypes and simulation. Dassault Systèmes demonstrated engineering agents that work with CATIA and SIMULIA to modify vehicle designs and evaluate engineering requirements.
+ In life sciences, Lila Sciences is combining AI models with laboratory automation to create workflows in which agents propose experiments, use computational tools and pass selected designs to robotic laboratory systems for physical testing.
+ These examples illustrate NVIDIA's ambition to connect general-purpose AI reasoning with specialist industrial software. Instead of replacing simulation, engineering and scientific applications, the agents are designed to use those existing tools to complete increasingly complex workflows.
+ Europe must produce AI, not just consume it
+ The industrial focus of the keynote was closely connected to Huang's assessment of Europe's position in the global AI market.
+ According to Huang, NVIDIA has committed nearly $10 billion to its European ecosystem over the past year and now works with more than 12,000 partners across the region. During a European tour preceding GTC Berlin, the company also announced investments in 14 startups.
+ Huang argued that Europe has particular strengths in mechanical engineering, electronics, manufacturing and industrial systems. These capabilities could become increasingly relevant as AI moves beyond software applications into factories, vehicles, laboratories and autonomous machines.
+ However, he also stressed that Europe should develop its own AI capabilities rather than depend entirely on technology and infrastructure produced elsewhere.
+ "To be part of this AI economy, you don't want to just be consuming the AI. You want to be producing the AI," Huang told the audience.
+ NVIDIA's infrastructure announcements reflected that message. The company introduced DSX POD, a modular approach to building AI data centres using its Vera Rubin computing platform. The systems are assembled, connected and tested in factory-built containers before delivery, reducing the amount of installation work required on site.
+ According to NVIDIA, the approach could shorten deployment at prepared locations from approximately six months to as little as 14 days. The first systems are expected to be delivered by partners in early 2027.
+ Huang also emphasized the importance of open AI models that European companies can customize using their own data. NVIDIA's Nemotron language models, Cosmos world models and Isaac GR00T robotics models are central to this strategy, allowing businesses to develop specialized systems based on their own knowledge and operational requirements.
+ The overall message from Berlin was that NVIDIA wants to provide the computing infrastructure, AI models, development tools and security systems behind a new generation of industrial applications.
+ For Europe's robotics industry, the most immediate opportunities lie in developing and testing autonomous machines on shared AI platforms. Whether humanoids ultimately achieve the volumes Huang anticipates remains uncertain, but the announcements in Berlin show how NVIDIA is positioning robotics, autonomous vehicles and industrial AI agents as interconnected markets.
+ As Huang repeatedly emphasized, Europe's manufacturing expertise provides a starting point. The question is how quickly that expertise can be translated into practical AI-powered systems operating outside controlled demonstrations.
+ NVIDIA physical AI robots 
+ Facebook Twitter Linkedin Email 
+ previous post 
+ Reliable Robotics Secures $115 Million to Expand Autonomous Aviation Technology
+ next post 
+ Robots in retail learn by watching
+ Misschien vind je deze berichten ook interessant
+ Meta develops humanoid robot Max with China's Fourier,... 
+ 2 november 2026 
+ Foundry Robotics Raises $100 Million to Expand Autonomous... 
+ 2 november 2026 
+ Analysis: The lessons of NVIDA GTC Berlin 
+ 2 november 2026 
+ Pudu Robotics Opens European Headquarters in Neuss, Germany 
+ 2 november 2026 
+ Maximo Robotics Completes More Than 300,000 Construction Tasks... 
+ 30 oktober 2026 
+ 10Beauty Acquires Nail Robotics Company Nimble 
+ 30 oktober 2026 
+ Europe launches initiative to make virtual worlds safer,... 
+ 30 oktober 2026 
+ Case: From Inbox to Shipment, AI Agent Is... 
+ 29 oktober 2026 
+ North American Robot Orders Rise 24.8% in Third... 
+ 29 oktober 2026 
+ Birmingham Gears Up to Host European Robotics Forum... 
+ 29 oktober 2026 
+ Search 
+ Categories 
+ Bots & Business 
+ Bots & Brains 
+ Bots in Society 
+ Bots & Bullets 
+ Bots on stage 
+ People in robotics 
+ Countries 
+ United Kingdom 
+ Deutschland 
+ France 
+ Denmark 
+ Our community 
+ Linkedin 
+ Join our community 
+ Linkedin 
+ About Rocking Robots 
+ Independent newsplatform RockingRobots tells the story of humans, robots and artificial intelligence. More than ever, technology affects society as a whole, from people and companies to government and healthcare. We follow the digital transformation and the people shaping the new world.
+ Your Business in the Spotlight with Rocking Robots 
+ In an era where technology is the driving force behind transformation in every sector, it is essential to keep up and even be one step ahead. Rocking Robots is your partner in telling the story of humans, robots, and artificial intelligence (AI).
+ @2026 Mediabureau Leiden BV | All Rights Reserved.
+ Home 
+ Categories 
+ Bots & Business 
+ Bots &#038; Brains 
+ Bots in Society 
+ Bots &#038; Bullets 
+ Bots on stage 
+ People in Robotics 
+ Events 
+ Partners 
+ About us 
+ Contact 
+ Home 
+ Categories 
+ Bots & Business 
+ Bots &#038; Brains 
+ Bots in Society 
+ Bots &#038; Bullets 
+ Bots on stage 
+ People in Robotics 
+ Events 
+ Partners 
+ About us 
+ Contact 
+ @2026 Mediabureau Leiden BV | All Rights Reserved.
+ Lees ook x 
+ Agilis conduts live animal trials with robot... 
+ 17 januari 2023 
+ &#8216;Growing need for drone safety' 
+ 24 april 2025 
+ Wine distributor employs autonomous mobile robots 
+ 5 juli 2024 
+ 

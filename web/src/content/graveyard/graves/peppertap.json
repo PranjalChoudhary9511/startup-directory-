@@ -1,0 +1,451 @@
+{
+  "slug": "peppertap",
+  "name": "PepperTap",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Grocery delivery",
+  "founded": 2014,
+  "died": 2016,
+  "status": "shut-down",
+  "brandColor": "#d7262f",
+  "founders": [
+    {
+      "name": "Navneet Singh",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Milind Sharma",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Two-hour delivery. Seventeen-month life.",
+  "oneLiner": "An app that delivered groceries from your local kirana and supermarket stores within two hours.",
+  "causeOfDeath": "It lost money on every order, kept it hidden with discounts, and raced to 17 cities before the model worked in one.",
+  "raisedUsdM": 51.2,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure adds the rounds reported in US dollars by TechCrunch and Inc42 ($1.2M + $10M + $36M + $4M debt from InnoVen). Valuations were never published. The parent's logistics assets were sold to Shadowfax in 2017 for an undisclosed cash sum.",
+  "moneySrc": [
+    0,
+    3,
+    6
+  ],
+  "inOneMinute": [
+    "PepperTap raised about **$50 million in under a year** and went from 1 city to 17 in five months.",
+    "Its founder later admitted it was **losing cash on every order**, and discounts kept growing every week.",
+    "In April 2016 it shut the grocery app, laid off 150 people and **pivoted to logistics**."
+  ],
+  "killerLine": "If you lose money on each order, more orders just means **losing money faster**. Fix one order before chasing a million.",
+  "numbers": [
+    {
+      "value": "$51M",
+      "label": "raised in about nine months of 2015",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "value": "1 → 17",
+      "label": "cities between April and September 2015",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "20,000",
+      "label": "orders on an average day (Oct 2015)",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "3,000",
+      "label": "people on the team at its peak (Sep 2015)",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Navneet Singh worked six days a week. He hated losing two hours of his one day off standing in a grocery store. So in November 2014, in Gurgaon, he and Milind Sharma started PepperTap. The clever part: it did not own warehouses or stock. It partnered with **existing local stores**, split each city into zones, and sent a delivery person to pick up your order and bring it home **within two hours**. Stores got more sales. PepperTap took a service charge from them. Singh called it \"a capital-efficient model\". On paper, it was lighter and cheaper than rivals like BigBasket, which bought and stored its own stock.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "Growth was dizzying. In January 2015 PepperTap got 30–40 orders a day. By September it was getting **15,000–17,000 a day**, and one weekend of newspaper ads pushed it to 40,000. It raised $1.2 million in March, $10 million in April and **$36 million in September**, led by Snapdeal. It jumped from Gurgaon alone to 17 cities and planned 75 by March 2016. The team grew to 3,000 people. Singh expected to sell $250 million of groceries a year by March 2016. Every chart pointed up. In total it raised about $51 million in under a year, including $4 million of debt (a loan) in December.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "Behind the charts, each order lost money. To keep the two-hour promise, PepperTap had to keep spare delivery staff waiting in every city. Small stores had to be talked into using computer billing. Big chains' data had to be plugged into PepperTap's system, and customers often could not see everything a store had. Singh later wrote that the team spent huge energy on **\"clever sales and discount schemes\"**, which led to bigger discounts every week. PepperTap also chose not to charge a delivery fee because some customers might not pay it. Then, in early 2016, the funding mood turned. In February it **shut six cities** and let about 400 delivery staff go.",
+      "src": [
+        5,
+        7,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In April 2016, about 17 months after launch, PepperTap told staff the grocery app was ending. Singh said the company was **\"losing cash on every order\"** and that the problems were \"not solvable in the short term\". He chose to stop and \"preserve a large amount of the investor capital\" rather than burn it all. About 150 people lost their jobs, with up to three months' salary as compensation. About 50 moved to the parent company, Nuvo Logistics, which did returns and deliveries for Paytm, Snapdeal and ShopClues. In 2017, delivery company Shadowfax bought Nuvo's business assets for **a fraction of its 2015 peak value**.",
+      "src": [
+        4,
+        3,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Nov 2014",
+      "event": "Navneet Singh starts PepperTap in Gurgaon.",
+      "kind": "start",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Mar 2015",
+      "event": "Raises $1.2 million seed money.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Apr 2015",
+      "event": "Raises $10 million from SAIF Partners and Sequoia Capital.",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "event": "Raises $36 million led by Snapdeal. Now in 17 cities with 3,000 staff; aims for 75 cities.",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "event": "Hits about 20,000 orders on an average day.",
+      "kind": "peak",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "event": "Takes $4 million of venture debt from InnoVen and buys Bengaluru startup Jiffstore.",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Feb 2016",
+      "event": "Shuts six cities including Mumbai and Kolkata; about 400 delivery staff let go.",
+      "kind": "warning",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Apr 2016",
+      "event": "Shuts the grocery app, cuts 150 jobs and pivots to e-commerce logistics.",
+      "kind": "end",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Late 2017",
+      "event": "Shadowfax buys the business assets of parent NuvoEx for an undisclosed cash sum.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Orders per day",
+      "unit": "orders per day",
+      "kind": "line",
+      "labels": [
+        "Jan 2015",
+        "Jul 2015",
+        "Sep 2015",
+        "Oct 2015",
+        "Apr 2016"
+      ],
+      "series": [
+        {
+          "name": "Average daily orders (midpoint of reported range)",
+          "values": [
+            35,
+            3000,
+            16000,
+            20000,
+            11000
+          ]
+        }
+      ],
+      "takeaway": "Orders grew about 500 times in nine months, which hid the fact that each one lost money. Where reports gave a range, we plot its midpoint.",
+      "src": [
+        0,
+        1,
+        4,
+        3
+      ]
+    },
+    {
+      "title": "Cities served",
+      "unit": "cities",
+      "kind": "bar",
+      "labels": [
+        "Apr 2015",
+        "Sep 2015",
+        "Feb 2016",
+        "May 2016"
+      ],
+      "series": [
+        {
+          "name": "Cities",
+          "values": [
+            1,
+            17,
+            8,
+            0
+          ]
+        }
+      ],
+      "takeaway": "It expanded 17 times over in five months, then had to pull back almost as fast.",
+      "src": [
+        0,
+        2,
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Mar 2015",
+      "round": "Seed",
+      "amountUsdM": 1.2,
+      "valuationUsdM": null,
+      "investors": [
+        "Sequoia Capital"
+      ],
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Apr 2015",
+      "round": "Series A",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [
+        "SAIF Partners",
+        "Sequoia Capital"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "round": "Series B",
+      "amountUsdM": 36,
+      "valuationUsdM": null,
+      "investors": [
+        "Snapdeal",
+        "Sequoia India",
+        "SAIF Partners",
+        "Ru-Net",
+        "JAFCO Asia",
+        "BeeNext"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "round": "Venture debt",
+      "amountUsdM": 4,
+      "valuationUsdM": null,
+      "investors": [
+        "InnoVen Capital"
+      ],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 45
+    },
+    {
+      "key": "over-expansion",
+      "weight": 30
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    },
+    {
+      "key": "competition",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Lost money on every single order",
+      "explain": "Each delivery cost more than PepperTap earned from it. The CEO said so himself: it was **\"losing cash on every order\"**. Fast growth only made the hole deeper. The team never proved that one order, in one zone, could make money on its own before multiplying it by 20,000 a day.",
+      "src": [
+        4
+      ]
+    },
+    {
+      "title": "Went to 17 cities in five months",
+      "explain": "From one city in April 2015 to 17 in September, with 75 planned. Each new city needed spare riders to keep the two-hour promise and new stores to be trained on software. Singh later wrote that they had **brought too many stores online far too quickly**. Shutting six cities a few months later wasted much of that spending.",
+      "src": [
+        0,
+        5,
+        7,
+        2
+      ]
+    },
+    {
+      "title": "Bought orders with ever-bigger discounts",
+      "explain": "Sales schemes grew into **higher discounts every week**. Discounts bring people who love the deal, not the service, and they leave when the deal ends. PepperTap also refused to charge a delivery fee, fearing some customers would not pay. That fear kept the most obvious fix off the table.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Built a promise that was expensive to keep",
+      "explain": "The two-hour window was what customers loved. But it meant paying riders to wait for orders in quiet hours, in every zone, in every city. A next-day or chosen-slot option could have **bundled orders** and cut costs. A promise is only an advantage if you can afford to keep it.",
+      "src": [
+        7,
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Are you unsure, to the rupee, how much you make or lose on one order after delivery and discounts?",
+    "Are your discounts getting bigger every month just to keep the same number of orders?",
+    "Are you opening new cities before your first city makes money?",
+    "Is there an obvious fee you are afraid to charge because customers 'might not pay'?",
+    "Does your main promise (speed, price, choice) need costly spare capacity that sits idle?"
+  ],
+  "lessons": [
+    {
+      "title": "Write down the cost of one order",
+      "detail": "List every cost of a single order: rider, packing, discount, payment fee, support. Compare it with what you earn. If the number is negative, fix that before spending on ads or new cities."
+    },
+    {
+      "title": "Test the fee you are scared of",
+      "detail": "Charge a small delivery fee to half your users for two weeks. See how many leave. Real data beats fear, and you may find most people happily pay for convenience."
+    },
+    {
+      "title": "Discounts are a loan from your future",
+      "detail": "Track how many customers order again without a coupon. If almost nobody does, you have bought traffic, not customers."
+    },
+    {
+      "title": "Shut down early if you must",
+      "detail": "Singh stopped while there was still investor money left, paid staff compensation and moved people into the logistics business. Ending cleanly protects your name for the next venture."
+    },
+    {
+      "title": "Match your promise to your density",
+      "detail": "Fast delivery only pays when many orders sit close together. Start in a few dense neighbourhoods where riders are always busy, then widen the circle."
+    }
+  ],
+  "quote": {
+    "text": "In the race to pepper the whole country with PepperTap, we had brought too many stores online far too quickly.",
+    "who": "Navneet Singh, co-founder & CEO",
+    "context": "In a post on YourStory after the shutdown, as quoted by The Quint.",
+    "src": [
+      5
+    ]
+  },
+  "afterlife": {
+    "text": "After the grocery app closed, the founders focused on the parent company, Nuvo Logistics (NuvoEx), which handled returns and deliveries for e-commerce companies. In late 2017 delivery startup Shadowfax agreed to buy NuvoEx's business assets in a cash deal reported to be a fraction of its 2015 peak value. Quick grocery delivery came back years later with Blinkit, Zepto and Instamart, using dark stores (their own small warehouses) instead of partner shops.",
+    "src": [
+      6,
+      3
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: PepperTap lands $36M to expand to 75 cities (Sep 2015)",
+      "url": "https://techcrunch.com/?p=1216563"
+    },
+    {
+      "label": "Outlook Business: Groceries on tap (Jul 2015)",
+      "url": "https://www.outlookbusiness.com/magazine/story/groceries-on-tap-1542"
+    },
+    {
+      "label": "TechCrunch: Fearing investment climate, PepperTap scales back (Feb 2016)",
+      "url": "https://techcrunch.com/?p=1274697"
+    },
+    {
+      "label": "Inc42: Grocery startup PepperTap to shut down hyperlocal delivery operations (Apr 2016)",
+      "url": "https://inc42.com/buzz/peppertap-shutdown"
+    },
+    {
+      "label": "Business Today / PTI: PepperTap shuts grocery delivery ops, 150 staffers laid off (Apr 2016)",
+      "url": "https://www.businesstoday.in/latest/corporate/story/peppertap-shuts-grocery-delivery-ops-150-staffers-laid-off-63375-2016-04-25"
+    },
+    {
+      "label": "The Quint: The real reasons why Indian startups are shutting down",
+      "url": "https://www.thequint.com/tech-and-auto/tech-news/the-real-reasons-why-indian-startups-are-shutting-down-peppertap-tinyowl-and-zomato"
+    },
+    {
+      "label": "Legal Era: Shadowfax acquires assets of PepperTap owner NuvoEx Logistics (2017)",
+      "url": "https://www.legaleraonline.com/amp/deal-street/shadowfax-acquires-assets-of-peppertap-owner-nuvoex-logistics"
+    },
+    {
+      "label": "Quartz: PepperTap's collapse shows everything that is wrong with India's young internet companies (Apr 2016)",
+      "url": "https://qz.com/669142/peppertaps-collapse-shows-everything-that-is-wrong-with-indias-young-internet-companies"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total funding of $40 million.",
+        "note": "PTI reported $40 million raised; adding the individual rounds (including $4 million of InnoVen debt) gives about $51 million. TechCrunch said 'close to $50 million'."
+      },
+      {
+        "claim": "Orders per day at shutdown.",
+        "note": "Inc42 gave both 10,000–12,000 a day and 'over 20K a day' (as of February 2016) in the same article. Our chart uses the 10,000–12,000 range for April 2016."
+      },
+      {
+        "claim": "Founding month.",
+        "note": "Outlook Business says November 2014; PTI says September 2014."
+      }
+    ]
+  }
+}

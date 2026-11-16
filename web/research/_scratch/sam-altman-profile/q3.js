@@ -1,0 +1,5 @@
+const titles=["File:Sam Altman speaking at TED (cropped).jpg","File:Meeting with Masayoshi Son and Sam Altman (February 3, 2025) (3x4 cropped on Altman).jpg"];
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+(async()=>{for(const t of titles){await sleep(8000);const u="https://commons.wikimedia.org/w/api.php?action=query&titles="+encodeURIComponent(t)+"&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1000&format=json";
+const r=await fetch(u,{headers:{"User-Agent":"BillionDollarPDFsResearch/1.0 (one-off research script)"}});const x=await r.text();let j;try{j=JSON.parse(x)}catch(e){console.log("RATE",t);continue}const p=Object.values(j.query.pages)[0];const i=p.imageinfo&&p.imageinfo[0];if(!i){console.log("MISSING",t);continue}const m=i.extmetadata;const s=k=>m[k]?String(m[k].value).replace(/<[^>]+>/g,"").trim().slice(0,200):"";
+console.log(JSON.stringify({t,thumb:i.thumburl,orig:i.url,page:i.descriptionurl,w:i.width,artist:s("Artist"),lic:s("LicenseShortName"),date:s("DateTimeOriginal"),desc:s("ImageDescription")}));}})();

@@ -1,0 +1,867 @@
+{
+  "slug": "philips",
+  "company": "Philips (Royal Philips)",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#0B5ED7",
+    "secondary": "#0A2A66",
+    "accent": "#4FA3F7",
+    "ink": "#0A1F44",
+    "paper": "#F4F2EC",
+    "note": "Philips blue #0B5ED7 is the single brand colour listed by Brand Palettes and matches the blue wordmark on Philips's own documents; the navy, light blue, ink and warm paper are our own tints of that blue."
+  },
+  "tagline": "Two brothers turned a struggling bulb workshop into Europe's electronics giant; a century later it had sold almost everything it was famous for.",
+  "hook": "In 1892 Gerard Philips's new factory made about 11,000 light bulbs, and many of them did not work. By 1971 the company had 367,000 employees. Today it has about 65,000, and it no longer makes light bulbs at all.",
+  "hookSrc": [
+    3,
+    9,
+    17,
+    25,
+    16
+  ],
+  "cast": [
+    {
+      "name": "Frederik Philips",
+      "role": "Gerard's father (1830–1900): a tobacco and coffee trader, manufacturer and banker in Zaltbommel. He co-founded the firm with Gerard in 1891, paid for the start, and rescued it when it nearly failed in 1893. His own father, Lion Philips, was Karl Marx's uncle: Marx's letters to him begin 'Dear Uncle'.",
+      "photo": null,
+      "src": [
+        0,
+        6,
+        7,
+        8,
+        26
+      ]
+    },
+    {
+      "name": "Anton Philips",
+      "role": "Gerard's brother, 16 years younger, and a failure at trade school. He came to Eindhoven in January 1895 at 20 for what was meant to be six months of sales help, and stayed. He sold lamps across Europe from a third-class train seat, sometimes 21 nights a month, ran the company alone from 1922 to 1939 and died in 1951.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Anton_philips.jpg/1280px-Anton_philips.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Anton_philips.jpg",
+        "caption": "Anton Philips, Gerard's younger brother and the company's great salesman, photographed between 1922 and 1933.",
+        "author": "Franz Ziegler",
+        "license": "CC0",
+        "year": null
+      },
+      "src": [
+        2,
+        6
+      ]
+    },
+    {
+      "name": "Frits Philips",
+      "role": "Anton's son (1905–2005). He stayed in the Netherlands when the board fled the German invasion in 1940. In 1943 Philips ran a workshop inside the Vught concentration camp that kept Jewish prisoners working for the company; many of them survived the war, and Frits was himself held at Vught for months that year. In 1995 Yad Vashem recognised him as Righteous Among the Nations. As president from 1961 to 1971 he saw staff grow from 226,000 to 367,000.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frits_Philips_%281971%29.jpg/960px-Frits_Philips_%281971%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Frits_Philips_(1971).jpg",
+        "caption": "Frits Philips outside the Evoluon science centre in Eindhoven, 26 May 1971, the year he stepped down as president.",
+        "author": "Rob Mieremet",
+        "license": "CC BY-SA 3.0 nl",
+        "year": 1971
+      },
+      "src": [
+        9,
+        10,
+        27,
+        11,
+        6
+      ]
+    }
+  ],
+  "founder": {
+    "name": "Gerard Philips",
+    "role": "Co-founder, Philips",
+    "born": "9 Oct 1858, Zaltbommel, Netherlands",
+    "died": "26 Jan 1942, The Hague, Netherlands",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gerard_philips.jpg/1280px-Gerard_philips.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gerard_philips.jpg",
+      "caption": "Gerard Philips (1858–1942), who founded Philips with his father in 1891. Early 20th century.",
+      "author": "Franz Ziegler",
+      "license": "CC0",
+      "year": null
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Philipsfabriekje.jpg/960px-Philipsfabriekje.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Philipsfabriekje.jpg",
+        "caption": "The first small Philips factory on the Emmasingel in Eindhoven, where production began in 1892. It now houses the Philips Museum.",
+        "author": "Lempkesfabriek",
+        "license": "CC BY-SA 3.0",
+        "year": 2008
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oudste_fabriek_N.V._Philips_-_Eindhoven_-_20068444_-_RCE.jpg/1280px-Oudste_fabriek_N.V._Philips_-_Eindhoven_-_20068444_-_RCE.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Oudste_fabriek_N.V._Philips_-_Eindhoven_-_20068444_-_RCE.jpg",
+        "caption": "The oldest Philips factory building in Eindhoven, photographed for the Dutch heritage agency in 1978.",
+        "author": "Loek Tangel",
+        "license": "CC BY-SA 4.0",
+        "year": 1978
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Portret_van_Gerard_Philips%2C_RP-P-2010-329-48.jpg/1280px-Portret_van_Gerard_Philips%2C_RP-P-2010-329-48.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Portret_van_Gerard_Philips,_RP-P-2010-329-48.jpg",
+        "caption": "Gerard Philips in a 1923 drypoint portrait by the printmaker Emil Orlik, a year after he retired.",
+        "author": "Emil Orlik (printmaker), via Rijksmuseum",
+        "license": "CC0",
+        "year": 1923
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Aftreden_van_Gerard_Philips_als_directeur_van_de_Philips_Gloeilampenfabriek%2C_NG-2015-25.jpg/1280px-Aftreden_van_Gerard_Philips_als_directeur_van_de_Philips_Gloeilampenfabriek%2C_NG-2015-25.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Aftreden_van_Gerard_Philips_als_directeur_van_de_Philips_Gloeilampenfabriek,_NG-2015-25.jpg",
+        "caption": "A bronze medal made in 1922 to mark Gerard Philips stepping down as director of the lamp factory.",
+        "author": "Rijksmuseum",
+        "license": "CC0",
+        "year": 1922
+      }
+    ],
+    "background": "Gerard Philips was born in 1858 in Zaltbommel, a small Dutch river town, into a well-off merchant family. His father, Frederik, traded tobacco and coffee and ran a bank; his grandfather Lion Philips was Karl Marx's uncle. He went to secondary school in Zaltbommel and Arnhem, then to the Delft Polytechnic in 1876, where he switched from civil to mechanical engineering and graduated in 1883. He was shy of attention all his life and left no personal archive.",
+    "backgroundSrc": [
+      0,
+      7,
+      8,
+      6,
+      26
+    ],
+    "journey": [
+      {
+        "year": "1858",
+        "kind": "life",
+        "title": "Born in Zaltbommel",
+        "detail": "Son of Frederik Philips, a tobacco and coffee trader and banker, and Maria Heijligers.",
+        "src": [
+          0,
+          7
+        ]
+      },
+      {
+        "year": "1876",
+        "kind": "life",
+        "title": "Engineering at Delft",
+        "detail": "Started in civil engineering, switched to mechanical engineering and graduated in 1883.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1883",
+        "kind": "job",
+        "title": "Volunteer at a shipyard",
+        "detail": "Spent a year as a volunteer at the De Schelde shipyard in Vlissingen.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1885",
+        "kind": "job",
+        "title": "Shipyard trainee in Glasgow",
+        "detail": "Trained in ship installations at a Glasgow shipyard and took a course in electric lighting and power transmission.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1886",
+        "kind": "life",
+        "title": "In Lord Kelvin's research group",
+        "detail": "Joined the 1886–87 research group of Sir William Thomson, later Lord Kelvin, at the University of Glasgow. In 1887 he won a silver medal for the top exam score from the City and Guilds of London Institute.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1887",
+        "kind": "job",
+        "title": "Anglo-American Brush, London",
+        "detail": "Joined the Anglo-American Brush Electric Light Corporation and worked on projects on the Continent, including Berlin.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1890",
+        "kind": "failure",
+        "title": "A lamp factory plan falls through",
+        "detail": "He had planned a Dutch lamp factory with Brush, but early in 1890 the English company dropped the idea.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1890",
+        "kind": "job",
+        "title": "Negotiator for AEG",
+        "detail": "Represented AEG of Berlin in talks with Amsterdam about an electricity concession. When that ended, he went back to his lamp plan.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1891",
+        "kind": "attempt",
+        "title": "Philips & Co. is founded",
+        "detail": "On 15 May 1891 he and his father formed a partnership to make carbon-filament lamps in Eindhoven, buying glass bulbs and fittings from outside.",
+        "src": [
+          0,
+          1,
+          5
+        ]
+      },
+      {
+        "year": "1892",
+        "kind": "failure",
+        "title": "Lamps that did not work",
+        "detail": "Production began in a small factory on the Emmasingel. About 11,000 lamps were made in 1892, but many failed.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "year": "1893",
+        "kind": "failure",
+        "title": "Near failure, saved by his father",
+        "detail": "The firm nearly failed in 1893 and Frederik rescued it. Gerard filled a pocket notebook with experiments to make even carbon filaments.",
+        "src": [
+          6,
+          3
+        ]
+      },
+      {
+        "year": "1895",
+        "kind": "breakthrough",
+        "title": "Anton joins to sell",
+        "detail": "His brother Anton came for six months of sales help and stayed. Output grew from 400,000 lamps in 1895 to 4 million in 1905.",
+        "src": [
+          2,
+          6,
+          0
+        ]
+      },
+      {
+        "year": "1905",
+        "kind": "breakthrough",
+        "title": "First patent: a longer-lasting lamp",
+        "detail": "Granted in Berlin on 7 December 1905, for extending the life of carbon-filament lamps.",
+        "src": [
+          4
+        ]
+      },
+      {
+        "year": "1912",
+        "kind": "breakthrough",
+        "title": "A public company",
+        "detail": "NV Philips' Gloeilampenfabrieken was formed. The family kept 55% and sold the rest, mainly to protect the family's own money.",
+        "src": [
+          0,
+          6
+        ]
+      },
+      {
+        "year": "1914",
+        "kind": "breakthrough",
+        "title": "Starts a research lab",
+        "detail": "Founded the Natuurkundig Laboratorium (NatLab). At the time he held only four lighting patents.",
+        "src": [
+          0,
+          6,
+          4
+        ]
+      },
+      {
+        "year": "1922",
+        "kind": "life",
+        "title": "Steps down",
+        "detail": "Handed the company to Anton on 1 April 1922, when it employed 5,500 people in the Netherlands. He moved to Paris and later Cannes.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "year": "1942",
+        "kind": "now",
+        "title": "Dies in The Hague",
+        "detail": "Died on 26 January 1942, aged 83, without children. He left his paintings to The Hague's municipal museum.",
+        "src": [
+          0
+        ]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Quality first, quantity follows",
+        "explain": "His rule, recorded by Philips and by his biographer, was that when the quality is there, the quantity comes naturally.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "idea": "Do one thing well",
+        "explain": "Philips began with a single product, the carbon-filament lamp, and bought parts like glass bulbs from suppliers instead of making everything.",
+        "src": [
+          1,
+          6
+        ]
+      },
+      {
+        "idea": "Research comes before products",
+        "explain": "He believed scientific research had to come first for a company to keep inventing, and in 1914 he set up a physics lab to do it.",
+        "src": [
+          0,
+          1
+        ]
+      },
+      {
+        "idea": "Turn new technology into cheap lamps, fast",
+        "explain": "The historian Marcel Metze calls him a master at quickly turning new technology, whether developed, 'stolen' or licensed, into lamps made at large scale and low cost.",
+        "src": [
+          6
+        ]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Kept a pocket notebook of experiments",
+        "detail": "His surviving 1893 notebook, small enough for an inside pocket, records five weeks of trials on spraying, charring and gluing filaments.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "habit": "Ruled out causes one by one",
+        "detail": "He worked by trial and error, listed what was not causing a fault, and crossed out conclusions that later proved wrong.",
+        "src": [
+          3
+        ]
+      },
+      {
+        "habit": "Did the research himself",
+        "detail": "For years he ran the lab work alone or with one or two assistants. He later said that in the beginning he had to do everything by himself.",
+        "src": [
+          6,
+          3
+        ]
+      }
+    ],
+    "darkestHour": {
+      "title": "1892–1893: a lamp factory whose lamps failed",
+      "story": "Gerard was 32 when he and his father started Philips & Co. He had spent years in shipyards, in Lord Kelvin's lab and at Brush, and one lamp-factory plan had already collapsed. When the Eindhoven factory began production in 1892 it made about 11,000 lamps, and many of them failed. The hard part was the filament: the carbon thread had to be perfectly even, and he was firing it in a hand-fired oven, judging the heat by eye. In 1893 the firm nearly failed, and his father, the banker, put in money to rescue it. Gerard kept going in a pocket notebook, testing one cause after another, and ordered a gas oven so he could control the heat. In January 1895 his brother Anton arrived to sell what the factory could now make.",
+      "src": [
+        0,
+        3,
+        6
+      ]
+    },
+    "genuineness": {
+      "story": "Gerard and his wife Johanna had no children, so in 1916 they set up the Philips-van der Willigen Fund to pay for the education of Philips employees' children. Around 1900 Philips was already offering free health insurance and paid sick leave and building homes for its workers, and in 1913 part of the money from selling shares went into a pension fund.",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    },
+    "now": "Gerard Philips died in The Hague on 26 January 1942, during the German occupation, and left his art collection to the city's museum. The company he started is now a health-technology firm selling hospital equipment, patient monitoring and personal-care products such as shavers. It sold most of its chip business in 2006 and in 2016 spun off its lighting business, which was renamed Signify in 2018. In 2025 it had sales of EUR 17.8 billion and 64,817 employees. Under a 2024 US consent decree it may not sell new sleep-apnoea machines in the US until it meets the FDA's conditions.",
+    "nowSrc": [
+      0,
+      17,
+      25,
+      18,
+      15,
+      16
+    ]
+  },
+  "numbers": [
+    {
+      "value": "EUR 17.8 bn",
+      "label": "Group sales (2% comparable growth)",
+      "asOf": "FY2025",
+      "src": [
+        17,
+        24
+      ]
+    },
+    {
+      "value": "64,817",
+      "label": "Employees (full-time equivalents)",
+      "asOf": "Dec 2025",
+      "src": [
+        17,
+        25
+      ]
+    },
+    {
+      "value": "367,000",
+      "label": "Employees when Frits Philips stepped down as president",
+      "asOf": "1971",
+      "src": [
+        9
+      ]
+    },
+    {
+      "value": "4 million",
+      "label": "Lamps a year, up from 400,000 in 1895",
+      "asOf": "1905",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "value": "USD 1.1 bn",
+      "label": "Capped settlement of US personal-injury and medical-monitoring claims over recalled breathing machines",
+      "asOf": "Apr 2024",
+      "src": [
+        18,
+        17
+      ]
+    },
+    {
+      "value": "EUR 7.07 bn",
+      "label": "Net cash consideration for 80.1% of its chip business (now NXP)",
+      "asOf": "Sep 2006",
+      "src": [
+        15
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1891",
+      "title": "Philips & Co. founded",
+      "detail": "Gerard and his father Frederik start making carbon-filament lamps in Eindhoven on 15 May 1891.",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "year": "1895",
+      "title": "Anton joins",
+      "detail": "The younger brother takes over sales; by 1898 he is coming back from Russia with big orders.",
+      "src": [
+        2,
+        6
+      ]
+    },
+    {
+      "year": "1912",
+      "title": "NV Philips' Gloeilampenfabrieken",
+      "detail": "The firm becomes a public company, with the family keeping 55%.",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "year": "1914",
+      "title": "NatLab",
+      "detail": "The research lab opens; its X-ray tube work became the start of Philips's health business.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "year": "1927",
+      "title": "Radios",
+      "detail": "Philips starts selling radios; the millionth was sold in 1932, five years later.",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "year": "1939",
+      "title": "Philishave",
+      "detail": "The rotary electric shaver; Philips says it has sold an average of 700 an hour since.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "year": "1963",
+      "title": "The Compact Cassette",
+      "detail": "Philips showed its first compact cassette recorder in August 1963 at the radio exhibition in Berlin.",
+      "src": [
+        13,
+        5
+      ]
+    },
+    {
+      "year": "1982",
+      "title": "The Compact Disc",
+      "detail": "Developed with Sony; launched in Japan in November 1982 and in Europe and the US four months later.",
+      "src": [
+        14,
+        23
+      ]
+    },
+    {
+      "year": "2006",
+      "title": "Chips sold",
+      "detail": "80.1% of Philips Semiconductors sold to a KKR-led group on 29 September 2006 and renamed NXP.",
+      "src": [
+        15
+      ]
+    },
+    {
+      "year": "2016",
+      "title": "Lighting spun off",
+      "detail": "Philips Lighting listed in Amsterdam in 2016 and was renamed Signify in 2018. It still uses the Philips brand under licence.",
+      "src": [
+        16
+      ]
+    },
+    {
+      "year": "2021",
+      "title": "The breathing-machine recall",
+      "detail": "On 14 June 2021 Philips Respironics recalled CPAP, BiPAP and ventilator devices over breaking-down foam.",
+      "src": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "Consent decree and settlements",
+      "detail": "Philips agreed a consent decree with the US Justice Department for the FDA and a capped USD 1.1 bn settlement of US injury claims.",
+      "src": [
+        18
+      ]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Philips now sells health technology in three units. Diagnosis & Treatment sells imaging and treatment systems to hospitals, a business that grew out of its 1914 lab's X-ray tubes. Connected Care sells patient monitoring and sleep and breathing devices. Personal Health sells shavers and other personal-care products to shoppers; in 2025 it had the fastest comparable sales growth (8%) and the highest adjusted EBITA margin (18%) of the three. Philips also lets Signify use the Philips name on its lamps under a licence.",
+    "flows": [
+      {
+        "from": "Hospitals",
+        "to": "Philips",
+        "what": "Buy imaging systems, monitors and service contracts (Diagnosis & Treatment, Connected Care)"
+      },
+      {
+        "from": "Shoppers",
+        "to": "Retailers",
+        "what": "Buy shavers and other personal-care products"
+      },
+      {
+        "from": "Retailers",
+        "to": "Philips",
+        "what": "Pay wholesale prices for Personal Health products"
+      },
+      {
+        "from": "Signify",
+        "to": "Philips",
+        "what": "Uses the Philips brand on lamps under a licensing agreement"
+      }
+    ],
+    "src": [
+      17,
+      5,
+      16
+    ]
+  },
+  "failures": [
+    {
+      "year": "1924",
+      "title": "The cartel that shortened bulb life",
+      "whatHappened": "On 23 December 1924 Philips joined Osram, GE's overseas subsidiaries and other makers in the Phoebus cartel, which split the world lamp market into quotas. It set the standard life of a household bulb at 1,000 hours, down from the 1,500 to 2,000 hours that had been common, and fined factories whose bulbs strayed from it. Members argued that shorter-lived bulbs were brighter and more efficient; the historian Markus Krajewski concludes that the motive was profit and sales. The cartel was meant to last until 1955 but ended in 1940. Philips's own first patent, in 1905, had been for making lamps last longer.",
+      "lesson": "A deal with your rivals that works against your customers can make money for a while, but it ends up as the story people remember.",
+      "src": [
+        12,
+        6,
+        4
+      ]
+    },
+    {
+      "year": "1930",
+      "title": "Sixty per cent of the workforce let go",
+      "whatHappened": "In April 1929 Anton Philips shook hands with his 20,000th Eindhoven employee. When the Depression hit, sales went into near free fall and Eindhoven staff fell from over 20,000 to under 9,000. Anton left the firing to his son-in-law Frans Otten, and the company skipped its 40th birthday in 1931.",
+      "lesson": "Fast growth with high fixed costs is fragile. Build a cash cushion in good years, and as a leader, face the hard decisions yourself.",
+      "src": [
+        6,
+        2
+      ]
+    },
+    {
+      "year": "1979",
+      "title": "Brilliant inventions, losing formats",
+      "whatHappened": "Philips invented the cassette and co-invented the CD, but its Video 2000 video recorder, launched in 1979, arrived when Betamax and VHS had already taken most of the market, and it lost millions on its CD-i multimedia player before stopping production. In 1990 Philips lost about USD 2.5 bn and planned to cut 45,000 to 55,000 of its 272,000 jobs by the end of 1991; under president Jan Timmer, more cuts followed in 1992.",
+      "lesson": "Inventing something is not the same as winning the market. Price, partners and speed decide which format people actually buy.",
+      "src": [
+        7,
+        21,
+        28
+      ]
+    },
+    {
+      "year": "2021",
+      "title": "The recall that cost billions",
+      "whatHappened": "Philips's US subsidiary Respironics had used a polyester-based foam to make its sleep-apnoea machines quieter. ProPublica and the Pittsburgh Post-Gazette found that Philips withheld more than 3,700 complaints over 11 years from the FDA before the June 2021 recall. It agreed to pay at least USD 479 million to settle customers' economic-loss claims and a capped USD 1.1 bn for US injury and medical-monitoring claims, without admitting fault, and under a 2024 US consent decree it may resume selling new CPAP and BiPAP machines in the US only when the decree's requirements are met.",
+      "lesson": "When customers report a safety problem, act on it and tell the regulator. Hiding it multiplies the cost and the damage to trust.",
+      "src": [
+        19,
+        20,
+        18
+      ]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Karl Marx wrote Das Kapital in the Philips family home.",
+      "fact": "Marx really was family: his letters to Gerard's grandfather Lion Philips begin 'Dear Uncle', and he stayed with the family in Zaltbommel. But the idea that he wrote Das Kapital there is a story Frits Philips liked to tell, not something proven.",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "myth": "Gerard Philips built Philips on his own.",
+      "fact": "His father paid for the start and rescued the firm in 1893, and his brother Anton turned the lamps into sales across Europe. Gerard said that in the beginning he did everything himself, but the company only took off once the three were working together.",
+      "src": [
+        6,
+        2,
+        3
+      ]
+    },
+    {
+      "myth": "Philips still makes Philips light bulbs.",
+      "fact": "The lighting business was spun off in 2016 and renamed Signify in 2018. Signify makes the lamps and pays to use the Philips name.",
+      "src": [
+        16
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "When the quality is there, the quantity comes naturally.",
+      "who": "Gerard Philips's guiding principle, as recorded by the Philips Museum",
+      "src": [
+        1
+      ]
+    },
+    {
+      "text": "in the beginning I had to do everything by myself",
+      "who": "Gerard Philips, on the company's first years",
+      "src": [
+        3
+      ]
+    },
+    {
+      "text": "If business ever turns bad and I have worries about the factory, I don't want to worry about our own capital.",
+      "who": "Anton Philips to his wife, on the 1912 share sale (as quoted by Marcel Metze)",
+      "src": [
+        6
+      ]
+    },
+    {
+      "text": "Figures are important; people are more important.",
+      "who": "Frits Philips",
+      "src": [
+        9
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Fix quality before you chase sales",
+      "detail": "In 1892 many of Philips's 11,000 lamps failed. Gerard spent 1893 in a notebook fixing the filament before Anton was sent out to sell. Whether you make phone cases in Noida or ghee in Gujarat, sell hard only once the product works every time."
+    },
+    {
+      "title": "The maker needs a seller",
+      "detail": "Gerard was a shy engineer; Anton, a failure at trade school, slept on trains with a case of samples. Look for a co-founder whose strengths fill your gaps instead of copying them."
+    },
+    {
+      "title": "Know who will back you on a bad day",
+      "detail": "Frederik rescued the firm in 1893. Most Indian startups begin with family or friends' money. Agree early what happens if things go wrong, so a rescue does not break the family."
+    },
+    {
+      "title": "Never trade your customer's trust for profit",
+      "detail": "Philips helped cap bulb life at 1,000 hours in 1924, and a century later agreed to pay more than USD 1.5 bn after withholding complaints about its breathing machines from the regulator. One unhappy customer review is a warning; act on it before a regulator such as the FSSAI or CDSCO has to."
+    },
+    {
+      "title": "Being first is not enough; you have to win",
+      "detail": "Philips invented the cassette and co-invented the CD, yet lost the video-recorder and multimedia format wars and later sold its chips and lighting. Great engineering needs pricing, partners and focus to survive."
+    }
+  ],
+  "moments": [],
+  "sources": [
+    {
+      "label": "A. Heerding, 'Philips, Gerard Leonard Frederik (1858-1942)', Biografisch Woordenboek van Nederland 3 (1989), Huygens Institute",
+      "url": "https://resources.huygens.knaw.nl/bwn1880-2000/lemmata/bwn3/philips"
+    },
+    {
+      "label": "Philips Museum, 'Portrait: Gerard Philips'",
+      "url": "https://www.philips.nl/en/a-w/philips-museum/stories/gerard-philips.html"
+    },
+    {
+      "label": "Philips Museum, 'Anton Philips (1874-1951)'",
+      "url": "https://www.philips.nl/en/a-w/philips-museum/stories/anton-philips-1874-1951.html"
+    },
+    {
+      "label": "Philips Museum, 'Report of research: Notebook Gerard Philips (from 1893)'",
+      "url": "https://www.philips.nl/en/a-w/philips-museum/stories/gerard-philips-notebook.html"
+    },
+    {
+      "label": "Philips Museum, 'Extending lifespan, Philips' first patent'",
+      "url": "https://www.philips.nl/en/a-w/philips-museum/stories/philips-first-patent.html"
+    },
+    {
+      "label": "Philips, 'Our history' (official)",
+      "url": "https://www.philips.com/a-w/about/our-history.html"
+    },
+    {
+      "label": "Marcel Metze, 'Anton Philips (1874-1951): They will know who they're dealing with', English summary of the biography (Balans, 2004)",
+      "url": "http://www.metze.nl/wp-content/uploads/2007/04/Anton-Philips-summary.pdf"
+    },
+    {
+      "label": "NPO Kennis, 'Hoe werd het Koninklijke Philips groot?' (Dutch public broadcaster)",
+      "url": "https://npokennis.nl/longread/7495/hoe-werd-het-koninklijke-philips-groot"
+    },
+    {
+      "label": "Karl Marx, letter to Lion Philips, 29 March 1864 (Marx-Engels Collected Works vol. 41, via Marxists Internet Archive)",
+      "url": "https://www.marxists.org/archive/marx/works/1864/letters/64_03_29.htm"
+    },
+    {
+      "label": "Obituary of Frits Philips, first published in The Independent, 7 Dec 2005 (reprinted by Initiatives of Change)",
+      "url": "https://michaelsmith.iofc.org/node/86"
+    },
+    {
+      "label": "Benjamin Glatt, 'The Dutch electronics company exec who helped save more than 300 Jews in WWII' (Jerusalem Post, 5 Dec 2016)",
+      "url": "https://www.jpost.com/christian-news/the-dutch-electronics-company-exec-who-helped-save-more-than-300-jews-in-wwii-474474"
+    },
+    {
+      "label": "Jewish Currents, 'December 5: Frits Philips, a Righteous Dutchman'",
+      "url": "https://jewishcurrents.org/december-5-frits-philips-a-righteous-dutchman"
+    },
+    {
+      "label": "Markus Krajewski, 'The Great Lightbulb Conspiracy' (IEEE Spectrum, 24 Sep 2014)",
+      "url": "https://spectrum.ieee.org/the-great-lightbulb-conspiracy"
+    },
+    {
+      "label": "Philips media library, 'First Philips cassette recorder, 1963'",
+      "url": "https://www.philips.com/a-w/about/news/media-library/20190101-First-Philips-cassette-recorder-1963.html"
+    },
+    {
+      "label": "Philips Museum, 'Compact disc: the audio revolution'",
+      "url": "https://www.philips.nl/en/a-w/philips-museum/stories/compact-disc.html"
+    },
+    {
+      "label": "Royal Philips, Form 6-K, Q3 2006 report (US SEC): sale of 80.1% of Semiconductors",
+      "url": "https://www.sec.gov/Archives/edgar/data/313216/000115697306001159/u50917e6vk.htm"
+    },
+    {
+      "label": "Signify press release, 'Philips Lighting is now Signify' (16 May 2018)",
+      "url": "https://www.signify.com/en-us/our-company/news/press-releases/2018/20180516-philips-lighting-is-now-signify"
+    },
+    {
+      "label": "Philips, 'Philips' fourth-quarter and annual results 2025' (press release, 10 Feb 2026)",
+      "url": "https://www.philips.com/a-w/about/news/archive/corpcomms/news/press/2026/philips-fourth-quarter-results-2025.html"
+    },
+    {
+      "label": "Philips, 'Respironics recall: frequently asked questions' (investor document, 19 Feb 2025)",
+      "url": "https://www.philips.com/c-dam/assets/corporate/global/investor/Respironics_FAQ_February_19_2025.pdf"
+    },
+    {
+      "label": "Debbie Cenziper et al., 'Philips kept complaints about dangerous breathing machines secret while company profits soared' (ProPublica and Pittsburgh Post-Gazette, 27 Sep 2023)",
+      "url": "https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared"
+    },
+    {
+      "label": "Khristopher J. Brooks, 'Philips Respironics agrees to $479 million CPAP settlement' (CBS News, 8 Sep 2023)",
+      "url": "https://www.cbsnews.com/news/philips-settlement-cpap-recall-lawsuit-fda/"
+    },
+    {
+      "label": "CBR (Computer Business Review), 'Philips sees return to profit this year despite whopping $2,500m loss for 1990' (28 Feb 1991, via Tech Monitor)",
+      "url": "https://www.techmonitor.ai/?p=178384"
+    },
+    {
+      "label": "Brand Palettes, 'Philips colors' (unofficial)",
+      "url": "https://brandpalettes.com/philips-colors/"
+    },
+    {
+      "label": "Philips media library, 'Compact Disc, 1982-1983'",
+      "url": "https://www.philips.com/a-w/about/news/media-library/20190101-Philips-Compact-Disc-player-1982-1983.html"
+    },
+    {
+      "label": "AuntMinnieEurope, 'Philips' Q4, full-year results highlight growth' (10 Feb 2026)",
+      "url": "https://www.auntminnieeurope.com/industry-news/news/15816862/philips-q4-fullyear-results-highlight-growth"
+    },
+    {
+      "label": "Philips quarterly results, Q4 2025 (employee count)",
+      "url": "https://www.results.philips.com/q425"
+    },
+    {
+      "label": "Alexander Duparc collection, Dutch Jewry genealogy: Frederik Philips (1830–1900), parents and sons",
+      "url": "https://www.dutchjewry.org/genealogy/duparc/7110.shtml"
+    },
+    {
+      "label": "Yad Vashem, Righteous Among the Nations database: Frederik (Frits) Philips",
+      "url": "https://collections.yadvashem.org/en/righteous/4043449"
+    },
+    {
+      "label": "CBR (Computer Business Review), 'Philips reorganisation to happen rapidly' (15 Nov 1992, via Tech Monitor), quoting president Jan Timmer",
+      "url": "https://www.techmonitor.ai/?p=263506"
+    }
+  ],
+  "factCheck": {
+    "method": "Researched from 27 sources: the Dutch national biography (BWN), the Philips Museum's archive-based stories (including Gerard's 1893 notebook), historian Marcel Metze's Anton Philips biography summary, NPO Kennis and Philips's official history, plus Philips's 2025 results, its SEC filing on the NXP sale and its Respironics FAQ. Then independently re-checked claim by claim against the cited source plus a second source: founding, the 1893 rescue, the 1912 share sale and the 1914 lab against BWN, Metze and the Philips Museum; the Phoebus cartel against IEEE Spectrum and Metze; Frits Philips against the Independent obituary and Yad Vashem's record; the recall against ProPublica, CBS and Philips's own FAQ (settlements and consent-decree terms); FY2025 sales and employees against Philips's results release and results site. The 1980s–90s failures section no longer rests on a consultant's blog: it now uses NPO Kennis and contemporaneous 1991–92 Computer Business Review reports, and is narrowed to what those support. Quotes matched to the Philips Museum, Metze and the Independent obituary. Photo licences, authors and dates from the Commons API. The two Philips films have no creator chapters, so there are no moments.",
+    "disputed": [
+      {
+        "claim": "Lamp output in 1895.",
+        "note": "The Dutch national biography says output grew from 400,000 lamps in 1895 to 4 million in 1905; NPO Kennis says from 40,000. We use the biography's figure."
+      },
+      {
+        "claim": "When Philips first made a profit.",
+        "note": "NPO Kennis says father and son first made a profit more than ten years after 1891; Metze says turnover and profit rose steadily after the near-failure of 1893. We do not give a first-profit date."
+      },
+      {
+        "claim": "What went wrong in 1893.",
+        "note": "Metze records a 'near-failure' in 1893 and says Frederik rescued the firm, and the Philips Museum shows Gerard's filament problems that year. Popular retellings add overproduction or a plan to sell the factory; we found no reliable source for those details."
+      },
+      {
+        "claim": "The Tsar's order.",
+        "note": "NPO Kennis says Tsar Nicholas II ordered 50,000 lamps for the Winter Palace. Metze confirms only that Anton came back from Russia in 1898 with huge orders. Left out of the story."
+      },
+      {
+        "claim": "How many Jews Frits Philips saved.",
+        "note": "Reports differ: Yad Vashem's account, as reported, says 382 of the Jewish workers from the Vught workshop survived after they were deported (469 or 496 are given for the workshop's Jewish workforce in different retellings); the Jerusalem Post says 'more than 300'; Jewish Currents, quoting a book, says 'nearly five thousand' across all Philips companies. We say 'many'."
+      },
+      {
+        "claim": "When Yad Vashem recognised Frits Philips.",
+        "note": "Yad Vashem's own record gives 1995 (recognition on 18 July 1995; ceremony in The Hague); the Independent obituary and Jewish Currents say 1996, probably when the medal was presented. We say 1995."
+      },
+      {
+        "claim": "Size of the early-1990s job cuts.",
+        "note": "A February 1991 trade report gave Philips's plan as 45,000 to 55,000 of its 272,000 jobs by the end of 1991. Later accounts of the whole 1990–1996 restructuring (known inside Philips as Operation Centurion) give totals from about 35,000 to 50,000. We give the 1991 plan."
+      },
+      {
+        "claim": "Philips's peak workforce.",
+        "note": "The Independent obituary gives 367,000 in 1971; some later accounts give a higher peak in the mid-1970s. We use the 1971 figure."
+      },
+      {
+        "claim": "When CD-i was dropped.",
+        "note": "NPO Kennis says production stopped in 1996; other accounts say the product line was dropped in 1998."
+      },
+      {
+        "claim": "How many breathing machines were affected.",
+        "note": "ProPublica says as many as 15 million devices worldwide; CBS reported about 4.6 million repaired by 2023. Philips gives shares of registered devices, not a single total."
+      },
+      {
+        "claim": "Who founded Philips.",
+        "note": "Some sources name Gerard and Anton as founders; the national biography and Philips's own history name Gerard and his father Frederik in 1891, with Anton joining in 1895 and becoming a partner in 1899."
+      },
+      {
+        "claim": "How long Frits Philips was held at Vught.",
+        "note": "The Independent obituary says five months; other accounts give 30 May to 20 September 1943, after a strike at the Philips factory. We say 'for months'."
+      }
+    ]
+  }
+}

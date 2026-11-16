@@ -1,0 +1,173 @@
+{
+  "slug": "hike",
+  "name": "Hike",
+  "region": "india",
+  "country": "India",
+  "city": "New Delhi",
+  "sector": "Messaging, then real-money gaming",
+  "founded": 2012,
+  "died": 2025,
+  "status": "shut-down",
+  "brandColor": "#1e88e5",
+  "founders": [{ "name": "Kavin Bharti Mittal", "role": "Founder & CEO" }],
+
+  "epitaph": "Lost to WhatsApp. Then lost to the law.",
+  "oneLiner": "India's homegrown chat app with stickers, which later became Rush, an app for playing ludo and carrom for cash prizes.",
+  "causeOfDeath": "Its messaging app could not beat WhatsApp, and its second life in real-money gaming was wiped out when India banned online money games in 2025.",
+
+  "raisedUsdM": 261,
+  "peakValuationUsdM": 1400,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: Inc42's database lists $261 M+ across 8 rounds (TechCrunch said $250 M+ by 2016). Peak: $1.4 bn in the August 2016 round, as confirmed by the founder. End value: the Hike brand and app were later sold to a UK company; no price was published. FY23 figures are in ₹ crore as filed.",
+  "moneySrc": [4, 1, 5],
+
+  "inOneMinute": [
+    "Hike hit **100 million registered users** and a $1.4 billion valuation in 2016, as India's answer to WhatsApp.",
+    "Messaging never beat WhatsApp, so Hike shut its chat app in 2021 and **bet on Rush, a real-money gaming app**.",
+    "Rush made **$500 million+ in gross revenue**, then a 2025 law banned online money games. Hike closed in September 2025."
+  ],
+  "killerLine": "If one law can switch off your business, **you don't own your future**. Price regulatory risk in before you pivot into it.",
+
+  "numbers": [
+    { "value": "$1.4 bn", "label": "valuation in August 2016 (Tencent and Foxconn round)", "src": [1] },
+    { "value": "100 M", "label": "registered users by 2016 (not all active)", "src": [1] },
+    { "value": "$500 M+", "label": "gross revenue from Rush over about four years", "src": [2] },
+    { "value": "₹147 cr", "label": "net loss in FY23, on ₹152 crore revenue", "src": [3] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Kavin Bharti Mittal, son of Airtel founder Sunil Bharti Mittal, launched Hike in December 2012. India was just coming online on cheap smartphones. Hike was built for young Indians: **over 80% of its early users were under 25**. It offered free chat, fun Indian stickers, hidden chats for privacy, and free SMS for friends without data. In April 2014 it raised $14 million from BSB, a joint venture between Mittal and SoftBank, after tripling to about 15 million users in nine months. Mittal saw the size of what lay ahead: \"There are still less than 100 million active mobile Internet users in India, out of a population of 1.2 billion people.\"",
+      "src": [2, 0, 1]
+    },
+    {
+      "title": "The rise",
+      "body": "Hike grew fast. Tiger Global led a $65 million round in 2014. By January 2016 it had **100 million registered users**, and in August 2016 Tencent and Foxconn led a **$175 million round at a $1.4 billion valuation**. Total funding passed $250 million. Hike was handling 40 billion messages a month and adding games, news and coupons, with payments planned. It wanted to be India's 'super app' (one app for everything, like China's WeChat). Mittal insisted the giant was not his rival: \"Hike doesn't even compete with WhatsApp today, it is used very actively in addition to other apps.\" But WhatsApp already had more than 100 million active users in India.",
+      "src": [5, 1]
+    },
+    {
+      "title": "The cracks",
+      "body": "Registered users are not active users. Many people tried Hike, then went back to where their family and friends were: WhatsApp. This is the **network effect** (an app becomes more useful the more of your contacts use it), and it worked against Hike. In January 2019 Hike dropped its super-app plan and split into smaller apps, including Hike Sticker Chat. By late 2019 it was reported to have about **2 million weekly active users**, far below its 100 million sign-ups. In January 2021 Hike shut down its messaging service completely. Mittal moved the company to gaming and communities, and focused on **Rush**, where people played casual games like ludo and carrom for cash prizes.",
+      "src": [5, 1, 2]
+    },
+    {
+      "title": "The fall",
+      "body": "Rush worked. It drew **over 10 million users** and more than $500 million in gross revenue (total money played) over four years. In FY23 Hike's revenue jumped to ₹152 crore, though it still lost ₹147 crore. A US launch began in late 2024. Then, in August 2025, Parliament passed the **Promotion and Regulation of Online Gaming Act** in two days. It banned online money games, whether of skill or chance, with jail terms of up to three years for offering them. Rush's Indian business was gone overnight. In September 2025 Mittal shut Hike entirely, saying a global restart would need \"a full recap, a reset that is not the best use of capital or time.\"",
+      "src": [2, 3, 6]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Dec 2012", "event": "Kavin Bharti Mittal launches Hike Messenger.", "kind": "start", "src": [5, 2] },
+    { "date": "Apr 2014", "event": "Raises $14 M from BSB (Bharti–SoftBank); about 15 M users.", "kind": "money", "src": [0] },
+    { "date": "Jan 2016", "event": "Crosses 100 M registered users and 40 bn messages a month.", "kind": "peak", "src": [5, 1] },
+    { "date": "Aug 2016", "event": "Raises $175 M led by Tencent and Foxconn at a $1.4 bn valuation.", "kind": "peak", "src": [1] },
+    { "date": "Jan 2019", "event": "Drops the super-app plan; launches separate apps like Hike Sticker Chat.", "kind": "warning", "src": [5] },
+    { "date": "Jan 2021", "event": "Shuts down Hike's messaging service; pivots to Rush and other apps.", "kind": "crisis", "src": [5, 2] },
+    { "date": "FY23", "event": "Revenue ₹152 crore; net loss ₹147.3 crore.", "kind": "money", "src": [3] },
+    { "date": "Aug 2025", "event": "India passes a law banning online money games.", "kind": "crisis", "src": [6, 2] },
+    { "date": "Sep 2025", "event": "Mittal shuts down Hike, including its US business.", "kind": "end", "src": [2] },
+    { "date": "Nov 2025", "event": "Hike Messenger Ltd is incorporated in the UK; the brand is later sold to it and the app relaunched.", "kind": "after", "src": [7, 5] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss in the Rush years",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY22", "FY23"],
+      "series": [
+        { "name": "Revenue", "values": [21.8, 152] },
+        { "name": "Net loss", "values": [null, 147.3] }
+      ],
+      "takeaway": "Gaming finally brought real revenue, but the company was still spending about ₹2 for every ₹1 it earned.",
+      "src": [3]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Apr 2013", "round": "Series A", "amountUsdM": 7, "valuationUsdM": null, "investors": ["Bharti Enterprises", "SoftBank"], "src": [5, 0] },
+    { "date": "Apr 2014", "round": "Series B", "amountUsdM": 14, "valuationUsdM": null, "investors": ["BSB (Bharti–SoftBank)"], "src": [0] },
+    { "date": "Aug 2014", "round": "Series C", "amountUsdM": 65, "valuationUsdM": null, "investors": ["Tiger Global"], "src": [5, 1] },
+    { "date": "Aug 2016", "round": "Series D", "amountUsdM": 175, "valuationUsdM": 1400, "investors": ["Tencent", "Foxconn", "Tiger Global", "Bharti", "SoftBank"], "src": [1] }
+  ],
+
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "regulation", "weight": 35 },
+    { "key": "focus", "weight": 20 },
+    { "key": "business-model", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Building the last business on a legal grey zone",
+      "explain": "Rush let people play for cash, an area Indian governments had long debated. When the 2025 law banned online money games, **a working business vanished in days**. Mittal could have raised more, but asked if it was worth it. Founders should treat **'the law could change' as a real risk**, not a footnote.",
+      "src": [2, 6]
+    },
+    {
+      "title": "Taking on WhatsApp's network effect head-on",
+      "explain": "A chat app is only useful if your contacts are on it. WhatsApp already had 100 million+ active Indian users in 2016. Hike's stickers and features were fun, but **people stay where their family is**. Saying 'we don't compete with WhatsApp' did not change **where people actually chatted**.",
+      "src": [1]
+    },
+    {
+      "title": "Celebrating registered users instead of active users",
+      "explain": "Hike announced 100 million registered users in 2016. By late 2019 it was reported to have about 2 million weekly active users. **Sign-ups flatter; activity tells the truth.** A big registered number can hide a leaking bucket for years and lead to **raising and spending at the wrong scale**.",
+      "src": [1, 5]
+    },
+    {
+      "title": "Too many directions: super app, then many apps, then games",
+      "explain": "Hike added games, news, coupons and planned payments, then in 2019 broke into separate apps, then shut messaging in 2021 for gaming and Web3. Each pivot was a fresh start with **less money and trust than the last**. Strong founders pivot, but **every pivot resets the clock**.",
+      "src": [1, 5, 2]
+    }
+  ],
+
+  "warningSigns": [
+    "Is your growth mostly sign-ups, while weekly active users stay flat?",
+    "Does your product need users to drag their friends away from an app they already use?",
+    "Could a single new law or rule ban your main source of revenue?",
+    "Have you pivoted more than twice in three years without one pivot clearly working?",
+    "Are you still losing about as much as you earn, even after finding revenue?"
+  ],
+
+  "lessons": [
+    { "title": "Report active users to yourself every week", "detail": "Daily and weekly active users are your real score. Put them at the top of every review, above downloads or registrations." },
+    { "title": "Pick fights where network effects help you", "detail": "Start with a group the giant ignores, such as a city, a college or a language, where you can become the default before you go wider." },
+    { "title": "Map your regulatory risk before you pivot", "detail": "Before entering betting, lending, crypto or health, ask a lawyer: what could the government change, and what happens to us if it does?" },
+    { "title": "Give each pivot a clear test and deadline", "detail": "Write down what success looks like in six months. If it doesn't happen, decide calmly, instead of drifting into the next idea." },
+    { "title": "Know when to stop", "detail": "Mittal asked if the next climb was worth it and decided it wasn't. Saying no to a reset can protect investors' money and your own years." }
+  ],
+
+  "quote": {
+    "text": "For the first time in 13 years, my answer is no.",
+    "who": "Kavin Bharti Mittal, founder & CEO",
+    "context": "Announcing Hike's shutdown in September 2025, after asking whether a global restart was worth it",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "Hike shut down in September 2025, including the US business it had launched about nine months earlier. A UK company, Hike Messenger Ltd, was incorporated in London on 30 November 2025, and in 2026 the Hike app was relaunched under it; Mittal said on X that the brand and app had been sold to that company. Challenges to the gaming law moved to the Supreme Court.",
+    "src": [2, 7, 5]
+  },
+
+  "sources": [
+    { "label": "TechCrunch: Hike raises $14M (Apr 2014)", "url": "https://techcrunch.com/2014/04/02/hike-14m/" },
+    { "label": "TechCrunch: India's WhatsApp rival Hike raises $175M led by Tencent at $1.4B valuation (Aug 2016)", "url": "https://techcrunch.com/2016/08/16/indias-whatsapp-rival-hike-raises-175m-led-by-tencent-at-a-1-4b-valuation/" },
+    { "label": "TechCrunch: Hike, once a unicorn, shuts down as India cracks down on real-money gaming (Sep 2025)", "url": "https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/" },
+    { "label": "Inc42 Datalabs: Hike financials", "url": "https://inc42.com/company/hike/financials/" },
+    { "label": "Inc42 Datalabs: Hike company profile", "url": "https://inc42.com/company/hike/" },
+    { "label": "Wikipedia: Hike Messenger, with linked press reports", "url": "https://en.wikipedia.org/wiki/Hike_Messenger" },
+    { "label": "PRS Legislative Research: The Promotion and Regulation of Online Gaming Bill, 2025", "url": "https://prsindia.org/billtrack/the-promotion-and-regulation-of-online-gaming-bill-2025" },
+    { "label": "UK Companies House: Hike Messenger Ltd (16882082)", "url": "https://find-and-update.company-information.service.gov.uk/company/16882082" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Hike had about 2 million weekly active users in late 2019.", "note": "Reported by NDTV Gadgets (as cited on Wikipedia); we could not read the original article directly." },
+      { "claim": "Rush made $500 M in revenue.", "note": "TechCrunch says 'gross revenue', meaning money played on the platform, not Hike's own net revenue. Hike's filed FY23 revenue was ₹152 crore." },
+      { "claim": "The 2026 relaunch and brand sale.", "note": "Based on Mittal's X post as summarised on Wikipedia, and the UK incorporation record. We found no price or buyer details." }
+    ]
+  }
+}

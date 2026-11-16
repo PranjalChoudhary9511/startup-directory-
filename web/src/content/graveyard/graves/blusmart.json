@@ -1,0 +1,180 @@
+{
+  "slug": "blusmart",
+  "name": "BluSmart",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Electric cab-hailing",
+  "founded": 2019,
+  "died": 2025,
+  "status": "insolvent",
+  "brandColor": "#0057ff",
+  "founders": [
+    { "name": "Anmol Singh Jaggi", "role": "Co-founder" },
+    { "name": "Puneet Singh Jaggi", "role": "Co-founder" },
+    { "name": "Punit K Goyal", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Zero emissions. Zero cars left on the road.",
+  "oneLiner": "An all-electric cab app in Delhi NCR, Bengaluru and Mumbai, running cars leased from its founders' listed company, Gensol.",
+  "causeOfDeath": "Its cars were bought with loans taken by the founders' other company. SEBI alleged that money was diverted; lenders froze, and the cabs stopped overnight.",
+
+  "raisedUsdM": 180,
+  "peakValuationUsdM": 363,
+  "endValueUsdM": null,
+  "moneyNote": "Inc42 reports about $180 million raised in debt and equity. The peak valuation is Fintrackr's estimate of about ₹3,050 crore (≈$363 million) for the January 2025 round. BluSmart went into insolvency in July 2025 with no sale price yet published.",
+  "moneySrc": [1, 3, 8],
+
+  "inOneMinute": [
+    "BluSmart ran **8,500+ electric cabs** and completed 22 million rides. The cars came on lease from Gensol, a listed company run by the same founders.",
+    "Gensol borrowed **₹977.75 crore** from government lenders to buy 6,400 EVs. SEBI found only 4,704 were bought.",
+    "After SEBI's April 2025 order, **BluSmart stopped all rides within days**. In July 2025 a tribunal started insolvency proceedings."
+  ],
+  "killerLine": "When your startup's survival depends on **another company you also control**, one scandal takes down both.",
+
+  "numbers": [
+    { "value": "₹977.75 cr", "label": "loans Gensol took from IREDA and PFC, mainly to buy 6,400 EVs", "src": [4] },
+    { "value": "4,704", "label": "EVs actually bought, for ₹567.73 crore, per SEBI's interim findings", "src": [4] },
+    { "value": "₹50 cr", "label": "allegedly routed to buy a luxury flat in DLF Camellias, Gurugram", "src": [4] },
+    { "value": "10,000+", "label": "drivers left without work or pay when the cabs stopped", "src": [8] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: cabs with no petrol and no surprises",
+      "body": "In January 2019, brothers Anmol Singh Jaggi and Puneet Singh Jaggi, with Punit K Goyal, launched BluSmart in Delhi NCR. Every cab was electric. Unlike Ola or Uber, drivers did not bring their own cars; BluSmart supplied the cars and the drivers drove them. Early backers included **Deepika Padukone's family office**, which joined a $3 million angel round in September 2019. The cars came from carmakers like Mahindra, Tata and Hyundai. The big question was always the same: who pays for thousands of expensive electric cars? The answer turned out to be **the founders' other company**.",
+      "src": [0, 4]
+    },
+    {
+      "title": "The rise: 8,500 EVs and 22 million rides",
+      "body": "BluSmart kept its own books **asset-light** (it did not own most of its cars). Instead, Gensol Engineering, a listed solar company run by the Jaggi brothers, borrowed money and leased EVs to BluSmart. Between 2021 and 2024, Gensol took **₹977.75 crore** in loans from IREDA and PFC, two government-owned lenders, mainly to buy 6,400 cars for BluSmart. On the road, BluSmart boomed. By January 2025 it said it had over 8,500 EVs, 5,800 chargers and 22 million completed rides, with revenue of ₹390 crore in FY24. It expanded to Mumbai and Dubai and was raising ₹425 crore more.",
+      "src": [1, 3, 4]
+    },
+    {
+      "title": "The cracks: missed payments and fake papers",
+      "body": "In early 2025, the cracks became public. BluSmart reportedly **missed payments on ₹30 crore of bonds** in February. In March, rating agency ICRA cut Gensol's rating to D (default) and said documents Gensol had given it to show its loans were being repaid were **'falsified'**. Gensol's stock fell more than 40% in four days. Anmol Singh Jaggi denied falsifying documents. BluSmart's CEO, CTO and other leaders left. In April, Jaggi emailed staff that March salaries would be late: 'Due to current cash flow constraints, there will be a short delay in processing salaries.'",
+      "src": [2, 3]
+    },
+    {
+      "title": "The fall: SEBI's order and the empty roads",
+      "body": "On 15 April 2025, SEBI (the stock market regulator) passed an interim order. Its prima facie findings (first-look findings, not a final verdict) said only 4,704 EVs had been bought, for ₹567.73 crore, and that about ₹262 crore was unaccounted for. It alleged ₹50 crore was routed to buy a luxury flat in Gurugram, and that the company's funds were used **'as if the Company's funds were promoters' piggybank'**. It barred the brothers from the securities market. Within days, **BluSmart stopped all rides**. Lenders took back cars; rival Evera picked up 500. On 28 July 2025, NCLT Ahmedabad started insolvency proceedings against BluSmart.",
+      "src": [4, 5, 7, 8]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Jan 2019", "event": "BluSmart launches all-electric cab rides in Delhi NCR.", "kind": "start", "src": [0] },
+    { "date": "Sep 2019", "event": "Raises a $3 million angel round, including Deepika Padukone's family office.", "kind": "money", "src": [0] },
+    { "date": "2021–2024", "event": "Gensol borrows ₹977.75 crore from IREDA and PFC, mainly to buy 6,400 EVs to lease to BluSmart.", "kind": "money", "src": [4] },
+    { "date": "Jan 2025", "event": "Claims 8,500+ EVs and 22 million rides; seeks ₹425 crore at an estimated ₹3,050 crore valuation.", "kind": "peak", "src": [1] },
+    { "date": "Feb 2025", "event": "BluSmart reportedly defaults on ₹30 crore of bonds; the company denies a cash crunch.", "kind": "warning", "src": [3] },
+    { "date": "Mar 2025", "event": "ICRA downgrades Gensol to 'D' and says its debt-servicing documents were falsified. Stock falls 40%+ in four days.", "kind": "warning", "src": [2] },
+    { "date": "Apr 2025", "event": "BluSmart tells staff March salaries will be delayed due to cash flow constraints.", "kind": "crisis", "src": [3] },
+    { "date": "15 Apr 2025", "event": "SEBI interim order alleges diversion of loan money and bars the Jaggi brothers from the securities market.", "kind": "crisis", "src": [4] },
+    { "date": "Apr 2025", "event": "BluSmart suspends rides in Delhi, Bengaluru and Mumbai.", "kind": "end", "src": [5, 7] },
+    { "date": "12 May 2025", "event": "Anmol and Puneet Singh Jaggi resign from Gensol's board, citing SEBI's order.", "kind": "after", "src": [5] },
+    { "date": "May 2025", "event": "IREDA files for insolvency against Gensol over a ₹510 crore loan default.", "kind": "after", "src": [6] },
+    { "date": "28 Jul 2025", "event": "NCLT Ahmedabad starts insolvency proceedings against BluSmart over missed bond payments.", "kind": "after", "src": [8] }
+  ],
+
+  "charts": [
+    {
+      "title": "Where the EV loan money went (SEBI's interim findings)",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["Borrowed to buy 6,400 EVs", "Actually spent on 4,704 EVs", "Unaccounted for"],
+      "series": [
+        { "name": "Amount", "values": [977.75, 567.73, 262.13] }
+      ],
+      "takeaway": "Roughly 4 in every 10 rupees borrowed for cars did not become cars, according to SEBI's first-look findings.",
+      "src": [4]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Aug 2019", "round": "Seed", "amountUsdM": 2.2, "valuationUsdM": null, "investors": [], "src": [0] },
+    { "date": "Sep 2019", "round": "Angel", "amountUsdM": 3, "valuationUsdM": null, "investors": ["Ka Enterprises (Deepika Padukone's family office)", "JITO Angel Network", "Rajesh Agarwal", "Sanjiv Bajaj"], "src": [0] },
+    { "date": "2024", "round": "Pre-Series B", "amountUsdM": 24, "valuationUsdM": null, "investors": [], "src": [1] },
+    { "date": "Jan 2025", "round": "Series B (target ₹425 cr, ₹61 cr secured)", "amountUsdM": null, "valuationUsdM": 363, "investors": ["26 individual investors"], "src": [1] }
+  ],
+
+  "causes": [
+    { "key": "governance", "weight": 55 },
+    { "key": "fraud", "weight": 25 },
+    { "key": "burn", "weight": 20 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Two companies, one set of founders, no wall between them",
+      "explain": "BluSmart did not own its cars. Gensol, run by the same founders, borrowed and leased them. That made BluSmart look **asset-light** on paper while its real risk sat in another company. When questions hit Gensol, the cars, the loans and the cab app all fell together. Related-party deals (deals between companies with the same owners) need strict, independent checks.",
+      "src": [2, 4]
+    },
+    {
+      "title": "Loan money allegedly used for other things",
+      "explain": "SEBI's interim order alleges that out of ₹977.75 crore borrowed for EVs, only ₹567.73 crore bought cars, and ₹50 crore was routed to buy a luxury flat. These are **prima facie findings, not a final ruling**, and the founders have not been convicted. But if lenders' money goes anywhere except where it was promised, the whole company is at risk.",
+      "src": [4]
+    },
+    {
+      "title": "Ignoring the early alarms",
+      "explain": "By March 2025, there were missed bond payments, a rating cut to 'D', and ICRA saying documents were **'falsified'**. Senior leaders were leaving. Instead of a clean reset with lenders, the company kept raising money and expanding to new cities. Early alarms are cheap to fix; late ones are fatal.",
+      "src": [1, 2, 3]
+    },
+    {
+      "title": "Expensive growth on borrowed money",
+      "explain": "Electric cars cost a lot upfront, and BluSmart grew to 8,500+ of them across three Indian cities and Dubai. Growth like that **runs on debt**, and debt must be repaid on schedule. When the money stopped, there was no cushion, and 10,000+ drivers lost their work almost overnight.",
+      "src": [1, 3, 8]
+    }
+  ],
+
+  "warningSigns": [
+    "Does your startup depend on deals with another company that you or your family also control?",
+    "Is borrowed money ever used for something other than what you told the lender?",
+    "Has a rating agency, auditor or lender questioned the documents you gave them?",
+    "Are senior leaders leaving while you keep announcing new cities or funding rounds?",
+    "Are you delaying salaries or bond payments while telling outsiders there is no cash crunch?"
+  ],
+
+  "lessons": [
+    { "title": "Build a wall between your companies", "detail": "If you run two businesses, give each its own bank accounts, board approvals and independent checks on any deal between them. Write every related-party deal down and get it signed off by someone who does not benefit." },
+    { "title": "Loan money has a job title", "detail": "Money borrowed for cars must buy cars. Keep a simple sheet that matches every borrowed rupee to what it bought, with bills attached. Lenders and regulators will ask." },
+    { "title": "'Asset-light' can hide heavy risk", "detail": "If your assets sit in someone else's company, their troubles become yours. Ask: 'If my supplier or lessor collapses tomorrow, can I still operate?'" },
+    { "title": "Tell the truth early to lenders", "detail": "When you can't pay on time, call your lenders before the due date with a plan. A hard conversation now beats a downgrade, a court case and a frozen business later." },
+    { "title": "Your drivers and staff are your first creditors", "detail": "BluSmart's collapse left over 10,000 drivers without work or pay. Plan cash so the people who depend on you are protected first." }
+  ],
+
+  "quote": {
+    "text": "as if the Company's funds were promoters' piggybank",
+    "who": "SEBI interim order on Gensol Engineering",
+    "context": "Describing, in its prima facie findings of 15 April 2025, how the founders allegedly used company funds.",
+    "src": [4]
+  },
+
+  "afterlife": {
+    "text": "BluSmart's rides never restarted. Lenders repossessed cars, and Evera Cabs took over about 500 of them. On 12 May 2025, Anmol and Puneet Singh Jaggi resigned from Gensol's board, citing SEBI's order. IREDA, which had also complained to the Economic Offences Wing about alleged fund diversion and forged documents, filed for insolvency against Gensol over a ₹510 crore default. On 28 July 2025, NCLT Ahmedabad started insolvency proceedings against BluSmart. SEBI's findings are interim and prima facie; as of our last check, no court had convicted either brother.",
+    "src": [5, 6, 7, 8]
+  },
+
+  "sources": [
+    { "label": "Inc42: Deepika Padukone's family office invests in electric cab startup Blu Smart (24 Sep 2019)", "url": "https://inc42.com/buzz/deepika-padukones-family-office-invests-in-electric-cab-hailing-startup-blu-smart/" },
+    { "label": "Entrackr: BluSmart to raise $50 Mn in new round (9 Jan 2025)", "url": "https://entrackr.com/news/blusmart-to-raise-50-mn-in-new-round-8604223" },
+    { "label": "Entrackr: Gensol's crisis: stock slump, ICRA downgrade and BluSmart link (7 Mar 2025)", "url": "https://entrackr.com/news/gensols-crisis-stock-slump-icra-downgrade-and-blusmart-link-8830535" },
+    { "label": "Inc42: BluSmart delays salaries citing cash flow issues (10 Apr 2025)", "url": "https://inc42.com/buzz/blusmart-delays-salaries-citing-cash-flow-issues-report/" },
+    { "label": "Entrackr: How Gensol's promoters siphoned funds, per SEBI's interim order (16 Apr 2025)", "url": "https://entrackr.com/news/flat-in-camellias-golf-sets-and-foreign-trips-how-gensols-promoters-siphoned-funds-8968118" },
+    { "label": "Entrackr: Anmol and Puneet Jaggi resign from Gensol following SEBI probe (12 May 2025)", "url": "https://entrackr.com/news/anmol-and-puneet-jaggi-resign-from-gensol-following-sebi-probe-9061248" },
+    { "label": "Entrackr: Gensol faces insolvency as IREDA moves NCLT over ₹510 cr default (15 May 2025)", "url": "https://entrackr.com/news/gensol-faces-insolvency-as-ireda-moves-nclt-over-rs-510-cr-loan-default-9069586" },
+    { "label": "Entrackr: Evera Cabs takes over 500 BluSmart EVs (5 May 2025)", "url": "https://entrackr.com/news/evera-cabs-takes-over-500-blusmart-evs-9036457" },
+    { "label": "Entrackr: NCLT Ahmedabad initiates insolvency proceedings against BluSmart (29 Jul 2025)", "url": "https://entrackr.com/news/nclt-ahmedabad-initiates-insolvency-proceedings-against-blusmart-9602082" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Status of criminal probes and any arrests after mid-2025", "note": "We confirmed IREDA's complaint to the Economic Offences Wing, SEBI's interim order and the insolvency cases. We could not verify later police, ED or CBI actions, arrests, charge sheets or a final SEBI order with sources we read, so none are stated. Check before publishing." },
+      { "claim": "BluSmart's revenue", "note": "Entrackr cites company figures of ₹160 crore (FY23) and ₹390 crore (FY24). Inc42 cites audited operating revenue of just ₹13.84 crore for FY23 (loss ₹14.89 crore), likely for a different group entity. We used only the FY24 company claim and labelled it as such." },
+      { "claim": "Peak valuation of about $363 million", "note": "This is Fintrackr's estimate from share allotment filings, not a figure announced by BluSmart." },
+      { "claim": "₹30 crore bond default in February 2025", "note": "Reported by Inc42 citing earlier reports; BluSmart denied a cash crunch at the time." },
+      { "claim": "Founders' guilt", "note": "SEBI's April 2025 order is an interim order with prima facie findings. The Jaggi brothers had not been convicted of any offence in sources we checked." }
+    ]
+  }
+}

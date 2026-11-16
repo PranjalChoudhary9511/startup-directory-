@@ -1,0 +1,472 @@
+{
+  "slug": "bird",
+  "name": "Bird",
+  "region": "global",
+  "country": "United States",
+  "city": "Santa Monica, California",
+  "sector": "E-scooter sharing",
+  "founded": 2017,
+  "died": 2023,
+  "status": "bankrupt",
+  "brandColor": "#2b2b2b",
+  "founders": [
+    {
+      "name": "Travis VanderZanden",
+      "role": "Founder and CEO (replaced Sept 2022); ex-Lyft and Uber executive"
+    }
+  ],
+  "epitaph": "Fastest to a billion. Fastest to the pavement.",
+  "oneLiner": "Put rentable electric scooters on city streets that you unlock with an app and leave anywhere when you're done.",
+  "causeOfDeath": "Scooters were cheap to ride but costly to buy, charge, fix and replace, so Bird lost money every year until the cash ran out.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 2770,
+  "endValueUsdM": null,
+  "moneyNote": "Peak private valuation $2.77B in Jan 2020 (dot.LA). Total raised across VC rounds, its 2021 SPAC and debt is not published as one figure. Sale price to Third Lane Mobility not in our sources.",
+  "moneySrc": [
+    3,
+    4
+  ],
+  "inOneMinute": [
+    "Bird became the **fastest startup ever to a $1 billion valuation**, about a year after launch in 2017.",
+    "Rides kept growing, to **46.5 million in 2022**, but so did losses: **$359M** that year on $245M revenue.",
+    "It even **overstated revenue for two years**, counting rides people never paid for. It filed for bankruptcy in December 2023."
+  ],
+  "killerLine": "Growth in usage is not growth in business. **Count the profit per ride**, after the cost of the scooter.",
+  "numbers": [
+    {
+      "value": "$2.77B",
+      "label": "peak private valuation, Jan 2020",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "$359M",
+      "label": "net loss in 2022",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "406",
+      "label": "staff laid off in a two-minute Zoom call, Mar 2020",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "~$7M",
+      "label": "market value when delisted from the NYSE, Sept 2023",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a scooter on every corner",
+      "body": "In September 2017, Travis VanderZanden, a former executive at Lyft and Uber, launched Bird in Santa Monica, California. The idea was simple and fun. Open an app, find an electric scooter on the pavement, scan it, ride for a few minutes, and leave it anywhere. It solved the 'last mile' problem: the short trip from a metro station to your office. People loved it, and so did investors. Bird raised a $15 million Series A in February 2018, **$100 million in March**, and money from Sequoia in May. That made Bird the **fastest company ever to reach a $1 billion valuation**. By June 2018 it was valued at $2 billion.",
+      "src": [
+        4
+      ]
+    },
+    {
+      "title": "The rise: 400 cities and a SPAC",
+      "body": "Bird spread fast, to **more than 400 cities** on four continents. By the end of 2021, people had taken over 130 million trips on Bird vehicles. In January 2020 its private valuation hit **$2.77 billion**. Then COVID-19 emptied the streets. In March 2020, Bird laid off 406 people, about 40% of staff, in a **Zoom call that lasted about two minutes**; employees were locked out of their accounts soon after. Rides came back after the pandemic, and in November 2021 Bird listed on the New York Stock Exchange by merging with Switchback II, a SPAC (a listed shell company that merges with a private one so it can skip a normal IPO). Revenue doubled from $90 million in 2020 to $191 million in 2021.",
+      "src": [
+        1,
+        3,
+        0
+      ]
+    },
+    {
+      "title": "The cracks: the scooter math",
+      "body": "Bird showed investors a number called \"ride profit margin\": **49% in 2021**. But that figure was calculated **before vehicle depreciation**, meaning before the cost of the scooter itself wearing out. Scooters wear out and get damaged, and they need staff to charge, fix and move them. Once you count everything, Bird lost **$215 million in 2021 and $359 million in 2022**, even as rides grew to 46.5 million. Then, in November 2022, came an embarrassment: Bird admitted it had **overstated revenue for more than two years**. Its systems booked revenue on rides by customers whose prepaid wallets didn't have enough money, money it never collected. The founder had already been replaced as CEO in September 2022.",
+      "src": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "title": "The fall: from unicorn to $7 million",
+      "body": "By the end of 2022, Bird had just $33.5 million in unrestricted cash. Its annual report warned of **\"substantial doubt\"** that it could continue (a going-concern warning). It pulled out of Germany, Sweden and Norway, and planned to shut dozens of smaller markets. In September 2023, the New York Stock Exchange delisted Bird because its share price was too low; the whole company was worth about **$7 million**, down from $2.77 billion. That same month it bought rival Spin for $19 million, hoping scale would help. It didn't. In December 2023, Bird filed for **Chapter 11 bankruptcy** in the US. Its Canadian and European businesses were not part of the filing. In 2024, Third Lane Mobility bought the business.",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Sep 2017",
+      "event": "Travis VanderZanden launches Bird in Santa Monica",
+      "kind": "start",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "May 2018",
+      "event": "Sequoia round makes Bird the fastest startup ever to a $1B valuation",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jun 2018",
+      "event": "Raises another $300M at a $2B valuation",
+      "kind": "money",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "event": "Private valuation peaks at $2.77B",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Mar 2020",
+      "event": "Lays off 406 staff in a two-minute Zoom call as COVID-19 hits",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Nov 2021",
+      "event": "Lists on the NYSE via merger with SPAC Switchback II",
+      "kind": "money",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2022",
+      "event": "Founder replaced as CEO by Shane Torchiana",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "event": "Admits it overstated revenue for over two years",
+      "kind": "crisis",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "Mar 2023",
+      "event": "Annual report warns of 'substantial doubt' it can survive",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2023",
+      "event": "Delisted from the NYSE, worth about $7M; buys rival Spin for $19M",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2023",
+      "event": "Files for Chapter 11 bankruptcy in the US",
+      "kind": "end",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "2024",
+      "event": "Third Lane Mobility acquires the business",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            90.1,
+            190.5,
+            244.7
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            208.7,
+            214.9,
+            358.7
+          ]
+        }
+      ],
+      "takeaway": "Revenue nearly tripled in two years, but the loss grew too. More rides did not fix the math.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Rides per year",
+      "unit": "million rides",
+      "kind": "line",
+      "labels": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "series": [
+        {
+          "name": "Rides",
+          "values": [
+            18.3,
+            40.2,
+            46.5
+          ]
+        }
+      ],
+      "takeaway": "People kept riding. Popularity was never the problem; profit was.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Feb 2018",
+      "round": "Series A",
+      "amountUsdM": 15,
+      "valuationUsdM": null,
+      "investors": [
+        "Craft Ventures"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Mar 2018",
+      "round": "Series B",
+      "amountUsdM": 100,
+      "valuationUsdM": null,
+      "investors": [
+        "Index Ventures",
+        "Valor Equity Partners"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "May 2018",
+      "round": "Series C",
+      "amountUsdM": 150,
+      "valuationUsdM": 1000,
+      "investors": [
+        "Sequoia Capital"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jun 2018",
+      "round": "Series C extension",
+      "amountUsdM": 300,
+      "valuationUsdM": 2000,
+      "investors": [],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2019",
+      "round": "Series C extension",
+      "amountUsdM": 300,
+      "valuationUsdM": null,
+      "investors": [
+        "Fidelity (lead)"
+      ],
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Nov 2021",
+      "round": "SPAC merger (Switchback II)",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Switchback II Corporation shareholders"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 40
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "over-expansion",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Measured profit before the biggest cost",
+      "explain": "Bird's 49% \"ride profit margin\" was counted **before vehicle depreciation**: the scooter wearing out. For a scooter company, the scooter is the main cost. Leave it out and almost any ride looks profitable. Counting everything, Bird lost money every year it reported.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "Grew to 400 cities before one city worked",
+      "explain": "Bird expanded to **more than 400 cities** in a few years. Each new city needed scooters, chargers, repair staff and permits. Later it had to pull out of whole countries and dozens of markets. Expanding a loss-making model only **copies the loss**.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "Booked money it never received",
+      "explain": "For over two years, its systems recorded revenue on rides where customers' prepaid wallets **didn't have enough money**. Bird had to restate its results. Weak financial systems hide problems from the founders as well as from investors. Investors and auditors lose confidence when the reported numbers have to be redone.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "Raised fast, so it spent fast",
+      "explain": "Hundreds of millions arrived within months in 2018. Easy money made rapid expansion feel safe. When COVID-19 hit, Bird cut 406 jobs in a **two-minute Zoom call**, a sign of how little cushion its cost base had. A company with a real cushion can slow down calmly instead of cutting hundreds of jobs in one morning.",
+      "src": [
+        3,
+        4
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your 'profit' number leave out your biggest cost?",
+    "Are you opening new cities or branches while existing ones still lose money?",
+    "Is your physical product breaking or disappearing faster than it pays for itself?",
+    "Are you recording revenue before the money is actually collected?",
+    "Has a regulator or city government got the power to switch off your business overnight?",
+    "Did you raise several rounds in under a year without proving one market?"
+  ],
+  "lessons": [
+    {
+      "title": "Calculate profit with every cost in",
+      "detail": "For any rental or hardware idea, include buying, charging, fixing, theft and replacement. Divide by how many times each item is used. If the answer is negative, more users will only lose more money."
+    },
+    {
+      "title": "Win one neighbourhood first",
+      "detail": "Prove you can make money in one campus or one area for a few months. Then copy that exact playbook to the next one."
+    },
+    {
+      "title": "Get cash before you count it",
+      "detail": "Use prepaid wallets that block rides when the balance is too low. Record revenue only when money is collected. Simple rules prevent embarrassing restatements later."
+    },
+    {
+      "title": "Treat cities as partners, not obstacles",
+      "detail": "Scooters on pavements annoy people. If your business uses public space, work with local authorities early. A permit taken away can end a market overnight."
+    },
+    {
+      "title": "Be humane when you must cut",
+      "detail": "Layoffs happen. A two-minute call with a black screen is remembered for years and hurts hiring later. Talk to people directly, explain clearly, and give fair notice and support."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "Bird's Canadian and European businesses were outside the US bankruptcy. In 2024, Third Lane Mobility bought Bird to keep it running, and Inc. reported that the revived Bird was taking a more 'regulator-friendly' approach, working with cities rather than flooding them with scooters. Founder Travis VanderZanden had left the CEO role in September 2022.",
+    "src": [
+      0,
+      4,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "Bird Global, Form 10-K for 2022 (filed Mar 2023)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1861449/000186144923000054/brds-20221231.htm"
+    },
+    {
+      "label": "Bird Global, Form 10-K for 2021 (filed Mar 2022)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1861449/000186144922000037/brds-20211231.htm"
+    },
+    {
+      "label": "SEC EDGAR, Bird Global filings list (incl. 10-K/A restatement, Nov 2022)",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001861449&type=10-K"
+    },
+    {
+      "label": "dot.LA, inside Bird's March 2020 layoff Zoom call (1 Apr 2020)",
+      "url": "https://dot.la/bird-layoffs-meeting-story-2645612465.html"
+    },
+    {
+      "label": "Wikipedia, 'Bird Global' (funding rounds, restatement, delisting, bankruptcy)",
+      "url": "https://en.wikipedia.org/wiki/Bird_Global"
+    },
+    {
+      "label": "Quartz, 'Bird is the fastest startup ever to become a unicorn' (2018)",
+      "url": "https://qz.com/1305719/electric-scooter-company-bird-is-the-fastest-startup-ever-to-become-a-unicorn/"
+    },
+    {
+      "label": "Wall Street Journal, 'Bird files for bankruptcy after 2021 SPAC' (20 Dec 2023)",
+      "url": "https://www.wsj.com/articles/bird-electric-scooter-company-files-for-bankruptcy-after-2021-spac-96ca4a10"
+    },
+    {
+      "label": "Inc., 'Bird flies again from bankruptcy with a new regulator-friendly approach' (30 Apr 2024)",
+      "url": "https://www.inc.com/sam-blum/bird-flies-again-from-bankruptcy-with-a-new-regulator-friendly-approach.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "40% of staff laid off in March 2020",
+        "note": "dot.LA estimated about 40% (406 of ~1,060); Bird's spokeswoman pointed to a figure of around 30%."
+      },
+      {
+        "claim": "The layoff call was pre-recorded",
+        "note": "Many employees believed so; Bird said a live speaker delivered it."
+      },
+      {
+        "claim": "Bird's SPAC valued it at about $2.3B",
+        "note": "Widely reported, but not confirmed in sources we could read, so left out of the numbers."
+      }
+    ]
+  }
+}

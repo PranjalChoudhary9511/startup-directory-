@@ -1,0 +1,388 @@
+{
+  "slug": "solyndra",
+  "name": "Solyndra",
+  "region": "global",
+  "country": "United States",
+  "city": "Fremont, California",
+  "sector": "Solar panels",
+  "founded": 2005,
+  "died": 2011,
+  "status": "bankrupt",
+  "brandColor": "#f7941d",
+  "founders": [
+    {
+      "name": "Chris Gronet",
+      "role": "Founder and first CEO"
+    }
+  ],
+  "epitaph": "Built a better solar tube. The sun set on the price.",
+  "oneLiner": "Made unusual tube-shaped solar panels for flat rooftops, backed by a $535M US government loan guarantee.",
+  "causeOfDeath": "Its panels cost more to make than they sold for, and ordinary silicon panels became far cheaper just as it built a $733M factory.",
+  "raisedUsdM": 1527,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "About $1B from private investors plus ~$527M drawn from a $535M government-guaranteed loan (Congressional Research Service). It never listed, so there is no public valuation.",
+  "moneySrc": [
+    2
+  ],
+  "inOneMinute": [
+    "Solyndra made clever **tube-shaped solar panels** and won the first big clean-energy loan guarantee from Obama's stimulus: **$535 million**.",
+    "But in late 2009 each watt **cost it $4.00 to make and sold for $3.24**, while normal silicon panels sold for $1.95.",
+    "It went bankrupt in September 2011, **laid off 1,100 people**, and became a political scandal in the US."
+  ],
+  "killerLine": "If rivals can sell your product for half your cost, **clever technology will not save you**. Cost is a feature.",
+  "numbers": [
+    {
+      "value": "$535M",
+      "label": "US government loan guarantee, the stimulus programme's first",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "value": "$4.00",
+      "label": "cost to make one watt of panel (late 2009)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$3.24",
+      "label": "price it sold one watt for (late 2009)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "1,100",
+      "label": "workers laid off when it shut",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a solar tube for flat roofs",
+      "body": "In 2005, Chris Gronet started Solyndra in California. Most solar panels are flat sheets made from polysilicon (purified silicon, the same family of material used in computer chips). In 2008, polysilicon was scarce and its spot price hit **about $460 per kg**. Solyndra had a different design: rows of glass tubes coated with a thin film called CIGS (a mix of copper, indium, gallium and selenium). It **needed no polysilicon at all**. Tubes catch light from every angle, so they could sit flat on big warehouse roofs, without heavy mounting. If silicon stayed expensive, Solyndra would win. Investors liked the bet and put in about **$1 billion** of private money over the years.",
+      "src": [
+        2,
+        7
+      ]
+    },
+    {
+      "title": "The rise: the President comes to visit",
+      "body": "In September 2009, the US Energy Department gave Solyndra a **$535 million loan guarantee** (the government promises to repay the bank if the company can't). It was the first such deal under the 2009 stimulus. Solyndra began building Fab 2, a new factory estimated at **$733 million**. In May 2010, President Obama toured it and said: \"The true engine of economic growth will always be companies like Solyndra, will always be America's businesses.\" In the very same speech, he praised Tesla and Toyota for reopening a nearby car plant. Solyndra's revenue grew from $6 million in 2008 to **$100 million in 2009**. On paper, it looked like a rocket.",
+      "src": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: losing money on every watt",
+      "body": "Inside its own IPO filing (the papers a company files before selling shares to the public), the truth was plain. In late 2009, each watt of panel **cost $4.00 to make and sold for $3.24**. Big crystalline silicon makers were selling at **$1.95 a watt**. The more Solyndra sold, the more it lost. It lost $172 million in 2009 alone. Its auditor added a \"going concern\" note (a warning the company might not survive). Meanwhile, polysilicon prices crashed as new factories, many in China and Taiwan, came online. Solar panel prices fell from over $3.50 a watt in 2007–08 to about **$1.15–1.20 by August 2011**. Solyndra's whole reason to exist had vanished.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The fall: taxpayers in second place",
+      "body": "In February 2011, running short of cash, Solyndra got the Energy Department to restructure the loan. Private investors put in **$75 million more**, and in return they would be **paid back before taxpayers** if Solyndra failed. Critics said the 2005 law behind the programme banned exactly that. It did not help. On 6 September 2011, Solyndra filed for Chapter 11 bankruptcy (a court process to deal with debts it couldn't pay), with more than $783 million in debt. About 1,100 workers lost their jobs. Around $527 million of the government-backed loan had already been drawn. When asked how much the government would get back, Energy Secretary Steven Chu said: **\"not very much.\"**",
+      "src": [
+        2,
+        3,
+        4,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2005",
+      "event": "Chris Gronet founds Solyndra in California",
+      "kind": "start",
+      "src": [
+        2,
+        7
+      ]
+    },
+    {
+      "date": "Early 2008",
+      "event": "Polysilicon spot price peaks near $460/kg, making Solyndra's no-silicon design look smart",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Sep 2009",
+      "event": "Wins a $535M Energy Department loan guarantee, the stimulus programme's first",
+      "kind": "money",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Dec 2009",
+      "event": "Files for an IPO; papers show a 2008 loss of $232M",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Mar 2010",
+      "event": "Updated IPO filing includes the auditor's 'going concern' warning",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "26 May 2010",
+      "event": "President Obama visits the factory and praises the company",
+      "kind": "peak",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Feb 2011",
+      "event": "Loan restructured: private investors put in $75M and move ahead of taxpayers",
+      "kind": "crisis",
+      "src": [
+        3,
+        6
+      ]
+    },
+    {
+      "date": "6 Sep 2011",
+      "event": "Files for Chapter 11 bankruptcy; about 1,100 jobs lost",
+      "kind": "end",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "event": "Energy Secretary Chu tells Congress a 70% panel price drop killed Solyndra",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Early 2015",
+      "event": "Justice Department decides not to prosecute any Solyndra officials",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Aug 2015",
+      "event": "Energy Department watchdog report says Solyndra misled the government",
+      "kind": "after",
+      "src": [
+        4,
+        8
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "series": [
+        {
+          "name": "Revenue",
+          "values": [
+            0,
+            6,
+            100.5
+          ]
+        },
+        {
+          "name": "Net loss",
+          "values": [
+            114.1,
+            232.1,
+            172.5
+          ]
+        }
+      ],
+      "takeaway": "Even in its best year, Solyndra lost $1.72 for every $1 of panels it sold.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 35
+    },
+    {
+      "key": "unit-economics",
+      "weight": 30
+    },
+    {
+      "key": "timing",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Its edge depended on a price staying high",
+      "explain": "Solyndra's design made sense only while polysilicon was expensive. When the price fell from about $460/kg to around $50–70/kg, ordinary panels became cheap and Solyndra's **reason to exist disappeared**. Any business built on a rival's temporary pain should ask: what if that pain goes away?",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Scaled up while losing money on every unit",
+      "explain": "In late 2009 it cost $4.00 to make a watt that sold for $3.24. Instead of fixing that, it built a **$733 million second factory**. A bigger factory multiplies whatever your unit economics already are. If each unit loses money, **scale makes the loss bigger**, not smaller.",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "title": "Sold soft deals as firm orders",
+      "explain": "The Energy Department's watchdog later found Solyndra described \"framework agreements\" (non-binding deals) as firm contracts worth $1.4 billion, and did not disclose that customers had been offered price cuts. Solyndra's former CEO denies wrongdoing. Either way, **counting maybes as money** misleads you before it misleads anyone else.",
+      "src": [
+        4,
+        8
+      ]
+    },
+    {
+      "title": "Ignored the market it was actually in",
+      "explain": "Customers do not buy 'tube-shaped' or 'no silicon'. They buy **cheap electricity**. Rival panels fell to about $1.15–1.20 a watt by August 2011. Solyndra kept selling a better design to buyers who cared mainly about price. Price is usually the first thing a buyer compares.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does each unit you sell cost more to make than you charge for it?",
+    "Would your advantage vanish if one input price (fuel, chips, raw material) dropped?",
+    "Are you building a bigger factory, store or team before the small one makes money?",
+    "Are you calling non-binding 'interest' or MoUs 'contracts' in your pitch deck?",
+    "Can a rival sell something close to your product for half the price?",
+    "Has your auditor or accountant raised a 'going concern' doubt?"
+  ],
+  "lessons": [
+    {
+      "title": "Know your cost per unit before your growth rate",
+      "detail": "Write down: what does one unit cost me, and what do I sell it for? If the first is bigger, growth only digs a deeper hole. Fix this before you spend on expansion."
+    },
+    {
+      "title": "Ask 'what if my rival gets cheap?'",
+      "detail": "List the inputs that make your rivals expensive today. Imagine each one halves in price. If your business still works, good. If not, you are betting on timing, so say so to yourself honestly."
+    },
+    {
+      "title": "Government money brings an audience",
+      "detail": "Grants and state-backed loans are great, but you become public news. Keep your numbers clean and your claims modest, because one failure can be used to attack a whole policy or sector."
+    },
+    {
+      "title": "Sell what the customer measures",
+      "detail": "Solar buyers measure rupees per unit of power. Students measure marks. Shoppers measure price and speed. Lead with the number your customer cares about, not the feature you are proudest of."
+    },
+    {
+      "title": "Only count signed, paid commitments",
+      "detail": "A letter, a framework deal or a 'yes, interested' is not revenue. Keep two columns in your sheet: confirmed money and hopes. Make decisions from the first column."
+    }
+  ],
+  "quote": {
+    "text": "The true engine of economic growth will always be companies like Solyndra, will always be America's businesses.",
+    "who": "Barack Obama, US President",
+    "context": "Speech at Solyndra's factory in Fremont, California, 26 May 2010, about 15 months before it went bankrupt.",
+    "src": [
+      5
+    ]
+  },
+  "afterlife": {
+    "text": "The Justice Department chose not to bring criminal charges. In August 2015, the Energy Department's inspector general said Solyndra officials gave misleading information to win the loan; the former CEO's lawyer said they were truthful and blamed cheap, state-subsidised Chinese panels. The name became shorthand in US politics for wasted green subsidies. But a different Energy Department loan, $465 million to Tesla for the factory the President praised in the same speech, was repaid in full in May 2013, about nine years early.",
+    "src": [
+      4,
+      8,
+      9
+    ]
+  },
+  "sources": [
+    {
+      "label": "Solyndra, Form S-1/A filed with the SEC (16 Mar 2010)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1443115/000119312510058567/ds1a.htm"
+    },
+    {
+      "label": "Solyndra, Form S-1 filed with the SEC (18 Dec 2009)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001443115/000119312509255919/ds1.htm"
+    },
+    {
+      "label": "Congressional Research Service, 'Market Dynamics That May Have Contributed to Solyndra's Bankruptcy' (Oct 2011)",
+      "url": "https://www.everycrsreport.com/reports/R42058.html"
+    },
+    {
+      "label": "Physics Today, 'Chu says Solyndra was victim of collapsing solar panel prices' (18 Nov 2011)",
+      "url": "https://physicstoday.aip.org/news/chu-says-solyndra-was-victim-of-collapsing-solar-panel-prices"
+    },
+    {
+      "label": "Associated Press via KSL, 'Report: Solyndra misrepresented facts to get loan guarantee' (26 Aug 2015)",
+      "url": "https://www.ksl.com/article/36178498/report-solyndra-misrepresented-facts-to-get-loan-guarantee"
+    },
+    {
+      "label": "The American Presidency Project, Obama's remarks at Solyndra (26 May 2010)",
+      "url": "https://www.presidency.ucsb.edu/documents/remarks-solyndra-inc-fremont-california"
+    },
+    {
+      "label": "Center for Public Integrity, 'Energy Dept. offered to put private investors ahead of taxpayers' (16 Nov 2011)",
+      "url": "https://publicintegrity.org/politics/energy-dept-offered-to-put-private-investors-ahead-of-taxpayers-if-solyndra-went-bankrupt/"
+    },
+    {
+      "label": "Wikipedia, 'Solyndra' (founding and technology)",
+      "url": "https://en.wikipedia.org/wiki/Solyndra"
+    },
+    {
+      "label": "POWER Magazine, 'OIG: Solyndra misled DOE to get solar loan guarantees' (Aug 2015)",
+      "url": "https://www.powermag.com/oig-solyndra-misled-doe-to-get-solar-loan-guarantees/"
+    },
+    {
+      "label": "Autoblog, 'Tesla pays back $465M DOE loan early' (22 May 2013)",
+      "url": "https://www.autoblog.com/2013/05/22/tesla-pays-back-465m-doe-loan-early/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Solyndra deliberately deceived the government",
+        "note": "The Energy Department's inspector general (Aug 2015) concluded officials misrepresented facts. No individual was named, the Justice Department declined to prosecute, and the former CEO's counsel disputes the findings."
+      },
+      {
+        "claim": "The loan was a political favour to Obama donors",
+        "note": "Argonaut's founder George Kaiser was an Obama fundraiser, and critics alleged favouritism. Energy Secretary Chu said politics played no role. We keep this out of the story."
+      },
+      {
+        "claim": "Exact taxpayer loss",
+        "note": "Reports range from 'more than $500 million' (AP) to the full $535 million. About $527M had been drawn at bankruptcy (CRS)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "pear",
+  "name": "Pear Therapeutics",
+  "region": "global",
+  "country": "United States",
+  "city": "Boston",
+  "sector": "Digital therapeutics",
+  "founded": 2013,
+  "died": 2023,
+  "status": "bankrupt",
+  "brandColor": "#7ab648",
+  "founders": [
+    { "name": "Corey McCann", "role": "Founder, President and CEO" }
+  ],
+  "epitaph": "The FDA said yes. The insurers said maybe.",
+  "oneLiner": "Made apps that doctors could prescribe like medicine, to treat addiction and insomnia, with approval from the US drug regulator.",
+  "causeOfDeath": "Doctors prescribed its apps, but insurers rarely paid for them, so it lost about $6 for every $1 it earned until the cash ran out.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 1600,
+  "endValueUsdM": null,
+  "moneyNote": "Peak: about $1.6B pro forma equity value when the SPAC deal was announced (June 2021). The SPAC brought in about $175M gross. Total private funding before that is not given in the filings we read. End: assets sold in bankruptcy; prices not confirmed by a source we read.",
+  "moneySrc": [2, 3],
+  "inOneMinute": [
+    "Pear won **the first-ever FDA authorisation** for a prescription app, a treatment for addiction. Doctors could prescribe it like a pill.",
+    "But insurers rarely paid. In late 2022 only 60% of prescriptions were filled, and its **payment rate was just 49%**.",
+    "It lost $75.5 million in 2022 on $12.7 million of revenue, and **filed for bankruptcy in April 2023**."
+  ],
+  "killerLine": "A customer who **uses** your product and a customer who **pays** for it can be different people. Find the one who pays first.",
+  "numbers": [
+    { "value": "1st", "label": "prescription app ever to get FDA market authorisation (reSET)", "src": [1] },
+    { "value": "49%", "label": "payment rate on its prescriptions, Q3 2022", "src": [4] },
+    { "value": "$75.5M", "label": "net loss in 2022, on $12.7M of revenue", "src": [0, 7] },
+    { "value": "$175M", "label": "cash the SPAC actually raised, vs about $400M expected", "src": [2, 3] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: software as medicine",
+      "body": "What if a doctor could prescribe an app, the way they prescribe a tablet? Corey McCann's Pear Therapeutics, started in 2013, built exactly that. Its first product, reSET, delivered therapy lessons on a phone to people fighting drug addiction, alongside their regular treatment. Pear became **the first company ever to get FDA authorisation** for a prescription digital therapeutic, or PDT (software that treats a disease and needs a doctor's prescription). Then came reSET-O for opioid addiction and Somryst for chronic insomnia. This was a genuine scientific breakthrough. Pear had done the hardest part, getting the regulator to say yes. The question was whether **anyone would pay** for it.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The rise: a SPAC and big hopes",
+      "body": "In June 2021, Pear agreed to merge with a SPAC (a listed shell company that exists only to merge with a private one) called Thimble Point. The deal gave Pear a **pro forma value of about $1.6 billion**. It was expected to bring in about $400 million, including a $125 million PIPE (extra investment from big funds) from names like SoftBank Vision Fund 2, Temasek and Palantir. McCann said Pear was \"at a commercial inflection point, with the potential for rapid expansion.\" But when the deal closed on 3 December 2021, many SPAC shareholders took their money back instead of staying in. Gross proceeds came to only about **$175 million**. Pear started trading on Nasdaq on 6 December 2021 with less than half the cash it had planned on.",
+      "src": [2, 3]
+    },
+    {
+      "title": "The cracks: prescribed, but not paid",
+      "body": "In America, patients rarely pay the full price of medicine. Insurers do. But for a new kind of product, insurers have to agree to cover it, and most were slow. There was **no Medicare category** (the government insurance scheme for older Americans) for prescription apps at all. By the end of 2021, 30 insurers covered Pear's products. Doctors kept writing prescriptions: over 11,400 in just the third quarter of 2022. But only **60% were filled**, and Pear's payment rate was **49%**. Its average price was about $1,345 per prescription, yet much of that was never collected. In 2022 Pear earned $12.7 million, below its own forecast of $14–16 million, and lost $75.5 million.",
+      "src": [0, 1, 4, 7, 8]
+    },
+    {
+      "title": "The fall: a breakthrough with no buyer",
+      "body": "Pear cut costs. It laid off 25 people in July 2022 and about 59 more in November, taking staff from roughly 300 to roughly 200. It was not enough. Its 2022 annual report, filed in March 2023, admitted **\"substantial doubt\"** about its ability to keep going, with $48.3 million of cash left. On 17 March 2023 Pear said it was exploring \"strategic alternatives\" (looking for a buyer, merger or new money). None came in time. On 7 April 2023, Pear filed for Chapter 11 bankruptcy in Delaware and said it would **sell its business or assets** through a quick, court-supervised sale. The company that had opened a whole new category of medicine could not find a way to get paid for it.",
+      "src": [0, 5, 6]
+    }
+  ],
+  "timeline": [
+    { "date": "Aug 2013", "event": "Pear Therapeutics is incorporated; it begins developing prescription digital therapeutics.", "kind": "start", "src": [0, 1] },
+    { "date": "Jun 2021", "event": "Agrees to merge with SPAC Thimble Point at about a $1.6 billion pro forma value, expecting ~$400 million.", "kind": "money", "src": [2] },
+    { "date": "3 Dec 2021", "event": "SPAC deal closes with only about $175 million of gross proceeds. Lists on Nasdaq as PEAR.", "kind": "money", "src": [3] },
+    { "date": "Jul 2022", "event": "First layoff: 25 employees (about 9% of staff).", "kind": "warning", "src": [0] },
+    { "date": "Nov 2022", "event": "Q3 results: 60% of prescriptions filled, 49% payment rate. About 59 more jobs cut.", "kind": "warning", "src": [4] },
+    { "date": "Mar 2023", "event": "Annual report warns of \"substantial doubt\"; 2022 loss $75.5 million on $12.7 million revenue.", "kind": "crisis", "src": [0, 7, 8] },
+    { "date": "17 Mar 2023", "event": "Announces it is exploring strategic alternatives, including a sale.", "kind": "crisis", "src": [5] },
+    { "date": "7 Apr 2023", "event": "Files for Chapter 11 bankruptcy in Delaware and plans to sell its assets.", "kind": "end", "src": [6] }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs net loss",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["2020", "2021", "2022"],
+      "series": [
+        { "name": "Revenue", "values": [9.4, 4.2, 12.7] },
+        { "name": "Net loss", "values": [97.0, 65.1, 75.5] }
+      ],
+      "takeaway": "Even in its best year, Pear lost about $6 for every $1 of revenue. Prescriptions were growing; payments were not keeping up.",
+      "src": [7, 8]
+    }
+  ],
+  "rounds": [
+    { "date": "Dec 2021", "round": "SPAC merger with Thimble Point + PIPE", "amountUsdM": 175, "valuationUsdM": 1600, "investors": ["Thimble Point Acquisition Corp", "SoftBank Vision Fund 2", "Temasek", "Palantir", "dRx Capital (Novartis)", "5AM Ventures", "Arboretum Ventures"], "src": [2, 3] }
+  ],
+  "causes": [
+    { "key": "business-model", "weight": 45 },
+    { "key": "burn", "weight": 20 },
+    { "key": "funding-dried", "weight": 20 },
+    { "key": "timing", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Won the regulator, not the payer",
+      "explain": "Pear spent years developing its apps and won **the first FDA authorisation** for a prescription app. But in US healthcare, the insurer pays, and Pear's own filing admitted only a limited number had agreed to. There was no Medicare category at all. **Approval is permission to sell, not a guarantee of being paid.**",
+      "src": [0, 1]
+    },
+    {
+      "title": "A funnel that leaked at every step",
+      "explain": "In Q3 2022, doctors wrote over 11,400 prescriptions. Only **60% were filled**, and Pear's payment rate was **49%**. Every step lost customers: doctor to patient, patient to pharmacy, pharmacy to payment. Pear tracked these numbers carefully, but tracking a leak is not the same as fixing it.",
+      "src": [4]
+    },
+    {
+      "title": "Counted on SPAC cash that never arrived",
+      "explain": "The SPAC deal was expected to bring about **$400 million**. When it closed, many SPAC investors took their money back, and gross proceeds were about **$175 million**. A plan built for $400 million suddenly had less than half. Cash you are 'expecting' is not cash you have.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Spending stayed far ahead of income",
+      "explain": "In 2022 Pear lost **$75.5 million** while earning $12.7 million, and missed its own revenue forecast. It had about 300 staff in mid-2022. The layoffs in July and November helped, but by year-end only $48.3 million of cash remained, less than one more year of losses.",
+      "src": [0, 4, 7, 8]
+    }
+  ],
+  "warningSigns": [
+    "Is the person who uses your product different from the person who pays, and is the payer still unconvinced?",
+    "Are fewer than half of your 'orders' turning into money in the bank?",
+    "Are you counting on future funding that has not landed in your account yet?",
+    "Is your yearly loss several times bigger than your yearly revenue?",
+    "Are you missing your own revenue forecasts quarter after quarter?",
+    "Would less than one year of cash be left if losses stayed where they are today?"
+  ],
+  "lessons": [
+    {
+      "title": "Map who pays before you build",
+      "detail": "Draw the money flow on paper: who uses it, who recommends it, who pays. For a health product in India it may be the patient, an employer, an insurer or a government scheme. Talk to the payer in month one, not year five."
+    },
+    {
+      "title": "Approval is the start line",
+      "detail": "A licence, a certificate or a regulator's approval lets you sell. It does not make anyone buy. Budget as much time and money for getting paid as you did for getting approved."
+    },
+    {
+      "title": "Measure the whole funnel, then fix the worst step",
+      "detail": "Track every step from interest to cash received. Pear's numbers showed exactly where money leaked: unfilled prescriptions and unpaid claims. Put your best people on the single biggest leak before spending on more top-of-funnel demand."
+    },
+    {
+      "title": "Plan on the cash you have, not the cash promised",
+      "detail": "Term sheets, SPAC deals and 'committed' rounds can shrink or vanish. Make your hiring and spending plan work on the money already in your bank. Treat anything extra as a bonus."
+    },
+    {
+      "title": "Pioneers need extra runway",
+      "detail": "When you create a brand new category, customers, payers and rules all take time to catch up. If you are first, assume adoption will be slower than your forecast and keep enough cash to survive two or three years of 'not yet'."
+    }
+  ],
+  "quote": {
+    "text": "In our view Pear is at a commercial inflection point, with the potential for rapid expansion.",
+    "who": "Corey McCann, founder and CEO of Pear Therapeutics",
+    "context": "Announcing the SPAC deal with Thimble Point, June 2021, less than two years before bankruptcy",
+    "src": [2]
+  },
+  "afterlife": {
+    "text": "Pear and its US subsidiary filed for Chapter 11 in the US Bankruptcy Court for the District of Delaware on 7 April 2023. It had already cut costs and reached a settlement with its lender, and it planned an expedited, court-approved sale of its products and business under section 363 of the US Bankruptcy Code, keeping operations running at a smaller scale in the meantime. Pear's collapse became a warning for the whole digital therapeutics industry: a scientifically proven, FDA-authorised product can still fail if the payment system has no place for it.",
+    "src": [0, 6]
+  },
+  "sources": [
+    { "label": "Pear Therapeutics Form 10-K for 2022, SEC (Mar 2023)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000018/pear-20221231.htm" },
+    { "label": "Pear Therapeutics Form 10-K for 2021, SEC (Mar 2022)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556722000010/pear-20211231.htm" },
+    { "label": "Pear / Thimble Point business combination announcement (SEC Exhibit 99.1, Jun 2021)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000119312521195690/d138831dex991.htm" },
+    { "label": "Pear closing of business combination (SEC Exhibit 99.1, Dec 2021)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000119312521350485/d229891dex991.htm" },
+    { "label": "Pear Q3 2022 results press release (SEC Exhibit 99.1, Nov 2022)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556722000073/pear2022_q3earningsprxdraft.htm" },
+    { "label": "Pear announces exploration of strategic alternatives (SEC Exhibit 99.1, Mar 2023)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000014/projectprime-pressrelease3.htm" },
+    { "label": "Pear Therapeutics files for Chapter 11 (SEC Exhibit 99.1, Apr 2023)", "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000020/peartherapeuticsfilesforch.htm" },
+    { "label": "SEC XBRL financial data: Pear annual revenue 2020–2022", "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0001835567/us-gaap/RevenueFromContractWithCustomerExcludingAssessedTax.json" },
+    { "label": "SEC XBRL financial data: Pear annual net loss 2020–2022", "url": "https://data.sec.gov/api/xbrl/companyconcept/CIK0001835567/us-gaap/NetIncomeLoss.json" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Pear's assets sold for only a few million dollars in the bankruptcy auction.", "note": "Widely reported, with buyers including other digital health firms, but we could not read the court records or a primary report of the final prices, so we leave the sale results out of the story and endValue blank." },
+      { "claim": "What the 49% 'payment rate' measures.", "note": "Pear reported it as a key metric next to the 60% fulfilment rate; the release we read does not define it precisely, so we describe it simply as the share of prescriptions that got paid." },
+      { "claim": "reSET's FDA authorisation date (September 2017).", "note": "Pear's filings confirm it was the first PDT authorised but do not state the date in the sections we read; 2017 is widely reported." },
+      { "claim": "Revenue fell from 2020 to 2021.", "note": "This is what SEC data shows ($9.4M to $4.2M). 2020 revenue likely included one-off collaboration income, which we could not confirm, so we do not explain the dip in the story." }
+    ]
+  }
+}

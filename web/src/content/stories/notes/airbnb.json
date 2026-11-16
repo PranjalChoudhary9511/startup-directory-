@@ -1,0 +1,387 @@
+{
+  "slug": "airbnb",
+  "company": "Airbnb",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#FF385C",
+    "secondary": "#FF5A5F",
+    "accent": "#00A699",
+    "ink": "#222222",
+    "paper": "#FFF7F5",
+    "note": "Airbnb's coral 'Rausch' as used across airbnb.com today (#FF385C) and in its 2014 rebrand (#FF5A5F), with the teal 'Babu' (#00A699) from its earlier design language, as listed by design-system references; #222222 is airbnb.com's near-black text, and the paper is our own pale coral tint."
+  },
+  "tagline": "Two broke design graduates blew up air mattresses to pay rent, then spent years teaching strangers to trust each other.",
+  "hook": "In October 2007 the rent was $1,150 and Brian Chesky could not pay it. So he and Joe Gebbia inflated three airbeds for a design conference; one of their first three guests, Amol, was an Indian design graduate. By 2025, Airbnb's 5 million hosts had welcomed more than 2.5 billion guest arrivals.",
+  "hookSrc": [1, 0, 22, 21, 2],
+  "cast": [
+    {
+      "name": "Joe Gebbia",
+      "role": "Co-founder. Brian's friend from the Rhode Island School of Design (dual degrees in graphic and industrial design). He had made and sold his own seat-cushion product, which inspired Brian, and he invited Brian to share his San Francisco flat. He later launched Airbnb's in-house design studio Samara and chaired its non-profit, Airbnb.org.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Joe_Gebbia%2C_2012_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Joe_Gebbia,_2012_(cropped).jpg",
+        "caption": "Joe Gebbia in 2012.",
+        "author": "Financial Times",
+        "license": "CC BY 2.0",
+        "year": 2012
+      },
+      "src": [0, 1, 23, 6]
+    },
+    {
+      "name": "Nathan Blecharczyk",
+      "role": "Co-founder and the engineer of the three. A Harvard computer science graduate, he joined Brian and Joe in 2008 and built the platform: Brian says the founders would bring what they learned from users back and 'give it to Nate'. Later Chief Strategy Officer.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nathan_Blecharczyk_2014.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Nathan_Blecharczyk_2014.jpg",
+        "caption": "Nathan Blecharczyk backstage at TechCrunch's Crunchies awards, February 2014.",
+        "author": "TechCrunch",
+        "license": "CC BY 2.0",
+        "year": 2014
+      },
+      "src": [0, 1]
+    },
+    {
+      "name": "Paul Graham",
+      "role": "Co-founder of Y Combinator, which put $20,000 into Airbnb for 6% in early 2009. He told the founders to leave Mountain View and go meet their users in New York, and wrote to investor Fred Wilson that it could be 'as big as Ebay'.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg/1280px-Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Paul_Graham_talking_about_Prototype_Day_at_Y_Combinator_Summer_2009.jpg",
+        "caption": "Paul Graham speaking to Y Combinator founders in June 2009, a few months after Airbnb's batch.",
+        "author": "Kevin Hale from San Francisco, CA, United States",
+        "license": "CC BY-SA 2.0",
+        "year": 2009
+      },
+      "src": [15, 8, 9]
+    }
+  ],
+  "founder": {
+    "name": "Brian Chesky",
+    "role": "Co-founder, CEO & Chairman, Airbnb",
+    "born": "1981; grew up in Niskayuna, New York, USA",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brian_Chesky_2025.jpg/1280px-Brian_Chesky_2025.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_2025.jpg",
+      "caption": "Brian Chesky in 2025.",
+      "author": "Celeste Sloman",
+      "license": "CC BY-SA 4.0",
+      "year": 2025
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Brian_Chesky.jpg/1280px-Brian_Chesky.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Brian_Chesky.jpg",
+        "caption": "Chesky at the LeWeb conference in Paris, December 2011, months after the ransacked-apartment crisis and the start of the war with clone Wimdu.",
+        "author": "LeWEB12 (OFFICIAL LeWEB PHOTOS)",
+        "license": "CC BY 2.0",
+        "year": 2011
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Brian_Chesky_TechCrunch.jpg/1280px-Brian_Chesky_TechCrunch.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_TechCrunch.jpg",
+        "caption": "Chesky on stage at TechCrunch Disrupt, San Francisco, September 2014.",
+        "author": "TechCrunch",
+        "license": "CC BY 2.0",
+        "year": 2014
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg/1280px-Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Atrium_of_AirBnB_Headquarters_at_888_Brannan_St,_San_Francisco.jpg",
+        "caption": "The atrium of Airbnb's headquarters at 888 Brannan Street, San Francisco, its home since 2013.",
+        "author": "Dllu",
+        "license": "CC BY-SA 4.0",
+        "year": 2017
+      }
+    ],
+    "background": "Brian grew up in Niskayuna, a town outside Albany, New York, the son of two social workers. His first passion was ice hockey: after getting a full set of gear one Christmas, he insisted on sleeping in it. Later he would spend hours at the local museum drawing copies of the paintings, and redesigned Nike sneakers for fun. He studied industrial design at the Rhode Island School of Design, graduating in 2004, where he captained the hockey team and once designed a children's ventilator, imagining himself as the child on the operating table.",
+    "backgroundSrc": [14, 23, 8, 0],
+    "journey": [
+      {
+        "year": "1981",
+        "kind": "life",
+        "title": "Born, grows up near Albany",
+        "detail": "Son of two social workers in Niskayuna, New York. Hockey first, then drawing.",
+        "src": [14, 0]
+      },
+      {
+        "year": "2004",
+        "kind": "life",
+        "title": "Industrial design degree from RISD",
+        "detail": "Graduates from the Rhode Island School of Design, where he captained the hockey team and met Joe Gebbia.",
+        "src": [23, 14, 0]
+      },
+      {
+        "year": "Mid-2000s",
+        "kind": "job",
+        "title": "Industrial designer in Los Angeles",
+        "detail": "Designs products for a small industrial design firm. One day he feels 'the road in front of me looks exactly like the road behind me' and decides he is meant to be an entrepreneur.",
+        "src": [1, 14]
+      },
+      {
+        "year": "Oct 2007",
+        "kind": "attempt",
+        "title": "Three airbeds, three guests",
+        "detail": "Quits with no savings and moves into Joe's San Francisco flat; the rent is $1,150. Hotels are sold out for a design conference, so they rent airbeds to Michael, Kat and Amol.",
+        "src": [1, 0, 6]
+      },
+      {
+        "year": "Mar 2008",
+        "kind": "failure",
+        "title": "Relaunch at SXSW: two bookings",
+        "detail": "AirBed & Breakfast relaunches at the SXSW festival in Austin. It gets two bookings, and one of them is Brian.",
+        "src": [6]
+      },
+      {
+        "year": "2008",
+        "kind": "failure",
+        "title": "Seven investors, no money",
+        "detail": "They offer 10% of the company for $150,000. Of seven investors, five say no and two never reply.",
+        "src": [18]
+      },
+      {
+        "year": "Aug 2008",
+        "kind": "attempt",
+        "title": "Third launch, for the Democratic convention",
+        "detail": "Relaunched on 11 August 2008 for the Democratic National Convention in Denver, when hotel rooms ran short. 80 bookings.",
+        "src": [6, 17]
+      },
+      {
+        "year": "Fall 2008",
+        "kind": "attempt",
+        "title": "Obama O's and Cap'n McCain's",
+        "detail": "About $25,000 in credit-card debt, Brian hot-glues election-themed cereal boxes by hand. The cereal brings in roughly $30,000.",
+        "src": [8, 6, 13]
+      },
+      {
+        "year": "Jan 2009",
+        "kind": "breakthrough",
+        "title": "Y Combinator and Paul Graham",
+        "detail": "YC invests $20,000 for 6%. That month Brian writes in an email that Airbnb has made $734 in fees in the week so far. Graham sends them to New York to meet users door to door.",
+        "src": [15, 17, 8, 9]
+      },
+      {
+        "year": "2009",
+        "kind": "breakthrough",
+        "title": "Sequoia seed, new name",
+        "detail": "Sequoia meets them when revenue is about $5,000 a week and closes a seed round within weeks. In March, AirBed & Breakfast becomes Airbnb.",
+        "src": [1, 6]
+      },
+      {
+        "year": "Jun–Aug 2011",
+        "kind": "failure",
+        "title": "#ransackgate",
+        "detail": "A San Francisco host, EJ, blogs that her home was trashed by a guest. Airbnb's first response is weak and '#RIPAirbnb' trends. On 1 August Brian apologises publicly and launches a $50,000 guarantee for hosts; he recalls that investor Marc Andreessen added a zero to the $5,000 the team had planned.",
+        "src": [1, 12]
+      },
+      {
+        "year": "2011",
+        "kind": "attempt",
+        "title": "War with a clone, Wimdu",
+        "detail": "A Berlin copycat, backed with about $90 million and hiring about 400 people within months, tells Airbnb to buy it or face a fight. Brian refuses to buy, makes himself head of international and hires about a dozen country managers. Wimdu closes in 2018.",
+        "src": [1, 19]
+      },
+      {
+        "year": "2020",
+        "kind": "failure",
+        "title": "COVID wipes out 80% of the business",
+        "detail": "Within eight weeks bookings collapse, the IPO is put on hold and about 1,900 of 7,500 staff are laid off. Later that year the board cuts Brian's base salary to $1.",
+        "src": [1, 0, 7]
+      },
+      {
+        "year": "Dec 2020",
+        "kind": "breakthrough",
+        "title": "IPO on Zoom",
+        "detail": "After rewriting the prospectus (he wrote 14,000 words himself), Airbnb lists at $68 a share. The first trade is above $140 and it closes at $144.71.",
+        "src": [1, 5, 20]
+      },
+      {
+        "year": "2026",
+        "kind": "now",
+        "title": "CEO, rebuilding Airbnb again",
+        "detail": "Revenue for 2025 was $12.2 billion. In 2025–26 Airbnb added services, redesigned experiences and boutique hotels, and calls itself 'AI-native'.",
+        "src": [2, 4]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Design the 11-star experience, then walk back",
+        "explain": "He imagines what a five-, seven-, ten- and eleven-star check-in would be (the eleventh: a trip to space). The impossible ones are not the goal; they show you the sweet spot that still feels magical.",
+        "src": [8]
+      },
+      {
+        "idea": "Do things that don't scale",
+        "explain": "Paul Graham told him this was the only time Airbnb would be small enough to meet every customer. So the founders kept commuting from Mountain View to New York, knocked on hosts' doors and photographed their homes themselves.",
+        "src": [8, 10]
+      },
+      {
+        "idea": "Make 100 people love you first",
+        "explain": "He calls Graham's advice, to focus on a hundred people who love the product rather than a million who only kind of like it, possibly the best he ever got.",
+        "src": [16, 8]
+      },
+      {
+        "idea": "In a crisis, make the principled decision",
+        "explain": "Since the 2011 crisis he asks two questions: what is the right thing to do, and how does he want to be remembered, whatever the outcome. The classic advice was not to accept responsibility or apologise; he apologised anyway.",
+        "src": [1]
+      },
+      {
+        "idea": "Make decisions you'll live with for decades",
+        "explain": "He refused to buy the clone Wimdu because its 'mercenary' culture would have changed Airbnb, and because he expected to still be running Airbnb in his forties.",
+        "src": [1]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Goes to the source",
+        "detail": "He seeks out the best person alive in each field and asks them directly: Warren Buffett, Sheryl Sandberg on scaling internationally, Jony Ive. 'If you pick the right source, you can fast-forward.'",
+        "src": [14]
+      },
+      {
+        "habit": "Reads as part of his routine",
+        "detail": "Reading was an early part of his self-education as a CEO, alongside his long list of mentors.",
+        "src": [14]
+      },
+      {
+        "habit": "Lives like his users",
+        "detail": "In the early days he stayed with hosts and met them at home. Years later his own flat was still listed on Airbnb, and he booked 'staycations' in other neighbourhoods to test the product.",
+        "src": [8, 1, 14]
+      },
+      {
+        "habit": "Gets into every detail",
+        "detail": "The 2020 crisis taught him to be 'involved in every detail'; he even wrote 14,000 words of the IPO prospectus himself. A 2024 talk in which he described running Airbnb this way inspired Paul Graham's essay 'Founder Mode'.",
+        "src": [1, 11]
+      }
+    ],
+    "darkestHour": {
+      "title": "Eight weeks that erased 80% of the business (2020)",
+      "story": "Airbnb was preparing to go public as a $30 billion company when the pandemic stopped travel. Within eight weeks it lost 80% of its business; Brian compared it to a ship hit by a torpedo, and headlines asked whether Airbnb would survive. He paused all marketing, put the IPO on hold, and laid off about 1,900 people, a quarter of the staff, which he called 'the hardest thing I ever did'. Guests wanted refunds and hosts needed income, so Airbnb refunded about $1 billion of bookings and borrowed $2 billion at around 10% interest to support both sides. Then, over Memorial Day weekend, people began booking homes a tank of gas away. Airbnb pivoted to nearby and month-long stays, rewrote its prospectus, and went public that December.",
+      "src": [1, 0, 7]
+    },
+    "genuineness": {
+      "story": "When he laid off nearly 1,900 people in May 2020, Brian wrote the reasons out in a public letter and gave US staff 14 weeks' pay plus a week for every year served, 12 months of health insurance, and their Apple laptops to keep. Airbnb also built a public website to help them find new jobs. Before the IPO, Airbnb's board set his base salary at $1 a year, with his pay coming in shares instead of cash.",
+      "src": [7, 0]
+    },
+    "now": "Brian is still CEO and chairman. After 2020 he ran Airbnb with deep personal involvement in every detail, the approach behind Paul Graham's 2024 essay 'Founder Mode'. In 2025 Airbnb earned $12.2 billion in revenue and $2.5 billion in profit, launched services and redesigned experiences, and in 2026 added boutique hotels; in the April–June 2026 quarter revenue grew 17% to $3.6 billion.",
+    "nowSrc": [2, 3, 4, 11]
+  },
+  "numbers": [
+    { "value": "$12.2B", "label": "Revenue (up 10%)", "asOf": "FY2025", "src": [2, 3] },
+    { "value": "$2.5B", "label": "Net income", "asOf": "FY2025", "src": [2, 3] },
+    { "value": "$91.3B", "label": "Value of all bookings (Gross Booking Value)", "asOf": "FY2025", "src": [2, 3] },
+    { "value": "533M", "label": "Nights and experience seats booked", "asOf": "FY2025", "src": [2, 3] },
+    { "value": "5M+", "label": "Hosts on the platform", "asOf": "Dec 2025", "src": [2, 3] },
+    { "value": "2.5B+", "label": "Guest arrivals since 2007", "asOf": "Dec 2025", "src": [2, 3] }
+  ],
+  "milestones": [
+    { "year": "2007", "title": "The first three guests", "detail": "Brian and Joe host Michael, Kat and Amol in their San Francisco flat to pay the rent.", "src": [0, 6] },
+    { "year": "2008", "title": "Company formed, launched three times", "detail": "Incorporated on 27 June 2008 as AirBed & Breakfast, Inc. Launches at SXSW (March) and the Democratic convention (August).", "src": [0, 6] },
+    { "year": "2009", "title": "Y Combinator, Sequoia, a new name", "detail": "Joins YC in January, gets Sequoia seed money and becomes 'Airbnb' in March.", "src": [9, 1, 6] },
+    { "year": "2011", "title": "Trust crisis and the $50,000 guarantee", "detail": "After a host's home is ransacked, Airbnb apologises and promises to cover host property up to $50,000, even for past cases.", "src": [12, 6] },
+    { "year": "2011", "title": "International expansion", "detail": "Opens its first office in Germany and builds a country-by-country playbook to fight the clone Wimdu.", "src": [6, 1] },
+    { "year": "2012", "title": "Guarantee raised to $1 million", "detail": "Host Guarantee coverage goes from $50,000 to $1 million.", "src": [6] },
+    { "year": "2020", "title": "Pandemic and IPO", "detail": "Business falls nearly 80%, then rebounds; Airbnb lists on Nasdaq on 10 December at $68 a share.", "src": [0, 5, 20] },
+    { "year": "2025", "title": "Services and new experiences", "detail": "Launches services and redesigned experiences in May 2025; in October begins moving to a single fee charged to hosts.", "src": [2, 3] },
+    { "year": "2026", "title": "Hotels and AI", "detail": "Adds thousands of boutique hotels and an AI support assistant in 50+ languages; more than 150,000 homes listed for the first time during the FIFA World Cup.", "src": [4] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Airbnb does not own the homes. When a guest books, Airbnb holds the money until check-in, then pays the host and keeps a service fee as a percentage of the booking. That fee is its revenue: in 2025 guests booked $91.3 billion of stays and experiences, and Airbnb's revenue was $12.2 billion. Since October 2025 it has been moving from charging both sides to charging only the host.",
+    "flows": [
+      { "from": "Guest", "to": "Airbnb", "what": "Pays the full booking price, which Airbnb holds until check-in" },
+      { "from": "Airbnb", "to": "Host", "what": "Pays out the booking after check-in, minus the host service fee" },
+      { "from": "Host (and some guests)", "to": "Airbnb", "what": "Service fees, a percentage of each booking: Airbnb's revenue" },
+      { "from": "Airbnb", "to": "Hosts", "what": "AirCover protection: up to $3 million in property damage cover per stay" }
+    ],
+    "src": [2, 3]
+  },
+  "failures": [
+    {
+      "year": "2008",
+      "title": "Launches nobody noticed",
+      "whatHappened": "The first relaunch at SXSW got two bookings, one of them Brian's. Seven investors were offered 10% of the company for $150,000; five said no and two never answered. The founders ran up credit-card debt and sold cereal to survive.",
+      "lesson": "Early silence is not a verdict. Keep launching, and find a way to stay alive until the product works.",
+      "src": [6, 18, 8]
+    },
+    {
+      "year": "2011",
+      "title": "A slow answer to #ransackgate",
+      "whatHappened": "When host EJ's home was trashed, Airbnb's first reply looked like it was dodging responsibility, and the story spread under #ransackgate and #RIPAirbnb. Brian later wrote: 'over the last four weeks, we have really screwed things up.'",
+      "lesson": "In a trust business, a slow or defensive reply can do more damage than the incident. Own it fast and change the system.",
+      "src": [1, 12]
+    },
+    {
+      "year": "2019",
+      "title": "Drifting from the core",
+      "whatHappened": "Before COVID, Airbnb was spending about $1 billion a year on what Brian called 'pretty soulless' performance marketing, adding bureaucracy and chasing hotels. On a hike with Joe and Nate he admitted it was 'not exactly the company I intended'.",
+      "lesson": "Growth can hide a loss of focus. The pandemic forced the cuts he had not dared to make.",
+      "src": [1]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Airbnb was an instant hit.",
+      "fact": "It launched three times. At SXSW in March 2008 it got two bookings (one was Brian), investors passed, and in January 2009 Brian was reporting $734 in fees for the week so far.",
+      "src": [6, 18, 17]
+    },
+    {
+      "myth": "The cereal boxes sold for $40 and made $40,000.",
+      "fact": "TechCrunch reported at the time that each box cost $39 and only 500 of each cereal were made, 1,000 boxes in all. Airbnb's own timeline and Fortune say the founders made about $30,000. The round '$40 a box' and '$40,000' figures come from later retellings.",
+      "src": [13, 6, 15, 8]
+    },
+    {
+      "myth": "Airbnb was founded in 2008.",
+      "fact": "The company was incorporated on 27 June 2008 as AirBed & Breakfast, Inc., but Airbnb dates its founding to the weekend in 2007 when two hosts welcomed three guests.",
+      "src": [0, 2]
+    }
+  ],
+  "quotes": [
+    { "text": "over the last four weeks, we have really screwed things up.", "who": "Brian Chesky, open letter after the 2011 ransacked-home crisis", "src": [12] },
+    { "text": "I literally had to hot glue a 1,000 boxes of cereal.", "who": "Brian Chesky, Masters of Scale, 2017", "src": [8] },
+    { "text": "In a war between missionaries and mercenaries, the missionaries always win.", "who": "Brian Chesky, recalling the 2011 meeting where he declared war on the clone Wimdu (Sequoia, Crucible Moments)", "src": [1] },
+    { "text": "There's no reason this couldn't be as big as Ebay.", "who": "Paul Graham, email to investor Fred Wilson, January 2009", "src": [9] }
+  ],
+  "lessons": [
+    { "title": "Your own problem can be your first market", "detail": "Airbnb began because two designers could not pay $1,150 rent. A real, painful problem you live with yourself is a better starting point than a trendy idea." },
+    { "title": "A flop launch is data, not the end", "detail": "Two bookings at SXSW, seven investor rejections, $25,000 of credit-card debt. They relaunched and sold cereal to survive. Build a way to stay alive long enough to get it right." },
+    { "title": "Meet your first users in person", "detail": "Brian and Joe kept flying to New York, knocked on hosts' doors and took the photos themselves. In India too, sitting with your first 100 customers teaches you more than any survey." },
+    { "title": "When you mess up publicly, say sorry and fix the system", "detail": "After the EJ case Brian apologised without excuses and created a $50,000 guarantee, later $1 million. Trust is rebuilt by changing how things work, not by statements." },
+    { "title": "If you must cut, cut with care", "detail": "In 2020 Airbnb laid off a quarter of its staff, but with generous pay, health cover, laptops and a job-search site. How you treat people in the worst week defines your company." }
+  ],
+  "moments": [],
+  "sources": [
+    { "label": "Airbnb, Inc., Form S-1 registration statement (Nov 2020), incl. 'A letter from Brian, Joe, and Nate' (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm" },
+    { "label": "Sequoia Capital, Crucible Moments: Airbnb, Building (and Rebuilding) User Trust (transcript)", "url": "https://sequoiacap.com/podcast/crucible-moments-airbnb/" },
+    { "label": "Airbnb, Inc., Annual Report on Form 10-K for 2025 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm" },
+    { "label": "Airbnb, Q4 2025 Shareholder Letter (8-K Exhibit 99.1, 12 Feb 2026) (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526048670/d58192dex991.htm" },
+    { "label": "Airbnb, Q2 2026 Shareholder Letter (8-K Exhibit 99.1, 6 Aug 2026) (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526337928/d70413dex991.htm" },
+    { "label": "Airbnb, Inc., final IPO prospectus (Form 424B4, 11 Dec 2020) (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312520315318/d81668d424b4.htm" },
+    { "label": "Airbnb Newsroom, The Airbnb Story: the first 10 years (official timeline, 2018)", "url": "https://news.airbnb.com/wp-content/uploads/sites/4/2018/08/The-Airbnb-Story-Timeline-EN-GLOBAL.pdf" },
+    { "label": "Airbnb Newsroom, A Message from Co-Founder and CEO Brian Chesky (5 May 2020)", "url": "https://news.airbnb.com/a-message-from-co-founder-and-ceo-brian-chesky/" },
+    { "label": "Masters of Scale with Reid Hoffman, 'Handcrafted' with Brian Chesky (transcript, via The Tim Ferriss Show)", "url": "https://tim.blog/2018/07/13/the-tim-ferriss-show-transcripts-reid-hoffman-brian-chesky-how-to-scale-to-100m-users/" },
+    { "label": "Paul Graham, 'Airbnb' (essay with 2009 emails to Fred Wilson, March 2011)", "url": "https://paulgraham.com/airbnb.html" },
+    { "label": "Paul Graham, 'Do Things that Don't Scale' (July 2013)", "url": "https://paulgraham.com/ds.html" },
+    { "label": "Paul Graham, 'Founder Mode' (September 2024)", "url": "https://paulgraham.com/foundermode.html" },
+    { "label": "TechCrunch, Airbnb Offers Unconditional Apology, And $50,000 Insurance Guarantee (1 Aug 2011)", "url": "https://techcrunch.com/2011/08/01/airbnb-offers-unconditional-apology-and-50000-insurance-guarantee/" },
+    { "label": "TechCrunch, What's For Breakfast At Your House: Obama O's or Cap'n McCain's? (9 Oct 2008)", "url": "https://techcrunch.com/2008/10/09/whats-for-breakfast-at-your-house-obama-os-or-capn-mccains/" },
+    { "label": "Fortune, Leigh Gallagher, The education of Airbnb's Brian Chesky (2015)", "url": "https://fortune.com/longform/brian-chesky-airbnb/" },
+    { "label": "Fortune, Airbnb CEO on the cereal boxes that changed everything (19 Apr 2023)", "url": "https://fortune.com/2023/04/19/airbnb-ceo-cereal-box-investors-changed-everything-billion-dollar-company/" },
+    { "label": "Fortune, Airbnb CEO says the best advice he was ever given was 'counterintuitive' (25 May 2023)", "url": "https://fortune.com/2023/05/25/airbnb-ceo-cofounder-brian-chesky-best-advice-paul-graham/" },
+    { "label": "CNBC via NBC San Diego, In 2009, Airbnb collected $734 in fees in a week (19 Nov 2020)", "url": "https://www.nbcsandiego.com/news/business/money-report/in-2009-airbnb-collected-734-in-fees-in-a-week-and-was-clawing-toward-ramen-profitability/2447353/" },
+    { "label": "Travolution, Airbnb founder reveals scale of potential investors' missed opportunity (2015)", "url": "https://www.travolution.com/news/airbnb-founder-reveals-scale-of-potential-investors-missed-opportunity" },
+    { "label": "Tech.eu, Rocket Internet-founded Wimdu shuts down (27 Sep 2018)", "url": "https://tech.eu/2018/09/27/report-rocket-internet-founded-wimdu-shuts-down-prepares-to-lay-off-more-than-100-staff/" },
+    { "label": "CBS News / AP, Airbnb IPO: shares more than double in debut, close at $144.71 (10 Dec 2020)", "url": "https://www.cbsnews.com/sanfrancisco/news/airbnb-ipo-abnb-shares-more-than-double-nasdaq/" },
+    { "label": "Inc42, Meet Amol Surve, Airbnb's first guest", "url": "https://inc42.com/buzz/airbnb-first-guest/" },
+    { "label": "Penguin, extract from Leigh Gallagher, The Airbnb Story (2017)", "url": "https://www.penguin.co.uk/articles/2017/02/the-air-bnb-story" },
+    { "label": "Rhode Island School of Design, press release: Brian Chesky to deliver 2017 commencement keynote", "url": "https://www.risd.edu/news/for-press/press-releases/airbnb-co-founder-ceo-and-head-community-brian-chesky-deliver-keynote" }
+  ],
+  "factCheck": {
+    "method": "Researched from 24 sources, giving priority to Airbnb's SEC filings (S-1, 424B4, 2025 10-K, shareholder letters), Airbnb's own timeline and layoff letter, and Brian Chesky's words in full transcripts (Sequoia, Masters of Scale). Then independently re-checked claim by claim against the cited source plus a second source (press coverage, Crunchbase News, Leigh Gallagher's book); this pass corrected the $734-a-week figure (a part-week), the 2020 salary dates, the Wimdu 'offer to sell', the founder-mode attribution and the cereal-box arithmetic. All four quotes were matched word for word to the original transcripts, letter and email. Photos were confirmed through the Commons API. The three films on our site publish no chapter times, so no video moments are listed.",
+    "disputed": [
+      { "claim": "Cereal: price, number of boxes and money raised.", "note": "TechCrunch (Oct 2008): $39 a box, 500 of each cereal. Chesky (2017): 1,000 boxes at $40. Airbnb's timeline and Fortune: about $30,000; Reid Hoffman's and CNBC's arithmetic: $40,000. We use 'roughly $30,000'." },
+      { "claim": "Wimdu's funding.", "note": "Chesky recalls the clone raising 'apparently a hundred million dollars'; Tech.eu reports about $90 million. We use about $90 million." },
+      { "claim": "Size of the 2020 layoff.", "note": "Chesky's May 2020 letter says nearly 1,900 of 7,500; the S-1 says approximately 1,800 full-time employees (25%). Both describe about a quarter of staff." },
+      { "claim": "How far the business fell in 2020.", "note": "The S-1 letter says 'nearly 80%' and Chesky says 80% in eight weeks; the S-1 data show nights booked down 67% in Q2 2020, and the May 2020 letter forecast 2020 revenue at less than half of 2019. These measure different things." },
+      { "claim": "Sequoia's seed amount ($585,000 or $600,000) and Brian's exact birth date (widely given as 29 Aug 1981).", "note": "Both appear only in secondary sources we could not check against a primary record, so they are left out; the S-1 lists Brian as 39 in November 2020." },
+      { "claim": "Brian's pay in 2020.", "note": "Press reports in March 2020 (citing a person familiar with the matter) said the three founders would take no salary for six months; the S-1 (Nov 2020) and later proxy coverage confirm only that the board set Brian's base salary at $1, paying him in equity instead. A pre-cut salary of $110,000 appears in search snippets of the S-1 but we could not read that section in full, so it is left out." },
+      { "claim": "Name of Brian's Los Angeles employer (often given as 3DID).", "note": "Brian himself says only 'a small industrial design firm' in Los Angeles; we could not read a source naming the firm, so it is left out." }
+    ]
+  }
+}

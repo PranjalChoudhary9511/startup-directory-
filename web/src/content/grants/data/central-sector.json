@@ -1,0 +1,3497 @@
+[
+  {
+    "slug": "birac-big-biotechnology-ignition-grant",
+    "name": "Biotechnology Ignition Grant (BIG)",
+    "shortName": "BIRAC BIG",
+    "provider": "BIRAC, Department of Biotechnology (DBT), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2012,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 5000000,
+    "amountText": "Up to ₹50 lakh grant-in-aid over up to 18 months, released in 3–4 milestone instalments (₹20 lakh on signing, then up to ₹20 lakh per milestone, last ₹5 lakh after the final report).",
+    "equity": "None",
+    "duration": "Up to 18 months, milestone-based",
+    "timeToMoney": "Not published as a fixed number. After a call closes there is an eligibility check, online review by 3–5 experts, a face-to-face pitch to BIRAC's Technical Expert Panel, then up to 45 days of due diligence before the first ₹20 lakh is released on signing.",
+    "status": "call-based",
+    "deadline": "Last call (BIG-25) closed 30 Nov 2025. Guidelines say calls come at least twice a year (typically 1 January and 1 July) and stay open about 30 days, but no 2026 BIG call was listed on BIRAC's call page as of 27 Oct 2026.",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Biotech",
+      "Healthcare",
+      "MedTech",
+      "Diagnostics",
+      "Drugs & Vaccines",
+      "Agriculture",
+      "Industrial Biotech",
+      "Bioinformatics",
+      "Clean Energy & Environment"
+    ],
+    "oneLiner": "India's best-known first grant for biotech startups: up to ₹50 lakh, no equity, to turn a lab idea into a working proof of concept.",
+    "what": "BIG is BIRAC's flagship scheme for very early biotech startups. It pays for the research work needed to prove an idea works (proof of concept): manpower, consumables, small equipment, incubator rent, IP filing, outsourcing and travel. It does not pay for basic research, PhD work, or late-stage clinical or field trials. The money is a grant, so you do not give up shares or repay it.",
+    "who": [
+      "A company or LLP registered in India, incorporated not more than 5 years before the date the BIG call opens (Guidelines v9, Oct 2025).",
+      "At least 51% owned by resident Indian citizens (directly or through Indian-owned companies).",
+      "A named Project Leader who has at least an undergraduate degree, holds shares in the company and will pitch to the selection panel.",
+      "Has its own working lab, or is incubated at an incubator (the BIG Partner verifies this).",
+      "Proposal falls in one of seven categories: devices & diagnostics; drugs incl. delivery; industrial biotech incl. secondary agriculture; agriculture; biosimilars & stem cells; vaccines; bioinformatics."
+    ],
+    "notFor": [
+      "Individuals without a company: the October 2025 guidelines list only a registered company or LLP as eligible.",
+      "Anyone who has already received BIG once (support is given only once per startup).",
+      "Basic or exploratory research, low-novelty ideas, projects without a real biotech component, and late-stage clinical/field trials.",
+      "Companies (or promoters) in default on BIRAC loans, and companies whose 20%+ promoters run another ineligible biotech company/LLP.",
+      "Projects whose same objectives have already been funded by another agency."
+    ],
+    "why": [
+      "It is non-dilutive: ₹50 lakh with no equity taken, at the stage when investors are least willing to fund you.",
+      "A BIG award is a strong signal to biotech angels and to BIRAC's own follow-on schemes (SEED, LEAP, SBIRI, BIPP).",
+      "You get a BIG Partner (an experienced bio-incubator) that mentors and monitors you for the full 18 months.",
+      "It forces you to set clear technical milestones, which makes the next fundraise easier."
+    ],
+    "howItWorks": "BIRAC runs BIG through a network of BIG Partners (8 partners named on the BIRAC page). You apply online on the BIRAC portal during an open call. The BIG Partner checks eligibility and plagiarism, sends eligible proposals to 3–5 subject experts for online review, and a review committee shortlists teams. Shortlisted teams pitch face-to-face to a Technical Expert Panel run centrally by BIRAC. Selected teams then go through financial, legal and technical due diligence (including a possible site visit) and must accept the offer within about 30–45 days. The BIG Partner signs the grant agreement on BIRAC's behalf, releases ₹20 lakh on signing and the rest against milestones, and monitors progress. Scoring weights: unmet need 20, value proposition 20, technical viability 30, team 15, business perspective 15.",
+    "steps": [
+      {
+        "title": "Incorporate and set up your lab access",
+        "detail": "Register a private limited company or LLP (51%+ Indian-owned) and secure lab space, either your own or through an incubator that will give you a letter of intent."
+      },
+      {
+        "title": "Register on the BIRAC portal",
+        "detail": "Create a user account on birac.nic.in before the call opens and read the BIG Guidelines and proposal proformas linked from the BIG page."
+      },
+      {
+        "title": "Write the proposal during the open call",
+        "detail": "Calls are open for roughly 30 days. Cover the unmet need, your novelty, preliminary data, an 18-month milestone plan and a budget within ₹50 lakh. Submit online only; changes are not allowed after submission."
+      },
+      {
+        "title": "Clear eligibility check and expert review",
+        "detail": "The BIG Partner screens for eligibility and scheme fit; 3–5 reviewers score the science; a review committee shortlists."
+      },
+      {
+        "title": "Pitch to the Technical Expert Panel",
+        "detail": "The Project Leader presents in person to BIRAC's panel. Have undertakings from advisors and key team members and evidence of access to facilities or samples ready."
+      },
+      {
+        "title": "Due diligence and offer acceptance",
+        "detail": "Within 30–45 days, complete document verification, budget justification with quotations, and finalise milestones with the BIG Partner, or the offer lapses."
+      },
+      {
+        "title": "Sign the grant agreement and receive the first tranche",
+        "detail": "The BIG Partner signs on behalf of BIRAC and releases ₹20 lakh. Later tranches follow satisfactory milestone reviews; the last ₹5 lakh comes after the final report, utilisation certificate and statement of expenditure."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and shareholding pattern (showing 51%+ Indian ownership)",
+      "Project Leader's degree certificate and proof of shareholding",
+      "Detailed proposal in BIRAC's BIG proforma, with preliminary data",
+      "Letter of interest or MoU from your incubator, or proof of your own lab",
+      "Undertakings from scientific advisors/mentors and key technical team members",
+      "Evidence of access to any unique facilities or samples the project needs",
+      "Quotations backing the budget (asked for during due diligence)",
+      "Undertaking that the same objectives have not been funded by another agency"
+    ],
+    "benefits": [
+      "Up to ₹50 lakh non-dilutive grant",
+      "Mentoring from the BIG Partner on technology, IP, legal, regulatory and business questions",
+      "Investor connects, trainings and networking through BIRAC's ecosystem",
+      "Credibility that helps with SEED/LEAP equity and later SBIRI/BIPP grants"
+    ],
+    "pros": [
+      "No equity and no repayment.",
+      "Large amount for a first grant, enough to hire a small team and run real experiments.",
+      "Clear, published scoring criteria and process.",
+      "Strong mentoring network through BIG Partners."
+    ],
+    "cons": [
+      "You must already have a company; the Oct 2025 guidelines no longer list individuals as eligible.",
+      "Calls have become irregular: one in 2024 (BIG-24) and one in Nov 2025 (BIG-25), and none listed in 2026 so far.",
+      "Highly competitive: recent final lists carry roughly 49–60 names per call nationwide.",
+      "Paperwork-heavy: milestones, utilisation certificates and audits; the last ₹5 lakh is paid only as a reimbursement at the end.",
+      "Only one BIG per startup, ever."
+    ],
+    "goodFitIf": [
+      "You are a biotech, medtech, diagnostics or agri-bio founder with early lab data showing your idea can work.",
+      "Your company is under 5 years old and you have lab access (own or incubator).",
+      "You need 12–18 months of runway to reach proof of concept without giving up equity."
+    ],
+    "skipIf": [
+      "Your product is pure software with no real biotech component.",
+      "You are already past proof of concept and need money for trials or scale-up (look at SBIRI, BIPP or LEAP instead).",
+      "You have not yet incorporated and are not ready to.",
+      "You have received BIG before."
+    ],
+    "insiderTips": [
+      "Pick your incubator early: a letter of intent from an incubator is needed before the expert panel stage, and many winners are incubated at BIG Partners.",
+      "Write to the scoring sheet: technical viability carries 30 of 100 marks, so lead with preliminary data and a believable 18-month plan.",
+      "Register on the BIRAC portal well before a call; calls are short (about 30 days) and the portal shuts automatically at the deadline.",
+      "Keep the budget tight and backed by quotations; BIG Partners check every line during due diligence."
+    ],
+    "performance": {
+      "summary": "BIG started in July 2012. BIRAC's 2016 report counted 192 projects approved in its first four years; by August 2023 the government told Parliament that around 900 projects had been supported. Recent calls each produced roughly 49–60 awardees according to BIRAC's published final lists (BIG-24's list is marked 'subject to due diligence and budget availability'). Year-wise rupee amounts are not published.",
+      "metrics": [
+        {
+          "label": "Projects approved in the first four years (to the 8th call)",
+          "value": "192",
+          "asOf": "2016",
+          "source": {
+            "label": "BIRAC – BIG Report 2016",
+            "url": "https://birac.nic.in/webcontent/BIRAC_BIG_Book_2016.pdf"
+          }
+        },
+        {
+          "label": "Innovative projects supported under BIG (cumulative)",
+          "value": "Around 900",
+          "asOf": "2023-08-03",
+          "source": {
+            "label": "PIB – Rajya Sabha reply on NIDHI, BIRAC and iDEX (3 Aug 2023)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+          }
+        },
+        {
+          "label": "Names on the final BIG-24 awardee list",
+          "value": "51",
+          "asOf": "2025-10",
+          "source": {
+            "label": "BIRAC – Final list of BIG-24 awardees",
+            "url": "https://birac.nic.in/webcontent/1759752792_big_24_awardees.pdf"
+          }
+        },
+        {
+          "label": "BIG Partners managing the scheme",
+          "value": "8",
+          "asOf": "2026-10-23",
+          "source": {
+            "label": "BIRAC – Biotechnology Ignition Grant (BIG) scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=275"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Names on BIRAC's published final awardee list, by call",
+          "unit": "awardees",
+          "points": [
+            {
+              "period": "BIG-20",
+              "value": 54
+            },
+            {
+              "period": "BIG-21",
+              "value": 51
+            },
+            {
+              "period": "BIG-22",
+              "value": 60
+            },
+            {
+              "period": "BIG-23",
+              "value": 49
+            },
+            {
+              "period": "BIG-24",
+              "value": 51
+            }
+          ],
+          "source": {
+            "label": "BIRAC BIG page – counted from the linked final awardee lists for BIG-20 to BIG-24",
+            "url": "https://birac.nic.in/desc_new.php?id=275"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://birac.nic.in/cfp.php",
+    "officialUrl": "https://birac.nic.in/desc_new.php?id=275",
+    "sources": [
+      {
+        "label": "BIRAC – Biotechnology Ignition Grant (BIG) scheme page",
+        "url": "https://birac.nic.in/desc_new.php?id=275"
+      },
+      {
+        "label": "BIRAC – BIG Scheme Guidelines, Version 9 (October 2025)",
+        "url": "https://birac.nic.in/webcontent/1761936564_big_new_guidelines_nov_2025.pdf"
+      },
+      {
+        "label": "BIRAC – Call for Proposals page (all current and past calls)",
+        "url": "https://birac.nic.in/cfp.php"
+      },
+      {
+        "label": "BIRAC – BIG Report 2016",
+        "url": "https://birac.nic.in/webcontent/BIRAC_BIG_Book_2016.pdf"
+      },
+      {
+        "label": "BIRAC – Final list of BIG-24 awardees",
+        "url": "https://birac.nic.in/webcontent/1759752792_big_24_awardees.pdf"
+      },
+      {
+        "label": "PIB – Rajya Sabha reply on NIDHI, BIRAC and iDEX (3 Aug 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+      },
+      {
+        "label": "BIRAC – Final list of BIG-23 awardees",
+        "url": "https://birac.nic.in/webcontent/1706009241_BIG_23_Final_Awardees.pdf"
+      },
+      {
+        "label": "BIRAC – Final list of BIG-22 awardees",
+        "url": "https://birac.nic.in/webcontent/1691146780_Final_list_of_BIG_22_Awardees.pdf"
+      },
+      {
+        "label": "BIRAC – Final list of BIG-21 awardees",
+        "url": "https://birac.nic.in/webcontent/1676014626_Final_list_of_BIG_21_Awardees.pdf"
+      },
+      {
+        "label": "BIRAC – List of BIG-20 awardees",
+        "url": "https://birac.nic.in/webcontent/1659441022_list_of_BIG20_Awardee.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Awardee counts per call were counted by us from BIRAC's published PDF lists (one reference number per awardee); BIRAC does not publish these totals itself, and the BIG-23 list shows only three categories, so some categories may have been listed separately. The 'twice a year' call schedule is from the guidelines, but BIRAC's call page shows only one BIG call in each of 2024 and 2025 and none in 2026 up to 27 Oct 2026. Year-wise rupees disbursed are not published."
+  },
+  {
+    "slug": "birac-sbiri",
+    "name": "Small Business Innovation Research Initiative (SBIRI)",
+    "shortName": "BIRAC SBIRI",
+    "provider": "BIRAC, Department of Biotechnology (DBT), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2005,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Grant-in-aid with cost sharing. A startup (under 10 years old) that has never had a BIRAC grant gets up to 100% of its budget up to ₹50 lakh, plus up to 70% of anything above ₹50 lakh. Other companies get up to 70% of their budget. No overall cap is published. A 5% royalty on product sales applies until the royalty equals the grant.",
+    "equity": "None, but 5% royalty on annual net sales of the resulting product until total royalty equals the grant received",
+    "duration": "Project-specific; money released in about four milestone instalments",
+    "timeToMoney": "Not published. Proposals go through expert committees and a site visit; the first instalment follows signing of the Grant-in-aid Letter Agreement, a separate royalty agreement and other pre-disbursement formalities.",
+    "status": "call-based",
+    "deadline": "Last call ran 1 Apr – 30 May 2025. Guidelines say two calls a year (1 Apr–15 May and 1 Sep–15 Oct), but no SBIRI call was listed on BIRAC's call page after May 2025 as of 27 Oct 2026.",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Biotech",
+      "Healthcare",
+      "MedTech",
+      "Agriculture",
+      "Food & Nutrition",
+      "Industrial Biotech"
+    ],
+    "oneLiner": "A BIRAC grant for small biotech companies to take an idea with proof of principle to a validated product or process (up to TRL 6).",
+    "what": "SBIRI is DBT's oldest early-stage public-private partnership scheme for biotech, started in 2005. It funds companies (alone or with an academic partner) doing early, high-risk R&D that already has proof of principle and preliminary data. Projects should end at Technology Readiness Level 6 or below. The support is grant-in-aid, with the company paying part of the cost and a royalty on future sales.",
+    "who": [
+      "A company registered under the Companies Act 2013 or an LLP, alone or in a consortium.",
+      "At least 51% of shares held by Indian citizens with Indian passports (OCI/PIO holders do not count); for LLPs, at least half the partners must be Indian citizens.",
+      "Adequate in-house R&D facilities (checked on a site visit) or incubation at a recognised incubator.",
+      "Optional academic partner: public or private universities, national labs, or registered not-for-profit research bodies."
+    ],
+    "notFor": [
+      "Ideas without proof of principle or preliminary data (concept-only or exploratory research is rejected).",
+      "Companies, subsidiaries or directors that have defaulted on BIRAC loans, refunds or royalties.",
+      "Companies that withdrew an Apex-Committee-approved proposal or had a project foreclosed for irregularities (debarred for the next 2 calls).",
+      "Individuals without a registered company or LLP."
+    ],
+    "why": [
+      "Larger budgets than BIG, and a startup's first ₹50 lakh can be 100% funded.",
+      "No equity taken; you repay only through a capped royalty if the product sells.",
+      "You can bring in a university or national lab as a funded partner.",
+      "SBIRI has a track record: 337 projects supported and 87 products or technologies developed or commercialised (as of 31 Jan 2024)."
+    ],
+    "howItWorks": "BIRAC opens SBIRI calls on its portal. Proposals are reviewed by expert committees on novelty, preliminary data, strength of proof of concept, clarity of strategy and national or social relevance, with a site visit to check facilities. Approved projects sign a Grant-in-aid Letter Agreement and a separate royalty agreement. Funds go to the company (and to the academic partner, if any) in roughly four instalments, each released only after the linked milestone is achieved. The company contributes its share of cost (at least 30% unless it qualifies for the startup 100%-up-to-₹50-lakh rule) and pays 5% of net sales of the resulting product as royalty until the royalty matches the grant.",
+    "steps": [
+      {
+        "title": "Check your stage",
+        "detail": "Make sure you have proof of principle and preliminary data, and that the project can reach a defined outcome by TRL 6."
+      },
+      {
+        "title": "Register your company on the BIRAC portal",
+        "detail": "Create an organisation login on birac.nic.in; proposals can only be filed by registered users during an active call."
+      },
+      {
+        "title": "Line up partners and co-funding",
+        "detail": "Decide whether an academic partner is needed and confirm how your company will fund its share (30% for non-first-time grantees)."
+      },
+      {
+        "title": "Submit the proposal online during the call window",
+        "detail": "Use the SBIRI proforma, with milestones, budget and preliminary data. Watch for the call notice on BIRAC's Call for Proposals page."
+      },
+      {
+        "title": "Expert review and site visit",
+        "detail": "Committees score the proposal; BIRAC may inspect your facilities or incubator."
+      },
+      {
+        "title": "Sign agreements and complete pre-disbursement formalities",
+        "detail": "Sign the Grant-in-aid Letter Agreement and royalty agreement, pass a board resolution, open a no-lien account and submit in-house R&D and shareholding certificates."
+      },
+      {
+        "title": "Receive milestone-linked instalments",
+        "detail": "The first instalment comes on signing; later ones follow technical milestones and the final project completion report."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and CA/CS certificate of shareholding",
+      "Detailed proposal in the SBIRI proforma with preliminary data",
+      "Board resolution and letter of authorisation (BIRAC formats)",
+      "No-lien bank account letter",
+      "In-house R&D facility declaration or incubation agreement",
+      "Academic partner's registration/accreditation documents (if any)",
+      "Audited financials showing ability to fund your share"
+    ],
+    "benefits": [
+      "Grant funding for high-risk R&D",
+      "Optional funded academic collaboration",
+      "BIRAC project monitoring and mentoring",
+      "Pathway to BIPP for later-stage, larger projects"
+    ],
+    "pros": [
+      "Startups' first ₹50 lakh can be 100% grant-funded.",
+      "No equity dilution.",
+      "Lets you fund an academic partner inside the same project.",
+      "Long-running scheme with published impact numbers."
+    ],
+    "cons": [
+      "5% royalty on product sales until it equals the grant.",
+      "Cost sharing: established companies must fund at least 30%.",
+      "No SBIRI call has been listed since May 2025 (as of 27 Oct 2026).",
+      "Requires proof of principle; not for pure idea-stage teams.",
+      "Heavy documentation and milestone audits."
+    ],
+    "goodFitIf": [
+      "You are a biotech company with proof-of-principle data and need to build and validate a prototype.",
+      "You want to partner with a university or national lab on product development.",
+      "You prefer a royalty over giving up equity."
+    ],
+    "skipIf": [
+      "You only have an idea and no data (try BIG or E-YUVA first).",
+      "Your project needs clinical or multi-location field trials (BIPP fits better).",
+      "You cannot fund any share of the project or accept a sales royalty."
+    ],
+    "insiderTips": [
+      "Check BIRAC's Call for Proposals page often; SBIRI and BIPP calls have usually opened together on 1 April or mid-September.",
+      "If you are a startup under 10 years old with no previous BIRAC grant, design the first ₹50 lakh of your budget carefully, because that part can be fully funded.",
+      "Bring hard preliminary data; the guidelines say proposals without it 'will NOT be supported'."
+    ],
+    "performance": {
+      "summary": "Since 2005, SBIRI had announced 53 calls and supported 337 projects with ₹576 crore committed as of 31 January 2024, according to BIRAC's scheme page. BIRAC does not publish year-wise figures for SBIRI.",
+      "metrics": [
+        {
+          "label": "Projects supported",
+          "value": "337",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – SBIRI scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=217"
+          }
+        },
+        {
+          "label": "Funds committed",
+          "value": "₹576 crore",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – SBIRI scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=217"
+          }
+        },
+        {
+          "label": "Beneficiaries supported",
+          "value": "429",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – SBIRI scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=217"
+          }
+        },
+        {
+          "label": "Products/technologies developed or commercialised",
+          "value": "87",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – SBIRI scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=217"
+          }
+        },
+        {
+          "label": "Employment generated",
+          "value": "743",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – SBIRI scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=217"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://birac.nic.in/cfp.php",
+    "officialUrl": "https://birac.nic.in/desc_new.php?id=217",
+    "sources": [
+      {
+        "label": "BIRAC – SBIRI scheme page",
+        "url": "https://birac.nic.in/desc_new.php?id=217"
+      },
+      {
+        "label": "BIRAC – SBIRI Scheme Guidelines (16 April 2025)",
+        "url": "https://www.birac.nic.in/webcontent/1745298212_SBIRI_scheme_guidelines_16_04_2025.pdf"
+      },
+      {
+        "label": "BIRAC – Call for Proposals page (all current and past calls)",
+        "url": "https://birac.nic.in/cfp.php"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "No overall funding cap is stated in the April 2025 guidelines, so maxAmountINR is left empty. Impact numbers are BIRAC's own (as of 31 Jan 2024); no year-wise breakdown is published, so no chart. Whether the twice-yearly calls will resume is not confirmed: the last listed SBIRI call closed 30 May 2025."
+  },
+  {
+    "slug": "birac-bipp",
+    "name": "Biotechnology Industry Partnership Programme (BIPP)",
+    "shortName": "BIRAC BIPP",
+    "provider": "BIRAC, Department of Biotechnology (DBT), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2008,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Grant-in-aid on a cost-sharing basis with no fixed cap ('costs commensurate with activities'). A startup with no earlier BIRAC grant gets up to 100% of its budget up to ₹50 lakh plus up to 70% above that; other companies get up to 70%. 5% royalty on product sales until it equals the grant.",
+    "equity": "None, but 5% royalty on annual net sales until total royalty equals the grant",
+    "duration": "Project-specific; milestone-based instalments",
+    "timeToMoney": "Not published. Expert review and committee approval, then grant and royalty agreements before the first instalment.",
+    "status": "call-based",
+    "deadline": "Last call ran 1 Apr – 30 May 2025. Guidelines describe two calls a year, but none was listed on BIRAC's call page after May 2025 as of 27 Oct 2026.",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Drugs & Drug Delivery",
+      "Vaccines & Clinical Trials",
+      "Biosimilars & Stem Cells",
+      "Devices & Diagnostics",
+      "Agriculture",
+      "Industrial Biotech",
+      "Bioinformatics"
+    ],
+    "oneLiner": "BIRAC's big-ticket grant for breakthrough, late-stage biotech development, including clinical and field trials.",
+    "what": "BIPP funds high-risk, transformational biotech product and process development that should end at TRL 7 or above. It covers four categories: (I/II) socially important or globally competitive innovation research, (III-A) Phase III clinical trials, (III-B) multi-location agriculture field trials, and (IV) shared facilities critical for innovation. It is grant-in-aid with industry co-funding and IP owned by the Indian company.",
+    "who": [
+      "A company (Companies Act 2013) or LLP, alone or with public/private research partners.",
+      "At least 51% of shares held by Indian citizens with Indian passports; for LLPs at least half the partners must be Indian citizens.",
+      "Adequate in-house facilities (checked on site) or incubation at a recognised incubator.",
+      "A project with transformational, not incremental, technology that can reach TRL 7 or higher."
+    ],
+    "notFor": [
+      "Incremental improvements to existing products.",
+      "Companies (or directors) in default on BIRAC loans, refunds or royalties.",
+      "Early-idea projects without proof of concept (use BIG or SBIRI)."
+    ],
+    "why": [
+      "No published cap: suited to expensive late-stage work such as clinical or multi-location field trials.",
+      "Grant money with IP retained by your company.",
+      "Signals to investors and partners that your technology passed a tough national review.",
+      "246 projects supported and 95 products/technologies developed or commercialised as of 31 Jan 2024."
+    ],
+    "howItWorks": "BIRAC invites proposals through calls on its portal; it may also run special or challenge calls on specific national needs. Expert panels evaluate novelty, preliminary data, strength of proof of concept, strategy, national relevance, team credentials and commercial potential. Approved projects sign a grant agreement and a royalty agreement. Funds are released in instalments linked to technical milestones. The company co-funds as per the cost-sharing rules and pays a 5% royalty on net sales until it equals the grant.",
+    "steps": [
+      {
+        "title": "Confirm category and TRL",
+        "detail": "Pick the right BIPP category (I/II, III-A clinical, III-B field trials, IV facilities) and show the project can end at TRL 7+."
+      },
+      {
+        "title": "Register on the BIRAC portal",
+        "detail": "Register your company on birac.nic.in and read the BIPP user guide and category proforma."
+      },
+      {
+        "title": "Prepare co-funding and partners",
+        "detail": "Plan your share of costs and any academic or clinical partners."
+      },
+      {
+        "title": "Submit during an active call",
+        "detail": "File online with milestones, budget, regulatory plan and commercialisation path."
+      },
+      {
+        "title": "Expert evaluation and site visit",
+        "detail": "Respond to reviewer questions; BIRAC checks facilities."
+      },
+      {
+        "title": "Sign agreements and start",
+        "detail": "Sign the Grant-in-aid Letter Agreement and royalty agreement, complete board resolution and no-lien account formalities, then receive the first instalment."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and shareholding certificate",
+      "Category-specific BIPP proforma with preliminary data",
+      "Regulatory approvals or plans (for clinical or transgenic field trials)",
+      "Board resolution, letter of authorisation, no-lien account letter",
+      "In-house R&D declaration or incubation agreement",
+      "Partner institution documents and financials (if any)"
+    ],
+    "benefits": [
+      "Large grant support for late-stage development",
+      "IP stays with your company",
+      "BIRAC monitoring and mentoring",
+      "Access to shared facilities under Category IV"
+    ],
+    "pros": [
+      "No published funding ceiling.",
+      "Covers clinical and field trials, which few grants do.",
+      "No equity dilution.",
+      "Clear cost-sharing rules."
+    ],
+    "cons": [
+      "Co-funding required beyond a startup's first ₹50 lakh (at least 30%).",
+      "5% royalty on sales until it equals the grant.",
+      "No call listed since May 2025.",
+      "Best suited to companies with strong teams, data and regulatory know-how; tough for first-time founders."
+    ],
+    "goodFitIf": [
+      "You have a validated biotech product heading into trials or scale-up.",
+      "You can co-fund part of a large project.",
+      "Your innovation is breakthrough rather than incremental."
+    ],
+    "skipIf": [
+      "You are at idea or early proof-of-concept stage.",
+      "You cannot co-fund or accept a sales royalty.",
+      "Your project is an incremental improvement."
+    ],
+    "insiderTips": [
+      "Use BIRAC's published evaluation parameters per category (linked on the BIPP page) as your outline.",
+      "BIPP and SBIRI calls have opened on the same dates; prepare both options and choose based on your TRL.",
+      "For Category III projects, get your regulatory pathway (CDSCO or GEAC) mapped before applying."
+    ],
+    "performance": {
+      "summary": "BIPP was launched in December 2008. By 31 January 2024 BIRAC reported 60 calls, 246 projects supported and ₹574.55 crore committed. An older snapshot (31 March 2020) showed 214 projects and ₹523.79 crore disbursed. No year-wise series is published.",
+      "metrics": [
+        {
+          "label": "Projects supported",
+          "value": "246",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – BIPP scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=216"
+          }
+        },
+        {
+          "label": "Funds committed",
+          "value": "₹574.55 crore",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – BIPP scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=216"
+          }
+        },
+        {
+          "label": "Products/technologies developed or commercialised",
+          "value": "95",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – BIPP scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=216"
+          }
+        },
+        {
+          "label": "Employment generated",
+          "value": "1,995",
+          "asOf": "2024-01-31",
+          "source": {
+            "label": "BIRAC – BIPP scheme page",
+            "url": "https://birac.nic.in/desc_new.php?id=216"
+          }
+        },
+        {
+          "label": "Funds disbursed (older snapshot)",
+          "value": "₹523.79 crore",
+          "asOf": "2020-03-31",
+          "source": {
+            "label": "BIRAC – BIPP page (older impact snapshot, March 2020)",
+            "url": "https://birac.nic.in/bipp.php"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://birac.nic.in/cfp.php",
+    "officialUrl": "https://birac.nic.in/desc_new.php?id=216",
+    "sources": [
+      {
+        "label": "BIRAC – BIPP scheme page",
+        "url": "https://birac.nic.in/desc_new.php?id=216"
+      },
+      {
+        "label": "BIRAC – BIPP page (older impact snapshot, March 2020)",
+        "url": "https://birac.nic.in/bipp.php"
+      },
+      {
+        "label": "BIRAC – BIPP Scheme Guidelines (16 April 2025)",
+        "url": "https://birac.nic.in/webcontent/1745298172_BIPP_scheme_guidelines_16_04_2025.pdf"
+      },
+      {
+        "label": "BIRAC – Call for Proposals page (all current and past calls)",
+        "url": "https://birac.nic.in/cfp.php"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The guidelines state 'no cap on funding', so maxAmountINR is empty. BIRAC's two BIPP pages show different snapshots (committed vs disbursed); both are reported as published. No year-wise data, so no chart. Whether regular calls resume after May 2025 is unconfirmed."
+  },
+  {
+    "slug": "birac-seed-and-leap-funds",
+    "name": "BIRAC SEED Fund and LEAP Fund (equity support via BioNEST incubators)",
+    "shortName": "BIRAC SEED / LEAP",
+    "provider": "BIRAC, Department of Biotechnology (DBT), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "equity",
+      "convertible"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "SEED Fund: up to ₹30 lakh per startup as equity or equity-linked investment. LEAP Fund: up to ₹1 crore per startup, in one or more milestone tranches. Both are invested by BIRAC-approved BioNEST incubators.",
+    "equity": "Equity or equity-linked instruments (e.g. CCDs/CCPS) held by the incubator; terms set by each incubator",
+    "duration": "One-time investment; LEAP can be released in milestone tranches",
+    "timeToMoney": "Not published; depends on each partner incubator's own selection and investment process.",
+    "status": "rolling",
+    "deadline": "No national deadline. Each SEED/LEAP partner incubator runs its own intake (open calls, accelerators or direct applications).",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Biotech",
+      "MedTech",
+      "Diagnostics",
+      "AgriTech",
+      "Life Sciences"
+    ],
+    "oneLiner": "BIRAC money invested as equity through top bio-incubators: up to ₹30 lakh (SEED) after proof of concept, and up to ₹1 crore (LEAP) to pilot or launch.",
+    "what": "SEED (Sustainable Entrepreneurship and Enterprise Development) is aimed at post-proof-of-concept biotech startups and is meant to bridge the gap between founders' own money and angel investment. LEAP (Launching Entrepreneurial Driven Affordable Products) supports startups going from proof of concept to pilot or commercial launch so they can raise venture capital. BIRAC gives the partner incubators a pool (up to ₹2 crore per cycle for SEED, up to ₹5 crore for LEAP), and the incubators choose startups and invest.",
+    "who": [
+      "A startup company registered under the Companies Act 2013 with at least 51% Indian-citizen shareholders (OCI/PIO excluded).",
+      "Selected by one of BIRAC's SEED Fund partners (16 BioNEST incubators) or LEAP Fund partners (6 incubators).",
+      "SEED: post-proof-of-concept startups. LEAP: startups ready to pilot or commercialise and needing more than ₹30 lakh."
+    ],
+    "notFor": [
+      "Startups that have already had SEED support (SEED is once per startup).",
+      "LEAP for startups whose SEED funding period has not finished, or was foreclosed or terminated.",
+      "Startups needing only up to ₹30 lakh (these go to SEED, not LEAP).",
+      "Concurrent SEED and LEAP support."
+    ],
+    "why": [
+      "Fills the 'valley of death' between grants and VC money.",
+      "Comes with an experienced bio-incubator on your cap table.",
+      "BIRAC-reported outcomes: SEED startups raised ₹398 crore follow-on (71 startups) and LEAP startups ₹339 crore (27 startups) as of Feb 2023."
+    ],
+    "howItWorks": "BIRAC selects established BioNEST incubators as partners and parks a grant-in-aid pool with each (up to ₹200 lakh per cycle for SEED, ₹500 lakh for LEAP). Each incubator designs its own selection (accelerator cohorts or direct investment) and an investment committee picks startups. The incubator invests as equity or equity-linked instruments and holds them in its own name. On exit, the incubator keeps 50% of the gross return and returns 50% to BIRAC. No management fee is charged to the startup by BIRAC.",
+    "steps": [
+      {
+        "title": "Find a partner incubator",
+        "detail": "Open the SEED or LEAP page on birac.nic.in and see the list of partner incubators (e.g. C-CAMP, IKP, SINE IIT Bombay, KIIT-TBI, FITT IIT Delhi, Venture Center)."
+      },
+      {
+        "title": "Get incubated or apply to their programme",
+        "detail": "Most partners invest in their own incubatees or accelerator cohorts; apply through the incubator's website."
+      },
+      {
+        "title": "Prepare an investment pitch",
+        "detail": "Show proof of concept (SEED) or pilot/commercial readiness (LEAP), use of funds, milestones and cap table."
+      },
+      {
+        "title": "Incubator investment committee review",
+        "detail": "Pitch to the incubator's committee; expect due diligence on IP, team and finances."
+      },
+      {
+        "title": "Sign the investment agreement",
+        "detail": "Agree valuation and instrument (equity or convertible) with the incubator."
+      },
+      {
+        "title": "Receive funds and report",
+        "detail": "LEAP may be released in tranches against milestones; you report progress to the incubator, which reports to BIRAC."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and cap table",
+      "Pitch deck and business plan",
+      "Proof-of-concept or pilot data",
+      "IP status (patents filed or licences)",
+      "Financial statements and projections",
+      "Incubation agreement with the partner incubator"
+    ],
+    "benefits": [
+      "Equity capital up to ₹30 lakh (SEED) or ₹1 crore (LEAP)",
+      "Incubator mentoring, lab access and investor networks",
+      "Signalling value for angel and VC rounds"
+    ],
+    "pros": [
+      "Rare institutional equity for biotech at pre-angel stage.",
+      "Startup-friendly investors who understand long biotech timelines.",
+      "Can be combined with grants such as BIG (sequentially)."
+    ],
+    "cons": [
+      "You give up equity, unlike BIRAC grants.",
+      "Access depends on getting into one of a few partner incubators.",
+      "Terms and timelines vary by incubator.",
+      "Published impact numbers are old (last updated Feb 2023)."
+    ],
+    "goodFitIf": [
+      "You have proof of concept (SEED) or a product ready to pilot (LEAP).",
+      "You are or can become incubated at a BIRAC SEED/LEAP partner.",
+      "You are comfortable giving equity for capital plus support."
+    ],
+    "skipIf": [
+      "You only need grant money and want zero dilution.",
+      "You are at idea stage with no proof of concept.",
+      "You already received SEED (for SEED) or your SEED term is still running (for LEAP)."
+    ],
+    "insiderTips": [
+      "Treat incubator selection as a fundraising decision; partners differ a lot in follow-on success (BIRAC's LEAP table shows follow-on raised by each partner).",
+      "Line up a BIG grant first: grant-funded proof of concept makes the SEED conversation easier.",
+      "Ask the incubator up front about instrument, valuation method and timeline."
+    ],
+    "performance": {
+      "summary": "BIRAC reports (last updated Feb 2023) that SEED had 16 partner incubators and supported 112 startups, which went on to raise ₹398 crore in follow-on funding (71 startups). LEAP had 6 partners and 47 startups, which raised ₹339 crore follow-on (27 startups). Year-wise figures are not published.",
+      "metrics": [
+        {
+          "label": "SEED Fund: startups supported",
+          "value": "112",
+          "asOf": "2023-02",
+          "source": {
+            "label": "BIRAC – SEED Fund page",
+            "url": "https://birac.nic.in/seedFundNew.php"
+          }
+        },
+        {
+          "label": "SEED Fund: follow-on funding raised (71 startups)",
+          "value": "₹398 crore",
+          "asOf": "2023-02",
+          "source": {
+            "label": "BIRAC – SEED Fund page",
+            "url": "https://birac.nic.in/seedFundNew.php"
+          }
+        },
+        {
+          "label": "LEAP Fund: startups supported",
+          "value": "47",
+          "asOf": "2023-02",
+          "source": {
+            "label": "BIRAC – LEAP Fund page",
+            "url": "https://birac.nic.in/leapFundNew.php"
+          }
+        },
+        {
+          "label": "LEAP Fund: follow-on funding raised (27 startups)",
+          "value": "₹339 crore",
+          "asOf": "2023-02",
+          "source": {
+            "label": "BIRAC – LEAP Fund page",
+            "url": "https://birac.nic.in/leapFundNew.php"
+          }
+        },
+        {
+          "label": "Partner incubators (SEED / LEAP)",
+          "value": "16 / 6",
+          "asOf": "2023-02",
+          "source": {
+            "label": "BIRAC – SEED Fund page",
+            "url": "https://birac.nic.in/seedFundNew.php"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://birac.nic.in/seedFundNew.php",
+    "officialUrl": "https://birac.nic.in/leapFundNew.php",
+    "sources": [
+      {
+        "label": "BIRAC – SEED Fund page",
+        "url": "https://birac.nic.in/seedFundNew.php"
+      },
+      {
+        "label": "BIRAC – LEAP Fund page",
+        "url": "https://birac.nic.in/leapFundNew.php"
+      },
+      {
+        "label": "BIRAC – SEED Fund guidelines",
+        "url": "https://birac.nic.in/webcontent/1616486925_seed_fund_Guidelines.pdf"
+      },
+      {
+        "label": "BIRAC – LEAP Fund guidelines",
+        "url": "https://birac.nic.in/webcontent/1616486900_leap_fund_guidelines.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Launch years are not stated on the official pages, so launchedYear is empty. Impact figures are BIRAC's own and were last updated Feb 2023. Status is 'rolling' because startups apply through partner incubators year-round; individual incubators may only take applications in cohorts."
+  },
+  {
+    "slug": "birac-e-yuva-fellowships",
+    "name": "E-YUVA: BIRAC E-YUVA Fellowship and BIRAC Innovation Fellowship",
+    "shortName": "BIRAC E-YUVA",
+    "provider": "BIRAC, Department of Biotechnology (DBT), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "fellowship",
+      "grant"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Undergraduate teams (E-YUVA Fellows): ₹7,500 per student per quarter plus a ₹2.5 lakh research grant per team, for 12 months. Postgraduates/PhDs (Innovation Fellows): ₹30,000/month (master's) or ₹50,000/month (PhD) plus ₹3 lakh or ₹5 lakh per year research grant, for 18 months (extendable by 6).",
+    "equity": "None. IP stays with the innovators.",
+    "duration": "12 months (UG teams); 18 months, extendable by 6 (Innovation Fellows)",
+    "timeToMoney": "Not published. Applications are screened by the E-YUVA Centre, reviewed, and shortlisted applicants present to a technical expert committee; stipends start after the fellowship agreement.",
+    "status": "open",
+    "deadline": "Current call for E-YUVA Fellows and Innovation Fellows closes 31 Oct 2026, 5:30 PM.",
+    "stages": [
+      "student",
+      "idea"
+    ],
+    "sectors": [
+      "Biotech",
+      "Healthcare",
+      "MedTech",
+      "Agriculture",
+      "Waste & Sanitation",
+      "Clean Energy",
+      "AI/IoT for biotech"
+    ],
+    "oneLiner": "BIRAC pays college students and fresh postgraduates to work on a biotech product idea at a university innovation centre, with mentoring and lab access.",
+    "what": "E-YUVA (Empowering Youth for Undertaking Value Added Innovative Translational Research) builds an innovation habit among students. It runs through E-YUVA Centres at universities, each mentored by a BIRAC BioNEST bio-incubator. Undergraduate teams get a small stipend and a research grant to build a biotech product idea; recent master's and PhD graduates get a full-time monthly fellowship and research grant to work toward a startup.",
+    "who": [
+      "E-YUVA Fellows: a team of up to 5 Indian students pursuing an undergraduate degree in any discipline (mixed disciplines encouraged), with a faculty mentor, applying through their college E-Cell, Institution's Innovation Council or incubation centre.",
+      "Innovation Fellows: an Indian who has completed a master's (apply within 3 years) or PhD (apply within 2 years) in any discipline; women are exempt from these time limits.",
+      "Innovation Fellows must work full-time at the E-YUVA Centre.",
+      "Proposals must aim at a biotech product or technology with societal or commercial potential."
+    ],
+    "notFor": [
+      "School students (this is for undergraduates and above).",
+      "Students currently doing a PhD (cannot take the Innovation Fellowship) and fellows who want to start a PhD during the fellowship.",
+      "Pure basic research with no product angle.",
+      "OCI/PIO cardholders (only Indian citizens are eligible)."
+    ],
+    "why": [
+      "One of very few central schemes that put money directly in undergraduates' hands for an innovation project.",
+      "Access to a pre-incubation lab (3,000 sq ft or more) and the partner bio-incubator's advanced facilities.",
+      "Mentoring on IP, regulation and business from BIRAC's incubator network.",
+      "IP stays with you, which matters if you later start a company and apply for BIG."
+    ],
+    "howItWorks": "BIRAC funds E-YUVA Centres (19 listed in July 2026) at universities and links each to a BioNEST bio-incubator as knowledge partner. Applications are invited nationally on the BIRAC portal; you list up to 3 preferred centres. Each centre checks eligibility, sends proposals to reviewers, and shortlists applicants to present before a technical expert committee that includes a BIRAC nominee. Selected fellows sign an agreement with the centre. UG stipends go quarterly to students' accounts after mentor approval; the UG research grant goes to the institute in two instalments (75% then 25%) and is managed by the mentor. UG fellows must spend 3–4 weeks at the centre or knowledge partner during the year.",
+    "steps": [
+      {
+        "title": "Form your team and find a mentor",
+        "detail": "UG: up to 5 students plus a faculty mentor. PG/PhD: identify a centre whose domain fits your idea."
+      },
+      {
+        "title": "Route through your E-Cell or innovation council",
+        "detail": "UG teams apply through their college's E-Cell, IIC or incubation centre; each member's college needs one if students are from different colleges."
+      },
+      {
+        "title": "Register and apply on the BIRAC portal",
+        "detail": "Follow BIRAC's step-by-step E-YUVA application guide and choose up to 3 E-YUVA Centres."
+      },
+      {
+        "title": "Submit the authorisation letter and mentor undertaking",
+        "detail": "Use BIRAC's prescribed format, downloadable from the E-YUVA page."
+      },
+      {
+        "title": "Present to the expert committee",
+        "detail": "Shortlisted applicants pitch at the centre to a technical committee with a BIRAC nominee."
+      },
+      {
+        "title": "Sign the fellowship agreement and start",
+        "detail": "Begin work; UG teams spend 3–4 weeks at the centre, Innovation Fellows work full-time there."
+      }
+    ],
+    "documents": [
+      "Proof of Indian citizenship",
+      "College ID / enrolment proof for all UG team members, or master's/PhD degree certificate with completion date",
+      "Authorisation letter from the institution and undertaking by the mentor (BIRAC format)",
+      "Project proposal: problem, idea, plan and budget",
+      "Proof that the college has an E-Cell, IIC or incubation centre (UG teams)"
+    ],
+    "benefits": [
+      "Stipend/fellowship plus a research grant",
+      "Pre-incubation lab space and equipment",
+      "Mentoring from BioNEST incubators",
+      "Entrepreneurship workshops and a pathway to BIG and incubation"
+    ],
+    "pros": [
+      "Open to undergraduates, which is rare for central innovation funding.",
+      "IP stays with the student innovators.",
+      "Women PG/PhD applicants get relaxed age-of-degree rules.",
+      "An open call right now (closes 31 Oct 2026)."
+    ],
+    "cons": [
+      "UG amounts are modest: ₹30,000 per student per year plus ₹2.5 lakh per team.",
+      "Limited seats: each centre supports up to 5 UG teams a year and 3 Innovation Fellows at a time.",
+      "Innovation Fellows must work full-time and cannot do a PhD at the same time.",
+      "You must work through one of only about 19 centres."
+    ],
+    "goodFitIf": [
+      "You are an undergraduate team (science, engineering, agri or other streams) with a biotech-flavoured product idea.",
+      "You recently finished a master's or PhD and want to try building a biotech startup on a stipend.",
+      "Your college has an E-Cell or innovation council that can endorse you."
+    ],
+    "skipIf": [
+      "You are a school student (look at INSPIRE-MANAK or Atal Tinkering Labs).",
+      "Your idea has no biotech or life-science angle.",
+      "You are enrolled in a PhD and want to continue it."
+    ],
+    "insiderTips": [
+      "Choose E-YUVA Centres near you or strong in your domain; BIRAC's July 2026 centre list gives contacts for each, so email the coordinator before applying.",
+      "Interdisciplinary UG teams (for example biotech plus electronics or computer science) are explicitly encouraged.",
+      "Show a real user problem and a product path, not just an experiment; the scheme funds translational, product-oriented work."
+    ],
+    "performance": {
+      "summary": "The first national call selected 43 E-YUVA (undergraduate) teams and 19 Innovation Fellows, according to BIRAC's published final lists. A third call for E-YUVA Fellows ran Oct–Dec 2025, and the current call closes 31 Oct 2026. BIRAC's July 2026 list names 19 E-YUVA Centres. No year-wise totals or funds data are published.",
+      "metrics": [
+        {
+          "label": "E-YUVA teams selected in the first national call",
+          "value": "43",
+          "asOf": "2022",
+          "source": {
+            "label": "BIRAC – Final list of E-YUVA Fellows, first national call",
+            "url": "https://birac.nic.in/webcontent/1671775427_List_ofFinal_EYUVA_Fellows.pdf"
+          }
+        },
+        {
+          "label": "Innovation Fellows selected in the first national call",
+          "value": "19",
+          "asOf": "2022",
+          "source": {
+            "label": "BIRAC – Final list of Innovation Fellows, first national call",
+            "url": "https://birac.nic.in/webcontent/1671775550_list_of_innovation_fellow.pdf"
+          }
+        },
+        {
+          "label": "E-YUVA Centres listed",
+          "value": "19",
+          "asOf": "2026-07",
+          "source": {
+            "label": "BIRAC – E-YUVA Centre contact details (July 2026)",
+            "url": "https://birac.nic.in/webcontent/1784712529_eyuva_center_contact_details_july_2026.pdf"
+          }
+        },
+        {
+          "label": "BioNEST and E-YUVA incubation centres across 21 States/UTs (combined)",
+          "value": "75",
+          "asOf": "2023-08-03",
+          "source": {
+            "label": "PIB – Rajya Sabha reply on NIDHI, BIRAC and iDEX (3 Aug 2023)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://birac.nic.in/e_yuva.php",
+    "officialUrl": "https://birac.nic.in/webcontent/1658838527_EYUVA_Guideline_Version_1.1.pdf",
+    "sources": [
+      {
+        "label": "BIRAC – E-YUVA scheme page",
+        "url": "https://birac.nic.in/e_yuva.php"
+      },
+      {
+        "label": "BIRAC – E-YUVA Guidelines, Version 1.1 (January 2022)",
+        "url": "https://birac.nic.in/webcontent/1658838527_EYUVA_Guideline_Version_1.1.pdf"
+      },
+      {
+        "label": "BIRAC – E-YUVA call notice (last date 31 Oct 2026)",
+        "url": "https://birac.nic.in/desc_new.php?id=1358"
+      },
+      {
+        "label": "BIRAC – E-YUVA Centre contact details (July 2026)",
+        "url": "https://birac.nic.in/webcontent/1784712529_eyuva_center_contact_details_july_2026.pdf"
+      },
+      {
+        "label": "BIRAC – Final list of E-YUVA Fellows, first national call",
+        "url": "https://birac.nic.in/webcontent/1671775427_List_ofFinal_EYUVA_Fellows.pdf"
+      },
+      {
+        "label": "BIRAC – Final list of Innovation Fellows, first national call",
+        "url": "https://birac.nic.in/webcontent/1671775550_list_of_innovation_fellow.pdf"
+      },
+      {
+        "label": "BIRAC – Call for Proposals page (all current and past calls)",
+        "url": "https://birac.nic.in/cfp.php"
+      },
+      {
+        "label": "PIB – Rajya Sabha reply on NIDHI, BIRAC and iDEX (3 Aug 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Amounts come from the January 2022 guidelines (v1.1); the October 2026 call notice may update them, so check the call document. maxAmountINR is left empty because the total depends on category and tenure. First-call counts were made by us from BIRAC's published lists (dated by file to 2022). The launch year is not stated officially."
+  },
+  {
+    "slug": "grand-challenges-india",
+    "name": "Grand Challenges India (GCI)",
+    "shortName": "GCI",
+    "provider": "BIRAC and Department of Biotechnology (DBT), with the Gates Foundation and other partners",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 20000000,
+    "amountText": "Varies by call. The May–July 2026 call on screening and diagnosis offered up to ₹50 lakh (exploratory, up to 12 months) or up to ₹2 crore (solution/product, up to 18 months). The 2023–24 climate-and-health call offered up to ₹80 lakh over 36 months.",
+    "equity": "None (grant)",
+    "duration": "Call-specific; recent calls 12–36 months",
+    "timeToMoney": "Not published; depends on each call's review timeline.",
+    "status": "call-based",
+    "deadline": "No GCI funding call open as of 27 Oct 2026. The latest (screening and diagnosis) closed 15 Jul 2026; watch BIRAC's Call for Proposals page.",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Global Health",
+      "Maternal & Child Health",
+      "Infectious Diseases",
+      "Diagnostics",
+      "Sanitation",
+      "Agriculture & Nutrition",
+      "Climate & Health",
+      "Health AI"
+    ],
+    "oneLiner": "Themed challenge grants from DBT, BIRAC and the Gates Foundation for Indian teams solving big health, sanitation and agriculture problems.",
+    "what": "Grand Challenges India is a programme management unit at BIRAC, set up by DBT and the Bill & Melinda Gates Foundation, that issues themed calls for scientific and technical solutions to big public-health and development problems. Calls have covered maternal and child health, infectious diseases, sanitation, agriculture and nutrition, climate change and health, and cost-disruptive diagnostics. Each call sets its own amounts, duration and eligible applicants.",
+    "who": [
+      "Indian applicants working in India: academic and research institutions, public and private R&D organisations, startups and not-for-profit foundations (2026 diagnostics call).",
+      "Earlier calls also listed Indian companies, trusts and medical research institutions; check each call's 'Who can apply'.",
+      "Global partners can join some calls, but most of the funding must go to investigators in India (for example at least 80% in the climate-and-agriculture call)."
+    ],
+    "notFor": [
+      "Proposals where most of the work will not be done by investigators living in India.",
+      "Projects without a pathway to sustainable impact and scale.",
+      "Applications sent outside the BIRAC online portal."
+    ],
+    "why": [
+      "Large grants (up to ₹2 crore in the 2026 call) with no equity.",
+      "Global health network and visibility through Gates Foundation and partner programmes.",
+      "Startups are explicitly eligible in recent calls."
+    ],
+    "howItWorks": "GCI publishes a request for proposals (RFP) per theme on BIRAC's portal, usually open for about two months. Proposals are reviewed by experts against the call's criteria; successful teams sign agreements and receive milestone-based funding. Calls are irregular and theme-driven rather than on a fixed calendar.",
+    "steps": [
+      {
+        "title": "Watch for a call",
+        "detail": "Check BIRAC's Call for Proposals page and the GCI site for new RFPs; recent ones opened in Aug 2025 (sanitation), Dec 2025 (women's leadership) and May 2026 (diagnostics)."
+      },
+      {
+        "title": "Read the RFP closely",
+        "detail": "Each call defines focus areas, funding levels, duration and eligible entities."
+      },
+      {
+        "title": "Register on the BIRAC portal",
+        "detail": "Applications are accepted only through the BIRAC online system."
+      },
+      {
+        "title": "Build your consortium if needed",
+        "detail": "Add partners such as hospitals, NGOs or global collaborators, keeping most funds in India."
+      },
+      {
+        "title": "Submit before the deadline",
+        "detail": "Deadlines are firm (for example 4:00 PM IST on the last day)."
+      },
+      {
+        "title": "Review and award",
+        "detail": "Respond to reviewer queries; selected teams sign agreements and begin milestone-based work."
+      }
+    ],
+    "documents": [
+      "Proposal in the call's format with milestones and budget",
+      "Registration/incorporation documents of the lead organisation",
+      "CVs of the principal investigator and team",
+      "Letters of support from partners",
+      "Ethics or regulatory approvals as required by the call"
+    ],
+    "benefits": [
+      "Grant funding up to ₹2 crore (2026 call)",
+      "Programme management support from the GCI unit at BIRAC",
+      "Connections to global health funders and implementers"
+    ],
+    "pros": [
+      "Big, non-dilutive grants.",
+      "Startups and non-profits can apply alongside academia.",
+      "Mission-driven themes with real public-health users."
+    ],
+    "cons": [
+      "Irregular calls on narrow themes; your idea must fit the current theme.",
+      "Competitive and often research-heavy.",
+      "No published data on number or value of grants awarded."
+    ],
+    "goodFitIf": [
+      "You work on affordable health, diagnostics, sanitation, nutrition or climate-health solutions.",
+      "Your team has scientific credentials and a field or clinical partner.",
+      "You can move fast when a matching call opens."
+    ],
+    "skipIf": [
+      "Your product is a consumer or enterprise business with no public-health angle.",
+      "You need money on a fixed timeline.",
+      "Your team is based outside India."
+    ],
+    "insiderTips": [
+      "Subscribe to the GCI mailing list on its home page so you hear about calls early.",
+      "Note the women's-leadership call (Dec 2025 – Jan 2026) was a coaching and mentoring programme, not a funding call; read each call's 'Key features' before applying.",
+      "Show a clear route to scale and affordability; calls reject proposals without a sustainability path."
+    ],
+    "performance": {
+      "summary": "GCI has run many themed programmes since DBT and the Gates Foundation set up the management unit at BIRAC, but neither BIRAC nor the GCI site publishes the number or value of grants awarded per year, so no performance chart is possible.",
+      "metrics": [
+        {
+          "label": "Maximum award in the screening & diagnosis call",
+          "value": "₹2 crore (up to 18 months)",
+          "asOf": "2026-05-12",
+          "source": {
+            "label": "BIRAC – GCI call on screening and diagnosis innovations (12 May – 15 Jul 2026)",
+            "url": "https://birac.nic.in/cfp_view.php?id=118&scheme_type=6"
+          }
+        },
+        {
+          "label": "Maximum award in the climate-change & health call",
+          "value": "₹80 lakh (USD 100,000), 36 months",
+          "asOf": "2023-12",
+          "source": {
+            "label": "GCI – RFP: Climate change impact on health in India (Dec 2023 – Jan 2024)",
+            "url": "https://www.birac.nic.in/webcontent/1701587370_RFP_Climate_Change_Health.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://birac.nic.in/cfp.php",
+    "officialUrl": "https://birac.nic.in/grandchallengesindia/",
+    "sources": [
+      {
+        "label": "Grand Challenges India (BIRAC) home page",
+        "url": "https://birac.nic.in/grandchallengesindia/"
+      },
+      {
+        "label": "BIRAC – GCI call on screening and diagnosis innovations (12 May – 15 Jul 2026)",
+        "url": "https://birac.nic.in/cfp_view.php?id=118&scheme_type=6"
+      },
+      {
+        "label": "GCI – RFP: Climate change impact on health in India (Dec 2023 – Jan 2024)",
+        "url": "https://www.birac.nic.in/webcontent/1701587370_RFP_Climate_Change_Health.pdf"
+      },
+      {
+        "label": "BIRAC – GCI Women's Leadership in STEM Entrepreneurship call",
+        "url": "https://birac.nic.in/cfp_view.php?id=115&scheme_type=6"
+      },
+      {
+        "label": "BIRAC – Call for Proposals page (all current and past calls)",
+        "url": "https://birac.nic.in/cfp.php"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Award counts and amounts disbursed are not published, so performance metrics only describe call terms. The launch year is not stated on the GCI site. maxAmountINR reflects the largest amount in the most recent call; future calls may differ."
+  },
+  {
+    "slug": "dst-nidhi-prayas",
+    "name": "NIDHI-PRAYAS 2.0 (Promoting and Accelerating Young and Aspiring Innovators and Startups)",
+    "shortName": "NIDHI-PRAYAS",
+    "provider": "Department of Science & Technology (DST), Ministry of Science & Technology; PMU: SINE, IIT Bombay",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 4000000,
+    "amountText": "Prototype grant of up to ₹20 lakh at a PRAYAS Centre, or up to ₹40 lakh at an Advance PRAYAS Centre for deep-tech (PRAYAS 2.0 guidelines, March 2026). Up to 20% of the grant can be a sustenance allowance if you have no other income.",
+    "equity": "None",
+    "duration": "15 months per project, extendable by up to 6 months",
+    "timeToMoney": "Not published; each PRAYAS Centre runs its own call, screening and committee decision before the first tranche.",
+    "status": "call-based",
+    "deadline": "No national deadline. Each PRAYAS Centre (host incubator) announces its own calls; check the NIDHI-PRAYAS website and centre websites.",
+    "stages": [
+      "student",
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Hardware",
+      "Manufacturing",
+      "Agriculture",
+      "Healthcare",
+      "Clean-tech & Energy",
+      "Water",
+      "IoT",
+      "Deep-tech"
+    ],
+    "oneLiner": "A DST grant of up to ₹20–40 lakh for individuals or very young startups to build a physical prototype at a maker-lab incubator.",
+    "what": "NIDHI-PRAYAS pays innovators to turn an idea into a working physical prototype. It is run through PRAYAS Centres at DST-supported incubators, each with a 'DST NIDHI Maker Bhavan' fabrication lab (3D printers, CNC, PCB tools and so on). The grant covers raw materials, fabrication, outsourced design or testing, patent filing (up to 10%) and limited travel. Version 2.0 (2026) raised the ceiling from ₹10 lakh to ₹20 lakh, and to ₹40 lakh at Advance PRAYAS Centres for deep-tech.",
+    "who": [
+      "An individual innovator (no company needed) or an early-stage startup.",
+      "Individuals and startup co-founders must be Indian citizens aged 18 or above on the application date.",
+      "Startups: incorporated in India for not more than 5 years, at least 51% Indian-held, annual turnover never above ₹1 crore.",
+      "The prototype must be a tangible physical product based on science or technology, buildable within 15 months.",
+      "Full-time students or employees must submit an NOC from their institution/employer allowing the project and confirming IP will belong to the innovator."
+    ],
+    "notFor": [
+      "Pure software, e-commerce, service or app-based projects.",
+      "Products already past MVP stage.",
+      "Anyone under 18 (so most school students are not eligible).",
+      "Applicants who have received more than ₹40 lakh in total government grants, or who take parallel NIDHI-EIR support for the same idea.",
+      "Funding academic research or student internships."
+    ],
+    "why": [
+      "No company and no equity needed: an individual can get the grant.",
+      "Access to a fully equipped fabrication lab plus mentors at the centre.",
+      "Up to ₹40 lakh for deep-tech prototypes is large for this stage.",
+      "Women and young innovators get preference."
+    ],
+    "howItWorks": "DST funds PRAYAS Centres (PCs) and Advance PRAYAS Centres (APCs) at host incubators, giving each up to ₹2 crore (PC) or ₹4 crore (APC) a year for prototype grants plus money for a fab lab and operations. Each centre is expected to support around ten innovators a year. Innovators apply to a centre; a PRAYAS Local Monitoring Committee selects 'PRAYASEEs' and fixes the grant amount. Funds go to the lead innovator's account in tranches; the prototype must be ready within 15 months of the first tranche. SINE, IIT Bombay acts as the national programme management unit.",
+    "steps": [
+      {
+        "title": "Check fit",
+        "detail": "Make sure your idea is a physical, technology-based product that can reach a working prototype or MVP in 15 months."
+      },
+      {
+        "title": "Pick a PRAYAS Centre",
+        "detail": "Use the list of PRAYAS Centres on the NIDHI-PRAYAS website; choose an Advance PRAYAS Centre only for deep-tech or advanced prototypes."
+      },
+      {
+        "title": "Prepare your proposal and NOC",
+        "detail": "Describe the problem, your solution, prototype plan, 15-month milestones and budget. Students and employees get an NOC that also confirms IP vests with you."
+      },
+      {
+        "title": "Apply during the centre's call",
+        "detail": "Submit through the centre's or PRAYAS portal application form."
+      },
+      {
+        "title": "Pitch to the centre committee",
+        "detail": "The PRAYAS Local Monitoring Committee evaluates and decides the grant amount."
+      },
+      {
+        "title": "Sign the agreement and get the first tranche",
+        "detail": "Funds go to the lead innovator's bank account; build in the Maker Bhavan and report progress."
+      },
+      {
+        "title": "Incorporate within 6–8 months",
+        "detail": "Individuals are encouraged to register a DPIIT-recognised startup within 6–8 months of support."
+      }
+    ],
+    "documents": [
+      "Proof of age and Indian citizenship (passport, Aadhaar or voter ID)",
+      "NOC from your college or employer (if a full-time student or employee)",
+      "Team agreement naming the lead innovator (if a team)",
+      "Proof of IP ownership or licence to use it",
+      "Certificate of incorporation, shareholding and turnover statement (startups)",
+      "Declaration of prior government funding and of no parallel NIDHI-EIR support"
+    ],
+    "benefits": [
+      "Up to ₹20 lakh (PC) or ₹40 lakh (APC) prototype grant",
+      "Fab lab access, technical and business mentoring",
+      "IP and legal help desk",
+      "Investor and industry connections through the host incubator"
+    ],
+    "pros": [
+      "Individuals can apply without forming a company.",
+      "No equity or repayment.",
+      "Hands-on fabrication facilities included.",
+      "Higher limits under PRAYAS 2.0."
+    ],
+    "cons": [
+      "Physical products only; software and app ideas are excluded.",
+      "Must be 18+, so school students cannot apply.",
+      "Limited seats (around ten innovators per centre per year).",
+      "Unused money must be returned if the prototype is not completed."
+    ],
+    "goodFitIf": [
+      "You have a hardware, medtech, agri-tech or clean-tech idea and need money to build the first working version.",
+      "You are a college student (18+) or recent graduate willing to work near a PRAYAS Centre.",
+      "You want to keep full ownership while you prototype."
+    ],
+    "skipIf": [
+      "Your product is software-only.",
+      "You already have an MVP and customers.",
+      "You are under 18."
+    ],
+    "insiderTips": [
+      "Contact the centre's Program Head before applying; centres have different strengths (electronics, biotech, agri) and limited annual seats.",
+      "If you already got PRAYAS 1.0 money, you can only apply again at an Advance PRAYAS Centre for the balance up to ₹40 lakh.",
+      "Budget smartly: travel, patent filing and contingency are each capped at 10% of the approved cost."
+    ],
+    "performance": {
+      "summary": "PRAYAS started in 2016 (original guidelines May 2016). DST has published compendiums of supported startups but no official year-wise count of PRAYASEEs or grants in the sources we could open, so no chart is shown. Version 2.0 guidelines (March 2026) raised grant ceilings to ₹20 lakh and ₹40 lakh.",
+      "metrics": [
+        {
+          "label": "Max prototype grant per innovator (PRAYAS Centre / Advance Centre)",
+          "value": "₹20 lakh / ₹40 lakh",
+          "asOf": "2026-03",
+          "source": {
+            "label": "DST – NIDHI-PRAYAS 2.0 Program Guidelines (March 2026)",
+            "url": "https://nidhi-prayas.org/documents/dst-nidhi-prayas-2.0-program-guidelines-2026.pdf"
+          }
+        },
+        {
+          "label": "DST support per centre per year for prototype grants (PC / APC)",
+          "value": "Up to ₹2 crore / ₹4 crore",
+          "asOf": "2026-03",
+          "source": {
+            "label": "DST – NIDHI-PRAYAS 2.0 Program Guidelines (March 2026)",
+            "url": "https://nidhi-prayas.org/documents/dst-nidhi-prayas-2.0-program-guidelines-2026.pdf"
+          }
+        },
+        {
+          "label": "Max prototype grant under PRAYAS 1.0",
+          "value": "₹10 lakh",
+          "asOf": "2021-01",
+          "source": {
+            "label": "DST – NIDHI-PRAYAS Guidelines, Version 4 (January 2021)",
+            "url": "https://nidhi-prayas.org/letters/NIDHI-PRAYAS%20scheme%20_DST_Ver%204_Jan21.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://nidhi-prayas.org/",
+    "officialUrl": "https://nidhi.dst.gov.in/prayas2-0/",
+    "sources": [
+      {
+        "label": "DST NIDHI – PRAYAS 2.0 page",
+        "url": "https://nidhi.dst.gov.in/prayas2-0/"
+      },
+      {
+        "label": "DST – NIDHI-PRAYAS 2.0 Program Guidelines (March 2026)",
+        "url": "https://nidhi-prayas.org/documents/dst-nidhi-prayas-2.0-program-guidelines-2026.pdf"
+      },
+      {
+        "label": "DST – NIDHI-PRAYAS Guidelines, Version 4 (January 2021)",
+        "url": "https://nidhi-prayas.org/letters/NIDHI-PRAYAS%20scheme%20_DST_Ver%204_Jan21.pdf"
+      },
+      {
+        "label": "DST NIDHI portal home",
+        "url": "https://nidhi.dst.gov.in/"
+      },
+      {
+        "label": "PIB – Rajya Sabha reply on NIDHI (3 Aug 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Number of PRAYAS Centres operating under 2.0 and total innovators funded could not be confirmed from an official source we could open (the DST PRAYAS 1.0 page did not load). Calls are run centre by centre, so 'call-based' means you must check individual centres."
+  },
+  {
+    "slug": "dst-nidhi-eir",
+    "name": "NIDHI Entrepreneur-in-Residence (NIDHI-EIR)",
+    "shortName": "NIDHI-EIR",
+    "provider": "Department of Science & Technology (DST), Ministry of Science & Technology; PMU: Venture Center, Pune",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "fellowship"
+    ],
+    "maxAmountINR": 360000,
+    "amountText": "Monthly fellowship of ₹10,000 to ₹30,000 for up to 12 months (maximum ₹3.6 lakh), plus incubator space and mentoring.",
+    "equity": "None",
+    "duration": "Up to 12 months",
+    "timeToMoney": "Not published; depends on the EIR centre's selection cycle.",
+    "status": "call-based",
+    "deadline": "No national deadline. NIDHI-EIR centres (selected incubators/TBIs) run their own calls.",
+    "stages": [
+      "student",
+      "idea"
+    ],
+    "sectors": [
+      "Any technology"
+    ],
+    "oneLiner": "A DST fellowship that pays fresh graduates up to ₹30,000 a month for a year to work full-time on their startup idea inside an incubator.",
+    "what": "NIDHI-EIR gives a living stipend to graduates who want to become entrepreneurs instead of taking a job, so they can explore a technology business idea with less personal risk. It is sector-agnostic. Fellows sit at a NIDHI-EIR centre (a DST-supported incubator), use its infrastructure and get mentoring, technical and financial advice and industry connections.",
+    "who": [
+      "Indian citizens who are graduating or recently graduated students (DST describes it as a fellowship for graduate students).",
+      "Example centre rule (Venture Center, Pune): undergraduate training in science, engineering or medicine; a degree such as BTech, MSc, MBBS, MBA or PhD; BSc holders need 1 year of work or research experience.",
+      "Can apply as an individual or with a very new company (Venture Center: incorporated less than 1 year).",
+      "Must commit full-time and register with the centre's incubation programme for the fellowship period."
+    ],
+    "notFor": [
+      "People holding another job, salary or fellowship at the same time.",
+      "Those using it as a stop-gap during academic studies.",
+      "Ideas with little or no technology innovation, or with a very short path to market.",
+      "Anyone also taking NIDHI-PRAYAS support for the same idea."
+    ],
+    "why": [
+      "Pays your living costs while you test a startup idea.",
+      "Puts you inside an incubator with mentors and investor access from day one.",
+      "Good bridge from campus to founder for final-year students and fresh graduates."
+    ],
+    "howItWorks": "DST selects incubators as NIDHI-EIR centres. Each centre advertises calls, screens applicants and has a committee choose fellows. The centre pays the fellowship monthly (between ₹10,000 and ₹30,000) for up to 12 months, and fellows report progress and work on business plans, prototypes and fundraising. Venture Center, Pune serves as DST's programme partner.",
+    "steps": [
+      {
+        "title": "Find an EIR centre",
+        "detail": "Use the list of NIDHI-EIR centres linked from DST's NIDHI-EIR page and pick one that fits your domain and city."
+      },
+      {
+        "title": "Check that centre's eligibility",
+        "detail": "Centres publish their own criteria (degree, experience, company age, focus areas)."
+      },
+      {
+        "title": "Prepare a business plan and pitch",
+        "detail": "Show the technology, customer problem, team and a 12-month plan."
+      },
+      {
+        "title": "Apply in the centre's call window",
+        "detail": "For example, Venture Center's last advertised call ran 25 Sept – 15 Oct 2023."
+      },
+      {
+        "title": "Interview with the selection committee",
+        "detail": "You may be judged on how clearly you can pitch to investors."
+      },
+      {
+        "title": "Join incubation and start drawing the fellowship",
+        "detail": "Sign the fellowship agreement and register with the incubator's programme."
+      }
+    ],
+    "documents": [
+      "Degree certificates and ID proof",
+      "Business plan and pitch deck",
+      "CV and evidence of prior tinkering, inventions or projects (helps)",
+      "Undertaking that you hold no other remuneration or fellowship",
+      "Company documents if applying as a startup"
+    ],
+    "benefits": [
+      "₹10,000–₹30,000 monthly stipend",
+      "Incubator space and infrastructure",
+      "Mentoring, technical and financial advice",
+      "Industry and investor connections"
+    ],
+    "pros": [
+      "Lets fresh graduates try entrepreneurship without starving.",
+      "No equity.",
+      "Sector-agnostic.",
+      "Preference for women and under-35 innovators at some centres."
+    ],
+    "cons": [
+      "Small amount, capped at ₹3.6 lakh for the year.",
+      "Full-time commitment; no other income allowed.",
+      "Seats and timelines vary by centre.",
+      "No up-to-date official national data on how many fellows are funded."
+    ],
+    "goodFitIf": [
+      "You are graduating or just graduated and want to work full-time on a tech startup idea.",
+      "You need a stipend more than a big grant right now.",
+      "You can relocate to or work from an EIR centre."
+    ],
+    "skipIf": [
+      "You already have a salary or another fellowship you want to keep.",
+      "You need money for equipment or prototypes (PRAYAS fits better).",
+      "Your business has little technology content."
+    ],
+    "insiderTips": [
+      "Apply to a centre whose mentors know your sector; the fellowship is as valuable for the incubator as for the money.",
+      "Do not apply to EIR and PRAYAS for the same idea at the same time; the schemes do not allow parallel support.",
+      "Come with a written business plan and an investment pitch; centres such as Venture Center ask for both."
+    ],
+    "performance": {
+      "summary": "NIDHI-EIR is part of DST's NIDHI umbrella launched in 2016. A 2023 news report of a Lok Sabha reply says 604 aspiring entrepreneurs or startups had received ₹19.03 crore since launch; we could not open the official reply itself. No year-wise data is published.",
+      "metrics": [
+        {
+          "label": "Aspiring entrepreneurs/startups supported since launch (reported)",
+          "value": "604",
+          "asOf": "2023-05",
+          "source": {
+            "label": "Blitz India Media – report on Lok Sabha reply on NIDHI-EIR (May 2023)",
+            "url": "https://blitzindiamedia.com/news/startup-spurt/"
+          }
+        },
+        {
+          "label": "Grant disbursed since launch (reported)",
+          "value": "₹19.03 crore",
+          "asOf": "2023-05",
+          "source": {
+            "label": "Blitz India Media – report on Lok Sabha reply on NIDHI-EIR (May 2023)",
+            "url": "https://blitzindiamedia.com/news/startup-spurt/"
+          }
+        },
+        {
+          "label": "Monthly fellowship range",
+          "value": "₹10,000 – ₹30,000",
+          "asOf": "2026-10",
+          "source": {
+            "label": "DST NIDHI – Entrepreneur-in-Residence (EIR) page",
+            "url": "https://nidhi.dst.gov.in/nidhieir/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://nidhi.dst.gov.in/nidhieir/",
+    "officialUrl": "https://nidhi.dst.gov.in/nidhieir/",
+    "sources": [
+      {
+        "label": "DST NIDHI – Entrepreneur-in-Residence (EIR) page",
+        "url": "https://nidhi.dst.gov.in/nidhieir/"
+      },
+      {
+        "label": "Venture Center (NIDHI-EIR centre, Pune) – EIR eligibility page",
+        "url": "https://www.venturecenter.co.in/eir/eligibility/"
+      },
+      {
+        "label": "Blitz India Media – report on Lok Sabha reply on NIDHI-EIR (May 2023)",
+        "url": "https://blitzindiamedia.com/news/startup-spurt/"
+      },
+      {
+        "label": "PIB – Rajya Sabha reply on NIDHI (3 Aug 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The 604 / ₹19.03 crore figures come from a secondary news report of a Lok Sabha reply, not the official text. Detailed eligibility differs by centre; the degree rules quoted are Venture Center's. Current status of individual centre calls was not checked one by one."
+  },
+  {
+    "slug": "dst-nidhi-seed-support-program",
+    "name": "NIDHI Seed Support Program (NIDHI-SSP, earlier NIDHI-SSS)",
+    "shortName": "NIDHI-SSP",
+    "provider": "Department of Science & Technology (DST), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "seed-loan",
+      "equity",
+      "convertible"
+    ],
+    "maxAmountINR": 10000000,
+    "amountText": "Up to ₹1 crore per startup, invested by a DST-supported incubator (each incubator can get up to ₹10 crore from DST). Many incubators cap typical support at ₹25 lakh and go higher only in exceptional cases.",
+    "equity": "Depends on the incubator: soft loan, equity or equity-linked instrument",
+    "duration": "One-time seed support; loans typically repaid within 5 years (incubator terms)",
+    "timeToMoney": "Not published; set by each incubator's seed committee.",
+    "status": "rolling",
+    "deadline": "No national deadline; incubators announce periodic calls for their incubatees.",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any technology"
+    ],
+    "oneLiner": "DST money that incubators invest in their startups, up to ₹1 crore, for prototypes, trials and market entry.",
+    "what": "NIDHI-SSP gives incubators a seed fund so they can quickly back promising startups they incubate. The money can pay for proof of concept, prototype development, product trials, market entry and commercialisation. Startups do not apply to DST directly; they apply to a listed incubator, which decides the amount and instrument.",
+    "who": [
+      "Startups incubated at an incubator supported under NIDHI-SSP (list on DST's NIDHI-SSP page).",
+      "Typical incubator rules (e.g. FITT IIT Delhi): a registered Indian company, at least 3 months' residency at the incubator, at least 51% held by Indian promoters.",
+      "Innovators can also approach listed incubators, which then incubate them."
+    ],
+    "notFor": [
+      "Startups not incubated at a NIDHI-SSP incubator.",
+      "Indian subsidiaries of foreign companies (as per incubator rules).",
+      "Startups that already received seed support at another TBI under the scheme (one-time support)."
+    ],
+    "why": [
+      "Bigger cheques (up to ₹1 crore) than most incubator seed funds.",
+      "Decisions are made locally by your incubator, which knows you.",
+      "Can be structured as a loan, so you may avoid dilution."
+    ],
+    "howItWorks": "DST gives selected incubators up to ₹10 crore, released in phases. The incubator runs calls, screens startups, and a seed support committee decides who gets money and in what form (loan, equity or equity-linked). Returns and repayments go back into the incubator's seed pool for future startups.",
+    "steps": [
+      {
+        "title": "Join a NIDHI-SSP incubator",
+        "detail": "Pick an incubator from DST's list and get admitted (many require at least 3 months of residency before seed support)."
+      },
+      {
+        "title": "Watch for the incubator's seed call",
+        "detail": "Incubators announce periodic calls on their websites."
+      },
+      {
+        "title": "Prepare your seed proposal",
+        "detail": "Show your product progress, milestones, use of funds and repayment or equity plan."
+      },
+      {
+        "title": "Pitch to the seed committee",
+        "detail": "The committee evaluates and recommends amount and instrument."
+      },
+      {
+        "title": "Sign the investment or loan agreement",
+        "detail": "Agree terms such as interest, conversion or equity percentage."
+      },
+      {
+        "title": "Receive funds and report",
+        "detail": "Report milestones to the incubator; repay loans per agreed schedule."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and shareholding (51%+ Indian promoters)",
+      "Incubation agreement",
+      "Business plan and financial projections",
+      "Product/prototype evidence",
+      "Pitch deck"
+    ],
+    "benefits": [
+      "Seed capital up to ₹1 crore",
+      "Incubator mentoring and network",
+      "Follow-on investor introductions"
+    ],
+    "pros": [
+      "Large potential amount.",
+      "Fast, local decisions compared with national schemes.",
+      "Flexible instruments, including loans."
+    ],
+    "cons": [
+      "You must be incubated first.",
+      "May involve equity or repayment, unlike a pure grant.",
+      "Terms differ widely between incubators.",
+      "No published national data on startups funded."
+    ],
+    "goodFitIf": [
+      "You are incubated at a DST-supported TBI and have a prototype.",
+      "You need ₹10 lakh–₹1 crore to reach market.",
+      "You are open to a loan or equity."
+    ],
+    "skipIf": [
+      "You are not incubated and do not want to be.",
+      "You need a pure grant with no repayment or dilution.",
+      "You are still at idea stage."
+    ],
+    "insiderTips": [
+      "Ask incubators how much of their NIDHI-SSP pool is left before joining; pools are finite.",
+      "Negotiate the instrument: a soft loan may suit revenue-ready startups better than equity.",
+      "DST's '75 Promising Startups – NIDHI Seed Support Programme' compendium shows what kinds of startups get funded."
+    ],
+    "performance": {
+      "summary": "NIDHI-SSP is part of DST's NIDHI umbrella launched in 2016. DST has published a compendium of 75 promising startups funded under it, and in August 2023 the government said NIDHI had set up 8 Centres of Excellence, 40 NIDHI TBIs and 20 inclusive TBIs. The number of startups and rupees invested per year are not published.",
+      "metrics": [
+        {
+          "label": "Maximum support per startup / per incubator",
+          "value": "₹1 crore / ₹10 crore",
+          "asOf": "2026-10",
+          "source": {
+            "label": "DST NIDHI – Seed Support Program (NIDHI-SSP) page",
+            "url": "https://nidhi.dst.gov.in/nidhissp/"
+          }
+        },
+        {
+          "label": "NIDHI Centres of Excellence / TBIs / inclusive TBIs set up",
+          "value": "8 / 40 / 20",
+          "asOf": "2023-08-03",
+          "source": {
+            "label": "PIB – Rajya Sabha reply on NIDHI (3 Aug 2023)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://nidhi.dst.gov.in/nidhissp/",
+    "officialUrl": "https://nidhi.dst.gov.in/nidhissp/",
+    "sources": [
+      {
+        "label": "DST NIDHI – Seed Support Program (NIDHI-SSP) page",
+        "url": "https://nidhi.dst.gov.in/nidhissp/"
+      },
+      {
+        "label": "FITT IIT Delhi – NIDHI-SSS page (incubator's implementation terms)",
+        "url": "https://fitt-iitd.in/web/nidhisss"
+      },
+      {
+        "label": "PIB – Rajya Sabha reply on NIDHI (3 Aug 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1945353"
+      },
+      {
+        "label": "DST NIDHI portal home",
+        "url": "https://nidhi.dst.gov.in/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Instrument and residency rules are taken from one incubator's (FITT IIT Delhi) implementation page, a secondary source; other incubators may differ. National counts of startups funded are not published."
+  },
+  {
+    "slug": "technology-development-board-financial-assistance",
+    "name": "Technology Development Board (TDB) Financial Assistance",
+    "shortName": "TDB",
+    "provider": "Technology Development Board, Department of Science & Technology (DST), Ministry of Science & Technology",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 1996,
+    "instrument": [
+      "loan",
+      "equity",
+      "grant"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Soft loan at 5% simple interest for up to 50% of the not-yet-spent project cost; equity up to 25% of approved project cost; grants only in exceptional cases. The 2025 startup call funded up to 70% of projects up to ₹5 crore (max ₹3.5 crore), and 50% above that.",
+    "equity": "Mostly a loan; optional TDB equity of up to 25% of project cost (not more than promoters' paid-up capital)",
+    "duration": "Project period plus 1-year moratorium; TDB says loans are generally repaid in 9 monthly instalments",
+    "timeToMoney": "Not published. Applications go through technical and financial evaluation and Board approval; money is released in tranches against milestones.",
+    "status": "rolling",
+    "deadline": "Core funding applications accepted online year-round. Themed calls (e.g. startups, medical technologies) have their own deadlines; the 2025 startup call closed 10 Apr 2025.",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any technology",
+      "Health & Medical",
+      "Engineering",
+      "Energy & Waste",
+      "Defence & Aerospace",
+      "Agriculture",
+      "IT & Electronics",
+      "Space"
+    ],
+    "oneLiner": "A government lender that funds Indian companies to commercialise home-grown technology, mainly through cheap 5% loans.",
+    "what": "TDB was set up in 1996 to fund the commercial use of indigenous technology or the adaptation of imported technology. It lends to companies at 5% simple interest, can take equity, and occasionally gives grants. It suits companies that have proven their technology and now need capital to scale manufacturing or launch, rather than early research.",
+    "who": [
+      "Indian companies (industrial concerns) incorporated under the Companies Act commercialising indigenous technology.",
+      "For the 2025 startup call: DPIIT-recognised startups at Technology Readiness Level above 6.",
+      "R&D institutions can receive grants in exceptional cases of national interest."
+    ],
+    "notFor": [
+      "Idea-stage or pure research projects (TDB funds commercialisation).",
+      "Individuals without a company.",
+      "Projects that are not technology-led."
+    ],
+    "why": [
+      "Cheap capital: 5% simple interest with a one-year moratorium after project completion.",
+      "No processing, administrative or commitment charges.",
+      "Large ticket sizes for manufacturing scale-up.",
+      "Long track record: 444+ agreements and ₹3,261.60 crore+ funding shown on TDB's site (Oct 2026)."
+    ],
+    "howItWorks": "You apply online through TDB's e-portal. TDB evaluates the technology and financials, and its Board sanctions assistance. TDB normally lends up to 50% of the unspent project cost; you bring the rest. Money is disbursed in tranches tied to technical and financial milestones. After completion there is a one-year moratorium, then repayment in instalments. TDB also co-runs international bilateral calls (Israel, UK, Sweden, Singapore and others) that give conditional grants.",
+    "steps": [
+      {
+        "title": "Check readiness",
+        "detail": "TDB funds technologies close to market; the 2025 startup call required TRL above 6."
+      },
+      {
+        "title": "Register your company on the TDB e-portal",
+        "detail": "Create an account on e-techcom.tdb.gov.in."
+      },
+      {
+        "title": "Download and fill the application form",
+        "detail": "Use the funding guidelines and form template from TDB's site; applications are online only."
+      },
+      {
+        "title": "Technical and financial evaluation",
+        "detail": "TDB experts review the technology, market, team, financials and your contribution."
+      },
+      {
+        "title": "Board sanction and agreement",
+        "detail": "Sign the loan/equity agreement and provide security as required."
+      },
+      {
+        "title": "Milestone-based disbursement and repayment",
+        "detail": "Receive tranches as milestones are met; repay after the moratorium."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation and DPIIT recognition (for startup calls)",
+      "Detailed project report with technology description and TRL",
+      "Audited financial statements and projections",
+      "Proof of promoter contribution / matching funds",
+      "IP documents or technology licence",
+      "Board resolutions and KYC documents"
+    ],
+    "benefits": [
+      "Low-cost debt or equity for scale-up",
+      "No processing fees",
+      "Credibility with banks and investors",
+      "Access to TDB's international bilateral R&D calls"
+    ],
+    "pros": [
+      "Very low interest compared with bank loans.",
+      "Applications accepted any time for core funding.",
+      "Can fund large manufacturing projects.",
+      "Equity option for capital-hungry startups."
+    ],
+    "cons": [
+      "Mostly a loan: you must repay, often with security.",
+      "Needs matching funds (usually 50%).",
+      "Slow, document-heavy process.",
+      "Few agreements per year (7 in 2024-25)."
+    ],
+    "goodFitIf": [
+      "Your company has a working technology and needs money to commercialise or scale.",
+      "You can bring matching funds and service a 5% loan.",
+      "You make physical products, devices, materials or deep-tech hardware."
+    ],
+    "skipIf": [
+      "You are pre-revenue and pre-prototype.",
+      "You cannot take on debt.",
+      "You need a grant."
+    ],
+    "insiderTips": [
+      "Watch TDB's themed calls (startups, medical devices, semiconductors, agriculture); they often have clearer limits than core funding.",
+      "Show your own contribution clearly; TDB funds 50% of the unspent project cost, so money already spent does not count.",
+      "Check the international calls if you have a foreign partner; these offer conditional grants rather than loans."
+    ],
+    "performance": {
+      "summary": "Since 1996 TDB has signed 412 agreements with a total TDB commitment of ₹2,712.99 crore (to 2025, per its 2024-25 annual report). Activity varies a lot by year: 14 agreements in 2022-23, 15 in 2023-24 and 7 in 2024-25, but 2024-25 had the highest commitment of the three years (₹211.51 crore). The 2022-23 figure includes a ₹50 crore commitment to a venture capital fund.",
+      "metrics": [
+        {
+          "label": "Agreements signed since 1996 (cumulative)",
+          "value": "412",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "TDB – Annual Report 2024-25",
+            "url": "https://tdb.gov.in/sites/default/files/2026-01/annual-report-2024-25.pdf"
+          }
+        },
+        {
+          "label": "TDB commitment since 1996 (cumulative)",
+          "value": "₹2,712.99 crore",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "TDB – Annual Report 2024-25",
+            "url": "https://tdb.gov.in/sites/default/files/2026-01/annual-report-2024-25.pdf"
+          }
+        },
+        {
+          "label": "Funds disbursed in 2024-25",
+          "value": "₹92.97 crore",
+          "asOf": "2025-03-31",
+          "source": {
+            "label": "TDB – Annual Report 2024-25",
+            "url": "https://tdb.gov.in/sites/default/files/2026-01/annual-report-2024-25.pdf"
+          }
+        },
+        {
+          "label": "Agreements / funding shown on TDB home page",
+          "value": "444+ / ₹3,261.60 crore+",
+          "asOf": "2026-10-26",
+          "source": {
+            "label": "Technology Development Board – home page",
+            "url": "https://tdb.gov.in/"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Agreements signed per year",
+          "unit": "agreements",
+          "points": [
+            {
+              "period": "2022-23",
+              "value": 14
+            },
+            {
+              "period": "2023-24",
+              "value": 15
+            },
+            {
+              "period": "2024-25",
+              "value": 7
+            }
+          ],
+          "source": {
+            "label": "TDB Annual Reports 2022-23, 2023-24 and 2024-25 (annual reports page)",
+            "url": "https://tdb.gov.in/annual_report"
+          }
+        },
+        {
+          "label": "TDB financial commitment in agreements signed per year",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2022-23",
+              "value": 107.36
+            },
+            {
+              "period": "2023-24",
+              "value": 52.61
+            },
+            {
+              "period": "2024-25",
+              "value": 211.51
+            }
+          ],
+          "source": {
+            "label": "TDB Annual Reports 2022-23, 2023-24 and 2024-25 (annual reports page)",
+            "url": "https://tdb.gov.in/annual_report"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.e-techcom.tdb.gov.in/company-registration.php",
+    "officialUrl": "https://tdb.gov.in/modes-funding",
+    "sources": [
+      {
+        "label": "Technology Development Board – home page",
+        "url": "https://tdb.gov.in/"
+      },
+      {
+        "label": "TDB – Modes of Funding",
+        "url": "https://tdb.gov.in/modes-funding"
+      },
+      {
+        "label": "TDB – Project Funding Guidelines/FAQs",
+        "url": "https://tdb.gov.in/project-funding-guidelinesfaqs"
+      },
+      {
+        "label": "TDB – Call for proposal: Empowering Tech Startups Ready for Commercialization (2025)",
+        "url": "https://tdb.gov.in/call-proposal-empowering-tech-startups"
+      },
+      {
+        "label": "TDB – Annual Report 2024-25",
+        "url": "https://tdb.gov.in/sites/default/files/2026-01/annual-report-2024-25.pdf"
+      },
+      {
+        "label": "TDB – Annual Report 2023-24",
+        "url": "https://tdb.gov.in/sites/default/files/2025-03/2023-2024_1_compressed.pdf"
+      },
+      {
+        "label": "TDB – Annual Report 2022-23",
+        "url": "https://tdb.gov.in/sites/default/files/2025-03/ar-2022-2023-final_compressed.pdf"
+      },
+      {
+        "label": "TDB – Annual Reports page",
+        "url": "https://tdb.gov.in/annual_report"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Year-wise figures were read from three separate annual reports (2022-23, 2023-24, 2024-25), all linked from the TDB annual reports page; the 2023-24 figure includes 3 international bilateral projects and the 2022-23 figure includes one VC fund commitment, so years are not perfectly like-for-like. TDB publishes no overall per-project cap, so maxAmountINR is empty. Home-page totals (444+ agreements) differ from the annual report (412 to 2025) because they include later agreements and possibly other programmes."
+  },
+  {
+    "slug": "idex-defence-innovation-spark-grant",
+    "name": "Innovations for Defence Excellence (iDEX) – SPARK grants via Defence India Startup Challenge (DISC) and Open Challenges",
+    "shortName": "iDEX",
+    "provider": "Defence Innovation Organisation (DIO), Department of Defence Production, Ministry of Defence",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2018,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 15000000,
+    "amountText": "SPARK (Support for Prototype and Research Kickstart) grant of up to ₹1.5 crore per winner, milestone-based and non-dilutive. Up to ₹10 crore under iDEX Prime cases.",
+    "equity": "None",
+    "duration": "Prototype development period set in the SPARK agreement, milestone-based",
+    "timeToMoney": "Not published. Challenge rounds involve proposal screening, pitches to the armed-forces user, selection and signing of a SPARK agreement before milestone payments.",
+    "status": "call-based",
+    "deadline": "DISC 14 (82 problem statements) closed 4 May 2026. New DISC editions and Open Challenges are announced on idex.gov.in.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Defence",
+      "Aerospace",
+      "Drones",
+      "Communications",
+      "Cybersecurity",
+      "AI",
+      "Sensors",
+      "Space"
+    ],
+    "oneLiner": "The Ministry of Defence's challenge grant: solve an Army, Navy, Air Force or Coast Guard problem statement and win up to ₹1.5 crore to build the prototype.",
+    "what": "iDEX connects startups, MSMEs and individual innovators with real problems from the armed forces, defence PSUs and other agencies. Winners of a Defence India Startup Challenge (DISC) or an Open Challenge receive a SPARK grant to build a prototype, with the possibility of procurement by the forces afterwards under the Defence Acquisition Procedure.",
+    "who": [
+      "DPIIT-recognised startups.",
+      "Indian companies, primarily MSMEs, incorporated under the Companies Act.",
+      "Individual innovators (including researchers and academics), who must form a startup before signing the SPARK agreement."
+    ],
+    "notFor": [
+      "Foreign companies.",
+      "Individuals who do not incorporate a startup before the grant agreement.",
+      "Ideas that do not answer a published problem statement (except under Open Challenges)."
+    ],
+    "why": [
+      "Non-dilutive money plus a direct line to the end user (the armed forces).",
+      "A path to procurement: over ₹2,400 crore of procurement from iDEX startups and MSMEs had been cleared by Feb 2025.",
+      "Mentoring from iDEX partner incubators."
+    ],
+    "howItWorks": "Defence users submit problem statements; iDEX publishes them in DISC editions (for example DISC 14 had 82). Applicants submit proposals online; shortlisted teams pitch to expert and user panels. Winners sign a SPARK grant agreement with the Defence Innovation Organisation and receive money in milestone tranches while partner incubators mentor them. Successful prototypes can move to procurement by the forces.",
+    "steps": [
+      {
+        "title": "Browse problem statements",
+        "detail": "Read the current DISC or Open Challenge problem statements on idex.gov.in."
+      },
+      {
+        "title": "Register on the iDEX portal",
+        "detail": "Create your startup, MSME or individual-innovator profile."
+      },
+      {
+        "title": "Ask technical questions in time",
+        "detail": "Each edition has a query window (for DISC 14 it closed 21 Apr 2026)."
+      },
+      {
+        "title": "Submit your proposal before the deadline",
+        "detail": "Explain your technical approach, team, milestones and budget."
+      },
+      {
+        "title": "Pitch to the selection panel",
+        "detail": "Shortlisted applicants present to experts and the armed-forces user."
+      },
+      {
+        "title": "Incorporate (if an individual) and sign the SPARK agreement",
+        "detail": "Then receive the grant in milestone-based tranches."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition or company incorporation / Udyam (MSME) certificate",
+      "Technical proposal answering a specific problem statement",
+      "Team CVs and relevant prior work",
+      "Budget and milestone plan",
+      "Company KYC and bank details (at agreement stage)"
+    ],
+    "benefits": [
+      "SPARK grant up to ₹1.5 crore (₹10 crore under iDEX Prime)",
+      "User feedback and testing with the armed forces",
+      "Partner-incubator mentoring",
+      "Possible procurement orders"
+    ],
+    "pros": [
+      "Non-dilutive and sizeable.",
+      "Clear customer: the problem owner is in the room.",
+      "Individuals can enter and form a startup later.",
+      "Regular editions (DISC 14 was launched in March 2026)."
+    ],
+    "cons": [
+      "You must fit a specific problem statement.",
+      "Defence procurement can be slow even after a successful prototype.",
+      "Security and compliance requirements add paperwork.",
+      "The scheme's 2021-22 to 2025-26 budget period has ended; continuation funding details beyond that were not confirmed."
+    ],
+    "goodFitIf": [
+      "You build drones, sensors, communications, AI, materials or other dual-use tech.",
+      "One of the published problem statements matches what you can build.",
+      "You want the armed forces as a long-term customer."
+    ],
+    "skipIf": [
+      "Your product has no defence or security use.",
+      "You need money on a fixed short timeline.",
+      "You are unwilling to work under defence confidentiality rules."
+    ],
+    "insiderTips": [
+      "Use the technical-query window; clarifying the user's real requirement often decides who wins.",
+      "If you have a defence idea not in any DISC list, look for an iDEX Open Challenge.",
+      "For very large, strategic technologies, check ADITI (up to ₹25 crore) instead."
+    ],
+    "performance": {
+      "summary": "iDEX began in April 2018. By February 2025 it had opened 549 problem statements, engaged 619 startups and MSMEs and signed 430 contracts; the Ministry had cleared procurement of 43 items worth over ₹2,400 crore from iDEX startups and MSMEs. The government budgeted ₹498.78 crore for the scheme for 2021-22 to 2025-26 and allocated ₹449.62 crore (including ADITI) for 2025-26. Year-wise counts are not published in one official source.",
+      "metrics": [
+        {
+          "label": "iDEX contracts signed (cumulative)",
+          "value": "430",
+          "asOf": "2025-02",
+          "source": {
+            "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+          }
+        },
+        {
+          "label": "Startups and MSMEs engaged (cumulative)",
+          "value": "619",
+          "asOf": "2025-02",
+          "source": {
+            "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+          }
+        },
+        {
+          "label": "Problem statements opened (cumulative)",
+          "value": "549",
+          "asOf": "2025-02",
+          "source": {
+            "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+          }
+        },
+        {
+          "label": "Procurement cleared from iDEX startups/MSMEs",
+          "value": "43 items, over ₹2,400 crore",
+          "asOf": "2025-02",
+          "source": {
+            "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+          }
+        },
+        {
+          "label": "Problem statements in DISC 14",
+          "value": "82",
+          "asOf": "2026-03-19",
+          "source": {
+            "label": "iDEX – DISC 14 challenge page",
+            "url": "https://idex.gov.in/disc-category/45"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://idex.gov.in/",
+    "officialUrl": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/idex",
+    "sources": [
+      {
+        "label": "iDEX – home page",
+        "url": "https://idex.gov.in/"
+      },
+      {
+        "label": "Department of Defence Production – iDEX scheme page",
+        "url": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/idex"
+      },
+      {
+        "label": "iDEX – DISC 14 challenge page",
+        "url": "https://idex.gov.in/disc-category/45"
+      },
+      {
+        "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Cumulative figures are from a PIB backgrounder (Apr 2025) quoting Feb 2025 data; later totals reported in the press (e.g. at the March 2026 conclave) were not confirmed from an official text, so they are not used. Status is 'call-based' because DISC 14 has closed; the next edition date is not announced."
+  },
+  {
+    "slug": "idex-aditi",
+    "name": "Acing Development of Innovative Technologies with iDEX (ADITI)",
+    "shortName": "ADITI",
+    "provider": "Defence Innovation Organisation (DIO), Department of Defence Production, Ministry of Defence",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2024,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 250000000,
+    "amountText": "Grant of up to 50% of the Product Development Budget, with a maximum of ₹25 crore per project (so total development budgets of ₹50 crore or more).",
+    "equity": "None",
+    "duration": "Project-specific, milestone-based",
+    "timeToMoney": "Not published.",
+    "status": "call-based",
+    "deadline": "ADITI 4.0 (25 challenges) closed 4 May 2026 alongside DISC 14. Watch idex.gov.in for ADITI 5.0.",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Defence",
+      "Space",
+      "Quantum",
+      "AI",
+      "Semiconductors",
+      "Cyber",
+      "Underwater Surveillance",
+      "Satellite Communication"
+    ],
+    "oneLiner": "A Ministry of Defence grant of up to ₹25 crore for startups building critical and strategic defence technology.",
+    "what": "ADITI is a sub-scheme of iDEX for 'critical and strategic' technologies such as satellite communications, advanced cyber, autonomous systems, nuclear technology, semiconductors, AI, quantum and underwater surveillance. It funds up to half of a product development budget, to a maximum of ₹25 crore, so startups can take on ambitious defence products and reduce India's reliance on foreign suppliers.",
+    "who": [
+      "DPIIT-recognised startups.",
+      "Individual innovators (including researchers) who form a startup before signing the grant agreement."
+    ],
+    "notFor": [
+      "Projects outside the published critical and strategic challenges.",
+      "Applicants who cannot fund the other half of the development budget.",
+      "Foreign entities."
+    ],
+    "why": [
+      "One of the largest non-dilutive grants available to Indian startups.",
+      "Direct engagement with the armed forces and the Defence Space Agency.",
+      "Encourages partnerships with established defence industry."
+    ],
+    "howItWorks": "ADITI runs inside the iDEX framework. The armed forces and the Defence Space Agency publish challenges (25 in ADITI 4.0). Selected startups receive up to 50% of their product development budget (max ₹25 crore) in milestones, monitored by a team under the DIO Board chaired by the Secretary (Defence Production), with partner incubators providing oversight and guidance.",
+    "steps": [
+      {
+        "title": "Read the ADITI challenges",
+        "detail": "Challenges are published on idex.gov.in with each edition."
+      },
+      {
+        "title": "Plan co-funding",
+        "detail": "Arrange the 50% of the development budget that ADITI will not cover (own funds, investors or industry partners)."
+      },
+      {
+        "title": "Register and apply on the iDEX portal",
+        "detail": "Submit a detailed technical and commercial proposal."
+      },
+      {
+        "title": "Evaluation and pitch",
+        "detail": "Present to expert and user panels."
+      },
+      {
+        "title": "Sign the grant agreement",
+        "detail": "Individuals must incorporate a startup first."
+      },
+      {
+        "title": "Milestone-based funding",
+        "detail": "Receive tranches as milestones are verified."
+      }
+    ],
+    "documents": [
+      "DPIIT recognition certificate",
+      "Detailed product development plan and budget",
+      "Proof of co-funding arrangements",
+      "Team credentials and prior defence work",
+      "Company KYC and financials"
+    ],
+    "benefits": [
+      "Grant up to ₹25 crore",
+      "Access to defence users and testing",
+      "Partner-incubator oversight and mentoring"
+    ],
+    "pros": [
+      "Very large grant size.",
+      "No equity taken.",
+      "Targets strategic technologies with long-term demand."
+    ],
+    "cons": [
+      "Requires matching 50% of the budget.",
+      "Only for startups (DPIIT recognised).",
+      "Narrow, demanding technical challenges.",
+      "The scheme's announced outlay (₹750 crore) covered 2023-24 to 2025-26; funding beyond that was not confirmed."
+    ],
+    "goodFitIf": [
+      "You are a deep-tech startup in quantum, space, semiconductors, AI, cyber or underwater systems.",
+      "You can raise or commit the other half of a large development budget.",
+      "One of the ADITI challenges matches your roadmap."
+    ],
+    "skipIf": [
+      "Your project needs under ₹1.5 crore (use an iDEX SPARK challenge).",
+      "You cannot co-fund.",
+      "Your technology is not defence-relevant."
+    ],
+    "insiderTips": [
+      "Pair with an established defence company or DPSU; the scheme explicitly aims to foster such collaboration.",
+      "Show how you will reach production, not just a lab demo, since the aim is to reduce dependence on foreign OEMs.",
+      "Prepare investor or partner commitment letters for your 50% share before applying."
+    ],
+    "performance": {
+      "summary": "ADITI was launched on 4 March 2024 at DefConnect 2024 with an outlay of ₹750 crore for 2023-24 to 2025-26. ADITI 4.0 (launched March 2026) had 25 challenges. The number of grants awarded and amounts disbursed are not published.",
+      "metrics": [
+        {
+          "label": "Scheme outlay (2023-24 to 2025-26)",
+          "value": "₹750 crore",
+          "asOf": "2024-03-04",
+          "source": {
+            "label": "Department of Defence Production – ADITI scheme page",
+            "url": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/aditi_details"
+          }
+        },
+        {
+          "label": "Challenges in ADITI 4.0",
+          "value": "25",
+          "asOf": "2026-03-19",
+          "source": {
+            "label": "iDEX – home page",
+            "url": "https://idex.gov.in/"
+          }
+        },
+        {
+          "label": "Maximum grant per project",
+          "value": "₹25 crore (up to 50% of product development budget)",
+          "asOf": "2024-03-04",
+          "source": {
+            "label": "Department of Defence Production – ADITI scheme page",
+            "url": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/aditi_details"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://idex.gov.in/",
+    "officialUrl": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/aditi_details",
+    "sources": [
+      {
+        "label": "Department of Defence Production – ADITI scheme page",
+        "url": "https://www.ddpmod.gov.in/en/offerings/schemes-and-services/aditi_details"
+      },
+      {
+        "label": "iDEX – home page",
+        "url": "https://idex.gov.in/"
+      },
+      {
+        "label": "PIB – 'Make in India Powers Defence Growth' backgrounder (3 Apr 2025)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc202543531401.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Awards made under ADITI are not published. ADITI 4.0's 25 challenges is from the iDEX home page; challenge counts for earlier editions could not be confirmed from an official source we opened."
+  },
+  {
+    "slug": "rkvy-raftaar-agri-startup-grants",
+    "name": "RKVY Innovation and Agri-Entrepreneurship Programme (RKVY-RAFTAAR Agribusiness Incubation): pre-seed and seed grants",
+    "shortName": "RKVY Agri-Startup Grants",
+    "provider": "Department of Agriculture & Farmers Welfare (DA&FW), Ministry of Agriculture & Farmers Welfare",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2018,
+    "instrument": [
+      "grant",
+      "incubation"
+    ],
+    "maxAmountINR": 2500000,
+    "amountText": "Up to ₹5 lakh grant at idea/pre-seed stage (plus ₹10,000 stipend during a one-month agripreneurship orientation) and up to ₹25 lakh at seed (MVP) stage, paid through the incubator. At pre-seed the startup bears 15% of the sanctioned amount.",
+    "equity": "None",
+    "duration": "Two-month orientation/incubation, then project period set by the incubator; seed grant paid in two 50:50 instalments",
+    "timeToMoney": "Not published; depends on the incubator's annual cohort and its Startup Investment Committee.",
+    "status": "call-based",
+    "deadline": "No national deadline. Knowledge Partners and RKVY Agribusiness Incubators run their own annual cohorts and calls.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Agriculture",
+      "Agri-tech",
+      "Food & Allied",
+      "Dairy & Fisheries",
+      "Farm Machinery"
+    ],
+    "oneLiner": "Ministry of Agriculture grants of up to ₹5 lakh (idea) and ₹25 lakh (MVP) for agri-startups, delivered through 30 agri-business incubators.",
+    "what": "Under Rashtriya Krishi Vikas Yojana (RKVY), the Agriculture Ministry funds agri-startups through Knowledge Partners (such as IARI Pusa, NIAM Jaipur, MANAGE Hyderabad, UAS Dharwad, AAU Jorhat, IIT Kanpur, IRRI Varanasi) and RKVY Agribusiness Incubators (R-ABIs) at agricultural universities and institutes. Founders go through an agripreneurship orientation and incubation, then can win grant-in-aid to build and launch products, services or platforms for farmers and the food chain.",
+    "who": [
+      "Agri-startups and entrepreneurs in agriculture and allied sectors selected by a Knowledge Partner (KP) or R-ABI.",
+      "Pre-seed: founders with an idea, proof of concept or prototype who complete the agripreneurship orientation.",
+      "Seed: startups at MVP stage (product ready to launch) incubated at a KP or R-ABI."
+    ],
+    "notFor": [
+      "Startups already receiving grants or financial support from another government scheme for the same work.",
+      "Founders who do not complete the incubation programme (non-compliance can lead to debarment).",
+      "Non-agri businesses."
+    ],
+    "why": [
+      "Grant money with no equity for agri and food startups.",
+      "Incubation at India's leading agricultural institutions with domain mentors.",
+      "Paid orientation (₹10,000 stipend) helps early founders learn the basics."
+    ],
+    "howItWorks": "DA&FW releases funds to the KPs and R-ABIs. Each incubator runs an Agripreneurship Orientation Programme, then a Startup Investment Committee (SIC) recommends startups for funding. Pre-seed grants (up to ₹5 lakh) are paid in one instalment after SIC approval and an MoU with the incubator. Seed grants (up to ₹25 lakh) are paid in two 50:50 instalments. Each R-ABI can fund about 10–12 startups a year per stage and each KP 20–25.",
+    "steps": [
+      {
+        "title": "Pick a Knowledge Partner or R-ABI",
+        "detail": "Find one on agristartup.gov.in that fits your region and sector."
+      },
+      {
+        "title": "Apply to its annual cohort",
+        "detail": "Incubators announce calls for the orientation and incubation programme on their own websites."
+      },
+      {
+        "title": "Complete the agripreneurship orientation",
+        "detail": "A one-month training with a ₹10,000 stipend; refine your idea and business model."
+      },
+      {
+        "title": "Pitch to the Startup Investment Committee",
+        "detail": "Present for pre-seed (up to ₹5 lakh) or, if you have an MVP, seed funding (up to ₹25 lakh)."
+      },
+      {
+        "title": "Sign the MoU and contribute your share",
+        "detail": "At pre-seed you bear 15% of the sanctioned amount."
+      },
+      {
+        "title": "Receive funds and report milestones",
+        "detail": "Seed money comes in two instalments; report progress to the incubator."
+      }
+    ],
+    "documents": [
+      "Identity and address proof of founders",
+      "Business plan or pitch deck",
+      "Proof of concept, prototype or MVP evidence",
+      "Company/LLP registration (if incorporated)",
+      "Declaration of no other government grant for the same work",
+      "Bank account details"
+    ],
+    "benefits": [
+      "Grants up to ₹5 lakh / ₹25 lakh",
+      "Orientation stipend",
+      "Incubation, mentoring and lab/field access at agricultural institutions",
+      "Links to agri-startup conclaves, fairs and investors"
+    ],
+    "pros": [
+      "Non-dilutive money for an often underfunded sector.",
+      "Wide network: 30 incubators listed on the portal.",
+      "Supports very early founders with training and stipend."
+    ],
+    "cons": [
+      "Small seat counts per incubator each year.",
+      "15% own contribution at pre-seed.",
+      "Funding flows through incubators, so timing varies.",
+      "The current guidelines cover 2023-24 to 2025-26; terms for later years were not confirmed."
+    ],
+    "goodFitIf": [
+      "You are building for farmers, food supply chains, dairy, fisheries or rural markets.",
+      "You can join an incubator at an agri university or institute.",
+      "You need a first ₹5–25 lakh without giving up equity."
+    ],
+    "skipIf": [
+      "Your startup is not in agriculture or allied sectors.",
+      "You already hold another government grant for the same project.",
+      "You cannot take part in an incubation programme."
+    ],
+    "insiderTips": [
+      "Apply to more than one incubator's cohort; each funds only a limited number of startups per year.",
+      "If you already have an MVP, ask to be considered directly for seed funding.",
+      "Use the incubator's links to field trials and certification; these help with buyers and later investors."
+    ],
+    "performance": {
+      "summary": "The programme has run since 2018-19. Government figures show 1,176 startups supported with ₹75.25 crore by July 2023, and 1,708 startups with ₹122.50 crore released from 2019-20 to 2023-24 (reported from a December 2024 Lok Sabha reply). The official portal's live report shows funds released by the ministry to the incubators each year; this includes incubator operating costs as well as startup grants, so it is not the same as money paid to startups.",
+      "metrics": [
+        {
+          "label": "Agri-startups supported (cumulative)",
+          "value": "1,176",
+          "asOf": "2023-07-21",
+          "source": {
+            "label": "PIB – Encouragement to Agri-Startups in Rural Areas (21 Jul 2023)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1941397"
+          }
+        },
+        {
+          "label": "Financial assistance to startups (cumulative)",
+          "value": "₹75.25 crore",
+          "asOf": "2023-07-21",
+          "source": {
+            "label": "PIB – Encouragement to Agri-Startups in Rural Areas (21 Jul 2023)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1941397"
+          }
+        },
+        {
+          "label": "Agri-startups supported, 2019-20 to 2023-24 (reported)",
+          "value": "1,708",
+          "asOf": "2024-12-10",
+          "source": {
+            "label": "IANS – Govt released Rs 122 crore to over 1,700 agri-startups (11 Dec 2024, reporting a Lok Sabha reply)",
+            "url": "https://ianslive.in/govt-has-released-funds-to-over-1700-agri-startups-minister--20241211115112"
+          }
+        },
+        {
+          "label": "Funds released to startups, 2019-20 to 2023-24 (reported)",
+          "value": "₹122.50 crore",
+          "asOf": "2024-12-10",
+          "source": {
+            "label": "IANS – Govt released Rs 122 crore to over 1,700 agri-startups (11 Dec 2024, reporting a Lok Sabha reply)",
+            "url": "https://ianslive.in/govt-has-released-funds-to-over-1700-agri-startups-minister--20241211115112"
+          }
+        },
+        {
+          "label": "Incubators (KPs + R-ABIs) on the portal",
+          "value": "30",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Agri-Startups Portal – Year-wise Fund Released to KPs and R-ABIs (live report)",
+            "url": "https://agristartup.gov.in/rptFundReleased.aspx"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Funds released by DA&FW to Knowledge Partners and R-ABIs (all purposes)",
+          "unit": "₹ crore",
+          "points": [
+            {
+              "period": "2018-19",
+              "value": 35.92
+            },
+            {
+              "period": "2019-20",
+              "value": 15.27
+            },
+            {
+              "period": "2020-21",
+              "value": 42.16
+            },
+            {
+              "period": "2021-22",
+              "value": 29.74
+            },
+            {
+              "period": "2022-23",
+              "value": 33.85
+            },
+            {
+              "period": "2023-24",
+              "value": 48.65
+            },
+            {
+              "period": "2024-25",
+              "value": 57.38
+            },
+            {
+              "period": "2025-26",
+              "value": 69.98
+            }
+          ],
+          "source": {
+            "label": "Agri-Startups Portal – Year-wise Fund Released to KPs and R-ABIs (live report)",
+            "url": "https://agristartup.gov.in/rptFundReleased.aspx"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://agristartup.gov.in/",
+    "officialUrl": "https://agristartup.gov.in/LetterAndCircular/OperationalGuidelineRKVY.pdf",
+    "sources": [
+      {
+        "label": "Agri-Startups Portal – Innovation and Agri-entrepreneurship Programme of RKVY",
+        "url": "https://agristartup.gov.in/"
+      },
+      {
+        "label": "DA&FW – Operational Guidelines for Innovation and Agri-entrepreneurship programme under RKVY, 2023-24 to 2025-26",
+        "url": "https://agristartup.gov.in/LetterAndCircular/OperationalGuidelineRKVY.pdf"
+      },
+      {
+        "label": "Agri-Startups Portal – Year-wise Fund Released to KPs and R-ABIs (live report)",
+        "url": "https://agristartup.gov.in/rptFundReleased.aspx"
+      },
+      {
+        "label": "PIB – Encouragement to Agri-Startups in Rural Areas (21 Jul 2023)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1941397"
+      },
+      {
+        "label": "IANS – Govt released Rs 122 crore to over 1,700 agri-startups (11 Dec 2024, reporting a Lok Sabha reply)",
+        "url": "https://ianslive.in/govt-has-released-funds-to-over-1700-agri-startups-minister--20241211115112"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The chart sums the portal's live per-incubator table (values in ₹ lakh converted to crore) as read on 27 Oct 2026; 2026-27 (₹28.30 crore so far) is left out as a part year. These are releases to incubators, not grants to startups. The 1,708 startups / ₹122.50 crore figure comes from a news report of a Lok Sabha reply (the parliament site could not be opened). The guidelines cover 2023-24 to 2025-26; continuation terms for 2026-27 were not confirmed, though funds are still being released."
+  },
+  {
+    "slug": "pm-formalisation-micro-food-processing-pmfme",
+    "name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME) Scheme",
+    "shortName": "PMFME",
+    "provider": "Ministry of Food Processing Industries (MoFPI), with State nodal agencies",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2020,
+    "instrument": [
+      "subsidy",
+      "loan"
+    ],
+    "maxAmountINR": 1000000,
+    "amountText": "Individual units: 35% credit-linked capital subsidy on project cost, up to ₹10 lakh per unit (you put in at least 10%, a bank loan covers the rest). SHG members: seed capital of ₹40,000 each. Groups/FPOs: 35% grant with credit linkage; support for common infrastructure and branding.",
+    "equity": "None",
+    "duration": "One-time subsidy, released against a sanctioned bank loan",
+    "timeToMoney": "Not published; depends on the District Resource Person, State nodal agency and bank loan sanction.",
+    "status": "unverified",
+    "deadline": "Applications via the PMFME portal. The scheme was extended till September 2026; a further five-year extension was proposed but not confirmed as of 27 Oct 2026.",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Food Processing",
+      "Agriculture",
+      "One District One Product (ODOP)"
+    ],
+    "oneLiner": "A 35% subsidy (up to ₹10 lakh) on a bank loan to start or upgrade a small food-processing unit, plus help with training, FSSAI and branding.",
+    "what": "PMFME helps micro food-processing businesses (pickles, spices, bakery, dairy, millets, snacks and so on) upgrade machinery, get formal registrations and grow. It gives a credit-linked capital subsidy, seed capital to Self Help Group members, grants for common facilities and incubation centres, branding and marketing support, and training. It follows a One District One Product (ODOP) approach that prioritises each district's signature product.",
+    "who": [
+      "Individual micro food-processing enterprises, existing or new, that take a bank loan for the project.",
+      "Self Help Group members working in food processing (seed capital).",
+      "Farmer Producer Organisations, producer co-operatives and SHG groups (group grants and common infrastructure).",
+      "Priority to products under the ODOP list for the district."
+    ],
+    "notFor": [
+      "Large or medium food companies.",
+      "Projects without bank credit linkage (the individual subsidy is tied to a loan).",
+      "Applicants unable to put in the minimum 10% own contribution."
+    ],
+    "why": [
+      "Cuts the cost of machinery and upgrades by 35%, up to ₹10 lakh.",
+      "Free handholding by District Resource Persons for loan papers and FSSAI/Udyam/GST registration.",
+      "Training through institutes such as NIFTEM and CFTRI.",
+      "Over 2 lakh enterprises sanctioned loans by July 2026; about 44% of beneficiaries are women."
+    ],
+    "howItWorks": "The Centre funds States (60:40 sharing for most States). Applicants register on the PMFME portal, often with help from a District Resource Person who prepares the project report. The application is checked by the district and State nodal agency and forwarded to a bank. Once the bank sanctions the loan, the 35% subsidy (max ₹10 lakh) is released to the loan account. SHG seed capital is routed through SHG federations as a repayable loan to members.",
+    "steps": [
+      {
+        "title": "Choose your project",
+        "detail": "Decide what you will make or upgrade; check if it is your district's ODOP product (priority)."
+      },
+      {
+        "title": "Contact a District Resource Person",
+        "detail": "They help prepare the detailed project report and loan application free of cost."
+      },
+      {
+        "title": "Register and apply on the PMFME portal",
+        "detail": "Upload your details, project report and documents."
+      },
+      {
+        "title": "District and State verification",
+        "detail": "The district committee and State nodal agency review and recommend."
+      },
+      {
+        "title": "Bank loan sanction",
+        "detail": "The bank appraises and sanctions the loan; you bring at least 10% of the project cost."
+      },
+      {
+        "title": "Subsidy release and registrations",
+        "detail": "The 35% subsidy is credited to the loan account; complete FSSAI, Udyam and GST registrations."
+      }
+    ],
+    "documents": [
+      "Aadhaar and PAN",
+      "Bank statements (6 months) and bank account details",
+      "Detailed project report with machinery quotations",
+      "Proof of business premises (ownership or rent agreement)",
+      "Existing registrations (Udyam, FSSAI, GST) if any",
+      "Photographs of the unit"
+    ],
+    "benefits": [
+      "35% capital subsidy up to ₹10 lakh",
+      "Free project-report and registration help",
+      "Training and capacity building",
+      "Branding, marketing and common-infrastructure support"
+    ],
+    "pros": [
+      "Large subsidy relative to micro-unit budgets.",
+      "Designed for first-generation entrepreneurs (about 90% of beneficiaries).",
+      "Strong support for women and SHGs."
+    ],
+    "cons": [
+      "Tied to a bank loan; you carry debt.",
+      "Scheme period uncertain: extended only till Sept 2026, renewal pending.",
+      "Bank sanction can be slow and varies by branch.",
+      "Not an innovation grant; it funds machinery and formalisation."
+    ],
+    "goodFitIf": [
+      "You run or want to start a small food-processing unit.",
+      "You can get a bank loan and put in 10% of the cost.",
+      "Your product matches your district's ODOP list."
+    ],
+    "skipIf": [
+      "You are a tech startup without manufacturing.",
+      "You want to avoid debt.",
+      "Your business is medium or large scale."
+    ],
+    "insiderTips": [
+      "Work with your District Resource Person; well-prepared project reports move faster at the bank.",
+      "Get machinery quotations from reputable suppliers; banks check these closely.",
+      "Check the portal for the scheme's renewal status before you invest in a project timed to the subsidy."
+    ],
+    "performance": {
+      "summary": "Launched in 2020 under Aatmanirbhar Bharat for 2020-21 to 2025-26, PMFME had sanctioned 1,44,517 loans worth ₹11,501.79 crore by June 2025 (50,875 in 2024-25 alone) and crossed 2 lakh enterprises by July 2026. The Centre had released ₹3,791.1 crore to States by June 2025. A clean year-wise series is not published in one official source.",
+      "metrics": [
+        {
+          "label": "Loans sanctioned under credit-linked subsidy (cumulative)",
+          "value": "1,44,517 worth ₹11,501.79 crore",
+          "asOf": "2025-06-30",
+          "source": {
+            "label": "PIB – PMFME backgrounder 'Vocal for Local in Food Processing Sector' (Sept 2025, data as of June 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202592626401.pdf"
+          }
+        },
+        {
+          "label": "Loans sanctioned in FY 2024-25",
+          "value": "50,875",
+          "asOf": "2025-06-30",
+          "source": {
+            "label": "PIB – PMFME backgrounder 'Vocal for Local in Food Processing Sector' (Sept 2025, data as of June 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202592626401.pdf"
+          }
+        },
+        {
+          "label": "Enterprises sanctioned loans (cumulative)",
+          "value": "More than 2 lakh",
+          "asOf": "2026-07-11",
+          "source": {
+            "label": "All India Radio News – PMFME sanctions loans to over two lakh enterprises (11 Jul 2026)",
+            "url": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/"
+          }
+        },
+        {
+          "label": "SHG members given seed capital (cumulative)",
+          "value": "More than 4.18 lakh",
+          "asOf": "2026-07-11",
+          "source": {
+            "label": "All India Radio News – PMFME sanctions loans to over two lakh enterprises (11 Jul 2026)",
+            "url": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/"
+          }
+        },
+        {
+          "label": "Women among beneficiaries",
+          "value": "About 44%",
+          "asOf": "2026-07-11",
+          "source": {
+            "label": "All India Radio News – PMFME sanctions loans to over two lakh enterprises (11 Jul 2026)",
+            "url": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://pmfme.mofpi.gov.in/",
+    "officialUrl": "https://pmfme.mofpi.gov.in/pmfme/",
+    "sources": [
+      {
+        "label": "PMFME portal, Ministry of Food Processing Industries",
+        "url": "https://pmfme.mofpi.gov.in/pmfme/"
+      },
+      {
+        "label": "PIB – PMFME backgrounder 'Vocal for Local in Food Processing Sector' (Sept 2025, data as of June 2025)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc202592626401.pdf"
+      },
+      {
+        "label": "All India Radio News – PMFME sanctions loans to over two lakh enterprises (11 Jul 2026)",
+        "url": "https://newsonair.gov.in/pmfme-scheme-sanctions-loans-to-over-two-lakh-micro-food-processing-enterprises-says-union-minister-chirag-paswan/"
+      },
+      {
+        "label": "Outlook Business – PMFME set for extension after hitting 2-lakh unit target (2026)",
+        "url": "https://www.outlookbusiness.com/news/pmfme-scheme-set-for-extension-after-hitting-2-lakh-unit-target"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is 'unverified': a MoFPI Joint Secretary said the scheme was extended till September 2026 and a five-year extension was being proposed (Outlook Business), but no Cabinet approval was found as of 27 Oct 2026. The PMFME portal could not be read in detail (script-rendered). This is a food-processing subsidy rather than a pure innovation grant; it is included because it is a central sector scheme founders ask about."
+  },
+  {
+    "slug": "dop-prip-pharma-medtech-research-innovation",
+    "name": "Promotion of Research and Innovation in Pharma MedTech Sector (PRIP) Scheme",
+    "shortName": "PRIP",
+    "provider": "Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 1000000000,
+    "amountText": "Early-stage track (startups/MSMEs, TRL 1–3): up to ₹5 crore per project. Later-stage track (TRL 4–6): up to ₹100 crore per project, with government share capped at 35% of project cost (applicant co-funds the rest).",
+    "equity": "None (grant-in-aid; co-funding required in the later-stage track)",
+    "duration": "Project-specific",
+    "timeToMoney": "Not published. Early-stage applicants submit a concept note first, then a full application if shortlisted.",
+    "status": "unverified",
+    "deadline": "Second call announced 28 Aug 2026; the portal window was expected to open by mid-September 2026. The closing date could not be confirmed.",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Pharmaceuticals",
+      "MedTech",
+      "Biologics",
+      "Medical Devices",
+      "Drug Discovery"
+    ],
+    "oneLiner": "A ₹5,000 crore Department of Pharmaceuticals scheme that funds startups and companies developing new medicines and medical devices, up to ₹5 crore (early stage) or ₹100 crore (later stage).",
+    "what": "PRIP aims to move India's pharma and medtech industry from making generics to discovering new products. It funds R&D projects on new medicines (new chemical and biological entities, phyto-pharmaceuticals), complex generics and biosimilars, and novel medical devices. The second call (2026) has an early-stage track for startups and MSMEs and a later-stage track open to industry, startups and MSMEs.",
+    "who": [
+      "Early-stage track: startups and MSMEs with products or technologies at TRL 1–3, aiming to reach up to TRL 5.",
+      "Later-stage track: industry, startups and MSMEs with technologies at TRL 4–6.",
+      "Projects in priority areas such as new medicines, complex generics/biosimilars and novel medical devices."
+    ],
+    "notFor": [
+      "Later-stage applicants who cannot co-fund at least 65% of project cost.",
+      "Projects outside the scheme's priority areas.",
+      "Individuals without a registered entity."
+    ],
+    "why": [
+      "Among the largest R&D grants available to Indian pharma and medtech startups.",
+      "A dedicated early-stage track for startups and MSMEs.",
+      "First round approved 41 projects worth about ₹1,600 crore, 19 of them by startups and MSMEs."
+    ],
+    "howItWorks": "The Department of Pharmaceuticals invites applications on the PRIP portal in calls. Early-stage applicants send a short concept note; shortlisted ones file a detailed application. Later-stage applicants apply directly with a detailed form. Expert committees evaluate and approve projects, and funds are released against milestones.",
+    "steps": [
+      {
+        "title": "Check your track",
+        "detail": "TRL 1–3 startup/MSME projects go to early stage; TRL 4–6 projects go to later stage."
+      },
+      {
+        "title": "Read the call documents on the PRIP portal",
+        "detail": "Application forms and guidance are posted on prip.pharma-dept.gov.in."
+      },
+      {
+        "title": "Early stage: submit a concept note",
+        "detail": "A short description of the innovation, team and plan."
+      },
+      {
+        "title": "Submit the detailed application",
+        "detail": "If shortlisted (early stage) or directly (later stage), with budget, milestones and co-funding."
+      },
+      {
+        "title": "Expert evaluation and approval",
+        "detail": "Committees review technical merit and commercial potential."
+      },
+      {
+        "title": "Agreement and milestone funding",
+        "detail": "Sign the grant agreement and receive funds in tranches."
+      }
+    ],
+    "documents": [
+      "Registration and DPIIT/MSME certificates",
+      "Concept note or detailed project proposal with TRL evidence",
+      "Budget and milestone plan",
+      "Proof of co-funding (later stage)",
+      "Team CVs and IP status"
+    ],
+    "benefits": [
+      "Grants up to ₹5 crore (early) or ₹100 crore (later stage)",
+      "Signals regulatory-grade R&D credibility to investors",
+      "Supports clinical development and device validation costs"
+    ],
+    "pros": [
+      "Very large non-dilutive funding.",
+      "Startup-friendly early-stage track.",
+      "Fresh second call in 2026."
+    ],
+    "cons": [
+      "Later-stage track needs heavy co-funding (65%+).",
+      "Competitive and documentation-heavy.",
+      "First-round applications were still being evaluated months after the call.",
+      "Exact deadlines for the second call were not confirmed."
+    ],
+    "goodFitIf": [
+      "You are developing a new drug, biologic, complex generic or novel medical device.",
+      "You have early lab data (TRL 1–3) or are moving into development (TRL 4–6).",
+      "You can co-fund a later-stage project."
+    ],
+    "skipIf": [
+      "You make standard generics or me-too products.",
+      "You are not a registered startup, MSME or company.",
+      "You cannot meet the co-funding requirement."
+    ],
+    "insiderTips": [
+      "Start with a crisp concept note; the early-stage track screens on it first.",
+      "Map your TRL honestly; applying to the wrong track wastes a cycle.",
+      "Check the portal for the second call's closing date and FAQs."
+    ],
+    "performance": {
+      "summary": "PRIP has an outlay of ₹5,000 crore and aims to support about 300 projects. In its first round the government approved about ₹1,600 crore for 41 projects (12 early-stage, 29 later-stage; 19 by startups/MSMEs), expected to attract over ₹3,000 crore of private R&D investment. Other first-round applications were still under evaluation as of 30 Sep 2026.",
+      "metrics": [
+        {
+          "label": "Projects approved in first round",
+          "value": "41",
+          "asOf": "2026-09-30",
+          "source": {
+            "label": "All India Radio News – ₹1,600 crore approved for 41 projects under PRIP (30 Sep 2026)",
+            "url": "https://newsonair.gov.in/%e2%82%b91600-crore-approved-for-41-pharma-and-medtech-innovation-projects-under-prip/"
+          }
+        },
+        {
+          "label": "Funding approved in first round",
+          "value": "About ₹1,600 crore",
+          "asOf": "2026-09-30",
+          "source": {
+            "label": "All India Radio News – ₹1,600 crore approved for 41 projects under PRIP (30 Sep 2026)",
+            "url": "https://newsonair.gov.in/%e2%82%b91600-crore-approved-for-41-pharma-and-medtech-innovation-projects-under-prip/"
+          }
+        },
+        {
+          "label": "First-round projects by startups and MSMEs",
+          "value": "19",
+          "asOf": "2026-09-30",
+          "source": {
+            "label": "All India Radio News – ₹1,600 crore approved for 41 projects under PRIP (30 Sep 2026)",
+            "url": "https://newsonair.gov.in/%e2%82%b91600-crore-approved-for-41-pharma-and-medtech-innovation-projects-under-prip/"
+          }
+        },
+        {
+          "label": "Scheme outlay",
+          "value": "₹5,000 crore",
+          "asOf": "2026-08-28",
+          "source": {
+            "label": "All India Radio News – Department of Pharmaceuticals announces second call for PRIP (28 Aug 2026)",
+            "url": "https://newsonair.gov.in/department-of-pharmaceuticals-announces-second-call-for-prip-scheme-applications/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://prip.pharma-dept.gov.in/",
+    "officialUrl": "https://prip.pharma-dept.gov.in/",
+    "sources": [
+      {
+        "label": "PRIP portal, Department of Pharmaceuticals",
+        "url": "https://prip.pharma-dept.gov.in/"
+      },
+      {
+        "label": "All India Radio News – Department of Pharmaceuticals announces second call for PRIP (28 Aug 2026)",
+        "url": "https://newsonair.gov.in/department-of-pharmaceuticals-announces-second-call-for-prip-scheme-applications/"
+      },
+      {
+        "label": "All India Radio News – ₹1,600 crore approved for 41 projects under PRIP (30 Sep 2026)",
+        "url": "https://newsonair.gov.in/%e2%82%b91600-crore-approved-for-41-pharma-and-medtech-innovation-projects-under-prip/"
+      },
+      {
+        "label": "Indian Pharma Post – DoP's second PRIP call details (2026)",
+        "url": "https://www.indianpharmapost.com/policy/dops-second-prip-call-offers-up-to-rs-100-crore-per-project-for-pharma-and-metech-innovation-21619"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is 'unverified' because the PRIP portal is script-rendered and we could not read the second call's open/close dates; the 'mid-September' opening comes from a trade-press report. Track limits (₹5 crore / ₹100 crore, 35% cap) come from Indian Pharma Post, a secondary source quoting the Department. Launch year not confirmed."
+  },
+  {
+    "slug": "smart-india-hackathon",
+    "name": "Smart India Hackathon (SIH)",
+    "shortName": "SIH",
+    "provider": "Ministry of Education's Innovation Cell (MIC) with AICTE",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2017,
+    "instrument": [
+      "prize"
+    ],
+    "maxAmountINR": 100000,
+    "amountText": "₹1,00,000 prize per problem statement for the winning team (software and hardware editions), per SIH's official FAQ. Some 2025 nodal centres reported ₹1.5 lakh; check the current edition's rules.",
+    "equity": "None. IP of a winning solution may be shared with the organisation that posed the problem.",
+    "duration": "Internal hackathon in college, then a 36-hour (software) or multi-day (hardware) Grand Finale",
+    "timeToMoney": "Prize after the Grand Finale (typically held in December), only if the problem-statement owner accepts the winning solution.",
+    "status": "closed",
+    "deadline": "SIH 2026 team nomination and idea submission closed 9 Oct 2026 (extended). The next edition's problem statements are usually released mid-year.",
+    "stages": [
+      "student"
+    ],
+    "sectors": [
+      "Any",
+      "Government problem statements",
+      "AI",
+      "Agriculture",
+      "HealthTech",
+      "Space",
+      "Disaster Management",
+      "Smart Education"
+    ],
+    "oneLiner": "India's national student hackathon: college teams of six solve real government and industry problems and win ₹1 lakh per problem statement.",
+    "what": "SIH gives higher-education students real problem statements from central ministries, state governments, PSUs and industry. Colleges run internal hackathons and nominate their best teams; shortlisted teams build working solutions at a Grand Finale held at nodal centres across India. Winners get prize money and some solutions are taken up by ministries, with alumni going on to found startups.",
+    "who": [
+      "Students of higher-education institutions (SIH Senior) in teams of 6 students (plus up to 2 mentors), including at least one female member.",
+      "Teams must be selected through their institution's internal hackathon and nominated by the college SPOC (single point of contact).",
+      "Teams can submit ideas against problem statements or in the Student Innovation category."
+    ],
+    "notFor": [
+      "Teams not nominated through their institution's internal hackathon.",
+      "School students (SIH Senior is for students of higher-education institutions).",
+      "Teams without at least one female member."
+    ],
+    "why": [
+      "Work on real problems from ISRO, ministries and industry, with mentors.",
+      "National recognition and a strong line on your CV.",
+      "Path to startups: SIH alumni have founded 100+ startups (PIB, Dec 2024).",
+      "Some winning solutions are implemented by ministries (24 projects from SIH 2022, 30 from SIH 2023)."
+    ],
+    "howItWorks": "Ministries, departments, PSUs and companies submit problem statements; MIC publishes them. Each college's SPOC registers, runs an internal hackathon and nominates its best teams. Team leaders submit ideas on the portal; around 6 students and 2 mentors make up each nominated team. Problem-statement owners evaluate and shortlist teams for the Grand Finale, held simultaneously at nodal centres (60 in 2025). One winning team per problem statement receives the prize, if the owner accepts the solution.",
+    "steps": [
+      {
+        "title": "Form a team of six",
+        "detail": "Six students with at least one woman, plus a faculty mentor; mix coders, designers and domain people."
+      },
+      {
+        "title": "Pick problem statements",
+        "detail": "Browse the edition's list on sih.gov.in when released (usually mid-year)."
+      },
+      {
+        "title": "Win your college's internal hackathon",
+        "detail": "Your SPOC selects the best teams to nominate."
+      },
+      {
+        "title": "Submit your idea on the SIH portal",
+        "detail": "The team leader uploads the idea title, description and PDF presentation before the deadline."
+      },
+      {
+        "title": "Get shortlisted for the Grand Finale",
+        "detail": "Evaluated on novelty, feasibility, impact, user experience and scalability."
+      },
+      {
+        "title": "Build and present at the finale",
+        "detail": "36 hours non-stop for software; longer for hardware. Winners get the prize and possible follow-up with the ministry."
+      }
+    ],
+    "documents": [
+      "College ID cards for all six members",
+      "Authorisation/consent letter from the college SPOC",
+      "Idea presentation (PDF in the SIH template)",
+      "Team details: names, gender, email, mobile numbers"
+    ],
+    "benefits": [
+      "₹1 lakh prize per problem statement",
+      "Mentoring from industry and ministry experts",
+      "Possible internships and implementation with ministries",
+      "Access to MIC's YUKTI innovation repository and SIH alumni network"
+    ],
+    "pros": [
+      "Free to enter and open to every college student in India.",
+      "Real users and real problems, not toy challenges.",
+      "Huge visibility and networking."
+    ],
+    "cons": [
+      "Prize is modest and paid only if the problem owner accepts the solution.",
+      "Very competitive: 68,766 teams submitted ideas in 2025 for 1,360 finalist spots.",
+      "IP may be shared with the problem-statement owner.",
+      "Depends on your college running an internal hackathon."
+    ],
+    "goodFitIf": [
+      "You are a college student who wants to build and ship something real in a team.",
+      "You are aiming for a tech career or a startup.",
+      "Your college has an active innovation council or SIH SPOC."
+    ],
+    "skipIf": [
+      "You are a school student (SIH Senior is for higher education).",
+      "You want sizeable startup funding rather than a prize.",
+      "You cannot commit to a 36-hour finale."
+    ],
+    "insiderTips": [
+      "Pick problem statements as soon as they are published and finish your internal-hackathon prototype early; idea-submission windows are short and get crowded near the deadline.",
+      "Talk to your college's Institution's Innovation Council early to make sure an internal hackathon is planned.",
+      "Read the problem owner's expected outcome closely and build a demo-able prototype, not just slides."
+    ],
+    "performance": {
+      "summary": "SIH has run every year since 2017. By its 7th edition (2024) it had reached 13.91 lakh students and almost 2 lakh teams. In 2024 internal hackathons grew from over 900 (2023) to over 2,247 institutes and more than 86,000 teams took part at institute level. The 2025 edition received 72,165 ideas from 68,766 teams on 271 problem statements, with 1,360 teams (8,160 students, 2,993 of them women) in the finale.",
+      "metrics": [
+        {
+          "label": "Ideas submitted / teams (SIH 2025)",
+          "value": "72,165 ideas from 68,766 teams",
+          "asOf": "2025-12-09",
+          "source": {
+            "label": "PIB – SIH 2025 Grand Finale, record participation (9 Dec 2025)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2201244"
+          }
+        },
+        {
+          "label": "Grand Finale teams / students (SIH 2025)",
+          "value": "1,360 teams / 8,160 students",
+          "asOf": "2025-12-09",
+          "source": {
+            "label": "PIB – SIH 2025 Grand Finale, record participation (9 Dec 2025)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2201244"
+          }
+        },
+        {
+          "label": "Problem statements (SIH 2025)",
+          "value": "271",
+          "asOf": "2025-12-09",
+          "source": {
+            "label": "PIB – SIH 2025 Grand Finale, record participation (9 Dec 2025)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2201244"
+          }
+        },
+        {
+          "label": "Students reached since 2017",
+          "value": "Over 13.91 lakh",
+          "asOf": "2024-12-11",
+          "source": {
+            "label": "PIB – Smart India Hackathon 2024 backgrounder (11 Dec 2024)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/dec/doc20241211470201.pdf"
+          }
+        },
+        {
+          "label": "Startups founded by SIH alumni",
+          "value": "Over 100",
+          "asOf": "2024-12-06",
+          "source": {
+            "label": "PIB – 7th edition of SIH to begin on 11 Dec 2024 (6 Dec 2024)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2081437"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Institutes running internal SIH hackathons",
+          "unit": "institutes",
+          "points": [
+            {
+              "period": "SIH 2023",
+              "value": 900
+            },
+            {
+              "period": "SIH 2024",
+              "value": 2247
+            }
+          ],
+          "source": {
+            "label": "PIB – 7th edition of SIH to begin on 11 Dec 2024 (6 Dec 2024)",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2081437"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://sih.gov.in/",
+    "officialUrl": "https://sih.gov.in/",
+    "sources": [
+      {
+        "label": "Smart India Hackathon – official portal",
+        "url": "https://sih.gov.in/"
+      },
+      {
+        "label": "Smart India Hackathon – FAQs (prize money)",
+        "url": "https://www.sih.gov.in/faqs"
+      },
+      {
+        "label": "Smart India Hackathon – Invitation to submit problem statements (cost per problem statement)",
+        "url": "https://www.sih.gov.in/submit_problem_statement"
+      },
+      {
+        "label": "PIB – 7th edition of SIH to begin on 11 Dec 2024 (6 Dec 2024)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2081437"
+      },
+      {
+        "label": "PIB – SIH 2025 Grand Finale, record participation (9 Dec 2025)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2201244"
+      },
+      {
+        "label": "PIB – Smart India Hackathon 2024 backgrounder (11 Dec 2024)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/dec/doc20241211470201.pdf"
+      },
+      {
+        "label": "PIB – SIH 2024 Grand Finale inaugurated (11 Dec 2024)",
+        "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2083154"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The internal-hackathon series has only two points, both given as 'over' figures in one PIB release. Per-edition participation for 2017–2023 is not published in a single official source. Prize: the official FAQ and problem-statement page say ₹1 lakh, but some 2025 nodal centres and AIR reports mentioned up to ₹1.5 lakh; we use the official ₹1 lakh. sih.gov.in blocks automated access, so it was read through a search tool's cached copy."
+  },
+  {
+    "slug": "dst-inspire-manak",
+    "name": "INSPIRE-MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
+    "shortName": "INSPIRE-MANAK",
+    "provider": "Department of Science & Technology (DST) with National Innovation Foundation – India (NIF)",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "prize",
+      "grant"
+    ],
+    "maxAmountINR": 10000,
+    "amountText": "₹10,000 by direct bank transfer to each of up to 1 lakh selected students to build a model or prototype of their idea; top ideas go on to district, state and national competitions, mentoring and patent support.",
+    "equity": "None",
+    "duration": "Annual cycle: nominations (around June–October), award money, then district, state and national exhibitions",
+    "timeToMoney": "Not published; award money is paid by DBT after shortlisting, months after nominations close.",
+    "status": "closed",
+    "deadline": "Nominations for 2026-27 closed (deadline extended to 10 Oct 2026). The next round usually opens mid-year; schools nominate on the portal.",
+    "stages": [
+      "student"
+    ],
+    "sectors": [
+      "Any (science and technology ideas from school students)"
+    ],
+    "oneLiner": "DST's national idea competition for Class 6–12 students: your school nominates your idea and, if selected, you get ₹10,000 to build it.",
+    "what": "INSPIRE-MANAK, run by DST and NIF, aims to collect one million original ideas from school students and turn the best into prototypes. Each school can nominate its five best student ideas a year (up to two from Class 11–12 science). Selected students receive ₹10,000 to build a model and take part in a District Level Exhibition; about 10% move to State level, and up to around 1,000 to the National Level Exhibition and Project Competition, where the top 60 are recognised and supported by NIF.",
+    "who": [
+      "Students of Classes 6 to 12 in any recognised school (government, aided or private) in India.",
+      "Nominated by the school (Principal/Headmaster) after an internal idea competition.",
+      "Each school can nominate up to 5 ideas a year, of which at most 2 can be from Classes 11–12 (science stream only).",
+      "Ideas can be submitted in any Indian language."
+    ],
+    "notFor": [
+      "Students who apply on their own without school nomination.",
+      "College students (see Smart India Hackathon, E-YUVA or NIDHI-PRAYAS).",
+      "Class 11–12 students from non-science streams (per the portal rules).",
+      "Copied or non-original ideas."
+    ],
+    "why": [
+      "Real money (₹10,000) in a school student's own bank account to build their idea.",
+      "National exposure: winners have met the President at FINE and visited Japan under the Sakura Science programme.",
+      "NIF files patents for promising ideas (255 filed, 34 granted, 2017–2024).",
+      "Bonus admission points at some institutions (e.g. IIIT Delhi gives 2 points to NLEPC award winners)."
+    ],
+    "howItWorks": "Schools register on the INSPIRE-MANAK portal and nominate students' idea synopses. NIF and DST shortlist about 1 lakh ideas; those students get ₹10,000 by direct benefit transfer to make a prototype and exhibit at the District Level Exhibition and Project Competition (DLEPC). About 10% go to State level (SLEPC), and selected students go to the National Level Exhibition (NLEPC), where the top 60 get further mentoring, IP filing and product development support from NIF, often in partnership with IITs and NITs.",
+    "steps": [
+      {
+        "title": "Think of a problem and an original idea",
+        "detail": "Something you see at home, school, farm or in your community, solved with science or technology."
+      },
+      {
+        "title": "Write a short synopsis",
+        "detail": "Explain the problem, your idea and how it works; any Indian language is fine; sketches help."
+      },
+      {
+        "title": "Enter your school's idea competition",
+        "detail": "Your Principal or teacher picks the five best ideas."
+      },
+      {
+        "title": "School nominates you on the portal",
+        "detail": "The school submits online on inspireawards-dst.gov.in or the mobile app during the nomination window."
+      },
+      {
+        "title": "Receive ₹10,000 if selected",
+        "detail": "Paid by direct benefit transfer to the bank account given in the nomination; check 'INSPIRE Award money status' on the portal."
+      },
+      {
+        "title": "Build and exhibit",
+        "detail": "Make your model and present at the district exhibition, and move up to state and national levels if selected."
+      }
+    ],
+    "documents": [
+      "Idea synopsis (and optional sketch or photo)",
+      "Student details: name, class, date of birth",
+      "Bank account details for the direct benefit transfer (as asked for on the nomination form)",
+      "School registration on the INSPIRE-MANAK portal (done by the school)"
+    ],
+    "benefits": [
+      "₹10,000 award for the prototype",
+      "District, state and national exhibitions",
+      "Mentoring from IITs, NITs and NIF for national-level students",
+      "Patent filing and possible technology transfer for top ideas"
+    ],
+    "pros": [
+      "Open to every school in India, including rural and government schools.",
+      "No fee, no coding or lab requirement to start.",
+      "Clear path from idea to national recognition."
+    ],
+    "cons": [
+      "You depend on your school to nominate you.",
+      "Only 5 nominations per school; at most 2 from Classes 11–12.",
+      "The cycle is long and payment timing is not fixed.",
+      "₹10,000 is enough for a model, not a business."
+    ],
+    "goodFitIf": [
+      "You are in Classes 6–12 and have an original idea to solve an everyday problem.",
+      "Your school is registered or willing to register on the portal.",
+      "You want to build something and compete nationally."
+    ],
+    "skipIf": [
+      "You are already in college.",
+      "Your school will not nominate you this year (talk to teachers early).",
+      "You are in Class 11–12 outside the science stream."
+    ],
+    "insiderTips": [
+      "Ask your science teacher in June or July to make sure your school registers and holds an internal idea competition.",
+      "Focus on a real local problem and explain it simply; the synopsis matters more than fancy words.",
+      "Keep your bank account details correct; the award goes by DBT and errors delay payment."
+    ],
+    "performance": {
+      "summary": "Since its 2016 revamp, INSPIRE-MANAK nominations grew from just over 1.56 lakh in FY 2016-17 to over 11.47 lakh in FY 2025-26, totalling 61,10,183 ideas in ten years from 99% of districts. 3,91,777 students received ₹10,000 prototype grants over that period, and 49,805 students were supported in 2025-26. NIF filed 255 patents for students between 2017 and 2024 (34 granted).",
+      "metrics": [
+        {
+          "label": "Students supported under INSPIRE-MANAK in 2025-26",
+          "value": "49,805",
+          "asOf": "2026-07-22",
+          "source": {
+            "label": "PIB – Over 3.75 lakh benefited under INSPIRE in last five years (Lok Sabha reply, 22 Jul 2026)",
+            "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287941"
+          }
+        },
+        {
+          "label": "Students who received ₹10,000 prototype grants (ten years)",
+          "value": "3,91,777",
+          "asOf": "2026-02",
+          "source": {
+            "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+            "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+          }
+        },
+        {
+          "label": "Total ideas submitted, FY 2016-17 to FY 2025-26",
+          "value": "61,10,183",
+          "asOf": "2026-02",
+          "source": {
+            "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+            "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+          }
+        },
+        {
+          "label": "Patents filed / granted for student innovators (2017–2024)",
+          "value": "255 / 34",
+          "asOf": "2026-02",
+          "source": {
+            "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+            "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+          }
+        },
+        {
+          "label": "Share of participants who are girls",
+          "value": "51%",
+          "asOf": "2026-02",
+          "source": {
+            "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+            "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Student idea nominations per year",
+          "unit": "lakh nominations",
+          "points": [
+            {
+              "period": "FY 2016-17",
+              "value": 1.56
+            },
+            {
+              "period": "FY 2025-26",
+              "value": 11.47
+            }
+          ],
+          "source": {
+            "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+            "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://www.inspireawards-dst.gov.in/",
+    "officialUrl": "https://www.inspireawards-dst.gov.in/",
+    "sources": [
+      {
+        "label": "INSPIRE-MANAK portal (DST & NIF)",
+        "url": "https://www.inspireawards-dst.gov.in/"
+      },
+      {
+        "label": "PIB – Over 3.75 lakh benefited under INSPIRE in last five years (Lok Sabha reply, 22 Jul 2026)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287941"
+      },
+      {
+        "label": "NIF Innovation Frontline, Jan–Feb 2026 – 'Ten Years of INSPIRE-MANAK'",
+        "url": "https://nif.org.in/upload/newsletter/Jan-Feb-2026-NIF-Newsletter-ENG.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Only the first and latest years of nominations are published as numbers (NIF newsletter); intermediate years are not, so the chart has two points. The portal's headline counters (e.g. '18 Lakh+ grants to students') are not defined and differ from NIF's 3,91,777 figure, so we use NIF's. Nomination timing varies by year."
+  },
+  {
+    "slug": "aim-atal-tinkering-labs",
+    "name": "Atal Tinkering Labs (ATL)",
+    "shortName": "ATL",
+    "provider": "Atal Innovation Mission (AIM), NITI Aayog",
+    "providerType": "central",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "grant"
+    ],
+    "maxAmountINR": 2000000,
+    "amountText": "Grant to the school of up to ₹20 lakh over 5 years: up to ₹10 lakh one-time for equipment (3D printer, electronics, DIY kits) in year one, plus ₹10 lakh over up to 5 years for running costs, consumables and events.",
+    "equity": "None",
+    "duration": "Up to 5 years of grant-in-aid to the school",
+    "timeToMoney": "Not published; schools are shortlisted from applications and funds are released in tranches after compliance.",
+    "status": "call-based",
+    "deadline": "Applications open in rounds. In 2026 AIM invited schools in frontier regions (e.g. Jammu & Kashmir, Ladakh, North-East, aspirational districts) under AIM 2.0; separately, 50,000 ATLs in government schools are being rolled out for 2025-26.",
+    "stages": [
+      "student"
+    ],
+    "sectors": [
+      "STEM",
+      "Robotics",
+      "Electronics",
+      "3D Printing",
+      "IoT"
+    ],
+    "oneLiner": "AIM gives schools up to ₹20 lakh to build a maker lab where Class 6–12 students tinker with 3D printers, robotics and electronics.",
+    "what": "Atal Tinkering Labs are makerspaces in schools that let students learn design thinking, coding, electronics and prototyping by building things. The grant goes to the school, not to students, but students get free access to equipment and to programmes such as the ATL Marathon, the ATL Student Innovator Programme and mentoring by 'Mentors of Change'.",
+    "who": [
+      "Schools (at least Classes 6–10) run by Central/State Government, local bodies, private trusts/societies or tribal/social welfare departments.",
+      "Schools need about 750 sq ft of all-weather space, a computer lab with internet and steady electricity (frontier-region guidelines).",
+      "Students of Classes 6–12 use the lab once their school has one."
+    ],
+    "notFor": [
+      "Individual students (they cannot apply directly).",
+      "Schools that cannot meet the space, internet and staffing criteria.",
+      "Using the grant for anything other than the ATL (unspent money must be refunded)."
+    ],
+    "why": [
+      "Gives students hands-on access to tools usually found only in colleges.",
+      "Feeds into national challenges like the ATL Marathon and ATL Student Innovator Programme.",
+      "Builds a portfolio for INSPIRE-MANAK, science fairs and later SIH."
+    ],
+    "howItWorks": "AIM invites schools to apply online. Applications are screened on infrastructure, faculty and reach; selected schools sign terms, set up an advisory body (including parents) and receive the establishment grant in the first year, followed by operational grants over up to 5 years, against annual utilisation certificates and activity reports.",
+    "steps": [
+      {
+        "title": "Check your school's eligibility",
+        "detail": "Space of about 750 sq ft, computer lab with internet, electricity and a teacher to run the lab."
+      },
+      {
+        "title": "Watch for an AIM application window",
+        "detail": "Applications are announced on aim.gov.in (in 2026 for frontier regions under AIM 2.0)."
+      },
+      {
+        "title": "School applies online",
+        "detail": "Submit the application form with school details and an ATL in-charge teacher."
+      },
+      {
+        "title": "Shortlisting and compliance",
+        "detail": "AIM shortlists schools and checks documents and the school's bank account."
+      },
+      {
+        "title": "Set up the lab",
+        "detail": "Buy equipment from the illustrative list (up to ₹7 lakh for standard equipment within the ₹10 lakh establishment grant) and refurbish the room."
+      },
+      {
+        "title": "Run activities and report",
+        "detail": "Hold tinkering sessions and events; upload annual reports and utilisation certificates to receive further tranches."
+      }
+    ],
+    "documents": [
+      "School registration/affiliation details",
+      "Details of the proposed ATL in-charge teacher",
+      "Proof of space and infrastructure (computer lab, internet)",
+      "School bank account details",
+      "Constitution of an ATL advisory body"
+    ],
+    "benefits": [
+      "Up to ₹20 lakh lab grant to the school",
+      "Training for teachers and ATL curriculum",
+      "Mentors of Change volunteer mentors",
+      "Access to ATL Marathon and Student Innovator Programme"
+    ],
+    "pros": [
+      "Free maker-lab access for students once set up.",
+      "Large-scale: 10,000 labs and 1.1 crore students engaged by Oct 2025.",
+      "Big expansion planned (50,000 more labs in government schools)."
+    ],
+    "cons": [
+      "Students cannot apply; it depends on the school.",
+      "Quality depends on the school's teacher and upkeep.",
+      "Application windows are periodic and sometimes region-specific.",
+      "No year-wise official data on labs set up."
+    ],
+    "goodFitIf": [
+      "You are a school principal or teacher who can commit space and a staff member.",
+      "You are a student whose school has (or could get) an ATL.",
+      "Your school is in a frontier or aspirational region currently being prioritised."
+    ],
+    "skipIf": [
+      "You are an individual student looking for money for your own project (try INSPIRE-MANAK).",
+      "Your school cannot meet space or internet requirements.",
+      "You are in college."
+    ],
+    "insiderTips": [
+      "Students: use the 'Find the nearest ATL' tool on aim.gov.in; some labs welcome students from nearby schools for events.",
+      "Schools: name a committed ATL in-charge; AIM monitors activity, and labs can lose the ATL brand for non-performance.",
+      "Enter the ATL Marathon with your lab projects; it is AIM's flagship student innovation challenge."
+    ],
+    "performance": {
+      "summary": "AIM was launched in 2016. As of October 2025 there were 10,000 ATLs in schools, engaging more than 1.1 crore students and producing over 16 lakh innovation projects; 50,000 more ATLs were being rolled out for 2025-26. AIM 2.0's frontier-region programme proposes 2,500 new labs. Year-wise counts of labs are not published in one official source.",
+      "metrics": [
+        {
+          "label": "Atal Tinkering Labs established",
+          "value": "10,000",
+          "asOf": "2025-10",
+          "source": {
+            "label": "PIB – 'From Classrooms to Creation Labs' backgrounder on ATLs (5 Dec 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc2025125718301.pdf"
+          }
+        },
+        {
+          "label": "Students engaged",
+          "value": "More than 1.1 crore",
+          "asOf": "2025-10",
+          "source": {
+            "label": "PIB – 'From Classrooms to Creation Labs' backgrounder on ATLs (5 Dec 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc2025125718301.pdf"
+          }
+        },
+        {
+          "label": "Innovation projects created in ATLs",
+          "value": "More than 16 lakh",
+          "asOf": "2025-10",
+          "source": {
+            "label": "PIB – 'From Classrooms to Creation Labs' backgrounder on ATLs (5 Dec 2025)",
+            "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc2025125718301.pdf"
+          }
+        },
+        {
+          "label": "New ATLs proposed in frontier regions (AIM 2.0)",
+          "value": "2,500",
+          "asOf": "2026-04",
+          "source": {
+            "label": "AIM – Guidelines for setting up Tinkering Labs, AIM 2.0 Frontier Region Program (April 2026)",
+            "url": "https://aimapp2.aim.gov.in/atl_application_frp/download/Guidlines%20for%20Setting%20Up%20Lab%20_AIM%208_May_2026_V3.pdf"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://aim.gov.in/atl.php",
+    "officialUrl": "https://aimapp2.aim.gov.in/atl_application_frp/download/Guidlines%20for%20Setting%20Up%20Lab%20_AIM%208_May_2026_V3.pdf",
+    "sources": [
+      {
+        "label": "Atal Innovation Mission – Atal Tinkering Labs page",
+        "url": "https://aim.gov.in/atl.php"
+      },
+      {
+        "label": "AIM – Guidelines for setting up Tinkering Labs, AIM 2.0 Frontier Region Program (April 2026)",
+        "url": "https://aimapp2.aim.gov.in/atl_application_frp/download/Guidlines%20for%20Setting%20Up%20Lab%20_AIM%208_May_2026_V3.pdf"
+      },
+      {
+        "label": "PIB – 'From Classrooms to Creation Labs' backgrounder on ATLs (5 Dec 2025)",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc2025125718301.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Grant amounts and eligibility come from the April 2026 Frontier Region Program guidelines; the nationwide rollout of 50,000 government-school ATLs may use different routes (via state education departments). Current open/close dates for school applications were not confirmed. launchedYear reflects AIM's 2016 launch."
+  }
+]

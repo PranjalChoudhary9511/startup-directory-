@@ -1,0 +1,2063 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "Every venture, win or lose",
+      "title": "Everything He Ever Bet On",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Here is the first surprise. In more than 40 years of work, Jensen Huang has run only one company of his own. He has no side startups in the public record, and he has been CEO of Nvidia since day one. So this list is different from most founder lists. __His real portfolio is the set of bets he placed from inside one company, and many of those bets lost.__",
+          "src": [
+            117,
+            103
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Some of the losers were huge. A first chip that came back from the shops almost in full. A phone business he walked away from. A ==$40 billion== takeover killed by regulators. Below is each bet with its first money, its turning point and how it ended.",
+          "src": [
+            0,
+            6,
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Count the failures on this page. Then look at the market value."
+        },
+        {
+          "t": "h",
+          "text": "Before Nvidia"
+        },
+        {
+          "t": "venture",
+          "name": "CoreWare at LSI Logic",
+          "years": "to 1993",
+          "outcome": "sold",
+          "idea": "LSI Logic helped computer makers design their own custom chips. Its CoreWare unit, which Huang ended up directing, pushed the “system on a chip” idea, which means putting a whole system onto one piece of silicon.",
+          "decision": "Huang left AMD for LSI after a short spell because he had seen software design tools make one engineer far more powerful. He has said this full-stack way of thinking still shapes Nvidia. A co-founder request later pulled him out, and he says he would otherwise have stayed.",
+          "howStarted": "He held several jobs at LSI from 1985. The company assigned him to work with customers, including two Sun Microsystems engineers, Chris Malachowsky and Curtis Priem. In Stephen Witt's biography, he was still in his twenties when he ran a division with $250 million in yearly revenue.",
+          "funding": "This was LSI's own money. Huang was an employee and put in none of his own.",
+          "whatHappened": "According to Witt's book, as reviewed, LSI's CEO Wilf Corrigan brought in a senior Intel man to co-manage Huang's product line, and Huang was furious. Soon after, he left to start Nvidia. Corrigan still sent him to Sequoia. LSI itself was bought by Avago in 2014 for about $6.6 billion.",
+          "lesson": "Run something real before you found something. Huang's old boss vouched for him because he had seen eight years of results.",
+          "src": [
+            117,
+            10,
+            0,
+            116,
+            118
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The company"
+        },
+        {
+          "t": "venture",
+          "name": "Nvidia",
+          "years": "1993–today",
+          "outcome": "public",
+          "idea": "Build a chip that makes 3D graphics possible on an ordinary personal computer, and use video games as the first market. In 1993 market researchers would have sized that market at zero, as Sequoia's Mark Stevens later said.",
+          "decision": "Plain 2D graphics was already crowded with chip firms. The founders bet that once the PC reached homes, the thing people would want most was games, and that 3D was the missing piece. Gaming got little respect then, and PC gamers were mostly teenagers. None of the three had even seen a PC up close, so they bought a Gateway 2000 and took it apart.",
+          "howStarted": "Three engineers worked from Curtis Priem's townhouse. Huang has said that after lunch they went to arcades to study Sega's Virtua Fighter and Daytona. Then came a strip-mall office on East Arques Avenue in Sunnyvale and about 20 hires. There were no customers yet.",
+          "funding": "The company began with about $40,000 in the bank. Then came venture capital, which is money from firms that buy a slice of young companies. Sequoia and Sutter Hill backed the 1993 round: 4,303,000 shares at $0.50 each, or about $2.15 million. All the private rounds up to 1997 added up to roughly $19.8 million.",
+          "whatHappened": "Two failed chips, one rescue, an IPO in 1999, long flat years, then the AI boom. Revenue for fiscal 2026 was $215.9 billion. Nvidia's market value closed at $4.93 trillion on 30 October 2026.",
+          "lesson": "Pick a market nobody respects yet, if your reasoning says it must grow. Then be ready to stay alive for a very long time.",
+          "src": [
+            0,
+            5,
+            12,
+            1,
+            81,
+            83
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The three founders split the company almost equally. Going into the IPO, Huang's family holdings stood at 3,100,000 shares and Malachowsky and Priem had 3,062,500 each. Priem later left in 2003 and had sold his last shares by 2006, after giving most of his stake to a charitable foundation. Forbes estimated in 2023 that keeping it all would have made him worth ==$70 billion==.",
+          "src": [
+            1,
+            119
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The first two chips, both failures"
+        },
+        {
+          "t": "venture",
+          "name": "NV1, the Swiss Army knife chip",
+          "years": "1995–1996",
+          "outcome": "failed",
+          "idea": "One chip that did everything: 3D graphics, video, audio and game-port input, all on one card. It was sold in shops as the Diamond Edge 3D.",
+          "decision": "Nvidia chose to draw 3D scenes with curved four-sided shapes because the method was clever and cheap. Rivals and then Microsoft went with triangles. Huang now says the team got the core technical choices exactly wrong. He also admits they did not yet know how to price or position a product.",
+          "howStarted": "It took about 18 to 24 months to deliver. ST Microelectronics was the manufacturing partner and also had a licence to sell it. Diamond Multimedia was the main buyer, at 86% of Nvidia's 1995 revenue.",
+          "funding": "Series A and Series B venture money. The 1994 and 1995 Series B round sold about 2.8 million shares at $1.80 each, or about $5 million.",
+          "whatHappened": "Huang's own telling is brutal. Diamond took 250,000 units and about 249,000 came back. Nvidia's 1995 revenue was just $1.18 million and its gross profit was negative, so it lost money on the chips themselves. The company lost $6.4 million that year.",
+          "lesson": "Nobody walks into a shop looking for a Swiss Army knife. Sell one clear thing that beats the alternative at one clear job.",
+          "src": [
+            0,
+            5,
+            1,
+            126,
+            10,
+            7
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "NV2, the Sega console chip",
+          "years": "1995–1996",
+          "outcome": "shut",
+          "idea": "Sega would bring its arcade games to PCs running Nvidia chips, and Nvidia would design the graphics chip for Sega's next console. Both sides got something.",
+          "decision": "This was the most famous decision of Huang's career. Finish the job and spend two years on technology the industry had left behind, or quit and lose the money that paid the salaries. He chose to tell Sega the truth, recommend a different partner and still ask to be paid.",
+          "howStarted": "Huang flew to Japan to pitch Sega. In May 1995 the two sides signed a five-year alliance. The prospectus does not name Sega, but it does call the product NV2, which is the chip Huang and Witt both tie to Sega.",
+          "funding": "The filing shows two separate cheques. Non-refundable development payments of $2 million in 1995 and $3 million in 1996, and a July 1995 purchase of 750,000 Series C shares for $5 million.",
+          "whatHappened": "Work stopped in 1996. Sega's president Shoichiro Irimajiri took a few days and agreed. Huang says it gave Nvidia about six months to live. Sega sold its shares after the IPO. On Nvidia's split history, those 750,000 shares would be 360 million shares today, worth about $74 billion at the 30 October 2026 close.",
+          "lesson": "Bad news delivered early, with a plan and with humility, can win you more than a promise you cannot keep.",
+          "src": [
+            0,
+            5,
+            1,
+            7,
+            3,
+            111
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Finish the project and die, or not finish the project and die right away.",
+          "who": "Jensen Huang on his choice over the Sega contract, Sequoia's Crucible Moments",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The rescue"
+        },
+        {
+          "t": "venture",
+          "name": "RIVA 128",
+          "years": "1996–1998",
+          "outcome": "pivoted",
+          "idea": "Stop being different. Build the fastest possible chip for the triangle method Microsoft had chosen, and get it to market before anyone else.",
+          "decision": "Normal chipmaking needed a test run, fixes and a second test run. Nvidia had time and money for one attempt only. So Huang bought an emulator, a fridge-sized machine that pretends to be a chip, and tested the design and its software before any silicon existed.",
+          "howStarted": "He cut a staff of about 100 to a much smaller crew and bet the rest on this. Engineers ran the emulator in double shifts, and it sat in the break room because it did not fit the lab. He bought his architects three Silicon Graphics textbooks at $60 each.",
+          "funding": "Sega's money, $2.5 million in advance royalties from ST in 1996, and a 1997 Series D round of about $7.6 million at $5.26 a share.",
+          "whatHappened": "It shipped in August 1997 and sold about a million units in four months. Revenue jumped from $3.9 million in 1996 to $29.1 million in 1997. Nvidia made the first profit of its life in the last quarter of 1997, four and a half years after it was founded.",
+          "lesson": "When you only have one shot, change the method so one shot is enough. Constraints can produce your best invention.",
+          "src": [
+            0,
+            3,
+            5,
+            1,
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Four and a half years before the first profitable quarter. Remember that."
+        },
+        {
+          "t": "h",
+          "text": "The console years"
+        },
+        {
+          "t": "venture",
+          "name": "Xbox",
+          "years": "2000–about 2005",
+          "outcome": "shut",
+          "idea": "Supply both main chips for Microsoft's first game console: the graphics processor and the media and communications processor.",
+          "decision": "Winning a console meant guaranteed volume, a big prepayment and a shot at the living room. The price was very thin margins and a giant customer. Sega had once been a similar bet, and Huang took it again with Microsoft.",
+          "howStarted": "The agreement was signed on 5 March 2000, just months after the GeForce 256 launched. Commercial shipments began in July 2001.",
+          "funding": "Microsoft paid ==$200 million== up front in April 2000 as an advance against future purchases. For a company whose total 1999 revenue was $374.5 million, that was enormous.",
+          "whatHappened": "Xbox drove 23% of Nvidia's revenue in fiscal 2003. But Microsoft took a pricing fight to binding arbitration in April 2002. They settled in February 2003 and Nvidia booked $40.4 million in added revenue. In August 2003 Microsoft signed a rival for the next Xbox. Nvidia then won Sony's PlayStation 3 and, years later, the Nintendo Switch.",
+          "lesson": "A giant customer can fund you for a few years, but do not build your future on it. Win the next customer before the current one leaves.",
+          "src": [
+            19,
+            20,
+            21,
+            136,
+            120,
+            121,
+            0
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Buying 3dfx's graphics assets",
+          "years": "2000–2001",
+          "outcome": "merged",
+          "idea": "Buy the patents, brands and engineers of 3dfx, the pioneer of consumer 3D cards and maker of Voodoo, once Nvidia's most feared rival.",
+          "decision": "Nvidia bought assets and not the whole company. The deal also ended a patent war between them, including a suit 3dfx had filed in 1998.",
+          "howStarted": "The deal was signed on 15 December 2000 and closed on 18 April 2001. Huang said on a call that the main prize was its team of engineers.",
+          "funding": "Nvidia's own cash and shares: $70 million in cash and 1,000,000 shares. By then it had also raised about $102 million in new stock at $73 a share, along with $300 million in notes.",
+          "whatHappened": "3dfx wound itself up. In 1998 it had agreed to buy card maker STB, then Nvidia's biggest customer. Shortly before the end it had paid $186 million for a firm called Gigapixel. Nvidia got 3dfx's core graphics assets for roughly $120 million, if you count the shares at the $50 the contract itself used.",
+          "lesson": "If you outlast your rival, you can often hire its best people and buy its best ideas at a bargain. Survival is a strategy.",
+          "src": [
+            16,
+            17,
+            18,
+            22,
+            1
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "GeForce FX, the “Dustbuster”",
+          "years": "2002–2003",
+          "outcome": "failed",
+          "idea": "A next-generation GeForce line, led by the 5800 card, to keep Nvidia on top of the PC gaming market.",
+          "decision": "Nvidia pushed on with its usual rapid upgrades, but its chip arrived several months after ATI's rival. To keep the first card cool, it shipped with a very large, very loud fan that buyers mocked as a “Dustbuster”.",
+          "howStarted": "Nvidia's own chip teams built it, and the first cards reached the market around the end of 2002.",
+          "funding": "Internal cash flow.",
+          "whatHappened": "Huang came home in 2003 to a harsh magazine review with a sticky note from his son, then 13, telling him to kick it up a notch. Gross margin fell from 38% in fiscal 2002 to 29% in fiscal 2004, and the filing blames the FX line in part. Instead of firing the managers, Huang had them walk a few hundred colleagues through every decision. Nvidia even released a joke video using the card as a leaf blower.",
+          "lesson": "Share a failure in public, inside the company, while it still hurts. People copy what you do with failure far more than what you say about it.",
+          "src": [
+            27,
+            20,
+            4,
+            127
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "nForce chipsets",
+          "years": "about 2001–2010",
+          "outcome": "shut",
+          "idea": "Make the second-most important chip in a PC, the one that links the processor to everything else, and so sell more of the machine.",
+          "decision": "It was a move into a business that Intel also dominated. Nvidia signed a licence with Intel in 2004. It later bought Taiwan's ULi to grow the line and get closer to customers in Asia.",
+          "howStarted": "An internal team built it. The early hit was with buyers of AMD-based PCs, and Intel versions followed.",
+          "funding": "Internal cash flow.",
+          "whatHappened": "By mid-2009, one analyst put chipsets at about 31% of Nvidia's revenue. Intel sued in February 2009 to say the licence did not cover its new chips. In October 2009 Nvidia stopped investing in chipsets for them, blaming Intel. In January 2011 they settled. Intel agreed to pay Nvidia ==$1.5 billion== in instalments through 2016, and the new licence did not cover chipsets for Intel's processors.",
+          "lesson": "Never let your growth depend on the permission of your biggest competitor. And if you must fight, make sure you get paid when you stop.",
+          "src": [
+            50,
+            49,
+            26,
+            128,
+            129
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The mobile disaster"
+        },
+        {
+          "t": "venture",
+          "name": "Tegra phone chips",
+          "years": "2003–2015",
+          "outcome": "pivoted",
+          "idea": "Bring Nvidia's graphics into phones and tablets, the fastest-growing computers on earth, with a low-power chip holding a whole computer.",
+          "decision": "Huang built the position by buying. MediaQ cost $70 million in 2003. PortalPlayer, the chipmaker in early iPods, cost about $357 million in 2006, only seven months after Apple had dropped it and its shares had crashed. The bet then became Tegra.",
+          "howStarted": "Huang says Google's push to turn Android into a real mobile computer around 2010 opened the door. Early wins included Motorola's Xoom and Atrix and Google's Nexus 7.",
+          "funding": "Nvidia's own cash, supported by the profits from GeForce.",
+          "whatHappened": "Sales first surged. Then rivals swarmed in, as modem makers learned computing while Nvidia tried to learn modems. Tegra revenue fell from $764 million in fiscal 2013 to $398 million in fiscal 2014, and one analysis put the unit's loss above $400 million in the first three quarters. In 2015 Huang said flatly that Nvidia had decided not to do phones any more. Tegra then found homes in cars and the Nintendo Switch.",
+          "lesson": "A giant market you cannot win is worth less than a tiny market you can own. Quit when your edge is gone, even if the market is booming.",
+          "src": [
+            38,
+            36,
+            37,
+            7,
+            44,
+            45,
+            46,
+            47,
+            121
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Icera modems",
+          "years": "2011–2015",
+          "outcome": "shut",
+          "idea": "Own the second key chip in a phone, the modem that talks to the network. Icera's trick was a software-defined modem that could be updated for new network standards.",
+          "decision": "Nvidia wanted to sell both main phone chips and so double what it earned per phone. At first Huang said he had no plan to merge modem and processor on one chip. That turned out to be exactly what the market wanted.",
+          "howStarted": "Bought in May 2011. Icera came with more than 550 patents and approvals from more than 50 phone networks. Its people were mostly in Britain and France.",
+          "funding": "==$367 million== in cash from Nvidia.",
+          "whatHappened": "The integrated chip, Tegra 4i, landed in only a handful of devices. On 5 May 2015 Nvidia said it would wind Icera down, with about 500 employees affected, and that it would buy modems from others. Even in 2017, $271 million of goodwill from the deal still sat on the books, more than any other past purchase.",
+          "lesson": "If you buy a company to enter a market, check first what customers will want in three years, not what the seller's slides say.",
+          "src": [
+            39,
+            40,
+            41,
+            42,
+            44,
+            43
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Project Denver server CPU",
+          "years": "2011–2014",
+          "outcome": "shut",
+          "idea": "Design Nvidia's own main processors, based on Arm designs, and pair them with graphics chips in everything from PCs to servers and supercomputers.",
+          "decision": "The Intel settlement gave Nvidia no licence for Intel-compatible processors. So Arm was the obvious route into main processors, and into the part of the data centre that graphics alone could not reach.",
+          "howStarted": "Announced in 2011 as a big new direction.",
+          "funding": "Internal research and development money, in the same years when R&D spending passed $1 billion a year.",
+          "whatHappened": "In 2014 a senior Nvidia executive said a dedicated server CPU was not something the company was doing. Years later the idea came back. In 2026 Nvidia unveiled its Vera processor, with big AI customers lined up.",
+          "lesson": "A cancelled idea is not always a dead idea. It can be right and early, so write down why you stopped and what would change your mind.",
+          "src": [
+            48,
+            49,
+            77,
+            131
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "SHIELD and GeForce NOW",
+          "years": "2013–today",
+          "outcome": "running",
+          "idea": "Nvidia's own branded gaming gadgets, starting with a handheld Android device, then a TV box, plus cloud gaming that streams games from Nvidia's data centres.",
+          "decision": "After leaving phones, Huang needed new homes for Tegra and for gaming. He called Android the next big gaming platform and said he would be disappointed if SHIELD did not sell tens or hundreds of millions of units over time.",
+          "howStarted": "SHIELD began as an internal project announced in 2013. GeForce NOW launched to the public in February 2020 at $4.99 a month.",
+          "funding": "Internal cash flow.",
+          "whatHappened": "We could not find any Nvidia figure showing SHIELD reached those numbers. GeForce NOW hit a different wall: within weeks, Activision Blizzard and most of Bethesda's games were pulled from the service. Both products carried on as small side lines.",
+          "lesson": "Your own excitement is not market research. Also check who actually controls the thing your product depends on.",
+          "src": [
+            46,
+            47,
+            122,
+            123,
+            131,
+            130
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bets that changed everything"
+        },
+        {
+          "t": "venture",
+          "name": "CUDA",
+          "years": "2006–today",
+          "outcome": "running",
+          "idea": "Software that lets programmers use a graphics chip for any heavy maths, not just games. It turns a gaming card into a small supercomputer.",
+          "decision": "Huang decided to put CUDA into every GeForce, even though gamers would not pay for it, because a programming platform lives or dies by how many machines already run it. He also gave up profit to do it.",
+          "howStarted": "A Stanford student, Ian Buck, had hacked GeForce cards into a cheap supercomputer. Nvidia hired him, and he has led the software since 2004. It launched in late 2006, and Huang says the audience sat in silence.",
+          "funding": "Nvidia's own profits, at great cost. Huang says it raised the cost of each chip by about 50% at a company with roughly 35% gross margin. R&D spending from 2006 to 2017 came to nearly $12 billion.",
+          "whatHappened": "Customers were few and odd, including a General Mills project to simulate cooking frozen pizza. Downloads peaked in 2009 and then fell for three years. Then in 2012 two University of Toronto students trained AlexNet on two GeForce cards, and AI came to CUDA.",
+          "lesson": "Build your platform years before the killer app exists, then stay alive until it appears. Nobody can copy ten years of head start in a hurry.",
+          "src": [
+            4,
+            34,
+            5,
+            35,
+            7
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "DGX-1, the AI supercomputer",
+          "years": "2016–today",
+          "outcome": "running",
+          "idea": "One box built only for training AI, with eight linked Nvidia chips, sold as a ready-made supercomputer.",
+          "decision": "Huang concluded after AlexNet that neural networks would change software itself. Around 2013, he sent a Friday-night email saying everything would go to deep learning. An Nvidia vice-president recalled that by Monday they were an AI company.",
+          "howStarted": "About 3,000 people worked on it for three years. It was announced in April 2016 at a price of $129,000.",
+          "funding": "Nvidia's own cash. Nvidia's estimate of the cost was about $2 billion, and Huang later said a few billion.",
+          "whatHappened": "Huang says he had no purchase orders at all. The one taker was Elon Musk, for a nonprofit called OpenAI. So in August 2016 Huang drove the first one to San Francisco and donated it. Systems that grew out of that idea now earn the company most of its money. Data centre revenue reached $193.7 billion in fiscal 2026.",
+          "lesson": "When nobody will buy your new thing, put it in the hands of the smartest people you can find. That was the best marketing Nvidia ever did.",
+          "src": [
+            4,
+            54,
+            55,
+            52,
+            5,
+            53,
+            81
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I had no purchase orders, not one.",
+          "who": "Jensen Huang on the launch of the DGX-1, The Joe Rogan Experience, 2025",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Mellanox",
+          "years": "2019–2020",
+          "outcome": "merged",
+          "idea": "Buy the world's best high-speed links between computers. If AI needs tens of thousands of chips working as one machine, the wiring matters as much as the chips.",
+          "decision": "An activist fund, Starboard, had helped push Mellanox towards a sale. Huang was not looking for it, but he joined the auction in October 2018. Intel and Xilinx bid up to about $122.50 a share. Nvidia won at $125.",
+          "howStarted": "Won on 7 March 2019 and completed on 27 April 2020, after regulators, including China's, had approved it.",
+          "funding": "All cash from Nvidia. The headline was $6.9 billion and the final accounting total was $7.13 billion.",
+          "whatHappened": "Nvidia's whole networking line reached $31.4 billion in revenue in fiscal 2026 alone, more than four times the full price paid. China's regulator said in a preliminary finding in 2025 that Nvidia had broken conditions attached to the deal.",
+          "lesson": "See what the next bottleneck will be, then buy it before everyone else notices. A great deal can start as somebody else's fight.",
+          "src": [
+            14,
+            61,
+            82,
+            99
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We never should have exited the position.",
+          "who": "Jeff Smith of Starboard Value, which sold its Nvidia stake by 2014, via Tae Kim",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "The attempt to buy Arm",
+          "years": "2020–2022",
+          "outcome": "failed",
+          "idea": "Buy Arm, the British firm whose chip designs are licensed for smartphones, cars and data centres, from its owner SoftBank.",
+          "decision": "This was Huang's biggest gamble on a deal. Rivals licensed Arm's designs, so owning Arm meant owning a supplier to all of them. That was exactly what made the regulators nervous.",
+          "howStarted": "Signed on 13 September 2020 and valued at $40 billion at the time. Part of the price was Nvidia stock, and by December 2021 Reuters put the value above $80 billion.",
+          "funding": "$2 billion in cash at signing, and the plan was $10 billion more in cash and 44.3 million Nvidia shares at closing.",
+          "whatHappened": "The US FTC sued to block the deal on 2 December 2021, and the UK and EU were also investigating. On 7 February 2022 the two sides gave up. SoftBank kept the $1.25 billion prepayment and Nvidia took a $1.36 billion charge, but it kept a 20-year Arm licence.",
+          "lesson": "When you are big enough, the government is one of your stakeholders. Price in regulators before you price the deal, and get a useful fallback in writing.",
+          "src": [
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The shopping spree of the AI boom"
+        },
+        {
+          "t": "p",
+          "text": "Once the cash arrived, Huang started buying again, and regulators watched closely. Run:ai, an Israeli startup that squeezes more work out of each chip, cost about $700 million and closed in December 2024 only after an EU review. The next two deals were far larger.",
+          "src": [
+            97
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Groq",
+          "years": "2025–today",
+          "outcome": "running",
+          "idea": "Groq, founded by people who created Google's TPU AI chip, built chips aimed at inference, the step where a trained AI actually answers you.",
+          "decision": "Rather than a normal takeover, the deal was framed as a non-exclusive technology licence, with the founder and key leaders moving to Nvidia. Reuters placed it in a wider spree of Big Tech deals for AI talent.",
+          "howStarted": "Agreed in December 2025. The lead investor in Groq said the deal came together quickly.",
+          "funding": "About $20 billion in cash, according to that investor, Disruptive's Alex Davis. Neither Nvidia nor Groq stated a price. Groq had been valued at $6.9 billion three months earlier.",
+          "whatHappened": "Groq said it would stay independent under a new CEO. By August 2026 Nvidia reported that a Groq-branded inference product was in full production.",
+          "lesson": "Watch for the rival who could make your product unnecessary, and be willing to pay up early.",
+          "src": [
+            93,
+            94,
+            77
+          ]
+        },
+        {
+          "t": "venture",
+          "name": "Hugging Face",
+          "years": "2026–pending",
+          "outcome": "running",
+          "idea": "Hugging Face is the main meeting place for open AI models, with more than 18 million developers and more than 3 million models.",
+          "decision": "Open models keep demand for chips broad, so that a few closed labs are not the only big buyers. Nvidia promised to keep the platform open, including for other chip makers.",
+          "howStarted": "A definitive agreement was signed on 2 September 2026.",
+          "funding": "About $11.9 billion to stockholders and up to about $1 billion in retention stock for staff. Huang gave a total of $12,930,300,000 on Nvidia's blog.",
+          "whatHappened": "As of 2 November 2026 the deal was not done. Closing is expected in the first half of 2027, subject to regulators.",
+          "lesson": "Own the place where your customers' developers gather. Then keep it open enough that they do not leave.",
+          "src": [
+            95,
+            96
+          ]
+        },
+        {
+          "t": "h",
+          "text": "His own money"
+        },
+        {
+          "t": "venture",
+          "name": "The Jen-Hsun & Lori Huang Foundation",
+          "years": "2007–today",
+          "outcome": "running",
+          "idea": "A private charity funded with Nvidia stock. In practice it is the only other large pot of money tied to Huang's name.",
+          "decision": "He and Lori fund it by giving shares. A foundation must give away about 5% of its assets each year, so the rising share price keeps forcing the giving up.",
+          "howStarted": "Set up in 2007. Inside Philanthropy reported in 2024 that it had no listed staff and no website.",
+          "funding": "It began with 370,000 Nvidia shares, then worth $12.6 million.",
+          "whatHappened": "Assets reached $9.2 billion at the end of 2024. It gave about $126 million that year, and about $82 million of that went to a donor-advised fund, where the final recipients need not be disclosed. Critics have pointed to that opacity. Oregon State, where the couple met, is its biggest visible beneficiary.",
+          "lesson": "If you give stock early, it can grow into a far bigger gift. But size is not the same as impact, and people will ask where the money went.",
+          "src": [
+            113,
+            114,
+            115
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That is the whole list. The chapters below tell the same story in order, with the scenes and the numbers that the summaries leave out. Keep one number in mind as you read. Before its first profitable quarter, Nvidia lost money for ==about four and a half years==.",
+          "src": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "1993–1999",
+      "title": "Thirty Days From Death",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "The money, round by round"
+        },
+        {
+          "t": "p",
+          "text": "Startups sell slices of themselves in “rounds”, usually named Series A, B, C. If each round is sold at a higher price, people believe the company is getting more valuable. Nvidia's stock-market filing lists every round it did in those years, and they tell a story that speeches leave out. Read this list like a medical chart.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1993",
+              "text": "Series A: 4,303,000 shares at $0.50, about $2.15 million. Sequoia and Sutter Hill back three engineers with no product.",
+              "src": [
+                1,
+                0
+              ]
+            },
+            {
+              "when": "1994–95",
+              "text": "Series B: about 2.8 million shares at $1.80, about $5 million. The price is more than three times higher.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "July 1995",
+              "text": "Series C: 750,000 shares at $6.67, exactly $5 million, bought by the partner on the NV2 console chip.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "1996",
+              "text": "ST pays $2.5 million as an advance on future royalties. In 1998 it forgives the advance in return for support work.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "Aug–Sep 1997",
+              "text": "Series D: 1,438,812 shares at $5.26, about $7.6 million. The price has gone down.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "Jul–Aug 1998",
+              "text": "Customers Creative, Diamond and STB lend $11 million through notes that convert into shares.",
+              "src": [
+                1
+              ]
+            },
+            {
+              "when": "22 Jan 1999",
+              "text": "IPO: 3.5 million shares at $12, raising $42 million before fees.",
+              "src": [
+                1,
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Look at Series D. The price fell from $6.67 to $5.26. That is called a down round, meaning new investors pay less than the last ones, and most founders treat it as a public embarrassment. Nvidia sold those shares in the same weeks that its rescue chip began to ship. __Even with a hit product arriving, investors would not pay the old price.__",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Add up the private rounds and you get about ==$19.8 million==. That is the “$20 million of venture capital” in most accounts of Nvidia. Four rounds and two failed chips, spread over more than four years.",
+          "src": [
+            1,
+            12
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders: a down round did not kill Nvidia."
+        },
+        {
+          "t": "h",
+          "text": "What the Sega story really was"
+        },
+        {
+          "t": "p",
+          "text": "The Sega tale is usually told as a single act of kindness. It was, but the paperwork is more interesting. Nvidia's own prospectus records a May 1995 five-year alliance with an unnamed partner to build “the NV2”, which is the chip Huang has always tied to Sega. That partner paid $2 million in 1995 and $3 million in 1996, and neither payment had to be returned.",
+          "src": [
+            1,
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The same partner also bought $5 million of stock in July 1995. So there were two sums of $5 million: one for the work and one for the shares. That may be why Huang's own retellings differ. In one, Sega simply kept paying. In another, he asked to turn the last $5 million into an investment. __The filing suggests both pots of money were real, and the total was closer to ten million dollars.__",
+          "src": [
+            1,
+            0,
+            5
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the filing says, in dry accountant's language, that the partner “revised its product development plans” and that Nvidia stopped work in 1996. Behind that sentence is a 33-year-old CEO in Japan telling an older executive that his technology did not work, that Sega should hire someone else, and that he still needed the money.",
+          "src": [
+            1,
+            5
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inside the company, things were ugly. According to Stephen Witt, what began as a private technical argument between Huang and his co-founder and CTO, Curtis Priem, turned into shouting in front of staff. Priem wanted to stay on the NV2 path. Huang wanted customers to stop returning the product. Graphics expert David Kirk, who arrived in 1996, took one look and insisted on being handed a paper cheque every week, because he doubted the company would last.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He asked to be paid weekly. By hand. That's how bad it looked."
+        },
+        {
+          "t": "h",
+          "text": "One shot"
+        },
+        {
+          "t": "p",
+          "text": "Huang cut the staff from about 100 to a small crew and then did the maths. A normal chip takes months in the factory, then comes back with bugs, then goes round again. Nvidia could not afford a second round. He has said there was about $1 million left and that he spent half of it on an emulator from a firm he calls Icos. He also says he walked into a store with $200 in his pocket and bought his architects the only three copies of a Silicon Graphics textbook, at $60 each, because nobody at Nvidia knew how to build 3D the right way.",
+          "src": [
+            5,
+            3,
+            4,
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The emulator was slow and ugly, with cables all over the floor, and the staff shoved the ping-pong table aside to make room for it in the break room. Dwight Diercks ran it by day and Kirk by night. They tested the drivers and games on a chip that did not exist yet. Huang remembers the seller as going out of business, though filings show IKOS, the emulator maker of that name, carried on until Mentor Graphics bought it in 2002. Huang says this made Nvidia the first chip company to emulate a chip like this before making it, and that the method later became normal.",
+          "src": [
+            3,
+            10,
+            0,
+            5,
+            124,
+            125
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the hard part: ordering production without a working sample. Huang has said the odds were fifty-fifty, and that the company was going out of business anyway. __That is the logic of a real bet. When the alternative to risk is certain death, the risky choice is the safe one.__",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "RIVA 128 worked, and it reached shops in August 1997 with one month of payroll left. It sold about a million units in four months. For the first time, Nvidia's slogan felt earned, and Huang kept using it to open staff presentations for years.",
+          "src": [
+            4,
+            1,
+            0
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Our company is thirty days from going out of business.",
+          "who": "Jensen Huang's opening line to staff for years, via The New Yorker",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$1.18M",
+              "label": "Revenue in 1995, the NV1 year",
+              "src": [
+                1
+              ]
+            },
+            {
+              "value": "$3.9M",
+              "label": "Revenue in 1996, the year of cuts",
+              "src": [
+                1
+              ]
+            },
+            {
+              "value": "$29.1M",
+              "label": "Revenue in 1997, with RIVA 128 from August",
+              "src": [
+                1
+              ]
+            },
+            {
+              "value": "$17.1M",
+              "label": "Total losses since founding, as of Oct 1998",
+              "src": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The letter to Morris Chang"
+        },
+        {
+          "t": "p",
+          "text": "One of the best stories in the business began with a stamp. Nvidia had tried TSMC's San Jose sales office and heard nothing. So Huang wrote directly to Morris Chang, TSMC's founder in Taiwan. By Chang's own account, the letter made him curious and a little annoyed with his own sales team.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Chang then phoned while on a trip to California. Huang picked up with an argument going on behind him, and he shouted at the room: “Quiet. Morris Chang is calling me.” At their first meeting Huang admitted that Nvidia was in financial trouble and promised to become a major customer anyway. Chang took that to mean at least $50 million a year. Within two or three years, Nvidia was among TSMC's five biggest customers.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "One detail is usually lost. The prospectus says Nvidia “in the past utilized ST” and that TSMC made the later RIVA128ZX and RIVA TNT. Nvidia's own timeline dates its TSMC partnership to March 1998, and Huang told a Computer History Museum audience in 2007 that the work started the year after they met. So the first RIVA 128 chips appear to have come from ST and not from TSMC, whatever the popular version says.",
+          "src": [
+            1,
+            11,
+            9
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Cold letter, CEO to CEO. It still works. Write the letter."
+        },
+        {
+          "t": "h",
+          "text": "Intel comes for the kids"
+        },
+        {
+          "t": "p",
+          "text": "Survival lasted about a season. In late 1997 Intel told the industry it was bringing out its own graphics chip, the i740, with twice the memory of the RIVA 128. Tae Kim reports that Intel was then about 860 times Nvidia's size by revenue, and Nvidia's orders began to shrink. Huang told the company that Intel wanted it gone, and that it had to strike first.",
+          "src": [
+            15,
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The rescue came from an engineer's paranoia. During the first RIVA rush, he had left spare room on the chip. Now that space let the team rework the wiring to handle 8MB of memory, and a new RIVA128ZX appeared just 11 days after Intel's launch. It cost $32 against Intel's $28 and was faster, and that was enough to hold Nvidia's place.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Going public anyway"
+        },
+        {
+          "t": "p",
+          "text": "An IPO, or initial public offering, is when a private company first sells shares to anyone on a stock market. It brings in money, and also forces the company to publish its secrets. The Nvidia prospectus reads like a list of reasons not to buy. It lists 184 employees, losses in two of the three most recent quarters, and a warning that losing key people, “particularly” Jen-Hsun Huang, could hurt the business.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The timing looked terrible. SGI, S3 and 3dfx had all filed patent suits in 1998. Then 3dfx agreed to buy STB, the customer that had made up 63% of Nvidia's 1997 revenue. Nvidia's biggest customer was being bought by one of its fiercest rivals. __Nvidia went public anyway, and it told buyers about all of this in plain print.__",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On 22 January 1999, underwriters led by Morgan Stanley sold 3.5 million shares at $12 each. It raised $42 million before fees, and the shares closed the first day at $19.6875, up 64%. Nvidia was now worth $626.1 million. Huang was 35, and his family's 3.1 million shares fell from 13.1% of the company to 10.8%.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: at that first-day close his 3.1 million shares were worth about $61 million on paper. Then look at $1,000 of stock bought at the $12 IPO price. After six stock splits that would be 40,000 shares today, worth about $8.2 million at the 30 October 2026 close of $204.64, before counting dividends.",
+          "src": [
+            1,
+            2,
+            111,
+            108
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "What to take from the first six years",
+          "text": "Nvidia did not win by avoiding mistakes. It made nearly every mistake a startup can make, then survived each one with honesty, speed and very thin margins for error. Tell partners the truth early. Keep your burn low enough to survive one more try. And treat any scary number, a down round or a lost customer, as information and not as a verdict on you."
+        }
+      ]
+    },
+    {
+      "id": "the-long-wait",
+      "kicker": "2000–2015",
+      "title": "Fifteen Years of Being Doubted",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "After the GeForce 256 launched in 1999, Nvidia began calling its chip a GPU, a graphics processing unit. Its marketing chief later admitted they invented the category so that they could lead it. Sales rocketed, reaching $1.37 billion in fiscal 2002. Then came a long stretch that people forget. For well over a decade, Nvidia was a good company that Wall Street could not get excited about.",
+          "src": [
+            4,
+            20
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The accounting problem"
+        },
+        {
+          "t": "p",
+          "text": "In February 2002 Nvidia disclosed that the US Securities and Exchange Commission was looking at its books. That April it restated three years of results. Most of the changes were small and the three-year total actually rose by about $1.3 million. One quarter, however, stood out.",
+          "src": [
+            25,
+            26
+          ]
+        },
+        {
+          "t": "p",
+          "text": "According to the SEC's order, Nvidia in early 2000 got a supplier to cut $3.3 million of costs in one quarter in exchange for a promise to pay it back through higher prices later. The deal was split into two documents, and the auditors saw only one. That lifted reported net income for the quarter by 15.3% and helped beat Wall Street's forecasts. The order described this as accounting misconduct.",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The outcome: in September 2003 Nvidia agreed to a cease-and-desist order, without admitting or denying the findings, and it paid no fine. The then CFO settled separately, paid back about $494,000 plus interest and a $75,000 penalty, and was suspended from practising before the SEC. __A $3.3 million move brought a year and a half of investigation down on a company that would soon earn billions.__",
+          "src": [
+            23,
+            25,
+            24
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Never fudge the small number. The small number is what ends careers."
+        },
+        {
+          "t": "h",
+          "text": "Falling behind, then coming back"
+        },
+        {
+          "t": "p",
+          "text": "Around the same time, the GeForce FX flopped and ATI got its new chips out first. Revenue dipped 5% in fiscal 2004 as Xbox sales fell, and gross margin sat at 29%. Huang responded with the very public failure review described earlier. By the end of 2007, Forbes had named Nvidia its Company of the Year and described a four-year climb from trailing to dominant.",
+          "src": [
+            20,
+            4,
+            27,
+            127,
+            130
+          ]
+        },
+        {
+          "t": "h",
+          "text": "CUDA, the bet that looked insane"
+        },
+        {
+          "t": "p",
+          "text": "Then, near the top, he did something that dismayed Wall Street. CUDA arrived in late 2006, and Huang decided every gaming chip would carry it. Gamers would not pay extra for it. He says it swallowed the company's gross profit dollars for a time, and his managers knew margins would get crushed.",
+          "src": [
+            4,
+            34
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: think of a car maker adding a jet engine to every family car at no extra charge, on the theory that one day people might want to fly. Huang says the chip's cost rose by about 50%, in a company that kept only about 35 cents of each sales dollar after making the product.",
+          "src": [
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By the end of 2008 Nvidia's shares had lost about three quarters of their value, though the financial crisis and other problems played their part. Then, for years, the market value barely moved. One count has it stuck between about $8.5 billion and $10 billion from 2009 to 2015, while the company kept pouring money into research. It spent nearly $12 billion on R&D from 2006 to 2017, with much of it going to CUDA. Bryan Catanzaro, who leads its applied deep-learning research, recalled that it took about ten years for Wall Street to believe.",
+          "src": [
+            33,
+            4,
+            35
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Even the early AI story had a comic low point. In 2009 Geoffrey Hinton told a room of a thousand researchers to buy Nvidia cards, then asked Nvidia for a free one. It said no. __Your future can walk in the door, ask for a sample, and be turned away by someone following the rules.__",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Hinton asked for one free card. They said no. Read that twice."
+        },
+        {
+          "t": "h",
+          "text": "2008, the worst year"
+        },
+        {
+          "t": "p",
+          "text": "The bad news came in a pile in 2008. On 2 July, Nvidia said some laptop chips were failing at high rates because of weak materials and that it would take a charge of up to $200 million. The stock fell 31% in a day, to $12.98, as a later lawsuit noted. HP alone listed 24 affected laptop models and Dell 15. Huang told analysts the failures were a small share of chips, but that laptop repairs were expensive.",
+          "src": [
+            28,
+            29
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The $196 million estimate was far too low. By August 2010, the total charge had grown to ==$475.9 million==, and that quarter ended in a $141 million loss. Nvidia settled the laptop owners' class action while denying wrongdoing. In September 2008 it cut about 360 jobs, or 6.5% of staff, with shares already down more than 65% for the year.",
+          "src": [
+            30,
+            31,
+            133
+          ]
+        },
+        {
+          "t": "p",
+          "text": "With the shares crushed, many staff stock options were worth little, which is dangerous for a company that lives on its engineers. So in 2009 Nvidia paid cash to buy options back through a tender offer, and took a $140.2 million charge. It was money spent on keeping people. At the low in November 2008, the whole company was worth about $3.3 billion, or about five days of its profit in mid-2026.",
+          "src": [
+            32,
+            33,
+            77
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Pizza, salad and $100 million"
+        },
+        {
+          "t": "p",
+          "text": "Here is a little-known scene from the same years. TSMC's new 40-nanometre chip process had serious problems, and Nvidia took the worst of the damage. Huang had asked for compensation and an arbitrator. TSMC's then CEO offered him nothing. When Morris Chang took the job back, he spent almost half of his first weeks on this one dispute.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then he emailed Huang to say he was coming over for salad and pizza. They ate at Huang's home and did not discuss business until exactly eight. In Huang's study, Chang made an offer of more than ==$100 million==, good for 48 hours and not open to bargaining. Huang took it within two days. __A partnership that survives a fight over money is worth more than one that has never been tested.__",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Beating Intel without beating Intel"
+        },
+        {
+          "t": "p",
+          "text": "Intel was the giant in the room for all these years. It planned to enter graphics with a chip called Larrabee, which helped push UBS to tell clients to sell Nvidia in 2008. It also sued in 2009 over the chipset licence. Then in December 2009, Intel said the first Larrabee would not be sold as a retail product. And in January 2011 it agreed to pay Nvidia $1.5 billion in instalments over six years.",
+          "src": [
+            31,
+            49,
+            51
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So one of Nvidia's main funders during the long CUDA years was, in a way, its biggest enemy. Huang has joked about the relationship, saying he picks up his chips and runs whenever Intel comes near.",
+          "src": [
+            4,
+            49
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The activist at the door"
+        },
+        {
+          "t": "p",
+          "text": "By early 2013 the board was scared. The whole company was worth about $8 billion, and about $3 billion of that was cash. Longtime director Jim Gaither said they did everything they could to protect Nvidia from an activist investor, meaning a fund that buys shares and then pressures a company to change. One arrived anyway: Starboard Value built a $62 million stake.",
+          "src": [
+            14,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Executives feared Starboard would force cuts to CUDA, which would have ended the AI story before it began. It instead pushed for share buybacks and less spending on phone chips, and it got the buybacks: a $1 billion commitment plus a further $1 billion authorised. The shares rose about 20% and Starboard sold out by March 2014. Huang has said he does not particularly remember what they discussed.",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The retreat"
+        },
+        {
+          "t": "p",
+          "text": "Starboard was right about phones, though Huang had to learn it himself. In the 2023 speech to graduates in Taipei, he described leaving the phone market as a hard choice: a giant market given up on purpose, in order to work on robots and cars that hardly anyone was buying. Automotive reached $2.35 billion in revenue in fiscal 2026, a fraction of the whole but far from nothing.",
+          "src": [
+            7,
+            82
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "By leaving the phone market, we opened our minds to invent a new one.",
+          "who": "Jensen Huang, National Taiwan University commencement, 2023",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "What to take from the long wait",
+          "text": "Most of Nvidia's value was created by a decision that looked stupid for ten years. To do that yourself you need three things: a core business that pays the bills, a reason you can explain from first principles, and the stubbornness to ignore a stock price. But stubbornness is not the same as being right. In the same years Huang was also wrong about phones and modems, and he quit those. The skill is knowing which of your bets is which."
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "kicker": "2016–2026",
+      "title": "From Zero Billion to Five Trillion",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Huang liked to say Nvidia invests in “zero billion dollar markets”, meaning markets that do not yet exist. In 2016 the market for AI computers was still close to that: the DGX-1 launched to silence. Researchers were excited, but the big money had not arrived. Then a side-show nearly derailed the main event.",
+          "src": [
+            0,
+            5
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The crypto hangover"
+        },
+        {
+          "t": "p",
+          "text": "In 2017 cryptocurrency prices soared, and miners bought gaming cards in huge numbers to mine coins. Nvidia's gaming revenue jumped 52% in one quarter and 25% in the next compared with a year before. In late 2018 crypto crashed. Unsold cards piled up in shops. On 15 November 2018 Nvidia cut its forecast, Huang called it a crypto hangover, and the stock fell 28.5% over two trading days.",
+          "src": [
+            132,
+            59
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The legal cleanup took eight years. In May 2022 the SEC found that Nvidia had failed to disclose that crypto was a significant factor in its gaming growth. Nvidia paid a $5.5 million penalty without admitting or denying the findings. Separately, investors sued Nvidia and Huang for fraud. The Supreme Court heard the case and then dismissed Nvidia's appeal in December 2024, a judge certified a class in March 2026, and in October 2026 investors told the court they had reached a deal. Nvidia had fought the case for years. We could not read the deal's terms, and the claims were never decided at trial.",
+          "src": [
+            56,
+            57,
+            58,
+            60,
+            135
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Boom revenue can vanish in a month. Know where your sales really come from."
+        },
+        {
+          "t": "h",
+          "text": "The two big deals"
+        },
+        {
+          "t": "p",
+          "text": "Then came two moves that showed Huang's new idea: the entire data centre should work like a single computer. Mellanox, won in an auction in 2019, gave Nvidia the connections between chips. Arm, attempted in 2020, would have given it the processor designs too. One deal became a triumph, and one was blocked. Nvidia's fate turned out to depend far more on the first.",
+          "src": [
+            14,
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Huang has explained how he prepares people for moves like this. He talks about an idea, step by step, with his board and staff for a long time before announcing it. By the day of the announcement, he hopes, people ask why it took so long. So Mellanox did not seem like a surprise inside the company, and neither did the turn to AI.",
+          "src": [
+            34
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The 2022 slump, right before the boom"
+        },
+        {
+          "t": "p",
+          "text": "Few people remember how bad it looked just before ChatGPT. In the quarter ending July 2022, revenue fell 19% from the quarter before, gross margin fell from 65.5% to 43.5%, and profit dropped 59%. In October 2022 the US blocked sales of its best AI chips to China. For fiscal 2023, revenue was flat at $26.97 billion and earnings per share fell by more than half.",
+          "src": [
+            68,
+            67,
+            99
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then, in November 2022, a chatbot trained on Nvidia supercomputers went public. On 24 May 2023 Nvidia forecast $11 billion in sales for the next quarter, when analysts expected $7.15 billion. The stock jumped 24% the next day and added about $184 billion in value. __Huang told CNBC the killer app had shown up, 17 years after CUDA was built for one.__",
+          "src": [
+            70,
+            69,
+            4
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "30 May 2023",
+              "text": "Nvidia touches a $1 trillion market value for the first time.",
+              "src": [
+                71
+              ]
+            },
+            {
+              "when": "5 Jun 2024",
+              "text": "It closes at about $3.01 trillion and passes Apple as the world's No. 2.",
+              "src": [
+                72
+              ]
+            },
+            {
+              "when": "27 Jan 2025",
+              "text": "DeepSeek scare: shares fall 17% and about $589 billion disappears, the biggest one-day loss in US market history.",
+              "src": [
+                75,
+                76
+              ]
+            },
+            {
+              "when": "9 Jul 2025",
+              "text": "First company ever to reach $4 trillion, during trading.",
+              "src": [
+                73
+              ]
+            },
+            {
+              "when": "29 Oct 2025",
+              "text": "First company ever to reach $5 trillion.",
+              "src": [
+                74
+              ]
+            },
+            {
+              "when": "7 Oct 2026",
+              "text": "Shares near a record, with a market value of about $5.8 trillion.",
+              "src": [
+                84
+              ]
+            },
+            {
+              "when": "30 Oct 2026",
+              "text": "Shares fall 4.2% as doubts over AI spending grow. Apple passes Nvidia at $5.03 trillion against $4.93 trillion.",
+              "src": [
+                83
+              ]
+            }
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$27.0B",
+              "label": "Revenue, fiscal 2023 (to Jan 2023)",
+              "src": [
+                67
+              ]
+            },
+            {
+              "value": "$60.9B",
+              "label": "Revenue, fiscal 2024",
+              "src": [
+                82
+              ]
+            },
+            {
+              "value": "$130.5B",
+              "label": "Revenue, fiscal 2025",
+              "src": [
+                81
+              ]
+            },
+            {
+              "value": "$215.9B",
+              "label": "Revenue, fiscal 2026 (to Jan 2026)",
+              "src": [
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Those numbers are hard to take in. In the quarter ended July 2026 alone, revenue was $96.2 billion and net income was $59.7 billion, with data centres making up about 92% of sales. Its gross margin was 75%. The company that once kept 35 cents of each sales dollar now keeps 75 cents. Nvidia also forecast about 70% growth for the following fiscal year, and said supply was the limit.",
+          "src": [
+            77,
+            78,
+            79,
+            34,
+            80
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Nvidia's IPO in 1999 raised $42 million in total. In the quarter ended July 2026, Nvidia earned about $59.7 billion after tax, or roughly $650 million per day. So it now makes the entire proceeds of that IPO about every hour and a half.",
+          "src": [
+            1,
+            77
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The company that raised $42 million now earns that every 90 minutes."
+        },
+        {
+          "t": "h",
+          "text": "Rivals, and who is really the threat"
+        },
+        {
+          "t": "p",
+          "text": "The old rivals were never quite beaten. AMD stayed in the fight, and by late September 2026 one tracker valued it at close to $1 trillion. But the newer threat comes from customers. Companies like Google and OpenAI are developing their own chips, and just three direct customers made up 44% of Nvidia's sales in the first half of fiscal 2027. Groq's founders, remember, helped create Google's AI chip.",
+          "src": [
+            134,
+            70,
+            79,
+            84,
+            94
+          ]
+        },
+        {
+          "t": "h",
+          "text": "China, the market that keeps closing"
+        },
+        {
+          "t": "p",
+          "text": "Before US export curbs tightened, Nvidia held about 95% of China's advanced chip market. Then came a seesaw. Sales of top chips were blocked in October 2022. Nvidia designed a weaker chip for China, the H20, and in April 2025 the US effectively blocked it too, leading to an expected $5.5 billion charge. In August 2025 Nvidia and AMD agreed to hand the US government 15% of certain China sales, which was a remarkable arrangement.",
+          "src": [
+            102,
+            99,
+            98
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In December 2025 President Trump allowed sales of the stronger H200, with a 25% cut for the US. Beijing then discouraged buyers. Huang joined Trump's May 2026 trip to Beijing. By August 2026, H200 sales were under 1% of data-centre revenue, and Nvidia's forecast assumed no data-centre compute revenue from China at all. China's regulator has also said, in a preliminary finding, that Nvidia broke conditions on the Mellanox deal. That matter was still open in what we could find.",
+          "src": [
+            101,
+            100,
+            102,
+            77,
+            99
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The new worry: paying its own customers"
+        },
+        {
+          "t": "p",
+          "text": "The newest bets are not chips. Nvidia now invests in its own customers. It put $5 billion into Intel in 2025, committed up to $10 billion to Anthropic and finished a ==$30 billion== investment in OpenAI in 2026. That last one replaced a much-publicised plan for up to $100 billion. Nvidia told investors in August 2026 that it had invested nearly $50 billion in frontier AI labs.",
+          "src": [
+            88,
+            87,
+            85,
+            86,
+            80
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In August 2026 it went further. Nvidia signed guarantees of up to ==$105 billion== so OpenAI could lease a giant data centre in Ohio from SB Energy, and it would have to cover shortfalls if OpenAI could not pay. OpenAI would then fill the site with Nvidia equipment. Payments are not expected to begin before 2028, and OpenAI has agreed to reimburse Nvidia for anything it pays out.",
+          "src": [
+            89,
+            90
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Critics call this “circular financing”, because the seller helps fund the buyer who buys its products. Fortune noted that the reported $250 billion figure had come down to $105 billion, and that the shares fell about 4.5% when the larger number surfaced. Bank of America estimated total potential commitments near $300 billion, according to IFR. Huang says it is not circular financing, and he has said his only regret on such stakes is not investing more and sooner. __Both things can be true: real demand and real risk.__",
+          "src": [
+            91,
+            92,
+            90,
+            78
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The only regret that I have is that I didn't invest more and sooner.",
+          "who": "Jensen Huang on stakes in AI labs, earnings call, via CNBC, Aug 2026",
+          "src": [
+            78
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The last weeks before this book was checked showed the mood. Between early October and 30 October 2026, Nvidia's value fell by close to $900 billion. Forbes had Huang's fortune at $204.5 billion on 2 October and $177.5 billion on 1 November. Nvidia's chips had not changed in those weeks. Investors' belief had. __At this scale, the risk is no longer that the company dies in 30 days, but that a whole industry changes its mind.__",
+          "src": [
+            84,
+            83,
+            104,
+            103
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-fortune",
+      "kicker": "As of 2 November 2026",
+      "title": "Where the Money Sits",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most billionaires own a mix of things. Huang mostly owns one. Forbes valued him at ==$177.5 billion== as of 1 November 2026, the seventh-richest person in the world. Almost all of it is Nvidia shares, and we found no sign of any large outside business. When Nvidia moves by $10 a share, he moves by about $8 billion.",
+          "src": [
+            103,
+            108
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$177.5B",
+              "label": "Forbes real-time net worth, No. 7 (1 Nov 2026)",
+              "src": [
+                103
+              ]
+            },
+            {
+              "value": "$172B",
+              "label": "Bloomberg estimate, No. 8 (Oct 2026)",
+              "src": [
+                108
+              ]
+            },
+            {
+              "value": "About 811.5M",
+              "label": "Shares in his Form 4 filed 18 Sep 2026",
+              "src": [
+                108
+              ]
+            },
+            {
+              "value": "$166.1B",
+              "label": "Those shares at the $204.64 close (30 Oct 2026)",
+              "src": [
+                108
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Which pot holds what"
+        },
+        {
+          "t": "p",
+          "text": "Because he is a company insider, Huang has to report his holdings to the SEC, and these show the structure plainly. As of his September 2026 filing, about 467.7 million shares sat in a living trust with his wife, about 133.3 million in six LLCs owned by that trust, and about 70.1 million in his own name. Another 140.5 million or so sat in two irrevocable family trusts.",
+          "src": [
+            108
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: at the 30 October 2026 close, the living trust's shares were worth about $95.7 billion, the six LLCs about $27.3 billion, the shares he holds directly about $14.3 billion, and the two irrevocable trusts about $28.7 billion. Whether those last two count as “his” depends on who is counting.",
+          "src": [
+            108
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That is why trackers disagree. Nvidia's 2026 proxy lists him at 870.6 million shares, or 3.58%, but that figure includes about 58.7 million shares in the foundation, in which the proxy says he and his wife have no personal financial interest. Forbes says he owns “about 4%”. The foundation's shares alone would be worth about $12 billion at the same price.",
+          "src": [
+            106,
+            107,
+            108,
+            103
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Why 13% became 3.4%"
+        },
+        {
+          "t": "p",
+          "text": "His stake has shrunk from about 13% before the IPO to about 3.4% today, and he did not get there mainly by selling. Business Insider's count of filings shows it at 9.9% in 1999, 7.1% in 2003 and 4.4% in 2010. The main cause was that Nvidia kept giving new shares to its employees, year after year. Each new share makes every old share a slightly smaller slice.",
+          "src": [
+            1,
+            105
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He has sold, but not much relative to the whole. Bloomberg calculated in late 2025 that he had sold more than $2.9 billion of stock since 2001. That includes about $713 million in 2024 and more than $1 billion in 2025. Those recent sales were made under a 10b5-1 plan, a pre-arranged schedule that insiders set in advance so that they are not trading on secret news. He has also given shares away, more than $300 million worth in 2025 alone. Against a stake worth well over $100 billion, those sums are small.",
+          "src": [
+            109,
+            110
+          ]
+        },
+        {
+          "t": "note",
+          "text": "His slice shrank to a quarter. The pie grew about 14,000 times."
+        },
+        {
+          "t": "example",
+          "text": "For example: Business Insider worked out that the 12.8% it counted before the IPO would have been worth over $500 billion by 2025. That sounds like a loss. But those shares paid for the engineers who built everything. A smaller slice of a giant pie beat a giant slice of a small one, and Nvidia's staff-share programme is a big part of how the giant pie got made.",
+          "src": [
+            105
+          ]
+        },
+        {
+          "t": "h",
+          "text": "His pay is the smallest part"
+        },
+        {
+          "t": "p",
+          "text": "Huang's salary is almost irrelevant. In fiscal 2025, his total pay was $35.5 million, of which $1.5 million was base salary, $3 million was a cash bonus and about $31 million was stock based on performance targets. At 2026 share prices, one normal trading day can move his wealth by more than that. His job is paid mainly in the price of the thing he built.",
+          "src": [
+            106,
+            104
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Passing it on"
+        },
+        {
+          "t": "p",
+          "text": "In December 2024 the New York Times reported that Huang was using popular estate and gift tax strategies, including trusts, on a pace to save his family roughly $8 billion. The paper based that on securities and tax filings, and it framed the story around loopholes in the tax law. Trusts of this kind are part of why his holdings sit in separate pots. The debate is about the law as much as about him.",
+          "src": [
+            112
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Most of the wealth is also very recent. On Forbes's annual lists he was at $21.1 billion in 2023, $77 billion in 2024, $98.7 billion in 2025 and $154 billion in 2026. He had already been CEO for 30 years before the first of those numbers.",
+          "src": [
+            108
+          ]
+        },
+        {
+          "t": "lesson",
+          "title": "How the fortune actually got made",
+          "text": "There was no clever exit and no second company. He kept a founder's stake in one business for 33 years, sold very little of it, and let the company reinvent itself several times. Do not plan your life around the last three years of this story. Plan around the first thirty."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Sequoia Capital, Crucible Moments: Nvidia (full transcript, Huang, Malachowsky, Stevens, Ng)",
+      "url": "https://sequoiacap.com/podcast/crucible-moments-nvidia/"
+    },
+    {
+      "label": "Nvidia IPO prospectus, Rule 424(b)(4), filed 22 Jan 1999",
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/327515c2-03c2-4795-8946-5968098fa73a.pdf"
+    },
+    {
+      "label": "Wall Street Journal, Shares of Nvidia Surge 64% After IPO (Jan 1999)",
+      "url": "https://www.wsj.com/articles/SB917224371262043000"
+    },
+    {
+      "label": "Stephen Witt, excerpt from The Thinking Machine, Inc. (Apr 2025)",
+      "url": "https://www.inc.com/stephen-witt/how-jensen-huang-kicked-off-a-mad-dash-to-save-nvidia-in-its-early-years/91173298"
+    },
+    {
+      "label": "Stephen Witt, How Jensen Huang's Nvidia Is Powering the A.I. Revolution, The New Yorker (Nov 2023)",
+      "url": "https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution"
+    },
+    {
+      "label": "The Joe Rogan Experience #2422, Jensen Huang (Dec 2025), episode transcript",
+      "url": "https://jre.ai/episodes/2422-jensen-huang/transcript"
+    },
+    {
+      "label": "Nvidia blog, Huang's National Taiwan University commencement address (May 2023)",
+      "url": "https://blogs.nvidia.com/blog/huang-ntu-commencement/"
+    },
+    {
+      "label": "Nvidia Taiwan, video of Huang's 2023 NTU commencement address",
+      "url": "https://www.youtube.com/watch?v=oi89u6q0_AY"
+    },
+    {
+      "label": "Acquired podcast, interview with TSMC founder Morris Chang (Jan 2025)",
+      "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
+    },
+    {
+      "label": "Computer History Museum, An Evening with Morris Chang and Jen-Hsun Huang (Oct 2007, transcript)",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/05/102658254-05-01-acc.pdf"
+    },
+    {
+      "label": "Computer History Museum, Oral History of Jensen Huang (recorded Aug 2024)",
+      "url": "https://www.computerhistory.org/collections/catalog/102809034/"
+    },
+    {
+      "label": "Nvidia corporate timeline, 1998",
+      "url": "https://www.nvidia.com/content/timeline/time_98.html"
+    },
+    {
+      "label": "Fortune via Yahoo Finance, The rise of Jensen Huang (Feb 2024)",
+      "url": "https://finance.yahoo.com/news/rise-jensen-huang-nvidia-ceo-180638968.html"
+    },
+    {
+      "label": "CNBC Make It, Jensen Huang: I didn't know how to start a business (May 2024)",
+      "url": "https://www.cnbc.com/make-it/2024/05/11/jensen-huang-i-didnt-know-how-to-start-a-business-when-launching-nvidia.html"
+    },
+    {
+      "label": "Tae Kim, excerpt from The Nvidia Way, CNBC (Dec 2024)",
+      "url": "https://www.cnbc.com/2024/12/05/nvidia-and-starboard-value-excerpt-from-tae-kims-book-on-nvidia.html"
+    },
+    {
+      "label": "Tae Kim, excerpt from The Nvidia Way (Chinese edition), Business Next, Taiwan (Feb 2025)",
+      "url": "https://www.bnext.com.tw/article/82313/nvidia-30-days-bankrupt"
+    },
+    {
+      "label": "3dfx Interactive prospectus/proxy on sale of assets to Nvidia, SEC (2001)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000101287001000269/0001012870-01-000269-0001.txt"
+    },
+    {
+      "label": "Nvidia conference call on the 3dfx deal, SEC filing (Dec 2000)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1010026/000101287000006238/0001012870-00-006238-0001.txt"
+    },
+    {
+      "label": "3dfx Form 8-K on closing of the Nvidia asset sale (Apr 2001)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1010026/000089161801500533/f72081e8-k.txt"
+    },
+    {
+      "label": "Nvidia Form 8-K on Xbox contract and Microsoft arbitration (2002)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000095016802001118/d8k.htm"
+    },
+    {
+      "label": "Nvidia annual report on Form 10-K, fiscal 2004",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581004000007/annualreport.htm"
+    },
+    {
+      "label": "Nvidia 2004 annual report, note on the Microsoft settlement",
+      "url": "https://www.annualreportowl.com/NVIDIA/2004/Annual%20Report?p=58"
+    },
+    {
+      "label": "Nvidia prospectus for stock offering at $73 and concurrent notes, SEC (Oct 2000)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000101287000005163/0001012870-00-005163-0001.txt"
+    },
+    {
+      "label": "US SEC, administrative order against Nvidia, Release 34-48480 (Sep 2003)",
+      "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48480"
+    },
+    {
+      "label": "US SEC, order concerning Nvidia's former CFO, Release 34-48536 (Sep 2003)",
+      "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/34-48536"
+    },
+    {
+      "label": "Nvidia press release, Conclusion of SEC Investigation (Sep 2003)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000089109203002448/e15681ex99-1.txt"
+    },
+    {
+      "label": "Nvidia press release on restatement (Apr 2002), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000095016802001116/dex991.htm"
+    },
+    {
+      "label": "Forbes, Shoot To Kill (Company of the Year profile, Jan 2008 issue)",
+      "url": "https://www.forbes.com/global/2008/0107/070.html"
+    },
+    {
+      "label": "Computerworld, Bad graphics chips cost Nvidia $196M (Aug 2008)",
+      "url": "https://www.computerworld.com/article/1567281/bad-graphics-chips-cost-nvidia-196m.html"
+    },
+    {
+      "label": "Computerworld, Nvidia hit with securities lawsuit over bad graphics chips (Sep 2008)",
+      "url": "https://www.computerworld.com/article/1580916/nvidia-hit-with-securities-lawsuit-over-bad-graphics-chips.html"
+    },
+    {
+      "label": "Nvidia CFO commentary, Q2 fiscal 2011, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581010000022/cfocommentary.htm"
+    },
+    {
+      "label": "Forbes, Nvidia To Slash 6.5% of Workforce (Sep 2008)",
+      "url": "https://www.forbes.com/2008/09/18/nvidia-chips-layoff-tech-enter-cx_bc_0918nvidia.html"
+    },
+    {
+      "label": "Nvidia press release, Q2 fiscal 2010 results (Aug 2009)",
+      "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/54481955f6091d273500033b/"
+    },
+    {
+      "label": "StatMuse Money, Nvidia market capitalization 2008 (market data)",
+      "url": "https://www.statmuse.com/money/ask?q=nvidia+market+cap+2006-+2008"
+    },
+    {
+      "label": "Lex Fridman podcast clip, Huang on the CUDA bet (official Lex Clips channel)",
+      "url": "https://www.youtube.com/watch?v=ZUSPpDBEfmQ"
+    },
+    {
+      "label": "Yahoo Finance, Going all-in with Nvidia (Oct 2023)",
+      "url": "https://finance.yahoo.com/news/going-all-in-with-nvidia-how-jensen-huangs-high-stakes-bets-paid-off-113053891.html"
+    },
+    {
+      "label": "Nvidia press release on buying PortalPlayer (Nov 2006), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297633/000119312506225527/dex991.htm"
+    },
+    {
+      "label": "EE Times, Shock as Apple shuts door on PortalPlayer (Apr 2006)",
+      "url": "https://www.eetimes.com/shock-as-apple-shuts-door-on-portalplayer/"
+    },
+    {
+      "label": "Nvidia press release on buying MediaQ (Aug 2003), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000089109203001967/e15408ex99_1.txt"
+    },
+    {
+      "label": "Nvidia press release, to acquire Icera (May 2011)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-to-acquire-baseband-and-rf-technology-leader-icera"
+    },
+    {
+      "label": "Nvidia press release, to wind down Icera (May 2015)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-to-wind-down-icera-modem-operations"
+    },
+    {
+      "label": "Ars Technica, Nvidia throws in the towel on its smartphone modem business (May 2015)",
+      "url": "https://arstechnica.com/gadgets/2015/05/nvidia-throws-in-the-towel-on-its-smartphone-modem-business/"
+    },
+    {
+      "label": "PCWorld, Nvidia's shift away from mobile devices cuts modem unit (May 2015)",
+      "url": "https://www.pcworld.com/article/427329/nvidias-shift-away-from-mobile-devices-cuts-modem-unit.html"
+    },
+    {
+      "label": "Nvidia 10-K fiscal 2017, goodwill note, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581017000027/R11.htm"
+    },
+    {
+      "label": "Motley Fool, Don't Count NVIDIA Out in the Smartphone Wars (Feb 2013)",
+      "url": "https://www.fool.com/investing/general/2013/02/04/dont-count-nvidia-out-in-the-smartphone-wars.aspx"
+    },
+    {
+      "label": "Motley Fool, NVIDIA Reveals Something Shocking (Dec 2013)",
+      "url": "https://www.fool.com/investing/general/2013/12/19/nvidia-reveals-something-shocking.aspx"
+    },
+    {
+      "label": "Nvidia CFO commentary, Q4 fiscal 2014, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581014000004/q414cfocommentary.htm"
+    },
+    {
+      "label": "Tom's Hardware, Nvidia Exits Smartphone Business (Jun 2015)",
+      "url": "https://www.tomshardware.com/news/nvidia-gpu-tv-console-future,29234.html"
+    },
+    {
+      "label": "PCWorld, Nvidia abandons 64-bit Denver chip for servers (Jun 2014)",
+      "url": "https://www.pcworld.com/article/439965/nvidia-abandons-64bit-denver-chip-for-servers.html"
+    },
+    {
+      "label": "Nvidia Form 8-K on Intel settlement (Jan 2011), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119312511005134/d8k.htm"
+    },
+    {
+      "label": "MarketWatch, Nvidia halts chipset development for some Intel processors (Oct 2009)",
+      "url": "https://www.marketwatch.com/story/nvidia-halts-development-for-some-intel-chips-2009-10-08"
+    },
+    {
+      "label": "PC Perspective, Larrabee canceled (Dec 2009)",
+      "url": "https://pcper.com/2009/12/larrabee-canceled-intel-concedes-discrete-graphics-to-nvidia-amd-for-now/"
+    },
+    {
+      "label": "MIT Technology Review on the DGX-1 (Aug 2016)",
+      "url": "https://www.technologyreview.com/2016/08/15/158311/this-supercomputer-will-try-to-find-intelligence-on-reddit"
+    },
+    {
+      "label": "Fortune, Jensen Huang delivered AI computer to Elon Musk and OpenAI (Feb 2024)",
+      "url": "https://fortune.com/2024/02/22/jensen-huang-elon-musk-openai-first-ai-supercomputer-sam-altman/"
+    },
+    {
+      "label": "SiliconANGLE, Nvidia CEO bets on artificial intelligence (Apr 2016)",
+      "url": "https://siliconangle.com/2016/04/05/nvidia-ceo-bets-on-artificial-intelligence-as-the-future-of-computing/"
+    },
+    {
+      "label": "Nvidia China blog on delivering the first DGX-1 to OpenAI (Aug 2016)",
+      "url": "https://blogs.nvidia.cn/blog/first-ai-supercomputer-openai-elon-musk-deep-learning/"
+    },
+    {
+      "label": "US SEC press release, charges against Nvidia over cryptomining disclosures (May 2022)",
+      "url": "https://www.sec.gov/newsroom/press-releases/2022-79"
+    },
+    {
+      "label": "Reuters, US Supreme Court dismisses Nvidia's bid to avoid securities fraud suit (Dec 2024)",
+      "url": "https://www.reuters.com/legal/us-supreme-court-tosses-case-involving-securities-fraud-suit-against-nvidia-2024-12-11/"
+    },
+    {
+      "label": "Bloomberg Law, NVIDIA investors gain class status in crypto mining suit (Mar 2026)",
+      "url": "https://news.bloomberglaw.com/securities-law/nvidia-investors-gain-class-status-in-cryptocurrency-mining-suit"
+    },
+    {
+      "label": "In re NVIDIA Corp. Securities Litigation, N.D. Cal., class certification order (Mar 2026)",
+      "url": "https://app.midpage.ai/document/in-re-nvidia-corporation-securities--58a5ce48-8e10-406d-bbd9-8fcb997c820a"
+    },
+    {
+      "label": "Law360, Nvidia Investors Ink Class Deal After Brief High Court Run (Oct 2026)",
+      "url": "https://www.law360.com/articles/2542056/nvidia-investors-ink-class-deal-after-brief-high-court-run"
+    },
+    {
+      "label": "Nvidia quarterly report note on Mellanox purchase price, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/R9.htm"
+    },
+    {
+      "label": "Nvidia press release, termination of the Arm acquisition (Feb 2022)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited"
+    },
+    {
+      "label": "Nvidia Form 8-K on Arm termination (Feb 2022), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000005/nvda-20220208.htm"
+    },
+    {
+      "label": "Nvidia quarterly report note on the pending Arm deal, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/R9.htm"
+    },
+    {
+      "label": "US FTC, FTC Sues to Block $40 Billion Semiconductor Chip Merger (Dec 2021)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger"
+    },
+    {
+      "label": "Reuters, U.S. FTC sues to block Nvidia deal to buy Arm (Dec 2021)",
+      "url": "https://www.reuters.com/technology/us-ftc-sues-block-40-billion-nvidia-deal-buy-arm-2021-12-02/"
+    },
+    {
+      "label": "Nvidia press release, fiscal 2023 results (Feb 2023)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2023"
+    },
+    {
+      "label": "Nvidia press release, Q2 fiscal 2023 results (Aug 2022)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2023"
+    },
+    {
+      "label": "Reuters, Chip giant Nvidia nears trillion-dollar status on AI bet (May 2023)",
+      "url": "https://www.reuters.com/technology/nvidia-close-becoming-first-trillion-dollar-chip-firm-after-stellar-forecast-2023-05-25/"
+    },
+    {
+      "label": "CNBC, A.I. pushing Nvidia toward $1 trillion (May 2023)",
+      "url": "https://www.cnbc.com/2023/05/25/ai-pushing-nvidia-toward-1-trillion-wont-help-intel-and-amd.html"
+    },
+    {
+      "label": "CNN Business, Nvidia joins the $1 trillion club (May 2023)",
+      "url": "https://www.cnn.com/2023/05/30/investing/nvidia-1-trillion"
+    },
+    {
+      "label": "Reuters, Nvidia overtakes Apple as No. 2 most valuable company (Jun 2024)",
+      "url": "https://www.reuters.com/technology/nvidia-verge-overtaking-apple-no-2-most-valuable-company-2024-06-05/"
+    },
+    {
+      "label": "Reuters, Nvidia's stock market value hits $4 trillion (Jul 2025)",
+      "url": "https://www.reuters.com/world/china/nvidia-becomes-first-company-clinch-4-trillion-market-value-2025-07-09/"
+    },
+    {
+      "label": "Reuters, Nvidia hits $5 trillion valuation (Oct 2025)",
+      "url": "https://www.reuters.com/business/nvidia-poised-record-5-trillion-market-valuation-2025-10-29/"
+    },
+    {
+      "label": "Bloomberg, Nvidia's $589 Billion DeepSeek Rout Is Largest in Market History (Jan 2025)",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks"
+    },
+    {
+      "label": "Reuters, DeepSeek sparks AI stock selloff (Jan 2025)",
+      "url": "https://www.reuters.com/technology/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/"
+    },
+    {
+      "label": "Nvidia press release, Q2 fiscal 2027 results (Aug 2026)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027"
+    },
+    {
+      "label": "CNBC, Nvidia Q2 2027 earnings live updates (Aug 2026)",
+      "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html"
+    },
+    {
+      "label": "Reuters via MarketScreener, Nvidia rises after signaling longer AI spending runway (Aug 2026)",
+      "url": "https://www.marketscreener.com/news/nvidia-rises-after-signaling-longer-ai-spending-runway-ce7858dedb8ef022"
+    },
+    {
+      "label": "Nvidia Q2 fiscal 2027 earnings call transcript",
+      "url": "https://www.roic.ai/quote/NVDA/transcripts/2027-year/2-quarter"
+    },
+    {
+      "label": "Nvidia press release, fiscal 2026 results (Feb 2026)",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026"
+    },
+    {
+      "label": "Nvidia 10-K fiscal 2026, segment information, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/R25.htm"
+    },
+    {
+      "label": "Bloomberg via Yahoo Finance, Apple Overtakes Nvidia to Become World's Most Valuable Company (Oct 2026)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-become-world-202839510.html"
+    },
+    {
+      "label": "Motley Fool, Nvidia Earned About Twice as Much as Apple Last Quarter (Oct 2026)",
+      "url": "https://www.fool.com/investing/2026/10/07/nvidia-earned-about-twice-as-much-as-apple-last-quarter-its-stock-is-worth-only-about-20-more/"
+    },
+    {
+      "label": "Reuters, Nvidia close to investing $30 billion in OpenAI (Feb 2026)",
+      "url": "https://www.reuters.com/business/nvidia-close-finalizing-30-billion-investment-openai-funding-round-ft-reports-2026-02-20/"
+    },
+    {
+      "label": "Economic Times, Nvidia CEO hints at end of investments in OpenAI, Anthropic (Mar 2026)",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-hints-at-end-of-investments-in-openai-anthropic/articleshow/129062162.cms"
+    },
+    {
+      "label": "Reuters, Microsoft, Nvidia to invest in Anthropic (Nov 2025)",
+      "url": "https://www.reuters.com/technology/anthropic-commits-30-billion-microsoft-azure-compute-2025-11-18/"
+    },
+    {
+      "label": "Reuters, Nvidia takes $5 billion stake in Intel (Sep 2025)",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-bets-big-intel-with-5-billion-stake-chip-partnership-2025-09-18/"
+    },
+    {
+      "label": "Nvidia Form 8-K on SB Energy and OpenAI guaranties (Aug 2026), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm"
+    },
+    {
+      "label": "Reuters, Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center (Aug 2026)",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/"
+    },
+    {
+      "label": "Fortune, OpenAI data center deal with Nvidia comes in lower than reported (Aug 2026)",
+      "url": "https://fortune.com/2026/08/18/openai-data-center-deal-with-nvidia-comes-in-145-billion-lower-than-reportedsignaling-concerns-of-artificial-demand-for-chips/"
+    },
+    {
+      "label": "IFR, Nvidia's unprecedented US$105bn backstop (Aug 2026)",
+      "url": "https://www.ifre.com/equities/2472416/nvidias-unprecedented-us105bn-backstop-tees-up-sb-energy-for-ipo"
+    },
+    {
+      "label": "Reuters, Nvidia to license Groq technology, hire executives (Dec 2025)",
+      "url": "https://www.reuters.com/business/nvidia-buy-ai-chip-startup-groq-about-20-billion-cnbc-reports-2025-12-24/"
+    },
+    {
+      "label": "CNBC, Nvidia buying AI chip startup Groq's assets for about $20 billion (Dec 2025)",
+      "url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html"
+    },
+    {
+      "label": "Nvidia Form 8-K on agreement to acquire Hugging Face (Sep 2026), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+    },
+    {
+      "label": "Jensen Huang, NVIDIA to Acquire Hugging Face, Nvidia blog (Sep 2026)",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    },
+    {
+      "label": "Reuters, Nvidia closes $700 mln Run:ai acquisition (Dec 2024)",
+      "url": "https://www.reuters.com/markets/deals/nvidia-closes-700-mln-runai-acquisition-after-regulatory-hurdles-2024-12-30/"
+    },
+    {
+      "label": "Reuters, Nvidia faces $5.5 billion charge as US restricts chip sales to China (Apr 2025)",
+      "url": "https://www.reuters.com/technology/nvidia-expects-up-55-billion-charge-first-quarter-2025-04-15/"
+    },
+    {
+      "label": "Fortune, China says Nvidia's Mellanox purchase violated antitrust law (Sep 2025)",
+      "url": "https://fortune.com/2025/09/15/china-nvidia-mellanox-antitrust-trade-trump-tariffs-talks-beijing-washington/"
+    },
+    {
+      "label": "Bloomberg, Nvidia Steps Back Into China Market With First H200 Chip Sales (Aug 2026)",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-steps-back-into-china-market-with-first-h200-chip-sales"
+    },
+    {
+      "label": "CNBC, Trump: Nvidia can sell H200 AI chips to China if U.S. gets 25% cut (Dec 2025)",
+      "url": "https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html"
+    },
+    {
+      "label": "Reuters, US clears H200 chip sales to 10 China firms (May 2026)",
+      "url": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/"
+    },
+    {
+      "label": "Forbes, Jensen Huang real-time profile (as of 1 Nov 2026)",
+      "url": "https://www.forbes.com/profile/jensen-huang/"
+    },
+    {
+      "label": "Forbes, Jensen Huang tops $200 billion fortune (Oct 2026)",
+      "url": "https://www.forbes.com/sites/conormurray/2026/10/02/jensen-huangs-fortune-breaks-200-billion-as-nvidia-stock-reaches-record-high/"
+    },
+    {
+      "label": "Business Insider, Why Nvidia CEO Jensen Huang isn't the world's richest person (Sep 2025)",
+      "url": "https://www.businessinsider.com/nvidia-stock-jensen-huang-wealth-musk-buffett-ai-tech-compensation-2025-9"
+    },
+    {
+      "label": "TheStreet, How much Nvidia stock does CEO Jensen Huang actually own? (Oct 2026)",
+      "url": "https://www.thestreet.com/personalities/how-much-nvidia-stock-does-ceo-jensen-huang-own"
+    },
+    {
+      "label": "My Investing News, Jensen Huang's fortune has swung by tens of billions in 2026 (Aug 2026)",
+      "url": "https://myinvestingnews.com/jensen-huangs-fortune-has-swung-by-tens-of-billions-in-2026-what-nvidia-investors-should-watch-next/"
+    },
+    {
+      "label": "DaveManuel.com, Jensen Huang net worth reconciliation from Form 4 and proxy (Oct 2026)",
+      "url": "https://www.davemanuel.com/net-worths/jensen-huang/"
+    },
+    {
+      "label": "Bloomberg via The Business Times, Nvidia CEO Jensen Huang completes US$1 billion share sale (Nov 2025)",
+      "url": "https://www.businesstimes.com.sg/startups-tech/technology/nvidia-ceo-jensen-huang-completes-us1-billion-share-sale"
+    },
+    {
+      "label": "Forbes, Jensen Huang finishes selling shares worth more than $700 million (Sep 2024)",
+      "url": "https://www.forbes.com/sites/tylerroush/2024/09/24/nvidia-valuation-approaches-3-trillion-again-as-jensen-huang-finishes-selling-shares-worth-more-than-700-million/"
+    },
+    {
+      "label": "CompaniesMarketCap, Nvidia stock split history (480x since 2000); Nvidia 8-K for the 2024 split",
+      "url": "https://companiesmarketcap.com/nvidia/stock-splits/"
+    },
+    {
+      "label": "New York Times, How One of the World's Richest Men Is Avoiding $8 Billion in Taxes (Dec 2024)",
+      "url": "https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html"
+    },
+    {
+      "label": "CNBC, Jensen Huang's charitable foundation balloons on gains (Jun 2025)",
+      "url": "https://www.cnbc.com/2025/06/12/nvidia-stock-jensen-huang-charitable-foundation.html"
+    },
+    {
+      "label": "Inside Philanthropy, Jensen Huang's foundation now bigger than MacArthur (Jan 2026)",
+      "url": "https://www.insidephilanthropy.com/home/nvidia-cofounders-foundation-is-now-bigger-than-macarthur"
+    },
+    {
+      "label": "Inside Philanthropy, AI has made Nvidia's founder a centibillionaire (Jul 2024)",
+      "url": "https://www.insidephilanthropy.com/home/2024-7-1-ai-has-made-nvidias-founder-a-centi-billionaire-what-will-that-mean-for-his-philanthropy"
+    },
+    {
+      "label": "Review of Stephen Witt's The Thinking Machine, OPS Journal",
+      "url": "https://www.opsjournal.org/DocumentLibrary/Uploads/Jensen%20Huang_final.pdf"
+    },
+    {
+      "label": "Nvidia annual report on Form 10-K, fiscal 2014 (Huang biography), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581014000030/nvda-2014x10k.htm"
+    },
+    {
+      "label": "Avago press release, completes acquisition of LSI (May 2014)",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/avago-technologies-completes-acquisition-lsi-corporation"
+    },
+    {
+      "label": "Forbes, This Nvidia Cofounder Could Have Been Worth $70 Billion (Nov 2023)",
+      "url": "https://www.forbes.com/sites/phoebeliu/2023/11/26/this-nvidia-cofounder-could-have-been-worth-70-billion-instead-he-lives-off-the-grid/"
+    },
+    {
+      "label": "Sony Computer Entertainment and Nvidia joint GPU announcement (Dec 2004)",
+      "url": "https://sonyinteractive.com/en/press-releases/2004/sony-computer-entertainment-inc-and-nvidia-announce-joint-gpu-development-for-sceis-next-generation-computer-entertainment-system/"
+    },
+    {
+      "label": "Nvidia blog, Nvidia technology powers Nintendo Switch (Oct 2016, archived)",
+      "url": "https://web.archive.org/web/20170126152747/https:/blogs.nvidia.com/blog/2016/10/20/nintendo-switch/"
+    },
+    {
+      "label": "Bloomberg, Chipmaker Nvidia enters crowded field of game streaming services (Feb 2020)",
+      "url": "https://www.bloomberg.com/news/articles/2020-02-04/chipmaker-nvidia-enters-crowded-field-of-game-streaming-services"
+    },
+    {
+      "label": "HotHardware, GeForce NOW and the publishers pulling games (Feb 2020)",
+      "url": "https://hothardware.com/news/nvidia-geforce-now-play-pc-games-own-whats-issue-publishers"
+    },
+    {
+      "label": "IKOS Systems Form 8-K on takeover by Mentor Graphics (Mar 2002), SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/756365/000091205702012644/a2075382z8-k.htm"
+    },
+    {
+      "label": "EE Times, Logic emulation for the masses arrives (Sep 1996)",
+      "url": "https://www.eetimes.com/logic-emulation-for-the-masses-arrives/"
+    },
+    {
+      "label": "Time Extension, How The Kindness Of Sega Saved Nvidia (Apr 2024)",
+      "url": "https://www.timeextension.com/features/flashback-how-the-kindness-of-sega-saved-nvidia-from-going-under"
+    },
+    {
+      "label": "Wikipedia, GeForce FX series (used only for launch timing against ATI)",
+      "url": "https://en.m.wikipedia.org/wiki/GeForce_FX"
+    },
+    {
+      "label": "Top Bucket AI, Nvidia acquisition history, compiled from SEC 8-Ks",
+      "url": "https://www.topbucket.ai/research/companies/nvidia/acquisition-history"
+    },
+    {
+      "label": "HotHardware, NVIDIA clarifies chipset positioning (Oct 2009)",
+      "url": "https://hothardware.com/news/nvidia-clarifies-chipset-positioning-product-focus"
+    },
+    {
+      "label": "Wikipedia, Nvidia (used for product status and award listing only)",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "label": "Nvidia annual report on Form 10-K, fiscal 2013, SEC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581013000008/nvda-2013x10k.htm"
+    },
+    {
+      "label": "US SEC, order in the matter of NVIDIA Corp., Release 33-11060 (May 2022)",
+      "url": "https://www.sec.gov/files/litigation/admin/2022/33-11060.pdf"
+    },
+    {
+      "label": "Class Action Times, Nvidia settles laptop chip class action (Oct 2010)",
+      "url": "https://classactiontimes.com/entry/Nvidia-settles-Bumpgate-class-action-lawsuit"
+    },
+    {
+      "label": "AlphaScope, Nvidia report with peer market values (Sep 2026)",
+      "url": "https://alphascope.cc/en/reports/2026-09-28-nvda"
+    },
+    {
+      "label": "Reuters, Nvidia shareholders hit the jackpot. They're suing anyway. (Apr 2026)",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/nvidia-shareholders-hit-jackpot-theyre-suing-anyway-2026-04-24/"
+    },
+    {
+      "label": "International Directory of Company Histories, NVIDIA Corporation, via Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/nvidia-corporation"
+    }
+  ],
+  "factCheck": {
+    "method": "Primary first. Nvidia's 1999 IPO prospectus was downloaded and read directly for all round sizes, prices, customer shares, losses, founders' stakes and the NV2 development note. SEC orders and Nvidia 8-Ks, 10-Ks, CFO commentaries and press releases were used for the 2000 accounting case, Xbox, 3dfx, chipsets, Intel, Icera, Mellanox, Arm, the OpenAI guaranties and Hugging Face. Scenes come from Huang's own interviews (Sequoia's official transcript, National Taiwan University speech, Computer History Museum, The Joe Rogan Experience via a third-party transcript), Morris Chang's Acquired interview, and book excerpts by Stephen Witt and Tae Kim published in established outlets. Our own arithmetic (Sega's shares today, $1,000 at IPO, foundation value, profit per day) was done from filed share counts, the 480x split history and the $204.64 close on 30 Oct 2026. SEC.gov blocked a direct download of Nvidia's 2026 proxy and Form 4, so those holdings are taken from reconciliations by DaveManuel.com, TheStreet and My Investing News, which quote those filings. Law360's Oct 2026 settlement report was readable only in its opening lines, so terms are not stated. A pirated full-text PDF of The Nvidia Way surfaced in search and was not used. Nvidia is the only company we could find that Huang founded; we found no public record of another, which is an absence of evidence and not a sworn statement.",
+    "disputed": [
+      {
+        "claim": "What Sega actually paid: a contract payment or an investment",
+        "note": "Huang told Sequoia that Sega kept paying 'some 5 million dollars' under the contract. He told Joe Rogan he asked Sega to convert the last $5 million into an investment. The 1999 prospectus shows both: $5 million of non-refundable NV2 development payments (1995-96) and a separate $5 million Series C purchase in July 1995, which predates the cancellation. The prospectus does not name Sega; we link it through the NV2 name. Text uses the filing and flags the inference."
+      },
+      {
+        "claim": "Value today of Sega's stake",
+        "note": "Huang told Rogan it would be worth about a trillion dollars. By our arithmetic, 750,000 shares x 480 (split history) = 360 million shares, about $74 billion at $204.64. We state our figure. Wikipedia's claim that Sega sold for $15 million after 2000 could not be traced to a source we could read and was dropped; Huang says Sega sold around the IPO."
+      },
+      {
+        "claim": "Who made the first RIVA 128 chips",
+        "note": "Popular versions, Huang on Rogan and Morris Chang's memory have TSMC making the rescue chip. The 1999 prospectus says Nvidia 'in the past utilized ST' and names TSMC for the later RIVA128ZX and RIVA TNT; Nvidia's timeline dates the TSMC partnership to March 1998; Huang said in 2007 that work with TSMC began the year after they met in 1997. Text says first RIVA 128s appear to have come from ST."
+      },
+      {
+        "claim": "When Huang wrote to Morris Chang",
+        "note": "An Nvidia Taiwan blog recounting Huang's 2018 remarks says about 1995. Chang says he thinks 1997. Huang in 2007 also says 1997. Text gives no exact year in the scene."
+      },
+      {
+        "claim": "Emulator maker 'went out of business'",
+        "note": "Huang says Icos told him it was out of business and sold him the last machine. SEC filings show IKOS Systems was still operating and was bought by Mentor Graphics in 2002 for $11 a share, and EE Times shows it launching new emulators in 1996. Possibly a unit, an old product line or a faulty memory. We name 'a firm he calls Icos' and do not repeat the out-of-business claim as fact."
+      },
+      {
+        "claim": "Price of the emulator",
+        "note": "Huang on Rogan: half of about $1 million left. Some business-school write-ups say $1 million, or a third of $3 million in cash (Crewdle, citing Howard Yu of IMD). Witt says it took the last of the company's funds. Text uses Huang's words, attributed."
+      },
+      {
+        "claim": "How deep the 1996 layoffs were",
+        "note": "Witt in Inc.: from more than 100 to 35. Wikipedia: 100 to 40. New Yorker and CNBC: more than half. The prospectus shows 71 staff by Sept 1997, and Chang recalls 50-60. Huang in 2007 said 100 people in 1997. Text says from about 100 to a much smaller crew."
+      },
+      {
+        "claim": "How low Nvidia's market value fell in the CUDA years",
+        "note": "Huang's own numbers vary: 'just above $1 billion' (NTU 2023), about $1.5 billion from $6-8 billion (Lex Fridman), and $2-3 billion from about $12 billion (Rogan). Market data shows about $3.3 billion at the November 2008 low. Also, that crash coincided with the financial crisis, the laptop-chip charge and ATI's comeback, so CUDA was not the only cause. Text uses market data."
+      },
+      {
+        "claim": "DGX-1 price and development time",
+        "note": "$129,000 at launch per SiliconANGLE and Bloomberg; Huang said $300,000 on Rogan. Development: 3 years and 3,000 people per Nvidia's 2016 blog; 'five years' per Huang in Fortune. Cost: about $2 billion per Nvidia's blog and MIT Technology Review; 'a few billion' per Huang on Rogan. Text reports launch price and attributes the rest."
+      },
+      {
+        "claim": "Size of the DeepSeek one-day loss",
+        "note": "Bloomberg: $589 billion. Reuters: $593 billion. AP: nearly $600 billion. Text uses Bloomberg."
+      },
+      {
+        "claim": "Huang's stake at the IPO",
+        "note": "Prospectus: 3,100,000 shares including family trusts and relatives, 13.1% before and 10.8% after. Business Insider: 12.8% before and 9.9% in 1999. TheStreet: 2.9 million shares, 9.9% in 1999. TheStreet's figure of 2.8 billion split-adjusted shares looks wrong; at 480x the number is about 1.4 billion. Text uses the prospectus for the IPO and Business Insider for the later path."
+      },
+      {
+        "claim": "Huang's current share count",
+        "note": "Proxy (23 Mar 2026): 870.6 million including 58.7 million foundation shares in which he has no pecuniary interest. Form 4 (18 Sep 2026): about 811.5 million. About 140 million of those are in irrevocable family trusts. Forbes says about 4%, Bloomberg about 3.3%. All are shown with labels."
+      },
+      {
+        "claim": "Size of the Groq deal",
+        "note": "CNBC reports $20 billion from Disruptive's CEO. Nvidia and Groq did not confirm a price and call it a non-exclusive licence with hires. Text attributes the figure."
+      },
+      {
+        "claim": "Hugging Face price",
+        "note": "The 8-K says about $11.9 billion to stockholders plus up to about $1.0 billion in retention equity. Huang's blog gives $12,930,300,000. The two are consistent. Wikipedia already lists Hugging Face as a subsidiary, but the deal had not closed as of 2 Nov 2026."
+      },
+      {
+        "claim": "OpenAI investment",
+        "note": "Announced in Sept 2025 as up to $100 billion; replaced by about $30 billion, which Huang said was finalised in March 2026. Huang said the larger figure was never a commitment."
+      }
+    ]
+  }
+}

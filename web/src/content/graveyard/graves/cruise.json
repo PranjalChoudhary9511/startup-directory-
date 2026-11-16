@@ -1,0 +1,418 @@
+{
+  "slug": "cruise",
+  "name": "Cruise",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco, California",
+  "sector": "Robotaxis (self-driving cars)",
+  "founded": 2013,
+  "died": 2024,
+  "status": "absorbed-and-closed",
+  "brandColor": "#f15a22",
+  "founders": [
+    {
+      "name": "Kyle Vogt",
+      "role": "Co-founder and CEO (resigned Nov 2023)"
+    },
+    {
+      "name": "Dan Kan",
+      "role": "Co-founder, later chief product officer (resigned Nov 2023)"
+    }
+  ],
+  "epitaph": "Drove itself. Lost the road to trust.",
+  "oneLiner": "Ran driverless robotaxis in San Francisco and other US cities, owned mostly by General Motors.",
+  "causeOfDeath": "After a robotaxi dragged an injured pedestrian, Cruise wasn't fully open with regulators, lost its permits and trust, and GM pulled the plug.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 30000,
+  "endValueUsdM": null,
+  "moneyNote": "Valued at $30B in Jan 2021 (Wikipedia). GM alone spent more than $10B on it (CNBC). Outside investors included SoftBank ($2.25B) and Honda ($852M in total). It was absorbed by GM, so there was no sale price.",
+  "moneySrc": [
+    0,
+    1
+  ],
+  "inOneMinute": [
+    "Cruise ran **real driverless taxis** in San Francisco and was once valued at **$30 billion**, backed by GM, SoftBank, Honda and Microsoft.",
+    "In October 2023 a robotaxi **dragged an injured pedestrian about 20 feet**. Regulators said Cruise didn't show them the full video.",
+    "California suspended its permits in weeks. In December 2024, GM **stopped funding robotaxis** after spending over $10 billion."
+  ],
+  "killerLine": "In a crisis, **tell the regulator everything, fast**. Trust lost over seven seconds of video ended a $30B company.",
+  "numbers": [
+    {
+      "value": "$30B",
+      "label": "valuation in January 2021",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$10B+",
+      "label": "spent by GM on its robotaxi unit",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "~20 ft",
+      "label": "distance the robotaxi dragged the pedestrian",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "value": "250,000+",
+      "label": "driverless rides given before the shutdown",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a car with no driver",
+      "body": "In 2013, Kyle Vogt and Dan Kan started Cruise in San Francisco, at first selling kits to make ordinary cars partly self-driving. By 2015 they aimed higher: **fully self-driving cars**. The prize was enormous. A robotaxi (a taxi with no human driver) could run all day without wages, breaks or tiredness. In March 2016, General Motors, one of the world's biggest carmakers, bought Cruise in a deal valued at **more than $1 billion**. GM saw Cruise as its ticket into the future. Cruise kept the feel of a startup, but now had a giant's bank account behind it.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The rise: real robotaxis on real streets",
+      "body": "Big money followed. In 2018, SoftBank's Vision Fund agreed to invest **$2.25 billion** and Honda $750 million. In January 2021, Microsoft, Honda and others added $2 billion, valuing Cruise at **$30 billion**. In 2021 California let Cruise give rides with no safety driver, and in June 2022 it became the first to win a permit to charge fares for driverless rides there. In August 2023, regulators approved **24/7 robotaxi service** across San Francisco. Cruise had about 4,000 employees and gave more than 250,000 driverless rides. But there were warning signs: the day after the approval, up to 10 Cruise cars jammed traffic, and the DMV asked Cruise to cut its active fleet by half.",
+      "src": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the night of 2 October",
+      "body": "On 2 October 2023, a human driver hit a pedestrian in San Francisco and drove off. The pedestrian was thrown into the path of a Cruise robotaxi, which hit them and stopped. Then the car **moved again, dragging the person about 20 feet**. A later expert review found the car had wrongly classified the crash as a side impact. The bigger problem came next. On 24 October, California's DMV suspended Cruise's driverless permits, saying Cruise had shown video only up to the first stop and **withheld about seven seconds** showing the dragging. Cruise said it had tried to show the full video. Within days it paused all driverless operations nationwide and recalled 950 vehicles.",
+      "src": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall: GM switches off the engine",
+      "body": "On 19 November 2023, **Kyle Vogt and Dan Kan resigned**. In December, nine leaders were dismissed and about 24% of staff were laid off. In January 2024, a law firm hired by Cruise reported **\"poor leadership, mistakes in judgment, lack of coordination\"** and an \"us versus them\" attitude toward regulators, though it found no proof anyone meant to deceive. In September 2024, US safety regulator NHTSA fined Cruise $1.5 million for not properly reporting the crash. On 10 December 2024, GM said it would **stop funding robotaxi development** and fold Cruise's work into its own driver-assistance programmes for personal cars. GM had spent more than $10 billion, and was spending about $2 billion a year. The merger into GM was completed in February 2025.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Oct 2013",
+      "event": "Kyle Vogt and Dan Kan found Cruise",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2016",
+      "event": "GM buys Cruise in a deal valued at over $1B",
+      "kind": "money",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "May 2018",
+      "event": "SoftBank Vision Fund agrees to invest $2.25B",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "event": "Microsoft, Honda and others invest $2B at a $30B valuation",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2022",
+      "event": "Wins California's first permit to charge for driverless rides",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "event": "Approved for 24/7 robotaxi service in San Francisco; traffic jam follows",
+      "kind": "warning",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "2 Oct 2023",
+      "event": "Robotaxi drags an injured pedestrian about 20 feet",
+      "kind": "crisis",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "24 Oct 2023",
+      "event": "California DMV suspends Cruise's driverless permits",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "19 Nov 2023",
+      "event": "Co-founders Kyle Vogt and Dan Kan resign",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "event": "Law-firm review blames poor leadership and an 'us versus them' mindset",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2024",
+      "event": "NHTSA fines Cruise $1.5M for failing to properly report the crash",
+      "kind": "after",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "10 Dec 2024",
+      "event": "GM stops funding robotaxi development; merger into GM completed Feb 2025",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Mar 2016",
+      "round": "Acquisition by GM",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "General Motors"
+      ],
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "May 2018",
+      "round": "Strategic investment",
+      "amountUsdM": 2250,
+      "valuationUsdM": null,
+      "investors": [
+        "SoftBank Vision Fund"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2018",
+      "round": "Strategic investment",
+      "amountUsdM": 750,
+      "valuationUsdM": null,
+      "investors": [
+        "Honda"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2019",
+      "round": "Funding round",
+      "amountUsdM": 1150,
+      "valuationUsdM": 19000,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "round": "Funding round",
+      "amountUsdM": 2000,
+      "valuationUsdM": 30000,
+      "investors": [
+        "Microsoft",
+        "Honda",
+        "Institutional investors"
+      ],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "governance",
+      "weight": 40
+    },
+    {
+      "key": "regulation",
+      "weight": 25
+    },
+    {
+      "key": "tech",
+      "weight": 20
+    },
+    {
+      "key": "burn",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Was not fully open after a serious incident",
+      "explain": "The DMV said Cruise **withheld about seven seconds of video** showing the dragging. Cruise said it tried to show it. Either way, regulators felt misled, and the law-firm review found \"lack of coordination\" and an **\"us versus them\" mentality**. Lost trust, not the crash alone, cost Cruise its licence.",
+      "src": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "Scaled up before edge cases were solved",
+      "explain": "Right after winning 24/7 approval, up to 10 Cruise cars jammed traffic and the DMV asked it to halve its fleet. A self-driving car must handle rare, strange situations, like a person thrown under it. The software misclassified the crash and then **moved the car with someone underneath**.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Relied on one parent's patience",
+      "explain": "Cruise cost GM about **$2 billion a year**. As long as GM believed, the money flowed. When the scandal hit and the path to profit looked longer, one decision by GM's leadership **ended the robotaxi business**. Safety-critical products must be judged by how they handle the worst moments, not the average ride.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Treated regulators as obstacles",
+      "explain": "The review's \"us versus them\" finding matters. In businesses that run on government permits (taxis, drones, finance, health), **regulators are a key customer**. Treating them as opponents means they won't give you the benefit of the doubt when things go wrong.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Would you hesitate to share bad footage, data or news with a regulator or partner?",
+    "Does your team talk about regulators as 'them' or 'the enemy'?",
+    "Are you expanding the moment you get approval, before handling rare edge cases?",
+    "Does one investor or parent company decide alone whether you survive next year?",
+    "Is there no clear owner for crisis communication if something goes badly wrong?",
+    "Has a safety incident been described internally as 'someone else's fault'?"
+  ],
+  "lessons": [
+    {
+      "title": "Share bad news first and completely",
+      "detail": "If something goes wrong, tell customers, partners and regulators the full story quickly, including the worst part. Being caught leaving something out is far more damaging than the incident itself."
+    },
+    {
+      "title": "Write your crisis plan before the crisis",
+      "detail": "Decide now who speaks, who talks to authorities, and what gets shared. Under pressure, teams make bad calls. A one-page plan made on a calm day helps."
+    },
+    {
+      "title": "Respect the people who give you permission",
+      "detail": "Many Indian startups need permits: for food, payments, drones, health. Build real relationships with those officials. Explain, listen and follow up. Trust is your licence."
+    },
+    {
+      "title": "Test rare cases, not just common ones",
+      "detail": "Your product will meet the strange situation one day. List the worst things that could happen and test for them. Safety-critical products must fail safely."
+    },
+    {
+      "title": "Have more than one backer who believes",
+      "detail": "Being funded by one rich parent feels safe until their priorities change. Over time, build revenue or a second source of funding so one 'no' doesn't end you."
+    }
+  ],
+  "quote": {
+    "text": "poor leadership, mistakes in judgment, lack of coordination, an 'us versus them' mentality with regulators",
+    "who": "Quinn Emanuel report commissioned by Cruise, as quoted by CNBC",
+    "context": "Findings of the independent review of how Cruise handled the October 2023 incident, published January 2024.",
+    "src": [
+      3
+    ]
+  },
+  "afterlife": {
+    "text": "GM completed the merger of Cruise into GM in February 2025 and turned the work toward driver-assistance features for cars people own. Honda had invested a total of $852 million in Cruise. Cruise's driverless cars had given more than 250,000 rides before the shutdown, proof the technology worked often, but not reliably enough to keep public trust. In December 2025, GM hired a former Tesla executive as part of a renewed self-driving push.",
+    "src": [
+      0,
+      1,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia, 'Cruise (autonomous vehicle)' (funding, permits, timeline)",
+      "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
+    },
+    {
+      "label": "CNBC, 'GM halts funding of robotaxi development by Cruise' (10 Dec 2024)",
+      "url": "https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html"
+    },
+    {
+      "label": "CNBC, 'California DMV suspends Cruise's self-driving car permits' (24 Oct 2023)",
+      "url": "https://www.cnbc.com/2023/10/24/california-dmv-suspends-cruises-self-driving-car-permits.html"
+    },
+    {
+      "label": "CNBC, 'GM Cruise probe finds poor leadership at center of incident response' (25 Jan 2024)",
+      "url": "https://www.cnbc.com/2024/01/25/gm-cruise-probe-finds-poor-leadership-at-center-of-incident-response.html"
+    },
+    {
+      "label": "TechCrunch, 'Cruise co-founder and CEO Kyle Vogt resigns' (19 Nov 2023)",
+      "url": "https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/"
+    },
+    {
+      "label": "General Motors, Form 10-K for 2024 (Cruise strategy change)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/gm-20241231.htm"
+    },
+    {
+      "label": "General Motors, Form 10-K for 2023 (October 2023 incident and investigations)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000031/gm-20231231.htm"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Cruise deliberately hid the dragging video",
+        "note": "The DMV said Cruise withheld it; Cruise disputed this, and the Quinn Emanuel review found no evidence of intent to deceive, blaming poor coordination and 'video transmission issues'."
+      },
+      {
+        "claim": "Size of the 2016 acquisition price",
+        "note": "Undisclosed; estimates ranged from 'north of $500 million' to over $1 billion."
+      },
+      {
+        "claim": "Federal criminal case over a false report",
+        "note": "Widely reported in Nov 2024 (a deferred prosecution agreement and fine), but we could not read the primary source, so it is not in the story."
+      }
+    ]
+  }
+}

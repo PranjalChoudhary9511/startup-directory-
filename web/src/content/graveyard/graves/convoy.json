@@ -1,0 +1,175 @@
+{
+  "slug": "convoy",
+  "name": "Convoy",
+  "region": "global",
+  "country": "United States",
+  "city": "Seattle",
+  "sector": "Digital freight / trucking marketplace",
+  "founded": 2015,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#1f4cff",
+  "founders": [
+    { "name": "Dan Lewis", "role": "Co-founder and CEO (ex-Amazon and Google)" },
+    { "name": "Grant Goodale", "role": "Co-founder" }
+  ],
+  "epitaph": "Matched every truck. Couldn't outrun the cycle.",
+  "oneLiner": "An app that matched companies needing goods moved with truck drivers, using software instead of phone-calling human brokers.",
+  "causeOfDeath": "It built a big, loss-making company just before freight collapsed; when the market crashed and investors stopped funding, it had no time left.",
+  "raisedUsdM": 928,
+  "peakValuationUsdM": 3800,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: $668M+ by 2019 plus $260M in 2022 ($160M equity + $100M venture debt) = at least $928M; TechCrunch puts the lifetime total above $1B. It also had a $150M credit line. Peak: $3.8B (Apr 2022). End: Flexport bought the assets for an undisclosed 'modest' price.",
+  "moneySrc": [1, 2, 6],
+  "inOneMinute": [
+    "Convoy used software to match trucks with loads, aiming to cut the **40% of the time trucks run empty**. Jeff Bezos and Bono invested.",
+    "In April 2022, just before the freight market turned, it was valued at **$3.8 billion** with about 1,300 staff.",
+    "Then freight prices crashed and investors pulled back. After three layoff rounds, Convoy **shut down abruptly in October 2023**."
+  ],
+  "killerLine": "In a business that moves in cycles, **plan for the bust during the boom**. Cheap money and high prices never last forever.",
+  "numbers": [
+    { "value": "$3.8B", "label": "valuation in April 2022", "src": [2] },
+    { "value": "40%", "label": "of the time US trucks run empty, the problem Convoy chased", "src": [0] },
+    { "value": "18 months", "label": "from its $260M raise to shutting down", "src": [4] },
+    { "value": "~500", "label": "employees told 'today is your last day'", "src": [4] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Uber for trucks",
+      "body": "Almost everything you buy travels on a truck at some point. In America, matching a company's goods (a 'load') with a free truck was mostly done by freight brokers, middlemen working the phones. It was slow and wasteful. As CEO Dan Lewis put it: \"Trucks run empty 40% of the time, and they often sit idle due to inefficient scheduling.\" In 2015, Lewis and Grant Goodale, both ex-Amazon, started Convoy in Seattle to fix this with software. Shippers posted loads, truckers booked them on an app, and **algorithms did the matching**. Lewis said he chose trucking because huge money flowed through it while very few startups were working on it. It was a smart, real problem in a giant **$800 billion industry**.",
+      "src": [0, 1, 5]
+    },
+    {
+      "title": "The rise: the star of freight tech",
+      "body": "Convoy grew from hundreds of loads a week in 2016 to tens of thousands. Its matching became fully automated, with no human needed. Big names invested: Jeff Bezos, Marc Benioff, Bono and the Edge, plus Alphabet's CapitalG. In 2018 it raised $185 million at a **$1 billion** valuation. In 2019 it raised $400 million at $2.75 billion, with 850 employees. In April 2022, Convoy raised $260 million ($160 million of equity plus $100 million of venture debt, a loan for startups) and got a $150 million credit line from J.P. Morgan. It was valued at **$3.8 billion**, had about 1,300 staff, and expected over $1 billion of revenue that year.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "The cracks: the freight bust",
+      "body": "Freight is a cycle: good years are followed by bad ones. Soon after Convoy's big raise, the market turned. Lewis later called it an **\"unprecedented freight market collapse\"**. At the same time, interest rates rose sharply, and he wrote that this \"shrunk flows into unprofitable late stage private companies.\" Only about three months after its big raise, in June 2022, Convoy cut 7% of its staff. More layoffs followed in October 2022. In February 2023, it closed its Atlanta office in its **third layoff in less than a year**. Lewis said automation had changed staffing needs. Later he described the period as **\"the perfect storm\"**: a freight market collapse plus a squeeze in capital markets. In his words, \"we were running up the down escalator…. and it kept speeding up.\"",
+      "src": [3, 4]
+    },
+    {
+      "title": "The fall: one week in October",
+      "body": "Convoy spent over four months trying to sell itself or merge, but nothing \"sufficient\" came through. Many likely buyers were hurting from the same freight slump. In October 2023, Lewis told the roughly 500 remaining employees: \"today is your last day at the company.\" It was shockingly sudden for a company valued at **$3.8 billion just 18 months earlier**. Investors were wiped out. Lewis blamed \"a massive freight recession and a contraction in the capital markets.\" On 1 November 2023, Flexport, another logistics startup, bought Convoy's **technology and assets** (not its debts) for what its CEO called a \"modest\" price. The tech was good: Flexport later sold it to DAT, a big freight data company, and said it earned a \"massive return.\"",
+      "src": [4, 5, 6, 7]
+    }
+  ],
+  "timeline": [
+    { "date": "2015", "event": "Dan Lewis and Grant Goodale found Convoy in Seattle.", "kind": "start", "src": [1] },
+    { "date": "Sep 2018", "event": "Raises $185 million led by Alphabet's CapitalG at a $1 billion valuation.", "kind": "money", "src": [0] },
+    { "date": "Nov 2019", "event": "Raises $400 million at a $2.75 billion valuation. 850 employees.", "kind": "money", "src": [1] },
+    { "date": "Apr 2022", "event": "Raises $260 million (equity + venture debt) plus a $150 million credit line. Valued at $3.8 billion; ~1,300 staff.", "kind": "peak", "src": [2] },
+    { "date": "Jun 2022", "event": "Cuts 7% of staff, three months after the big raise.", "kind": "warning", "src": [3] },
+    { "date": "Oct 2022", "event": "Another round of layoffs.", "kind": "warning", "src": [3] },
+    { "date": "Feb 2023", "event": "Closes its Atlanta office: third layoff in under a year.", "kind": "crisis", "src": [3] },
+    { "date": "Oct 2023", "event": "Shuts down its core business; about 500 employees lose their jobs.", "kind": "end", "src": [4, 5] },
+    { "date": "Nov 2023", "event": "Flexport buys Convoy's technology and assets, but not its liabilities.", "kind": "after", "src": [6] },
+    { "date": "Jul 2025", "event": "Flexport sells the Convoy technology to DAT Freight & Analytics.", "kind": "after", "src": [7] }
+  ],
+  "charts": [
+    {
+      "title": "Convoy's headcount",
+      "unit": "employees (approx.)",
+      "kind": "bar",
+      "labels": ["Nov 2019", "Apr 2022", "Oct 2023"],
+      "series": [
+        { "name": "Employees", "values": [850, 1300, 500] }
+      ],
+      "takeaway": "The team peaked just before the freight market turned. Eighteen months later, after repeated layoffs, the last 500 were let go in a day.",
+      "src": [1, 2, 4]
+    }
+  ],
+  "rounds": [
+    { "date": "Sep 2018", "round": "Series C", "amountUsdM": 185, "valuationUsdM": 1000, "investors": ["CapitalG", "T. Rowe Price", "Lone Pine Capital"], "src": [0] },
+    { "date": "Nov 2019", "round": "Series D", "amountUsdM": 400, "valuationUsdM": 2750, "investors": ["Generation Investment Management", "T. Rowe Price", "Baillie Gifford", "Fidelity", "CapitalG", "Lone Pine Capital"], "src": [1] },
+    { "date": "Apr 2022", "round": "Series E ($160M equity + $100M venture debt)", "amountUsdM": 260, "valuationUsdM": 3800, "investors": ["Baillie Gifford", "T. Rowe Price", "Hercules Capital"], "src": [2] }
+  ],
+  "causes": [
+    { "key": "timing", "weight": 35 },
+    { "key": "funding-dried", "weight": 25 },
+    { "key": "burn", "weight": 25 },
+    { "key": "over-expansion", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Sized the company for the boom",
+      "explain": "Convoy raised at **$3.8 billion** and had about 1,300 staff in April 2022, just before the freight market collapsed. Within three months it was cutting jobs. Freight always cycles. **Costs built for the best year** become a heavy weight in the worst one.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Stayed dependent on outside money",
+      "explain": "Lewis's memo said monetary tightening had \"shrunk flows into unprofitable late stage private companies.\" Convoy was one of them. A business that needs fresh investor money to survive is exposed twice in a downturn: **customers spend less and investors invest less**, at the same time.",
+      "src": [4]
+    },
+    {
+      "title": "Added debt at the top of the cycle",
+      "explain": "Of the April 2022 raise, **$100 million was venture debt**, plus a $150 million credit line. Debt is cheaper than selling shares in good times, but it must be repaid whatever happens. When revenue falls, loans **shrink your room to manoeuvre**.",
+      "src": [2]
+    },
+    {
+      "title": "Left the hard decision too late",
+      "explain": "Convoy spent over four months seeking a sale or merger, during a slump that also hurt likely buyers. When nothing worked, about 500 people were told **it was their last day**. Earlier, deeper cuts or an earlier sale might have saved more of the company and given staff more warning.",
+      "src": [4, 5]
+    }
+  ],
+  "warningSigns": [
+    "Are your prices and volumes much higher right now than their long-term average, and are you hiring as if they will stay there?",
+    "Does your plan need another funding round within 18 months to survive?",
+    "Have you taken on debt that you could not repay if revenue fell by a third?",
+    "Have you done more than one round of layoffs in the past year without a clear path to profit?",
+    "Are your likely acquirers in the same industry downturn as you?",
+    "Are you waiting for the market to recover instead of cutting costs to match today's revenue?"
+  ],
+  "lessons": [
+    {
+      "title": "Learn your industry's cycle",
+      "detail": "Trucking, real estate, travel, crypto, commodities: many industries move in booms and busts. Look at at least ten years of history before you plan. Build a budget that survives prices falling back to normal, not just today's highs."
+    },
+    {
+      "title": "Hire for the average year, not the best year",
+      "detail": "When business is booming, use contractors, overtime or partners before adding lots of permanent staff. It is much kinder, and much cheaper, than mass layoffs a year later."
+    },
+    {
+      "title": "Get to profit before the money tightens",
+      "detail": "Cheap money does not last forever. Plan a path where your company can pay its own bills with current revenue, even if growth slows. That is your real safety net."
+    },
+    {
+      "title": "Treat debt with respect",
+      "detail": "Venture debt and credit lines feel like free runway, but they come with repayment dates and conditions. Borrow only what you could repay from the business even in a bad year."
+    },
+    {
+      "title": "Decide early, tell people early",
+      "detail": "If a downturn hits, act in the first few months: cut costs, explore a sale, or raise a small round while you still have time. Give your team as much notice as you can. How you end things affects your reputation for your next company."
+    }
+  ],
+  "quote": {
+    "text": "we were running up the down escalator…. and it kept speeding up.",
+    "who": "Dan Lewis, co-founder and CEO of Convoy",
+    "context": "In his memo to employees announcing the shutdown, October 2023",
+    "src": [4]
+  },
+  "afterlife": {
+    "text": "On 1 November 2023 Flexport, the logistics company led by Ryan Petersen, bought Convoy's technology and assets, but not its business or debts, and kept a small group of its product and engineering team. Petersen called the price \"modest\" relative to value and praised Convoy's \"incredible tech stack\", which automated procurement for 98% of loads. Flexport rebuilt it over 18 months and in July 2025 sold it to DAT Freight & Analytics, saying it got a \"massive return on investment.\" Convoy's software outlived the company: proof that good technology cannot save a business whose costs and funding are built for the wrong moment.",
+    "src": [6, 7]
+  },
+  "sources": [
+    { "label": "TechCrunch: Convoy raises $185M at $1B valuation (Sep 2018)", "url": "https://techcrunch.com/2018/09/21/on-demand-trucking-app-convoy-raises-185m-at-1b-valuation/" },
+    { "label": "TechCrunch: Convoy raises $400 million (Nov 2019)", "url": "https://techcrunch.com/2019/11/13/convoy-raises-400-million-to-expand-its-on-demand-trucking-platform/" },
+    { "label": "TechCrunch: Convoy raises $260M Series E (Apr 2022)", "url": "https://techcrunch.com/2022/04/21/convoy-raises-260m-series-e-to-expand-digital-freight-network-products/" },
+    { "label": "TechCrunch: Convoy cuts more jobs as part of a restructuring (Feb 2023)", "url": "https://techcrunch.com/2023/02/16/trucking-app-convoy-layoffs-restructuring/" },
+    { "label": "CNBC: Bezos-backed freight firm Convoy shuts down, read the CEO memo (Oct 2023)", "url": "https://www.cnbc.com/2023/10/19/bezos-backed-freight-firm-convoy-shuts-down-read-ceo-memo-here.html" },
+    { "label": "TechCrunch: Convoy collapses (weekly roundup, Oct 2023)", "url": "https://techcrunch.com/2023/10/22/tesla-digs-its-own-grave-with-the-cybertruck-convoy-collapses-and-rivian-scores-a-win-at-rebelle/" },
+    { "label": "TechCrunch: Flexport acquires technology of former digital freight unicorn Convoy (Nov 2023)", "url": "https://techcrunch.com/2023/11/01/flexport-acquires-technology-of-former-digital-freight-unicorn-convoy/" },
+    { "label": "TechCrunch: Flexport sells Convoy's tech two years after buying it (Jul 2025)", "url": "https://techcrunch.com/2025/07/28/flexport-sells-former-freight-unicorn-convoys-tech-two-years-after-buying-it/" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Flexport paid $16 million for Convoy's assets and DAT later paid $250 million for the platform.", "note": "These figures appear in secondary summaries. Flexport and DAT did not disclose terms in the reports we read; Flexport only called its price 'modest' and its return 'massive'. Left out of the story." },
+      { "claim": "Employees were let go without severance.", "note": "Reported in some accounts; the CEO memo published by CNBC does not mention severance terms. Left out of the story." },
+      { "claim": "Total money raised.", "note": "We confirm at least $928M ($668M+ by 2019 plus $260M in 2022). TechCrunch's 2023 roundup says 'more than $1 billion', likely including other debt or credit." },
+      { "claim": "Dan Lewis joined Flexport after the shutdown.", "note": "The WSJ reported it might happen, citing an unnamed source; we did not confirm it in a source we read." }
+    ]
+  }
+}

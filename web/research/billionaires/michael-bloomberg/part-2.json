@@ -1,0 +1,1042 @@
+{
+  "chapters": [
+    {
+      "id": "every-company",
+      "kicker": "The full list",
+      "title": "Everything He Ever Started",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most billionaire stories have one hero company. Michael Bloomberg's has one hero product and a long trail of side bets behind it. As of 2013 the Terminal brought in about ==85%== of company revenue and nearly all of its profit, according to Fortune. __Almost everything else on this list was paid for by one very expensive box.__",
+          "src": [1]
+        },
+        {
+          "t": "p",
+          "text": "That makes this chapter unusual. A normal founder fails and runs out of money. Bloomberg's side bets could fail for years and nobody had to close the doors. Keep that in mind as you read, because it explains both the boldest wins here and the most expensive flops.",
+          "src": [1]
+        },
+        {
+          "t": "note",
+          "text": "One product paid for all of this. Remember that on every page."
+        },
+        {
+          "t": "h",
+          "text": "The one that paid for everything"
+        },
+        {
+          "t": "venture",
+          "name": "Innovative Market Systems, now Bloomberg L.P. (the Terminal)",
+          "years": "1981 to today",
+          "outcome": "running",
+          "idea": "Wall Street traders were drowning in paper and could not quickly compare bond prices. The idea was a desk machine that showed live prices and let a person with no special training hit a key and get an answer, including \"what if\" tests on a whole portfolio.",
+          "decision": "Salomon Brothers pushed him out at 39. He asked himself what he had the resources, ability, interests and contacts to do. He had been a trader and had run Salomon's computer systems, so this was the one spot where his two skills overlapped. When an executive later urged him to bid for a TV network, he answered that he built businesses and did not buy them. CNBC would describe a 28-year history of growing without buying companies, though there were small exceptions like one radio station.",
+          "howStarted": "A one-room temporary office on Madison Avenue and three people he knew from Salomon: Tom Secunda for the analytics, Duncan MacMillan to learn what customers needed, and Chuck Zegar for the software. He pitched Merrill Lynch alone, in a boardroom full of its lawyers, traders and programmers. When an executive said Merrill could build the same thing, he offered to do it in six months, with no obligation to buy if it fell short. The team met the deadline, though the final bug was fixed while he was riding in a taxi to deliver the first machine. Merrill ordered 20 and eventually about 1,000.",
+          "funding": "His own money. He cashed out his Salomon partnership for more than $10 million, put in $300,000 to open, then spent $4 million on the crash build. No banks and no venture capital. Only after that did Merrill pay $30 million for 30%, and Bloomberg recalled pocketing $24 million of it.",
+          "whatHappened": "The 10,000th terminal went in during 1990. The count passed 40,000 in July 1994, reached 73,000 by early 1997, and stood at 318,000 customers in 2013. A 2025 report put subscribers above 350,000. Forbes now shows revenue of about $14.9 billion and 26,000 staff. It has never gone public, though see the last chapter for what is now being discussed.",
+          "lesson": "If a buyer says no because they can build it themselves, take away their risk. Offer a deadline and let them walk away free if you miss it. Only do this if you can truly deliver.",
+          "src": [0, 1, 2, 4, 6, 13, 14, 15, 18, 78, 80, 90]
+        },
+        {
+          "t": "p",
+          "text": "The Terminal started with numbers only. For news, Bloomberg bought rights to carry the Dow Jones wire. But Dow Jones also owned Telerate, the biggest data rival, and he feared the day it would wise up and switch him off.",
+          "src": [1, 0]
+        },
+        {
+          "t": "h",
+          "text": "The media empire, built to sell more boxes"
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg News",
+          "years": "1990 to today",
+          "outcome": "running",
+          "idea": "A newswire built for traders. Not to make money itself, but to make the Terminal the only screen a client needed.",
+          "decision": "A Wall Street Journal reporter named Matthew Winkler had co-written a front-page story on how Bloomberg was beating larger rivals. A year later Bloomberg took him to lunch, talked for hours and asked him to build a news service. He told Winkler on day one why it existed: each story should also show off what the Terminal could do. Bloomberg's first instinct was that he might not need editors at all. Winkler won that argument for the wire.",
+          "howStarted": "Winkler became employee number 455. In August 1990 Dow Jones cancelled its contracts with Bloomberg and announced it on its own wire and in the Journal, which handed Bloomberg free publicity. Then came the clever part. Bloomberg offered his news free to newspapers if they printed the credit line, and gave a free terminal first to The New York Times and then to other big papers.",
+          "funding": "Paid for by Terminal revenue. Fortune says it was not designed to generate income at all. The company did not start charging newspapers a monthly fee for those terminals until January 1999.",
+          "whatHappened": "By 1995, Bloomberg boasted, it ran in more American newspapers than any service except AP. By 2013 it had 2,400 journalists in 150 bureaus across 73 countries, and only Reuters and AP were bigger among independent news groups. The fastest desk staff could turn a press release into a headline in under 4.5 seconds. Semafor counted about 2,700 in the newsroom in 2026.",
+          "lesson": "If your product depends on a rival's supply, build your own before they cut you off. And giving away a sample in return for your name in print can be the cheapest advertising ever bought.",
+          "src": [0, 1, 2, 78]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 1987, when Winkler helped edit a new Journal section, the paper's bond tables came only from Bloomberg, even though the Journal's own parent owned Telerate. It bothered him. When he looked closer he became sure Bloomberg was about to eat Dow Jones's lunch. Your competitor's own employee can be the first person to spot you.",
+          "src": [0]
+        },
+        {
+          "t": "venture",
+          "name": "WBBR, Bloomberg Radio",
+          "years": "1992 to today",
+          "outcome": "running",
+          "idea": "Turn business news into a radio feed that other stations would pay for or share ad money to carry, without owning a national network.",
+          "decision": "An executive from the Financial News Network, Jonathan Fram, urged Bloomberg to bid for that network. He refused to buy it and hired Fram instead. NBC won the bidding and merged it into CNBC, which became a lucrative rival. So Bloomberg's radio move was the first step of his own, smaller road into broadcast.",
+          "howStarted": "He bought WNEW, a New York AM station that played Frank Sinatra and Judy Garland, dropped the music and renamed it WBBR. One computerised station fed reports to others.",
+          "funding": "$13.5 million from the company.",
+          "whatHappened": "The station's audience shrank by two-thirds after the change. It still did its real job, which was promoting the Bloomberg name. By 1997, 125 stations subscribed to the feed.",
+          "lesson": "Judge a project by its real goal. A radio station that lost most of its listeners still won, because it was never really about listeners.",
+          "src": [0, 2, 6]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Television",
+          "years": "1994 to today",
+          "outcome": "running",
+          "idea": "A 24-hour financial news channel, also piped into the Terminal, using the same cheap automated tools as the radio feed.",
+          "decision": "The same workstation that let a reporter make radio could make TV with a robotic camera added, so the extra cost looked small. His stated goal in 1997 was round-the-clock news everywhere in local languages.",
+          "howStarted": "Bloomberg Information Television debuted in January 1994, distributed by DirecTV. Terminals were wired for it in 1995 and a European service launched the same year.",
+          "funding": "Company cash, justified internally as marketing for the Terminal and as access to newsmakers.",
+          "whatHappened": "TV lost $196 million in 2008 alone. Six foreign-language channels drew tiny audiences, and in 2009 they were shut, with about 140 people fired. Those were the first layoffs in Bloomberg's history. By late 2013 TV was still losing about $100 million a year and shifting toward digital video.",
+          "lesson": "\"It helps marketing\" can hide a huge loss for years. Put a number on what a side project must deliver, or nobody will ever check.",
+          "src": [0, 1, 2]
+        },
+        {
+          "t": "venture",
+          "name": "None of Your Business (the comedy pilot)",
+          "years": "2010",
+          "outcome": "failed",
+          "idea": "An evening comedy show to shake up Bloomberg TV.",
+          "decision": "Andy Lack, the former NBC News chief hired to fix the multimedia side, was eager to break the channel's dull image and contemplated it as a new programme.",
+          "howStarted": "A co-creator of The Daily Show made a 22-minute pilot in summer 2010. It featured a former Miss USA as co-host and a stock-picking tarantula named Ivan.",
+          "funding": "Inside the TV budget. No figure has been made public.",
+          "whatHappened": "Lack quickly pulled the plug. It never aired as a series.",
+          "lesson": "Kill bad ideas at pilot stage. One cheap test is what stops a funny idea from becoming an expensive one.",
+          "src": [1]
+        },
+        {
+          "t": "note",
+          "text": "A stock-picking tarantula. At a company famous for bond math."
+        },
+        {
+          "t": "venture",
+          "name": "The consumer magazines: Bloomberg Personal, Personal Finance, Wealth Manager, Pursuits",
+          "years": "1994 to 2016",
+          "outcome": "shut",
+          "idea": "Use the famous name to reach ordinary investors and wealthy readers, not only traders.",
+          "decision": "In 1997 Bloomberg said the real potential was \"everything else\", meaning the consumer market. He wanted a worldwide network of serious news in print, TV, radio and online.",
+          "howStarted": "Bloomberg Personal began in 1994 as a Sunday newspaper insert with about 6 million initial circulation, which Gale's history calls the magazine industry's largest launch to that date. Wealth Manager followed in 1999. Pursuits, a luxury title sent to Terminal subscribers, came in 2012.",
+          "funding": "Company cash. Amounts were never published.",
+          "whatHappened": "In January 2003 the company announced it would close Bloomberg Personal Finance to focus on professional investors, and offered its 40 staff other jobs. PitchBook records Wealth Manager as sold to Highline Media in 2005. Pursuits ended in print with its December 2016 issue, nine months after it was stepped up to six issues a year, and moved online.",
+          "lesson": "A strong name in one market does not carry over by magic. Traders trusted the Bloomberg name. Newsstand readers had no reason to.",
+          "src": [0, 2, 44, 45, 46]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Press (books)",
+          "years": "1996 to 2010",
+          "outcome": "merged",
+          "idea": "Books for consumers and for finance professionals, under two imprints, carrying the Bloomberg name.",
+          "decision": "It fitted the plan to put the brand on every kind of media. His own memoir, though, was published by John Wiley and Sons, the firm that later took the line over.",
+          "howStarted": "It started publishing in 1996 under the imprints Bloomberg Personal Bookshelf and Bloomberg Professional Library.",
+          "funding": "Company cash. No figures are public.",
+          "whatHappened": "It was reported in November 2009 as slated for closure once the BusinessWeek deal was done. In March 2010 it became an imprint of Wiley, which also took over BusinessWeek-branded books.",
+          "lesson": "Do not run a small business that another firm does better. Hand it over and keep your name on the cover.",
+          "src": [2, 3, 47, 48]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Tradebook",
+          "years": "1996 to today",
+          "outcome": "running",
+          "idea": "Let Terminal users trade with each other from the same screen, without a human broker in the middle. Traders call such a system an electronic network.",
+          "decision": "The machine already had an electronic bond-trading feature from 1988, so stocks were a natural next step. Its later growth was helped by new US order-handling rules, which a legal study credits with giving networks like it a bigger role in the Nasdaq market.",
+          "howStarted": "The firm was set up on March 28, 1996 and began operating on December 12, 1996, with keyboards that gained keys made for traders.",
+          "funding": "Bloomberg L.P., which owns 99% of it. A small affiliated company holds the other 1%.",
+          "whatHappened": "By early 1998 it was averaging about 7 million shares a day. It is still a registered broker-dealer. In September 2025 it agreed to pay a $5 million civil penalty to settle SEC findings that its marketing promised options data \"in fractions of seconds\" while it knew data could lag by minutes at busy times. It neither admitted nor denied the findings.",
+          "lesson": "Sell a new thing to the audience you already have. And never leave a speed claim in your marketing after your own engineers know it has stopped being true.",
+          "src": [2, 53, 54, 55, 88, 91, 92]
+        },
+        {
+          "t": "h",
+          "text": "The mayor years: the rule against buying breaks"
+        },
+        {
+          "t": "p",
+          "text": "From 2002 he was running New York, not the company. In January 2008 he brought in his deputy mayor, Dan Doctoroff, as president. Doctoroff saw the danger plainly: one product, slowing growth. In July 2008, before a companywide gathering with skits and a marching band playing the Beatles' \"Revolution\", he unveiled \"Plan B\" with 47 initiatives. It was the start of Bloomberg's most expensive stretch of experiments.",
+          "src": [1, 74]
+        },
+        {
+          "t": "p",
+          "text": "__A company with one giant cash machine is rich and fragile at the same time.__ The side bets below are what that fear looks like when it is spent. Fortune counted more than ==$2 billion== poured into them by late 2013, with little to show for it at that point.",
+          "src": [1]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Law (BLAW)",
+          "years": "2006 to today",
+          "outcome": "running",
+          "idea": "Do for lawyers what the Terminal did for traders, and take on Westlaw and LexisNexis, whose databases took decades to build.",
+          "decision": "He had promoted the idea himself before going to City Hall. His successors feared a cheaper product would make the Terminal look less special, so at first they sold law only as part of a full Terminal subscription, at $18,000 a year. Most law firms did not want a Wall Street data service. Westlaw and Lexis charged per search, which lawyers could pass on to clients.",
+          "howStarted": "Sales teams were set up around the world in 2006, aiming to sell 3,000 subscriptions to law firms. They sold about 300.",
+          "funding": "Company cash, roughly $1 billion over a decade, by Fortune's count.",
+          "whatHappened": "A 2009 website relaunch at a $5,400 sticker price again aimed for 3,000 and got 1,000. The site was first built on Flash, which crashed computers. Lawyers hated the required fingerprint reader, and it was dropped. Inside the company some called it \"Bloomberg's Vietnam\". It is now a flagship of Bloomberg Industry Group.",
+          "lesson": "Do not force a new customer to buy your old product. And check how they pay today, because lawyers bill search costs to clients and a flat fee broke that habit.",
+          "src": [1, 28]
+        },
+        {
+          "t": "quote",
+          "text": "You guys are trying to boil the ocean",
+          "who": "Tom Secunda, Bloomberg co-founder, complaining about the spending on Bloomberg Law (reported by Fortune)",
+          "src": [1]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Government (BGOV)",
+          "years": "2011 to today",
+          "outcome": "merged",
+          "idea": "News, contract data and policy analysis for anyone with business in Washington. The 2008 bailouts had put government at the centre of business.",
+          "decision": "Learning from the law flop, it was designed as a nimble startup: based in Washington, sold on its own website, with its own email systems and its own team, run by former McKinsey partner Chris Walters. BGOV's executives assessed the market and put yearly spending on such information at $1.3 billion.",
+          "howStarted": "It launched in January 2011, with a planned team of about 150 journalists and analysts, priced at $5,700 a year per user. A Washington magazine called it the Death Star.",
+          "funding": "A budget of up to $100 million for the first 18 months. The company did not confirm that number but did not dispute it.",
+          "whatHappened": "By late 2011 it had sold fewer than 2,000 subscriptions against a forecast of 5,400. Walters was grilled for two hours in a budget meeting before about 50 people, and left months later. About 40 staff were laid off and control moved back to New York. It had about 4,200 subscribers by 2013, with cumulative losses Doctoroff put at under $200 million. In 2017 it was folded into the BNA unit.",
+          "lesson": "An inside startup is only independent if the old guard lets it be. Here, the people who ran the main business got to judge the project that threatened their way of working.",
+          "src": [1, 24, 25, 26, 93]
+        },
+        {
+          "t": "venture",
+          "name": "Bureau of National Affairs (BNA), now Bloomberg Industry Group",
+          "years": "2011 to today",
+          "outcome": "running",
+          "idea": "Buy a publisher founded in 1929, with deep law, tax and regulatory content, instead of creating all of it from nothing.",
+          "decision": "This was Doctoroff doubling down. Fortune says a big reason was to act as an accelerator for the struggling law business. It went directly against Bloomberg's old instinct of building rather than buying.",
+          "howStarted": "Announced in August 2011. Law was merged into it in 2013, with 80 job losses.",
+          "funding": "About $990 million from the company. Fortune gives $992 million.",
+          "whatHappened": "It became Bloomberg BNA, and in September 2019 was renamed Bloomberg Industry Group, selling Bloomberg Law, Bloomberg Tax and Bloomberg Government. Its 2023 fact sheet listed more than 1,300 employees.",
+          "lesson": "When a market took decades to build, buying a decades-old player may be cheaper than copying it. Bloomberg learned that after spending most of a decade trying to copy it.",
+          "src": [0, 1, 27, 28, 29]
+        },
+        {
+          "t": "venture",
+          "name": "BusinessWeek, now Bloomberg Businessweek",
+          "years": "2009 to today",
+          "outcome": "running",
+          "idea": "Buy a famous 80-year-old magazine and use it to reach chief executives, not only traders.",
+          "decision": "Fortune reports that this was the mayor's own call and that Doctoroff, chairman Peter Grauer and top editor Norman Pearlstine all opposed it as a money pit. It lost more than $800,000 a week in 2008, and Fortune put it on course for a $62 million loss in 2009. He liked the reach. CNBC noted how unusual it was for a firm with a 28-year history of growing on its own.",
+          "howStarted": "McGraw-Hill put it up for sale in summer 2009 under pressure from its investors. Bloomberg beat private equity firms and publishers across several rounds of bids. The magazine had more than 400 staff.",
+          "funding": "Cash of $2 million to $5 million by press reports, plus taking on liabilities. The New York Times put those at $31.9 million as of April 2009.",
+          "whatHappened": "Better and buzzier under editor Josh Tyrangiel, but still losing about $30 million a year in 2013. After 94 years as a weekly, it was told in November 2023 that it would go monthly, and relaunched in July 2024 with a 120-page first issue.",
+          "lesson": "Be honest about why you buy something. Buying influence is a real goal, but do not pretend the spreadsheet agrees with you.",
+          "src": [1, 16, 17, 18, 19, 20]
+        },
+        {
+          "t": "quote",
+          "text": "it has been losing a meaningful amount of money and that is reflected in the purchase price",
+          "who": "Daniel Doctoroff, Bloomberg's president, to Reuters in 2009",
+          "src": [17]
+        },
+        {
+          "t": "venture",
+          "name": "New Energy Finance, now BloombergNEF",
+          "years": "Bought 2009, still running",
+          "outcome": "running",
+          "idea": "Independent data and analysis for investors and policymakers working in clean energy.",
+          "decision": "Bloomberg bought it because clean-energy money looked set to grow fast and clients would need to understand it. Its founder, Michael Liebreich, says he always planned to sell once clean energy went mainstream and his company needed to be part of something much bigger.",
+          "howStarted": "Liebreich founded it in London in 2004, after losing his job in the dotcom bust. His first idea came while travelling and seeing blackouts on several continents.",
+          "funding": "How Liebreich first paid for it is not in the sources we read. Bloomberg bought it in December 2009 for an undisclosed sum.",
+          "whatHappened": "Liebreich said in 2012 that the unit was on track to double in size within three years of the deal. Even so, Fortune reported in 2013 that Doctoroff seemed ready to cut his losses and was pondering a merger into BNA. It kept going as BloombergNEF. By 2020, Liebreich said, he only wrote for it and held no executive role.",
+          "lesson": "A founder who knows when a niche is about to go mainstream can pick the moment to sell. Know which stage your business is good at.",
+          "src": [1, 30, 31, 94, 95]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Sports",
+          "years": "About 2009 to 2014",
+          "outcome": "sold",
+          "idea": "Use financial-style modelling to predict sports results, for baseball teams, broadcasters and agents.",
+          "decision": "The same maths and screen that served traders looked as if they could serve baseball front offices. Sports Business Journal calls it an experiment in leveraging financial expertise into sports.",
+          "howStarted": "Led from 2009 by Bill Squadron. It grew to about 30 staff and a data system used by 27 Major League Baseball teams, plus clients in Japan.",
+          "funding": "Bloomberg L.P. Sports agency IMG later bought about a third for an estimated $6 million to $8 million.",
+          "whatHappened": "Sold to data firm STATS in September 2014. A source told Reuters the price was $15 million to $20 million. Sports Business Journal said low eight figures, a tiny fraction of the parent's $9 billion-plus revenue.",
+          "lesson": "Winning almost every customer in a small market still leaves you with a small business. Check the size of the prize before you start.",
+          "src": [21, 22, 23, 96]
+        },
+        {
+          "t": "note",
+          "text": "27 of 30 baseball teams. And still a rounding error for Bloomberg."
+        },
+        {
+          "t": "venture",
+          "name": "Doctoroff's quiet closures: a real estate unit and a personal-finance website",
+          "years": "Closed by 2013",
+          "outcome": "shut",
+          "idea": "Two more attempts to apply the Bloomberg model to new markets.",
+          "decision": "Both came out of the diversification push under Doctoroff, whose own rule was that businesses other than the Terminal must eventually make money.",
+          "howStarted": "Details of how they began have not been published in sources we could check.",
+          "funding": "Company cash. No figures are public.",
+          "whatHappened": "Fortune reported in December 2013 that he had already abandoned both.",
+          "lesson": "Most of a big company's failures never become news. When you study a winner, remember that you are mostly reading about the bets that survived.",
+          "src": [1]
+        },
+        {
+          "t": "h",
+          "text": "Investing, buying and chasing young viewers"
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Beta",
+          "years": "2013 to today",
+          "outcome": "running",
+          "idea": "An early-stage venture fund, meaning it buys small stakes in young companies. Its first focus was getting insights from data and making work better.",
+          "decision": "The Bloomberg team approached Roy Bahat because they wanted more visibility into the world of startups. Bahat had been planning to start his own company. Fortune described the fund as not a traditional corporate one: financial returns were the goal, and its team made its own choices. Bloomberg already had another arm, Bloomberg Ventures, for investments that helped its business.",
+          "howStarted": "Launched in June 2013, led by Bahat with partners Karin Klein and James Cham. Its first investments included Codecademy.",
+          "funding": "$75 million, with Bloomberg as the only investor in the fund.",
+          "whatHappened": "It still operates, and has published and open-sourced a manual on how the fund works. We found no audited return figures.",
+          "lesson": "If you want honest signals from a new world, give the people watching it their own money and their own judgement.",
+          "src": [35, 97]
+        },
+        {
+          "t": "venture",
+          "name": "Barclays index business (Bloomberg Barclays Indices)",
+          "years": "2016 to today",
+          "outcome": "running",
+          "idea": "Own the bond benchmarks that much of the investing world measures itself against, including the US Aggregate Bond Index, plus the risk tools that go with them.",
+          "decision": "Barclays had labelled the unit non-core and wanted to sell. An earlier auction had run into trouble because buyers learned some bond price data was not included. Bloomberg already had deep bond data of its own, which in our reading made it a natural buyer.",
+          "howStarted": "Agreed on December 16, 2015. The indices had once belonged to Lehman Brothers. They were co-branded as Bloomberg Barclays Indices for an initial five years, and the deal closed in August 2016.",
+          "funding": "About £520 million in company money, roughly $790 million by Barclays' own conversion. Barclays booked a gain of about £480 million.",
+          "whatHappened": "Barclays also agreed to run its POINT analytics tool for 18 months to help clients move to other providers, including Bloomberg's PORT product. So the purchase also fed the Terminal.",
+          "lesson": "Watch for a motivated seller, especially when you already hold what other buyers would need.",
+          "src": [32, 33, 34, 98]
+        },
+        {
+          "t": "venture",
+          "name": "TicToc, then QuickTake, then Bloomberg Originals",
+          "years": "2017 to today",
+          "outcome": "pivoted",
+          "idea": "A round-the-clock news network built for phones and social media, aimed at younger viewers.",
+          "decision": "Bloomberg and Twitter chief Jack Dorsey announced it together in May 2017, using Bloomberg's journalists as the edge and Twitter as the distribution.",
+          "howStarted": "TicToc by Bloomberg launched on Twitter on December 17, 2017.",
+          "funding": "Inside Bloomberg Media. No figure is public.",
+          "whatHappened": "It reached 90 million monthly views, then in December 2019 was renamed QuickTake, partly to avoid confusion with TikTok. A streaming network followed in November 2020. In February 2023 Bloomberg Originals became the long-form brand, and QuickTake went back to short clips on social media.",
+          "lesson": "Search for rivals before you fall in love with a name. Two years of brand-building went into a word that a far bigger app was about to own.",
+          "src": [49, 50, 51, 52]
+        },
+        {
+          "t": "quote",
+          "text": "We obviously see the similarities of the names",
+          "who": "Jean Ellen Cowgill, QuickTake general manager, on TikTok (Variety, 2019)",
+          "src": [50]
+        },
+        {
+          "t": "h",
+          "text": "The projects that were never meant to earn money"
+        },
+        {
+          "t": "venture",
+          "name": "Mayor of New York City",
+          "years": "2002 to 2013",
+          "outcome": "shut",
+          "idea": "Run the city like a data-driven firm. His 1997 memoir had already said he thought he would be great in an executive government job.",
+          "decision": "A lifelong Democrat, he switched to the Republican line to run in 2001, and later became an independent. To keep his stake he went to the city's Conflicts of Interest Board, which ruled he could hold it if he stayed out of day-to-day management.",
+          "howStarted": "His 2001 campaign, paid for by him, cost $74 million. At City Hall he worked in an open bullpen alongside his deputies, not a closed office.",
+          "funding": "His own money: $74 million in 2001, $85 million in 2005 and $102 million in 2009. A Telegraph report on a New York Times analysis put total spending, including gifts and staff travel, at $650 million or more. His pay was $1 a year.",
+          "whatHappened": "Three terms, ending December 31, 2013. In 2009 he won with just 50.7% after spending about $174 per vote. Company revenue tripled while he was away, according to Fortune.",
+          "lesson": "Building a company that can run without you is what makes every later choice in your life possible.",
+          "src": [0, 1, 10, 11, 36, 37, 75]
+        },
+        {
+          "t": "venture",
+          "name": "The 2020 presidential campaign",
+          "years": "November 2019 to March 2020",
+          "outcome": "failed",
+          "idea": "Enter the Democratic race late and win with money and ads rather than a slow grind through early states.",
+          "decision": "He chose to skip Iowa, New Hampshire, Nevada and South Carolina and bet everything on the Super Tuesday states.",
+          "howStarted": "A 104-day campaign, almost wholly self-funded.",
+          "funding": "About $1.05 billion of his own money, according to Federal Election Commission filings. That is about $10 million a day.",
+          "whatHappened": "He won only American Samoa and 55 delegates, roughly $19 million per delegate by our arithmetic, then quit on March 4, 2020 and endorsed Joe Biden.",
+          "lesson": "Money buys attention, not belief. His business won by being better for one customer at a time. This campaign tried to skip that step.",
+          "src": [38]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Philanthropies",
+          "years": "1990s to today",
+          "outcome": "running",
+          "idea": "Give away nearly the whole fortune, in the areas of arts, education, environment, government innovation and public health.",
+          "decision": "In 1997 he told The New Yorker he planned to give it away before he died, because you get to see the money used as you wanted. He credited his father, who always contributed to the NAACP on a bookkeeper's pay.",
+          "howStarted": "By 1996 he says he was giving $35 million a year, with Patricia Harris overseeing the effort. She is now its CEO.",
+          "funding": "The profits of Bloomberg L.P. He has committed the vast majority of them.",
+          "whatHappened": "$4.3 billion in 2025, and $25.4 billion over his lifetime. Gifts to his old university, Johns Hopkins, include $1.8 billion for financial aid in 2018, and $1 billion in 2024 to make medical school free for students from families earning under $300,000. Forbes reports he has committed to donate his Bloomberg stake when he dies, if not sooner.",
+          "lesson": "Decide early what the money is for. Bloomberg was saying this when he was worth about $2 billion, not $100 billion.",
+          "src": [0, 5, 39, 43, 101]
+        },
+        {
+          "t": "venture",
+          "name": "Mayors Against Illegal Guns, now part of Everytown",
+          "years": "2006 to today",
+          "outcome": "running",
+          "idea": "A coalition of mayors, focused on stopping illegal gun sales.",
+          "decision": "He picked an angle mayors of both parties could join: fighting criminal sales, not attacking lawful owners.",
+          "howStarted": "He and Boston's mayor, Thomas Menino, founded it in 2006 with 15 mayors.",
+          "funding": "He has been a major donor. The New York Times reported he planned to spend $50 million on the new group formed in 2014.",
+          "whatHappened": "It merged with Moms Demand Action to form Everytown for Gun Safety in 2014. The mayors' coalition says it has grown to over 2,000 current and former mayors.",
+          "lesson": "Start a movement with the narrowest claim that the most people can agree on. You can widen it later.",
+          "src": [41, 42]
+        },
+        {
+          "t": "venture",
+          "name": "Bloomberg Associates",
+          "years": "2014 to today",
+          "outcome": "running",
+          "idea": "A free consulting firm for city governments, using his mayoral team's experience.",
+          "decision": "He believed improving big cities was the best way to reach the most people, so he kept his City Hall team working instead of letting it scatter.",
+          "howStarted": "Right after he left office, many top members of his mayoral team moved across.",
+          "funding": "Bloomberg Philanthropies. Cities pay nothing.",
+          "whatHappened": "Its client list includes cities such as Athens, Bogotá, Detroit, London, Mexico City and Paris.",
+          "lesson": "A strong team is an asset that outlives a job. When a project ends, ask what the team could do next.",
+          "src": [40, 99]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "$1B", "label": "Fortune's estimate of what Bloomberg Law cost over a decade, as of 2013", "src": [1] },
+            { "value": "$1.05B", "label": "his own money spent on 104 days of running for president, 2020", "src": [38] },
+            { "value": "$196M", "label": "what Bloomberg TV lost in one year, 2008", "src": [1] },
+            { "value": "85%", "label": "share of revenue still coming from one product, as of 2013", "src": [1] }
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read that again. A $1 billion flop, and the company barely noticed."
+        },
+        {
+          "t": "p",
+          "text": "That is the real lesson of this list. His failures were not small, but they were affordable, because of the thing he built first. __Build the machine that pays for your mistakes before you try to make big ones.__ Then read the next chapter, because that machine began with one very risky afternoon.",
+          "src": [1]
+        }
+      ]
+    },
+    {
+      "id": "the-merrill-bet",
+      "kicker": "1981 to 1996",
+      "title": "The Deal That Made Him",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "It happened on a summer morning in 1981. Michael Bloomberg was 39 and a partner at Salomon Brothers, then the hottest trading firm on Wall Street. Managing partner John Gutfreund and the economist Henry Kaufman told him his time there was finished. By his own account his last day was ==Saturday, August 1, 1981==. He had spent 15 years on twelve-hour days and six-day weeks.",
+          "src": [3]
+        },
+        {
+          "t": "quote",
+          "text": "Here's $10 million; you're history.",
+          "who": "Michael Bloomberg, describing what he essentially heard, in his memoir Bloomberg by Bloomberg",
+          "src": [3]
+        },
+        {
+          "t": "p",
+          "text": "It was not random. Salomon had just agreed to merge with the commodities giant Phibro, and about half a dozen partners were not invited to stay. Bloomberg admitted his own vocal criticism had soured things with many of them. Three years earlier he had been moved off the trading desk to run information technology, which looked like a demotion. __The move that seemed to be ending his career handed him the second skill his next company needed.__",
+          "src": [0, 90]
+        },
+        {
+          "t": "note",
+          "text": "He was 39. Fired. From the only full-time job he'd ever had."
+        },
+        {
+          "t": "p",
+          "text": "He had more than $10 million after cashing out his partnership. He put in $300,000, opened a one-room office and hired three Salomon people. Then came the hardest part. One company history says Merrill Lynch was the only Wall Street firm interested in the idea. Its capital markets chief, Ed Moriarty, agreed to hear him out.",
+          "src": [0, 14, 15]
+        },
+        {
+          "t": "h",
+          "text": "The six-month gamble"
+        },
+        {
+          "t": "p",
+          "text": "He walked into a boardroom alone. Lawyers, traders and programmers sat on the other side. He told them the machine was just about ready for delivery, which was an aggressive way to describe it. It would run \"what if\" tests on portfolios, update a yield curve instantly and carry secure email, long before most people used email at all.",
+          "src": [0, 1]
+        },
+        {
+          "t": "p",
+          "text": "One executive said Merrill could build the same thing. Bloomberg raised the stakes on the spot: he would deliver in six months, and Merrill owed nothing if he fell short. Moriarty accepted. Bloomberg then spent ==$4 million== of his own money on a crash programme. That was roughly 40% of the cash he had just received, on one customer's promise to maybe buy.",
+          "src": [0]
+        },
+        {
+          "t": "example",
+          "text": "For example: a yield is the return a bond pays, and a yield curve shows yields across different time periods. In 1979 a Salomon salesman asked for a bond yield often had to look it up in a book or use a calculator, according to Tom Secunda. Bloomberg's machine made that a keystroke. Traders were buying back their own time.",
+          "src": [0]
+        },
+        {
+          "t": "p",
+          "text": "He won. Merrill ordered 20 terminals. Then it did something much bigger: it paid ==$30 million for 30%== of the company. Bloomberg recalled pocketing $24 million of that. Dan Tully, later Merrill's chief executive, said the firm believed in his analytics and wanted to strengthen its push into fixed-income markets, where it was weak.",
+          "src": [0]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders! He took a customer as his investor."
+        },
+        {
+          "t": "h",
+          "text": "The trap inside the good deal"
+        },
+        {
+          "t": "p",
+          "text": "The price was a five-year ban. He could not sell to any of Merrill's 14 major competitors. So his clients were the likes of the Bank of England, the Vatican, the World Bank and the Federal Reserve. Gale's company history says the marketing focused on buyers of securities, such as pension funds, central banks, mutual funds and insurers. Wall Street's dealers came only in 1986.",
+          "src": [0, 2]
+        },
+        {
+          "t": "p",
+          "text": "After about two years he wanted out of the ban. Merrill's own traders wanted to keep the machine to themselves. Bloomberg's argument went to their self-interest: more sales would raise the value of Merrill's own stake. Tully overruled his traders, and in 1984 the sales restriction was lifted. The price was set at ==$1,500 a month==, or $1,000 for each extra machine.",
+          "src": [0, 2]
+        },
+        {
+          "t": "quote",
+          "text": "I felt that clients ultimately did not want a Bloomberg-Merrill Lynch machine on their desks",
+          "who": "Dan Tully, Merrill Lynch, to The New Yorker",
+          "src": [0]
+        },
+        {
+          "t": "p",
+          "text": "The name changed to Bloomberg L.P. in 1986, and he started selling to Wall Street's dealers too. London and Tokyo offices opened in 1987. A Portable Bloomberg had already appeared, and by 1990 the company had installed its 10,000th terminal. Each one was a monthly payment. __That kind of repeat income is what later allowed him to absorb all the failures you just read about.__",
+          "src": [2]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "Aug 1981", "text": "Fired from Salomon Brothers after 15 years, with more than $10 million.", "src": [0, 3] },
+            { "when": "Dec 1982", "text": "Merrill Lynch becomes first customer, ordering about 20 terminals.", "src": [2, 9] },
+            { "when": "1984", "text": "Merrill lifts its five-year sales ban early. Terminal priced at $1,500 a month.", "src": [2] },
+            { "when": "1986", "text": "Company renamed Bloomberg L.P.", "src": [2] },
+            { "when": "1987", "text": "London and Tokyo offices open.", "src": [2] },
+            { "when": "1990", "text": "News service begins. The 10,000th terminal is installed.", "src": [0, 2] },
+            { "when": "July 1994", "text": "Passes 40,000 terminals and ranks No. 3 among data vendors, with projected yearly revenue of $528 million.", "src": [13] },
+            { "when": "Dec 1996", "text": "Merrill sells a third of its stake back for $200 million.", "src": [0] }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he beat giants without looking like a threat"
+        },
+        {
+          "t": "p",
+          "text": "In the third quarter of 1996, one newsletter's count showed Reuters at 340,200 customers, Telerate at about 94,500 and Bloomberg far behind at 65,000. But Bloomberg's number was up more than 18% since the end of 1995. Reuters was up 4%. Telerate was down about 4%. __Look at the direction, not the rank.__ Back in 1988 a Wall Street Journal story had described a guerrilla war against larger rivals, and those rivals were slow to notice.",
+          "src": [0]
+        },
+        {
+          "t": "p",
+          "text": "Telerate is the cautionary tale. Dow Jones had paid ==$1.6 billion== for it. Bloomberg and others argued the parent was starving it of investment to keep paying dividends to a restless owning family. Dow Jones then dropped a $650 million plan to revamp the business, and in May 1998 sold it to Bridge Information Systems for $510 million, booking a loss of $150.3 million on the sale.",
+          "src": [0, 56, 57]
+        },
+        {
+          "t": "p",
+          "text": "Bridge became the new No. 2 for a moment. By 2001 it was bankrupt. A judge approved Reuters' $275 million bid for some of its assets. Moneyline paid just $10 million for Telerate and other pieces, plus $5 million to keep Telerate running until the sale closed. What Dow Jones bought for $1.6 billion had gone for $10 million, in a package with other assets. In 1997 Bloomberg had said he would not come close to paying that price. His stated plan: \"My job is to sit back and wait.\"",
+          "src": [0, 57, 58, 59, 60]
+        },
+        {
+          "t": "note",
+          "text": "$1.6 billion down to $10 million. Read that twice."
+        },
+        {
+          "t": "p",
+          "text": "Why did he keep winning? Part of it was a stubborn product decision. Rivals let clients use their own computers and mix data freely. Bloomberg made customers lease his machine, and resisted opening up for years. When he finally did in 1995, the Open Bloomberg kept the same price of roughly $1,140 a month and restricted raw downloads. Critics called it closed. Clients kept buying because the analytics were hard to replace.",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "The other part was a rule that sounds foolish until you see the results: almost one price for everyone. A single subscription was $24,000 a year in 2013, $21,000 each for two or more, and there was no extra discount even for customers with thousands. The company also never sold cheaper slices of the service. His biggest customers hated this and, as you will see, tried to do something about it.",
+          "src": [1]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "$30M", "label": "what Merrill paid for 30% of the company", "src": [0] },
+            { "value": "$2B", "label": "value implied by Merrill's December 1996 sale of a third of its stake for $200M (our arithmetic)", "src": [0] },
+            { "value": "$1B", "label": "yearly revenue Bloomberg claimed in early 1997, 97% from the Terminal", "src": [0] },
+            { "value": "$200M", "label": "what he said the company earned in 1996", "src": [0] }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There is one more quiet lesson in the 1996 sale. Merrill let go of a third of its stake for $200 million, a deal that valued the company at about $2 billion. He kept control and bought back part of his own firm cheaply, compared with what came later. __Never sell your last share of a machine that compounds, and always try to buy back what you sold.__",
+          "src": [0]
+        }
+      ]
+    },
+    {
+      "id": "near-death",
+      "kicker": "The scares",
+      "title": "Never Broke, Often Scared",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Here is an honest surprise. Most founder stories have a week where the bank account hits zero. We searched hard for one in Bloomberg's business and found no reliable record of it. Once Merrill's money and the monthly terminal fees arrived, this was a company that kept growing, and Fortune described three decades of full-throttle ascent. Its real scares came from elsewhere.",
+          "src": [0, 1]
+        },
+        {
+          "t": "note",
+          "text": "We looked for the near-bankruptcy story. It isn't there, and we won't invent it."
+        },
+        {
+          "t": "h",
+          "text": "Scare one: the day the news stopped"
+        },
+        {
+          "t": "p",
+          "text": "A company that depends on a rival can be switched off. That is what happened in August 1990, when Dow Jones cancelled its contracts with Bloomberg, about a year and a half after he had started hiring his own journalists. Dow Jones reported the cancellation on its own wire and in the Journal. That was generous advertising for the upstart. The early warning had saved him, because Winkler's team was already being built.",
+          "src": [0, 1]
+        },
+        {
+          "t": "h",
+          "text": "Scare two: the web"
+        },
+        {
+          "t": "p",
+          "text": "By the late 1990s, serious people thought the internet could kill him. Fortune ran a 1998 piece on why the net could be bad news for Bloomberg, and analysts wondered if free data would end his high prices. Rivals offered open data feeds at lower prices. Bloomberg's own reply was blunt, and he launched a website at the end of 1995 anyway, aimed at the mass market and not at his paying clients.",
+          "src": [2]
+        },
+        {
+          "t": "quote",
+          "text": "The Internet is not fast and reliable enough for professionals. It is for the man on the street.",
+          "who": "Michael Bloomberg, AsiaPulse News, June 2000, quoted in Gale's company history",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "He was right about the customers and wrong about the pipe. In 2013 Fortune noted that the terminal now arrived over the internet, not through a special desktop box. Yet the service kept its high price and old command-driven look. __In our reading, the threat was never free data. It was a better tool, and nobody built one in time.__",
+          "src": [1]
+        },
+        {
+          "t": "h",
+          "text": "Scare three: the owner leaves"
+        },
+        {
+          "t": "p",
+          "text": "What happens to a founder-run company when the founder runs for mayor? In late 2001, BusinessWeek reported speculation that he was considering selling, perhaps at more than $10 billion, for what was then a $2.5 billion-a-year business. A spokeswoman denied it was for sale. Merrill still held 20%. The Observer reported in 2002 that a spokeswoman called the idea of a blind trust a non-starter.",
+          "src": [10, 12, 89]
+        },
+        {
+          "t": "p",
+          "text": "He kept it all. In 2002 the city's Conflicts of Interest Board allowed this, provided he stayed out of day-to-day management, recused himself from city cable matters and matters involving Merrill, and listed the company's 100 largest customers. Fortune reported years later that he was more involved than his public statements suggested, speaking to his CEO weekly and attending occasional after-hours meetings. Doctoroff's account was that the two were overwhelmingly in sync.",
+          "src": [1, 10, 11]
+        },
+        {
+          "t": "example",
+          "text": "For example: to deal with the risk of giving the city a business benefit, Bloomberg L.P. handed over its terminals to city agencies as a gift, and promised not to use that fact in its sales pitches. The largest customer, the board was told, accounted for less than 4% of revenue. A very spread-out customer list made the conflict easier to manage.",
+          "src": [10]
+        },
+        {
+          "t": "h",
+          "text": "Scare four: 2008 and the first layoffs"
+        },
+        {
+          "t": "p",
+          "text": "The financial crisis hit the Terminal's customers directly, since whole firms that had rented terminals simply vanished. In July 2008 Doctoroff had promised everyone a bonus equal to ==70% of annual pay== if revenue reached $10 billion by 2013, up from $6.1 billion. The timing could not have been worse. In 2009, for the first time, Bloomberg ended a year with fewer terminals rented than the year before.",
+          "src": [1, 26]
+        },
+        {
+          "t": "p",
+          "text": "Price rises kept revenue climbing, but the $10 billion goal fell out of reach. The 2009 TV cuts brought the first layoffs in the company's history, in a firm where loyalty had been treated as sacred. Doctoroff's reply was to keep investing during the downturn, and staff grew by more than half on his watch. __Growth slowing inside a cash machine is a bigger threat than a bad year, because it arrives so quietly.__",
+          "src": [1]
+        },
+        {
+          "t": "note",
+          "text": "28 years with no layoffs. Then the crash. Nothing is forever."
+        },
+        {
+          "t": "h",
+          "text": "Scare five: spying on your own customers"
+        },
+        {
+          "t": "p",
+          "text": "This one was self-inflicted. For years, Bloomberg journalists could see when a Terminal user last logged in, and what kinds of functions they used. In September 2011 a TV anchor let this slip on air, and Doctoroff ordered that access shut off. No one carried out that order, Fortune reported. Then in April 2013 a Hong Kong reporter told Goldman Sachs that a partner had not logged in for two weeks.",
+          "src": [1, 61, 62]
+        },
+        {
+          "t": "p",
+          "text": "Goldman, whose annual Bloomberg bill Fortune put at about $100 million, was furious. So were others. The company said reporters could not see traders' positions or message contents, and an outside review agreed. Doctoroff called it a mistake, and access was cut. The BBC reported that no journalists had been fired at that point. A 102-page review offered no details on who failed to act in 2011.",
+          "src": [1, 62, 63]
+        },
+        {
+          "t": "quote",
+          "text": "The error is inexcusable.",
+          "who": "Matthew Winkler, editor-in-chief of Bloomberg News, May 2013",
+          "src": [62]
+        },
+        {
+          "t": "p",
+          "text": "The bill arrived in 2014. Goldman led ==14 financial firms== in putting $66 million into Symphony, a messaging service meant to reduce their reliance on the Terminal's chat. Banks had been unhappy about terminal prices for years, and The New York Times said the scandal made it worse. Customers had been given a reason to organise. __A dominant seller's biggest risk is the day its customers finally talk to each other.__",
+          "src": [85]
+        },
+        {
+          "t": "h",
+          "text": "Scare six: the China story"
+        },
+        {
+          "t": "p",
+          "text": "In November 2013 The New York Times reported, citing unnamed staff, that Winkler had stopped an investigation into hidden ties between a Chinese tycoon and top leaders' families, for fear of being expelled from China. Bloomberg strongly denied this, calling the claim of external pressure absolutely false, and said the stories simply were not ready. Accounts still differ. The lead reporter left soon after.",
+          "src": [1, 64]
+        },
+        {
+          "t": "p",
+          "text": "The business tension was real on any account. Tough 2012 coverage had led Chinese officials to cancel subscriptions, The New York Times reported, while terminal growth was slowing. The Times also reported an internal code that kept certain stories off terminals in mainland China, and that internal critics called self-censorship, while defenders pointed to the terms of the company's licence. It is a hard example of what happens when journalism and sales share a parent.",
+          "src": [65, 100]
+        },
+        {
+          "t": "h",
+          "text": "Scare seven: when the whole system went dark"
+        },
+        {
+          "t": "p",
+          "text": "On April 17, 2015, terminals went down worldwide for several hours, around the start of trading in London. The UK postponed a £3 billion debt sale, and the Bank of England said it was ready to supply liquidity if needed. Bloomberg blamed a combination of hardware and software failures. It happened again on a smaller scale on May 21, 2025, delaying bond sales in several European countries.",
+          "src": [66, 67, 68]
+        },
+        {
+          "t": "note",
+          "text": "One company's bug delayed a government's borrowing. That's how central this box is."
+        },
+        {
+          "t": "h",
+          "text": "Legal fights, and how they ended"
+        },
+        {
+          "t": "p",
+          "text": "In 2007 the US workplace-discrimination regulator, the EEOC, sued the company, alleging a pattern of discrimination against pregnant employees and new mothers. In August 2011 a federal judge threw out the class claim, finding evidence insufficient to show it was standard practice, \"even if there were several isolated instances of individual discrimination\". In 2013 most remaining claims were dismissed too, because the EEOC had failed in its duties before suing. The case was marked closed in July 2015.",
+          "src": [69, 70, 71]
+        },
+        {
+          "t": "p",
+          "text": "Some private complaints ended differently. During the 2020 campaign, Bloomberg faced pressure over confidentiality agreements. He said three women could be released from agreements about comments he was alleged to have made, and that his company would no longer use such agreements for harassment claims. These reports describe allegations, not court findings, so we state only what was alleged and what he agreed to do. Tradebook's $5 million SEC settlement in 2025 is covered in the company list earlier.",
+          "src": [72, 53, 54]
+        },
+        {
+          "t": "note",
+          "text": "Read the outcome, not only the headline. Then read the allegation again."
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "kicker": "2008 to 2026",
+      "title": "How $10 Million Became $95 Billion",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The deal that changed everything happened on ==July 17, 2008==, two months before Lehman Brothers collapsed. Merrill Lynch was bleeding from bad mortgage bets and desperately needed capital. The one great asset it could sell was the 20% Bloomberg stake it had held for over two decades. Bloomberg had a right of first refusal, meaning he had the first chance to match any offer.",
+          "src": [8, 9]
+        },
+        {
+          "t": "p",
+          "text": "Merrill's boss, John Thain, had valued the stake at $5 billion to $6 billion. The sale price was ==$4.425 billion==. And look at how it was paid. Merrill took about $4.3 billion in notes, which are basically formal IOUs, from Bloomberg Inc. and about $110 million in cash. __He bought out his biggest partner mostly on credit, because the seller had nowhere else to go.__",
+          "src": [7, 8, 9]
+        },
+        {
+          "t": "example",
+          "text": "For example, here is Merrill's whole investment. It paid $30 million for 30%. It then sold a third of that for $200 million in 1996, and the rest for $4.425 billion in 2008. That is $4.625 billion back on $30 million, or about 154 times, by our arithmetic, before any dividends. It was a brilliant trade, and it still may have been the wrong moment to end it.",
+          "src": [0, 7, 8]
+        },
+        {
+          "t": "note",
+          "text": "154 times its money. Sold to cover losses from mortgage bets."
+        },
+        {
+          "t": "p",
+          "text": "Merrill recorded a pre-tax gain of $4.3 billion, and the deal put an official price on Bloomberg: about $22 billion by simple arithmetic. In practice Merrill's stake went to the general partner, Bloomberg Inc. So his ownership rose with it. Press reports in 2002 and 2008 gave him 72%, though the 2002 city ethics opinion implies about 68% at the company level. By 2013 Fortune had it at 85%. Forbes now says ==88%==.",
+          "src": [1, 5, 7, 8, 9, 10, 89]
+        },
+        {
+          "t": "h",
+          "text": "The founder comes back"
+        },
+        {
+          "t": "p",
+          "text": "When he left office at the end of 2013, Bloomberg was expected to spend his days giving money away, at a desk on the fifth floor. Fortune described a management that sounded like a coalition government, with Doctoroff forced to plead for consensus from powerful barons such as Winkler and Secunda. Revenue had tripled during his years at City Hall. It was still, in Fortune's phrase, a company with an identity crisis.",
+          "src": [1, 73]
+        },
+        {
+          "t": "p",
+          "text": "In September 2014, Bloomberg told senior executives that he would take over again, and that Doctoroff would leave at year's end. The parting was officially amicable: Bloomberg called it a sad day in the company's statement. He had insisted for years that he had no intention of returning full time. That gives you a useful warning about what founders say about their retirement.",
+          "src": [73, 74, 75]
+        },
+        {
+          "t": "quote",
+          "text": "as a private business with essentially one shareholder, we can take a very long-term view about these opportunities",
+          "who": "Peter Grauer, Bloomberg chairman, to Fortune in 2013",
+          "src": [1]
+        },
+        {
+          "t": "h",
+          "text": "The numbers since"
+        },
+        {
+          "t": "p",
+          "text": "Grauer's line explains why the company could survive its worst bets. No analysts demanded a quarterly excuse. Revenue passed $9 billion by 2014. In 2012 it had moved past Thomson Reuters to become the largest financial data provider on earth, by Fortune's account. Burton-Taylor figures showed Bloomberg earning $9.1 billion from its desktop business in 2023, a number that includes some other products such as news, compared with $5 billion for rival LSEG. It did that on fewer licences: 350,000 against 400,000.",
+          "src": [1, 22, 79]
+        },
+        {
+          "t": "note",
+          "text": "Fewer customers. Nearly double the money. That is pricing power."
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "$14.9B", "label": "revenue on Forbes' company page, October 2026", "src": [6] },
+            { "value": "$31,980", "label": "one-seat Terminal price per year from January 2025; multi-seat users pay $28,320 each", "src": [82] },
+            { "value": "26,000", "label": "employees, as of 2026", "src": [6, 78] },
+            { "value": "$49.2B", "label": "global spending on financial market data, 2025, per Burton Taylor", "src": [84] }
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 2013, Fortune found the Terminal had 15,000 functions, while a 2010 company analysis showed the average customer used 29. Customers' average income was $438,000. On paper, that looks like a bad deal for the buyer. But the price is small next to those salaries, and missing one fact can cost far more.",
+          "src": [1]
+        },
+        {
+          "t": "p",
+          "text": "The price still climbs. Bloomberg raised it 6.5% for 2025, saying increases follow weighted global inflation, and one user told NeuGroup they were lucky it was not more. But Burton Taylor reports that Bloomberg and LSEG together took half of market data revenue in 2024, while smaller curated-data specialists had grown to nearly 20%, and that clients were pushing back on data costs. Dominant is not the same as unchallenged.",
+          "src": [82, 83]
+        },
+        {
+          "t": "h",
+          "text": "The threat now is AI"
+        },
+        {
+          "t": "p",
+          "text": "Bloomberg has moved early here. In 2023 the company announced BloombergGPT, its own AI model trained on financial material, built to be used inside Terminal features rather than as a chatbot. In January 2024 it released its first outside-facing generative AI tool, which summarises earnings calls, and more followed. But investors are worried about the whole sector. In February 2026 S&P Global's shares hit their lowest in over two years amid AI fears. By March, Reuters reported, AI fears had helped drive rival FactSet's shares down 39% in six months.",
+          "src": [80, 81, 86, 87]
+        },
+        {
+          "t": "p",
+          "text": "Remember Fortune's warning from 2013. The company itself is proof that an invincible titan can be toppled by a machine that does the job better. A single product has carried this firm for four decades. The most important question for its owner is whether the Terminal's data and messaging network will be worth more or less once anyone can ask a computer a question in plain words.",
+          "src": [1]
+        },
+        {
+          "t": "note",
+          "text": "Everything he beat, he beat with better software. Watch this space."
+        },
+        {
+          "t": "h",
+          "text": "Where the fortune actually sits"
+        },
+        {
+          "t": "p",
+          "text": "His wealth is mostly one stake in one private company, which keeps its profits closely guarded. That means every figure for it is an estimate. Forbes showed him at ==$94.9 billion== and No. 20 in the world on November 2, 2026. Its estimate was about $109 billion in September 2025 and still quoted at that level in a July 2026 report. We could not find Forbes explaining the fall, though data-company stocks fell sharply over the same period.",
+          "src": [4, 5, 9, 78, 86]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "about $2B", "label": "friends' estimate of his net worth, early 1997", "src": [0] },
+            { "value": "$31B", "label": "Forbes estimate, late 2013", "src": [1] },
+            { "value": "$109B", "label": "Forbes estimate, September 2025", "src": [4] },
+            { "value": "$94.9B", "label": "Forbes real-time estimate, November 2, 2026", "src": [5] }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The other owners are few. In 2002, several employees held the remaining 15.45% of Bloomberg Inc. In 1997, the three first hires were the only staff with a small stake. Tom Secunda was worth an estimated $1.5 billion in 2013, mostly from that holding. __Three people who followed a fired colleague into a single room ended up rich because he shared a sliver of the company with them.__",
+          "src": [0, 1, 10]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "Early 1980s", "text": "Merrill pays $30M for 30%, valuing the company at $100M.", "src": [0] },
+            { "when": "Dec 1996", "text": "Merrill's sale of a slice values it near $2B.", "src": [0] },
+            { "when": "2001", "text": "Reports speculate about a sale at more than $10B. The company denies it is for sale.", "src": [12] },
+            { "when": "July 2008", "text": "Merrill's exit implies about $22B.", "src": [7, 9] },
+            { "when": "2023", "text": "Vlad Kliatchko becomes CEO. A new board is formed, with Mark Carney as chair.", "src": [5, 76] },
+            { "when": "Jan 2025", "text": "Carney resigns to run for office in Canada. The chair's seat stays empty, Semafor reported in 2026.", "src": [77, 78] },
+            { "when": "July 2026", "text": "Bankers tell Semafor the company could be worth $80B or more.", "src": [78] }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What happens next"
+        },
+        {
+          "t": "p",
+          "text": "He was 81 when he named a new CEO in 2023, and he told staff he was \"not going anywhere\". An IPO is when a private company first sells shares to the public, and his has never done one. In July 2026 Semafor reported, citing unnamed people, that executives had held informal early talks with investment bankers about a possible IPO or another deal, and that he had recently moved some stock to Bloomberg Philanthropies. Those talks are reported, not confirmed.",
+          "src": [76, 78]
+        },
+        {
+          "t": "quote",
+          "text": "Mike controls the firm, is the majority shareholder, and has no plans to sell the company",
+          "who": "Ty Trippet, Bloomberg LP spokesman, to Semafor, July 2026",
+          "src": [78]
+        },
+        {
+          "t": "p",
+          "text": "Either way, the end of this story is unusual. Forbes says he has committed the stake to his foundation at death, if not sooner, and the foundation says he has already committed most of the profits. If that happens, a machine born from a firing would keep paying for public health and schools long after its founder is gone. __He spent 45 years compounding one product, and has spent decades planning how to give it away.__",
+          "src": [5, 39]
+        },
+        {
+          "t": "note",
+          "text": "Ten million dollars, one room, three friends. Now look what it pays for."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "Ken Auletta, \"The Bloomberg Threat\", The New Yorker, March 1997", "url": "https://www.newyorker.com/magazine/1997/03/10/profile-michael-bloomberg-the-bloomberg-threat" },
+    { "label": "Peter Elkind, \"The trouble at Bloomberg\", Fortune, December 2013", "url": "https://fortune.com/2013/12/05/the-trouble-at-bloomberg/" },
+    { "label": "Bloomberg L.P., Gale Encyclopedia of E-Commerce, via Encyclopedia.com", "url": "https://www.encyclopedia.com/economics/encyclopedias-almanacs-transcripts-and-maps/bloomberg-lp" },
+    { "label": "Michael Bloomberg, Bloomberg by Bloomberg, chapter one excerpt, The New York Times", "url": "https://archive.nytimes.com/www.nytimes.com/books/first/b/bloomberg-bloomberg.html" },
+    { "label": "Emma Burleigh, Fortune interview with Mike Bloomberg, September 2025", "url": "https://fortune.com/2025/09/23/billionaire-mike-bloomberg-fired-salomon-brothers-job-entrepreneurship-business-media-tech-empire/" },
+    { "label": "Forbes profile: Michael Bloomberg (net worth as of Nov 2, 2026)", "url": "https://www.forbes.com/profile/michael-bloomberg/" },
+    { "label": "Forbes company page: Bloomberg (October 2026)", "url": "https://www.forbes.com/companies/bloomberg/" },
+    { "label": "Merrill Lynch press release, Form 8-K exhibit, July 2008", "url": "https://www.sec.gov/Archives/edgar/data/0000065100/000115752308005603/a5733602ex99_1.htm" },
+    { "label": "Merrill Lynch Form 10-K for fiscal 2008, SEC", "url": "https://www.sec.gov/Archives/edgar/data/0000065100/000095012309003322/y74695e10vk.htm" },
+    { "label": "New York Times News Service, \"Merrill Lynch in talks to sell 20% Bloomberg stake\", Taipei Times, July 2008", "url": "https://www.taipeitimes.com/News/biz/archives/2008/07/06/2003416623" },
+    { "label": "NYC Conflicts of Interest Board, Advisory Opinion 2002-01 (document copy)", "url": "https://docest.com/doc/125974/advisory-opinion-2002-01" },
+    { "label": "WatersTechnology, \"Mayor Can Keep Bloomberg Stake\", September 2002", "url": "https://www.waterstechnology.com/inside-market-data/news/1617378/mayor-can-keep-bloomberg-stake" },
+    { "label": "BusinessWeek, \"What'll Bloomberg Do with Bloomberg?\", November 2001", "url": "https://www.bloomberg.com/news/articles/2001-11-25/whatll-bloomberg-do-with-bloomberg" },
+    { "label": "WatersTechnology, \"With 40,000 Terminals, Bloomberg Now Projects 3rd-Best Yearly Revenues\", August 1994", "url": "https://www.waterstechnology.com/node/1606955" },
+    { "label": "Bloomberg L.P. company history, Reference for Business", "url": "https://www.referenceforbusiness.com/history2/31/Bloomberg-L-P.html" },
+    { "label": "Kenyon College Bulletin, review of Bloomberg by Bloomberg", "url": "https://bulletin-archive.kenyon.edu/x1692.html" },
+    { "label": "The New York Times, \"Bloomberg Buys BusinessWeek From McGraw-Hill\", October 2009", "url": "https://www.nytimes.com/2009/10/14/business/media/14bizweek.html" },
+    { "label": "Reuters, \"Bloomberg to buy BusinessWeek from McGraw-Hill\", October 2009", "url": "https://www.reuters.com/article/business/bloomberg-to-buy-businessweek-from-mcgraw-hill-idUSTRE59C624/" },
+    { "label": "CNBC, \"McGraw Hill to Sell Business Week to Bloomberg\", October 2009", "url": "https://www.cnbc.com/2009/10/14/mcgraw-hill-to-sell-business-week-to-bloomberg.html" },
+    { "label": "The New York Times, \"Bloomberg Businessweek to Go Monthly\", November 2023", "url": "https://www.nytimes.com/2023/11/30/business/media/bloomberg-businessweek-monthly.html" },
+    { "label": "Bloomberg Media press release, Businessweek monthly relaunch, June 2024", "url": "https://www.bloombergmedia.com/press/bloomberg-businessweek-relaunches-with-debut-monthly-print-edition-enhanced-digital-experience/" },
+    { "label": "Reuters, \"Bloomberg sells sports analysis division to STATS\", September 2014", "url": "https://www.reuters.com/article/business/bloomberg-sells-sports-analysis-division-to-stats-idUSKBN0GZ2MT/" },
+    { "label": "Sports Business Journal, \"Bloomberg Sports part of Stats' growth plan\", September 2014", "url": "https://www.sportsbusinessjournal.com/Journal/Issues/2014/09/08/Media/Bloomberg-Sports/" },
+    { "label": "IBTimes UK, \"Stats Buys Bloomberg's Sports Analysis Division\", September 2014", "url": "https://www.ibtimes.co.uk/stats-buys-bloombergs-sports-analysis-division-1464107" },
+    { "label": "The New York Times, \"Bloomberg Plans a Data Service on the Business of Government\", October 2010", "url": "https://www.nytimes.com/2010/10/11/business/media/11bloombergnews.html" },
+    { "label": "Washingtonian, \"Is Bloomberg Government the Next Washington Media Death Star?\", April 2011", "url": "https://washingtonian.com/2011/04/04/is-bloomberg-government-the-next-washington-media-death-star/" },
+    { "label": "Politico, \"BGov seeks to tap info 'gold rush'\", March 2011", "url": "https://www.politico.com/story/2011/03/bgov-seeks-to-tap-info-gold-rush-050716" },
+    { "label": "Adweek, \"Bloomberg to buy BNA for $990M\", August 2011", "url": "https://www.adweek.com/?p=753908" },
+    { "label": "Bloomberg Industry Group press release, name change, September 2019", "url": "https://www.bloombergindustry.com/press-releases/corporate-name-change-2019/" },
+    { "label": "Bloomberg Industry Group company fact sheet, 2023", "url": "https://assets.bbhub.io/bna/sites/10/2023/01/indg_factsheet.pdf" },
+    { "label": "Los Angeles Times, \"Bloomberg buys New Energy Finance market research firm\", December 2009", "url": "https://www.latimes.com/archives/blogs/technology-blog/story/2009-12-10/bloomberg-buys-new-energy-finance-market-research-firm" },
+    { "label": "Michael Liebreich, \"Hand in Hand\", Diplomat Magazine, April 2012", "url": "https://diplomatmagazine.com/hand-in-hand/" },
+    { "label": "Barclays PLC announcement, Form 6-K, SEC, December 2015", "url": "https://www.sec.gov/Archives/edgar/data/312069/000119163815001475/barc201512166k.htm" },
+    { "label": "Reuters, \"Barclays sells benchmark indices unit to Bloomberg\", December 2015", "url": "https://www.reuters.com/article/business/barclays-sells-benchmark-indices-unit-to-bloomberg-idUSKBN0TZ1N3/" },
+    { "label": "Business Standard, \"Bloomberg acquires Barclays Risk Analytics\", August 2016", "url": "https://www.business-standard.com/amp/article/companies/bloomberg-acquires-barclays-risk-analytics-116082501250_1.html" },
+    { "label": "Dan Primack, \"Bloomberg forms $75 million VC fund\", Fortune, June 2013", "url": "https://fortune.com/2013/06/05/bloomberg-forms-75-million-vc-fund" },
+    { "label": "The New York Times, \"Bloomberg Spent $102 Million to Win 3rd Term\", November 2009", "url": "https://www.nytimes.com/2009/11/28/nyregion/28spending.html" },
+    { "label": "The Telegraph, \"Michael Bloomberg 'spent $650 million of own money' as New York mayor\", December 2013", "url": "https://www.telegraph.co.uk/news/worldnews/northamerica/usa/10542304/Michael-Bloomberg-spent-650-million-of-own-money-as-New-York-mayor.html" },
+    { "label": "KSDK with Associated Press, \"Michael Bloomberg spent $1 billion on presidential bid\", April 2020", "url": "https://ksdk.com/article/news/nation-world/michael-bloomberg-spent-1-billion-on-presidential-bid/507-79879d03-52fb-42b7-9bd7-5243725204ed" },
+    { "label": "Bloomberg Philanthropies, About Us", "url": "https://www.bloomberg.org/about/" },
+    { "label": "Bloomberg Philanthropies, Bloomberg Associates", "url": "https://www.bloomberg.org/bloomberg-associates/" },
+    { "label": "Mayors Against Illegal Guns, Who We Are", "url": "https://mayors.everytown.org/who-we-are/" },
+    { "label": "Ballotpedia, Everytown for Gun Safety", "url": "https://ballotpedia.org/Everytown_for_Gun_Safety" },
+    { "label": "Johns Hopkins University, $1 billion graduate aid gift, July 2024", "url": "https://www.jhu.edu/graduate-gift/" },
+    { "label": "The New York Times, \"Bloomberg to Close a Magazine\", January 2003", "url": "https://www.nytimes.com/2003/01/13/business/bloomberg-to-close-a-magazine.html" },
+    { "label": "MediaPost, \"Bloomberg Pursuits Shutters Print Edition\", December 2016", "url": "https://www.mediapost.com/publications/article/290554/bloomberg-pursuits-shutters-print-edition-goes.html" },
+    { "label": "PitchBook profile: Bloomberg Wealth Manager Magazine", "url": "https://pitchbook.com/profiles/company/51264-73" },
+    { "label": "Publishers Lunch, \"Bloomberg Press to Become Imprint of Wiley\", March 2010", "url": "https://lunch.publishersmarketplace.com/2010/03/bloomberg_press_to_become_impri/" },
+    { "label": "Talking Biz News, \"John Wiley takes over Bloomberg Press\", March 2010", "url": "https://talkingbiznews.com/they-talk-biz-news/john-wiley-takes-over-bloomberg-press/" },
+    { "label": "Bloomberg Media press release, TicToc launch with Twitter, December 2017", "url": "https://www.bloombergmedia.com/press/bloomberg-media-twitter-launch-tictoc-bloomberg/" },
+    { "label": "Variety, \"Bloomberg TicToc Renamed QuickTake, Partly Because of TikTok App\", December 2019", "url": "https://variety.com/2019/digital/news/bloomberg-rebrands-tictoc-china-tiktok-app-1203418180/" },
+    { "label": "Bloomberg Media press release, Quicktake streaming network, November 2020", "url": "https://www.bloombergmedia.com/press/bloomberg-quicktake-streaming-news-network/" },
+    { "label": "Bloomberg Media press release, Bloomberg Originals, February 2023", "url": "https://www.bloombergmedia.com/press/bloomberg-originals-launches-as-new-brand-for-exclusive-premium-video-programming-on-connected-tv-bloomberg-tv-primetime-and-bloomberg-com/" },
+    { "label": "US SEC, order against Bloomberg Tradebook LLC, Release 33-11390, 2025", "url": "https://www.sec.gov/files/litigation/admin/2025/33-11390.pdf" },
+    { "label": "US SEC, summary of administrative proceeding 33-11390, September 2025", "url": "https://www.sec.gov/enforcement-litigation/administrative-proceedings/33-11390-s" },
+    { "label": "Bloomberg Tradebook LLC, statement of financial condition filed with the SEC, 2025", "url": "https://www.sec.gov/Archives/edgar/data/1012061/000101206126000001/tbllc2025fs022626bsonly.pdf" },
+    { "label": "Dow Jones & Co, Form 10-K for fiscal 1998, SEC", "url": "https://www.sec.gov/Archives/edgar/data/0000029924/000002992499000002/0000029924-99-000002.txt" },
+    { "label": "WatersTechnology, \"Story Of The Year 1998: Bridge Buys Telerate For Half A Billion Dollars\"", "url": "https://waterstechnology.com/node/1620209" },
+    { "label": "Wall Street Journal, \"Bankruptcy-Court Judge Backs Reuters's Bid for Bridge Assets\", May 2001", "url": "https://www.wsj.com/articles/SB988943088126097803" },
+    { "label": "WatersTechnology, Moneyline/Telerate asset sales approved, August 2001", "url": "https://www.waterstechnology.com/management-strategy/1620430/moneylinetelerate-asset-sales-approved-by-judge-dow-jones-move-to-buy-bridge-news-lists-postponed-to-september-13-reuters-gets-go-ahead-from-justice-on-bridge-north-american-asset-purchase" },
+    { "label": "Reuters Group press release, \"Court approves Reuters purchase of Bridge assets\", 2001", "url": "https://ir.thomsonreuters.com/static-files/7f67edc1-6a34-47ad-bf22-a814ea0de385" },
+    { "label": "The New York Times, \"Bloomberg Admits Terminal Snooping\", May 2013", "url": "https://www.nytimes.com/2013/05/13/business/media/bloomberg-admits-terminal-snooping.html" },
+    { "label": "BBC News, \"Bloomberg says data snooping was 'inexcusable'\", May 2013", "url": "https://www.bbc.com/news/business-22508473" },
+    { "label": "Reuters, \"Bloomberg CEO says client data access for reporters a mistake\", May 2013", "url": "https://www.reuters.com/article/business/bloomberg-ceo-says-client-data-access-for-reporters-a-mistake-idUSL2N0DS0B3/" },
+    { "label": "Columbia Journalism Review, \"Bloomberg News at a crossroads\", November 2013", "url": "https://www.cjr.org/the_audit/bloomberg_news_at_a_crossroads.php" },
+    { "label": "The New York Times Sinosphere, \"Bloomberg Code Keeps Articles From Chinese Eyes\", November 2013", "url": "https://archive.nytimes.com/sinosphere.blogs.nytimes.com/2013/11/28/bloomberg-code-keeps-articles-from-chinese-eyes/" },
+    { "label": "Associated Press, \"Bloomberg blames 'internal network issue' for global outage\", April 2015", "url": "https://apnews.com/general-news-54986fb7ea62420d95753f643e23a67b" },
+    { "label": "CNBC, \"Bloomberg terminals restored after global outage\", April 2015", "url": "https://www.cnbc.com/2015/04/17/bloomberg-trading-terminals-experience-outage.html" },
+    { "label": "Reuters, \"Bloomberg terminal back up after outage affects European bond sales\", May 2025", "url": "https://www.reuters.com/markets/europe/bloomberg-terminal-suffers-outage-delays-uk-gilt-sale-uk-dmo-traders-2025-05-21/" },
+    { "label": "EEOC v. Bloomberg L.P., opinion of Chief Judge Preska, S.D.N.Y., 2011, via Justia", "url": "https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2007cv08383/313843/202/" },
+    { "label": "Reuters, \"U.S. judge tosses pregnancy bias lawsuit against Bloomberg LP\", September 2013", "url": "https://www.reuters.com/article/us-bloomberg-bias-lawsuit-idUSBRE9880ZD20130909/" },
+    { "label": "Jones Day (Bloomberg's defence counsel), summary of EEOC case history", "url": "https://www.jonesday.com/en/practices/experience/2009/08/bloomberg-wins-dismissal-in-well-publicized-pregnancy-discrimination-case-brought-by-eeoc" },
+    { "label": "Associated Press, \"Bloomberg: 3 women can be released on non-disclosure deals\", February 2020", "url": "https://apnews.com/bloomberg-3-women-can-be-released-on-non-disclosure-deals-08d13c3631d70a85c92b980d6b03cfdf" },
+    { "label": "The New York Times, \"Michael Bloomberg to Return to Lead Bloomberg L.P.\", September 2014", "url": "https://www.nytimes.com/2014/09/04/business/media/michael-bloomberg-to-return-as-chief-of-company-he-founded.html" },
+    { "label": "Bloomberg LP press release, Doctoroff stepping aside, September 2014", "url": "https://www.bloomberg.com/company/press/daniel-l-doctoroff-stepping-aside-ceo-bloomberg-lp-end-2014/" },
+    { "label": "The New York Times, \"Bloomberg Returns to an Organization Looking for a Vision\", September 2014", "url": "https://www.nytimes.com/2014/09/05/business/media/bloomberg-returns-to-an-organization-looking-for-a-vision.html" },
+    { "label": "The Globe and Mail, \"Bloomberg names Mark Carney board chair, Kliatchko CEO\", August 2023", "url": "https://www.theglobeandmail.com/business/article-bloomberg-carney-kliatchko-board-ceo/" },
+    { "label": "The Globe and Mail, \"Carney cuts business ties\", January 2025", "url": "https://www.theglobeandmail.com/business/article-mark-carney-business-ties-board-roles/" },
+    { "label": "Liz Hoffman, \"Bloomberg's post-Mike moves are in motion\", Semafor, July 2026", "url": "https://www.semafor.com/article/07/28/2026/bloombergs-post-mike-moves-are-in-motion" },
+    { "label": "The Telegraph, \"City traders depend on Bloomberg\", August 2024", "url": "https://www.telegraph.co.uk/business/2024/08/19/city-traders-depend-bloomberg-new-plot-smash-dominance/" },
+    { "label": "Computer Weekly, interview with Wayne Barlow, Bloomberg head of terminal products, October 2025", "url": "https://www.computerweekly.com/news/366631924/Interview-Wayne-Barlow-head-of-terminals-Bloomberg" },
+    { "label": "CNBC, \"Bloomberg plans to integrate GPT-style A.I. into its terminal\", April 2023", "url": "https://www.cnbc.com/2023/04/13/bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.html" },
+    { "label": "NeuGroup, \"Bloomberg Terminals: How Much More You'll Pay Next Year\", October 2024", "url": "https://connect.neugroup.com/public/blogs/bloomberg-terminals-how-much-more-youll-pay-next-year" },
+    { "label": "Finextra, \"Global spending on financial market data hits $44.3bn\", April 2025", "url": "https://www.finextra.com/newsarticle/45769/global-spending-on-financial-market-data-hits-443bn" },
+    { "label": "Burton Taylor, Financial Market Data/Analysis reports", "url": "https://burton-taylor.com/reports/financial-market-dataanalysis" },
+    { "label": "The New York Times DealBook, \"Goldman Leads Creation of New Messaging Service\", October 2014", "url": "https://archive.nytimes.com/dealbook.nytimes.com/2014/10/01/goldman-leads-creation-of-new-messaging-service/index.html" },
+    { "label": "Reuters, \"AI fears temper interest as private equity firms weigh data company deals\", March 2026", "url": "https://www.reuters.com/legal/transactional/ai-fears-temper-interest-private-equity-firms-weigh-data-company-deals-2026-03-05/" },
+    { "label": "Reuters, \"S&P Global shares fall on weak 2026 forecast, AI concerns\", February 2026", "url": "https://www.reuters.com/business/sp-global-forecasts-2026-profit-below-estimates-shares-plunge-2026-02-10/" },
+    { "label": "Bloomberg LP, \"A look back: The Bloomberg Keyboard\", May 2017", "url": "https://www.bloomberg.com/company/stories/look-back-bloomberg-keyboard/" },
+    { "label": "The Observer (The Guardian), \"Big Apple's rotten finances are not the core of Bloomberg's interests\", October 2002", "url": "https://www.theguardian.com/business/2002/oct/20/theobserver.observerbusiness13" },
+    { "label": "Business Insider, excerpt from The Self-Made Billionaire Effect, January 2015", "url": "https://www.businessinsider.com/michael-bloomberg-achieved-massive-success-2015-1" },
+    { "label": "Traders Magazine, \"Happy Birthday, Tradebook\", January 1998", "url": "https://www.tradersmagazine.com/news/happy-birthday-tradebook/" },
+    { "label": "Fordham Journal of Corporate & Financial Law, note on TradeBook and the SEC Order Handling Rules", "url": "https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1163&context=jcfl" },
+    { "label": "Talking Biz News, Bloomberg Government staff memo, April 2017", "url": "https://talkingbiznews.com/they-talk-biz-news/bloomberg-government-saw-26-percent-growth-in-first-quarter/" },
+    { "label": "Michael Liebreich, January 2020 newsletter", "url": "https://mliebreich.substack.com/p/january-2020-newsletter-a-decade" },
+    { "label": "Adweek, \"Bloomberg Makes Another Acquisition: Energy Newswire New Energy Finance\", December 2009", "url": "https://www.adweek.com/?p=607902" },
+    { "label": "The Drum, \"Bloomberg Sports data analytics firm acquired by Stats\", September 2014", "url": "https://www.thedrum.com/news/bloomberg-sports-data-analytics-firm-acquired-stats" },
+    { "label": "Bloomberg Beta website", "url": "https://www.bloombergbeta.com/" },
+    { "label": "Bloomberg News, \"Barclays to Sell Former Lehman Bond Benchmarks to Bloomberg\", December 2015", "url": "https://www.bloomberg.com/news/articles/2015-12-16/barclays-sells-indexing-division-to-bloomberg-for-781-million" },
+    { "label": "The Guardian, \"Can Michael Bloomberg's New York manifesto change the world?\", January 2014", "url": "https://www.theguardian.com/cities/2014/jan/29/michael-bloomberg-new-york-world-cities-manifesto" },
+    { "label": "The New York Times, \"Signs of Change in News Mission at Bloomberg\", November 2013", "url": "https://www.nytimes.com/2013/11/25/business/media/signs-of-change-in-news-mission-at-bloomberg.html" },
+    { "label": "Bloomberg Philanthropies, Johns Hopkins University", "url": "https://www.bloomberg.org/founders-projects/johns-hopkins-university/" }
+  ],
+  "factCheck": {
+    "method": "Primary filings were read directly where possible (Merrill Lynch 8-K and FY2008 10-K, Dow Jones FY1998 10-K, Barclays 6-K, SEC Tradebook order and financial statement, NYC Conflicts of Interest Board opinion, EEOC court opinion). Long profiles (The New Yorker 1997, Fortune 2013 and 2025, Forbes profile page) were read in full or nearly in full. Other press reports were read from search extracts of the original articles. Arithmetic done by us is labelled as ours. Bloomberg L.P. is private and publishes no audited accounts, so every revenue, profit and valuation figure after 1996 is an estimate from the named source. Bloomberg's own company-owned news outlets were used only for dated facts about its own deals.",
+    "disputed": [
+      {
+        "claim": "Date he was fired from Salomon",
+        "note": "His memoir gives Saturday, August 1, 1981. Gale's encyclopedia entry says October 1981. We use his own account."
+      },
+      {
+        "claim": "How the $10 million is described",
+        "note": "Fortune 2025 and others call it a severance package. The New Yorker says he cashed out his partnership and netted more than $10 million. The memoir's line is \"Here's $10 million\". We treat it as a payout for his partnership stake."
+      },
+      {
+        "claim": "When and how the company began",
+        "note": "Fortune 2025 says he launched it the next morning. Gale says he sold his stock in March 1982 and then created Innovative Market Systems. Forbes and most others say 1981. The name also varies: Innovative Market Systems (New Yorker, Gale), Innovative Market Solutions (Fortune), Innovative Marketing Systems (Reference for Business). We use 1981 and Innovative Market Systems."
+      },
+      {
+        "claim": "First Merrill order and investment date",
+        "note": "Gale puts the first order in December 1982, with the stake around then. Reference for Business puts the prototype demo in June 1983. The New York Times in 2008 said Merrill bought its stake in the mid-1980s. Terminal count is 20 in most sources and 22 in some weak ones. We avoid a precise date for the investment and say \"early 1980s\"."
+      },
+      {
+        "claim": "Size of Merrill's first stake",
+        "note": "The New Yorker, Gale and Reference for Business say 30% for $30 million. Some Wikipedia mirrors say 12%. We use 30%."
+      },
+      {
+        "claim": "When Bloomberg News began",
+        "note": "Fortune and The New Yorker point to a 1989-1990 hiring of Winkler and an August 1990 Dow Jones cut-off. Gale says 1991 for the Winkler hire. We use 1990."
+      },
+      {
+        "claim": "Bloomberg's rank by 1996",
+        "note": "Fortune 2013 says it had reached No. 2 by 1996. The New Yorker's 1996 count of customers shows it third behind Reuters and Telerate. The difference may reflect revenue against terminal count. We state the customer count with its source."
+      },
+      {
+        "claim": "Bloomberg's ownership before Merrill's exit",
+        "note": "Press in 2001 to 2008 said 72%. The 2002 Conflicts of Interest Board opinion says he owned 84.55% of Bloomberg Inc., which owned 80% of the partnership, implying about 68%. Later 85% (Fortune 2013) and 88% (Forbes 2026)."
+      },
+      {
+        "claim": "Price of Merrill's 2008 sale",
+        "note": "Merrill's release says $4.425 billion, its 10-K rounds to $4.4 billion, and press rounded to $4.5 billion. Implied value of about $22 billion is arithmetic and matches New York Times reporting. The earlier $2 billion figure for 1996 is also arithmetic, from a sale between long-time partners, so it may not reflect a true market price."
+      },
+      {
+        "claim": "BusinessWeek deal terms",
+        "note": "Price reported as $2 million to $5 million in cash. Liabilities reported as $31.9 million as of April 2009 (The New York Times) and more than $10 million (The Guardian). Terms were never disclosed officially."
+      },
+      {
+        "claim": "BNA price",
+        "note": "Adweek and most reports say $990 million. Fortune says $992 million."
+      },
+      {
+        "claim": "Bloomberg Sports price and length",
+        "note": "Reuters' source says $15 million to $20 million. Sports Business Journal says low eight figures. Reuters calls it a four-year foray, Sports Business Journal a five-year experiment."
+      },
+      {
+        "claim": "When BGOV launched",
+        "note": "Washingtonian says launch in January 2010 while Fortune and Politico point to January 2011. We use January 2011."
+      },
+      {
+        "claim": "Terminal subscriber count today",
+        "note": "Computer Weekly and The Telegraph say more than 350,000. Semafor says more than 300,000. Lower numbers on low-quality sites were discarded."
+      },
+      {
+        "claim": "Self-funded mayoral campaign total",
+        "note": "The New York Times said at least $261 million as of November 2009, with bonuses still to report. The Telegraph later cited $268 million."
+      },
+      {
+        "claim": "China story",
+        "note": "The New York Times, citing anonymous staff, said Winkler stopped the investigation to avoid expulsion. Bloomberg says that is absolutely false and that the work was not ready. Stated in the text as a disputed report, not a fact."
+      },
+      {
+        "claim": "Forbes net worth in 2026",
+        "note": "Forbes' real-time page shows $94.9 billion on November 2, 2026. Earlier reports citing Forbes gave about $109 billion in January and July 2026. We could not find a stated reason for the drop, and our note on falling peer stock prices is context, not an explanation Forbes gave."
+      }
+    ]
+  }
+}

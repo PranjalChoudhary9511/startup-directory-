@@ -1,0 +1,429 @@
+{
+  "slug": "path",
+  "name": "Path",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Private social network",
+  "founded": 2010,
+  "died": 2018,
+  "status": "absorbed-and-closed",
+  "brandColor": "#e62e25",
+  "founders": [
+    {
+      "name": "Dave Morin",
+      "role": "Co-founder and CEO (ex-Facebook)"
+    },
+    {
+      "name": "Shawn Fanning",
+      "role": "Co-founder (Napster creator)"
+    },
+    {
+      "name": "Dustin Mierau",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Only for close friends. In the end, very few came.",
+  "oneLiner": "A beautiful mobile social network for sharing your life with only your closest friends, first just 50 of them.",
+  "causeOfDeath": "Path could not beat Facebook and Instagram in the US, a privacy scandal hurt trust, and it ended as a small app sold to Kakao, then closed.",
+  "raisedUsdM": 70,
+  "peakValuationUsdM": 500,
+  "endValueUsdM": null,
+  "moneyNote": "About $70M raised (TechCrunch 2018). $500M was the valuation of its 2013 fundraise. Kakao's 2015 purchase price was never disclosed.",
+  "moneySrc": [
+    0,
+    2
+  ],
+  "inOneMinute": [
+    "Path was a calm, private social network: **your life, shared with just 50 close friends**. Months after launch, it turned down $100 million from Google.",
+    "In 2012 it was caught **uploading users' phone address books** without asking. It apologised, but the FTC later fined it $800,000.",
+    "US users drifted back to Facebook and Instagram. Path found fans in Indonesia, was **sold to Kakao in 2015**, and shut in 2018."
+  ],
+  "killerLine": "A good idea that a giant can copy needs a moat. **Trust is a moat, and Path spent it chasing growth.**",
+  "numbers": [
+    {
+      "value": "$100M",
+      "label": "Google's 2011 offer that Path turned down",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "$500M",
+      "label": "valuation of its 2013 fundraise",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$800K",
+      "label": "FTC penalty in 2013",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "4M",
+      "label": "users in Indonesia, its biggest market",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a smaller, kinder Facebook",
+      "body": "Dave Morin was an early Facebook executive. Shawn Fanning had created Napster, the famous music-sharing app. With Dustin Mierau, they launched Path in November 2010. Its big idea was **intimacy**. On Facebook you might have 800 'friends', including people you barely knew. On Path you could have only **50 friends**, the people you would actually share your day with. The app was beautifully designed, with smooth animations and a feeling of calm. Friends could see your photos, the song you were playing, or when you woke up. Within months, Google offered to buy Path for **$100 million**. The founders said no. They believed Path could become something much bigger on its own.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise: design that wowed Silicon Valley",
+      "body": "In late 2011 Path relaunched with a gorgeous new design. Membership jumped **from 30,000 to over 300,000 in less than a month**. Designers copied its famous red '+' button. In April 2012, it raised more than $30 million led by Redpoint Ventures, at a reported $250 million valuation. Investors included Kleiner Perkins, Index Ventures, Greylock and even Sir Richard Branson. In 2013 it was raising $50 million more at a **$500 million valuation**. Path's founders got real things right: it was early to the idea that people wanted a private, close-friends space online. Years later, Instagram's 'Close Friends' and private group chats proved that idea was correct.",
+      "src": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: the address-book scandal",
+      "body": "In February 2012, a developer discovered that Path's iPhone app was **uploading users' entire phone address books** to Path's servers without asking. The FTC (America's consumer protection regulator) later said this happened even when users had not chosen the 'find friends from your contacts' option, and that Path had collected information from about 3,000 children under 13 without parents' consent. Morin said the company was \"deeply sorry\", deleted the data and made sharing opt-in. In 2013 Path paid an **$800,000 penalty** and agreed to privacy checks every two years for 20 years. Then users complained about spam text invitations sent to their contacts. For an app whose whole promise was privacy, this was deeply damaging.",
+      "src": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "The fall: a long fade",
+      "body": "To grow, Path raised its friend limit to 150, then 500, which blurred what made it special. In June 2013, the share of US iPhone users active on Path fell from 2.5% to 1.9% in a single month. Facebook and Instagram kept copying the best ideas. In 2014 Path launched a separate messaging app, Path Talk, which did not succeed. The one bright spot was **Indonesia, where it had about 4 million users**. That is why South Korea's Kakao bought Path in May 2015, for an undisclosed price. It never recovered. On 17 September 2018, Path announced it would close, and users lost access on **18 October 2018**.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Nov 2010",
+      "event": "Path launches with a 50-friend limit",
+      "kind": "start",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Feb 2011",
+      "event": "Raises $8.5M; turns down a reported $100M offer from Google",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Dec 2011",
+      "event": "Redesign takes members from 30,000 to over 300,000 in under a month",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Feb 2012",
+      "event": "Caught uploading users' address books without permission; CEO apologises",
+      "kind": "crisis",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Apr 2012",
+      "event": "Raises $30M+ led by Redpoint, at a reported $250M valuation",
+      "kind": "money",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Feb 2013",
+      "event": "FTC penalty of $800,000 and 20 years of privacy checks",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jul 2013",
+      "event": "Raises at a $500M valuation while US activity is falling",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Feb 2014",
+      "event": "Indonesia becomes its biggest market, with over 4M users",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "May 2015",
+      "event": "Sold to South Korea's Kakao for an undisclosed price",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "18 Oct 2018",
+      "event": "Path shuts down for good",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Share of US iPhone users active on Path",
+      "unit": "% of US iPhone users",
+      "kind": "bar",
+      "labels": [
+        "May 2013",
+        "Jun 2013"
+      ],
+      "series": [
+        {
+          "name": "Active on Path",
+          "values": [
+            2.5,
+            1.9
+          ]
+        }
+      ],
+      "takeaway": "In one month, Path lost about a quarter of its active US iPhone users, while it was raising money at a $500M valuation.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Nov 2010",
+      "round": "Seed",
+      "amountUsdM": 2.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Ron Conway",
+        "Index Ventures",
+        "First Round Capital",
+        "Ashton Kutcher",
+        "Kevin Rose",
+        "Marc Benioff"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Feb 2011",
+      "round": "Series A",
+      "amountUsdM": 8.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Kleiner Perkins",
+        "Index Ventures",
+        "Digital Garage"
+      ],
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Apr 2012",
+      "round": "Series B",
+      "amountUsdM": 30,
+      "valuationUsdM": 250,
+      "investors": [
+        "Redpoint Ventures",
+        "Greylock Partners",
+        "Kleiner Perkins",
+        "Index Ventures",
+        "Richard Branson",
+        "Yuri Milner"
+      ],
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Jan 2014",
+      "round": "Series C",
+      "amountUsdM": 25,
+      "valuationUsdM": null,
+      "investors": [
+        "Bakrie Group",
+        "Kleiner Perkins",
+        "Index Ventures",
+        "Greylock Partners",
+        "Insight Venture Partners",
+        "Redpoint Ventures"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 45
+    },
+    {
+      "key": "governance",
+      "weight": 20
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    },
+    {
+      "key": "business-model",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Broke the privacy promise",
+      "explain": "Path's whole pitch was a private space. Then it was found **uploading people's address books** without asking, and collecting data from about 3,000 under-13s. The FTC penalty was small, but the damage to trust was large. When a privacy product has a privacy scandal, users feel tricked, not just annoyed.",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Diluted the one thing that made it special",
+      "explain": "The 50-friend limit was Path's identity. To grow faster, it moved to 150, then 500 friends. **At 500 friends, Path was just a prettier Facebook**, and Facebook had all your friends already. Growth tactics that erase your difference often cost more users than they bring.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Raised at higher prices while activity fell",
+      "explain": "In mid-2013, the share of US iPhone users active on Path dropped about a quarter in one month, yet it was raising money at **$500 million**. A high valuation raises the bar for every later sale, and makes a modest exit (like Google's $100 million) look like failure.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Spread effort across side apps",
+      "explain": "Instead of fixing the main app, Path launched Path Talk, a separate messaging app, in 2014. **It did not succeed.** A small team fighting Facebook could not afford to split its focus across two products. Every engineer working on the side app was one fewer person making the main app better.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your app collect any data that users would be surprised or upset to learn about?",
+    "Are you changing your core rule (like a friend limit) mainly to make growth charts look better?",
+    "Is your valuation rising while weekly active users are flat or falling?",
+    "Could a giant copy your best feature in one update and leave users no reason to stay with you?",
+    "Is your fastest growth coming from a country you never planned for and aren't building for?"
+  ],
+  "lessons": [
+    {
+      "title": "Ask permission for every piece of data",
+      "detail": "If your app touches contacts, photos or location, ask clearly and only take what you need. India's data protection law (the DPDP Act) also expects clear consent."
+    },
+    {
+      "title": "Protect what makes you different",
+      "detail": "Write down your product's one rule that rivals don't have. Before changing it, test whether it actually brings in more of the users you want."
+    },
+    {
+      "title": "Take the exit math seriously",
+      "detail": "Saying no to $100 million can be brave and right, but only if your growth backs it up. Re-check each year whether your company is worth more than that offer."
+    },
+    {
+      "title": "Follow your surprise market seriously",
+      "detail": "Path's biggest crowd turned out to be in Indonesia. If your users show up somewhere unexpected, consider building for them fully (language, cheaper phones, local features) instead of treating them as a side story."
+    },
+    {
+      "title": "Spam invites burn your brand",
+      "detail": "Auto-sending texts to a user's contacts may boost sign-ups for a week but makes people hate your name. Grow through invites users choose to send."
+    }
+  ],
+  "quote": {
+    "text": "It is with deep regret that we announce that we will stop providing our beloved service, Path.",
+    "who": "Path team",
+    "context": "Shutdown announcement, 17 September 2018",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Kakao closed Path on 18 October 2018 after giving users time to download their data. The private 'close friends' idea Path pioneered later became standard in apps like Instagram. Path's 2013 FTC order is still cited as an early example of US regulators punishing apps for taking address books without consent.",
+    "src": [
+      0,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: RIP Path (Sep 2018)",
+      "url": "https://techcrunch.com/2018/09/17/rip-path/"
+    },
+    {
+      "label": "Wikipedia: Path (social network), for funding and launch dates",
+      "url": "https://en.wikipedia.org/wiki/Path_(social_network)"
+    },
+    {
+      "label": "TechCrunch: Path is raising $50M at a $500M valuation (Jul 2013)",
+      "url": "https://techcrunch.com/2013/07/16/path-is-raising-50m-at-a-500m-valuation"
+    },
+    {
+      "label": "TechCrunch: Path announces $30M+ round of funding (Apr 2012)",
+      "url": "https://techcrunch.com/?p=536357"
+    },
+    {
+      "label": "FTC press release: Path settles FTC charges it deceived consumers and improperly collected personal information (Feb 2013)",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2013/02/path-social-networking-app-settles-ftc-charges-it-deceived-consumers-improperly-collected-personal"
+    },
+    {
+      "label": "Salon / AP: CEO apologizes after Path uploads contact lists (Feb 2012)",
+      "url": "https://www.salon.com/2012/02/08/ceo_apologizes_after_path_uploads_contact_lists"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Path had 50 million users",
+        "note": "TechCrunch's 2018 obituary gives about 50 million at peak, likely registered rather than active users; we left it out of the story."
+      },
+      {
+        "claim": "Size of the 2012 round",
+        "note": "Early reports said $40M at $250M; the closed round was announced as 'more than $30M'."
+      },
+      {
+        "claim": "Final amount of the 2013–14 Series C",
+        "note": "Path set out to raise $50M at $500M; later records show about $25M closed in January 2014."
+      }
+    ]
+  }
+}

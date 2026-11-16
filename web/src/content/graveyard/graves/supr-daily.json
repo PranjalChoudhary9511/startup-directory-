@@ -1,0 +1,202 @@
+{
+  "slug": "supr-daily",
+  "name": "Supr Daily",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Milk & daily essentials subscription",
+  "founded": 2015,
+  "died": 2022,
+  "status": "absorbed-and-closed",
+  "brandColor": "#ff6b35",
+  "founders": [
+    { "name": "Puneet Kumar", "role": "Co-founder & CEO" },
+    { "name": "Shreyas Nagdawane", "role": "Co-founder" },
+    { "name": "Rohit Jain", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Came every morning. Left before profit.",
+  "oneLiner": "A subscription app that delivered milk, bread and eggs to your door every morning, bought by Swiggy in 2018.",
+  "causeOfDeath": "Tiny ₹70–90 daily orders never covered delivery at scale, and when money got tight in 2022, Swiggy chose Instamart over it.",
+
+  "raisedUsdM": 1.6,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure is Supr Daily's own funding before Swiggy (about $1.62M in three seed rounds, per Inc42's company data, including a $1.5M round in 2017). Swiggy's purchase price was never disclosed. Swiggy reportedly planned to invest about $100M (over ₹680 crore at 2019 rates) in it, but that was the parent's money, not a raise.",
+  "moneySrc": [14, 1, 2, 3],
+
+  "inOneMinute": [
+    "Two IIT Bombay graduates turned the morning milkman into an app. In 2017 the CEO said **\"each delivery is making money\"**.",
+    "Swiggy bought it in 2018 at about 6,000 orders a day and grew it to **200,000 orders a day** in six cities by 2021.",
+    "In May 2022 Swiggy shut it in **five of six cities**. It had no clear path to profit, and Swiggy's money was going to Instamart."
+  ],
+  "killerLine": "When each order is worth ₹80, **there is almost no room for delivery cost**. Scale multiplies the gap; it doesn't close it.",
+
+  "numbers": [
+    { "value": "6K → 200K", "label": "daily orders, from Swiggy's purchase (mid-2018) to Sep 2021", "src": [8, 5] },
+    { "value": "₹70–90", "label": "typical daily bill per household (2019): the whole business rested on it", "src": [4] },
+    { "value": "500,000", "label": "customers served each month at its peak (Sep 2021)", "src": [5] },
+    { "value": "5 of 6", "label": "cities shut in May 2022, eight months after that peak", "src": [7, 8] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a smarter milkman",
+      "body": "Every morning, millions of Indian homes get milk from a local milkman. In 2017, CEO Puneet Kumar pointed out that **\"There's no software in this market\"**: to change your order, you had to call the milkman. With fellow IIT Bombay graduate Shreyas Nagdawane, he started Supr Daily in Mumbai in 2015. You subscribed on an app or on WhatsApp, and milk, bread, eggs and butter arrived at your door early each morning. It sourced milk directly from farms, with no additives, and paid delivery staff better. By February 2017 it was in **15 Mumbai neighbourhoods**, had made over 500,000 deliveries in a year, and said about 90% of customers came back. Milk was about 90% of its revenue.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The rise: from Mumbai suburbs to six cities",
+      "body": "Supr Daily joined Y Combinator, the famous US startup programme, in early 2017. Its business grew four times in one quarter. In June 2017 it raised **$1.5 million** from investors including YC partners Paul Buchheit and Jared Friedman. Kumar said: \"Each delivery is making money, the unit economics are healthy\" (unit economics means profit or loss on one order). He said each last-mile delivery cost **under $0.05**. In mid-2018, Swiggy bought Supr Daily. It was then handling about 6,000 orders a day in a few Mumbai suburbs. With Swiggy's backing, it spread fast. By July 2019 it claimed **over 100,000 deliveries a day** in six cities, and Swiggy reportedly set aside $100 million for it.",
+      "src": [1, 0, 8, 2, 3]
+    },
+    {
+      "title": "The cracks: big numbers, small baskets",
+      "body": "By September 2021, Supr Daily delivered about **200,000 orders a day** to some 500,000 customers a month. Swiggy CEO Sriharsha Majety said daily essentials could become a category \"larger than our food delivery business\". But the basket was tiny. In 2019 a household's daily bill was only about **₹70 to ₹90**, and reports noted profit would depend largely on that number. Every order still needed a person, a vehicle and an early-morning route. Rivals like BigBasket's BBDaily, Milkbasket and DailyNinja fought for the same homes. Also in September 2021, Swiggy turned Supr Daily into a separate unit. Kumar, Nagdawane and Rohit Jain left, and Swiggy co-founder **Phani Kishan** took over as CEO.",
+      "src": [5, 6, 4, 2]
+    },
+    {
+      "title": "The fall: Swiggy picks Instamart",
+      "body": "In early 2022 Swiggy raised $700 million and committed about **$700 million to Instamart**, its fast grocery delivery service racing Blinkit and Zepto. On 10 May 2022, Phani Kishan told staff that Supr Daily had been \"unable to chart out a clear path to profitability\" and was **\"spending a significant amount of time & money\"** on managing the business. It stopped in Delhi-NCR, Mumbai, Pune, Hyderabad and Chennai on 12 May, keeping only Bengaluru. Swiggy said it found jobs for most affected staff. In February 2023 the Bengaluru service became InsanelyGood and **dropped milk subscriptions** altogether, drawing hundreds of angry app reviews. In March 2024 InsanelyGood was paused and folded into Instamart.",
+      "src": [7, 8, 10, 11, 12]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2015", "event": "Puneet Kumar and Shreyas Nagdawane start Supr Daily in Mumbai", "kind": "start", "src": [0, 2] },
+    { "date": "Feb 2017", "event": "In Y Combinator; live in 15 Mumbai neighbourhoods after 500,000+ deliveries in a year", "kind": "start", "src": [0] },
+    { "date": "Jun 2017", "event": "Raises $1.5 million; CEO says each delivery makes money", "kind": "money", "src": [1] },
+    { "date": "Mid-2018", "event": "Swiggy buys Supr Daily, then at about 6,000 orders a day", "kind": "money", "src": [8, 9] },
+    { "date": "Jul 2019", "event": "Claims 100,000+ daily deliveries in six cities; Swiggy reportedly earmarks $100 million", "kind": "peak", "src": [2, 3] },
+    { "date": "Sep 2021", "event": "Hits ~200,000 daily orders; becomes a separate unit; founders exit and Phani Kishan becomes CEO", "kind": "peak", "src": [5, 6] },
+    { "date": "Early 2022", "event": "Swiggy raises $700 million and commits about $700 million to Instamart", "kind": "warning", "src": [7] },
+    { "date": "10–12 May 2022", "event": "Swiggy suspends Supr Daily in five of six cities, citing no clear path to profitability", "kind": "end", "src": [7, 8] },
+    { "date": "Feb 2023", "event": "Bengaluru service rebranded InsanelyGood; milk subscriptions dropped", "kind": "after", "src": [11] },
+    { "date": "Mar 2024", "event": "InsanelyGood paused and merged into Instamart", "kind": "after", "src": [12] }
+  ],
+
+  "charts": [
+    {
+      "title": "Daily orders under Swiggy",
+      "unit": "orders per day",
+      "kind": "line",
+      "labels": ["Mid-2018", "Jul 2019", "Sep 2021"],
+      "series": [{ "name": "Daily orders (company-reported)", "values": [6000, 100000, 200000] }],
+      "takeaway": "Orders grew over 30 times in three years, yet eight months after the peak it was shut in most cities. Size did not bring profit.",
+      "src": [8, 2, 5]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Dec 2016", "round": "Seed", "amountUsdM": null, "valuationUsdM": null, "investors": ["Venture Catalysts", "Indian angel investors"], "src": [0, 6] },
+    { "date": "Jun 2017", "round": "Seed", "amountUsdM": 1.5, "valuationUsdM": null, "investors": ["Soma Capital", "Great Oaks Ventures", "122 West Ventures", "Paul Buchheit", "Jared Friedman", "Roger Egan"], "src": [1] }
+  ],
+
+  "causes": [
+    { "key": "unit-economics", "weight": 40 },
+    { "key": "focus", "weight": 25 },
+    { "key": "over-expansion", "weight": 20 },
+    { "key": "competition", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "A basket too small to carry its delivery",
+      "explain": "A typical home spent just **₹70–90 a day**. Out of that, Supr Daily had to pay for the milk, an early-morning rider, packaging and the app. At 200,000 orders a day, small losses per order add up to big ones. By 2022 its CEO admitted it had **no clear path to profitability**.",
+      "src": [4, 8]
+    },
+    {
+      "title": "Unit economics that worked small, but not big",
+      "explain": "In 2017, in 15 dense Mumbai neighbourhoods, the founder said **each delivery made money** at under $0.05 of delivery cost. Spreading to six cities with Swiggy's money brought new suppliers, new routes and thinner density. A model proven in one tight area is not proven everywhere. Each new city needs its own proof.",
+      "src": [1, 2, 3]
+    },
+    {
+      "title": "Living off one low-margin product",
+      "explain": "Milk was **about 90% of revenue** in 2017. Milk is bought daily, but the price is low and margins are thin. Rivals even used milk as a loss-leader (a product sold at a loss to win customers). Supr Daily needed customers to add higher-value items, and that never became the core of the business.",
+      "src": [0, 2]
+    },
+    {
+      "title": "The owner had a bigger bet",
+      "explain": "Swiggy ran several new ventures at once. In 2022 it put about **$700 million into Instamart**, its fast grocery service. Supr Daily's CEO said the business was taking significant time and money and distracting from finding market fit. When a parent has to choose, the bet that is not its future gets cut.",
+      "src": [7, 8]
+    },
+    {
+      "title": "Losing the founders before the hardest year",
+      "explain": "In September 2021 all three co-founders left and a Swiggy executive took over. **Eight months later**, most of the business was shut. The people who knew its customers and suppliers best were gone just as hard choices had to be made.",
+      "src": [5, 6, 7]
+    }
+  ],
+
+  "warningSigns": [
+    "Is your average order so small that delivery and packaging eat most of it?",
+    "Was your 'profitable per order' number measured only in your first, densest neighbourhood?",
+    "Does one cheap product make up most of your revenue?",
+    "If you were bought, does your new owner have a bigger, faster-growing bet in the same space?",
+    "Are you opening new cities before each existing city makes money on its own?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Do the ₹80 maths",
+      "detail": "Write down your average order value and every cost of serving it: product, rider, packaging, payment fee, app. If what is left is tiny, find ways to raise the basket (more items per home) before you grow."
+    },
+    {
+      "title": "Prove each new city separately",
+      "detail": "Supr Daily's early numbers came from dense Mumbai neighbourhoods. Track profit per order city by city, and treat each new city as a fresh experiment, not a copy."
+    },
+    {
+      "title": "Get bought, but read the parent's plans",
+      "detail": "Being acquired gives you money and reach. It also makes you one bet among many. Ask how you fit the buyer's top priority, because that decides what happens in a downturn."
+    },
+    {
+      "title": "Respect the habits you sell",
+      "detail": "When InsanelyGood dropped milk subscriptions, loyal users flooded the app with bad reviews. A daily habit is powerful. Changing it suddenly can lose the customers who trusted you most."
+    },
+    {
+      "title": "The founders did build something real",
+      "detail": "Supr Daily took an old, offline habit, gave it software, and reached 500,000 customers a month. That is a real achievement. Learn from both parts: what they built, and why it could not pay for itself."
+    }
+  ],
+
+  "quote": {
+    "text": "Each delivery is making money, the unit economics are healthy.",
+    "who": "Puneet Kumar, co-founder & CEO",
+    "context": "Speaking to TechCrunch in June 2017, when Supr Daily was in 15 Mumbai neighbourhoods. Five years later, under Swiggy, it was shut in most cities for lacking a clear path to profit.",
+    "src": [1]
+  },
+
+  "afterlife": {
+    "text": "Supr Daily lived on in Bengaluru only, was renamed InsanelyGood in February 2023 without milk subscriptions, and in March 2024 was folded into Instamart, which became the centre of Swiggy's grocery push. Co-founder Puneet Kumar joined Nexus Venture Partners as a venture partner in May 2024; by January 2026 he had left that role, reportedly to build a new startup.",
+    "src": [11, 12, 13]
+  },
+
+  "sources": [
+    { "label": "TechCrunch: Supr Daily is digitizing milk delivery in India (Feb 2017)", "url": "https://techcrunch.com/2017/02/22/supr-daily/" },
+    { "label": "TechCrunch: India's Supr Daily raises $1.5M to expand its milk and grocery delivery service (Jun 2017)", "url": "https://techcrunch.com/?p=1501601" },
+    { "label": "Inc42: Has Swiggy acquired micro-delivery startup Supr Daily? (Jul 2019)", "url": "https://inc42.com/buzz/swiggy-acquires-supr-daily" },
+    { "label": "Restaurant India: Swiggy earmarks $100 mn investment for its subscription-based delivery business (Jul 2019)", "url": "https://www.restaurantindia.in/news/swiggy-earmarks-100-mn-investment-for-its-subscription-based-delivery-biz.n18695" },
+    { "label": "The News Minute: Swiggy plans to invest $100 million in Supr (Jul 2019)", "url": "https://www.thenewsminute.com/atom/swiggy-plans-invest-100-million-supr-deliver-milk-other-essentials-105188" },
+    { "label": "MediaNama: Swiggy makes Supr Daily a separate business unit (Sep 2021)", "url": "https://www.medianama.com/2021/09/223-swiggy-supr-daily-grocery-delivery/" },
+    { "label": "Inc42: Supr Daily's CEO quits, Phani Kishan to take charge (Sep 2021)", "url": "https://inc42.com/?p=264856" },
+    { "label": "Inc42: Foodtech giant Swiggy shuts down Supr Daily in five cities (May 2022)", "url": "https://inc42.com/buzz/swiggy-suspends-operations-of-commerce-platform-supr-daily" },
+    { "label": "Business Today: Swiggy to shut down Supr Daily; Swiggy Genie suspended temporarily (May 2022)", "url": "https://businesstoday.in/latest/corporate/story/swiggy-to-shut-down-supr-daily-swiggy-genie-suspended-temporarily-333050-2022-05-10" },
+    { "label": "Bizz Buzz: Swiggy closes down Supr Daily operations in five cities (May 2022)", "url": "https://www.bizzbuzz.news/markets/swiggy-closes-down-supr-daily-operations-in-five-cities-1135300" },
+    { "label": "Asianet Newsable: Swiggy scales down Supr Daily, suspends Genie in 3 cities (May 2022)", "url": "https://newsable.asianetnews.com/business/swiggy-scales-down-supr-daily-temporarily-suspends-swiggy-genie-in-3-cities-gcw-rbpla5" },
+    { "label": "Inc42: Swiggy rebrands subscription grocery vertical SuprDaily as InsanelyGood (Mar 2023)", "url": "https://inc42.com/buzz/swiggy-rebrands-subscription-grocery-delivery-vertical-suprdaily-insanelygood" },
+    { "label": "Outlook Business: Swiggy merges InsanelyGood with Instamart (Mar 2024)", "url": "https://www.outlookbusiness.com/news/swiggy-merges-insanelygood-with-instamart" },
+    { "label": "Venture Intelligence: SuprDaily co-founder Puneet Kumar moves on from venture partner role at Nexus (Jan 2026)", "url": "https://news.ventureintelligence.com/private-equity/suprdaily-co-founder-puneet-kumar-moves-on-from-venture-partner-role-at-nexus-ventures" },
+    { "label": "Inc42: Supr Daily company overview (funding data)", "url": "https://inc42.com/company/supr-daily/overview" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "How Swiggy paid for Supr Daily.", "note": "Restaurant India (2019) called it a cash-plus-stock deal; Inc42 (2021) called it all-cash. The price was never disclosed." },
+      { "claim": "Year of acquisition.", "note": "Most reports say 2018 (Swiggy never formally announced it at the time). CB Insights lists 2021, which looks like the date it became a separate unit." },
+      { "claim": "Whether the $100 million was ever fully invested.", "note": "Reported in July 2019 as a plan, citing the Economic Times. We found no confirmation of how much Swiggy actually spent." },
+      { "claim": "200,000 'daily orders' vs 'daily customers'.", "note": "Swiggy's 2021 blog was quoted as both. Business Today quotes the 2022 memo as '200,000 daily orders across six cities', which we use." },
+      { "claim": "Number of co-founders.", "note": "Early reports name Puneet Kumar and Shreyas Nagdawane; Swiggy's 2021 announcement and later reports also name Rohit Jain as a co-founder." },
+      { "claim": "Supr Daily's own losses.", "note": "No reliable year-by-year profit or loss for Supr Daily under Swiggy was published, so we do not chart money." }
+    ]
+  }
+}

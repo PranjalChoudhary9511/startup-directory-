@@ -1,0 +1,464 @@
+{
+  "slug": "fab",
+  "name": "Fab.com",
+  "region": "global",
+  "country": "United States",
+  "city": "New York",
+  "sector": "Design e-commerce (flash sales)",
+  "founded": 2010,
+  "died": 2015,
+  "status": "sold-for-parts",
+  "brandColor": "#e31b23",
+  "founders": [
+    {
+      "name": "Jason Goldberg",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Bradford Shellhammer",
+      "role": "Co-founder and chief design officer"
+    }
+  ],
+  "epitaph": "Valued at a billion. Sold for the furniture.",
+  "oneLiner": "A shopping site that sold quirky, well-designed home goods, gadgets and fashion through daily flash sales, later a full design store.",
+  "causeOfDeath": "It burned up to $14M a month on ads, staff, offices and a rushed European expansion, and when it raised half the money it planned, the model collapsed.",
+  "raisedUsdM": 330,
+  "peakValuationUsdM": 1000,
+  "endValueUsdM": 15,
+  "moneyNote": "TechCrunch: Fab raised more than $330M in its life and was valued at $1B in June 2013. PCH never disclosed the 2015 price; TechCrunch's sources said around $15M.",
+  "moneySrc": [
+    1,
+    3
+  ],
+  "inOneMinute": [
+    "Fab began as a social network, then pivoted to selling **beautiful design products in daily sales**. It hit 1 million members in five months, faster than Facebook did.",
+    "Investors valued it at **$1 billion in 2013**. It hired about 700 people, bought five companies, and at its peak **burned $14 million a month**.",
+    "When it raised only half of the $300 million it wanted, it shrank to a few dozen staff and **was sold for around $15 million** in 2015."
+  ],
+  "killerLine": "**Growth you pay for is not demand you've earned.** If ads eat a third of revenue, you're renting customers, not winning them.",
+  "numbers": [
+    {
+      "value": "$1B",
+      "label": "valuation in June 2013",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$14M",
+      "label": "burned per month at its peak",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "value": "$250K",
+      "label": "monthly rent for two floors of New York office space",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "~$15M",
+      "label": "reported fire-sale price in 2015",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a pivot that caught fire",
+      "body": "Jason Goldberg and designer Bradford Shellhammer first built **Fabulis, a social network for gay men** and their friends, in 2010. It didn't take off. On 9 June 2011 they pivoted (changed direction completely) into Fab: every day, the site showed a handful of **quirky, beautifully designed products at sale prices** for a short time, such as lamps, mugs, posters and gadgets. Think of it as Urban Ladder or Pepperfry mixed with a daily-deals app. It was fun to browse, and people loved sharing their finds. Goldberg said half of all members could be traced back to social sharing. In just five months, Fab reached **1 million members**. Facebook had taken 10 months to do that, and Twitter 24.",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "title": "The rise: a billion-dollar design store",
+      "body": "Investors rushed in. Fab raised $8 million in July 2011, $40 million from Andreessen Horowitz in December 2011, and $105 million in July 2012, valuing it at about $600 million. Then, in June 2013, it raised **$150 million at a $1 billion valuation**, with China's Tencent joining. Its 2012 revenue was $120 million, and it aimed for $250 million in 2013. Gross margin (what's left after paying for the products) had improved from 29% to 43%. Fab sold in 27 countries and had bought five companies in two years, including German and British design sites, to win Europe. Goldberg talked about becoming one of the few e-commerce firms worth over $10 billion. Staff grew to **about 700 people**.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: spending like a giant",
+      "body": "Behind the growth, costs were enormous. **More than a third of revenue went on advertising**. Fab paid $250,000 a month for two floors of New York offices. At its peak it was burning (losing) **$14 million every month**. It missed its revenue goals by about 20%. The business model kept changing too: from flash sales to a regular store, then to making its own products. Goldberg had planned to raise $300 million in 2013 but raised $150 million. As he later put it, that gap forced him to change the whole business model. In July 2013 it cut 100 jobs in Berlin. In October it cut 101 more, mostly in New York.",
+      "src": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The fall: from 700 people to 35",
+      "body": "In 2014, Fab shut down its brand everywhere except the US. Goldberg moved to Berlin and built **Hem, a furniture company**, out of businesses Fab had bought, because furniture had the best margins. Fab itself shrank to about 25 employees. In March 2015 it was sold to PCH International, a manufacturing and supply-chain company. The price was never announced, but TechCrunch's sources said **around $15 million**, a fire sale for a company once valued at $1 billion. PCH kept 35 US staff. The money from the sale went into Hem, and Fab's investors kept their stakes there. In total, more than $330 million had gone into Fab.",
+      "src": [
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Feb 2010",
+      "event": "Goldberg and Shellhammer start Fabulis, a social network",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "9 Jun 2011",
+      "event": "Pivots into Fab, a daily design-sales site",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "event": "Reaches 1 million members in five months",
+      "kind": "peak",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Dec 2011",
+      "event": "Raises $40M led by Andreessen Horowitz",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2012",
+      "event": "Buys Casacanda (Germany) and Llustre (UK) to expand in Europe",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2012",
+      "event": "Raises $105M led by Atomico, at about a $600M valuation",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jun 2013",
+      "event": "Raises $150M at a $1B valuation; 2012 revenue was $120M",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jul–Oct 2013",
+      "event": "Cuts 100 jobs in Berlin, then 101 more, mostly in New York",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2014",
+      "event": "Brand shut outside the US; burn had peaked at $14M a month",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Sep 2014",
+      "event": "Launches Hem, a furniture brand, and shrinks Fab to about 25 staff",
+      "kind": "crisis",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Mar 2015",
+      "event": "Sold to PCH International for a reported ~$15M",
+      "kind": "end",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Dec 2016",
+      "event": "Goldberg raises money for a new app, Pepo, from old Fab backers",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Members and users",
+      "unit": "million people",
+      "kind": "line",
+      "labels": [
+        "Jun 2011",
+        "Nov 2011",
+        "Sep 2012",
+        "Dec 2012",
+        "Jun 2013"
+      ],
+      "series": [
+        {
+          "name": "Members / users",
+          "values": [
+            0.175,
+            1,
+            7.5,
+            10,
+            14
+          ]
+        }
+      ],
+      "takeaway": "Fab grew very fast, but much of that growth was bought with advertising rather than earned.",
+      "src": [
+        0,
+        1,
+        6
+      ]
+    },
+    {
+      "title": "Gross margin",
+      "unit": "% of revenue",
+      "kind": "bar",
+      "labels": [
+        "2011",
+        "2013"
+      ],
+      "series": [
+        {
+          "name": "Gross margin",
+          "values": [
+            29,
+            43
+          ]
+        }
+      ],
+      "takeaway": "The basic product maths was improving; spending on ads, offices and staff was the real killer.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Jul 2011",
+      "round": "Series A",
+      "amountUsdM": 8,
+      "valuationUsdM": null,
+      "investors": [
+        "Menlo Ventures"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2011",
+      "round": "Series B",
+      "amountUsdM": 40,
+      "valuationUsdM": null,
+      "investors": [
+        "Andreessen Horowitz"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2012",
+      "round": "Series C",
+      "amountUsdM": 105,
+      "valuationUsdM": 600,
+      "investors": [
+        "Atomico"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jun 2013",
+      "round": "Series D (first tranche)",
+      "amountUsdM": 150,
+      "valuationUsdM": 1000,
+      "investors": [
+        "Tencent",
+        "Itochu",
+        "Atomico",
+        "Andreessen Horowitz",
+        "Menlo Ventures"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "burn",
+      "weight": 40
+    },
+    {
+      "key": "over-expansion",
+      "weight": 25
+    },
+    {
+      "key": "focus",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Spent as if the next round was certain",
+      "explain": "Fab grew to about 700 staff, rented $250,000-a-month offices and **burned $14 million a month at its peak**. That only works if investors keep paying. When Goldberg raised $150 million instead of the $300 million he planned, the whole business had to be torn up.",
+      "src": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "Bought growth with ads",
+      "explain": "**More than a third of revenue went on advertising.** Paid growth looks great on a members chart, but those customers cost money every time. When the ad budget shrank, growth shrank with it, and Fab missed its revenue goals by about 20%.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "Rushed into Europe",
+      "explain": "Fab bought **five companies in two years** and sold in 27 countries, partly to beat European copycats. Each country added warehouses, staff and offices. In 2014 it shut its brand everywhere outside the US, wasting much of that spending. Expanding before the home market was profitable multiplied the burn.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "Kept changing what it was",
+      "explain": "Social network, then flash sales, then a regular design store, then its own products, then Hem furniture. Each change **reset the team, the systems and the customer's idea of Fab**. Some pivots were smart, but too many in a short time left no time to master one model.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your budget only work if your next funding round is fully raised?",
+    "Is more than a quarter of your revenue going to advertising?",
+    "Are you entering new countries or cities before your home market is profitable?",
+    "Have you changed your core business model more than once in the past year?",
+    "Is your office rent growing faster than your revenue?"
+  ],
+  "lessons": [
+    {
+      "title": "Plan for half the money",
+      "detail": "Before a fundraise, make two budgets: one if you raise everything, one if you raise half. Spend according to the second until the money is in the bank."
+    },
+    {
+      "title": "Track what each customer costs",
+      "detail": "Measure how much you pay in ads for each buyer, and how much that buyer spends over a year. If the first number is close to the second, you are renting growth."
+    },
+    {
+      "title": "Win at home first",
+      "detail": "Buying companies abroad looks bold. Making one market profitable is bolder and cheaper. Indian startups that rushed into many countries often had to pull back the same way."
+    },
+    {
+      "title": "Keep costs that can shrink",
+      "detail": "Long office leases and big teams are hard to cut. Use flexible spaces and contractors until revenue is steady, so a bad quarter doesn't force mass layoffs."
+    },
+    {
+      "title": "Follow the margin",
+      "detail": "Goldberg moved to furniture because it had the best margins. Look at your own product categories and double down where you actually make money, early, not after the crisis."
+    }
+  ],
+  "quote": {
+    "text": "And when you set out to raise $300 million and you raise $150 million, you change your business model",
+    "who": "Jason Goldberg, co-founder and CEO of Fab",
+    "context": "Explaining to TechCrunch in October 2014 why Fab shrank and pivoted to Hem",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "PCH International kept Fab running in the US with a small team. The sale money went into Hem, the Berlin furniture business Goldberg built from Fab's acquisitions, and Fab's investors kept their stakes there. Goldberg later started a social app called Pepo, backed by several old Fab investors, and then a blockchain company. Shellhammer left in 2014 to start a new design marketplace, Bezar. In 2024, Epic Games reused the Fab name for an unrelated digital marketplace.",
+    "src": [
+      0,
+      3,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Fab (website) (citing TechCrunch, Bloomberg, Mashable, Fast Company)",
+      "url": "https://en.wikipedia.org/wiki/Fab_(website)"
+    },
+    {
+      "label": "TechCrunch: Fab grabs $150 million at $1B valuation (Jun 2013)",
+      "url": "https://techcrunch.com/2013/06/18/fab-grabs-150-million-from-tencent-andreessen-horowitz-and-others-at-1b-valuation-and-is-raising-another-100m-more/"
+    },
+    {
+      "label": "TechCrunch: Fab and Hem, inside the pivot (Oct 2014)",
+      "url": "https://techcrunch.com/2014/10/20/fab-hem/"
+    },
+    {
+      "label": "TechCrunch: PCH buys Fab (Mar 2015)",
+      "url": "https://techcrunch.com/2015/03/03/pch-fab/"
+    },
+    {
+      "label": "Dezeen: Fab acquired by PCH to create 'the Netflix of design' (Mar 2015)",
+      "url": "https://www.dezeen.com/2015/03/03/pch-acquires-fab-netflix-design-website/"
+    },
+    {
+      "label": "TechCrunch: Pepo raises $2.35M from old Fab.com backers (Dec 2016)",
+      "url": "https://techcrunch.com/2016/12/06/pepo-jason-goldbergs-social-media-app-raises-2-35m-from-his-old-fab-com-backers/"
+    },
+    {
+      "label": "The Next Web: In just 5 months, Fab snags 1 million members (Nov 2011)",
+      "url": "https://thenextweb.com/news/in-just-5-months-fab-snags-1-million-members-thats-twice-as-fast-as-facebook"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Fab sold for $15 million",
+        "note": "The price was never disclosed; TechCrunch's sources said around $15 million."
+      },
+      {
+        "claim": "Total raised",
+        "note": "TechCrunch says more than $330 million; another TechCrunch piece says 'some $300 million'; figures like $336 million also circulate."
+      },
+      {
+        "claim": "Members vs users",
+        "note": "The 2011–2012 figures are registered members; the June 2013 figure (14 million) is described as users. They may not be measured the same way."
+      }
+    ]
+  }
+}

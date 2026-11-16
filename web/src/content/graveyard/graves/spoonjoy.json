@@ -1,0 +1,413 @@
+{
+  "slug": "spoonjoy",
+  "name": "SpoonJoy",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Food delivery",
+  "founded": 2014,
+  "died": 2015,
+  "status": "absorbed-and-closed",
+  "brandColor": "#f7941d",
+  "founders": [
+    {
+      "name": "Manish Jethani",
+      "role": "Founder"
+    },
+    {
+      "name": "Sourabh Agarwal",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Prateek Agrawal",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Kanishk Tyagi",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Cooked in eight kitchens. Ran out of gas.",
+  "oneLiner": "A Bengaluru app that cooked meals in its own kitchens and delivered them to offices, on demand or as a weekday subscription.",
+  "causeOfDeath": "It ran eight kitchens and opened a second city on about $1 million, then could not raise more and stopped cooking within five months of its last round.",
+  "raisedUsdM": 1,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure is the $1 million Series A from SAIF Partners (May 2015); an earlier angel round in late 2014 was undisclosed, so the true total is a little higher. No valuation was published. Grofers' 2015 deal was reported as mostly stock with some cash, at an undisclosed price.",
+  "moneySrc": [
+    1,
+    0,
+    2
+  ],
+  "inOneMinute": [
+    "SpoonJoy doubled to about **700–750 orders a day** in five months, backed by Flipkart's Sachin Bansal and then SAIF Partners.",
+    "It ran **eight kitchens** and moved into Delhi on about $1 million, then failed to raise more and stopped cooking in October 2015.",
+    "Grofers took the team and closed the food business. The founders later built **Hevo Data**, which raised $43 million."
+  ],
+  "killerLine": "If your model needs kitchens, vans and cooks, **raise for the model you chose**, not for the app you imagine.",
+  "numbers": [
+    {
+      "value": "$1M",
+      "label": "Series A raised in May 2015",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "8",
+      "label": "kitchens it ran across Bengaluru (May 2015)",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "~5 months",
+      "label": "from its $1M round to shutting down",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "value": "$43M",
+      "label": "later raised by the founders' next startup, Hevo Data",
+      "src": [
+        8
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Manish Jethani had already co-founded one startup, a business-to-business reverse-auction site called Vendors Scale. In 2014, in Bengaluru, he started SpoonJoy, later joined by co-founders Sourabh Agarwal, Prateek Agrawal and Kanishk Tyagi. The pitch was simple: busy office workers want a decent lunch without a long wait. SpoonJoy offered **on-demand lunch and dinner** plus a Monday-to-Friday subscription of fruit boxes, salads, sprouts and snacks. You chose the dishes and the time; SpoonJoy did the rest. In December 2014 it was getting **350–400 orders a day**, mostly from offices, and raised angel money from a remarkable group: Flipkart co-founder Sachin Bansal, Flipkart's Mekin Maheshwari, Tracxn's Abhishek Goyal and Delhivery's Sahil Barua.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "By May 2015 orders had roughly doubled to **700–750 a day**. About 90% came from offices and 70% through the mobile app. SpoonJoy promised delivery in 30 minutes. To keep that promise it did not rely on restaurants: it ran **eight of its own kitchens** across Bengaluru, serving areas like Indiranagar, Koramangala, MG Road and HSR Layout. On 1 May it raised $1 million in a Series A from SAIF Partners. The plan was to upgrade its technology and open Delhi and Mumbai within about two months. It was a crowded field, with FreshMenu, Yumist, TinyOwl, Zomato, Foodpanda and Swiggy all chasing the same hungry office crowd.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "Kitchens are expensive. Each one needs rent, equipment, cooks and supplies before the first order, and SpoonJoy's demand was concentrated in **weekday office lunches**. At first, dinner was offered only in HSR Layout. Food also has thin margins. Jethani later said that **\"the data needs to be highly optimized\"** in food delivery, because every wasted trip eats the profit. Meanwhile SpoonJoy pushed into Delhi, adding a second set of kitchens and riders. But no new round followed. By October 2015, about five months after its $1 million round, the money had **run out**.",
+      "src": [
+        1,
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In early October 2015 SpoonJoy **stopped operating in both Delhi and Bengaluru**. Reports said Grofers, the grocery-delivery startup flush with fresh funding, was in talks to buy it. Within weeks Grofers had acqui-hired SpoonJoy (bought the company mainly to hire its team), in a deal reported as mostly stock with some cash. Grofers said it took on the team but would **discontinue SpoonJoy's food business**, because it had no plans to enter food delivery. The SpoonJoy app went quiet for good. For customers it was one more food app gone in a bad year. For its founders, it was the start of about a year working inside Grofers.",
+      "src": [
+        3,
+        2,
+        4,
+        6
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2014",
+      "event": "Manish Jethani starts SpoonJoy in Bengaluru, run by Emvito Technologies.",
+      "kind": "start",
+      "src": [
+        1,
+        5
+      ]
+    },
+    {
+      "date": "Dec 2014",
+      "event": "Raises angel money from Sachin Bansal, Mekin Maheshwari, Abhishek Goyal and Sahil Barua; 350–400 orders a day.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "1 May 2015",
+      "event": "Raises a $1 million Series A from SAIF Partners; plans Delhi and Mumbai.",
+      "kind": "money",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "May 2015",
+      "event": "Hits 700–750 orders a day from eight Bengaluru kitchens.",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "2015",
+      "event": "Opens in Delhi, its second city (month not reported).",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Early Oct 2015",
+      "event": "Runs out of money and stops operating in Delhi and Bengaluru.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "24 Oct 2015",
+      "event": "Reported to be selling to Grofers.",
+      "kind": "crisis",
+      "src": [
+        4,
+        3
+      ]
+    },
+    {
+      "date": "Late Oct 2015",
+      "event": "Grofers acqui-hires the team and discontinues the food business.",
+      "kind": "end",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "Nov 2017",
+      "event": "Jethani and Agarwal launch Hevo Data with a $1 million seed round.",
+      "kind": "after",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Dec 2021",
+      "event": "Hevo raises a $30 million Series B led by Sequoia Capital India.",
+      "kind": "after",
+      "src": [
+        8
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Orders per day",
+      "unit": "orders per day",
+      "kind": "line",
+      "labels": [
+        "Dec 2014",
+        "May 2015"
+      ],
+      "series": [
+        {
+          "name": "Orders a day (midpoint of company's range)",
+          "values": [
+            375,
+            725
+          ]
+        }
+      ],
+      "takeaway": "Orders roughly doubled in five months, but five months after that the money was gone. We plot the midpoint of the 350–400 and 700–750 ranges the company gave.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Dec 2014",
+      "round": "Angel",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Sachin Bansal",
+        "Mekin Maheshwari",
+        "Abhishek Goyal",
+        "Sahil Barua"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2015",
+      "round": "Series A",
+      "amountUsdM": 1,
+      "valuationUsdM": null,
+      "investors": [
+        "SAIF Partners"
+      ],
+      "src": [
+        1,
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "funding-dried",
+      "weight": 35
+    },
+    {
+      "key": "over-expansion",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 25
+    },
+    {
+      "key": "competition",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Built a heavy model on a light wallet",
+      "explain": "SpoonJoy ran **eight kitchens** plus its own delivery, on angel money and a $1 million round. A marketplace app can survive on that; a chain of kitchens usually cannot, because rent, cooks and stock must be paid every month whatever the orders. The model needed either far more money or far fewer kitchens.",
+      "src": [
+        1,
+        0
+      ]
+    },
+    {
+      "title": "Opened a second city too soon",
+      "explain": "Within months of raising $1 million, SpoonJoy planned Delhi and Mumbai and did open in Delhi. A new city means new kitchens, riders and marketing, with none of Bengaluru's word of mouth. When the money ran out, it had to **shut both cities at once**. Proving Bengaluru could stand alone would have bought time.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "Relied on one busy hour",
+      "explain": "About **90% of orders came from offices**, and dinner was at first offered in just one area. That suggests demand piled up at weekday lunch, while kitchens and staff were paid for all day, every day. This is our reading of the figures, not a company statement, but it is a common trap for office-food startups.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Fought a crowded field without a war chest",
+      "explain": "FreshMenu, Yumist, TinyOwl, Zomato, Foodpanda and Swiggy were all chasing the same customers in 2015. When SpoonJoy needed more money, none came. With **no reserve to ride out the winter**, a small company has to stop the moment its last cheque runs out.",
+      "src": [
+        1,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your business need its own kitchens, warehouses or vehicles, but you have raised only app-sized money?",
+    "Are you planning a new city while your first one still needs fresh funding to survive?",
+    "Does most of your demand arrive in one short window, while your costs run all day?",
+    "If no new money came in, would you run out within six months?",
+    "Are several much richer rivals chasing exactly the same customers as you?"
+  ],
+  "lessons": [
+    {
+      "title": "Match the money to the model",
+      "detail": "List what your model must own: kitchens, vans, stock. Price a year of it. If that is far more than you can raise, choose a lighter model, like partnering with existing kitchens, before you start."
+    },
+    {
+      "title": "Fill the empty hours",
+      "detail": "If your kitchen is busy only at lunch, find a second use for it: dinner, snacks, catering or supplying other brands. Idle capacity is cost with no income."
+    },
+    {
+      "title": "One city, then two",
+      "detail": "Make your first city pay its own bills before moving. A second city halves your attention and doubles your fixed costs."
+    },
+    {
+      "title": "A soft landing protects people",
+      "detail": "SpoonJoy's sale to Grofers gave its team jobs instead of an empty office. When the end is near, look for a buyer for your team early, while you still have something to offer."
+    },
+    {
+      "title": "Turn your worst pain into your next idea",
+      "detail": "Jethani and Agarwal struggled to make sense of SpoonJoy's data. That exact problem became Hevo Data. Keep notes on what hurts while you build; one of those pains may be a company."
+    }
+  ],
+  "quote": {
+    "text": "One of the challenges of food delivery is that the data needs to be highly optimized",
+    "who": "Manish Jethani, SpoonJoy founder, later CEO of Hevo Data",
+    "context": "Looking back on SpoonJoy in 2017, explaining why thin food margins made every delivery decision matter, as reported by TechCrunch.",
+    "src": [
+      6
+    ]
+  },
+  "afterlife": {
+    "text": "After about a year at Grofers, Manish Jethani and Sourabh Agarwal started Hevo Data in 2017, a tool that pulls a company's data from many apps into one place. The idea came straight from SpoonJoy, where checking why orders rose or fell meant digging through many tools by hand. Hevo raised a $1 million seed round, an $8 million Series A in 2020 and a $30 million Series B led by Sequoia Capital India in December 2021, about $43 million in all, and said it had over 1,000 customers in more than 40 countries.",
+    "src": [
+      6,
+      7,
+      8
+    ]
+  },
+  "sources": [
+    {
+      "label": "Inc42: Food delivery startup SpoonJoy gets funding from Sachin Bansal and others (Dec 2014)",
+      "url": "https://inc42.com/buzz/food-delivery-startup-spoonjoy-gets-funding-sachin-bansal-others"
+    },
+    {
+      "label": "MediaNama: SpoonJoy raises $1M from SAIF; to expand to Delhi and Mumbai soon (May 2015)",
+      "url": "https://www.medianama.com/2015/05/223-spoonjoy-raises-1m-from-saif-to-expand-to-delhi-and-mumbai-soon/"
+    },
+    {
+      "label": "MediaNama: Grofers acquires Townrush (and acqui-hires SpoonJoy) (Oct 2015)",
+      "url": "https://www.medianama.com/2015/10/223-grofers-acquires-townrush/"
+    },
+    {
+      "label": "NewsMobile: Grofers acquires SpoonJoy, citing Mint and The Times of India (Oct 2015)",
+      "url": "https://www.newsmobile.in/?p=206917"
+    },
+    {
+      "label": "DealStreetAsia: Bengaluru food app SpoonJoy might sell out to Grofers (Oct 2015)",
+      "url": "https://dealstreetasia.com/?p=16847"
+    },
+    {
+      "label": "Inc42 Datalabs: SpoonJoy (Emvito Technologies) company profile",
+      "url": "https://inc42.com/company/spoonjoy/"
+    },
+    {
+      "label": "TechCrunch: Hevo Data gets $1M in seed funding (Nov 2017)",
+      "url": "https://techcrunch.com/2017/11/03/hevo-data-gets-1m-in-seed-funding-to-streamline-data-integration/"
+    },
+    {
+      "label": "TechCrunch: Hevo draws in $8 million Series A (Jul 2020)",
+      "url": "https://techcrunch.com/?p=2023230"
+    },
+    {
+      "label": "TechCrunch: Hevo raises $30 million Series B led by Sequoia Capital India (Dec 2021)",
+      "url": "https://techcrunch.com/?p=2249176"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "About 250 delivery staff were fired when SpoonJoy closed.",
+        "note": "Attributed to a single anonymous former employee in one November 2015 report. We could not read the original or find corroboration, so it is left out of the story."
+      },
+      {
+        "claim": "About 40 SpoonJoy employees joined Grofers.",
+        "note": "Reported as an expectation while the deal was being negotiated; Grofers later said it took on the team. The final number was not published."
+      },
+      {
+        "claim": "When the Delhi shutdown happened.",
+        "note": "NewsMobile, citing Mint, said SpoonJoy stopped in Delhi and Bengaluru in early October 2015; other summaries place the Delhi closure in September 2015."
+      },
+      {
+        "claim": "Founding date.",
+        "note": "MediaNama said in May 2015 that SpoonJoy had launched about a year earlier; databases list 2014 without a month."
+      }
+    ]
+  }
+}

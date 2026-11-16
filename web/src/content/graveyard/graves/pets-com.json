@@ -1,0 +1,451 @@
+{
+  "slug": "pets-com",
+  "name": "Pets.com",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Online pet supplies",
+  "founded": 1999,
+  "died": 2000,
+  "status": "shut-down",
+  "brandColor": "#1f4e9c",
+  "founders": [
+    {
+      "name": "Greg McLemore",
+      "role": "Founder (via his incubator WebMagic)"
+    },
+    {
+      "name": "Julie Wainwright",
+      "role": "CEO and chairman"
+    }
+  ],
+  "epitaph": "Everyone knew the puppet. Few bought the kibble.",
+  "oneLiner": "An online store that delivered pet food, toys and supplies to American homes, made famous by a talking sock puppet.",
+  "causeOfDeath": "It sold heavy, cheap pet food for less than it cost, then spent millions on ads to sell even more of it, until no investor would fund the losses.",
+  "raisedUsdM": 187,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "From its SEC 10-K: Series A ($13M) + Series B ($91.8M net cash) + IPO ($82.5M gross) ≈ $187M; excludes $7.4M notes and $11M of non-cash ad rights. Assets were sold piece by piece, not as a company.",
+  "moneySrc": [
+    0
+  ],
+  "inOneMinute": [
+    "Pets.com sold pet food and supplies online in 1999–2000. Its **sock puppet mascot** became famous, even starring in a Super Bowl advert.",
+    "But in 2000 **every $1 of sales cost about $1.28 in goods alone**, before shipping, salaries or ads. More orders meant bigger losses.",
+    "It went from stock-market listing to shutting its website in **268 days**. When the dot-com mood turned, no buyer and no investor would step in."
+  ],
+  "killerLine": "If each order loses money, **advertising just helps you lose money faster**. Fix the margin before you buy the fame.",
+  "numbers": [
+    {
+      "value": "268 days",
+      "label": "from IPO money arriving to the website shutting",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$1.28",
+      "label": "cost of goods for every $1 of sales in 2000",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "$109M",
+      "label": "spent on marketing, against $34M of total sales",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "50+",
+      "label": "possible buyers contacted at the end; fewer than 8 even visited",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: pet shop on the internet",
+      "body": "In the late 1990s, Americans were spending billions on their pets, and the internet was the hot new way to shop. Greg McLemore, an entrepreneur whose earlier site toys.com had been bought by eToys, built Pets.com through his company WebMagic. The company was formally set up in February 1999. Julie Wainwright, an experienced executive, became CEO. The pitch was simple: **never carry a heavy bag of dog food home again**. Order online, and it comes to your door. Think of it as a Supertails or Heads Up For Tails, but in 1999. Investors loved it. Amazon became its **largest shareholder**. The idea itself was not silly. People really do want pet supplies delivered. The problem was the maths.",
+      "src": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "title": "The rise: a puppet everyone knew",
+      "body": "Pets.com spent big to become famous fast. Its mascot, a scruffy **sock puppet with a microphone**, appeared in TV adverts, in a Super Bowl commercial in January 2000 and as a balloon in New York's Thanksgiving parade. In February 2000 the company sold shares on the stock market at **$11 each**, raising $82.5 million. On its first day the share price touched $14. By then it had raised about $187 million in total. Sales were growing: from $5.8 million in 1999 to $28.6 million in the first ten months of 2000. Nearly 570,000 customers bought from it. On the surface it looked like a winner: a famous brand, a big market, and Amazon in its corner.",
+      "src": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: losing money on every bag",
+      "body": "Look closer at the numbers and the trouble is clear. In 2000, Pets.com sold $28.6 million of goods, but **those goods cost it $36.7 million to buy**. That is before paying for warehouses, staff or shipping. Pet food is heavy and cheap, so delivering it costs a lot compared to what customers pay. Then came the ads. Between April and June 2000 alone, it spent **$17.1 million on marketing to make $8.8 million in sales**. Over its life, marketing cost $109 million. Analysts said people recognised the puppet but that did not mean they wanted to buy. By August 2000 the company told regulators it would need more money in early 2001, or it might face bankruptcy.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The fall: no buyer, so lights out",
+      "body": "By late 2000 the dot-com bubble had burst. Investors no longer wanted online shops that lost money. Pets.com's bankers, Merrill Lynch, contacted **more than 50 possible buyers**. Fewer than eight even came to visit. The share price had fallen to about 22 cents. On 4 November 2000 the board chose to close while there was still some cash left, instead of burning it all. **255 of its 320 employees** lost their jobs, and the website shut on 10 November. Shareholders later approved a full liquidation (selling everything and closing the company). The famous puppet's rights were sold for just $125,000, and PetSmart bought the Pets.com web address. The whole life of the business, from listing to closing, was 268 days.",
+      "src": [
+        0,
+        2,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Feb 1999",
+      "event": "Pets.com is formally set up in San Francisco",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "1999",
+      "event": "Raises over $100M from private investors; Amazon becomes the largest shareholder",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jan 2000",
+      "event": "Sock puppet stars in a Super Bowl advert",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Feb 2000",
+      "event": "Lists on the stock market at $11 a share, raising $82.5M; touches $14 on day one",
+      "kind": "peak",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Apr–Jun 2000",
+      "event": "Spends $17.1M on marketing to make $8.8M of sales",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Aug 2000",
+      "event": "Warns it will need more money in early 2001 or may face bankruptcy",
+      "kind": "warning",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "4 Nov 2000",
+      "event": "Board votes to wind down after 50+ buyers say no; shares near 22 cents",
+      "kind": "crisis",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "10 Nov 2000",
+      "event": "Website closes; 255 of 320 staff laid off",
+      "kind": "end",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Dec 2000",
+      "event": "PetSmart buys the Pets.com web address",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jan 2001",
+      "event": "Shareholders approve full liquidation",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Apr 2017",
+      "event": "PetSmart buys online pet store Chewy for a reported $3.35 billion",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jun 2019",
+      "event": "Julie Wainwright takes her new company, The RealReal, public",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Sales vs cost of the goods sold",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "1999",
+        "2000 (Jan–4 Nov)"
+      ],
+      "series": [
+        {
+          "name": "Net sales",
+          "values": [
+            5.8,
+            28.6
+          ]
+        },
+        {
+          "name": "Cost of goods sold",
+          "values": [
+            13.4,
+            36.7
+          ]
+        }
+      ],
+      "takeaway": "Pets.com paid more for its products than customers paid for them, every single year.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Marketing spend vs sales",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "1999",
+        "2000 (Jan–4 Nov)"
+      ],
+      "series": [
+        {
+          "name": "Marketing and sales spend",
+          "values": [
+            42.5,
+            66.5
+          ]
+        },
+        {
+          "name": "Net sales",
+          "values": [
+            5.8,
+            28.6
+          ]
+        }
+      ],
+      "takeaway": "It spent roughly $3 on marketing for every $1 of sales it made.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "1999",
+      "round": "Series A (preferred shares)",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "1999",
+      "round": "Series B (preferred shares)",
+      "amountUsdM": 91.8,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2000",
+      "round": "IPO at $11 per share",
+      "amountUsdM": 82.5,
+      "valuationUsdM": null,
+      "investors": [
+        "Public markets (lead bank: Merrill Lynch)"
+      ],
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 45
+    },
+    {
+      "key": "burn",
+      "weight": 30
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    },
+    {
+      "key": "timing",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Sold products below what they cost",
+      "explain": "In 2000, Pets.com's goods cost **$36.7 million against $28.6 million of sales**. That gap existed before rent, salaries or shipping heavy bags of food. A business like this cannot grow its way to profit, because **each new order adds to the loss**. Cheap prices won customers, but they were customers the company could not afford to keep.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Bought fame before fixing the business",
+      "explain": "The sock puppet, the Super Bowl advert and the parade balloon made Pets.com famous. But it spent **$109 million on marketing over its life** to bring in $34 million of sales. An analyst said recognising a brand is not the same as wanting to buy from it. Every ad pushed more loss-making orders through the door.",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "title": "Chose a hard product to deliver",
+      "explain": "Pet food is **heavy, bulky and low-priced**. That means the cost of shipping is large compared to the money from each order. Reporters at the time named shipping costs as a key reason it struggled. Light, high-value products (like books for Amazon) are much easier to sell online.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "No plan for a closed funding window",
+      "explain": "In mid-2000 it still had $37 million in cash, but it was **losing about $24 million a quarter**. It needed new money by early 2001. When the dot-com crash came, investors vanished. Its bankers asked more than 50 buyers and fewer than eight visited. A company that depends on the next round is at the market's mercy.",
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do you lose money on an average order even before paying for marketing?",
+    "Does it cost you more to deliver an order than the profit on that order?",
+    "Are you spending more on marketing than you earn in sales, with no date when that flips?",
+    "Would you run out of cash within a year if no one invested again?",
+    "Do people praise your brand without actually buying from you again?"
+  ],
+  "lessons": [
+    {
+      "title": "Do the order maths first",
+      "detail": "Before spending on ads, take one real order and list every cost: product, packing, delivery, payment fees, returns. If the total is more than the customer pays, stop and fix that. Ads multiply whatever your order maths already is."
+    },
+    {
+      "title": "Weight and price decide your delivery model",
+      "detail": "Heavy, cheap items are the hardest thing to sell online. If you sell them, use minimum order values, subscriptions or local stock close to customers, the way Indian quick-commerce apps set minimum baskets and delivery fees."
+    },
+    {
+      "title": "Fame is not demand",
+      "detail": "Everyone knew the Pets.com puppet. That did not make them switch from their local store. Track repeat purchases and the cost to win each paying customer, not views, likes or brand recall."
+    },
+    {
+      "title": "Assume the next round will not come",
+      "detail": "Pets.com had cash but needed more within months. When markets crashed, nobody came. Plan so that your current money can get you to break-even, or to a much smaller, survivable company, without new investors."
+    },
+    {
+      "title": "Closing early and honestly is allowed",
+      "detail": "Pets.com shut while it still had cash, instead of burning everything. CEO Julie Wainwright later built The RealReal and took it public in 2019. A clean shutdown can protect your name for the next attempt."
+    }
+  ],
+  "quote": {
+    "text": "It is well known that this is a very, very difficult environment for business to consumer Internet companies.",
+    "who": "Julie Wainwright, CEO of Pets.com",
+    "context": "Company statement announcing the shutdown, November 2000",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "PetSmart bought the Pets.com web address in December 2000, and the sock puppet's rights were sold for $125,000. The idea later worked for Chewy, founded in 2011. By 2016 Chewy had about $900 million of sales, and PetSmart bought it in 2017 for a reported $3.35 billion. Wainwright has pointed out what changed: in 2000 there was no cloud computing and no ready-made software for warehouses and customer service, so everything had to be built at great cost. She went on to found luxury resale site The RealReal and took it public in June 2019.",
+    "src": [
+      0,
+      3,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC: IPET Holdings (formerly Pets.com) Form 10-K/A for 2000, with 1999–2000 financials and liquidation details",
+      "url": "https://www.sec.gov/Archives/edgar/data/1100683/000089161802003177/f82778ae10vkza.htm"
+    },
+    {
+      "label": "SEC: Pets.com Form 10-Q for the quarter ended 30 June 2000",
+      "url": "https://www.sec.gov/Archives/edgar/data/1100683/000089161800004394/e10-q.txt"
+    },
+    {
+      "label": "Deseret News (AP): Unable to find capital or buyer, Pets.com announces shutdown (Nov 2000)",
+      "url": "https://www.deseret.com/2000/11/8/19537914/unable-to-find-capital-or-buyer-pets-com-announces-shutdown/"
+    },
+    {
+      "label": "Tedium: The history of Pets.com's failure (Jan 2017)",
+      "url": "https://tedium.co/2017/01/12/pets-dot-com-failure-history"
+    },
+    {
+      "label": "Axios: PetSmart gobbles up Chewy.com for a reported $3.35 billion (2017)",
+      "url": "https://www.axios.com/2017/12/15/petsmart-gobbles-up-chewycom-for-a-reported-335-billion-1513301691"
+    },
+    {
+      "label": "San Francisco Chronicle: The RealReal surges in IPO on Nasdaq (Jun 2019)",
+      "url": "https://www.sfchronicle.com/business/article/The-RealReal-surges-in-IPO-on-Nasdaq-marking-14058753.php"
+    },
+    {
+      "label": "Dallas Morning News: PetSmart offers to buy the company eating its lunch online (Apr 2017)",
+      "url": "https://dallasnews.com/business/retail/2017/04/18/petsmart-offers-buy-company-eating-lunch-online"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "The Super Bowl advert cost $1.2 million",
+        "note": "Widely repeated, but reports range from $1.2M to $2.2M and we could not confirm it in a primary source."
+      },
+      {
+        "claim": "Amazon owned 50% of Pets.com",
+        "note": "Some retellings say 50%. Pets.com's own SEC filing said about 25% in August 2000; AP reported about 30% at the end of October 2000."
+      },
+      {
+        "claim": "Pets.com was founded in 1998",
+        "note": "The idea and early work date to 1998 in some accounts; the company's SEC filings give its inception as 17 February 1999."
+      },
+      {
+        "claim": "Wainwright's exit pay package",
+        "note": "Retellings give different severance and bonus figures; not confirmed in primary filings we read."
+      }
+    ]
+  }
+}

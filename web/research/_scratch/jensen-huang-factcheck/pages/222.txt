@@ -1,0 +1,106 @@
+ 
+ NVIDIA Omniverse Changes the Way Industries Collaborate | NVIDIA Blog 
+ Skip to content 
+ From Our Kitchen to Yours: NVIDIA Omniverse Changes the Way Industries Collaborate
+ August 11, 2021 by Brian Caulfield 
+ 0 Comments 
+ Share
+ Share This Article 
+ X 
+ Facebook 
+ LinkedIn 
+ Copy link
+ Link copied! 
+ Talk about a magic trick. One moment, NVIDIA CEO Jensen Huang was holding forth from behind his sturdy kitchen counter.
+ The next, the kitchen and everything in it slid away, leaving Huang alone with the audience and NVIDIA’s DGX Station A100 , a glimpse at an alternate digital reality.
+ For most, the metaverse is something seen in sci-fi movies. For entrepreneurs, it’s an opportunity. For gamers, a dream.
+ For NVIDIA artists, researchers and engineers on an extraordinarily tight deadline last spring, it was where they went to work — a shared virtual world they used to tell their story and a milestone for the entire company.
+ Designed to inform and entertain, NVIDIA’s GTC keynote is filled with cutting-edge demos highlighting advancements in supercomputing, deep learning and graphics.
+ “GTC is, first and foremost, our opportunity to highlight the amazing work that our engineers and other teams here at NVIDIA have done all year long,” said Rev Lebaredian, vice president of Omniverse engineering and simulation at NVIDIA.
+ With this short documentary, “Connecting in the Metaverse: The Making of the GTC Keynote,” viewers get the story behind the story. It’s a tale of how NVIDIA Omniverse , a tool for connecting to and describing the metaverse, brought it all together this year.
+ To be sure, you can ’ t have a keynote without a flesh and blood person at the center. Through all but 14 seconds of the hour and 48 minute presentation — from 1:02:41 to 1:02:55 — Huang himself spoke in the keynote.
+ Creating a Story in Omniverse 
+ It starts with building a great narrative. Bringing forward a keynote-worthy presentation always takes intense collaboration. But this was unlike any other — packed not just with words and pictures — but with beautifully rendered 3D models and rich textures.
+ With Omniverse, NVIDIA’s team was able to collaborate using different industry content-creation tools like Autodesk Maya or Substance Painter while in different places.
+ Keynote slides were packed with beautifully rendered 3D models and rich textures. 
+ “There are already great tools out there that people use every day in every industry that we want people to continue using,” said Lebaredian. “We want people to take these exciting tools and augment them with our technologies.”
+ These were enhanced by a new generation of tools, including Universal Scene Description (USD), Material Design Language (MDL) and NVIDIA RTX real-time ray-tracing technologies. Together, they allowed NVIDIA’s team to collaborate to create photorealistic scenes with physically accurate materials and lighting.
+ An NVIDIA DGX Station A100 Animation 
+ Omniverse can create more than beautiful stills. The documentary shows how, accompanied by industry tools such as Autodesk Maya, Foundry Nuke, Adobe Photoshop, Adobe Premiere, and Adobe After Effects, it could stage and render some of the world’s most complex machines to create realistic cinematics.
+ With Omniverse, NVIDIA was able to turn a CAD model of the NVIDIA DGX Station A100 into a physically accurate virtual replica Huang used to give the audience a look inside.
+ Typically this type of project would take a team months to complete and weeks to render. But with Omniverse, the animation was chiefly completed by a single animator and rendered in less than a day.
+ Omniverse Physics Montage 
+ More than just machines, though, Omniverse can model the way the world works by building on existing NVIDIA technologies. PhysX , for example, has been a staple in the NVIDIA gaming world for well over a decade. But its implementation in Omniverse brings it to a new level.
+ For a demo highlighting the current capabilities of PhysX 5 in Omniverse, plus a preview of advanced real-time physics simulation research, the Omniverse engineering and research teams re-rendered a collection of older PhysX demos in Omniverse.
+ The demo highlights key PhysX technologies such as Rigid Body, Soft Body Dynamics, Vehicle Dynamics, Fluid Dynamics, Blast’s Destruction and Fracture, and Flow’s combustible fluid, smoke and fire. As a result, viewers got a look at core Omniverse technologies that can do more than just show realistic-looking effects — they are true to reality, obeying the laws of physics in real-time.
+ DRIVE Sim, Now Built on Omniverse 
+ Simulating the world around us is key to unlocking new technologies, and Omniverse is crucial to NVIDIA’s self-driving car initiative. With its PhysX and Photorealistic worlds, Omniverse creates the perfect environment for training autonomous machines of all kinds.
+ For this year’s DRIVE Sim on Omniverse demo, the team imported a map of the area surrounding a Mercedes plant in Germany. Then, using the same software stack that runs NVIDIA’s fleet of self-driving cars, they showed how the next generation of Mercedes cars would perform autonomous functions in the real world.
+ With DRIVE Sim, the team was able to test numerous lighting, weather and traffic conditions quickly — and show the world the results.
+ Creating the Factory of the Future with BMW Group 
+ The idea of a “ digital twin ” has far-reaching consequences for almost every industry.
+ This year’s GTC featured a spectacular visionary display that exemplifies what the idea can do when unleashed in the auto industry.
+ The BMW Factory of the Future demo shows off the digital twin of a BMW assembly plant in Germany. Every detail, including layout, lighting and machinery, is digitally replicated with physical accuracy.
+ This “digital simulation” provides ultra-high fidelity and accurate, real-time simulation of the entire factory. With it, BMW can reconfigure assembly lines to optimize worker safety and efficiency, train factory robots to perform tasks, and optimize every aspect of plant operations.
+ Virtual Kitchen, Virtual CEO 
+ The surprise highlight of GTC21 was a perfect virtual replica of Huang’s kitchen — the setting of the past three pandemic-era “kitchen keynotes” — complete with a digital clone of the CEO himself.
+ The demo is the epitome of what GTC represents: It combined the work of NVIDIA’s deep learning and graphics research teams with several engineering teams and the company’s incredible in-house creative team.
+ To create a virtual Jensen, teams did a full face and body scan to create a 3D model, then trained an AI to mimic his gestures and expressions and applied some AI magic to make his clone realistic.
+ Digital Jensen was then brought into a replica of his kitchen that was deconstructed to reveal the holodeck within Omniverse, surprising the audience and making them question how much of the keynote was real, or rendered.
+ “We built Omniverse first and foremost for ourselves here at NVIDIA,” Lebaredian said. “We started Omniverse with the idea of connecting existing tools that do 3D together for what we are now calling the metaverse.”
+ More and more of us will be able to do the same, accelerating more of what we do together. “If we do this right, we’ll be working in Omniverse 20 years from now,” Lebaredian said.
+ Don't miss our next GTC keynote, register for GTC today .  
+ Watch NVIDIA CEO Jensen Huang’s GTC Berlin Keynote 
+ Wednesday, Oct. 21 
+11 a.m.-1 p.m. CEST
+ Add to Calendar 
+ Recent News
+ AI 
+ Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals 
+ October 30, 2026 
+ Robotics 
+ Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents 
+ October 29, 2026 
+ Networking 
+ Building Trusted AI Infrastructure for Safe and Secure AI 
+ October 29, 2026 
+ Gaming 
+ Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW 
+ October 29, 2026 
+ View All Recent News 
+ Categories:
+ Corporate 
+ Pro Graphics 
+ Tags:
+ 3D 
+ AEC 
+ Digital Twin 
+ Game Development 
+ Industrial and Manufacturing 
+ Media and Entertainment 
+ Metaverse 
+ NVIDIA DGX 
+ NVIDIA RTX 
+ Omniverse 
+ Scientific Visualization 
+ Simulation and Design 
+ Universal Scene Description 
+ Related News
+ Gaming 
+ Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW 
+ Oct 22, 2026 
+ Gaming 
+ Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW 
+ Oct 15, 2026 
+ Gaming 
+ Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW 
+ Oct 8, 2026 
+ Gaming 
+ Fall Into 25 New Games on GeForce NOW This October 
+ Oct 1, 2026 
+ Share This 
+ Facebook 
+ LinkedIn 
+ Share on Mastodon
+ Enter your Mastodon instance URL (optional) 
+ Share 

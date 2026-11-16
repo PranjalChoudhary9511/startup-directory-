@@ -1,0 +1,163 @@
+{
+  "slug": "crejo-fun",
+  "name": "Crejo.Fun",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Edtech",
+  "founded": 2020,
+  "died": 2022,
+  "status": "shut-down",
+  "brandColor": "#f9a825",
+  "founders": [
+    { "name": "Vikas Bansal", "role": "Co-founder" },
+    { "name": "Ankit Agarwal", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Taught kids to dance. The money stopped the music.",
+  "oneLiner": "Live online hobby classes for children: yoga, chess, dance, art and public speaking, taught by instructors.",
+  "causeOfDeath": "It raised one small round, built a big team, and could not raise again once schools reopened and parents had less time for online hobby classes.",
+
+  "raisedUsdM": 3,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: a ₹22 crore (about $3 M) pre-seed round in 2021, reported in both rupees and dollars (roughly ₹73 per dollar). CB Insights lists $3.1 M. No valuation was published. The founders were trying to sell the IP after closing; we found no record of a sale price.",
+  "moneySrc": [1, 7, 0],
+
+  "inOneMinute": [
+    "Two IIM Bangalore alumni raised **$3 million while still in stealth**, to teach kids hobbies like yoga, chess and dance live online.",
+    "In FY21 it booked ₹19.3 lakh of revenue, of which **sales were just ₹16,102**, against ₹1.1 crore of costs.",
+    "Schools reopened, a new round never came, and in June 2022 it closed, letting go of **170–200 people**."
+  ],
+  "killerLine": "One seed round is **not a business model**. Before you scale the team, prove someone will keep paying after the crisis ends.",
+
+  "numbers": [
+    { "value": "$3 M", "label": "raised in 2021, before the product was public", "src": [1, 3] },
+    { "value": "₹16,102", "label": "sales in FY21, inside ₹19.3 lakh total revenue", "src": [0] },
+    { "value": "170–200", "label": "staff (on-roll and off-roll) when it shut", "src": [0] },
+    { "value": "~15 months", "label": "from announcing its round (Apr 2021) to closing (Jun 2022)", "src": [1, 0] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Vikas Bansal and Ankit Agarwal met at IIM Bangalore. Bansal had built products at Google, Flipkart and Cure.Fit; Agarwal had worked in investing at places like ChrysCapital and ICICI Ventures. In 2020 they started Crejo.Fun in Bengaluru. Their bet: parents care about more than marks. Crejo offered **live online hobby classes** for kids, like yoga, chess, dance, public speaking, and arts and crafts, led by instructors. The company said it wanted to grow children's SPICE skills (social, physical, intellectual, creative and emotional). Its pitch was warm and simple: \"learning through fun is the best way to help children along the path of self-discovery.\" Courses cost **₹8,000 to ₹26,999**.",
+      "src": [1, 5, 0]
+    },
+    {
+      "title": "The rise",
+      "body": "Investors moved early. In April 2021, while Crejo was still in **stealth mode** (building quietly, before launch), Matrix Partners India and Binny Bansal-backed 021 Capital put in about ₹22 crore, or $3 million. Well-known angels joined, including CRED's Kunal Shah, Udaan's Sujeet Kumar and Flipkart CEO Kalyan Krishnamurthy. By June 2021, Crejo said more than **2,000 children** had signed up. It hired fast. By mid-2022 it had **170 to 200 people**, counting both full-time staff and contract instructors. Customers seemed to like it: Vikas Bansal later said its classes had ratings of 4.9.",
+      "src": [1, 4, 0, 7]
+    },
+    {
+      "title": "The cracks",
+      "body": "The first accounts told a hard story. In FY21 Crejo booked revenue of ₹19.3 lakh, but **sales were only ₹16,102**; the rest was other income. Costs were ₹1.1 crore, for a loss of about ₹93 lakh. Then schools reopened. Sources told Inc42 enrolments dropped sharply as children went back to classrooms, buses and homework. In our view, hobby classes are often the first thing a busy family cuts. Crejo needed a second round to keep its big team going. For **the last couple of months**, Bansal said, it tried to raise money and could not. The startup funding mood in 2022 had turned cold.",
+      "src": [0]
+    },
+    {
+      "title": "The fall",
+      "body": "In late June 2022 the co-founders told employees at a town hall that Crejo would shut down. Bansal confirmed it to Inc42 in writing, saying the company was **running out of funds**. Staff got their July salary, plus one month's pay as severance, according to sources. Bansal said **more than 90% of employees** had already been placed in new jobs, with talks on for the rest. The company said it had refunded all customers. It was trying to sell its IP (its content and technology) and product to **return some money to investors**. CB Insights records that Crejo ceased operations on 1 July 2022.",
+      "src": [0, 7]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2020", "event": "Vikas Bansal and Ankit Agarwal found Crejo.Fun (CreateJoy Technologies) in Bengaluru.", "kind": "start", "src": [1, 5] },
+    { "date": "FY21", "event": "Revenue ₹19.3 lakh (sales ₹16,102); costs ₹1.1 crore; loss about ₹93 lakh.", "kind": "warning", "src": [0] },
+    { "date": "Apr 2021", "event": "Raises about ₹22 crore ($3 M) pre-seed from Matrix and 021 Capital while in stealth.", "kind": "money", "src": [1, 2, 3] },
+    { "date": "Jun 2021", "event": "Says 2,000+ children have signed up for yoga, dance and art classes.", "kind": "peak", "src": [4] },
+    { "date": "2022", "event": "Schools reopen; enrolments drop sharply, according to sources.", "kind": "warning", "src": [0] },
+    { "date": "Early 2022", "event": "Tries for months to raise a new round, without success.", "kind": "crisis", "src": [0] },
+    { "date": "Jun 2022", "event": "Town hall announces shutdown; 170–200 staff affected; one month's severance.", "kind": "end", "src": [0] },
+    { "date": "1 Jul 2022", "event": "Ceases operations; tries to sell its IP to return some investor money.", "kind": "after", "src": [7, 0] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue by year",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY21", "FY22"],
+      "series": [{ "name": "Revenue", "values": [0.19, 2.4] }],
+      "takeaway": "Revenue grew about 12 times, but ₹2.4 crore a year could not pay a team of 170–200.",
+      "src": [0, 6]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Apr–Jun 2021", "round": "Pre-seed / seed", "amountUsdM": 3, "valuationUsdM": null, "investors": ["Matrix Partners India", "021 Capital", "Gemba Capital", "Kunal Shah", "Sujeet Kumar", "Kalyan Krishnamurthy", "Sameer Nigam", "Ankit Nagori"], "src": [1, 3, 4, 0] }
+  ],
+
+  "causes": [
+    { "key": "funding-dried", "weight": 40 },
+    { "key": "timing", "weight": 30 },
+    { "key": "burn", "weight": 20 },
+    { "key": "no-market", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Building a big team on a single small round",
+      "explain": "With about $3 million raised, Crejo ended up with **170 to 200 people**, including contract instructors. That team only made sense if a bigger round arrived soon. When fundraising froze in 2022, there was **no path to survive on revenue**, which was about ₹2.4 crore a year.",
+      "src": [0, 6]
+    },
+    {
+      "title": "Counting on the next round instead of earning",
+      "explain": "Bansal said the company tried for months to raise and could not. A startup whose plan needs **someone else's money by a fixed date** is betting on the market's mood. Crejo had loved customers but **not enough paying ones** to buy time.",
+      "src": [0]
+    },
+    {
+      "title": "Selling a 'nice to have' in a lockdown-shaped market",
+      "explain": "Online hobby classes boomed while kids were at home. Once schools reopened, enrolments dropped sharply, sources said. Extra classes compete with school, tuition and play for a child's time. **Test demand in a normal week**, not only in a crisis week.",
+      "src": [0]
+    }
+  ],
+
+  "warningSigns": [
+    "Is your team size based on a round you hope to raise, rather than revenue you already have?",
+    "Would your best customers stop signing up in a normal, busy school term?",
+    "Is most of your 'revenue' actually other income, like interest on the money you raised?",
+    "Have you been fundraising for more than three months with no term sheet?",
+    "Are you missing a written plan for what you would cut if the next round never comes?"
+  ],
+
+  "lessons": [
+    { "title": "Use contract and part-time help before full-time hiring", "detail": "For a class-based startup, pay instructors per class until demand is steady. That keeps costs moving up and down with revenue." },
+    { "title": "Separate 'sales' from 'revenue' in your own head", "detail": "Interest on your bank balance is not customers paying you. Track real sales on their own line every month." },
+    { "title": "Find your price point in normal times", "detail": "If parents happily pay ₹8,000+ only during a lockdown, your real market is smaller. Run small paid tests when life is normal." },
+    { "title": "Start fundraising with 12+ months of runway", "detail": "Raising takes longer than you expect, especially in a downturn. If you start with only a few months left, you lose the power to say no or wait." },
+    { "title": "Close cleanly if you must", "detail": "Crejo paid July salaries, one month's severance, refunded customers and helped 90%+ of staff find jobs. That is how you protect your name for the next attempt." }
+  ],
+
+  "quote": {
+    "text": "learning through fun is the best way to help children along the path of self-discovery",
+    "who": "Crejo.Fun",
+    "context": "Describing its mission when it announced its first funding, April 2021",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "Crejo.Fun stopped operating on 1 July 2022 and said it was trying to sell its IP and product to return some money to investors. We found no public record of a buyer. Inc42's company database still lists the legal entity, CreateJoy Technologies, as private, with ₹5.2 crore revenue reported for FY23; we could not confirm what that revenue came from.",
+    "src": [0, 7, 6]
+  },
+
+  "sources": [
+    { "label": "Inc42: Exclusive: Matrix-backed edtech startup Crejo.Fun shuts down (Jun 2022)", "url": "https://inc42.com/buzz/exclusive-matrix-backed-edtech-startup-crejo-fun-shuts-down" },
+    { "label": "Inc42: Matrix, 021 Capital back stealth edtech Crejo.Fun in $3 Mn pre-seed (Apr 2021)", "url": "https://inc42.com/buzz/matrix-021-capital-back-stealth-mode-edtech-startup-crejo-fun-in-3-mn-pre-seed-round/" },
+    { "label": "Entrepreneur India: Crejo.Fun gets backing of Matrix, Binny Bansal-backed 021 (Apr 2021)", "url": "https://india.entrepreneur.com/finance/crejofun-gets-backing-of-matrix-binny-bansal-backed-021/368696" },
+    { "label": "Legally India: Rajaram, IndusLaw act on Crejo.Fun's $3m pre-seed (May 2021)", "url": "https://www.legallyindia.com/private-equity-venture-capital/rajaram-indus-act-on-edtech-crejo-fun-s-3m-pre-seed-fundraise-20210505-12070" },
+    { "label": "Venture Intelligence (via ET): Crejo raises $3m from Matrix, 021 Capital, Gemba Capital (Jun 2021)", "url": "https://news.ventureintelligence.com/private-equity/yoga-learning-platform-crejo-raises-3m-from-matrix-021-capital-gemba-capital-others" },
+    { "label": "EdTechReview: Crejo.Fun raises $3M in pre-seed funding (Apr 2021)", "url": "https://edtechreview.in/news/extracurricular-learning-platform-crejo-fun-raises-3m-in-pre-seed-funding" },
+    { "label": "Inc42 Datalabs: Crejo.Fun company profile", "url": "https://inc42.com/company/crejo-fun/" },
+    { "label": "CB Insights: Crejo company profile", "url": "https://www.cbinsights.com/company/crejo" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Crejo grew about 7x in the six months after schools reopened.", "note": "Co-founder Vikas Bansal said this, but sources told Inc42 enrolments dropped drastically after reopening. We left the growth claim out of the story." },
+      { "claim": "Crejo raised $6 M in two rounds.", "note": "Inc42's database says $6 M across two rounds, but the April and June 2021 reports appear to describe the same ~$3 M round. CB Insights lists $3.1 M. We use about $3 M." },
+      { "claim": "Crejo's FY22 and FY23 revenue.", "note": "FY22 (₹2.4 crore) comes from Inc42's database, not a news report. Its FY23 figure (₹5.2 crore) is unexplained given the July 2022 shutdown, so we kept it out of the chart." }
+    ]
+  }
+}

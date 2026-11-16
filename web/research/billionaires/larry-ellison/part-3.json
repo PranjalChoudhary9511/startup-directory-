@@ -1,0 +1,1987 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "How he works",
+      "title": "The Boss Nicknamed Elvis",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Inside Oracle in the 1990s, staff had a nickname for their chief executive: Elvis. He turned up so rarely that people joked about logging each sighting, Forbes reported in 1998. He often worked from home, and nobody mistook him for the kind of boss who wanders the corridors chatting to engineers. Yet that same summer he took marketing away from his number two, began rewriting advertising copy himself and leaned hard on developers over a database release.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Rarely in the office, yet editing your ad copy. That is the pattern."
+        },
+        {
+          "t": "p",
+          "text": "Nearly everything about how he works follows from that contradiction. __He does not manage an organisation chart. He manages the few things he cares about, in absurd detail, and ignores the rest.__ That is a strength when the thing he cares about is the product. It becomes a problem when someone else is waiting for an answer.",
+          "src": [
+            1,
+            8
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The weekly rhythm"
+        },
+        {
+          "t": "p",
+          "text": "He told Forbes in 2006 that he had run engineering since the first day, and would keep doing so until the board removed him. Oracle then held Monday product meetings that he chaired, plus a Tuesday session on database technology. Reuters described a later version in 2015. Every Tuesday and Wednesday at about ==2 pm==, senior executives gathered in the top-floor boardroom to hear engineers present. Everyone had an assigned seat, him included, and the sessions ran for hours.",
+          "src": [
+            0,
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Notice what is missing. By his own account he never really ran operations, and he told Forbes that selling to customers simply did not suit his personality. In 2006 he did not even keep an office at headquarters, because Safra Catz was using it. Customers went to his co-president. He held on to the one room that decides what gets built.",
+          "src": [
+            0,
+            1
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: over lunch at his Woodside estate in 2006, he told Forbes he read email every day, even on holiday or on his boat. The one time business left his head, he said, was while wakeboarding. He also argued that being away from headquarters helped him catch mistakes in his own strategy.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The pattern survived into old age. He retreated to the Hawaiian island of Lanai during the pandemic and largely stayed. In June 2023 he gave his first company-wide talk on AI by video from there, according to The New York Times Magazine.",
+          "src": [
+            42
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$5,000",
+              "label": "Spending above this needed his personal sign-off, well into the 1990s",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "Every hire",
+              "label": "He also approved each new employee in those years",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "3 to 5 levels",
+              "label": "How far below him the engineers he tracks can sit",
+              "src": [
+                5
+              ]
+            },
+            {
+              "value": "26 years",
+              "label": "His working partnership with Safra Catz, by his count in 2025",
+              "src": [
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Control, then letting go, then control again"
+        },
+        {
+          "t": "p",
+          "text": "Curt Monash, an analyst who knew him from 1983, remembers the early control well. Ellison approved every hire and every expense over $5,000 into the 1990s. When his long-serving assistant retired, the limit quickly rose to $15,000, which tells you how much of the system had rested on one desk. He kept personally approving press releases for even longer.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the crash of 1990, told in an earlier chapter. In his 1997 Academy of Achievement interview he named replacing almost his entire senior team as the most painful thing he had done in business. People who ran a company of $15 million, he explained, had a different skill set from those who could run one of a billion. __That is the most useful idea in his management career: each stage of a company needs different people, and loyalty is not a skill.__",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The man he brought in was Ray Lane. In 1997 Ellison freely told the San Francisco Chronicle that he was weak at running a sales force and that Lane had the discipline he lacked. But Computerworld later recorded how it ended. After years of running the company day to day, Lane walked into a meeting in 1999 and found a re-energised founder looking over his shoulder. Lane said he was squeezed out, Ellison said responsibility had been shifting for 18 months, and Lane quit in 2000.",
+          "src": [
+            2,
+            9
+          ]
+        },
+        {
+          "t": "note",
+          "text": "A founder who comes back can be harder than one who never left."
+        },
+        {
+          "t": "h",
+          "text": "Who he hired, and how he watched them"
+        },
+        {
+          "t": "p",
+          "text": "His hiring filter was odd. He told the Academy that Oracle looked for strong ability in maths, physics and music. He noted that some recruits want to please and are easy to manage, while others follow only their own drumbeat. He also said Oracle paid at the top of Silicon Valley, then warned listeners not to read that as kindness. Keeping clever people was simply in the company's interest.",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Getting noticed worked differently too. Dheeraj Pandey, who later co-founded Nutanix, spent a couple of years at Oracle around 2003 and came away convinced Ellison was badly misunderstood. He told Business Insider that Ellison stays close to the specialist engineers building the product, often several layers down. A former star engineer told the same publication he almost never saw Ellison in person, yet could tell from emails that he was being watched. Rank-and-file staff could not simply walk in, since the executive floor had security guards.",
+          "src": [
+            4,
+            5
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How to win an argument with him"
+        },
+        {
+          "t": "p",
+          "text": "Long-time director Ray Bingham told Business Insider he had never seen Ellison shout or lose his temper in a meeting, even a heated one. By that account, the way to change his mind is to arrive with data and research. Thomas Kurian is the famous case. Reuters described product reviews where Ellison kept turning to Kurian for a second opinion, in quick back-and-forth exchanges that left everyone else watching. People who knew Kurian said he had earned that by challenging the boss and often being right.",
+          "src": [
+            6,
+            7
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Indian readers should know this name. Kurian was born in Pampady in Kerala in 1966, grew up in Bangalore, won a place at IIT Madras and left for Princeton at 17 on a partial scholarship. He joined Oracle in 1996 and rose to run product development. He reported directly to Ellison rather than to the chief executives.",
+          "src": [
+            17,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2018 he left. Bloomberg and others reported a split over strategy: Kurian wanted Oracle software to run on rivals' clouds such as Amazon's and Microsoft's, and Ellison wanted it kept on Oracle's own. Oracle's filing said only that he had resigned to pursue other opportunities, and he went on to run Google Cloud. Five years later, Ellison stood at Microsoft's headquarters and announced Oracle hardware inside Microsoft's data centres.",
+          "src": [
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Being right early can still cost you your job. Reported, not confirmed."
+        },
+        {
+          "t": "h",
+          "text": "How people leave"
+        },
+        {
+          "t": "p",
+          "text": "The ordinary firing was rare. Recruiter Igor Sill, who placed managers at Oracle, told Computerworld in 2001 that Ellison tended to strip away someone's duties until they gave up. He recalled one executive who went from running 200 people to minding two. Forbes listed the departures in 2006: Ray Lane, Gary Bloom, and two finance chiefs who lasted eight months and four months. Tom Siebel had left in 1990 after Ellison turned down his sales-software idea, and Siebel then built a rival empire on it.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Monash is more generous. Apart from the chronic missed schedules, he found Ellison tough but fair with staff, while noting that a soaring share price makes fairness easier. Director Donald Lucas gave Forbes the unwritten rule: the team has a single captain, and anyone who announces himself as the star is soon gone. Ask whether you could work like that before you take the job.",
+          "src": [
+            1,
+            3
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Monash heard about a two-on-two basketball game in the 1980s between Ellison, sales chief Mike Seashols and Seashols's own deputy, Gary Kennedy. Kennedy kept shoving his boss around the court. Ellison treated that as a sign the younger man would soon push Seashols out of his job as well, and he told the story with obvious delight.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The one person who stayed"
+        },
+        {
+          "t": "p",
+          "text": "Safra Catz is the exception, and the reason is instructive. Ellison told his biographer Matthew Symonds that he was good at sorting good ideas from bad ones and at solving problems, but that he then wandered off to the next thing. She did the follow-through he never did. Catz insisted she had no power of her own beyond decisions he had already approved, and she said plainly that she did not want the top job.",
+          "src": [
+            1,
+            10
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Find the person who finishes what you start. Then keep them."
+        },
+        {
+          "t": "p",
+          "text": "Symonds saw a risk in 2003: Ellison had a habit of loading more and more on a favourite until something snapped. It did not happen this time. She became co-CEO in 2014 and ran the company until September 2025. __He never groomed an heir, which he told Forbes was a silly idea. He found someone who did not want to be one.__ Marc Benioff, who left Oracle to found Salesforce, told Forbes that Ellison's nature required him to be in charge, so a true successor was impossible.",
+          "src": [
+            1,
+            10,
+            92,
+            93
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Fast money, slow calendar"
+        },
+        {
+          "t": "p",
+          "text": "Huge decisions can look almost casual. Court filings in the Twitter case show Elon Musk texting him in April 2022 to ask if he wanted in, and for how much. Ellison's reply fitted on one line: 'A billion...or whatever you recommend.' Musk suggested $2 billion or more, Ellison at one point agreed to that, and the amount he finally invested was ==$1 billion==.",
+          "src": [
+            21,
+            22,
+            118
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Time is where the system breaks. A former executive, Mark Porter, told Forbes that staff used to joke he was brilliant but dyslexic about time. Monash says that by the late 1980s he was known for agreeing to conference appearances and not showing up, and that his habit of missing meetings could be brutal on employees. Monash adds, kindly, that all this practice made him very good at apologising.",
+          "src": [
+            1,
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for founders: your calendar is a promise to other people."
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "Eight Rules in His Head",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Ellison has spent 50 years explaining himself, to reporters, to biographers and in footnotes he wrote himself. Strip away the showmanship and the same eight beliefs keep coming back. Each grew out of something that really happened to him. Some are worth stealing, and some are warnings.",
+          "src": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Do not trust an expert just for being an expert"
+        },
+        {
+          "t": "p",
+          "text": "His standard advice to the young, in the 1997 Academy interview, was to work things out for yourself and not to assume someone is right because of their title. He has called doubting authority the most important trait he has, painful with parents and teachers but very useful in life. He points to 1977, when people told him he was mad to build a commercial relational database, and to 1995, when they said the same about his attack on the PC.",
+          "src": [
+            12,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "There was logic under the rebellion. The relational idea came from IBM's own published research papers, which four people in California then read and raced to sell before IBM did. In Softwar he explains why the risk attracted him: the more dangerous an idea looks, the fewer serious rivals will try it. A tiny company could only win where it was alone.",
+          "src": [
+            12,
+            15
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Being contrarian only counts if you also read the research papers."
+        },
+        {
+          "t": "example",
+          "text": "For example: Softwar shows him weeping over the death of his cat of ten years, Maggie. In a footnote to the same book he jokes that people confuse obedience with intelligence, and that this is why dogs get rated above cats. It is a joke about pets. It is also how he thinks about school, offices and bosses.",
+          "src": [
+            107
+          ]
+        },
+        {
+          "t": "h",
+          "text": "2. Fear works better than ambition"
+        },
+        {
+          "t": "p",
+          "text": "The Academy of Achievement still uses this idea as his headline. Great achievers, he said in 1997, are pushed less by wanting success than by being afraid of failure. He added that when he feels anywhere close to failing, he cannot stop working. That fits what he did in 1990, when the company he had built came close to going under and he stayed to rebuild it.",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The downside is that the fear never switches off. He told the San Jose Mercury News that a friend once described his life as a series of ultimate stresses: work, then sailing, then flying. Even classical guitar, he said, turned into hard work. __Fear is excellent fuel and a terrible co-pilot, so decide how much of it you really want in your own life.__",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "h",
+          "text": "3. Choose your enemy on purpose"
+        },
+        {
+          "t": "p",
+          "text": "He believes Oracle is at its best when it has a named opponent. In Softwar he says enemies are selected carefully, because they focus the company, give it a way to explain itself and show whether it is winning. In the Academy interview he compared himself to the general running Desert Storm: his job was to win, and he should be replaced if he was not aggressive enough.",
+          "src": [
+            11,
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vanity Fair watched this in action in the 1990s. At a rally for Oracle's top 700 managers, a giant image of Bill Gates made a rude gesture at the crowd. A slide of a poor sharecropper followed, with the warning that this was their future if Gates took the market. Yet the magazine noted that the two firms' main products had hardly competed until then. __The enemy was largely a management tool.__",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "What makes this more than chest-beating is that he studied the enemy closely. In a footnote he wrote that most people love their own ideas so much that it limits them. The frightening thing about Gates, he said, was the ability to take a good idea from anywhere, use it and improve it slightly. Microsoft's Nathan Myhrvold, for his part, called Ellison's obsession a mania.",
+          "src": [
+            11,
+            14
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 2001 a reporter asked if he would be happy passing Gates's personal wealth while Microsoft stayed bigger than Oracle. He said that would count as failure, like winning a batting title while your team finishes second. He then admitted he had been richer than Gates for about a month, only because Gates fell past him on the way down, and it had not felt like a win.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. Burn the boats in public"
+        },
+        {
+          "t": "p",
+          "text": "Softwar records his method. Once he is sure of a direction, he starts a loud public fight, so that he cannot quietly back out, and he compares this to sailing far from shore and burning his boats. The classic case was Paris in 1995. At the height of the Windows 95 hype, sharing a conference with Gates, he called the PC a ridiculous device and launched the idea of a cheap network computer. His own number two, Ray Lane, was in town and had no idea it was coming.",
+          "src": [
+            14,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The price is obvious. The network computer failed as a product, and he later admitted he had been wrong about it. But the argument he started, that software should live on the network and not on your desk, is roughly how computing works today. Public commitment makes you move faster, and it also makes you look foolish if you are early.",
+          "src": [
+            10,
+            14
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Public promises force action. They also make retreat very embarrassing."
+        },
+        {
+          "t": "h",
+          "text": "5. Being wrong is not the same as lying"
+        },
+        {
+          "t": "p",
+          "text": "This belief has caused him the most trouble. Symonds put to him the accusation, repeated by Tom Siebel and many journalists, that he lies. Ellison's reply was a scorecard: right about relational databases and internet architecture, wrong about the network computer, and a bad forecast is not a lie. The only business lie he admitted was claiming a college degree in his early twenties to get a job. Symonds wrote that he had often watched Ellison stretch the truth to make a better impression.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "You don't have to be right all the time to make a good living.",
+          "who": "Larry Ellison, in Softwar by Matthew Symonds (2003)",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Others who knew him are blunter. Monash writes that the first time they met he came away thinking Ellison held a PhD, the next time a master's degree, and ten years later that he had nearly graduated from Chicago. Ellison's defence is that the whole software industry over-promises, since nobody can truly say when a program will be finished. That may be so, but customers remember dates, and they rarely remember forecasts that came true.",
+          "src": [
+            3,
+            10
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Optimism is allowed. A made-up degree is not."
+        },
+        {
+          "t": "h",
+          "text": "6. Find your limit, and admit it when you reach it"
+        },
+        {
+          "t": "p",
+          "text": "He has a theory of why people climb mountains. Mallory's famous answer about Everest, he told the Mercury News, was wrong: people climb because they wonder whether they can, and all of us set ourselves small exams. His hardest exam came in December 1998 in the Sydney to Hobart race. By his account the waves reached 80 feet and the wind passed 100 mph, he did not sleep for four days, and he was steering in pitch darkness by feel.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then he did something rarely mentioned. A man with four world championships decided he could no longer steer safely, and he handed over the wheel. His boat Sayonara won, while five others sank and six sailors died. He said it taught him he was not good enough for that night, and France 24 later recorded that he vowed never to go back. __The bravest thing a founder does is hand over the wheel before the boat sinks.__",
+          "src": [
+            13,
+            105
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. Life is short, so do not wait"
+        },
+        {
+          "t": "p",
+          "text": "He told the Mercury News that the storm did not reveal anything new. He had long thought of life as brief and fragile, and he summed up his restlessness as a fear of missing anything. In 2006 he gave Forbes the same reason for sailing so much: life is short, and Oracle would not get all of it. You can see the same belief in his fighter planes, his yachts and his giant donations to anti-ageing research.",
+          "src": [
+            1,
+            13,
+            24
+          ]
+        },
+        {
+          "t": "h",
+          "text": "8. Money is the score, not the game"
+        },
+        {
+          "t": "p",
+          "text": "Asked by Forbes in 2006 how he measured his own success, he said mainly by how happy he was. Money, he said, was now a way of keeping score, and he did not need more of it. Twenty years later he had pledged hundreds of millions of Oracle shares for personal loans, partly to back his son's takeover of Warner Bros. You can decide for yourself how seriously to take the first statement, but notice that a man who only keeps score does not usually borrow to stay in the game.",
+          "src": [
+            0,
+            87,
+            88
+          ]
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "The private man",
+      "title": "Behind the Yacht",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "On 27 October 2026, aged 82, he sat on a stage in Las Vegas and was asked why healthcare mattered so much to him. He said the honest answer was personal. His mother died of cancer while he was a student at the University of Illinois, and he had not grasped how ill she was, so the news hit him as a complete shock. He called it one of the worst experiences of his life. The Diginomica reporter in the room described it as a rare moment of vulnerability from a founder known for combat.",
+          "src": [
+            35
+          ]
+        },
+        {
+          "t": "note",
+          "text": "At 82, he still calls it one of his worst experiences."
+        },
+        {
+          "t": "p",
+          "text": "That loss runs under much of what follows. He told biographer Mike Wilson that death had never made sense to him, and he could not accept that a person is here one moment and gone the next. Over about 15 years he gave more than half a billion dollars to research on ageing. Fortune reported in 2024 that he is known for long hours at the gym and for sipping carrot juice.",
+          "src": [
+            24,
+            39
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Bones, screws and a very bad year"
+        },
+        {
+          "t": "p",
+          "text": "In 1990, as Oracle was falling apart, his body nearly did too. Vanity Fair recorded that he was bodysurfing in Hawaii when a wave threw him onto the sand, unable to breathe or speak, with a rib through one lung. Only later did a Stanford doctor find that his neck was broken as well. He later told the magazine that he nearly died.",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Months later he was racing a bicycle near Napa when his front wheel hit a train track at more than 30 mph. His left elbow was smashed. Rebuilding the arm took four operations at the University of California, Davis, one lasting nine hours, with two metal bars and ==23 screws==. A UC Davis medical building now carries his name, which he joked was a fine trade for an arm.",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Broken neck, smashed arm, failing company. He kept racing."
+        },
+        {
+          "t": "h",
+          "text": "Family, as far as it is public"
+        },
+        {
+          "t": "p",
+          "text": "He has been married several times, and his first three marriages had all ended by 1986. He married the novelist Melanie Craft in 2003, with Steve Jobs taking the pictures, and they divorced in 2010. A later marriage to Nikita Kahn ended in a divorce finalised in 2020. Monash recalls being told that Ellison gave his third ex-wife millions more than their prenuptial deal required, because she was raising his children and he thought keeping her happy mattered most.",
+          "src": [
+            3,
+            41,
+            42
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The two children known best are David and Megan, both adults, who went into film production. His money stood behind David's company, Skydance. In 2024 a University of Michigan booster group publicly thanked Ellison and his wife, Jolin, for helping land a star quarterback, and The Wall Street Journal identified her as Keren Zhu, a Michigan graduate. The Academy of Achievement calls her his wife, while The New York Times said in 2026 that little is known, including whether they are formally married. We leave it there.",
+          "src": [
+            12,
+            40,
+            41,
+            42,
+            90,
+            111
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The best friend"
+        },
+        {
+          "t": "p",
+          "text": "The friendship that shaped him most was with Steve Jobs. In 2001 he called Jobs his best friend and one of the most remarkable people alive, and said the two had nearly worn matching T-shirts: The Mercurial Steve Jobs and The Arrogant Larry Ellison. Jobs told Vanity Fair that their weekends were walks in the hills and long talks. He added that you could discuss Japanese culture or aeronautical engineering with Ellison, and that Ellison would have done the reading.",
+          "src": [
+            13,
+            14
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The accountant who begged"
+        },
+        {
+          "t": "p",
+          "text": "In January 2006 the San Francisco Chronicle published emails unsealed in a shareholder lawsuit, and they read like a worried parent writing to a teenager. His personal adviser, Philip Simon, wrote in May 2002: 'I'm worried, Larry.' Simon asked him to budget, keep new purchases down, wipe out his debt and sell up to 30% of his Oracle holding if that was what it took. He warned that the stock market could overshoot on the way down as easily as on the way up.",
+          "src": [
+            37
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$1.35B",
+              "label": "His personal credit lines, July 2000",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "$1.02B",
+              "label": "Already borrowed from five banks at that date",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "$20M a year",
+              "label": "Lifestyle spending, by Simon's handwritten note",
+              "src": [
+                37
+              ]
+            },
+            {
+              "value": "$75M a year",
+              "label": "Interest on the loans, by the same note",
+              "src": [
+                37
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Simon testified that he told Ellison a freight train was heading for a wall of debt. Ellison's reply, court papers show, was that his net worth was always at least ten times what he owed. He had told Simon years earlier that it was fine to raise the subject of selling once a quarter. Then he kept buying: a $194 million yacht, an $80 million America's Cup campaign, a $25 million villa in Japan and, later, beachfront in Malibu reported at around $200 million.",
+          "src": [
+            37,
+            38
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Hire someone paid to annoy you. Then, unlike him, perhaps listen."
+        },
+        {
+          "t": "p",
+          "text": "He has not stopped since. __The man who borrowed $1 billion against Oracle shares in 2000 had 413 million shares pledged by September 2026.__ Oracle's board says those are term loans, not margin accounts, and that he can repay without using the pledged stock. He has been right about this for 25 years so far.",
+          "src": [
+            37,
+            88
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Japan, a guitar and an island"
+        },
+        {
+          "t": "p",
+          "text": "His taste is unusually specific. He built a 23-acre Japanese-style estate in Woodside, with a reproduction of a 17th-century Kyoto teahouse, at a reported cost of $200 million. He has collected antique samurai swords. He plays classical guitar and told the Mercury News in 2001 that he writes plays and short stories, which he was keeping back until retirement because they would be controversial. As far as we can find, none has been published.",
+          "src": [
+            13,
+            14,
+            37
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then there is Lanai. He bought about 98% of the Hawaiian island in 2012, for a reported $300 million, and around 3,000 people live there. Residents refer to him as ownership, The New York Times reported. When Covid closed the resort, he kept furloughed workers on full pay. Bloomberg Businessweek also found in 2022 that many islanders both rent from him and work for him, and that some leases allow eviction if you lose your job with his companies. Both things are true of the same landlord.",
+          "src": [
+            12,
+            42,
+            108,
+            112
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Giving: big cheques, sudden stops"
+        },
+        {
+          "t": "p",
+          "text": "In 2010 he signed the Giving Pledge, saying nearly all his assets had long been placed in a trust and that at least 95% of his wealth would go to charity. He wrote that he preferred to give privately, and that he was going public only because Warren Buffett had asked him to set an example. What has happened since is a pattern that Recode's reporter described as whiplash, and the dates show why.",
+          "src": [
+            23,
+            25
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1997",
+              "text": "Starts the Ellison Medical Foundation. It awards about $430 million, with an estimated 80% going to research on ageing.",
+              "src": [
+                26
+              ]
+            },
+            {
+              "when": "2005",
+              "text": "Abruptly stops spending on infectious disease research.",
+              "src": [
+                25
+              ]
+            },
+            {
+              "when": "2006",
+              "text": "Withdraws a planned $115 million gift to Harvard, which had been hiring for it. No agreement had been signed.",
+              "src": [
+                27,
+                28,
+                29
+              ]
+            },
+            {
+              "when": "2013",
+              "text": "Tells his foundation to make no new grants on ageing. Researchers are shocked, and existing awards continue.",
+              "src": [
+                24,
+                26
+              ]
+            },
+            {
+              "when": "2016",
+              "text": "Gives $200 million to the University of Southern California for cancer research.",
+              "src": [
+                12
+              ]
+            },
+            {
+              "when": "2020",
+              "text": "Disbands his London foundation team, leaving grantees to find new money. They include Reach to Teach, which educates rural students in India.",
+              "src": [
+                25
+              ]
+            },
+            {
+              "when": "2025",
+              "text": "Amends his pledge on X, concentrating his resources on the Ellison Institute of Technology in Oxford, which will also create for-profit companies.",
+              "src": [
+                30,
+                33
+              ]
+            },
+            {
+              "when": "Nov 2025",
+              "text": "Oxford's student newspaper reports the institute being scaled back after its president, Sir John Bell, left. About £2 billion of a projected £10 billion is committed.",
+              "src": [
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Be fair to both sides. His former foundation head, Dick Sprott, argues that the money backed unfashionable science that later became easy to fund. Longevity campaigner Aubrey de Grey calls the same spending a spectacular failure. Filings show about $350 million has gone to the Tony Blair Institute since 2021, and the Oxford campus is due in 2027. __He gives the way he runs Oracle: alone, fast, and free to change his mind overnight.__ If you ever depend on one rich donor, keep a second plan.",
+          "src": [
+            24,
+            32,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "His public image",
+      "title": "The Arrogant Larry Ellison",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Remember those imaginary T-shirts. They are a joke and also a strategy. Asked in 2001 whether the arrogant image was really him, he said no. People regularly told him, five minutes into a conversation, that he was nothing like they had expected. He compared hostile profile-writing to the crowd at the Roman Colosseum, enjoying the spectacle. Few people have given that crowd more to watch.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The books show how he plays it. Mike Wilson's 1997 biography carried a title joking that God does not think he is Larry Ellison, which Ellison called horrific. Karen Southwick's was Everyone Else Must Fail. His answer was clever. He gave Matthew Symonds of The Economist almost two years of access for Softwar, then wrote his own footnotes throughout, arguing with the author on the page.",
+          "src": [
+            11,
+            13,
+            15
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Cannot stop people writing about you? Write the footnotes."
+        },
+        {
+          "t": "h",
+          "text": "Loud on purpose"
+        },
+        {
+          "t": "p",
+          "text": "Oracle's ads named rivals and said, in effect, we can do this and they cannot. He told the Academy that some found this rude, and that he found nothing immoral in giving customers true comparisons. He spent real money on it: more than $40 million on one 1998 campaign, whose copy he rewrote himself. Later, knowing his reputation for exaggeration, he told Symonds that every claim in Oracle's ads had to be provable.",
+          "src": [
+            8,
+            10,
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His other weapon is the stage. Diginomica's account of his 2026 keynote says he can always fill a hall, ignores the company line, and should be taken with a pinch of salt. He promised a five-minute introduction that ran past 26 minutes. __His keynotes are the cheapest marketing Oracle has ever bought, because thousands of people queue up for them.__",
+          "src": [
+            35
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "1995",
+              "text": "Calls the PC a ridiculous device, in Paris, in front of the industry.",
+              "src": [
+                14
+              ]
+            },
+            {
+              "when": "Mid-1990s",
+              "text": "Goes on Oprah to talk about network computers, and ends up discussing his love life. Oracle's phone lines jam with thousands of calls from women.",
+              "src": [
+                14
+              ]
+            },
+            {
+              "when": "June 2000",
+              "text": "Calls Oracle's detective work on Microsoft's allies a public service, and offers to ship his own garbage to Redmond.",
+              "src": [
+                52,
+                54
+              ]
+            },
+            {
+              "when": "Aug 2010",
+              "text": "Emails The New York Times to call HP's directors idiots for pushing out Mark Hurd.",
+              "src": [
+                55
+              ]
+            },
+            {
+              "when": "Sept 2013",
+              "text": "Skips his own keynote to watch his America's Cup team race. The crowd walks out.",
+              "src": [
+                49,
+                114
+              ]
+            },
+            {
+              "when": "Sept 2023",
+              "text": "Visits Microsoft's Redmond headquarters for the first time, after 30-plus years as a rival.",
+              "src": [
+                19
+              ]
+            },
+            {
+              "when": "Jan 2025",
+              "text": "Stands next to President Trump at the White House to announce Stargate. Trump calls him a sort of chief executive of everything.",
+              "src": [
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: after his boat won a Miami to Montego Bay race by four hours, he gave a quick TV interview, showered, boarded his jet and flew back out over the course. He dropped to 40 feet above the waves and buzzed his two nearest rivals. He later told Vanity Fair it was deeply immature, and that he recommended it.",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was 52 when he told that story. Fifty-two."
+        },
+        {
+          "t": "example",
+          "text": "For example: in September 2013 Team New Zealand had led his America's Cup team by eight races to one. Then Oracle began winning, and a key race clashed with his closing OpenWorld keynote, where attendees had paid up to $2,650 to be there. Chairman Jeff Henley walked on with an apology, and people streamed out. Oracle won the Cup nine races to eight, but shortly before that he had also skipped an earnings call for a race, and Safra Catz had told analysts so on the line.",
+          "src": [
+            12,
+            49,
+            50,
+            51
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The plane that beat a city"
+        },
+        {
+          "t": "p",
+          "text": "San Jose's airport banned planes over 75,000 pounds from landing between 11:30 pm and 6:30 am. His Gulfstream V weighed about 90,500 pounds fully fuelled, and it racked up nine curfew violations from June 1998. In January 2000 he sued, through a company called Wing and a Prayer Inc., and the city sued back. His argument was simple: the rule claimed to be about noise but was written around weight.",
+          "src": [
+            43,
+            44
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Twenty Gulfstream V jets taking off at the same time would make less noise than one Beechjet 400, an aircraft exempt from the curfew.",
+          "who": "US District Court in San Jose, June 2001 ruling, as quoted by the Aircraft Owners and Pilots Association",
+          "src": [
+            46
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He won the waiver he had asked for, and the judge called it regrettable that one aeroplane had eaten so many resources. The curfew itself survived. Then, in 2002, the airport's private terminal ran short of hangar space and asked him to move. After four years of fighting for the right to land in San Jose, his jet went to Stockton.",
+          "src": [
+            43,
+            45
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He was arguably right. He also fought a city over one plane."
+        },
+        {
+          "t": "h",
+          "text": "The speech he never gave"
+        },
+        {
+          "t": "p",
+          "text": "You may have seen the viral speech in which Ellison tells Yale's class of 2000 that they are all losers, urges them to drop out, and is dragged off stage by security. __It is fake.__ A writer named Andrew Marlatt invented it for the satire site SatireWire. Yale had no such speaker that year, and fact-checkers were still having to debunk it in 2015. When a parody sounds so much like you that strangers believe it, your brand is running without you.",
+          "src": [
+            47,
+            48
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Check before you forward. He never gave that speech."
+        },
+        {
+          "t": "h",
+          "text": "Almost no social media"
+        },
+        {
+          "t": "p",
+          "text": "For someone so loud in person, he barely posts. He joined Twitter in May 2012, and one report said he had managed only a handful of tweets by 2024. Yet he chose X in 2025 for one of his biggest personal announcements, the change to his Giving Pledge. In March 2026 a tech news site reported that his profile had disappeared, with no explanation from him or from X. He prefers stages, earnings calls and an angry email to a newspaper.",
+          "src": [
+            30,
+            33,
+            55,
+            106
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How the world sees him"
+        },
+        {
+          "t": "p",
+          "text": "In Britain he is the man rescuing Oxford science, and also the man who might not stay. He bought the Eagle and Child, the pub of Tolkien and C. S. Lewis, for about £8 million, and Chancellor Rachel Reeves welcomed his planned investment as a vote of confidence. Yet a former employee told reporters that the institute had switched its plans on them. In America he has also become a political figure, through his closeness to President Trump and his family's control of CBS and CNN.",
+          "src": [
+            12,
+            32,
+            95
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In India he is seen mostly through Oracle. In 2003 he praised the quality of Indian engineers and the role of the IITs, while planning to grow Oracle India from 3,200 people to over 6,000. In 2005 he called Mumbai's i-flex the hottest software company in banking and paid up to ==$909 million== for a majority stake, which turned Citigroup's early $400,000 bet into $593 million. By 2017 Bengaluru was getting what Oracle's India head called its second-largest facility, with room for about 10,000 people.",
+          "src": [
+            98,
+            99,
+            100,
+            101
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Indian coverage has its own flavour. Safra Catz told Indian reporters in 2017 that she rarely spoke to the US press and was making an exception for them. The Economic Times explains his share pledges so that ordinary investors can follow them, while lifestyle desks focus on the age gap in his personal life. There is a harder side too: Oracle's India unit features in two US bribery cases, told in the next chapter.",
+          "src": [
+            62,
+            63,
+            88,
+            103,
+            102
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He praised the IITs in 2003. Oracle's India staff already numbered thousands."
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "What not to copy",
+      "title": "The Bills Came Due",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Earlier chapters covered the accounting collapse of 1990, the 2001 stock sale and the PeopleSoft war. This chapter covers the other bills. Some were his own decisions and his own words. Others came from far down a huge company, and we say which is which. Each one ended with a court, a regulator or a customer putting a number on it.",
+          "src": [
+            57,
+            63,
+            70
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$4.65B",
+              "label": "Paid to HP in October 2021, with interest",
+              "src": [
+                57
+              ]
+            },
+            {
+              "value": "$100M",
+              "label": "Value of the Oregon settlement, mostly technology",
+              "src": [
+                70
+              ]
+            },
+            {
+              "value": "$23M",
+              "label": "Second SEC bribery-law settlement, 2022",
+              "src": [
+                63
+              ]
+            },
+            {
+              "value": "$115M",
+              "label": "Privacy class-action settlement, wrongdoing denied",
+              "src": [
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The hire that cost $4.65 billion"
+        },
+        {
+          "t": "p",
+          "text": "In August 2010 HP's board pushed out its chief executive, Mark Hurd, a friend of Ellison's. Ellison emailed The New York Times to say the directors had made the worst personnel decision since the Apple board fired Steve Jobs, and he called them idiots. Then he hired Hurd. HP sued, and to end that fight the two companies signed a settlement that included a short clause reaffirming their partnership.",
+          "src": [
+            55,
+            56
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Six months later Oracle announced it would stop developing software for HP's Itanium servers. Oracle said the chip was near the end of its life and that it had never promised to support it forever. The courts read the clause differently. A jury awarded HP ==$3.014 billion== in 2016, and one juror told Bloomberg that the panel was swayed by what it saw as an effort to hurt Hurd's old employer. The appeals failed, and on 12 October 2021 Oracle paid about $4.65 billion with interest.",
+          "src": [
+            56,
+            57,
+            58,
+            115
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Cheap words in anger. Expensive signature. Read every clause."
+        },
+        {
+          "t": "h",
+          "text": "Daring Amazon in public"
+        },
+        {
+          "t": "p",
+          "text": "In December 2017 he told analysts that Amazon had just spent $50 million on Oracle in a single quarter, and that he doubted it could ever leave. A year later he went further. He said no normal person would move from an Oracle database to an Amazon one, because it was far too costly and complicated, and he dismissed Amazon's databases as old open-source systems with a new label.",
+          "src": [
+            59,
+            60
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In October 2019 Amazon switched off its last Oracle database in its consumer business. It had moved ==75 petabytes== of data from about 7,500 databases, using more than 100 teams. In fairness, he was right that it was hard: reports at the time described slowdowns during the move, including a 2018 Prime Day outage, and some third-party systems stayed on Oracle. __But a hard exit is exactly what a rival will pay for once you have made it personal.__ Four years later he was announcing Oracle's databases inside Microsoft's cloud.",
+          "src": [
+            19,
+            59,
+            61
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The hospital promise"
+        },
+        {
+          "t": "p",
+          "text": "In 2022 Oracle paid about $28 billion for Cerner, the health records company, and took over its contract to rebuild the US Department of Veterans Affairs system. That contract and the troubled first site came before Oracle, so not all of this is on Ellison. But he made healthcare a personal crusade. Rollouts were paused in April 2023, and the department's inspector general counted 826 major performance incidents and linked some problems to patient harm.",
+          "src": [
+            35,
+            75,
+            76
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2022 Oracle had told Congress in writing that it would stay within the contracted cost and fix problems at its own expense. In August 2026 the Department raised the contract ceiling from about $10 billion to about $27 billion, without a competitive bid, citing unexpected complexity. Oracle declined to testify at a hearing on 2 September. The committee voted ==19 to 0== to subpoena him, and he is due to testify under oath on 10 December 2026.",
+          "src": [
+            80,
+            81,
+            83
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The picture is still unresolved. The Department says 13 hospitals went live in 2026 on schedule, with 26 more planned for 2027. The committee's senior Democrat has pointed to Ellison's $45 million gift to a pro-Trump political group, and that is a political claim, not a finding. Separately, the research firm KLAS counted 57 acute-care customers lost in three years, senior product leaders left, and a 2025 breach grew to about 19.9 million people according to Texas filings.",
+          "src": [
+            75,
+            77,
+            78,
+            79,
+            82
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Not over yet. Watch 10 December."
+        },
+        {
+          "t": "h",
+          "text": "Cover Oregon"
+        },
+        {
+          "t": "p",
+          "text": "Oregon paid Oracle about $240 million to help build its health insurance exchange. The site never worked properly, the state fired Oracle in spring 2014 and adopted the federal exchange instead. The state then sued for fraud and racketeering, seeking more than $6 billion, while Oracle fought back with its own suits and rejected the state's account. In September 2016 six lawsuits ended in a deal valued at $100 million, of which only $25 million was cash, mostly covering the state's legal bills.",
+          "src": [
+            70
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Ten years, and nothing from Google"
+        },
+        {
+          "t": "p",
+          "text": "After buying Sun, Oracle sued Google in 2010 over Java code used in Android, and at one stage it was seeking around $8.8 billion. It won at the appeals court. Then on 5 April 2021 the US Supreme Court ruled 6 to 2 for Google, finding that its copying was fair use. __A decade of legal fees bought no payout at all.__ Winning in a lower court does not mean you have won.",
+          "src": [
+            109,
+            110,
+            115,
+            117
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Digging through bins"
+        },
+        {
+          "t": "p",
+          "text": "In June 2000 Oracle admitted hiring a Washington detective firm to look into groups that were speaking up for Microsoft during its antitrust trial. The firm was caught offering about $1,200 to cleaners for one group's office rubbish. It did show that supposedly independent groups had Microsoft money behind them. Other investigators told the Los Angeles Times that buying the trash crossed an ethical line, though probably not a legal one.",
+          "src": [
+            52,
+            53,
+            116
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ellison called it a public service and a civic duty. He said he had not known about the rubbish and had not even heard of the firm until then, while still taking responsibility. __Exposing something true does not make every method acceptable, and the story people remember is the bins.__",
+          "src": [
+            53,
+            54,
+            116
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Slush funds, including in India"
+        },
+        {
+          "t": "p",
+          "text": "Ellison was not personally accused in these cases, but they happened inside his company. In 2012 the US SEC said Oracle India staff had parked about $2.2 million from government sales with local distributors between 2005 and 2007, paying storefront vendors using fake invoices. Oracle had reported the problem itself and paid a $2 million penalty. A decade later the SEC came back: staff in India, Turkey and the UAE had used discounts and fake marketing costs to build slush funds, some of it to bribe officials. Oracle paid about $23 million, neither admitting nor denying the findings, and it fired staff.",
+          "src": [
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: in 2019 Oracle India sales staff won a 70% discount for a deal with a transport company mostly owned by the Railways Ministry, by claiming fierce competition. The buyer's own procurement site showed there was none. One employee's spreadsheet listed $67,000 as a buffer that could go to an official. At the units involved, first-line bosses could approve marketing payments under $5,000 with no proof at all. Once, Ellison himself had signed off everything above that same figure.",
+          "src": [
+            3,
+            64
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Bribery risk lives in small invoices nobody at the top ever sees."
+        },
+        {
+          "t": "h",
+          "text": "Workers, privacy and a relationship"
+        },
+        {
+          "t": "p",
+          "text": "Outcomes matter here. The Labor Department sued in 2017, alleging $400 million in unpaid wages for women and minority workers. A judge ruled for Oracle in September 2020, and the department chose not to appeal. A separate class action for about 4,000 women in California settled for $25 million in 2024, with no admission. A privacy case settled too, at $115 million, over claims Oracle tracked people and sold the data, which it denied.",
+          "src": [
+            66,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "t": "p",
+          "text": "One personal case belongs here for its lesson. In 1993 a former Oracle assistant who had dated Ellison sued for wrongful dismissal, and alleged he had had her fired. Oracle settled for $100,000. She was later convicted of perjury and falsifying evidence over a forged email, and was sentenced to a year in jail, a ruling her lawyer appealed. He was not found to have done wrong. Even so, a chief executive who dates someone on his own payroll hands every lawyer in town a story.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Words that age badly"
+        },
+        {
+          "t": "p",
+          "text": "At an analyst meeting in September 2024 he described a future where AI watches police body cameras, doorbells and dashboards, and where everyone behaves because everything is recorded and reported. He pitched it partly as a check on police abuse. Critics reached for George Orwell, and TechCrunch said the evidence does not necessarily back him, noting the Los Angeles police had suspended a prediction programme after an audit. NPR has also reported that court records place him on a call with Trump supporters after the 2020 election, trading ideas on undermining the result. He did not respond to NPR.",
+          "src": [
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What a young founder should not copy"
+        },
+        {
+          "t": "p",
+          "text": "Do not sign a settlement you plan to break next season. Do not taunt a customer who has good engineers and a reason to leave. Do not promise a donation, a keynote or a date casually. Do not leave small-payment rules unwatched in faraway sales offices. __Above all, remember why he survived all this: customers found Oracle's database very hard to rip out, and they forgave him. You will not have that protection for years.__",
+          "src": [
+            5,
+            25,
+            49,
+            57,
+            59,
+            64
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of November 2026",
+      "title": "Eighty-Two and All In",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "He is 82 and still Oracle's chairman and chief technology officer. He gave up the chief executive title in 2014. In September 2025 Oracle promoted Clay Magouyrk and Mike Sicilia to co-CEOs, and Safra Catz moved to executive vice chair. His own statement promised years of working side by side with the new leaders. At the investor day on 28 October 2026, it was the co-CEOs and the finance chief who took the questions.",
+          "src": [
+            84,
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$171.6B",
+              "label": "Forbes estimate, 2 November 2026, No. 8 in the world",
+              "src": [
+                84
+              ]
+            },
+            {
+              "value": "About $393B",
+              "label": "Peak fortune, September 2025",
+              "src": [
+                31
+              ]
+            },
+            {
+              "value": "$104B",
+              "label": "Lost on paper between 2 June and mid-August 2026",
+              "src": [
+                85
+              ]
+            },
+            {
+              "value": "413M",
+              "label": "Oracle shares pledged for personal loans",
+              "src": [
+                88
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Those swings are almost entirely one share price. Forbes counted him at No. 2 in the world in early June 2026. Oracle then fell from just over $250 to a low of $114.50 by late July, a drop of about 54%, as investors worried about debt. It climbed back above $150 in September, taking him over $200 billion for a moment, and slid again. He owns roughly 40% of the company, so he has no real way to step off this ride.",
+          "src": [
+            84,
+            85,
+            86,
+            113
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He lost $104 billion on paper in ten weeks. He kept showing up."
+        },
+        {
+          "t": "h",
+          "text": "Where his chips are now"
+        },
+        {
+          "t": "p",
+          "text": "**AI computing** is the biggest bet by far, covered in full in an earlier chapter. Oracle told investors it expects at least $225 billion of revenue in fiscal 2030, after peak spending in fiscal 2027 and 2028, and at least $30 billion of positive free cash flow in fiscal 2029. That is a forecast, not a result. The New York Times Magazine asked in July 2026 whether he could end up as the face of an AI bubble.",
+          "src": [
+            42,
+            94
+          ]
+        },
+        {
+          "t": "p",
+          "text": "**Hospitals** are the personal bet. At his October keynote he dismissed the fear that AI will let customers build their own software, and said AI would instead let vendors finish their applications, starting with healthcare. He claimed a hospital running a rival's records system could switch on Oracle's cancer module with no data migration or new training. Banks, retail, hospitality and government would follow.",
+          "src": [
+            35,
+            78
+          ]
+        },
+        {
+          "t": "p",
+          "text": "**Media** is the family bet. On 6 October 2026 Paramount closed its takeover of Warner Bros. Discovery and renamed itself Skydance, with David Ellison as chairman and co-CEO. It carries nearly $80 billion of debt and has promised $6 billion of savings. Larry Ellison personally guaranteed more than $40 billion of equity during the bidding, then borrowed instead of selling shares, using stock in Oracle, Tesla and SpaceX as collateral with five banks. Elon Musk has since put in about $1 billion.",
+          "src": [
+            87,
+            89,
+            90
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Borrowing to fund your child's deal: always ask who carries the risk."
+        },
+        {
+          "t": "p",
+          "text": "That deal puts CBS News and CNN under one roof, and it worries press-freedom groups. They allege that the Ellisons made promises to the Trump White House about changes at CNN, and two groups have demanded company records. None of this has been proven. David Ellison says the two newsrooms will stay completely independent, and the state settlement requires a five-member editorial board, which critics say is too close to the owners to mean much.",
+          "src": [
+            95,
+            96,
+            97
+          ]
+        },
+        {
+          "t": "p",
+          "text": "**TikTok** and **Oxford** round out the list. Oracle holds 15% of the TikTok joint venture formed in January 2026 and looks after US user data and the app's algorithm. The Ellison Institute of Technology expects its first Oxford campus in 2027, with plans for up to 7,000 people, and it says its scholarships will fully fund selected students at the University of Oxford. If you are a student reading this, that one is worth looking up.",
+          "src": [
+            34,
+            91,
+            104
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Students: check the Ellison Scholars programme. It could be useful to you."
+        },
+        {
+          "t": "h",
+          "text": "What he says he wants next"
+        },
+        {
+          "t": "p",
+          "text": "He told the Las Vegas crowd in October 2026 that AI's great gift would be the end of most cancers within five to ten years, and that cures would not be reserved for the wealthy in New York or California. He predicted a golden age of drug discovery, and argued the harder job was getting drugs distributed widely enough for prices to fall. The Diginomica reporter called the timeline hugely contested. Treat it as a goal he is funding, not as a medical forecast.",
+          "src": [
+            35,
+            36
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also has a plan for the jobs question. He called the idea that AI replaces everybody nonsensical, pointing out that autopilot never got rid of pilots. But if robots do more of the work, he said, governments should stop taxing labour and tax the value added instead, which could fund an income for everyone. He admitted that would take more than a decade. The International Labour Organisation argued in a May 2026 report that the economics behind such income schemes are weak, so this is not a settled idea.",
+          "src": [
+            35,
+            36
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "19 Nov 2026",
+              "text": "Oracle CEO Mike Sicilia is due before the House Veterans' Affairs Committee, under subpoena.",
+              "src": [
+                80,
+                81
+              ]
+            },
+            {
+              "when": "10 Dec 2026",
+              "text": "Ellison's own subpoena date for the same committee.",
+              "src": [
+                80,
+                81
+              ]
+            },
+            {
+              "when": "2027",
+              "text": "26 more veterans' hospitals are planned on Oracle's system, and the first Oxford campus is due.",
+              "src": [
+                34,
+                75
+              ]
+            },
+            {
+              "when": "By April 2027",
+              "text": "The news editorial board for CNN and CBS must exist, within 180 days of the deal closing.",
+              "src": [
+                95
+              ]
+            },
+            {
+              "when": "Fiscal 2029",
+              "text": "The year Oracle says it will generate at least $30 billion of free cash flow.",
+              "src": [
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2006 he told Forbes he would keep running engineering until the board threw him out. Twenty years on, with about 40% of the shares, nobody is likely to try. __This bet is the largest of his life, and the result may not be known for years.__ He could have stopped at any point in the past 30 years with more money than he could ever spend. That he has not is the most honest thing he has ever told us about why he does this.",
+          "src": [
+            0,
+            84
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Think it through yourself.",
+      "text": "In 1977 people told Ellison a commercial relational database was a mad idea, and he kept going because he had read IBM's own research. Doubting experts only works when you have done the homework they did. Read the source before you disagree."
+    },
+    {
+      "title": "Replace your friends when the company outgrows them.",
+      "text": "In 1990 he asked nearly his entire senior team to leave, and he called it the most painful thing he ever did in business. He explained that running a $15 million company and a billion-dollar one take different skills. Being loyal to people should never mean betting everyone else's jobs on them."
+    },
+    {
+      "title": "Hire for your biggest weakness.",
+      "text": "He told his biographer he was good at ideas and bad at checking they got done, so he leaned on Safra Catz for 26 years. Ray Lane played a similar role with sales. Write down the job you hate most, then find someone who loves it."
+    },
+    {
+      "title": "Stay close to the people building the thing.",
+      "text": "Oracle's engineers presented in his boardroom every week, for years, with the boss asking the questions. Former staff say he tracked specialists several layers below him. Founders who lose touch with the product usually lose the product."
+    },
+    {
+      "title": "Bring data to the fight.",
+      "text": "Director Ray Bingham says Ellison would hear out anyone who came with facts, and Thomas Kurian, the boy from Kerala, rose that way. But reports say Kurian eventually lost a strategy argument and left. Be right, be prepared, and know that being right is sometimes not enough."
+    },
+    {
+      "title": "Pick your enemy, but know it is a tool.",
+      "text": "He rallied 700 managers against Bill Gates when Oracle and Microsoft's main products barely overlapped. An enemy gives a young team focus and a way to measure progress. Just do not let the rivalry start making your product decisions for you."
+    },
+    {
+      "title": "Never dare a rival in public.",
+      "text": "In 2018 he said no normal person would leave Oracle for Amazon's database, and by October 2019 Amazon had moved all 75 petabytes of its consumer data. His taunts gave them one more reason to finish. Let your product do the boasting."
+    },
+    {
+      "title": "Read every clause you sign in a hurry.",
+      "text": "One short paragraph in a 2010 settlement with HP ended up costing Oracle about $4.65 billion. Oracle thought it could walk away from Itanium six months later, and the courts disagreed. Treat a settlement as a promise, because a judge will."
+    },
+    {
+      "title": "Show up.",
+      "text": "In September 2013 thousands queued for his keynote, and he stayed on the water to watch his boat race, so the crowd walked out. Former staff joked about his time sense for decades. Your customers have a calendar too, and they notice when you ignore it."
+    },
+    {
+      "title": "Keep your word on small things and big things.",
+      "text": "Harvard began planning around a $115 million gift that was never signed, and it was left disappointed in 2006. An analyst friend was promised seed money and later got only a $25,000 apology cheque. Your reputation is the sum of what you actually delivered."
+    },
+    {
+      "title": "Control your expenses before someone begs you to.",
+      "text": "By July 2000 he owed over a billion dollars to five banks, and his accountant kept pleading with him to budget. He could carry that because Oracle's stock kept rising and his net worth stayed far above his debt. You almost certainly cannot, so start saving early."
+    },
+    {
+      "title": "Watch the small payments.",
+      "text": "The SEC found that sales staff in India, Turkey and the UAE built hidden funds from discounts and fake marketing costs, some of it under a $5,000 no-proof limit. Those cases cost Oracle about $25 million and years of embarrassment. Check every invoice in your faraway offices, especially the boring ones."
+    },
+    {
+      "title": "Plan who comes after you.",
+      "text": "Ray Lane warned in 2001 that Oracle had no answer if a truck hit its founder, and Ellison told Forbes that grooming an heir was silly. Oracle did eventually move on to Catz, Hurd and now two co-CEOs, but only when he was 70. Build a company that can run without you long before you need it to."
+    },
+    {
+      "title": "Know when to hand over the wheel.",
+      "text": "In the 1998 storm, a four-time world champion admitted he could no longer steer safely, and he gave the helm to someone else. His boat won while six sailors in the race died. Knowing your limit is not weakness, and it may save the whole crew."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Forbes: Lunching With Larry, interview, July 27 2006",
+      "url": "https://www.forbes.com/2006/07/27/oracle-ellison-interview_cz_vmb_0727ellison.html"
+    },
+    {
+      "label": "Forbes: Irreplaceable?, Aug 14 2006 issue",
+      "url": "https://www.forbes.com/forbes/2006/0814/082.html"
+    },
+    {
+      "label": "Computerworld: Unceremonious Exits, Mar 7 2001",
+      "url": "https://www.computerworld.com/article/1370342/unceremonious-exits.html"
+    },
+    {
+      "label": "Curt Monash, Software Memories: Larry Ellison memories, Sept 22 2014",
+      "url": "https://www.softwarememories.com/2014/09/22/larry-ellison-memories/"
+    },
+    {
+      "label": "Business Insider: How Larry Ellison treats his star employees, Jan 20 2016",
+      "url": "https://www.businessinsider.com/how-larry-ellison-treats-his-star-employees-2016-1"
+    },
+    {
+      "label": "Business Insider: Nutanix CEO learned from Larry Ellison, Dec 6 2015",
+      "url": "https://www.businessinsider.com/nutanix-ceo-learned-from-larry-ellison-2015-12"
+    },
+    {
+      "label": "Business Insider: Larry Ellison never loses his cool in meetings, Sept 26 2016",
+      "url": "https://www.businessinsider.com/larry-ellison-is-nicer-guy-than-people-think-2016-9"
+    },
+    {
+      "label": "Reuters: Ellison's backing helps Kurian's star to rise at Oracle, Jan 12 2015",
+      "url": "https://www.reuters.com/article/us-oracle-kurian-insight-idUSKBN0KL0BL20150112/"
+    },
+    {
+      "label": "Forbes: Cool chair, hot seat, Aug 10 1998",
+      "url": "https://www.forbes.com/forbes/1998/0810/6203042a.html"
+    },
+    {
+      "label": "San Francisco Chronicle: Oracle's First-Rate Second in Command, Sept 4 1997",
+      "url": "https://www.sfgate.com/business/article/Oracle-s-First-Rate-Second-in-Command-Ray-Lane-2828584.php"
+    },
+    {
+      "label": "Softwar by Matthew Symonds with Larry Ellison (2003), excerpt from chapter 16 at Hopkins & Company",
+      "url": "http://www.hopkinsandcompany.com/Books/Softwar.htm"
+    },
+    {
+      "label": "eWeek: In Larry's Own Words, excerpt from Softwar, 2003",
+      "url": "https://www.eweek.com/database/in-larrys-own-words/"
+    },
+    {
+      "label": "Academy of Achievement: Larry J. Ellison biography and 1997 interview",
+      "url": "https://achievement.org/achiever/larry-j-ellison/"
+    },
+    {
+      "label": "San Jose Mercury News: Larry Ellison reflects on great race (June 8 2001 interview, reprinted 2014)",
+      "url": "https://www.siliconvalley.com/2014/08/27/2001-larry-ellison-reflects-on-great-race-in-life-work-commitment/"
+    },
+    {
+      "label": "Vanity Fair: The Man Who Would Be Gates, Bryan Burrough, June 1997",
+      "url": "https://www.vanityfair.com/news/1997/06/larry-ellison-silicon-valley-bill-gates"
+    },
+    {
+      "label": "Colossus / Founders podcast episode reading from Softwar, May 2020",
+      "url": "https://colossus.com/episode/senra-larry-ellison-softwar/"
+    },
+    {
+      "label": "Business Insider: Oracle's head of cloud left after butting heads with Ellison, Sept 13 2018",
+      "url": "https://www.businessinsider.com/oracle-head-of-cloud-kurian-butting-heads-larry-ellison-2018-9"
+    },
+    {
+      "label": "SiliconANGLE: Oracle's Thomas Kurian has resigned, Oct 1 2018",
+      "url": "https://siliconangle.com/2018/09/30/oracles-thomas-kurian-resigned-three-weeks-taking-extended-leave/"
+    },
+    {
+      "label": "GeekWire: After reportedly butting heads with Ellison, top cloud executive leaving, Sept 28 2018",
+      "url": "https://www.geekwire.com/2018/reportedly-butting-heads-larry-ellison-oracles-top-cloud-executive-leaving-company/"
+    },
+    {
+      "label": "CNBC: Oracle founder Larry Ellison makes first trip to Microsoft campus, Sept 14 2023",
+      "url": "https://www.cnbc.com/2023/09/14/oracle-founder-larry-ellison-makes-first-trip-to-microsoft-campus.html"
+    },
+    {
+      "label": "Global Indian: George and Thomas Kurian, Feb 3 2025",
+      "url": "https://www.globalindian.com/story/cover-story/george-and-thomas-kurian-the-rare-twin-ceos-shaping-silicon-valleys-legacy/"
+    },
+    {
+      "label": "CNBC: Who texted Elon Musk on the Twitter deal (court exhibits), Sept 30 2022",
+      "url": "https://www.cnbc.com/2022/09/30/who-texted-elon-musk-to-get-involved-or-offer-advice-on-twitter-deal.html"
+    },
+    {
+      "label": "Vanity Fair: New texts reveal Musk, including the Ellison exchange, Sept 30 2022",
+      "url": "https://www.vanityfair.com/news/2022/09/elon-musk-twitter-ceo-new-texts"
+    },
+    {
+      "label": "The Giving Pledge: Larry Ellison's letter, 2010",
+      "url": "https://www.givingpledge.org/pledger/larry-ellison/"
+    },
+    {
+      "label": "Vox (Recode): Ellison relaunched his foundation, Aug 24 2020",
+      "url": "https://www.vox.com/recode/2020/8/24/21369773/larry-ellison-foundation-oracle-philanthropy"
+    },
+    {
+      "label": "Vox (Recode): Larry Ellison has shut down his foundation, Sept 2 2020",
+      "url": "https://www.vox.com/recode/2020/9/2/21409530/larry-ellison-foundation-disband-london-philanthropy-coronavirus"
+    },
+    {
+      "label": "VentureBeat: Ellison's foundation cuts funding for anti-aging research, Dec 19 2013",
+      "url": "https://venturebeat.com/business/larry-ellisons-foundation-cuts-funding-for-anti-aging-research"
+    },
+    {
+      "label": "New York Times: Oracle Chief Withdraws a Donation to Harvard, June 28 2006",
+      "url": "https://www.nytimes.com/2006/06/28/business/oracle-chief-withdraws-a-donation-to-harvard.html"
+    },
+    {
+      "label": "Inside Higher Ed: A Withdrawn Gift Rankles at Harvard, June 29 2006",
+      "url": "https://www.insidehighered.com/news/2006/06/29/withdrawn-gift-rankles-harvard"
+    },
+    {
+      "label": "Chronicle of Philanthropy: Software leader promises new gift after canceling Harvard pledge, July 20 2006",
+      "url": "https://www.philanthropy.com/news/software-leader-promises-new-gift-after-canceling-harvard-pledge/"
+    },
+    {
+      "label": "Inside Philanthropy: Larry Ellison wants for-profits to solve big problems, Sept 3 2025",
+      "url": "https://www.insidephilanthropy.com/home/larry-ellison-wants-for-profits-to-solve-big-problems-heres-what-that-mindset-overlooks"
+    },
+    {
+      "label": "Fortune: Larry Ellison has pledged to donate 95% of his $393B fortune, Sept 23 2025",
+      "url": "https://fortune.com/2025/09/23/oracle-founder-larry-ellison-pledged-give-away-95-percent-of-393b-fortune-leadership-changes-mystery/"
+    },
+    {
+      "label": "Cherwell (Oxford student newspaper): Ellison scales back Oxford science initiative, Nov 29 2025",
+      "url": "https://www.cherwell.org/2025/11/29/larry-ellison-scales-back-10-billion-oxford-science-initiative/"
+    },
+    {
+      "label": "Storyboard18: Ellison launches global tech institute with Oxford (text of his X post), July 18 2025",
+      "url": "https://www.storyboard18.com/brand-makers/larry-ellison-worlds-second-richest-man-launches-global-tech-institute-with-oxford-75429.htm"
+    },
+    {
+      "label": "Ellison Institute of Technology Oxford: official site",
+      "url": "https://eit.org/"
+    },
+    {
+      "label": "Diginomica: Oracle AI World 26, Larry Ellison on curing cancer and taxing robots, Oct 27 2026",
+      "url": "https://diginomica.com/oracle-ai-world-26-larry-ellison-curing-cancer-taxing-robots-making-everyone-wealthy-and-fixing"
+    },
+    {
+      "label": "The National: AI will bring in universal income, Ellison says, Oct 28 2026",
+      "url": "https://www.thenationalnews.com/business/money/2026/10/28/ai-will-bring-in-universal-income-and-everyone-will-get-wealthier-oracles-larry-ellison-says/"
+    },
+    {
+      "label": "San Francisco Chronicle: Inside look at a billionaire's budget, Jan 31 2006",
+      "url": "https://www.sfgate.com/news/article/Inside-look-at-a-billionaire-s-budget-Larry-2542603.php"
+    },
+    {
+      "label": "CBS News: Budgeting for Billionaires, Feb 2 2006",
+      "url": "https://www.cbsnews.com/news/budgeting-for-billionaires/"
+    },
+    {
+      "label": "Fortune: 80-year-old Larry Ellison among billionaire CEOs obsessed with anti-aging, Sept 19 2024",
+      "url": "https://fortune.com/2024/09/19/anti-aging-bryan-johnson-oracle-ceo-larry-ellison-age-death/"
+    },
+    {
+      "label": "Wall Street Journal: The Billionaire, His Mystery Wife and College Football's Wildest Recruiting Saga, Dec 3 2024",
+      "url": "https://www.wsj.com/sports/football/michigan-recruiting-larry-ellison-bryce-underwood-842d2c9a"
+    },
+    {
+      "label": "Daily Beast: Michigan football recruiting story and Ellison's marriages, Dec 4 2024",
+      "url": "https://www.thedailybeast.com/michigan-football-recruiting-shocker-outs-larry-ellisons-secret-wife"
+    },
+    {
+      "label": "New York Times Magazine: Larry Ellison Bet It All on the A.I. Boom, July 31 2026",
+      "url": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html"
+    },
+    {
+      "label": "San Francisco Chronicle: Judge clears Ellison for landing at night, June 16 2001",
+      "url": "https://www.sfgate.com/bayarea/article/judge-clears-ellison-for-landing-at-night-2909426.php"
+    },
+    {
+      "label": "Wired: Ellison Fights 'Unfair' Curfew, Jan 6 2000",
+      "url": "https://www.wired.com/2000/01/ellison-fights-unfair-curfew/"
+    },
+    {
+      "label": "AP via USA Today: Ellison flies away from San Jose airport, Mar 12 2002",
+      "url": "http://usatoday30.usatoday.com/tech/news/2002/03/12/ellison-plane.htm"
+    },
+    {
+      "label": "AOPA: Court agrees SJC night curfew discriminatory (quotes the ruling), June 15 2001",
+      "url": "https://www.aopa.org/news-and-media/all-news/2001/june/15/court-agrees-with-aopa-sjc-night-curfew-discriminatory"
+    },
+    {
+      "label": "Snopes: Larry Ellison 'Loser' Commencement Speech",
+      "url": "https://www.snopes.com/fact-check/oracle-of-truth/"
+    },
+    {
+      "label": "Truth or Fiction: Founder of Oracle speaks to students, fiction, Mar 17 2015",
+      "url": "https://www.truthorfiction.com/ellison-yale/"
+    },
+    {
+      "label": "The Register: Ellison ditches own cloud keynote for America's Cup, Sept 24 2013",
+      "url": "https://www.theregister.com/2013/09/24/oracle_openworld_walkout"
+    },
+    {
+      "label": "Computerworld: Ellison skips OpenWorld keynote to watch America's Cup, Sept 24 2013",
+      "url": "https://www.computerworld.com/article/1518481/ellison-skips-openworld-keynote-to-watch-america-s-cup.html"
+    },
+    {
+      "label": "The New Yorker: Larry Ellison's Yacht Preoccupation, Sept 25 2013",
+      "url": "https://www.newyorker.com/business/currency/larry-ellisons-yacht-preoccupation"
+    },
+    {
+      "label": "Los Angeles Times: Oracle Defends Its Spying on Microsoft as 'Public Service', June 29 2000",
+      "url": "https://www.latimes.com/archives/la-xpm-2000-jun-29-fi-45932-story.html"
+    },
+    {
+      "label": "New York Post: Ellison talking trash, June 29 2000",
+      "url": "https://nypost.com/2000/06/29/ellison-talking-trash-but-denies-he-knew-about-firms-spying-on-microsoft/"
+    },
+    {
+      "label": "The Register: Ellison offers Gates all his rubbish, June 29 2000",
+      "url": "https://www.theregister.com/software/2000/06/29/ellison-offers-gates-all-his-rubbish/1189740"
+    },
+    {
+      "label": "New York Times: Oracle Chief Faults H.P. Board for Forcing Hurd Out, Aug 9 2010",
+      "url": "https://www.nytimes.com/2010/08/10/technology/10hewlett.html"
+    },
+    {
+      "label": "California Court of Appeal: Hewlett-Packard Co. v. Oracle Corp., June 14 2021",
+      "url": "https://law.justia.com/cases/california/court-of-appeal/2021/h044371.html"
+    },
+    {
+      "label": "HP Inc. filing to the SEC: litigation note on Hewlett-Packard v. Oracle, 2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721721000060/R22.htm"
+    },
+    {
+      "label": "Bloomberg: Oracle Loses $3 Billion Verdict for Ditching HP Itanium Chip, June 30 2016",
+      "url": "https://www.bloomberg.com/news/articles/2016-06-30/oracle-ordered-to-pay-hp-3-billion-by-jury-for-itanium-damages"
+    },
+    {
+      "label": "CRN: Amazon Reports 'Migration Complete' in Oracle Database Purge, Oct 2019",
+      "url": "https://www.crn.com/news/cloud/amazon-reports-migration-complete-in-oracle-database-purge"
+    },
+    {
+      "label": "Computer Weekly: Ellison slates AWS Aurora, Dec 18 2018",
+      "url": "https://www.computerweekly.com/news/252454615/Ellison-slates-AWS-Aurora-as-Oracle-posts-flat-second-quarter"
+    },
+    {
+      "label": "CIO Dive: Amazon kisses last Oracle database goodbye, Oct 15 2019",
+      "url": "https://www.ciodive.com/news/amazon-kisses-last-oracle-database-goodbye-completes-years-long-migration/565073/"
+    },
+    {
+      "label": "SEC: Oracle charged over secret side funds in India, Aug 16 2012",
+      "url": "https://www.sec.gov/newsroom/press-releases/2012-2012-158htm"
+    },
+    {
+      "label": "SEC: Oracle charged a second time under the FCPA, Sept 27 2022",
+      "url": "https://www.sec.gov/newsroom/press-releases/2022-173"
+    },
+    {
+      "label": "SEC order against Oracle Corporation, Release 34-95913, Sept 27 2022",
+      "url": "https://www.sec.gov/files/litigation/admin/2022/34-95913.pdf"
+    },
+    {
+      "label": "Reuters: Oracle to pay about $23 million to resolve second SEC bribery case, Sept 27 2022",
+      "url": "https://www.reuters.com/legal/official-oracle-pay-about-23-mln-resolve-second-sec-bribery-case-2022-09-27/"
+    },
+    {
+      "label": "US Department of Labor: statement on OFCCP v. Oracle America, Dec 3 2020",
+      "url": "https://www.dol.gov/newsroom/releases/ofccp/ofccp20201203-0"
+    },
+    {
+      "label": "Bloomberg Law: Oracle Defeats Labor Department's $400 Million Pay Bias Claims, Sept 22 2020",
+      "url": "https://news.bloomberglaw.com/daily-labor-report/oracle-defeats-labor-departments-400-million-pay-bias-claims"
+    },
+    {
+      "label": "Reuters: Oracle to settle female employees' equal pay case for $25 million, Feb 14 2024",
+      "url": "https://www.reuters.com/legal/litigation/oracle-settle-female-employees-equal-pay-case-25-mln-2024-02-14/"
+    },
+    {
+      "label": "WBBH: How to file a claim in $115 million Oracle class action settlement, Sept 26 2024",
+      "url": "https://www.gulfcoastnewsnow.com/article/file-claim-115-million-oracle-class-action-settlement/62392810"
+    },
+    {
+      "label": "The Oregonian: Oregon settles bitter legal fight with Oracle for $100 million, Sept 15 2016",
+      "url": "https://www.oregonlive.com/politics/2016/09/post_183.html"
+    },
+    {
+      "label": "San Francisco Chronicle: sentencing in the forged-email case involving Oracle, May 3 1997",
+      "url": "https://www.sfgate.com/news/article/ex-girlfriend-of-oracle-boss-gets-year-in-jail-2841701.php"
+    },
+    {
+      "label": "NPR: Who is Larry Ellison, Oct 6 2025",
+      "url": "https://www.npr.org/2025/10/06/nx-s1-5560216/who-is-larry-ellison-the-billionaire-trump-friend-whos-part-of-the-tiktok-takeover"
+    },
+    {
+      "label": "Business Insider: AI-fueled surveillance remarks, Sept 15 2024",
+      "url": "https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9"
+    },
+    {
+      "label": "TechCrunch: Larry Ellison says AI will someday track your every move, Sept 16 2024",
+      "url": "https://techcrunch.com/2024/09/16/oracle-ceo-larry-ellison-says-that-ai-will-someday-track-your-every-move/"
+    },
+    {
+      "label": "Nextgov/FCW: VA completes 2026 EHR deployments, Oct 26 2026",
+      "url": "https://www.nextgov.com/modernization/2026/10/va-completes-2026-ehr-system-deployments-final-two-site-go-lives/416823/"
+    },
+    {
+      "label": "Federal News Network: VA cuts support work for new EHR, Mar 19 2025",
+      "url": "https://federalnewsnetwork.com/it-modernization/2025/03/va-cuts-support-work-for-new-ehr-after-canceling-hundreds-of-contracts/"
+    },
+    {
+      "label": "Healthcare IT News: Oracle workforce reductions and KLAS findings, Sept 3 2025",
+      "url": "https://www.healthcareitnews.com/news/oracle-initiates-new-workforce-reductions-kansas-city"
+    },
+    {
+      "label": "Becker's Hospital Review: 7 Oracle Health updates in 30 days, Oct 29 2026",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/breach-defections-and-an-epic-pitch-7-oracle-health-updates-in-30-days/"
+    },
+    {
+      "label": "Bloomberg: Oracle Health loses multiple executives, Mar 2 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/oracle-loses-health-unit-leaders-with-ellison-s-bet-struggling"
+    },
+    {
+      "label": "MeriTalk: Subpoenas served to Oracle leaders over VA's $27B contract, Sept 16 2026",
+      "url": "https://www.meritalk.com/articles/subpoenas-served-to-oracle-leaders-over-vas-27b-ehrm-contract/"
+    },
+    {
+      "label": "Healthcare IT News: Oracle leaders receive subpoenas, Sept 17 2026",
+      "url": "https://www.healthcareitnews.com/news/oracle-leaders-receive-subpoenas-appear-house-va-committee"
+    },
+    {
+      "label": "House Veterans' Affairs Committee Democrats: Subpoenas served, Sept 14 2026",
+      "url": "https://democrats-veterans.house.gov/news/press-releases/subpoenas-served-democrats-force-oracles-ellison-and-sicilia-to-face-congress"
+    },
+    {
+      "label": "US House Committee Repository: Beyond Go-Live hearing, recorded 19-0 vote, Sept 2 2026",
+      "url": "https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119517"
+    },
+    {
+      "label": "Forbes profile: Larry Ellison (real-time data, read Nov 3 2026)",
+      "url": "https://www.forbes.com/profile/larry-ellison/"
+    },
+    {
+      "label": "Forbes: Larry Ellison's $100 Billion Fall From 2nd Richest, Aug 15 2026",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/08/15/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months/"
+    },
+    {
+      "label": "Forbes: Larry Ellison's net worth jumps back above $200 billion, Sept 3 2026",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/09/03/larry-ellison-passes-jensen-huang-for-8th-richest-as-oracle-shares-soar/"
+    },
+    {
+      "label": "Wall Street Journal: How Larry Ellison Secured the Loans to Bankroll His Son's Warner Bros. Bid, Oct 20 2026",
+      "url": "https://www.wsj.com/finance/larry-ellison-warner-bros-loans-49918714"
+    },
+    {
+      "label": "Economic Times: Larry Ellison's borrowing strategy, Oct 21 2026",
+      "url": "https://economictimes.indiatimes.com/world/business/larry-ellisons-borrowing-strategy-why-the-oracle-nyse-orcl-billionaire-is-using-his-shares-to-fund-a-media-deal/articleshow/135091322.cms"
+    },
+    {
+      "label": "CNBC: Elon Musk invests about $1 billion in Skydance, Oct 22 2026",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
+    },
+    {
+      "label": "Forbes: Skydance's David Ellison, Oct 6 2026",
+      "url": "https://www.forbes.com/sites/aliciapark/2026/10/06/david-ellison-just-landed-a-150-million-payday-heres-how-much-hes-worth/"
+    },
+    {
+      "label": "TheWrap: David Ellison's growing media empire, Sept 21 2026",
+      "url": "https://www.thewrap.com/industry-news/deals-ma/what-david-ellison-owns-paramount-warner-bros-cnn-tiktok/"
+    },
+    {
+      "label": "Oracle: Promotion of Clay Magouyrk and Mike Sicilia to CEOs, Sept 22 2025",
+      "url": "https://www.oracle.com/news/announcement/oracle-corporation-announces-promotion-of-clay-magouyrk-and-mike-scilia-2025-09-22/"
+    },
+    {
+      "label": "CNBC: Oracle names Clay Magouyrk and Mike Sicilia as co-CEOs, Sept 22 2025",
+      "url": "https://www.cnbc.com/2025/09/22/oracle-names-co-ceos.html"
+    },
+    {
+      "label": "Oracle Investor Relations: Investor Day 2026, Oct 28 2026",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx"
+    },
+    {
+      "label": "Al Jazeera: Why Paramount-Warner merger has sparked fears about press freedom, Oct 7 2026",
+      "url": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom"
+    },
+    {
+      "label": "Los Angeles Times: Press freedom groups and Ellison's reported promise on CNN, May 8 2026",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-08/press-freedom-groups-allege-larry-ellison-has-promised-to-fire-cnn-anchors"
+    },
+    {
+      "label": "NPR: CNN is getting new owners with close ties to Trump, Sept 26 2026",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981103/cnn-is-getting-new-owners-with-close-ties-to-trump"
+    },
+    {
+      "label": "CIOL: Oracle to ramp up staff to 6,000, July 10 2003",
+      "url": "https://www.ciol.com/oracle-ramp-staff/"
+    },
+    {
+      "label": "Oracle press release filed with the SEC: Oracle to buy majority interest in i-flex, Aug 2 2005",
+      "url": "https://www.sec.gov/Archives/edgar/data/777676/000119312505160877/dex991.htm"
+    },
+    {
+      "label": "The Telegraph (India): Oracle to buy most of i-flex, Aug 2 2005",
+      "url": "https://www.telegraphindia.com/business/oracle-to-buy-most-of-i-flex/cid/859834"
+    },
+    {
+      "label": "Economic Times: Oracle's second largest campus in Bengaluru, Feb 3 2017",
+      "url": "https://economictimes.indiatimes.com/tech/ites/oracles-second-largest-campus-will-soon-be-a-reality-in-bengaluru/articleshow/56948791.cms"
+    },
+    {
+      "label": "Mint: Digital India, says Oracle CEO Safra Catz, May 9 2017",
+      "url": "https://www.livemint.com/Industry/GZLSjUCUGhSl4dfH6kMHGM/Digital-India-only-way-to-give-empowerment-to-citizens-says.html"
+    },
+    {
+      "label": "Times Now: Who is Jolin Zhu (example of Indian lifestyle coverage), Sept 12 2025",
+      "url": "https://www.timesnownews.com/lifestyle/people/who-is-the-47-years-younger-university-of-michigan-graduate-who-married-81-year-old-oracle-billionaire-larry-ellison-during-his-393-billion-net-worth-peak-article-152787233"
+    },
+    {
+      "label": "Observer: How Larry Ellison is shaping A.I., media and Hollywood, Mar 27 2026",
+      "url": "https://observer.com/2026/03/larry-ellison-fortune-stargate-tiktok-paramount-wbd-merger/"
+    },
+    {
+      "label": "France 24 / AFP: Fatal storm haunts Sydney-Hobart yacht race 20 years on, Dec 20 2018",
+      "url": "https://www.france24.com/en/20181220-fatal-storm-haunts-sydney-hobart-yacht-race-20-years"
+    },
+    {
+      "label": "PiunikaWeb: Ellison appears to have deactivated his X account, Mar 24 2026",
+      "url": "https://piunikaweb.com/2026/03/24/x-backer-larry-ellison-leaves-platform/"
+    },
+    {
+      "label": "Newsweek: Larry, With Tears (Steven Levy reviews Softwar), Sept 29 2003",
+      "url": "https://www.newsweek.com/larry-tears-136637"
+    },
+    {
+      "label": "Business Insider: Ellison extends full pay for furloughed workers on his Hawaiian island, May 1 2020",
+      "url": "https://www.businessinsider.com/larry-ellison-extends-full-pay-for-furloughed-workers-hawaii-island-2020-5"
+    },
+    {
+      "label": "Reuters: US Supreme Court backs Google over Oracle, Apr 5 2021",
+      "url": "https://www.reuters.com/world/us/us-supreme-court-sides-with-google-major-copyright-dispute-with-oracle-2021-04-05/"
+    },
+    {
+      "label": "US Supreme Court: Google LLC v. Oracle America, Inc., decided Apr 5 2021",
+      "url": "https://www.supremecourt.gov/opinions/20pdf/18-956%5Fd18f.pdf"
+    },
+    {
+      "label": "Reuters: The Ellison kids, billionaire producers, 2011",
+      "url": "https://www.reuters.com/article/technology/the-ellison-kids-billionaire-producers-making-their-mark-on-hollywood-idUS2903989845/"
+    },
+    {
+      "label": "Reuters: Ellison buys Hawaii's sixth-largest island, June 2012",
+      "url": "https://www.reuters.com/article/larry-ellison-hawaii-oracle-lanai/oracle-ceo-larry-ellison-buys-hawaiis-sixth-largest-island-idINDEE85K02K20120621/"
+    },
+    {
+      "label": "DaveManuel.com: Larry Ellison net worth, using the Oct 30 2026 close and 2026 proxy share count",
+      "url": "https://www.davemanuel.com/net-worths/larry-ellison/"
+    },
+    {
+      "label": "Computerworld: Oracle OpenWorld attendees fume over Ellison keynote, Sept 25 2013",
+      "url": "https://www.computerworld.com/article/1394761/oracle-openworld-attendees-fume-over-ellison-keynote.html"
+    },
+    {
+      "label": "ChannelWeb: Oracle's top 10 legal spats, including Oracle's statement on the HP verdict",
+      "url": "https://www.channelweb.co.uk/news/3061248/oracles-biggest-legal-battles"
+    },
+    {
+      "label": "ITPro Today: Oracle admits to spying on Microsoft, Ellison takes responsibility, June 28 2000",
+      "url": "https://www.itprotoday.com/oracle-cloud-infrastructure/oracle-admits-to-spying-on-microsoft-ellison-takes-responsibility"
+    },
+    {
+      "label": "Ars Technica: Supreme Court rules API copying is fair use, Apr 5 2021",
+      "url": "https://arstechnica.com/tech-policy/2021/04/supreme-court-sides-with-google-in-api-copyright-battle-with-oracle/"
+    },
+    {
+      "label": "HackerNoon Legal PDF series: Twitter v. Musk court filing, Exhibit H, Ellison and Musk text messages",
+      "url": "https://hackernoon.com/oracles-larry-ellison-and-elon-musk-landed-on-his-$2-billion-twitter-investment-over-text"
+    }
+  ],
+  "factCheck": {
+    "method": "Built primary-first where possible: SEC orders and releases, the California Court of Appeal opinion, an HP filing to the SEC, the US Labor Department, the House committee repository, Oracle's own announcements and the Giving Pledge letter. His own words come from the Academy of Achievement 1997 interview, a 2001 Mercury News interview, a 2006 Forbes interview, Vanity Fair 1997, the 2026 keynote as reported by Diginomica and The National, and excerpts of Softwar. Direct quotation is deliberately rare: only one line from a copyrighted press or book source is quoted (the Softwar line in the mindset chapter), and the others are short passages from public court records (the airport ruling, the Twitter case text exhibit, and an email unsealed in the shareholder suit). All other remarks are paraphrased and attributed, so the brief's request for verbatim quotes in the mindset chapter is only partly met. An editor who wants more quotation can check the paraphrases against sources 10, 11, 12, 13 and 35, which hold the original wording. Reading limits for the fact-checker: Softwar itself was not read in full, only excerpts (sources 10, 11), a review (107) and a podcast reading from it (15), so the burn-the-boats line and the 1977 and 1995 recollection rest on 15. The New York Times Magazine piece (42) is paywalled; its publisher preview was read directly, and the Lanai, ownership, June 2023 talk and marriage details were read in a reposted copy found in search, which is not cited, so check them against a licensed copy. Business Insider and Reuters pages blocked direct fetching, and sources 4, 5, 6, 7, 16 were read only as search excerpts, so Pandey's remaining lessons were left out and the Reuters detail stops at the opening passages. Sources 0, 1, 8 and 12 were read through a summarising fetch tool that returned quotes but not full text, so check their paraphrases. Source 106 (PiunikaWeb) is a low-tier site used only for the X account details, with attribution. Source 113 was used only to compare estimates of his stake in the disputed list. Curt Monash's blog (3) is a first-person memoir by a named analyst, and is attributed as such in the text.",
+    "disputed": [
+      {
+        "claim": "Is Jolin (Keren) Zhu his wife?",
+        "note": "A Michigan booster group and the Academy of Achievement call her his wife. The New York Times Magazine said in 2026 that little is known, including whether they are married, and the Daily Beast noted he had not confirmed it. The text reports this and goes no further. No details about any minor children are included."
+      },
+      {
+        "claim": "How many times he has married",
+        "note": "Some tabloid and lifestyle reports count Nikita Kahn as his fourth wife and Zhu as his fifth. Listing Quinn, Jenkins, Boothe, Craft and Kahn makes Kahn the fifth, as the New York Times says. The text avoids a number."
+      },
+      {
+        "claim": "When his mother died",
+        "note": "In his 2026 keynote he said he was a freshman. The Academy says it was during final exams in his second year. The text says only that he was a student at the University of Illinois."
+      },
+      {
+        "claim": "Why Thomas Kurian left Oracle",
+        "note": "Bloomberg, as relayed by Business Insider, SiliconANGLE and GeekWire, and a former employee quoted by CRN, describe a strategy clash. Oracle's filing gives only 'to pursue other opportunities'. Worded as reported, not confirmed."
+      },
+      {
+        "claim": "Why the Harvard gift died",
+        "note": "Ellison and Oracle blamed Lawrence Summers's departure. Harvard's Christopher Murray said Ellison stopped communicating in November 2005, months before Summers resigned. Oracle's spokesman said there was never a signed agreement. The text states only what is agreed."
+      },
+      {
+        "claim": "The Twitter text exchange",
+        "note": "CNBC and Vanity Fair date it April 20, 2022. A published copy of the exhibit dates it April 17. The same exhibit shows him agreeing to $2 billion on April 26, while he finally invested $1 billion. The text says April 2022 and gives both figures."
+      },
+      {
+        "claim": "Size of his Oracle stake",
+        "note": "Forbes says roughly 40%. The proxy count of about 1.158 billion shares over about 3.024 billion outstanding, as worked out by DaveManuel.com, is about 38%. The text uses about 40%, following Forbes."
+      },
+      {
+        "claim": "Net worth",
+        "note": "Forbes real-time was $171.6B on Nov 2, 2026. Bloomberg was about $178B in mid-October. DaveManuel.com estimated $168.9B before undisclosed loans. Nobody can net off the loans, because they are not disclosed."
+      },
+      {
+        "claim": "His exact words on robot tax in 2026",
+        "note": "Diginomica transcribes universal high income and The National transcribes universal product income. The text says an income for everyone. Check the keynote video."
+      },
+      {
+        "claim": "Sydney to Hobart conditions",
+        "note": "The 80-foot waves and 100 mph winds are his own figures from 2001. The New York Times says he compared the weather to a hurricane. They are attributed to him."
+      },
+      {
+        "claim": "Ellison Medical Foundation total",
+        "note": "VentureBeat reports about $430 million in grants. Vox reports over half a billion on anti-ageing over 15 years. Fortune reports over $350 million in one piece and over $1 billion in another. The text uses $430 million for the foundation and more than half a billion for his overall anti-ageing giving."
+      },
+      {
+        "claim": "Period of the 2022 SEC case",
+        "note": "The SEC press release says 2016 to 2019, while its order and Reuters say at least 2014 to 2019, and Turkey back to 2009. The text avoids a range."
+      },
+      {
+        "claim": "Lanai price and the bicycle crash",
+        "note": "Lanai is reported at $300 million by most sources, with the Academy also mentioning up to $500 million. The Academy says mountain biking and Vanity Fair says bicycle racing near Napa; the text follows Vanity Fair, which interviewed him about it."
+      },
+      {
+        "claim": "Malibu spending",
+        "note": "The San Francisco Chronicle gives $180 million by one report. CBS gives $200 million. The text says around $200 million."
+      },
+      {
+        "claim": "Political claims about the VA contract and CNN",
+        "note": "The link between his $45 million political gift and the contract increase is an allegation by a committee Democrat. The reported promise to change CNN is an allegation by press-freedom groups, relayed from media reports. David Ellison says the newsrooms will stay independent. None of this is established fact, and it is worded that way."
+      }
+    ]
+  }
+}

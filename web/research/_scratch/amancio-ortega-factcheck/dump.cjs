@@ -1,0 +1,24 @@
+const fs=require('fs');
+const b=JSON.parse(fs.readFileSync('src/content/billionaires/books/amancio-ortega.json','utf8'));
+let o=[];
+o.push('TITLE',b.title,b.subtitle,'HOOK',b.hook,JSON.stringify(b.hookSrc));
+o.push('PORTRAIT',JSON.stringify(b.portrait));
+o.push('PHOTOS',JSON.stringify(b.photos,null,0));
+o.push('GLANCE');b.glance.forEach((g,i)=>o.push(`[${i}] ${g.label}: ${g.value} ${JSON.stringify(g.src)}`));
+o.push('CONTACT',b.contact.howToReach);b.contact.channels.forEach(c=>o.push(JSON.stringify(c)));b.contact.socials.forEach(c=>o.push(JSON.stringify(c)));
+b.chapters.forEach((c,ci)=>{o.push(`\n=== CH${ci} ${c.id} | ${c.kicker} | ${c.title}`);c.blocks.forEach((x,i)=>{
+ const pre=`${ci}.${i} ${x.t}`;
+ if(x.t==='p'||x.t==='example')o.push(`${pre} ${JSON.stringify(x.src)}: ${x.text}`);
+ else if(x.t==='quote')o.push(`${pre} ${JSON.stringify(x.src)}: "${x.text}" -- ${x.who}`);
+ else if(x.t==='h'||x.t==='note')o.push(`${pre}: ${x.text}`);
+ else if(x.t==='facts'||x.t==='timeline')x.items.forEach(it=>o.push(`${pre} ${JSON.stringify(it.src)}: ${it.value||it.when} | ${it.label||it.text}`));
+ else if(x.t==='photo')o.push(`${pre}: ${JSON.stringify(x.photo)}`);
+ else if(x.t==='venture')o.push(`${pre} ${JSON.stringify(x.src)}: ${x.name} (${x.years}) ${x.outcome}\n idea:${x.idea}\n decision:${x.decision}\n howStarted:${x.howStarted}\n funding:${x.funding}\n whatHappened:${x.whatHappened}\n lesson:${x.lesson}`);
+ else if(x.t==='lesson')o.push(`${pre}: ${x.title}: ${x.text}`);
+})});
+o.push('\nLESSONS');b.lessons.forEach((l,i)=>o.push(`${i} ${l.title}: ${l.text}`));
+o.push('\nDISPUTED');b.factCheck.disputed.forEach(d=>o.push(JSON.stringify(d)));
+o.push('METHOD',b.factCheck.method);
+o.push('\nSOURCES');b.sources.forEach((s,i)=>o.push(`${i} ${s.label} | ${s.url}`));
+fs.writeFileSync('research/_scratch/amancio-ortega-factcheck/dump.txt',o.join('\n'));
+console.log(o.join('\n').length);

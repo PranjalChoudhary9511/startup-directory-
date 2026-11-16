@@ -1,0 +1,414 @@
+{
+  "slug": "tinyowl",
+  "name": "TinyOwl",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Food delivery",
+  "founded": 2014,
+  "died": 2016,
+  "status": "absorbed-and-closed",
+  "brandColor": "#e8452c",
+  "founders": [
+    {
+      "name": "Harshvardhan Mandad",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Gaurav Choudhary",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Saurabh Goyal",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Shikhar Paliwal",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Tanuj Khandelwal",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Hired a city's worth before earning a rupee.",
+  "oneLiner": "A Mumbai app that let you order food from nearby restaurants in a few taps, without calling them.",
+  "causeOfDeath": "It raised fast, hired 1,000+ people and opened six cities before it earned real revenue, so the money ran out within about 18 months.",
+  "raisedUsdM": 27.7,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure adds the four rounds TechCrunch reported in US dollars ($1M + $3M + $16M + $7.67M). Valuations were never published. The 2016 merger into Roadrunnr was an all-stock deal with no public price.",
+  "moneySrc": [
+    0,
+    3
+  ],
+  "inOneMinute": [
+    "TinyOwl raised about **$27 million in 15 months** and grew to over 1,000 staff, while earning almost nothing.",
+    "When money got tight in late 2015 it closed four cities. Angry laid-off staff kept a **co-founder inside the Pune office for two days**.",
+    "By mid-2016 it was down to one city and **merged into a delivery company**, which Zomato later bought."
+  ],
+  "killerLine": "Every new hire is a **monthly bill**. Hire for the orders you have, not the 50 cities in your pitch deck.",
+  "numbers": [
+    {
+      "value": "$27M",
+      "label": "raised in about 15 months (2014–15)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "₹24,000",
+      "label": "revenue from operations in FY15",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "1,000+",
+      "label": "employees at its peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "2 days",
+      "label": "a co-founder was held in the Pune office by laid-off staff",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "In 2014, five young IIT graduates in Mumbai had a simple idea. Ordering food meant calling a restaurant, waiting on hold and repeating your address. TinyOwl turned that into a few taps on your phone. It showed restaurants near you, took your order and sent it to the kitchen. Later it added **TinyOwl HomeMade**, food cooked by home chefs. Investors loved it. Sequoia Capital and Nexus Venture Partners put in money within months. By February 2015 it was taking about **3,000 to 5,000 orders a day** from roughly 4,500 restaurants, all in Mumbai. For a company less than a year old, that was real traction.",
+      "src": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "In February 2015, Matrix Partners led a **$16 million round**. TinyOwl now had more than 400 people and said it wanted to be in 50 Indian cities by the end of the year. It opened Hyderabad, Chennai, Delhi, Pune and Bangalore at speed. Staff grew past 1,000. But there was a catch. TinyOwl did not yet charge restaurants anything. It planned to start taking a 10–20% commission (a cut of each order) later. MediaNama did quick maths: ₹100 crore across 400 people is about ₹25 lakh per person. Salaries and rent would eat most of the money. Filings later showed **revenue from operations of just ₹24,000** for FY15.",
+      "src": [
+        2,
+        3,
+        5,
+        1
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "By mid-2015 the funding mood in India had turned cold. In September, TinyOwl laid off about 100 people. Its investors, Matrix and Sequoia, put in another $7.67 million, but reports said it came **on one condition: cut the burn** (money lost each month). On 3 November 2015, just before Diwali, the company told staff it was shutting Delhi, Pune, Chennai and Hyderabad. About 112 people lost their jobs. Workers were offered settlements partly in post-dated cheques (cheques that can only be cashed weeks later). Many had seen earlier laid-off colleagues still waiting for their dues. Trust inside the company was **already broken**.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In Pune, co-founder Gaurav Choudhary told about 25 staff the office was closing. They asked to be paid on the spot. He said he could not. They would not let him leave. He called the police, who asked him to stay and work it out. He was **held in the office for about two days**. The story went around the world. TinyOwl never recovered its reputation. By May 2016 it had shut every city except Mumbai. In June 2016 it merged with Roadrunnr, a delivery startup, in an all-stock deal. The combined company, **Runnr, was bought by Zomato** in 2017.",
+      "src": [
+        0,
+        1,
+        3,
+        6,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jun 2014",
+      "event": "TinyOwl Technology is registered in Mumbai.",
+      "kind": "start",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Aug 2014",
+      "event": "Raises a $1 million seed round.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2014",
+      "event": "Raises $3 million from Sequoia Capital and Nexus Venture Partners.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2015",
+      "event": "Raises $16 million led by Matrix Partners. 400+ staff, Mumbai only, aims for 50 cities.",
+      "kind": "peak",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "event": "First big layoff: about 100 people.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "event": "Existing investors add $7.67 million, reportedly on condition it cuts costs.",
+      "kind": "money",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "3 Nov 2015",
+      "event": "Shuts four cities and lays off about 112 people. A co-founder is held in the Pune office for two days.",
+      "kind": "crisis",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "May 2016",
+      "event": "Closes every city except Mumbai.",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jun 2016",
+      "event": "Merges into delivery startup Roadrunnr, which renames itself Runnr.",
+      "kind": "end",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Sep 2017",
+      "event": "Zomato completes its acquisition of Runnr.",
+      "kind": "after",
+      "src": [
+        4,
+        6
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Aug 2014",
+      "round": "Seed",
+      "amountUsdM": 1,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2014",
+      "round": "Series A",
+      "amountUsdM": 3,
+      "valuationUsdM": null,
+      "investors": [
+        "Sequoia Capital",
+        "Nexus Venture Partners"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2015",
+      "round": "Series B",
+      "amountUsdM": 16,
+      "valuationUsdM": null,
+      "investors": [
+        "Matrix Partners",
+        "Sequoia Capital",
+        "Nexus Venture Partners"
+      ],
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "round": "Bridge from existing investors",
+      "amountUsdM": 7.67,
+      "valuationUsdM": null,
+      "investors": [
+        "Matrix Partners",
+        "Sequoia Capital"
+      ],
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "over-expansion",
+      "weight": 40
+    },
+    {
+      "key": "business-model",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Hired and expanded far ahead of demand",
+      "explain": "In about a year TinyOwl went from one city to six and from 400 to **over 1,000 people**. Each city needs sales staff, support and offices before it brings a single order. When the money slowed, all those fixed costs stayed. Growing a proven Mumbai model city by city would have been slower, but **each city would have paid for the next**.",
+      "src": [
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "title": "No way to earn money yet",
+      "explain": "In early 2015 TinyOwl did not charge restaurants anything and planned to add a commission later. FY15 revenue from operations was **₹24,000**. Free products can grow fast, but if you never test whether restaurants will pay, you do not know if you have a business. Charging even a small cut early would have shown **whether the model worked**.",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "title": "Handled the layoffs badly",
+      "explain": "Staff were told days before Diwali, partly paid with post-dated cheques, and some earlier laid-off people were still waiting for dues. That anger exploded in Pune. Layoffs are sometimes needed to survive. But paying people **fully and on time** is the one promise a founder must keep. Breaking it turned a cost cut into a **national scandal**.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Planned for an endless flow of funding",
+      "explain": "The plan of 50 cities in a year only worked if a bigger round kept arriving. When India's funding mood turned in 2015, the next round shrank to $7.67 million and came with conditions. A plan that **only survives if the next round comes** is a bet, not a plan.",
+      "src": [
+        0,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is your headcount growing faster than your orders or revenue?",
+    "Are you opening new cities before your first city makes money on each order?",
+    "Would your company die within 12 months if no new money came in?",
+    "Are you still giving the product away free and promising to charge 'later'?",
+    "If you had to let people go tomorrow, would you struggle to pay them in full, on time?"
+  ],
+  "lessons": [
+    {
+      "title": "Make one city work before the second",
+      "detail": "Pick one city or one college. Get orders to the point where each order covers its own costs. Then copy the playbook. Six half-working cities are worse than one fully working one."
+    },
+    {
+      "title": "Charge early, even a little",
+      "detail": "Ask restaurants, shops or users to pay something in the first months. Their answer tells you more than any growth chart. Free usage is not proof of a business."
+    },
+    {
+      "title": "Treat salaries as your biggest risk",
+      "detail": "Before each hire, ask: what will this person add to revenue in six months? Keep a sheet that shows how many months of salary you can pay if funding stops."
+    },
+    {
+      "title": "If you must cut, cut once and cut kindly",
+      "detail": "Pay people in full, on the day, with no post-dated cheques. Tell them in person, with a clear reason. Several small, messy rounds of layoffs destroy trust in the people who stay."
+    },
+    {
+      "title": "Plan for the round that never comes",
+      "detail": "Write two budgets: one if you raise again, one if you do not. If the second budget means the company dies, cut costs now, while you still have choices."
+    }
+  ],
+  "quote": {
+    "text": "Lets create world's best food tech company :)",
+    "who": "Harshvardhan Mandad, co-founder & CEO",
+    "context": "In an email to staff about a week before the November 2015 funding news and layoffs, as reported by Inc42.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "TinyOwl merged into Bengaluru delivery startup Roadrunnr in June 2016. The combined company, Runnr, tried a consumer food app and then focused on delivering for other businesses. In September 2017 Zomato completed its purchase of Runnr, which was then doing about 300,000 deliveries a month. Runnr's riders helped Zomato build its own delivery fleet.",
+    "src": [
+      6,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: TinyOwl founder reportedly detained for two days by laid-off employees (Nov 2015)",
+      "url": "https://techcrunch.com/?p=1234008"
+    },
+    {
+      "label": "Inc42: The TinyOwl saga: layoffs, hostage crisis, absconding cofounder (Nov 2015)",
+      "url": "https://inc42.com/buzz/the-tinyowl-saga/"
+    },
+    {
+      "label": "MediaNama: TinyOwl raises Rs 100 crore in Series B, and we do some math (Feb 2015)",
+      "url": "https://www.medianama.com/2015/02/223-tinyowl-raises-rs-100-in-series-b-funding-led-by-sequoia-capital-and-we-do-some-math/"
+    },
+    {
+      "label": "OfficeChai: TinyOwl shuts operations in all cities other than Mumbai (May 2016)",
+      "url": "https://officechai.com/news/tinyowl-shuts-operations-in-all-cities-other-than-mumbai/"
+    },
+    {
+      "label": "TechCrunch: Zomato completes acquisition of logistics startup Runnr (Sep 2017)",
+      "url": "https://techcrunch.com/?p=1540110"
+    },
+    {
+      "label": "Tofler: TinyOwl's FY15 financial data (ROC filings)",
+      "url": "https://www.tofler.in/blog/indian-start-up-financials-reports-revenue-loss/tinyowls-financial-data-rs-24000-revenue-from-operations-at-25-crores-loss-indianstartupdata-tofler/"
+    },
+    {
+      "label": "Inc42: Zomato acquires Runnr to boost food delivery (Sep 2017)",
+      "url": "https://inc42.com/buzz/zomato-runnr-food-delivery"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "TinyOwl spent about 200 times its returns on customer acquisition.",
+        "note": "Said by an anonymous employee to Inc42. Not confirmed by filings, so kept out of the story."
+      },
+      {
+        "claim": "The Pune hostage situation.",
+        "note": "Media reported a co-founder held for about two days; the company's statement referred to 'two of our employees' being held for over 48 hours. Both versions agree people were kept in the office for about two days."
+      },
+      {
+        "claim": "Total funding of Rs 185 crore.",
+        "note": "OfficeChai reported four rounds totalling Rs 185 crore; TechCrunch's round-by-round figures add up to about $27.7 million. We use TechCrunch's figures."
+      },
+      {
+        "claim": "Zomato paid $40 million (all stock) for Runnr.",
+        "note": "Indian media reported this figure; Zomato did not confirm it. Other reports said about $20 million."
+      },
+      {
+        "claim": "FY15 loss of about ₹25 crore.",
+        "note": "Appears in Tofler's headline on its FY15 filing summary; we could not read the full filing, so it is not used as a headline number."
+      }
+    ]
+  }
+}

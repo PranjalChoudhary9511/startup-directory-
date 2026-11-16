@@ -1,0 +1,175 @@
+{
+  "slug": "olive-ai",
+  "name": "Olive AI",
+  "region": "global",
+  "country": "United States",
+  "city": "Columbus, Ohio",
+  "sector": "Healthcare AI / automation",
+  "founded": 2012,
+  "died": 2023,
+  "status": "sold-for-parts",
+  "brandColor": "#7a9a3a",
+  "founders": [
+    { "name": "Sean Lane", "role": "Founder and CEO" }
+  ],
+  "epitaph": "Hired at lightning speed. Let go just as fast.",
+  "oneLiner": "Sold hospitals an 'AI worker' that automated boring paperwork like insurance claims, billing checks and patient registration.",
+  "causeOfDeath": "It tried to do too many things at once, grew staff far faster than revenue, and was sold off in pieces when the money ran out.",
+  "raisedUsdM": 902,
+  "peakValuationUsdM": 4000,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: $902M since 2012, as stated by Olive in July 2021. Peak: $4B valuation in July 2021. End: its units were sold separately; prices were not officially announced, so left blank.",
+  "moneySrc": [0, 5],
+  "inOneMinute": [
+    "Olive promised hospitals an AI 'employee' that would do their paperwork. Investors valued it at **$4 billion** in July 2021.",
+    "It grew from about 230 staff to 800 in a year and launched product after product. Then it **lost focus and customers**.",
+    "After two rounds of layoffs, it **sold itself in pieces** to four buyers and shut down in October 2023."
+  ],
+  "killerLine": "Being in **900 hospitals** means nothing if you are **not the thing they can't live without** in any of them.",
+  "numbers": [
+    { "value": "$4 billion", "label": "valuation in July 2021", "src": [0] },
+    { "value": "900+", "label": "hospitals it said used its AI in 2021", "src": [0, 3] },
+    { "value": "28", "label": "pivots, big and small, on the way there", "src": [1] },
+    { "value": "450", "label": "jobs cut in July 2022, about a third of staff", "src": [4, 6] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a robot for hospital paperwork",
+      "body": "Hospitals in America drown in paperwork. Before a patient is treated, staff check insurance, get approvals, enter codes, and chase payments. Sean Lane wanted software to do this boring work. He first started CrossChx in 2012 in Columbus, Ohio, to link patients' fingerprints to their medical records. The company **pivoted around 28 times**, big and small, before finding its winner. It was renamed Olive. Olive's software watched hospital staff do repetitive tasks on their computers, then learned to **do those clicks automatically**. This is called robotic process automation, or RPA (software that copies human clicks and typing). Olive even called its AI \"she\", like a new employee being hired.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "The rise: from $1.5 billion to $4 billion in seven months",
+      "body": "COVID made hospitals desperate to save time and money. Olive raised $380 million in 2020 alone. In December 2020 it was valued at **$1.5 billion**, with its software in about 600 hospitals. Just seven months later, in July 2021, Vista Equity Partners led a $400 million round that valued Olive at **$4 billion**. By then Olive said it was in more than 900 hospitals across over 40 US states, including more than 20 of the top 100 health systems. Total money raised: $902 million. Staff grew from about 230 to about 800 in one year, and Olive planned to double again to about 1,600. It also launched new products, bought a company, and spun out a second startup. Everything was growing at once.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "The cracks: too many products, not enough proof",
+      "body": "In April 2022, the news site Axios published an investigation. It reported that Olive had **overstated what its software could do**, delivered only a fraction of the savings it promised to some hospitals, and mishandled sensitive data. Senior people started leaving. In May 2022 Olive froze hiring. In July 2022 it **cut about 450 jobs**, roughly a third of its staff. The company itself blamed \"fast-paced growth and lack of focus\". It had tried to serve too many kinds of customers with too many products. Hospitals buy slowly and carefully, and a product that half works in many places loses trust quickly. Axios later reported Olive was losing customers.",
+      "src": [4, 6, 7]
+    },
+    {
+      "title": "The fall: sold in pieces",
+      "body": "From late 2022 Olive started selling parts of itself to survive. It sold its population health tools in October 2022. In February 2023 it laid off about 200 more people. In 2023 it sold its insurance approval tool to Availity and its analytics product to BurstIQ. Investors who had paid a $4 billion price were not coming back with more money, especially as health-tech funding dried up. On 31 October 2023, Olive sold its **last core units** to Waystar (billing and patient registration) and Humata Health (prior authorisation, which means getting an insurer's okay before treatment). Then it said it would **shut down**. It did not file for bankruptcy. It simply sold what it could and closed.",
+      "src": [4, 5, 6, 8]
+    }
+  ],
+  "timeline": [
+    { "date": "2012", "event": "Sean Lane starts CrossChx in Columbus, Ohio, to link fingerprints to medical records. It later becomes Olive.", "kind": "start", "src": [0, 1] },
+    { "date": "2020", "event": "Raises $380 million in a single year as COVID hits hospitals.", "kind": "money", "src": [1] },
+    { "date": "Dec 2020", "event": "Valued at $1.5 billion. Software in about 600 hospitals.", "kind": "money", "src": [1, 3] },
+    { "date": "Jul 2021", "event": "Raises $400 million led by Vista at a $4 billion valuation. Claims 900+ hospitals and about 800 staff.", "kind": "peak", "src": [0, 3] },
+    { "date": "Apr 2022", "event": "Axios investigation reports Olive overstated its capabilities and savings.", "kind": "warning", "src": [6] },
+    { "date": "Jul 2022", "event": "Cuts about 450 jobs, roughly a third of staff, blaming fast growth and lack of focus.", "kind": "crisis", "src": [4, 6, 8] },
+    { "date": "Oct 2022", "event": "Sells its population health and 340B tools.", "kind": "crisis", "src": [6] },
+    { "date": "Feb 2023", "event": "Lays off about 200 more people.", "kind": "crisis", "src": [8] },
+    { "date": "2023", "event": "Sells its utilization management unit to Availity and its analytics product to BurstIQ.", "kind": "crisis", "src": [5] },
+    { "date": "31 Oct 2023", "event": "Sells remaining units to Waystar and Humata Health, and announces it will shut down.", "kind": "end", "src": [4, 5] }
+  ],
+  "charts": [
+    {
+      "title": "Olive's headcount",
+      "unit": "employees (approx.)",
+      "kind": "bar",
+      "labels": ["Mid-2020", "Mid-2021", "Feb 2023"],
+      "series": [
+        { "name": "Employees", "values": [230, 800, 300] }
+      ],
+      "takeaway": "Staff more than tripled in one year, with a plan to double again. Less than two years later, most of them were gone.",
+      "src": [0, 6]
+    }
+  ],
+  "rounds": [
+    { "date": "2020", "round": "Several rounds during 2020, ending in December", "amountUsdM": 380, "valuationUsdM": 1500, "investors": ["Tiger Global"], "src": [1, 3, 7] },
+    { "date": "Jul 2021", "round": "Series H", "amountUsdM": 400, "valuationUsdM": 4000, "investors": ["Vista Equity Partners", "Base10 Partners", "Tiger Global"], "src": [0, 3] }
+  ],
+  "causes": [
+    { "key": "focus", "weight": 35 },
+    { "key": "over-expansion", "weight": 30 },
+    { "key": "tech", "weight": 20 },
+    { "key": "funding-dried", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Tried to be everything for everyone",
+      "explain": "Olive launched many products, acquired a company, built a developer kit and spun out a second startup, all while selling to both hospitals and insurers. The company itself later blamed **\"lack of focus\"**. Each new product needs its own sales, support and engineering. Spread across all of them, **nothing got great**.",
+      "src": [0, 4, 8]
+    },
+    {
+      "title": "Hired ahead of proof",
+      "explain": "Staff went from about 230 to about 800 in a year, with plans to reach about 1,600. Lane said Olive was being hired \"at lightning speed\". But hiring is a promise of salary every month. When revenue did not keep up, Olive had to **cut 450 people in July 2022** and about 200 more in 2023.",
+      "src": [0, 3, 6, 8]
+    },
+    {
+      "title": "Promised more than the product delivered",
+      "explain": "Axios reported in April 2022 that Olive had **overstated its software's abilities** and that some hospitals got only a fraction of the promised savings. In healthcare, buyers talk to each other. One former employee told Axios some hospitals \"won't touch\" Olive. **Lost trust spreads faster than sales.**",
+      "src": [6]
+    },
+    {
+      "title": "Took a price that left no room to fall",
+      "explain": "Valuation jumped from $1.5 billion to **$4 billion in seven months**. A high price feels like winning, but it sets a bar every future investor must beat. When growth slowed and funding dried up, no one wanted to pay more, so Olive **could not raise again** and had to sell itself in pieces.",
+      "src": [0, 3, 4, 6]
+    }
+  ],
+  "warningSigns": [
+    "Is most of your team's effort going somewhere other than the one product that pays most of your bills?",
+    "Are you launching new products because investors want a bigger story, not because customers are asking?",
+    "Does your sales deck promise savings you have never measured at a real customer?",
+    "Is your headcount growing faster than your revenue, quarter after quarter?",
+    "Are customers leaving or not renewing, so you keep needing new ones just to stand still?",
+    "Would your company die if your next funding round never came?"
+  ],
+  "lessons": [
+    {
+      "title": "Be a painkiller in one place before going wide",
+      "detail": "Pick one painful task (say, insurance claim follow-ups at mid-size hospitals) and become the best tool in the world for it. Being 'okay' at ten tasks in 900 hospitals is weaker than being essential at one task in 50."
+    },
+    {
+      "title": "Measure savings, then sell them",
+      "detail": "If you promise a customer 'we will save you ₹10 lakh a year', track it and show them the real number every quarter. In healthcare, banking and government, buyers check, and they talk to each other."
+    },
+    {
+      "title": "Pivots are fine; pivot debt is not",
+      "detail": "Olive pivoted around 28 times before finding product-market fit, and that is normal. The danger is never fully closing the old bets. When you pivot, shut down the old product, move the people, and say no to new side projects for a while."
+    },
+    {
+      "title": "Do not take the highest valuation by default",
+      "detail": "A slightly lower valuation with sensible investors is often safer. Your next round must be priced higher than this one. If your growth cannot clearly justify the jump, a huge price today can trap you tomorrow."
+    },
+    {
+      "title": "In health-tech, trust is the product",
+      "detail": "Hospitals, clinics and insurers in India are just as careful as those in the US with patient data and money. Under-promise, keep data safe, and let your first customers become your sales team."
+    }
+  ],
+  "quote": {
+    "text": "She is being hired at health systems and insurance companies across the country at lightning speed",
+    "who": "Sean Lane, founder and CEO of Olive",
+    "context": "Speaking about Olive's AI (which the company called 'she') when it reached a $4 billion valuation, July 2021",
+    "src": [0]
+  },
+  "afterlife": {
+    "text": "Olive did not file for bankruptcy. It sold its business units one by one: population health tools in 2022, its utilization management unit to Availity and its analytics product to BurstIQ in 2023, and finally its billing and patient access units to Waystar and its prior authorisation unit to Humata Health on 31 October 2023. Humata Health is a startup led by Olive's former president. Sean Lane and an Olive co-executive went on to start a new, much smaller company.",
+    "src": [4, 5, 6]
+  },
+  "sources": [
+    { "label": "Olive press release: $4 billion valuation with $400 million led by Vista (PR Newswire, Jul 2021)", "url": "https://prnewswire.com/news-releases/olive-hits-a-4-billion-valuation-with-400-million-of-capital-led-by-vista-equity-partners-301323850.html" },
+    { "label": "TechCrunch: Talking product-market fit with Sean Lane, whose company tore through 28 products (Mar 2021)", "url": "https://techcrunch.com/2021/03/16/talking-product-market-fit-with-sean-lane-whose-company-tore-through-28-products-to-become-a-unicorn/" },
+    { "label": "TechCrunch: How Olive pivoted 27 times on its way to a $4 billion valuation (Jun 2022)", "url": "https://techcrunch.com/2022/06/03/how-olive-pivoted-27-times-on-its-way-to-a-4-billion-valuation" },
+    { "label": "SiliconANGLE: Olive raises $400M at a $4B valuation (Jul 2021)", "url": "https://siliconangle.com/?p=551734" },
+    { "label": "Rock Health: Shaken and stirred (Olive's shutdown, Nov 2023)", "url": "https://rockhealth.com/rock-weekly/shaken-and-stirred" },
+    { "label": "HIT Consultant: Olive shutters business after sale to Waystar and Humata Health (Oct 2023)", "url": "https://hitconsultant.net/2023/10/31/olive-shutters-business-after-sale-to-waystar-and-humata-health/" },
+    { "label": "Thomas W. Dinsmore: Olivedämmerung, a detailed post-mortem citing Axios and Business Journals reporting (Nov 2023)", "url": "https://thomaswdinsmore.substack.com/p/olivedammerung" },
+    { "label": "AI Health Uncut (Sergei Polevikov): The death of Olive AI (Oct 2023)", "url": "https://www.fixhealth.ai/p/the-death-of-olive-ai" },
+    { "label": "The PhilaVerse: Healthtech unicorn Olive AI to shut down (Nov 2023)", "url": "https://philaverse.substack.com/p/healthtech-unicorn-olive-ai-to-shut" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "How much Olive's last units sold for.", "note": "Secondary reports say Waystar paid about $10M, Humata about $1.25M, and Availity $34.3M. None of these were in the official announcements we read, so endValue is left blank." },
+      { "claim": "Olive had about $30M of annual recurring revenue in early 2020.", "note": "Attributed to an Olive executive in a secondary post-mortem. Olive never published audited revenue, so we keep it out of the story." },
+      { "claim": "Total money raised.", "note": "Olive's own figure was $902M (July 2021). Other trackers give $848M to $856M depending on what is counted." },
+      { "claim": "Number of pivots: 27 or 28.", "note": "TechCrunch used 'around 28 big and small pivots' in 2021 and '27 times' in a 2022 headline. We use 'around 28'." },
+      { "claim": "Axios found Olive overstated its capabilities and mishandled data.", "note": "These are Axios's reported findings from interviews and documents, not court or regulator findings. We present them as reports." }
+    ]
+  }
+}

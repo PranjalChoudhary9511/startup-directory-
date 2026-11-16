@@ -1,0 +1,372 @@
+{
+  "slug": "rdio",
+  "name": "Rdio",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Music streaming",
+  "founded": 2010,
+  "died": 2015,
+  "status": "sold-for-parts",
+  "brandColor": "#008fd5",
+  "founders": [
+    {
+      "name": "Janus Friis",
+      "role": "Co-founder (co-founder of Skype)"
+    },
+    {
+      "name": "Niklas Zennström",
+      "role": "Co-founder (co-founder of Skype)"
+    }
+  ],
+  "epitaph": "Best app in the room. Smallest crowd in it.",
+  "oneLiner": "A beautifully designed music streaming app, like Spotify, that let you play millions of songs for a monthly fee, in dozens of countries.",
+  "causeOfDeath": "It never reached the scale needed to pay music labels, fell far behind Spotify and Apple Music, and sold its tech to Pandora out of bankruptcy.",
+  "raisedUsdM": 125,
+  "peakValuationUsdM": 500,
+  "endValueUsdM": 75,
+  "moneyNote": "TechCrunch, citing Crunchbase: at least $125M raised (possibly much more). Cumulus Media took 15% in 2013 at a $500M valuation, paid in $75M of radio advertising. Pandora paid $75M in cash for its tech and IP in 2015.",
+  "moneySrc": [
+    1
+  ],
+  "inOneMinute": [
+    "Rdio, from the founders of Skype, launched in 2010 and was often called **the best-designed music app**. It reached dozens of countries, including India.",
+    "But it **never caught up with Spotify**, never shared its user numbers, and kept changing plans: video, free tiers, a ₹60 India plan, new CEOs.",
+    "In November 2015 it filed for bankruptcy and **Pandora bought its technology for $75 million**. The app went silent on 22 December 2015."
+  ],
+  "killerLine": "**In businesses with big fixed costs, scale beats beauty.** The best design can't survive if a rival gets 10x the users first.",
+  "numbers": [
+    {
+      "value": "$500M",
+      "label": "valuation in a 2013 deal, paid in radio ads, not cash",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "6M",
+      "label": "Spotify's paying users in March 2013; Rdio never shared its own",
+      "src": [
+        4
+      ]
+    },
+    {
+      "value": "₹60",
+      "label": "monthly price of its India plan in 2015",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "$75M",
+      "label": "what Pandora paid for its technology and IP",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Skype's founders take on music",
+      "body": "Janus Friis and Niklas Zennström had already changed the world once by building Skype. On 3 August 2010 they launched Rdio, a **music streaming service**: pay a monthly fee and play millions of songs instantly, instead of buying them one by one. Think of it as JioSaavn or Spotify, early on. Rdio's big strength was design. Entertainment Weekly gave it an A in 2013, saying it had by far the best app and online interface. It was social too: you could follow friends and see what they played. Rdio had smart founders, a lovely product and a huge opportunity, as people moved from downloading music to streaming it.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "The rise: going global",
+      "body": "Rdio expanded fast, eventually reaching **more than 60 countries** by 2014. It signed partnerships with Brazil's Oi, Tesla's European cars and Google's Chromecast. In September 2013, US radio giant Cumulus Media took a 15% stake at a **$500 million valuation**, but paid with $75 million of radio advertising rather than cash. In March 2014 Rdio bought Dhingana, an Indian streaming startup with over a million songs in 42 languages, and launched in India in January 2015. Its Indian office became its **biggest outside the US**. In 2015 it offered a cheap plan in India for ₹60 a month, which it called the most inexpensive offering ever from any music streaming company there.",
+      "src": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: chasing Spotify",
+      "body": "Music streaming has a harsh rule: services must pay record labels for every song played. The **more users you have, the better deals you can strike**. Spotify was racing ahead; it had 6 million paying users by March 2013. Rdio stopped releasing user numbers. In April 2013 it launched Vdio, a video service, then shut it down that December. In November 2013 Rdio cut staff, by one report up to a third, including engineers. Its CEO stepped aside, and former Amazon executive Anthony Bay took over. Rdio added a free tier with ads in January 2014 and a $3.99 plan in 2015. Then in 2015, **Apple Music launched**, adding another giant rival.",
+      "src": [
+        0,
+        2,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "title": "The fall: bankrupt and bought for parts",
+      "body": "On 16 November 2015, Rdio filed for bankruptcy. On the same day, Pandora agreed to pay **$75 million in cash** for its technology and intellectual property, plus jobs for many staff. Pandora did not take Rdio's business or its music licences. A Pandora executive explained bluntly that running Rdio would have been a drain, and that Rdio was financially challenged. Rdio said the deal reflected the state of the streaming market. On 22 December 2015, **Rdio shut down worldwide**. Users had a week to export their playlists. A company once valued at $500 million sold its parts for $75 million, the same amount Cumulus had paid in ads.",
+      "src": [
+        0,
+        1,
+        6,
+        7
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "3 Aug 2010",
+      "event": "Skype founders Janus Friis and Niklas Zennström launch Rdio",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "event": "Partners with Brazil's Oi; expands internationally",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2013",
+      "event": "Spotify reports 6 million paying users; Rdio shares no numbers",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Apr–Dec 2013",
+      "event": "Launches and then closes Vdio, a video service",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2013",
+      "event": "Cumulus takes 15% at a $500M valuation, paid in $75M of radio ads",
+      "kind": "peak",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Nov 2013",
+      "event": "Lays off staff, by some reports up to a third",
+      "kind": "crisis",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Dec 2013",
+      "event": "Ex-Amazon executive Anthony Bay becomes CEO",
+      "kind": "warning",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Mar 2014",
+      "event": "Buys Indian streaming startup Dhingana",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "event": "Launches in India; later offers a ₹60-a-month plan",
+      "kind": "peak",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "16 Nov 2015",
+      "event": "Files for bankruptcy; Pandora buys its tech and IP for $75M",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "22 Dec 2015",
+      "event": "Rdio shuts down worldwide",
+      "kind": "end",
+      "src": [
+        6
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [
+    {
+      "date": "Sep 2013",
+      "round": "Strategic stake (15%, paid in advertising)",
+      "amountUsdM": 75,
+      "valuationUsdM": 500,
+      "investors": [
+        "Cumulus Media"
+      ],
+      "src": [
+        1
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "competition",
+      "weight": 45
+    },
+    {
+      "key": "unit-economics",
+      "weight": 25
+    },
+    {
+      "key": "focus",
+      "weight": 15
+    },
+    {
+      "key": "team",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Fell behind in a scale game",
+      "explain": "Streaming services pay labels for every play, so **size wins better deals and spreads costs**. Spotify had 6 million paying users by early 2013 while Rdio stopped sharing its numbers. TechCrunch noted Rdio lacked Spotify's music-industry connections. Once behind, the gap kept widening.",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Same price as the leader",
+      "explain": "Rdio Unlimited cost **$9.99, exactly like Spotify Premium**. With no price advantage and less buzz, great design alone wasn't enough to pull people away from the market leader. Asking people to switch apps, playlists and habits needs a strong reason, like a lower price or exclusive music, and Rdio had neither.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Too many side bets",
+      "explain": "Rdio launched a **video service, Vdio, and shut it within nine months**, while also chasing car, TV and radio partnerships and new countries. Each project pulled time and money from the core job: growing paying music subscribers. Focus is a small company's biggest advantage over a giant.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Took ads instead of cash",
+      "explain": "The Cumulus deal gave a $500 million valuation, but was paid in **$75 million of radio advertising**, not money. Ads can bring users, but they don't pay record labels or salaries. A big headline valuation hid how little cash was coming in.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Layoffs and leadership change mid-race",
+      "explain": "In late 2013 Rdio cut staff, including engineers who built its apps, and changed CEO. **Losing builders while racing a faster rival** made it even harder to keep up. New leaders need time to learn, which Rdio did not have.",
+      "src": [
+        4,
+        5
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is a rival growing much faster than you in a market where size lowers costs?",
+    "Do you charge the same price as the leader without a clear reason to switch?",
+    "Have you stopped sharing user or revenue numbers because they look bad?",
+    "Are you launching side products while your core product is still losing?",
+    "Is your biggest 'investment' paid in services or ads rather than cash?"
+  ],
+  "lessons": [
+    {
+      "title": "Know if your market rewards size",
+      "detail": "If your costs (licences, content, servers) get cheaper per user as you grow, the biggest player has a huge edge. In such markets, either grow very fast or pick a niche the leader ignores."
+    },
+    {
+      "title": "Design is a feature, not a moat",
+      "detail": "A beautiful app delights users, but rivals can improve their design too. Pair great design with something harder to copy: exclusive content, a community, or a price advantage."
+    },
+    {
+      "title": "Find the market where you can lead",
+      "detail": "Rdio's India move was interesting: cheap prices, a local catalogue and a big office. Leading one big market fully can be better than trailing everywhere."
+    },
+    {
+      "title": "Read the fine print on valuations",
+      "detail": "A $500 million valuation paid in ads isn't $500 million of cash. Always ask: how much real money is arriving, and what can it pay for?"
+    },
+    {
+      "title": "Share your numbers honestly, even internally",
+      "detail": "When a company stops reporting users, it's often hiding a problem. Track and share your key numbers with your team every month, especially when they're bad."
+    }
+  ],
+  "quote": {
+    "text": "This would have been a drain for us, and [Rdio] is financially challenged",
+    "who": "Brian McAndrews, CEO of Pandora",
+    "context": "Explaining why Pandora bought only Rdio's technology, not its business, November 2015",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Pandora used Rdio's technology and some of its team to build its own on-demand service, planned for late 2016, and took on many Rdio employees. Streaming went on to become the main way the world listens to music, led by Spotify and Apple Music globally, and by apps like JioSaavn and Gaana in India, the market Rdio had bet on near the end.",
+    "src": [
+      1,
+      2,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Rdio (citing NYT, Ars Technica, Variety, Engadget, Entertainment Weekly)",
+      "url": "https://en.wikipedia.org/wiki/Rdio"
+    },
+    {
+      "label": "TechCrunch: Pandora to buy Rdio assets for $75M in cash, Rdio files Ch.11 (Nov 2015)",
+      "url": "https://techcrunch.com/2015/11/16/confirmed-pandora-buys-key-rdio-assets-for-75m-in-cash-rdio-files-ch-11-to-shut-down/"
+    },
+    {
+      "label": "TechCrunch: Rdio launches $3.99 monthly plan (May 2015)",
+      "url": "https://techcrunch.com/2015/05/13/rdio-select/"
+    },
+    {
+      "label": "TechCrunch: Rdio acquires India's troubled music streaming startup Dhingana (Mar 2014)",
+      "url": "https://techcrunch.com/2014/03/13/rdio-acquires-indias-troubled-music-streaming-startup-dhingana-to-enter-india-push-for-global-expansion/"
+    },
+    {
+      "label": "TechCrunch: Rdio lays off staff to 'improve cost structure' (Nov 2013)",
+      "url": "https://techcrunch.com/2013/11/19/rdio-lays-off-staff-to-improve-cost-structure-and-improve-business-for-the-long-term/"
+    },
+    {
+      "label": "TechCrunch: Rdio names former Amazon exec Anthony Bay its new CEO (Dec 2013)",
+      "url": "https://techcrunch.com/2013/12/03/rdio-anthonybay/"
+    },
+    {
+      "label": "Engadget: Rdio will shut down for good in one week (Dec 2015)",
+      "url": "https://www.engadget.com/2015/12/15/rdio-shutdown-december-22/"
+    },
+    {
+      "label": "Gizmodo: Rdio is being acquired by Pandora (Nov 2015)",
+      "url": "https://gizmodo.com/rdio-is-being-acquired-by-pandora-1742863433"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Rdio owed over $200 million, mostly to its founders' investment firm",
+        "note": "Widely reported from the bankruptcy filing; we could not read the filing or a primary report, so it is kept out of the story."
+      },
+      {
+        "claim": "Total raised",
+        "note": "TechCrunch cites Crunchbase for at least $125 million and notes some believed it was significantly more."
+      },
+      {
+        "claim": "Number of countries",
+        "note": "Rdio said over 60 countries in 2014; its availability page later listed 85."
+      },
+      {
+        "claim": "Size of the 2013 layoffs",
+        "note": "Rdio gave no figure; tips to TechCrunch ranged from 35 people to one-third of staff."
+      }
+    ]
+  }
+}

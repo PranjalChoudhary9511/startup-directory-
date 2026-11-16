@@ -1,0 +1,414 @@
+{
+  "slug": "shuttl",
+  "name": "Shuttl",
+  "region": "india",
+  "country": "India",
+  "city": "Gurugram",
+  "sector": "Office commute buses",
+  "founded": 2015,
+  "died": 2021,
+  "status": "sold-for-parts",
+  "brandColor": "#0bb07b",
+  "founders": [
+    {
+      "name": "Amit Singh",
+      "role": "Co-founder, CEO"
+    },
+    {
+      "name": "Deepanshu Malviya",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Got everyone to the office. Then the office closed.",
+  "oneLiner": "An app to book a guaranteed seat on air-conditioned office buses, with fixed routes, pick-up points and safety features.",
+  "causeOfDeath": "Its entire business was the daily office commute. Covid and work-from-home wiped out riders, and it wound down before being sold to Chalo.",
+  "raisedUsdM": 90,
+  "peakValuationUsdM": 215,
+  "endValueUsdM": null,
+  "moneyNote": "About $90M raised in equity and debt, per Entrackr (TechCrunch cites Tracxn at over $97M). Peak valuation about ₹1,523 crore (~$215M) in early 2020, per Entrackr. Chalo's 2021 all-cash purchase price was not disclosed.",
+  "moneySrc": [
+    4,
+    5,
+    7,
+    3
+  ],
+  "inOneMinute": [
+    "Shuttl ran **app-booked office buses**: a reserved seat, a fixed stop, a panic button. Over 40% of riders were women.",
+    "By late 2019 it had **2,000 buses, 100,000 rides a day** and over ₹100 crore of revenue.",
+    "Then Covid sent offices home. Riders vanished, it **wound down in June 2021**, and Chalo bought what was left."
+  ],
+  "killerLine": "If your whole business rides on one habit, **plan for the day that habit stops**, even if it seems unthinkable.",
+  "numbers": [
+    {
+      "value": "100K",
+      "label": "rides a day in late 2019, on about 2,000 buses",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "₹100 cr+",
+      "label": "revenue in FY19, more than double the year before",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "value": "40%+",
+      "label": "of passengers were women",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "value": "~$215 mn",
+      "label": "valuation in early 2020, weeks before the lockdown",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a seat you can count on",
+      "body": "Getting to work in Delhi-NCR can mean packed buses, expensive cabs or long waits. In 2015 Amit Singh and Deepanshu Malviya started Shuttl in Gurugram to offer a middle option: **book a seat on an air-conditioned bus through an app**, board at a fixed stop and ride to the office. You had to book in advance, so every seat was guaranteed. Shuttl put real work into safety. Drivers had to take an alcohol test before each trip, and a panic button would slow the bus and stop it at the next stop. More than **40% of riders were women**, in a country where women are about 20% of the workforce. It won the Ashden Award for sustainable transport in 2018.",
+      "src": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "title": "The rise: slow, steady, real",
+      "body": "Shuttl grew carefully. It raised $20 million in 2015 and an $11 million Series B in July 2018, led by **Amazon India**. That year it ran 800 buses and 45,000 rides a day in five cities. By June 2019 it had 1,300 buses and 65,000 daily riders. By November 2019, about **2,000 buses and over 100,000 rides a day** in six cities. Revenue in the year to March 2019 crossed ₹100 crore, more than double the year before. Singh explained why buses grow slower than cabs: you must design routes, pick stops and train drivers. \"This model does not exist anywhere,\" he said. In late 2019 and early 2020 it raised more, including from Toyota's trading arm.",
+      "src": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the commute disappears",
+      "body": "In January 2020 Shuttl's valuation reached about **₹1,500 crore (around $215 million)**. Two months later, India went into lockdown. Offices closed and companies moved to work-from-home. A business built entirely on the daily office trip suddenly had almost no trips. In March 2020 Shuttl laid off more than 40 people and cut salaries across teams. It expanded its stock option pool to keep staff who had taken pay cuts. Some routes, like Delhi to Dwarka, restarted by June 2020. But the company was waiting for something it could not control: **offices reopening**. Sources expected that by December 2020. Then came the second wave.",
+      "src": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "title": "The fall: winding down, then a buyer",
+      "body": "In June 2021, Entrackr reported that Shuttl had **started shutting down operations and laid off most of its employees**, possibly more than 100 people. Singh said on Twitter that the company would \"join forces with another entity\" and offered laid-off staff 3 to 6 months of severance pay, a decent move in a hard moment. In October 2021, **Chalo, a bus-ticketing and tracking startup, bought Shuttl** in an all-cash deal. The price was not disclosed. TechCrunch noted Shuttl had struggled to raise new money. Chalo's founder said, \"I wish the pandemic had not happened\", and kept the Shuttl brand and team. Shuttl was the second organised office-shuttle company to fold, after ZipGo in 2019.",
+      "src": [
+        3,
+        5,
+        7
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Shuttl launches office buses in Delhi-NCR",
+      "kind": "start",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "event": "Raises a $20 million Series A, eight months after launch",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2018",
+      "event": "Wins the Ashden Award for sustainable mobility in London",
+      "kind": "peak",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jul 2018",
+      "event": "$11M Series B led by Amazon India; 800 buses, 45,000 rides a day",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "FY19",
+      "event": "Revenue crosses ₹100 crore, up 123%",
+      "kind": "peak",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "event": "Raises $36M Series C (Toyota Tsusho, SPARX); about 2,000 buses and 100,000 daily rides",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jan–Feb 2020",
+      "event": "More Series C money; valuation reaches about ₹1,523 crore (~$215M)",
+      "kind": "peak",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Mar 2020",
+      "event": "National lockdown; Shuttl lays off 40+ staff and cuts salaries",
+      "kind": "crisis",
+      "src": [
+        5,
+        7
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "event": "Starts winding down operations and lays off most staff; explores a merger",
+      "kind": "end",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "event": "Chalo buys Shuttl in an all-cash deal; price not disclosed",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Daily rides",
+      "unit": "thousand rides per day",
+      "kind": "line",
+      "labels": [
+        "Jul 2018",
+        "Jun 2019",
+        "Nov 2019"
+      ],
+      "series": [
+        {
+          "name": "Rides per day (company figures)",
+          "values": [
+            45,
+            65,
+            100
+          ]
+        }
+      ],
+      "takeaway": "Shuttl was growing fast right up to early 2020. It wasn't a bad business; it was a business with a single point of failure.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Dec 2015",
+      "round": "Series A",
+      "amountUsdM": 20,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2018",
+      "round": "Series B",
+      "amountUsdM": 11,
+      "valuationUsdM": null,
+      "investors": [
+        "Amazon India",
+        "Amazon Alexa Fund",
+        "Dentsu Ventures",
+        "Sequoia Capital",
+        "Times Internet",
+        "Lightspeed Ventures"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "round": "Series C",
+      "amountUsdM": 36,
+      "valuationUsdM": null,
+      "investors": [
+        "Toyota Tsusho",
+        "SPARX Group (Mirai Creation Fund II)"
+      ],
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Jan–Feb 2020",
+      "round": "Series C (extension)",
+      "amountUsdM": null,
+      "valuationUsdM": 215,
+      "investors": [
+        "SIG Global India Fund",
+        "Sojitz Corporation",
+        "Compound Partners"
+      ],
+      "src": [
+        4
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "timing",
+      "weight": 55
+    },
+    {
+      "key": "funding-dried",
+      "weight": 25
+    },
+    {
+      "key": "business-model",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "One customer habit, one point of failure",
+      "explain": "Shuttl served **one trip: home to office and back**. That focus helped it grow, but when work-from-home arrived, almost all of its demand vanished at once. It had no second product, like school runs, inter-city trips or delivery, big enough to carry the company through.",
+      "src": [
+        5,
+        3
+      ]
+    },
+    {
+      "title": "A slow, costly model to scale",
+      "explain": "Singh himself explained that every route needs planning, stops, trained drivers and convinced riders. After four years it had about 2,000 buses. **Slow-to-scale businesses need lots of cash for a long time**, and Shuttl raised about $90 million over six years, much less than ride-hailing rivals.",
+      "src": [
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "title": "Waiting for a reopening it couldn't control",
+      "explain": "Through 2020, plans assumed **offices would reopen by December**. They didn't, and the second wave hit in 2021. A plan tied to a date outside your control can drain cash month after month. Deeper hibernation early, or a faster pivot, might have preserved more value.",
+      "src": [
+        7
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does almost all our revenue come from one customer habit or one type of trip?",
+    "Would a single outside event (a lockdown, a new law, a fuel price shock) cut our demand by more than half?",
+    "Does our plan to recover depend on a date we cannot control?",
+    "Is our model so slow to scale that we need years of funding before it works?",
+    "Have similar companies in our space already shut down?"
+  ],
+  "lessons": [
+    {
+      "title": "List your 'impossible' risks",
+      "detail": "Write down five things that would kill your business overnight, even if they seem unlikely. For each, decide one cheap step you can take now, like a cash buffer or a small second product."
+    },
+    {
+      "title": "Build a second use for your assets",
+      "detail": "Shuttl had buses, drivers and an app. The same assets could serve other trips or deliveries. Test a second use early, in good times, so it's ready if your main market stops."
+    },
+    {
+      "title": "Cut deep, cut once",
+      "detail": "In a crisis, plan for the worst-case length, not the hopeful one. One firm cut early hurts less than many small cuts while waiting for good news."
+    },
+    {
+      "title": "Slow models need patient money",
+      "detail": "If your business needs years to scale, raise from investors who expect that, and keep 18–24 months of cash in the bank."
+    },
+    {
+      "title": "Treat people well on the way down",
+      "detail": "Shuttl offered 3–6 months of severance when it wound down. How you treat your team at the end shapes your reputation for your next company."
+    }
+  ],
+  "quote": {
+    "text": "In our case, we have to prove everything. This model does not exist anywhere.",
+    "who": "Amit Singh, co-founder and CEO of Shuttl",
+    "context": "Explaining to TechCrunch in June 2019 why bus routes grow slower than cab services.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "Chalo bought Shuttl in October 2021, kept the brand and said the whole remaining team, including early executives, would stay. Amit Singh agreed to continue with the combined company. Chalo's founder said the deal brought together two companies with a similar focus on making bus travel better in India, where there are only about three buses for every 10,000 people.",
+    "src": [
+      3
+    ]
+  },
+  "sources": [
+    {
+      "label": "TechCrunch: Shuttl gets $11M Series B from investors including Amazon India (Jul 2018)",
+      "url": "https://techcrunch.com/2018/07/30/bus-sharing-app-shuttl-gets-11m-series-b-from-investors-including-amazon-india/"
+    },
+    {
+      "label": "TechCrunch: Shuttl is winning over office workers in India with safer bus commute (Jun 2019)",
+      "url": "https://techcrunch.com/2019/06/28/india-shuttl/"
+    },
+    {
+      "label": "TechCrunch: India's Shuttl raises $36M to expand its app-based bus aggregator (Nov 2019)",
+      "url": "https://techcrunch.com/2019/11/25/shuttl-india-bus-aggregator/"
+    },
+    {
+      "label": "TechCrunch: India's Chalo acquires Amazon-backed bus aggregator Shuttl (Oct 2021)",
+      "url": "https://techcrunch.com/2021/10/26/chalo-acquires-amazon-backed-bus-aggregator-shuttl/"
+    },
+    {
+      "label": "Entrackr: Shuttl raises ₹24 Cr more in Series C; valuation ~₹1,523 Cr (Feb 2020)",
+      "url": "https://entrackr.com/2020/02/shuttl-secures-rs-23-87-cr-funding-round/"
+    },
+    {
+      "label": "Entrackr: Shuttl likely to wind up operations; explores M&A (Jun 2021)",
+      "url": "https://entrackr.com/2021/06/shuttl-likely-to-wind-up-operations-explores-ma-opportunities/"
+    },
+    {
+      "label": "Wikipedia: Shuttl",
+      "url": "https://en.wikipedia.org/wiki/Shuttl"
+    },
+    {
+      "label": "Entrackr: Amidst the pandemic, Shuttl expands its ESOP pool (Sep 2020)",
+      "url": "https://entrackr.com/2020/09/amidst-dealing-pandemic-shuttl-expands-its-esop-pool/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total funding ($90M vs $97M).",
+        "note": "Entrackr says about $90M in equity and debt; TechCrunch cites Tracxn at over $97M."
+      },
+      {
+        "claim": "Shuttl's losses.",
+        "note": "No loss figures were public in the sources we read, so no revenue-vs-loss chart is shown."
+      },
+      {
+        "claim": "Shuttl 'shut down'.",
+        "note": "It wound down most operations and laid off most staff in June 2021, then was bought by Chalo, which kept the brand. We class it as sold for parts, not a full closure."
+      }
+    ]
+  }
+}

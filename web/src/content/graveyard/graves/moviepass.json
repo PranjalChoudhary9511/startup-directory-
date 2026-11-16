@@ -1,0 +1,415 @@
+{
+  "slug": "moviepass",
+  "name": "MoviePass",
+  "region": "global",
+  "country": "United States",
+  "city": "New York",
+  "sector": "Movie ticket subscription",
+  "founded": 2011,
+  "died": 2019,
+  "status": "bankrupt",
+  "brandColor": "#e5202e",
+  "founders": [
+    {
+      "name": "Stacy Spikes",
+      "role": "Co-founder and first CEO"
+    },
+    {
+      "name": "Hamet Watt",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "A movie a day for $9.95. The sequel was bankruptcy.",
+  "oneLiner": "A monthly subscription that let you see movies in theatres; famous for its 2017 'one movie a day for $9.95' plan.",
+  "causeOfDeath": "It paid theatres full price for every ticket while charging users $9.95 a month, losing tens of millions monthly; its parent ran out of money.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Total money put in was never cleanly published; most came from parent company Helios and Matheson, a listed firm. Its filings showed cash deficits of $25M–$45M a month in 2018.",
+  "moneySrc": [
+    7,
+    0
+  ],
+  "inOneMinute": [
+    "In 2017 a new owner cut MoviePass to **$9.95 a month for a movie every day**, while MoviePass still paid theatres the full ticket price.",
+    "Subscribers rocketed **from 400,000 to over 3 million** in under a year, and so did losses: about $40 million in May 2018 alone.",
+    "It rationed the service, blocked heavy users and shut in 2019. Its parent's ex-CEO later **pleaded guilty to securities fraud** over the plan."
+  ],
+  "killerLine": "**Growth you pay for with every sale is not growth, it's a bonfire.** Check what each new customer costs you before celebrating.",
+  "numbers": [
+    {
+      "value": "$9.95",
+      "label": "monthly price for a movie a day",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "value": "3M+",
+      "label": "subscribers at the peak, June 2018",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "~$40M",
+      "label": "cash deficit in May 2018 alone",
+      "src": [
+        7
+      ]
+    },
+    {
+      "value": "225,000",
+      "label": "subscribers left by April 2019",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Netflix for cinema halls",
+      "body": "Stacy Spikes and Hamet Watt launched MoviePass in 2011 in San Francisco. The idea was simple: pay a monthly fee and see films in real theatres. MoviePass gave you a **prepaid debit card**, and it paid the cinema the full ticket price each time you went. Early plans cost about **$30 to $40 a month**, which made the maths roughly work. Growth was slow: by December 2016 it had about 20,000 subscribers. In June 2016, Mitch Lowe, a former executive at Netflix and Redbox, became CEO. The founders deserve credit for a real insight: cinema-going is a habit, and a subscription could help people go more often.",
+      "src": [
+        0,
+        6,
+        8
+      ]
+    },
+    {
+      "title": "The rise: a deal too good to be true",
+      "body": "In August 2017, a listed data company called Helios and Matheson bought a majority stake and **cut the price to $9.95 a month for one movie every day**. Customers rushed in. MoviePass went from about **400,000 subscribers in September 2017 to over 3 million by June 2018**. It even claimed to account for a big share of some films' opening weekends. Spikes later said he was fired within about five months of the deal, after raising concerns about the $10 price: \"When they came in with the idea that they know better, they fired me.\" Helios told investors the plan could pay off, partly through making money from subscriber data.",
+      "src": [
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: paying full price, charging a fraction",
+      "body": "The problem was arithmetic. If a user saw just one movie a month, MoviePass might break even. A second film meant a loss. Heavy users meant big losses. Helios's own filings showed an average **cash deficit of about $25 million a month** from September 2017 to May 2018, then about **$40 million in May 2018** alone, with at least $45 million expected in June. In July 2018 the service went down, and the company borrowed $5 million to keep going. MoviePass began rationing: in August 2018 it limited users to **three movies a month**. The FTC later said it also reset passwords and demanded ticket photos to block heavy users.",
+      "src": [
+        0,
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "title": "The fall: credits roll",
+      "body": "Users who had joined for 'a movie a day' felt cheated, and they left. By April 2019, paying subscribers had fallen **more than 90%, to about 225,000**. A data breach exposing card numbers came in August 2019. On 13 September 2019, MoviePass announced it would shut down the next day, saying efforts to raise new money \"have not been successful to date.\" Helios filed for Chapter 7 bankruptcy (closing and selling everything) in January 2020. Years later, US prosecutors said the $9.95 plan was **\"a money-losing gimmick\"** used to pump Helios's share price. In January 2025, former Helios CEO Ted Farnsworth pleaded guilty to securities fraud.",
+      "src": [
+        0,
+        1,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Jun 2011",
+      "event": "Stacy Spikes and Hamet Watt launch MoviePass in beta",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2016",
+      "event": "Ex-Netflix executive Mitch Lowe becomes CEO",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2017",
+      "event": "Helios and Matheson takes control; price cut to $9.95 a month",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Late 2017",
+      "event": "Co-founder Stacy Spikes fired after questioning the price",
+      "kind": "warning",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "May 2018",
+      "event": "Cash deficit of about $40M in a single month",
+      "kind": "warning",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "Jun 2018",
+      "event": "Over 3 million subscribers",
+      "kind": "peak",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jul 2018",
+      "event": "Service outage; company borrows $5M to keep running",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2018",
+      "event": "Plan limited to three movies a month",
+      "kind": "crisis",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Apr 2019",
+      "event": "Subscribers down to about 225,000",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "14 Sep 2019",
+      "event": "MoviePass shuts down",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "event": "Parent Helios and Matheson files for Chapter 7 bankruptcy",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jan 2025",
+      "event": "Ex-Helios CEO Ted Farnsworth pleads guilty to securities fraud",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "MoviePass subscribers",
+      "unit": "million subscribers",
+      "kind": "line",
+      "labels": [
+        "Dec 2016",
+        "Sep 2017",
+        "Jun 2018",
+        "Apr 2019"
+      ],
+      "series": [
+        {
+          "name": "Subscribers",
+          "values": [
+            0.02,
+            0.4,
+            3,
+            0.225
+          ]
+        }
+      ],
+      "takeaway": "A too-cheap price made users flood in, and rationing made them flood out. Growth bought with losses doesn't last.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Monthly cash deficit, 2018",
+      "unit": "$ millions per month",
+      "kind": "bar",
+      "labels": [
+        "Avg Sep 2017–May 2018",
+        "May 2018",
+        "Jun 2018 (forecast)"
+      ],
+      "series": [
+        {
+          "name": "Cash deficit",
+          "values": [
+            25,
+            40,
+            45
+          ]
+        }
+      ],
+      "takeaway": "The more people subscribed, the faster MoviePass lost money. Every new customer made the hole deeper.",
+      "src": [
+        7
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 45
+    },
+    {
+      "key": "fraud",
+      "weight": 25
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "governance",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Sold each unit below its cost",
+      "explain": "MoviePass paid full price for every ticket but charged $9.95 a month for up to 30 films. **Every extra movie a user saw was an extra loss.** That is negative unit economics (losing money on each customer). No amount of growth can fix a product that loses more the more it's used.",
+      "src": [
+        0,
+        7
+      ]
+    },
+    {
+      "title": "Hoped data would pay the bills",
+      "explain": "Helios told investors it could make money from subscriber data and other side revenue. Prosecutors later said **Farnsworth knew the company lacked those capabilities** and had no such revenue streams. A business plan that depends on future, unproven income is a gamble, and here it was also misleading.",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Fired the founder who warned them",
+      "explain": "Co-founder Stacy Spikes says he was fired within months after raising concerns about the $10 price. **Removing the person who knew the business best**, for disagreeing, took away the strongest check on a risky plan. Founders are not always right, but their warnings deserve a hearing.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "Broke promises to customers",
+      "explain": "To cut losses, MoviePass reset passwords, demanded ticket-stub photos and set hidden 'trip wires' to block heavy users, the FTC said. **Customers who paid for a service were quietly denied it.** That destroyed trust and later led to an FTC settlement.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Do you lose money every time a customer actually uses your product?",
+    "Does your plan to become profitable depend on a revenue source you don't have yet?",
+    "Are you growing faster after cutting your price below your cost?",
+    "Are you quietly making your product harder to use so customers use it less?",
+    "Have people who questioned the numbers been pushed out?"
+  ],
+  "lessons": [
+    {
+      "title": "Do the per-customer maths first",
+      "detail": "Before any discount, calculate: price minus cost per use times average uses. If heavy users lose you money, cap usage openly or price higher."
+    },
+    {
+      "title": "Be careful with 'unlimited'",
+      "detail": "Unlimited plans attract your heaviest users first. Only offer them if your cost per use is close to zero, like software, not cinema tickets."
+    },
+    {
+      "title": "Don't change the deal behind customers' backs",
+      "detail": "If you must change a plan, say so clearly and let people cancel. Hidden limits turn fans into angry critics and can bring regulators."
+    },
+    {
+      "title": "Listen to the people who built the business",
+      "detail": "New investors or owners bring money, but the founder often knows where the traps are. Disagreement is a signal to slow down, not to fire someone."
+    },
+    {
+      "title": "Never tell investors a story you can't back",
+      "detail": "Claims about data, AI or future revenue must be true today. Exaggerating to raise money can end in court, as it did here."
+    }
+  ],
+  "quote": {
+    "text": "When they came in with the idea that they know better, they fired me.",
+    "who": "Stacy Spikes, MoviePass co-founder",
+    "context": "Interview with TechCrunch in November 2021, after buying the brand back",
+    "src": [
+      6
+    ]
+  },
+  "afterlife": {
+    "text": "In June 2021 the FTC settled with MoviePass, Helios and executives Mitch Lowe and Ted Farnsworth over blocking paying users and weak data security. In September 2022 the SEC sued Lowe and Farnsworth, who disputed its claims. In January 2025 Farnsworth pleaded guilty to securities fraud. Co-founder Stacy Spikes bought the brand back out of bankruptcy in November 2021 and relaunched MoviePass in 2022 with capped plans at $10, $20 and $30 a month.",
+    "src": [
+      2,
+      4,
+      5,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: MoviePass, for subscriber milestones and dates (citing Variety, NYT, Business Insider)",
+      "url": "https://en.wikipedia.org/wiki/MoviePass"
+    },
+    {
+      "label": "CNBC: MoviePass will shut down for good on Sept. 14 (Sep 2019)",
+      "url": "https://www.cnbc.com/2019/09/13/moviepass-will-shut-down-for-good-on-sept-14.html"
+    },
+    {
+      "label": "FTC press release: Operators of MoviePass agree to settle FTC allegations (Jun 2021)",
+      "url": "https://www.ftc.gov/news-events/press-releases/2021/06/operators-moviepass-subscription-service-agree-settle-ftc"
+    },
+    {
+      "label": "TechCrunch: MoviePass keeps plan at $10 but limits subscribers to three movies a month (Aug 2018)",
+      "url": "https://techcrunch.com/2018/08/06/moviepass-keeps-plan-at-10-but-limits-subscribers-to-three-movies-a-month/"
+    },
+    {
+      "label": "TechCrunch: Former CEO of MoviePass' parent company pleads guilty to fraud (Jan 2025)",
+      "url": "https://techcrunch.com/2025/01/08/former-ceo-of-moviepass-parent-company-pleads-guilty-to-fraud-over-unlimited-plan/"
+    },
+    {
+      "label": "TechCrunch: Former MoviePass execs sued by the SEC (Sep 2022)",
+      "url": "https://techcrunch.com/2022/09/27/former-moviepass-execs-are-being-sued-by-the-sec-for-lying-to-customers/"
+    },
+    {
+      "label": "TechCrunch: Why MoviePass' co-founder bought back the brand (Nov 2021)",
+      "url": "https://techcrunch.com/2021/11/12/why-moviepass-co-founder-bought-back-the-brand/"
+    },
+    {
+      "label": "BGR via Yahoo Finance: MoviePass is losing money faster than ever (Jun 2018, citing Helios SEC filing)",
+      "url": "https://finance.yahoo.com/news/moviepass-losing-money-faster-ever-194354632.html"
+    },
+    {
+      "label": "CNBC: MoviePass resurrection will face old problems and new rivals (Nov 2021)",
+      "url": "https://www.cnbc.com/2021/11/13/moviepass-resurrection-will-face-old-problems-and-new-rivals.html"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Mitch Lowe committed fraud",
+        "note": "The SEC sued Lowe in 2022; his lawyers disputed its characterisation. We report only Farnsworth's guilty plea as a finding."
+      },
+      {
+        "claim": "MoviePass drove 25–40% of some films' opening weekends",
+        "note": "MoviePass's own claim in June 2018; not independently verified."
+      },
+      {
+        "claim": "Subscriber counts",
+        "note": "These are company-reported figures; no independent subscriber count was published."
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "frontrow",
+  "name": "FrontRow",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Edtech (hobby learning)",
+  "founded": 2020,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#ff4f4f",
+  "founders": [
+    { "name": "Ishaan Preet Singh", "role": "Co-founder" },
+    { "name": "Mikhil Raj", "role": "Co-founder" },
+    { "name": "Shubhadit Sharma", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Famous teachers. Too few repeat students.",
+  "oneLiner": "Paid online courses in rap, singing, comedy, cricket and gaming, taught by Indian celebrities. A 'MasterClass for India'.",
+  "causeOfDeath": "Hobby learning was a far smaller market than it looked in lockdown, and it spent heavily on growth before learners proved they would stay.",
+
+  "raisedUsdM": 17.2,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: $3.2 M seed (Nov 2020) plus $14 M Series A (Sep 2021), both reported in dollars by Inc42; TechCrunch rounded the total to about $18 M. No valuation was ever published. No sale price: the company closed and reportedly returned about $2.5 M of unused money to investors. FY21 rupee figures are in ₹ crore; at roughly ₹74 per dollar, ₹1.4 crore of sales is about $0.19 M.",
+  "moneySrc": [5, 6, 2, 7],
+
+  "inOneMinute": [
+    "Celebrities like Neha Kakkar, Divine and Suresh Raina taught ₹500 courses. The launch **went viral**, and FrontRow raised **$17 million** in under a year.",
+    "Then revenue stopped growing. **Marketing cost more than 100% of revenue**, few learners finished courses, and the team shrank from about 500 to about 35.",
+    "With **three years of cash still left**, the founders chose to shut down in June 2023 and **return unused money** to investors."
+  ],
+  "killerLine": "A viral launch is not product-market fit. **Prove people come back before you pay to bring more in.**",
+
+  "numbers": [
+    { "value": "$17.2 M", "label": "raised in two rounds in its first 10 months ($3.2 M seed + $14 M Series A)", "src": [5, 6] },
+    { "value": ">100%", "label": "marketing cost as a share of revenue, in the founder's own post-mortem", "src": [0] },
+    { "value": "500 → ~35", "label": "team size, from May 2022 to November 2022, after two rounds of layoffs", "src": [3, 2] },
+    { "value": "~$2.5 M", "label": "reportedly handed back to investors when it closed, instead of being burned", "src": [7] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Ishaan Preet Singh, an IIT Delhi graduate who had worked as an investor at Lightspeed, started FrontRow in Bengaluru in 2020 with Mikhil Raj and Shubhadit Sharma. The pitch was easy to love: **learn rap from Divine, singing from Neha Kakkar, cricket from Suresh Raina** and comedy from Biswa Kalyan Rath. Think of it as MasterClass, the American celebrity-course app, built for India. It launched on 12 November 2020 with a **$3.2 million seed round** from Lightspeed, Elevation Capital and Deepika Padukone's family office. A recorded course cost about ₹500, paid once. \"We launched Front Row with a simple core belief – pursuing your passion is a fundamental human need,\" Singh said. In lockdown, with everyone stuck at home, that belief looked obviously true.",
+      "src": [5, 6, 8]
+    },
+    {
+      "title": "The rise",
+      "body": "Singh later wrote that the launch **went better than anything they had expected**. There were site crashes, viral reviews, inbound calls from investors, even what he called an \"absurdly high\" acquisition offer. In September 2021, nine months after launch, FrontRow raised a **$14 million Series A** led by Eight Roads Ventures and GSV. Angels included CRED's Kunal Shah, Unacademy's Gaurav Munjal, singer Vishal Dadlani and rapper Raftaar. It claimed **50,000+ paid learners in 2,000+ cities** and planned 300+ courses by 2022. TechCrunch later reported that annualised revenue (yearly revenue pace) reached **$3–4 million**. The team grew to about 500 people, with a large sales force. Singh admitted the good times lasted about six months.",
+      "src": [0, 6, 2, 3]
+    },
+    {
+      "title": "The cracks",
+      "body": "After the first burst, **annualised revenue plateaued**. Marketing costs grew to **more than 100% of revenue**, so every new rupee of sales cost more than a rupee to win. Course completion stayed below average, and Singh said FrontRow never reached the retention numbers that show real product-market fit (proof that people need it and keep using it). The early accounts already showed the gap: in FY21 it had ₹1.4 crore of sales against ₹9.25 crore of expenses. After the Series A, the team went into what Singh called \"all-out growth mode\". When growth stalled, it kept adding features: gamification, competitions, WhatsApp groups, open mics, chat and events. Meanwhile **schools and offices reopened**, and people had less spare time for hobbies.",
+      "src": [0, 3, 1]
+    },
+    {
+      "title": "The fall",
+      "body": "On 27 May 2022, FrontRow laid off **145 of about 500 staff**, more than 100 of them in sales, with no severance. Singh said the cut left \"over 24 months of runway\". In October 2022 another 125–130 people went. Singh explained that a sales and marketing-led approach \"didn't work with our current delivery model\". By November about **35 people** were running three or four experiments, such as career courses for adults and offline classes for kids. FrontRow even reached breakeven at about $1.5 million ARR. But Singh concluded it was **not venture-scalable**. Unusually, it **still had over three years of runway** when it shut down in June 2023. It was reported to be returning about $2.5 million of unused money to investors.",
+      "src": [3, 4, 2, 0, 7]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Nov 2020", "event": "Launches with a $3.2 M seed from Lightspeed, Elevation Capital and Deepika Padukone's family office.", "kind": "start", "src": [5] },
+    { "date": "FY21", "event": "Sales of ₹1.4 crore against expenses of ₹9.25 crore; loss of ₹6.6 crore.", "kind": "warning", "src": [3] },
+    { "date": "Sep 2021", "event": "Raises a $14 M Series A led by Eight Roads Ventures and GSV; claims 50,000+ paid learners.", "kind": "peak", "src": [6] },
+    { "date": "May 2022", "event": "Lays off 145 of about 500 staff, mostly in sales, with no severance.", "kind": "crisis", "src": [3] },
+    { "date": "Oct 2022", "event": "Cuts another 125–130 people; 40–50 remain.", "kind": "crisis", "src": [4] },
+    { "date": "Nov 2022", "event": "Goes back to seed-stage mode with about 35 people testing three or four new ideas.", "kind": "warning", "src": [2] },
+    { "date": "Jun 2023", "event": "Shuts down operations, with over three years of runway still in the bank.", "kind": "end", "src": [1, 2] },
+    { "date": "Jul 2023", "event": "Reported to be returning about $2.5 M of unused capital to investors.", "kind": "after", "src": [7] },
+    { "date": "May 2024", "event": "Ishaan Preet Singh rejoins Lightspeed India as an early-stage investor.", "kind": "after", "src": [8] }
+  ],
+
+  "charts": [
+    {
+      "title": "Team size",
+      "unit": "employees",
+      "kind": "line",
+      "labels": ["May 2022", "Nov 2022", "Jul 2023"],
+      "series": [{ "name": "Employees", "values": [500, 35, 0] }],
+      "takeaway": "Within six months of its first layoff, FrontRow had cut about 93% of its team.",
+      "src": [3, 2, 1]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Nov 2020", "round": "Seed", "amountUsdM": 3.2, "valuationUsdM": null, "investors": ["Lightspeed", "Elevation Capital", "Deepika Padukone's family office"], "src": [5] },
+    { "date": "Sep 2021", "round": "Series A", "amountUsdM": 14, "valuationUsdM": null, "investors": ["Eight Roads Ventures", "GSV", "Lightspeed", "Elevation Capital", "Kunal Shah", "Gaurav Munjal", "Vishal Dadlani", "Raftaar"], "src": [6] }
+  ],
+
+  "causes": [
+    { "key": "no-market", "weight": 45 },
+    { "key": "unit-economics", "weight": 25 },
+    { "key": "burn", "weight": 20 },
+    { "key": "timing", "weight": 10 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Scaling up before learners proved they would stay",
+      "explain": "After the Series A, Singh said the team had \"blinders on\" and went all-out for growth, hoping margins would improve later. It built a big sales team, and **marketing ended up costing more than 100% of revenue**. His own lesson: blitzscaling (growing at any cost) only works with **huge demand or profitable unit economics**. FrontRow had neither.",
+      "src": [0, 3]
+    },
+    {
+      "title": "Reading a lockdown spike as a lasting market",
+      "explain": "Site crashes, viral reviews and investor calls felt like proof. But that burst lasted about six months, then **revenue plateaued**. Hobby courses suited people stuck at home. When **schools and offices reopened**, spare time vanished. Singh later concluded the hobby-learning market was much smaller than the team believed.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "A buy-once product with a pay-every-time marketing bill",
+      "explain": "A recorded course cost about ₹500, paid once. That means every sale needs a new customer, and each new customer costs ads or sales calls. With **course completion below average**, few learners came back for a second course. **A one-time price cannot carry a repeating marketing cost.**",
+      "src": [6, 0]
+    },
+    {
+      "title": "Adding features instead of fixing the core",
+      "explain": "When numbers stalled, FrontRow added gamification, competitions, WhatsApp groups, open mics, chat and events. Singh later said this was **throwing features at the problem** instead of building one strong core product. He also said the first pilot took about **three times longer** to ship than it should have.",
+      "src": [0]
+    },
+    {
+      "title": "Holding on to the plan six months too long",
+      "explain": "Singh admitted he took about **six more months** than he should have to accept the product was not the right answer, partly because he focused on **external metrics** and fundraising. To be fair, he then did something rare: he cut early, kept a cushion, and **returned unused money** instead of burning it.",
+      "src": [0, 7]
+    }
+  ],
+
+  "warningSigns": [
+    "Does it cost you more to win a customer than that customer pays you?",
+    "Do most of your customers buy once and never come back?",
+    "Are you hiring a big sales team before you know why customers stay?",
+    "Is your best growth story a launch spike from months ago?",
+    "When numbers stall, is your first idea to add a feature rather than fix the main one?",
+    "Would demand drop if a temporary situation (a lockdown, a trend, a season) ended?"
+  ],
+
+  "lessons": [
+    { "title": "Measure the second purchase, not the first", "detail": "Track how many people buy again or finish what they bought. A thousand one-time buyers is a marketing result. A hundred people who keep coming back is a business." },
+    { "title": "Set a marketing ceiling", "detail": "Decide the most you will spend to win one customer, based on what they pay you over time. If ads cost more than the sale, stop and fix the product before spending more." },
+    { "title": "Ask what happens when the situation changes", "detail": "Lockdown made hobby courses feel essential. Write down what your demand looks like when life goes back to normal, and plan for that version." },
+    { "title": "Keep a few truth-tellers close", "detail": "Singh's advice was to find a small set of people who keep you honest. Pick mentors or board members who will tell you the numbers are bad, not just cheer the headlines." },
+    { "title": "Closing well is a skill too", "detail": "FrontRow shut down with cash left and handed money back. Doing that protects your name, and Singh was back as a Lightspeed investor within a year." }
+  ],
+
+  "quote": {
+    "text": "We definitely had blinders on, and went into all-out growth mode.",
+    "who": "Ishaan Preet Singh, co-founder",
+    "context": "In his post-mortem after shutting FrontRow down, as reported by Inc42",
+    "src": [0]
+  },
+
+  "afterlife": {
+    "text": "FrontRow stopped operating in June 2023. Singh said the team was exploring a sale of its IP (content and technology) and team, and Inc42 sources said the company had reportedly decided to return about $2.5 M to investors. We found no public record of an IP sale. Singh took a year off, then in May 2024 rejoined Lightspeed India as an investor in early-stage consumer and AI startups.",
+    "src": [1, 2, 7, 8]
+  },
+
+  "sources": [
+    { "label": "Inc42: FrontRow's postmortem, founder shares learnings from raising $17 Mn to shutting down (2023)", "url": "https://inc42.com/buzz/from-raising-17-mn-to-shutdown-frontrow-founder-shares-lessons-on-building-an-edtech-startup" },
+    { "label": "Inc42: Deepika Padukone-backed FrontRow winds up operations (Jul 2023)", "url": "https://inc42.com/buzz/deepika-padukone-backed-frontrow-winds-up-operations/" },
+    { "label": "TechCrunch: FrontRow, a learning platform featuring celebrities, shuts down (Jul 2023)", "url": "https://techcrunch.com/2023/07/10/frontrow-shutdown/" },
+    { "label": "Inc42: Lightspeed-backed FrontRow lays off 145 employees to cut costs (May 2022)", "url": "https://inc42.com/buzz/exclusive-lightspeed-backed-frontrow-lays-off-145-employees-cut-cost" },
+    { "label": "Inc42: Edtech layoffs continue, FrontRow fires 75% of employees (Oct 2022)", "url": "https://inc42.com/buzz/edtech-layoffs-continue-lightspeed-backed-frontrow-fires-75-employees" },
+    { "label": "Inc42: FrontRow raises $3.2 Mn seed funding (Nov 2020)", "url": "https://inc42.com/buzz/frontrow-raises-3-2-mn-funding-plans-to-expand-courses" },
+    { "label": "Inc42: Deepika Padukone-backed FrontRow raises $14 Mn Series A (Sep 2021)", "url": "https://inc42.com/?p=264233" },
+    { "label": "IBTimes (citing Entrackr): FrontRow shuts down, considers returning $2.5M to investors (Jul 2023)", "url": "https://www.ibtimes.com/indian-celebrity-backed-startup-frontrow-shuts-down-considers-returning-25m-investors-3704446" },
+    { "label": "Inc42: FrontRow cofounder Ishan Preet Singh rejoins Lightspeed India as investor (May 2024)", "url": "https://inc42.com/buzz/frontrow-cofounder-ishan-preet-singh-rejoins-lightspeed-india-as-investor/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "FrontRow raised $18 M across three rounds.", "note": "TechCrunch and YourStory said about $18 M; Inc42 counted $17 M across two rounds ($3.2 M + $14 M). We use $17.2 M, the sum of the two rounds we could confirm." },
+      { "claim": "About $2.5 M, or about 20% of capital raised, was returned to investors.", "note": "The $2.5 M figure comes from unnamed sources speaking to Entrackr, relayed by IBTimes. Other outlets reported a co-founder saying 'about 20%' of capital was left. We could not see a final confirmation of the exact amount returned." },
+      { "claim": "FrontRow had 2 million downloads and over 250,000 paying learners.", "note": "Reported as coming from Singh's 2023 post (YourStory, Indian Startup News), but we could not read the original post. An earlier Sensor Tower figure put Android downloads at about 1.1 million. We use the 50,000+ paid learners claimed at the Series A." },
+      { "claim": "It was founded in 2019.", "note": "Inc42's 2024 article says 2019; most reports, including TechCrunch and Inc42's funding coverage, say 2020. We use 2020." },
+      { "claim": "Contribution margin was -250%.", "note": "Mentioned by Indian Startup News without a clear source. Left out of the story." }
+    ]
+  }
+}

@@ -1,0 +1,1540 @@
+{
+ "chapters": [
+  {
+   "id": "every-company",
+   "kicker": "Every venture, win or lose",
+   "title": "Every Company He Ever Started",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most people know Elon Musk for two or three companies. The real list is much longer, and it is full of dead ends. There is a city-guide start-up, an online bank that lost its own name, a plan to buy old Russian missiles, a tunnel to Chicago that never got dug, a political party that lasted about six weeks, and a seat at the table of an AI lab he later sued. This chapter goes through every one of them, wins and losses, in the order they happened.",
+     "src": [
+      0,
+      5,
+      7,
+      36,
+      57,
+      30
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Read it like a balance sheet. Each venture below shows the problem it tried to solve, why he picked it, where the first money came from, and what really happened. __The pattern that matters is not that he never failed. It is that each exit paid for the next, bigger bet.__",
+     "src": [
+      0,
+      5,
+      11
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Watch how money from one company funds the next one."
+    },
+    {
+     "t": "venture",
+     "name": "Zip2",
+     "years": "1995–1999",
+     "outcome": "sold",
+     "idea": "In the mid-1990s, newspapers had no idea how to go online. Zip2 wrote software that helped them put listings, maps and city guides on the web. Think of it as an early, newspaper-branded version of a local search and maps app.",
+     "decision": "Zip2 chose to sell to newspapers instead of going directly to readers. That meant big, slow customers, but also customers who already had local ads and trusted brands. In 1998 it nearly merged with its rival CitySearch. The deal was cancelled after about three weeks of checking each other's books, because the two sides could not agree on strategy or technology.",
+     "howStarted": "Musk started it in 1995 with his brother Kimbal and their partner Greg Kouri. Tesla's later filings list Kimbal as Zip2's co-founder from November 1995. By 1998 Zip2 had about 160 partners, mostly newspaper companies, and its investors included the New York Times Co., Knight Ridder and Hearst.",
+     "funding": "The very first money was tiny and came from the founders themselves (accounts of the exact amounts differ). The big cheque came in 1996 from the venture firm Mohr Davidow Ventures. Forbes reported in 2003 that it put in $3.6 million for majority control; later reporting says about $3 million. A 2024 Washington Post report, covered by Forbes, said the deal required the brothers to sort out their US work status within weeks; Musk denies he ever worked illegally.",
+     "whatHappened": "Compaq bought Zip2 in early 1999 for $307 million in cash, to plug it into its AltaVista search engine. Compaq's own filing puts the total cost at $340.9 million once stock options were included. Musk was 27. His 7% stake earned him about $22 million.",
+     "lesson": "Selling to businesses that already have customers can be faster than winning millions of users one by one. But giving up majority control for your first big cheque means you may not run the company you started.",
+     "src": [
+      0,
+      1,
+      2,
+      12,
+      3,
+      4
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Twenty-two million dollars at 27. He put it straight back to work."
+    },
+    {
+     "t": "p",
+     "text": "Most people would have stopped there. Musk did the opposite. Almost straight away he put a large part of the Zip2 money into a new company that wanted to replace banks. It was a far riskier idea, in a far more regulated industry.",
+     "src": [
+      0,
+      5
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "X.com, which became PayPal",
+     "years": "1999–2002",
+     "outcome": "sold",
+     "idea": "X.com started in March 1999 as an internet bank: one website for your savings, payments and investments. The most popular feature turned out to be the smallest one, sending money by email.",
+     "decision": "In March 2000 X.com merged with its neighbour and rival Confinity, which owned a payment product called PayPal. Two companies burning cash to win the same users decided to join forces. The combined company later dropped the X.com name and became PayPal.",
+     "howStarted": "X.com was incorporated in March 1999. Confinity had been set up in California in December 1998. PayPal's filings date the merger to 30 March 2000, and Sequoia Capital's Michael Moritz had joined the board in August 1999.",
+     "funding": "Musk funded the start of X.com with his own Zip2 money, then raised venture capital. PayPal's 2001 annual report shows he bought later rounds himself too, paying $2.75 a share for Series C and $3.00 for Series D preferred stock.",
+     "whatHappened": "Musk was replaced as CEO twice. He ran X.com from March to December 1999, and PayPal from May to September 2000. Peter Thiel took over in September 2000. Even so, Musk stayed on the board and stayed the biggest shareholder: 11.72% at the start of 2002. By the end of 2001, PayPal had 12.8 million accounts. It went public in February 2002, and eBay bought it later that year for about $1.5 billion in stock.",
+     "lesson": "Being pushed out as CEO is not the end of your story if you still own the shares. Musk lost the job but kept the stake, and the stake paid for everything that came next.",
+     "src": [
+      5,
+      6,
+      0
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "11.72%",
+       "label": "Musk's stake in PayPal, per its 2001 annual report (filed March 2002)",
+       "src": [
+        5
+       ]
+      },
+      {
+       "value": "12.8 million",
+       "label": "PayPal accounts at 31 Dec 2001",
+       "src": [
+        5
+       ]
+      },
+      {
+       "value": "$1.5 billion",
+       "label": "eBay's price for PayPal in 2002, paid in stock",
+       "src": [
+        6,
+        0
+       ]
+      },
+      {
+       "value": "~71%",
+       "label": "share of eBay auctions accepting PayPal at end of 2001, vs ~25% for eBay's own Billpoint",
+       "src": [
+        5
+       ]
+      }
+     ]
+    },
+    {
+     "t": "note",
+     "text": "PayPal beat eBay's own payment tool on eBay's own website."
+    },
+    {
+     "t": "venture",
+     "name": "The Mars mission and the Russian rocket hunt",
+     "years": "2001–2002",
+     "outcome": "pivoted",
+     "idea": "Musk's first space idea was not a rocket company. It was a small, privately paid mission to Mars carrying a life-support experiment.",
+     "decision": "To do it, he needed a cheap rocket. A Boeing Delta would have cost about $50 million, which he called unpalatable. So he went shopping for second-hand Russian missiles instead. When the deal fell through, he made the decision that defined his life: build the rocket himself.",
+     "howStarted": "In 2001 he went to Paris and then to Russia with his friend Adeo Ressi and the aerospace consultant Jim Cantrell. Meetings with Russian rocket officials involved a lot of vodka and very little progress. On a later trip, the price demanded went up and the Russians mocked him, according to Cantrell's account to Esquire.",
+     "funding": "His own money, from the Zip2 sale and his PayPal shares. No outside investors were involved.",
+     "whatHappened": "Musk told Forbes in 2003 that he negotiated a deal but backed out because the risks of dealing with Russian suppliers outweighed the discount. On the flight home, Cantrell said Musk told him he thought they could build a rocket themselves. That idea became SpaceX.",
+     "lesson": "A failed purchase can be the best market research you will ever do. Musk learned rockets were overpriced because nobody had rethought how they were built.",
+     "src": [
+      0,
+      7
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "SpaceX",
+     "years": "2002–today",
+     "outcome": "public",
+     "idea": "Make getting to space much cheaper by building rockets in-house and, later, landing and reusing them. SpaceX's 2003 pitch was to carry up to half a tonne to orbit for $6 million a flight. A rival rocket, Orbital's Pegasus, cost $20 million.",
+     "decision": "Instead of buying engines and parts from old aerospace suppliers, SpaceX made most of its rocket itself. Musk told Forbes the gap was obvious: there was a need for a reliable, low-cost way to get to space. His first rocket, Falcon 1, was deliberately small.",
+     "howStarted": "Space Exploration Technologies started in 2002 in El Segundo, California. Its first engineers came from TRW and Boeing. Falcon 1 launched from Omelek Island in the Kwajalein Atoll in the Pacific.",
+     "funding": "In the first years it was all Musk's money. Forbes said in 2003 he was covering the first $20 million to $40 million of costs alone and had put in tens of millions. The first big outside investment came from Founders Fund, run by his old PayPal colleagues, which put in $20 million in August 2008, just after the third launch failed.",
+     "whatHappened": "The first three Falcon 1 launches failed, in 2006, 2007 and August 2008. The fourth reached orbit on 28 September 2008, the first privately developed liquid-fuel rocket to do so. In December 2008 NASA gave SpaceX a $1.6 billion contract for 12 cargo flights to the space station. By 2025 SpaceX flew 170 missions in a single year and carried over 80% of all mass sent to orbit worldwide. In June 2026 it went public in the largest IPO in history.",
+     "lesson": "Start with the smallest product that can prove your idea. Falcon 1 was tiny, but surviving its failures taught SpaceX how to build Falcon 9.",
+     "src": [
+      0,
+      8,
+      66,
+      9,
+      10,
+      49,
+      53
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Three failed launches before the first success. Read this twice."
+    },
+    {
+     "t": "venture",
+     "name": "Tesla",
+     "years": "2004–today",
+     "outcome": "public",
+     "idea": "Prove that an electric car could be fast and desirable, not a slow box. Start with an expensive sports car, the Roadster, then use the profits and lessons to build cheaper cars for more people.",
+     "decision": "Musk did not found Tesla. Martin Eberhard and Marc Tarpenning set it up in 2003. Musk chose to back it in 2004 instead of starting his own car company, and became chairman in April 2004. He added the job of product architect in May 2008 and became CEO in October 2008, in the middle of the financial crisis.",
+     "howStarted": "Tesla began in Silicon Valley, not Detroit. For years it ran on a tiny scale: by the end of 2009 it had sold just 937 Roadsters in 18 countries and had 514 employees. From August 2009 it even paid SpaceX about $11,000 a month for building space and IT services at SpaceX's site in Hawthorne.",
+     "funding": "Musk's trust bought into round after round, including 40.8 million shares in the 2009 Series E. In late 2008 existing investors lent Tesla $40 million in secured notes. In 2009 Daimler bought a stake of nearly 10% for about $50 million. In January 2010 Tesla closed a $465 million US government loan.",
+     "whatHappened": "Tesla lost $82.8 million in 2008 and $236.4 million in total by September 2009. It went public in June 2010, repaid the government loan in 2013, survived a near-collapse during Model 3 production in 2018, and in 2020 became the world's most valuable carmaker. In 2025 it sold about 1.64 million cars, its second yearly decline in a row, and China's BYD passed it in pure electric sales.",
+     "lesson": "You do not have to be the founder to be the builder. Musk joined as an investor, took control when the company was near death, and made it his life's work.",
+     "src": [
+      12,
+      13,
+      15,
+      16,
+      18,
+      20,
+      63,
+      28
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: in 2009 and 2010 Tesla's filing shows Musk's salary set at $33,280, the California minimum for executives. But it also says he accepted only $1 a year of it.",
+     "src": [
+      12
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "SolarCity",
+     "years": "2006–2016",
+     "outcome": "merged",
+     "idea": "Make solar panels affordable by installing them on homes with little or no upfront cost, and letting customers pay over time.",
+     "decision": "Musk suggested the idea to his cousins Lyndon and Peter Rive. They ran it, and he became its founding chairman instead of the CEO.",
+     "howStarted": "SolarCity was founded in 2006. Musk had been chairman since July 2006, according to Tesla's 2010 filing.",
+     "funding": "Musk provided early capital as well as the concept. The exact first amount has not been reliably published.",
+     "whatHappened": "In 2016 Tesla bought SolarCity for about $2.6 billion. Some Tesla shareholders sued, saying Musk pushed Tesla to rescue a struggling company he had a big stake in. Tesla's other directors settled for $60 million in 2020. Musk fought the case and won in 2022, and in June 2023 the Delaware Supreme Court upheld that the price was fair.",
+     "lesson": "When one company you control buys another company you control, expect to defend it in court. Keep records that show the deal was fair.",
+     "src": [
+      25,
+      12,
+      64,
+      61,
+      24
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Hyperloop",
+     "years": "2013",
+     "outcome": "shut",
+     "idea": "A sealed low-pressure tube in which pods would carry passengers between Los Angeles and San Francisco in about 35 minutes.",
+     "decision": "Musk chose not to build it himself. He published the design as an open 'alpha' white paper in August 2013 and invited others to develop it.",
+     "howStarted": "It started as a document, not a company: a public paper released in August 2013.",
+     "funding": "Musk formed no company to build it. The paper estimated a cost of about $6 billion for a passenger-only version.",
+     "whatHappened": "Musk never built it himself, and transport experts publicly doubted the cost estimate. His later tunnel company focused on cars in tunnels instead.",
+     "lesson": "An open idea gets attention, but without an owner who is responsible for it, it rarely gets built.",
+     "src": [
+      38
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "OpenAI",
+     "years": "2015–2018",
+     "outcome": "running",
+     "idea": "A non-profit lab to develop advanced AI safely and share the benefits, as a counterweight to Google.",
+     "decision": "Musk co-founded it in December 2015 with Sam Altman and others, backed by a $1 billion pledge from a group of donors. In early 2018 he said the lab had fallen behind Google and proposed taking control and running it himself. The other founders said no.",
+     "howStarted": "OpenAI began in San Francisco as a non-profit research lab.",
+     "funding": "Donations from Musk and others. How much Musk actually gave is disputed: Al Jazeera put his early investment at $38 million, while Semafor reported about $100 million.",
+     "whatHappened": "Musk left OpenAI's board in February 2018. He later sued it, saying it had abandoned its non-profit mission. On 18 May 2026 a federal jury in Oakland ruled against him, finding his claims were filed too late. Musk said he would appeal.",
+     "lesson": "Co-founding is not control. Agree in writing who decides what before you invest money and reputation.",
+     "src": [
+      29,
+      30
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Neuralink",
+     "years": "2016–today",
+     "outcome": "running",
+     "idea": "A small implant that lets the brain talk directly to computers, first to help people with paralysis.",
+     "decision": "Musk launched it publicly in 2017, arguing humans needed a faster link to machines as AI improved.",
+     "howStarted": "Neuralink started as a small research company and was announced in March 2017.",
+     "funding": "Private funding rounds. In June 2025 it closed a $650 million round from investors including ARK Invest, Founders Fund, Sequoia Capital and Thrive Capital; Semafor reported a $9 billion valuation before the new money.",
+     "whatHappened": "By June 2025 Neuralink said five people with severe paralysis had received its implant.",
+     "lesson": "Deep-tech companies take years before revenue. You need investors who understand that timeline.",
+     "src": [
+      31,
+      32
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "The Boring Company",
+     "years": "2016–today",
+     "outcome": "running",
+     "idea": "Dig cheaper, faster tunnels so traffic can move underground.",
+     "decision": "Musk started it as a side project and funded it in unusual ways, including merchandise. Most big city projects it announced were later dropped, so it focused on Las Vegas.",
+     "howStarted": "It began with test tunnels in the Los Angeles area. In 2018 Chicago picked it to build an express link to O'Hare airport, promising trips of about 12 minutes at no cost to taxpayers.",
+     "funding": "Early money came partly from selling hats and a novelty torch called the 'Not-a-Flamethrower' in 2018. In April 2022 it raised $675 million in a round led by Vy Capital and Sequoia Capital, at a $5.675 billion valuation.",
+     "whatHappened": "The Los Angeles Westside tunnel plan was dropped in 2018. Chicago's O'Hare express was effectively dead by 2019 after a new mayor said it could not be built without city money. The company built a working loop at the Las Vegas Convention Center instead.",
+     "lesson": "Announcing a project is easy. Choose a smaller first project you can actually finish.",
+     "src": [
+      33,
+      34,
+      35,
+      36,
+      37
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Big announcements, small results. Founders, promise less!"
+    },
+    {
+     "t": "venture",
+     "name": "Starlink (inside SpaceX)",
+     "years": "2015–today",
+     "outcome": "running",
+     "idea": "Thousands of satellites in low orbit beaming fast internet anywhere on Earth, including villages, ships and planes.",
+     "decision": "Instead of selling launches only, SpaceX decided to become its own biggest customer. Its reusable rockets made launching its own satellites cheap.",
+     "howStarted": "Starlink was built inside SpaceX, using SpaceX's own rockets.",
+     "funding": "Paid for by SpaceX's launch revenue and the money SpaceX raised from investors.",
+     "whatHappened": "By 31 March 2026 Starlink had about 10.3 million subscribers, double a year earlier. By 30 September 2026 it had 13.6 million consumer subscribers. It became SpaceX's money machine.",
+     "lesson": "If your product is expensive for everyone else, find a way to use it yourself first.",
+     "src": [
+      49,
+      50
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Twitter, renamed X",
+     "years": "2022–2025",
+     "outcome": "merged",
+     "idea": "Buy the world's main public chat platform and run it with fewer rules and far fewer staff.",
+     "decision": "Musk first bought a 9.2% stake, then in April 2022 agreed to buy all of Twitter for $54.20 a share, about $44 billion. In July he tried to walk away. Twitter sued to force the deal, and he closed it in October 2022 rather than face trial.",
+     "howStarted": "On the day he took over, he fired the CEO, the CFO and the top lawyer.",
+     "funding": "About $13 billion of bank loans plus about $33.5 billion of equity promised by Musk, including $7.1 billion from co-investors such as Larry Ellison and Saudi Prince Alwaleed bin Talal.",
+     "whatHappened": "One investor, Fidelity, cut the value of its stake by 79% by August 2024. In March 2025 Musk's AI company xAI bought X in an all-stock deal valuing it at $33 billion, or $45 billion including debt.",
+     "lesson": "Buying a famous brand is not the same as buying a healthy business. Do your homework before you sign, because walking away later is very hard.",
+     "src": [
+      65,
+      39,
+      42,
+      41,
+      40,
+      43,
+      44
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "xAI",
+     "years": "2023–2026",
+     "outcome": "merged",
+     "idea": "Build a frontier AI model, Grok, to compete with OpenAI and Google.",
+     "decision": "Five years after leaving OpenAI's board, Musk started his own AI lab instead of backing someone else's.",
+     "howStarted": "xAI built a giant computer cluster called Colossus inside a former factory in Memphis. Musk said the first 100,000-chip cluster went from start to finish in 122 days.",
+     "funding": "Musk's money and then huge outside rounds. In May 2024 it raised $6 billion at a $24 billion valuation from investors including Valor, Andreessen Horowitz, Sequoia and Fidelity. In January 2026 Tesla agreed to put about $2 billion into a later round.",
+     "whatHappened": "xAI bought X in March 2025. Then, on 2 February 2026, SpaceX bought xAI. Reports valued SpaceX at about $1 trillion and xAI at about $250 billion. Inside SpaceX, xAI's compute business now sells capacity to other AI labs.",
+     "lesson": "Speed can be a strategy. Building the hardware fast let a late starter catch up with the leaders.",
+     "src": [
+      46,
+      45,
+      47,
+      44,
+      48,
+      49
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "DOGE (Department of Government Efficiency)",
+     "years": "2025",
+     "outcome": "shut",
+     "idea": "Cut US federal spending and staff quickly, using a start-up style team inside the government.",
+     "decision": "Musk agreed to lead the effort for the new Trump administration, saying it could save at least $2 trillion.",
+     "howStarted": "It began with the new administration in January 2025.",
+     "funding": "Government money; not a company.",
+     "whatHappened": "Musk left at the end of May 2025. DOGE claimed $175 billion in savings, but its own public list added up to less than half of that, and a Reuters review of Treasury data found much smaller spending cuts. Back home, Tesla's deliveries fell about 9% in 2025.",
+     "lesson": "Time is a founder's scarcest resource. Every month spent on a side mission is a month your main companies run without you.",
+     "src": [
+      56,
+      28
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "America Party",
+     "years": "2025",
+     "outcome": "shut",
+     "idea": "A new US political party to oppose government overspending.",
+     "decision": "Musk announced it on 5 July 2025, after a public fight with President Trump over a spending bill.",
+     "howStarted": "Announced through a poll and posts on X.",
+     "funding": "Not disclosed.",
+     "whatHappened": "By mid-August 2025 the Wall Street Journal reported he had stepped back from the plan to focus on his companies.",
+     "lesson": "Not every idea deserves to become a company. Killing one quickly is a skill.",
+     "src": [
+      57
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Terafab",
+     "years": "2026–today",
+     "outcome": "running",
+     "idea": "A chip factory shared by Tesla, SpaceX and xAI, to make their own AI chips instead of relying only on suppliers like TSMC and Samsung.",
+     "decision": "Musk argued his companies' demand for chips would soon outrun what suppliers could build.",
+     "howStarted": "Announced on 21 March 2026 at an event in Austin, Texas.",
+     "funding": "Planned to be paid for by the companies involved; outside estimates of the first build ran to $20–25 billion.",
+     "whatHappened": "It is still early. No production date has been given.",
+     "lesson": "When a supplier becomes your bottleneck, consider owning that step yourself, but only when you have the scale.",
+     "src": [
+      58
+     ]
+    }
+   ]
+  },
+  {
+   "id": "first-millions",
+   "kicker": "1995–2002",
+   "title": "The First Two Exits",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Musk's first two companies taught him how money really works in start-ups. You can build the product, find the customers and still lose control, because the people who write the cheques get votes. He learned this twice before he turned 30.",
+     "src": [
+      0,
+      5
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Zip2: the merger he talked his board out of"
+    },
+    {
+     "t": "p",
+     "text": "In spring 1998, Zip2 agreed to merge with CitySearch, its biggest rival in online city guides. On paper it made sense. Together they would have run 175 city guides in 27 of America's top 30 cities, with about 700 staff.",
+     "src": [
+      2
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Three weeks into checking each other's books, the deal fell apart. The two companies saw themselves differently. CitySearch thought it was a media company. Zip2 had become more of a software supplier. __A merger that looks good on paper can still fail if the two teams disagree about what the company is.__",
+     "src": [
+      2
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "...the risk of not seeing eye to eye was too great.",
+     "who": "Charles Conn, CitySearch CEO, on the cancelled Zip2 merger (1998)",
+     "src": [
+      2
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Less than a year later, Compaq bought Zip2 for ==$307 million in cash==. The company that almost merged with a rival ended up being sold for real money. Musk walked away with about $22 million.",
+     "src": [
+      1,
+      0
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A 'no' to the wrong deal can lead to a better one."
+    },
+    {
+     "t": "h",
+     "text": "PayPal: losing the job, keeping the shares"
+    },
+    {
+     "t": "p",
+     "text": "X.com was meant to be a full online bank. But the feature people loved most was emailing money. In March 2000, X.com merged with Confinity, the company behind PayPal. That merger is the deal that mattered: two rivals stopped burning cash fighting each other.",
+     "src": [
+      5,
+      0
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Musk ran the combined company from May to September 2000. Then the board replaced him with Peter Thiel. His separation agreement in May 2001 even had a clause about how the company would describe its founders, a sign of how sensitive the question of credit had become.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: the separation papers show PayPal bought back some of Musk's shares at exactly the prices he had paid, including Series D stock at $3.00 a share, for $500,000. He kept the rest, and that stake made him the biggest shareholder.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "PayPal's biggest rival was not a bank. It was eBay's own payment service, Billpoint. By the end of 2001, about 71% of eBay auctions accepted PayPal, against about 25% for Billpoint. When you are winning on your rival's home ground, the rival may end up buying you. That is what happened.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "PayPal went public in February 2002. An IPO, or initial public offering, is when a private company first sells shares to the public on a stock exchange, so anyone can buy them. Its shares jumped 55% on the first day. About eight months later, eBay bought it for about ==$1.5 billion== in stock.",
+     "src": [
+      0,
+      5,
+      6
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Nov 1995",
+       "text": "Zip2 co-founded by Elon and Kimbal Musk",
+       "src": [
+        12
+       ]
+      },
+      {
+       "when": "May 1998",
+       "text": "Zip2-CitySearch merger called off after due diligence",
+       "src": [
+        2
+       ]
+      },
+      {
+       "when": "Early 1999",
+       "text": "Compaq buys Zip2 for $307 million cash",
+       "src": [
+        1,
+        0
+       ]
+      },
+      {
+       "when": "Mar 1999",
+       "text": "X.com incorporated as an online bank",
+       "src": [
+        5
+       ]
+      },
+      {
+       "when": "30 Mar 2000",
+       "text": "X.com merges with Confinity, owner of PayPal",
+       "src": [
+        5
+       ]
+      },
+      {
+       "when": "Sept 2000",
+       "text": "Musk replaced as CEO by Peter Thiel",
+       "src": [
+        5
+       ]
+      },
+      {
+       "when": "Feb 2002",
+       "text": "PayPal IPO on Nasdaq",
+       "src": [
+        5,
+        0
+       ]
+      },
+      {
+       "when": "2002",
+       "text": "eBay buys PayPal for about $1.5 billion in stock",
+       "src": [
+        6,
+        0
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "How much did Musk get? His stake was 11.72%. Reports of his payout range from about $165 million to about $180 million before tax. Forbes noted in 2003 that he had kept most of his shares through the sale. That pile of money is what he poured into his next bets, above all SpaceX and Tesla.",
+     "src": [
+      5,
+      6,
+      0,
+      11
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Barely 31, rich, and about to risk almost all of it."
+    }
+   ]
+  },
+  {
+   "id": "near-death",
+   "kicker": "2006–2018",
+   "title": "Down to the Last Bullet",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In business stories, there is usually one bad year. Musk had one where both of his big companies nearly died in the same few months. It was 2008, the year the global financial crisis hit.",
+     "src": [
+      11,
+      12
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Three strikes at SpaceX"
+    },
+    {
+     "t": "p",
+     "text": "SpaceX's first Falcon 1 launch in March 2006 failed shortly after lift-off when a fuel line leaked. The second, in March 2007, reached space but its upper stage started wobbling. The third, in August 2008, failed when the stages bumped into each other during separation.",
+     "src": [
+      9
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Just after the third failure, Musk told staff that SpaceX had accepted an outside investment as a precaution, in case the third flight did not reach orbit. That was the ==$20 million from Founders Fund==, the venture firm run by his old PayPal colleagues.",
+     "src": [
+      8,
+      66
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "It's bad enough to have three strikes. Having four strikes is really kaput.",
+     "who": "Elon Musk, to 60 Minutes (2014)",
+     "src": [
+      11
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 28 September 2008, the fourth Falcon 1 lifted off from a tiny island in the Pacific and reached orbit. It was the first privately built liquid-fuel rocket ever to do that. Three months later, just before Christmas, NASA awarded SpaceX a $1.6 billion contract for 12 cargo flights to the space station.",
+     "src": [
+      9,
+      10
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I just blurted out, 'I love you guys.'",
+     "who": "Elon Musk, recalling NASA's call in December 2008 (60 Minutes, 2014)",
+     "src": [
+      11
+     ]
+    },
+    {
+     "t": "note",
+     "text": "One contract turned a dying start-up into NASA's partner."
+    },
+    {
+     "t": "h",
+     "text": "Tesla, the same year"
+    },
+    {
+     "t": "p",
+     "text": "While SpaceX was failing, Tesla was burning cash. Its losses were $78.2 million in 2007 and $82.8 million in 2008. In October 2008, Musk took over as CEO. VentureBeat reported at the time that the company was down to about $9 million.",
+     "src": [
+      12,
+      14
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Tesla's board then approved $40 million of new loans from its existing investors, with Musk's trust among them. The notes were secured on almost everything Tesla owned and paid 10% interest. Musk said the amount was significantly more than Tesla needed. Reporters at the time called it a stopgap.",
+     "src": [
+      13,
+      12
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then came the outside help. In May 2009 Daimler, the maker of Mercedes-Benz, bought nearly 10% of Tesla for about $50 million, valuing it at about $550 million after the investment. In January 2010 Tesla closed a ==$465 million loan== from the US Department of Energy to build its Model S factory. __Big partners arrived only after Tesla had survived its worst months.__",
+     "src": [
+      15,
+      12
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "That was definitely the worst year of my life.",
+     "who": "Elon Musk, on 2008 (60 Minutes, 2014)",
+     "src": [
+      11
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$82.8M",
+       "label": "Tesla's net loss in 2008 (Tesla S-1, 2010)",
+       "src": [
+        12
+       ]
+      },
+      {
+       "value": "$40M",
+       "label": "secured notes from existing investors, approved Nov 2008",
+       "src": [
+        13,
+        12
+       ]
+      },
+      {
+       "value": "$20M",
+       "label": "Founders Fund investment in SpaceX, Aug 2008",
+       "src": [
+        8
+       ]
+      },
+      {
+       "value": "$1.6B",
+       "label": "NASA cargo contract to SpaceX, 23 Dec 2008",
+       "src": [
+        10
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "2013: the almost-sale to Google"
+    },
+    {
+     "t": "p",
+     "text": "Five years later Tesla was in trouble again. According to Ashlee Vance's biography, in early 2013 Musk called Google co-founder Larry Page and proposed that Google buy Tesla for about $6 billion, plus another $5 billion for factories. Musk wanted to keep running Tesla for eight years or until a third car was in production.",
+     "src": [
+      19,
+      62
+     ]
+    },
+    {
+     "t": "p",
+     "text": "After an intense push led by Musk, in May 2013 Tesla reported its first quarterly profit, its stock jumped, and the Google talks ended. That same month Tesla repaid the full government loan, nine years before its original 2022 due date.",
+     "src": [
+      62,
+      18
+     ]
+    },
+    {
+     "t": "note",
+     "text": "He tried to sell Tesla for $6 billion. Remember that number."
+    },
+    {
+     "t": "h",
+     "text": "2018: production hell and a tweet"
+    },
+    {
+     "t": "p",
+     "text": "Tesla's mass-market Model 3 was supposed to take the company mainstream. Instead, the factory could not build it fast enough. Musk later told Axios that Tesla had been bleeding money like crazy and came within single-digit weeks of death.",
+     "src": [
+      20,
+      68
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In the middle of that, on 7 August 2018, Musk tweeted: \"Am considering taking Tesla private at $420. Funding secured.\" The stock closed up nearly 11% that day. Going private means buying back the shares from public investors, so the company is no longer listed on an exchange.",
+     "src": [
+      22
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The SEC, America's stock market regulator, said funding was not secured. It said Musk had never discussed a $420 price with any funder. It also said he worked out $419 as a 20% premium and rounded up partly because of the number's meaning in marijuana culture, which he admitted was not a great reason to pick a price.",
+     "src": [
+      22
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Within weeks Musk and Tesla settled. Each paid a ==$20 million== penalty, without admitting or denying the claims. Musk had to step down as Tesla chairman for three years, and Tesla added two independent directors. Shareholders also sued him. In February 2023 a San Francisco jury found him not liable, after about two hours of deliberation.",
+     "src": [
+      21,
+      23
+     ]
+    },
+    {
+     "t": "note",
+     "text": "One tweet cost $40 million. Think before you post."
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Mar 2006",
+       "text": "First Falcon 1 launch fails",
+       "src": [
+        9
+       ]
+      },
+      {
+       "when": "Mar 2007",
+       "text": "Second Falcon 1 fails",
+       "src": [
+        9
+       ]
+      },
+      {
+       "when": "Aug 2008",
+       "text": "Third Falcon 1 fails; Founders Fund invests $20M",
+       "src": [
+        9,
+        8
+       ]
+      },
+      {
+       "when": "28 Sept 2008",
+       "text": "Fourth Falcon 1 reaches orbit",
+       "src": [
+        9
+       ]
+      },
+      {
+       "when": "Oct 2008",
+       "text": "Musk becomes Tesla CEO",
+       "src": [
+        12
+       ]
+      },
+      {
+       "when": "23 Dec 2008",
+       "text": "NASA awards SpaceX $1.6B cargo contract",
+       "src": [
+        10
+       ]
+      },
+      {
+       "when": "Early 2013",
+       "text": "Musk discusses selling Tesla to Google",
+       "src": [
+        19
+       ]
+      },
+      {
+       "when": "Aug 2018",
+       "text": "'Funding secured' tweet; SEC settlement follows in Sept",
+       "src": [
+        22,
+        21
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scale",
+   "kicker": "2010–2026",
+   "title": "From Rockets to a Trillion",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "After surviving, Musk's companies started to grow at a scale few businesses ever reach. This is the part of the story where the fortune was made, mostly on paper, through shares in companies that investors valued very highly.",
+     "src": [
+      55,
+      53
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Tesla goes public"
+    },
+    {
+     "t": "p",
+     "text": "On 29 June 2010, Tesla sold 13.3 million shares at $17 each and raised about ==$226 million==. It priced above the range it had planned, $14 to $16. Reports called it the first American carmaker to go public since Ford in 1956.",
+     "src": [
+      16,
+      17
+     ]
+    },
+    {
+     "t": "p",
+     "text": "At that point Tesla had sold fewer than a thousand cars and had lost money in every quarter since it began. Investors were buying the future, the planned Model S, for which Tesla already had about 2,000 reservations with $5,000 deposits each.",
+     "src": [
+      12
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Reservations with deposits are proof people want it."
+    },
+    {
+     "t": "h",
+     "text": "The SolarCity rescue"
+    },
+    {
+     "t": "p",
+     "text": "In 2016 Tesla bought SolarCity, the solar installer chaired by Musk and run by his cousins, for about $2.6 billion. Critics said Tesla was bailing out a company Musk had a big stake in. Shareholders sued, asking him to return Tesla stock that at one point was worth $13 billion.",
+     "src": [
+      61,
+      24
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Musk won. In 2022 a Delaware judge found Tesla had paid a fair price, and in June 2023 the Delaware Supreme Court upheld the decision, while saying the lower court had made errors in parts of its analysis. __Winning in court is not the same as making a great deal. It only means the deal was not unfair.__",
+     "src": [
+      61,
+      24
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The pay package fights"
+    },
+    {
+     "t": "p",
+     "text": "In 2018 Tesla shareholders approved a pay plan that could give Musk options on about 304 million shares, about 9% of the company, if Tesla hit huge targets. In January 2024 a Delaware judge cancelled it, saying the board was conflicted and shareholders were not told key facts.",
+     "src": [
+      26
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Musk then moved Tesla's legal home from Delaware to Texas. On 19 December 2025, the Delaware Supreme Court restored the 2018 package, saying cancelling it left Musk unpaid for six years of work. By then it was worth about $139 billion. Musk posted that he was \"vindicated.\"",
+     "src": [
+      26
+     ]
+    },
+    {
+     "t": "p",
+     "text": "A month earlier, on 6 November 2025, more than 75% of shareholder votes approved an even bigger plan. It could give Musk up to 423.7 million more Tesla shares over ten years, in 12 blocks. The full payout needs Tesla to be worth $8.5 trillion.",
+     "src": [
+      27
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$56B",
+       "label": "value of the 2018 Tesla pay package when it was voided in 2024",
+       "src": [
+        26
+       ]
+      },
+      {
+       "value": "~$139B",
+       "label": "value of the same package when restored, 19 Dec 2025",
+       "src": [
+        26
+       ]
+      },
+      {
+       "value": "423.7M",
+       "label": "extra Tesla shares possible under the 2025 plan",
+       "src": [
+        27
+       ]
+      },
+      {
+       "value": "$8.5T",
+       "label": "Tesla market value needed for the full 2025 payout",
+       "src": [
+        27
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Twitter: the $44 billion detour"
+    },
+    {
+     "t": "p",
+     "text": "In April 2022 Musk agreed to buy Twitter for about $44 billion. Three months later he told Twitter he was ending the deal. Twitter sued. In October 2022 he went ahead at the original price of $54.20 a share, hours before a court deadline, and fired the top executives the same night.",
+     "src": [
+      39,
+      42,
+      41
+     ]
+    },
+    {
+     "t": "p",
+     "text": "To pay for it, banks lent about $13 billion and Musk promised about $33.5 billion of equity. That included $7.1 billion from co-investors such as Larry Ellison and Saudi Prince Alwaleed bin Talal. The rest had to come from Musk himself, whose wealth was mostly Tesla stock.",
+     "src": [
+      40
+     ]
+    },
+    {
+     "t": "p",
+     "text": "By August 2024, Fidelity had cut the value of its X stake by about 79%, which implied X was worth around $9.4 billion. That looked like a huge loss. Then in March 2025 Musk merged X into xAI at $33 billion, and less than a year later folded both into SpaceX.",
+     "src": [
+      43,
+      44,
+      48
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A bad deal can be rescued by a bigger company you also own."
+    },
+    {
+     "t": "h",
+     "text": "The AI pivot and the merger of everything"
+    },
+    {
+     "t": "p",
+     "text": "xAI was Musk's answer to OpenAI. It raised money at a pace rarely seen: $6 billion in May 2024 at a $24 billion valuation. Its Colossus supercomputer in Memphis was built, by Musk's count, in 122 days.",
+     "src": [
+      45,
+      46
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 2 February 2026, SpaceX acquired xAI. Reports valued the combined company at about $1.25 trillion. A merger is when two companies combine into one; here SpaceX paid with its own shares, so xAI's owners became SpaceX owners.",
+     "src": [
+      48,
+      49
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: in May 2026 SpaceX signed deals with the AI company Anthropic for computing power on Colossus and Colossus II, about 325,000 Nvidia chips. Anthropic agreed to pay $1.25 billion a month through May 2029.",
+     "src": [
+      49
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The biggest IPO in history"
+    },
+    {
+     "t": "p",
+     "text": "SpaceX priced its shares at $135 on 11 June 2026 and started trading on Nasdaq the next day under the ticker SPCX. It raised about ==$75 billion==, the largest IPO ever, almost three times Saudi Aramco's 2019 record. The stock closed its first day up about 19%, at $160.95.",
+     "src": [
+      53,
+      60
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Musk kept control through special Class B shares that carry extra votes and elect a majority of the board. After the IPO he held about 82.4% of the voting power. His pay plan includes 1 billion restricted shares that vest only if SpaceX hits market-value targets and establishes a permanent human colony on Mars with at least one million people.",
+     "src": [
+      49
+     ]
+    },
+    {
+     "t": "note",
+     "text": "His bonus literally depends on a million people living on Mars."
+    },
+    {
+     "t": "p",
+     "text": "Then the market swung. Within days SpaceX's market value peaked at about $2.78 trillion, and Bloomberg's index put Musk's fortune at a peak of about $1.32 trillion, the first ever above $1 trillion. Then one session wiped 16% off SpaceX's shares. By 24 June, after a wider tech sell-off, Musk had dropped back below $1 trillion.",
+     "src": [
+      54,
+      67
+     ]
+    },
+    {
+     "t": "p",
+     "text": "SpaceX kept buying. In June 2026 it borrowed $25 billion through bonds. In August 2026 it completed the purchase of Cursor, the AI coding start-up, paying 389 million SpaceX shares at an implied value of $60 billion.",
+     "src": [
+      52,
+      51
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The business underneath did grow. In the quarter to 30 September 2026, SpaceX's revenue was about $14.6 billion, up from about $5.6 billion a year earlier, and it made a net profit of about $4.4 billion. Starlink had 13.6 million consumer subscribers. __In that quarter, the AI business inside SpaceX brought in more money than rockets and Starlink combined.__",
+     "src": [
+      50
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$14.6B",
+       "label": "SpaceX revenue, quarter to 30 Sept 2026 (vs $5.6B a year earlier)",
+       "src": [
+        50
+       ]
+      },
+      {
+       "value": "$4.4B",
+       "label": "SpaceX net profit, same quarter",
+       "src": [
+        50
+       ]
+      },
+      {
+       "value": "13.6M",
+       "label": "Starlink consumer subscribers at 30 Sept 2026",
+       "src": [
+        50
+       ]
+      },
+      {
+       "value": "$75B",
+       "label": "raised in the SpaceX IPO, June 2026",
+       "src": [
+        53
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "What the fortune is made of (as of 29 October 2026)"
+    },
+    {
+     "t": "p",
+     "text": "Forbes put Musk's net worth at about ==$924 billion== on 29 October 2026. Almost none of it is cash. Most of it is shares, and share prices move every day, so the number can rise or fall by tens of billions in a week.",
+     "src": [
+      55
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The biggest piece is SpaceX, which now includes xAI and X. Forbes estimates he owns about 38% of it, counting options. The second piece is Tesla, where Forbes estimates he owns nearly 11%, not counting the unvested shares from the 2018 award. Tesla itself was worth about $1.4 trillion in mid-October 2026. He also owns stakes in Neuralink and The Boring Company.",
+     "src": [
+      55,
+      59
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "~$924B",
+       "label": "Musk's net worth, Forbes real-time, 29 Oct 2026",
+       "src": [
+        55
+       ]
+      },
+      {
+       "value": "~38%",
+       "label": "Forbes estimate of his SpaceX stake incl. options, Oct 2026",
+       "src": [
+        55
+       ]
+      },
+      {
+       "value": "~11%",
+       "label": "Forbes estimate of his Tesla stake, excl. unvested 2018 award, Oct 2026",
+       "src": [
+        55
+       ]
+      },
+      {
+       "value": "82.4%",
+       "label": "his share of SpaceX voting power after the IPO",
+       "src": [
+        49
+       ]
+      }
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "29 Jun 2010",
+       "text": "Tesla IPO at $17 a share raises about $226M",
+       "src": [
+        16
+       ]
+      },
+      {
+       "when": "May 2013",
+       "text": "Tesla repays its $465M government loan early",
+       "src": [
+        18
+       ]
+      },
+      {
+       "when": "2016",
+       "text": "Tesla buys SolarCity for about $2.6B",
+       "src": [
+        61
+       ]
+      },
+      {
+       "when": "Oct 2022",
+       "text": "Musk completes the $44B Twitter purchase",
+       "src": [
+        41
+       ]
+      },
+      {
+       "when": "28 Mar 2025",
+       "text": "xAI buys X in an all-stock deal",
+       "src": [
+        44
+       ]
+      },
+      {
+       "when": "2 Feb 2026",
+       "text": "SpaceX acquires xAI",
+       "src": [
+        48,
+        49
+       ]
+      },
+      {
+       "when": "12 Jun 2026",
+       "text": "SpaceX lists on Nasdaq after a $75B IPO",
+       "src": [
+        53
+       ]
+      },
+      {
+       "when": "14 Aug 2026",
+       "text": "SpaceX completes $60B Cursor purchase",
+       "src": [
+        51
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Here is the honest summary. Musk turned about $22 million from his first exit into the first fortune ever to pass $1 trillion, at least on paper, mostly through two decisions: putting nearly everything into SpaceX and Tesla when they looked doomed, and keeping control of both. The same habits, huge bets and bold public promises, also produced Twitter's lost value, the SEC fine, dead tunnel projects and a failed lawsuit against OpenAI.",
+     "src": [
+      0,
+      54,
+      55,
+      43,
+      21,
+      36,
+      30
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Copy the courage. Do not copy the tweets."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Forbes (2003): Way Out There, profile of Elon Musk and SpaceX",
+   "url": "https://www.forbes.com/global/2003/0512/054.html"
+  },
+  {
+   "label": "SEC: AltaVista Co Form S-1 (1999), Zip2 acquisition terms",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001100862/000101287099004680/0001012870-99-004680.txt"
+  },
+  {
+   "label": "Editor & Publisher (May 1998): CitySearch-Zip2 engagement called off",
+   "url": "https://www.editorandpublisher.com/stories/citysearch-zip2-engagement-called-off,78457"
+  },
+  {
+   "label": "Forbes (Oct 2024): report on Musk's work status at Zip2 and the Mohr Davidow investment",
+   "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/10/26/elon-musk-powerful-critic-of-illegal-immigrants-worked-illegally-in-us-at-start-of-career-report-says/"
+  },
+  {
+   "label": "Forbes (Oct 2024): Musk denies working illegally at the start of his career",
+   "url": "https://www.forbes.com/sites/mollybohannon/2024/10/27/elon-musk-denies-working-illegally-in-us-at-start-of-career-after-biden-blasts-musk/"
+  },
+  {
+   "label": "SEC: PayPal Inc Form 10-K for 2001",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103415/000091205702009834/a2073071z10-k405.htm"
+  },
+  {
+   "label": "CNN Money (2015): PayPal and eBay split, history of the 2002 deal",
+   "url": "https://money.cnn.com/2015/07/20/investing/paypal-ebay-stock/"
+  },
+  {
+   "label": "Inverse (2017): Musk's attempts to buy Russian ICBMs, citing Esquire interviews",
+   "url": "https://www.inverse.com/article/34976-spacex-ceo-elon-musk-tried-to-buy-icbm-rockets-from-russia"
+  },
+  {
+   "label": "Satellite Today (Aug 2008): SpaceX receives $20 million investment from Founders Fund",
+   "url": "https://www.satellitetoday.com/connectivity/2008/08/05/spacex-receives-20-million-investment/"
+  },
+  {
+   "label": "Space.com (Sept 2008): SpaceX successfully launches Falcon 1 into orbit",
+   "url": "https://www.space.com/5905-spacex-successfully-launches-falcon-1-rocket-orbit.html"
+  },
+  {
+   "label": "Spaceflight Now (Dec 2008): NASA awards Commercial Resupply Services contracts",
+   "url": "https://spaceflightnow.com/news/n0812/23crsawards/"
+  },
+  {
+   "label": "CBS News 60 Minutes (2014): Elon Musk on 2008, the worst year of my life",
+   "url": "https://www.cbsnews.com/news/billionaire-elon-musk-on-2008-the-worst-year-of-my-life"
+  },
+  {
+   "label": "SEC: Tesla Motors Form S-1 registration statement (Jan 2010)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312510017054/ds1.htm"
+  },
+  {
+   "label": "Tesla press release (Nov 2008): Tesla Motors receives $40 million financing commitment",
+   "url": "https://ir.tesla.com/press-release/tesla-motors-receives-40-million-financing-commitment"
+  },
+  {
+   "label": "VentureBeat (Nov 2008): Tesla absorbs another $40M to keep the motor running",
+   "url": "https://venturebeat.com/2008/11/03/tesla-absorbs-another-40m-to-keep-the-motor-running"
+  },
+  {
+   "label": "TechCrunch (May 2009): Tesla worth more than half a billion dollars after Daimler investment",
+   "url": "https://techcrunch.com/2009/05/19/tesla-worth-a-half-billion-dollars-after-daimler-investment"
+  },
+  {
+   "label": "Autoblog/Reuters (June 2010): Tesla sells 13.3M shares at $17, raises $226M in IPO",
+   "url": "https://www.autoblog.com/2010/06/29/tesla-lets-13-3m-shares-fly-at-17-raises-226m-on-ipo/"
+  },
+  {
+   "label": "Christian Science Monitor (June 2010): Tesla Motors stock rises in public trading debut",
+   "url": "https://m.csmonitor.com/From-the-news-wires/2010/0629/Tesla-IPO-2010-Tesla-Motors-stocks-rise-in-public-trading-debut"
+  },
+  {
+   "label": "Engadget (May 2013): Tesla Motors repays Department of Energy loan nine years early",
+   "url": "https://www.engadget.com/2013/05/22/tesla-motors-repaid-doe-loan/"
+  },
+  {
+   "label": "CNN Money (2015): Musk nearly sold Tesla to Google in 2013 (from Ashlee Vance's biography)",
+   "url": "https://money.cnn.com/2015/04/20/technology/tesla-google/"
+  },
+  {
+   "label": "Axios (Nov 2018): Elon Musk says Tesla came within single-digit weeks of death",
+   "url": "https://www.axios.com/2018/11/26/elon-musk-tesla-death-bleeding-cash"
+  },
+  {
+   "label": "SEC press release 2018-226: Elon Musk settles SEC fraud charges; Tesla charged and settles",
+   "url": "https://www.sec.gov/news/press-release/2018-226"
+  },
+  {
+   "label": "SEC v. Elon Musk, complaint, Case 1:18-cv-08865 (S.D.N.Y., Sept 2018)",
+   "url": "https://www.sec.gov/litigation/complaints/2018/comp-pr2018-219.pdf"
+  },
+  {
+   "label": "Insurance Journal/Reuters (Feb 2023): Musk found not liable in trial over 2018 funding-secured tweets",
+   "url": "https://amp.insurancejournal.com/news/national/2023/02/06/706068.htm"
+  },
+  {
+   "label": "Insurance Journal/Reuters (June 2023): Tesla's $2.6 billion SolarCity buyout ruled fair, dismissal upheld",
+   "url": "https://www.insurancejournal.com/news/national/2023/06/07/724344.htm"
+  },
+  {
+   "label": "Mayfield founder story: Lyndon and Peter Rive and Elon Musk (SolarCity)",
+   "url": "https://www.mayfield.com/founder-stories/improving-planetary-health-with-lyndon-and-peter-rive-and-elon-musk/"
+  },
+  {
+   "label": "Malay Mail/Reuters (Dec 2025): Delaware Supreme Court restores Musk's 2018 Tesla pay package",
+   "url": "https://www.malaymail.com/news/money/2025/12/20/musk-wins-appeal-as-delaware-supreme-court-restores-2018-tesla-pay-package-worth-us139b/202588"
+  },
+  {
+   "label": "CNN via KVIA (Nov 2025): Tesla shareholders approve $1 trillion pay package for Musk",
+   "url": "https://kvia.com/news/business-technology/cnn-business-consumer/2025/11/06/tesla-shareholders-approve-1-trillion-pay-package-for-musk/"
+  },
+  {
+   "label": "CnEVPost (Jan 2026): Tesla loses BEV crown to BYD in 2025",
+   "url": "https://cnevpost.com/2026/01/02/tesla-q4-2025-global-deliveries/"
+  },
+  {
+   "label": "Semafor (Mar 2023): The secret history of Elon Musk, Sam Altman and OpenAI",
+   "url": "https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai"
+  },
+  {
+   "label": "Al Jazeera (May 2026): Elon Musk loses US lawsuit against OpenAI",
+   "url": "https://www.aljazeera.com/news/2026/5/18/elon-musk-loses-lawsuit-against-openai"
+  },
+  {
+   "label": "The Verge (Mar 2017): Elon Musk launches Neuralink",
+   "url": "https://www.theverge.com/2017/3/27/15077864/elon-musk-neuralink-brain-computer-interface-ai-cyborgs"
+  },
+  {
+   "label": "TechCrunch (June 2025): Elon Musk's Neuralink closes a $650M Series E",
+   "url": "https://techcrunch.com/2025/06/02/elon-musks-neuralink-closes-a-650m-series-e"
+  },
+  {
+   "label": "CNBC (June 2018): Elon Musk hosts a Boring Company flamethrower party",
+   "url": "https://www.cnbc.com/2018/06/11/elon-musk-hosts-a-boring-flamethrower-party.html"
+  },
+  {
+   "label": "Reuters via Yahoo Finance (Apr 2022): Musk's Boring Company valued at $5.6 billion after latest funding round",
+   "url": "https://sg.finance.yahoo.com/news/musks-boring-company-valued-5-021645676.html"
+  },
+  {
+   "label": "CBS Chicago (June 2018): Chicago taps Elon Musk to build express tunnel from O'Hare",
+   "url": "https://www.cbsnews.com/chicago/news/elon-musk-ohare-airport-express-transit-hyperloop-tunnels"
+  },
+  {
+   "label": "Streetsblog Chicago (June 2019): More evidence the O'Hare Express is dead",
+   "url": "https://chi.streetsblog.org/2019/06/06/more-evidence-that-the-ohare-express-vaporware-boondoggle-is-dead-as-a-doornail"
+  },
+  {
+   "label": "TechCrunch (Nov 2018): Elon Musk's Boring Co. drops LA Westside tunnel plan",
+   "url": "https://techcrunch.com/2018/11/28/elon-musks-boring-co-drops-la-westside-tunnel-plan/"
+  },
+  {
+   "label": "Elon Musk, Hyperloop Alpha white paper (Aug 2013), hosted by SpaceX",
+   "url": "https://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf"
+  },
+  {
+   "label": "Washington Post (Apr 2022): Musk agrees to buy Twitter for roughly $44 billion",
+   "url": "https://www.washingtonpost.com/technology/2022/04/25/twitter-elon-musk-deal/"
+  },
+  {
+   "label": "Reuters explainer via Yahoo (Oct 2022): How Elon Musk funded the $44 billion Twitter deal",
+   "url": "https://www.yahoo.com/now/explainer-elon-musk-funded-44-121558330.html"
+  },
+  {
+   "label": "AP via Fox 29 (Oct 2022): Elon Musk now in control of Twitter, fires top executives",
+   "url": "https://www.fox29.com/news/elon-musk-fires-twitters-top-brass-after-closing-44-billion-deal-reports"
+  },
+  {
+   "label": "CNBC (July 2022): Elon Musk notifies Twitter he is terminating the deal",
+   "url": "https://www.cnbc.com/2022/07/08/elon-musk-notifies-twitter-he-is-terminating-deal.html"
+  },
+  {
+   "label": "TechCrunch (Sept 2024): Fidelity has cut X's value by 79% since Musk's purchase",
+   "url": "https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/"
+  },
+  {
+   "label": "SiliconANGLE (Mar 2025): Elon Musk's xAI acquires X at a $33B valuation",
+   "url": "https://siliconangle.com/2025/03/28/elon-musks-xai-acquires-x-33b-valuation/"
+  },
+  {
+   "label": "SiliconANGLE (May 2024): Elon Musk's xAI raises $6B",
+   "url": "https://siliconangle.com/2024/05/27/elon-musks-xai-raises-6b-build-new-ai-services"
+  },
+  {
+   "label": "Converge Digest (2024): xAI activates Project Colossus in Memphis with 100k H100 GPUs",
+   "url": "https://convergedigest.com/xai-activates-project-colossus-in-memphis-with-100k-h100-gpus/"
+  },
+  {
+   "label": "Drive Tesla Canada (Jan 2026): Tesla announces $2 billion investment in xAI",
+   "url": "https://driveteslacanada.ca/news/tesla-announces-2-billion-investment-in-xai-heres-how-it-differs-from-the-shareholder-vote/"
+  },
+  {
+   "label": "Bloomberg Law (Feb 2026): Musk's SpaceX combines with xAI at $1.25 trillion valuation",
+   "url": "https://news.bloomberglaw.com/ip-law/elon-musks-spacex-said-to-combine-with-xai-ahead-of-mega-ipo"
+  },
+  {
+   "label": "SEC: SpaceX final IPO prospectus, Form 424B4 (June 2026)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm"
+  },
+  {
+   "label": "SEC: SpaceX Form 10-Q for the quarter ended Sept 30, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm"
+  },
+  {
+   "label": "SEC: SpaceX Form 8-K (Aug 2026), completion of Cursor (Anysphere) merger",
+   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm"
+  },
+  {
+   "label": "SEC: SpaceX Form 8-K (June 2026), $25 billion senior notes offering",
+   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026045763/spcx-closing8xkjune2026.htm"
+  },
+  {
+   "label": "CBS News (June 2026): SpaceX stock soars 19% on first day after record $75 billion IPO",
+   "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering/"
+  },
+  {
+   "label": "Fortune (June 2026): SpaceX share swings and Elon Musk's trillionaire status",
+   "url": "https://fortune.com/2026/06/23/spacex-share-fluctuation-elon-musk-net-worth-trillionaire/"
+  },
+  {
+   "label": "Forbes real-time billionaires profile: Elon Musk (viewed 29 Oct 2026)",
+   "url": "https://www.forbes.com/profile/elon-musk/"
+  },
+  {
+   "label": "Al Jazeera (June 2025): Has DOGE really saved the US government $180bn?",
+   "url": "https://www.aljazeera.com/news/2025/6/6/has-doge-really-saved-the-us-government-180bn"
+  },
+  {
+   "label": "Fox News (Aug 2025): Elon Musk halts plans for new political party, citing WSJ report",
+   "url": "https://www.foxnews.com/politics/elon-musk-halts-plans-new-political-party-prioritizing-business-instead-report"
+  },
+  {
+   "label": "Bloomberg Law (Mar 2026): Musk says Tesla, SpaceX, xAI chip project Terafab to start in Austin",
+   "url": "https://news.bloomberglaw.com/capital-markets/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin"
+  },
+  {
+   "label": "Pepperstone (Oct 2026): Tesla Q3 2026 earnings preview, market value",
+   "url": "https://pepperstone.com/en-af/analysis/navigating-markets/tesla-q3-2026-earnings-preview/"
+  },
+  {
+   "label": "NPR (June 2026): SpaceX stock gains 19% on first day of trading",
+   "url": "https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk"
+  },
+  {
+   "label": "CNBC (Apr 2022): Musk wins shareholder lawsuit over Tesla's $2.6 billion SolarCity acquisition",
+   "url": "https://www.cnbc.com/2022/04/27/elon-musk-wins-shareholder-lawsuit-over-the-companys-2point6-billion-solarcity-acquisition.html"
+  },
+  {
+   "label": "Silicon Republic (Apr 2015): New book reveals Elon Musk almost sold Tesla to Google in 2013",
+   "url": "https://www.siliconrepublic.com/machines/new-book-reveals-that-elon-musk-almost-sold-tesla-to-google-in-2013"
+  },
+  {
+   "label": "BBC (July 2020): Tesla becomes world's most valuable carmaker",
+   "url": "https://www.bbc.com/news/business-53257933"
+  },
+  {
+   "label": "ABC News/AP (Aug 2020): Judge OKs $60M settlement in Tesla's SolarCity buyout case",
+   "url": "https://abcnews.go.com/Technology/wireStory/judge-oks-60m-settlement-tesla-buyout-solarcity-72425974"
+  },
+  {
+   "label": "The Verge (Apr 2022): Elon Musk buys 9.2% stake in Twitter",
+   "url": "https://www.theverge.com/2022/4/4/23009622/elon-musk-twitter-shares-free-speech"
+  },
+  {
+   "label": "Space.com (Aug 2008): PayPal co-founders invest $20 million in SpaceX",
+   "url": "https://www.space.com/5701-paypal-founders-invest-20-million-spacex.html"
+  },
+  {
+   "label": "Fox Business (June 2026): Elon Musk loses trillionaire status after tech sell-off",
+   "url": "https://foxbusiness.com/markets/elon-musk-loses-trillionaire-status-after-tech-sell-off-erases-billions-from-fortune"
+  },
+  {
+   "label": "CBS San Francisco (Nov 2018): Elon Musk says Tesla was weeks from death",
+   "url": "https://www.cbsnews.com/sanfrancisco/news/elon-musk-tesla-was-weeks-from-death"
+  }
+ ],
+ "factCheck": {
+  "method": "Primary filings first: SEC documents for Zip2/AltaVista (1999 S-1), PayPal (2001 10-K), Tesla (2010 S-1), the SEC 2018 complaint and settlement, and SpaceX's 2026 IPO prospectus, Q3 2026 10-Q and 8-Ks were downloaded and read directly. Other claims were checked against established press (Forbes 2003, CBS 60 Minutes, Space.com, Spaceflight Now, TechCrunch, CNBC, Reuters wire copies, Al Jazeera, Fortune) and cross-checked where possible. Several outlets (Reuters, Bloomberg, NYT, Wired, Esquire) could not be fetched directly; where we rely on their reporting we cite syndicated copies or secondary reports and keep wording cautious. Quotes are verbatim from the cited source. As-of figures are dated. The Hyperloop white paper itself could not be retrieved in this pass; its figures ($6B, ~35 minutes) are widely reported and should be re-checked against the PDF.",
+  "disputed": [
+   {
+    "claim": "Zip2's very first seed money",
+    "note": "Accounts of how much the founders and family put in before Mohr Davidow differ (Musk's own posts vs. family accounts); we state only that it was small and founder-supplied."
+   },
+   {
+    "claim": "Mohr Davidow's 1996 investment in Zip2: $3 million or $3.6 million",
+    "note": "Forbes (2003) says $3.6M for majority control; 2024 Washington Post/Forbes reporting says about $3M. We give both."
+   },
+   {
+    "claim": "Musk's US work status during Zip2",
+    "note": "The Washington Post (Oct 2024) reported he worked without authorization and that the funding was conditioned on fixing status; Musk denies it, saying he was on a J-1 that became an H-1B. Stated as reported and denied."
+   },
+   {
+    "claim": "Zip2 sale price: $307M vs $305M vs $340.9M",
+    "note": "Compaq's SEC filing: $307.2M cash, $340.9M total including options and costs. We use $307M cash."
+   },
+   {
+    "claim": "Musk's PayPal payout",
+    "note": "CNN Money ~ $165M; Vance's biography ~ $176M; Forbes (2003) says his stake would have been worth $220M had he not sold some. We say $165M–$180M before tax; the 11.72% stake is from PayPal's 10-K."
+   },
+   {
+    "claim": "Price of Russian missiles in 2001–02",
+    "note": "Accounts range from about $8M per missile to $21M demanded; Musk declined to disclose the price to Forbes in 2003. We omit a number."
+   },
+   {
+    "claim": "How much Musk gave OpenAI",
+    "note": "Al Jazeera: $38M early investment; OpenAI has said under $45M; Semafor reported about $100M. Not stated as a single figure."
+   },
+   {
+    "claim": "Musk's SpaceX stake after the IPO",
+    "note": "CBS/BBC: about 42% plus options; Forbes real-time (Oct 2026): about 38% including options. Differences reflect dilution (e.g., Cursor shares) and treatment of unvested restricted stock. We use Forbes for the as-of figure."
+   },
+   {
+    "claim": "Valuation split in the SpaceX-xAI merger",
+    "note": "Bloomberg-sourced reports: SpaceX ~$1T and xAI ~$250B; some outlets printed $125B for xAI. We use the Bloomberg figure and note it came from people familiar with the matter."
+   },
+   {
+    "claim": "xAI's valuation before buying X",
+    "note": "SiliconANGLE cites a prior $50B; Fox Business cites a $75B round. Not used."
+   },
+   {
+    "claim": "Colossus built in 122 days",
+    "note": "This is Musk's own claim; attributed to him."
+   },
+   {
+    "claim": "Musk's net worth as of 29 Oct 2026",
+    "note": "Forbes real-time shows ~$924B; Forbes's editorial summary says he became the first trillionaire on 12 June 2026; Bloomberg had him above $1T briefly in June. We use the Forbes real-time figure with date."
+   },
+   {
+    "claim": "Tesla shareholder approval of 2025 pay plan",
+    "note": "Reported as 'more than 75%' excluding Musk's own shares; exact figure not used."
+   },
+   {
+    "claim": "Tesla's market value in mid-October 2026",
+    "note": "From a broker preview (Pepperstone), ~ $1.4–1.45T; treat as approximate."
+   }
+  ]
+ }
+}

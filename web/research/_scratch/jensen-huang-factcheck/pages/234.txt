@@ -1,0 +1,209 @@
+ 
+ Nvidia CEO on failed Arm deal: 'We gave it our best shot' 
+ Jump to main content 
+ Search 
+ TOPICS
+ Security 
+ All Security 
+ Cyber-crime 
+ Patches 
+ Research 
+ CSO 
+ Off-Prem 
+ All Off-Prem 
+ Edge and IoT 
+ Channel 
+ PaaS and IaaS 
+ SaaS 
+ On-Prem 
+ All On-Prem 
+ Systems 
+ Storage 
+ Networks 
+ HPC 
+ Personal Tech 
+ Cx0 
+ Public Sector 
+ Software 
+ All Software 
+ AI and ML 
+ Applications 
+ Databases 
+ DevOps 
+ OS Platforms 
+ Virtualization 
+ Offbeat 
+ All Offbeat 
+ Columnists 
+ Anthropic 
+ BOFH 
+ Legal 
+ Site News 
+ About Us 
+ Special Features 
+ All Special Features 
+ Supercomputing Month 2026 
+ Nvidia GTC Berlin 2026 
+ Cybersecurity Month 2026 
+ VMware Explore 2026 
+ Cloud Infrastructure Month 2026 
+ HPE: AI Explainers 
+ Agentic AI 
+ The Future of the Datacenter 
+ AWS:Reinvent 
+ Nvidia GTC 
+ Computex 2026 
+ AI Infrastructure Month 2026 
+ The State of Storage 2026 
+ RSA Conference 
+ Vendor Voice 
+ All Vendor Voice 
+ Modernizing Financial Services with FIS and AWS 
+ Barco 
+ Infinidat 
+ Everpure 
+ Rubrik 
+ Make it real with Capgemini and AWS 
+ Money Movement Hub 
+ ZTE 
+ Nutanix: Scale Kubernetes. Not Chaos. 
+ AWS New Horizon 
+ Digicert 
+ Netscout 
+ Resources 
+ Intelligence 
+ Webinars & Events 
+ Newsletters 
+ Search 
+ Sign in 
+ AI 
+ Security 
+ Software 
+ Microsoft 
+ Developer 
+ Open Source 
+ BOFH 
+ Who, Me? 
+ On Call 
+ PHP2Shell 
+ REG AD 
+ On-Prem 
+ 'We gave it our best shot' Nvidia CEO tells Wall Street after failed Arm deal
+ GPU giant will just have to get by with a mere $10bn profit
+ Agam Shah 
+ Agam 
+ Shah 
+ Published 
+ thu 17 Feb 2022 // 00:42 UTC 
+ Make us preferred on Google 
+ If Nvidia is a little glum about its failed Arm merger, it has nearly 10 billion reasons to be cheerful: the GPU giant's profit from the past 12 months reached $9.75bn, up 125 per cent on the year-before period.
+ The chip goliath also disclosed in its fourth-quarter financial results on Wednesday that it will write off $1.36bn as a result walking away from the acquisition. This operating expense will be accounted for in the first quarter of Nvidia's fiscal 2023, which began on February 1.
+ Back in 2020, when Nvidia announced its desire to buy Arm, Nvidia promised Arm's parent Softbank a $2bn package up front to sweeten the deal. The takeover was ultimately derailed by competition watchdogs, however, so now Nvidia has to write off that arrangement with Softbank. As we reported last week, Arm's parent is expected to bag $1.25bn in breakup fees.
+ REG AD 
+ "The parties agreed to terminate because of significant regulatory challenges preventing the consummation of the transaction," Colette Kress, Nvidia's chief financial officer, noted [ PDF ] alongside the release of her company's Q4 figures this week.
+ REG AD 
+ In a call earlier today with Wall St analysts to discuss the quarter, CEO Jensen Huang took some time to address the failed attempt to acquire Arm.
+ We gave it our best shot. But the headwinds were too strong and we could not give regulators the comfort they needed to approve our deal
+ "We believed that would accelerate Arm's focus on high-performance CPUs and help Arm expand into new markets benefiting all foreign customers in the entire ecosystem," Huang said.
+ Nvidia, we're told, worked closely with Arm and Softbank in attempts to reassure regulators that Nvidia would be a worthy steward of the Arm ecosystem.
+ "We gave it our best shot. But the headwinds were too strong and we could not give regulators the comfort they needed to approve our deal," Huang said.
+ The failed $66bn takeover won't, we're told, affect Nvidia's long-term strategy, which continues to be developing hardware-accelerated computing.
+ "We are on track to launch our Arm-based Grace CPU, targeting giant AI and HPC workloads, in the first half of next year," Huang said, later adding that we should expect "a lot of CPU development around the Arm architecture."
+ MORE CONTEXT
+ FTC celebrates after Nvidia-Arm deal collapses
+ Arm's $66bn sale to Nvidia is off: Deal collapses after world's competition regulators raise concerns
+ Nvidia reportedly prepares for un-Arm'd combat with rivals: $40bn takeover may be abandoned
+ Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips
+ Nvidia has a 20-year architectural license from Arm, which grants Nvidia "the full breadth and flexibility of options across technologies and markets" to deliver on its three-chip strategy involving CPUs, GPUs, and DPUs. What that means is, Nvidia – like Apple, AMD, Samsung, and others – has a license from Arm to create its own highly customized Arm-compatible CPU cores from scratch for whatever purpose it desires. Organizations without an architectural license have to pick and choose CPU cores from Arm's catalog.
+ "Whether x86 or Arm, we will use the best CPU for the job, and together with partners in the computer industry, offer the world's best computing platform to tackle the impactful challenges of our time," Huang said.
+ REG AD 
+ The anatomy of the deal 
+ Nvidia's planned acquisition of UK-based Arm collapsed last week after opposition from regulators, which expressed concerns about the union potentially stifling competition. America's FTC sued in December to prevent the deal, and the British expressed national security concerns as a reason to intensify its probe of the deal. The China Antitrust Authority was also scrutinizing the specifics.
+ Microsoft, Qualcomm, Google, and others were concerned that Nvidia's purchase of Arm could lead to restricted access to the architecture, ecosystem, and chip designs. Arm's blueprints are licensed for components in most smartphones, tablets, and embedded and network-connected electronics, among other things, and are making their way into PCs and servers.
+ With the Arm merger consigned to the trash, Nvidia can move on to business as usual, which seems to be moving along just fine.
+ For the three months to January 31 of calendar 2022 – the fourth quarter of Nvidia's fiscal year 2022 – the company reported revenue of $7.6bn, growing by 53 per cent compared to the same quarter last year. Net profit was $3bn, up 106 per cent year-over-year.
+ A little under half of the quarterly revenue came from sales of gaming GPUs, which totaled $3.4bn, up by 37 per cent from the year-ago quarter. The rest was mostly data-center-grade accelerators ($3.3bn) and professional graphics products ($640m).
+ "The year-on-year increases for the quarter and fiscal year reflect higher sales of GeForce GPUs," Kress said.
+ The year-on-year increases for the quarter and fiscal year reflect higher sales of GeForce GPUs
+ GPUs have been in short supply with prices going up and available inventories being swiped by scalpers and crypto-miners. Nvidia claimed it was trying to push GPUs into the hands of gamers, and away from cryptocurrency mining, with its Lite Hash Rate feature to discourage mining use.
+ REG AD 
+ "Our GPUs are capable of cryptocurrency mining, though we have limited visibility into how much this impacts our overall GPU demand. Volatility in the cryptocurrency market including changes in the prices of cryptocurrencies or method of verifying transactions, such as proof of work or proof of stake, can impact demand for our products and our ability to accurately estimate it," Kress wrote.
+ For the full fiscal year, Nvidia reported revenue of $26.9bn, which was up by 61 per cent year-over-year. Net profit tallied $9.75bn, up by 125 per cent.
+ Nvidia is projecting first-quarter fiscal 2023 revenue to be about $8.1bn, plus or minus two per cent. That $1.36bn Arm write-off will appear as an operating expense. To put it in context, Nvidia's operating expenses for its fourth quarter were $2bn, already up 23 per cent year on year. ®
+ nvidia 
+ arm 
+ on_prem 
+ on-prem 
+ Make us preferred on Google 
+ REG AD 
+ Cops bust botnet of 1.3M infected Android TV boxes
+ Videostrong accused of shipping devices with a backdoor baked in
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ From expertise to intelligence: NISCO deploys world's first swarm-intelligence steel model at scale
+ PARTNER CONTENT: 300+ AI applications delivering surges in core metrics and annual cost reduction of over CNY100m
+ Oracle gobbles $20 billion borrowing limit a week after setting it 
+ In the middle of a datacenter capex binge, vendor promises no more borrowing until the end of 2030
+OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Ericsson says it can detect, track drones using only mobile networks
+ ISAC technology adds detection ability to existing cell networks, enabling them to track low-flying small drones
+ TOP STORIES
+ Landline phones will switch off across Britland in 100 days, no extensions – Openreach
+ Anthropic now lets Claude users jump out of plane without parachute
+ Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions
+ Google struggling to make AI Mode searches pay
+ Alibaba's Qwen AI caught trying to contact server in China
+ Voyager 1 gives controllers the silent treatment
+ AI 
+ Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking
+ IP house believes optics demand is going to explode as Nvidia and others eye bigger systems
+ OPINION
+ Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it
+ Flash the cash, flush the cache
+ Amazon sends chills through its workforce with mixed message memo about AI use
+ A lot of software engineers feel bleak about the future of the profession
+ Backbone of a beast – charting Nvidia's rise to networking titan
+ How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot
+ Domestic droid gone amok? Don't worry, you're covered
+ Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring
+ Infosec 
+ Security
+ Russians are posing as Signal support to launch phishing attacks
+ PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!
+ Security
+ Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack
+ PLUS: China upgrades smartphone surveillance tools; Ring eases anti-snooping stance; and more
+ Black Hat and DEF CON
+ DEF CON Franklin project enlists hackers to harden critical infrastructure
+ Voting village reports have been so successful, says Jeff Moss, that the whole of DEF CON will now be included
+ Security
+ EQT buys majority share in Swiss cybersecurity biz Acronis
+ Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified
+ Malware Month
+ Ten years since the first corp ransomware, Mikko Hyppönen sees no end in sight
+ On the plus side, infosec's a good bet for a long, stable career
+ FOSS 
+ AlpineBSD announced – an AI-free FOSS OS
+ Combining the NetBSD kernel with the Alpine Linux userland
+ Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop
+ Canonical has a long way to catch up, but it knows who it's chasing
+ Systemd adds support for Rust
+ What's even better than Rust in the Linux kernel? Rust in systemd!
+ FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases
+ Daemonarchy is unaffiliated with the Linux original, built with AI help, and could complicate FreeBSD's debate over AI contributions 
+ SparkyOS: Lightweight general-purpose Arch, on a pendrive
+ Interesting new project from the minds behind SparkyLinux
+ Red Hat helps teach about tech writing
+ But learns tough lessons about AI in the process
+ &#10005; 
+ Biting the hand that feeds IT
+ About Us
+ Contact us Advertise with us Who we are Newsletter 
+ Our Websites
+ The Next Platform DevClass Blocks and Files Situation Publishing 
+ Your Privacy
+ Cookies Policy Privacy Policy Ts & Cs Do not share my personal information Your Consent Options 
+ Archives 27 years of articles 
+ Copyright. All rights reserved © 1998-2026.

@@ -1,0 +1,902 @@
+{
+  "slug": "amul",
+  "company": "Amul",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#ED1C24",
+    "secondary": "#22B24C",
+    "accent": "#F7C600",
+    "ink": "#2B1A14",
+    "paper": "#FFF7E3",
+    "note": "Red #ED1C24 and green #22B24C are taken from Amul's official logo file on Wikimedia Commons; the butter-pack yellow accent and cream paper are our approximation of the butter packaging."
+  },
+  "tagline": "A milk strike by Gujarat farmers became a company they still own, and an engineer who wanted to leave town stayed for the rest of his life to help build it.",
+  "hook": "In June 1948 the Kaira union pasteurised about 250 litres of milk a day from two village societies. In 2025-26 the federation it grew into collected about 3.1 crore litres a day from 36 lakh farmer-owners.",
+  "hookSrc": [
+    1,
+    15,
+    17
+  ],
+  "cast": [
+    {
+      "name": "Tribhuvandas K. Patel",
+      "role": "Founding chairman of the Kaira District Co-operative Milk Producers' Union, registered 14 December 1946. A Gandhian farmer leader from Anand (born 1903), jailed in the 1930 salt satyagraha, who asked Kurien to stay and help. Shared the 1963 Magsaysay Award with him.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg",
+        "caption": "The 'Amul trinity': Verghese Kurien (left), Tribhuvandas Patel (centre, in Gandhi cap) and H. M. Dalaya (right).",
+        "author": "Personal photos of Mr Sanjay & Mrs Mona NAIK and of Mrs Akanksha NAIK & Mr Bernard ADAM (direct family of Harichand Megha DALAYA) Erma79",
+        "license": "CC BY-SA 4.0",
+        "year": null
+      },
+      "src": [
+        2,
+        6,
+        0
+      ]
+    },
+    {
+      "name": "Dr H. M. Dalaya",
+      "role": "Dairy technologist trained at Michigan State. Built the world's first spray dryer for buffalo milk, installed at Amul in 1955, so the union could take farmers' milk all year instead of declaring 'milk holidays'.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/H._M._Dalaya.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:H._M._Dalaya.jpg",
+        "caption": "Harichand Megha Dalaya, the engineer behind buffalo-milk powder, around 1960.",
+        "author": "Personal photos of Mr Sanjay & Mrs Mona NAIK and of Mrs Akanksha NAIK & Mr Bernard ADAM (direct family of Harichand Megha DALAYA) Erma79",
+        "license": "CC BY-SA 3.0",
+        "year": 1960
+      },
+      "src": [
+        3,
+        10
+      ]
+    },
+    {
+      "name": "Sardar Vallabhbhai Patel",
+      "role": "When Kaira farmers came to him for help, he told them to form their own co-operative with its own pasteurising plant, and to stop selling to middlemen if the government said no. He warned them they would lose money during a strike and offered to lead them.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sardar_patel_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Sardar_patel_(cropped).jpg",
+        "caption": "Vallabhbhai Patel in 1949.",
+        "author": "Government of India work",
+        "license": "Public domain",
+        "year": 1949
+      },
+      "src": [
+        1
+      ]
+    },
+    {
+      "name": "Morarji Desai",
+      "role": "Sardar Patel's deputy, sent to organise the farmers. At a meeting in Samarkha village on 4 January 1946 they resolved to form village societies and a union, which led to the 15-day milk strike.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Morarji_Desai_portrait.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Morarji_Desai_portrait.jpg",
+        "caption": "Morarji Desai in May 1957.",
+        "author": "Photo division Government of India",
+        "license": "Public domain",
+        "year": 1957
+      },
+      "src": [
+        1
+      ]
+    }
+  ],
+  "founder": {
+    "name": "Dr Verghese Kurien",
+    "role": "General manager of the Kaira union (Amul) from 1950; founding chairman of NDDB (1965-1998) and GCMMF (1973-2006). Not the founder of the union itself, which farmers formed in 1946.",
+    "born": "26 Nov 1921, Kozhikode (Calicut), Kerala",
+    "died": "9 Sep 2012, Nadiad, Gujarat",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dr._V._kurien_%28cropped%29.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Dr._V._kurien_(cropped).JPG",
+      "caption": "Verghese Kurien in 2009, aged 87.",
+      "author": "Swetapadma07",
+      "license": "CC BY-SA 3.0",
+      "year": 2009
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:2_The-Amul-trinity_Kurien_Shri-TK-Patel_HM_Dalaya.jpg",
+        "caption": "Kurien (left) with union chairman Tribhuvandas Patel (centre) and H. M. Dalaya (right), known as the 'Amul trinity'.",
+        "author": "Personal photos of Mr Sanjay & Mrs Mona NAIK and of Mrs Akanksha NAIK & Mr Bernard ADAM (direct family of Harichand Megha DALAYA) Erma79",
+        "license": "CC BY-SA 4.0",
+        "year": null
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amul_factory.jpg/1280px-Amul_factory.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Amul_factory.jpg",
+        "caption": "The entrance of the Amul dairy in Anand, the town Kurien first wanted to leave.",
+        "author": "Balajijagadesh",
+        "license": "CC BY-SA 3.0",
+        "year": 2010
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Amul_Plant_at_Anand.jpg/1280px-Amul_Plant_at_Anand.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Amul_Plant_at_Anand.jpg",
+        "caption": "Milk silos at the Amul plant in Anand.",
+        "author": "Notnarayan",
+        "license": "CC BY-SA 3.0",
+        "year": null
+      }
+    ],
+    "background": "Kurien was born in Kozhikode in 1921, the son of P. P. Kurien, a civil surgeon, in a Syrian Christian family. He took a science degree from Loyola College, Madras, in 1940 and then an engineering degree from the Guindy College of Engineering. His uncle, John Matthai, later became India's finance minister. Kurien was born a Christian but became an atheist, and he asked to be cremated.",
+    "backgroundSrc": [
+      0,
+      10,
+      12,
+      31
+    ],
+    "journey": [
+      {
+        "year": "1921",
+        "kind": "life",
+        "title": "Born in Kozhikode",
+        "detail": "Son of a civil surgeon, born in Malabar, then part of the Madras Presidency.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1940",
+        "kind": "life",
+        "title": "Science degree, Loyola College",
+        "detail": "Graduated in science from Loyola College, Madras, then studied engineering at Guindy.",
+        "src": [
+          0
+        ]
+      },
+      {
+        "year": "1943",
+        "kind": "job",
+        "title": "Apprentice at Tata Steel, Jamshedpur",
+        "detail": "Joined the TISCO Technical Institute as a graduate apprentice, then worked as an office apprentice. He left about two years later for a government scholarship.",
+        "src": [
+          0,
+          8
+        ]
+      },
+      {
+        "year": "c.1945",
+        "kind": "attempt",
+        "title": "Asked for metallurgy, got dairy",
+        "detail": "He applied for the scholarship hoping to study metallurgy and nuclear physics. The panel asked him only about pasteurisation and gave him dairy engineering: 'It's either this or nothing.'",
+        "src": [
+          8,
+          0
+        ]
+      },
+      {
+        "year": "1946-48",
+        "kind": "life",
+        "title": "Michigan State, on his own terms",
+        "detail": "At Michigan State he took only 'token courses' in dairy engineering, just enough to satisfy the government. He finished a master's in mechanical engineering in 1948.",
+        "src": [
+          0,
+          8
+        ]
+      },
+      {
+        "year": "1948",
+        "kind": "failure",
+        "title": "Trapped by a bond",
+        "detail": "Union Carbide offered him ₹1,000 a month, but the government would not release him unless he repaid about ₹30,000 spent on his studies. His uncle, Finance Minister John Matthai, refused to waive the bond.",
+        "src": [
+          8,
+          10
+        ]
+      },
+      {
+        "year": "1949",
+        "kind": "job",
+        "title": "Dairy engineer, Government Research Creamery, Anand",
+        "detail": "Arrived on Friday, 13 May 1949. His only plan was to finish his bond and get out.",
+        "src": [
+          0,
+          8
+        ]
+      },
+      {
+        "year": "1949",
+        "kind": "failure",
+        "title": "Hated Anand, ready to quit",
+        "detail": "As an unmarried Malayali Christian he struggled even to rent a room. By the end of 1949 he had his release and was ready to leave for Bombay.",
+        "src": [
+          0,
+          8
+        ]
+      },
+      {
+        "year": "1950",
+        "kind": "job",
+        "title": "Stays to help Tribhuvandas, becomes manager",
+        "detail": "Tribhuvandas Patel, the union's chairman, asked him to stay a few more days and help set up the co-op's machines. He became the union's executive head in 1950 and never left.",
+        "src": [
+          0,
+          10
+        ]
+      },
+      {
+        "year": "1955",
+        "kind": "breakthrough",
+        "title": "Powder from buffalo milk",
+        "detail": "Buffalo milk was thought unsuitable for drying because of its high fat. Dalaya's spray dryer did it, and the new Amul dairy opened on 31 October 1955.",
+        "src": [
+          1,
+          3,
+          6
+        ]
+      },
+      {
+        "year": "1964-65",
+        "kind": "breakthrough",
+        "title": "A Prime Minister spends a night with farmers",
+        "detail": "Lal Bahadur Shastri came to open Amul's cattle feed plant on 31 October 1964, spent a night with a farmer, and asked for the Anand model across India. The NDDB was set up in 1965 with Kurien as chairman until 1998.",
+        "src": [
+          27,
+          28,
+          1,
+          0
+        ]
+      },
+      {
+        "year": "1970",
+        "kind": "breakthrough",
+        "title": "Operation Flood begins",
+        "detail": "Milk powder and butter oil gifted by Europe were sold in India to fund dairies, first linking 18 milksheds to Delhi, Mumbai, Kolkata and Chennai.",
+        "src": [
+          7,
+          33
+        ]
+      },
+      {
+        "year": "1973",
+        "kind": "job",
+        "title": "Chairman, GCMMF",
+        "detail": "Became chairman of the new Gujarat federation that sells everything under the single Amul brand. He held the post until 2006.",
+        "src": [
+          0,
+          29,
+          30
+        ]
+      },
+      {
+        "year": "1979",
+        "kind": "job",
+        "title": "Builds his own management school",
+        "detail": "He set up the Institute of Rural Management, Anand, to train professional managers for co-operatives, and chaired it until 2006.",
+        "src": [
+          0,
+          30
+        ]
+      },
+      {
+        "year": "2006",
+        "kind": "failure",
+        "title": "Pushed out of the federation he built",
+        "detail": "Most of the GCMMF board decided to move a no-confidence motion against him. He resigned on 20 March 2006, aged 84.",
+        "src": [
+          13,
+          14,
+          29
+        ]
+      },
+      {
+        "year": "2012",
+        "kind": "now",
+        "title": "Dies in Nadiad, near Anand",
+        "detail": "Died in hospital in Nadiad on 9 September 2012, aged 90, still living in Anand, the small town he once wanted to escape.",
+        "src": [
+          30,
+          11,
+          12
+        ]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Work for farmers, not over them",
+        "explain": "In 1963 he said the co-op's aim was 'the service of the common man through the common man'. A review of his memoir sums up his career: he stayed in Anand 'for over fifty years as an employee of farmers'.",
+        "src": [
+          6,
+          12
+        ]
+      },
+      {
+        "idea": "Give farmers technology and managers",
+        "explain": "He believed poor farmers could match big companies if professional managers and modern machines worked for them. To supply such managers, he built IRMA to train them.",
+        "src": [
+          0,
+          10
+        ]
+      },
+      {
+        "idea": "Turn a threat into fuel",
+        "explain": "Europe had huge dairy surpluses. Dumped in India at rock-bottom prices, they could have wrecked young local dairies. Kurien had them gifted through the World Food Programme, sold at prices that protected farmers, and used the money to build dairies under Operation Flood.",
+        "src": [
+          33,
+          7
+        ]
+      },
+      {
+        "idea": "Don't accept 'it can't be done'",
+        "explain": "Foreign experts believed buffalo milk could not be turned into powder. Kurien backed Dalaya, UNICEF and New Zealand helped fund the plant, and Amul became the first in the world to do it.",
+        "src": [
+          12,
+          3,
+          6,
+          1
+        ]
+      },
+      {
+        "idea": "One way, and no backing down",
+        "explain": "'There are many ways to skin a cat, but we know only one,' he used to say. Columnist Shreekant Sambrani wrote that his habit of deciding early and sticking to it also led to avoidable controversies late in his life.",
+        "src": [
+          10
+        ]
+      }
+    ],
+    "habits": [],
+    "darkestHour": {
+      "title": "2006: turned on by his own board",
+      "story": "By 2006 Kurien, then 84, had chaired the Gujarat federation since it began in 1973. Most of its board decided to move a no-confidence motion against him and went to the co-operative authorities to stop him acting as chairman. On 20 March 2006 he resigned, citing a Gujarat High Court order on co-opted board members, and told a press conference he was anguished, asking whether he deserved such treatment. 'I did my best, in my small way, to fulfill the dreams of Indian farmers,' he said. He did not move away. He stayed in Anand, the town he had once tried to leave, until his death in 2012.",
+      "src": [
+        13,
+        29,
+        14,
+        30
+      ]
+    },
+    "genuineness": {
+      "story": "Kurien could have earned far more at a multinational. In a review of his memoir, journalist M. V. Kamath noted that the most he was ever paid was ₹5,000 a month, as GCMMF chairman, perhaps a twentieth of what a multinational would have paid him. Kamath wrote that Kurien stayed in Anand 'for over fifty years as an employee of farmers' and 'never felt underpaid'.",
+      "src": [
+        12
+      ]
+    },
+    "now": "Kurien died on 9 September 2012. His story returned to Cannes in May 2024, when a restored print of Manthan (1976), the film paid for by 5 lakh Gujarat dairy farmers at ₹2 each, got a standing ovation with his daughter on the red carpet. The co-operative he ran is now owned by about 36 lakh farmers, and the Amul brand crossed ₹1 lakh crore in sales in 2025-26.",
+    "nowSrc": [
+      30,
+      20,
+      21,
+      15
+    ]
+  },
+  "numbers": [
+    {
+      "value": "₹73,450 cr",
+      "label": "GCMMF sales turnover (up 11.4%)",
+      "asOf": "FY2025-26",
+      "src": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "value": "₹1 lakh cr+",
+      "label": "Amul brand turnover, federation plus its 18 district unions",
+      "asOf": "FY2025-26",
+      "src": [
+        15,
+        16,
+        18
+      ]
+    },
+    {
+      "value": "36 lakh",
+      "label": "Dairy farmers who own the federation",
+      "asOf": "Apr 2026",
+      "src": [
+        15,
+        17
+      ]
+    },
+    {
+      "value": "~3.1 crore litres",
+      "label": "Milk collected every day",
+      "asOf": "FY2025-26",
+      "src": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "value": "80-85%",
+      "label": "Share of each consumer rupee passed back to farmers (company figure)",
+      "asOf": "2022",
+      "src": [
+        19
+      ]
+    },
+    {
+      "value": "~250 litres",
+      "label": "Milk handled per day when the union began pasteurising",
+      "asOf": "Jun 1948",
+      "src": [
+        1,
+        6
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1946",
+      "title": "The milk strike",
+      "detail": "Kaira farmers refused to sell any milk to contractors for 15 days. The Bombay Milk Scheme almost collapsed, and the union was registered on 14 December 1946.",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": "1948",
+      "title": "First milk to Bombay",
+      "detail": "Pasteurising began in June 1948 with two village societies. By the end of the year 432 farmers had joined and the union handled 5,000 litres a day.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "year": "1955",
+      "title": "Buffalo-milk powder and the Amul name",
+      "detail": "A ₹50 lakh dairy built with UNICEF and New Zealand help opened on 31 October 1955. The brand name comes from 'Amulya', Sanskrit for priceless.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "year": "1964-65",
+      "title": "Shastri's visit and NDDB",
+      "detail": "Lal Bahadur Shastri asked for the Anand model nationwide. The National Dairy Development Board was set up in Anand in 1965.",
+      "src": [
+        1,
+        27,
+        26
+      ]
+    },
+    {
+      "year": "1966",
+      "title": "The Amul girl arrives",
+      "detail": "Sylvester daCunha of the agency ASP and art director Eustace Fernandes created the polka-dot girl. Topical hoardings started in 1969.",
+      "src": [
+        4,
+        22
+      ]
+    },
+    {
+      "year": "1970",
+      "title": "Operation Flood",
+      "detail": "A national milk grid that later linked producers to more than 700 towns and cities. By 1985 it covered about 43,000 village co-ops and 42.5 lakh producers.",
+      "src": [
+        7,
+        26
+      ]
+    },
+    {
+      "year": "1973",
+      "title": "GCMMF formed",
+      "detail": "Gujarat's district unions set up one marketing federation, with Kurien as chairman, to sell under the single Amul brand.",
+      "src": [
+        0,
+        29
+      ]
+    },
+    {
+      "year": "1976",
+      "title": "Farmers fund a film",
+      "detail": "About 5 lakh Gujarat dairy farmers gave ₹2 each to produce Shyam Benegal's Manthan, inspired by Kurien's work.",
+      "src": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": "2006",
+      "title": "Kurien exits",
+      "detail": "After most of the board moved against him, Kurien resigned as GCMMF chairman on 20 March 2006.",
+      "src": [
+        13,
+        29
+      ]
+    },
+    {
+      "year": "2023",
+      "title": "The Bengaluru backlash",
+      "detail": "Plans to sell milk and curd online in Bengaluru set off #GoBackAmul and #SaveNandini campaigns weeks before Karnataka's assembly election.",
+      "src": [
+        23,
+        24,
+        32
+      ]
+    },
+    {
+      "year": "2026",
+      "title": "₹1 lakh crore brand",
+      "detail": "Amul's brand turnover crossed ₹1 lakh crore in 2025-26, and Union Cooperation Minister Amit Shah congratulated it publicly.",
+      "src": [
+        15,
+        18
+      ]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Amul is owned by the farmers who supply it, in three layers. Village societies collect milk twice a day and pay each farmer by fat content. District unions process it into milk, butter, cheese, ice cream and more. GCMMF markets all of it under one brand across India and over 50 countries. The federation says 80-85% of what a shopper pays goes back to farmers as the milk price.",
+    "flows": [
+      {
+        "from": "Farmers",
+        "to": "Village co-op society",
+        "what": "Milk twice a day, paid by fat content"
+      },
+      {
+        "from": "Village co-op society",
+        "to": "District union (e.g. Kaira, Anand)",
+        "what": "Pooled milk for chilling and processing"
+      },
+      {
+        "from": "District union",
+        "to": "GCMMF",
+        "what": "Finished products sold under the Amul brand"
+      },
+      {
+        "from": "GCMMF",
+        "to": "Distributors, shops, Amul parlours",
+        "what": "Butter, milk, cheese, ice cream; over 1,200 product packs"
+      },
+      {
+        "from": "Consumers",
+        "to": "Farmers",
+        "what": "About 80-85% of the consumer rupee returns as milk price"
+      }
+    ],
+    "src": [
+      5,
+      1,
+      19,
+      16
+    ]
+  },
+  "failures": [
+    {
+      "year": "1953",
+      "title": "The winter milk glut",
+      "whatHappened": "Buffaloes give about 2.5 times more milk in winter, and the Bombay Milk Scheme could not take the extra. Farmers were again forced to sell surplus cheaply to middlemen, and the dairy declared 'milk holidays'.",
+      "lesson": "A co-op that cannot buy all its members' produce loses their trust. Amul fixed it by building a powder and butter plant to store the surplus.",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "year": "2006",
+      "title": "A founding leader forced out",
+      "whatHappened": "After 33 years as chairman, Kurien faced a no-confidence move from his own board and resigned, anguished, at 84.",
+      "lesson": "Even the strongest builder needs a planned handover. Without one, the exit becomes a fight.",
+      "src": [
+        13,
+        29,
+        10
+      ]
+    },
+    {
+      "year": "2023",
+      "title": "#GoBackAmul in Bengaluru",
+      "whatHappened": "Amul announced online milk and curd sales in Bengaluru, home turf of Karnataka's Nandini co-op. Its toned milk cost about ₹54 a litre against Nandini's ₹39, and the move became an election issue.",
+      "lesson": "Local pride is a real force. A brand loved in one state can be seen as an outsider in the next.",
+      "src": [
+        23,
+        24,
+        32
+      ]
+    },
+    {
+      "year": "1970s-90s",
+      "title": "Ads that went too far",
+      "whatHappened": "Indian Airlines threatened to stop buying Amul butter over a cheeky hoarding, so it came down. An ad showing the Amul girl in a Gandhi cap was also wiped off.",
+      "lesson": "Topical humour builds love fast, but every joke carries risk. Know which lines you will not cross.",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Verghese Kurien founded Amul.",
+      "fact": "Farmers led by Tribhuvandas Patel formed the Kaira union, registered on 14 December 1946, after a strike backed by Sardar Patel. Kurien reached Anand on 13 May 1949 and joined the union as its manager.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "myth": "The father of India's White Revolution was a dairy scientist who loved milk.",
+      "fact": "He wanted to study metallurgy and nuclear physics and took only 'token courses' in dairy. The AP's obituary noted that he did not like milk.",
+      "src": [
+        8,
+        11
+      ]
+    },
+    {
+      "myth": "'Amul' is simply short for Anand Milk Union Limited.",
+      "fact": "The Kaira union's own history says the name comes from the Sanskrit 'Amulya', meaning priceless. The 'Anand Milk Union Limited' reading is popular, but the union's history does not give it.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Our aim has always been clear: the service of the common man through the common man.",
+      "who": "Verghese Kurien, accepting the Ramon Magsaysay Award, 1963",
+      "src": [
+        6
+      ]
+    },
+    {
+      "text": "To satisfy the Government of India, I took some token courses in dairy engineering.",
+      "who": "Verghese Kurien, I Too Had a Dream (2005), as quoted by Onmanorama",
+      "src": [
+        8
+      ]
+    },
+    {
+      "text": "I did my best, in my small way, to fulfill the dreams of Indian farmers.",
+      "who": "Verghese Kurien, resigning as GCMMF chairman, 20 March 2006",
+      "src": [
+        14
+      ]
+    },
+    {
+      "text": "Eustace Fernandez (the art director) and I decided that we needed a girl who would worm her way into a housewife's heart. And who better than a little girl?",
+      "who": "Sylvester daCunha, creator of the Amul girl, to The Asian Age, 1996",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Let your suppliers own a piece",
+      "detail": "Amul's farmers own the business, so they keep selling to it. Ask whether your sellers, drivers or makers could share in what they help build."
+    },
+    {
+      "title": "Solve the problem in front of you, not the textbook one",
+      "detail": "The world dried cow milk. Gujarat had buffalo milk. Dalaya and Kurien built for their own reality while foreign experts doubted it could be done."
+    },
+    {
+      "title": "Turn a threat into funding",
+      "detail": "Cheap European dairy surpluses could have killed Indian dairies. Kurien sold them at fair prices and used the money to build Operation Flood. Look at what scares your market and ask how it could pay you."
+    },
+    {
+      "title": "A tiny mascot can beat a huge budget",
+      "detail": "Since 1966 a cartoon girl reacting to the news has kept Amul in conversation. Being consistent and quick to react can matter more than spending more."
+    },
+    {
+      "title": "Plan your exit before someone plans it for you",
+      "detail": "Kurien ran the federation for 33 years and left after a board revolt. Build a team and a succession plan early, so the work outlives the fight."
+    }
+  ],
+  "moments": [
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 427,
+      "label": "The origin story of Amul"
+    },
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 554,
+      "label": "Cracking Amul’s supply chain"
+    },
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 1361,
+      "label": "Turning milk into white gold"
+    },
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 4130,
+      "label": "Why Amul will never go public"
+    },
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 4435,
+      "label": "Amul’s marketing strategy"
+    },
+    {
+      "youtubeId": "Q2wkOtWH7HI",
+      "at": 4821,
+      "label": "The Amul butter girl"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Amul Dairy (Kaira District Co-operative Milk Producers' Union): Dr. Verghese Kurien",
+      "url": "https://amuldairy.com/dr_kurien.php"
+    },
+    {
+      "label": "Amul Dairy: History of the Kaira union",
+      "url": "https://amuldairy.com/history.php"
+    },
+    {
+      "label": "Amul Dairy: Tribhuvandas K Patel, founder chairman",
+      "url": "https://amuldairy.com/t_k_patel.php"
+    },
+    {
+      "label": "Amul Dairy: Dr H M Dalaya",
+      "url": "https://amuldairy.com/hm_dalaya.php"
+    },
+    {
+      "label": "Amul Dairy: Amul Butter Girl (from Mini Varma, The Asian Age, 3 Mar 1996)",
+      "url": "https://amuldairy.com/buttergirl.php"
+    },
+    {
+      "label": "Indian Dairy Association: Dr Verghese Kurien, The Man, the Vision, the Legacy (PDF)",
+      "url": "https://indiandairyassociation.org/pdf/info/Dr-Kurien.pdf"
+    },
+    {
+      "label": "Ramon Magsaysay Award Foundation: Verghese Kurien, 1963 citation, biography and response",
+      "url": "https://rmaward.asia/rmawardees/kurien-verghese/"
+    },
+    {
+      "label": "National Dairy Development Board: Operation Flood",
+      "url": "https://www.nddb.coop/about/genesis/flood"
+    },
+    {
+      "label": "Onmanorama (25 Feb 2024): Destiny and the White Revolution, quoting Kurien's memoir I Too Had a Dream",
+      "url": "https://www.onmanorama.com/lifestyle/keralaspora/2024/02/25/column-destiny-and-the-white-revolution.html"
+    },
+    {
+      "label": "The Hindu: The man who revolutionised white, by Parvathi Menon (2012)",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-man-who-revolutionised-white/article3878213.ece"
+    },
+    {
+      "label": "Business Standard (Sep 2012): Kurien, the doodhwalla visionary, by Shreekant Sambrani",
+      "url": "https://www.business-standard.com/article/companies/kurien-the-doodhwalla-visionary-112091000031_1.html"
+    },
+    {
+      "label": "Associated Press obituary via The Boston Globe (11 Sep 2012): Verghese Kurien, led India's dairy industry revolution",
+      "url": "https://www.bostonglobe.com/metro/obituaries/2012/09/11/leader-india-dairy-revolution-dies/6Ql7HrkMOrsn4YsJBIZwhN/story.html"
+    },
+    {
+      "label": "Free Press Journal: review of I Too Had a Dream by M. V. Kamath",
+      "url": "https://www.freepressjournal.in/book-reviews/i-too-had-a-dream"
+    },
+    {
+      "label": "The Tribune (21 Mar 2006): 'Milkman' Kurien quits Amul board",
+      "url": "https://www.tribuneindia.com/2006/20060321/main5.htm"
+    },
+    {
+      "label": "Business Standard (20 Mar 2006): Kurien quits GCMMF",
+      "url": "https://www.business-standard.com/article/management/kurien-quits-gcmmf-106032000039_1.html"
+    },
+    {
+      "label": "BestMediaInfo (6 Apr 2026): Amul brand crosses ₹1 lakh crore turnover in FY26; GCMMF revenue rises 11.4%",
+      "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/amul-brand-crosses-rs-1-lakh-crore-turnover-in-fy26-gcmmf-revenue-rises-114-11457075"
+    },
+    {
+      "label": "DeshGujarat (5 Apr 2026): Amul brand turnover crosses ₹1 lakh crore with 11% growth",
+      "url": "https://deshgujarat.com/2026/04/05/amul-brand-turnover-crosses-%E2%82%B91-lakh-crore-with-11-growth/"
+    },
+    {
+      "label": "Dairy Business MEA (9 Apr 2026): Amul reports turnover of US$12B in FY 2025/2026",
+      "url": "https://dairybusinessmea.com/2026/04/09/amul-reports-turnover-of-us12b-in-fy-2025-2026/"
+    },
+    {
+      "label": "News On AIR (7 Apr 2026): Amit Shah congratulates Amul on ₹1 lakh crore turnover",
+      "url": "https://www.newsonair.gov.in/hm-amit-shah-congratulates-saraswat-bank-and-amul-on-one-lakh-crore-rupees-annual-turnover"
+    },
+    {
+      "label": "Rural Voice (25 Jun 2022): Dairy farmers get about 80-85% of the consumer rupee, says Jayen Mehta",
+      "url": "https://eng.ruralvoice.in/dairy-farmers-in-india-get-about-80-85-per-cent-of-the-rupee-spent-by-the-consumer-says-jayen-mehta"
+    },
+    {
+      "label": "The Tribune (2024): Farmers made Manthan successful, says Shyam Benegal",
+      "url": "https://www.tribuneindia.com/news/entertainment/farmers-made-manthan-successful-says-director-shyman-benegal-ahead-of-films-cannes-screening-621384"
+    },
+    {
+      "label": "Deccan Chronicle (18 May 2024): India's first crowdfunded film Manthan gets standing ovation at Cannes",
+      "url": "https://www.deccanchronicle.com/entertainment/indias-first-crowdfunded-film-manthan-receives-standing-ovation-at-cannes-film-festival-894536"
+    },
+    {
+      "label": "Storyboard18 (21 Jun 2023): Sylvester daCunha, the man behind the Amul girl, passes away",
+      "url": "https://www.storyboard18.com/brand-makers/sylvester-dacunha-the-man-behind-the-iconic-amul-girl-passes-away-9259.htm"
+    },
+    {
+      "label": "afaqs (7 Apr 2023): Amul faces backlash over plans to enter Bengaluru market",
+      "url": "https://www.afaqs.com/news/mktg/amul-faces-backlash-over-plans-to-enter-bengaluru-market"
+    },
+    {
+      "label": "Outlook (7 Apr 2023): #GoBackAmul, #SaveNandini hashtag war over Amul's Karnataka entry",
+      "url": "https://www.outlookindia.com/national/-gobackamul-savenandini-hashtag-war-erupts-on-twitter-over-entry-of-amul-into-karnataka-market-news-276698"
+    },
+    {
+      "label": "The Indian Express (2018): He was an atheist, religion played no part in his life, says Kurien's daughter",
+      "url": "https://indianexpress.com/article/india/he-was-an-atheist-religion-played-no-part-in-his-life-says-kuriens-daughter-5466180/"
+    },
+    {
+      "label": "Live History India (23 Jul 2022): Operation Flood, India's White Revolution",
+      "url": "https://livehistoryindia.com/story/eras/operation-flood-white-revolution"
+    },
+    {
+      "label": "National Dairy Development Board: speech on cattle feed plants, on Shastri's 31 Oct 1964 visit and NDDB's genesis",
+      "url": "https://www.nddb.coop/about/speech/workshop-qc-cfp"
+    },
+    {
+      "label": "Dairy News 7x7 (republished from The Quint): Shastri, Kurien and the White Revolution",
+      "url": "https://dairynews7x7.com/news/shastri-kurien-and-the-white-revolution-dairy-efficient-india"
+    },
+    {
+      "label": "domain-b news review (21 Mar 2006): Kurien, 84, resigns as GCMMF chairman",
+      "url": "https://www.domain-b.com/news_review/200603mar/20060321newsd.html"
+    },
+    {
+      "label": "The Tribune (10 Sep 2012): Kurien dies at 90 in Nadiad",
+      "url": "https://www.tribuneindia.com/2012/20120910/main7.htm"
+    },
+    {
+      "label": "IANS via Darpan Magazine (26 Nov 2018): He was an atheist, says Verghese Kurien's daughter",
+      "url": "https://www.darpanmagazine.com/news/india/he-was-an-atheist-says-verghese-kuriens-daughter-on-conversion-charge/"
+    },
+    {
+      "label": "The Tribune (9 Apr 2023): Amul's entry to poll-bound Karnataka kicks off political slugfest",
+      "url": "https://www.tribuneindia.com/news/nation/amuls-entry-to-poll-bound-karnataka-kicks-off-political-slugfest-opposition-sees-calls-it-attempt-to-finish-off-states-nandini-brand-495458"
+    },
+    {
+      "label": "domain-b: Operation Flood, how Kurien turned Europe's dairy surpluses into capital",
+      "url": "https://www.domain-b.com/businessleaders/leaders_profile/operation_flood.htm"
+    }
+  ],
+  "factCheck": {
+    "method": "Researched from 27 sources; then independently re-checked claim by claim against the cited source plus a second source (34 sources in all): the Kaira union's own pages, RMAF, NDDB, Onmanorama, AP, The Tribune and the FY2026 reports. Quotes matched to the page that prints them. Where Business Standard and The Hindu would not load, their wording was confirmed through search excerpts or replaced with sources that load. Photo captions checked against the Commons records and the images themselves. The six video moments match the chapter times in the creator's own YouTube description, re-read on 28 Oct 2026.",
+    "disputed": [
+      {
+        "claim": "When the buffalo-milk powder dairy opened",
+        "note": "The Kaira union says Nehru opened it on 31 October 1955; Business Standard's 2012 obituary says Nehru inaugurated it in 1956. We use 1955, the union's own record."
+      },
+      {
+        "claim": "How Kurien came to stay in Anand",
+        "note": "The Kaira union says Tribhuvandas Patel asked him to stay after his release at the end of 1949. Kurien's memoir, as quoted by Onmanorama, says he resigned after eight months and joined the co-op within a month. Business Standard says he agreed to manage it for six months. All agree Patel persuaded him."
+      },
+      {
+        "claim": "What Kurien studied at Michigan State",
+        "note": "His formal degree was a master's in mechanical engineering (1948), with dairy engineering listed as a minor by the Kaira union. Kurien himself wrote that he wanted metallurgy and nuclear physics and took only token dairy courses."
+      },
+      {
+        "claim": "Kurien's first degree",
+        "note": "The Kaira union calls his 1940 Loyola College degree a science degree; some other accounts say physics. We say science."
+      },
+      {
+        "claim": "The 2006 no-confidence motion",
+        "note": "Kurien and news reports said a majority of the board had decided to move a no-confidence motion and had gone to the co-operative authorities to restrain him. He resigned before it was put to a vote, so we do not say the board passed it."
+      },
+      {
+        "claim": "Milk handled in 1948",
+        "note": "The Kaira union says about 250 litres a day from June 1948; the 1963 Magsaysay biography says 500 pounds (about 230 litres) a day; the Kamath review says the collection began at 200 litres. We say 'about 250 litres'."
+      },
+      {
+        "claim": "The ₹30,000 bond and the Union Carbide offer",
+        "note": "Only Kurien's memoir (as quoted by Onmanorama) gives these figures. That he was bound by a bond his uncle refused to waive is reported by Business Standard and the Kaira union."
+      },
+      {
+        "claim": "Kurien's ₹5,000 maximum salary",
+        "note": "From M. V. Kamath's review of the memoir only; not confirmed elsewhere."
+      },
+      {
+        "claim": "Kurien disliked milk",
+        "note": "Reported in the AP obituary and widely repeated; we found no verbatim statement by Kurien himself."
+      },
+      {
+        "claim": "Shastri's night with a farmer",
+        "note": "The 31 October 1964 visit is in NDDB's own record; the overnight stay with a farmer family comes from later retellings (The Quint, ThePrint) and is not in the Kaira union's history."
+      },
+      {
+        "claim": "The 80-85% farmer share",
+        "note": "A figure GCMMF states repeatedly in its own releases and interviews; not an independent audit."
+      }
+    ]
+  }
+}

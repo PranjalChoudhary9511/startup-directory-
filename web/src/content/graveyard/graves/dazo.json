@@ -1,0 +1,178 @@
+{
+  "slug": "dazo",
+  "name": "Dazo",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Food delivery",
+  "founded": 2014,
+  "died": 2015,
+  "status": "shut-down",
+  "brandColor": "#f5a623",
+  "founders": [
+    { "name": "Shashaank Shekhar Singhal", "role": "Co-founder & CEO" },
+    { "name": "Monica Rastogi", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Three taps to order. One year to close.",
+  "oneLiner": "A mobile app that delivered a small, daily-changing menu of healthy lunches and dinners to office workers in a few Bengaluru areas.",
+  "causeOfDeath": "It changed its model within months, stayed tiny next to Swiggy and Zomato, and could not raise more money when India's food-delivery bubble burst.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "Dazo raised seed money from well-known angel investors (people investing their own money) in 2015, but the amount was never disclosed. No valuation was published. It shut down with nothing sold.",
+  "moneySrc": [3, 0, 5],
+
+  "inOneMinute": [
+    "Dazo began as a **WhatsApp pilot** in 2014, cooking its own food and promising lunch in **30 minutes** to office workers.",
+    "In 2015 it raised seed money from the **heads of Google India and Amazon India**, among others, then switched to delivering food from partner restaurants.",
+    "In October 2015, about a year after launch, it shut down as rivals with **much bigger restaurant networks** took over."
+  ],
+  "killerLine": "A small menu is only an advantage if people want less choice. **Check that before a giant offers them more.**",
+
+  "numbers": [
+    { "value": "3 taps", "label": "all it took to order a meal on its Android app", "src": [3] },
+    { "value": "300–350", "label": "orders a day it said it handled (June 2015)", "src": [5] },
+    { "value": "30 min → 2–3 hrs", "label": "delivery promise at launch vs after the switch to partner restaurants", "src": [4, 5] },
+    { "value": "~1 year", "label": "from app launch (Oct 2014) to shutdown (Oct 2015)", "src": [0, 1] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: good lunch for busy people",
+      "body": "Monica Rastogi came back to Bengaluru from the US in 2012. She and Shashaank Shekhar Singhal, both with tech backgrounds (he had led mobile products at redBus), noticed that office workers either ate rich food, paid for expensive salads, or **skipped lunch**. In August 2014 they tested an idea on **WhatsApp**: message us, and we deliver a healthy, affordable meal. In October 2014 they launched an app called TapCibo. It worked like a food court on your phone, aimed at office-goers, with a promise of delivery **within 30 minutes**. It cooked with its own chefs, offering North Indian and Chinese food and salads. In January 2015 it got early money from Alok Goel, the CEO of FreeCharge. The report noted that Rastogi is his wife.",
+      "src": [5, 4, 3, 7]
+    },
+    {
+      "title": "The rise: star investors and a new name",
+      "body": "In April 2015, TapCibo renamed itself **Dazo**, a shorter name that was easier to say. It announced a seed round from some of the best-known names in Indian tech, including **Rajan Anandan of Google India**, Amit Agrawal of Amazon India, Sumit Jain of CommonFloor and Aprameya Radhakrishna of TaxiForSure. It also changed its model. Instead of cooking, it became a curated aggregator (a middleman picking a few good restaurants), with partners like Tadka Singh and Chai Point. Dazo picked the menu and delivered the food. Ordering took just **three taps** on an Android phone. By June 2015 the founders said they were handling **300–350 orders a day**, and planned to enter Pune, Delhi, Mumbai, Hyderabad and Chennai.",
+      "src": [3, 5, 0]
+    },
+    {
+      "title": "The cracks: small menu, big rivals",
+      "body": "The switch had a cost. The promise moved from 30 minutes to **delivery within 2–3 hours** of ordering. Dazo served only a few areas, such as Koramangala and Bagmane Tech Park, with a short menu of about 8–10 items for lunch and dinner. Meanwhile, rivals like TinyOwl, Zomato and Swiggy had **far bigger networks of partner restaurants** and much deeper pockets. Then the mood turned. By late 2015 India's food-delivery startups were in trouble. TinyOwl fired more than 180 people, and SpoonJoy scaled down in Bengaluru and shut in Delhi. For a tiny startup with only angel money, the next, bigger round was suddenly very hard to find.",
+      "src": [5, 2, 0, 1]
+    },
+    {
+      "title": "The fall: a polite goodbye",
+      "body": "In early October 2015, Dazo told customers it was shutting down, **barely a year after launch**. CEO Singhal said: \"As a team we've decided to move over this business and we'll be working on a new product.\" He added, \"I hope we were able to serve you well.\" He declined to say more. Business Standard's report put the shutdown down to a **lack of funding**, and MediaNama called it part of \"the inevitable consolidation\" in food startups. To be fair to the founders, they did a lot quickly: a working app, real daily customers and respected backers. But they were racing rivals with far more restaurants and far more money.",
+      "src": [0, 1, 6, 2, 9]
+    }
+  ],
+
+  "timeline": [
+    { "date": "Aug 2014", "event": "Founders pilot the idea on WhatsApp in Bengaluru", "kind": "start", "src": [4] },
+    { "date": "Oct 2014", "event": "TapCibo launches as a mobile-only food app with its own chefs", "kind": "start", "src": [3, 7] },
+    { "date": "Jan 2015", "event": "Gets early funding from FreeCharge CEO Alok Goel; promises 30-minute delivery", "kind": "money", "src": [4] },
+    { "date": "Apr 2015", "event": "Rebrands to Dazo; raises seed round from Google India, Amazon India and startup leaders", "kind": "money", "src": [3] },
+    { "date": "2015", "event": "Switches from its own kitchen to curated partner restaurants", "kind": "warning", "src": [0, 1] },
+    { "date": "Jun 2015", "event": "Says it handles 300–350 orders a day; plans five more cities", "kind": "peak", "src": [5] },
+    { "date": "Late 2015", "event": "Food-delivery shake-out: TinyOwl lays off 180+, SpoonJoy shuts in Delhi", "kind": "crisis", "src": [0, 1] },
+    { "date": "Oct 2015", "event": "Dazo announces it is shutting down to work on a new product", "kind": "end", "src": [0, 1, 6] }
+  ],
+
+  "charts": [],
+
+  "rounds": [
+    { "date": "Jan 2015", "round": "Angel", "amountUsdM": null, "valuationUsdM": null, "investors": ["Alok Goel"], "src": [4] },
+    { "date": "Apr 2015", "round": "Seed", "amountUsdM": null, "valuationUsdM": null, "investors": ["Rajan Anandan", "Amit Agrawal", "Sumit Jain", "Aprameya Radhakrishna", "Alok Goel", "Vinay Goel", "Ashish Dev Kapur"], "src": [3, 2] }
+  ],
+
+  "causes": [
+    { "key": "competition", "weight": 35 },
+    { "key": "funding-dried", "weight": 30 },
+    { "key": "focus", "weight": 20 },
+    { "key": "business-model", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Too small to survive a price-and-choice war",
+      "explain": "Dazo offered a short, curated menu in a few neighbourhoods. Rivals like Swiggy and Zomato offered **many more restaurants** and had far more money. When customers can pick from hundreds of places on one app, a handful of daily dishes is a hard sell. Being small is fine; being small in the same game as giants rarely is.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "Changing the core model in its first year",
+      "explain": "It launched cooking its own food with a **30-minute promise**, then became a middleman for partner restaurants with delivery in **2–3 hours**. Each switch meant new partners, new processes and a new promise to customers. It never had time to prove that one version made money before betting on the next.",
+      "src": [4, 5, 7]
+    },
+    {
+      "title": "Planning many cities from two neighbourhoods",
+      "explain": "In June 2015, Dazo was live in places like Koramangala and Bagmane Tech Park, yet **planned five more cities** within months. Expansion plans are cheap to write and very costly to carry out. It is wiser to make one area profitable and loved before you promise the country.",
+      "src": [5, 2]
+    },
+    {
+      "title": "Only angel money when the storm came",
+      "explain": "Its backers were famous individuals, which is a great vote of confidence. But angels usually write small cheques. When food-tech funding dried up in late 2015, Dazo had **no deep-pocketed fund behind it** to carry it through. Reports said it shut for lack of money.",
+      "src": [3, 6, 0]
+    }
+  ],
+
+  "warningSigns": [
+    "Does a much bigger rival offer more choice than you, in the same area, for the same customer?",
+    "Have you changed your core business model more than once in your first year?",
+    "Are you planning new cities while your first neighbourhood is still not profitable?",
+    "If your next funding round fails, do you have less than six months of money left?",
+    "Has your main promise (speed, price, quality) got worse since launch?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Start scrappy, like Dazo did",
+      "detail": "Dazo tested its idea on WhatsApp before building an app. That is smart. Use a free tool to prove people will pay, and only build tech once you see repeat orders."
+    },
+    {
+      "title": "Pick a niche giants ignore",
+      "detail": "'Healthy office lunch' sounds niche, but it was the same field as Swiggy and Zomato. Look for customers the big players serve badly, such as one type of diet or one office park, and own that completely."
+    },
+    {
+      "title": "Protect your promise",
+      "detail": "Going from 30 minutes to 2–3 hours changed what customers were buying. Before you change your model, ask: will my best customers still get what they came for?"
+    },
+    {
+      "title": "Watch the funding weather",
+      "detail": "When competitors start laying people off, investors get nervous across the whole sector. Cut costs and stretch your cash early, before your own round is due."
+    },
+    {
+      "title": "Close with grace",
+      "detail": "Dazo told customers clearly and thanked them. Shutting down honestly protects your name, your investors' trust and your next startup."
+    }
+  ],
+
+  "quote": {
+    "text": "As a team we've decided to move over this business and we'll be working on a new product.",
+    "who": "Shashaank Shekhar Singhal, co-founder & CEO",
+    "context": "Announcing Dazo's shutdown in October 2015, about a year after launch.",
+    "src": [0, 1]
+  },
+
+  "afterlife": {
+    "text": "The team said it would work on a new product, but what it built next was never publicly reported. Data firm CB Insights lists the company, Tapcibo Online Solutions, as dead. Food delivery in India did keep growing, but around a few big platforms with huge restaurant networks, like the Swiggy and Zomato that Dazo was competing against.",
+    "src": [0, 7, 8]
+  },
+
+  "sources": [
+    { "label": "Inc42: Food-tech startup Dazo to shut down operations (Oct 2015)", "url": "https://inc42.com/flash-feed/dazo-to-shutdown-operations" },
+    { "label": "OfficeChai: Food tech startup Dazo shuts down (Oct 2015)", "url": "https://officechai.com/news/dazo-shuts-down/" },
+    { "label": "MediaNama: Internet digest — Dazo shuts down (Oct 2015)", "url": "https://www.medianama.com/2015/10/223-internet-digest-dazo-zo-rooms-axisrooms-shopo-dotaprohub/" },
+    { "label": "Franchise India: TapCibo raises funds and rebrands itself as Dazo (Apr 2015)", "url": "https://www.franchiseindia.com/entrepreneur/news/TapCibo-raises-funds-and-rebrands-itself-as-Dazo-6357" },
+    { "label": "Franchise India: Food ordering startup TapCibo secures funding from FreeCharge's CEO Alok Goel (Jan 2015)", "url": "https://www.franchiseindia.com/entrepreneur/news/Food-ordering-startup-TapCibo-secures-funding-from-FreeCharge-s-CEO-Alok-Goel-5852" },
+    { "label": "Restaurant India: 'We will enter new areas and markets in next few months' — Dazo founders interview (Jun 2015)", "url": "https://www.restaurantindia.in/article/We-will-enter-new-areas-markets-in-next-few-months-Dazo.6853" },
+    { "label": "Business Standard: Bengaluru-based food-tech startup Dazo shuts down due to lack of funding (Oct 2015, headline)", "url": "https://business-standard.com/article/companies/bengaluru-based-food-tech-startup-dazo-shuts-down-due-to-lack-of-funding-115100700721_1.html" },
+    { "label": "CB Insights: Tapcibo Online Solutions (Dazo) profile", "url": "https://www.cbinsights.com/company/tapcibo-online-solutions" },
+    { "label": "Inc42: Dazo company profile", "url": "https://inc42.com/company/dazo/people/" },
+    { "label": "DealStreetAsia: Food tech start-up Dazo shuts down, barely a year after its launch (Oct 2015)", "url": "https://dealstreetasia.com/stories/india-food-tech-start-up-dazo-shuts-down-barely-a-year-after-its-launch-14880" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Dazo raised $2.5 million.", "note": "Claimed by one failure-database site, IdeaProof, but no news report disclosed any amount. We leave it out." },
+      { "claim": "Dazo shut down in 2016.", "note": "Failory and IdeaProof say 2016. Inc42, OfficeChai, MediaNama and DealStreetAsia all reported the shutdown in October 2015, which we use." },
+      { "claim": "Orders per day.", "note": "Reports vary: 'over 100 meals a day' in early 2015, 300–350 a day in a June 2015 interview, and 'over 150 orders a day' in the shutdown coverage. They come from the company and were never independently checked, so we do not chart them." },
+      { "claim": "Business Standard's full report.", "note": "We could only access its headline (lack of funding), not the article body." },
+      { "claim": "Investor list.", "note": "Lists differ slightly between reports (for example, Inc42 also names Gaurav Munjal and Vinay Goel). Amit Agrawal of Amazon India is spelled 'Agarwal' in some reports." }
+    ]
+  }
+}

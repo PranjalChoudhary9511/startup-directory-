@@ -1,0 +1,513 @@
+{
+  "name": "Jensen Huang",
+  "title": "From Toilet Duty to Five Trillion",
+  "subtitle": "How a boy from a Kentucky reform school and a Denny's kitchen built Nvidia, the chip company that powers AI, and what he got right and wrong along the way.",
+  "hook": "In the mid-1970s, a ==nine-year-old== Jensen Huang and his older brother were sent to live in the dormitory of Oneida Baptist Institute in rural Kentucky. His relatives thought it was a good boarding school. It was a reform academy, and the little boy's job was to __clean all the bathrooms__. Fifty years later he runs Nvidia, which in 2025 became worth ==more than $5 trillion==, and that same school now has a building named after him, paid for with a **$2 million** matching grant from Huang and his wife, Lori.",
+  "hookSrc": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/960px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+    "caption": "Jensen Huang, founder and CEO of Nvidia, during a fireside chat in Stanford University's CS 153 course, 30 April 2026.",
+    "author": "Anderseidesvik",
+    "license": "CC BY-SA 4.0",
+    "year": 2026
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/OBI_Sign_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:OBI_Sign_01.jpg",
+      "caption": "The welcome sign at Oneida Baptist Institute in Oneida, Clay County, Kentucky, the boarding school where nine-year-old Jensen and his brother lived in the dormitory in the 1970s. Photographed in 2010.",
+      "author": "Principal01",
+      "license": "Public domain",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/VisionTek_GeForce_256.jpg/960px-VisionTek_GeForce_256.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:VisionTek_GeForce_256.jpg",
+      "caption": "A VisionTek GeForce 256 DDR graphics card, built around the Nvidia GeForce 256 chip, launched in 1999 and often called the first GPU.",
+      "author": "Hyins",
+      "license": "Public domain",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nvidia_HQ.jpg/960px-Nvidia_HQ.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nvidia_HQ.jpg",
+      "caption": "Nvidia's headquarters in Santa Clara, California, in May 2005.",
+      "author": "Kevin McCarthy",
+      "license": "CC BY 2.0",
+      "year": 2005
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/NVidiaMobileMediaPress_JensenHuang.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:NVidiaMobileMediaPress_JensenHuang.jpg",
+      "caption": "Jensen Huang at Nvidia's press conference at Computex in Taipei, 7 June 2006.",
+      "author": "Rico Shen",
+      "license": "CC BY-SA 3.0",
+      "year": 2006
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jensen_Huang_at_Computex_Taipei_20100531.jpg/960px-Jensen_Huang_at_Computex_Taipei_20100531.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20100531.jpg",
+      "caption": "Nvidia CEO Jensen Huang at the Computex trade show in Taipei, 31 May 2010.",
+      "author": "Masaru Kamikura",
+      "license": "CC BY 2.0",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nvdia_Endeavor_Grand_Opening_entry.jpg/960px-Nvdia_Endeavor_Grand_Opening_entry.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nvdia_Endeavor_Grand_Opening_entry.jpg",
+      "caption": "The landscaped approach to Endeavor, Nvidia's newer headquarters building in Santa Clara, at its grand opening in November 2017.",
+      "author": "Daniel J. Prostak",
+      "license": "CC BY-SA 4.0",
+      "year": 2017
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/JensenHuangSC18.jpg/960px-JensenHuangSC18.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JensenHuangSC18.jpg",
+      "caption": "Jensen Huang at SC18, the supercomputing conference, November 2018.",
+      "author": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine",
+      "license": "CC0",
+      "year": 2018
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg/960px-Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_%282%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_-_RTX_Blackwell_-_Nvidia_Keynote_-_CES_2025_Las_Vegas_(2).jpg",
+      "caption": "Jensen Huang presents the next generation of RTX Blackwell GPUs at Nvidia's keynote at CES 2025 in Las Vegas, 6 January 2025.",
+      "author": "Pronoia",
+      "license": "CC0",
+      "year": 2025
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "1963, Tainan, Taiwan",
+      "src": [
+        4,
+        12
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "Taiwan, then Thailand. Sent to the US at nine with his older brother, first to a reform academy in Kentucky, then reunited with his family in Oregon. Finished high school at 16 and was a nationally ranked junior table-tennis player.",
+      "src": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "BS in electrical engineering, Oregon State University (1984); MS in electrical engineering, Stanford (1992), earned while working full time",
+      "src": [
+        5,
+        7
+      ]
+    },
+    {
+      "label": "First job",
+      "value": "At 15, a Denny's restaurant in the Portland, Oregon area: dishwasher, then busboy, then waiter",
+      "src": [
+        8,
+        9
+      ]
+    },
+    {
+      "label": "Before Nvidia",
+      "value": "Chip designer at AMD (1984–85), then eight years at LSI Logic (1985–93)",
+      "src": [
+        7
+      ]
+    },
+    {
+      "label": "First company (age)",
+      "value": "Nvidia, co-founded in 1993 at 30 with Chris Malachowsky and Curtis Priem, planned in a Denny's booth in San Jose",
+      "src": [
+        3,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "label": "Main company today",
+      "value": "Nvidia: president and CEO since day one. About 42,000 employees in 38 countries; market value passed $5 trillion in 2025",
+      "src": [
+        0,
+        7,
+        12
+      ]
+    },
+    {
+      "label": "Source of wealth",
+      "value": "About 4% of Nvidia. Forbes real-time net worth $186.6 billion, No. 7 in the world (29 Oct 2026)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "label": "Family",
+      "value": "Married to Lori Huang (née Mills), his lab partner in a first-year engineering class at Oregon State; two adult children, Spencer and Madison",
+      "src": [
+        5,
+        6,
+        11
+      ]
+    },
+    {
+      "label": "Lives in",
+      "value": "Los Altos, California, USA",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "Huang has no personal X or Instagram account that we could find; his one personal social account is a LinkedIn profile with about 2 million followers, so a cold message there is very unlikely to be read. If you are building an AI startup, the real door into his world is NVIDIA Inception: it is free, takes companies under 10 years old at any stage with no revenue needed, and includes networking events with investors and Nvidia executives. Journalists should use press@nvidia.com (or india-pr@nvidia.com in India), investors should use the Investor Relations form or (877) 7-NVIDIA, and job seekers should go through the careers site, not the CEO. Never email guessed addresses, pay a \"contact finder\" site, or trust anyone online who claims to be Huang and asks for money or crypto. Whatever channel you use, keep it under 150 words: who you are, what you have actually built with Nvidia technology, and one clear ask.",
+    "channels": [
+      {
+        "kind": "address",
+        "label": "Nvidia head office (principal executive offices)",
+        "value": "NVIDIA Corporation, 2788 San Tomas Expressway, Santa Clara, California 95051, USA",
+        "url": null,
+        "whose": "NVIDIA Corporation",
+        "src": [
+          12,
+          13
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Head office switchboard (as filed with the SEC)",
+        "value": "+1 (408) 486-2000",
+        "url": "tel:+14084862000",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          12,
+          13
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Investor inquiries",
+        "value": "(877) 7-NVIDIA",
+        "url": "tel:+18777684342",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Investor Relations contact form",
+        "value": "investor.nvidia.com: Contact Investor Relations",
+        "url": "https://investor.nvidia.com/investor-resources/contact-investor-relations/default.aspx",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          15
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Investor Relations website (filings, results, events)",
+        "value": "investor.nvidia.com",
+        "url": "https://investor.nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          12
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "General enquiries",
+        "value": "info@nvidia.com",
+        "url": "mailto:info@nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press (Corporate Communications)",
+        "value": "press@nvidia.com",
+        "url": "mailto:press@nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          14
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press, India",
+        "value": "india-pr@nvidia.com",
+        "url": "mailto:india-pr@nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          14
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Press, rest of Asia-Pacific (Australia, Korea, South Asia, Taiwan)",
+        "value": "restofapac-pr@nvidia.com",
+        "url": "mailto:restofapac-pr@nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          14
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "NVIDIA Inception: free programme for AI startups (apply here)",
+        "value": "nvidia.com/startups",
+        "url": "https://www.nvidia.com/en-us/startups/",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          16
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Careers",
+        "value": "nvidia.com/en-us/about-nvidia/careers",
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Contact sales",
+        "value": "nvidia.com/en-us/contact/sales",
+        "url": "https://www.nvidia.com/en-us/contact/sales/",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Asia offices, including India (Bengaluru, Gurugram, Hyderabad, Mumbai, New Delhi, Pune) and Taiwan (Hsinchu, Taipei)",
+        "value": "nvidia.com/en-in/contact/asia",
+        "url": "https://www.nvidia.com/en-in/contact/asia/",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          17
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Official website",
+        "value": "nvidia.com",
+        "url": "https://www.nvidia.com",
+        "whose": "NVIDIA Corporation",
+        "src": [
+          12,
+          13
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "linkedin",
+        "handle": "Jensen Huang (jenhsunhuang)",
+        "url": "https://www.linkedin.com/in/jenhsunhuang/",
+        "whose": "Jensen Huang (personal; about 2M followers, no verification badge shown on the public page)",
+        "src": [
+          20
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@nvidia",
+        "url": "https://x.com/nvidia",
+        "whose": "Nvidia (company)",
+        "src": [
+          13,
+          18
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "NVIDIA",
+        "url": "https://www.linkedin.com/company/nvidia/",
+        "whose": "Nvidia (company)",
+        "src": [
+          13,
+          18
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@nvidia",
+        "url": "https://www.instagram.com/nvidia/",
+        "whose": "Nvidia (company)",
+        "src": [
+          13,
+          18
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "NVIDIA",
+        "url": "https://www.youtube.com/user/nvidia",
+        "whose": "Nvidia (company; keynotes such as GTC are posted here)",
+        "src": [
+          13,
+          18
+        ]
+      },
+      {
+        "platform": "facebook",
+        "handle": "NVIDIA",
+        "url": "https://www.facebook.com/NVIDIA",
+        "whose": "Nvidia (company)",
+        "src": [
+          13,
+          18
+        ]
+      },
+      {
+        "platform": "weibo",
+        "handle": "NVIDIA China",
+        "url": "https://weibo.com/u/5943087025",
+        "whose": "Nvidia China (company)",
+        "src": [
+          19
+        ]
+      },
+      {
+        "platform": "other",
+        "handle": "NVIDIA on Bilibili",
+        "url": "https://space.bilibili.com/1320140761/",
+        "whose": "Nvidia China (company)",
+        "src": [
+          19
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Front matter and contact card built from primary records first: Nvidia's FY2026 10-K (SEC EDGAR, filed 25 Feb 2026), Nvidia's own contact, newsroom, investor-relations and Inception pages, and Huang's official company biography. Childhood and education facts were cross-checked against Oneida Baptist Institute's own page on Jen-Hsun Huang Hall, Oregon State University's Engineering Hall of Fame entry and newsroom, the Carnegie Corporation's Great Immigrants profile and the Computer History Museum. Press details come from Fortune, NBC Bay Area and CBS 60 Minutes. Net worth and ownership are the Forbes real-time figures read on 29 Oct 2026. Photos and licences were read from the Wikimedia Commons API (imageinfo/extmetadata); thumbnails use 960px because Commons rejects a 1000px width. Socials cite Nvidia's own website footers or the profile itself; no personal phones, guessed emails or data-broker sites were used. Several outlets (Britannica, New Yorker, Business Insider, NYT, Bloomberg, CNBC) blocked our fetcher, so we did not cite them.",
+    "disputed": [
+      {
+        "claim": "Huang's birthplace",
+        "note": "The Computer History Museum says Tainan, Taiwan; Wikipedia gives Taipei, citing Stephen Witt's 2025 book. We use Tainan."
+      },
+      {
+        "claim": "Huang's exact birth date",
+        "note": "17 February 1963 is widely reported, and Nvidia's Feb 2026 10-K lists him as 63, which fits. We could not read a primary source giving the day, so the glance gives the year only."
+      },
+      {
+        "claim": "Huang's age at Oneida Baptist Institute",
+        "note": "The school's own page says he was nine; the Carnegie Corporation says he was sent to an uncle at nine and enrolled at Oneida at ten. We say nine, and the chapters may say 'nine or ten'."
+      },
+      {
+        "claim": "Which Denny's employed teenage Huang",
+        "note": "Fortune, citing an Nvidia blog post, says a Denny's in the Portland, Oregon area at 15. NBC Bay Area's report from the San Jose plaque event suggests he worked at that San Jose branch. He grew up in Oregon, so we go with the Portland area; the San Jose Denny's on Berryessa Road is where Nvidia was planned."
+      },
+      {
+        "claim": "Year Jensen and Lori Huang married",
+        "note": "Oregon State says they met as freshman lab partners and married five years later; 1985 is often given but we found no primary source, so we leave the year out."
+      },
+      {
+        "claim": "Investor-relations phone number",
+        "note": "Nvidia publishes it as the vanity number (877) 7-NVIDIA; the dial link spells it out as +1 877 768 4342 using standard keypad letters."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Forbes: Jensen Huang profile (real-time net worth, read 29 Oct 2026)",
+      "url": "https://www.forbes.com/profile/jensen-huang/"
+    },
+    {
+      "label": "Oneida Baptist Institute: Jen-Hsun Huang Hall",
+      "url": "https://www.oneidaschool.org/about/huanghall.cfm"
+    },
+    {
+      "label": "Fortune: Nvidia's billionaire boss on cleaning bathrooms as a boy (28 Aug 2024)",
+      "url": "https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo/"
+    },
+    {
+      "label": "Carnegie Corporation of New York: Great Immigrants honoree, Jensen Huang",
+      "url": "https://www.carnegie.org/awards/honoree/jensen-huang/"
+    },
+    {
+      "label": "Computer History Museum: Jensen Huang, 2024 Fellow",
+      "url": "https://computerhistory.org/profile/jensen-huang/"
+    },
+    {
+      "label": "Oregon State University College of Engineering: Jen-Hsun Huang, Engineering Hall of Fame (2013)",
+      "url": "https://engineering.oregonstate.edu/alumni-partners/oregon-stater-awards/searchable-awards-database/jen-hsun-huang-engineering-hall"
+    },
+    {
+      "label": "Oregon State University Newsroom: $50 million gift from Nvidia founder and spouse (14 Oct 2022)",
+      "url": "https://news.oregonstate.edu/news/50-million-gift-nvidia-founder-and-spouse-helps-launch-oregon-state-university-research-center"
+    },
+    {
+      "label": "NVIDIA: Jensen Huang, board of directors biography",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
+    },
+    {
+      "label": "Fortune: Nvidia CEO's first job was at Denny's (12 Mar 2024)",
+      "url": "https://fortune.com/2024/03/12/billionaire-nvidia-ceo-first-job-dennys/"
+    },
+    {
+      "label": "NBC Bay Area: Denny's honors Nvidia CEO at San Jose booth where company began (26 Sep 2023)",
+      "url": "https://www.nbcbayarea.com/news/local/south-bay/nvidia-ceo-dennys-san-jose/3327542/"
+    },
+    {
+      "label": "CBS News 60 Minutes: Meet Nvidia CEO Jensen Huang (transcript, 2024)",
+      "url": "https://www.cbsnews.com/news/meet-nvida-ceo-jensen-huang-company-powering-ai-today-60-minutes-transcript/"
+    },
+    {
+      "label": "Fortune: Nvidia CEO Jensen Huang, Businessperson of the Year (16 Nov 2017)",
+      "url": "https://fortune.com/2017/11/16/nvidia-ceo-jensen-huang/"
+    },
+    {
+      "label": "NVIDIA Corporation Form 10-K for fiscal year ended 25 Jan 2026 (SEC EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    {
+      "label": "NVIDIA: Contact Us (headquarters, phones, careers, social links)",
+      "url": "https://www.nvidia.com/en-us/contact/"
+    },
+    {
+      "label": "NVIDIA Newsroom: Media contacts",
+      "url": "https://nvidianews.nvidia.com/contacts"
+    },
+    {
+      "label": "NVIDIA Investor Relations: Contact Investor Relations",
+      "url": "https://investor.nvidia.com/investor-resources/contact-investor-relations/default.aspx"
+    },
+    {
+      "label": "NVIDIA Inception programme for startups",
+      "url": "https://www.nvidia.com/en-us/startups/"
+    },
+    {
+      "label": "NVIDIA: Asia office locations (India and Taiwan)",
+      "url": "https://www.nvidia.com/en-in/contact/asia/"
+    },
+    {
+      "label": "NVIDIA India website (footer social links)",
+      "url": "https://www.nvidia.com/en-in/"
+    },
+    {
+      "label": "NVIDIA China website (footer social links: Weibo, Bilibili)",
+      "url": "https://www.nvidia.cn/"
+    },
+    {
+      "label": "Jensen Huang on LinkedIn",
+      "url": "https://www.linkedin.com/in/jenhsunhuang/"
+    }
+  ]
+}

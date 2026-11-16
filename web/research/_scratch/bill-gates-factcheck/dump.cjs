@@ -1,0 +1,18 @@
+const fs=require('fs');const b=JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
+const out=[];
+out.push('TITLE',b.title,b.subtitle,'HOOK',b.hook,JSON.stringify(b.hookSrc));
+out.push('PORTRAIT',JSON.stringify(b.portrait));out.push('PHOTOS',JSON.stringify(b.photos,null,0));
+out.push('GLANCE');b.glance.forEach((g,i)=>out.push(`${i} ${g.label}: ${g.value} ${JSON.stringify(g.src)}`));
+out.push('CONTACT',b.contact.howToReach);b.contact.channels.forEach((c,i)=>out.push(`ch${i} ${JSON.stringify(c)}`));b.contact.socials.forEach((c,i)=>out.push(`so${i} ${JSON.stringify(c)}`));
+b.chapters.forEach((c,ci)=>{out.push(`\n=== CH${ci} ${c.id} | ${c.kicker} | ${c.title}`);c.blocks.forEach((x,i)=>{const s=JSON.stringify(x.src||'');
+ if(x.t==='p'||x.t==='example'||x.t==='h'||x.t==='note')out.push(`[${ci}.${i} ${x.t}] ${x.text} ${x.src?s:''}`);
+ else if(x.t==='quote')out.push(`[${ci}.${i} quote] "${x.text}" -- ${x.who} ${s}`);
+ else if(x.t==='facts'||x.t==='timeline')x.items.forEach((it,j)=>out.push(`[${ci}.${i}.${j} ${x.t}] ${it.value||it.when}: ${it.label||it.text} ${JSON.stringify(it.src)}`));
+ else if(x.t==='photo')out.push(`[${ci}.${i} photo] ${JSON.stringify(x.photo)}`);
+ else if(x.t==='lesson')out.push(`[${ci}.${i} lesson] ${x.title}: ${x.text}`);
+ else if(x.t==='venture')out.push(`[${ci}.${i} venture] ${x.name} (${x.years}) ${x.outcome}\n IDEA ${x.idea}\n DECISION ${x.decision}\n STARTED ${x.howStarted}\n FUNDING ${x.funding}\n WHAT ${x.whatHappened}\n LESSON ${x.lesson} ${s}`);
+ else out.push(`[${ci}.${i} ${x.t}] ${JSON.stringify(x)}`);
+});});
+out.push('\nLESSONS');b.lessons.forEach((l,i)=>out.push(`${i} ${l.title}: ${l.text}`));
+out.push('\nSOURCES');b.sources.forEach((s,i)=>out.push(`${i} ${s.label} :: ${s.url}`));
+fs.writeFileSync(process.argv[3],out.join('\n'));console.log(out.join('\n').length,out.length);

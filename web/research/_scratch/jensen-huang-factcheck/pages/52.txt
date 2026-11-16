@@ -1,0 +1,611 @@
+An Evening with Morris Chang in conversation with Jen-Hsun Huang
+                               Recorded: October 17, 2007
+                                 Mountain View, California
+
+                         CHM Reference number: X4614.2008
+                           © 2007 Computer History Museum
+                                                     An Evening with Morris Chang
+
+John Toole: Jen-Hsun is co-founder, CEO and President of Nvidia, who is also a very close friend of Dr.
+Chang personally and professionally and you'll see that this evening. He was born in Taipei, Taiwan. He
+spent several years living in Thailand until he was accidentally sent to a Christian boarding school in
+Kentucky. He went on the move to Oregon with his parents and, from there he received his
+undergraduate degree in electrical engineering from Oregon State University in 1984 and his master's
+degree in electrical engineering from Stanford. While at Oregon State, he met his future wife, Lori, who is
+with us this evening, his engineering lab partner at the time. So technology does help spur some of these
+relationships, I think. <laughter> They have two wonderful children, who I think are with us tonight, as
+well. And, prior to founding Nvidia, Jen-Hsun was director of Coreware at LSI Logic and a
+microprocessor designer at Advanced Micro Devices in Sunnyvale. The museum would, again, like to
+thank Jen-Hsun and Nvidia and all those people here in attendance for taking a leadership role early and
+as a champion for the Computer History Museum and, more specifically, the follows even last night. It
+tells the stories of the people, a very important part of our whole enterprise here at the museum. They
+are outstanding leaders, Morris and Jen-Hsun together, and individually and have changed our industry in
+many different ways. The Computer Museum is really fortunate to have their time and their friendship. It
+is now my very great pleasure to introduce one of tonight's two speakers, Jen-Hsun Huang, who will
+introduce Dr. Chang. Jen-Hsun. Thank you very much.
+
+<applause>
+
+Jen-Hsun Huang: Thank you. Well, first of all, welcome, everyone. You know, when Morris asked me
+to be the person to interview him, I was thinking about the format and the nature of our conversation and I
+thought that it would be particularly special if we just turned it into a conversation. I've had over the last
+10 years, I have had many conversations with Morris and all of them are insightful and invaluable to me
+and I thought that it would be quite remarkable for all of us to be able to talk to Morris as if it's just one of
+the conversations I've had with Morris over the years. You know, we've, through the course of the last
+several years, and also certainly last night, have learned a lot about Morris' history and his childhood and
+his journey in his career. I thought that what we should do tonight is to spend the time talking about his
+taking the story past his life but be now focused on the work of his life. So, to frame it, let me first, instead
+of introducing Morris, I'm going to introduce his work. You know, notice how quickly, when John told my
+life story, and he was comprehensive. Notice how short and concise it was. <laughter> I don't think he
+left out any details. There's nothing left. And so, to describe Morris' life work is an extraordinary
+endeavor but let me first read a few things to you guys just to frame Morris' life work. Morris, of course,
+as we know, is recognized around the world as the father of the dedicated semiconductor founder. He
+founded TSMC in 1987 at the young age of 55. He created the world's first peer play foundry. With $220
+million of investment from the Taiwanese government and Phillips, he spun TSMC out of a tree and
+formed TSMC. Ten years later, he took the company public to get public on the New York Stock
+Exchange in 1997 with a market cap of $6 billion. Now, just $220 million in 1987, $6 billion in 1997. He
+grew the company 43% compounded annual growth rate over the course of that 20 years today. And,
+today, TSMC has revenues of about $10 billion, a market cap of nearly $60 billion, the second most
+valuable semiconductor company in the world, second to only Intel. The most valuable company in
+Taiwan. The most valuable company in all of Taiwan. That really only begins to describe the impact or
+the value or the strategic importance that TSMC really serves. TSMC has also enabled, was far, far more
+important and what he was recognized for yesterday, enabled an industry of $50 billion large on top of it.
+Morris describes TSMC as having created a sub-industry, a sub-industry enabling an industry called the
+Fabless Semiconductor Industry, which today has revenues of $50 billion. So if you think about the
+overall value that has been created as a result of the founding of TSMC in the last 20 years, and if we
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 2 of 14
+                                                                                                    An Evening with Morris Chang
+
+simply use the multiple, say, 4X multiple for that $50 billion worth of semiconductor companies of which
+Nvidia is part of, $250 billion of shareholder value was created in the last 20 years. $250 billion. The
+evidence of a great company, of course, is not just in the creation, certainly, of strategic importance and
+also wealth but also indication of greatness is the ability for the company to continue to flourish and be
+successful as the founder and the original president passes on the leadership to the next generation. In
+2005, Morris passed the CEO and president and responsibilities to Rick Tsai, who is doing a fabulous job
+and TSMC has continued to grow. If all of that is not enough, Morris is a world-class bridge player.
+<laughter> I think it was in one of our conversations I noted that Warren Buffet and Bill Gates were also
+bridge players and Morris expressed some interest to play them and, in fact, quite a bit of confidence that
+he would prevail. <laughter> And so that, in a nutshell, is TSMC. Unbelievable body of work and
+unbelievable impact on the world. Tonight, Morris, I thought what we would do is we would talk about
+how did you do it? <laughter> And so, with that, I have no other questions. <laughter> First of all,
+welcome. So let me break it down a bit. So, Morris, both of us, we were founders of our companies and
+we think about building products but not only that. We think about building companies and, in the
+process of building companies, we go through several phases. As I think through the history of Nvidia, of
+which you were involved in many of the phases of my company, you know, as you think through TSMC,
+what were the phases, distinct phases that you can remember and how do you think through them?
+
+Morris Chang: Yeah. The first phase, of course, was just survival phase. We started a company with a
+lot of money, $220 million back in 1985, 1986 was considered to be a lot of money. Well, it's a lot of
+money even now, I think, and particularly in Taiwan. In Taiwan, it was very difficult to raise that much
+money. As Jen-Hsun said, the government funded about half of it, 48% actually, of the 220 million and
+Phillips pitched in with another 27% and the rest, about 25%, was from a dozen Taiwan investors. But,
+anyway, $220 million total was a lot of money and I was really-- the first priority was to protect money, you
+know, shouldn't all be <inaudible> I can't afford to lose money. So the first phase was survival but I had a
+lot of experience, operating experience before founding TSMC so I had decided what the values of the
+company should be. Those values, I think, were very important to us, not only in the first phase but from
+there on. We have maintained them. We have actually followed them. They are our compass, really.
+The values are pretty simple. At first, there were just three: integrity was number one; commitment, we
+really wanted our employees to be totally committed to TSMC but, in return, the company is committed to
+the employees, too. Also, commitment applies to customers. We want the customers to be committed to
+TSMC but we, in return, are totally committed to customers. Integrity is pretty simple, self-explanatory.
+Commitment works between employees and the company and between customers and the company.
+And then the third one is innovation. We knew that we couldn't compete at all without constantly
+innovating. Those were our three values. Then we also had a vision. The vision changed. Values don't
+change. The three values that we had at the beginning are still values today.
+
+Huang: And, in fact, the first time I went to visit you in Taiwan, instead of a presentation about all the
+capabilities of TSMC, you gave me a brochure of the core values of TSMC.
+
+Chang: That's right. That's right. And I do the same thing with a lot of visitors, with every customer,
+every potential customer. In the last 10, 15 years, we, as you pointed out, we have been the most
+valuable company in Taiwan so we have attracted a lot of public attention, too. Political candidates
+usually, before they start their campaigning, would call me so the presidential candidate came and told
+me all his big vision about Taiwan and I handed him our values <laughter> integrity, commitment and
+innovation. <laughter> The presidential candidates from both parties saw that. In fact, I thought that I
+detected in each of them a little surprise, you know? <laughter> They don't know what to do with it.
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 3 of 14
+                                                                                                    An Evening with Morris Chang
+
+<laughter> But, look, every company goes through phases. First is the survival phase and then is the
+rapid growth phase.
+
+Huang: Now, when did you guys get traction? When did you guys get business traction and you started
+to feel like, you know what, somebody's going to buy this?
+
+Chang: Well, that didn't happen because I guess we were too expensive, I think. I mean, even at the
+beginning-- well, at the beginning, of course, nobody...
+
+Huang: Nothing's changed.
+
+Chang: Huh?
+
+Huang: <laughter> You walked into that, Morris. You walked right into that. <laughter>
+
+Chang: Yeah.
+
+Huang: I didn't push you. You walked right into it. <laughter>
+
+Chang: Nobody even wanted to invest in us. We were really considered to be not very hopeful. That
+was the first two or three years, I think. At least, I would say, from 1987, we started in February of 1987
+and '87, '88, '89, '90, I would say four years, four years it was touch and go, you know? But what really
+gave us a big start was this rapid emergence of the fabless industry, companies like yours. Of course,
+yours came up...
+
+Huang: I'm practically the last fabless company.
+
+Chang: Nvidia, yeah, Nvidia, of course, rose pretty late in the game. You rose in the middle '90s but
+there were several that started to rise in the early '90s and so those fabless companies really accelerated
+our growth. Now, of course, we helped them-- actually, they wouldn't even have started if we weren't
+around, if we hadn't been around. They knew...
+
+Huang: In fact, when Nvidia started in 1993, there was no available foundry in the world.
+
+Chang: No.
+
+Huang: In fact...
+
+Chang: Well, we were there but you didn't consider us to be...
+
+CHM Ref: X4614.2008        © 2007 Computer History Museum       Page 4 of 14
+                                                                                                    An Evening with Morris Chang
+
+Huang: I did consider you. You just didn't call me back. <laughter> Let it go on record that I tried to call
+Morris. I just didn't get a phone call back. <laughter>
+
+Chang: Really? In 1993?
+
+Huang: No. <laughter> I called somebody in the local office. I don't want to throw anybody under the
+bridge here but I didn't get a call back. Maybe I called the wrong number but... <laughter>
+
+Chang: But, in 1996, was different, right?
+
+Huang: Oh, in 1996, yeah, 1996 was completely different. Don't try to change the topic but... <laughter>
+So, by 1996, 1997, TSMC was about a billion dollars already.
+
+Chang: Yes.
+
+Huang: And you clearly-- I would guess, in looking at the market cap, you were probably a one and a
+half billion dollar company when you took the company public.
+
+Chang: Well, actually, when we went IPO in Taiwan, which was '94, we had a market cap of $4 billion.
+And then you pointed out that, in 1997, when we went public in New York, we had a market cap of about
+$6 billion.
+
+Huang: No, at the time, in 1997, when you and I met, Nvidia was completed that year with $27 million in
+revenues. We had 100 people and then we met and you guys probably don't believe this but Morris used
+to make sales calls. You used to make house calls, right? And you would come in and visit customers
+and I would explain to Morris what it is that Nvidia did and, you know, I would explain how big our die size
+needed to be and that, every year, it was going to get bigger and bigger and bigger. You would come
+back to Nvidia periodically to make me tell the story over again just to make sure that I'm going to need
+that many wafers and, next year, we started working with TSMC. Nvidia did, I think it was 127 and then,
+from that point forward, we grew nearly 100% per year until now. I mean, our compounded annual
+growth rate over the last 10 years was 70-some odd percent.
+
+Chang: Yeah.
+
+Huang: So not once, not once-- okay, maybe five times did capacity get in the way of my growth.
+<laughter> Four times last week. <laughter>
+
+Chang: Honestly...
+
+Huang: But... <laughter>
+
+CHM Ref: X4614.2008       © 2007 Computer History Museum  Page 5 of 14
+                                                                                                    An Evening with Morris Chang
+
+Chang: All through the 1990s, and even now, really, the biggest joy I get out of this job, CEO or
+chairman of TSMC, the biggest pleasure I got out of it was to see my customers grow and make money
+and succeed.
+
+Huang: You know, I really believe that. I honestly feel that every time we get together. You know, I
+could tell that you feel so strongly about your customers and this is a story that I'm sure he doesn't
+appreciate me telling. This must have been six, seven years ago and it was on a Friday afternoon and
+you called and you asked if you could drop by to see me. And so I thought, okay, well, yeah, sure, you
+could drop by any time and I was expecting, you know, all of the TSMC sales guys that I usually see,
+Pam Way and Ron Norris and all those guys to show up and no, you were all by yourself on a Friday
+afternoon. You just wanted to talk about business and see how things were going and how many wafers
+you needed. You would always write that down in that black book and it would always make me nervous
+and I would check my ________________ math and make sure that I gave you the right number.
+
+Chang: Still do. <laughter> <applause> <laughter>
+
+Huang: And so you would write it all down and, Morris, you know, credit where credit is due, I was right
+100% of the time <laughter> and it turns out I found out, several years later, it was his honeymoon.
+Yeah. Yeah. Sophie, I don't know what it says that he wanted to see me more. <laughter> We've always
+been close, Morris <laughter> and so-- but that's-- he honestly loved working with his customers. Let's
+come back to so, starting about 1994, 1995 timeframe, clearly TSMC gained traction and it was about
+that time that other companies started to notice TSMC's growth and other foundries were starting to
+emerge...
+
+Chang: Competition, yes.
+
+Huang: Right, competition were starting to emerge and one of the strategies that I recall, because you
+were completely peer play and Toshiba or Fujitsu or many Japanese companies would also do some
+foundry, even HP, I think, did some foundry with their excess capacity.
+
+Chang: ________________ did foundry, Intel did foundry...
+
+Huang: With their excess capacity. One strategy was to use excess capacity as a foundry play and then
+another company emerged, some competitors emerged where they used JVs as a strategy, where they
+would go out to the customers and they would form JVs with the customer base and how did you respond
+to that? What was the dynamic in the industry at the time and here, all of a sudden, you're competing
+with your customers, in a way, because they were also in the foundry business. They had JVs and
+foundries.
+
+Chang: Yeah. Well, I never thought the JV strategy was a good one for either us or our customers. I
+mean, I think your example demonstrates that very clearly. The JV concept was that a partner or several
+partners would co-invest in a fab. Of course, the foundry company is the main investor but several
+customers would also invest in the fab. Each customer would have maybe 15, 20% share of the fab and
+
+CHM Ref: X4614.2008       © 2007 Computer History Museum   Page 6 of 14
+                                                                                                    An Evening with Morris Chang
+
+then, theoretically, this customer, who has invested in the 15, 20%, will enjoy 15, 20% of the capacity of
+the fab. But look at your case. You went from almost nothing to-- you multiplied, you grew about, what,
+10 times in one year? Something like that?
+
+Huang: Well, we went from...
+
+Chang: Five or six times, anyway.
+
+Huang: ...27 million to, today, you know, $5 billion...
+
+Chang: No, I'm not talking about today. I'm talking about just one year.
+
+Huang: About five times a year, yes.
+
+Chang: Five times. Five times a year. So if he had investing in 20% of a fab, if Nvidia had invested 20%
+and get only 20% of the fab's capacity and then, in a few months, you know, you have outgrown the
+capacity you are supposed to get. Then what would happen, you know?
+
+Huang: Well, I would be a peaceful CEO running a $37 million company today. <laughter>
+
+Chang: Well, of course, you don't have to be limited to that but I think it's far better for a foundry
+company, for TSMC, to stay very flexible. We actually, back then, we were plowing all the money, all the
+profits, back into capacity building, capital expenditures. So we were building, we were increasing our
+capacity very, very significantly every year and we were extremely flexible to all the customers. Some
+customers, frankly, shrank and some customers, like you, grew rapidly. We just managed, I mean, it was
+difficult and, even now, looking back, I wonder at our skill of managing the total capacity. The result was
+that we managed the total capacity in such a way that we pleased most-- we satisfied most of our
+customers. We not only satisfied most of our customers, we pleased all of our important customers,
+those that grew very fast. We satisfied most of them and we pleased all of the big growing ones.
+
+Huang: Yeah, I think, in retrospect, you know, most of the people who looked at the foundry industry
+thought that technology was important, it is important, that capacity was important and that is important
+but they really missed what ultimately made TSMC extraordinary and I thought that it was two things: your
+recognition, right from the beginning, that the notion of a JV, the notion of multiple fabs competing against
+each other was a detriment to growth.
+
+Chang: Yeah.
+
+Huang: That your strategy of using copy exactly to the best of your ability so that customers could ring
+up simultaneously multiple fabs, you know, I don't know how many fabs we run at TSMC these days but
+it's got to be many. Considering the size of our company today, the course of the last 10 years, I think
+
+CHM Ref: X4614.2008           © 2007 Computer History Museum              Page 7 of 14
+                                                                                                    An Evening with Morris Chang
+
+we've purchased well over $6 billion in wafers. Growing as quickly as we have, you couldn't do that in
+one fab. You couldn't do that in two fabs.
+
+Chang: And the next six will come faster.
+
+Huang: Will come faster.
+
+Chang: Evolve faster, yeah.
+
+Huang: That's right. And maybe later I'll tell everybody what promise TSMC has made to me for my 10th
+billion dollar purchase. <laughter> And so the duplicate exactly was a wonderful strategy. The second
+thing and probably even more powerful in the end is this incredible focus on customer service. I
+remember, when you called me after your visit, I think it was after my visit, when I got back to the United
+States, you called me and you said, and it was a phrase that I remembered then and that I've heard I
+think several thousand times since then, was a phrase that you used, you said, "We will jump through
+hoops for you."
+
+Chang: Yeah.
+
+Huang: And one of the things that I really admired about that was that it wasn't just what you told me that
+day. It was a phrase that drove through all of TSMC, every employee believed in it and lived by it.
+People repeated it year over year. How did you do that? How did that start and how were you able to
+drive that through the culture?
+
+Chang: That is a culture that we just started with it. Well, actually, let me tell you. I was doing foundry
+work even back in the late '50s at Texas Instruments, although we didn't call it foundry then. Texas
+Instruments had a transistor, not IC, transistor design from IBM. IBM had developed the transistor,
+designed the transistor, developed the transistor and ran it on its pilot line, small pilot line. They didn't
+want to do the production, the volume production so gave it to TI to do the production. I was in charge of
+one of those lines when I first joined Texas Instruments and that was really very simply foundry work.
+And, later on, of course, we did more IBM foundry work, foundry work for IBM and, of course, at TI later
+on, we did a lot of commodity work, commodity production. Between the two, I enjoyed-- between the
+foundry work, customer work, custom work and the commodity work, I enjoyed far better the foundry, the
+custom work. So that was-- and I also knew what the secret was, what the key was to custom work,
+successful custom work. That is satisfying the customer. And so jumping through hoops was something
+that I learned in the late '50s when I was at TI doing foundry work for IBM.
+
+And so, in TSMC, we actually tailored everything in the company, the organization, the compensation
+system, the evaluation system, we tailored everything to customer service, to jumping through hoops.
+Well, I told you an anecdote last night. I was visited by a big company, I mean, this was, you know, more
+than 10 years ago, and he was very big and we were still fairly small. We were couple billion dollars
+maybe and he was a lot more than that. His sales were several times that. He sort of was telling me, he
+and I had dinner together and this CEO of this big company, he sort of intimidated me by saying, "Well,
+
+CHM Ref: X4614.2008          © 2007 Computer History Museum  Page 8 of 14
+                                                                                                    An Evening with Morris Chang
+
+maybe I will go into your business and compete with you." So I let that go for the time being. Several
+minutes later, I asked him, innocently, "John, how do you evaluate your fab manager?" So he gave me
+the list. "Well," he said, "yield, cycle time, productivity, ability to make billings every month," you know, all
+those things he told me. After he ran through his list of 10 or 12 factors, he said, "What else?" he said.
+"Don't you evaluate your fab managers the same way?" I said, "No, no, no, John. I evaluate them
+according to how much complaints I get from customers about their fab." <laughter> And that's the
+honest truth. I really did that, have always done that, the evaluation of the fab managers. You know, I
+mean, we don't even keep PNL in each fab. We don't. But we do keep very good track of how satisfied
+the customers are. If a fab manager has got very unsatisfied customers, he is in big trouble. I don't care
+how much money he makes. He is in big trouble.
+
+Huang: Well, Morris, don't be surprised if the number of complaints to your fab managers, you know,
+steps up dramatically after tomorrow, <laughter> especially the ones from me anyhow now that I got it all
+figured out, all dialed in. <laughter> And so, you know, certainly the customer focus and the jumping
+through hoops for customers is a core part of culture and it isn't just a tag line for you. It is really a way of
+life and I experience it every day. As I think through, you know, your creation of TSMC, you innovated at
+so many different levels. You started a company that has never existed before of its kind, very large
+investment in Taiwan, you know, by any standards, then and now and have built it into a global company.
+As you think back, well, even thinking about the culture of Asia, the notion of innovation as a core culture,
+building something that is a one of a kind and certainly the first of its kind is very counter-cultural. What
+was your experience in going through that?
+
+Chang: Well, it was not easy. I agree that the culture in Asia is usually not starting something new. I
+mean, I'll just give you an example. They pride themselves on entrepreneurship but the entrepreneurship
+in Asia is usually driven not by a new idea but by the desire of being your own boss. I give you a very
+earthly example. I mean, I went to a barber shop in my neighborhood and there are only two barbers in
+that barber shop and, one day, the junior barber told me that he wasn't to stand his boss any more. He
+would go out and open a new shop. So he opened a new shop three doors down, three doors down on
+the street. <laughter> All right. And so he took customers away from, you know, like me, you know, to his
+new shop. Both of them had to work very, very hard. Both of them had to-- they both discount, started
+discounting, okay? <laughter> The market is the same size, you know? <laughter> And it's not a happy
+situation any more. I mean, both of them are very bitter and very resentful to each other and so I have
+stopped going to either one. <laughter> It's not a happy experience any more. I mean, that is
+entrepreneurship Asian style. <laughter>
+
+Huang: How did you convince the venture capitalists and how did you convince the Taiwan government
+and how did you convince employees to, you know, I find that convincing employees to join a startup
+company is, in fact, harder than convincing a VC.
+
+Chang: Well, back then, of course, the government, they sort of trusted me. Of course, I did have the
+credentials of my U.S. experience. I was the head of Texas Instruments semiconductor business and,
+back then, TI had the biggest semiconductor business in the world. So that was a credible credential, I
+guess. And the government decided that, if they were going to fund a semiconductor company, I seemed
+to be a perfectly reasonable candidate to start this company for them. So that part was pretty easy.
+Now, it took some convincing to get Phillips to invest but I did that, too. After all, you know, I knew them
+before I went to Taiwan and they also knew my track record. They listened to this foundry pitch and they
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 9 of 14
+                                                                                                    An Evening with Morris Chang
+
+thought that it was something very innovative. They weren't sure that it would work but they were willing
+to put in some money just to let me try it out, you know? So that part was more difficult than the
+government's part. And then the rest of the investors, they were very difficult to convince. In fact, I didn't
+really convince them. I maybe convinced two or three of them. The rest of them were coerced by the
+government to invest. <laughter> I had a team of three ministers that helped me to get funding to get
+investments from them, you know? In fact, one of them was the premier himself. <laughter> So I
+remember that the biggest investor who was allocated-- 5%, he was told to invest 5% and he invited me
+to dinner three times and, each time, I went with an assistant of mine, two of us, and we were surrounded
+at the dinner table by 10 of his staff and they grilled me. They grilled me and my assistant on the details.
+The knew nothing about semiconductors, nothing, nothing at all, but they grilled us on financial issues.
+They grilled us on, you know, general issues like how do you think you're going to compete with
+American companies, Japanese companies, even Korean companies? They are way ahead of you. How
+do you compete with them? My answer to them was, "No, we don't compete with them. We're in the
+foundry business. Those other companies are not in the foundry business. They may do some foundry
+work just to fill their fab but they are not our competitors. We are going to start a new business. And that,
+of course, made them even <laughter> even worry more, you know? <laughter> So, anyway, but I did
+make two friends, I think. I didn't know them before I made the pitch for their investment but, after I made
+the pitch, they told their parties that my presentation was the best they had ever heard about an
+investment. I made two friends but the rest of them were coerced by the government. <laughter> The
+premier told me that the biggest investor, 5% investor, wanted to back down to 2% or 3% and the premier
+had to call him and say, "Gee, Mr. so and so, you know, it's government policy here that we want to start
+this semiconductor company. Aren't you going to support government policy?" <laughter> So that was
+what happened. <laughter>
+
+Huang: So when I was an entrepreneur, I was 30 years old and, at the time, PowerPoint didn't exist so I
+used Persuasion, which was on the Macintosh. I don't think my persuasion was that good, either. If it
+wasn't because of Wilf Corrigan, who's sitting out in the audience making a few phone calls on my behalf,
+I don't know what I would be doing right now. How did you tell the TSMC story? Did you have a pitch or
+did you just hand them the brochure on the core values? <laughter>
+
+Chang: Oh, no. Oh...
+
+Huang: I mean, I'm not saying that it wasn't convincing...
+
+Chang: I spoke eloquently for at least... <laughter> I did have a presentation. I did...
+
+Huang: You did?
+
+Chang: It wasn't PowerPoint at that time, it was Foils.
+
+Huang: Foils. Yeah.
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 10 of 14
+                                                                                                    An Evening with Morris Chang
+
+Chang: But I did have a Foil presentation and I rehearsed it myself and I prepared very carefully and, as
+I said, I spoke eloquently for 30 minutes. <laughter> And I answered all the questions.
+
+Huang: And so, you know, people say that it is quite rare and I think, statistically, it is quite rare that the
+founders that found the company end up building the company, run it operationally, turn it into a
+multibillion dollar company, take it public, grow it even further than that and, in your case, even one step
+beyond that, having groomed a successor and the company continues to do fabulously. How do you
+attribute to, I guess, maybe answering the question in two different ways, why do you think there are so
+few people who do that? And how do you attribute to your ability to do that?
+
+Chang: Well, I think most people who found companies really haven't had experience running a big
+operation. I did, however. I was an operating executive before I founded a company. In fact, I had
+something like 30,000 employees working under me at Texas Instruments so I was an operating
+executive before I founded a company. Then, of course, I founded TSMC and TSMC started out with 150
+employees. It took a long time before the employees I had in TSMC equaled the number of employees I
+had at TI, you know? And I enjoyed the operating management work. So, when I had the chance, at
+TSMC, to become a big operating executive again, I enjoyed it. I mean...
+
+Huang: A lot of people-- usually, operating executives have a hard time thinking small, you know?
+Operating executives have-- they're wonderful at running a machine, optimizing a machine, tweaking it,
+getting a lot of yield out of it, getting a lot of return out of it but they have a hard time thinking small. How
+did you get yourself to think small again?
+
+Chang: I don't think I had to think very small. <laughter> Well, I guess, right after we started TSMC, I
+hired the president of TSMC. I was the chairman and I hired the president and he immediately hired the
+U.S. sales manager. So it was a fairly well structured organization, even at the beginning. Then, on the
+operational side, of course, we had this group that was spun off from ________________, as you already
+mentioned. They were very familiar with the details of the manufacturing line. I guess I really never had
+to worry about every little detail on a production line. Now, we started 150 people but most of them were
+pretty key people, you know? Managerial types.
+
+Huang: Now, running a very large operation versus building a company as you know now are very, very
+different.
+
+Chang: Yeah.
+
+Huang: How would you describe how you have evolved yourself along the way from 1987 to now?
+
+Chang: Well, I think that, mentally, you have to adjust yourself to the changing status of the company.
+For instance, when TSMC first started, in the first few years, of course, the growth wasn't very high
+because we were waiting for our customers to emerge. The customers were the fables companies. The
+first few companies, we were taking business, were getting business from the big IBMs, Intel, TI, Motorola
+were all our customers back in the first few years and they were very important to us. They taught us
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 11 of 14
+                                                                                                    An Evening with Morris Chang
+
+how to control quality and a lot of things. Very important to us. But they were not the customers that
+eventually turned out to be our most important customers. Our most important customers, the ones that
+were ultimately important, were still being born at that time, the first few years. And then, in the '90s, we
+went through a rapid expansion phase. Almost the entire decade of the '90s, we were growing at, you
+know, I didn't keep track of the exact number but it must have been over 50% a year average all through
+the '90s. So you had a mental attitude for that kind of a growth and then, 2000, 2001, you know, the
+internet bubble burst and the semiconductor industry, as a whole, plunged 30% in one year, from 2000 to
+2001.
+
+Huang: Did you lose money that year?
+
+Chang: Huh?
+
+Huang: Did you lose money that year, did TSMC lose money that year?
+
+Chang: No, we did not lose money that year but our growth slowed down and, in fact, our growth, well,
+we had negative growth in 2001, also. We plunged 25%, I think, not the 30% of the industry. But, since
+then, our growth has slowed down to average of 15, 20% now rather than the 50%. So I had to adjust my
+attitude, you know. If you can adjust your attitude to the different periods of a company's life, a
+successful company usually goes through a rapid expansion and then a period of consolidation and then
+maturity. If you can adjust yourself to these different periods of a company's lifecycle, and also bring
+different skills, bring a different skill set to cope with each period, then I think you are a happy man. I
+think some people, some very smart people, they can only get used to very rapid growth and, as soon as
+the growth slows down, "Well, they will say this is not my cup of tea any more, I want to start something
+new, I want to start something from zero again so I will experience rapid growth again," you know? Well,
+I, maybe unfortunately, am not that type of people. I'm quite happy with what I've got. I saw it growing
+very rapidly and I saw it now maturing but it's still a good business, you know? I consider everything
+higher than the world average economic GDP world as good business. The world average economic
+GDP growth is only about 4%. U.S. is less than 3% average...
+
+Huang: Well, Morris, as soon as I have what you have, I'm going to be happy with what I have.
+<laughter> Did that come out right? <laughter> And so part of, certainly part of building TSMC, you know,
+now bringing it to the current era, the succession to Rick Tsai, tell me about that. Tell me about the
+process you went through to both groom future CEOs and ultimately what were the characteristics that
+you looked for to select, ultimately, Rick?
+
+Chang: Well, the short answer to your question is that you can groom somebody on some of the skills
+that he needs as a successful CEO but...
+
+Huang: My staff's in the audience, just so you know.
+
+Chang: Huh?
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum  Page 12 of 14
+                                                           An Evening with Morris Chang
+
+Huang: My staff is in the audience.
+
+Chang: Oh, yeah. But the more important ones, he really has to acquire himself. Usually, if you groom
+someone inside a company, you pick someone that has executed well. That's usually how a person, a
+manager gets promoted within an organization. He is usually a very successful executor.
+
+Huang: And Rick started out in the ranks of running fabs, right? He was one of the fab managers.
+
+Chang: Yeah. He is an excellent executor. So, all right, so what did I do? He was an operations man.
+He was basically a technical person, engineering type and, when he came to TSMC, he was, first, a
+deputy fab manager and then he became fab manager then he became a group fab manager in charge of
+a group of fabs and so on. And then he became operational VP. At that point, I decided that he would be
+a candidate for my job. So I put him in sales marketing and I also put him in as the presidents of a
+subsidiary of ours, the subsidiary is Vanguard and it's also a foundry and put him there.
+
+Huang: That's right. You had him run Vanguard for awhile.
+
+Chang: Yeah. I had him run Vanguard for a couple years. He was president of Vanguard. And then he
+came back to TSMC and I put him in as marketing and sales executive VP so he had both operations and
+the marketing and sales. Those were the two major functions in TSMC anyway, operations and
+marketing and sales.
+
+Huang: So that was the process that you went through to groom Rick to be CEO?
+
+Chang: Yeah.
+
+Huang: But, you know, you're methodical in just about everything I know that you do and you break
+every problem down into its fundamental pieces and so, in the case of ultimately selecting Rick to be
+CEO, I know that it must have been extraordinarily thoughtful and, you know, this is a company that
+you've built so it's also personal and, you know, what were the criteria that you ultimately went through to
+select Rick?
+
+Chang: Criteria? I think, first, his adherence to the values. I still come back to values. I think those are
+important, very important. And then his skill set. Because of the exposure he already had to the two
+major functions that we have, operations and sales, I think he already acquired a very complete skill set.
+Then you look at a person's imagination and really, when you come right down to it, how smart he is. I
+mean, I certainly-- I mean, a lot of people, I think, become successful when they are not very smart
+maybe but I don't believe in that. I think that Rick is a very, very smart person.
+
+Huang: Yeah. Well, I think that the selection of Rick has been fabulous and he certainly lives by the
+core values of the company.
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum                            Page 13 of 14
+                                                                               An Evening with Morris Chang
+
+Chang: Yes.
+
+Huang: Lives and breathes by it and certainly his intellectual capacity is extraordinary. Now, as you
+think, going forward, TSMC is now the largest foundry in the world, second most valuable semiconductor
+company in the world, as you look forward for Rick, what are the challenges that you think are ahead of
+him?
+
+Chang: Oh, just enormous, I think. Well, first of all, you know, just this...
+
+Huang: Good time to pass it off. <laughter>
+
+Chang: You can't stand still. I think this business is still like a treadmill that speeds up all the time. If
+you can't keep up, you'll fall off the treadmill. It's a treadmill that speeds up all the time and you will fall off
+the treadmill if you can't keep up. So that's Moore's Law, also, by the way. Moore's Law is just a
+relentless task master.
+
+Huang: Well, one of the challenges that Rick and I both have and this applies to all the semiconductor
+companies in the world today, Moore's law is a enabling force but it's also the depreciating force. On the
+one hand, its advancement makes possible amazing new devices and new technologies but, on the other
+hand, because of its compression and its integration, it makes valuable products cheaper and cheaper
+every day. So, you know, I think there are few forces in the world that of this nature and few industries of
+this nature.
+
+Chang: That's true.
+
+Huang: How do you think this plays out?
+
+Chang: That's why you have to keep up on the speeding treadmill. If you fall off, you have become
+depreciated. <laughter> Seriously, you know...
+
+Huang: It's true.
+
+Chang: ...people who have lived with Moore's law for a long time usually have mixed feelings about it,
+just as you've said. They have mixed feelings mainly because Moore's law is a relentless task master.
+You know, the best people, and the best people change from time to time, the best people are able to live
+with it and use it to advantage. Yeah, sure, the chips become cheaper and cheaper and so on but still we
+intend to make money no matter how cheap the chips get and you intend to make money, too.
+
+END OF INTERVIEW
+
+CHM Ref: X4614.2008  © 2007 Computer History Museum                            Page 14 of 14
+

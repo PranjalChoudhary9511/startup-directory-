@@ -1,0 +1,196 @@
+{
+  "slug": "wework",
+  "name": "WeWork",
+  "region": "global",
+  "country": "United States",
+  "city": "New York",
+  "sector": "Co-working offices",
+  "founded": 2010,
+  "died": 2023,
+  "status": "bankrupt",
+  "brandColor": "#000000",
+  "founders": [
+    { "name": "Adam Neumann", "role": "Co-founder and CEO (2010–2019)" },
+    { "name": "Miguel McKelvey", "role": "Co-founder" }
+  ],
+  "epitaph": "Elevated the world's consciousness. Not its profits.",
+  "oneLiner": "Rented whole office floors on long leases, made them beautiful, and rented desks to freelancers and companies by the month.",
+  "causeOfDeath": "It promised landlords $47 billion of rent over many years while its members could leave quickly, and it lost billions every single year.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 47000,
+  "endValueUsdM": 278,
+  "moneyNote": "Peak = $47B private valuation (Jan 2019). End = stock-market value in Aug 2023, three months before bankruptcy. Total raised from all investors is not cleanly published; SoftBank alone put in about $18.5B before the 2019 IPO attempt (CNBC).",
+  "moneySrc": [2, 4, 5],
+  "inOneMinute": [
+    "WeWork signed **15-year leases** on buildings, then rented desks to members who could leave in months. That mismatch was the whole bet.",
+    "Its 2019 IPO filing showed a **$1.9 billion loss** in 2018 and odd deals with its founder. The IPO was cancelled and the CEO left.",
+    "SoftBank rescued it, it listed in 2021, but losses never stopped. It went **bankrupt in November 2023** and came out much smaller."
+  ],
+  "killerLine": "If you **promise to pay for 15 years** but your customers can **leave next month**, you are not building a startup. You are placing a bet.",
+  "numbers": [
+    { "value": "$47 billion", "label": "private valuation in January 2019, its peak", "src": [2, 4] },
+    { "value": "$47.2 billion", "label": "future rent it had promised landlords (June 2019)", "src": [0, 1] },
+    { "value": "$1.9 billion", "label": "loss in 2018, on $1.8 billion of revenue", "src": [0] },
+    { "value": "$278 million", "label": "its whole stock-market value by August 2023", "src": [5] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: offices as a service",
+      "body": "Adam Neumann and Miguel McKelvey started WeWork in New York in 2010. The idea was simple and good. Take a big, empty office floor on a long lease. Fill it with glass walls, beer taps, nice coffee and events. Then rent single desks or small rooms to freelancers and startups, month by month. A young company did not need to sign a 10-year lease or buy furniture. It just showed up. People loved it. WeWork was **selling flexibility**, and that was a real need. In fact, the idea was so good that co-working is now a normal part of every big city, including Bengaluru and Gurugram. The problem was never the product. It was **how the money flowed** underneath it.",
+      "src": [1, 7, 10]
+    },
+    {
+      "title": "The rise: growing like a tech company",
+      "body": "WeWork called itself a technology company, not a landlord. Its IPO filing said its mission was to \"elevate the world's consciousness.\" Investors, led by Japan's SoftBank, believed it. In January 2019 SoftBank put in another $2 billion and WeWork was valued at **$47 billion**. By June 2019 it had 528 locations in 111 cities across 29 countries, and 527,000 members, almost double a year earlier. To grow that fast, it kept signing leases. Its average lease was about 15 years. The total rent it had promised landlords reached **$47.2 billion**. Meanwhile, the money members had promised to pay WeWork in future was only about $4 billion. Growth looked amazing. The risk was hidden in that gap.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "The cracks: the IPO filing",
+      "body": "To go public, a company must file a document called an S-1 that lays out its accounts. WeWork filed in August 2019, and investors were shocked. It lost **$1.9 billion in 2018** on $1.8 billion of revenue. It said it could not predict when it would become profitable. Then came the founder deals. Neumann held shares with 20 votes each, giving him control. WeWork leased space in buildings he had a stake in. It paid him $5.9 million in stock for the \"We\" trademark (he gave it back after an outcry). He also had a **$380 million loan** from banks, backed by his WeWork shares. Investors stopped believing. In September 2019 Neumann stepped down as CEO and the IPO was scrapped.",
+      "src": [0, 1, 2, 4]
+    },
+    {
+      "title": "The fall: rescue, listing, bankruptcy",
+      "body": "In October 2019 SoftBank stepped in with a **$9.5 billion rescue** and took about 80% of the company. Bloomberg reported Neumann could receive nearly $1.7 billion from the deal. Then COVID emptied offices. WeWork lost $3.8 billion in 2020 and $4.6 billion in 2021. In October 2021 it finally listed on the New York Stock Exchange by merging with a SPAC (a listed shell company that exists only to merge with a private one), valued at about $9 billion. It did not last. In August 2023 it warned of \"substantial doubt\" it could survive, and its market value fell to $278 million. On 6 November 2023 it filed for bankruptcy with **$18.7 billion of debts** against $15.1 billion of assets.",
+      "src": [3, 4, 5, 6, 8]
+    }
+  ],
+  "timeline": [
+    { "date": "2010", "event": "Adam Neumann and Miguel McKelvey found WeWork in New York.", "kind": "start", "src": [7] },
+    { "date": "Jan 2019", "event": "SoftBank invests another $2 billion. WeWork is valued at $47 billion.", "kind": "peak", "src": [2] },
+    { "date": "Aug 2019", "event": "IPO filing shows a $1.9 billion loss for 2018 and $47.2 billion of future lease payments.", "kind": "warning", "src": [0, 1] },
+    { "date": "Sep 2019", "event": "The \"We\" trademark payment is reversed. Neumann steps down as CEO and the IPO is scrapped.", "kind": "crisis", "src": [2, 4] },
+    { "date": "Oct 2019", "event": "SoftBank announces a $9.5 billion rescue and takes about 80% of the company.", "kind": "crisis", "src": [3] },
+    { "date": "Oct 2021", "event": "WeWork lists on the NYSE through a SPAC merger, valued at about $9 billion.", "kind": "money", "src": [4] },
+    { "date": "Aug 2023", "event": "It warns of \"substantial doubt\" about staying in business. Market value falls to $278 million.", "kind": "warning", "src": [5] },
+    { "date": "Nov 2023", "event": "Files for Chapter 11 bankruptcy in New Jersey with about $18.7 billion of debts.", "kind": "end", "src": [6] },
+    { "date": "Jun 2024", "event": "Exits bankruptcy as a private company, majority-owned by Yardi Systems, with about 170 fewer locations.", "kind": "after", "src": [7] },
+    { "date": "Oct 2025", "event": "WeWork India, run by Embassy Group, launches a ₹3,000 crore IPO in India.", "kind": "after", "src": [10] }
+  ],
+  "charts": [
+    {
+      "title": "Revenue vs loss, from the IPO filing",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["2016", "2017", "2018"],
+      "series": [
+        { "name": "Revenue", "values": [436, 886, 1822] },
+        { "name": "Net loss", "values": [430, 933, 1927] }
+      ],
+      "takeaway": "Revenue doubled every year, but the loss grew just as fast. Each new dollar of sales came with about a dollar of loss.",
+      "src": [0]
+    },
+    {
+      "title": "Net loss every year",
+      "unit": "$ millions",
+      "kind": "line",
+      "labels": ["2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+      "series": [
+        { "name": "Net loss", "values": [430, 933, 1927, 3775, 3834, 4632, 2295] }
+      ],
+      "takeaway": "About $17.8 billion lost in seven years. Not one of these years was profitable, before or after the founder left.",
+      "src": [0, 8, 9]
+    }
+  ],
+  "rounds": [
+    { "date": "Jan 2019", "round": "SoftBank investment", "amountUsdM": 2000, "valuationUsdM": 47000, "investors": ["SoftBank"], "src": [2] },
+    { "date": "Oct 2019", "round": "Rescue package (new financing + share buyback offer)", "amountUsdM": 9500, "valuationUsdM": null, "investors": ["SoftBank"], "src": [3] },
+    { "date": "Oct 2021", "round": "SPAC merger with BowX + PIPE", "amountUsdM": null, "valuationUsdM": 9000, "investors": ["BowX Acquisition Corp", "SoftBank"], "src": [4] },
+    { "date": "Jun 2024", "round": "Bankruptcy exit equity", "amountUsdM": 400, "valuationUsdM": null, "investors": ["Yardi Systems (via Cupar Grimmond)"], "src": [7] }
+  ],
+  "causes": [
+    { "key": "business-model", "weight": 35 },
+    { "key": "over-expansion", "weight": 25 },
+    { "key": "governance", "weight": 25 },
+    { "key": "burn", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Borrowed long, rented short",
+      "explain": "WeWork's leases averaged about **15 years**, adding up to $47.2 billion of promised rent. But members rented desks by the month, and their future commitments were only about $4 billion. When demand dropped, as it did in COVID, members left and **the rent stayed**. A business where your costs are locked in and your income is not will break in the first bad year.",
+      "src": [0, 1]
+    },
+    {
+      "title": "Grew as if money would never run out",
+      "explain": "By mid-2019 WeWork was in 528 locations across 111 cities, and members had almost doubled in a year. But it lost **$1.9 billion in 2018** and said it could not predict when it would be profitable. Every new building added more loss, not less. SoftBank's huge cheques let it **skip the question** of whether each location made money.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "One founder, too many conflicts",
+      "explain": "Neumann's shares carried **20 votes each**, so he controlled the company. WeWork rented space in buildings he had a stake in, paid him $5.9 million for the \"We\" trademark, and he had borrowed $380 million against his shares. None of this was hidden, it was in the filing. But together it told investors **the company served the founder** first.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "Priced like software, built like a landlord",
+      "explain": "The filing said WeWork had \"disrupted\" real estate and its mission was to \"elevate the world's consciousness.\" Investors valued it like a tech company, at **$47 billion**. But its main cost was rent, like any landlord. Once public investors looked closely, the price fell to about **$9 billion** at the 2021 listing, and much lower later.",
+      "src": [0, 1, 4]
+    },
+    {
+      "title": "Fixed the leadership, not the leases",
+      "explain": "After 2019, new managers cut costs, but the same lease burden remained. Losses were $3.8 billion in 2020 and **$4.6 billion in 2021**. By 2023 it still had 777 locations. Only bankruptcy let it cancel unprofitable leases, which is why the company that came out in 2024 had **halved its future lease costs**.",
+      "src": [5, 7, 8]
+    }
+  ],
+  "warningSigns": [
+    "Are your fixed costs (rent, salaries, contracts) locked in for longer than your customers are locked in to you?",
+    "Would any of your existing locations, stores or cities lose money on its own if you stopped opening new ones?",
+    "Do you report a special \"adjusted\" profit number that leaves out your biggest real cost?",
+    "Does your company do business with you, your family, or firms you own?",
+    "Are you raising money at a valuation based on what you want to be (tech) rather than what you are (rent, delivery, retail)?",
+    "Would one bad year kill your business if your biggest investor stopped writing cheques?"
+  ],
+  "lessons": [
+    {
+      "title": "Match your promises to your customers' promises",
+      "detail": "Before you sign a 3-year office lease, a 2-year vendor contract or a big hiring plan, ask: how long are my customers committed to me? If they can cancel monthly, keep your own costs as flexible as you can. Pay a little more for flexibility early. It is insurance."
+    },
+    {
+      "title": "Make every unit profitable before you copy it",
+      "detail": "Pick your best location, city or customer group and prove it makes money after all costs, including rent. Then open the next one. WeWork opened hundreds before proving the model, so each new building multiplied the loss."
+    },
+    {
+      "title": "Watch the 'excluding' in any profit number",
+      "detail": "WeWork's filing showed a 2018 contribution margin of $199 million with rent counted normally, and $467 million when part of the rent cost was left out. When a number needs to exclude your biggest expense to look good, use the uglier one to make decisions."
+    },
+    {
+      "title": "Keep your money and the company's money apart",
+      "detail": "Do not rent your own flat to your startup, sell it your brand name, or hire family without a clear, written, fair-price process. Even if it is legal and disclosed, it destroys trust when investors read it all in one place."
+    },
+    {
+      "title": "Big cheques do not replace discipline",
+      "detail": "The same WeWork brand, run in India by Embassy Group with its own money and stricter growth, reported a profit of ₹128 crore in FY25 and went to the stock market. The idea was fine. The difference was how carefully each centre was opened."
+    }
+  ],
+  "quote": {
+    "text": "We made a failure on investing in WeWork and I've been admitting that several times I was foolish.",
+    "who": "Masayoshi Son, CEO of SoftBank",
+    "context": "Reflecting on SoftBank's WeWork bet, around WeWork's 2021 stock market listing",
+    "src": [4]
+  },
+  "afterlife": {
+    "text": "WeWork came out of bankruptcy on 11 June 2024 as a private company. It shed more than $4 billion of debt, closed about 170 unprofitable locations, kept around 600 in 37 countries, and halved its future lease costs. Yardi Systems, a real-estate software company, became the majority owner. Adam Neumann tried to buy WeWork back during the bankruptcy but did not succeed. In India, the brand is alive and growing: WeWork India, majority-owned by Bengaluru's Embassy Group as the exclusive licensee, had about 68 centres and 1.14 lakh desks, reported a ₹128 crore profit in FY25, and launched a ₹3,000 crore IPO in October 2025.",
+    "src": [7, 10]
+  },
+  "sources": [
+    { "label": "WeWork (The We Company) Form S-1, SEC, August 2019", "url": "https://www.sec.gov/Archives/edgar/data/1533523/000119312519220499/d781982ds1.htm" },
+    { "label": "Bisnow: Everything you need to know from WeWork's IPO prospectus (Aug 2019)", "url": "https://www.bisnow.com/news/national/coworking/heres-what-you-need-to-know-from-weworks-ipo-prospectus-100361" },
+    { "label": "Fox Business: Adam Neumann returns $5.9M paid for 'We' trademark (Sep 2019)", "url": "https://foxbusiness.com/business-leaders/wework-ceo-adam-neumann-returns-trademark-money" },
+    { "label": "PYMNTS / Bloomberg: SoftBank unveils $9.5B WeWork rescue (Oct 2019)", "url": "https://www.pymnts.com/cpi-posts/us-softbank-unveils-9-5b-wework-rescue/" },
+    { "label": "CNBC: WeWork shares jump in public debut after SPAC merger (Oct 2021)", "url": "https://www.cnbc.com/2021/10/21/wework-goes-public-through-spac-.html" },
+    { "label": "Forbes Australia: $47 billion to $280 million, what went wrong at WeWork (Aug 2023)", "url": "https://www.forbes.com.au/news/investing/wework-47-billion-280-million-what-happened/" },
+    { "label": "AP via Boston.com: WeWork seeks bankruptcy protection (Nov 2023)", "url": "https://www.boston.com/news/business/2023/11/08/wework-seeks-bankruptcy-protection/" },
+    { "label": "AP via NY1: WeWork has emerged from bankruptcy (Jun 2024)", "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2024/06/12/wework-has-emerged-from-bankruptcy-whats-next-for-the-co-working-office-space-provider" },
+    { "label": "WeWork Inc. Form 10-K for 2021, SEC", "url": "https://www.sec.gov/Archives/edgar/data/1813756/000181375622000003/we-20211231.htm" },
+    { "label": "WeWork Inc. Form 10-K for 2022, SEC", "url": "https://www.sec.gov/Archives/edgar/data/1813756/000181375623000016/we-20221231.htm" },
+    { "label": "Entrackr: WeWork India set to launch ₹3,000 crore IPO (Sep 2025)", "url": "https://entrackr.com/news/wework-india-set-to-launch-rs-3000-cr-ipo-on-oct-3-10512162" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Adam Neumann's exit package was worth $1.7 billion.", "note": "Bloomberg reported he 'could receive nearly $1.7bn' from share sales and fees. Other outlets split it differently ($1B shares + $500M credit line + $185M consulting fee). The final amount changed after SoftBank pulled out of part of the deal in 2020 and settled in 2021, so we only state the reported maximum." },
+      { "claim": "SoftBank valued WeWork at about $8 billion in the October 2019 rescue.", "note": "Widely reported but we could not confirm the exact figure in a source we read, so it is left out of the story." },
+      { "claim": "SoftBank invested a total of $18.5 billion in WeWork.", "note": "CNBC's figure, for money put in before the failed 2019 IPO. Other outlets give $10B (the 2019 rescue) or different totals depending on what is counted." },
+      { "claim": "2018 loss figures differ across reports ($1.6B vs $1.9B).", "note": "Both are in the S-1: $1.93B is the total net loss; $1.61B is the part 'attributable' to WeWork after removing outside partners' share. We use the total." }
+    ]
+  }
+}

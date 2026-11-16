@@ -1,0 +1,1667 @@
+[
+  {
+    "slug": "enron",
+    "company": "Enron",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Energy trading",
+    "founded": 1985,
+    "founders": "Kenneth Lay (merger of Houston Natural Gas and InterNorth)",
+    "hook": "America's 'most innovative company' was hiding its losses in fake partnerships.",
+    "summary": "Enron began in 1985 as a Houston gas-pipeline company and reinvented itself as a high-flying energy trader that Wall Street adored. Executives used aggressive accounting and off-balance-sheet partnerships to hide debt and invent profits, and when the truth came out in 2001 the company collapsed into bankruptcy, wiping out employees' savings and taking its auditor Arthur Andersen down with it. Lesson: if you can't explain in plain words how your company makes money, something is wrong.",
+    "learn": [
+      "How mark-to-market accounting let Enron book profits it had not earned",
+      "How off-balance-sheet partnerships hid debt from investors",
+      "Why employees lost their savings when the stock collapsed"
+    ],
+    "videos": [
+      {
+        "youtubeId": "e5qC1YGRMKI",
+        "title": "Enron - The Biggest Fraud in History",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 19,
+        "why": "A tight, calmly narrated account of how a pipeline company turned into a fraud: the best first watch."
+      },
+      {
+        "youtubeId": "bNYApHZMSaM",
+        "title": "Watch CNBC's full interview with Kynikos' Jim Chanos and journalist Bethany McLean on Enron's fall",
+        "channel": "CNBC Television",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 10,
+        "why": "The short seller who bet against Enron and the journalist who first asked if it was overpriced retell how they saw through it."
+      },
+      {
+        "youtubeId": "goQhGqQtFZ4",
+        "title": "Former Enron CFO Andy Fastow on the Problem of Legal Fraud (w/ Quinton Mathews)",
+        "channel": "Real Vision Presents",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 93,
+        "why": "Enron's former CFO, who went to prison for his role, explains how accounting tricks that look 'legal' can still be fraud."
+      },
+      {
+        "youtubeId": "m3oM69YHLeo",
+        "title": "Bethany McLean — Enron, FTX, 2008, Musk, frauds, & visionaries",
+        "channel": "Dwarkesh Patel",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 86,
+        "why": "Bethany McLean, who broke the Enron story, compares it with FTX and 2008 to show the patterns frauds share."
+      }
+    ]
+  },
+  {
+    "slug": "lehman-brothers",
+    "company": "Lehman Brothers",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Investment banking",
+    "founded": 1850,
+    "founders": "Henry, Emanuel & Mayer Lehman",
+    "hook": "A 158-year-old bank bet big on home loans and died in one weekend.",
+    "summary": "Lehman Brothers began as a small store in Montgomery, Alabama, run by German immigrant brothers, and grew into one of Wall Street's biggest investment banks. In the 2000s it borrowed heavily to pile into real-estate and mortgage bets; when the housing market cracked, no buyer or rescue came, and Lehman filed the largest bankruptcy in US history on 15 September 2008, setting off a global panic. Lesson: borrowed money magnifies a bad bet until a single weekend can end 150 years of work.",
+    "learn": [
+      "What life inside Lehman's trading floor was like as risk piled up",
+      "How warnings from inside the firm were brushed aside by its leaders",
+      "How heavy borrowing turned a housing slump into a collapse"
+    ],
+    "videos": [
+      {
+        "youtubeId": "DnzJ5wPzkCc",
+        "title": "A Colossal Failure of Common Sense: The Inside Story of the Collapse of Lehman Brothers",
+        "channel": "UNCA Ramsey Library Video Production",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 98,
+        "why": "Former Lehman trader Lawrence McDonald, author of 'A Colossal Failure of Common Sense', gives an insider's account of the fall."
+      },
+      {
+        "youtubeId": "-MKHah7QQpY",
+        "title": "The Last of Lehman Brothers",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 10,
+        "why": "Bloomberg visits Lehman's strange afterlife: years later, people are still unwinding the biggest bankruptcy in US history."
+      },
+      {
+        "youtubeId": "sYmGNetu-UU",
+        "title": "Breaking the Bank (full documentary) | FRONTLINE",
+        "channel": "FRONTLINE PBS | Official",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 54,
+        "why": "FRONTLINE investigates the giant housing bets of America's 'superbanks' and the 2008 panic that followed."
+      }
+    ]
+  },
+  {
+    "slug": "wework",
+    "company": "WeWork",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Co-working real estate",
+    "founded": 2010,
+    "founders": "Adam Neumann & Miguel McKelvey",
+    "hook": "WeWork rented offices, called itself a tech company, and hit a $47B price tag.",
+    "summary": "WeWork leased office buildings, turned them into trendy shared workspaces and rented out desks by the month. Fuelled by billions from SoftBank it was valued at $47 billion, but its 2019 IPO filing revealed huge losses and conflicts of interest, the IPO was pulled, Neumann was pushed out, and WeWork filed for bankruptcy in 2023. Lesson: a great story can raise money, but the numbers on each desk still have to work.",
+    "learn": [
+      "Why long-term leases plus short-term rentals is a risky model",
+      "How SoftBank's money inflated the valuation",
+      "What the IPO filing exposed and why investors walked away"
+    ],
+    "videos": [
+      {
+        "youtubeId": "X2LwIiKhczo",
+        "title": "The Spectacular Rise and Fall of WeWork",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 13,
+        "why": "Bloomberg's compact, well-reported account of the rise and the IPO that blew up."
+      },
+      {
+        "youtubeId": "n3Q_4vjPMSE",
+        "title": "The Inevitable Decline of WeWork",
+        "channel": "Patrick Boyle",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 37,
+        "why": "A former fund manager dissects the business model and financing with dry wit and real numbers."
+      },
+      {
+        "youtubeId": "QHQTzeve7OM",
+        "title": "WeWork - The $47 Billion Disaster",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 20,
+        "why": "ColdFusion tells the story of the founder, the culture and the cash burn."
+      },
+      {
+        "youtubeId": "p3q5m0ILTfk",
+        "title": "How WeWork Went From $47B Startup to Bankrupt Penny Stock | WSJ What Went Wrong",
+        "channel": "The Wall Street Journal",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 5,
+        "why": "A five-minute WSJ recap that takes the story all the way to bankruptcy."
+      }
+    ]
+  },
+  {
+    "slug": "nokia",
+    "company": "Nokia",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Mobile phones & telecom networks",
+    "founded": 1865,
+    "founders": "Fredrik Idestam (with Leo Mechelin)",
+    "hook": "The world's biggest phone maker sold its phone business 6 years after the iPhone.",
+    "summary": "Nokia started in 1865 as a Finnish paper mill and became the world's largest mobile-phone maker by the late 1990s. It saw smartphones coming, but its software was clunky and fear and internal politics slowed decisions; after Apple and Android took over, it bet on Microsoft's Windows Phone and then sold its handset business to Microsoft in 2013. Nokia survived by reinventing itself as a telecom-network company, proof that the hardest part of any shift is changing your own culture.",
+    "learn": [
+      "How a former Nokia CEO looks back on the decline in his own words",
+      "Why being the market leader made it harder to change course",
+      "What the move from hardware to software ecosystems demanded"
+    ],
+    "videos": [
+      {
+        "youtubeId": "jR5a_DBYSmI",
+        "title": "The decline of Nokia: Interview with former CEO Olli-Pekka Kallasvuo",
+        "channel": "INSEAD",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 10,
+        "why": "Rare first-hand reflection from Olli-Pekka Kallasvuo, who ran Nokia from 2006 to 2010 as the iPhone hit."
+      },
+      {
+        "youtubeId": "DgY79LzPQSo",
+        "title": "Who Killed Nokia? How Fear and Emotion Derail Strategy, Innovation, and Truth-Telling.",
+        "channel": "The Innovation Show with Aidan McCullen",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 56,
+        "why": "A deep conversation on how fear inside Nokia's leadership stopped people telling the truth about the competition."
+      },
+      {
+        "youtubeId": "XNhhQLcaH0I",
+        "title": "INSEAD's Yves Doz discusses Nokia's failure in the mobile phone industry",
+        "channel": "INSEAD",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 9,
+        "why": "INSEAD professor Yves Doz, who studied Nokia closely for years, explains why it lost the smartphone race."
+      },
+      {
+        "youtubeId": "kBtqX1lqGo8",
+        "title": "Episode 56: How Risto Siilasmaa’s Paranoid Optimism saved Nokia",
+        "channel": "New York Stock Exchange",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 59,
+        "why": "Chairman Risto Siilasmaa on how Nokia's board rebuilt the company after the phone business was gone."
+      }
+    ]
+  },
+  {
+    "slug": "kodak",
+    "company": "Kodak",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Photography",
+    "founded": 1888,
+    "founders": "George Eastman",
+    "hook": "Kodak built the first digital camera in 1975, then let others win the digital age.",
+    "summary": "George Eastman made photography easy for everyone ('You press the button, we do the rest') and Kodak grew rich selling film. In 1975 its own engineer Steve Sasson built the first digital camera, but film was so profitable that Kodak moved slowly into digital, and it filed for bankruptcy in 2012. Lesson: protecting today's profits can stop you from building the future.",
+    "learn": [
+      "How film made Kodak rich and comfortable",
+      "Why Kodak was slow to embrace the digital camera it invented",
+      "How Kodak went bankrupt and what survived afterwards"
+    ],
+    "videos": [
+      {
+        "youtubeId": "u7yo7e3HhKA",
+        "title": "The Rise and Fall...and Rise of Kodak",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 15,
+        "why": "Bloomberg tells the whole arc, from film giant to bankruptcy to a smaller second life."
+      },
+      {
+        "youtubeId": "wfnpVRiiwnM",
+        "title": "Steve Sasson, Digital Camera Inventor",
+        "channel": "Kodak",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 8,
+        "why": "From Kodak's own channel: inventor Steve Sasson describes building the first digital camera."
+      },
+      {
+        "youtubeId": "hFpJSLsBpog",
+        "title": "Inventing Digital Photography: A Science Headliners Interview with Steve Sasson",
+        "channel": "The Linda Hall",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 24,
+        "why": "A longer interview where Sasson explains the invention and how it was received inside Kodak."
+      }
+    ]
+  },
+  {
+    "slug": "blockbuster",
+    "company": "Blockbuster",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Video rental",
+    "founded": 1985,
+    "founders": "David Cook",
+    "hook": "Blockbuster could have bought Netflix for $50 million. It said no.",
+    "summary": "Blockbuster opened in 1985 and became the world's biggest video-rental chain, earning a big slice of its profit from late fees that customers hated. In 2000 it turned down a chance to buy a tiny Netflix for $50 million, moved too late into DVDs-by-mail and streaming, and filed for bankruptcy in 2010. Lesson: if customers resent the way you make money, a competitor will build a business on removing that pain.",
+    "learn": [
+      "How Blockbuster became the giant of video rental",
+      "Why late fees were both its profit engine and its weakness",
+      "How Netflix and cheaper rivals picked it apart"
+    ],
+    "videos": [
+      {
+        "youtubeId": "rTVkUHrprk8",
+        "title": "The Rise And Fall Of Blockbuster",
+        "channel": "Business Insider",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 8,
+        "why": "A clear, quick rise-and-fall story that covers the key decisions."
+      },
+      {
+        "youtubeId": "-WsTMlSi_b4",
+        "title": "Blockbuster Laughed NETFLIX Out Of The Room",
+        "channel": "Marc Randolph",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 3,
+        "why": "Netflix co-founder Marc Randolph describes, in his own words, the meeting where Blockbuster laughed at the offer."
+      },
+      {
+        "youtubeId": "NnPzhPA29E0",
+        "title": "Blockbuster Could Have Bought Netflix",
+        "channel": "Marc Randolph",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 4,
+        "why": "Randolph on why Blockbuster passed, and what that one decision cost it."
+      }
+    ]
+  },
+  {
+    "slug": "blackberry",
+    "company": "BlackBerry",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Smartphones",
+    "founded": 1984,
+    "founders": "Mike Lazaridis & Douglas Fregin (Research In Motion); Jim Balsillie joined in 1992",
+    "hook": "BlackBerry was the phone every boss carried. Then touchscreens arrived.",
+    "summary": "Research In Motion was founded in Waterloo, Canada in 1984, and its BlackBerry, with secure email and a physical keyboard, became the must-have phone for businesses and governments. When the iPhone and Android moved phones toward touchscreens and apps, BlackBerry's leaders underestimated the change, and its market share collapsed within a few years. Lesson: what your loyal customers want today may not be what the market wants tomorrow.",
+    "learn": [
+      "How RIM turned secure mobile email into a global habit",
+      "Why the iPhone's touchscreen-and-apps model blindsided BlackBerry",
+      "How the company shrank and pivoted to software"
+    ],
+    "videos": [
+      {
+        "youtubeId": "iYTos-1FfnM",
+        "title": "The Rise and Fall of Blackberry",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 13,
+        "why": "ColdFusion gives a clear, well-paced overview of the whole rise and fall."
+      },
+      {
+        "youtubeId": "q_VDXLJA8dA",
+        "title": "What the real Jim Balsillie thinks about the Blackberry movie",
+        "channel": "CBC News: The National",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 7,
+        "why": "Former co-CEO Jim Balsillie reacts to how the 2023 movie portrayed him: a rare first-hand view."
+      },
+      {
+        "youtubeId": "6PSe7ojE-gQ",
+        "title": "The Spectacular Rise and Fall of BlackBerry | Losing the Signal with Jacquie McNish",
+        "channel": "The Innovation Show with Aidan McCullen",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 143,
+        "why": "Jacquie McNish, co-author of 'Losing the Signal', walks through the full story in depth."
+      }
+    ]
+  },
+  {
+    "slug": "yahoo",
+    "company": "Yahoo",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Internet portal",
+    "founded": 1994,
+    "founders": "Jerry Yang & David Filo",
+    "hook": "Yahoo turned down Microsoft's $44.6B offer. Years later it sold for about $4.5B.",
+    "summary": "Two Stanford PhD students started Yahoo in 1994 as a list of their favourite websites, and it became the front door of the early internet. It kept changing what it wanted to be, passed on chances to buy Google, rejected Microsoft's $44.6 billion offer in 2008 and churned through CEOs, until Verizon bought its core business in 2017 for about $4.5 billion. Lesson: a company that doesn't know what it is gets beaten by companies that do.",
+    "learn": [
+      "How Yahoo grew from a student project into the web's biggest portal",
+      "The deals it missed with Google, Facebook and Microsoft",
+      "How leadership churn and unclear strategy wore it down"
+    ],
+    "videos": [
+      {
+        "youtubeId": "5DpspOXs1rM",
+        "title": "The Rise and Fall of Yahoo!",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 10,
+        "why": "A compact overview of the missed chances that defined Yahoo."
+      },
+      {
+        "youtubeId": "T3C50gcnAVY",
+        "title": "Oral History of Tim Koogle",
+        "channel": "Computer History Museum",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 187,
+        "why": "Yahoo's first CEO, Tim Koogle, tells the inside story of building Yahoo in a three-hour museum oral history."
+      }
+    ]
+  },
+  {
+    "slug": "quibi",
+    "company": "Quibi",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Mobile streaming",
+    "founded": 2018,
+    "founders": "Jeffrey Katzenberg (with CEO Meg Whitman)",
+    "hook": "Quibi raised $1.75 billion for 10-minute phone shows and shut down in six months.",
+    "summary": "Hollywood veteran Jeffrey Katzenberg and former eBay CEO Meg Whitman launched Quibi in April 2020 with $1.75 billion and star-studded short shows made only for phones. It launched just as COVID lockdowns kept people at home, didn't let users easily share clips, and competed with free YouTube and TikTok; it announced it was shutting down about six months later. Lesson: money and famous names can't replace testing whether people actually want your product.",
+    "learn": [
+      "What Quibi promised and why investors believed it",
+      "How product choices like phone-only viewing hurt growth",
+      "Why launching during the pandemic made things worse"
+    ],
+    "videos": [
+      {
+        "youtubeId": "ro-8iPOvxD0",
+        "title": "Quibi - The Netflix That Never Was.",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 13,
+        "why": "A clear account of the idea, the launch and the fast collapse."
+      },
+      {
+        "youtubeId": "tx5hT4vqSv8",
+        "title": "Lessons from Quibi's Failure | Jeffrey Katzenberg & Sujay Jaswa",
+        "channel": "20VC with Harry Stebbings",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 8,
+        "why": "Katzenberg himself, with partner Sujay Jaswa, on the lessons from Quibi in his own words."
+      },
+      {
+        "youtubeId": "gCl3-IdYOHA",
+        "title": "Quibi - Why It Failed",
+        "channel": "Company Man",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 13,
+        "why": "A sharp breakdown of the strategic mistakes, one by one."
+      }
+    ]
+  },
+  {
+    "slug": "juicero",
+    "company": "Juicero",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Consumer hardware",
+    "founded": 2013,
+    "founders": "Doug Evans",
+    "hook": "A $400 Wi-Fi juicer raised $120M, until reporters squeezed the packs by hand.",
+    "summary": "Juicero sold a sleek internet-connected press that squeezed its own pre-cut fruit-and-vegetable packs, backed by about $120 million from top Silicon Valley investors. In 2017 Bloomberg showed the packs could be squeezed by hand almost as well, the story went viral, and Juicero shut down a few months later. Lesson: brilliant engineering is worthless if it doesn't beat the simple alternative.",
+    "learn": [
+      "How Juicero's machine-plus-subscription model was meant to work",
+      "Why the hand-squeeze test destroyed its value",
+      "What over-engineering looks like in a startup"
+    ],
+    "videos": [
+      {
+        "youtubeId": "mlfAHrpm3C8",
+        "title": "Juicero: the $400 juicer that couldn't make juice",
+        "channel": "Slidebean",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 10,
+        "why": "A startup-focused breakdown of how so much money backed a product nobody needed."
+      },
+      {
+        "youtubeId": "5lutHF5HhVA",
+        "title": "Do You Need a $400 Juicer?",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 1,
+        "why": "Bloomberg's one-minute look at the $400 machine, from the reporting that sank the company."
+      },
+      {
+        "youtubeId": "ic8HCnzyDa8",
+        "title": "Surviving Juicero & Thriving on Sprouts: Doug Evans | Rich Roll Podcast",
+        "channel": "Rich Roll",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 134,
+        "why": "Founder Doug Evans talks at length about Juicero and life after a very public failure."
+      }
+    ]
+  },
+  {
+    "slug": "pets-com",
+    "company": "Pets.com & the dot-com bust",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Online pet supplies",
+    "founded": 1998,
+    "founders": "Greg McLemore (founder); Julie Wainwright (CEO)",
+    "hook": "Pets.com had a Super Bowl ad and a famous mascot, and closed months after its IPO.",
+    "summary": "Pets.com was one of the most hyped startups of the 1999–2000 internet boom, selling pet food and supplies online with a famous sock-puppet mascot. Shipping heavy, cheap bags of food often cost more than customers paid, and when the dot-com bubble burst it shut down in November 2000, the same year it went public. Lesson: growth means nothing if each sale loses money; CEO Julie Wainwright later used those lessons to build The RealReal.",
+    "learn": [
+      "What it was like to run Pets.com as the bubble burst",
+      "Why she chose to shut down and return money to shareholders",
+      "How she rebuilt her career and founded The RealReal"
+    ],
+    "videos": [
+      {
+        "youtubeId": "euDdFvdHi9s",
+        "title": "From Pets.com Failure to a Billion-Dollar Empire | Julie Wainwright - The RealReal Founder",
+        "channel": "Scott D. Clary - Success Story Podcast",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 69,
+        "why": "Pets.com's CEO Julie Wainwright tells the story first-hand, from the crash to founding The RealReal."
+      },
+      {
+        "youtubeId": "25_WjiZnvQk",
+        "title": "The Dot-Com Bubble - 5 Minute History Lesson",
+        "channel": "The Plain Bagel",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 7,
+        "why": "A clear seven-minute primer on the dot-com bubble that sank Pets.com and hundreds of others."
+      },
+      {
+        "youtubeId": "1M4kbB18Xx8",
+        "title": "Julie Wainwright On Why Her Biggest Failure Helped Her Build A Billion-Dollar Brand",
+        "channel": "ForbesWomen",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 3,
+        "why": "Wainwright in three minutes on why her biggest failure made her a better founder."
+      }
+    ]
+  },
+  {
+    "slug": "toys-r-us",
+    "company": "Toys \"R\" Us",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Toy retail",
+    "founded": 1948,
+    "founders": "Charles Lazarus",
+    "hook": "Toys 'R' Us didn't die from Amazon alone. It died carrying billions in buyout debt.",
+    "summary": "Charles Lazarus turned a baby-furniture shop into Toys 'R' Us, the giant toy superstore loved by generations of kids. In 2005 private-equity firms bought it in a leveraged buyout that loaded it with about $5 billion of debt, leaving little money to fix stores or fight Walmart and Amazon; it filed for bankruptcy in 2017 and closed its US stores in 2018. Lesson: debt can quietly strangle a business that still has loyal customers.",
+    "learn": [
+      "How a leveraged buyout works and why it was risky here",
+      "How interest payments crowded out investment in stores",
+      "Why Walmart and Amazon finished the job"
+    ],
+    "videos": [
+      {
+        "youtubeId": "W9CxiNsX0zs",
+        "title": "How Toys 'R' Us Went Bankrupt | WSJ",
+        "channel": "The Wall Street Journal",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 13,
+        "why": "WSJ explains clearly how the buyout debt and new competitors combined to sink the chain."
+      },
+      {
+        "youtubeId": "7Actdg5JcM8",
+        "title": "The Rise And Fall Of Toys R Us",
+        "channel": "CNBC",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 5,
+        "why": "A five-minute CNBC overview of the rise and fall."
+      }
+    ]
+  },
+  {
+    "slug": "sears",
+    "company": "Sears",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Retail",
+    "founded": 1893,
+    "founders": "Richard Sears & Alvah Roebuck",
+    "hook": "Sears was the Amazon of 1900: one catalog that sold everything. Then it fell behind.",
+    "summary": "Richard Sears started selling watches by mail in 1886, and the Sears catalog let farm families order almost anything, making it America's biggest retailer for decades. It was slow to respond to Walmart, discount chains and online shopping, and after a 2005 merger with Kmart under hedge-fund owner Eddie Lampert it split into competing internal units and sold off assets, filing for bankruptcy in 2018. Lesson: being the original disruptor doesn't protect you from the next one.",
+    "learn": [
+      "How former insiders describe the decline",
+      "How internal competition between divisions created infighting",
+      "Why selling assets kept Sears alive but hollowed it out"
+    ],
+    "videos": [
+      {
+        "youtubeId": "TWgeZwiuO34",
+        "title": "The Downfall of Sears, Told From the Inside | WSJ",
+        "channel": "The Wall Street Journal",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 9,
+        "why": "WSJ lets former Sears insiders explain what went wrong from where they sat."
+      },
+      {
+        "youtubeId": "MYGOg9kUsfE",
+        "title": "The fall of Sears",
+        "channel": "CBS Sunday Morning",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 9,
+        "why": "CBS Sunday Morning on what Sears meant to America and how it faded."
+      },
+      {
+        "youtubeId": "Qws713t3HBY",
+        "title": "The Decline of Sears...What Happened?",
+        "channel": "Company Man",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 14,
+        "why": "A clear breakdown of the strategic mistakes over several decades."
+      }
+    ]
+  },
+  {
+    "slug": "general-electric",
+    "company": "General Electric",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Industrial conglomerate",
+    "founded": 1892,
+    "founders": "Thomas Edison, Charles Coffin and partners (merger of Edison General Electric and Thomson-Houston)",
+    "hook": "GE was once America's most valuable company. Then it was split into three.",
+    "summary": "Born from Thomas Edison's electric companies, General Electric became America's most admired conglomerate, and under Jack Welch it was the most valuable US company by 2000, with much of its profit coming from its finance arm, GE Capital. The 2008 crisis showed how risky GE Capital was, costly bets such as a big push into power turbines went wrong, and GE spent years selling businesses before splitting into three companies by 2024. Lesson: smooth-looking earnings can hide big risks, and complexity is not the same as strength.",
+    "learn": [
+      "How GE grew from light bulbs into a sprawling conglomerate",
+      "Why GE Capital made profits look strong, then nearly sank the company",
+      "How the decline ended in a break-up"
+    ],
+    "videos": [
+      {
+        "youtubeId": "CqF3WUST-fk",
+        "title": "The Decline of General Electric...What Happened?",
+        "channel": "Company Man",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 11,
+        "why": "A clear, compact explanation of how GE lost its way."
+      },
+      {
+        "youtubeId": "kRE0mSvhW1o",
+        "title": "The Fall of General Electric — Thomas Gryta [S.6, Ep.2]",
+        "channel": "Charles Mizrahi",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 59,
+        "why": "WSJ reporter Thomas Gryta, co-author of 'Lights Out', explains what really happened inside GE."
+      },
+      {
+        "youtubeId": "1nqqLGXrhSs",
+        "title": "Authors: How Financialization Killed GE",
+        "channel": "The Hill",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 6,
+        "why": "The authors of the definitive GE book sum up in six minutes how financial engineering hollowed it out."
+      }
+    ]
+  },
+  {
+    "slug": "volkswagen-dieselgate",
+    "company": "Volkswagen (Dieselgate)",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Automobiles",
+    "founded": 1937,
+    "founders": "Founded by the German state (Ferdinand Porsche designed the Beetle)",
+    "hook": "VW's 'clean diesel' cars had secret software that cheated emissions tests.",
+    "summary": "Volkswagen sold its diesel cars as 'clean diesel' while racing to become the world's biggest carmaker. In 2014 researchers at West Virginia University found the cars polluted far more on real roads than in lab tests, and in 2015 VW admitted about 11 million cars worldwide carried software that detected tests and switched on full pollution controls only then. Fines, buybacks and settlements cost it more than $30 billion and several executives faced criminal charges; the lesson is that a culture that rewards hitting targets at any cost will eventually cheat.",
+    "learn": [
+      "How a small university team uncovered the cheating",
+      "What a 'defeat device' is and how it fooled regulators",
+      "Why the scandal spread across VW worldwide"
+    ],
+    "videos": [
+      {
+        "youtubeId": "hOTKIZgppbs",
+        "title": "Volkswagen Cheating Scandal: How It Was Exposed",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 7,
+        "why": "Bloomberg explains how the cheating was actually discovered and exposed."
+      },
+      {
+        "youtubeId": "k65Z-62hIr8",
+        "title": "German auto giant Volkswagen caught lying on a spectacular scale | 60 Minutes Australia",
+        "channel": "60 Minutes Australia",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 14,
+        "why": "60 Minutes Australia investigates the scale of VW's deception."
+      },
+      {
+        "youtubeId": "b1ku6rk26_Y",
+        "title": "Scandal: VW Emissions Dieselgate Explained | Plainly Difficult Documentary",
+        "channel": "Plainly Difficult",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 24,
+        "why": "A detailed, carefully researched breakdown of the engineering and the cover-up."
+      }
+    ]
+  },
+  {
+    "slug": "bernie-madoff",
+    "company": "Bernard L. Madoff Investment Securities",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Investment fraud (Ponzi scheme)",
+    "founded": 1960,
+    "founders": "Bernard \"Bernie\" Madoff",
+    "hook": "A former NASDAQ chairman ran the biggest Ponzi scheme in history for decades.",
+    "summary": "Bernie Madoff founded his trading firm in 1960 and became a respected Wall Street figure, even serving as chairman of the NASDAQ. For decades his investment business paid steady 'returns' that were really other investors' money; analyst Harry Markopolos warned regulators for years, but the scheme only collapsed in December 2008 when clients asked for their money back. Madoff pleaded guilty and was sentenced to 150 years in prison; the lesson is that returns too smooth to be true usually are.",
+    "learn": [
+      "How Madoff built trust through reputation and exclusivity",
+      "Why regulators missed repeated red flags",
+      "How the scheme unravelled during the 2008 crisis"
+    ],
+    "videos": [
+      {
+        "youtubeId": "rH1Y66IwKvc",
+        "title": "The Madoff Affair (full documentary) | FRONTLINE",
+        "channel": "FRONTLINE PBS | Official",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 54,
+        "why": "FRONTLINE reconstructs how Madoff fooled friends, charities and regulators for so long."
+      },
+      {
+        "youtubeId": "3wUJesUik5A",
+        "title": "60 Minutes Archive: The man who figured out Madoff's Ponzi scheme",
+        "channel": "60 Minutes",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 14,
+        "why": "The analyst who figured out the fraud years earlier explains how the numbers gave Madoff away."
+      },
+      {
+        "youtubeId": "gDqGSmTPtOQ",
+        "title": "The Man Who Stole $65 Billion (Bernie Madoff)",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 14,
+        "why": "A shorter, clear overview of how the Ponzi scheme worked."
+      }
+    ]
+  },
+  {
+    "slug": "long-term-capital-management",
+    "company": "Long-Term Capital Management",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Hedge fund",
+    "founded": 1994,
+    "founders": "John Meriwether, with Myron Scholes, Robert Merton and others",
+    "hook": "Two Nobel winners helped run this hedge fund. It nearly broke Wall Street in 1998.",
+    "summary": "LTCM was founded in 1994 by star bond trader John Meriwether with a team that included Nobel-winning economists Myron Scholes and Robert Merton, and it made spectacular early returns from tiny price gaps, using enormous amounts of borrowed money. In 1998 Russia's debt default sent markets haywire, the gaps widened instead of closing, and the fund lost most of its capital in months, so the New York Fed organised a $3.6 billion rescue by banks. Lesson: clever models fail when you ignore rare events, and heavy borrowing leaves no time to recover.",
+    "learn": [
+      "What LTCM's strategy was, explained by a founding partner",
+      "How borrowed money turned a bad month into a near-collapse",
+      "What he changed about investing afterwards"
+    ],
+    "videos": [
+      {
+        "youtubeId": "6BUatQ10HA4",
+        "title": "Victor Haghani - LTCM to Elm Partners",
+        "channel": "Patrick Boyle",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 58,
+        "why": "A rare long interview with LTCM founding partner Victor Haghani on what went wrong and what he learned."
+      },
+      {
+        "youtubeId": "ZZ25uZtey34",
+        "title": "Before the Great Recession, “The Warning” (full documentary)",
+        "channel": "FRONTLINE PBS | Official",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 55,
+        "why": "FRONTLINE's 'The Warning' shows how LTCM's collapse exposed risky derivatives a decade before 2008, and why the warnings were ignored."
+      },
+      {
+        "youtubeId": "x9wzh0zwknM",
+        "title": "EPISODE 120: Roger Lowenstein, Author: \"When Genius Failed\"",
+        "channel": "The  Alpha Exchange with Dean Curnutt",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 52,
+        "why": "Roger Lowenstein, author of the classic 'When Genius Failed', retells the story."
+      }
+    ]
+  },
+  {
+    "slug": "nikola",
+    "company": "Nikola",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Electric & hydrogen trucks",
+    "founded": 2014,
+    "founders": "Trevor Milton",
+    "hook": "Nikola's truck in the promo video wasn't driving. It was rolling downhill.",
+    "summary": "Trevor Milton founded Nikola in 2014 promising zero-emission hydrogen and electric trucks, and after going public in 2020 it was briefly worth more than Ford. Short-seller Hindenburg Research then showed that a promotional video of a truck 'in motion' had been filmed rolling down a hill; Milton resigned, was convicted of fraud in 2022 for misleading investors (he was pardoned in 2025), and Nikola filed for bankruptcy in 2025. Lesson: hype can buy time, but sooner or later the product has to work.",
+    "learn": [
+      "How Nikola built hype before it had working products",
+      "What Hindenburg's investigation revealed",
+      "How investors and partners were drawn in"
+    ],
+    "videos": [
+      {
+        "youtubeId": "88fWUZhYb04",
+        "title": "How to Lie Your Way to $34 Billion [Nikola Motors Fraud]",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 26,
+        "why": "A detailed, well-sourced account of the claims and how they fell apart."
+      },
+      {
+        "youtubeId": "Vomb4G_z9lE",
+        "title": "Nikola Motors Fraud Explained",
+        "channel": "Patrick Boyle",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 14,
+        "why": "A former fund manager explains the allegations and the market mechanics behind the hype."
+      }
+    ]
+  },
+  {
+    "slug": "wirecard",
+    "company": "Wirecard",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Payments",
+    "founded": 1999,
+    "founders": "Founded in Munich; led by Markus Braun (CEO 2002–2020)",
+    "hook": "A German fintech star said €1.9 billion sat in its bank accounts. It didn't exist.",
+    "summary": "Wirecard started in 1999 processing online payments and grew into one of Germany's most valuable companies. Financial Times reporter Dan McCrum spent years exposing accounting problems while German authorities investigated the journalists instead; in June 2020 Wirecard admitted that €1.9 billion of cash probably did not exist and collapsed into insolvency. Former CEO Markus Braun went on trial in Munich in 2022 and denies wrongdoing; the lesson is that honest audits and a free press matter more than a soaring share price.",
+    "learn": [
+      "How the FT journalist pieced together the fraud",
+      "Why German authorities targeted the reporters at first",
+      "How the missing €1.9 billion finally exposed everything"
+    ],
+    "videos": [
+      {
+        "youtubeId": "u-8-QbDpqqw",
+        "title": "Wirecard and the missing €1.9bn: my story | FT",
+        "channel": "Financial Times",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 8,
+        "why": "Dan McCrum, the reporter who exposed Wirecard, tells his own story in eight minutes."
+      },
+      {
+        "youtubeId": "dI5n5lt1MQ0",
+        "title": "Anatomy of a Scandal: inside the Wirecard investigation and why we fall for scams",
+        "channel": "FT Live",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 44,
+        "why": "A longer FT session on the investigation and why smart people fall for scams."
+      }
+    ]
+  },
+  {
+    "slug": "ftx",
+    "company": "FTX",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Crypto exchange",
+    "founded": 2019,
+    "founders": "Sam Bankman-Fried & Gary Wang",
+    "hook": "FTX customers' money was secretly funnelled to its sister trading firm.",
+    "summary": "Sam Bankman-Fried co-founded crypto exchange FTX in 2019, and within three years it was valued at $32 billion, with celebrity ads and political influence. In November 2022 a rush of withdrawals revealed that billions in customer funds had been sent to his trading firm Alameda Research; FTX went bankrupt, and in 2023 Bankman-Fried was convicted of fraud and later sentenced to 25 years in prison. Lesson: never mix customers' money with your own bets, and beware of founders nobody is allowed to question.",
+    "learn": [
+      "How FTX rose so fast and who believed in it",
+      "How customer money ended up at Alameda Research",
+      "What insiders saw during the final days"
+    ],
+    "videos": [
+      {
+        "youtubeId": "XqwGt69pDXQ",
+        "title": "The Collapse Of FTX: Insiders Tell All | CNBC Documentary",
+        "channel": "CNBC",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 39,
+        "why": "CNBC talks to insiders about the rise and the final days of FTX."
+      },
+      {
+        "youtubeId": "FtzvOZNyXdw",
+        "title": "Rise, fall of Sam Bankman-Fried, FTX at center of Michael Lewis' new book | 60 Minutes",
+        "channel": "60 Minutes",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 27,
+        "why": "Michael Lewis, who shadowed Bankman-Fried for months, gives his view; compare it critically with the trial evidence."
+      },
+      {
+        "youtubeId": "Hzko-cjHhTg",
+        "title": "The END of Sam Bankman Fried",
+        "channel": "Coffeezilla",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 50,
+        "why": "Coffeezilla, who interviewed SBF directly, breaks down the trial and conviction in detail."
+      },
+      {
+        "youtubeId": "mVrMpk4lGjA",
+        "title": "FTX: Worse Than Enron!",
+        "channel": "Patrick Boyle",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 18,
+        "why": "A finance professor-turned-YouTuber reads the bankruptcy filings and compares FTX with Enron."
+      }
+    ]
+  },
+  {
+    "slug": "theranos",
+    "company": "Theranos",
+    "collection": "failures",
+    "country": "Global",
+    "sector": "Blood testing",
+    "founded": 2003,
+    "founders": "Elizabeth Holmes",
+    "hook": "Theranos said one finger-prick could run hundreds of tests. Its machines couldn't.",
+    "summary": "Elizabeth Holmes left Stanford at 19 to start Theranos, which claimed its device could run many tests from a few drops of blood, and it reached a $9 billion valuation. Whistleblowers, including young employee Tyler Shultz, and WSJ reporter John Carreyrou exposed that the technology didn't work as claimed; Holmes was convicted of defrauding investors in 2022 and sentenced to more than 11 years in prison. Lesson: in healthcare, 'fake it till you make it' hurts real patients.",
+    "learn": [
+      "What Tyler Shultz saw inside Theranos's lab",
+      "Why speaking up cost him so much, including family pressure",
+      "How to recognise a culture that hides the truth"
+    ],
+    "videos": [
+      {
+        "youtubeId": "u6OkN6C3OsU",
+        "title": "A Conversation with Theranos Whistleblower Tyler Shultz | The Program for Leadership and Character",
+        "channel": "The Program for Leadership and Character",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 59,
+        "why": "The young whistleblower tells, in his own words, what he saw and what speaking up cost him."
+      },
+      {
+        "youtubeId": "3CccfnRpPtM",
+        "title": "Theranos – Silicon Valley’s Greatest Disaster",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 25,
+        "why": "A clear, well-paced account of the whole Theranos story."
+      },
+      {
+        "youtubeId": "MsUKtnr5ngQ",
+        "title": "Theranos fraud: Up close and personal with Elizabeth Holmes' charm and lies | 60 Minutes Australia",
+        "channel": "60 Minutes Australia",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 32,
+        "why": "60 Minutes Australia on Holmes' charm and the lies it helped sell."
+      }
+    ]
+  },
+  {
+    "slug": "jpmorgan",
+    "company": "JPMorgan Chase",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Banking",
+    "founded": 1799,
+    "founders": "Aaron Burr (The Manhattan Company, 1799); J. Pierpont Morgan (J.P. Morgan & Co., 1871)",
+    "hook": "Jamie Dimon was fired from Citigroup. He went on to build America's biggest bank.",
+    "summary": "JPMorgan Chase is the product of more than 200 years of bank mergers, from Aaron Burr's Manhattan Company to J. Pierpont Morgan's famous firm. Jamie Dimon, pushed out of Citigroup in 1998, turned around Bank One and has led JPMorgan since 2006, keeping a 'fortress balance sheet' that let it survive 2008 and buy Bear Stearns and Washington Mutual during the crisis. Even giants slip: in 2021 it paid $175 million for the startup Frank, whose founder was later convicted of faking its customer numbers. Lesson: caution in good times is what lets you be bold in bad times.",
+    "learn": [
+      "How Dimon's firing from Citi shaped his career",
+      "What a 'fortress balance sheet' means",
+      "How JPMorgan grew by buying rivals during crises"
+    ],
+    "videos": [
+      {
+        "youtubeId": "kK9_3sXFuYw",
+        "title": "How Jamie Dimon Built Chase Into the U.S.’s Most Powerful Bank | WSJ",
+        "channel": "The Wall Street Journal",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 7,
+        "why": "WSJ's crisp seven-minute story of how Dimon built today's JPMorgan."
+      },
+      {
+        "youtubeId": "QE3QwTA5ujE",
+        "title": "Jamie Dimon On The 2008 Crisis",
+        "channel": "CNBC",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 14,
+        "why": "Dimon recalls how JPMorgan navigated the 2008 crisis and the Bear Stearns rescue."
+      },
+      {
+        "youtubeId": "BgYQj4gVkWQ",
+        "title": "The David Rubenstein Show: JPMorgan CEO Jamie Dimon",
+        "channel": "David Rubenstein",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 24,
+        "why": "Dimon on his career and leadership in a classic Rubenstein interview."
+      },
+      {
+        "youtubeId": "Kfdj3AfDD74",
+        "title": "How This 31 Year Old Woman Scammed JP Morgan",
+        "channel": "ColdFusion",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 19,
+        "why": "A cautionary tale: how JPMorgan bought the student startup Frank and discovered its users were fake."
+      }
+    ]
+  },
+  {
+    "slug": "goldman-sachs",
+    "company": "Goldman Sachs",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Investment banking",
+    "founded": 1869,
+    "founders": "Marcus Goldman (joined by son-in-law Samuel Sachs)",
+    "hook": "Goldman Sachs began with one immigrant trading IOUs on Manhattan streets in 1869.",
+    "summary": "Marcus Goldman, a German immigrant, started in 1869 by buying merchants' IOUs in Lower Manhattan; his son-in-law Samuel Sachs joined, and the firm grew into Wall Street's most powerful investment bank. Its partnership culture made it famous for talent and deal-making, but it has also faced scandals, including 1MDB, where it paid more than $5 billion worldwide for its role in bond deals linked to a looted Malaysian state fund. Lesson: a reputation takes 150 years to build and one deal to damage.",
+    "learn": [
+      "How Marcus Goldman started the business in 1869",
+      "How Samuel Sachs joined and the partnership grew",
+      "Why the firm's early culture shaped what it became"
+    ],
+    "videos": [
+      {
+        "youtubeId": "wonEywOwpEo",
+        "title": "Goldman Sachs at 150: Part 1 – Beginnings (1869)",
+        "channel": "Goldman Sachs",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 16,
+        "why": "Goldman's own archive film on its beginnings: the official version, so watch with a critical eye."
+      },
+      {
+        "youtubeId": "vvxmacn11dg",
+        "title": "The David Rubenstein Show: Goldman Sachs' CEO Lloyd Blankfein",
+        "channel": "Bloomberg Originals",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 66,
+        "why": "Former CEO Lloyd Blankfein, who grew up in public housing, talks frankly with David Rubenstein about Goldman and 2008."
+      },
+      {
+        "youtubeId": "DPbWDuH1DhI",
+        "title": "A $3.9 Billion Settlement: Timeline of the 1MDB Scandal | WSJ",
+        "channel": "The Wall Street Journal",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 9,
+        "why": "WSJ's timeline of the 1MDB scandal and Goldman's $3.9 billion settlement with Malaysia."
+      },
+      {
+        "youtubeId": "PXgUea6JVcI",
+        "title": "Why Goldman Sachs Went From Investing For The Rich To Targeting Everyone",
+        "channel": "CNBC",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 24,
+        "why": "Why Goldman tried to become a consumer bank with Marcus, a push it later largely reversed."
+      }
+    ]
+  },
+  {
+    "slug": "berkshire-hathaway",
+    "company": "Berkshire Hathaway",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Conglomerate & investing",
+    "founded": 1955,
+    "founders": "Warren Buffett (in control since 1965) & Charlie Munger",
+    "hook": "Buffett bought a dying textile mill partly out of anger. It became a $1 trillion giant.",
+    "summary": "Warren Buffett took control of Berkshire Hathaway, a struggling New England textile company, in 1965 and later called it one of his worst investments. With partner Charlie Munger he used the cash from insurance businesses to buy great companies and hold stocks for decades, turning Berkshire into one of the world's most valuable companies. Buffett handed the CEO role to Greg Abel at the end of 2025; the lesson is that patience, honesty and compounding beat cleverness.",
+    "learn": [
+      "How Buffett started investing as a boy",
+      "What he learned from his teacher Benjamin Graham",
+      "Why he values reputation and patience above everything"
+    ],
+    "videos": [
+      {
+        "youtubeId": "u8ANHNU0Fng",
+        "title": "The David Rubenstein Show: Warren Buffett on His Early Career in Finance",
+        "channel": "Bloomberg Originals",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 31,
+        "why": "Buffett tells David Rubenstein about his early career, in his own folksy words."
+      },
+      {
+        "youtubeId": "w6qRb171cog",
+        "title": "Charlie Munger (Audio)",
+        "channel": "Acquired",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 67,
+        "why": "One of Charlie Munger's last long interviews, recorded shortly before he died at 99."
+      },
+      {
+        "youtubeId": "NrPBr8iFL9k",
+        "title": "The Snowball: Warren Buffett and the Business of Life",
+        "channel": "Microsoft Research",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 56,
+        "why": "Alice Schroeder, the writer Buffett gave unprecedented access to, on the man behind 'The Snowball'."
+      },
+      {
+        "youtubeId": "KiIF_t6wILQ",
+        "title": "Berkshire Hathaway: The Incomparable Compounder - [Business Breakdowns, EP. 63]",
+        "channel": "Business Breakdowns",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 75,
+        "why": "A deep breakdown of how Berkshire's business model actually works, from insurance float to capital allocation."
+      }
+    ]
+  },
+  {
+    "slug": "bridgewater",
+    "company": "Bridgewater Associates",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Hedge fund",
+    "founded": 1975,
+    "founders": "Ray Dalio",
+    "hook": "Ray Dalio started Bridgewater in his apartment and built the world's biggest hedge fund.",
+    "summary": "Ray Dalio founded Bridgewater from his New York apartment in 1975 and, after a disastrous market call in 1982 nearly wiped him out, rebuilt it into the world's largest hedge fund. He ran it on 'radical transparency': recorded meetings, open criticism and written principles, which he says surface the best ideas and critics say can create a culture of fear. Lesson: write down how you make decisions, test them against reality, and be honest when they fail.",
+    "learn": [
+      "How a painful mistake in 1982 changed how Dalio thinks",
+      "What 'radical transparency' and an idea meritocracy mean",
+      "How Bridgewater weighs people's opinions using data"
+    ],
+    "videos": [
+      {
+        "youtubeId": "HXbsVbFAczg",
+        "title": "How to build a company where the best ideas win | Ray Dalio",
+        "channel": "TED",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 17,
+        "why": "Dalio explains, in his own words, the principles he built Bridgewater on."
+      },
+      {
+        "youtubeId": "BLwujF7BbGQ",
+        "title": "Ray Dalio on The David Rubenstein Show",
+        "channel": "David Rubenstein",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 24,
+        "why": "Dalio with David Rubenstein on his start and how Bridgewater grew."
+      },
+      {
+        "youtubeId": "bb5kngSrrsw",
+        "title": "Are Ray Dalio's Principles the Secret to His Success?",
+        "channel": "Patrick Boyle",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 63,
+        "why": "A sceptical, evidence-based look at Bridgewater's performance and culture: the counterweight to Dalio's own story."
+      },
+      {
+        "youtubeId": "IrtT_P2I5j0",
+        "title": "Rob Copeland on The Fund: Ray Dalio, Bridgewater Associates & the Unraveling of a Wall Street Legend",
+        "channel": "NYFWA Media",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 57,
+        "why": "Journalist Rob Copeland on his critical book 'The Fund' and life inside Bridgewater."
+      }
+    ]
+  },
+  {
+    "slug": "renaissance-technologies",
+    "company": "Renaissance Technologies",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Quantitative hedge fund",
+    "founded": 1978,
+    "founders": "Jim Simons",
+    "hook": "A codebreaker-turned-math professor built Wall Street's most successful fund.",
+    "summary": "Jim Simons was a prize-winning mathematician and former Cold War codebreaker who left academia in 1978 to trade markets. Instead of hiring traders, Renaissance hired mathematicians, physicists and computer scientists to find patterns in data, and its Medallion Fund produced returns widely considered the best in investing history. Lesson: hire brilliant people from outside your industry and let evidence overrule gut feeling.",
+    "learn": [
+      "How Simons went from codebreaker to math professor to investor",
+      "Why Renaissance hired scientists instead of Wall Street traders",
+      "How he used his fortune to support math and science"
+    ],
+    "videos": [
+      {
+        "youtubeId": "U5kIdtMJGc8",
+        "title": "The mathematician who cracked Wall Street | Jim Simons",
+        "channel": "TED",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 23,
+        "why": "Simons tells his own unlikely life story in a warm, funny TED interview."
+      },
+      {
+        "youtubeId": "QNznD9hMEh0",
+        "title": "Jim Simons (full length interview) - Numberphile",
+        "channel": "Numberphile2",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 61,
+        "why": "A full-hour interview where Simons goes deep on his life, from geometry to Renaissance."
+      },
+      {
+        "youtubeId": "2KjW4BqNFy0",
+        "title": "Renaissance Technologies (Audio)",
+        "channel": "Acquired",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 191,
+        "why": "Acquired's three-hour history of Renaissance and the Medallion Fund."
+      },
+      {
+        "youtubeId": "XRNBJ4Sxvkw",
+        "title": "Market Legends — Ep. 1: Jim Simons — From Codebreaker to Billionaire | In The Money by Zerodha",
+        "channel": "In The Money by Zerodha",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 21,
+        "why": "Zerodha's take on Simons' journey, made for Indian investors."
+      }
+    ]
+  },
+  {
+    "slug": "blackrock",
+    "company": "BlackRock",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Asset management",
+    "founded": 1988,
+    "founders": "Larry Fink and seven partners, including Robert Kapito and Susan Wagner",
+    "hook": "Larry Fink lost $100M at First Boston, then built the world's biggest money manager.",
+    "summary": "Larry Fink co-founded BlackRock in 1988 after his bond desk at First Boston lost about $100 million on a wrong interest-rate bet, and he built the new firm around managing risk, including its Aladdin software. BlackRock grew into the world's largest asset manager, helped by its iShares index funds, and in 2025 it entered India's mutual-fund market through JioBlackRock, a joint venture with Mukesh Ambani's Jio Financial Services. Lesson: a painful failure can become the founding idea of your next company.",
+    "learn": [
+      "Why BlackRock chose to partner with Jio to enter India",
+      "How Fink and Ambani see the future of Indians' savings and investing",
+      "What a global giant looks for in a local partner"
+    ],
+    "videos": [
+      {
+        "youtubeId": "S0PDBjvFLrU",
+        "title": "MEGA EXCLUSIVE: Mukesh Ambani & Larry Fink INTERVIEW | Investing For A New Era | JioBlackRock Event",
+        "channel": "CNBC-TV18",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 48,
+        "why": "Mukesh Ambani and Larry Fink together, explaining in their own words why BlackRock is betting on Indian investors."
+      }
+    ]
+  },
+  {
+    "slug": "vanguard",
+    "company": "Vanguard",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Asset management",
+    "founded": 1975,
+    "founders": "John C. \"Jack\" Bogle",
+    "hook": "Jack Bogle was fired, then built a fund company owned by its own customers.",
+    "summary": "After being fired as head of Wellington Management in 1974, Jack Bogle founded Vanguard in 1975 with an unusual structure: the company is owned by its funds, and so by its investors. In 1976 he launched the first index fund for ordinary investors, mocked as 'Bogle's Folly', and low-cost index investing went on to reshape the whole industry. Lesson: aligning your business with your customers' interests can be the ultimate advantage.",
+    "learn": [
+      "How Bogle's firing led to Vanguard",
+      "Why Vanguard's ownership structure is so unusual",
+      "How the first index fund was launched"
+    ],
+    "videos": [
+      {
+        "youtubeId": "xVIHSDhoGkI",
+        "title": "Jack Bogle, Vanguard (1 of 3), 'Forming Vanguard'",
+        "channel": "FoundersFilms",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 8,
+        "why": "Bogle himself tells how Vanguard was formed, short and first-hand."
+      },
+      {
+        "youtubeId": "VBdE0nV94Q8",
+        "title": "Interview with Vanguard Founder, Jack Bogle (Full Version)",
+        "channel": "The Motley Fool",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 59,
+        "why": "A relaxed full-length interview where Bogle explains index funds and his philosophy."
+      }
+    ]
+  },
+  {
+    "slug": "charles-schwab",
+    "company": "Charles Schwab",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Brokerage",
+    "founded": 1971,
+    "founders": "Charles \"Chuck\" Schwab",
+    "hook": "Chuck Schwab bet that ordinary people wanted cheap stock trades, not salesmen.",
+    "summary": "Charles Schwab started a small investment firm in 1971 and, when US rules on fixed trading commissions ended in 1975, turned it into a discount broker that let regular people trade cheaply without paying for a salesman. He sold the firm to Bank of America in 1983, bought it back in 1987, and kept cutting costs until Schwab became one of America's biggest brokerages. Lesson: when a rule change opens a door, the founder who walks through it on the customer's side can build an empire.",
+    "learn": [
+      "How Schwab got started and why discount broking was radical",
+      "Why he sold to Bank of America and then bought the company back",
+      "How he thinks about serving everyday investors"
+    ],
+    "videos": [
+      {
+        "youtubeId": "SdF06ViElNQ",
+        "title": "Famed Investor Charles Schwab on The David Rubenstein Show",
+        "channel": "David Rubenstein",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 24,
+        "why": "Schwab tells his own story to David Rubenstein."
+      },
+      {
+        "youtubeId": "7ZRrU2EKUcg",
+        "title": "Charles Schwab: The 8 Trillion Dollar Gorilla - [Business Breakdowns, EP. 66]",
+        "channel": "Business Breakdowns",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 67,
+        "why": "A deep dive into Schwab's business model and how it makes money."
+      },
+      {
+        "youtubeId": "-0hVuPzK38A",
+        "title": "Why Charles Schwab Became A Financial ‘Supermarket’",
+        "channel": "CNBC",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 11,
+        "why": "CNBC on how Schwab grew into a financial supermarket."
+      }
+    ]
+  },
+  {
+    "slug": "citadel",
+    "company": "Citadel",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Hedge fund & market making",
+    "founded": 1990,
+    "founders": "Ken Griffin",
+    "hook": "Ken Griffin traded from his Harvard dorm with a satellite dish. Then he built Citadel.",
+    "summary": "Ken Griffin started trading from his Harvard dorm room, famously putting a satellite dish on the roof to get live prices, and founded Citadel in Chicago in 1990. It survived a near-death moment in 2008 when its main funds lost about half their value, and grew into one of the world's most profitable hedge funds alongside Citadel Securities, a giant market maker. Lesson: obsessive focus on talent, technology and risk control can turn a dorm-room experiment into a powerhouse.",
+    "learn": [
+      "How Griffin started trading as a student",
+      "What he looks for in people and teams",
+      "How Citadel thinks about risk and technology"
+    ],
+    "videos": [
+      {
+        "youtubeId": "GuF14oKon8A",
+        "title": "View From The Top with Ken Griffin, Founder and CEO of Citadel",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 42,
+        "why": "Griffin talks to Stanford students about building Citadel and what he expects of people."
+      },
+      {
+        "youtubeId": "3jTyVXhe9Gw",
+        "title": "Bloomberg Wealth: Citadel's Ken Griffin",
+        "channel": "David Rubenstein",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 47,
+        "why": "A long, candid Rubenstein interview covering Griffin’s start and philosophy."
+      },
+      {
+        "youtubeId": "DuYpQSMV44E",
+        "title": "Ken Griffin: Founder of Citadel and Citadel Securities",
+        "channel": "Founders Podcast",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 63,
+        "why": "Founders podcast distils Griffin's story and operating principles."
+      }
+    ]
+  },
+  {
+    "slug": "sequoia-capital",
+    "company": "Sequoia Capital",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Venture capital",
+    "founded": 1972,
+    "founders": "Don Valentine",
+    "hook": "Sequoia backed Apple, Atari and Cisco by asking one question: how big is the market?",
+    "summary": "Don Valentine, a former chip salesman at Fairchild and National Semiconductor, founded Sequoia Capital in 1972 and backed Atari, Apple and Cisco early. His rule was to 'target big markets': a huge market can rescue an ordinary team, but not the other way round, and Sequoia went on to back Google, YouTube, WhatsApp and Nvidia. Lesson: choose a problem big enough that winning is worth it.",
+    "learn": [
+      "Why Valentine cared more about markets than founders' pedigree",
+      "Stories from early bets like Apple and Atari",
+      "What a top VC looks for in a founding team"
+    ],
+    "videos": [
+      {
+        "youtubeId": "nKN-abRJMEw",
+        "title": "Don Valentine, Sequoia Capital: \"Target Big Markets\"",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 60,
+        "why": "Sequoia's founder, in his own blunt words, on how he picked companies."
+      },
+      {
+        "youtubeId": "U-FLEO0Ndrg",
+        "title": "Sequoia Capital and the evolution of the VC industry | FT Film",
+        "channel": "Financial Times",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 29,
+        "why": "An FT film on how Sequoia shaped venture capital and how it is changing."
+      },
+      {
+        "youtubeId": "4cl8X02Xd1I",
+        "title": "Sequoia Capital's Doug Leone on Luck & Taking Risks",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 50,
+        "why": "Doug Leone, who rose from immigrant salesman to lead Sequoia, on luck and taking risks."
+      }
+    ]
+  },
+  {
+    "slug": "y-combinator",
+    "company": "Y Combinator",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Startup accelerator",
+    "founded": 2005,
+    "founders": "Paul Graham, Jessica Livingston, Robert Morris & Trevor Blackwell",
+    "hook": "Y Combinator began as a summer experiment funding eight student startups.",
+    "summary": "In 2005 Paul Graham, Jessica Livingston, Robert Morris and Trevor Blackwell ran a 'Summer Founders Program', giving small cheques and advice to a batch of student startups that included Reddit. The batch model worked so well that YC became the world's best-known startup accelerator, backing Airbnb, Stripe, Dropbox and thousands more. Lesson: start small, run an experiment, and let the results tell you whether to scale.",
+    "learn": [
+      "How the founders came up with YC and the batch model",
+      "What the first summer was really like",
+      "What Livingston learned about spotting great founders"
+    ],
+    "videos": [
+      {
+        "youtubeId": "6u4JVz7iQTY",
+        "title": "How YC Was Created With Jessica Livingston",
+        "channel": "Y Combinator",
+        "kind": "oral-history",
+        "language": "en",
+        "minutes": 59,
+        "why": "Co-founder Jessica Livingston tells the real story of how YC was created."
+      },
+      {
+        "youtubeId": "oYFjKml9ptk",
+        "title": "The Untold Stories of Y Combinator with Co-Founder Jessica Livingston",
+        "channel": "Garry Tan",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 62,
+        "why": "YC's CEO Garry Tan draws out untold stories from YC's early years with Livingston."
+      },
+      {
+        "youtubeId": "8d-cApFHjeY",
+        "title": "Jessica Livingston Shares 9 Things She Learned From Founding YC",
+        "channel": "Y Combinator",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 27,
+        "why": "Livingston shares nine lessons from founding and running YC."
+      }
+    ]
+  },
+  {
+    "slug": "stripe",
+    "company": "Stripe",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Online payments",
+    "founded": 2010,
+    "founders": "Patrick & John Collison",
+    "hook": "Two Irish brothers made online payments take minutes instead of weeks.",
+    "summary": "Brothers Patrick and John Collison, who grew up in rural Ireland, started Stripe in 2010 because accepting payments online was slow and painful for developers. Their simple tools let a startup start charging customers with a few lines of code, and Stripe grew into one of the world's most valuable private companies, processing payments for millions of businesses. Lesson: obsess over the user's experience in a boring but essential problem.",
+    "learn": [
+      "How Stripe found its first users",
+      "Why the Collisons focused on developers",
+      "How John Collison thinks about early success and growth"
+    ],
+    "videos": [
+      {
+        "youtubeId": "9DUQ7_7Pj_c",
+        "title": "John Collison: Putting Startup Success in Perspective [Entire Talk]",
+        "channel": "Stanford eCorner",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 58,
+        "why": "Co-founder John Collison, in his mid-twenties, tells Stanford students about Stripe’s early days."
+      },
+      {
+        "youtubeId": "N-BKxpG1GSA",
+        "title": "The Industrialist's Dilemma: Patrick Collison, CEO of Stripe",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 29,
+        "why": "Patrick Collison on how Stripe thinks about building for the long term."
+      }
+    ]
+  },
+  {
+    "slug": "paypal",
+    "company": "PayPal",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Online payments",
+    "founded": 1998,
+    "founders": "Max Levchin, Peter Thiel, Luke Nosek & Ken Howery (Confinity); merged with Elon Musk’s X.com",
+    "hook": "PayPal nearly died from fraud. Fighting fraud became its secret weapon.",
+    "summary": "PayPal began as Confinity in 1998, merged with Elon Musk's X.com in 2000, and made sending money by email a hit with eBay sellers. Criminals quickly stole millions, and co-founder Max Levchin's team built pioneering fraud-detection systems that turned the problem into an advantage; eBay bought PayPal for $1.5 billion in 2002, and its alumni went on to found or fund YouTube, LinkedIn, Yelp, Palantir and more. Lesson: the hardest problem in your business can become your moat.",
+    "learn": [
+      "How PayPal fought the fraud that nearly killed it",
+      "What working with Thiel and Musk was like",
+      "Levchin's lessons from founding several companies"
+    ],
+    "videos": [
+      {
+        "youtubeId": "e48aSjtg1ds",
+        "title": "Max Levchin (PayPal, Affirm & investor): Thiel, Musk, fighting fraud, Yahoo, \"beneficence\" | E794",
+        "channel": "This Week in Startups",
+        "kind": "podcast",
+        "language": "en",
+        "minutes": 83,
+        "why": "Max Levchin tells the PayPal story at length, from Thiel and Musk to fighting fraud."
+      },
+      {
+        "youtubeId": "HiB4o6sML-Q",
+        "title": "PayPal Co-Founder Peter Thiel",
+        "channel": "The Aspen Institute",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 18,
+        "why": "PayPal co-founder Peter Thiel interviewed by The Atlantic’s David Frum on his contrarian views."
+      }
+    ]
+  },
+  {
+    "slug": "mastercard",
+    "company": "Mastercard",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Payment network",
+    "founded": 1966,
+    "founders": "A group of US banks (Interbank Card Association)",
+    "hook": "A Pune-born CEO, Ajay Banga, pushed Mastercard deep into digital payments.",
+    "summary": "Mastercard began in 1966 when a group of US banks formed the Interbank Card Association to compete with BankAmericard (later Visa). It was owned by its member banks until its 2006 IPO, and under Pune-born IIM Ahmedabad graduate Ajay Banga, CEO from 2010 to 2020, it pushed hard into digital payments and financial inclusion. Lesson: a network business wins by making every new user more valuable to all the others.",
+    "learn": [
+      "How Banga's career took him from India to the top of Mastercard",
+      "Why he believes in taking risks early",
+      "How he thinks about leadership and culture"
+    ],
+    "videos": [
+      {
+        "youtubeId": "9-tjY-DG5-0",
+        "title": "MasterCard CEO Ajay Banga on Taking Risks in Your Life and Career",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 49,
+        "why": "Ajay Banga tells Stanford students about his path from India to running Mastercard."
+      },
+      {
+        "youtubeId": "nKMdQiRk2oU",
+        "title": "Distinguished Speakers Series: Ajay Banga, Executive Chairman of Mastercard",
+        "channel": "Duke University - The Fuqua School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 65,
+        "why": "A longer Banga conversation on leadership, risk and building a global network."
+      },
+      {
+        "youtubeId": "2mHsTKvAuZc",
+        "title": "The Secret History of the Credit Card (full documentary) | FRONTLINE",
+        "channel": "FRONTLINE PBS | Official",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 55,
+        "why": "FRONTLINE's investigation of the credit-card industry: the less flattering side of how cards make money."
+      },
+      {
+        "youtubeId": "OiRLvUMUDGM",
+        "title": "How Mastercard Plans To Beat Visa",
+        "channel": "CNBC",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 13,
+        "why": "CNBC on how Mastercard competes with Visa and where it is heading."
+      }
+    ]
+  },
+  {
+    "slug": "american-express",
+    "company": "American Express",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Cards & payments",
+    "founded": 1850,
+    "founders": "Henry Wells, William Fargo & John Butterfield",
+    "hook": "American Express started by delivering parcels. Then it invented the traveler's cheque.",
+    "summary": "American Express was founded in 1850 as a freight and express-delivery company, moved into money orders and, in 1891, invented the traveler's cheque. Its charge card, launched in 1958, became a status symbol, and the company survived shocks such as the 1963 'salad oil scandal' and the 9/11 attacks beside its New York headquarters, when CEO Ken Chenault led it through the crisis. Lesson: a trusted brand can reinvent its products many times over.",
+    "learn": [
+      "How Chenault built a culture of performance and values",
+      "What 'define reality and give hope' means for a leader",
+      "Why values matter most when a company is under pressure"
+    ],
+    "videos": [
+      {
+        "youtubeId": "y1apB6uhj6I",
+        "title": "Ken Chenault of AmEx: Define Reality and Give Hope",
+        "channel": "Stanford Graduate School of Business",
+        "kind": "founder-talk",
+        "language": "en",
+        "minutes": 55,
+        "why": "Ken Chenault, one of the best-respected CEOs of his era, on leading AmEx and building its culture."
+      },
+      {
+        "youtubeId": "hPPNJ0_Dyhk",
+        "title": "American Express - Why They're Successful",
+        "channel": "Company Man",
+        "kind": "explainer",
+        "language": "en",
+        "minutes": 12,
+        "why": "A clear explanation of AmEx's business model and why it works."
+      },
+      {
+        "youtubeId": "JmMYx3X5alo",
+        "title": "American Express CEO Ken Chenault",
+        "channel": "CBS Sunday Morning",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 7,
+        "why": "CBS Sunday Morning profiles Chenault, one of the first Black CEOs of a Fortune 500 company."
+      }
+    ]
+  },
+  {
+    "slug": "softbank",
+    "company": "SoftBank",
+    "collection": "money-finance",
+    "country": "Global",
+    "sector": "Tech investing & telecom",
+    "founded": 1981,
+    "founders": "Masayoshi Son",
+    "hook": "Masa Son turned $20M in Alibaba into a fortune, then lost billions on WeWork.",
+    "summary": "Masayoshi Son, a Korean-Japanese entrepreneur who studied at UC Berkeley, founded SoftBank in 1981 as a software distributor and turned it into a giant technology investor. His $20 million bet on Alibaba in 2000 became worth tens of billions, but his $100 billion Vision Fund also poured money into WeWork and other startups that crashed. Lesson: bold bets create huge wins and huge losses, so understand what you are paying for, not just the vision.",
+    "learn": [
+      "How the $100 billion Vision Fund was raised",
+      "Why big bets like WeWork went wrong",
+      "What Son's style of investing means for startups"
+    ],
+    "videos": [
+      {
+        "youtubeId": "ffcPg6GHLso",
+        "title": "The Troubled Saga of Masa Son's $100 Billion Fund",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 12,
+        "why": "Bloomberg's sharp short film on the Vision Fund's rise and troubles."
+      },
+      {
+        "youtubeId": "cDpTPrfw1mQ",
+        "title": "How Masayoshi Son is Shaking Up Silicon Valley",
+        "channel": "Bloomberg Originals",
+        "kind": "documentary",
+        "language": "en",
+        "minutes": 6,
+        "why": "Bloomberg on how Son shook up Silicon Valley with giant cheques."
+      }
+    ]
+  }
+]

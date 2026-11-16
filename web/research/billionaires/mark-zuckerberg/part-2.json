@@ -1,0 +1,1477 @@
+{
+ "chapters": [
+  {
+   "id": "every-company",
+   "kicker": "Every venture, win or lose",
+   "title": "Everything He Ever Built",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most people think Mark Zuckerberg built one thing. He actually built, bought or bet on about twenty. The list includes a music plug-in from high school, a hot-or-not site that got him hauled before a Harvard discipline board, a file-sharing tool, an ad system that told your friends what you bought, a phone launcher with terrible reviews, a solar drone, a digital currency and a personal AI agent.",
+     "src": [
+      0,
+      1,
+      4,
+      19,
+      22,
+      25,
+      42
+     ]
+    },
+    {
+     "t": "p",
+     "text": "This chapter goes through them in order. For each one you get the problem, the decision, where the first money came from and how it ended. __Notice how often the flops and the giant wins come from the same habit: building fast, shipping early and buying what he could not build.__",
+     "src": [
+      9,
+      12,
+      15,
+      38
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Count the failures. Then count the wins. Both lists are long."
+    },
+    {
+     "t": "venture",
+     "name": "Synapse Media Player",
+     "years": "2002 (high school)",
+     "outcome": "failed",
+     "idea": "A plug-in for the popular Winamp music player that learned what you liked to listen to and built matching playlists for you. In plain words, it was a tiny, early version of the \"recommended for you\" idea that later ran Spotify and YouTube.",
+     "decision": "Mark built it with his school friend Adam D'Angelo as an independent project, and they put it online for free instead of selling it. When companies came knocking, the two first said no, then later changed their minds.",
+     "howStarted": "Two teenagers, a school project and a free download. A link on the tech site Slashdot brought a wave of attention.",
+     "funding": "No outside money at all. It was built with their own time and released free.",
+     "whatHappened": "After the Slashdot link, AOL, WinAmp and Microsoft all showed interest. Mark later recalled offers of up to about $1 million, then one of about $2 million. By his own account they decided to accept an offer only after reaching college, and by then the buyer had lost interest. He told The Crimson he had been naive and now kept lawyers for his products.",
+     "lesson": "Interest is not an offer, and an offer is not money in the bank. When a real buyer is at the table, decide quickly or be ready to walk away for good.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "CourseMatch",
+     "years": "2003 (Harvard)",
+     "outcome": "merged",
+     "idea": "A small website that let Harvard students see who else was taking the same courses, so they could pick classes with friends.",
+     "decision": "He built it because the information already existed but nobody had connected it. The idea of linking people through their classes later became one of the first features of thefacebook.",
+     "howStarted": "Built alone in his dorm during his sophomore year.",
+     "funding": "None. It was a student side project.",
+     "whatHappened": "CourseMatch did not become a company. Its core idea was folded into thefacebook.com a few months later, where profiles listed the classes you were taking.",
+     "lesson": "Small tools are cheap experiments. Keep the part people loved and move it into your next product.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Facemash",
+     "years": "Oct–Nov 2003",
+     "outcome": "shut",
+     "idea": "A copy of the site hotornot.com for Harvard. It showed two students' photos side by side and asked visitors to vote on who was \"hotter\".",
+     "decision": "He built it over the last week of October 2003, pulling ID photos from the online \"facebooks\" of nine Harvard houses, partly by hacking into house websites. He did not ask anyone's permission.",
+     "howStarted": "One student, one laptop, one week. The link spread through campus email lists and traffic quadrupled in a day.",
+     "funding": "None.",
+     "whatHappened": "By 10 p.m. on its busiest day it had 450 visitors who cast at least 22,000 votes. Student groups, including Fuerza Latina and the Association of Harvard Black Women, criticised it on their email lists. He took it down, and was then called before Harvard's Administrative Board on charges of breaching security, violating copyrights and violating individual privacy. He was allowed to stay at Harvard; he would not say if he got a lesser punishment.",
+     "lesson": "Growth that hurts people is not growth. He saw how fast a social site could spread, but he also learned that privacy mistakes follow you.",
+     "src": [
+      1,
+      0
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Issues about violating people's privacy don't seem to be surmountable",
+     "who": "Mark Zuckerberg, explaining why he took Facemash down, 2003",
+     "src": [
+      1
+     ]
+    },
+    {
+     "t": "note",
+     "text": "The privacy theme starts here, in 2003. It never goes away."
+    },
+    {
+     "t": "venture",
+     "name": "Thefacebook / Facebook / Meta Platforms",
+     "years": "2004–today",
+     "outcome": "public",
+     "idea": "An online directory of Harvard students with profiles, photos, interests, classes and relationship status, so you could look up and connect with people you actually knew. Harvard was planning its own version, and Mark thought it would take the university years.",
+     "decision": "The site was built around real people you already knew, not strangers. It grew college by college instead of opening to everyone at once. Early on he resisted venture capital and turned down buyers, including a $1 billion offer from Yahoo in 2006.",
+     "howStarted": "He launched it from his room in Kirkland House on 4 February 2004 and said he built it in about a week. More than 650 students signed up within days. By June 2004 it had almost 160,000 members across many colleges, and by that summer a small team had moved into a sublet in Palo Alto, California. The company was incorporated in Delaware in July 2004.",
+     "funding": "The first money was tiny: his classmate and co-founder Eduardo Saverin put in $1,000 of start-up money. Ads paid for the servers from the very start. Then came an angel round of about $500,000 from PayPal co-founder Peter Thiel in 2004, and a venture round from Accel Partners in April 2005.",
+     "whatHappened": "By September 2005 it had 3.85 million members at 882 colleges. In 2011 it earned $3.71 billion in revenue and $1 billion in profit, with 845 million monthly users. It went public in May 2012 at $38 a share, renamed itself Meta in October 2021, and in 2025 earned $200.97 billion in revenue and $60.46 billion in profit, with 3.58 billion people using its apps every day.",
+     "lesson": "Start with a small, dense group that loves the product, then expand. And keep control: he could say no to Yahoo because he still owned the decision.",
+     "src": [
+      0,
+      2,
+      5,
+      6,
+      9,
+      10,
+      31,
+      36,
+      7
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I can do it better than they can, and I can do it in a week.",
+     "who": "Mark Zuckerberg on Harvard's plans for an online facebook, February 2004",
+     "src": [
+      2
+     ]
+    },
+    {
+     "t": "note",
+     "text": "He was 19 here. Nineteen."
+    },
+    {
+     "t": "venture",
+     "name": "Wirehog",
+     "years": "2004",
+     "outcome": "shut",
+     "idea": "A file-sharing program tied to thefacebook. Unlike Kazaa or Napster-style networks, it only let you swap files (photos, music, documents, videos) with people who were already your friends.",
+     "decision": "In the summer of 2004 Mark spent much of his time in Palo Alto working on Wirehog, not on thefacebook. He even said his return to Harvard partly depended on how popular Wirehog became. He insisted it was meant for personal files, not for pirating copyrighted material.",
+     "howStarted": "Built by Mark, Andrew McCollum and Adam D'Angelo. A test version went out by invitation in October 2004, and it officially launched at Harvard and Stanford in November 2004.",
+     "funding": "Paid for out of the same tiny pot as thefacebook. There was no separate funding.",
+     "whatHappened": "More than 1,200 students downloaded it on launch day, and about two-thirds of them shared at least one file. But it was harder to use than thefacebook and slower than normal file-sharing tools. We could not find a reliable record of the exact day it was switched off. What is clear is that it never became a business, while thefacebook went national.",
+     "lesson": "Watch where your users actually are. He nearly split his attention between two products, and the simpler one won by a mile.",
+     "src": [
+      3,
+      4
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Wirehog is the first time we see a pattern that repeats for twenty years. __Mark often had a second, shinier idea while his main product was still growing.__ The real skill was not having ideas. It was knowing which one to drop.",
+     "src": [
+      3,
+      4
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Facebook Beacon",
+     "years": "2007–2009",
+     "outcome": "shut",
+     "idea": "An ad system that took what you did on partner shopping and travel websites, such as buying something, and posted it to your Facebook friends. Advertisers would get word-of-mouth marketing at huge scale.",
+     "decision": "Facebook launched it as an automatic feature: you had to work to stop it, rather than choose to turn it on. That single design choice caused the whole disaster.",
+     "howStarted": "Launched in late 2007 with outside websites as partners.",
+     "funding": "Paid for from Facebook's own budget.",
+     "whatHappened": "Users were furious that their shopping was being shown to friends without clear permission. Facebook switched it to opt-in and Mark apologised. Beacon was shut down in 2009, and Facebook agreed to pay $9.5 million to settle a class-action lawsuit. In 2011 Mark himself listed Beacon as a high-profile mistake that overshadowed much of the company's good work.",
+     "lesson": "If your product shares people's private actions, the default setting must be \"off\". Ask first, always.",
+     "src": [
+      24,
+      23
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Poke (and the failed bids for Snapchat)",
+     "years": "2012–2013",
+     "outcome": "failed",
+     "idea": "Snapchat's disappearing photos were exploding among teenagers. Facebook tried two things: buy Snapchat, or copy it.",
+     "decision": "Facebook reportedly offered about $1 billion for Snapchat in 2012 and was turned down. It then launched its own disappearing-message app, Poke. In November 2013, The Wall Street Journal reported that Snapchat had turned down a $3 billion all-cash offer from Facebook.",
+     "howStarted": "Built inside Facebook as a quick copy.",
+     "funding": "Facebook's own money.",
+     "whatHappened": "Poke flopped. Snapchat stayed independent. Facebook later found other ways to compete, but this round was a clear loss.",
+     "lesson": "Copying a product is not the same as copying why people love it. Teenagers loved Snapchat partly because it was not Facebook.",
+     "src": [
+      18
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Instagram (acquisition)",
+     "years": "2012–today",
+     "outcome": "running",
+     "idea": "A photo-sharing app built for phones. Facebook in 2012 was still a website squeezed onto small screens, and Instagram was growing fast on exactly the device Facebook was weakest on.",
+     "decision": "Mark chose to buy instead of compete, and promised to keep Instagram running on its own rather than swallow it into Facebook. Regulators later argued this was a plan to remove a rival; a judge rejected that case in 2025.",
+     "howStarted": "Instagram was a two-year-old company with 13 staff and about 30 million users when Facebook announced the deal on 9 April 2012.",
+     "funding": "Facebook paid with $300 million in cash plus about 23 million of its own shares, a package headlined at about $1 billion.",
+     "whatHappened": "Facebook's shares fell hard after its May 2012 stock market debut. Because much of the price was paid in stock, the deal was worth only about $715 million when it was booked in late 2012. Instagram went on to become one of the most valuable apps in the world.",
+     "lesson": "Buy the thing that threatens you while it is still small. Paying in your own shares can be cheaper than you think, or much more expensive, depending on where the stock goes.",
+     "src": [
+      12,
+      13,
+      14,
+      46
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "That's why we're committed to building and growing Instagram independently.",
+     "who": "Mark Zuckerberg, announcing the Instagram deal, 9 April 2012",
+     "src": [
+      12
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Instagram had 13 employees. At the headline price of about $1 billion, Facebook paid roughly $77 million per employee. At the booked price of $715 million, it was still about $55 million each.",
+     "src": [
+      13,
+      14
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Facebook Home",
+     "years": "2013–2014",
+     "outcome": "failed",
+     "idea": "A software layer for Android phones that replaced your home screen and lock screen with Facebook posts and photos. It was the closest Facebook came to making its own phone.",
+     "decision": "Instead of building hardware, Facebook tried to take over the screen of other companies' phones, starting with a few HTC and Samsung models, including the HTC First.",
+     "howStarted": "Unveiled at a press event on 4 April 2013 and released on 12 April 2013, in the US only.",
+     "funding": "Facebook's own budget.",
+     "whatHappened": "Within hours of launch, it averaged 2.3 out of 5 stars on Google Play. Of 834 reviews, 398, or 47.7%, gave it one star. It was quietly dropped.",
+     "lesson": "People do not want one app to take over their whole phone. Earn space; do not grab it.",
+     "src": [
+      19
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Two flops in one year. He kept going anyway."
+    },
+    {
+     "t": "venture",
+     "name": "Internet.org and Free Basics",
+     "years": "2013–2016 in India",
+     "outcome": "shut",
+     "idea": "In 2013 only about 2.7 billion people, just over one-third of the world, were online. Internet.org aimed to connect the other two-thirds. Its best-known product, Free Basics, let mobile users visit a selected set of websites without paying for data.",
+     "decision": "Facebook launched Internet.org on 21 August 2013 with Ericsson, MediaTek, Nokia, Opera, Qualcomm and Samsung. In India, it partnered with Reliance Communications, and when regulators questioned Free Basics, it ran a big newspaper and text-message campaign asking people to lobby for it.",
+     "howStarted": "A partnership of phone and chip companies, led by Facebook.",
+     "funding": "Paid for by Facebook and its partners.",
+     "whatHappened": "Critics, including India's \"Save the Internet\" movement, said Free Basics broke net neutrality, the idea that all websites should be treated equally. On 8 February 2016 the Telecom Regulatory Authority of India banned charging different prices for data depending on the website. That made Free Basics unworkable in India in its existing form. Facebook said it was disappointed.",
+     "lesson": "\"Free\" is not automatically good in the eyes of users or regulators. If you decide which websites poor people can see, expect a fight.",
+     "src": [
+      20,
+      21
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Anything on the Internet cannot be differentially priced",
+     "who": "R.S. Sharma, chairman of TRAI, February 2016",
+     "src": [
+      21
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Indian readers: this was decided in your country. Remember it."
+    },
+    {
+     "t": "venture",
+     "name": "WhatsApp (acquisition)",
+     "years": "2014–today",
+     "outcome": "running",
+     "idea": "A simple, cheap messaging app that worked on any phone. It had become the main way hundreds of millions of people texted, especially outside the US.",
+     "decision": "Mark agreed to pay a huge price for a company with almost no revenue, betting that messaging would become as important as the news feed. WhatsApp's co-founder Jan Koum joined Facebook's board.",
+     "howStarted": "When the deal was announced on 19 February 2014, WhatsApp had over 450 million monthly users, 70% of them active on any given day, and was adding more than 1 million new users a day.",
+     "funding": "$4 billion in cash, about $12 billion in Facebook shares, and about $3 billion in restricted shares for WhatsApp staff, vesting over four years. That is about $19 billion in total.",
+     "whatHappened": "Because Facebook's share price rose before the deal closed on 6 October 2014, the final package was worth about $21.8 billion. By then WhatsApp had more than 500 million users.",
+     "lesson": "Price is about what the company will be, not what it earns today. The risk is real: if you are wrong, you have burned billions.",
+     "src": [
+      15,
+      16
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "WhatsApp is on a path to connect 1 billion people.",
+     "who": "Mark Zuckerberg, 19 February 2014",
+     "src": [
+      15
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Oculus and Reality Labs (virtual reality and the metaverse)",
+     "years": "2014–today",
+     "outcome": "running",
+     "idea": "Virtual reality headsets that put you inside a computer-made world. Mark saw it as the next big computing platform after the phone, one that Facebook could own instead of renting space on Apple's and Google's phones.",
+     "decision": "He bought Oculus in 2014. In October 2021 he went further and renamed the whole company Meta, splitting its accounts into \"Family of Apps\" (Facebook, Instagram, WhatsApp, Messenger) and \"Reality Labs\" (headsets, glasses and the metaverse).",
+     "howStarted": "Announced on 25 March 2014.",
+     "funding": "$400 million in cash plus 23.1 million Facebook shares worth about $1.6 billion, and up to $300 million more if Oculus hit certain goals.",
+     "whatHappened": "Reality Labs has lost money every single year. Its operating losses were $10.2 billion in 2021, $13.72 billion in 2022, $16.12 billion in 2023, $17.73 billion in 2024 and $19.19 billion in 2025. In the third quarter of 2026 alone it lost $4.13 billion on revenue of just $443 million. In October 2026 Meta said it expected the losses to narrow to about $15 billion the next year as money shifts to AI.",
+     "lesson": "Big founders can afford long bets, but even they must check the bill. A dream that loses billions a year needs clear milestones, or it slowly eats the company's patience.",
+     "src": [
+      17,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      44,
+      43
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Oculus has the chance to create the most social platform ever, and change the way we work, play and communicate.",
+     "who": "Mark Zuckerberg, 25 March 2014",
+     "src": [
+      17
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "~$77B",
+       "label": "Reality Labs operating losses, 2021–2025 combined (our sum of Meta's annual figures)",
+       "src": [
+        32,
+        33,
+        34,
+        35,
+        36
+       ]
+      },
+      {
+       "value": "$19.19B",
+       "label": "Reality Labs loss in 2025 alone",
+       "src": [
+        36
+       ]
+      },
+      {
+       "value": "$443M",
+       "label": "Reality Labs revenue, July–Sept 2026",
+       "src": [
+        44
+       ]
+      },
+      {
+       "value": "$4.13B",
+       "label": "Reality Labs loss, same quarter",
+       "src": [
+        44
+       ]
+      }
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Read that first number again. Seventy-seven billion dollars."
+    },
+    {
+     "t": "venture",
+     "name": "Aquila (solar internet drone)",
+     "years": "Ended June 2018",
+     "outcome": "shut",
+     "idea": "A huge, light, solar-powered plane that would fly high above the clouds for months and beam internet to remote areas. It was part of the Internet.org mission.",
+     "decision": "Facebook chose to design and build the aircraft itself, through a team in Bridgwater, in the UK.",
+     "howStarted": "The Bridgwater team designed, built and tested the aircraft and completed two full-scale test flights.",
+     "funding": "Facebook's own money.",
+     "whatHappened": "On 27 June 2018 Facebook announced it would stop building its own aircraft and close the Bridgwater facility. It said big aerospace companies were now investing in the same technology, so it would work with partners such as Airbus instead.",
+     "lesson": "When bigger experts enter your field, it can be smarter to partner than to keep building alone.",
+     "src": [
+      22
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "we've decided not to design or build our own aircraft any longer.",
+     "who": "Facebook Engineering, June 2018",
+     "src": [
+      22
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Chan Zuckerberg Initiative",
+     "years": "2015–today",
+     "outcome": "running",
+     "idea": "A giving and investing organisation set up with his wife, Priscilla Chan. One headline goal is to help cure, prevent or manage all disease by the end of the century.",
+     "decision": "In 2015 the couple pledged to give away 99% of their Meta shares over their lifetimes. They chose a company-like structure (an LLC) controlled by Mark rather than a classic charity, which lets it fund research, invest and back causes.",
+     "howStarted": "Launched by the couple in 2015.",
+     "funding": "Their own Meta shares. Forbes reports they are spending $3 billion on the disease goal.",
+     "whatHappened": "By October 2026, Chan Zuckerberg holding entities owned about 315.8 million Meta Class B shares, which carry about 56.1% of the company's votes. Those entities are what signed the written consent that approved Meta's big share restructuring in October 2026.",
+     "lesson": "Giving and control can live in the same structure. Read the fine print of any pledge to see who still holds the votes.",
+     "src": [
+      47,
+      45
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Libra / Diem (digital currency)",
+     "years": "2019–2022",
+     "outcome": "shut",
+     "idea": "A global digital currency run on blockchain technology, plus a wallet called Calibra that would live inside Messenger and WhatsApp. The pitch: let the billions of people without bank accounts save, send and spend money cheaply.",
+     "decision": "Facebook announced it on 18 June 2019 with a group of big partner companies and a launch target of 2020. When regulators pushed back, it renamed the wallet Novi (May 2020) and the currency Diem (December 2020).",
+     "howStarted": "Run through an independent-looking association of partner companies, with Facebook's new subsidiary Calibra building the wallet.",
+     "funding": "Facebook plus partner companies.",
+     "whatHappened": "Payments giants ran away fast. PayPal left in early October 2019, and eBay, Mastercard, Stripe, Visa and Mercado Pago followed a week later. In January 2022 the project was wound down and its technology was sold to Silvergate Capital, for a price reported at about $200 million.",
+     "lesson": "You cannot launch a new kind of money without the people who regulate money. Win the regulators before you win the headlines.",
+     "src": [
+      25,
+      27,
+      28,
+      26
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Jio Platforms stake (India)",
+     "years": "2020–today",
+     "outcome": "running",
+     "idea": "Buy a big minority stake in Reliance's Jio Platforms, whose cheap mobile data brought hundreds of millions of Indians online, and connect it with WhatsApp for shopping and small business.",
+     "decision": "Four years after Free Basics was blocked, Facebook came back to India through a partner instead of on its own. The plan was to link Reliance's JioMart with WhatsApp so people could buy from local shops.",
+     "howStarted": "Announced on 21 April 2020.",
+     "funding": "$5.7 billion (INR 43,574 crore) in cash, making Facebook the largest minority shareholder in Jio Platforms.",
+     "whatHappened": "It turned a regulatory loss in India into a deal with the country's most powerful company.",
+     "lesson": "If you lose a fight in a market, come back with a local partner who knows the ground.",
+     "src": [
+      29,
+      21
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "WhatsApp is so ingrained in Indian life that it has become a commonly used verb across many Indian languages and dialects.",
+     "who": "Facebook executives David Fischer and Ajit Mohan, April 2020",
+     "src": [
+      29
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Giphy (acquisition, then forced sale)",
+     "years": "Sale ordered 2022",
+     "outcome": "sold",
+     "idea": "Giphy is the GIF search engine used inside many apps. Owning it meant owning a piece of how people express themselves in chats and posts everywhere.",
+     "decision": "Meta bought it and then ended Giphy's own advertising services.",
+     "howStarted": "Bought by Meta as a running company.",
+     "funding": "Paid for from Meta's cash.",
+     "whatHappened": "On 18 October 2022 the UK's Competition and Markets Authority ordered Meta to sell Giphy in full. It said Meta could restrict rivals' access to GIFs, noting Meta's sites already took 73% of UK users' time on social media, and that Giphy's ad business could have become a competitor.",
+     "lesson": "Once you are huge, even small acquisitions get blocked. Regulators look at what a deal stops from happening.",
+     "src": [
+      30
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Threads",
+     "years": "2023–today",
+     "outcome": "running",
+     "idea": "A text-based app for public conversations, a direct rival to Twitter (now X), built by the Instagram team.",
+     "decision": "Instead of starting from zero, Threads let people log in with their Instagram account, so it launched with a ready-made audience.",
+     "howStarted": "Launched on 5 July 2023, with posts of up to 500 characters plus links, photos and videos.",
+     "funding": "Meta's own budget.",
+     "whatHappened": "It expanded across Europe in December 2023 and began connecting with other open social networks in 2024.",
+     "lesson": "Your existing users are your biggest weapon. Use them to launch the next product.",
+     "src": [
+      39
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Llama, Superintelligence Labs and Scale AI",
+     "years": "2023–today",
+     "outcome": "running",
+     "idea": "Build world-class AI models, give many of them away, and use them across Meta's apps, ads and devices.",
+     "decision": "In July 2023 Meta released Llama 2 free for research and commercial use, with Microsoft as its preferred partner, arguing that an open approach was right. In June 2025, worried about falling behind Google and OpenAI, Mark paid $14.3 billion for 49% of the data-labelling company Scale AI, valuing it above $29 billion, and hired its 28-year-old CEO Alexandr Wang to lead a new \"superintelligence\" team.",
+     "howStarted": "Started inside Meta's existing AI research groups, then rebuilt around Wang's team in 2025.",
+     "funding": "Meta's own cash and, by 2026, borrowed money: Meta sold $25 billion of bonds in May 2026.",
+     "whatHappened": "Meta's spending on buildings and computers jumped from $39.23 billion in 2024 to $72.22 billion in 2025, and it expected $135–145 billion in 2026. Meta had not yet released its biggest Llama 4 model, previewed in April 2025, when it made the Scale deal.",
+     "lesson": "When you fall behind in a race that matters, buy talent and speed. But know that you are betting the company's cash on it.",
+     "src": [
+      40,
+      41,
+      44,
+      35,
+      36,
+      43
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Muse (personal AI agent)",
+     "years": "2026–today",
+     "outcome": "running",
+     "idea": "An AI agent that does tasks for you: sending emails, booking travel, shopping, scheduling, and even turning big goals, like starting a business, into step-by-step plans. It can open a browser, fill out forms and negotiate on your behalf.",
+     "decision": "Meta launched it only in the US and only for adults 18 and over, running each user's agent on its own secure virtual machine. People can use it in a separate Muse app or inside WhatsApp.",
+     "howStarted": "Launched on 8 September 2026.",
+     "funding": "Meta's own budget, as part of its AI spending.",
+     "whatHappened": "In October 2026 Mark said more than 10 million people in the US and Canada had set up Muse accounts and about 25% of them used it on any given day. He said it needs a lot of computing power and he expects to make it more than ten times cheaper to run the next year.",
+     "lesson": "A product people use daily is worth more than a flashy demo. Track daily use, not sign-ups.",
+     "src": [
+      42,
+      43
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Look at the whole list and a pattern jumps out. The things he built from scratch outside his core product (Wirehog, Beacon, Poke, Home, Aquila, Libra) mostly failed. __The things he bought early and left alone, like Instagram and WhatsApp, became giants.__ His real superpower was not invention. It was spotting what would threaten him and acting before others did.",
+     "src": [
+      4,
+      24,
+      18,
+      19,
+      22,
+      26,
+      12,
+      15
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Founders: building is not the only way to win."
+    }
+   ]
+  },
+  {
+   "id": "the-money",
+   "kicker": "2004–2012",
+   "title": "Saying No to a Billion",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In the summer of 2004, thefacebook was famous on campuses and broke. The team had moved into a sublet in Palo Alto and later a five-bedroom house in Los Altos they called \"Casa Facebook\". Over that summer the site fell roughly $50,000 to $60,000 into debt.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Running it cost about $50,000 a month, including salaries for eight people. Ads paid the bills: student groups could post a local announcement for about $15 a day, and big brands like AT&T Wireless, AOL and Monster.com bought banners. On top of that, the ConnectU lawsuit, filed by Harvard students who said Mark took their idea, was costing about $20,000 a month in legal fees.",
+     "src": [
+      5,
+      0
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I need servers just as much as I need food,",
+     "who": "Mark Zuckerberg, The Harvard Crimson, February 2005",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Servers before food. That is start-up life."
+    },
+    {
+     "t": "p",
+     "text": "Here is the surprise. Mark did not want venture capital, which is money from professional investors who buy part of a company hoping it grows. He told The Crimson he would rather the team depended on themselves. The first outside money came from Peter Thiel, the PayPal co-founder. Mark described it as basically a loan with interest and some ownership attached, and TechCrunch reported the angel round at about $500,000.",
+     "src": [
+      5,
+      6
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I would just rather be dependent on ourselves,",
+     "who": "Mark Zuckerberg on avoiding venture capital, February 2005",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: an \"angel\" is a rich individual who invests early, often before there is any profit. Thiel's deal mixed a loan, which has to be paid back with interest, with a slice of ownership. That way the team got cash without handing a big chunk of control to a venture firm.",
+     "src": [
+      5,
+      6
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The first real round"
+    },
+    {
+     "t": "p",
+     "text": "By April 2005 he changed his mind about venture money. Accel Partners invested in a deal TechCrunch reported at $12.2 million, with a rumoured valuation of around $100 million. Valuation means what the whole company is said to be worth, based on the price investors pay for their slice.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The money bought speed. By September 2005 thefacebook had 3.85 million members at 882 colleges, 32 staff in Palo Alto and 4 in Boston. About 60% of members logged in every day. __Daily use was the number that made investors believe.__",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$1,000",
+       "label": "Eduardo Saverin's start-up money, 2004",
+       "src": [
+        5
+       ]
+      },
+      {
+       "value": "~$500K",
+       "label": "Peter Thiel's angel round, 2004",
+       "src": [
+        6
+       ]
+      },
+      {
+       "value": "$12.2M",
+       "label": "Accel round, April 2005 (as reported by TechCrunch)",
+       "src": [
+        6
+       ]
+      },
+      {
+       "value": "3.85M",
+       "label": "members by September 2005",
+       "src": [
+        6
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The billion-dollar no"
+    },
+    {
+     "t": "p",
+     "text": "In 2006 Yahoo offered $1 billion in cash. Mark was 22. According to Wired's 2007 account, he gave in under pressure in July and verbally agreed to sell. Then Yahoo's own share price dropped 22% overnight after weak forecasts, and its CEO Terry Semel cut the offer to $800 million.",
+     "src": [
+      7
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mark walked away. Two months later Yahoo came back with the original $1 billion, but by then he had convinced his board and his managers that Yahoo was not a serious partner. __A price cut at the last minute showed him how the buyer would treat his company after the sale.__",
+     "src": [
+      7
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Twenty-two years old. One billion dollars. He said no."
+    },
+    {
+     "t": "p",
+     "text": "On 24 October 2007, Microsoft agreed to invest $240 million at a valuation of $15 billion. In return Microsoft became Facebook's exclusive partner for third-party ads, including outside the US.",
+     "src": [
+      8
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: $240 million for $15 billion of value means Microsoft bought only about 1.6% of the company. It paid a huge price for a tiny slice, plus the right to sell Facebook's ads.",
+     "src": [
+      8
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Going public"
+    },
+    {
+     "t": "p",
+     "text": "An IPO, or initial public offering, is when a private company first sells shares on a stock exchange so anyone can buy them. Facebook filed its papers in February 2012. They showed $3.71 billion of revenue and $1 billion of profit in 2011, 845 million monthly users, 3,200 full-time staff, and one surprise: the game company Zynga alone made up about 12% of Facebook's revenue.",
+     "src": [
+      9
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "Simply put: we don't build services to make money; we make money to build better services.",
+     "who": "Mark Zuckerberg, letter to investors in the IPO filing, 2012",
+     "src": [
+      9
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 17 May 2012 Facebook priced its shares at $38 and sold 421.2 million of them, 180 million by the company and the rest by existing holders. That is about $16 billion at the offer price. Trading on Nasdaq was delayed by a technical problem the next day, and the shares closed at just $38.23. Bankers had to buy stock to stop it falling below $38.",
+     "src": [
+      10,
+      11
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On IPO day Mark sold 30.2 million shares at $37.58 each, about $1.1 billion, and kept 503.6 million. Then the price kept sliding. By the time the Instagram deal was booked months later, the shares had fallen so far that the \"$1 billion\" purchase was worth $715 million.",
+     "src": [
+      11,
+      14
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Feb 2004",
+       "text": "Thefacebook launches from a Harvard dorm.",
+       "src": [
+        0,
+        2
+       ]
+      },
+      {
+       "when": "2004",
+       "text": "Peter Thiel's angel round of about $500,000.",
+       "src": [
+        6
+       ]
+      },
+      {
+       "when": "Apr 2005",
+       "text": "Accel invests (reported at $12.2M).",
+       "src": [
+        6
+       ]
+      },
+      {
+       "when": "2006",
+       "text": "Yahoo offers $1B; Mark walks away after a price cut.",
+       "src": [
+        7
+       ]
+      },
+      {
+       "when": "Oct 2007",
+       "text": "Microsoft invests $240M at a $15B valuation.",
+       "src": [
+        8
+       ]
+      },
+      {
+       "when": "May 2012",
+       "text": "IPO at $38 a share; about $16B of stock sold.",
+       "src": [
+        10,
+        11
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "near-death",
+   "kicker": "2007–2023",
+   "title": "The Years It Almost Broke",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Facebook's near-death moments were mostly not about cash. They were moments when users, regulators or investors turned against it all at once. Each time, the company survived because Mark changed course, sometimes after a costly delay.",
+     "src": [
+      23,
+      37,
+      38
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Lawsuits from the start"
+    },
+    {
+     "t": "p",
+     "text": "The ConnectU case followed Facebook for years. In 2008 the parties agreed a settlement valued at $65 million in cash and Facebook stock. The Winklevoss twins later argued they had been misled about the value of the shares and tried to undo it. On 11 April 2011 a US appeals court said no, and the deal stood.",
+     "src": [
+      52
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "At some point, litigation must come to an end.",
+     "who": "Chief Judge Alex Kozinski, US Court of Appeals for the Ninth Circuit, 2011",
+     "src": [
+      52
+     ]
+    },
+    {
+     "t": "note",
+     "text": "An idea dispute from 2004 was still in court in 2011."
+    },
+    {
+     "t": "h",
+     "text": "The privacy bill keeps growing"
+    },
+    {
+     "t": "p",
+     "text": "After Beacon, the US Federal Trade Commission (FTC), the government body that protects consumers, reached a privacy agreement with Facebook in November 2011. Facebook promised privacy reviews when building products and independent privacy audits every two years. In his own post that day Mark admitted the company had made \"a bunch of mistakes\".",
+     "src": [
+      23
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Those promises came back to bite. A later settlement with the FTC required Facebook to pay a $5 billion penalty, according to Meta's own filings. __Small privacy shortcuts early on turned into the biggest fines in the company's history.__",
+     "src": [
+      44,
+      23
+     ]
+    },
+    {
+     "t": "h",
+     "text": "2022: the year everything went wrong"
+    },
+    {
+     "t": "p",
+     "text": "In October 2021 Mark renamed Facebook as Meta and bet the company's future on the metaverse. That year the core business was booming, with $117.9 billion in revenue and $39.4 billion of profit. But Reality Labs already lost $10.2 billion.",
+     "src": [
+      31,
+      32
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then 2022 hit. Revenue fell 1%, to $116.61 billion, a rare yearly drop for a company used to fast growth. Profit fell 41% to $23.2 billion, while Reality Labs lost $13.72 billion. Meanwhile headcount had grown to 86,482 people.",
+     "src": [
+      33
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 9 November 2022 Mark laid off more than 11,000 employees, about 13% of the company. He said he had expected the pandemic boom in online shopping to last, invested for it, and been wrong.",
+     "src": [
+      37
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "I got this wrong, and I take responsibility for that.",
+     "who": "Mark Zuckerberg to Meta employees, 9 November 2022",
+     "src": [
+      37
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Read this twice. Founders who say this out loud recover faster."
+    },
+    {
+     "t": "p",
+     "text": "In March 2023 he went further. In what he called the \"Year of Efficiency\", Meta cut about 10,000 more jobs and closed about 5,000 open roles. He removed layers of management, asked many managers to go back to hands-on work, and set a rough cap of about 10 direct reports per manager under the principle \"flatter is faster\".",
+     "src": [
+      38
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Meta had 86,482 staff at the end of 2022 and 67,317 at the end of 2023, a 22% drop. Yet 2023 revenue rose 16% to $134.9 billion and profit came back to $39.1 billion.",
+     "src": [
+      33,
+      34
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The comeback was fast. In February 2024 Meta announced its first-ever dividend, a cash payment to shareholders of $0.50 per share every quarter, and added $50 billion to its plan to buy back its own shares. In 2024 profit jumped 59% to $62.36 billion. __Cutting costs did not kill the company. It gave investors their faith back.__",
+     "src": [
+      34,
+      35
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "-1%",
+       "label": "Meta revenue change in 2022",
+       "src": [
+        33
+       ]
+      },
+      {
+       "value": "11,000+",
+       "label": "jobs cut, November 2022",
+       "src": [
+        37
+       ]
+      },
+      {
+       "value": "~10,000",
+       "label": "more jobs cut, March 2023",
+       "src": [
+        38
+       ]
+      },
+      {
+       "value": "$62.36B",
+       "label": "profit in 2024, up 59%",
+       "src": [
+        35
+       ]
+      }
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "2007",
+       "text": "Beacon backlash; later shut and settled for $9.5M.",
+       "src": [
+        24
+       ]
+      },
+      {
+       "when": "Apr 2011",
+       "text": "Court upholds the $65M ConnectU settlement.",
+       "src": [
+        52
+       ]
+      },
+      {
+       "when": "Nov 2011",
+       "text": "First FTC privacy agreement.",
+       "src": [
+        23
+       ]
+      },
+      {
+       "when": "Oct 2021",
+       "text": "Facebook becomes Meta.",
+       "src": [
+        31
+       ]
+      },
+      {
+       "when": "Nov 2022",
+       "text": "11,000+ layoffs; \"I got this wrong.\"",
+       "src": [
+        37
+       ]
+      },
+      {
+       "when": "Mar 2023",
+       "text": "\"Year of Efficiency\": ~10,000 more cuts.",
+       "src": [
+        38
+       ]
+      },
+      {
+       "when": "Feb 2024",
+       "text": "First dividend and $50B more buybacks.",
+       "src": [
+        34
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "control-and-the-ai-bet",
+   "kicker": "2024–2026",
+   "title": "Control, Courts and a $145B Bet",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By 2025 Meta was earning money at a scale few companies ever reach: $200.97 billion of revenue and $60.46 billion of profit, with 3.58 billion people using its apps every day. Mark took that money and threw it at artificial intelligence.",
+     "src": [
+      36
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In 2025 Meta spent $72.22 billion on data centres, chips and other equipment. For 2026 it planned $135 billion to $145 billion. In the first nine months of 2026 it had already spent $83.06 billion, and in May 2026 it borrowed $25 billion by selling bonds.",
+     "src": [
+      36,
+      43,
+      44
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: the top of that range, $145 billion, equals roughly 72% of all the revenue Meta earned in 2025. Imagine a family spending almost three-quarters of a year's income on one new house.",
+     "src": [
+      36,
+      43
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Founders: this is what betting the company looks like."
+    },
+    {
+     "t": "p",
+     "text": "The bet came with job cuts. Meta reportedly cut about 8,000 jobs, around 10% of staff, starting in May 2026, to help pay for computing. By 30 September 2026 it had 66,775 employees, 15% fewer than a year before.",
+     "src": [
+      53,
+      43
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The court cases"
+    },
+    {
+     "t": "p",
+     "text": "On 18 November 2025, Judge James Boasberg ruled that the FTC had not shown Meta holds a monopoly today, so Meta did not have to sell Instagram or WhatsApp. The judge said apps like TikTok and YouTube now compete for the same time. The FTC filed an appeal on 20 January 2026.",
+     "src": [
+      46,
+      44
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The child-safety cases went the other way. On 24 March 2026 a New Mexico jury ordered Meta to pay a $375 million civil penalty, and a day later a Los Angeles jury found Meta and YouTube liable in a social media addiction case brought by a 20-year-old woman. In August 2026 Meta agreed a deal with 52 attorneys general for payments of up to about $18.59 billion, about $12.7 billion of it over 10 years and about $5.3 billion that depends on other companies adopting similar teen protections.",
+     "src": [
+      44,
+      51,
+      49
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 21 October 2026, a New Mexico judge ordered a $25 billion civil penalty after a jury found Meta had broken the state's Unfair Practices Act more than 43 million times with misleading statements about data and safety. Meta says it will appeal, so this is not final. __The legal bill from the 2010s is now arriving in the 2020s, all at once.__",
+     "src": [
+      44,
+      50
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$64.6B",
+       "label": "Meta revenue, July–Sept 2026 (up 26%)",
+       "src": [
+        43
+       ]
+      },
+      {
+       "value": "$9.89B",
+       "label": "settlement charge taken that quarter",
+       "src": [
+        43
+       ]
+      },
+      {
+       "value": "~$18.59B",
+       "label": "maximum payments in the August 2026 state deal",
+       "src": [
+        44
+       ]
+      },
+      {
+       "value": "$25B",
+       "label": "New Mexico penalty, 21 Oct 2026 (under appeal)",
+       "src": [
+        44,
+        50
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "How the fortune actually works"
+    },
+    {
+     "t": "p",
+     "text": "Mark's wealth is almost all Meta stock. As of 1 October 2026 he owned 1,220,703 Class A shares and 341,215,148 Class B shares. That is about 13.4% of the company's value but 60.6% of the votes, because each Class B share carries ten votes. This is called a dual-class structure, and it means nobody can outvote him.",
+     "src": [
+      45,
+      9
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: 342.4 million shares times Meta's closing price of $612.49 on 28 October 2026 comes to about $210 billion. Forbes put his net worth at $210.5 billion on 29 October 2026, sixth in the world.",
+     "src": [
+      45,
+      48,
+      47
+     ]
+    },
+    {
+     "t": "p",
+     "text": "That makes his fortune swing wildly. Meta closed at $697.52 on 21 October 2026 and at $648.85 the next day. On his shares, that is a paper drop of about $16.7 billion in a single trading day.",
+     "src": [
+      48,
+      45
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Sixteen billion in one day, and nothing he owned changed."
+    },
+    {
+     "t": "h",
+     "text": "The control move"
+    },
+    {
+     "t": "p",
+     "text": "In October 2026 Meta announced a new type of share, Class C, with no votes at all. Every holder will get one Class C share for each Class A or B share they own, once the change takes effect on 19 January 2027. Meta says this lets it raise money, make acquisitions and pay staff in stock without weakening Mark's majority vote.",
+     "src": [
+      45,
+      43
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Shareholders did not vote on it. The Chan Zuckerberg holding entities, which control about 56.1% of the votes, approved it in writing on 20 October 2026. The filing says a special board committee first proposed a \"sunset\", a date when his extra voting power would end, and Mark would not accept it. It also says 20% of his new Class C shares can be sold freely, partly so he can pay a possible tax under California's Proposition 40 if voters pass it on 3 November 2026.",
+     "src": [
+      45
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "there are no time-based or other sunset provisions, thereby allowing Mr. Zuckerberg to maintain generational control.",
+     "who": "Meta Platforms information statement filed with the SEC, October 2026",
+     "src": [
+      45
+     ]
+    },
+    {
+     "t": "p",
+     "text": "__This is the thread that ties his whole career together.__ He turned down Yahoo in 2006 because he could. He bought Instagram and WhatsApp because he could. He spent about $77 billion on the metaverse because no one could outvote him. In 2026 he made sure that would stay true for good.",
+     "src": [
+      7,
+      12,
+      15,
+      32,
+      33,
+      34,
+      35,
+      36,
+      45
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Jun 2025",
+       "text": "$14.3B for 49% of Scale AI; Alexandr Wang joins.",
+       "src": [
+        41
+       ]
+      },
+      {
+       "when": "Nov 2025",
+       "text": "Judge rules for Meta in FTC monopoly case.",
+       "src": [
+        46
+       ]
+      },
+      {
+       "when": "Mar 2026",
+       "text": "Jury verdicts in New Mexico and Los Angeles.",
+       "src": [
+        44,
+        51
+       ]
+      },
+      {
+       "when": "Aug 2026",
+       "text": "State deal for up to ~$18.59B.",
+       "src": [
+        44
+       ]
+      },
+      {
+       "when": "Sep 2026",
+       "text": "Muse AI agent launches in the US.",
+       "src": [
+        42
+       ]
+      },
+      {
+       "when": "Oct 2026",
+       "text": "$25B New Mexico penalty; Class C shares announced.",
+       "src": [
+        44,
+        45
+       ]
+      }
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$210.5B",
+       "label": "Forbes net worth, 29 Oct 2026 (#6 in the world)",
+       "src": [
+        47
+       ]
+      },
+      {
+       "value": "13.4%",
+       "label": "his share of Meta's economic value, Oct 2026",
+       "src": [
+        45
+       ]
+      },
+      {
+       "value": "60.6%",
+       "label": "his share of Meta's votes, Oct 2026",
+       "src": [
+        45
+       ]
+      },
+      {
+       "value": "503.6M",
+       "label": "Meta shares he held right after the 2012 IPO",
+       "src": [
+        11
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "The Harvard Crimson, 'Mark E. Zuckerberg '06: The Whiz', 10 June 2004",
+   "url": "https://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/"
+  },
+  {
+   "label": "The Harvard Crimson, 'Facemash Creator Survives Ad Board', 19 Nov 2003",
+   "url": "https://www.thecrimson.com/article/2003/11/19/facemash-creator-survives-ad-board-the/"
+  },
+  {
+   "label": "The Harvard Crimson, 'Hundreds Register for New Facebook Website', 9 Feb 2004",
+   "url": "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/"
+  },
+  {
+   "label": "The Harvard Crimson, 'Zuckerberg Programs New Website', 13 Aug 2004",
+   "url": "https://www.thecrimson.com/article/2004/8/13/zuckerberg-programs-new-website-having-seemingly/"
+  },
+  {
+   "label": "The Harvard Crimson, 'Hundreds Flock to Download Wirehog', 15 Nov 2004",
+   "url": "https://www.thecrimson.com/article/2004/11/15/hundreds-flock-to-download-wirehog-wirehog/"
+  },
+  {
+   "label": "The Harvard Crimson, 'Business Casual', 24 Feb 2005",
+   "url": "https://www.thecrimson.com/article/2005/2/24/business-casual-a-year-ago-mark/"
+  },
+  {
+   "label": "TechCrunch, '85% of College Students use Facebook', 7 Sept 2005",
+   "url": "https://techcrunch.com/2005/09/07/85-of-college-students-use-facebook/"
+  },
+  {
+   "label": "Wired, Fred Vogelstein, 'How Mark Zuckerberg Turned Facebook Into the Web's Hottest Platform', Sept 2007",
+   "url": "https://www.wired.com/2007/09/ff-facebook/"
+  },
+  {
+   "label": "Microsoft News Center, 'Facebook and Microsoft Expand Strategic Alliance', 24 Oct 2007",
+   "url": "https://news.microsoft.com/2007/10/24/facebook-and-microsoft-expand-strategic-alliance/"
+  },
+  {
+   "label": "Facebook, Inc. Form S-1 registration statement (SEC), 1 Feb 2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312512034517/d287954ds1.htm"
+  },
+  {
+   "label": "Facebook press release, 'Facebook Announces Pricing of Initial Public Offering', 17 May 2012",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2012/Facebook-Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+  },
+  {
+   "label": "Christian Science Monitor, 'Facebook IPO: Six key dates in its debacle', May 2012",
+   "url": "https://www.csmonitor.com/Business/2012/0526/Facebook-IPO-Six-key-dates-in-its-debacle/Facebook-IPO-fizzles-May-18-2012"
+  },
+  {
+   "label": "Facebook Newsroom, 'Facebook to Acquire Instagram', 9 Apr 2012",
+   "url": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/"
+  },
+  {
+   "label": "City A.M., 'Facebook to pay $1bn for firm with 13 staff', 9 Apr 2012",
+   "url": "https://www.cityam.com/facebook-pay-1bn-firm-13-staff/"
+  },
+  {
+   "label": "The Next Web, 'Final cost to Facebook to purchase Instagram: $715 million', 24 Oct 2012",
+   "url": "https://thenextweb.com/news/final-cost-to-facebook-to-purchase-instagram-715-million"
+  },
+  {
+   "label": "Facebook Newsroom, 'Facebook to Acquire WhatsApp', 19 Feb 2014",
+   "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/"
+  },
+  {
+   "label": "Associated Press via KSL, 'Facebook closes WhatsApp purchase now worth $21.8B', 6 Oct 2014",
+   "url": "https://www.ksl.com/article/31848104"
+  },
+  {
+   "label": "Facebook Newsroom, 'Facebook to Acquire Oculus', 25 Mar 2014",
+   "url": "https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/"
+  },
+  {
+   "label": "Scripps News, 'Snapchat rejected $3B buyout offer from Facebook' (citing the Wall Street Journal), Nov 2013",
+   "url": "https://www.scrippsnews.com/business/snapchat-rejected-3b-buyout-offer-from-facebook"
+  },
+  {
+   "label": "The Next Web, 'Facebook Home suffers from poor early reviews', 12 Apr 2013",
+   "url": "https://thenextweb.com/news/facebook-home-suffers-from-poor-early-reviews-as-46-give-it-a-1-star-rating-on-google-play"
+  },
+  {
+   "label": "Facebook Newsroom, 'Technology Leaders Launch Partnership to Make Internet Access Available to All', 21 Aug 2013",
+   "url": "https://about.fb.com/news/2013/08/technology-leaders-launch-partnership-to-make-internet-access-available-to-all/"
+  },
+  {
+   "label": "AFP via Phys.org, 'India regulator deals blow to Facebook in Internet row', 8 Feb 2016",
+   "url": "https://phys.org/news/2016-02-india-facebook-internet-row.html"
+  },
+  {
+   "label": "Facebook Engineering, 'High altitude connectivity: The next chapter', 27 June 2018",
+   "url": "https://engineering.fb.com/2018/06/27/connectivity/high-altitude-connectivity-the-next-chapter/"
+  },
+  {
+   "label": "Facebook Newsroom, Mark Zuckerberg, 'Our Commitment to the Facebook Community', 29 Nov 2011",
+   "url": "https://about.fb.com/news/2011/11/our-commitment-to-the-facebook-community/"
+  },
+  {
+   "label": "Reuters, Beacon class-action settlement report, 4 Nov 2013",
+   "url": "https://www.reuters.com/article/us-usa-court-facebook-idUSBRE9A30LM20131104"
+  },
+  {
+   "label": "Facebook Newsroom, 'Coming in 2020: Calibra' (Libra announcement, with 2020 updates), 18 June 2019",
+   "url": "https://about.fb.com/news/2019/06/coming-in-2020-calibra/"
+  },
+  {
+   "label": "Wall Street Journal, 'Facebook's Cryptocurrency Venture to Wind Down, Sell Assets', Jan 2022",
+   "url": "https://www.wsj.com/articles/facebooks-cryptocurrency-venture-to-wind-down-sell-assets-11643248799"
+  },
+  {
+   "label": "CNBC, 'PayPal withdraws from Facebook's Libra cryptocurrency', 4 Oct 2019",
+   "url": "https://www.cnbc.com/2019/10/04/paypal-withdraws-from-facebooks-libra-cryptocurrency.html"
+  },
+  {
+   "label": "CNBC, 'eBay drops out of Facebook Libra cryptocurrency one week after PayPal', 11 Oct 2019",
+   "url": "https://www.cnbc.com/2019/10/11/ebay-drops-out-of-facebook-libra-cryptocurrency-one-week-after-paypal.html"
+  },
+  {
+   "label": "Facebook Newsroom, 'Facebook Invests $5.7 Billion in Jio Platforms', 21 Apr 2020",
+   "url": "https://about.fb.com/news/2020/04/facebook-invests-in-jio/"
+  },
+  {
+   "label": "UK Competition and Markets Authority, 'CMA orders Meta to sell Giphy', 18 Oct 2022",
+   "url": "https://www.gov.uk/government/news/cma-orders-meta-to-sell-giphy"
+  },
+  {
+   "label": "Meta Newsroom, 'Introducing Meta: A Social Technology Company', 28 Oct 2021",
+   "url": "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+  },
+  {
+   "label": "Meta press release, Fourth Quarter and Full Year 2021 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2022/Meta-Reports-Fourth-Quarter-and-Full-Year-2021-Results/default.aspx"
+  },
+  {
+   "label": "Meta press release, Fourth Quarter and Full Year 2022 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx"
+  },
+  {
+   "label": "Meta press release, Fourth Quarter and Full Year 2023 Results; Initiates Quarterly Dividend",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx"
+  },
+  {
+   "label": "Meta press release, Fourth Quarter and Full Year 2024 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx"
+  },
+  {
+   "label": "Meta press release, Fourth Quarter and Full Year 2025 Results, 28 Jan 2026",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx"
+  },
+  {
+   "label": "Meta Newsroom, Mark Zuckerberg's message to employees on layoffs, 9 Nov 2022",
+   "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/"
+  },
+  {
+   "label": "Meta Newsroom, 'Update on Meta's Year of Efficiency', 14 Mar 2023",
+   "url": "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/"
+  },
+  {
+   "label": "Meta Newsroom, 'Introducing Threads', 5 July 2023",
+   "url": "https://about.fb.com/news/2023/07/introducing-threads-new-app-text-sharing/"
+  },
+  {
+   "label": "Meta Newsroom, 'Meta and Microsoft Introduce the Next Generation of Llama', 18 July 2023",
+   "url": "https://about.fb.com/news/2023/07/llama-2/"
+  },
+  {
+   "label": "Associated Press via News4JAX, 'Meta invests in AI firm Scale and recruits its CEO for superintelligence team', 13 June 2025",
+   "url": "https://www.news4jax.com/business/2025/06/13/meta-invests-in-ai-firm-scale-and-recruits-its-ceo-for-superintelligence-team/"
+  },
+  {
+   "label": "Associated Press via PBS NewsHour, 'Meta launches personal AI agent Muse', 8 Sept 2026",
+   "url": "https://www.pbs.org/newshour/nation/meta-launches-personal-ai-agent-muse-to-help-with-everyday-tasks"
+  },
+  {
+   "label": "Associated Press via Click2Houston, 'Meta Q3 revenue tops estimates...', 21 Oct 2026",
+   "url": "https://www.click2houston.com/business/2026/10/21/meta-q3-revenue-tops-estimates-and-zuckerberg-says-muse-accounts-have-topped-10-million/"
+  },
+  {
+   "label": "Meta Platforms Form 10-Q for the quarter ended 30 Sept 2026 (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066773/meta-20260930.htm"
+  },
+  {
+   "label": "Meta Platforms Schedule 14C preliminary information statement (Class C recapitalization), Oct 2026 (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066710/meta-20261021.htm"
+  },
+  {
+   "label": "NPR, 'Judge sides with Meta in antitrust trial, will not spin off WhatsApp and Instagram', 18 Nov 2025",
+   "url": "https://www.npr.org/2025/11/18/nx-s1-5495626/meta-ftc-instagram-whatsapp-antitrust-ruling"
+  },
+  {
+   "label": "Forbes real-time profile, Mark Zuckerberg (accessed 29 Oct 2026)",
+   "url": "https://www.forbes.com/profile/mark-zuckerberg/"
+  },
+  {
+   "label": "StockAnalysis, Meta Platforms (META) price history (accessed 29 Oct 2026)",
+   "url": "https://stockanalysis.com/stocks/meta/history/"
+  },
+  {
+   "label": "Associated Press via WLOX, 'Meta reaches $18 billion settlement with states...', 26 Aug 2026",
+   "url": "https://www.wlox.com/2026/08/26/meta-reaches-17-billion-settlement-with-states-landmark-trial-over-teen-social-media-addiction/?outputType=amp"
+  },
+  {
+   "label": "Source NM, 'New Mexico judge orders Meta to pay state $25B', 21 Oct 2026",
+   "url": "https://sourcenm.com/2026/10/21/new-mexico-judge-orders-meta-to-pay-state-25b/"
+  },
+  {
+   "label": "Reuters via The Star, 'Meta, Google lose US case over social media harm to kids', 26 Mar 2026",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/03/26/jury-finds-meta-and-google-liable-in-social-media-addiction-trial"
+  },
+  {
+   "label": "NBC News (AP), 'Winklevoss twins must live with Facebook deal', 11 Apr 2011",
+   "url": "https://www.nbcnews.com/news/amp/wbna42537372"
+  },
+  {
+   "label": "MediaPost, 'Meta To Reportedly Cut 8,000 Jobs In May', 2026",
+   "url": "https://www.mediapost.com/publications/article/414453/"
+  }
+ ],
+ "factCheck": {
+  "method": "Primary sources first: Facebook's 2012 S-1 and IPO pricing release, Meta's annual results releases for 2021–2025, the Q3 2026 Form 10-Q and the October 2026 Schedule 14C information statement were read directly, as were Facebook/Meta newsroom posts (Instagram, WhatsApp, Oculus, Internet.org, Libra, Jio, Meta rebrand, 2022 layoffs, Year of Efficiency, Threads, Llama 2), the Facebook Engineering Aquila post, the UK CMA Giphy decision, contemporaneous Harvard Crimson articles (2003–2005), TechCrunch (2005), AP wire copies (via KSL, PBS, News4JAX, Click2Houston), AFP via Phys.org, City A.M., The Next Web, Scripps News and NBC News. The Forbes profile and StockAnalysis price history were read on 29 Oct 2026. A few sources could not be fetched directly because of paywalls or blocks and were confirmed only through search summaries or Wikipedia citation trails; the fact-checker should re-check them: Wired 2007 (Yahoo offer), Reuters 2013 (Beacon $9.5M), WSJ 2022 (Diem sale ~$200M), CNBC 2019 (Libra partner exits), NPR 2025 (FTC ruling details, also confirmed by the 10-Q), AP via WLOX (Aug 2026 settlement), Source NM (Oct 2026 penalty, also confirmed by the 10-Q), Reuters via The Star (Los Angeles verdict) and MediaPost (8,000 job cuts, 2026). Wealth math: 342,435,851 shares (14C) x $612.49 (28 Oct 2026 close) = about $209.7B. Reality Labs total = sum of reported annual losses 2021–2025.",
+  "disputed": [
+   {
+    "claim": "Synapse: Zuckerberg turned down Microsoft/AOL offers of up to $2 million.",
+    "note": "Popular retellings say the offers were refused. The Harvard Crimson (2004), quoting Zuckerberg, says they first declined, then decided to accept an offer once in college, but the buyer had lost interest. We use the Crimson version."
+   },
+   {
+    "claim": "Accel invested $12.7 million in 2005.",
+    "note": "Most later accounts say $12.7M at a ~$98M valuation; TechCrunch's September 2005 report says $12.2M in April 2005 at a rumoured ~$100M valuation. We cite the contemporaneous TechCrunch figure and flag the conflict."
+   },
+   {
+    "claim": "Peter Thiel paid $500,000 for 10.2% of Facebook.",
+    "note": "TechCrunch (2005) confirms an angel round of about $500,000. Zuckerberg told The Crimson (2005) it was essentially a loan with interest and equity attached and did not disclose the amount. We could not verify the 10.2% stake from a source we could read directly, so we left it out."
+   },
+   {
+    "claim": "Yahoo cut its 2006 offer to $800 million.",
+    "note": "Wired (2007) says $800 million; some later accounts say Yahoo tried for $850 million. We use Wired."
+   },
+   {
+    "claim": "Meta's state attorneys-general settlement was $18 billion (some headlines say $17 billion).",
+    "note": "AP reported 'up to $18 billion'; Meta's 10-Q says 'up to approximately $18.59 billion', of which about $5.3 billion is contingent on industry peers. We use the 10-Q wording."
+   },
+   {
+    "claim": "Muse launched in August 2026.",
+    "note": "AP's Q3 earnings story says August; AP's launch story (via PBS) and Axios date the launch to 8 September 2026. We use 8 September."
+   },
+   {
+    "claim": "Instagram was bought for $1 billion.",
+    "note": "The announced headline value was about $1 billion; Facebook's Q3 2012 10-Q, as reported by The Next Web, put the final cost at about $715 million because the stock portion lost value. We give both."
+   }
+  ]
+ }
+}

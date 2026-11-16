@@ -1,0 +1,163 @@
+{
+  "slug": "zume",
+  "name": "Zume",
+  "region": "global",
+  "country": "United States",
+  "city": "Mountain View, California",
+  "sector": "Food robotics, then compostable packaging",
+  "founded": 2015,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#e2231a",
+  "founders": [
+    { "name": "Alex Garden", "role": "Co-founder, chairman and CEO" },
+    { "name": "Julia Collins", "role": "Co-founder" }
+  ],
+  "epitaph": "Baked pizza on the highway. Ran out of road.",
+  "oneLiner": "Started as robot-made pizza baked inside moving delivery trucks, then pivoted to making compostable food packaging.",
+  "causeOfDeath": "It raised money for a grand food-tech platform before its pizza business worked, then pivoted into a whole new industry and never found its footing.",
+  "raisedUsdM": 445,
+  "peakValuationUsdM": 2250,
+  "endValueUsdM": null,
+  "moneyNote": "Raised: $445M over eight years (TechCrunch). Peak: about $2.25B with SoftBank's 2018 investment (CNBC, citing reports). End: assets liquidated in June 2023; prices not published.",
+  "moneySrc": [1, 7],
+  "inOneMinute": [
+    "Zume made pizza with **robots** and baked it in trucks fitted with **56 ovens**, timed to finish just as the truck reached your door.",
+    "SoftBank put in **$375 million** in 2018 for a 'platform for all food'. In 2020 Zume closed its pizza business and cut 360 jobs.",
+    "It pivoted to compostable packaging made by robots. After raising **$445 million**, it liquidated its assets in June 2023."
+  ],
+  "killerLine": "Calling your first business a **'prototype'** does not make the next one easier. **Win one market** before you sell the platform.",
+  "numbers": [
+    { "value": "56", "label": "pizza ovens on gimbals inside each delivery truck", "src": [0] },
+    { "value": "$375M", "label": "invested by SoftBank's Vision Fund in 2018", "src": [1] },
+    { "value": "360", "label": "jobs cut when it closed Zume Pizza, about half its staff (2020)", "src": [4] },
+    { "value": "$445M", "label": "raised in eight years before liquidation", "src": [7] }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: robots and ovens on wheels",
+      "body": "Alex Garden and Julia Collins started Zume in 2015 in California's Silicon Valley. Their pitch sounded like science fiction. Robots with names like Pepe, Marta and Bruno spread the sauce and loaded pizzas into ovens. Then the pizzas were baked **inside a moving truck**. Each truck had 56 GPS-connected ovens mounted on gimbals (swinging frames that stay level on hills). A pizza started cooking as the truck neared your house, so it arrived hot. Zume sold its first pizza in April 2016. It also planned to use data to **predict your order** before you placed it. Garden later said: \"The Zume magic is its ability to predict what people order before they do.\" The robots and data were genuinely clever engineering.",
+      "src": [0, 1, 2]
+    },
+    {
+      "title": "The rise: pizza was just the start",
+      "body": "By 2018 Zume delivered in about ten Silicon Valley towns, such as Palo Alto, Mountain View and Cupertino. But Garden had bigger dreams. In April 2018 Zume created an umbrella company, Zume Inc., to offer its truck technology to any restaurant: coffee, steamed buns, frozen yoghurt. \"Pizza was our prototype,\" Garden said. Investors loved the vision. Before 2018 Zume had raised about $71 million. Then in November 2018 SoftBank's Vision Fund put in **$375 million**, valuing Zume at about **$2.25 billion**, according to reports at the time. Zume was now priced like a global food-tech platform, while its actual business was still a local pizza delivery service in one corner of California.",
+      "src": [1, 2, 4]
+    },
+    {
+      "title": "The cracks: the pizza never scaled",
+      "body": "Making great pizza in a moving truck was hard. TechCrunch noted in 2016 that deliveries averaged 22 minutes, and that **artisan pizza cannot sit**. The pizza business stayed small. Meanwhile Zume was already moving into something completely different: packaging. In 2019 it bought Pivot, a plant-based packaging company, planned a 70,000-square-foot factory, and set a goal of replacing a billion plastic containers by 2020. Pizza Hut tested its compostable round boxes. In January 2020, Zume **closed Zume Pizza** and laid off 360 people, about half its workforce. Garden wrote that the company was focusing on \"the inventions that are showing strong commercial traction.\" The robot pizza company had become a **packaging company**.",
+      "src": [0, 3, 4]
+    },
+    {
+      "title": "The fall: a second start-up inside the first",
+      "body": "Zume re-commissioned its pizza robots to press farm waste into food containers. In November 2021 it signed a deal with robotics giant ABB to install more than 1,000 moulding cells and up to 2,000 robots at customer sites over five years. One pilot was in India, with Satia Industries, turning 20 tons of wheat straw a day into compostable packaging. Garden warned that by 2050 the oceans could hold more plastic than fish. But packaging is a tough, low-margin manufacturing business, nothing like the software-style platform investors had paid for. In **early June 2023**, Zume liquidated its assets. Over eight years it had raised **$445 million** and pivoted several times. None of its businesses became big enough in time.",
+      "src": [5, 6, 7]
+    }
+  ],
+  "timeline": [
+    { "date": "2015", "event": "Alex Garden and Julia Collins start Zume in Silicon Valley.", "kind": "start", "src": [7] },
+    { "date": "Apr 2016", "event": "Zume sells its first pizza.", "kind": "start", "src": [1] },
+    { "date": "Sep 2016", "event": "Trucks with 56 gimbal-mounted ovens start baking pizza on the way to customers.", "kind": "start", "src": [0] },
+    { "date": "Apr 2018", "event": "Forms Zume Inc. to sell its truck technology to any restaurant. \"Pizza was our prototype.\"", "kind": "money", "src": [2] },
+    { "date": "Nov 2018", "event": "SoftBank's Vision Fund invests $375 million; reported valuation about $2.25 billion.", "kind": "peak", "src": [1] },
+    { "date": "Jun 2019", "event": "Buys packaging company Pivot and plans a 70,000 sq ft factory.", "kind": "warning", "src": [3] },
+    { "date": "Jan 2020", "event": "Closes Zume Pizza and cuts 360 jobs, about half its staff, to focus on packaging.", "kind": "crisis", "src": [4] },
+    { "date": "Nov 2021", "event": "Signs ABB deal for up to 2,000 robots to make plant-fibre packaging; pilot in India.", "kind": "money", "src": [6] },
+    { "date": "Jun 2023", "event": "Liquidates its assets after raising $445 million in eight years.", "kind": "end", "src": [7] }
+  ],
+  "charts": [],
+  "rounds": [
+    { "date": "2016–2017", "round": "Early rounds (total)", "amountUsdM": 71, "valuationUsdM": 218, "investors": ["SignalFire"], "src": [0, 4] },
+    { "date": "Nov 2018", "round": "Vision Fund investment", "amountUsdM": 375, "valuationUsdM": 2250, "investors": ["SoftBank Vision Fund"], "src": [1] }
+  ],
+  "causes": [
+    { "key": "focus", "weight": 40 },
+    { "key": "tech", "weight": 25 },
+    { "key": "business-model", "weight": 20 },
+    { "key": "burn", "weight": 15 }
+  ],
+  "mistakes": [
+    {
+      "title": "Sold the platform before winning the product",
+      "explain": "By 2018 Garden called pizza \"our prototype\" and pitched Zume as technology for every food truck. SoftBank invested **$375 million** on that vision. But the pizza business was still local and small. When the core product has not won its own market, **a platform built on it has nothing to stand on**.",
+      "src": [1, 2]
+    },
+    {
+      "title": "Built cool tech before checking what customers valued",
+      "explain": "Ovens on gimbals and robot sauce-spreaders were impressive. But customers care about taste and speed. Deliveries averaged 22 minutes, and TechCrunch noted that **artisan pizza cannot sit**. Clever engineering that does not make the product clearly better for the buyer is a cost, not an advantage.",
+      "src": [0]
+    },
+    {
+      "title": "Pivoted into a completely different industry",
+      "explain": "Zume moved from pizza delivery to **manufacturing compostable packaging**, with factories, a new acquisition and new customers. That is not a tweak; it is starting a second company inside the first, with the first company's costs and expectations still attached.",
+      "src": [3, 4, 5]
+    },
+    {
+      "title": "A huge valuation set an impossible bar",
+      "explain": "At about **$2.25 billion**, Zume had to become a giant to make SoftBank's money work. Before that round it had been valued at around $218 million. A tenfold jump in price for a business that was still small left **no room for a slow, steady path**.",
+      "src": [1, 4]
+    }
+  ],
+  "warningSigns": [
+    "Do you describe your current product as just a 'prototype' for a bigger platform you are pitching?",
+    "Are you proud of how your product works more than of how much customers love the result?",
+    "Is your latest pivot taking you into an industry with completely different customers, costs and skills?",
+    "Did your valuation jump many times over in one round, without your revenue doing the same?",
+    "Are you still operating in only a small area, while pitching a global business?",
+    "Has your company pivoted more than once in the last two years?"
+  ],
+  "lessons": [
+    {
+      "title": "Win the first market completely",
+      "detail": "Before you call your first product a 'prototype' for a platform, make it a clear winner in one city or one category. A loved, profitable local product is the best proof that your platform idea can work elsewhere."
+    },
+    {
+      "title": "Test the boring version first",
+      "detail": "Before building robots and moving ovens, test whether people want your pizza with a normal kitchen and normal delivery. Add the clever tech only when you know which customer problem it solves better."
+    },
+    {
+      "title": "A pivot is a new startup. Treat it like one.",
+      "detail": "If you move into a new industry, cut the old costs fast, set a small budget for the new idea, and prove demand again from zero. Do not carry the old valuation, team size and burn into an unproven business."
+    },
+    {
+      "title": "Beware the valuation that is ten times your last one",
+      "detail": "A giant jump feels great, but every future round must beat it. If your business is still small, a modest valuation with patient investors can be the safer choice."
+    },
+    {
+      "title": "Sustainability still needs unit economics",
+      "detail": "Zume's compostable packaging, including a pilot with Satia Industries in India using wheat straw, aimed at a real problem. But green products still need to cost less to make than they sell for. Know your cost per piece before you scale the factory."
+    }
+  ],
+  "quote": {
+    "text": "Pizza was our prototype",
+    "who": "Alex Garden, co-founder and CEO of Zume",
+    "context": "Explaining Zume's plan to sell its food-truck technology to all restaurants, April 2018",
+    "src": [2]
+  },
+  "afterlife": {
+    "text": "Zume liquidated its assets in early June 2023, after raising $445 million over eight years. Its last big bet, robot-made compostable packaging, included an ABB partnership for up to 2,000 robots and a pilot in India with Satia Industries that turned 20 tons of wheat straw a day into packaging. TechCrunch, looking back, noted that Zume did not die from refusing to change: it pivoted several times. Co-founder Julia Collins went on to start a new climate-friendly food company.",
+    "src": [6, 7, 8]
+  },
+  "sources": [
+    { "label": "TechCrunch: Robots and on-board ovens deliver on Zume's promise of better pizza (Sep 2016)", "url": "https://techcrunch.com/2016/09/01/robots-and-on-board-ovens-deliver-on-zumes-promise-of-better-pizza/" },
+    { "label": "CNBC: Robot pizza maker reportedly takes $375 million from SoftBank (Nov 2018)", "url": "https://www.cnbc.com/2018/11/02/robot-pizza-maker-reportedly-takes-375-million-investment-from-softbank.html" },
+    { "label": "TechCrunch: Zume looks to life beyond pizza (Apr 2018)", "url": "https://techcrunch.com/2018/04/25/zume-looks-to-life-beyond-pizza/" },
+    { "label": "TechCrunch: Zume buys packaging company Pivot (Jun 2019)", "url": "https://techcrunch.com/2019/06/13/zume-buys-packaging-company-with-eyes-on-plant-based-plastic-alternative/" },
+    { "label": "CNBC: SoftBank-backed Zume cuts 360 jobs, closes pizza delivery business (Jan 2020)", "url": "https://www.cnbc.com/2020/01/08/softbank-backed-zume-cuts-360-jobs-closes-pizza-delivery-business.html" },
+    { "label": "CNBC: Pizza robots are now turning waste into packaging (Jun 2021)", "url": "https://www.cnbc.com/2021/06/19/pizza-robots-are-now-turning-waste-into-packaging.html" },
+    { "label": "TechCrunch: Zume inks deal with ABB to deploy 2,000 plastic-reducing robots (Nov 2021)", "url": "https://techcrunch.com/2021/11/17/zume-kills-plastics/" },
+    { "label": "TechCrunch: Remembering the startups we lost in 2023 (Dec 2023)", "url": "https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/" },
+    { "label": "TechCrunch: Zume co-founder goes from pizza to climate-friendly food (Mar 2020)", "url": "https://techcrunch.com/2020/03/12/zume-co-founder-goes-from-pizza-to-climate-friendly-food-with-2-7-million-in-funding/" }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Zume's valuation after SoftBank's 2018 investment.", "note": "CNBC in 2018 reported about $2.25B; TechCrunch later said 'over $2 billion'; but CNBC's own 2020 article said the investment valued Zume at $1B. We use $2.25B, as reported at the time of the deal." },
+      { "claim": "Size of SoftBank's 2018 investment.", "note": "Most reports say $375M (from a securities filing); TechCrunch's 2023 roundup says $325M. A second $375M tranche was reported as expected by the WSJ, but we found no confirmation it was paid." },
+      { "claim": "How many jobs were cut in January 2020.", "note": "CNBC reported 360 (about 50%); an earlier TechCrunch piece said Zume intended to shed 80% of staff. We use CNBC's confirmed figure." },
+      { "claim": "Zume's packaging contained PFAS ('forever chemicals') and could not be used in some cities.", "note": "Reported in some accounts, but we could not read a primary source, so it is left out of the story." },
+      { "claim": "Why Zume finally shut down in 2023.", "note": "No detailed public explanation was found. TechCrunch said it was not simply a failure to adapt. Our cause weights are editorial analysis." }
+    ]
+  }
+}

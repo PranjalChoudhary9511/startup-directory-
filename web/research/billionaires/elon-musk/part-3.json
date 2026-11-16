@@ -1,0 +1,1626 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "Inside the machine",
+      "title": "How Elon Works",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Picture Tesla's Fremont factory in 2017 and 2018. The company has about a year to reach ==5,000 Model 3 cars a week==. Musk has calculated that number is what keeps Tesla alive. There is no time to build new production lines, so the old ones must simply run faster.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Out of that panic came the rule he now repeats in every company he runs. Musk calls it “the algorithm”. It has five steps, and the order matters: question every requirement, delete any part or process you can, simplify and optimise, speed up the cycle time, and only then automate.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The order is the whole trick. Most engineers start by making a step faster or by giving it to a robot. Musk's point is that __the cheapest, fastest part is the one you deleted__. Optimising something that should not exist is wasted effort, however clever the work looks.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read the order twice. Delete BEFORE you automate."
+        },
+        {
+          "t": "example",
+          "text": "For example: at Fremont, Musk first insisted that robots do almost every task from day one. It went badly. He later admitted the big mistake in Nevada and Fremont was trying to automate every step before questioning it, pulled out robots he thought were too slow, and put up an extra assembly line inside a tent in the car park.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Musk also walks the factory floor himself and fixes things he does not like. His biographer Walter Isaacson describes him rewriting the settings of a bolt-fitting machine, telling staff that “Factory settings are always idiotic.” Tesla went on to report record Model 3 output in the second quarter of 2018.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The memo that killed meetings"
+        },
+        {
+          "t": "p",
+          "text": "In April 2018, in the middle of that crunch, Musk sent Tesla staff an email that later leaked to the website Electrek. It read like a rulebook for a company at war. Large meetings should go. Frequent meetings should go unless something is truly urgent. Jargon and made-up acronyms should go.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "It is not rude to leave, it is rude to make someone stay and waste their time.",
+          "who": "Elon Musk, email to Tesla staff, April 2018",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The same email told people to talk to whoever could solve a problem, not to pass messages up and down the chain of command. It said that when a company rule is obviously absurd in a given situation, common sense should win. He also asked the finance team to check every expense worldwide, ==no matter how small==.",
+          "src": [
+            1,
+            2
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Steal this for your first team of five. Today."
+        },
+        {
+          "t": "p",
+          "text": "Musk's view of where work happens is just as blunt. In June 2022 he emailed Tesla staff that everyone must spend a minimum of 40 hours a week in the office. The office, he added, had to be where your real colleagues sit. When a follower asked about people who think office work is outdated, he replied that they should pretend to work somewhere else.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If you don't show up, we will assume you have resigned.",
+          "who": "Elon Musk, email to Tesla staff, June 2022",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Surges, couches and 120-hour weeks"
+        },
+        {
+          "t": "p",
+          "text": "Isaacson writes that Musk works in “surges”: bursts of around-the-clock effort on a problem that looks impossible. He expects his teams to surge with him. During the Model 3 crisis, Musk told the New York Times he was working up to ==120 hours a week== and sometimes did not leave the factory for three or four days.",
+          "src": [
+            0,
+            8
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He spent all 24 hours of his 47th birthday at work. Then he flew straight to his brother's wedding, where he was best man, arrived two hours before the ceremony and left soon after. He called that year “excruciating”, and the paper said he moved between laughter and tears during the interview.",
+          "src": [
+            8,
+            9
+          ]
+        },
+        {
+          "t": "note",
+          "text": "This is a warning, not a recipe. He nearly broke here."
+        },
+        {
+          "t": "p",
+          "text": "The habit stuck. After buying Twitter, Musk told the BBC in April 2023 that he sometimes slept on a couch in the company's San Francisco office. The pattern is the same each time: Musk moves into the building where the crisis is and stays until it eases.",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he hires"
+        },
+        {
+          "t": "p",
+          "text": "Musk says he does not care much about degrees. In a 2014 interview with the German magazine Auto Bild, and again when recruiting for Tesla's AI team in 2020, he said a college degree, or even finishing high school, was not required. What he wants is evidence of exceptional ability.",
+          "src": [
+            14
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His favourite interview test is simple. At the World Government Summit in Dubai in 2017, he said he asks candidates to describe the hardest problems they worked on and exactly how they solved them. People who really did the work, he explained, know the small details. People who are pretending get stuck after one or two follow-up questions.",
+          "src": [
+            12,
+            13
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: if you say you cut a server bill by 40 percent, expect Musk-style follow-ups. Which servers? What did you switch off first? What broke? Who argued with you? A real builder can keep going five levels deep. Someone who watched from the side cannot.",
+          "src": [
+            12,
+            13
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Firing, fast"
+        },
+        {
+          "t": "p",
+          "text": "Musk is equally fast at cutting people. On the day his Twitter purchase closed in October 2022, the chief executive, finance chief and other top executives were out. Within weeks, Twitter staff received an email titled “A Fork in the Road”. It said the new Twitter would need to be ==“extremely hardcore”==, with long hours at high intensity.",
+          "src": [
+            56,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Staff had until 5pm the next day to click “yes” on a form. Anyone who did not would leave with three months of severance. By April 2023, Musk said the company had gone from just under 8,000 people to about 1,500, a cut of roughly 80 percent. He said the cuts were “not fun at all”, but claimed the company would otherwise have gone bankrupt.",
+          "src": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~8,000 to ~1,500",
+              "label": "Twitter staff before and after Musk's cuts (by April 2023)",
+              "src": [
+                6
+              ]
+            },
+            {
+              "value": "40 hours",
+              "label": "Minimum weekly office time Musk demanded of Tesla staff in 2022",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "120 hours",
+              "label": "Weekly hours Musk said he worked during the 2018 Model 3 crunch",
+              "src": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He took the same style into government. In February 2025, while leading the Department of Government Efficiency, he posted that every federal employee would get an email asking what they had done the week before. Failure to respond, he wrote, would be taken as a resignation. Several agencies told their staff they did not have to reply, and Musk later called it a “very basic pulse check”.",
+          "src": [
+            20
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What it is like to work for him"
+        },
+        {
+          "t": "p",
+          "text": "Gwynne Shotwell has run SpaceX's day-to-day business beside Musk for more than two decades. At a TED event in 2018 she said she loves working for him, and that he can be “very aggressive” with timelines in a way that pushes the team to move faster. Former executives quoted by the New York Times in 2026 call her the “Elon whisperer”.",
+          "src": [
+            15,
+            16
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "When Elon says something, you have to pause and not immediately blurt out, 'Well, that's impossible.'",
+          "who": "Gwynne Shotwell, SpaceX president, TED 2018",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "She also explained the deal that made the job bearable. Musk's role, she said, is to keep pushing. Her role is to get the company close to comfortable so he can push again. Once she understood that, she said, she started liking her job much more instead of always feeling frustrated.",
+          "src": [
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Not everyone describes it so warmly. Isaacson said Musk can operate “with a real lack of empathy” when staff do not share his sense of urgency, and called him “just brutal” when he tears into someone. In 2022, SpaceX fired employees involved in an open letter criticising Musk's public behaviour. The US labour board later accused SpaceX of firing them illegally. SpaceX went to federal court to try to stop the case, arguing the board's structure was unconstitutional.",
+          "src": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Speed is a weapon. Fear is a tax. Know the difference."
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "The Musk Mindset",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Musk's companies look unrelated: cars, rockets, satellites, AI, tunnels, brain chips. Underneath, the same handful of beliefs keeps showing up. Each one has a story behind it, and each story cost him something. Here are the seven that matter most for a young founder.",
+          "src": [
+            21,
+            22
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Reason from physics, not from habit"
+        },
+        {
+          "t": "p",
+          "text": "In a 2012 interview with the Digg founder Kevin Rose, Musk took apart a belief everyone held: batteries are expensive and always will be. Historically, he said, battery packs had cost about ==$600 per kilowatt-hour==. So he asked a different question. What are batteries actually made of, and what do those materials cost on the London Metal Exchange?",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cobalt, nickel, aluminium, carbon, some polymers, a steel can. Priced as raw materials, his answer was about ==$80 per kilowatt-hour==. The gap between $600 and $80 was not physics. __The gap was a problem of method, and a problem of method can be solved.__",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Boil things down to their fundamental truths and reason up from there, as opposed to reasoning by analogy.",
+          "who": "Elon Musk, TED, 2013",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He admits it is tiring. In a 2014 commencement speech at the University of Southern California he said you cannot think this way about everything, because it takes too much mental effort. But for the few decisions that really matter, he called it “a powerful, powerful way of thinking.”",
+          "src": [
+            21
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Before you accept a price, ask what it's made of."
+        },
+        {
+          "t": "h",
+          "text": "2. Try important things even when you will probably fail"
+        },
+        {
+          "t": "p",
+          "text": "Musk did not expect Tesla to survive. In 2014 he told CBS's 60 Minutes, “I thought we would most likely fail.” He started it anyway, because he wanted at least to kill the idea that an electric car had to be ugly, slow and boring like a golf cart.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If something's important enough you should try. Even if you -- the probable outcome is failure.",
+          "who": "Elon Musk, 60 Minutes, 2014",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That belief was tested in 2008. SpaceX's first three Falcon 1 rockets had failed. Musk said a fourth failure would have been “absolutely game over”. He had put the last of his money, about ==$180 million== from the PayPal sale, into Tesla and SpaceX. On the Sunday before Christmas he woke up thinking he had never come closer to a nervous breakdown.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2006–2008",
+              "text": "Falcon 1 fails on its first three launches.",
+              "src": [
+                22
+              ]
+            },
+            {
+              "when": "Late 2008",
+              "text": "Fourth launch succeeds. Musk later says a fourth failure would have ended SpaceX.",
+              "src": [
+                22
+              ]
+            },
+            {
+              "when": "December 2008",
+              "text": "NASA calls: SpaceX has won a cargo contract Musk recalls as $1.5 billion. He blurts out “I love you guys.”",
+              "src": [
+                22
+              ]
+            },
+            {
+              "when": "Christmas Eve 2008",
+              "text": "Tesla's investors agree to put in more money, two days after the NASA call.",
+              "src": [
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Christmas 2008: both companies hours from death. Remember this date."
+        },
+        {
+          "t": "h",
+          "text": "3. Have a mission bigger than money"
+        },
+        {
+          "t": "p",
+          "text": "Musk's stated reason for SpaceX is to make humans a multi-planet species. At the South by Southwest festival in Austin in March 2013, he joked that he would like to die on Mars, “just not on impact”. He also said he would be really disappointed if humans did not land on Mars in his lifetime.",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The mission is useful for more than speeches. It gives him a filter for decisions and a story that pulls in engineers who could earn more elsewhere. But it also bends timelines. In 2025 he said SpaceX aimed to send uncrewed Starships to Mars in 2026. In February 2026 he changed course and said the company would focus first on a “self-growing city” on the Moon, because it is faster.",
+          "src": [
+            73
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. Tell people the plan, in plain words"
+        },
+        {
+          "t": "p",
+          "text": "In August 2006, when Tesla had not yet sold a car, Musk posted a short blog called “The Secret Tesla Motors Master Plan (just between you and me)”. Its summary fit in four lines: build a sports car, use that money to build an affordable car, use that money to build an even more affordable car, and offer zero-emission power at the same time. The last line read: “Don't tell anyone.”",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: the Roadster, then the Model S, then the cheaper Model 3 followed roughly that plan. A 17-year-old could read the whole strategy in thirty seconds, and that was the point.",
+          "src": [
+            26
+          ]
+        },
+        {
+          "t": "h",
+          "text": "5. Give away what does not make you win"
+        },
+        {
+          "t": "p",
+          "text": "In June 2014, Musk published a blog post titled “All Our Patent Are Belong To You”, a joke on an old video-game meme. Tesla took the wall of patents down from its Palo Alto lobby. Musk promised the company would not start patent lawsuits against anyone who, in good faith, wanted to use its technology.",
+          "src": [
+            24,
+            25
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His reasoning was cold, not charitable. Big carmakers' electric programmes were tiny, averaging far less than 1 percent of their sales. The real enemy was the petrol car, not a copycat. __A patent wall protects you from rivals who do not yet exist; it does not grow the market you need.__",
+          "src": [
+            25
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Ask: who is my real competitor? Often it's the old way."
+        },
+        {
+          "t": "h",
+          "text": "6. Urgency is the operating system"
+        },
+        {
+          "t": "p",
+          "text": "Isaacson describes Musk's “maniacal sense of urgency” as a deliberate tool, one that can also frighten the people working for him. Musk's deadlines are famously aggressive. Shotwell has said the aggressive timelines drive SpaceX “to do things better and faster.”",
+          "src": [
+            17,
+            15
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The cost is credibility. Customers, investors and regulators learn to discount his dates. A founder copying this must decide which promises are internal motivation and which are public commitments, because only the second kind can get you sued.",
+          "src": [
+            15,
+            52
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. Pain is part of the price"
+        },
+        {
+          "t": "p",
+          "text": "Musk talks about suffering in a matter-of-fact way. He has said he took no more than a week off at a time for years after catching malaria at the turn of the millennium, a near-fatal illness he blames on a holiday. In his biography he is quoted drawing the lesson: “Vacations will kill you.”",
+          "src": [
+            8,
+            10,
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also feels criticism more than his image suggests. In a 2012 60 Minutes interview he was asked about the astronauts Neil Armstrong and Gene Cernan, who had raised doubts in Congress about commercial spaceflight. Musk teared up. “Those guys are heroes of mine, so it's really tough,” he said.",
+          "src": [
+            27,
+            28
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Even he cried on camera. Criticism hurts everyone. Keep building."
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "Off the clock",
+      "title": "The Private Elon",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Musk's personal life is unusually public, partly because he posts about it himself. This chapter sticks to what he, his family or established press have reported, and only where it helps explain how he lives and works.",
+          "src": [
+            29,
+            31
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Loss, early"
+        },
+        {
+          "t": "p",
+          "text": "Musk married the writer Justine Wilson in 2000. In 2002 their first son, Nevada, died of sudden infant death syndrome at about ten weeks old. Justine later wrote about it in a 2010 essay for Marie Claire. She said Musk made it clear he did not want to talk about the death, and that she grieved openly while he did not.",
+          "src": [
+            29,
+            30
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The loss came in the same period that PayPal was sold to eBay, the deal that gave Musk the money he later bet on Tesla and SpaceX. The couple divorced in 2008, the same brutal year both companies nearly died.",
+          "src": [
+            29,
+            30
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The 'overnight success' years held his worst private grief."
+        },
+        {
+          "t": "h",
+          "text": "A large and complicated family"
+        },
+        {
+          "t": "p",
+          "text": "Musk's family is large, and it is often in the news. Press outlets counted his 14th known child in February 2025, when Neuralink executive Shivon Zilis announced their fourth child together, a son named Seldon Lycurgus. Some outlets are more cautious and say he has at least 12 children, because not every birth has been confirmed by him.",
+          "src": [
+            31,
+            32
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Children's names and lives are their families' business, so we keep this short. He has children with Justine Wilson, with the musician Grimes, and with Zilis. In a December 2025 podcast with Indian entrepreneur Nikhil Kamath, Musk said Zilis is half Indian and that one of their sons has the middle name ==Sekhar==, after the Nobel Prize-winning physicist Subrahmanyan Chandrasekhar.",
+          "src": [
+            31,
+            51
+          ]
+        },
+        {
+          "t": "note",
+          "text": "An Indian scientist's name, inside the world's richest family."
+        },
+        {
+          "t": "p",
+          "text": "One relationship has played out publicly. Musk's adult daughter, Vivian Wilson, is transgender and changed her name in 2022. In a 2024 interview with Jordan Peterson, Musk said he had been tricked into approving her gender care at 16 and blamed what he calls the “woke mind virus”. Vivian publicly rejected his account, told NBC News he had been largely absent from her childhood, and called him “uncaring and narcissistic”.",
+          "src": [
+            33,
+            34
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Health, in his own words"
+        },
+        {
+          "t": "p",
+          "text": "Hosting Saturday Night Live in May 2021, Musk said, “I'm actually making history tonight as the first person with Asperger's to host SNL.” He used it to explain his online behaviour: he sometimes says or posts strange things, he said, but “that's just how my brain works.”",
+          "src": [
+            35
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The scariest health episode came around the turn of 2001. After a trip to Brazil and South Africa, Musk fell seriously ill back in California. Doctors first misdiagnosed viral meningitis. A specialist then identified falciparum malaria. According to Isaacson's biography, a PayPal colleague wrote at the time that he was “only hours from death”, and he spent about five months recovering.",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The illness had a business cost too. While Musk was away on that trip, the board of X.com, the company that became PayPal, removed him as chief executive and installed Peter Thiel. Musk has said he would have died without the drug that saved him, and he took his own lesson from it about holidays.",
+          "src": [
+            11,
+            10
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fired as CEO while on honeymoon. Then nearly died. Then kept going."
+        },
+        {
+          "t": "p",
+          "text": "During the 2018 Model 3 crisis he told the New York Times that stress was taking a heavy toll and that he sometimes took Ambien, a prescription sleeping pill, to fall asleep. Tesla's share price fell after the interview was published. It was a rare public admission that his work style was hurting him.",
+          "src": [
+            8,
+            9
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he spends, and gives"
+        },
+        {
+          "t": "p",
+          "text": "In 1999, fresh from selling his first company, Zip2, Musk bought a McLaren F1 supercar. In 2000, driving with Peter Thiel in Silicon Valley, he lost control and crashed it. Musk has said the car was not insured. He later bought the Lotus Esprit submarine car used in the James Bond film The Spy Who Loved Me.",
+          "src": [
+            42,
+            43
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then he went the other way. On 1 May 2020 he tweeted that he was selling almost all physical possessions and would own no house, saying he was devoting himself to Mars and Earth. Between June 2020 and November 2021 he sold all seven of his California homes for about ==$128 million==, according to The Real Deal.",
+          "src": [
+            39,
+            40
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: one of those homes had belonged to the late actor Gene Wilder. Musk sold it to Wilder's nephew, and records suggest he made no profit and even lent the couple $6.7 million to buy it.",
+          "src": [
+            40
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In 2021 he said his main home was a roughly $50,000 house he rents from SpaceX near its Texas launch site. His wealth sits almost entirely in company shares, not mansions, which is one reason his net worth swings by tens of billions in a day.",
+          "src": [
+            41,
+            70
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His giving is large on paper and controversial in practice. In 2021 he gave Tesla shares worth about ==$5.7 billion== to charity, and much of it went to his own Musk Foundation. The New York Times later reported that the foundation fell short of the minimum amount US law requires private foundations to give away each year in 2021, 2022 and 2023. The New Republic, citing the Times, reported a 2023 shortfall of $421 million.",
+          "src": [
+            37,
+            38
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Big donation headlines aren't the same as money actually given out."
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "The megaphone",
+      "title": "Building Brand Elon",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "For most of its history, Tesla did almost no traditional advertising. In 2019 Musk tweeted that the company “does not advertise or pay for endorsements.” Instead, the founder was the advertisement. Every launch, joke, feud and promise from Musk became free coverage for the cars.",
+          "src": [
+            44
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That changed only in May 2023. At Tesla's shareholder meeting in Austin, an investor suggested ads. Musk replied: “I believe in taking suggestions, so we'll try a little advertising and see how it goes.” The crowd cheered. It was a small shift that admitted something big: the personal megaphone had limits.",
+          "src": [
+            44
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Zero ad budget for years. The founder WAS the marketing."
+        },
+        {
+          "t": "h",
+          "text": "Writing in public"
+        },
+        {
+          "t": "p",
+          "text": "Musk's style was clear from the start. The 2006 Master Plan blog explained Tesla's strategy in a few lines a teenager could follow. The 2014 patent post used a gaming meme as its headline. __He writes like a person, not a press office__, and that is why people share it.",
+          "src": [
+            26,
+            24
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Social media turned that style into a global broadcast. It gives him a direct line to customers and investors that no CEO has had before. It also means a single post can move markets, start lawsuits or lose advertisers.",
+          "src": [
+            52,
+            36
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: on 7 August 2018, Musk tweeted that he was considering taking Tesla private at $420 a share and had “funding secured”. That one tweet led to a $20 million fine for him, another $20 million for Tesla, and his removal as Tesla's chairman for three years.",
+          "src": [
+            52
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Famous moments"
+        },
+        {
+          "t": "p",
+          "text": "In May 2021 Musk hosted Saturday Night Live. In his monologue he joked about his reputation: “Did you think I was also going to be a chill, normal dude?” Later in the show, playing a character asked about Dogecoin, the joke cryptocurrency he had promoted for months, he called it a “hustle”.",
+          "src": [
+            35,
+            36
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dogecoin's price fell by about a third during the broadcast, from roughly $0.65 before the show to as low as $0.42 on the Binance exchange, according to Reuters. It showed how much money now moved on his words, even in a comedy sketch.",
+          "src": [
+            36
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "~36%",
+              "label": "Dogecoin's drop during Musk's SNL appearance, May 2021 (Reuters)",
+              "src": [
+                36
+              ]
+            },
+            {
+              "value": "$40 million",
+              "label": "Total SEC penalties for Musk and Tesla over the “funding secured” tweet",
+              "src": [
+                52
+              ]
+            },
+            {
+              "value": "54%",
+              "label": "Americans with an unfavourable view of Musk, early 2025 (Pew)",
+              "src": [
+                45
+              ]
+            }
+          ]
+        },
+        {
+          "t": "note",
+          "text": "When you're famous, a joke can cost other people money."
+        },
+        {
+          "t": "h",
+          "text": "How different countries see him"
+        },
+        {
+          "t": "p",
+          "text": "In the United States, views of Musk became sharply political after he backed Donald Trump in 2024 and led cost-cutting in government. A Pew Research survey in early 2025 found 54 percent of US adults viewed him unfavourably and 42 percent favourably. Young people were the most negative: ==67 percent of adults under 30== had an unfavourable view.",
+          "src": [
+            45
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In Europe, the reaction hit sales. After Musk publicly backed Germany's far-right AfD party and waded into other countries' politics, Tesla faced protests and boycotts. Its sales across 32 European countries fell 49 percent in April 2025 compared with a year earlier, even as overall electric-car sales grew. Analysts also blamed an ageing model line-up and Chinese competition.",
+          "src": [
+            46
+          ]
+        },
+        {
+          "t": "p",
+          "text": "India is a different story. In June 2023, after meeting Prime Minister Narendra Modi in New York, Musk said, “I am a fan of Modi,” and promised Tesla would come to India “as soon as humanly possible.” A planned trip to India in April 2024 was postponed, with Musk citing very heavy Tesla obligations.",
+          "src": [
+            47,
+            48
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "June 2023",
+              "text": "Musk meets Modi in New York and says Tesla will invest significantly in India.",
+              "src": [
+                47
+              ]
+            },
+            {
+              "when": "April 2024",
+              "text": "Musk postpones a planned India visit, citing Tesla work.",
+              "src": [
+                48
+              ]
+            },
+            {
+              "when": "6 June 2025",
+              "text": "Starlink receives its satellite-communications licence from India's Department of Telecommunications.",
+              "src": [
+                50
+              ]
+            },
+            {
+              "when": "15 July 2025",
+              "text": "Tesla opens its first Indian showroom, in Mumbai's Bandra-Kurla Complex.",
+              "src": [
+                49
+              ]
+            },
+            {
+              "when": "December 2025",
+              "text": "On Nikhil Kamath's podcast, Musk reveals his son's Indian middle name, Sekhar.",
+              "src": [
+                51
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The Mumbai launch showed the limits of fame. Because the cars were imported as finished units and faced tariffs of around 70 percent, the cheapest Model Y cost about ==6 million rupees (about $70,000)==, far above most Indian buyers' budgets. Musk's name opens doors in India, but import duties still set the price.",
+          "src": [
+            49
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fame gets you the meeting. Economics decides the sale."
+        },
+        {
+          "t": "p",
+          "text": "Even people close to him separate the man from the feed. Shotwell told the New York Times, “I like his in-person self better than his Twitter self.” For a founder, that is the brand lesson in one line: __your online voice becomes your company's voice, whether you planned it or not__.",
+          "src": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "The costly mistakes",
+      "title": "What Went Wrong",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Musk's mistakes are as large as his wins, and many came from the same traits. Speed, certainty and a love of public fights built Tesla and SpaceX. The same habits produced lawsuits, fines and lost customers. This chapter sets out the biggest ones, with what actually happened in court and in the market.",
+          "src": [
+            52,
+            53,
+            46
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. The tweet that cost $40 million"
+        },
+        {
+          "t": "p",
+          "text": "On 7 August 2018 Musk tweeted that he might take Tesla private at $420 a share and had “funding secured”. The US Securities and Exchange Commission said the statement lacked an adequate basis in fact. In September 2018, Musk and Tesla each agreed to pay ==$20 million==, without admitting or denying the claims.",
+          "src": [
+            52
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Musk also had to step down as Tesla's chairman and could not be re-elected for three years. Tesla added two independent directors and controls over his communications. A separate investor lawsuit went to trial in 2023. The judge had already ruled the tweets false and reckless, but in February 2023 a San Francisco jury found Musk and Tesla not liable for investors' losses.",
+          "src": [
+            52,
+            53
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Won the trial. Still lost the chairman's seat. Words have prices."
+        },
+        {
+          "t": "h",
+          "text": "2. Calling a rescuer a “pedo guy”"
+        },
+        {
+          "t": "p",
+          "text": "In 2018 a British cave diver, Vernon Unsworth, who had helped rescue a boys' football team trapped in a cave in Thailand, criticised Musk's offer of a mini-submarine. Musk replied on Twitter, calling him “pedo guy”. Unsworth sued for defamation and sought $190 million.",
+          "src": [
+            54
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In December 2019, a Los Angeles jury found Musk not liable. One juror said it was not clear the tweet was about Unsworth, since Musk had not named him. Legally, Musk won. Reputationally, it became one of the most cited examples of him attacking a private person who had done something heroic.",
+          "src": [
+            54
+          ]
+        },
+        {
+          "t": "h",
+          "text": "3. The $44 billion impulse"
+        },
+        {
+          "t": "p",
+          "text": "In April 2022 Musk agreed to buy Twitter for about ==$44 billion==. Within three months he tried to walk away, claiming Twitter had breached the deal. Twitter sued him in Delaware. Facing trial, he went ahead at the original price, and the deal closed in October 2022.",
+          "src": [
+            55,
+            56
+          ]
+        },
+        {
+          "t": "p",
+          "text": "What followed was chaos: mass layoffs, advertisers pausing spending, and constant policy changes. In March 2025, Musk's AI company xAI took over X in an all-stock deal that valued the social network at $33 billion, about $11 billion less than he had paid. __He agreed the price before doing the homework, then spent months trying to escape it.__",
+          "src": [
+            57,
+            6
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Never sign first and investigate later. Never."
+        },
+        {
+          "t": "p",
+          "text": "The deal had a legal tail. The SEC sued Musk in January 2025, alleging he disclosed his Twitter stake late and bought shares cheaply as a result. It sought about $150 million. In 2026, a trust in Musk's name agreed to pay a $1.5 million fine without admitting or denying wrongdoing, and a judge approved the deal in July 2026 despite what she called significant misgivings.",
+          "src": [
+            58
+          ]
+        },
+        {
+          "t": "h",
+          "text": "4. The pay package fight"
+        },
+        {
+          "t": "p",
+          "text": "In 2018 Tesla's board gave Musk a pay package then valued at $56 billion. A shareholder who owned just nine shares, Richard Tornetta, sued. In 2024 a Delaware judge, Kathaleen McCormick, found that Tesla's directors were conflicted and key facts were hidden from shareholders, and she cancelled the package.",
+          "src": [
+            68
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tesla moved its legal home to Texas. In December 2025 the Delaware Supreme Court reversed the decision and restored the package, by then worth about $120 billion. Musk won in the end. But for almost two years, the world's best-known CEO was in court over whether his own board had treated shareholders fairly.",
+          "src": [
+            68
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Nine shares were enough to put a $56 billion deal on trial."
+        },
+        {
+          "t": "h",
+          "text": "5. Autopilot in court"
+        },
+        {
+          "t": "p",
+          "text": "Tesla's driver-assistance software has been central to its story and its legal risk. In August 2025 a Miami federal jury found Tesla partly responsible for a 2019 crash in Florida that killed a young woman, Naibel Benavides Leon, while a driver was using Autopilot. The total award against Tesla came to about ==$243 million==, including $200 million in punitive damages.",
+          "src": [
+            59
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The driver was found mostly at fault, but the jury still blamed Tesla for a share. Tesla called the verdict wrong and said it would appeal. For founders building anything safety-critical, the lesson is that a product's name and marketing can become evidence.",
+          "src": [
+            59
+          ]
+        },
+        {
+          "t": "note",
+          "text": "If lives depend on it, under-promise. Always."
+        },
+        {
+          "t": "h",
+          "text": "6. Politics, government and a public feud"
+        },
+        {
+          "t": "p",
+          "text": "Musk spent more than $270 million backing Donald Trump and other Republicans in 2024. He then led the Department of Government Efficiency, promising early on to cut ==$2 trillion== from the federal budget. When he left in May 2025, DOGE claimed about $175 billion in savings. A Reuters analysis of Treasury data found only about $19 billion in spending had actually been cut by then.",
+          "src": [
+            75,
+            60
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Within days of leaving, Musk was publicly fighting Trump over a spending bill. In July 2025 he announced a new “America Party”. At the inauguration celebration in January 2025, a gesture he made was called a Nazi salute by some historians and critics. The Anti-Defamation League said it was an awkward gesture, not a salute, and Musk dismissed the criticism as a dirty trick.",
+          "src": [
+            61,
+            62
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The business cost showed up in sales. Tesla delivered 1.64 million vehicles in 2025, down from 1.79 million in 2024, its second yearly fall in a row. China's BYD sold more battery-electric cars than Tesla for the first time. Analysts pointed to expired US tax credits and fierce competition, as well as the brand damage from Musk's politics in Europe.",
+          "src": [
+            66,
+            46
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$2T vs $19B",
+              "label": "DOGE's early savings promise vs. spending cuts Reuters found by May 2025",
+              "src": [
+                60
+              ]
+            },
+            {
+              "value": "-49%",
+              "label": "Tesla's European sales in April 2025 vs. a year earlier",
+              "src": [
+                46
+              ]
+            },
+            {
+              "value": "$11B",
+              "label": "Drop in X's value from the 2022 purchase price to the 2025 xAI deal",
+              "src": [
+                57
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. AI without brakes"
+        },
+        {
+          "t": "p",
+          "text": "Musk said he wanted his chatbot Grok to be less “politically correct”. In July 2025, after an update, Grok posted antisemitic replies and praised Hitler, at one point calling itself “MechaHitler”. xAI deleted posts, took the bot offline and apologised for “the horrific behavior that many experienced”, blaming a code change that was live for 16 hours.",
+          "src": [
+            63
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In January 2026, a new image-editing feature let users digitally undress photos of real people, including, in reported cases, children. Malaysia and Indonesia temporarily blocked Grok. Britain's Ofcom and the European Commission opened investigations. xAI restricted the feature and limited image tools to paying users. Those probes had not reached final outcomes in the sources we reviewed.",
+          "src": [
+            64,
+            65
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Ship fast, yes. But safety can't be a later patch."
+        },
+        {
+          "t": "h",
+          "text": "What a young founder should NOT copy"
+        },
+        {
+          "t": "p",
+          "text": "Do not post anything about your company's finances that you would not put in a legal filing; the SEC treated Musk's tweet exactly like one. Do not attack private individuals online, even if you win in court. Do not sign big deals before due diligence, because walking away is far more expensive than walking in.",
+          "src": [
+            52,
+            54,
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "And do not mistake your fans for your customers. Musk's political turn delighted some followers while Tesla's European sales fell by half in some months. __Your personal brand and your company's brand are tied together, so every fight you pick, your company fights too.__",
+          "src": [
+            46,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of October 2026",
+      "title": "Where He Stands Now",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "As of late October 2026, Musk runs Tesla and SpaceX, and through SpaceX he also controls his AI business and the social network X. In February 2026 SpaceX bought xAI, which already owned X, in a deal that valued xAI at $125 billion and SpaceX at about $1 trillion. Musk has since renamed the AI business.",
+          "src": [
+            69,
+            71
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then came the biggest stock-market listing in history. SpaceX filed to go public in May 2026 and began trading on Nasdaq under the ticker SPCX on ==12 June 2026==. Shares were priced at $135 and closed the first day at $161, up 19 percent, according to CNBC. Musk keeps control through super-voting shares.",
+          "src": [
+            69,
+            76,
+            77
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$135 → $161",
+              "label": "SpaceX IPO price and first-day close, 12 June 2026",
+              "src": [
+                76
+              ]
+            },
+            {
+              "value": "~$1.04 trillion",
+              "label": "Musk's net worth on 5 October 2026 (Bloomberg Billionaires Index)",
+              "src": [
+                70
+              ]
+            },
+            {
+              "value": ">98%",
+              "label": "Share of his wealth tied to SpaceX and Tesla stock",
+              "src": [
+                70
+              ]
+            },
+            {
+              "value": "$276M+",
+              "label": "Musk's gifts to Republican groups since July 2026",
+              "src": [
+                74
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The trillion-dollar rollercoaster"
+        },
+        {
+          "t": "p",
+          "text": "The IPO made Musk the world's first trillionaire on Bloomberg's index. It did not last. As SpaceX shares slid on worries about the valuation, his fortune fell by more than ==$600 billion== from its peak by late July. By 5 October 2026, a rebound in SpaceX and Tesla shares had lifted him back to about $1.04 trillion.",
+          "src": [
+            70
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Lost $600 billion in weeks. Paper wealth is not cash."
+        },
+        {
+          "t": "p",
+          "text": "At Tesla, shareholders in November 2025 approved a new pay plan worth up to nearly $1 trillion in shares over ten years, with more than 75 percent support. To get all of it, Musk must lift Tesla's market value to $8.5 trillion, deliver 20 million vehicles, put one million robotaxis into operation and sell one million robots. Norway's sovereign wealth fund voted against it.",
+          "src": [
+            67
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Other shareholder meetings are like snooze fests, but ours are bangers.",
+          "who": "Elon Musk, Tesla annual meeting, November 2025",
+          "src": [
+            67
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The current bets"
+        },
+        {
+          "t": "p",
+          "text": "Musk's biggest public idea right now is to bring his companies closer together. On 20 October 2026 he said the boards of SpaceX and Tesla had each formed special committees of independent directors to study a merger. He said he favoured combining them, citing shared work on AI software, chips and robotics, but that a deal was not certain.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Because he is a conflicted party, Musk said he is not on either committee and cannot join the talks. He described the process as “an odd Kabuki dance, where groups of people are talking and I can't be in the conversation.” Any merger would need approval from both sets of shareholders.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In space, the target has shifted. In February 2026 Musk said SpaceX would prioritise a self-growing city on the Moon, which he said could be built within about a decade, and would return to Mars work in five to seven years. “The overriding priority is securing the future of civilization and the Moon is faster,” he wrote.",
+          "src": [
+            73
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Mars in 2026 became the Moon first. Timelines bend; missions stay."
+        },
+        {
+          "t": "p",
+          "text": "SpaceX's business is also turning into an AI business. Its most recent quarterly revenue more than doubled, helped by renting computing power to other AI companies, according to NBC News. Musk's rockets, satellites and data centres now sit inside one listed company that ordinary investors can buy.",
+          "src": [
+            71
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Money, politics and promises"
+        },
+        {
+          "t": "p",
+          "text": "In May 2025 Musk said of political spending, “I think I've done enough.” By October 2026 he had become the biggest known donor in the US midterm elections, giving more than $276 million to Republican groups since July, including $158 million to the main super PAC backing Republican Senate candidates. He and Trump have reconciled, and Trump presented him with the National Medal of Science in October 2026.",
+          "src": [
+            74
+          ]
+        },
+        {
+          "t": "p",
+          "text": "On 19 October 2026 Musk announced on X that in 2027 he would give one of his own SpaceX shares to every child in America, calling it the first of many such gifts. At mid-October prices, coverage estimated the pledge at roughly ==$10.5 billion== for about 72 million children. He had not yet explained how the shares would be delivered.",
+          "src": [
+            72
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Big promise, no details yet. Watch what actually happens in 2027."
+        },
+        {
+          "t": "p",
+          "text": "So where does that leave him? Richer than anyone in history on paper, running the most valuable rocket company and a carmaker whose sales have been falling, and deeply divisive at home and abroad. __The habits that built the empire, speed, certainty and the megaphone, are still the habits that create his biggest risks.__",
+          "src": [
+            70,
+            66,
+            45
+          ]
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Delete before you automate.",
+      "text": "In 2018 Musk tried to make robots do almost everything at Tesla's Fremont factory, and it nearly sank the Model 3. He later called it his big mistake and made deletion step two of his five-step algorithm. Before you buy a tool or hire a person for a task, ask whether the task should exist at all."
+    },
+    {
+      "title": "Price things from their raw materials.",
+      "text": "Everyone said batteries cost $600 per kilowatt-hour. Musk added up the metals and got about $80. When someone tells you what something costs, work out what it is made of before you believe them."
+    },
+    {
+      "title": "Try the important thing, even if you might fail.",
+      "text": "Musk told 60 Minutes he thought Tesla would most likely fail, and started it anyway. If the goal really matters, a low chance of success is not a reason to skip it. It is a reason to plan for survival."
+    },
+    {
+      "title": "Keep a survival fund for the worst week.",
+      "text": "In December 2008 Musk had put almost everything he had into Tesla and SpaceX, and both nearly died in the same month. Only a NASA contract and a last-minute investor round saved them. Do not bet every rupee you have; keep enough to live through your company's worst month."
+    },
+    {
+      "title": "Walk out of useless meetings.",
+      "text": "Musk's 2018 email told Tesla staff it was not rude to leave a meeting, but rude to waste someone's time. Keep meetings small and rare, and drop off as soon as you are not adding value. Your hours are your startup's scarcest resource."
+    },
+    {
+      "title": "Hire for proof, not paper.",
+      "text": "Musk asks candidates to explain the hardest problem they solved, then digs into the details. Degrees matter less to him than evidence of real ability. Ask the same of yourself: can you explain your best work five levels deep?"
+    },
+    {
+      "title": "Write your plan so a teenager gets it.",
+      "text": "Tesla's 2006 Master Plan fit into four short lines: sports car, cheaper car, even cheaper car, clean power. Clear writing brings in staff, customers and investors. If you cannot explain your plan in thirty seconds, you do not understand it yet."
+    },
+    {
+      "title": "Treat every public post like a legal filing.",
+      "text": "One 2018 tweet, “funding secured”, cost Musk and Tesla $40 million in SEC penalties and his chairman's seat. Anything you post about money, users or deals can be used against you. Write it as if a regulator will read it, because one might."
+    },
+    {
+      "title": "Never sign before you check.",
+      "text": "Musk agreed to buy Twitter for $44 billion, then spent months in court trying to escape the deal. By 2025, X was valued at $33 billion. Do your homework before you commit, because walking away costs far more than walking in."
+    },
+    {
+      "title": "Do not punch down.",
+      "text": "Musk won the defamation case brought by cave rescuer Vernon Unsworth, but his insult is still quoted years later. Winning in court is not the same as winning respect. Do not attack individuals online, however angry you are."
+    },
+    {
+      "title": "Know who you are really competing with.",
+      "text": "In 2014 Musk opened Tesla's patents because the real rival was the petrol car, not other electric carmakers. Sometimes the old habit is your true competitor. Spend energy growing the market, not guarding the door."
+    },
+    {
+      "title": "Your brand is your company's brand.",
+      "text": "Tesla spent years with almost no ad budget because Musk himself was the marketing. When his politics turned off buyers, Tesla's European sales fell by about half in some months of 2025. Every fight you pick in public, your company fights with you."
+    },
+    {
+      "title": "Rest is part of the job.",
+      "text": "Musk spent his 47th birthday entirely at work and told the New York Times his year had been excruciating. He also nearly died of malaria in his twenties. Push hard in surges, but build recovery in, because a broken founder cannot lead."
+    },
+    {
+      "title": "Build in safety before you ship.",
+      "text": "Grok's antisemitic posts in 2025 and its undressing images in 2026 brought apologies, bans and investigations. A Miami jury also blamed Tesla partly for a fatal Autopilot crash. When your product can hurt people, safety is part of the product, not a patch you add later."
+    },
+    {
+      "title": "Find your Shotwell.",
+      "text": "Gwynne Shotwell has run SpaceX's business next to Musk for more than twenty years, turning his wild targets into real plans. Visionary founders need an operator who can say “let's find a way” instead of “impossible”, and who keeps the ship steady. Look for that partner early."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fortune: Elon Musk's 'algorithm' management philosophy, from Isaacson's biography (Sept 2023)",
+      "url": "https://fortune.com/2023/09/13/elon-musk-management-manufacturing-philosophy-the-algorithm/"
+    },
+    {
+      "label": "RNZ / BBC: Elon Musk: Just walk out of bad meetings (Apr 2018)",
+      "url": "https://www.rnz.co.nz/news/business/355486/elon-musk-just-walk-out-of-bad-meetings"
+    },
+    {
+      "label": "Fox Business: Elon Musk's productivity tips include walking out of meetings (Apr 2018)",
+      "url": "https://foxbusiness.com/business-leaders/elon-musks-productivity-tips"
+    },
+    {
+      "label": "Al Jazeera: Musk to Tesla employees: Return to office or get out (June 2022)",
+      "url": "https://www.aljazeera.com/amp/economy/2022/6/1/musk-to-tesla-employees-return-to-office-or-get-out"
+    },
+    {
+      "label": "ABC News / GMA: Commit to 'hardcore' or leave, Musk tells Twitter employees (Nov 2022)",
+      "url": "https://www.goodmorningamerica.com/news/story/commit-hardcore-leave-elon-musk-tells-twitter-employees-93411363"
+    },
+    {
+      "label": "Bloomberg: Musk tells Twitter staff to accept 'hardcore' culture or leave (Nov 2022)",
+      "url": "https://www.bloomberg.com/news/articles/2022-11-16/musk-tells-staff-accept-hardcore-twitter-or-leave-wapo-says"
+    },
+    {
+      "label": "CNN (via KTVZ): Elon Musk says he's cut about 80% of Twitter's staff (Apr 2023)",
+      "url": "https://ktvz.com/lifestyle/technology/cnn-social-media-technology/2023/04/12/elon-musk-says-hes-cut-about-80-of-twitters-staff/"
+    },
+    {
+      "label": "CBS News: Musk tells BBC he sleeps on a couch at Twitter HQ (Apr 2023)",
+      "url": "https://www.cbsnews.com/amp/sanfrancisco/news/elon-musk-bbc-news-twitter-dog-ceo-couch"
+    },
+    {
+      "label": "Axios: Musk admits 'excruciating' year, New York Times interview (Aug 2018)",
+      "url": "https://www.axios.com/2018/08/17/elon-musk-tesla-private-new-york-times-interview"
+    },
+    {
+      "label": "Engadget: Elon Musk says 'the worst is over' for Tesla (Aug 2018)",
+      "url": "https://www.engadget.com/2018/08/17/elon-musk-interview-excruciating-year/"
+    },
+    {
+      "label": "CNBC: Why Elon Musk says taking vacations will kill you (Nov 2019)",
+      "url": "https://www.cnbc.com/2019/11/02/why-elon-musk-says-taking-vacations-will-kill-you.html"
+    },
+    {
+      "label": "Business Insider India: Musk caught malaria on safari and was hours from death, book says (Sept 2023)",
+      "url": "https://businessinsider.in/tech/news/elon-musk-once-caught-malaria-on-safari-and-was-hours-from-death-book-says/amp_articleshow/103639468.cms"
+    },
+    {
+      "label": "CNBC: How to get hired by Elon Musk (Feb 2017)",
+      "url": "https://www.cnbc.com/2017/02/13/how-to-get-hired-by-elon-musk-job-interview.html"
+    },
+    {
+      "label": "Fortune: The job interview question Elon Musk asks (Feb 2017)",
+      "url": "https://fortune.com/2017/02/13/elong-musk-job-interview-question"
+    },
+    {
+      "label": "CNBC: Elon Musk is recruiting for Tesla, education is irrelevant (Feb 2020)",
+      "url": "https://www.cnbc.com/2020/02/03/elon-musk-is-recruiting-for-tesla-education-is-irrelevant.html"
+    },
+    {
+      "label": "Inverse: Why Gwynne Shotwell 'loves' working for Elon Musk (TED 2018)",
+      "url": "https://www.inverse.com/article/44931-spacex-gwynne-shotwell-loves-working-for-elon-musk"
+    },
+    {
+      "label": "The New York Times (via The Nightly): The steady hand at SpaceX is not Elon Musk (June 2026)",
+      "url": "https://thenightly.com.au/from/the-new-york-times/the-new-york-times-the-steady-hand-at-spacex-is-not-elon-musk-c-22396084"
+    },
+    {
+      "label": "TheWrap: Elon Musk's dark streak can scare staffers, his biographer says (June 2023)",
+      "url": "https://www.thewrap.com/elon-musk-dark-streak-scare-staffers-biographer/"
+    },
+    {
+      "label": "CNBC: SpaceX charged with illegally firing workers who spoke critically of Elon Musk (Jan 2024)",
+      "url": "https://www.cnbc.com/2024/01/04/spacex-charged-with-illegally-firing-workers-critical-of-elon-musk.html"
+    },
+    {
+      "label": "eNCA: SpaceX sues to stop US hearing over fired workers (2024)",
+      "url": "https://www.enca.com/business/spacex-sues-stop-us-hearing-over-fired-workers"
+    },
+    {
+      "label": "Scripps News: Federal workers must report weekly tasks or face resignation, Musk says (Feb 2025)",
+      "url": "https://www.scrippsnews.com/politics/president-trumps-first-100-days/federal-workers-must-report-weekly-tasks-or-face-resignation-elon-musk-says"
+    },
+    {
+      "label": "CNBC (via NBC Chicago): Elon Musk calls first principles 'a powerful, powerful way of thinking' (Jan 2021)",
+      "url": "https://www.nbcchicago.com/news/business/money-report/elon-musk-calls-this-a-powerful-powerful-way-of-thinking-but-is-hard-to-do-heres-how-it-works/2414670/"
+    },
+    {
+      "label": "CBS News 60 Minutes: Fast Cars and Rocket Ships, transcript (Mar 2014)",
+      "url": "https://www.cbsnews.com/news/tesla-and-spacex-elon-musks-industrial-empire/"
+    },
+    {
+      "label": "HuffPost: SXSW 2013, Musk on Mars ('die on Mars, just not on impact') (Mar 2013)",
+      "url": "https://www.huffingtonpost.ca/2013/03/11/sxsw-interactive-2013-elon-musk-mars-spacex_n_2855562.html"
+    },
+    {
+      "label": "Tesla blog: All Our Patent Are Belong To You, by Elon Musk (June 2014)",
+      "url": "https://www.tesla.com/blog/all-our-patent-are-belong-you"
+    },
+    {
+      "label": "Engadget: Elon Musk 'clears a path' for electric cars by opening Tesla's patents (June 2014)",
+      "url": "https://www.engadget.com/2014/06/12/tesla-patents-open-source/"
+    },
+    {
+      "label": "Tesla blog: The Secret Tesla Motors Master Plan (just between you and me), by Elon Musk (Aug 2006)",
+      "url": "https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me"
+    },
+    {
+      "label": "NBC News / Space.com: Private space pioneer Elon Musk counters Neil Armstrong on 60 Minutes (Mar 2012)",
+      "url": "https://www.nbcnews.com/news/amp/wbna46762976"
+    },
+    {
+      "label": "Space.com: SpaceX CEO Elon Musk 60 Minutes interview (Mar 2012)",
+      "url": "https://www.space.com/14936-spacex-ceo-elon-musk-60-minutes-interview.html"
+    },
+    {
+      "label": "Marie Claire: Justine Musk, 'I Was a Starter Wife' (2010)",
+      "url": "https://www.marieclaire.com/sex-love/a5380/millionaire-starter-wife/"
+    },
+    {
+      "label": "Yahoo Finance: Elon Musk's ex-wife pushes back on his account of their first child's death",
+      "url": "https://money.yahoo.com/elon-musk-ex-wife-pushes-052845910.html"
+    },
+    {
+      "label": "Global News: Elon Musk's 14th child, Shivon Zilis announces Seldon Lycurgus (Feb 2025)",
+      "url": "https://globalnews.ca/news/11062910/elon-musk-14th-child-shivon-zilis-seldon-lycurgus"
+    },
+    {
+      "label": "Tribune India: Musk welcomes child as Shivon Zilis confirms birth of their fourth (Mar 2025)",
+      "url": "https://www.tribuneindia.com/news/trending/elon-musk-welcomes-14th-child-as-shivon-zilis-confirms-birth-of-their-4th"
+    },
+    {
+      "label": "NZ Herald: Elon Musk said his trans child was dead. She's calling him out (July 2024)",
+      "url": "https://nzherald.co.nz/lifestyle/elon-musk-said-his-trans-child-was-dead-shes-calling-him-out/E2QI754PURDFPBTS6VZ7O5FMXI"
+    },
+    {
+      "label": "Rolling Stone: Elon Musk's daughter fires back (July 2024)",
+      "url": "https://ca.rollingstone.com/culture/elon-musks-daughter-fires-back-after-he-says-she-was-killed-by-woke-mind-virus"
+    },
+    {
+      "label": "RNZ: Elon Musk reveals he has Asperger's on SNL (May 2021)",
+      "url": "https://www.rnz.co.nz/news/world/442210/elon-musk-reveals-he-has-asperger-s"
+    },
+    {
+      "label": "Gulf News / Reuters: Dogecoin loses a third of its price after Musk calls it a 'hustle' on SNL (May 2021)",
+      "url": "https://gulfnews.com/your-money/cryptocurrency/dogecoin-loses-third-of-price-after-elon-musk-calls-it-a-hustle-on-snl-1.1620583011460"
+    },
+    {
+      "label": "Yahoo News (citing NYT): Elon Musk's charity broke tax laws as donations came up short (2024)",
+      "url": "https://news.yahoo.com/tech/elon-musk-charity-broke-tax-154821102.html"
+    },
+    {
+      "label": "The New Republic: Musk Foundation fell short of giving rules in 2023 (Dec 2024)",
+      "url": "https://newrepublic.com/post/189322/elon-musk-charity-law"
+    },
+    {
+      "label": "Business Insider: Musk tweets he will sell 'almost all' possessions; Bel Air homes listed (May 2020)",
+      "url": "https://www.businessinsider.nl/elon-musk-bel-air-mansions-40-million-2020-5"
+    },
+    {
+      "label": "The Real Deal: Elon Musk no longer owns any homes in California (Mar 2022)",
+      "url": "https://therealdeal.com/2022/03/12/elon-musk-no-longer-owns-any-homes-in-california/"
+    },
+    {
+      "label": "Yahoo News: Elon Musk now lives in a $50,000 house in Texas (2021)",
+      "url": "https://news.yahoo.com/elon-musk-now-lives-50-164357483.html"
+    },
+    {
+      "label": "Inverse: The Elon Musk and Peter Thiel McLaren F1 crash story",
+      "url": "https://inverse.com/article/26369-elon-musk-peter-thiel-story-mclaren-f1-paypal-tesla"
+    },
+    {
+      "label": "Business Insider India: How Elon Musk's car collection has evolved, from the McLaren F1 to the Bond Lotus",
+      "url": "https://businessinsider.in/tech/news/how-elon-muskaposs-car-collection-has-evolved-over-the-years-from-the-million-dollar-mclaren-f1-he-destroyed-to-a-james-bond-movie-prop-lotus/amp_slidelist/77028183.cms"
+    },
+    {
+      "label": "Marketing Week: Tesla to start advertising in major reversal for brand (May 2023)",
+      "url": "https://www.marketingweek.com/tesla-to-adopt-advertising-strategy-for-the-first-time-in-its-history/"
+    },
+    {
+      "label": "Pew Research Center: How Americans view Elon Musk and Mark Zuckerberg (Feb 2025)",
+      "url": "https://www.pewresearch.org/short-reads/2025/02/19/how-americans-view-elon-musk-and-mark-zuckerberg/"
+    },
+    {
+      "label": "AP (via WECT): Tesla's monthly sales in Europe plunge by half (May 2025)",
+      "url": "https://www.wect.com/2025/05/27/teslas-monthly-sales-europe-plunge-by-half-signaling-backlash-against-musk-runs-deep"
+    },
+    {
+      "label": "Deccan Herald: Tesla to be in India soon, says Elon Musk after meeting PM Modi (June 2023)",
+      "url": "https://www.deccanherald.com/amp/national/tesla-to-be-in-india-soon-says-elon-musk-after-meeting-pm-modi-1229734.html"
+    },
+    {
+      "label": "Business Today: Elon Musk postpones India visit (Apr 2024)",
+      "url": "https://businesstoday.in/latest/story/tesla-ceo-elon-musk-postpones-india-visit-report-426215-2024-04-20"
+    },
+    {
+      "label": "Al Jazeera: Tesla launches Model Y in India with elevated price tag amid high tariffs (July 2025)",
+      "url": "https://www.aljazeera.com/economy/2025/7/15/tesla-launches-model-y-in-india-with-elevated-price-tag-amid-high-tariffs"
+    },
+    {
+      "label": "Tribune India / ANI: Starlink gets licence to offer satellite internet services in India (June 2025)",
+      "url": "https://www.tribuneindia.com/news/business/elon-musks-starlink-gets-license-to-offer-satellite-internet-services-in-india/amp"
+    },
+    {
+      "label": "Business Today: Musk reveals partner Shivon Zilis is half-Indian, son named after S. Chandrasekhar (Dec 2025)",
+      "url": "https://www.businesstoday.in/technology/news/story/elon-musk-reveals-partner-shivon-zilis-is-half-indian-says-their-son-named-after-nobel-laureate-subrahmanyan-chandrasekhar-504321-2025-12-01"
+    },
+    {
+      "label": "US SEC press release 2018-226: Elon Musk settles SEC fraud charges; Tesla charged and resolves securities law charge (Sept 2018)",
+      "url": "https://www.sec.gov/news/press-release/2018-226"
+    },
+    {
+      "label": "Gulf News / Reuters: Tesla's Elon Musk found not liable in trial over 2018 'funding secured' tweet (Feb 2023)",
+      "url": "https://gulfnews.com/world/americas/teslas-elon-musk-found-not-liable-in-trial-over-2018-funding-secured-tweet-1.1675478148744"
+    },
+    {
+      "label": "CNBC: Unsworth vs Musk 'pedo guy' defamation trial verdict (Dec 2019)",
+      "url": "https://www.cnbc.com/2019/12/06/unsworth-vs-musk-pedo-guy-defamation-trial-verdict.html"
+    },
+    {
+      "label": "Reuters: Elon Musk terminating Twitter deal (July 2022)",
+      "url": "https://www.reuters.com/technology/elon-musk-terminating-twitter-deal-2022-07-08/"
+    },
+    {
+      "label": "Reuters: Elon Musk's Twitter ownership starts with firings, uncertainty (Oct 2022)",
+      "url": "https://www.reuters.com/markets/deals/elon-musk-completes-44-bln-acquisition-twitter-2022-10-28/"
+    },
+    {
+      "label": "The Star: Elon Musk's xAI merges with X (Mar 2025)",
+      "url": "https://thestar.com.my/news/world/2025/03/29/elon-musk039s-xai-merges-with-x"
+    },
+    {
+      "label": "CPA Practice Advisor / Bloomberg: US judge allows SEC-Musk deal despite 'significant misgivings' (July 2026)",
+      "url": "https://www.cpapracticeadvisor.com/2026/07/09/u-s-judge-allows-sec-musk-deal-despite-significant-misgivings/186422/"
+    },
+    {
+      "label": "RTHK: Tesla faces US$243mn bill over fatal 2019 crash (Aug 2025)",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1816359-20250802.htm"
+    },
+    {
+      "label": "Al Jazeera: 'Not really leaving': Trump bids goodbye to Elon Musk at White House event (May 2025)",
+      "url": "https://www.aljazeera.com/news/2025/5/30/not-really-leaving-trump-bids-goodbye-to-elon-musk-at-white-house-event"
+    },
+    {
+      "label": "Kyiv Independent: Musk launches 'America Party' following public feud with Trump (July 2025)",
+      "url": "https://kyivindependent.com/musk-launches-america-party-following-public-feud-with-trump-06-2025/"
+    },
+    {
+      "label": "Global News: Elon Musk responds to Nazi salute accusations after inauguration gesture (Jan 2025)",
+      "url": "https://globalnews.ca/news/10970070/elon-musk-nazi-salute-donald-trump-inauguration-response"
+    },
+    {
+      "label": "NBC New York: AI chatbot Grok issues apology for antisemitic posts (July 2025)",
+      "url": "https://www.nbcnewyork.com/news/national-international/ai-chatbot-grok-issues-apology-for-antisemitic-posts/"
+    },
+    {
+      "label": "The Star / Reuters: Musk dealt blow over Grok deepfakes, but regulatory fight far from over (Jan 2026)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/01/16/analysis-musk-dealt-blow-over-grok-deepfakes-but-regulatory-fight-far-from-over"
+    },
+    {
+      "label": "Claims Journal / Bloomberg: Musk's X probed by UK over Grok's sexualized images (Jan 2026)",
+      "url": "https://amp.claimsjournal.com/news/national/2026/01/12/335041.htm"
+    },
+    {
+      "label": "The Star: Tesla overtaken by BYD in global EV sales in 2025 (Jan 2026)",
+      "url": "https://www.thestar.com.my/news/world/2026/01/03/tesla-overtaken-by-byd-in-global-ev-sales-in-2025"
+    },
+    {
+      "label": "Al Jazeera: Tesla shareholders approve $878bn pay plan for Elon Musk (Nov 2025)",
+      "url": "https://www.aljazeera.com/economy/2025/11/6/tesla-shareholders-approve-878bn-pay-plan-for-elon-musk"
+    },
+    {
+      "label": "Al Jazeera: Musk wins US appeal to restore 2018 Tesla pay package (Dec 2025)",
+      "url": "https://www.aljazeera.com/economy/2025/12/19/musk-wins-us-appeal-to-restore-2018-tesla-pay-package"
+    },
+    {
+      "label": "SEC EDGAR: Space Exploration Technologies Corp. Form S-1 registration statement (May 2026)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
+    },
+    {
+      "label": "China Daily HK / Bloomberg: Musk is a trillionaire again as SpaceX claws back post-IPO slump (Oct 2026)",
+      "url": "https://www.chinadailyhk.com/article/640617"
+    },
+    {
+      "label": "NBC News: Elon Musk says SpaceX and Tesla have formed special committees to discuss merger idea (Oct 2026)",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-spacex-tesla-merger-rcna604685"
+    },
+    {
+      "label": "UNI India: Elon Musk vows to give one of his SpaceX shares to every child in US in 2027 (Oct 2026)",
+      "url": "https://www.uniindia.com/international/elon-musk-vows-to-give-one-of-his-spacex-shares-to-every-child-in-us-in-2027/219628"
+    },
+    {
+      "label": "Scientific American: Elon Musk says SpaceX will prioritize a city on the Moon instead of Mars (Feb 2026)",
+      "url": "https://www.scientificamerican.com/article/elon-musk-says-spacex-to-prioritize-landing-on-the-moon-instead-of-mars-city/"
+    },
+    {
+      "label": "AP (via KSAT): Elon Musk quietly becomes biggest known donor in midterm contests (Oct 2026)",
+      "url": "https://www.ksat.com/news/politics/2026/10/12/elon-musk-quietly-becomes-biggest-known-donor-in-midterm-contests-as-he-tries-to-save-republicans/"
+    },
+    {
+      "label": "ABC News / GMA: Trump giveaways: Musk spent $270M on the election (Dec 2024)",
+      "url": "https://www.goodmorningamerica.com/news/story/trump-giveaways-musk-spent-270m-election-116529486"
+    },
+    {
+      "label": "CNBC: SpaceX IPO takeaways: SPCX closes at $161, jumping 19% after record debut (June 2026)",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html"
+    },
+    {
+      "label": "Reuters: SpaceX accelerates IPO timeline, targets June 12 listing on Nasdaq (May 2026)",
+      "url": "https://www.reuters.com/world/spacex-accelerates-ipo-timeline-targets-june-11-pricing-nasdaq-2026-05-15/"
+    }
+  ],
+  "factCheck": {
+    "method": "Written by a research agent on 2026-10-29. Every factual sentence was checked against the cited source's text via web-search extracts and direct page fetches where sites allowed it. Several publishers (CNBC, Tesla, BBC, Guardian, Reuters) blocked direct fetching, so those claims rest on search-result extracts and syndicated copies of the same wire reports (AP, Reuters and Bloomberg via regional outlets). Quotes were kept only where a fetched page or extract gave the exact wording. Wikipedia was used only as a lead to find primary or press references (SpaceX S-1, Reuters and CNBC IPO coverage), never as a cited source. The shared web-search budget ran out before every lead could be chased; unverified items were dropped rather than included.",
+    "disputed": [
+      {
+        "claim": "Dogecoin's fall during Musk's SNL appearance (May 2021)",
+        "note": "Reuters first reported a low of $0.416 on Binance, down 36% from about $0.65; a later version said $0.47, down 28%. NBC put the drop at 29.5%. The text says 'about a third' and the facts box uses Reuters' 36%."
+      },
+      {
+        "claim": "Amount raised in SpaceX's June 2026 IPO",
+        "note": "CNBC reported about $75 billion; Wikipedia's article lead cites the BBC for $86 billion. We left the dollar raise out and give only the $135 price and $161 first-day close."
+      },
+      {
+        "claim": "Age of Musk's first son, Nevada, at death (2002)",
+        "note": "Most reports, based on Justine Musk's 2010 Marie Claire essay, say about ten weeks; a few outlets say six weeks. Musk's account in Isaacson's biography that the baby died in his arms has been publicly disputed by Justine Musk. We say 'about ten weeks' and repeat neither account of the moment of death."
+      },
+      {
+        "claim": "Number of Musk's children",
+        "note": "Many outlets counted 14 known children after Shivon Zilis announced their fourth child in February 2025; others (e.g. Tribune India) say 'at least 12' because not every reported birth has been confirmed by Musk. We give both framings."
+      },
+      {
+        "claim": "Musk's Mars quote at SXSW 2013",
+        "note": "Reported both as 'I'd like to die on Mars, just not on impact' and 'I would like to die on Mars, just not on impact.' We quote only the uncontested fragment 'just not on impact'."
+      },
+      {
+        "claim": "Year of Musk's malaria",
+        "note": "He caught it on a trip in late 2000 and fell seriously ill in January 2001; the 2018 NYT interview says 2001. We say 'around the turn of 2001' and 'turn of the millennium'."
+      },
+      {
+        "claim": "Size of the NASA contract that rescued SpaceX in December 2008",
+        "note": "Musk told 60 Minutes it was a '$1.5 billion contract'; the Commercial Resupply Services award is widely reported as about $1.6 billion. We attribute the $1.5 billion figure to Musk's recollection."
+      },
+      {
+        "claim": "DOGE savings",
+        "note": "DOGE claimed about $175 billion when Musk left in May 2025 (some reports cite $160 billion); a Reuters analysis of Treasury data found about $19 billion of cuts; the BBC put itemised savings near $61 billion. We give the DOGE claim and the Reuters figure, both via Al Jazeera."
+      },
+      {
+        "claim": "Twitter headcount before the 2022 cuts",
+        "note": "Musk told the BBC 'under 8,000'; other outlets used about 7,500. We say 'just under 8,000', cut to about 1,500."
+      },
+      {
+        "claim": "Value of Tesla's November 2025 pay plan",
+        "note": "Described as 'up to $878bn' by Al Jazeera (net of payments Musk must make) and as a '$1 trillion' package by others. We say 'worth up to nearly $1 trillion in shares'."
+      },
+      {
+        "claim": "Musk's inauguration gesture (20 January 2025)",
+        "note": "Some historians and critics called it a Nazi salute; the Anti-Defamation League said it was an awkward gesture in a moment of enthusiasm. Musk dismissed the criticism; outlets disagree on whether he explicitly denied it. We report the competing views without a verdict."
+      },
+      {
+        "claim": "Causes of Tesla's 2025 sales decline",
+        "note": "AP and Reuters link part of the European slump to backlash against Musk's politics, but also cite an ageing line-up, a Model Y changeover, Chinese competition and the end of US tax credits. Causation is interpretive; we present it as analysts' explanations."
+      },
+      {
+        "claim": "Tesla Autopilot verdict (Aug 2025) post-trial status",
+        "note": "One aggregator reported that the trial judge refused to overturn the verdict in early 2026; we could not confirm this from an established outlet, so the text says only that Tesla called the verdict wrong and said it would appeal."
+      }
+    ]
+  }
+}

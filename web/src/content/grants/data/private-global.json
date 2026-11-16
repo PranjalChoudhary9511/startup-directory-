@@ -1,0 +1,3769 @@
+[
+  {
+    "slug": "y-combinator-standard-deal",
+    "name": "Y Combinator (standard deal)",
+    "shortName": "YC",
+    "provider": "Y Combinator, San Francisco",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "equity"
+    ],
+    "maxAmountINR": 42500000,
+    "amountText": "US$500,000 (about ₹4.25 crore): $125,000 for a fixed 7% plus $375,000 on an uncapped MFN SAFE. Converted at about ₹85 per US dollar.",
+    "equity": "7% for $125k + uncapped MFN SAFE for $375k (converts at your next priced round or lowest-cap SAFE)",
+    "duration": "3-month programme in San Francisco; YC stays a shareholder for life",
+    "timeToMoney": "Fast: YC says it invests as soon as a company is accepted. Applications to decision is roughly 4–6 weeks for on-time applicants.",
+    "status": "open",
+    "deadline": "Winter 2027 batch: 2 Nov 2026, 8 pm PT (about 9:30 am IST on 3 Nov). Early Decision open for later 2027 batches. Four batches a year.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "The world's best-known startup accelerator: it invests US$500,000 in your company in exchange for equity and runs a 3-month programme in San Francisco.",
+    "what": "YC is not a grant. It buys a slice of your company. Every accepted company gets $500,000: $125,000 for a fixed 7% stake and $375,000 on an uncapped SAFE that converts later on the best terms you give any other early investor. In return you get three months of intense coaching in San Francisco, Demo Day in front of hundreds of investors, and the YC alumni network.",
+    "who": [
+      "Founders of any nationality, including Indian founders, with an idea, prototype or early product",
+      "Teams willing to spend the batch in person in San Francisco",
+      "Solo founders can apply, though most accepted companies have 2–3 co-founders",
+      "No minimum revenue, age or degree requirement is listed on the apply page"
+    ],
+    "notFor": [
+      "Anyone looking for free money: this is an equity investment",
+      "Founders who cannot travel to the US for three months (visa delays are your problem to solve)",
+      "Service agencies or consulting businesses without a scalable product",
+      "Companies that do not want a US investor on their cap table (YC typically expects a US parent company, often a Delaware C-Corp)"
+    ],
+    "why": [
+      "YC's name opens doors with top US investors and early customers",
+      "The money arrives quickly and is not tied to milestones",
+      "Demo Day can lead to a seed round within weeks",
+      "The alumni network becomes your first customers and advisors"
+    ],
+    "howItWorks": "You apply online with a short written application and a one-minute founder video. YC partners read applications and invite promising teams to a short video interview, usually in November–December for the winter batch. Decisions usually come the same day as the interview, and YC says it invests as soon as you accept. During the batch you meet partners regularly, set weekly goals and finish with Demo Day.",
+    "steps": [
+      {
+        "title": "Pick a batch",
+        "detail": "YC runs four batches a year (winter, spring, summer, fall). Apply before the deadline for a guaranteed decision date, or use Early Decision for a later batch."
+      },
+      {
+        "title": "Write the application",
+        "detail": "Answer short questions about what you are building, who it is for, progress so far and why your team. Plain, specific answers beat buzzwords."
+      },
+      {
+        "title": "Record the founder video",
+        "detail": "A one-minute video of all founders talking. No editing tricks needed."
+      },
+      {
+        "title": "Interview",
+        "detail": "If shortlisted, a 10-minute video call with YC partners. Know your numbers and users cold."
+      },
+      {
+        "title": "Decision and paperwork",
+        "detail": "Decisions usually arrive the same day. Accepting means signing the SAFEs; YC may ask you to set up a US company structure."
+      },
+      {
+        "title": "Join the batch",
+        "detail": "Move to San Francisco for three months, build, talk to users, and pitch at Demo Day."
+      }
+    ],
+    "documents": [
+      "Online application answers and one-minute founder video",
+      "Product demo link or screenshots, if you have one",
+      "Key metrics: users, revenue, growth rate (if any)",
+      "Co-founder equity split and any earlier investments (cap table)",
+      "Passport and US visa plan for the batch"
+    ],
+    "benefits": [
+      "US$500,000 investment with no milestones",
+      "Three months of partner office hours and peer support",
+      "Demo Day access to hundreds of investors",
+      "Large alumni network and perks from partner companies"
+    ],
+    "pros": [
+      "Very fast, simple, standard terms everyone understands",
+      "Biggest brand and network in startup investing",
+      "No fees charged to companies",
+      "Strong signal that helps the next fundraise"
+    ],
+    "cons": [
+      "You give up a fixed 7% plus more when the $375k SAFE converts",
+      "Extremely competitive: YC does not publish an acceptance rate, but only a small share of applicants get in",
+      "US-centric: in-person batch in San Francisco, US visa and company-structure hassle for Indian founders",
+      "The pace is intense and not every company raises after Demo Day"
+    ],
+    "goodFitIf": [
+      "You want to build a large, venture-scale global company",
+      "You can spend three months in San Francisco",
+      "You are comfortable giving up equity for speed and network"
+    ],
+    "skipIf": [
+      "You want a non-dilutive grant",
+      "Your business is a local service or lifestyle business",
+      "You cannot travel to the US in the next few months",
+      "You have not yet talked to real users about the problem"
+    ],
+    "insiderTips": [
+      "Apply before the deadline: YC says late applications are considered but timing is not guaranteed",
+      "Show progress, not plans: real users, a working demo or weekly growth numbers carry the most weight",
+      "Re-applying is normal; show what changed since your last application",
+      "Model the dilution: 7% now plus the MFN SAFE later can total well above 7% depending on your next round"
+    ],
+    "performance": {
+      "summary": "YC has run since 2005 and now runs four batches a year. It does not publish an official India-specific count or an acceptance rate on its deal or apply pages, so we show only the terms it publishes.",
+      "metrics": [
+        {
+          "label": "Standard investment per company",
+          "value": "US$500,000",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "YC – The YC Deal",
+            "url": "https://www.ycombinator.com/deal"
+          }
+        },
+        {
+          "label": "Batches per year",
+          "value": "4 (winter, spring, summer, fall)",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "YC – About",
+            "url": "https://www.ycombinator.com/about"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.ycombinator.com/apply",
+    "officialUrl": "https://www.ycombinator.com/deal",
+    "sources": [
+      {
+        "label": "YC – The YC Deal",
+        "url": "https://www.ycombinator.com/deal"
+      },
+      {
+        "label": "YC – Apply",
+        "url": "https://www.ycombinator.com/apply"
+      },
+      {
+        "label": "YC – About",
+        "url": "https://www.ycombinator.com/about"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Deal terms and the Winter 2027 deadline were read on YC's own pages. YC does not publish acceptance rates or the number of Indian companies funded, so none are shown. The need for a US parent company is common practice but depends on your situation; confirm with YC after acceptance."
+  },
+  {
+    "slug": "google-for-startups-accelerator-india",
+    "name": "Google for Startups Accelerator: India",
+    "shortName": "GFSA India",
+    "provider": "Google",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "incubation",
+      "credits"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No cash. Equity-free mentoring and technical support; participants can apply for Google Cloud credits (subject to approval).",
+    "equity": "None (Google says it is equity-free)",
+    "duration": "3 months (2026 class ran roughly July–September 2026), hybrid format",
+    "timeToMoney": "No cash. Selection runs about 2–3 months after the application deadline.",
+    "status": "call-based",
+    "deadline": "2026 applications closed 19 Apr 2026. Next call not yet announced; watch the official page.",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "AI-first products",
+      "Healthcare",
+      "Education",
+      "Finance",
+      "Climate",
+      "Developer tools",
+      "Enterprise"
+    ],
+    "oneLiner": "A free, equity-free three-month programme where Google engineers and mentors help Indian AI-first startups scale.",
+    "what": "Google picks a small class of Indian AI-first startups each year and gives them hands-on technical and go-to-market mentoring, access to Google's AI stack and help applying for Cloud credits. There is no cash and Google takes no equity. It is aimed at startups that already have traction, ideally Seed to Series A.",
+    "who": [
+      "Startups headquartered in India",
+      "Building a core AI product (agents, multimodal, reasoning, generative AI) or foundation models",
+      "Showing traction, ideally Seed to Series A",
+      "CEO and CTO able to attend all required sessions"
+    ],
+    "notFor": [
+      "Idea-stage teams with no product or users",
+      "Companies where AI is only a small add-on feature",
+      "Founders who cannot commit time to every session",
+      "Anyone expecting a cash grant"
+    ],
+    "why": [
+      "Direct access to Google engineers to fix scaling and architecture problems",
+      "The Google brand on your pitch deck helps with customers and investors",
+      "You keep 100% of your company",
+      "Strong peer group of other top Indian AI startups"
+    ],
+    "howItWorks": "Google opens one call a year. It shortlists roughly 40–60 startups for interviews and pitches, then selects the final class. The programme starts with an in-person bootcamp at Google Bengaluru, followed by three months of mentoring on your specific technical challenges. Cloud credits are applied for separately and approved case by case.",
+    "steps": [
+      {
+        "title": "Watch for the call",
+        "detail": "Applications usually open in the first months of the year; the 2026 deadline was 19 April."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Describe your AI product, traction, team and the technical challenges you want help with."
+      },
+      {
+        "title": "Shortlist interview",
+        "detail": "Shortlisted startups (about 40–60) interview and pitch to Google."
+      },
+      {
+        "title": "Selection",
+        "detail": "Around 20 startups are picked; the 2025 and 2026 classes each had 20."
+      },
+      {
+        "title": "Bootcamp and programme",
+        "detail": "Attend the in-person kickoff in Bengaluru and the three months of sessions."
+      }
+    ],
+    "documents": [
+      "Pitch deck with traction metrics",
+      "Description of your AI architecture and models used",
+      "List of 2–3 specific technical challenges",
+      "Funding history and team details"
+    ],
+    "benefits": [
+      "Mentoring from Google engineers and product experts",
+      "Help applying for Google Cloud credits and free TPU access for open-source ML research (if eligible)",
+      "Go-to-market and leadership sessions",
+      "Alumni network and Google visibility"
+    ],
+    "pros": [
+      "Free and equity-free",
+      "High-quality technical help that money can't easily buy",
+      "Strong credibility signal"
+    ],
+    "cons": [
+      "No cash at all",
+      "Very selective: about 2,500 applications for 20 places in 2026",
+      "Only for AI-first startups with traction",
+      "Once-a-year window; easy to miss"
+    ],
+    "goodFitIf": [
+      "You run an Indian AI-first startup with real users or revenue",
+      "You have hard technical scaling problems",
+      "You already use or plan to use Google Cloud and Gemini"
+    ],
+    "skipIf": [
+      "You are still at the idea stage",
+      "You need cash rather than mentoring",
+      "Your product is not AI-led"
+    ],
+    "insiderTips": [
+      "Name specific technical problems you want solved; vague asks look weak",
+      "Apply for Google Cloud credits separately as well; the accelerator does not guarantee them",
+      "Look at recent classes (listed on Google's India blog) to see what kind of startups get picked"
+    ],
+    "performance": {
+      "summary": "The India accelerator has run for several years. In 2025 Google picked 20 AI-first startups from over 1,600 applications, and in 2026 it picked 20 from about 2,500, so selection got tougher.",
+      "metrics": [
+        {
+          "label": "2026 class: startups selected / applications",
+          "value": "20 from ~2,500",
+          "asOf": "2026-07-08",
+          "source": {
+            "label": "Google India blog – 2026 cohort",
+            "url": "https://blog.google/intl/en-in/announcing-the-2026-cohort-of-google-for-startups-accelerator-india/"
+          }
+        },
+        {
+          "label": "2025 class: startups selected / applications",
+          "value": "20 from 1,600+",
+          "asOf": "2025-09-19",
+          "source": {
+            "label": "Google India blog – 2025 cohort",
+            "url": "https://blog.google/intl/en-in/company-news/announcing-the-next-cohort-of-google-for-startups-accelerator-ai-first-in-india/"
+          }
+        },
+        {
+          "label": "Typical cohort size stated on programme page",
+          "value": "10–15 startups",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Google for Startups Accelerator: India",
+            "url": "https://startup.google.com/programs/accelerator/india/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://startup.google.com/programs/accelerator/india/",
+    "officialUrl": "https://startup.google.com/programs/accelerator/india/",
+    "sources": [
+      {
+        "label": "Google for Startups Accelerator: India",
+        "url": "https://startup.google.com/programs/accelerator/india/"
+      },
+      {
+        "label": "Google India blog – 2026 cohort",
+        "url": "https://blog.google/intl/en-in/announcing-the-2026-cohort-of-google-for-startups-accelerator-india/"
+      },
+      {
+        "label": "Google India blog – 2025 cohort",
+        "url": "https://blog.google/intl/en-in/company-news/announcing-the-next-cohort-of-google-for-startups-accelerator-ai-first-in-india/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The programme page says cohorts are 10–15 startups, but the 2025 and 2026 classes each had 20; we show both. The launch year and total alumni count are not clearly published (the page's alumni counter is inconsistent), so they are left out."
+  },
+  {
+    "slug": "google-for-startups-cloud-program",
+    "name": "Google for Startups Cloud Program",
+    "shortName": "Google Cloud credits",
+    "provider": "Google Cloud",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "credits"
+    ],
+    "maxAmountINR": 29750000,
+    "amountText": "Start tier: US$2,000 in credits. Funded tiers: US$200,000–350,000 (about ₹1.7–2.98 crore) in Google Cloud credits over two years; the $350k level is for AI-first startups. Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "Credits spread over 2 years (Year 1: 100% of usage up to the cap; Year 2: 20% up to an extra $100k)",
+    "timeToMoney": "Credits, not cash. Applications are reviewed online; not stated how long approval takes.",
+    "status": "rolling",
+    "deadline": "Rolling",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any digital product",
+      "AI"
+    ],
+    "oneLiner": "Free Google Cloud credits, from US$2,000 for very early startups up to US$350,000 for funded AI startups.",
+    "what": "Google gives startups credits to spend on Google Cloud services, including Gemini and Gemma models. Very early startups can get the US$2,000 Start tier. Startups with verifiable Pre-Seed to Series A equity funding can get US$200,000, or up to US$350,000 if they are AI-first. Credits only pay for Google Cloud; they are not cash.",
+    "who": [
+      "Start tier: founded in the last 2 years, with a working MVP, clear business model and plans to raise venture funding",
+      "Scale/AI tiers: verifiable Pre-Seed to Series A equity funding from institutional investors or VCs (SAFEs count)",
+      "AI tier: built on Gemini, founded in the last 5 years, and not already received more than $5,000 in Google Cloud credits",
+      "Located in a region where Google Cloud is generally available (India qualifies)"
+    ],
+    "notFor": [
+      "Agencies, dev shops, consultancies, nonprofits, educational institutions and government bodies",
+      "Companies that have IPO'd or been acquired",
+      "Crypto-mining companies",
+      "For the big tiers: startups funded only by grants, angels, friends and family, crowdfunding or prize money (Google says these do not qualify for Scale)"
+    ],
+    "why": [
+      "Cuts your cloud and AI model bill to near zero for a while",
+      "Covers Gemini and Gemma model usage",
+      "Comes with technical training and, as you grow, dedicated Google support"
+    ],
+    "howItWorks": "You apply online with your Google Cloud billing account ID, a business email that matches your website domain, and an active website. Google checks your stage and funding, then deposits credits straight into your billing account. Larger tiers are based on proof of equity funding.",
+    "steps": [
+      {
+        "title": "Set up Google Cloud",
+        "detail": "Create a Google Cloud account and billing account for your startup. Note the 18-character billing account ID."
+      },
+      {
+        "title": "Prepare your website and email",
+        "detail": "Your website must be live and describe your company, team and product. Use an email on the same domain."
+      },
+      {
+        "title": "Choose your tier",
+        "detail": "No equity funding yet: Start tier ($2k). Pre-Seed to Series A with institutional investors: Scale or Scale AI."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit the application on the Google for Startups Cloud Program page."
+      },
+      {
+        "title": "Use credits wisely",
+        "detail": "Credits land in the billing account you chose. Set budget alerts so you notice when they run low."
+      }
+    ],
+    "documents": [
+      "Google Cloud billing account ID",
+      "Business email on your company domain",
+      "Live company website",
+      "Proof of equity funding (for Scale tiers)"
+    ],
+    "benefits": [
+      "Up to US$350,000 in credits over two years",
+      "12 months of Google Workspace Business Plus at no extra cost (conditions apply)",
+      "Monthly Google Maps Platform credits (separate application)",
+      "Training, and later Startup Success Managers and Customer Engineers"
+    ],
+    "pros": [
+      "Large amount for funded AI startups",
+      "Covers Google's own AI models",
+      "Rolling applications"
+    ],
+    "cons": [
+      "Only $2,000 if you have no institutional equity funding",
+      "Third-party models (e.g. non-Google models) are billed separately, not covered by credits",
+      "Credits expire; heavy users can face a big bill after two years",
+      "Google may reject sites with lots of AI-generated content"
+    ],
+    "goodFitIf": [
+      "You build on Google Cloud or Gemini",
+      "You have raised Pre-Seed to Series A from VCs",
+      "Your product has meaningful compute or AI costs"
+    ],
+    "skipIf": [
+      "You are bootstrapped and only grant-funded (you'll only get the small tier)",
+      "You are committed to another cloud",
+      "You don't have a live product or website yet"
+    ],
+    "insiderTips": [
+      "Government grants and angel money do not count towards the Scale tier; a SAFE from an institutional investor does",
+      "Do not exceed $5,000 of earlier Google Cloud credits if you want the AI tier later",
+      "Write your own website copy; Google says it screens for AI-generated sites"
+    ],
+    "performance": {
+      "summary": "Google does not publish how many startups get credits or how much it has given out on these pages.",
+      "metrics": [
+        {
+          "label": "Maximum credits (AI startups)",
+          "value": "US$350,000 over 2 years",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Google Cloud – AI startup program",
+            "url": "https://cloud.google.com/startup/ai"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://cloud.google.com/startup",
+    "officialUrl": "https://cloud.google.com/startup",
+    "sources": [
+      {
+        "label": "Google for Startups Cloud Program",
+        "url": "https://cloud.google.com/startup"
+      },
+      {
+        "label": "Google Cloud – AI startup program",
+        "url": "https://cloud.google.com/startup/ai"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Tier amounts and eligibility were read on Google's official pages. Approval time and totals given out are not published."
+  },
+  {
+    "slug": "aws-activate",
+    "name": "AWS Activate",
+    "shortName": "AWS Activate",
+    "provider": "Amazon Web Services",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2013,
+    "instrument": [
+      "credits"
+    ],
+    "maxAmountINR": 17000000,
+    "amountText": "Founders tier: US$1,000, up to US$5,000 for some. Portfolio tier (via an approved investor/accelerator): up to US$200,000 (about ₹1.7 crore). Invite-only AI credits above that. Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "Credits; expiry terms are in AWS Promotional Credit Terms (not stated on the main page)",
+    "timeToMoney": "AWS says decisions take 5–10 business days",
+    "status": "rolling",
+    "deadline": "Rolling",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Free Amazon Web Services credits for startups: $1,000–5,000 if self-funded, up to $200,000 if backed by an AWS partner investor or accelerator.",
+    "what": "AWS Activate gives startups credits to spend on Amazon's cloud, including Amazon Bedrock AI models. Self-funded startups start with US$1,000 (some get up to US$5,000). Startups backed by an AWS 'Activate Provider' such as a VC, angel group or accelerator can get up to US$200,000.",
+    "who": [
+      "Founders tier: self-funded startups with an AWS account",
+      "Portfolio tier: pre-Series B, founded in the last 10 years, with an Org ID from an Activate Provider",
+      "AWS account on a paid tier plan",
+      "New to Activate credits, or asking for more than you got before"
+    ],
+    "notFor": [
+      "Startups already past Series B (for Portfolio)",
+      "Companies older than 10 years (for Portfolio)",
+      "Anyone who needs cash rather than cloud credits"
+    ],
+    "why": [
+      "Removes cloud costs while you find product-market fit",
+      "Credits can be used on Amazon Bedrock for AI models",
+      "Quick online decision"
+    ],
+    "howItWorks": "You create an AWS Builder ID, choose a tier, describe your product and funding, and link an AWS account. AWS reviews and, if approved, applies promotional credits to your account. Portfolio applicants need an Org ID from their investor or accelerator, which is how AWS verifies backing.",
+    "steps": [
+      {
+        "title": "Create an AWS Builder ID",
+        "detail": "Use your professional (company) email."
+      },
+      {
+        "title": "Pick your tier",
+        "detail": "Founders if self-funded; Portfolio if your investor or accelerator is an Activate Provider and gives you an Org ID."
+      },
+      {
+        "title": "Describe your startup",
+        "detail": "Fill in product, funding stage and company details."
+      },
+      {
+        "title": "Link your AWS account and submit",
+        "detail": "Link or create an account on a paid tier plan, then submit."
+      },
+      {
+        "title": "Wait 5–10 business days",
+        "detail": "Check email for the decision; credits are added to your account."
+      }
+    ],
+    "documents": [
+      "Company email and website",
+      "AWS account (paid tier plan)",
+      "Activate Provider Org ID (Portfolio tier only)",
+      "Basic funding details"
+    ],
+    "benefits": [
+      "Cloud credits up to US$200,000",
+      "Technical support and business mentorship resources",
+      "Curated training and partner offers"
+    ],
+    "pros": [
+      "Easy to apply, fast decision",
+      "Self-funded founders can still get something",
+      "Large amounts if you are in an accelerator or VC portfolio"
+    ],
+    "cons": [
+      "Only $1,000–5,000 without an Activate Provider",
+      "Credits, not cash; they expire and you pay normal prices after",
+      "Easy to run up bills on services the credits don't cover"
+    ],
+    "goodFitIf": [
+      "You build on AWS or plan to",
+      "Your incubator, accelerator or investor is an AWS Activate Provider",
+      "You have real cloud costs coming"
+    ],
+    "skipIf": [
+      "You already use another cloud and won't switch",
+      "You have no product to deploy yet",
+      "You need money for salaries or hardware"
+    ],
+    "insiderTips": [
+      "Ask your incubator or accelerator if it has an AWS Activate Org ID; many Indian incubators do, and it unlocks far more credits",
+      "Set AWS budget alerts on day one so credits don't vanish on an idle server",
+      "Apply to Google, Microsoft and AWS programmes and keep the one that fits best"
+    ],
+    "performance": {
+      "summary": "AWS says Activate has run since 2013. Its own figures show growth from about $6 billion in credits and 280,000 startups (October 2023) to over $8 billion and 350,000+ startups (mid-2026). These are worldwide, not India-only.",
+      "metrics": [
+        {
+          "label": "Cumulative credits provided (worldwide)",
+          "value": "Over US$8 billion",
+          "asOf": "2026-06-04",
+          "source": {
+            "label": "AWS – Applying for AWS Activate Credits",
+            "url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+          }
+        },
+        {
+          "label": "Startups that have joined (worldwide)",
+          "value": "Over 350,000",
+          "asOf": "2026-06-04",
+          "source": {
+            "label": "AWS – Applying for AWS Activate Credits",
+            "url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+          }
+        },
+        {
+          "label": "Cumulative credits provided (worldwide)",
+          "value": "US$6 billion; 280,000+ startups",
+          "asOf": "2023-10-17",
+          "source": {
+            "label": "About Amazon – How AWS Activate works",
+            "url": "https://www.aboutamazon.com/news/aws/how-aws-activate-program-works"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://aws.amazon.com/startups/credits",
+    "officialUrl": "https://aws.amazon.com/startups/credits",
+    "sources": [
+      {
+        "label": "AWS Startups – Credits",
+        "url": "https://aws.amazon.com/startups/credits"
+      },
+      {
+        "label": "AWS – Applying for AWS Activate Credits",
+        "url": "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide/"
+      },
+      {
+        "label": "About Amazon – How AWS Activate works",
+        "url": "https://www.aboutamazon.com/news/aws/how-aws-activate-program-works"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Tiers and eligibility are from AWS's credits page. Credit expiry is governed by AWS Promotional Credit Terms and was not stated on the page we read. Totals are worldwide; AWS does not publish an India split."
+  },
+  {
+    "slug": "microsoft-for-startups",
+    "name": "Microsoft for Startups (formerly Founders Hub)",
+    "shortName": "Microsoft for Startups",
+    "provider": "Microsoft",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "credits"
+    ],
+    "maxAmountINR": 12750000,
+    "amountText": "No investor: US$2,000 in Azure credits for 90 days, then US$4,800 for 180 days after business verification. Investor Network startups usually start at US$100,000. Up to US$150,000 (about ₹1.28 crore) can be unlocked over time. Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "Activate within 90 days; credits valid up to 2 years once activated (no extensions)",
+    "timeToMoney": "Microsoft says most applications are reviewed in about 3 business days",
+    "status": "rolling",
+    "deadline": "Rolling",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Software products"
+    ],
+    "oneLiner": "Free Azure cloud credits and software perks from Microsoft: small amounts for everyone, much more if you're backed by a partner investor.",
+    "what": "Microsoft gives software startups Azure credits plus tools like GitHub and Microsoft 365. Since July 2025 there are two paths: startups without an investor get a small starter offer, while startups referred by a Microsoft Investor Network partner (VC, accelerator, incubator or university) get the bigger investor offer. The old names 'Founders Hub' and its $150,000-for-everyone pitch no longer apply as before.",
+    "who": [
+      "Companies building a software product they own",
+      "Privately held and for-profit",
+      "Headquartered where Azure is available (India qualifies)",
+      "Not raised Series C or later, and under $350,000 in lifetime free Azure credits"
+    ],
+    "notFor": [
+      "Educational institutions, government organisations, consultancies and agencies",
+      "Crypto-mining businesses",
+      "Startups that already used a lot of free Azure credit"
+    ],
+    "why": [
+      "Covers Azure hosting and Azure AI services",
+      "Investor-backed startups get access to GitHub Enterprise, Microsoft 365 and support",
+      "Fast online approval"
+    ],
+    "howItWorks": "Everyone applies through the Microsoft for Startups website. Without a referral code you get the starter credit offer; with a referral code from an Investor Network partner you get the investor offer. Higher credit levels unlock as you show verified progress and sustained Azure usage. A credit card is needed to activate.",
+    "steps": [
+      {
+        "title": "Check eligibility",
+        "detail": "Software product, private for-profit, pre-Series C."
+      },
+      {
+        "title": "Ask about a referral code",
+        "detail": "If you are in an incubator, accelerator, university programme or VC portfolio, ask whether it is in the Microsoft for Startups Investor Network."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Go to the Microsoft for Startups site, select Get started, and enter a referral code if you have one."
+      },
+      {
+        "title": "Activate credits",
+        "detail": "Once approved, activate within 90 days using the same Microsoft account you applied with. A credit card is required."
+      },
+      {
+        "title": "Verify your business",
+        "detail": "Starter-track startups unlock the second tranche after business verification."
+      }
+    ],
+    "documents": [
+      "Personal Microsoft account (not a work/school account) used consistently",
+      "Company website and details",
+      "Credit card for identity verification",
+      "Investor Network referral code (optional, for investor offer)"
+    ],
+    "benefits": [
+      "Azure credits (US$6,800 starter path; around US$100,000 to start on the investor path)",
+      "Investor path: Azure Standard Support, technical experts, go-to-market help",
+      "Investor path: offers on GitHub Enterprise, Microsoft 365, LinkedIn Premium, Visual Studio and more"
+    ],
+    "pros": [
+      "Quick approval",
+      "Big jump in value if you have an Investor Network referral",
+      "Credits valid up to two years once activated"
+    ],
+    "cons": [
+      "Much smaller than before for unfunded startups since the July 2025 change",
+      "Microsoft does not publish its list of Investor Network partners",
+      "Credit card required; you pay for anything not covered",
+      "Offer expires if not activated within 90 days"
+    ],
+    "goodFitIf": [
+      "You build on Azure or use Azure AI services",
+      "Your incubator or investor can give you a referral code",
+      "You need GitHub and Microsoft 365 perks"
+    ],
+    "skipIf": [
+      "You are not building software",
+      "You prefer another cloud",
+      "You'll lose track of a 90-day activation window"
+    ],
+    "insiderTips": [
+      "Use a personal Microsoft account (MSA), not a work or school account; Microsoft says work accounts can cause activation errors",
+      "If rejected, you can reapply after 14 days",
+      "Old blog posts still quote 'up to $150,000 for everyone'; that changed on 2 July 2025"
+    ],
+    "performance": {
+      "summary": "Microsoft does not publish how many startups it supports or credits issued. The main change to know: from 2 July 2025, Microsoft split the programme into an investor-backed track and a smaller starter offer for startups without investors, and dropped the Founders Hub name.",
+      "metrics": [
+        {
+          "label": "Starter offer (no investor)",
+          "value": "US$2,000 for 90 days + US$4,800 for 180 days after verification",
+          "asOf": "2026-10-22",
+          "source": {
+            "label": "Microsoft Learn – Microsoft for Startups FAQ",
+            "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs"
+          }
+        },
+        {
+          "label": "Programme restructure date",
+          "value": "2 July 2025 (two tracks; Founders Hub name dropped)",
+          "asOf": "2025-07-03",
+          "source": {
+            "label": "Dutch IT Channel – Changes to Microsoft for Startups",
+            "url": "https://www.dutchitchannel.nl/news/660443/wijzigingen-in-het-microsoft-for-startups-programma"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.microsoft.com/en-us/startups",
+    "officialUrl": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview",
+    "sources": [
+      {
+        "label": "Microsoft Learn – What is Microsoft for Startups?",
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview"
+      },
+      {
+        "label": "Microsoft Learn – Microsoft for Startups FAQ",
+        "url": "https://learn.microsoft.com/en-us/startups/microsoft-for-startups/mfs-faqs"
+      },
+      {
+        "label": "Microsoft for Startups",
+        "url": "https://www.microsoft.com/en-us/startups"
+      },
+      {
+        "label": "Dutch IT Channel – Changes to Microsoft for Startups (July 2025)",
+        "url": "https://www.dutchitchannel.nl/news/660443/wijzigingen-in-het-microsoft-for-startups-programma"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Current amounts are from Microsoft Learn (FAQ updated 22 Oct 2026). Microsoft's official pages describe today's offer but not the July 2025 change itself; the change date and the dropping of the Founders Hub name come from a trade-press report (Dutch IT Channel). Microsoft's marketing page still shows 'up to $150,000', which per Microsoft Learn is unlocked over time, not given upfront."
+  },
+  {
+    "slug": "nvidia-inception",
+    "name": "NVIDIA Inception",
+    "shortName": "Inception",
+    "provider": "NVIDIA",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "credits",
+      "incubation"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No cash. Free membership with access to cloud credits from NVIDIA and partners, free self-paced NVIDIA DLI courses, and preferred pricing on some NVIDIA hardware and software.",
+    "equity": "None (no application fee, membership fee or equity)",
+    "duration": "Membership while you remain eligible",
+    "timeToMoney": "No cash; benefits start after approval (review time not stated)",
+    "status": "rolling",
+    "deadline": "Rolling",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "AI",
+      "Data science",
+      "Graphics/simulation",
+      "Robotics"
+    ],
+    "oneLiner": "A free NVIDIA membership programme for AI startups that gives training, partner cloud credits, hardware discounts and investor introductions.",
+    "what": "Inception is NVIDIA's free programme for startups building with AI and accelerated computing. It gives no cash, but members get free technical courses, access to cloud credits through NVIDIA and partners, discounts on NVIDIA products and introductions to investors. It is open regardless of funding stage.",
+    "who": [
+      "Officially incorporated companies under 10 years old",
+      "At least one active founder and a working website",
+      "Any funding stage, including none",
+      "No revenue requirement"
+    ],
+    "notFor": [
+      "Consulting firms, resellers and distributors",
+      "Crypto-related companies",
+      "Cloud providers and public companies",
+      "Unregistered student projects (you need an incorporated company)"
+    ],
+    "why": [
+      "Free GPU-focused training that sharpens your engineering team",
+      "Cloud credits and hardware discounts reduce compute costs",
+      "Investor introductions through NVIDIA's network"
+    ],
+    "howItWorks": "You apply online. Once approved you get member benefits: DLI course codes, access to partner cloud credit offers, preferred pricing (as a rebate through suppliers, since NVIDIA does not sell directly to members), and visibility to NVIDIA's venture network.",
+    "steps": [
+      {
+        "title": "Incorporate and set up a website",
+        "detail": "You need a registered company and a live site."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Fill in the Inception application with company, product and funding details."
+      },
+      {
+        "title": "Get approved",
+        "detail": "NVIDIA reviews and admits eligible startups."
+      },
+      {
+        "title": "Claim benefits",
+        "detail": "Redeem DLI course codes and look for current partner credit offers in the member portal."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation",
+      "Company website",
+      "Founder details and short product description",
+      "Funding status (for investor matching)"
+    ],
+    "benefits": [
+      "Free self-paced NVIDIA Deep Learning Institute courses",
+      "Cloud credits from NVIDIA and partners",
+      "Preferred pricing on select NVIDIA hardware and software",
+      "Investor introductions"
+    ],
+    "pros": [
+      "Completely free, no equity",
+      "Open at any funding stage",
+      "Large Indian member base to network with"
+    ],
+    "cons": [
+      "No cash",
+      "Benefits are less concrete than a fixed credit amount",
+      "Hardware discounts are rebates through suppliers and may change"
+    ],
+    "goodFitIf": [
+      "You build AI or GPU-heavy products",
+      "Your team needs GPU training",
+      "You plan to buy NVIDIA hardware"
+    ],
+    "skipIf": [
+      "You are not incorporated yet",
+      "Your product has no AI or compute component",
+      "You need money, not perks"
+    ],
+    "insiderTips": [
+      "Join early: there is no downside and it is a common checkbox for GPU partner offers",
+      "NVIDIA's India partnership with AI Grants India (2026) aims to bring hundreds of new Indian startups into Inception; watch for those tie-ups"
+    ],
+    "performance": {
+      "summary": "NVIDIA said more than 2,000 India-based startups were in Inception in October 2024; TechCrunch reported more than 4,000 in India by February 2026. NVIDIA does not publish a global member count on the programme page.",
+      "metrics": [
+        {
+          "label": "India-based startups in Inception",
+          "value": "More than 2,000",
+          "asOf": "2024-10-23",
+          "source": {
+            "label": "NVIDIA blog – India's startups and Inception",
+            "url": "https://blogs.nvidia.com/blog/india-inception-ai-startups/"
+          }
+        },
+        {
+          "label": "India-based startups in Inception",
+          "value": "More than 4,000 (as reported)",
+          "asOf": "2026-02-19",
+          "source": {
+            "label": "TechCrunch – Nvidia deepens early-stage push into India",
+            "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.nvidia.com/en-us/startups/",
+    "officialUrl": "https://www.nvidia.com/en-us/startups/",
+    "sources": [
+      {
+        "label": "NVIDIA Inception",
+        "url": "https://www.nvidia.com/en-us/startups/"
+      },
+      {
+        "label": "NVIDIA blog – India's startups and Inception",
+        "url": "https://blogs.nvidia.com/blog/india-inception-ai-startups/"
+      },
+      {
+        "label": "TechCrunch – Nvidia deepens early-stage push into India",
+        "url": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Eligibility and benefits are from NVIDIA's page. Exact credit amounts vary by partner offer and are not published. The 2026 India figure is from TechCrunch (secondary); the 2024 figure is from NVIDIA."
+  },
+  {
+    "slug": "wadhwani-foundation-ignite-liftoff",
+    "name": "Wadhwani Foundation entrepreneurship programmes (Ignite, Liftoff, Accelerate)",
+    "shortName": "Wadhwani Ignite / Liftoff",
+    "provider": "Wadhwani Foundation",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "incubation"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No cash. Free (₹0 fee, 0% equity) training and growth support.",
+    "equity": "None",
+    "duration": "Ignite: semester-style course; Liftoff: 12 weeks online; Accelerate: 12-week sprint + 9 months of milestone tracking",
+    "timeToMoney": "No cash",
+    "status": "rolling",
+    "deadline": "Rolling (Liftoff and Accelerate are selection-based)",
+    "stages": [
+      "student",
+      "idea",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "Free entrepreneurship courses and growth programmes from a big Indian non-profit: Ignite for students, Liftoff and Accelerate for businesses with revenue.",
+    "what": "Wadhwani Foundation runs no-fee, no-equity programmes. Ignite teaches students and first-time founders how to find problems and build ventures, usually through their college. Liftoff and Accelerate help established businesses grow with advisors and an execution plan. None of these gives you money.",
+    "who": [
+      "Ignite: college students, aspiring entrepreneurs and early founders (no idea needed), usually via a partner institution",
+      "Liftoff (current version): MSMEs with ₹5 crore+ annual revenue, 10+ employees, operating 2+ years",
+      "Accelerate: revenue-generating businesses, typically ₹5 crore+ operating revenue (the programmes page says ₹25 crore+)",
+      "Founders willing to commit 1–2 hours a week (Liftoff) or more (Accelerate)"
+    ],
+    "notFor": [
+      "Anyone seeking a cash grant",
+      "Early startups without revenue (for Liftoff and Accelerate)",
+      "School students below college level (Ignite is campus-led)"
+    ],
+    "why": [
+      "Structured learning at zero cost",
+      "Dedicated growth advisors for revenue-stage businesses",
+      "Big network of mentors and partner institutions"
+    ],
+    "howItWorks": "Ignite is delivered through partner colleges (campus-led, live online or self-paced). Liftoff and Accelerate are by selection: you apply, the team checks your stage, readiness and growth goal, and selected businesses get a growth advisor or venture partner for a fixed sprint.",
+    "steps": [
+      {
+        "title": "Pick the right programme",
+        "detail": "Student or early founder: Ignite. Revenue-stage business: Liftoff or Accelerate."
+      },
+      {
+        "title": "For Ignite, ask your college",
+        "detail": "Check whether your college is a Wadhwani partner; institutions can sign up for free."
+      },
+      {
+        "title": "For Liftoff/Accelerate, apply online",
+        "detail": "Share revenue, team size and the one growth move you want to make."
+      },
+      {
+        "title": "Selection call",
+        "detail": "The team assesses fit and readiness; applying does not guarantee admission."
+      },
+      {
+        "title": "Do the programme",
+        "detail": "Work with your advisor on a 90-day execution plan."
+      }
+    ],
+    "documents": [
+      "Business details: revenue, employees, years operating (Liftoff/Accelerate)",
+      "A clear growth goal (e.g. exports, new channel, product launch)",
+      "College enrolment details (Ignite)"
+    ],
+    "benefits": [
+      "Free curriculum and mentoring",
+      "Dedicated growth advisor or venture partner",
+      "Market intelligence and buyer/partner introductions (Accelerate)"
+    ],
+    "pros": [
+      "Zero fees and zero equity",
+      "Good for students to learn entrepreneurship basics",
+      "Practical, execution-focused help for MSMEs"
+    ],
+    "cons": [
+      "No money at all",
+      "Liftoff now targets ₹5 crore+ revenue MSMEs, not early startups",
+      "Programme names and target groups have changed over time, which confuses applicants"
+    ],
+    "goodFitIf": [
+      "You are a college student curious about startups",
+      "You run a business with ₹5 crore+ revenue and a clear growth plan",
+      "You value mentoring over money"
+    ],
+    "skipIf": [
+      "You need cash now",
+      "You are a pre-revenue startup looking for Liftoff (it changed focus)",
+      "You can't commit weekly time"
+    ],
+    "insiderTips": [
+      "Liftoff used to be a 14-week startup accelerator with Indian Angel Network; the current page targets MSMEs, so check which version is running before applying",
+      "Students: ask your entrepreneurship cell or incubator to bring Ignite to campus"
+    ],
+    "performance": {
+      "summary": "Wadhwani reported that in the year to August 2025 it reached 5,000+ students through Ignite in Gujarat alone and supported 150+ early-stage ventures and MSMEs via Liftoff there. Its Accelerate page says 10,000+ businesses have been empowered across India.",
+      "metrics": [
+        {
+          "label": "Students enabled via Ignite (Gujarat, past year)",
+          "value": "5,000+ across 50+ institutions",
+          "asOf": "2025-08-06",
+          "source": {
+            "label": "Wadhwani Foundation – Gujarat expansion news",
+            "url": "https://wadhwanifoundation.org/news/wadhwani-foundation-expands-zero-cost-zero-equity-entrepreneurship-programs-in-gujarat-to-fuel-innovation-led-growth/"
+          }
+        },
+        {
+          "label": "Businesses empowered across India (Accelerate page claim)",
+          "value": "10,000+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Wadhwani Accelerate",
+            "url": "https://wadhwanifoundation.org/our-programs/accelerate/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://wadhwanifoundation.org/our-programs/",
+    "officialUrl": "https://wadhwanifoundation.org/our-programs/",
+    "sources": [
+      {
+        "label": "Wadhwani Foundation – Our Programs",
+        "url": "https://wadhwanifoundation.org/our-programs/"
+      },
+      {
+        "label": "Wadhwani Ignite",
+        "url": "https://wadhwanifoundation.org/our-programs/ignite/"
+      },
+      {
+        "label": "Wadhwani Liftoff",
+        "url": "https://wadhwanifoundation.org/our-programs/liftoff/"
+      },
+      {
+        "label": "Wadhwani Accelerate",
+        "url": "https://wadhwanifoundation.org/our-programs/accelerate/"
+      },
+      {
+        "label": "Wadhwani Foundation – Gujarat expansion news (Aug 2025)",
+        "url": "https://wadhwanifoundation.org/news/wadhwani-foundation-expands-zero-cost-zero-equity-entrepreneurship-programs-in-gujarat-to-fuel-innovation-led-growth/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Wadhwani's pages give two different revenue thresholds for Accelerate (₹5 crore+ on the programme page, ₹25 crore+ on the programmes overview); we show both. Counters on some pages did not load, so national totals for Ignite and Liftoff are not shown. No cash grants were found on official pages."
+  },
+  {
+    "slug": "villgro-incubation",
+    "name": "Villgro Incubation",
+    "shortName": "Villgro",
+    "provider": "Villgro Innovations Foundation (Chennai)",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": 2001,
+    "instrument": [
+      "incubation",
+      "grant",
+      "equity",
+      "loan"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Seed funding as equity, debt, grant or a mix; Villgro does not publish a standard cheque size. As a Startup India Seed Fund incubator it can also route up to ₹20 lakh grant + ₹50 lakh convertible note.",
+    "equity": "Depends on the deal: may be equity, debt or grant",
+    "duration": "Incubation with milestones set in an incubation agreement (length not published)",
+    "timeToMoney": "Not published; follows a rigorous assessment and selection process",
+    "status": "rolling",
+    "deadline": "Rolling via 'Get Incubated' on Villgro's site; specific funds (e.g. Startup India Seed Fund) have their own windows",
+    "stages": [
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Climate-smart agriculture",
+      "Climate action",
+      "Inclusive livelihoods"
+    ],
+    "oneLiner": "One of India's oldest social-enterprise incubators: it gives impact startups seed money plus hands-on support in health, agriculture, climate and livelihoods.",
+    "what": "Villgro selects early-stage social enterprises solving problems for low-income communities and supports them with seed funding (equity, debt or grants) and intensive coaching. It also runs funds and challenges with partners, such as the government's Startup India Seed Fund Scheme.",
+    "who": [
+      "Indian for-profit social enterprises with an innovative product or service",
+      "Working in healthcare, climate-smart agriculture, climate action or inclusive livelihoods",
+      "Usually with at least a prototype or early traction",
+      "For the Startup India Seed Fund route: DPIIT-recognised, under 2 years old, at least 51% Indian promoter ownership"
+    ],
+    "notFor": [
+      "Pure service or trading businesses without innovation",
+      "Startups outside Villgro's focus sectors",
+      "Non-profits seeking donations (Villgro backs market-based models)"
+    ],
+    "why": [
+      "Deep sector expertise in health and rural markets",
+      "100-day plans and diagnostic panels with experts",
+      "Strong track record of follow-on funding for its portfolio"
+    ],
+    "howItWorks": "After assessment and selection, Villgro signs an incubation agreement with growth milestones. It runs a compliance gap analysis, offers seed funding as debt, equity or grant, holds diagnostic panels with industry experts, creates a 100-day plan, and tracks progress through weekly calls and field visits.",
+    "steps": [
+      {
+        "title": "Check sector fit",
+        "detail": "Make sure you work in one of Villgro's four focus areas."
+      },
+      {
+        "title": "Apply via 'Get Incubated'",
+        "detail": "Submit your enterprise details on Villgro's website."
+      },
+      {
+        "title": "Assessment",
+        "detail": "Villgro runs a rigorous selection process."
+      },
+      {
+        "title": "Incubation agreement",
+        "detail": "Agree milestones and the type of seed funding (debt, equity or grant)."
+      },
+      {
+        "title": "Compliance and 100-day plan",
+        "detail": "Fix legal/financial gaps and set monthly targets."
+      },
+      {
+        "title": "Grow with support",
+        "detail": "Weekly check-ins, mentors and investor introductions."
+      }
+    ],
+    "documents": [
+      "Company registration and cap table",
+      "Pitch deck with impact thesis",
+      "Product/prototype evidence and pilot data",
+      "Financials (if any)",
+      "DPIIT recognition (for Seed Fund route)"
+    ],
+    "benefits": [
+      "Seed funding",
+      "Subsidised mentoring and specialist technical services",
+      "Gender-inclusion and impact-measurement training",
+      "Access to commercial and impact investors"
+    ],
+    "pros": [
+      "Very experienced in social enterprise",
+      "Flexible funding type",
+      "Hands-on portfolio management"
+    ],
+    "cons": [
+      "Cheque size and terms are not published",
+      "May take equity",
+      "Narrow sector focus"
+    ],
+    "goodFitIf": [
+      "You build for low-income or rural users",
+      "You work in health, agri, climate or livelihoods",
+      "You want close mentoring, not just money"
+    ],
+    "skipIf": [
+      "You build consumer apps for urban users",
+      "You want a pure grant with no strings",
+      "You are at idea stage with nothing to test"
+    ],
+    "insiderTips": [
+      "Lead with impact numbers and a clear path to revenue; Villgro backs market-based models",
+      "Ask whether a current challenge or fund (e.g. Startup India Seed Fund via Villgro) fits you better than general incubation"
+    ],
+    "performance": {
+      "summary": "Villgro says it has incubated 300+ startups, provided ₹671 million in seed funding and seen ₹4 billion of follow-on funding raised by its portfolio. These figures are undated on its homepage.",
+      "metrics": [
+        {
+          "label": "Startups incubated (cumulative)",
+          "value": "300+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Villgro homepage",
+            "url": "https://villgro.org/"
+          }
+        },
+        {
+          "label": "Seed funding provided (cumulative)",
+          "value": "₹671 million",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Villgro homepage",
+            "url": "https://villgro.org/"
+          }
+        },
+        {
+          "label": "Follow-on funding raised by portfolio",
+          "value": "₹4 billion",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Villgro homepage",
+            "url": "https://villgro.org/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://villgro.org/incubation/",
+    "officialUrl": "https://villgro.org/incubation/",
+    "sources": [
+      {
+        "label": "Villgro homepage",
+        "url": "https://villgro.org/"
+      },
+      {
+        "label": "Villgro – Incubation",
+        "url": "https://villgro.org/incubation/"
+      },
+      {
+        "label": "Villgro – Startup India Seed Fund",
+        "url": "https://villgro.org/programs/startup-india-seed-fund-scheme-2/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Impact figures are from Villgro's homepage without an 'as of' date; we use the date we read them. Standard cheque size, equity percentage and selection timelines are not published. 'Rolling' status is based on the always-on 'Get Incubated' call to action."
+  },
+  {
+    "slug": "social-alpha-tata-trusts",
+    "name": "Social Alpha (Foundation for Innovation and Social Entrepreneurship)",
+    "shortName": "Social Alpha",
+    "provider": "Social Alpha, supported by Tata Trusts",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "grant",
+      "incubation",
+      "equity"
+    ],
+    "maxAmountINR": 6000000,
+    "amountText": "Through challenges: e.g. Techtonic (Sustainability) offered up to ₹30 lakh (R&D track), ₹40 lakh (Pilot) or ₹60 lakh (Scale-up); a 2026 livestock-feed call offered catalytic funding up to ₹50 lakh. Seed investments also possible.",
+    "equity": "Catalytic grants are non-dilutive; separate seed investments take equity",
+    "duration": "Programmes typically run about 12 months",
+    "timeToMoney": "Not published; depends on the challenge timeline",
+    "status": "call-based",
+    "deadline": "Opens in themed calls. Techtonic (Sustainability) closed Feb 2026; a clean-energy call closed 21 Aug 2026. Watch Social Alpha's site/LinkedIn for the next call.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Energy",
+      "Materials",
+      "Agriculture",
+      "Food systems",
+      "Health",
+      "Climate"
+    ],
+    "oneLiner": "A Tata Trusts-backed platform that gives science-based Indian startups lab access, pilot sites and catalytic grants through themed challenges.",
+    "what": "Social Alpha backs deep-tech startups solving social and environmental problems, from lab to market. It runs themed challenges (like 'Techtonic') with partners; winners get grants sized to their stage, lab and testing support, field pilots, market access and sometimes seed investment.",
+    "who": [
+      "Indian startups and innovators with a science or technology solution",
+      "Focus areas: energy, materials, natural resources, food systems, agriculture and health",
+      "R&D tracks accept individuals or startups at idea or early prototype stage",
+      "Pilot and scale-up tracks need a validated solution"
+    ],
+    "notFor": [
+      "Pure software or app businesses without a science/tech edge (depends on call)",
+      "Startups registered outside India",
+      "Founders who miss the call window"
+    ],
+    "why": [
+      "Non-dilutive grants up to ₹60 lakh for the right stage",
+      "Social Alpha Labs for prototyping and testing",
+      "Real-world pilots with farmers, FPOs, dairies and health systems"
+    ],
+    "howItWorks": "Social Alpha announces a challenge with a theme and tracks. You apply through its challenge portal. Selected startups get stage-aligned grant support plus lab, pilot, regulatory and market-access help for about a year, with seed investment possible after due diligence.",
+    "steps": [
+      {
+        "title": "Follow the calls",
+        "detail": "Check Social Alpha's website and LinkedIn for open challenges."
+      },
+      {
+        "title": "Pick your track",
+        "detail": "R&D (idea/prototype), Pilot (ready to field-test) or Scale-up (validated, ready to deploy)."
+      },
+      {
+        "title": "Apply on the challenge portal",
+        "detail": "Register on socialalphachallenge.org and submit."
+      },
+      {
+        "title": "Evaluation and pitch",
+        "detail": "Shortlisted teams present to the selection panel."
+      },
+      {
+        "title": "Programme and grant",
+        "detail": "Receive stage-linked funding and support over about 12 months."
+      }
+    ],
+    "documents": [
+      "Technical description and evidence (lab data, prototype results)",
+      "Pilot or deployment plan",
+      "Team CVs",
+      "Company registration (for startup applicants)"
+    ],
+    "benefits": [
+      "Catalytic grant funding",
+      "Lab access for design, prototyping and testing",
+      "Regulatory and certification guidance",
+      "Market linkages and investor network"
+    ],
+    "pros": [
+      "Large non-dilutive grants",
+      "Genuine lab-to-market support for hardware/science",
+      "Open to idea-stage innovators in R&D tracks"
+    ],
+    "cons": [
+      "Call-based: you must wait for a theme that fits",
+      "Very selective",
+      "Best suited to science/hardware, not consumer apps"
+    ],
+    "goodFitIf": [
+      "You have a science-led solution in energy, agri, materials or health",
+      "You need lab and pilot access as much as money",
+      "Your solution helps underserved communities"
+    ],
+    "skipIf": [
+      "You build a pure software or e-commerce product",
+      "You need money in the next few weeks",
+      "Your work doesn't match any current call theme"
+    ],
+    "insiderTips": [
+      "Match the track honestly: applying to Scale-up with only a prototype hurts your chances",
+      "Show who your pilot partner will be; field validation is central to Social Alpha's model"
+    ],
+    "performance": {
+      "summary": "Since 2016 Social Alpha says it has supported 450+ startups, awarded 400+ catalytic grants and made 100+ seed investments.",
+      "metrics": [
+        {
+          "label": "Startups supported (cumulative)",
+          "value": "450+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Social Alpha homepage",
+            "url": "https://www.socialalpha.org/"
+          }
+        },
+        {
+          "label": "Catalytic grants awarded (cumulative)",
+          "value": "400+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Social Alpha homepage",
+            "url": "https://www.socialalpha.org/"
+          }
+        },
+        {
+          "label": "Seed investments made (cumulative)",
+          "value": "100+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Social Alpha homepage",
+            "url": "https://www.socialalpha.org/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.socialalphachallenge.org/",
+    "officialUrl": "https://www.socialalpha.org/",
+    "sources": [
+      {
+        "label": "Social Alpha homepage",
+        "url": "https://www.socialalpha.org/"
+      },
+      {
+        "label": "Social Alpha challenge portal",
+        "url": "https://www.socialalphachallenge.org/"
+      },
+      {
+        "label": "Social Alpha on LinkedIn – Techtonic: Innovations for Sustainability (Feb 2026)",
+        "url": "https://www.linkedin.com/posts/social-alpha_techtonic-innovations-for-sustainability-activity-7426799576608694272-38vD"
+      },
+      {
+        "label": "Social Alpha on LinkedIn – Livestock feed call (May 2026)",
+        "url": "https://www.linkedin.com/posts/social-alpha_innovating-for-productive-animals-and-thriving-activity-7460246137837449216-YufW"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Grant amounts come from Social Alpha's own LinkedIn call announcements, not a standing policy page; each call sets its own amounts. The 21 Aug 2026 clean-energy deadline comes from a news report. Cumulative figures on the homepage are undated. We could not confirm an open call as of 27 Oct 2026."
+  },
+  {
+    "slug": "rainmatter-foundation-grants",
+    "name": "Rainmatter Foundation grants",
+    "shortName": "Rainmatter Foundation",
+    "provider": "Rainmatter Foundation (founded by Zerodha's founders)",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": 2019,
+    "instrument": [
+      "grant",
+      "fellowship"
+    ],
+    "maxAmountINR": 3600000,
+    "amountText": "Small Grants Programme (as published in 2021): ₹3–12 lakh per year for 3 years (up to about ₹36 lakh in total). Larger grants are agreed case by case.",
+    "equity": "None (grants to organisations and individuals)",
+    "duration": "Small grants: 3 years, released yearly after quarterly updates",
+    "timeToMoney": "Not published",
+    "status": "unverified",
+    "deadline": "Unclear. In June 2024 the foundation said it was pausing funding for incoming requests except specific announced 'chases'; an initial enquiry form is still online.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Climate",
+      "Ecology",
+      "Water",
+      "Soil",
+      "Farming and food systems",
+      "Livelihoods"
+    ],
+    "oneLiner": "A Bengaluru non-profit, set up by Zerodha's founders, that gives grants to people and organisations working on climate, ecology and rural livelihoods.",
+    "what": "Rainmatter Foundation funds fellowships and organisations restoring the environment through direct action, research, advocacy and policy. It has committed US$200 million in funding and grants. Its small grants programme gave long-term, flexible money to small teams. It is a grant-maker, not a startup investor (Zerodha's separate Rainmatter Capital makes equity investments).",
+    "who": [
+      "Organisations, teams and individuals in India working on climate and environment",
+      "Areas: forests, water, soil, farms, food systems, ecology, energy and transport",
+      "Work that is long-term (3–5 years) and could be scaled or replicated",
+      "Non-profits, CSOs, researchers and some startups"
+    ],
+    "notFor": [
+      "Startups with no climate or ecology link",
+      "Structured academic programmes (the foundation said it cannot meaningfully support these)",
+      "Short one-off projects without a long-term plan"
+    ],
+    "why": [
+      "Flexible, multi-year grants that don't dictate how you spend",
+      "Large, credible climate funder in India",
+      "Access to the Grove community and partner network"
+    ],
+    "howItWorks": "Historically you shared your organisation's background, work and long-term direction by email or form. The foundation reviewed and, if aligned, funded you over three years with quarterly updates. Since June 2024 it says it mostly funds specific 'chases' it announces or efforts it finds through partners.",
+    "steps": [
+      {
+        "title": "Check alignment",
+        "detail": "Read the foundation's focus areas and principles on rainmatter.org."
+      },
+      {
+        "title": "Watch announced 'chases'",
+        "detail": "Follow the Funding Needs & Announcements thread on Grove for specific open asks."
+      },
+      {
+        "title": "Submit the initial enquiry form",
+        "detail": "Describe your organisation, work and supporting documents."
+      },
+      {
+        "title": "Conversation and review",
+        "detail": "If there is a fit, the team follows up with questions."
+      }
+    ],
+    "documents": [
+      "Organisation charter/background",
+      "Summary of your work and results so far",
+      "3-year plan and expected outcomes",
+      "Team details and effort committed"
+    ],
+    "benefits": [
+      "Multi-year flexible funding",
+      "Visibility on Rainmatter's platforms",
+      "Collaboration with other grantees and partners"
+    ],
+    "pros": [
+      "Non-dilutive and flexible",
+      "Long time horizon (3 years)",
+      "Strong climate network"
+    ],
+    "cons": [
+      "Open applications largely paused since June 2024",
+      "Grant sizes in the small grants programme are modest",
+      "Narrow focus on climate and ecology"
+    ],
+    "goodFitIf": [
+      "You work on climate, ecology or rural livelihoods",
+      "You have a long-term plan, not a one-off project",
+      "Your work could be scaled or copied elsewhere"
+    ],
+    "skipIf": [
+      "You run a tech startup unrelated to climate",
+      "You need money quickly",
+      "You want equity investment (look at Rainmatter Capital instead)"
+    ],
+    "insiderTips": [
+      "Join the Grove forum and watch the Funding Needs & Announcements thread; that is where specific asks are posted",
+      "Don't post pitches in Grove's general Q&A thread; the team says those are ignored or deleted"
+    ],
+    "performance": {
+      "summary": "Founded in 2019, the foundation says it has committed US$200 million in funding and grants. It does not publish a grants-per-year series.",
+      "metrics": [
+        {
+          "label": "Total committed to funding and grants",
+          "value": "US$200 million",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Rainmatter Foundation homepage",
+            "url": "https://rainmatter.org/"
+          }
+        },
+        {
+          "label": "Small grant size (published 2021)",
+          "value": "₹3–12 lakh per year for 3 years",
+          "asOf": "2021-01-10",
+          "source": {
+            "label": "Grove – The Rainmatter Small Grants Programme",
+            "url": "https://grove.rainmatter.org/t/the-rainmatter-small-grants-programme/133"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://forms.rainmatter.org/initial-enquiry-form/new",
+    "officialUrl": "https://rainmatter.org/",
+    "sources": [
+      {
+        "label": "Rainmatter Foundation homepage",
+        "url": "https://rainmatter.org/"
+      },
+      {
+        "label": "Grove – The Rainmatter Small Grants Programme (2021)",
+        "url": "https://grove.rainmatter.org/t/the-rainmatter-small-grants-programme/133"
+      },
+      {
+        "label": "Grove – Funding Needs & Announcements (June 2024)",
+        "url": "https://grove.rainmatter.org/t/funding-needs-announcements/3317"
+      },
+      {
+        "label": "Rainmatter Foundation – Initial enquiry form",
+        "url": "https://forms.rainmatter.org/initial-enquiry-form/new"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status is unverified: a June 2024 post says incoming requests are paused except announced 'chases', but an enquiry form is live and we found no later official update. Small grant sizes date from 2021 and may have changed. The foundation's main funding page could not be loaded."
+  },
+  {
+    "slug": "nasscom-startups-deeptech-club",
+    "name": "Nasscom Startups (formerly 10,000 Startups) and Nasscom DeepTech Club Launchpad",
+    "shortName": "Nasscom 10K / DeepTech Club",
+    "provider": "Nasscom",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": 2013,
+    "instrument": [
+      "incubation"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No cash grant. Virtual incubation, mentoring, investor and corporate connects.",
+    "equity": "Not stated on the official pages",
+    "duration": "DeepTech Club Launchpad: continuous, year-round virtual incubation",
+    "timeToMoney": "No cash",
+    "status": "rolling",
+    "deadline": "Launchpad: applications accepted all month; evaluated in the first week of each month; onboarding by the 10th",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Deep tech",
+      "AI/ML",
+      "Robotics",
+      "IoT",
+      "Semiconductors",
+      "Biotech",
+      "Climate tech",
+      "Space tech"
+    ],
+    "oneLiner": "India's IT industry body runs free-to-join style virtual incubation and industry-connect programmes for tech startups, now focused on deep tech.",
+    "what": "Nasscom's startup initiative began as '10,000 Startups' in 2013. Today its main early-stage door is the DeepTech Club Launchpad, a monthly-intake virtual incubation programme for deep-tech startups with a working MVP. It gives mentoring, masterclasses and investor and corporate introductions, not money.",
+    "who": [
+      "Startups legally registered in India",
+      "Product built mainly on deep technology (AI, robotics, IoT, semiconductors, biotech, space and more)",
+      "Functional MVP and technology readiness level (TRL) 5 or above",
+      "Less than 10 years since incorporation"
+    ],
+    "notFor": [
+      "Idea-stage founders without an MVP",
+      "Non-tech or services businesses",
+      "Anyone needing direct funding"
+    ],
+    "why": [
+      "Nasscom brand and access to large enterprise buyers",
+      "Investor-readiness coaching",
+      "Monthly intake, so no long wait"
+    ],
+    "howItWorks": "You apply online any time. Applications are reviewed monthly on tech depth, IP, market, scalability and team. Shortlisted startups pitch to a jury, and selected startups are onboarded on the 10th of the next month into continuous virtual incubation.",
+    "steps": [
+      {
+        "title": "Check TRL and MVP",
+        "detail": "You need a working MVP at TRL 5 or above."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit the Launchpad form on Nasscom's DeepTech Club page."
+      },
+      {
+        "title": "Monthly evaluation",
+        "detail": "Applications are reviewed in the first week of each month."
+      },
+      {
+        "title": "Jury round",
+        "detail": "Shortlisted startups present to an expert panel."
+      },
+      {
+        "title": "Onboarding",
+        "detail": "Selected startups join by the 10th of the following month."
+      }
+    ],
+    "documents": [
+      "Certificate of incorporation (India)",
+      "Product/MVP demo and technical note",
+      "IP details (patents filed or trade secrets)",
+      "Pitch deck"
+    ],
+    "benefits": [
+      "One-to-one mentoring and masterclasses on IP, regulation, GTM and fundraising",
+      "Curated investor and corporate introductions",
+      "Visibility at Nasscom events and platforms"
+    ],
+    "pros": [
+      "Rolling monthly intake",
+      "Strong enterprise and policy network",
+      "Focused on deep tech, which many programmes neglect"
+    ],
+    "cons": [
+      "No cash",
+      "Virtual format means less hands-on support",
+      "Fees/equity terms not stated on the page; ask before joining"
+    ],
+    "goodFitIf": [
+      "You run an Indian deep-tech startup with an MVP",
+      "You want enterprise pilots and investor introductions",
+      "You have defensible IP"
+    ],
+    "skipIf": [
+      "You're still at idea stage",
+      "You need cash quickly",
+      "You build a non-tech business"
+    ],
+    "insiderTips": [
+      "Lead with your IP and TRL level; they are explicit selection criteria",
+      "If not selected, you can refine and reapply in a later monthly cycle"
+    ],
+    "performance": {
+      "summary": "Nasscom says that over its first decade the programme impacted 11,500+ startups and funded 650+, with 28,500 applications received. These are legacy figures from the 10,000 Startups site and are not dated precisely.",
+      "metrics": [
+        {
+          "label": "Startups impacted (since 2013)",
+          "value": "11,500+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Nasscom Startups (10,000 Startups) site",
+            "url": "https://10000startups.com/"
+          }
+        },
+        {
+          "label": "Startups funded (since 2013)",
+          "value": "650+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Nasscom Startups (10,000 Startups) site",
+            "url": "https://10000startups.com/"
+          }
+        },
+        {
+          "label": "Applications received (since 2013)",
+          "value": "28,500",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Nasscom Startups (10,000 Startups) site",
+            "url": "https://10000startups.com/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://nasscom.in/deeptech/deeptechclub/launchpad.php",
+    "officialUrl": "https://nasscom.in/deeptech/",
+    "sources": [
+      {
+        "label": "Nasscom DeepTech Club – Launchpad",
+        "url": "https://nasscom.in/deeptech/deeptechclub/launchpad.php"
+      },
+      {
+        "label": "Nasscom Deeptech & Startups",
+        "url": "https://nasscom.in/deeptech/"
+      },
+      {
+        "label": "Nasscom Startups (10,000 Startups) site",
+        "url": "https://10000startups.com/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The 10,000startups.com site appears out of date (its events list ends in 2024), so its totals are shown with the date we read them. The Launchpad page shows a rolling monthly process but does not state the year of its timeline or any fees or equity; confirm before joining."
+  },
+  {
+    "slug": "emergent-ventures-india",
+    "name": "Emergent Ventures India",
+    "shortName": "EV India",
+    "provider": "Mercatus Center at George Mason University (Tyler Cowen; India tranche with Shruti Rajagopalan)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "grant",
+      "fellowship"
+    ],
+    "maxAmountINR": null,
+    "amountText": "Grant sizes vary and are not published per grantee. Money is a no-strings grant or fellowship.",
+    "equity": "None",
+    "duration": "One-off grant; some are for travel or career development",
+    "timeToMoney": "Not published",
+    "status": "rolling",
+    "deadline": "Rolling (apply any time; choose 'India' under 'My Project Will Affect')",
+    "stages": [
+      "student",
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A no-strings grant programme that funds ambitious young Indians, including school students, to build projects, startups, research or art.",
+    "what": "Emergent Ventures gives fast, low-paperwork grants to people with bold 'zero to one' ideas. It has a dedicated India tranche. Recent Indian grantees include Class 11–12 students going to olympiads, teenagers building AI tools and founders building rockets, medical devices and climate hardware.",
+    "who": [
+      "Anyone aged 13 or older",
+      "Students, researchers, founders, writers and artists",
+      "Projects that affect India (select India in the application)",
+      "No company or degree required"
+    ],
+    "notFor": [
+      "Applications written by AI: EV says it tests submissions and rejects AI-written ones (proofreading is allowed)",
+      "People wanting feedback on their application (EV does not give feedback)",
+      "Multiple applications for the same project"
+    ],
+    "why": [
+      "One of very few grants open to Indian school students",
+      "No equity, no paperwork-heavy reporting",
+      "Being an EV winner is a strong signal for colleges and investors"
+    ],
+    "howItWorks": "You fill in one online application describing yourself and your project. Tyler Cowen and the EV team read applications and pick winners, who are announced in India cohorts on the Marginal Revolution blog. EV does not provide feedback or status updates.",
+    "steps": [
+      {
+        "title": "Read past winners",
+        "detail": "Browse the EV India cohort posts on Marginal Revolution to see what gets funded."
+      },
+      {
+        "title": "Write it yourself",
+        "detail": "Draft your application in your own words; AI-written applications are rejected."
+      },
+      {
+        "title": "Apply",
+        "detail": "Use the 'Apply Now' button on the Mercatus EV page and select India under 'My Project Will Affect'."
+      },
+      {
+        "title": "Wait",
+        "detail": "EV cannot answer status questions; winners are contacted and later announced publicly."
+      }
+    ],
+    "documents": [
+      "Clear description of your project and why it matters",
+      "What you'd do with the money and how much you need",
+      "Links to anything you've built, written or made",
+      "Parent consent if you are a minor (as applicable)"
+    ],
+    "benefits": [
+      "Cash grant with no equity",
+      "Public recognition in EV India cohort announcements",
+      "Access to a global network of ambitious grantees"
+    ],
+    "pros": [
+      "Open from age 13",
+      "Simple application",
+      "Funds unusual projects other grant-makers ignore"
+    ],
+    "cons": [
+      "Amounts are unpredictable and usually modest",
+      "No feedback if you're rejected",
+      "Highly competitive and subjective"
+    ],
+    "goodFitIf": [
+      "You are a student or young builder with a concrete project",
+      "You need a modest amount to move fast",
+      "Your idea is unusual or ambitious"
+    ],
+    "skipIf": [
+      "You need a large, guaranteed amount",
+      "You want structured mentoring",
+      "You plan to have AI write your application"
+    ],
+    "insiderTips": [
+      "Be specific and personal: show what you've already done, not just what you plan",
+      "Small, concrete asks (e.g. travel to an olympiad, parts for a prototype) are common among Indian winners"
+    ],
+    "performance": {
+      "summary": "EV India announced its 19th cohort in September 2026. Recent cohorts have grown: the 15th (Dec 2025) listed 16 grants, the 16th (Apr 2026) 23, and the 19th (Sep 2026) 29. Counts are our tally of the published lists.",
+      "metrics": [
+        {
+          "label": "EV India cohorts announced",
+          "value": "19",
+          "asOf": "2026-09-19",
+          "source": {
+            "label": "Marginal Revolution – Emergent Ventures India, 19th cohort",
+            "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html"
+          }
+        },
+        {
+          "label": "Grants listed in 19th cohort",
+          "value": "29 (our count)",
+          "asOf": "2026-09-19",
+          "source": {
+            "label": "Marginal Revolution – Emergent Ventures India, 19th cohort",
+            "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html"
+          }
+        },
+        {
+          "label": "Grants listed in 16th cohort",
+          "value": "23 (our count)",
+          "asOf": "2026-04-18",
+          "source": {
+            "label": "Marginal Revolution – Emergent Ventures India, 16th cohort",
+            "url": "https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html"
+          }
+        },
+        {
+          "label": "Grants listed in 15th cohort",
+          "value": "16 (our count)",
+          "asOf": "2025-12-26",
+          "source": {
+            "label": "Marginal Revolution – Emergent Ventures India, 15th cohort",
+            "url": "https://marginalrevolution.com/marginalrevolution/2025/12/emergent-ventures-india-15th-cohort.html"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.mercatus.org/emergent-ventures",
+    "officialUrl": "https://www.mercatus.org/emergent-ventures",
+    "sources": [
+      {
+        "label": "Mercatus Center – Emergent Ventures",
+        "url": "https://www.mercatus.org/emergent-ventures"
+      },
+      {
+        "label": "Marginal Revolution – EV India 19th cohort",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html"
+      },
+      {
+        "label": "Marginal Revolution – EV India 16th cohort",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html"
+      },
+      {
+        "label": "Marginal Revolution – EV India 15th cohort",
+        "url": "https://marginalrevolution.com/marginalrevolution/2025/12/emergent-ventures-india-15th-cohort.html"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Grant amounts are not published. Grant counts per cohort are our own tally of the published lists (a joint grant to co-founders counts as one). The India tranche launch year is not stated on the Mercatus page."
+  },
+  {
+    "slug": "thiel-fellowship",
+    "name": "Thiel Fellowship",
+    "shortName": "Thiel Fellowship",
+    "provider": "The Thiel Foundation",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2011,
+    "instrument": [
+      "fellowship",
+      "grant"
+    ],
+    "maxAmountINR": 21250000,
+    "amountText": "US$250,000 (about ₹2.1 crore) paid over two years. Converted at about ₹85 per US dollar.",
+    "equity": "None (the foundation says it does not take equity)",
+    "duration": "2 years",
+    "timeToMoney": "Not published; classes are announced once a year (April–May in 2025 and 2026)",
+    "status": "rolling",
+    "deadline": "Rolling, year-round",
+    "stages": [
+      "student",
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any"
+    ],
+    "oneLiner": "A US$250,000 no-equity grant for people aged 22 or under who leave (or skip) college to build something full-time.",
+    "what": "The Thiel Fellowship pays young people to build companies, research or other projects instead of going to university. Fellows get US$250,000 over two years plus access to the foundation's network. The catch: you must drop out of (or skip) college to accept, and you cannot already have a degree.",
+    "who": [
+      "Aged 22 or younger, from any country (fellows are based all over the world)",
+      "No university degree (undergraduate or graduate)",
+      "Meaningful progress towards a concrete vision; an incorporated company is not required",
+      "Individuals apply, not teams"
+    ],
+    "notFor": [
+      "Anyone with a university degree",
+      "Students unwilling to drop out if selected",
+      "People over 22"
+    ],
+    "why": [
+      "Large, no-equity grant",
+      "Elite network of founders and investors",
+      "Indian fellows exist, e.g. Ritesh Agarwal of OYO (2013) and Ishan Gupta from Kanpur (2026)"
+    ],
+    "howItWorks": "You apply online any time. The foundation selects a small class each year (12 fellows in 2026). Fellows receive $250,000 over two years and must work full-time on their project. They don't need to move to San Francisco.",
+    "steps": [
+      {
+        "title": "Build first",
+        "detail": "Get meaningful progress on your idea: a prototype, users or research results."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Submit the application on thielfellowship.org; there is no deadline."
+      },
+      {
+        "title": "Interviews",
+        "detail": "Shortlisted applicants go through interviews (process details not published)."
+      },
+      {
+        "title": "Accept and drop out",
+        "detail": "If selected you must leave school to accept the fellowship."
+      },
+      {
+        "title": "Build full-time for two years",
+        "detail": "Receive the grant in instalments and use the network."
+      }
+    ],
+    "documents": [
+      "Application describing you and your project",
+      "Evidence of progress (demo, code, users, research)",
+      "Proof of age (on selection)"
+    ],
+    "benefits": [
+      "US$250,000 over two years",
+      "Mentoring and introductions to investors, partners and customers",
+      "Lifelong fellows community"
+    ],
+    "pros": [
+      "No equity taken",
+      "Open worldwide and year-round",
+      "Big amount for a young founder"
+    ],
+    "cons": [
+      "You must drop out of college to accept",
+      "Tiny class (12 fellows in 2026), so odds are very low",
+      "Not available if you already hold a degree",
+      "Parents and universities may push back hard"
+    ],
+    "goodFitIf": [
+      "You're 22 or under and already building something real",
+      "You're ready to leave college for your project",
+      "You want money and network without giving up equity"
+    ],
+    "skipIf": [
+      "You want to finish your degree",
+      "You don't yet have meaningful progress to show",
+      "You're over 22 or already graduated"
+    ],
+    "insiderTips": [
+      "Apply while still in school; you only drop out if you're selected",
+      "The foundation looks at the person as much as the idea, so show what you've already built"
+    ],
+    "performance": {
+      "summary": "Since 2011 the fellowship has backed 300+ young people. The award per fellow rose from US$100,000 to US$200,000 in 2025 and to US$250,000 in 2026, while recent classes have become smaller.",
+      "metrics": [
+        {
+          "label": "Previous fellows (before 2026 class)",
+          "value": "Over 300",
+          "asOf": "2026-04-21",
+          "source": {
+            "label": "Business Wire – Thiel Foundation announces 2026 class",
+            "url": "https://www.businesswire.com/news/home/20260420984007/en/Thiel-Foundation-Announces-2026-Class-of-Thiel-Fellows"
+          }
+        },
+        {
+          "label": "Award per fellow, 2025 class",
+          "value": "US$200,000 (up from US$100,000)",
+          "asOf": "2025-05-22",
+          "source": {
+            "label": "Business Wire – Thiel Foundation announces 2025 class",
+            "url": "https://www.businesswire.com/news/home/20250522267532/en/Thiel-Foundation-Announces-2025-Class-of-Thiel-Fellows"
+          }
+        },
+        {
+          "label": "Award per fellow, 2026 class",
+          "value": "US$250,000",
+          "asOf": "2026-04-21",
+          "source": {
+            "label": "Business Wire – Thiel Foundation announces 2026 class",
+            "url": "https://www.businesswire.com/news/home/20260420984007/en/Thiel-Foundation-Announces-2026-Class-of-Thiel-Fellows"
+          }
+        }
+      ],
+      "series": [
+        {
+          "label": "Thiel Fellows per class",
+          "unit": "fellows",
+          "points": [
+            {
+              "period": "2011",
+              "value": 24
+            },
+            {
+              "period": "2012",
+              "value": 20
+            },
+            {
+              "period": "2013",
+              "value": 21
+            },
+            {
+              "period": "2014",
+              "value": 20
+            },
+            {
+              "period": "2015",
+              "value": 20
+            },
+            {
+              "period": "2016",
+              "value": 26
+            },
+            {
+              "period": "2017",
+              "value": 24
+            },
+            {
+              "period": "2018",
+              "value": 20
+            },
+            {
+              "period": "2019",
+              "value": 22
+            },
+            {
+              "period": "2020",
+              "value": 24
+            },
+            {
+              "period": "2022",
+              "value": 23
+            },
+            {
+              "period": "2023",
+              "value": 20
+            },
+            {
+              "period": "2024",
+              "value": 20
+            },
+            {
+              "period": "2025",
+              "value": 15
+            },
+            {
+              "period": "2026",
+              "value": 12
+            }
+          ],
+          "source": {
+            "label": "Fundraising Fox – Thiel Fellows, every class (secondary tracker)",
+            "url": "https://fundraisingfox.com/thiel-fellows"
+          }
+        }
+      ]
+    },
+    "applyUrl": "https://thielfellowship.org/",
+    "officialUrl": "https://thielfellowship.org/faq",
+    "sources": [
+      {
+        "label": "Thiel Fellowship",
+        "url": "https://thielfellowship.org/"
+      },
+      {
+        "label": "Thiel Fellowship – FAQ",
+        "url": "https://thielfellowship.org/faq"
+      },
+      {
+        "label": "Business Wire – 2026 class",
+        "url": "https://www.businesswire.com/news/home/20260420984007/en/Thiel-Foundation-Announces-2026-Class-of-Thiel-Fellows"
+      },
+      {
+        "label": "Business Wire – 2025 class",
+        "url": "https://www.businesswire.com/news/home/20250522267532/en/Thiel-Foundation-Announces-2025-Class-of-Thiel-Fellows"
+      },
+      {
+        "label": "Fundraising Fox – Thiel Fellows tracker",
+        "url": "https://fundraisingfox.com/thiel-fellows"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms are from the official site and FAQ. The class-size chart comes from a third-party tracker (Fundraising Fox), not the foundation, and shows no 2021 class; treat it as approximate. The 2013 class size differs between sources (press at the time said 20 or 22)."
+  },
+  {
+    "slug": "z-fellows",
+    "name": "Z Fellows",
+    "shortName": "Z Fellows",
+    "provider": "Z Fellows (founded by Cory Levy)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2020,
+    "instrument": [
+      "equity",
+      "fellowship"
+    ],
+    "maxAmountINR": 850000,
+    "amountText": "Optional US$10,000 (about ₹8.5 lakh) investment at a US$1 billion valuation cap. Converted at about ₹85 per US dollar.",
+    "equity": "Optional: $10k converts into stock at your next priced round at a $1B cap (a tiny stake). You can join without taking money.",
+    "duration": "1 week (mostly virtual, last day in person in San Francisco or New York)",
+    "timeToMoney": "Rolling review; multiple cohorts a year",
+    "status": "rolling",
+    "deadline": "Rolling, no deadline",
+    "stages": [
+      "student",
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "Any (technical builders)"
+    ],
+    "oneLiner": "A one-week programme that connects young technical builders with famous founders, with an optional US$10,000 investment.",
+    "what": "Z Fellows brings about ten builders together for a week of time with founders of billion-dollar companies. If you want, it invests US$10,000 at a US$1 billion valuation cap, which is very cheap money that converts to shares later. There's no age limit and you don't need to quit school or have a company.",
+    "who": [
+      "Technical builders of any age working on side projects or startups",
+      "High school students, college students and people with full-time jobs",
+      "Based anywhere in the world",
+      "Solo or with co-founders (one application per team)"
+    ],
+    "notFor": [
+      "Non-technical founders without something built",
+      "People who can't join the final in-person day (in SF or NYC) or the virtual sessions",
+      "Anyone expecting a large cheque"
+    ],
+    "why": [
+      "Direct time with well-known founders and investors",
+      "The $10k is optional and dilutes you very little",
+      "Alumni include founders of well-known AI companies"
+    ],
+    "howItWorks": "You apply online any time and are considered for the next cohort. Each cohort is mostly virtual, with the last day in person in San Francisco or New York. You can take the optional $10,000 investment, which converts to stock at your next priced round at a $1B cap.",
+    "steps": [
+      {
+        "title": "Build something",
+        "detail": "Have a side project, prototype or startup to show."
+      },
+      {
+        "title": "Apply online",
+        "detail": "One application per team; note any co-founder."
+      },
+      {
+        "title": "Get picked for a cohort",
+        "detail": "Applications are reviewed on a rolling basis."
+      },
+      {
+        "title": "Do the week",
+        "detail": "Virtual sessions, then the final day in SF or NYC."
+      },
+      {
+        "title": "Decide on the money",
+        "detail": "Take the optional $10k investment or participate without it."
+      }
+    ],
+    "documents": [
+      "Short application about your project and past work",
+      "Links to demos, code or products",
+      "Optional one-minute intro video"
+    ],
+    "benefits": [
+      "Mentoring from founders of large tech companies",
+      "Optional $10,000 investment",
+      "Ongoing help for the life of your company"
+    ],
+    "pros": [
+      "No age limit, open to school students",
+      "Rolling applications; reapplying is encouraged",
+      "Very founder-friendly investment terms"
+    ],
+    "cons": [
+      "Only $10,000 and it's an investment, not a grant",
+      "In-person final day in the US means travel cost and visa for Indians",
+      "Only about ten people per cohort"
+    ],
+    "goodFitIf": [
+      "You're a young technical builder with a working project",
+      "You want mentors and network more than money",
+      "You can travel to SF or NYC"
+    ],
+    "skipIf": [
+      "You need a real cash grant",
+      "You haven't built anything yet",
+      "US travel is not possible for you"
+    ],
+    "insiderTips": [
+      "Keep answers short and specific; show what you've shipped",
+      "If rejected, reapply when you've made progress; Z Fellows explicitly encourages it"
+    ],
+    "performance": {
+      "summary": "Z Fellows started in late 2020 with a single batch of 10 fellows and now runs multiple cohorts a year. It does not publish total fellow counts.",
+      "metrics": [
+        {
+          "label": "First batch size (Jan 2021)",
+          "value": "10 fellows",
+          "asOf": "2020-12-29",
+          "source": {
+            "label": "TechCrunch – Z Fellows offers $10k",
+            "url": "https://techcrunch.com/2020/12/29/zfellows-offers-10k-to-stop-what-youre-doing-for-a-week-and-work-on-a-side-project/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.zfellows.com/",
+    "officialUrl": "https://www.zfellows.com/",
+    "sources": [
+      {
+        "label": "Z Fellows",
+        "url": "https://www.zfellows.com/"
+      },
+      {
+        "label": "TechCrunch – Z Fellows offers $10k (Dec 2020)",
+        "url": "https://techcrunch.com/2020/12/29/zfellows-offers-10k-to-stop-what-youre-doing-for-a-week-and-work-on-a-side-project/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms are from the official FAQ. Total cohorts and fellows are not published. Alumni valuations shown on the Z Fellows site are its own claims and are not repeated here."
+  },
+  {
+    "slug": "echoing-green-fellowship",
+    "name": "Echoing Green Fellowship",
+    "shortName": "Echoing Green",
+    "provider": "Echoing Green (New York)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "fellowship",
+      "grant"
+    ],
+    "maxAmountINR": 8500000,
+    "amountText": "US$100,000 (about ₹85 lakh) stipend over 18 months. For-profit organisations receive it as a recoverable grant. Converted at about ₹85 per US dollar.",
+    "equity": "None. For for-profits the money is a recoverable grant (may have to be repaid under agreed conditions).",
+    "duration": "18 months, plus lifelong community",
+    "timeToMoney": "Fellows were notified in June/July 2026 for that cycle; the application window is about 3 weeks",
+    "status": "call-based",
+    "deadline": "Once a year, open for about three weeks. Next window not yet announced on the official site; sign up for alerts.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Social impact: education, climate justice, health, human rights, economic opportunity"
+    ],
+    "oneLiner": "A US$100,000 fellowship for early-stage social entrepreneurs anywhere in the world, including India.",
+    "what": "Echoing Green funds people starting organisations that tackle big social problems. Fellows get US$100,000 over 18 months, leadership coaching, wellbeing support and a lifelong network of 1,000+ fellows. Both non-profits and for-profit social enterprises can apply; for-profits get the money as a recoverable grant.",
+    "who": [
+      "Aged 18 or older by the start of the fellowship",
+      "An original founder and primary decision-maker of the organisation",
+      "Organisation at an early stage (typically under 5 years with full-time staff)",
+      "Able to work full-time (40 hours a week) on it for 18 months, and communicate well in English"
+    ],
+    "notFor": [
+      "People who joined an existing organisation as CEO after founding",
+      "Organisations controlled by a parent organisation",
+      "Mature organisations that already have full staffing, board and funding in place",
+      "Multiple applications in one cycle (you'll be disqualified)"
+    ],
+    "why": [
+      "Large seed amount for social ventures",
+      "Strong leadership development and wellbeing support",
+      "Global credibility; India is among the top countries by applicants"
+    ],
+    "howItWorks": "Applications open once a year for about three weeks on Echoing Green's portal. Staff and reviewers narrow thousands of applications to around 40 finalists, then select the fellows (18 in 2026). Fellows receive the stipend over 18 months alongside programme support.",
+    "steps": [
+      {
+        "title": "Sign up for alerts",
+        "detail": "Get notified when the next application cycle opens."
+      },
+      {
+        "title": "Watch the webinar",
+        "detail": "Echoing Green posts a webinar on strengthening your application."
+      },
+      {
+        "title": "Draft early",
+        "detail": "The window is only about three weeks; plan several rounds of proofreading."
+      },
+      {
+        "title": "Submit before 2 pm ET on deadline day",
+        "detail": "Late applications are not accepted for any reason; you can't edit after submitting."
+      },
+      {
+        "title": "Interviews and finalist stage",
+        "detail": "Shortlisted applicants go through further rounds."
+      },
+      {
+        "title": "Fellowship starts",
+        "detail": "Selected fellows were notified in June/July for the 2026 cycle."
+      }
+    ],
+    "documents": [
+      "Online application (no extra documents or business plans are accepted)",
+      "Clear description of the problem, your solution and community ties",
+      "Organisation details (legal status, fiscal sponsor if any)"
+    ],
+    "benefits": [
+      "US$100,000 stipend over 18 months",
+      "Leadership development and coaching",
+      "Wellbeing support",
+      "Pro-bono expert support and lifelong network"
+    ],
+    "pros": [
+      "Open to applicants from any country",
+      "No equity",
+      "Values lived experience over traditional credentials"
+    ],
+    "cons": [
+      "Extremely competitive: 18 fellows from 4,100+ applications in 2026 (under 0.5%)",
+      "For-profits get a recoverable grant, not free money",
+      "Must work full-time on the organisation",
+      "Short, once-a-year window"
+    ],
+    "goodFitIf": [
+      "You're founding a social-impact organisation in its first years",
+      "You have deep personal knowledge of the community you serve",
+      "You can commit full-time for 18 months"
+    ],
+    "skipIf": [
+      "Your venture is a pure commercial startup",
+      "Your organisation is already well established",
+      "You can't commit full-time"
+    ],
+    "insiderTips": [
+      "Show you are close to the community you serve; Echoing Green says it looks for leaders who reflect it",
+      "Submit early in the three-week window to avoid technical problems at the deadline"
+    ],
+    "performance": {
+      "summary": "Echoing Green has run its fellowship for over 35 years and has 1,000+ fellows. In the 2026 cycle it received 4,100+ applications from 139 countries, chose 40 finalists and named 18 fellows. India was one of the top six applicant countries.",
+      "metrics": [
+        {
+          "label": "Applications in 2026 cycle",
+          "value": "4,100+ from 139 countries",
+          "asOf": "2026-03-31",
+          "source": {
+            "label": "Echoing Green – 2026 Social Impact Talent Report",
+            "url": "https://echoinggreen.org/news/2026-social-impact-talent-report/"
+          }
+        },
+        {
+          "label": "Fellows selected in 2026",
+          "value": "18",
+          "asOf": "2026-09-01",
+          "source": {
+            "label": "Echoing Green – Eighteen social entrepreneurs named as Fellows",
+            "url": "https://echoinggreen.org/news/eighteen-trailblazing-social-entrepreneurs-named-as-echoing-green-fellows/"
+          }
+        },
+        {
+          "label": "Total current and alumni fellows",
+          "value": "1,000+",
+          "asOf": "2026-09-01",
+          "source": {
+            "label": "Echoing Green – Eighteen social entrepreneurs named as Fellows",
+            "url": "https://echoinggreen.org/news/eighteen-trailblazing-social-entrepreneurs-named-as-echoing-green-fellows/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://echoinggreen.org/fellowship/apply/",
+    "officialUrl": "https://echoinggreen.org/fellowship/",
+    "sources": [
+      {
+        "label": "Echoing Green – Fellowship",
+        "url": "https://echoinggreen.org/fellowship/"
+      },
+      {
+        "label": "Echoing Green – Fellowship Application",
+        "url": "https://echoinggreen.org/fellowship/apply/"
+      },
+      {
+        "label": "Echoing Green – 2026 Social Impact Talent Report",
+        "url": "https://echoinggreen.org/news/2026-social-impact-talent-report/"
+      },
+      {
+        "label": "Echoing Green – 2026 Fellows announcement",
+        "url": "https://echoinggreen.org/news/eighteen-trailblazing-social-entrepreneurs-named-as-echoing-green-fellows/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms and figures are from Echoing Green's official pages. The next application window's dates are not yet published officially (third-party sites give conflicting dates and amounts, so we don't repeat them). Recoverable-grant conditions are explained only after selection."
+  },
+  {
+    "slug": "hult-prize",
+    "name": "EF Hult Prize",
+    "shortName": "Hult Prize",
+    "provider": "Hult Prize Foundation (with EF Education First)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2010,
+    "instrument": [
+      "prize",
+      "equity"
+    ],
+    "maxAmountINR": 85000000,
+    "amountText": "US$1,000,000 (about ₹8.5 crore) in milestone-based seed funding for one winning team per year. Converted at about ₹85 per US dollar.",
+    "equity": "Yes: the Foundation takes a warrant for 10% of the winning company's fully diluted equity",
+    "duration": "Year-long competition (qualifiers Sept–Feb, nationals Mar–May, digital incubator Jun–Jul, global accelerator Aug, finals Sept); prize paid against milestones",
+    "timeToMoney": "About a year from registration to finals; prize money then released in tranches as milestones are met",
+    "status": "open",
+    "deadline": "2027 cycle open: campus qualifiers or online Open Application run roughly Sept 2026–Feb 2027",
+    "stages": [
+      "student",
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any for-profit venture supporting a UN Sustainable Development Goal"
+    ],
+    "oneLiner": "The world's largest student startup competition: university teams compete for US$1 million to launch a for-profit social enterprise.",
+    "what": "Teams of 2–4 university students build a for-profit startup that supports at least one UN Sustainable Development Goal, then compete through campus, national and global rounds. Only one team wins the US$1 million, which is paid in milestone-linked tranches in exchange for a 10% equity warrant. Everyone else still gets mentoring, tools and a global network.",
+    "who": [
+      "Teams of 2–4 students enrolled in a degree programme at a university or college (undergraduate, postgraduate or PhD)",
+      "All members 18 or older (by 28 Feb 2027 for this cycle, as reported)",
+      "Students from almost every country, including India",
+      "A for-profit venture that supports at least one UN SDG"
+    ],
+    "notFor": [
+      "School (Class 11–12) students: you must be enrolled at university and 18+",
+      "Non-profit organisations",
+      "Teams where eligible members own less than 51% of the company"
+    ],
+    "why": [
+      "A real shot at US$1 million for a student team",
+      "Structured learning path from idea to pitch",
+      "Huge global network and visibility"
+    ],
+    "howItWorks": "Most teams enter through a local competition at their university; if there isn't one, they use the online Open Application. Winners move through national finals, a digital incubator, a global accelerator (about 20 teams) and global finals (8 teams). The winner must register a company, open a bank account, sign a founders' agreement and agree milestones before money is released.",
+    "steps": [
+      {
+        "title": "Form a team",
+        "detail": "Two to four enrolled university students; decide your CEO."
+      },
+      {
+        "title": "Find your entry route",
+        "detail": "Check if your university hosts a Hult Prize campus event; otherwise use the Open Application."
+      },
+      {
+        "title": "Register and build",
+        "detail": "Register on hultprize.org and use the digital learning hub modules."
+      },
+      {
+        "title": "Pitch at qualifiers",
+        "detail": "Submit your pitch video, deck and one-pager or pitch at your campus event."
+      },
+      {
+        "title": "Advance through rounds",
+        "detail": "Nationals, digital incubator, global accelerator and finals."
+      },
+      {
+        "title": "If you win",
+        "detail": "Incorporate, open a company bank account, sign a founders' agreement and agree milestones to unlock funds."
+      }
+    ],
+    "documents": [
+      "Team registration with university enrolment proof",
+      "Pitch video, pitch deck and one-page summary",
+      "Founders' agreement and company documents (if you win)"
+    ],
+    "benefits": [
+      "Chance at US$1M seed funding",
+      "Mentoring, tools and partner perks",
+      "Global accelerator for top ~20 teams",
+      "Network of past participants"
+    ],
+    "pros": [
+      "Open to university students from India",
+      "Learning value even if you don't win",
+      "No entry fee reported"
+    ],
+    "cons": [
+      "Only one team wins the US$1M",
+      "The Foundation takes 10% equity via a warrant; it is not a free prize",
+      "Funding is milestone-based and can be withheld at the Foundation's discretion",
+      "Travel and accommodation for later rounds are generally on you"
+    ],
+    "goodFitIf": [
+      "You're a university student team with a social-impact business idea",
+      "You want structure, deadlines and mentoring",
+      "You're happy to give up 10% if you win"
+    ],
+    "skipIf": [
+      "You're still in school (under 18 or not enrolled at university)",
+      "You run a non-profit",
+      "You need guaranteed money"
+    ],
+    "insiderTips": [
+      "Read the terms and conditions before you start; the equity and milestone rules matter if you win",
+      "Complete the Hult Prize learning-hub modules; campus judges often follow its criteria"
+    ],
+    "performance": {
+      "summary": "Running since 2010, the Hult Prize says it reaches 200,000+ participants a year across 130+ countries and awards US$1M each year to one team.",
+      "metrics": [
+        {
+          "label": "Annual participants",
+          "value": "200,000+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Hult Prize homepage",
+            "url": "https://www.hultprize.org/"
+          }
+        },
+        {
+          "label": "Participating countries",
+          "value": "130+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Hult Prize homepage",
+            "url": "https://www.hultprize.org/"
+          }
+        },
+        {
+          "label": "Equity taken from winner",
+          "value": "Warrant for 10% fully diluted",
+          "asOf": "2025-12-15",
+          "source": {
+            "label": "Hult Prize – Terms & Conditions",
+            "url": "https://www.hultprize.org/en/terms-conditions/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.hultprize.org/en/get-involved/competitors/",
+    "officialUrl": "https://www.hultprize.org/en/how-it-works/",
+    "sources": [
+      {
+        "label": "Hult Prize homepage",
+        "url": "https://www.hultprize.org/"
+      },
+      {
+        "label": "Hult Prize – How It Works",
+        "url": "https://www.hultprize.org/en/how-it-works/"
+      },
+      {
+        "label": "Hult Prize – Terms & Conditions",
+        "url": "https://www.hultprize.org/en/terms-conditions/"
+      },
+      {
+        "label": "Hult Prize – Competitors",
+        "url": "https://www.hultprize.org/en/get-involved/competitors/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Prize, equity and milestone rules are from official Hult Prize pages. The exact 2027 registration close date and the 28 Feb 2027 age cut-off come from third-party listings citing the registration page; confirm on hultprize.org. Launch year (2010) is widely reported but not stated on the pages we read."
+  },
+  {
+    "slug": "mit-solve-global-challenges",
+    "name": "MIT Solve Global Challenges",
+    "shortName": "MIT Solve",
+    "provider": "MIT Solve, Massachusetts Institute of Technology",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2016,
+    "instrument": [
+      "prize",
+      "grant",
+      "fellowship"
+    ],
+    "maxAmountINR": 12750000,
+    "amountText": "Solver teams get on average about US$40,000 each at selection from a pool of US$1M+ in prizes; individual named prizes are typically US$100,000–150,000 (up to about ₹1.28 crore). Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "9-month Solver support programme; 'once a Solver, always a Solver'",
+    "timeToMoney": "Apply by Nov 2026, judging Nov 2026–Mar 2027, finalists pitch in February; prizes announced at selection",
+    "status": "open",
+    "deadline": "2027 Global Challenges close 6 Nov 2026, 12:00 pm ET (about 10:30 pm IST)",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Health",
+      "Learning/education",
+      "Climate",
+      "Economic opportunity",
+      "Any tech-based social solution"
+    ],
+    "oneLiner": "An open innovation challenge from MIT that gives tech-based social-impact ventures from anywhere prize money, mentoring and a global network.",
+    "what": "Each year MIT Solve asks the world for technology solutions to big problems such as health and education gaps. Selected 'Solver teams' get prize funding (about US$40,000 on average), a nine-month support programme and access to MIT's network. Indian ventures have won: Karya and Rocket Learning shared the AI for Humanity Prize in 2026.",
+    "who": [
+      "Anyone, anywhere (except people in US-embargoed countries/regions)",
+      "Non-profit or for-profit teams with a tech-based solution",
+      "At least prototype stage (concept-stage ideas are only reviewed under the Indigenous Communities Fellowship)",
+      "Applications in English"
+    ],
+    "notFor": [
+      "Pure ideas without a working prototype",
+      "Solutions already selected in a past Solve challenge (must be new)",
+      "Applicants who can't attend events in Cambridge, MA (April) and New York (September)"
+    ],
+    "why": [
+      "Non-dilutive prize money",
+      "MIT credibility and a large funder network",
+      "Indian teams have a track record of winning"
+    ],
+    "howItWorks": "You submit an online application to one or more challenges. Solve staff screen, expert reviewers score and pick semifinalists, judges pick finalists who pitch live (virtually) in February, then the Solver class is chosen. Solvers commit about 25 hours over nine months plus two four-day events.",
+    "steps": [
+      {
+        "title": "Pick a challenge",
+        "detail": "Read the 2027 challenge pages (e.g. Global Health, Global Learning) and choose the best fit."
+      },
+      {
+        "title": "Download the PDF questions",
+        "detail": "Solve offers the questions as a PDF to prepare offline."
+      },
+      {
+        "title": "Apply online",
+        "detail": "Applications save automatically; you can edit until the deadline."
+      },
+      {
+        "title": "Click SUBMIT SOLUTION before the deadline",
+        "detail": "Saved but unsubmitted applications are not considered."
+      },
+      {
+        "title": "Judging rounds",
+        "detail": "Screening, expert review, semifinalist and finalist pitch (February)."
+      },
+      {
+        "title": "Join the Solver class",
+        "detail": "Orientation in Cambridge (April) and Challenge Finals in New York (September)."
+      }
+    ],
+    "documents": [
+      "Online application in English",
+      "Evidence your technology works (for novel tech)",
+      "Impact and scaling plan",
+      "Team details"
+    ],
+    "benefits": [
+      "Prize funding (about US$40k average; US$100k+ for named prizes)",
+      "Coaching, workshops and pro-bono services",
+      "Media exposure and speaking opportunities",
+      "Lifelong Solver network"
+    ],
+    "pros": [
+      "Open to Indian teams with no equity taken",
+      "Strong network effects after selection",
+      "Multiple prizes to compete for"
+    ],
+    "cons": [
+      "Average funding (~$40k) is modest",
+      "Competitive: the 2026 special challenge picked 10 from 1,000+ applications",
+      "Travel commitments to the US"
+    ],
+    "goodFitIf": [
+      "You run a tech-based social venture with a working prototype or pilot",
+      "Your solution serves underserved communities",
+      "You value network and credibility"
+    ],
+    "skipIf": [
+      "You have only an idea",
+      "Your product is not social-impact focused",
+      "You can't travel to the US twice in a year"
+    ],
+    "insiderTips": [
+      "Submit early: the deadline is noon ET, not end of day, and late entries aren't accepted even for technical problems",
+      "Attend an application clinic session; Solve records them and answers common questions"
+    ],
+    "performance": {
+      "summary": "Solve marked ten years in 2026. Its 10th Anniversary Global Challenge drew over 1,000 applications from 110 countries and awarded US$1M to ten teams (US$100,000 each), including Indian ventures Karya and Rocket Learning.",
+      "metrics": [
+        {
+          "label": "2026 challenge: winners / applications",
+          "value": "10 from 1,000+ across 110 countries",
+          "asOf": "2026-09-22",
+          "source": {
+            "label": "MIT Solve press release (ACCESS Newswire), 22 Sep 2026",
+            "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/mit-solve-awards-1-million-to-10-innovators-marking-a-decade-of-1224664"
+          }
+        },
+        {
+          "label": "Average funding per Solver team at selection",
+          "value": "About US$40,000",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "MIT Solve – 2027 Global Learning Challenge",
+            "url": "https://solve.mit.edu/challenges/2027-global-learning-challenge"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://solve.mit.edu/challenges/2027-global-learning-challenge",
+    "officialUrl": "https://solve.mit.edu/challenges/2027-global-learning-challenge",
+    "sources": [
+      {
+        "label": "MIT Solve – 2027 Global Learning Challenge",
+        "url": "https://solve.mit.edu/challenges/2027-global-learning-challenge"
+      },
+      {
+        "label": "MIT Solve – 2027 Global Health Challenge",
+        "url": "https://solve.mit.edu/challenges/2027-global-health-challenge"
+      },
+      {
+        "label": "MIT Solve – 10th Anniversary Global Challenge",
+        "url": "https://solve.mit.edu/challenges/10-for-10-challenge"
+      },
+      {
+        "label": "MIT Solve press release, 22 Sep 2026",
+        "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/mit-solve-awards-1-million-to-10-innovators-marking-a-decade-of-1224664"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Funding and deadlines are from Solve's 2027 challenge pages. The 2026 results come from Solve's own press release on a newswire. Total Solvers since 2016 and per-year funding totals are not published on the pages we read."
+  },
+  {
+    "slug": "entrepreneurs-first-bangalore",
+    "name": "Entrepreneurs First (Bangalore)",
+    "shortName": "EF Bangalore",
+    "provider": "Entrepreneurs First",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "equity",
+      "fellowship"
+    ],
+    "maxAmountINR": 21250000,
+    "amountText": "₹3,60,000 equity-free 'Talent Investment' stipend on joining (10% TDS deducted), then up to US$250,000 (about ₹2.1 crore) investment if your company passes Investment Committee. Converted at about ₹85 per US dollar.",
+    "equity": "8% for $125k (post-money SAFE, or CCPS if incorporated in India) + optional $125k uncapped MFN SAFE if you move to San Francisco",
+    "duration": "24 weeks: 12 weeks FORM in Bangalore + 12 weeks LAUNCH in San Francisco for funded teams",
+    "timeToMoney": "Stipend on joining; investment decision at the end of the 12-week FORM stage",
+    "status": "call-based",
+    "deadline": "Cohort-based. The Winter 2027 Bangalore cohort deadline was reported as 5 Oct 2026 (third-party). Check EF's site for the next intake.",
+    "stages": [
+      "idea"
+    ],
+    "sectors": [
+      "Any (mostly deep tech and AI)"
+    ],
+    "oneLiner": "A talent investor that pays you a stipend to find a co-founder and idea in Bangalore, then invests up to US$250,000 in exchange for equity.",
+    "what": "EF picks talented individuals, often before they have a co-founder or idea. In Bangalore you get a ₹3.6 lakh equity-free stipend while you team up and test ideas for 12 weeks. If EF's Investment Committee backs your new company, it invests $125,000 for 8%, with an optional extra $125,000 if you relocate to San Francisco.",
+    "who": [
+      "Exceptional individuals: engineers, researchers, domain experts",
+      "No co-founder or idea needed",
+      "Willing to relocate to Bangalore for 12 weeks",
+      "Willing to move to San Francisco for LAUNCH if funded"
+    ],
+    "notFor": [
+      "Teams that already have a company and co-founder (EF is built around matching)",
+      "People who can't relocate",
+      "Anyone wanting a non-dilutive grant beyond the stipend"
+    ],
+    "why": [
+      "Paid to explore before you commit",
+      "Help finding the right co-founder",
+      "Bridge to Silicon Valley investors via SF Demo Day"
+    ],
+    "howItWorks": "You apply as an individual. Selected people join a cohort, receive the Talent Investment and spend 12 weeks in EF's Bangalore office testing co-founder matches and ideas. Teams pitch EF's Investment Committee; funded teams get the investment and move to San Francisco for LAUNCH and Demo Day.",
+    "steps": [
+      {
+        "title": "Apply as an individual",
+        "detail": "Show your technical or domain edge; no idea needed."
+      },
+      {
+        "title": "Selection",
+        "detail": "Interviews assess your ambition and skills."
+      },
+      {
+        "title": "Join FORM in Bangalore",
+        "detail": "Receive ₹3.6 lakh (minus TDS) and start testing co-founders and ideas."
+      },
+      {
+        "title": "Pitch Investment Committee",
+        "detail": "At the end of 12 weeks, pitch your new company."
+      },
+      {
+        "title": "LAUNCH in San Francisco",
+        "detail": "Funded teams relocate, incorporate (Delaware for the second $125k) and pitch at Demo Day."
+      }
+    ],
+    "documents": [
+      "CV/LinkedIn and evidence of exceptional work (code, papers, products)",
+      "KYC documents for the stipend",
+      "Visa (if needed) for India and later the US"
+    ],
+    "benefits": [
+      "₹3.6 lakh equity-free stipend",
+      "Up to $250k investment, follow-on of up to $5M through later rounds",
+      "Over $600k in partner credits (Azure, OpenAI, Anthropic and more)",
+      "Office space and SF Demo Day"
+    ],
+    "pros": [
+      "Stipend is yours even if you don't form a company",
+      "Transparent post-money terms",
+      "Strong co-founder matching"
+    ],
+    "cons": [
+      "8% equity plus the MFN SAFE if you take it",
+      "Requires relocating twice (Bangalore, then SF)",
+      "Not every team gets funded at Investment Committee",
+      "Stipend is modest for 12 weeks in Bangalore"
+    ],
+    "goodFitIf": [
+      "You're a strong technologist who wants to start a company but lacks a co-founder",
+      "You can relocate for six months",
+      "You aim for a global, venture-scale company"
+    ],
+    "skipIf": [
+      "You already have a team and traction (consider other accelerators)",
+      "You can't leave your job or city",
+      "You want to keep 100% equity"
+    ],
+    "insiderTips": [
+      "Treat FORM like a series of experiments: test several co-founders quickly",
+      "If you incorporate in India, EF uses compulsorily convertible preference shares (CCPS) on equivalent terms"
+    ],
+    "performance": {
+      "summary": "EF says its portfolio is collectively valued at over US$16 billion and that companies typically raise US$1–7M shortly after SF Demo Day. It does not publish Bangalore-specific cohort sizes.",
+      "metrics": [
+        {
+          "label": "Portfolio collective valuation (EF claim)",
+          "value": "Over US$16 billion",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Entrepreneurs First homepage",
+            "url": "https://www.joinef.com/"
+          }
+        },
+        {
+          "label": "Investment terms",
+          "value": "$125k for 8% + optional $125k MFN SAFE",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "EF Bangalore FAQ",
+            "url": "https://www.joinef.com/bangalore/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.joinef.com/",
+    "officialUrl": "https://www.joinef.com/bangalore/",
+    "sources": [
+      {
+        "label": "Entrepreneurs First homepage",
+        "url": "https://www.joinef.com/"
+      },
+      {
+        "label": "EF Bangalore FAQ",
+        "url": "https://www.joinef.com/bangalore/"
+      },
+      {
+        "label": "EF – Updating our global pre-seed offer (May 2024)",
+        "url": "https://www.joinef.com/posts/updating-our-global-pre-seed-investment-offer/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms are from EF's Bangalore FAQ (updated for April 2026 TDS). EF's homepage says office space is for nine months while the FAQ describes a 24-week programme; we use the FAQ. The next Bangalore cohort date is not on the official pages we read."
+  },
+  {
+    "slug": "antler-india-residency",
+    "name": "Antler India (AI Residency and Antler Direct)",
+    "shortName": "Antler India",
+    "provider": "Antler",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "equity"
+    ],
+    "maxAmountINR": 40000000,
+    "amountText": "Residency: ₹4 crore (about US$470,000) total investment for 11%, plus over US$1M in AI-related perks.",
+    "equity": "11% for ₹4 crore (Residency terms)",
+    "duration": "Residency: 3 weeks of intensive work, full-time in Bangalore",
+    "timeToMoney": "Antler says funding decisions are made in about 3 weeks",
+    "status": "call-based",
+    "deadline": "Next Residency 'to be announced soon'. You can also reach Antler India directly at any time.",
+    "stages": [
+      "idea",
+      "prototype"
+    ],
+    "sectors": [
+      "AI-first startups (main focus)",
+      "Any exceptional startup"
+    ],
+    "oneLiner": "An early-stage venture investor that backs Indian founders from day zero, offering ₹4 crore for 11% through its AI Residency.",
+    "what": "Antler invests in founders very early, sometimes before they have a product. Its India AI Residency runs a short, intense programme in Bangalore and aims to back over 60% of startups in a cohort with ₹4 crore for 11%. Founders can also pitch Antler directly outside the residency.",
+    "who": [
+      "Strong full-time founding teams, mainly building AI products",
+      "Actively experimenting with users to sharpen an MVP",
+      "Available to work full-time in Bangalore during the residency",
+      "Solo founders looking for co-founders can join the 'Before Day Zero' community (invite-only)"
+    ],
+    "notFor": [
+      "Part-time founders",
+      "Founders wanting grants or non-dilutive money",
+      "Teams that can't be in Bangalore"
+    ],
+    "why": [
+      "Large first cheque for idea-stage founders",
+      "Fast decisions",
+      "Global network across 27+ offices"
+    ],
+    "howItWorks": "Antler runs residency cohorts in Bangalore where teams build and pitch over a few weeks, then Antler decides whom to back. Outside cohorts, founders can contact Antler India directly; a warm referral helps.",
+    "steps": [
+      {
+        "title": "Watch for the next Residency",
+        "detail": "Antler India says the next one will be announced soon."
+      },
+      {
+        "title": "Or reach out directly",
+        "detail": "Contact Antler India through its site; a referral from a mutual contact works even better."
+      },
+      {
+        "title": "Join the Residency",
+        "detail": "Work full-time in Bangalore with other founders."
+      },
+      {
+        "title": "Pitch for investment",
+        "detail": "Decisions in about three weeks."
+      }
+    ],
+    "documents": [
+      "Founder profiles and track record",
+      "Problem, early user evidence or MVP",
+      "Short deck (optional at early stage)"
+    ],
+    "benefits": [
+      "₹4 crore investment (Residency)",
+      "Over US$1M in AI perks; up to US$4M in total perks",
+      "Potential follow-on capital (Antler cites up to US$30M)",
+      "Global founder community"
+    ],
+    "pros": [
+      "Backs founders before traction",
+      "Clear, published Residency terms",
+      "Strong AI focus in India"
+    ],
+    "cons": [
+      "11% equity is a sizeable stake at day zero",
+      "Residency timing is uncertain",
+      "Requires full-time presence in Bangalore"
+    ],
+    "goodFitIf": [
+      "You're a full-time AI founder at idea or MVP stage",
+      "You want a large first cheque fast",
+      "You can be in Bangalore"
+    ],
+    "skipIf": [
+      "You want to keep equity",
+      "You're working on it part-time",
+      "You need non-dilutive funding"
+    ],
+    "insiderTips": [
+      "A warm introduction from someone Antler knows works better than a cold form",
+      "Compare 11% for ₹4 crore against other pre-seed offers (YC, EF, Surge) before signing"
+    ],
+    "performance": {
+      "summary": "Antler says it has 115+ India portfolio companies and has supported 12,000+ founders globally.",
+      "metrics": [
+        {
+          "label": "India portfolio companies",
+          "value": "115+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Antler – India",
+            "url": "https://www.antler.co/location/india"
+          }
+        },
+        {
+          "label": "Founders supported globally",
+          "value": "12,000+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Antler – India",
+            "url": "https://www.antler.co/location/india"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.antler.co/location/india",
+    "officialUrl": "https://www.antler.co/location/india",
+    "sources": [
+      {
+        "label": "Antler – India",
+        "url": "https://www.antler.co/location/india"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms are from Antler's India page. Residency dates are not announced. The share of cohorts actually funded is Antler's stated aim ('60%+'), not a published result."
+  },
+  {
+    "slug": "peak-xv-surge",
+    "name": "Surge by Peak XV",
+    "shortName": "Surge",
+    "provider": "Peak XV Partners (formerly Sequoia India & SEA)",
+    "providerType": "private",
+    "state": null,
+    "launchedYear": 2019,
+    "instrument": [
+      "equity"
+    ],
+    "maxAmountINR": 425000000,
+    "amountText": "Seed investment from US$500,000 up to US$5 million (about ₹42.5 crore) per startup. Converted at about ₹85 per US dollar.",
+    "equity": "Equity (stake negotiated per deal; not published). No board seat at early stage.",
+    "duration": "8-week company-building programme ending with an Immersion in San Francisco; ongoing support",
+    "timeToMoney": "Peak XV says it replies to applications within 2–3 weeks; investment timing varies",
+    "status": "rolling",
+    "deadline": "Rolling, year-round. To join the 2026 immersion cohort, the deadline was 14 Aug 2026.",
+    "stages": [
+      "idea",
+      "prototype",
+      "early-revenue"
+    ],
+    "sectors": [
+      "Any (AI, deep tech, consumer, fintech, health and more)"
+    ],
+    "oneLiner": "Peak XV's seed programme that invests US$0.5–5 million in early founders and runs an 8-week company-building programme.",
+    "what": "Surge is how Peak XV, one of India's biggest VC firms, does seed investing. It invests between US$500,000 and US$5 million per startup, gives hands-on help across hiring, product and go-to-market, and runs a yearly cohort ending in a San Francisco immersion. This is equity investment, not a grant.",
+    "who": [
+      "Founders from any country at any stage, including idea stage",
+      "Strong founding teams in large markets",
+      "Early traction or customer love helps if you've launched",
+      "Any sector"
+    ],
+    "notFor": [
+      "Small or local businesses that won't become very large",
+      "Founders wanting non-dilutive money",
+      "Companies past seed stage"
+    ],
+    "why": [
+      "Large seed cheques from a top VC",
+      "Operators embedded across key functions",
+      "Strong follow-on track record (Surge companies have raised US$3B+)"
+    ],
+    "howItWorks": "You apply online any time (the form takes about 25 minutes) with a deck or Loom demo. The Surge team reviews on a rolling basis and replies in 2–3 weeks. Backed companies join the next cohort's 8-week programme and San Francisco immersion.",
+    "steps": [
+      {
+        "title": "Prepare a deck or Loom",
+        "detail": "Short pitch deck via Dropbox/Google Slides, or a Loom product demo + pitch video."
+      },
+      {
+        "title": "Fill the online form",
+        "detail": "About 25 minutes: company, founders, traction, funding so far."
+      },
+      {
+        "title": "Hear back in 2–3 weeks",
+        "detail": "The team reviews applications on a rolling basis."
+      },
+      {
+        "title": "Partner meetings and diligence",
+        "detail": "If there's interest, meet the Surge team."
+      },
+      {
+        "title": "Join the cohort",
+        "detail": "8-week programme ending in San Francisco."
+      }
+    ],
+    "documents": [
+      "Pitch deck or Loom demo video",
+      "Co-founders' names, emails, phone numbers, LinkedIn and city",
+      "Traction metrics (or N/A if pre-launch)",
+      "Funding raised so far"
+    ],
+    "benefits": [
+      "US$0.5–5M seed capital",
+      "Full-stack operator support (hiring, product, policy, PR, engineering, GTM)",
+      "San Francisco immersion with leading tech companies",
+      "Community of 400+ founders"
+    ],
+    "pros": [
+      "Big cheques for seed stage",
+      "Rolling applications, open to idea stage",
+      "No board seat at early stage"
+    ],
+    "cons": [
+      "Equity investment; you give up a stake (terms not published)",
+      "Very selective (18 companies in Surge 12)",
+      "Higher bar as cheque sizes rise"
+    ],
+    "goodFitIf": [
+      "You're building a venture-scale company",
+      "You want a lead seed investor with deep India networks",
+      "You can show founder-market fit"
+    ],
+    "skipIf": [
+      "You need a grant",
+      "Your business is small or local by design",
+      "You've already raised a Series A"
+    ],
+    "insiderTips": [
+      "Explain why your team is uniquely right for this problem; Surge says it looks closely at founder-market fit",
+      "A short Loom demo can stand in for a deck if you're pre-launch"
+    ],
+    "performance": {
+      "summary": "Surge has backed 170+ companies and 400+ founders. Surge 12 (September 2026) had 18 startups and was the first under the higher US$5M cap; Peak XV invested more than US$50M across that cohort.",
+      "metrics": [
+        {
+          "label": "Companies backed (cumulative)",
+          "value": "170+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Surge by Peak XV",
+            "url": "https://surge.peakxv.com/"
+          }
+        },
+        {
+          "label": "Follow-on funding raised by Surge companies",
+          "value": "US$3B+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Surge by Peak XV",
+            "url": "https://surge.peakxv.com/"
+          }
+        },
+        {
+          "label": "Surge 12 cohort size",
+          "value": "18 startups; US$50M+ invested by Peak XV",
+          "asOf": "2026-09-28",
+          "source": {
+            "label": "TechCrunch – Peak XV ups Surge seed ceiling to $5M",
+            "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://surge.peakxv.com/apply",
+    "officialUrl": "https://surge.peakxv.com/faqs",
+    "sources": [
+      {
+        "label": "Surge by Peak XV",
+        "url": "https://surge.peakxv.com/"
+      },
+      {
+        "label": "Surge – FAQs",
+        "url": "https://surge.peakxv.com/faqs"
+      },
+      {
+        "label": "Surge – Apply",
+        "url": "https://surge.peakxv.com/apply"
+      },
+      {
+        "label": "Surge 12 cohort page",
+        "url": "https://surge.peakxv.com/cohorts/surge-12"
+      },
+      {
+        "label": "TechCrunch – Peak XV ups Surge seed ceiling to $5M (Sep 2026)",
+        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Investment range and process are from Surge's official pages. Equity percentages are negotiated and not published. The 14 Aug 2026 immersion deadline comes from Surge's LinkedIn post. Launch year 2019 is widely reported but not stated on the pages we read."
+  },
+  {
+    "slug": "global-innovation-fund",
+    "name": "Global Innovation Fund",
+    "shortName": "GIF",
+    "provider": "Global Innovation Fund (London-based non-profit investment fund)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "grant",
+      "loan",
+      "convertible",
+      "equity"
+    ],
+    "maxAmountINR": 1275000000,
+    "amountText": "Pilot: up to US$230,000 (about ₹1.96 crore). Test & Transition: up to US$2.3M. Scale: up to US$15M (about ₹127.5 crore). Converted at about ₹85 per US dollar.",
+    "equity": "Depends on instrument: grants (no equity), loans/convertible debt, or equity investments",
+    "duration": "Staged; pilot projects typically 12–18 months",
+    "timeToMoney": "Not published; GIF says fewer than 10% of applicants are invited to submit a full application (per older guidance)",
+    "status": "closed",
+    "deadline": "Last application window closed 15 Jan 2025. GIF says future calls will be announced on its site.",
+    "stages": [
+      "prototype",
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any innovation that improves lives of people living on under ~$5 a day in developing countries"
+    ],
+    "oneLiner": "A global fund that gives grants, loans or equity to innovations that improve the lives of the world's poorest people, from pilot to large scale.",
+    "what": "GIF backs new technologies, business models and policy ideas that can reach millions of low-income people in developing countries, including India. It funds in stages: small pilots, then testing, then scale. Non-profits usually get grants; commercial businesses usually get debt or equity.",
+    "who": [
+      "For-profits, non-profits, researchers and government partners",
+      "Innovations in any developing country, including India",
+      "Must improve lives of people living on less than about $5 a day",
+      "Clear rationale for why the innovation beats existing approaches"
+    ],
+    "notFor": [
+      "Purely commercial projects seeking grant money (GIF says it cannot give grants for purely profit-making activity)",
+      "Projects with no plan to reach scale",
+      "Applicants outside a call window (currently closed)"
+    ],
+    "why": [
+      "Rare funder that goes from pilot to US$15M",
+      "Flexible mix of grants, debt and equity",
+      "Rigorous evidence focus builds credibility with governments"
+    ],
+    "howItWorks": "When a window is open you submit a short application. GIF's team reviews, invites the most promising to a full application, and assigns a stage. Funding is tied to testing assumptions, collecting evidence and scaling with partners.",
+    "steps": [
+      {
+        "title": "Read the funding guidance",
+        "detail": "Check What We Fund and Funding Stages on GIF's site."
+      },
+      {
+        "title": "Wait for a window",
+        "detail": "The last window closed 15 Jan 2025; watch the Apply for Funding page."
+      },
+      {
+        "title": "Submit the initial application",
+        "detail": "Explain the problem, innovation, evidence and path to scale."
+      },
+      {
+        "title": "Full application (if invited)",
+        "detail": "GIF advises on the right stage and instrument."
+      },
+      {
+        "title": "Due diligence and agreement",
+        "detail": "Agree milestones and monitoring and evaluation plans."
+      }
+    ],
+    "documents": [
+      "Evidence of need and early results",
+      "Cost-effectiveness and impact rationale",
+      "Scaling pathway (commercial, public or hybrid)",
+      "Monitoring and evaluation plan",
+      "Legal registration and financials"
+    ],
+    "benefits": [
+      "Stage-based capital up to US$15M",
+      "Support on impact evaluation",
+      "Links to governments and co-investors"
+    ],
+    "pros": [
+      "Very large amounts possible",
+      "Open to Indian innovators",
+      "Supports evaluation and evidence-building"
+    ],
+    "cons": [
+      "Currently closed to new applications",
+      "Highly selective and evidence-heavy",
+      "Commercial businesses usually must take debt or equity, not grants"
+    ],
+    "goodFitIf": [
+      "Your innovation serves very low-income people",
+      "You can measure impact rigorously",
+      "You aim to reach millions"
+    ],
+    "skipIf": [
+      "You build for middle-class or urban consumers",
+      "You need money in the near term",
+      "You can't run a formal impact evaluation"
+    ],
+    "insiderTips": [
+      "Start building evidence now (cost per outcome, user data) so you're ready when a window opens",
+      "Pick the instrument that matches your model: grants for non-revenue public goods, debt/equity for businesses"
+    ],
+    "performance": {
+      "summary": "GIF says its innovations have reached 138 million people and that each $1 it invests has attracted $8 of additional capital. It does not publish a per-year funding series on its homepage.",
+      "metrics": [
+        {
+          "label": "People reached to date",
+          "value": "138 million",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Global Innovation Fund homepage",
+            "url": "https://www.globalinnovation.fund/"
+          }
+        },
+        {
+          "label": "Additional capital attracted per $1 invested",
+          "value": "$8",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Global Innovation Fund homepage",
+            "url": "https://www.globalinnovation.fund/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.globalinnovation.fund/apply-for-funding",
+    "officialUrl": "https://www.globalinnovation.fund/funding-stages",
+    "sources": [
+      {
+        "label": "GIF – Apply for Funding",
+        "url": "https://www.globalinnovation.fund/apply-for-funding"
+      },
+      {
+        "label": "GIF – Funding Stages",
+        "url": "https://www.globalinnovation.fund/funding-stages"
+      },
+      {
+        "label": "GIF – FAQs",
+        "url": "https://www.globalinnovation.fund/frequently-asked-questions"
+      },
+      {
+        "label": "GIF homepage",
+        "url": "https://www.globalinnovation.fund/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "The Apply page still says the last window closed on 15 Jan 2025 with no new call; some third-party sites claim a 2026 rolling window, which we could not confirm on GIF's site. Launch year and number of India investments are not stated on the pages we read."
+  },
+  {
+    "slug": "rise-for-the-world",
+    "name": "Rise (Schmidt Futures and Rhodes Trust)",
+    "shortName": "Rise",
+    "provider": "Rise, an Eric and Wendy Schmidt initiative in partnership with the Rhodes Trust",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": 2019,
+    "instrument": [
+      "fellowship",
+      "grant"
+    ],
+    "maxAmountINR": null,
+    "amountText": "No fixed cash amount. Fellows got need-based four-year university scholarships, a laptop/tablet, a funded summit and could compete for a pool of at least US$5M a year for their ideas.",
+    "equity": "None",
+    "duration": "Lifelong programme starting at ages 15–17",
+    "timeToMoney": "Not applicable (no new cycles)",
+    "status": "closed",
+    "deadline": "Closed. Rise's FAQ says: 'There are no plans for additional cycles.'",
+    "stages": [
+      "student"
+    ],
+    "sectors": [
+      "Any (service-oriented projects)"
+    ],
+    "oneLiner": "A global programme that picked up to 100 teenagers (aged 15–17) a year for lifelong scholarships and support; it is no longer taking applications.",
+    "what": "Rise searched the world for promising 15–17-year-olds committed to serving others. Winners became Rise Fellows with need-based university scholarships, mentoring, technology and access to competitive funding for their ideas. Many Indian students applied. Its FAQ now says there are no plans for more application cycles, so this is listed for reference only.",
+    "who": [
+      "Was open to 15–17-year-olds worldwide (ideal for Class 10–12 students)",
+      "Parent or guardian consent required",
+      "Some English needed",
+      "No test scores or academic requirements"
+    ],
+    "notFor": [
+      "Anyone right now: no further cycles are planned",
+      "People over 17 when applying"
+    ],
+    "why": [
+      "Shows Class 11–12 students the kind of global programmes that exist",
+      "Past fellows and finalists can still access community benefits"
+    ],
+    "howItWorks": "Applicants completed a project and application; finalists went through further rounds and interviews, and up to 100 Global Winners were named each year. Fellows attended a mandatory residential summit and received benefits over their lifetimes.",
+    "steps": [
+      {
+        "title": "Check status first",
+        "detail": "Rise's FAQ says there are no plans for more cycles."
+      },
+      {
+        "title": "Look at alternatives",
+        "detail": "Students can consider Emergent Ventures India (13+) or the Breakthrough Junior Challenge (13–18)."
+      },
+      {
+        "title": "Sign up for updates",
+        "detail": "If Rise ever restarts, it will announce on risefortheworld.org."
+      },
+      {
+        "title": "Build a service project anyway",
+        "detail": "The same portfolio helps with other programmes and college applications."
+      }
+    ],
+    "documents": [
+      "Not applicable while closed"
+    ],
+    "benefits": [
+      "Need-based 4-year university scholarship (for Fellows)",
+      "Funded residential summit",
+      "Starter technology package",
+      "Competitive funding pool of at least US$5M a year"
+    ],
+    "pros": [
+      "Was free to apply with no academic requirements",
+      "Lifelong support for winners",
+      "Truly global and open to Indians"
+    ],
+    "cons": [
+      "No new application cycles planned",
+      "Was extremely selective (up to 100 winners worldwide a year)",
+      "Many websites still advertise old deadlines"
+    ],
+    "goodFitIf": [
+      "You're a past Rise finalist or fellow looking for community benefits",
+      "You're a teacher or parent researching what global youth programmes look like",
+      "You want a model of a strong service-project portfolio to copy for other applications"
+    ],
+    "skipIf": [
+      "You're hoping to apply now: it's closed",
+      "You see a 'Rise 2027 deadline' on a third-party site; it is not confirmed by Rise",
+      "You need money for a startup (Rise never gave startup cheques directly)"
+    ],
+    "insiderTips": [
+      "Ignore third-party sites listing new Rise deadlines unless risefortheworld.org confirms them",
+      "Your Rise-style project can still be used for Emergent Ventures India or the Breakthrough Junior Challenge"
+    ],
+    "performance": {
+      "summary": "From 2021 to 2024 Rise selected 400 Global Winners from 103 nationalities, plus 1,600 finalists. It now says there are no plans for additional cycles.",
+      "metrics": [
+        {
+          "label": "Rise Fellows / Global Winners (cumulative)",
+          "value": "400 from 103 nationalities",
+          "asOf": "2024-09-17",
+          "source": {
+            "label": "Rise – 2024 Global Winners announcement",
+            "url": "https://www.risefortheworld.org/2024-rise-global-winner-announcement/"
+          }
+        },
+        {
+          "label": "Finalists (cumulative)",
+          "value": "1,600",
+          "asOf": "2024-09-17",
+          "source": {
+            "label": "Rise – 2024 Global Winners announcement",
+            "url": "https://www.risefortheworld.org/2024-rise-global-winner-announcement/"
+          }
+        },
+        {
+          "label": "Fellows attending university",
+          "value": "333 at 134 universities in 21 countries",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Rise – Fellows",
+            "url": "https://www.risefortheworld.org/global-winners/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.risefortheworld.org/faq/",
+    "officialUrl": "https://www.risefortheworld.org/",
+    "sources": [
+      {
+        "label": "Rise – FAQ",
+        "url": "https://www.risefortheworld.org/faq/"
+      },
+      {
+        "label": "Rise – Home",
+        "url": "https://www.risefortheworld.org/"
+      },
+      {
+        "label": "Rise – Fellows",
+        "url": "https://www.risefortheworld.org/global-winners/"
+      },
+      {
+        "label": "Rise – 2024 Global Winners announcement",
+        "url": "https://www.risefortheworld.org/2024-rise-global-winner-announcement/"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Status 'closed' is based on Rise's own FAQ ('There are no plans for additional cycles'). Some third-party sites list a January 2027 deadline; we could not confirm it on Rise's site. The dollar value of scholarships is need-based and not published."
+  },
+  {
+    "slug": "breakthrough-junior-challenge",
+    "name": "Breakthrough Junior Challenge",
+    "shortName": "Breakthrough Junior",
+    "provider": "Breakthrough Prize Foundation",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "prize"
+    ],
+    "maxAmountINR": 21250000,
+    "amountText": "Winner: US$250,000 (about ₹2.1 crore) university scholarship; plus US$50,000 for an inspiring teacher and up to US$100,000 for a new science lab at the winner's school. Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "Annual competition (2026 cycle ran 11 May–15 Sep 2026)",
+    "timeToMoney": "Scholarship paid directly to your university once enrolled; must be used within 8 years of finishing school",
+    "status": "call-based",
+    "deadline": "2026 cycle closed 15 Sep 2026. The 2026 cycle opened on 11 May; watch the site for 2027.",
+    "stages": [
+      "student"
+    ],
+    "sectors": [
+      "Science and mathematics explainers"
+    ],
+    "oneLiner": "A global video competition for 13–18-year-olds: explain a big idea in science or maths in a short video and win a US$250,000 scholarship.",
+    "what": "Students make a short, creative video explaining a concept in physics, life sciences or mathematics. One winner gets a US$250,000 scholarship for university study anywhere, their teacher gets US$50,000 and their school gets a science lab. It's not startup money, but it's one of the biggest prizes open to Indian Class 9–12 students.",
+    "who": [
+      "Ages 13–18 (2026 rules: 13 by 11 May 2026, not yet 19 by 1 Oct 2026)",
+      "Students from all over the world, including India and homeschooled students",
+      "Entries in English",
+      "Parent/guardian permission if you are a minor"
+    ],
+    "notFor": [
+      "Anyone 19 or older on the cut-off date",
+      "Past winners",
+      "People living in countries under comprehensive US sanctions"
+    ],
+    "why": [
+      "Huge scholarship for university abroad or in India",
+      "Rewards your teacher and school too",
+      "Great portfolio piece for college applications"
+    ],
+    "howItWorks": "You submit an application and video before the September deadline. To stay eligible for the scholarship, you must also score at least five other entries during peer review. Judges pick finalists and one winner.",
+    "steps": [
+      {
+        "title": "Pick one concept",
+        "detail": "Choose a big idea in physics, life sciences or maths you can explain clearly."
+      },
+      {
+        "title": "Script and film",
+        "detail": "Make a short, engaging explainer video."
+      },
+      {
+        "title": "Create an account and apply",
+        "detail": "Sign up on the Breakthrough Junior Challenge site and submit before the deadline."
+      },
+      {
+        "title": "Do peer review",
+        "detail": "Score at least five other submissions by the review deadline (30 Sep in 2026)."
+      },
+      {
+        "title": "Judging and results",
+        "detail": "Winner announced on a date set by the sponsor."
+      }
+    ],
+    "documents": [
+      "Your video",
+      "Online application",
+      "Parent/guardian consent (if under 18)",
+      "Proof of age (if you win)"
+    ],
+    "benefits": [
+      "US$250,000 university scholarship",
+      "US$50,000 for an inspiring teacher",
+      "Up to US$100,000 science lab for your school"
+    ],
+    "pros": [
+      "Open to Indian school students",
+      "Free to enter",
+      "Builds communication and science skills"
+    ],
+    "cons": [
+      "Scholarship money only, not cash for a startup",
+      "Only one winner per year",
+      "You must assign rights to your video to the sponsor"
+    ],
+    "goodFitIf": [
+      "You're 13–18 and love explaining science or maths",
+      "You're planning university study",
+      "You can make a strong short video"
+    ],
+    "skipIf": [
+      "You want funding for a business",
+      "You're 19 or older",
+      "You don't want to give up rights to your video"
+    ],
+    "insiderTips": [
+      "Don't skip peer review: you must score at least five entries to stay eligible for the scholarship",
+      "Sign up early to get updates; the cycle opens in May and closes mid-September"
+    ],
+    "performance": {
+      "summary": "The Breakthrough Prize Foundation runs the challenge every year with one main winner. It does not publish entry counts on the pages we read.",
+      "metrics": [
+        {
+          "label": "Total prize value per winner",
+          "value": "About US$400,000 (scholarship + teacher award + lab)",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Breakthrough Junior Challenge – Rules",
+            "url": "https://breakthroughjuniorchallenge.org/rules/"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://breakthroughjuniorchallenge.org/enter/",
+    "officialUrl": "https://breakthroughjuniorchallenge.org/rules/",
+    "sources": [
+      {
+        "label": "Breakthrough Junior Challenge",
+        "url": "https://breakthroughjuniorchallenge.org/"
+      },
+      {
+        "label": "Breakthrough Junior Challenge – Enter",
+        "url": "https://breakthroughjuniorchallenge.org/enter/"
+      },
+      {
+        "label": "Breakthrough Junior Challenge – Rules",
+        "url": "https://breakthroughjuniorchallenge.org/rules/"
+      },
+      {
+        "label": "Breakthrough Junior Challenge – FAQ",
+        "url": "https://breakthroughjuniorchallenge.org/faq"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Prize and eligibility are from the official 2026 rules. The 2027 cycle dates are not yet published. Launch year and entry numbers are not stated on the pages we read."
+  },
+  {
+    "slug": "cartier-womens-initiative",
+    "name": "Cartier Women's Initiative – Regional Awards (South Asia & Central Asia)",
+    "shortName": "Cartier Women's Initiative",
+    "provider": "Cartier (Richemont Group)",
+    "providerType": "global",
+    "state": null,
+    "launchedYear": null,
+    "instrument": [
+      "grant",
+      "fellowship"
+    ],
+    "maxAmountINR": 8500000,
+    "amountText": "Grants per region: US$100,000 (1st, about ₹85 lakh), US$60,000 (2nd), US$30,000 (3rd), plus a year-long fellowship. Converted at about ₹85 per US dollar.",
+    "equity": "None",
+    "duration": "Fellowship runs January–December of the award year; impact reporting for 3 years after",
+    "timeToMoney": "Applications close mid-year; fellows are announced around the start of the next year",
+    "status": "call-based",
+    "deadline": "2027 edition closed (deadline was 16 June 2026). Watch for the 2028 edition call.",
+    "stages": [
+      "early-revenue",
+      "growth"
+    ],
+    "sectors": [
+      "Any impact-driven business supporting a UN SDG"
+    ],
+    "oneLiner": "A grant and fellowship for women-led impact businesses, with a dedicated South Asia region that includes India.",
+    "what": "Cartier picks the top three women-led impact businesses in each of nine world regions, including South Asia and Central Asia. Winners get a grant of US$30,000–100,000, leadership coaching, an INSEAD programme and media exposure. It is for businesses already making revenue, not ideas.",
+    "who": [
+      "Woman founder in a main leadership role (CEO, COO, CTO etc.) owning a share at least equal to each co-founder",
+      "For-profit, incorporated business majority-owned by founders/team",
+      "Annual revenue US$50,000–5 million and 5–250 team members",
+      "Raised no more than US$2 million in dilutive funding; good English (CEFR B2+)"
+    ],
+    "notFor": [
+      "Non-profits",
+      "Idea-stage or pre-revenue startups",
+      "Spin-offs or franchises",
+      "Businesses that applied to the programme before"
+    ],
+    "why": [
+      "Non-dilutive grant up to US$100,000",
+      "Global visibility and media training",
+      "Leadership coaching and INSEAD programme"
+    ],
+    "howItWorks": "Applicants submit online via Submittable during the call. Five shortlisted candidates per category pitch to a jury (10-minute presentation + Q&A), with third-party due diligence. The top three per region become fellows for the following year.",
+    "steps": [
+      {
+        "title": "Check eligibility",
+        "detail": "Revenue, team size, funding cap and ownership rules are strict."
+      },
+      {
+        "title": "Read the applicant guide and rubric",
+        "detail": "Cartier publishes both before the call."
+      },
+      {
+        "title": "Apply on Submittable",
+        "detail": "The founder must fill and own the application herself."
+      },
+      {
+        "title": "Shortlist and jury pitch",
+        "detail": "Top five per region pitch to the jury."
+      },
+      {
+        "title": "Due diligence",
+        "detail": "An independent third party checks your business."
+      },
+      {
+        "title": "Fellowship year",
+        "detail": "Filming, workshops, INSEAD programme and coaching."
+      }
+    ],
+    "documents": [
+      "Professionally prepared or audited financial statements",
+      "Proof of incorporation and ownership",
+      "Impact evidence linked to SDGs",
+      "Team and revenue details"
+    ],
+    "benefits": [
+      "Grant of US$30,000–100,000",
+      "INSEAD Women's Impact Entrepreneurship Program",
+      "One-to-one coaching and media training",
+      "Community of 500+ members"
+    ],
+    "pros": [
+      "Non-dilutive",
+      "Separate South Asia category gives Indian founders a fairer shot",
+      "Strong leadership development"
+    ],
+    "cons": [
+      "Only 3 winners per region per year",
+      "Needs audited/professional financials and US$50k+ revenue",
+      "Big time commitment across a full year"
+    ],
+    "goodFitIf": [
+      "You're a woman leading a revenue-making impact business",
+      "You've raised under US$2M in equity",
+      "You can commit time for a year-long fellowship"
+    ],
+    "skipIf": [
+      "You're pre-revenue",
+      "You run a non-profit",
+      "You've already raised more than US$2M in equity"
+    ],
+    "insiderTips": [
+      "Get financial statements professionally prepared before the call opens",
+      "Use the published scoring rubric to structure every answer"
+    ],
+    "performance": {
+      "summary": "Cartier names three fellows in each of nine regions every year. Its community has 500+ active members. The 2026 fellows were celebrated in Bangkok in June 2026.",
+      "metrics": [
+        {
+          "label": "Fellows per edition",
+          "value": "Top 3 in each of 9 regions",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Cartier Women's Initiative – Regional Awards",
+            "url": "https://www.cartierwomensinitiative.com/regional-awards"
+          }
+        },
+        {
+          "label": "Active community members",
+          "value": "500+",
+          "asOf": "2026-10-27",
+          "source": {
+            "label": "Cartier Women's Initiative – Regional Awards",
+            "url": "https://www.cartierwomensinitiative.com/regional-awards"
+          }
+        }
+      ],
+      "series": []
+    },
+    "applyUrl": "https://www.cartierwomensinitiative.com/regional-awards",
+    "officialUrl": "https://www.cartierwomensinitiative.com/regional-awards",
+    "sources": [
+      {
+        "label": "Cartier Women's Initiative – Regional Awards",
+        "url": "https://www.cartierwomensinitiative.com/regional-awards"
+      },
+      {
+        "label": "Cartier Women's Initiative – 2027 Terms & Conditions (PDF)",
+        "url": "https://www.cartierwomensinitiative.com/v3/assets/bltb7e02857fe9fdf11/blt0fabdb480b8437fc/696f9c0e1ac97b933a2d6936/2027_-_CWI_Terms_and_Conditions.pdf"
+      },
+      {
+        "label": "Cartier Women's Initiative – Awards",
+        "url": "https://www.cartierwomensinitiative.com/awards"
+      }
+    ],
+    "lastVerified": "2026-10-27",
+    "confidenceNote": "Terms are from Cartier's official pages and 2027 terms. The 2028 call dates are not yet published. Number of Indian fellows to date is not published on the pages we read."
+  }
+]

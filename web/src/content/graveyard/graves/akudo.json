@@ -1,0 +1,181 @@
+{
+  "slug": "akudo",
+  "name": "Akudo",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Teen fintech",
+  "founded": 2020,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#6c4bf4",
+  "founders": [
+    { "name": "Lavika Aggarwal", "role": "Co-founder" },
+    { "name": "Sajal Khanna", "role": "Co-founder" },
+    { "name": "Jagveer Gandhi", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Taught teens to save. Ran out of savings.",
+  "oneLiner": "A 'learning-first' digital bank for Indian teenagers: a debit card and UPI that parents could control, plus lessons on money.",
+  "causeOfDeath": "It ran on a partner's payment licence. When the RBI barred UPI in such tie-ups, most of its business vanished, and its seed money was nearly gone.",
+
+  "raisedUsdM": 4.2,
+  "peakValuationUsdM": null,
+  "endValueUsdM": 0,
+  "moneyNote": "Only a $4.2M seed round (September 2021) was reported; no valuation was published. The company wound up with no reported buyer, so end value is $0. Revenue and loss are from filings as shown on Inc42's company data pages.",
+  "moneySrc": [0, 5],
+
+  "inOneMinute": [
+    "Akudo gave Indian teens their **own card and UPI**, with parental controls and money lessons. Y Combinator backed it.",
+    "It did not hold a payment licence itself. In June 2023 an **RBI rule stopped UPI in such partnerships**, and UPI was over 70% of its business.",
+    "With little revenue and no new funding, it **shut its wallet on 31 December 2023**."
+  ],
+  "killerLine": "If your product runs on someone else's licence, **one regulator's letter can switch you off**. Know your rules before you build.",
+
+  "numbers": [
+    { "value": "$4.2 mn", "label": "seed round led by Y Combinator (Sep 2021)", "src": [0] },
+    { "value": "100K+", "label": "registered teens claimed in 2021, with cards sent to 350+ cities", "src": [0] },
+    { "value": "70%+", "label": "of its business came from UPI, the part the RBI rule stopped", "src": [1] },
+    { "value": "₹70 lakh", "label": "revenue in FY23, its last full year of operation", "src": [5, 6] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a bank account for teenagers",
+      "body": "Most Indian teenagers learn about money from pocket cash and their parents' advice. Akudo, started in Bengaluru in 2020 by Lavika Aggarwal, Sajal Khanna and Jagveer Gandhi, wanted to change that. It called itself a **\"learning-first neobank for teenagers\"** (a neobank is a bank-like app without branches). Teens got a debit card and UPI they could use themselves, while parents could set limits. The app rewarded good habits like saving and explained money words in short videos. TechCrunch, covering Y Combinator's Summer 2021 Demo Day, praised its focus on financial literacy. The idea was kind, useful and easy to love. Akudo spotted a real gap: almost nobody was teaching Indian teens to manage money.",
+      "src": [0, 3, 4, 5]
+    },
+    {
+      "title": "The rise: Y Combinator and 100,000 sign-ups",
+      "body": "Akudo grew quickly for a tiny team. By its Demo Day it had over 70,000 users. In September 2021 it raised a **$4.2 million seed round** led by Y Combinator, JAFCO Asia, Incubate Fund India and AET Fund, with Groww co-founder Lalit Keshre among the angels. It claimed **over 100,000 registered customers**, more than 25,000 cards issued and cards delivered to over 350 cities. It planned to grow the team from 12 to 50 people in 12–18 months. But there was a quiet weakness. Akudo was not itself licensed to issue wallets or cards. It worked through a **partner licence holder, LivQuik**, with infrastructure from M2P Fintech, in what is called a co-branding arrangement.",
+      "src": [3, 0, 1]
+    },
+    {
+      "title": "The cracks: small money, big costs",
+      "body": "Teenagers don't spend much, and payments earn very little per transaction. In FY23 Akudo's revenue was about **₹70 lakh**. That is tiny next to the cost of a fintech team, cards and compliance. It wasn't alone. Its rival Fampay reportedly collected only ₹3 crore while spending about ₹50 crore in FY22. Then, in June 2023, the Reserve Bank of India (RBI) issued a direction: wallet issuers must **stop UPI in co-branding arrangements**. Companies without their own licence, including Akudo, Fampay, Dream11's DreamX and Muvin, had to stop offering UPI. For Akudo, sources said UPI was **more than 70%** of the business, and cards about 25%.",
+      "src": [5, 6, 1]
+    },
+    {
+      "title": "The fall: 'please withdraw your money'",
+      "body": "Akudo tried to raise more money, but sources told Entrackr that it did not come through. The company was \"running out of money\". In September 2023 it stopped signing up new users and told LivQuik and M2P it was shutting its core UPI and card business. In December, users opened the app to find a notice: **\"Akudo wallet will be shut down on Dec 31, 2023.\"** They were asked to withdraw their balances as soon as possible. Akudo shut down quietly, about two years after its seed round. Its FY24 filings show revenue of ₹49.2 lakh and a loss of ₹6.1 crore. Of the teen-banking startups, mainly Junio and Fampay were left.",
+      "src": [1, 2, 6]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2020", "event": "Akudo founded in Bengaluru", "kind": "start", "src": [5] },
+    { "date": "Aug 2021", "event": "Presents at Y Combinator's Summer 2021 Demo Day with 70,000+ users", "kind": "peak", "src": [3] },
+    { "date": "Sep 2021", "event": "Raises $4.2M seed led by Y Combinator, JAFCO Asia, Incubate Fund India and AET Fund", "kind": "money", "src": [0] },
+    { "date": "FY23", "event": "Revenue of about ₹70 lakh", "kind": "warning", "src": [5, 6] },
+    { "date": "Jun 2023", "event": "RBI directs wallet issuers to stop UPI in co-branding arrangements", "kind": "crisis", "src": [1] },
+    { "date": "Sep 2023", "event": "Stops onboarding users; moves to shut its UPI and card business as cash runs low", "kind": "crisis", "src": [1] },
+    { "date": "Dec 2023", "event": "Tells users to withdraw funds; wallet shut on 31 Dec 2023", "kind": "end", "src": [2] },
+    { "date": "FY24 filings", "event": "Revenue ₹49.2 lakh; loss ₹6.1 crore", "kind": "after", "src": [6] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs loss",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY23", "FY24"],
+      "series": [
+        { "name": "Revenue", "values": [0.701, 0.492] },
+        { "name": "Net loss", "values": [null, 6.1] }
+      ],
+      "takeaway": "Even in its wind-down year, Akudo lost more than ₹12 for every ₹1 it earned.",
+      "src": [6]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Sep 2021", "round": "Seed", "amountUsdM": 4.2, "valuationUsdM": null, "investors": ["Y Combinator", "JAFCO Asia", "Incubate Fund India", "AET Fund", "Tribe Capital", "Cabra Capital", "Lalit Keshre"], "src": [0] }
+  ],
+
+  "causes": [
+    { "key": "regulation", "weight": 40 },
+    { "key": "business-model", "weight": 30 },
+    { "key": "funding-dried", "weight": 30 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Building the core product on a borrowed licence",
+      "explain": "Akudo's wallet and UPI ran through a partner's licence. When the RBI barred UPI in co-branding arrangements, **over 70% of its business stopped** because of a rule about its partner's licence. Startups in regulated fields like payments, lending or insurance need a plan for the day a regulator tightens the rules.",
+      "src": [1]
+    },
+    {
+      "title": "Customers with very little money",
+      "explain": "Teenagers spend small amounts, and payments earn tiny fees. Akudo's FY23 revenue was **about ₹70 lakh**. Its rival Fampay reportedly collected ₹3 crore while spending ₹50 crore in FY22. The whole category had not found a way to make teen banking pay, and Akudo didn't find one before its money ran low.",
+      "src": [5, 1]
+    },
+    {
+      "title": "Only one round of fuel",
+      "explain": "Akudo raised **one $4.2 million seed round** and planned to quadruple its team. When the rules changed in 2023, new funding didn't come. A seed round buys time to prove a business model; without that proof, the second cheque is very hard to get.",
+      "src": [0, 1]
+    }
+  ],
+
+  "warningSigns": [
+    "Does our main product depend on another company's licence or approval?",
+    "Would a single new rule from a regulator remove more than half our revenue?",
+    "Do our users have so little money that even heavy use earns us almost nothing?",
+    "Are we hiring fast before we know how we'll make money?",
+    "Are rivals in our niche also losing far more than they earn?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Read the rulebook before you build",
+      "detail": "In fintech, health or education, regulators decide what's allowed. Read the rules, talk to a lawyer early and ask: what if this rule gets stricter? Build so you can survive that."
+    },
+    {
+      "title": "Don't let one partner hold your on/off switch",
+      "detail": "If a partner's licence powers your product, plan a backup: a second partner, your own licence over time, or features that work without it."
+    },
+    {
+      "title": "Find out who pays",
+      "detail": "Teens loved Akudo, but teens don't have much money. Ask early: will parents pay a fee, will brands pay to reach teens, or will schools pay? A loved product still needs a payer."
+    },
+    {
+      "title": "Stretch seed money",
+      "detail": "Seed money should prove your business can earn, not just that people sign up. Keep the team small until you've found a revenue model that works."
+    },
+    {
+      "title": "Shut down with care",
+      "detail": "Akudo told users clearly how and when to withdraw their money. If you ever have to close, protect your customers' money first. Your name stays with you."
+    }
+  ],
+
+  "quote": {
+    "text": "Akudo wallet will be shut down on Dec 31, 2023.",
+    "who": "Akudo in-app notice to users",
+    "context": "Sent in December 2023, asking users to withdraw their balances as soon as possible.",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "Akudo wound up after asking users to withdraw their money by the end of 2023. The RBI rule that hurt it also forced other teen and gaming apps to stop UPI. Entrackr noted that, after Akudo, the teen-banking space was largely left to Junio and Fampay. The problem it tackled, teaching Indian teens about money, is still wide open.",
+    "src": [2, 1]
+  },
+
+  "sources": [
+    { "label": "Entrackr: Y Combinator and others lead $4.2 Mn seed round in Akudo (Sep 2021)", "url": "https://entrackr.com/2021/09/y-combinator-and-others-lead-4-2-mn-seed-round-in-akudo/" },
+    { "label": "Entrackr: Y Combinator-backed Akudo to shut down operations (Sep 2023)", "url": "https://entrackr.com/2023/09/exclusive-y-combinator-backed-akudo-to-shut-down-ops/" },
+    { "label": "Entrackr: Akudo shuts down wallet, asks users to withdraw funds (Dec 2023)", "url": "https://entrackr.com/2023/12/exclusive-yc-backed-akudo-shuts-down-wallet-asks-users-to-withdraw-funds/" },
+    { "label": "TechCrunch: Our favorite startups from YC's Summer 21 Demo Day, Part 1 (Aug 2021)", "url": "https://techcrunch.com/2021/08/31/our-favorite-startups-from-ycs-summer-21-demo-day-part-1/" },
+    { "label": "Y Combinator: Akudo company page", "url": "https://www.ycombinator.com/companies/akudo" },
+    { "label": "Inc42 company profile: Akudo (founders, founding year, revenue)", "url": "https://inc42.com/company/akudo/" },
+    { "label": "Inc42 company data: Akudo financials (FY23–FY24)", "url": "https://inc42.com/company/akudo/financials/" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "UPI was over 70% of Akudo's business.", "note": "From unnamed sources quoted by Entrackr; the company did not respond." },
+      { "claim": "User numbers (70,000+ in Aug 2021; 100,000+ registered in Sep 2021).", "note": "Company claims at fundraising time; active users were not disclosed." },
+      { "claim": "FY23 loss.", "note": "Not shown on the data page we read, so left blank in the chart." },
+      { "claim": "Fampay's FY22 figures (₹3 crore collected, ~₹50 crore spent).", "note": "Reported by Entrackr as context; used only as a sector comparison." }
+    ]
+  }
+}

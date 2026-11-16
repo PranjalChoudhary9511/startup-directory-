@@ -1,0 +1,2325 @@
+{
+ "chapters": [
+  {
+   "id": "every-company",
+   "kicker": "Every venture, win or lose",
+   "title": "Everything He Ever Built",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most people can name one Bill Gates company. The full list runs from a teenage payroll job to a nuclear plant going up in Wyoming. Along the way it takes in a satellite internet that was never built, a cartoon house guided by a dog, and a wristwatch that picked up news over FM radio.",
+     "src": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Watch one pattern as you read. After the 1980s, almost every bet below was paid for by Microsoft, either as a company project or from Gates's own Microsoft wealth. __A flop cost him pride and money, never survival. Most founders have no such cushion, so copy his thinking, not his risk level.__",
+     "src": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Read the failures as carefully as the wins."
+    },
+    {
+     "t": "h",
+     "text": "Before Microsoft: two teenage businesses"
+    },
+    {
+     "t": "venture",
+     "name": "Lakeside Programmers Group",
+     "years": "1970–1972",
+     "outcome": "shut",
+     "idea": "A small band of Lakeside School students sold programming work to grown-up companies. Their big job was a payroll program for a time-sharing firm in Portland, Oregon.",
+     "decision": "They wanted computer time, which cost real money. When the Portland firm said free time had to be earned, they agreed to write payroll software. Gates negotiated the deal himself. Paul Allen and another older boy first pushed him out, then needed him back.",
+     "howStarted": "No office, just a school computer room. The group was four friends: Gates, Allen, Kent Evans and Ric Weiland. Their first customer was Information Sciences in Portland.",
+     "funding": "None. The payment ran the other way, in free computer time rather than cash.",
+     "whatHappened": "Gates returned on his own terms: he would be in charge from then on. In 1972 Lakeside paid him $4,200 for a class-scheduling program. The group faded as its members moved on to college and paid jobs.",
+     "lesson": "Your first customer can pay in something other than cash. Access, tools and experience can be worth more at 15.",
+     "src": [
+      0,
+      8,
+      9
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Traf-O-Data",
+     "years": "about 1972 to the late 1970s",
+     "outcome": "failed",
+     "idea": "Towns counted traffic with a rubber hose across the road. A box punched holes in paper tape every 15 minutes, and clerks read the tape by hand. Gates and Allen wanted to turn that tape into clean charts, cheaply.",
+     "decision": "Gates had seen the dull work on a summer job. The pair thought software could do it faster, and later that a small computer could do it automatically. Allen admitted they did no market research first.",
+     "howStarted": "Gates hired younger Lakeside students at 50 cents a tape to copy the data onto cards. A third partner, Paul Gilbert, then built a machine to read the tapes. The first customers included the Washington state roads department, small counties near Seattle and a district in British Columbia.",
+     "funding": "Their own programming earnings. They scraped together $360 to buy a special-order Intel 8008 chip.",
+     "whatHappened": "They charged about $2 a day for data. Reports say the work netted close to $20,000. Then Washington and other states began offering the same service free, and local officials did not want to buy machines from students. The business died while Microsoft was taking off.",
+     "lesson": "Check who else could give your product away free, and whether your buyer is allowed to buy from you.",
+     "src": [
+      10,
+      5,
+      0
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Traf-O-Data lost, yet it taught them how a microprocessor really worked. Allen later wrote that without it, and without all those hours on University of Washington computers, Microsoft might never have happened. __The failure paid off years later, in skill rather than cash.__",
+     "src": [
+      10
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The one that worked"
+    },
+    {
+     "t": "venture",
+     "name": "Microsoft",
+     "years": "1975–present",
+     "outcome": "public",
+     "idea": "Cheap chips would put a computer on every desk, and every one of those computers would need software. Gates and Allen chose to write that software and sell it to the people making the machines.",
+     "decision": "Allen kept bringing ideas that involved building hardware. Gates kept shooting them down, saying that they were not hardware experts and that software was what they knew. The Altair kit in 1975 gave them a customer for exactly that skill.",
+     "howStarted": "First home: Albuquerque, New Mexico, to be near MITS, which made the Altair. In 1976 they rented eighth-floor offices in Two Park Central Tower. In 1975 the team was Gates, Allen and Ric Weiland. MITS came first, then GE, NCR and Citibank.",
+     "funding": "Almost nothing. One account puts the start at a $1,500 shoestring. MITS paid $3,000 on signing plus royalties. Gates never used his family inheritance on the company, and it did not sell any stock to an outsider until 1981.",
+     "whatHappened": "Sales went from $16,005 in 1975 to over $1 million in 1978 and $16 million in 1981. The IBM PC deal in 1980 made its operating system the world standard. It went public in 1986. In the three months to September 2026 it made $92.3 billion in revenue.",
+     "lesson": "A business that lives on its own cash keeps its founder in charge. Take outside money only when it buys something you cannot build.",
+     "src": [
+      11,
+      12,
+      13,
+      14,
+      9,
+      5,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: at $92.3 billion a quarter, Microsoft now takes in roughly $11,600 every second. Its entire first year of sales, $16,005, would be earned in under two seconds. That sum is our own arithmetic from the two published figures.",
+     "src": [
+      17,
+      15
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Inside Microsoft: the products that flopped, or nearly did"
+    },
+    {
+     "t": "p",
+     "text": "Gates ran Microsoft as chief executive until January 2000, then stayed on as chairman and chief software architect until mid-2008. So the company's flops from those years are his flops too. He has never pretended otherwise, as you will see with the phone.",
+     "src": [
+      15,
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Multiplan and the first Word",
+     "years": "1982 to about 1990",
+     "outcome": "pivoted",
+     "idea": "Microsoft's first attempts at office software for ordinary business users: a spreadsheet and a word processor.",
+     "decision": "Gates decided a platform company should also own the programs people used all day. Controlling the operating system alone did not make people buy Microsoft's applications.",
+     "howStarted": "Built inside Microsoft. A January 1982 deal with Apple also had Microsoft writing programs, Multiplan among them, for the coming Macintosh.",
+     "funding": "Microsoft's own profits.",
+     "whatHappened": "They got crushed. Gates has said Lotus 1-2-3 owned spreadsheets, while WordPerfect and others owned word processing and Word sat at about number four. His answer was to stop fighting on the old ground. Microsoft bet on graphics, built Excel for the Mac in 1985, and arrived on Windows first when rivals hesitated. By the time Windows 95 shipped, Office was beating them all.",
+     "lesson": "If you are losing on today's platform, do not try harder there. Be first on the next one.",
+     "src": [
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Windows 1.0 and 2.0",
+     "years": "1983–1990",
+     "outcome": "pivoted",
+     "idea": "A graphical layer on top of MS-DOS, so that people could click on pictures with a mouse instead of typing commands.",
+     "decision": "Rivals such as VisiCorp were close, and Gates wanted to claim the ground early. So Microsoft announced Windows on 10 November 1983, long before it was ready. Two years later it also signed with IBM for a different system, keeping two bets alive.",
+     "howStarted": "A small team inside Microsoft. The $99 first version came with a notepad, a calendar, a paint program and the board game Reversi.",
+     "funding": "Microsoft's DOS profits.",
+     "whatHappened": "It shipped two years late, on 20 November 1985. The industry called it vaporware. Microsoft held a roast for itself in Las Vegas, where a magazine editor handed Gates a Golden Vaporware award. The early versions were not successful. Version 3.0 in May 1990 finally took off and sold over 10 million copies.",
+     "lesson": "A big idea can take three versions. Fund it from a business that is already paying the bills, so you can survive versions one and two.",
+     "src": [
+      26,
+      27,
+      21,
+      28,
+      5
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "OS/2 (with IBM)",
+     "years": "1985–1992",
+     "outcome": "shut",
+     "idea": "The official successor to DOS, built jointly by the biggest computer company on Earth and its small software partner.",
+     "decision": "Microsoft could not afford to walk away from IBM. Ballmer has recalled the fear that if they let go of IBM, it might trample them. But Gates also kept Windows running quietly as insurance, and staff on each team complained about the other.",
+     "howStarted": "A joint development agreement signed in 1985. The first version came out in spring 1987.",
+     "funding": "The sources we read do not give the money terms of the 1985 deal. In the 1992 settlement, IBM was reported to owe Microsoft about $23 per copy, and Microsoft paid a lump sum for IBM patents.",
+     "whatHappened": "OS/2 needed costly hardware and never caught on, while Windows 3.0 became a hit. In September 1990 the two firms agreed that IBM would take over most OS/2 work. In June 1992 they settled the last of it, and from then on they were open rivals.",
+     "lesson": "Keep a Plan B alive when your biggest partner holds your future. Gates's small insurance project became the company.",
+     "src": [
+      28,
+      29,
+      30,
+      21,
+      31
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Encarta",
+     "years": "1993–2009",
+     "outcome": "shut",
+     "idea": "A multimedia encyclopedia on a single cheap CD-ROM, sold for home computers.",
+     "decision": "Microsoft was already moving into CD-ROM reference works. CIO reports it tried to buy Britannica and was refused, so it built its own.",
+     "howStarted": "A Microsoft team working on CD-ROM reference products, starting from earlier disks such as Bookshelf.",
+     "funding": "Microsoft's own budget.",
+     "whatHappened": "It worked brutally well at first. Britannica's book sales fell by half in three years, and the old company was sold for $130 million after putting itself up for sale in 1995. Then the same thing happened to Encarta. Free online sources, led by Wikipedia, overtook it. Microsoft closed the software in June 2009 and the websites that October.",
+     "lesson": "If you killed a giant with a cheaper model, assume someone will do it to you with a free one.",
+     "src": [
+      32,
+      33,
+      34,
+      5
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Microsoft Bob",
+     "years": "1995–1996",
+     "outcome": "shut",
+     "idea": "Computers scared people in the 1990s. Bob turned the screen into a cartoon house. You clicked a pen to write a letter or a calendar on the wall to check the date, and a dog named Rover guided you.",
+     "decision": "Researchers had watched beginners struggle, even in tears, with ordinary menus. The team thought a friendly character could solve that. Melinda French, later Melinda Gates, led on the marketing side. Colleague Tandy Trower warned Gates about the design, and Gates left the call to the team.",
+     "howStarted": "A Microsoft team, working with academic advisers.",
+     "funding": "Microsoft's own budget.",
+     "whatHappened": "It needed 8 megabytes of memory, which few beginners had. Critics called it too cute and childish. Within a year it was gone, and TIME later listed it among the worst inventions. Its code lived on in Office helpers, including the much-mocked paperclip Clippy.",
+     "lesson": "Beginners do not stay beginners. Do not design only for somebody's first day.",
+     "src": [
+      35,
+      2,
+      36
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "The Microsoft Network (first version of MSN)",
+     "years": "1995–late 1990s",
+     "outcome": "pivoted",
+     "idea": "A private online service in the style of America Online, built into Windows 95, with Microsoft acting as gatekeeper and collecting the tolls.",
+     "decision": "In 1994 the question inside Microsoft was how anyone could make money from an internet where everything seemed free. A private network looked like a safer answer.",
+     "howStarted": "Built in-house and timed to launch alongside Windows 95.",
+     "funding": "Microsoft's own budget, part of a much bigger internet spend of an extra $1.5 billion set aside for web work.",
+     "whatHappened": "The open web arrived too fast. Gates's May 1995 memo swung the whole company towards the internet before the network had even launched. Web projects followed, such as the magazine Slate and the news site MSNBC in 1996, and Microsoft's attention moved to the open web.",
+     "lesson": "Do not build a walled garden while everyone is leaving for the open field.",
+     "src": [
+      37,
+      38,
+      39
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Xbox",
+     "years": "2000–present",
+     "outcome": "running",
+     "idea": "A Microsoft game console to stop Sony's PlayStation from taking over the living room.",
+     "decision": "The first plan was a cheap PC pretending to be a console, which is what the team pitched to Gates. Then the costs came out. Rick Thompson warned Gates that the project could lose $900 million over eight years, and $3.3 billion in a price war. Gates pushed back and asked for better numbers.",
+     "howStarted": "About 60 people by December 1999, inside Microsoft. On 14 February 2000 an all-day meeting, later nicknamed the St. Valentine's Day Massacre, gave the final go-ahead.",
+     "funding": "Microsoft's own cash. Thompson figured over $1 billion would go out before any revenue came in.",
+     "whatHappened": "It launched on 15 November 2001. Each console sold at a loss, and early games chief Ed Fries estimates that the project lost about $1 billion a year in his time. He still calls it a bet worth making. Xbox is still a Microsoft business today, though its content and services revenue slipped 2% in the September 2026 quarter.",
+     "lesson": "A rich company's patience is a weapon. Know exactly how much you can lose before you start.",
+     "src": [
+      40,
+      41,
+      42,
+      43,
+      17
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Tablet PC",
+     "years": "2001–2010s",
+     "outcome": "failed",
+     "idea": "A full Windows computer the size of a legal notepad, used with a pen.",
+     "decision": "Gates loved the idea and personally used one every day. At the COMDEX trade show in November 2001 he predicted that within five years it would be the most popular kind of PC sold in America.",
+     "howStarted": "Prototypes came from partners such as Acer, Compaq, Fujitsu and Toshiba. Microsoft supplied a special Windows edition. Machines went on sale in late 2002.",
+     "funding": "Microsoft's own budget, plus partners paying for their hardware.",
+     "whatHappened": "The prediction was badly wrong. The interface treated the tablet as an afterthought, the hardware was weak, and Windows tablets stayed a tiny niche for years. NBC later judged that Microsoft had simply turned up too early.",
+     "lesson": "Being early and being right are different things. A good idea on the wrong interface still loses.",
+     "src": [
+      44,
+      45
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "SPOT smart watches",
+     "years": "2003–2012",
+     "outcome": "shut",
+     "idea": "Everyday objects that could receive tiny bits of news, weather and messages. The star product was a smart watch, long before smart watches became common.",
+     "decision": "Microsoft built its own wireless network over FM radio signals, rather than using phone networks. Gates himself showed off the watches on stage at the Consumer Electronics Show in January 2003.",
+     "howStarted": "Watch partners were Fossil, Suunto and Citizen. Custom chips came from National Semiconductor.",
+     "funding": "Microsoft's own budget, with buyers paying a subscription of about $59 a year.",
+     "whatHappened": "Phones did the same job far better over cellular and Wi-Fi. Watch sales stopped in 2008, and the radio service went dark on 1 January 2012.",
+     "lesson": "A correct vision of the future is not a product. Ask what else could deliver the same benefit.",
+     "src": [
+      46,
+      47,
+      3,
+      45
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The same years brought Zune, a music player launched in 2006 to take on the iPod. It had interesting features and heavy investment behind it, but it never took off, and Microsoft ended it in 2011. Reviewers praised the later versions, yet the audience stayed with Apple.",
+     "src": [
+      45,
+      33
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Windows Mobile, then Windows Phone",
+     "years": "2000–2010s",
+     "outcome": "failed",
+     "idea": "Put Windows on pocket devices and do to phones what Microsoft had done to PCs.",
+     "decision": "Microsoft came early, with Windows Mobile in 2000. It did not spot how touch would change everything, and it did not stop a small rival. Google bought Android in 2005 for about $50 million.",
+     "howStarted": "Built in-house and licensed to phone makers. In a December 2008 emergency meeting, after months of argument, Microsoft agreed to scrap Windows Mobile and rebuild it as Windows Phone.",
+     "funding": "Microsoft's own budget, and later about $1 billion paid to Nokia to adopt Windows Phone.",
+     "whatHappened": "Android became the standard non-Apple phone system. Steve Ballmer was chief executive for much of this, and many assumed it was his miss. Yet in 2019 Gates called it his own greatest mistake, valued the lost prize at $400 billion, and named the antitrust lawsuit as part of the backdrop.",
+     "lesson": "In a winner-takes-all market, second place is worth close to nothing. When your own rule says so, act on it.",
+     "src": [
+      48,
+      20,
+      49,
+      45
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The side bets"
+    },
+    {
+     "t": "p",
+     "text": "From about 1989, Gates also began putting personal money into ideas that had nothing to do with Microsoft's main business. Some were a rich man's experiments, and a few were simply good investing. He often stayed out of the day-to-day running, as the photo company shows.",
+     "src": [
+      50,
+      1,
+      51
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Corbis (first called Interactive Home Systems)",
+     "years": "1989–2016",
+     "outcome": "sold",
+     "idea": "People would one day hang digital art on flat screens at home. So someone should buy the digital rights to the world's great images.",
+     "decision": "Gates built his own house to display art this way, and he bet others would follow. When home screens did not take off, Corbis changed course. It began licensing images to publishers, news outlets and advertisers, and fought Getty Images for the top spot.",
+     "howStarted": "A tiny Gates-owned start-up, set up in 1989. In October 1995 it bought the Bettmann Archive, one of the world's great photo collections.",
+     "funding": "All Gates. He was its sole shareholder, and he funded tens of millions of dollars of purchases.",
+     "whatHappened": "By 2007 it had over 1,000 staff and about $250 million in sales, but no profit. To save the fragile Bettmann negatives, it moved them 220 feet down a Pennsylvania limestone mine. In January 2016 it sold its image business to an affiliate of Visual China Group for an undisclosed sum, and its old rival Getty took over distribution outside China. The sale included the famous Tiananmen Square pictures, which raised concern. Its entertainment arm was kept and rebranded.",
+     "lesson": "Your own money can keep a weak business alive for 27 years. That is not the same as making it work.",
+     "src": [
+      50,
+      52,
+      7,
+      53,
+      54,
+      55,
+      56,
+      57
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "ICOS (biotech investment)",
+     "years": "1990–2007",
+     "outcome": "sold",
+     "idea": "A drug company fighting inflammatory disease, set up by the biotech veteran George Rathmann, who had earlier built Amgen, and two other pioneers. It was not Gates's idea, but he was its star backer.",
+     "decision": "Gates joined a dream-team group of investors and served on the board until 2005. Rathmann's rule was to raise lots of cash early, while he could.",
+     "howStarted": "Offices in the Seattle area, later in Bothell. The first round in 1990 was reported at about $32–33 million, a record size for a biotech start-up.",
+     "funding": "Gates put in about one-tenth of the first round; the Seattle Times puts it at $5 million. In late 1994, with cash running out, he and Rathmann together bought half of a $23 million share sale. Gates's holding doubled to 15%.",
+     "whatHappened": "Its early drugs failed trials. Its fortune came from Cialis, an impotence drug it developed with Eli Lilly. In January 2007 Lilly bought ICOS for $34 a share, about $2.3 billion, and most of the 700 staff lost their jobs. Gates still held about 8% in late 2006.",
+     "lesson": "In long-horizon fields, cash is time. Raise when you can, not when you must.",
+     "src": [
+      58,
+      51,
+      59,
+      60,
+      61,
+      62
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Teledesic",
+     "years": "1994–2002",
+     "outcome": "shut",
+     "idea": "Internet from the sky: 840 low-orbit satellites giving fast broadband anywhere on Earth, including remote places with no phone lines.",
+     "decision": "The project already existed when the mobile-phone pioneer Craig McCaw and Gates each put in $5 million in 1994. For Gates this was pocket money and a passive stake, but the headlines treated it as a mighty alliance.",
+     "howStarted": "Offices at Carillon Point in Kirkland, then a Bellevue warehouse, with over 100 staff at its peak. Boeing came in as prime contractor in 1997.",
+     "funding": "McCaw and Gates each put in $5 million. Saudi Prince Alwaleed bin Talal added $200 million, Boeing up to $100 million. The planned total was $9 billion.",
+     "whatHappened": "The design shrank from 840 satellites to about 288, then to 30. Contractors changed from Boeing to Motorola to Alenia Spazio, and chief executives came and went. Iridium's and ICO's bankruptcies scared off money. In October 2002 it laid off all but 10 people and stopped work. A company spokesman said $500 million had been invested.",
+     "lesson": "A famous name raises money and attention, not satellites. Watch the build, not the headlines.",
+     "src": [
+      1,
+      63,
+      64,
+      65,
+      66
+     ]
+    },
+    {
+     "t": "note",
+     "text": "He put in 0.05% of his wealth. The press called it a giant bet."
+    },
+    {
+     "t": "venture",
+     "name": "Cascade Investment",
+     "years": "1995–present",
+     "outcome": "running",
+     "idea": "A private firm to move Gates's fortune out of a single stock, so that it would no longer rise and fall with Microsoft alone.",
+     "decision": "His old money manager, a longtime friend, had served six months in prison for bank fraud years before. A 1993 Wall Street Journal story brought that to light, so Gates went looking for someone new. A recruiter found Michael Larson, a Putnam fund manager.",
+     "howStarted": "Larson started in 1994. Cascade was registered in Washington state in 1995, with a deliberately dull name, and is based in Kirkland.",
+     "funding": "Gates's own wealth, then around $5 billion.",
+     "whatHappened": "Larson bought unfashionable things: railways, waste collection, tractors, hotels and farmland. He told Fortune he was no risk taker. It worked: the fortune he looked after kept growing. In May 2021 the New York Times reported ten former staff describing misconduct and a culture of fear. Larson and his spokesman denied some of the claims, though not all, and said complaints had been taken seriously. One outside inquiry found one complaint could not be substantiated.",
+     "lesson": "Great founders hire someone for what they do not know, then step back. Stepping back too far has its own price.",
+     "src": [
+      67,
+      68,
+      66,
+      69
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Four Seasons Hotels",
+     "years": "1997–present",
+     "outcome": "running",
+     "idea": "An ownership stake in one of the world's best-known luxury hotel brands.",
+     "decision": "Cascade first bought shares in 1997, when the company was public. In 2006 it teamed up with Prince Alwaleed and founder Isadore Sharp to take the company private, drawn by a trusted brand and steady long-term income.",
+     "howStarted": "This one was bought rather than built. Founder Isadore Sharp stayed on as chairman and kept a stake.",
+     "funding": "Cascade's money. The 2006 group offered about $3.7 billion for the company, including $750 million of borrowed money. In 2021 Cascade paid $2.21 billion in cash for a further 23.75%.",
+     "whatHappened": "Cascade rose from 47.5% to 71.25% after the 2021 deal, which valued the chain at $10 billion including debt. The chain managed 121 properties at the time.",
+     "lesson": "Patience in a boring, beloved brand can beat cleverness in a hot one.",
+     "src": [
+      70,
+      71,
+      66
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Farmland and Belmont, Arizona",
+     "years": "2010s–present",
+     "outcome": "running",
+     "idea": "Own land: farmland in many US states, and 24,800 acres near Phoenix that could one day become a brand-new high-tech city.",
+     "decision": "Larson wanted assets that do not move with technology stocks. Belmont's backers said the plan was a city built from the start around fast data networks, autonomous vehicles and logistics hubs.",
+     "howStarted": "Bought through dozens of small companies with plain names, so the owner was hard to see. A largest block came from a Canadian pension fund in 2017.",
+     "funding": "Cascade put $80 million into Belmont, and over $690 million into two big farm purchases in 2017–18.",
+     "whatHappened": "In January 2021 The Land Report named Gates America's largest private farmland owner, at about 242,000 acres across 18 states. Belmont has moved slowly: as of 2021, no large-scale building had begun.",
+     "lesson": "Land is the opposite of software, and that is why a software fortune buys it.",
+     "src": [
+      72,
+      73,
+      74,
+      75,
+      67
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Giving it away, and the bets after Microsoft"
+    },
+    {
+     "t": "venture",
+     "name": "The Gates Foundation",
+     "years": "1994–present (closing on 31 December 2045)",
+     "outcome": "running",
+     "idea": "Spend a software fortune on problems markets ignore, above all diseases that kill children in poor countries.",
+     "decision": "Gates was being flooded with charity requests. His father offered to sort through them. Then a newspaper article showed Gates that millions of children were dying of preventable illnesses, and he sent it to his dad with a short note. He later chose to spend it all down rather than keep it forever.",
+     "howStarted": "A basement. Bill Gates Sr. ran the first foundation from his home office, near his son's old bedroom, and used to bring boxes of proposals over to his son's house.",
+     "funding": "A first stock gift of about $94 million in 1994. A $20 billion endowment by 2000. Warren Buffett pledged more than $30 billion in 2006, and has given about $43 billion so far.",
+     "whatHappened": "It spent $100 billion in its first 25 years, about half on global health. Gates has given it over $63.9 billion. Melinda French Gates left in 2024 with $12.5 billion for her own giving. It now plans to spend more than $200 billion and close for good in 2045.",
+     "lesson": "Treat a giving problem like a business problem: find where a small push changes a big outcome.",
+     "src": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Giving Pledge",
+     "years": "2010–present",
+     "outcome": "running",
+     "idea": "A public promise by very rich families to give away more than half of their wealth.",
+     "decision": "Warren Buffett and Bill and Melinda Gates spent the year before it launched holding dinners with US billionaires, asking them to think out loud about what their money was for. They chose a moral promise, not a contract.",
+     "howStarted": "Launched in June 2010. The first 40 families and individuals were announced on 4 August 2010.",
+     "funding": "None needed. The pledge pools no money and backs no particular cause.",
+     "whatHappened": "It gives peer pressure a formal shape. Nobody can be forced to pay, so its strength rests on reputation alone.",
+     "lesson": "Sometimes the most powerful thing you can launch has no budget at all.",
+     "src": [
+      86,
+      87
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "TerraPower",
+     "years": "2008–present",
+     "outcome": "running",
+     "idea": "A new kind of nuclear reactor that is simpler, cheaper and safer. The first design hoped to burn depleted uranium; the current Natrium design is cooled by liquid sodium and stores heat in molten salt.",
+     "decision": "The work grew from brainstorming run by Nathan Myhrvold, Microsoft's former chief technology officer. Gates wanted reliable clean power for a warming, poorer world. In 2017 the company signed with China National Nuclear Corp to test its reactor. When new US rules blocked that around the end of 2018, it had to regroup and change designs.",
+     "howStarted": "A private company in Bellevue, Washington, with Gates as chairman and Myhrvold as vice chairman.",
+     "funding": "Gates, who says he has put in over a billion dollars and is prepared to add billions more. Later backers include SK of South Korea ($250 million in 2022), and Nvidia's venture arm in a $650 million round in 2025. The US government covers half of the first plant's project costs, up to $2 billion.",
+     "whatHappened": "On 4 March 2026 US regulators approved construction of its first plant at Kemmerer, Wyoming, the first such permit for this kind of reactor. The site sits beside an ageing coal plant. Completion is aimed at 2030, and it still needs an operating licence.",
+     "lesson": "Hard problems need owners who can wait 20 years and survive a government killing their plan.",
+     "src": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      4,
+      99
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "bgC3, now Gates Ventures",
+     "years": "2008–present",
+     "outcome": "running",
+     "idea": "A private office to coordinate Gates's business, science and charity work in one place, and to chase ideas that fit nowhere else.",
+     "decision": "He left his full-time Microsoft job in June 2008 and wanted a third base, separate from Microsoft and the foundation. An insider said the C stood for catalyst, and the 3 for that third place.",
+     "howStarted": "A Kirkland office fitted out with Microsoft gear. It was formed quietly in March 2008 as Carillon Holdings and took the new name days after he left Microsoft.",
+     "funding": "Gates himself.",
+     "whatHappened": "The office now runs under the name Gates Ventures, next to Cascade. An insider said in 2008 that it was not a commercial venture, and it has stayed a personal base rather than a profit-chasing company.",
+     "lesson": "After a founder leaves, structure decides what they do next. Build the small team first.",
+     "src": [
+      88,
+      67
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Aquion Energy (battery investment)",
+     "years": "investor to 2017",
+     "outcome": "failed",
+     "idea": "Cheap saltwater batteries for power grids, started by Carnegie Mellon professor Jay Whitacre.",
+     "decision": "Grids that use wind and solar need storage, and Aquion promised to build batteries for less than $300 per kilowatt-hour. Gates joined Kleiner Perkins and Shell among its backers.",
+     "howStarted": "Whitacre's start-up, which built its own factory and grew past 100 staff.",
+     "funding": "Nearly $200 million from investors including Gates. His own share has not been made public.",
+     "whatHappened": "The technology worked, but the factory ate cash faster than venture investors would refill it. Then lithium-ion batteries fell below Aquion's price target, and investors lost faith. It filed for bankruptcy in March 2017. Its assets sold for $9.16 million, a small fraction of what had gone in.",
+     "lesson": "Winning on technology does not matter if a rival's price falls past your target first.",
+     "src": [
+      100,
+      101,
+      102
+     ]
+    },
+    {
+     "t": "venture",
+     "name": "Breakthrough Energy",
+     "years": "2015–present",
+     "outcome": "running",
+     "idea": "Patient money for clean-energy companies too risky and too slow for normal venture funds.",
+     "decision": "Government labs were producing ideas, but few crossed what investors call the valley of death between lab and market. Gates decided to gather rich backers around the 2015 Paris climate talks. He also pressed governments to double research budgets at the same time.",
+     "howStarted": "Launched on 29 November 2015 with about 28 investors from 10 countries.",
+     "funding": "In December 2016 the Breakthrough Energy Ventures fund opened with over $1 billion, with Gates as chair. Backers included Jeff Bezos, Jack Ma, Michael Bloomberg, Vinod Khosla and John Doerr. It planned to operate for 20 years.",
+     "whatHappened": "It backs start-ups at any stage, from seed to commercial scale. In March 2025 Bloomberg reported dozens of layoffs, including all staff in Europe and the US public policy team, as the group pulled back from advocacy.",
+     "lesson": "Match the money's patience to the problem's timeline. A 20-year problem needs 20-year money.",
+     "src": [
+      103,
+      104,
+      105,
+      106,
+      107
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Count them up and the record looks like this: one giant win, a handful of smart side investments, and many losses. __Gates's real edge was never perfect judgement. It was that Microsoft's cash let him stay in the game after each wrong call.__ The next chapters show how that cash machine was built, and how close it came to breaking.",
+     "src": [
+      6,
+      1,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-big-bets",
+   "kicker": "1977–1986",
+   "title": "The $75,000 Operating System",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Here is the oddest fact about how Microsoft was funded: it hardly was. Before going public in 1986, the company sold a stake to just one venture investor. Gates later said that money was not even needed. __Microsoft grew on what customers paid it, and that one choice shaped everything that came later.__",
+     "src": [
+      16,
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Gates also had a private rule, and he explained it in a 1998 interview. He wanted enough cash in the bank to pay a full year of salaries, even with no money coming in. His staff were older than he was and had children, and he worried about what would happen if a customer did not pay. He has said he kept to that rule almost the whole time.",
+     "src": [
+      108
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A year of payroll in the bank. Very important for first-time founders!"
+    },
+    {
+     "t": "h",
+     "text": "The bad deal that taught him pricing"
+    },
+    {
+     "t": "p",
+     "text": "Early Microsoft sold licences for a flat fee, and some of those deals look painful now. It licensed BASIC for the Apple II for ==$21,000==, one time only. Apple went on to sell over a million of those machines, which works out to about two cents per copy.",
+     "src": [
+      11,
+      13
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Paul Allen pushed for charging per copy. Gates and Ballmer disagreed, saying low flat fees were how Microsoft had won so much of the market. Both had a point. Flat fees spread Microsoft's software everywhere in the early years, and the later switch to per-copy pricing brought in billions.",
+     "src": [
+      11,
+      31
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: take one early NCR licence for BASIC, at $175,000. Even after half went to MITS, Allen wrote, it could pay five or six programmers for a year. One big customer could keep this tiny company going.",
+     "src": [
+      11
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The billionaire who said it was too expensive"
+    },
+    {
+     "t": "p",
+     "text": "In 1979, Ross Perot tried to buy Microsoft. Perot ran the computer services giant EDS and was already very rich. Microsoft was a 28-person partnership with about $2 million in sales, and Gates was 23. He got a rare haircut before meeting Perot in Dallas.",
+     "src": [
+      14
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The two remember the price differently. Perot recalled Gates asking ==$40–60 million==. Gates recalled ==$6–15 million==. Either way, Perot thought it was far too high, and Gates was never keen. Gates's mother did want him to think harder about selling, since she still hoped he might go back to Harvard. He sent Perot a polite letter saying no.",
+     "src": [
+      14
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Years later, when Microsoft was worth over $21 billion, Perot told the authors of a Gates biography that this was one of the biggest business mistakes of his life. He said he should have let the young man name his price. __A founder's refusal to sell cheaply can be the most valuable decision they ever make, and it usually looks foolish when they make it.__",
+     "src": [
+      14
+     ]
+    },
+    {
+     "t": "note",
+     "text": "He was 23. The offer was a fortune. He sent a polite no."
+    },
+    {
+     "t": "h",
+     "text": "Why IBM knocked on the door"
+    },
+    {
+     "t": "p",
+     "text": "In July 1980, an IBM executive named Jack Sams arrived at Microsoft's Bellevue office. IBM was secretly building a personal computer, under the code name Project Chess. When a young man came out to fetch him, Sams took him for the office boy. It was Gates, and Sams soon changed his mind about him entirely.",
+     "src": [
+      9,
+      12
+     ]
+    },
+    {
+     "t": "p",
+     "text": "IBM needed programming languages, which was Microsoft's business, and also an operating system, which was not. An operating system is the basic software that makes a computer run. Ballmer says IBM may have been confused by a Microsoft product called the SoftCard, a plug-in that let Apple II machines run another company's system, CP/M. So Gates sent IBM to Digital Research, the company behind CP/M.",
+     "src": [
+      31,
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Those talks failed, and people still argue about why. Ballmer and one history say Digital Research would not sign IBM's secrecy agreement. Another account says the reasons remain unclear. Either way, IBM came back, and Microsoft did something bold. It promised to deliver an operating system it did not have.",
+     "src": [
+      31,
+      109,
+      9
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Microsoft knew where to get one. Across town, a young programmer named Tim Paterson at Seattle Computer Products had written a system in about four months that was nicknamed QDOS, for Quick and Dirty Operating System. Microsoft licensed it for ==$25,000==, without telling the seller that IBM was the customer. Paterson had his suspicions.",
+     "src": [
+      110,
+      111,
+      109
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 27 July 1981, just two weeks before the IBM PC launched, Microsoft bought the system outright for another ==$50,000==. That made the total $75,000. It became MS-DOS. By 1991 it was bringing Microsoft about $200 million a year.",
+     "src": [
+      111,
+      112,
+      9
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The clause that made the fortune"
+    },
+    {
+     "t": "p",
+     "text": "The contract was signed on 6 November 1980. Reports put IBM's total payment at about ==$430,000==, which was not life-changing even then. The money was not the point. __Microsoft kept the right to sell the operating system to anyone else.__ IBM accepted this partly because it wanted standard parts and because it was already deep in antitrust trouble.",
+     "src": [
+      113,
+      31
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then IBM's machine turned out to be easy to copy, since it was built from standard parts. Rival makers rushed out clones, and they all needed the same software. By December 1982, 50 other manufacturers had licensed DOS. At the moment of the deal, Microsoft had about $7 million in sales and fewer than 40 staff, while IBM had some 325,000 workers.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Did family connections help? The New York Times reported in 1994 that Gates's mother, Mary, sat on the national United Way committee with IBM's chairman John Opel, and that she spoke with him in 1980. Her role was believed to have helped at a crucial time, though we should not overstate it. Ballmer's own version is plainer: he calls this deal their big piece of luck, and he says neither he nor Gates foresaw how large the PC market would become.",
+     "src": [
+      114,
+      31
+     ]
+    },
+    {
+     "t": "note",
+     "text": "Read this twice. They kept the rights. IBM got the machine."
+    },
+    {
+     "t": "example",
+     "text": "For example: the people who sold DOS did not stay happy. In 1986 Seattle Computer Products sued Microsoft for $60 million over its licence. With the jury already deliberating, Microsoft paid $925,000 to end the case and buy the licence back. It also paid over $1 million that year for Paterson's own company, to recover another royalty-free licence.",
+     "src": [
+      115,
+      112
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The only VC, and the money that never left the bank"
+    },
+    {
+     "t": "p",
+     "text": "In 1981 Microsoft stopped being a partnership and became a corporation, with Gates at 53%, Allen 31%, Ballmer 8% and Vern Raburn 4%. David Marquardt of Technology Venture Investors had been talking to them since late 1980. A venture capitalist, or VC, is an investor who buys part of a young company hoping it grows.",
+     "src": [
+      109
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In September 1981 his firm paid ==$1 million for 5%==, which valued Microsoft at $20 million. Gates has said the money was never needed and simply sat in the bank. What he wanted was a seasoned adviser on the board, and he says Marquardt did a fantastic job. __Most founders raise money and then look for advice. Gates wanted the advice, and took the money as the price of getting it.__",
+     "src": [
+      109,
+      16
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$75,000",
+       "label": "Total price Microsoft paid for the system that became MS-DOS (1980–81)",
+       "src": [
+        111,
+        110
+       ]
+      },
+      {
+       "value": "$430,000",
+       "label": "Reported IBM contract with Microsoft, 6 Nov 1980",
+       "src": [
+        113
+       ]
+      },
+      {
+       "value": "$1 million for 5%",
+       "label": "The only pre-IPO venture investment, Sept 1981",
+       "src": [
+        109,
+        16
+       ]
+      },
+      {
+       "value": "$0",
+       "label": "Years of annual losses Gates recalls, as of his 2013 remarks",
+       "src": [
+        16
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The IPO he did not want"
+    },
+    {
+     "t": "p",
+     "text": "An IPO, or initial public offering, is when a private company first sells its shares to anyone on the stock market. Most firms do it for cash. Microsoft had pre-tax profit margins as high as 34% and no long-term debt, so it did not need any. Gates also dreaded the distraction, and told Fortune that traders ringing the chief executive was like ball bearings asking the driver about the grease.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The reason was a legal one. Microsoft paid staff partly in shares and stock options, and by 1987 over 500 people would own stock. That would force the firm to register with US regulators anyway. So Gates decided to go public on his own timing rather than be pushed. In October 1985, a day after a roller-skating party for his 30th birthday, the board agreed.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The bankers came courting. CFO Frank Gaudette ranked them on a scale of one to five in 19 categories. At an awkward dinner at the Rainier Club in Seattle, Gates sat bored and tired until the talk turned to pricing. Then he folded his arms and began rocking, his well-known sign of interest. Later, in the parking lot, he joked that the Goldman Sachs team had not spilled their food and seemed nice, so they might as well go with them.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then came the strangest part. The bankers suggested a price of $17 to $20 a share, and __Gates insisted on a lower one, $16 to $19__. He feared a $20 price would push Microsoft's value past half a billion dollars, which he thought uncomfortably high. A Goldman banker said few companies ever fight for a lower range.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Investor demand overruled him. The final price, agreed on 12 March 1986, was ==$21==. Gates haggled over the bankers' fee too, ordering his team to hold it down to $1.28 a share. It settled at $1.31 after a stand-off. Each penny there was worth about $31,000 to Microsoft.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Trading opened on 13 March at $25.75 and closed the first day at $27.75. The shares reached $35.50 soon after. The company and its shareholders raised $61 million. Gates kept 45% of the company, worth about $350 million on paper within months.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Gates sold only about $1.6 million of his own shares in the IPO, and used part of it to pay off a $150,000 mortgage. A programmer on the same deal made nearly $200,000. He had also ruled that nobody should sell more than 10% of their holdings. Fortune reported all this from inside the process.",
+     "src": [
+      6
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "1975",
+       "text": "Gates and Allen sign with MITS and earn $16,005 in the first year.",
+       "src": [
+        9,
+        116
+       ]
+      },
+      {
+       "when": "1978",
+       "text": "Sales pass $1 million. The team has 13 people.",
+       "src": [
+        12
+       ]
+      },
+      {
+       "when": "1979",
+       "text": "Moves from Albuquerque to Bellevue, Washington. Turns down Ross Perot.",
+       "src": [
+        12,
+        14
+       ]
+      },
+      {
+       "when": "Nov 1980",
+       "text": "Signs the IBM contract, keeping the right to sell DOS to others.",
+       "src": [
+        113,
+        12
+       ]
+      },
+      {
+       "when": "Jun–Sep 1981",
+       "text": "Becomes a corporation and sells 5% to Technology Venture Investors.",
+       "src": [
+        109
+       ]
+      },
+      {
+       "when": "Aug 1981",
+       "text": "The IBM PC launches with Microsoft's operating system.",
+       "src": [
+        12
+       ]
+      },
+      {
+       "when": "Nov 1985",
+       "text": "Windows 1.0 ships, two years late.",
+       "src": [
+        26
+       ]
+      },
+      {
+       "when": "Mar 1986",
+       "text": "IPO at $21. Revenue that fiscal year is $197.5 million.",
+       "src": [
+        6,
+        38
+       ]
+      }
+     ]
+    },
+    {
+     "t": "lesson",
+     "title": "Keep the rights, not just the cheque",
+     "text": "The IBM payment was small. The right to sell to everyone else was worth billions. In any contract, ask first what you get to keep, and only then ask how much you get paid."
+    }
+   ]
+  },
+  {
+   "id": "near-death",
+   "kicker": "1977–2004",
+   "title": "The Years It Nearly Broke",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Microsoft never faced a long bankruptcy battle. Gates says it never had a losing year. Its danger came in other forms: a frozen product, a broken partnership, a lawsuit worth billions, a technology it nearly missed, and a government trying to split it in two.",
+     "src": [
+      16,
+      117,
+      5
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1977: the one time the money ran out"
+    },
+    {
+     "t": "p",
+     "text": "MITS was struggling, and its founder Ed Roberts agreed to sell it to a larger firm, Pertec, for about $6.5 million. Pertec believed it was buying the rights to Microsoft's BASIC. It stopped the sublicensing deals that were Microsoft's main income, and a judge barred new sales until an arbitrator ruled. An arbitrator is a private judge whose decision both sides agree to accept.",
+     "src": [
+      117,
+      118,
+      119
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The company was starving. They struggled to pay salaries and rent, and they had to borrow from one of their own programmers, Bob Greenberg. Allen told Gates over dinner that they were nearly out of cash and should think about settling. __Gates refused, after talking to his father, a lawyer, who thought they could win.__ It was, Allen wrote later, the best advice Gates never took from him.",
+     "src": [
+      119,
+      118,
+      117
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In November 1977 the ruling came, and it was a total win. The contract had said MITS must use its best efforts to sell licences, and blocking them broke that promise. The arbitrator called it corporate piracy. Microsoft got back full rights, and within weeks it had signed deals with companies that had been waiting. It ended 1977 with about $381,000 in sales, after almost nothing for most of the year.",
+     "src": [
+      119,
+      118,
+      120,
+      117
+     ]
+    },
+    {
+     "t": "note",
+     "text": "One clause in a contract saved the whole company. Read yours."
+    },
+    {
+     "t": "h",
+     "text": "1982–83: losing the co-founder"
+    },
+    {
+     "t": "p",
+     "text": "Paul Allen's own account of this period is painful to read, and it is his side of the story. In 1980, he says, Gates offered Ballmer 8.75% of the company while Allen was away, when they had agreed on no more than 5%. Allen called it a major breach of faith. He was also carrying the sting of two earlier reworkings of their split, from 50-50 to 60-40 to 64-36.",
+     "src": [
+      11,
+      121
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In 1982 Allen was diagnosed with Hodgkin's lymphoma, and he has written about that publicly. One evening that December, while still weak from treatment, he says he overheard Gates and Ballmer talking about diluting his stake by issuing options. Dilution means creating new shares, so your slice of the company shrinks. He burst into the office and told them it showed their true character.",
+     "src": [
+      11,
+      121
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ballmer came to his house that night to apologise, and Gates sent a six-page handwritten apology dated 31 December. Allen left anyway, on 18 February 1983. In their final talk, by his telling, Gates offered him $5 a share for his stock, and Allen said he would not discuss less than $10. Gates said no. __That refusal made Allen one of the richest people in the world.__",
+     "src": [
+      11,
+      5
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: in 1999 Forbes ranked Gates first in the world at about $90 billion, Allen third at about $30 billion and Ballmer fourth at $19.5 billion. Allen's stock, the stake Gates had offered to buy at $5 a share, made that possible. Another early executive who left for a rival, Vern Raburn, had his shares bought back at $3 and lost out, Allen says, on billions.",
+     "src": [
+      5,
+      11
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Gates spoke warmly of Allen when he died in 2018, calling him a true partner and dear friend, and saying that personal computing would not have existed without him. Both things are true of them: a brutal negotiation, and a lifelong tie.",
+     "src": [
+      10
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1985–94: a $5.5 billion fight with Apple"
+    },
+    {
+     "t": "p",
+     "text": "Microsoft had been writing programs for the Macintosh under a 1982 deal. Then Windows arrived looking a lot like it, and Apple objected in the summer of 1985. Talks that October produced a licence, signed on 22 November, two days after Windows 1.0 shipped. In it, Microsoft agreed that the displays were derived from Apple's work, and Apple licensed them for present and future programs.",
+     "src": [
+      122,
+      123,
+      24
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Here is the detail most people miss. Apple got something back: Microsoft promised to hold back an IBM-compatible Excel for a while and to improve Word for the Mac. Apple needed those programs to sell Macs to businesses. In exchange, it signed a document that would later undercut its own lawsuit.",
+     "src": [
+      123,
+      122
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In March 1988 Apple sued over Windows 2.03, and its damages claim grew to ==$5.5 billion==. Judges ruled that the 1985 licence covered most of what Apple complained about. By June 1993 the case had shrunk until there was almost nothing left to try, and in September 1994 the appeals court upheld the result. Asked about all this, Gates reportedly joked that both he and Jobs had a rich neighbour called Xerox, whose lab had pioneered the ideas.",
+     "src": [
+      124,
+      122,
+      123,
+      5
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1990: betting against your biggest partner"
+    },
+    {
+     "t": "p",
+     "text": "By the late 1980s, Microsoft was building OS/2 with IBM and pushing Windows at the same time. Staff on each side resented the other. Gates has said he kept Windows alive as a kind of necessary strategy. In May 1990 Windows 3.0 came out and sold over 10 million copies, and the partnership collapsed into what the press called a bitter divorce.",
+     "src": [
+      21,
+      28,
+      30
+     ]
+    },
+    {
+     "t": "p",
+     "text": "__Walking away from the customer that made you is about the riskiest move a young company can make.__ Microsoft could do it because every PC maker was now its customer, not just IBM. Its revenue topped $1 billion in 1990, and the IBM contract's old clause had quietly become its protection.",
+     "src": [
+      38,
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "It also needed to win on applications, where it was losing badly. Gates's internal message was that there was no spreadsheet market, only a Lotus 1-2-3 market, so Microsoft had to build something clearly better. Lotus's boss Mitch Kapor once told a panel that Gates was wrong about graphics but worked so hard he might succeed anyway. Gates says he took that as a compliment.",
+     "src": [
+      21
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1995: the tidal wave he nearly missed"
+    },
+    {
+     "t": "p",
+     "text": "The internet is the most famous near-miss in Microsoft's history. An internal memo in April 1994 had said Microsoft would invest, while admitting that this might be a mistake. Then AOL paid $30 million for a browser company in November 1994, which stunned Microsoft's managers. When Microsoft tried to license Netscape's browser, Netscape turned it down flat.",
+     "src": [
+      37
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On ==26 May 1995==, Gates sent senior staff a memo called The Internet Tidal Wave. He set the internet at the highest priority for every part of the business, and admitted Netscape's browser already had about 70% of usage. One senior manager on Windows 95 later said it felt as if Gates was the last executive to come around.",
+     "src": [
+      39,
+      37
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Microsoft then did what rich latecomers do. It licensed browser code from a small firm, Spyglass, for $2 million, and put a small team on it. It gave Internet Explorer away free, and placed it on every Windows machine. Its share rose from almost nothing in 1995 to about 20% in 1996 and 40% in 1997, closing fast on Netscape.",
+     "src": [
+      37
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: Windows 95 launched on 24 August 1995 with a marketing push of about $300 million. Reports said the Rolling Stones were paid $14 million for the song in the ads. It sold 1 million copies in four days. Stores opened at midnight for an operating system.",
+     "src": [
+      37,
+      125
+     ]
+    },
+    {
+     "t": "p",
+     "text": "That free browser would nearly cost Microsoft everything. __The move that won the browser war also started the biggest legal fight of its life.__",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1997: rescuing a rival"
+    },
+    {
+     "t": "p",
+     "text": "In August 1997, Steve Jobs stood on stage at Macworld in Boston while Gates appeared on a screen by satellite link. Microsoft agreed to invest ==$150 million== in Apple's non-voting stock and to keep making Office for the Mac. Apple agreed to make Internet Explorer its default browser, and the two signed a broad patent cross-licence.",
+     "src": [
+      23,
+      126
+     ]
+    },
+    {
+     "t": "p",
+     "text": "It looked like generosity, and Apple really was struggling. Yet it served Microsoft too. The Computer History Museum notes it may have helped to deflect criticism in the coming antitrust case, and it put Explorer in front of every new Mac buyer. __A smart deal can help your rival and yourself at once.__",
+     "src": [
+      127,
+      23
+     ]
+    },
+    {
+     "t": "h",
+     "text": "1998–2002: the government tries to split Microsoft"
+    },
+    {
+     "t": "p",
+     "text": "Antitrust law is the set of rules meant to stop a dominant company abusing its power. Regulators had looked at Microsoft since 1990, and it had already settled one case. On ==18 May 1998==, the US Justice Department and 19 states sued. They said Microsoft had used its monopoly on PC operating systems to choke off competition in browsers.",
+     "src": [
+      5,
+      9,
+      128
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On 3 April 2000, Judge Thomas Penfield Jackson ruled against Microsoft in harsh language, and investors drove the share price to a 52-week low. In June he went further and ordered the company split in two. Gates had already handed the chief executive job to Ballmer that January, becoming chairman and chief software architect.",
+     "src": [
+      5,
+      15,
+      18
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "placed an oppressive thumb on the scale of competitive fortune",
+     "who": "Judge Thomas Penfield Jackson, on Microsoft, in his ruling of 3 April 2000",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then came a dramatic turn. On 28 June 2001, a federal appeals court upheld the finding that Microsoft had illegally kept its operating-system monopoly. But it threw out the breakup order, rejected the claim that Microsoft had tried to monopolise browsers, and took the judge off the case over his comments to the press. In November 2001 the government settled.",
+     "src": [
+      129,
+      128,
+      130
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Under the settlement, Microsoft had to share some technical information with rivals, let PC makers install competing software, and not punish anyone for doing so. Nine states and the District of Columbia held out for more. The new judge approved the deal in November 2002, and warned the company that she would be watching closely. It was widely seen as a win for Microsoft, and Gates called it fair.",
+     "src": [
+      130,
+      5
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "a prince never lacks legitimate reasons to break his promise",
+     "who": "Judge Colleen Kollar-Kotelly, quoting Machiavelli as a warning to Microsoft, November 2002",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Europe took its own turn. On 24 March 2004, the European Commission found that Microsoft had abused its near monopoly and fined it ==€497 million==. It also ordered Microsoft to share interface information and to offer a version of Windows without its media player.",
+     "src": [
+      131
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Nov 1977",
+       "text": "Arbitrator frees Microsoft from MITS and Pertec.",
+       "src": [
+        120,
+        117
+       ]
+      },
+      {
+       "when": "Feb 1983",
+       "text": "Paul Allen resigns as an executive, staying on the board.",
+       "src": [
+        11
+       ]
+      },
+      {
+       "when": "Mar 1988",
+       "text": "Apple sues over Windows 2.03.",
+       "src": [
+        124
+       ]
+      },
+      {
+       "when": "Sep 1990",
+       "text": "IBM takes over most OS/2 work after the Windows 3.0 hit.",
+       "src": [
+        28,
+        29
+       ]
+      },
+      {
+       "when": "May 1995",
+       "text": "The Internet Tidal Wave memo.",
+       "src": [
+        39
+       ]
+      },
+      {
+       "when": "May 1998",
+       "text": "The US government and 19 states sue.",
+       "src": [
+        5,
+        128
+       ]
+      },
+      {
+       "when": "Jun 2001",
+       "text": "Appeals court cancels the breakup.",
+       "src": [
+        129
+       ]
+      },
+      {
+       "when": "Mar 2004",
+       "text": "EU fines Microsoft €497 million.",
+       "src": [
+        131
+       ]
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The miss he still talks about"
+    },
+    {
+     "t": "p",
+     "text": "Gates has connected the legal fight to his biggest regret, though he stops short of blaming it entirely. Speaking to founders in 2019, he said platforms are winner-take-all markets, with room for exactly one non-Apple phone system. Google took that slot with Android, a prize he values at $400 billion.",
+     "src": [
+      20,
+      49
+     ]
+    },
+    {
+     "t": "quote",
+     "text": "the greatest mistake ever is whatever mismanagement I engaged in",
+     "who": "Bill Gates, on Microsoft losing the phone market to Android, 2019",
+     "src": [
+      20
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A billionaire publicly blaming himself. Very rare. Very useful."
+    },
+    {
+     "t": "lesson",
+     "title": "Being paranoid is a strategy",
+     "text": "Microsoft kept a year of cash, kept a backup operating system alive and kept rewriting its plans when it looked wrong. It still missed mobile. Plan for your own blind spots, because the giant killer usually starts out looking like a toy."
+    }
+   ]
+  },
+  {
+   "id": "the-fortune",
+   "kicker": "1986–2026",
+   "title": "Where the Money Went",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bill Gates did not get rich by drawing a big salary. He got rich by owning a large slice of one company as it grew for decades. Then he did something unusual: he spent the next 25 years moving that slice out of his own name.",
+     "src": [
+      6,
+      83,
+      77
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Step one: hold the stock"
+    },
+    {
+     "t": "p",
+     "text": "In March 1986, Gates owned 45% of Microsoft, a stake of about $350 million. By 1987, with the stock over $90, he was a billionaire at 31. Microsoft's own history says its stock rose more than a hundredfold between 1986 and 1996.",
+     "src": [
+      6,
+      9,
+      132
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Then the 1990s boom took over. On 16 July 1999 his holdings brushed ==$100 billion== for the first time, in a single day of trading that added about $5 billion. A month earlier he had given away about that same amount, $5 billion, in the largest gift then made by a living person to a foundation. Microsoft had also made many of its own staff rich, an estimated 10,000 of them millionaires through stock options.",
+     "src": [
+      133,
+      5
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: one $21 IPO share has become 288 shares through nine stock splits. A split gives you more shares of the same company without changing what you own. At about $530 a share in late October 2026, that one $21 share is worth about $152,000, before counting dividends.",
+     "src": [
+      134,
+      135
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Step two: spread it around"
+    },
+    {
+     "t": "p",
+     "text": "In 1994 Gates hired Michael Larson, and the job was to diversify. Larson put the money into things with no link to software. Over time, Cascade took stakes in Canadian National Railway, Republic Services, Deere, Ecolab and others, along with bonds, hotels and land. Fortune once reported that he kept most of it in bonds.",
+     "src": [
+      68,
+      66,
+      67
+     ]
+    },
+    {
+     "t": "p",
+     "text": "__Notice how boring the list is. A software billionaire's money now sits in trains, rubbish trucks and tractors.__ The reasoning was simple: when Microsoft fell, as it did hard in 2000, these holdings would not necessarily fall with it. The New York Times reported that this strategy paid off when the dot-com bubble burst.",
+     "src": [
+      67,
+      66
+     ]
+    },
+    {
+     "t": "example",
+     "text": "For example: by May 2021 Gates controlled, directly or through his foundation's trust, about 14% of Canada's largest railway. That stake was worth about C$13.6 billion, enough on its own to rank him among the richest people in Canada. As the divorce began, Cascade moved about 14 million CN shares to Melinda French Gates.",
+     "src": [
+      69
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Step three: give it away"
+    },
+    {
+     "t": "p",
+     "text": "Gates says the 2000 merger of his foundations started with an endowment of $20 billion. He gave over $16 billion in a single stretch in 1999, and a $3.3 billion Microsoft dividend in 2004 went straight to the foundation. Forbes now puts his lifetime donations to it at more than ==$63.9 billion==. Gates's own website gives a lower figure, $59.5 billion.",
+     "src": [
+      77,
+      81,
+      136,
+      83
+     ]
+    },
+    {
+     "t": "p",
+     "text": "In May 2026 a filing revealed that the foundation's trust had sold its last 7.7 million Microsoft shares, worth about $3.2 billion. That ended a holding of decades. The money is needed because the foundation plans to spend about $200 billion by 2045, and a charity winding down its endowment has to sell.",
+     "src": [
+      137,
+      85
+     ]
+    },
+    {
+     "t": "p",
+     "text": "The trust is a separate pot from Gates's personal fortune, though he is its trustee and Cascade manages it. On 30 June 2026 it reported about $34.4 billion in US stocks, led by Berkshire Hathaway, Caterpillar, Canadian National and Waste Management. Much of that Berkshire stock came from Warren Buffett, whose gifts have reached about $43 billion. Gates sat on Berkshire's board from 2004 until 2020.",
+     "src": [
+      138,
+      139,
+      76,
+      66,
+      140
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Where his own fortune sits now"
+    },
+    {
+     "t": "p",
+     "text": "As of the start of November 2026, Forbes puts Gates at ==$120.4 billion==, number 16 in the world. Bloomberg, using its own method, says $121 billion and number 17. Both are estimates, since much of the wealth sits in private holdings. Bloomberg itself cut its estimate by about $50 billion in July 2025, after reassessing how much he had given away.",
+     "src": [
+      83,
+      141,
+      136
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$33.8B",
+       "label": "Microsoft shares, Bloomberg estimate, 31 Oct 2026",
+       "src": [
+        141
+       ]
+      },
+      {
+       "value": "$26.8B",
+       "label": "Republic Services, a waste company, Bloomberg, 31 Oct 2026",
+       "src": [
+        141
+       ]
+      },
+      {
+       "value": "$13.4B",
+       "label": "Deere, the tractor maker, Bloomberg, 31 Oct 2026",
+       "src": [
+        141
+       ]
+      },
+      {
+       "value": "$8.84B",
+       "label": "Ecolab, a disinfectant and hygiene firm, Bloomberg, 31 Oct 2026",
+       "src": [
+        141,
+        68
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Bloomberg also lists Givaudan at $5.35 billion, Berkshire Hathaway at $3.55 billion, FEMSA at $3.52 billion and AutoNation at $1.27 billion. His waste-collection stake is worth about four-fifths of his holding in the company he founded. Forbes estimates that he now owns less than 1% of Microsoft.",
+     "src": [
+      141,
+      83
+     ]
+    },
+    {
+     "t": "note",
+     "text": "A garbage company is his second-biggest listed holding. Yes, really."
+    },
+    {
+     "t": "example",
+     "text": "For example: at the IPO he owned 45% of Microsoft's 24.7 million shares, about 11.1 million. Multiply by 288 for the splits and $530 for the price, and you get about $1.7 trillion. That is our rough arithmetic. It shows the size of what he chose to sell and give away, compared with a fortune near $120 billion today.",
+     "src": [
+      9,
+      134,
+      135,
+      83
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Private assets are harder to price. Cascade controls 71.25% of Four Seasons since the 2021 deal, and TerraPower is still privately held, with Gates as its largest investor. The Land Report put his US farmland near 242,000 acres in 2021.",
+     "src": [
+      71,
+      95,
+      93,
+      72
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Stepping away, and what came after"
+    },
+    {
+     "t": "p",
+     "text": "His exit from Microsoft took 20 years. He gave up the chief executive job in January 2000, his full-time role on 27 June 2008, the chair on 4 February 2014, and his board seat on 13 March 2020. He stayed on as a technology adviser to chief executive Satya Nadella.",
+     "src": [
+      15,
+      18,
+      19
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Even in later years, his instincts were not always right, which is oddly comforting. Nadella has recalled that when Microsoft put $1 billion into OpenAI in 2019, Gates warned him he would burn the money. Fortune reported in 2026 that the investment had grown into a 27% stake, worth about $135 billion. __Even the man who spotted the PC could not always spot the next one.__",
+     "src": [
+      142
+     ]
+    },
+    {
+     "t": "note",
+     "text": "He doubted the OpenAI bet. It became a $135 billion stake."
+    },
+    {
+     "t": "p",
+     "text": "The last chapter also has hard parts, and they should be told plainly. In May 2021 The Wall Street Journal reported that Microsoft board members had investigated a past relationship between Gates and an employee, and that this lay behind his 2020 exit. Microsoft confirmed it had reviewed a concern dating to the year 2000. Gates's spokeswoman said the departure was not related.",
+     "src": [
+      143,
+      144
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Gates also met the convicted sex offender Jeffrey Epstein many times from 2011. An external review for the foundation, reported in July 2026, counted about 30 meetings involving him and foundation staff through 2014, focused on a proposed health fund that never came about and a grant to a peace institute. The foundation says it paid Epstein nothing and never worked with him. In February 2026 Gates apologised to staff, called the meetings a big mistake, and said he took no part in any crime. In June 2026 he gave a closed-door interview to a US House committee.",
+     "src": [
+      145,
+      146,
+      147,
+      148,
+      149
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Divorce changed the money too. After he and Melinda French Gates split in 2021, she left the foundation in 2024 with a $12.5 billion agreement for her own giving. Nairametrics reported in January 2026 that nearly $8 billion of it had moved to her nonprofit.",
+     "src": [
+      84,
+      136
+     ]
+    },
+    {
+     "t": "timeline",
+     "items": [
+      {
+       "when": "Mar 1986",
+       "text": "IPO. Gates's 45% stake is worth about $350 million.",
+       "src": [
+        6
+       ]
+      },
+      {
+       "when": "1987",
+       "text": "Gates becomes a billionaire at 31.",
+       "src": [
+        9
+       ]
+      },
+      {
+       "when": "1994–95",
+       "text": "Hires Michael Larson; Cascade is formed.",
+       "src": [
+        67
+       ]
+      },
+      {
+       "when": "Jul 1999",
+       "text": "Holdings brush $100 billion.",
+       "src": [
+        133
+       ]
+      },
+      {
+       "when": "2000",
+       "text": "Foundations merge with a $20 billion endowment.",
+       "src": [
+        77
+       ]
+      },
+      {
+       "when": "2006",
+       "text": "Warren Buffett pledges more than $30 billion.",
+       "src": [
+        76
+       ]
+      },
+      {
+       "when": "May 2025",
+       "text": "Gates sets 2045 as the foundation's closing date.",
+       "src": [
+        82,
+        85
+       ]
+      },
+      {
+       "when": "Q1 2026",
+       "text": "Foundation trust sells its last Microsoft shares.",
+       "src": [
+        137,
+        85
+       ]
+      }
+     ]
+    },
+    {
+     "t": "facts",
+     "items": [
+      {
+       "value": "$120.4B",
+       "label": "Gates's net worth, Forbes, 1 Nov 2026",
+       "src": [
+        83
+       ]
+      },
+      {
+       "value": "$63.9B+",
+       "label": "His lifetime gifts to the foundation, Forbes, Sep 2026 update",
+       "src": [
+        83
+       ]
+      },
+      {
+       "value": "$34.4B",
+       "label": "Foundation trust's reported US stocks, 30 Jun 2026",
+       "src": [
+        138
+       ]
+      },
+      {
+       "value": "31 Dec 2045",
+       "label": "The day the foundation closes, by its own plan",
+       "src": [
+        76
+       ]
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Put the whole money story together and the arc is plain. A small, cash-rich company kept its founder in control. One clause turned a modest contract into a global standard. __And the fortune that followed is now being deliberately taken apart, by the man who built it.__",
+     "src": [
+      6,
+      113,
+      76
+     ]
+    },
+    {
+     "t": "lesson",
+     "title": "Ownership is what compounds",
+     "text": "Gates never needed a huge salary, since 45% of a growing company did the work. Protect your equity early, because every percent you give away at the start is the most expensive percent you will ever sell."
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "label": "Walter Isaacson, \"In Search of the Real Bill Gates\", TIME, 13 Jan 1997",
+   "url": "https://time.com/archive/6596654/in-search-of-the-real-bill-gates"
+  },
+  {
+   "label": "Sharon Pian Chan, \"The birth and demise of an idea: Teledesic's 'Internet in the sky'\", The Seattle Times, 7 Oct 2002",
+   "url": "https://archive.seattletimes.com/archive/20021007/teledesic070/the-birth-and-demise-of-an-idea-teledesics-internet-in-the-sky"
+  },
+  {
+   "label": "Benjamin Cassidy, \"The Twisted Life of Clippy\", Seattle Met, 23 Aug 2022",
+   "url": "https://www.seattlemet.com/news-and-city-life/seattle-profiles-features/origin-story-of-clippy-the-microsoft-office-assistant/"
+  },
+  {
+   "label": "Todd Bishop, \"Not so smart anymore: Microsoft's watches are done\", GeekWire, 2 Jan 2012",
+   "url": "https://www.geekwire.com/2012/smart-anymore-microsoft-watches-officially/"
+  },
+  {
+   "label": "Mead Gruver, \"First US commercial nuclear reactor permit in years issued to Gates-backed Wyoming project\", AP, 4 Mar 2026",
+   "url": "https://apnews.com/article/wyoming-nuclear-reactor-912a98d4fb1a05bd06e6bf06d71742e7"
+  },
+  {
+   "label": "HistoryLink.org Essay 2294, Cassandra Tate, \"Microsoft Corporation\" (2000, updated 2018)",
+   "url": "https://www.historylink.org/File/2294"
+  },
+  {
+   "label": "Bro Uttal, \"Inside the Deal That Made Bill Gates $350,000,000\", Fortune, 21 Jul 1986 (reprinted 13 Mar 2011)",
+   "url": "https://fortune.com/2011/03/13/inside-the-deal-that-made-bill-gates-350000000/"
+  },
+  {
+   "label": "David Teather, \"The software billionaire's $170m sideline\", The Guardian, 8 Feb 2005",
+   "url": "https://www.theguardian.com/technology/2005/feb/08/newmedia.microsoft"
+  },
+  {
+   "label": "Academy of Achievement, Bill Gates biography and interview",
+   "url": "https://achievement.org/achiever/william-h-gates-iii/"
+  },
+  {
+   "label": "HistoryLink.org Essay 10421, Patrick Marshall, \"Gates, William H. (Bill) (b. 1955)\" (2013, updated 2023)",
+   "url": "https://www.historylink.org/File/10421"
+  },
+  {
+   "label": "Zameena Mejia, \"Microsoft exists because Paul Allen and Bill Gates launched this high school business first\", CNBC, 16 Oct 2018",
+   "url": "https://www.cnbc.com/2018/10/16/microsoft-exists-because-paul-allen-and-bill-gates-launched-this-high-school-business.html"
+  },
+  {
+   "label": "Paul Allen, \"Microsoft's Odd Couple\", Vanity Fair, May 2011 (adapted from Idea Man; archived copy)",
+   "url": "https://web.archive.org/web/20200103050532/www.vanityfair.com/news/2011/05/paul-allen-201105"
+  },
+  {
+   "label": "Bill Gates, \"My time and career at Microsoft\", Gates Notes",
+   "url": "https://www.gatesnotes.com/meet-bill/microsoft"
+  },
+  {
+   "label": "BBC News Online, \"Microsoft Trial: Windows\", Microsoft history and key dates",
+   "url": "http://news.bbc.co.uk/hi/english/static/in_depth/business/2000/microsoft/launch.stm"
+  },
+  {
+   "label": "Paul Andrews and Stephen Manes, \"I Blew It, Perot Says\", The Seattle Times, 14 Jun 1992",
+   "url": "https://archive.seattletimes.com/archive/19920614/1497096/i-blew-it-perot-says----he-didnt-buy-up-microsoft-when-he-had-a-chance-in-79"
+  },
+  {
+   "label": "Los Angeles Times, \"History of Microsoft\" (timeline), 4 Apr 2000",
+   "url": "https://www.latimes.com/archives/la-xpm-2000-apr-04-fi-15769-story.html"
+  },
+  {
+   "label": "Alex Wilhelm, \"A look back in IPO: Microsoft, the software success\", TechCrunch, 8 Aug 2017 (quotes Gates's 2013 Harvard Q&A and the prospectus)",
+   "url": "https://techcrunch.com/2017/08/08/a-look-back-in-ipo-microsoft-the-software-success/"
+  },
+  {
+   "label": "Microsoft, FY27 Q1 earnings press release, 28 Oct 2026",
+   "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+  },
+  {
+   "label": "Jay Greene, \"Bill Gates leaves Microsoft's board\", The Washington Post, 13 Mar 2020",
+   "url": "https://www.washingtonpost.com/technology/2020/03/13/bill-gates-microsoft-board/"
+  },
+  {
+   "label": "Microsoft Source, \"Microsoft announces change to its board of directors\", 13 Mar 2020",
+   "url": "https://news.microsoft.com/source/2020/03/13/microsoft-announces-change-to-its-board-of-directors/"
+  },
+  {
+   "label": "Tom Warren, \"Bill Gates says his 'greatest mistake ever' was Microsoft losing to Android\", The Verge, 24 Jun 2019",
+   "url": "https://www.theverge.com/2019/6/24/18715202/microsoft-bill-gates-android-biggest-mistake-interview"
+  },
+  {
+   "label": "Masters of Scale, Reid Hoffman, \"How to accelerate history (Part 1), with Bill Gates\" (transcript), 7 Nov 2019",
+   "url": "https://mastersofscale.com/bill-gates-how-to-accelerate-history/"
+  },
+  {
+   "label": "Steven Sinofsky, Hardcore Software, \"032. Winning With the Suite\", 14 Jun 2021",
+   "url": "https://hardcoresoftware.learningbyshipping.com/p/032-winning-with-the-suite"
+  },
+  {
+   "label": "Microsoft Source, \"Microsoft and Apple Affirm Commitment To Build Next Generation Software for Macintosh\", 6 Aug 1997",
+   "url": "https://news.microsoft.com/source/1997/08/06/microsoft-and-apple-affirm-commitment-to-build-next-generation-software-for-macintosh/"
+  },
+  {
+   "label": "Text of the Apple-Microsoft agreement of 22 Nov 1985 (exhibit copy)",
+   "url": "https://microsoft-os.github.io/docs/pdf/Microsoft/Text%20of%20Apple-Microsoft%20Agreement.htm"
+  },
+  {
+   "label": "The New York Times, \"Market Place; Lotus counts on its new Notes software to rekindle growth\", 12 Apr 1993",
+   "url": "https://www.nytimes.com/1993/04/12/business/market-place-lotus-counts-on-its-new-notes-software-to-rekindle-growth.html"
+  },
+  {
+   "label": "Sean Hollister, \"Revisiting Windows 1.0: how Microsoft's first desktop gracefully failed\", The Verge, 20 Nov 2012",
+   "url": "https://www.theverge.com/2012/11/20/3671922/windows-1-0-microsoft-history-desktop-gracefully-failed"
+  },
+  {
+   "label": "EBSCO Research Starters, \"Microsoft Releases the Windows Operating System\"",
+   "url": "https://www.ebsco.com/research-starters/computer-science/microsoft-releases-windows-operating-system/"
+  },
+  {
+   "label": "Paul Andrews, \"Microsoft, IBM Set Battle Lines: 'Divorce' Is Deeper Than First Thought\", The Seattle Times, 29 Jun 1992",
+   "url": "https://archive.seattletimes.com/archive/19920629/1499582/computers----microsoft-ibm-set-battle-lines----divorce-is-deeper-than-first-thought"
+  },
+  {
+   "label": "Jonathan Weber, \"IBM, Microsoft Revamp Their Partnership\", Los Angeles Times, 18 Sep 1990",
+   "url": "https://www.latimes.com/archives/la-xpm-1990-09-18-fi-782-story.html"
+  },
+  {
+   "label": "The New York Times, \"Microsoft Widens Its Split With I.B.M. Over Software\", 27 Jul 1991",
+   "url": "https://www.nytimes.com/1991/07/27/business/microsoft-widens-its-split-with-ibm-over-software.html"
+  },
+  {
+   "label": "Acquired podcast, \"The Steve Ballmer Interview\" (transcript), 2 Jun 2025",
+   "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview"
+  },
+  {
+   "label": "Shane Greenstein, \"The Reference Wars: Encyclopaedia Britannica's Decline and Encarta's Emergence\", Harvard Business School working paper",
+   "url": "https://www.hbs.edu/ris/Publication%20Files/Reference%20Wars%20-%20Greenstein_6c4ac193-51eb-4758-a5a6-a4c412261411.pdf"
+  },
+  {
+   "label": "CIO, \"Microsoft's graveyard: 16 products that Microsoft has killed\", 22 Oct 2013",
+   "url": "https://www.cio.com/article/220200/microsofts-graveyard-16-products-that-microsoft-has-killed.html"
+  },
+  {
+   "label": "Noam Cohen, \"Microsoft Encarta Dies After Long Battle With Wikipedia\", The New York Times, 30 Mar 2009",
+   "url": "https://archive.nytimes.com/bits.blogs.nytimes.com/2009/03/30/microsoft-encarta-dies-after-long-battle-with-wikipedia/"
+  },
+  {
+   "label": "Zameena Mejia, \"The lesson Melinda Gates learned from screwing up a Microsoft project\", CNBC, 29 Nov 2017",
+   "url": "https://www.cnbc.com/make-it/2017/11/29/the-lesson-melinda-gates-learned-from-screwing-up-a-microsoft-project.html"
+  },
+  {
+   "label": "Tandy Trower, \"Bob and Beyond: A Microsoft Insider Remembers\", Technologizer, 29 Mar 2010",
+   "url": "https://www.technologizer.com/2010/03/29/bob-and-beyond-a-microsoft-insider-remembers/index.html"
+  },
+  {
+   "label": "Brian McCullough, How the Internet Happened, chapter \"Bill Gates 'Gets' the Internet\" (course copy, San Diego State University)",
+   "url": "https://stewart.sdsu.edu/infolab/HowInetHappened/04%20Ch2%20BillGates%20'GETS'%20%20theInternet_Microsoft%20and%20Internet%20Explorer.pdf"
+  },
+  {
+   "label": "\"The Rise and Rise of the Redmond Empire\" (Microsoft timeline with revenue and staff by year, hosted by George Mason University)",
+   "url": "https://www.chnm.gmu.edu/digitalhistory/links/pdf/chapter1/1.4a.pdf"
+  },
+  {
+   "label": "Bill Gates, \"The Internet Tidal Wave\", memo of 26 May 1995, US Department of Justice trial exhibit",
+   "url": "https://www.justice.gov/sites/default/files/atr/legacy/2006/03/03/20.pdf"
+  },
+  {
+   "label": "Dina Bass, \"Xbox: the oral history of an American video game empire\", Bloomberg, 6 Jan 2021",
+   "url": "https://www.bloomberg.com/news/features/2021-01-06/xbox-the-oral-history-of-an-american-video-game-empire"
+  },
+  {
+   "label": "Dean Takahashi, \"The making of the Xbox\" (part 1), GamesBeat, 15 Nov 2011",
+   "url": "https://gamesbeat.com/making-of-the-xbox-1/4/"
+  },
+  {
+   "label": "Thomas Wilde, \"Former Microsoft exec Ed Fries shares behind-the-scenes stories from the original Xbox project\", GeekWire, 21 Nov 2021",
+   "url": "https://www.geekwire.com/2021/former-microsoft-exec-ed-fries-shares-behind-the-scenes-stories-from-the-original-xbox-project/"
+  },
+  {
+   "label": "Rusel DeMaria, Game of X, vol. 1, \"The St. Valentine's Day Massacre Microsoft Style\" (CRC Press, 2018)",
+   "url": "https://doi.org/10.1201/9780429436062-11"
+  },
+  {
+   "label": "Microsoft Source, \"Gates Showcases Tablet PC, Xbox at COMDEX\", 11 Nov 2001",
+   "url": "https://news.microsoft.com/source/2001/11/11/gates-showcases-tablet-pc-xbox-at-comdex-says-new-digital-decade-technologies-will-transform-how-we-live/"
+  },
+  {
+   "label": "Devin Coldewey, \"A dozen years of Microsoft's hits and misses\", NBC News, 18 Jun 2012",
+   "url": "https://www.nbcnews.com/tech/gadgets/dozen-years-microsofts-hits-misses-flna833541"
+  },
+  {
+   "label": "Microsoft News, \"Bill Gates Showcases New Technology for 'Smart Living' in the Digital Decade\", 8 Jan 2003",
+   "url": "https://news.microsoft.com/2003/01/08/bill-gates-showcases-new-technology-for-smart-living-in-the-digital-decade/"
+  },
+  {
+   "label": "Leslie Walker, \"In Your Future, Microsoft Sees SPOT\", The Washington Post, 16 Jan 2003",
+   "url": "https://www.washingtonpost.com/archive/business/2003/01/16/in-your-future-microsoft-sees-spot/ef4937ac-2b42-4356-ab3c-6c988f5bc3c9/"
+  },
+  {
+   "label": "Ahiza Garcia, \"Bill Gates says this was his biggest mistake\", CNN Business, 24 Jun 2019",
+   "url": "https://www.cnn.com/2019/06/24/tech/bill-gates-android"
+  },
+  {
+   "label": "Connie Loizos, \"Bill Gates on making 'one of the greatest mistakes of all time'\", TechCrunch, 22 Jun 2019",
+   "url": "https://techcrunch.com/2019/06/22/bill-gates-on-making-one-of-the-greatest-mistakes-of-all-time/"
+  },
+  {
+   "label": "The New York Times, \"Licensing Famous Art, Digitally\", 20 Aug 2001",
+   "url": "https://www.nytimes.com/2001/08/20/business/technology-licensing-famous-art-digitally.html"
+  },
+  {
+   "label": "Tyrone Beason and Thomas Lee, \"Guiding father of Icos cuts cord\", The Seattle Times, 2 Feb 2000",
+   "url": "https://archive.seattletimes.com/archive/20000202/4002692/guiding-father-of-icos-cuts-cord"
+  },
+  {
+   "label": "Los Angeles Times, \"Gates' Corbis Digital Service Buys Bettmann Photography Archive\", 11 Oct 1995",
+   "url": "https://www.latimes.com/archives/la-xpm-1995-10-11-fi-55747-story.html"
+  },
+  {
+   "label": "The New York Times, \"A Photo Trove, a Mounting Challenge\", 10 Apr 2007",
+   "url": "https://www.nytimes.com/2007/04/10/business/10corbis.html"
+  },
+  {
+   "label": "The New York Times, \"A Century's Photo History Destined for Life in a Mine\", 15 Apr 2001",
+   "url": "https://www.nytimes.com/2001/04/15/us/a-century-s-photo-history-destined-for-life-in-a-mine.html"
+  },
+  {
+   "label": "Olivier Laurent, \"The Decade-Long Image Licensing War Is Suddenly Over\", TIME, 22 Jan 2016",
+   "url": "https://time.com/4190784/image-licensing-war-is-over/"
+  },
+  {
+   "label": "Patrick Frater, \"Bill Gates' Corbis Images Sold to Visual China Group\", Variety, 25 Jan 2016",
+   "url": "https://variety.com/2016/digital/asia/bill-gates-corbis-images-sold-to-visual-china-1201687743/"
+  },
+  {
+   "label": "The New York Times, \"With Corbis Sale, Tiananmen Protest Images Go to Chinese Media Company\", 27 Jan 2016",
+   "url": "https://www.nytimes.com/2016/01/28/business/media/with-corbis-sale-tiananmen-protest-images-go-to-chinese-media-company.html"
+  },
+  {
+   "label": "Forbes, \"Bioscience: Follow the cash\", 14 Dec 1998",
+   "url": "https://www.forbes.com/forbes/1998/1214/6213240a.html"
+  },
+  {
+   "label": "Jack Searles, \"Founder of Amgen Increases Ownership Share in Icos\", Los Angeles Times, 13 Dec 1994",
+   "url": "https://www.latimes.com/archives/la-xpm-1994-12-13-fi-8566-story.html"
+  },
+  {
+   "label": "Luke Timmerman, \"Icos sale a blow to local biotech\", The Seattle Times, 18 Oct 2006",
+   "url": "https://www.seattletimes.com/business/icos-sale-a-blow-to-local-biotech/"
+  },
+  {
+   "label": "The Seattle Times, \"Icos sale to Lilly approved by shareholders\", 25 Jan 2007",
+   "url": "https://www.seattletimes.com/business/icos-sale-to-lilly-approved-by-shareholders/"
+  },
+  {
+   "label": "Eli Lilly, \"Lilly Announces Completion of ICOS Corporation Acquisition\", 29 Jan 2007",
+   "url": "https://investor.lilly.com/news-releases/news-release-details/lilly-announces-completion-icos-corporation-acquisition"
+  },
+  {
+   "label": "Reuters via The New York Times, \"Teledesic Picks Boeing to Build Planned Network of Satellites\", 30 Apr 1997",
+   "url": "https://www.nytimes.com/1997/04/30/business/teledesic-picks-boeing-to-build-planned-network-of-satellites.html"
+  },
+  {
+   "label": "Graham Lea, \"Can Bill Gates broadband satellite bet beat re-entry burnout?\", The Register, 22 Sep 2000",
+   "url": "https://www.theregister.com/2000/09/22/can_bill_gates_broadband_satellite"
+  },
+  {
+   "label": "Bruce Branch, \"Teledesic Decision Casts Pall Over Satellite Industry\", Communications Daily, 4 Oct 2002",
+   "url": "https://communicationsdaily.com/article/2002/10/04/teledesic-decision-casts-pall-over-satellite-industry-0210040034?BC=bc_6743c679a26af"
+  },
+  {
+   "label": "Alistair Barr, \"Gates 3.0: Stock-picking for the world's richest man\", MarketWatch, 11 Nov 2006",
+   "url": "https://www.marketwatch.com/story/gates-30-the-stock-picking-behind-his-epic-charitable-efforts"
+  },
+  {
+   "label": "Anupreeta Das, Emily Flitter and Nicholas Kulish, \"A Culture of Fear at the Firm That Manages Bill Gates's Fortune\", The New York Times, 26 May 2021, via Business Standard",
+   "url": "https://www.business-standard.com/article/international/fear-intimidation-culture-used-in-firm-that-manages-bill-gates-fortunes-121052700214_1.html"
+  },
+  {
+   "label": "Lucy Warwick-Ching, \"Cascade Investment, Bill Gates' wealth manager\", Financial Times, 21 Oct 2015",
+   "url": "https://www.ft.com/content/ce87f48a-7208-11e5-9b9e-690fdae72044"
+  },
+  {
+   "label": "Christine Dobby, \"How did Bill Gates end up owning $13 billion worth of Canada's biggest railway?\", Toronto Star, 15 May 2021",
+   "url": "https://www.thestar.com/business/how-did-bill-gates-end-up-owning-13-billion-worth-of-canada-s-biggest-railway/article_e5ac218f-dcfc-598e-9914-0c74da46b997.html"
+  },
+  {
+   "label": "Reuters, \"Bill Gates' investment firm to take control of Four Seasons in $2.21 bln deal\", 8 Sep 2021",
+   "url": "https://www.reuters.com/business/bill-gates-cascade-investment-take-control-four-seasons-hotels-2021-09-08/"
+  },
+  {
+   "label": "Four Seasons press release via Hospitality Net, \"Cascade Investment Affiliate Agrees to Acquire Controlling Stake\", 8 Sep 2021",
+   "url": "https://www.hospitalitynet.org/news/4106331/cascade-investment-affiliate-agrees-to-acquire-controlling-stake-in-four-seasons-hotels-and-resorts"
+  },
+  {
+   "label": "Eric O'Keefe, \"Bill Gates is America's Largest Farmland Owner\", The Land Report, 11 Jan 2021",
+   "url": "https://landreport.com/bill-gates-americas-largest-farmland-owner"
+  },
+  {
+   "label": "Catherine Reagor, \"Bill Gates group invests $80 million in Belmont near Phoenix\", The Arizona Republic, 8 Nov 2017",
+   "url": "https://www.azcentral.com/story/money/real-estate/catherine-reagor/2017/11/08/bill-gates-cascade-invests-belmont-real-estate-development-near-phoenix/842280001/"
+  },
+  {
+   "label": "Kate Duffy and Grace Kay, \"Bill Gates' 242,000 Acres of Farmland Could Be Split in Divorce\", Business Insider, 4 May 2021",
+   "url": "https://www.businessinsider.com/bill-gates-land-portfolio-biggest-private-farmland-owner-in-america-2021-1"
+  },
+  {
+   "label": "PYMNTS, \"Gates Foundation Buys Land For Farms\", 4 Mar 2021",
+   "url": "https://www.pymnts.com/internet-of-things/2021/bill-gates-land-grab-fuels-speculation-about-smart-cities-agtech-plans/"
+  },
+  {
+   "label": "Gates Foundation, \"Our story\" (origin and milestones)",
+   "url": "https://www.gatesfoundation.org/about/our-story"
+  },
+  {
+   "label": "Bill Gates, \"The Gates Foundation and my philanthropic work\", Gates Notes",
+   "url": "https://www.gatesnotes.com/meet-bill/my-philanthropy/stack"
+  },
+  {
+   "label": "The New York Times, \"Bill Gates Sr., Who Guided Billionaire Son's Philanthropy, Dies at 94\", 15 Sep 2020",
+   "url": "https://www.nytimes.com/2020/09/15/business/bill-gates-sr-dead.html"
+  },
+  {
+   "label": "William H. Gates Sr., speech to the Pacific Northwest Global Donors Conference, Gates Foundation, 10 Mar 2010",
+   "url": "https://www.gatesfoundation.org/ideas/speeches/2010/03/william-h-gates-sr-pnw-global-donors-conference"
+  },
+  {
+   "label": "Andy Beckett, \"Inside the Bill and Melinda Gates Foundation\", The Guardian, 12 Jul 2010",
+   "url": "https://www.theguardian.com/world/2010/jul/12/bill-and-melinda-gates-foundation"
+  },
+  {
+   "label": "InfluenceWatch, \"Gates Foundation\" (first gift of $94 million)",
+   "url": "https://www.influencewatch.org/non-profit/gates-foundation/"
+  },
+  {
+   "label": "Thalia Beaty, \"How the Gates Foundation changed global health and philanthropy\", AP, 8 May 2025",
+   "url": "https://apnews.com/article/gates-foundation-bill-gates-warren-buffett-melinda-french-gates-fbf9165064503dc9c645dde9aecb4767"
+  },
+  {
+   "label": "Forbes, Bill Gates real-time profile (as of 1 Nov 2026)",
+   "url": "https://www.forbes.com/profile/bill-gates/"
+  },
+  {
+   "label": "Reuters, \"Melinda Gates to exit Gates Foundation with $12.5 billion for own charity work\", 13 May 2024",
+   "url": "https://www.reuters.com/business/melinda-gates-step-down-co-chair-bill-melinda-gates-foundation-2024-05-13/"
+  },
+  {
+   "label": "Yahoo Finance, Rudro Chakrabarti, \"Gates' foundation sold all of its Microsoft shares\", 17 May 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html"
+  },
+  {
+   "label": "The Giving Pledge, \"Forty U.S. families take Giving Pledge\", 4 Aug 2010",
+   "url": "https://www.givingpledge.org/forty-u-s-families-take-giving-pledge/"
+  },
+  {
+   "label": "BBC News, \"US billionaires pledge 50% of their wealth to charity\", 4 Aug 2010",
+   "url": "https://www.bbc.com/news/world-us-canada-10870361"
+  },
+  {
+   "label": "Todd Bishop and Eric Engleman, \"Bill Gates' mysterious new company\", Puget Sound Business Journal, 22 Oct 2008",
+   "url": "https://www.bizjournals.com/seattle/blog/techflash/2008/10/Bill_Gates_mysterious_new_company.html"
+  },
+  {
+   "label": "TerraPower, About page and board list",
+   "url": "https://www.terrapower.com/about"
+  },
+  {
+   "label": "Caixin Global, \"Nuclear Power Trial in China Will 'Not Proceed'\", 5 Jan 2019",
+   "url": "https://www.caixinglobal.com/2019-01-05/nuclear-power-trial-in-china-will-not-proceed-101366789.html"
+  },
+  {
+   "label": "Reuters, \"Bill Gates' nuclear venture hits snag amid U.S. restrictions on China deals: WSJ\", 2 Jan 2019",
+   "url": "https://www.reuters.com/article/us-terrapower-china-idUSKCN1OV1S5/"
+  },
+  {
+   "label": "Tim De Chant, \"Nvidia wants in on the nuclear renaissance\", TechCrunch, 20 Jun 2025",
+   "url": "https://techcrunch.com/2025/06/20/nvidia-wants-in-on-the-nuclear-renaissance-invests-in-bill-gates-backed-terrapower/"
+  },
+  {
+   "label": "CBS News, Transcript: Bill Gates on \"Face the Nation\", 16 Jun 2024",
+   "url": "https://www.cbsnews.com/news/bill-gates-transcript-face-the-nation-06-16-2024/"
+  },
+  {
+   "label": "TerraPower, \"TerraPower Announces $750 Million Secured in Fundraise\", 15 Aug 2022",
+   "url": "https://www.terrapower.com/fundraise/"
+  },
+  {
+   "label": "TerraPower, \"TerraPower Announces $650 Million Fundraise\", 18 Jun 2025",
+   "url": "https://www.terrapower.com/terrapower-announces-650-million-fundraise"
+  },
+  {
+   "label": "TerraPower, Natrium FAQ",
+   "url": "https://www.terrapower.com/faq/"
+  },
+  {
+   "label": "TerraPower, \"NRC Approves the Natrium Reactor Construction Permit\", 4 Mar 2026",
+   "url": "https://www.terrapower.com/NRC-Approves-Natrium-Reactor-Construction-Permit"
+  },
+  {
+   "label": "US Department of Energy, \"NRC Issues Construction Permit for TerraPower's Natrium Advanced Reactor\", 9 Mar 2026",
+   "url": "https://www.energy.gov/ne/articles/nrc-issues-construction-permit-terrapowers-natrium-advanced-reactor"
+  },
+  {
+   "label": "Bloomberg News via InvestmentNews, \"Bill Gates chooses nuclear option for multi-billion-dollar investment\", 17 Jun 2024",
+   "url": "https://www.investmentnews.com/ria-news/bill-gates-chooses-nuclear-option-for-multi-billion-dollar-investment/254519"
+  },
+  {
+   "label": "James Temple, \"Inside the Fall, and Rebirth, of a Bill Gates-Backed Battery Startup\", MIT Technology Review, 8 Aug 2017",
+   "url": "https://www.technologyreview.com/2017/08/08/150080/inside-the-fall-and-rebirth-of-a-bill-gates-backed-battery-startup/"
+  },
+  {
+   "label": "Reuters, \"Losing fundraising power, battery maker Aquion files for bankruptcy\", 8 Mar 2017",
+   "url": "https://www.reuters.com/article/legal/losing-fundraising-power-battery-maker-aquion-files-for-bankruptcy-idUSL2N1GL283/"
+  },
+  {
+   "label": "Mark Chediak, \"Battery Maker That Bill Gates Backed Emerges from Bankruptcy\", Bloomberg Law, 24 Jul 2017",
+   "url": "https://news.bloomberglaw.com/bankruptcy-law/battery-maker-that-bill-gates-backed-emerges-from-bankruptcy"
+  },
+  {
+   "label": "The White House (archived), \"Fact Sheet: Mission Innovation\", 29 Nov 2015",
+   "url": "https://obamawhitehouse.archives.gov/the-press-office/2015/11/29/fact-sheet-mission-innovation"
+  },
+  {
+   "label": "Breakthrough Energy press release, \"Global Business Innovators Launch $1 Billion Investment Fund\", 12 Dec 2016",
+   "url": "https://www.prnewswire.com/news-releases/global-business-innovators-launch-1-billion-investment-fund-for-next-generation-energy-technologies-300376636.html"
+  },
+  {
+   "label": "Lora Kolodny, \"Bill Gates, Jeff Bezos and 18 others commit $1 billion to new cleantech fund\", TechCrunch, 11 Dec 2016",
+   "url": "https://techcrunch.com/2016/12/11/bill-gates-jeff-bezos-and-18-others-commit-1-billion-to-new-cleantech-fund-breakthrough-energy-ventures/"
+  },
+  {
+   "label": "PBS NewsHour, \"Bill Gates and top investors launch $1 billion clean energy fund\", 13 Dec 2016",
+   "url": "https://www.pbs.org/newshour/science/bill-gates-top-investors-launch-1-billion-clean-energy-fund"
+  },
+  {
+   "label": "Devon Pendleton, \"Bill Gates' Climate Group Lays Off US and Europe Policy Teams\", Bloomberg, 12 Mar 2025",
+   "url": "https://www.bloomberg.com/news/articles/2025-03-12/bill-gates-climate-group-lays-off-us-and-europe-policy-teams"
+  },
+  {
+   "label": "Yahoo Finance / Benzinga, Jason Collins, \"Bill Gates Ensured Microsoft's Future By Staying Frugal\", 7 Jun 2024",
+   "url": "https://finance.yahoo.com/news/bill-gates-ensured-microsofts-future-151520301.html"
+  },
+  {
+   "label": "Roy A. Allan, A History of the Personal Computer, chapter 12, \"Microsoft in the 1980's\" (Internet Archive)",
+   "url": "https://ia802805.us.archive.org/2/items/A_History_of_the_Personal_Computer/eBook12.pdf"
+  },
+  {
+   "label": "Tony Smith, \"Microsoft's MS-DOS is 30 today\", The Register, 27 Jul 2011",
+   "url": "https://www.theregister.com/software/2011/07/27/microsofts-ms-dos-is-30-today/347209"
+  },
+  {
+   "label": "Computer History Museum, Leonard Shustek, \"Microsoft MS-DOS early source code\", 25 Mar 2014",
+   "url": "https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/"
+  },
+  {
+   "label": "UPI, report on Microsoft rehiring Tim Paterson and buying Falcon Technology's assets, 11 Sep 1986",
+   "url": "https://www.upi.com/Archives/1986/09/11/Microsoft-Corp-one-of-the-leaders-in-the-development/2227526795200/"
+  },
+  {
+   "label": "Fox Business, \"What is Bill Gates' net worth?\", 27 Feb 2020 (IBM contract amount and terms)",
+   "url": "https://www.foxbusiness.com/technology/bill-gates-net-worth"
+  },
+  {
+   "label": "The New York Times, \"Mary Gates, 64; Helped Her Son Start Microsoft\", 11 Jun 1994",
+   "url": "https://www.nytimes.com/1994/06/11/obituaries/mary-gates-64-helped-her-son-start-microsoft.html"
+  },
+  {
+   "label": "UPI, \"Microsoft settles license lawsuit for nearly $1 million\", 16 Dec 1986",
+   "url": "https://www.upi.com/Archives/1986/12/16/Microsoft-settles-license-lawsuit-for-nearly-1-million/6032535093200/"
+  },
+  {
+   "label": "Microsoft Learn, \"The History of Microsoft: 1975\"",
+   "url": "https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1975"
+  },
+  {
+   "label": "Acquired podcast, \"Microsoft Volume I\" (transcript)",
+   "url": "https://www.acquired.fm/episodes/microsoft"
+  },
+  {
+   "label": "Detlef Borchers, \"April 4, 1975: Microsoft is founded\", heise online, 4 Apr 2025 (draws on Gates's memoir Source Code)",
+   "url": "https://www.heise.de/en/background/April-4-1975-Microsoft-is-founded-10339711.html"
+  },
+  {
+   "label": "Paul Allen, Idea Man (Portfolio/Penguin, 2011), chapter \"Partners\" (book; catalogue link)",
+   "url": "https://openlibrary.org/search?q=idea+man+paul+allen"
+  },
+  {
+   "label": "Microsoft Learn, \"The History of Microsoft: 1977\"",
+   "url": "https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1977"
+  },
+  {
+   "label": "Reuters, \"Microsoft co-founder Allen blasts Gates in book\", 30 Mar 2011",
+   "url": "https://www.reuters.com/article/technology/microsoft-co-founder-allen-blasts-gates-in-book-idUSTRE72T4QI/"
+  },
+  {
+   "label": "Paul Andrews, \"Apple-Microsoft Lawsuit Fizzles To A Close\", The Seattle Times, 2 Jun 1993",
+   "url": "https://archive.seattletimes.com/archive/19930602/1704430/apple-microsoft-lawsuit-fizzles-to-a-close----nothing-left-to-fight-about"
+  },
+  {
+   "label": "Apple Computer, Inc. v. Microsoft Corp., 35 F.3d 1435 (9th Cir. 1994)",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/F3/35/1435/605245/"
+  },
+  {
+   "label": "The New York Times, \"Apple and Microsoft Disclose a 1985 Pact\", 24 Mar 1988",
+   "url": "https://www.nytimes.com/1988/03/24/business/company-news-apple-and-microsoft-disclose-a-1985-pact.html"
+  },
+  {
+   "label": "Malathi Nayak, \"Timeline: Microsoft's journey: four decades, three CEOs\", Reuters, 4 Feb 2014",
+   "url": "https://www.reuters.com/article/technology/timeline-microsofts-journey-four-decades-three-ceos-idUSBREA131R7/"
+  },
+  {
+   "label": "John Markoff, \"Microsoft Comes to Aid of Rival Apple\", The New York Times, 7 Aug 1997",
+   "url": "https://partners.nytimes.com/library/cyber/week/080797apple.html"
+  },
+  {
+   "label": "Computer History Museum, \"August 6: Microsoft Buys $150M of Apple stock\"",
+   "url": "https://www.computerhistory.org/tdih/august/6/"
+  },
+  {
+   "label": "Federal Register, \"United States v. Microsoft Corporation; Revised Proposed Final Judgment\", 28 Nov 2001",
+   "url": "https://www.federalregister.gov/documents/2001/11/28/01-29498/united-states-v-microsoft-corporation-revised-proposed-final-judgment-and-competitive-impact"
+  },
+  {
+   "label": "Berkman Center, Harvard, \"The Microsoft Case\" (appeals court summary, 28 Jun 2001)",
+   "url": "https://cyber.harvard.edu/msdoj/"
+  },
+  {
+   "label": "US Department of Justice, news conference on the Microsoft settlement, 2 Nov 2001",
+   "url": "https://www.justice.gov/archive/ag/speeches/2001/1102newsconference.htm"
+  },
+  {
+   "label": "European Commission, press release IP/04/382, 24 Mar 2004",
+   "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_04_382/IP_04_382_EN.pdf"
+  },
+  {
+   "label": "Microsoft Stories, \"Microsoft goes public\"",
+   "url": "https://news.microsoft.com/announcement/microsoft-goes-public/"
+  },
+  {
+   "label": "Amy Harmon, \"Gates Hits $100 Billion Mark, More or Less\", The New York Times, 17 Jul 1999",
+   "url": "https://archive.nytimes.com/www.nytimes.com/library/tech/99/07/biztech/articles/17rich.html"
+  },
+  {
+   "label": "The Motley Fool via Nasdaq, \"If You Bought 1 Share of Microsoft at Its IPO...\", 9 Aug 2024 (stock-split table from Microsoft)",
+   "url": "https://www.nasdaq.com/articles/if-you-bought-1-share-microsoft-its-ipo-heres-how-many-shares-you-would-own-now"
+  },
+  {
+   "label": "Yahoo Finance, \"Microsoft (MSFT) Stock Shrugs Off Q1 Earnings\", 30 Oct 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-shrugs-off-032056445.html"
+  },
+  {
+   "label": "Deborah Dan-Awoh, \"Bill Gates' net worth drops by $15.6 billion YTD 2026\", Nairametrics, 7 Apr 2026 (tracks the Bloomberg index)",
+   "url": "https://nairametrics.com/2026/04/07/bill-gates-net-worth-drops-by-15-6-billion-ytd-2026/"
+  },
+  {
+   "label": "Adam Levine, \"Bill Gates' Foundation Sells the Last of Its Microsoft Stock\", Barron's, 16 May 2026",
+   "url": "https://www.barrons.com/articles/gates-foundation-microsoft-stock-37051066"
+  },
+  {
+   "label": "Talval, Gates Foundation Trust holdings from the Q2 2026 Form 13F (filed 14 Aug 2026)",
+   "url": "https://talval.com/superinvestors/gates"
+  },
+  {
+   "label": "Gates Foundation, \"Financial Information\" (foundation and trust structure)",
+   "url": "https://www.gatesfoundation.org/about/financials"
+  },
+  {
+   "label": "Aaron Tilley, \"Bill Gates to Leave Boards of Microsoft and Berkshire Hathaway\", The Wall Street Journal, 13 Mar 2020",
+   "url": "https://www.wsj.com/articles/bill-gates-to-leave-boards-of-microsoft-and-berkshire-hathaway-11584135172"
+  },
+  {
+   "label": "Bloomberg Billionaires Index, Bill Gates profile (last updated 31 Oct 2026)",
+   "url": "https://www.bloomberg.com/billionaires/profiles/william-h-gates/"
+  },
+  {
+   "label": "Marco Quiroz-Gutierrez, \"Satya Nadella says Bill Gates told him his big bet on OpenAI would be a flop\", Fortune, 21 Feb 2026",
+   "url": "https://fortune.com/article/microsoft-ceo-satya-nadella-bill-gates-openai-sam-altman-youre-going-to-burn-this-billion-dollars-big-tech/"
+  },
+  {
+   "label": "Emily Glazer and others, \"Bill Gates Left Microsoft Board Amid Probe Into Prior Relationship With Staffer\", The Wall Street Journal, 16 May 2021",
+   "url": "https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803"
+  },
+  {
+   "label": "Reuters, \"Microsoft says it investigated Gates' involvement with employee\", 17 May 2021",
+   "url": "https://www.reuters.com/business/microsoft-says-it-investigated-gates-involvement-with-employee-2021-05-17/"
+  },
+  {
+   "label": "Emily Flitter and James B. Stewart, \"Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past\", The New York Times, 12 Oct 2019",
+   "url": "https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html"
+  },
+  {
+   "label": "James Pollard, \"The Gates Foundation met with Epstein about 30 times despite staff concerns, an external review says\", AP, 21 Jul 2026",
+   "url": "https://apnews.com/article/bill-gates-foundation-jeffrey-epstein-files-798b07999092aae601eae11a8ea14ce5"
+  },
+  {
+   "label": "Gates Foundation, \"Statement by the Gates Foundation\", 11 Feb 2026",
+   "url": "https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/02/doj-statement"
+  },
+  {
+   "label": "Emily Glazer, \"Bill Gates Apologizes to Foundation Staff Over Epstein Ties\", The Wall Street Journal, 25 Feb 2026",
+   "url": "https://www.wsj.com/articles/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-67f39ef5"
+  },
+  {
+   "label": "Reuters, \"Bill Gates 'took responsibility for his actions' over Epstein links, foundation says\", 25 Feb 2026",
+   "url": "https://www.reuters.com/world/us/bill-gates-took-responsibility-his-actions-over-epstein-links-foundation-says-2026-02-25/"
+  }
+ ],
+ "factCheck": {
+  "method": "Primary documents and established press were read directly on 2 Nov 2026: Fortune's 1986 inside account of the IPO; Gates's own Gates Notes history; Microsoft's press releases, FY27 Q1 earnings release and Microsoft Learn timeline; the Justice Department's trial exhibit of the 1995 memo, its 2001 news conference and the Federal Register notice; the Ninth Circuit opinion in Apple v. Microsoft and the 1985 agreement text; the European Commission's 2004 release; company releases from TerraPower, Eli Lilly, Four Seasons and Breakthrough Energy; contemporaneous reporting from the New York Times, Reuters, AP, Bloomberg, FT, WSJ, Seattle Times, UPI, Los Angeles Times, TIME and Fortune; and Paul Allen's own Vanity Fair adaptation. Net worth and holdings are the latest published figures: Forbes (1 Nov 2026) and Bloomberg (31 Oct 2026). Sums marked as our arithmetic were calculated from the cited figures. To respect copyright the text paraphrases almost everything; only three short quotes appear, two of them from public court rulings. Reddit, forums and Wikipedia were used as leads only and are not cited. Paul Allen's book Idea Man was read through an online copy we do not link; its catalogue page is cited, so a print check of that chapter is advised. WSJ and Bloomberg pieces behind paywalls were read only as far as their free text. Bloomberg's holdings list was read up to the AutoNation line.",
+  "disputed": [
+   {
+    "claim": "How much Microsoft paid for 86-DOS / QDOS",
+    "note": "UPI (1986) and Gates at trial said $50,000; the Computer History Museum, The Register and Allan's history count $25,000 plus $50,000, or $75,000 in all. Ballmer in 2025 remembered about $45,000–$49,000. The text uses $75,000 in total."
+   },
+   {
+    "claim": "When Microsoft first licensed 86-DOS",
+    "note": "Allan's history says September 1980; the Computer History Museum says December 1980; a court filing by Caldera says 6 January 1981. The text gives no month for the licence, only the purchase date of 27 July 1981."
+   },
+   {
+    "claim": "What IBM paid Microsoft",
+    "note": "Fox Business says $430,000 in the 6 Nov 1980 contract. Ballmer's 2025 recollection is about $400,000. An unverified secondary site suggests less. The contract itself is not public in full, so the text says 'reports put'."
+   },
+   {
+    "claim": "Why IBM and Digital Research did not reach a deal",
+    "note": "Ballmer and Allan's history say Digital Research refused to sign the non-disclosure agreement. HistoryLink says the reasons remain unclear. Other accounts mention a royalty dispute. The text flags the disagreement."
+   },
+   {
+    "claim": "Mary Gates's role in the IBM deal",
+    "note": "The New York Times obituary (1994) says her talk with IBM chairman John Opel was believed to have helped. It is not proven that it decided anything. Ballmer's account does not mention it."
+   },
+   {
+    "claim": "Perot's 1979 offer",
+    "note": "Perot recalled a price of $40–60 million; Gates recalled $6–15 million. Both are reported side by side in the Seattle Times."
+   },
+   {
+    "claim": "Gates's stake at the 1986 IPO",
+    "note": "Fortune (1986) and Microsoft say 45% after the offering. PCMag says 43%; a secondary cap-table site says 49%. The text uses Fortune."
+   },
+   {
+    "claim": "Marquardt's stake",
+    "note": "Gates says Technology Venture Investors bought 5%; Fortune reported Marquardt and his firm with 6.2% by 1985. The purchase price and the 5% are used here."
+   },
+   {
+    "claim": "First-day trading at the IPO",
+    "note": "Fortune says the first day closed at $27.75 and the stock reached $35.50 afterwards. Microsoft's own page says $35.50 before the end of the day; another timeline says $28. The text follows Fortune."
+   },
+   {
+    "claim": "Traf-O-Data earnings and dates",
+    "note": "HistoryLink says $20,000 in one summer; CNBC, drawing on Allen, says the work netted nearly $20,000 overall. Start and end dates vary between 1972 and about 1980."
+   },
+   {
+    "claim": "The Greenberg loan in 1977",
+    "note": "Paul Allen's memoir says Microsoft borrowed $7,000 from Bob Greenberg. Heise's 2025 history says $70,000. Because the two differ by a factor of ten, the text gives no figure. Allen, who was there, is the stronger witness."
+   },
+   {
+    "claim": "Pertec's purchase price for MITS",
+    "note": "Reported as $6 million in stock or $6.5 million. The text says about $6.5 million."
+   },
+   {
+    "claim": "ICOS first round and Gates's share",
+    "note": "Forbes says $32 million with one-tenth from Gates (about $3.2 million). The Seattle Times gives $33 million in 2006 and $36 million in 2000, with Gates's first stake at $5 million. Both are named in the text."
+   },
+   {
+    "claim": "Size of the Bettmann Archive",
+    "note": "Reported as 11 million prints and negatives (NYT 2007, PBS), 16 million (Los Angeles Times 1995, Getty 2016), and up to 17 million (NYT 2001). The text does not give one number."
+   },
+   {
+    "claim": "TerraPower's founding date",
+    "note": "Caixin and Bloomberg say 2008. TechCrunch (2026) says 2015, which conflicts with earlier reports. Some profiles give 2006. The text uses 2008."
+   },
+   {
+    "claim": "How much of Microsoft Gates still owns",
+    "note": "Forbes estimates less than 1%, and Bloomberg's $33.8 billion at about $522–530 a share implies about 0.9%. A Motley Fool figure repeated in May 2026 said 103 million shares, which would be about 1.4%. The text uses Forbes and Bloomberg."
+   },
+   {
+    "claim": "Gates's lifetime giving",
+    "note": "Forbes says more than $63.9 billion; Gates Notes says $59.5 billion. The dates of the two counts differ, and the text shows both."
+   },
+   {
+    "claim": "Why Gates left the Microsoft board in 2020",
+    "note": "Microsoft's release gives philanthropy as the reason. The Wall Street Journal (2021), citing people familiar, says directors decided he should go amid an inquiry. Gates's spokeswoman said the two were not related. All three positions are stated."
+   },
+   {
+    "claim": "Net worth figure used elsewhere in the book",
+    "note": "The profile fragment uses $118.2 billion from Forbes on 29 Oct 2026. This part uses the later $120.4 billion from 1 Nov 2026. Harmonise at merge if a single date is wanted."
+   }
+  ]
+ }
+}

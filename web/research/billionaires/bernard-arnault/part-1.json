@@ -1,0 +1,711 @@
+{
+  "chapters": [
+    {
+      "id": "origins",
+      "kicker": "Ages 0–12",
+      "title": "The Boy in the Brick House",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "When Bernard Arnault was a boy, French children had no school on Thursdays. He spent his free day on building sites. He walked among warehouses, factories and workshops beside his grandfather and his father. Decades later, the richest man in France still talks about those Thursdays.",
+          "src": [2]
+        },
+        {
+          "t": "quote",
+          "text": "“Je visitais les chantiers tous les jeudis, les jours où à l'époque nous n'allions pas à l'école.” (I visited the building sites every Thursday, the days we did not go to school back then.)",
+          "who": "Bernard Arnault, to Le Journal du Dimanche, 2021. English is our translation.",
+          "src": [2]
+        },
+        {
+          "t": "p",
+          "text": "He was born on ==5 March 1949== in Roubaix, an industrial city in the far north of France, only about 8 kilometres from Belgium. Some accounts place his early home in Croix, the smart suburb next door. A local newspaper simply says he grew up in both.",
+          "src": [0, 12, 11, 10]
+        },
+        {
+          "t": "p",
+          "text": "Roubaix was not a glamorous place. People called it the Manchester of France and the city of a thousand chimneys, because it lived on wool. In the 1800s it exploded from about 8,000 people to about 124,000, and mill workers crowded into cramped courtyard housing beside the factories. Today it is regularly cited as the poorest city in France.",
+          "src": [44, 45, 46, 11]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Roubaix_filature_delattre_rue_de_sebastopol.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Roubaix_filature_delattre_rue_de_sebastopol.jpg",
+            "caption": "The former Delattre spinning mill in Roubaix, photographed in 2022. This brick-and-chimney city is where the future king of luxury began.",
+            "author": "Velvet",
+            "license": "CC BY-SA 4.0",
+            "year": 2022
+          }
+        },
+        {
+          "t": "note",
+          "text": "Luxury's future king grew up among wool mills, not silk salons."
+        },
+        {
+          "t": "h",
+          "text": "A family of builders"
+        },
+        {
+          "t": "p",
+          "text": "The family business began with his mother's father, Étienne Savinel, a rural engineering technician from the Auvergne in central France. He set up a construction firm in the Roubaix area in the 1920s and built his own house on the same site, to his own design. It was called Ferret-Savinel. It put up industrial buildings for a region full of factories.",
+          "src": [2, 8, 10]
+        },
+        {
+          "t": "p",
+          "text": "Bernard's father, Jean Arnault, was born in 1919 and trained as an engineer at the elite École Centrale. After the war, from 1945, he worked on rebuilding the bomb-damaged east of France. Then he heard that a small firm near Roubaix wanted a highly qualified young engineer. He applied and impressed the founder so much that he got the job and, a little later, the founder's daughter, Marie-Josèphe, as his wife.",
+          "src": [6, 8]
+        },
+        {
+          "t": "p",
+          "text": "The family tree is stranger than you would guess. On his father's side, genealogists trace a Poitou farm labourer under King Louis XV, then navy and army officers. On his mother's side, they find generations of peasants in the Livradois hills, including a family actually named Homard, French for lobster. Les Echos reports that Jean's mother descended from the Renaissance painter François Clouet, and Jean kept one of Clouet's paintings at home. Généalogie Magazine also links the line to Nicolas Dahlmann, a Napoleonic general killed at Eylau, whose heart was placed in the Panthéon.",
+          "src": [8, 6, 9]
+        },
+        {
+          "t": "note",
+          "text": "Peasants, a Renaissance painter and a Napoleon general, all in one family tree."
+        },
+        {
+          "t": "p",
+          "text": "So was he rich? This is not a rags-to-riches story, and it would be dishonest to tell it as one. Jean turned a small provincial firm into a national company with 1,000 to 1,500 employees. But the neighbourhood in Croix was home to giants: the Willot brothers, the Mulliez family behind the Auchan supermarkets, the Prouvost and Dewavrin textile dynasties. One academic review of his biography says the Arnaults held a modest rank there. __Rich by most people's standards, small by his neighbours'.__",
+          "src": [16, 32, 6, 10]
+        },
+        {
+          "t": "p",
+          "text": "His family also knew politics from the inside, and not the side you might expect. An uncle, Dr Savinel, belonged to the Socialist party of the day and served for years as a deputy mayor of Roubaix. Keep that in mind. One day a Socialist government would decide this boy's whole future.",
+          "src": [10, 28]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "8 km", "label": "from Roubaix to the Belgian border", "src": [12] },
+            { "value": "1,000–1,500", "label": "employees at his father's firm once it went national", "src": [6] },
+            { "value": "Age 5", "label": "when he started the piano", "src": [5] },
+            { "value": "Age 10", "label": "when he moved in with his grandparents", "src": [3, 12] }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Piano at five"
+        },
+        {
+          "t": "p",
+          "text": "His mother made him take piano lessons. Bloomberg describes her as a pharmacist, and her son told the Financial Times that she had a “fascination for Dior” and wore its perfume, Diorissimo. Think about that for a second. The name that would make him the richest man on earth was already in the air of his childhood home.",
+          "src": [16, 20, 22]
+        },
+        {
+          "t": "note",
+          "text": "Dior was in the house long before it was on his balance sheet."
+        },
+        {
+          "t": "p",
+          "text": "He began at ==age five== and he was good. He entered competitions and won some of them. Then, at eleven, he did something most children never do. He recorded a disc of Chopin's Études.",
+          "src": [5]
+        },
+        {
+          "t": "quote",
+          "text": "“J'ai même enregistré à onze ans un disque, des études de Chopin, je me souviens. Seule la famille l'a écouté !” (I even recorded a disc at eleven, Chopin études, I remember. Only the family listened to it!)",
+          "who": "Bernard Arnault, to Les Echos, 2001. English is our translation.",
+          "src": [5]
+        },
+        {
+          "t": "note",
+          "text": "Eleven years old, with his own record. Audience: his family."
+        },
+        {
+          "t": "h",
+          "text": "Maminette"
+        },
+        {
+          "t": "p",
+          "text": "At ten, Bernard moved out of his parents' home. He went to live with his mother's parents in their red-brick house close by, and he stayed until he left for university at 20. The public record does not explain why. Capital magazine says only that this home seemed warmer than his parents' house nearby.",
+          "src": [3, 12, 2]
+        },
+        {
+          "t": "p",
+          "text": "The person who ran that house was his grandmother, known as Maminette. She raised him, by his own account, in a strict Catholic style from the Auvergne. She spoke the old Auvergne dialect and she taught him never to waste money. Her rule for school was simple, and she repeated it often: “The prize for excellence, or nothing!”",
+          "src": [18, 3, 13, 48]
+        },
+        {
+          "t": "quote",
+          "text": "“Ma grand-mère, qui parlait le patois auvergnat, m'a appris à être économe.” (My grandmother, who spoke the Auvergne dialect, taught me to be thrifty.)",
+          "who": "Bernard Arnault, to Capital, 2008. English is our translation.",
+          "src": [3]
+        },
+        {
+          "t": "example",
+          "text": "For example: in the 2000s he owned a 69-metre yacht, Amadeus. A very rich man might simply brag about the size. Arnault told Capital about the bargain. He had paid “only” about €3 million for a former German navy ship, then had it refitted in Taiwan because the price and the deadlines were better. Maminette would have approved.",
+          "src": [3]
+        },
+        {
+          "t": "p",
+          "text": "A friend from his youth put it more bluntly. “Full of ambition for him, his grandmother trained him to win,” the friend told Capital. A review of Airy Routier's unauthorised biography says she made him a model child, a top pupil and an accomplished pianist. Routier himself, quoted by France 24, describes a solitary and melancholy boy. When his grandfather died, franceinfo reports, Bernard promised him he would succeed in life.",
+          "src": [3, 10, 17, 13]
+        },
+        {
+          "t": "note",
+          "text": "“The prize for excellence, or nothing.” Imagine hearing that at ten."
+        },
+        {
+          "t": "p",
+          "text": "We should be honest about how little anyone can see of this boy. His own book of interviews, La Passion créative, gives almost no facts about his path, according to that same review. Marianne magazine reports that he stopped those close to him from talking to Routier, and that an earlier biography never saw daylight. So the childhood you are reading comes from a small set of interviews and reports. We have kept only what those sources support.",
+          "src": [10, 19]
+        },
+        {
+          "t": "h",
+          "text": "The house he will not sell"
+        },
+        {
+          "t": "p",
+          "text": "He inherited that house. By 2008 nobody had lived in it for 25 years, and Capital called it charmless. He still refused to sell. “It means a great deal to me,” he said, and each year at All Saints', while other French bosses flew to the sun, he went back to Roubaix. Marianne reports that he later restored the house exactly as it was, as a private memorial to Maminette.",
+          "src": [3, 12, 19]
+        },
+        {
+          "t": "p",
+          "text": "In 2021 he gave family land on that site to the EDHEC business school and to a retraining institute. He brought all five of his children to the opening. His son Antoine looked for a long time at the small building by the entrance and said it was incredible to think everything started from that house. There is a sting in the story too: in 2018, two Roubaix residents launched a petition asking him to create a €500 million fund for his struggling home town. It had 366 signatures when La Voix du Nord wrote about it.",
+          "src": [2, 11]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "1920s", "text": "Étienne Savinel founds his construction firm near Roubaix.", "src": [2, 10] },
+            { "when": "After 1945", "text": "Jean Arnault, a young engineer, joins the firm and later marries the founder's daughter.", "src": [6] },
+            { "when": "5 Mar 1949", "text": "Bernard Jean Étienne Arnault is born in Roubaix.", "src": [0, 12] },
+            { "when": "1950s", "text": "Jean takes over the firm from his father-in-law. Sources differ on the exact year.", "src": [2, 10] },
+            { "when": "About 1954", "text": "Age five: Bernard starts the piano.", "src": [5] },
+            { "when": "About 1959", "text": "Age ten: he moves in with his grandparents and Maminette takes charge.", "src": [3, 12] },
+            { "when": "About 1960", "text": "Age eleven: he records a disc of Chopin's Études.", "src": [5] }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "What should you take from these years? He never had to escape poverty, so do not borrow that story for him. His advantage was different. __By twelve he had seen how a real business runs, and he had been told that second place did not count.__",
+          "src": [2, 13, 48]
+        }
+      ]
+    },
+    {
+      "id": "growing-up",
+      "kicker": "Ages 13–20",
+      "title": "Chopin, Maths and a Broken Arm",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Picture a fifteen-year-old in northern France in 1964, sitting down at a piano. He does not play one difficult piece. According to Le Figaro, he plays ==twenty-four Chopin Études in a row==. By then his recitals were getting noticed in the region, and he was wondering whether to become a concert pianist.",
+          "src": [4]
+        },
+        {
+          "t": "note",
+          "text": "Twenty-four Études. In a row. At fifteen. Try that before you say “discipline”."
+        },
+        {
+          "t": "p",
+          "text": "Music was his real teenage obsession. As an adult he could still reel off his heroes like a sports fan. Georges Cziffra, whose recitals he made sure never to miss, and who he liked to point out started out as a restaurant pianist. Vladimir Horowitz, “the most inventive” in his view. Chopin above all others at the keyboard.",
+          "src": [5]
+        },
+        {
+          "t": "p",
+          "text": "Then he did something that sounds cold for a teenager. He looked at his own talent the way a banker looks at a company, and he decided it was not enough. Le Figaro says he came to believe great musicians are spotted early, “at six”. He chose his maths and his studies instead. At Oxford in 2016 he said he had realised quite early that, although he played well, he could not be a real professional.",
+          "src": [4, 26]
+        },
+        {
+          "t": "quote",
+          "text": "You cannot become Vladimir Horowitz, even if you can play piano and you practice ten hours a day.",
+          "who": "Bernard Arnault, Harvard Business Review, 2001. He was explaining why not every brand can become a star.",
+          "src": [27]
+        },
+        {
+          "t": "p",
+          "text": "Look at who he measured himself against. Not the best pianist in Roubaix, but the best in the world. WWD says he gave up the idea of a career when he realised he would never play among the world's greats. __He left the dream not because he was bad, but because he refused to be merely good.__ Decades later he would say almost the same thing about brands.",
+          "src": [23, 21, 27]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. Knowing where you will not be the best is a skill."
+        },
+        {
+          "t": "p",
+          "text": "He did not stop playing, though. In 2001 he was still giving the piano several hours a week and calling it a cleanse for the mind: sport gets toxins out of the body, he said, and the piano gets them out of the head. His wife, the professional pianist Hélène Mercier, told Les Echos he had a beautiful sound and great musicality, but “hates working slowly”. He sank lower into the sofa as she said it.",
+          "src": [5]
+        },
+        {
+          "t": "example",
+          "text": "For example: the French business thinker Alain Minc once explained how a stiff man from the north could manage wild designers such as John Galliano and Marc Jacobs. His answer was the piano. Arnault's passion for music, Minc told Capital, let him understand that exceptional creative people do not work the way he does. The “failed” teenage dream became a management tool.",
+          "src": [3]
+        },
+        {
+          "t": "h",
+          "text": "The boy in the raincoat"
+        },
+        {
+          "t": "p",
+          "text": "All his secondary school years were spent at the lycée Maxence-Van-der-Meersch in Roubaix, known locally as the Trois-Ponts school. A local man, Pierre Charret, kept a class photo from 1965, when Bernard was sixteen, and gave it to La Voix du Nord. There he is in the second row, standing at the far left in a raincoat, looking half sulky and half determined.",
+          "src": [11, 0]
+        },
+        {
+          "t": "note",
+          "text": "Half sulky, half determined. A lot of his later career is in that phrase."
+        },
+        {
+          "t": "p",
+          "text": "We went looking for the usual founder legends: the teenage business, the first deal at school, the trouble with teachers, the favourite book. We could not find any of them in a reliable source, and we will not invent them. There is no report of a paper round or a clever scheme selling sweets to classmates. Arnault has kept his private life out of view, and those who knew him have mostly stayed quiet.",
+          "src": [10, 19]
+        },
+        {
+          "t": "p",
+          "text": "What the record does show is his real classroom on those Thursdays. The firm's old stable still stood on the site, and a draught horse was still being used to pour concrete into the 1970s. His father was on site every day by 6 or 7 in the morning. Jean also played the violin and loved painting, so the boy saw that an engineer could care about art. “They gave me the taste for enterprise,” Arnault said of his father and grandfather.",
+          "src": [2, 6]
+        },
+        {
+          "t": "p",
+          "text": "The company was also growing around him. In the late 1960s, as Bernard finished school, Jean won a government tender from housing minister Albin Chalandon to build ==1,500 homes== across France. Les Echos calls it a decisive step. A teenager at that family table was watching a local builder become a national one.",
+          "src": [6]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "24", "label": "Chopin Études played in a row at age 15", "src": [4] },
+            { "value": "1965", "label": "the class photo, raincoat and all, at age 16", "src": [11] },
+            { "value": "2nd", "label": "his rank in the entrance exam for the École des Mines", "src": [4] },
+            { "value": "1,500", "label": "homes in the tender his father won in the late 1960s", "src": [6] }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The year everything went wrong"
+        },
+        {
+          "t": "p",
+          "text": "After school he went to the Lycée Faidherbe in Lille for the classes préparatoires, the fierce cram years that feed France's elite engineering schools. His target was the very top one: the École Polytechnique, known as “l'X”, which France 24 calls the country's most prestigious engineering school.",
+          "src": [0, 11, 4, 16]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lille_lycee_faidherbe.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Lille_lycee_faidherbe.jpg",
+            "caption": "Lycée Faidherbe in Lille, photographed in 2025. Arnault prepared here for France's toughest engineering entrance exams.",
+            "author": "Velvet",
+            "license": "CC BY-SA 4.0",
+            "year": 2025
+          }
+        },
+        {
+          "t": "note",
+          "text": "Indian readers: think IIT-JEE, but the college is also a military school."
+        },
+        {
+          "t": "p",
+          "text": "Then came ==1968==. It was a chaotic year in France, with the upheaval of May. Bernard, aged nineteen, cleared the written stage for Polytechnique. Then he could not sit the physical tests, because he had a broken arm. Polytechnique is a military school, and those tests were part of getting in. Pierre Charret, the man who shared that class photo, still remembered it fifty years later: “May 1968 was hard on him, because he missed getting into Polytechnique!”",
+          "src": [18, 11, 42]
+        },
+        {
+          "t": "p",
+          "text": "He did have a very good backup. He came second in the entrance exam for the École des Mines, another of France's most respected schools. Almost anyone would have taken that and celebrated. He turned it down and repeated a whole year to try again for the one school he wanted. __He chose a year of risk over a safe place at a great school, because it was not the one he had aimed for.__",
+          "src": [4, 18]
+        },
+        {
+          "t": "example",
+          "text": "For example: imagine scoring second in the entrance exam of one of your country's best engineering colleges. Your parents are thrilled. Then you tell them you are giving it up to sit a different exam next year, with no guarantee, because you broke your arm and the college you really wanted slipped away. That is what a nineteen-year-old Bernard Arnault did.",
+          "src": [4, 18]
+        },
+        {
+          "t": "p",
+          "text": "It worked. In 1969 he got into Polytechnique. Le Figaro calls it a bet he won, and Leaders League calls it his first exploit. At twenty he left the red-brick house at last. “I lived here until the age of 20 and my entry to Polytechnique,” he said on his return in 2021.",
+          "src": [4, 18, 2]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "1964", "text": "Age 15: plays twenty-four Chopin Études in a row.", "src": [4] },
+            { "when": "1965", "text": "Age 16: the class photo at the Roubaix lycée.", "src": [11] },
+            { "when": "Late 1960s", "text": "Prepares for the top exams at Lycée Faidherbe in Lille, while his father wins a 1,500-home government tender.", "src": [11, 6] },
+            { "when": "1968", "text": "Age 19: a broken arm costs him Polytechnique. He ranks second for the École des Mines and turns it down.", "src": [18, 4] },
+            { "when": "1969", "text": "Age 20: enters Polytechnique and leaves Roubaix.", "src": [18, 2] }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Two choices define his teenage years, and they point in opposite directions. He gave up the piano career although he loved it. He refused the École des Mines although it was excellent. The pattern is the same in both: he asked what the very top was, and he was honest about whether he could reach it. In one case the answer was no, so he walked away. In the other it was yes, so he waited a year.",
+          "src": [4, 18, 26]
+        }
+      ]
+    },
+    {
+      "id": "first-steps",
+      "kicker": "Ages 20–35",
+      "title": "The Engineer Who Wanted Out",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "In 1969 the École Polytechnique still stood on the Montagne Sainte-Geneviève, in the old Latin Quarter of Paris. It would not move to Palaiseau until 1976. It has been a military school since Napoleon gave it that status in 1804, with a formal uniform that includes a bicorn hat and a sword nicknamed “the tangent”. The first women arrived only in 1972, so Arnault's class was all male. He graduated in 1971.",
+          "src": [41, 42, 43, 7]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ecole_Polytechnique_June_1970.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Ecole_Polytechnique_June_1970.jpg",
+            "caption": "The École Polytechnique in June 1970, seen from a hotel on the rue Monge in Paris. Arnault was a student at the school at the time.",
+            "author": "Osbornb from San Diego, California, United States",
+            "license": "CC BY 2.0",
+            "year": 1970
+          }
+        },
+        {
+          "t": "h",
+          "text": "The taxi from Kennedy airport"
+        },
+        {
+          "t": "p",
+          "text": "In 1971 he went to New York for the first time. He landed at Kennedy airport, got into a cab and started talking, as he tends to do. The driver loved France, followed politics and could not stand President Nixon. So Arnault tried a test. What did the man know about France? Did he know the French president, Georges Pompidou?",
+          "src": [26, 24, 25]
+        },
+        {
+          "t": "quote",
+          "text": "No, I don't know the French president. But I know Christian Dior.",
+          "who": "A New York cab driver in 1971, as retold by Bernard Arnault at the Oxford Union, 2016",
+          "src": [26]
+        },
+        {
+          "t": "p",
+          "text": "Pause on what that meant. Christian Dior himself had been dead for well over a decade. Yet a stranger in a New York taxi knew the name of a dressmaker and not the name of a head of state. “As far back as '71, I understood the power of a name,” Arnault told the students at Oxford. __A great brand can outlive its founder and outrank a president.__",
+          "src": [26, 24]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Christian_Dior%2C_30_Avenue_Montaigne%2C_Paris_2009.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:Christian_Dior,_30_Avenue_Montaigne,_Paris_2009.jpg",
+            "caption": "Christian Dior at 30 Avenue Montaigne, Paris, in 2009. In 1971 this was just the name a New York cabbie happened to know.",
+            "author": "Thomas van de Weerd",
+            "license": "CC BY 2.0",
+            "year": 2009
+          }
+        },
+        {
+          "t": "example",
+          "text": "For example: that same summer brought a smaller lesson. On 15 August 1971 Nixon cut the dollar's link to gold, and the dollar weakened. Arnault was in America with money he had just changed. “I bought dollars, and my dollars went down,” he told the Oxford students. Two lessons in one trip: names are worth more than you think, and money is worth less.",
+          "src": [26, 47]
+        },
+        {
+          "t": "h",
+          "text": "The job his classmates looked down on"
+        },
+        {
+          "t": "p",
+          "text": "Most of his classmates went straight into government or France's biggest companies. Arnault went home to Roubaix to work as an engineer in his father's firm, in the world of site visits and concrete. The reaction, Le Journal du Dimanche says, was surprise tinged with condescension. He has clearly never forgotten it.",
+          "src": [23, 0, 2]
+        },
+        {
+          "t": "quote",
+          "text": "“Je me rappelle de la tête de mes camarades de promotion à Polytechnique, quand ils m'ont vu rentrer dans une industrie au lieu d'une administration.” (I remember the look on my Polytechnique classmates' faces when they saw me go into an industry instead of a government office.)",
+          "who": "Bernard Arnault, quoted by franceinfo, 2026. English is our translation.",
+          "src": [14]
+        },
+        {
+          "t": "note",
+          "text": "Classmates looked down on his first job. Remember that when yours looks small."
+        },
+        {
+          "t": "p",
+          "text": "His father did not hand him the keys right away. Jean tested him first, Les Echos says. The promotions then came quickly: director of construction in 1974 at 25, general manager in 1977, and chairman and chief executive in 1978, at ==just 29==. In 1973 he had married Anne Dewavrin, whose name belonged to one of the great industrial families of the north, one of the families from his old neighbourhood.",
+          "src": [6, 1, 10]
+        },
+        {
+          "t": "p",
+          "text": "He also found the most important colleague of his life, and he found him through a crisis. A lawsuit threatened the very survival of Ferret-Savinel, so Jean went to see a brilliant young Lille lawyer called Pierre Godé, one of the youngest qualified law professors in France. Godé won his trust. The New York Times says Bernard met him in 1973. “I was struck by his talent from our first meeting,” Arnault said later. Godé stayed at his side for more than thirty years.",
+          "src": [36, 37]
+        },
+        {
+          "t": "note",
+          "text": "Find your Pierre Godé early. Then keep him for thirty years."
+        },
+        {
+          "t": "h",
+          "text": "He sold what his family had always done"
+        },
+        {
+          "t": "p",
+          "text": "By the mid-1970s Arnault did not see himself spending his life in a hard hat with his feet in the mud, as franceinfo puts it. He had noticed something inside the company. In the early 1970s his father had started a small sideline building housing estates in the north. That sideline was where he wanted to go.",
+          "src": [14, 7]
+        },
+        {
+          "t": "p",
+          "text": "So in ==1976==, aged 27, he convinced his father to do something drastic. They would sell the firm's historic construction business for 40 million francs and put the money into property development. Think about how hard that conversation must be. The business was the work of his grandfather's whole life and his father's too. Jean agreed.",
+          "src": [10, 17, 30, 6]
+        },
+        {
+          "t": "p",
+          "text": "The name shrank from Ferret-Savinel to Férinel, and the product changed completely: holiday apartments for ordinary families at the seaside and in the mountains. Radio stations hammered the jingle in the late 1970s: “Férinel, propriétaire à la mer”, or “Own a place by the sea”. According to Routier's account, the company delivered 100 homes in 1979 and 1,000 in 1980.",
+          "src": [8, 7, 32, 10]
+        },
+        {
+          "t": "facts",
+          "items": [
+            { "value": "40 million francs", "label": "from selling the family's construction business in 1976", "src": [10, 17] },
+            { "value": "29", "label": "his age on becoming chairman and CEO in 1978", "src": [1] },
+            { "value": "100 → 1,000", "label": "homes delivered in 1979, then 1980", "src": [10] }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "__His first big move was not building something new. It was selling what his family had always done.__ That is very hard for anyone who inherits a business, and it is the part young founders often skip. The lesson also has a limit. He could only do it because he had a grandmother pushing for him and a father willing to listen, and because the family had a business worth selling at all.",
+          "src": [10, 6]
+        },
+        {
+          "t": "h",
+          "text": "The hunting magazine"
+        },
+        {
+          "t": "p",
+          "text": "Here is a detail almost nobody remembers. Long before handbags, Arnault's first takeover catch was a magazine for hunters. In January 1981, aged 31, he appeared on French television as head of Ferret-Savinel, explaining why his firm had just acquired Le Chasseur français. The seller was Manufrance, the collapsing arms-and-bicycles group in Saint-Étienne, and its new boss, a rising businessman named Bernard Tapie.",
+          "src": [33, 14, 35]
+        },
+        {
+          "t": "note",
+          "text": "Before Dior, a hunting magazine. Nobody puts that on the movie poster."
+        },
+        {
+          "t": "p",
+          "text": "It was a tense moment to buy. Manufrance was collapsing, and its workers, backed by the CGT union, were fighting to save what was left. Asked about it, he said he did not expect the union to try to intimidate them, and that he planned to modernise the magazine and grow its readership. An academic study of the company's accounts counts Le Chasseur français among the group's profitable assets. Le Monde reported in June 1981 that Ferret-Savinel was running it under a lease arrangement. Notice the method: find a troubled group, and go for the one healthy piece inside it.",
+          "src": [33, 35, 34]
+        },
+        {
+          "t": "h",
+          "text": "America, and a tower with a problem"
+        },
+        {
+          "t": "p",
+          "text": "On 10 May 1981, François Mitterrand won the French presidency on a Socialist programme, and Communists entered the government. Arnault read the plans for nationalisations and a wealth tax and decided to leave. His own explanation stays strictly practical: this was perhaps not the moment to invest, and he did not want to sit idle. Routier calls it exile, and writes that being one of the bosses who left stuck to him for a long time.",
+          "src": [28]
+        },
+        {
+          "t": "p",
+          "text": "Les Echos says he flew to New York in May 1982. He settled with his wife and two children in New Rochelle, a suburb with a large French community. He opened an office on the ==45th floor of Rockefeller Center==. Back in France he left Férinel in the hands of his trusted deputy, Michel Lefebvre. The dollar was cheap at about 5 francs, and Florida was booming.",
+          "src": [29, 30]
+        },
+        {
+          "t": "p",
+          "text": "His first American project was a 19-storey tower with 199 flats on Hutchinson Island, Florida. He named it Princess. According to Routier, it cost $21 million, with $17 million borrowed from a local bank. Then the problems appeared. Nobody had mentioned the nuclear plant about 15 kilometres away, sending up plumes. The bedrooms were too small for the huge king-size beds Americans love. The balconies were too narrow. The showers were poorly fitted.",
+          "src": [28, 29, 31]
+        },
+        {
+          "t": "photo",
+          "photo": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/St._Lucie_Nuclear_Power_Plant_photo_Don_Ramey_Logan.jpg",
+            "page": "https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_photo_Don_Ramey_Logan.jpg",
+            "caption": "The St. Lucie nuclear plant on Hutchinson Island, Florida, in 2014. Routier's account of the Princess tower does not name the plant, but this is the nuclear station on that island.",
+            "author": "Don Ramey Logan",
+            "license": "CC BY-SA 4.0",
+            "year": 2014
+          }
+        },
+        {
+          "t": "note",
+          "text": "Yes, the king of luxury once built flats too small for American beds."
+        },
+        {
+          "t": "p",
+          "text": "Did he lose money? Accounts differ. Arnault has claimed about a $3 million profit on the programme, while a former colleague speaks of a $3.5 million loss. He reported a 5% margin on a second project of houses in West Palm Beach. He admitted problems with a third, the Banyon Club, after the insurer backing his partners went bust, and he passed that one to a colleague. Les Echos sums up the period plainly: America's property princes made him bite the dust.",
+          "src": [28, 29]
+        },
+        {
+          "t": "quote",
+          "text": "“Quand on n'a pas fait d'études aux Etats-Unis, on a du mal à se faire accepter (…). C'est difficile pour un Français de réussir là-bas.” (If you did not study in the United States, it is hard to get accepted. It is difficult for a Frenchman to succeed there.)",
+          "who": "Bernard Arnault, quoted by Challenges, 2012. English is our translation.",
+          "src": [28]
+        },
+        {
+          "t": "p",
+          "text": "It was not wasted time. He got to know another property developer of about his own age in those years, Donald Trump, and franceinfo quotes him saying he learned to do business “the American way”, meaning efficiently. He also made one very good purchase, a Monet bought at a US sale in the early 1980s, at a time when, he says with some delight, “nobody wanted it”. France 24 names his first art auction buy as a Monet view of Charing Cross Bridge.",
+          "src": [15, 31, 5, 16]
+        },
+        {
+          "t": "h",
+          "text": "Lunch at Rockefeller Center"
+        },
+        {
+          "t": "p",
+          "text": "Routier's biography paints a lonely picture of New York. At Rockefeller Center, Arnault befriended François Polge de Combret, a former senior aide to the French president who was now at the Lazard bank. Both men were in their thirties, far from home and, in Routier's words, thoroughly bored. Over frequent lunches they talked about France, and especially about one scandal: Boussac, a giant textile group with 30,000 workers, near collapse and a headache for the government. And it happened to own Christian Dior.",
+          "src": [28, 10]
+        },
+        {
+          "t": "note",
+          "text": "The idea behind a giant empire came up at a bored lunch."
+        },
+        {
+          "t": "p",
+          "text": "Now the childhood comes back. Boussac was in the hands of the Willot brothers, the same family from his old neighbourhood in Croix. From New York, Arnault asked Pierre Godé to study the case, and Godé is credited with hunting it down. A meeting with the Willots took place in Croix on 15 July 1984. In Les Echos's judgment, the relationship between the two neighbouring families served him very well. __The neighbours from his childhood turned out to hold the key to the deal of his life.__",
+          "src": [10, 30, 36]
+        },
+        {
+          "t": "p",
+          "text": "He also needed a banker with real weight. Polge de Combret introduced him to Antoine Bernheim, the powerful Lazard partner, who became his mentor and his earliest backer. Bernheim later reminded people where Arnault had started. Claude Gros, who ran the US arm of a state investment body with a stake in Boussac, supplied more of the information and contacts.",
+          "src": [10, 29, 39, 38]
+        },
+        {
+          "t": "quote",
+          "text": "“Quand je l'ai connu, il avait trois francs six sous.” (When I met him, he had three francs and six sous, meaning next to nothing.)",
+          "who": "Antoine Bernheim, to Capital, 2011. English is our translation. Arnault in fact had tens of millions of francs available by 1984, according to Routier's account.",
+          "src": [38, 10]
+        },
+        {
+          "t": "p",
+          "text": "He wrapped up America fast. The New York Observer later reported that he sold his New Rochelle house to his neighbour John Kluge, a man Forbes would rank as the richest American, who tore it down. Then came the last and most important conversation of this story. A takeover of Boussac would go through the family firm, and it meant taking on mountains of debt. So Bernard and Pierre Godé went to see his father.",
+          "src": [39, 40, 7]
+        },
+        {
+          "t": "p",
+          "text": "Jean Arnault, now in his sixties, asked one question. Were there serious risks? Yes, both men told him without hedging. Godé never forgot the reply: “You don't do great deals without taking risks. Let's go!” Many years later, his son still sounded amazed. “It was very risky, but he did not blink,” Bernard said.",
+          "src": [6, 2]
+        },
+        {
+          "t": "note",
+          "text": "The grandmother pushed him. The father said yes. Few founders get both."
+        },
+        {
+          "t": "p",
+          "text": "On 20 December 1984 Bernard Arnault, aged 35, a little-known property developer from the north, was named to run Boussac, ahead of better-known rivals including Bernard Tapie. Dior, the name in his mother's perfume and in that New York taxi, was now within his reach. He had also just made promises about jobs that would haunt him. What he did with the company is the next part of this book.",
+          "src": [10, 30, 2, 14, 16]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            { "when": "1969–71", "text": "Studies at the École Polytechnique in Paris.", "src": [18, 7] },
+            { "when": "1971", "text": "First trip to New York and the taxi ride. Joins the family firm as an engineer.", "src": [26, 0] },
+            { "when": "1973", "text": "Marries Anne Dewavrin. Meets Pierre Godé, by the New York Times's account.", "src": [10, 37] },
+            { "when": "1974–78", "text": "Rises from director of construction to chairman and CEO at 29.", "src": [1] },
+            { "when": "1976", "text": "Persuades his father to sell the construction business for 40 million francs and move into property.", "src": [10, 17] },
+            { "when": "Jan 1981", "text": "His firm acquires the magazine Le Chasseur français from Tapie's Manufrance.", "src": [33, 14] },
+            { "when": "1981–84", "text": "Leaves for the US after Mitterrand's win. Builds in Florida with mixed results.", "src": [28, 29] },
+            { "when": "Dec 1984", "text": "Chosen to take over Boussac, owner of Christian Dior.", "src": [10, 30] }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "LVMH, official biography of Bernard Arnault (English)", "url": "https://www.lvmh.com/en/our-group/governance/bernard-arnault" },
+    { "label": "LVMH, official biography of Bernard Arnault (French)", "url": "https://www.lvmh.com/fr/notre-groupe/notre-gouvernance/bernard-arnault" },
+    { "label": "Le Journal du Dimanche, Marie-Pierre Gröndahl, “Bernard Arnault revient là où tout a commencé”, 10 July 2021", "url": "https://www.lejdd.fr/Economie/a-roubaix-bernard-arnault-rend-hommage-a-ses-ancetres-4057298" },
+    { "label": "Capital, Ivan Letessier, “Les petits secrets de Bernard Arnault”, 16 April 2008", "url": "https://www.capital.fr/entreprises-marches/les-petits-secrets-de-bernard-arnault-p-dg-de-lvmh-390786" },
+    { "label": "Le Figaro, Perrine Créquy, “Bernard Arnault, le luxe comme espace de liberté”, 13 November 2007", "url": "https://www.lefigaro.fr/placement/2007/11/13/05006-20071113ARTFIG00166-bernard-arnault-le-luxe-comme-espace-de-liberte.php" },
+    { "label": "Les Echos, Patrick Lamm, “La petite musique de Bernard Arnault”, 12 January 2001", "url": "https://www.lesechos.fr/2001/01/la-petite-musique-de-bernard-arnault-707234" },
+    { "label": "Les Echos, Yann Verdo, “Jean Arnault s'est éteint”, 22 January 2010", "url": "https://www.lesechos.fr/2010/01/jean-arnault-sest-eteint-1085011" },
+    { "label": "AFP via Le Figaro, “Décès de Jean Arnault, père de Bernard”, 22 January 2010", "url": "https://www.lefigaro.fr/flash-actu/2010/01/22/01011-20100122FILWWW00341-deces-de-jean-arnault-pere-de-bernard.php" },
+    { "label": "La Revue française de généalogie, Jean-Louis Beaucarnot, “Racines et généalogie de Bernard Arnault”, 10 September 2012", "url": "https://www.rfgenealogie.com/infos/racines-et-genealogie-de-bernard-arnault" },
+    { "label": "Généalogie Magazine, “Bernard Arnault” (no. 350-351)", "url": "https://www.genealogiemagazine.com/index.php/genemois/353-bernard-arnault" },
+    { "label": "Gérer et Comprendre (Annales des Mines), Michel Villette, “L'accès à la puissance économique de Bernard Arnault (1974-1989)”, review of Airy Routier's L'Ange exterminateur, June 2004", "url": "https://annales.org/edit/gc/2004/gc76/arnault60-68.pdf" },
+    { "label": "La Voix du Nord, “Quand Bernard Arnault était au lycée Van-Der-Meersch de Roubaix”, 19 May 2018", "url": "https://www.lavoixdunord.fr/379799/article/2018-05-19/quand-bernard-arnault-etait-au-lycee-van-der-meersch-de-roubaix" },
+    { "label": "France 3 Hauts-de-France, Emmanuel Magdelaine, “B.Arnault, le Roubaisien qui voulait devenir belge”, 10 September 2012", "url": "https://france3-regions.franceinfo.fr/hauts-de-france/info/barnault-le-roubaisien-qui-voulait-devenir-belge-116023.html" },
+    { "label": "franceinfo, Agathe Mahuet and Théo Gomar, “Bernard Arnault 2/4 : Premier à tout prix”, September 2026", "url": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-2-4-premier-a-tout-prix_8180909.html" },
+    { "label": "franceinfo, Agathe Mahuet and Théo Gomar, “Bernard Arnault 1/4 : Le chasseur”, September 2026", "url": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-1-4-le-chasseur_8179421.html" },
+    { "label": "franceinfo, Agathe Mahuet and Théo Gomar, “Bernard Arnault 3/4 : Puissant parmi les puissants”, September 2026", "url": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html" },
+    { "label": "France 24, Sophie Gorman, “Bernard Arnault: France's ‘wolf-in-cashmere’ billionaire”, 22 January 2020", "url": "https://www.france24.com/en/20200122-bernard-arnault-france-s-wolf-in-cashmere-billionaire" },
+    { "label": "France 24, Aude Mazoue, “Bernard Arnault, l'empereur du luxe, contre-attaque”, 10 September 2012", "url": "https://www.france24.com/fr/20120910-est-bernard-arnault-lvmh-luxe-dior-affaire-fortune-pdg-ange-exterminateur-boussac-pdg-art-fondation-" },
+    { "label": "Leaders League, “Bernard Arnault - In pole position”, 7 November 2018", "url": "https://www.leadersleague.com/en/news/bernard-arnault-in-pole-position" },
+    { "label": "Marianne, Laurent Valdiguié, “Amour pour ‘Maminette’, biographie interdite : les secrets intimes de Bernard Arnault”, 13 July 2023", "url": "https://www.marianne.net/economie/amour-pour-maminette-biographie-interdite-les-secrets-intimes-de-bernard-arnault" },
+    { "label": "Bloomberg, The Big Take podcast, “Inside Billionaire Bernard Arnault's Business Playbook” (transcript), 25 June 2024", "url": "https://www.listennotes.com/es/podcasts/big-take/inside-billionaire-bernard-0sHzo9CKQE5/" },
+    { "label": "Bloomberg, Brad Stone and Angelina Rascouet, “The House of Arnault”, 25 June 2024 (excerpts as republished by Marcellus)", "url": "https://marcellus.in/story/the-house-of-arnault/" },
+    { "label": "Forbes, Dileep Rao, “Bootstrapping Your Unicorn: Bernard Arnault's 7 Keys To LVMH Success”, 11 October 2024", "url": "https://www.forbes.com/sites/dileeprao/2024/10/11/bootstrapping-your-unicorn-bernard-arnaults-7-keys-to-lvmh-success/" },
+    { "label": "WWD, Miles Socha, “Bernard Arnault's Legacy Is ‘Transforming Creativity Into Profitability’”, 27 October 2026", "url": "https://wwd.com/fashion-news/designer-luxury/bernard-arnault-wwd-award-1239341545/" },
+    { "label": "WWD, Joelle Diderich, “Dior Milestone: Keeper of the Flame” (interview), 26 September 2017", "url": "https://wwd.com/fashion-news/designer-luxury/dior-milestone-bernard-arnault-lvmh-10992454/" },
+    { "label": "WWD, “Captain's Table” (interview), 27 February 2007", "url": "https://wwd.com/fashion-news/fashion-features/captain-s-table-505043/" },
+    { "label": "Oxford Union, “Bernard Arnault | Full Q&A”, official channel, 2016", "url": "https://www.youtube.com/watch?v=EhNKy5yNIgs" },
+    { "label": "Harvard Business Review, Suzy Wetlaufer, “The Perfect Paradox of Star Brands: An Interview with Bernard Arnault of LVMH”, October 2001", "url": "https://hbr.org/2001/10/the-perfect-paradox-of-star-brands-an-interview-with-bernard-arnault-of-lvmh" },
+    { "label": "Challenges, Jérôme Lefilliâtre, “Le jour de 1981 où Bernard Arnault choisit l'exil aux Etats-Unis”, with excerpts from Airy Routier's L'Ange exterminateur, 10 September 2012", "url": "https://www.challenges.fr/entreprise/le-jour-de-1981-ou-bernard-arnault-lvmh-choisit-l-exil-aux-etats-unis-pour-fuir-les-socialistes_5348" },
+    { "label": "Les Echos, “La reconquête du marché américain”, 22 December 1999", "url": "https://www.lesechos.fr/1999/12/la-reconquete-du-marche-americain-1049690" },
+    { "label": "Les Echos, “Le point de départ de l'ascension de Bernard Arnault”, 6 October 1995", "url": "https://www.lesechos.fr/1995/10/le-point-de-depart-de-lascension-de-bernard-arnault-868250" },
+    { "label": "La Libre Belgique, Marie Debauche, “Quand Bernard Arnault se faisait rouler par les Américains”, 21 April 2025", "url": "https://www.lalibre.be/economie/entreprises-startup/2025/04/21/quand-bernard-arnault-se-faisait-rouler-par-les-americains-cest-difficile-pour-un-francais-de-reussir-la-bas-SPHGTHZAZ5GARJHQ6PIFYGIF2Q/" },
+    { "label": "Le Parisien, “Bernard Arnault, le mastodonte de l'industrie du luxe”, 9 September 2012", "url": "https://www.leparisien.fr/economie/bernard-arnault-le-mastodonte-de-l-industrie-du-luxe-09-09-2012-2156786.php" },
+    { "label": "INA, “Bernard Arnault à propos du rachat du Chasseur français”, broadcast 30 January 1981", "url": "https://mediaclip.ina.fr/fr/i25031405-bernard-arnault-a-propos-du-rachat-du-chasseur-francais.html" },
+    { "label": "Le Monde, “L'espoir renaît à Manufrance”, 13 June 1981", "url": "https://www.lemonde.fr/archives/article/1981/06/13/l-espoir-renait-a-manufrance-le-tribunal-de-commerce-se-prononcera-le-16-juin-sur-l-accord-passe-entre-les-ouvriers-de-la-s-c-o-p-d-et-m-bernard-tapie_3044047_1819218.html" },
+    { "label": "Revue du Rhin supérieur, Pierre Labardin, “Le visible et l'invisible. Une histoire de la fin de Manufrance (années 1980)”, 2019", "url": "https://www.ouvroir.fr/rrs/index.php?id=84&lang=en" },
+    { "label": "Les Echos, Laurance N'Kaoua, “Pierre Godé, ancien bras droit de Bernard Arnault chez LVMH”, 5 February 2018", "url": "https://www.lesechos.fr/2018/02/pierre-gode-ancien-bras-droit-de-bernard-arnault-chez-lvmh-1118595" },
+    { "label": "The New York Times, “Pierre Godé, Top Adviser to France's Richest Man, Dies at 73”, 2 February 2018", "url": "https://www.nytimes.com/2018/02/02/obituaries/pierre-gode-lvmh-dead.html" },
+    { "label": "Capital, “Les confessions d'Antoine Bernheim, un ancien parrain du business”, 29 August 2011", "url": "https://www.capital.fr/economie-politique/les-confessions-d-antoine-bernheim-un-ancien-parrain-du-business-622408" },
+    { "label": "The New York Observer, Amy Larocca, “Arnault Eyeballs Calvin Klein from Glass House on 57th Street”, 25 October 1999", "url": "https://observer.com/1999/10/arnault-eyeballs-calvin-klein-from-glass-house-on-57th-street/" },
+    { "label": "UPI, “Forbes: Kluge richest American with $5.9 billion fortune”, 6 October 1991", "url": "https://www.upi.com/Archives/1991/10/06/Forbes-Kluge-richest-American-with-59-billion-fortune/5007686721600/" },
+    { "label": "École polytechnique, official history, “From 1958 to 2018”", "url": "https://www.polytechnique.edu/en/school/history/1958-2018" },
+    { "label": "École polytechnique, official page, “A military School”", "url": "https://www.polytechnique.edu/en/school/military-school" },
+    { "label": "École polytechnique, Bibliothèque Centrale, “Grandes périodes de l'histoire de l'École”", "url": "https://www.polytechnique.edu/bibliotheque/patrimoine/portail-patrimoine/histoire-de-lecole/grandes-periodes-de-lhistoire-de-lecole" },
+    { "label": "France 24, Benjamin Dodman, “For France's blighted north, a Green path out of crisis”, 12 February 2012", "url": "https://www.france24.com/en/20120212-france-blighted-north-roubaix-eva-joly-green-party-crisis-french-presidential-election-socialist" },
+    { "label": "Apollo Magazine, Christopher Turner, “The most beautiful swimming pool in France”, 5 February 2019", "url": "https://apollo-magazine.com/la-piscine-roubaix-swimming-pool/" },
+    { "label": "Thyssen, Herman, Depaepe et al., “From popular to unpopular education? The open-air school(s) of ‘Pont-Rouge’, Roubaix (1921-1978)”, 2010", "url": "https://doi.org/10.1400/153248" },
+    { "label": "Federal Reserve History, “Nixon Ends Convertibility of U.S. Dollars to Gold and Announces Wage/Price Controls”", "url": "https://www.federalreservehistory.org/essays/gold-convertibility-ends" },
+    { "label": "franceinfo, “Bernard Arnault : parcours d'un homme d'affaires passionné d'art”, 23 October 2016", "url": "https://www.franceinfo.fr/culture/arts-expos/bernard-arnault-parcours-d-un-homme-d-affaires-passionne-d-art_1886467.html" }
+  ],
+  "factCheck": {
+    "method": "Each claim comes from a source read during research, with press, official and academic sources preferred. Arnault's own words come from Les Echos (2001), Capital (2008), JDD (2021), WWD (2007, 2017), HBR (2001), franceinfo (2026) and the Oxford Union video (2016). Wikipedia in English and French was used only as a lead: its footnotes were chased and no claim rests on it. Airy Routier's unauthorised biography L'Ange exterminateur (2003) was not read directly. It is used through Challenges' long excerpts and Michel Villette's review in Gérer et Comprendre, and is attributed in the text where it stands alone. Villette notes that he did not systematically verify Routier's facts. French quotes in quote blocks give the original words plus our English translation. French quotes inside paragraphs are our close translations of the words in the cited source. Le Monde's 2021 and 1987 pieces, Bloomberg's full feature and most of the Marianne piece were blocked or paywalled and were not read in full: Bloomberg is cited through the podcast transcript and Marcellus excerpts, and Marianne only for its opening and standfirst. The UPI item on Kluge was confirmed by headline and date only, because the page blocked automated reading. Commons author and licence data were pulled from the Commons API. Ages marked 'about' are worked out from his birth date and the age he gave.",
+    "disputed": [
+      {
+        "claim": "Birthplace: Roubaix or Croix",
+        "note": "LVMH, Le Figaro and France 3 say Roubaix. Leaders League, Le Parisien and Villette place his birth or childhood in neighbouring Croix. La Voix du Nord says he grew up in both. We use Roubaix for the birth and mention Croix for the neighbourhood."
+      },
+      {
+        "claim": "When the family firm was founded",
+        "note": "JDD says 1921, Les Echos 1995 says 1922, Villette and Leaders League say 1926. We write 'the 1920s'. Les Echos 1995 and France 3 wrongly credit an Arnault with founding it: the founder was the maternal grandfather, Étienne Savinel. Les Echos 2010 places the firm in Croix, JDD in Roubaix."
+      },
+      {
+        "claim": "When Jean Arnault took over, and when he handed over to Bernard",
+        "note": "Villette and Leaders League say Jean took charge in 1950, JDD says 1959. AFP says Jean handed over about 1975 and Villette says 1974, while LVMH's official dates make Bernard chairman in 1978. We use the official titles for Bernard and 'the 1950s' for Jean."
+      },
+      {
+        "claim": "His mother's occupation",
+        "note": "Bloomberg (podcast) and Forbes call her a pharmacist. English Wikipedia calls her a pianist, without a source we could confirm. We use Bloomberg's description and do not call her a pianist. France 24 cites the Financial Times for 'fascination for Dior' and Diorissimo; the FT original was not read."
+      },
+      {
+        "claim": "His father's ancestry and his paternal grandmother's name",
+        "note": "La Revue française de généalogie traces the Arnaults to Poitou. Villette, following Routier, says Alsatian military stock, and Les Echos says Jean's origins were in eastern France. Les Echos names Jean's mother Eugénie Clouet, while Généalogie Magazine names Marie Clouët. We avoid the first name. The links to painter François Clouet and General Dahlmann rest on one source each and are attributed."
+      },
+      {
+        "claim": "Why he missed Polytechnique in 1968",
+        "note": "Leaders League says a broken arm stopped him sitting the physical tests. Le Figaro says only 'an accident'. Pierre Charret, quoted in La Voix du Nord, links the miss to May 1968. We use the broken arm and mention the May 1968 memory as a quote. Nobody reliable says how the arm was broken."
+      },
+      {
+        "claim": "Did he ever want a concert career?",
+        "note": "Le Figaro says he hesitated over one after noticed recitals. Bloomberg and WWD say he dropped it when he judged himself not good enough. Les Echos 2001 says he never thought of it, and at Oxford in 2016, asked if it was his first career choice, he said 'It's not exactly true'. We present it as something he weighed and rejected, in his own terms."
+      },
+      {
+        "claim": "Date and setting of the taxi ride",
+        "note": "Arnault himself says 1971 at the Oxford Union (2016) and in WWD (2017), naming Pompidou as president. WWD 2017 has him say he was studying in the US then, which we could not confirm elsewhere. Bloomberg says the early 1970s. Several articles imply it happened during his 1980s stay, and some blogs say 1984. We use his own date. The story is his own account and has no independent witness."
+      },
+      {
+        "claim": "Polytechnique graduation year",
+        "note": "AFP, WWD and most sources say 1971. Le Figaro and France 24 (French) say 1969, which is his entry year. We use 1971. His studies at the École des Mines after X appear only in an unsourced Wikipedia line, so we left them out."
+      },
+      {
+        "claim": "Sale of the construction business: buyer, year and his age",
+        "note": "Villette, following Routier, names the contractor Quillery and the year 1976. Les Echos 2010 says the buyer was Banque Rothschild. El Mundo says the Rothschilds in 1978. France 24 and Les Echos 1995 say 1976, and French Wikipedia files it under 1978. Le Parisien's claim that he took over at 22 and sold is not supported by the official dates. We give 1976 and 40 million francs and do not name the buyer. Whether the firm was sold in full or only its construction arm also varies."
+      },
+      {
+        "claim": "Le Chasseur français: outright purchase or lease?",
+        "note": "INA's 1981 clip and franceinfo say he bought it from Manufrance/Tapie. Le Monde in June 1981 says Ferret-Savinel took it in 'location-gérance' (a lease-management deal). We use 'acquired' and mention the lease. The clip's summary was read, not the video itself. Whether it was truly his 'first takeover' is franceinfo's framing."
+      },
+      {
+        "claim": "When he left for the US and when he came back",
+        "note": "Most sources say 1981. Les Echos 1999 gives the specific date of May 1982, after a period of deciding. France 24 says he returned in 1983, others in 1984. We give the 1981 decision and the May 1982 flight, and 1984 for the return."
+      },
+      {
+        "claim": "The Princess tower: place and result",
+        "note": "Routier and Les Echos 1999 put it on Hutchinson Island, while La Libre says Palm Beach. Cost is $21 million in Routier, while the programme is called $30 million elsewhere. Arnault claims about a $3 million profit, a former colleague claims a $3.5 million loss. Unresolved, and shown as such in the text. Identifying the unnamed plant as St. Lucie is our inference from the island's geography, and the caption says so."
+      },
+      {
+        "claim": "Did Bernard tell his father before moving on Boussac?",
+        "note": "The New York Observer (1999) says he sold the family business in 1984 without telling his father until afterwards. Godé's account in Les Echos and AFP (2010), and Arnault's own account in JDD (2021), have Jean approving the risk beforehand. We follow the Godé and Arnault version, which is the more detailed but comes from insiders. The Observer also misspells Boussac as 'Broussac'."
+      },
+      {
+        "claim": "Who brought him the Boussac file",
+        "note": "Les Echos 2018 credits Godé. Les Echos 1995 says a friend called 'Michel Godé' (a misprint) showed it to him on his return in 1984. Le Figaro says a Lille banker. Routier has it surfacing in lunches with Polge de Combret and via Claude Gros, with Arnault asking Godé to study it from New York. We describe these as parts of one chain, though no single source does so."
+      },
+      {
+        "claim": "When he met Pierre Godé",
+        "note": "The New York Times says 1973. French Wikipedia says 1970. Les Echos 2018 says Godé first worked with Jean over a lawsuit. We use 1973 and attribute it."
+      },
+      {
+        "claim": "How much of his own money went into Boussac",
+        "note": "Challenges and Villette give a stake of 40 million francs. Le Figaro and Villette also give about 90 million francs available. WWD and Investopedia give $15 million of family money. Bernheim's 'three francs and six sous' is a figure of speech. This chapter stops before the deal; the companies chapter should settle the number."
+      }
+    ]
+  }
+}

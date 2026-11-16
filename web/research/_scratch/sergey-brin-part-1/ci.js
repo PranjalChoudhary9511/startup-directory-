@@ -1,0 +1,4 @@
+const https=require('https');
+const titles=process.argv.slice(2).join('|');
+const u='https://commons.wikimedia.org/w/api.php?action=query&titles='+encodeURIComponent(titles)+'&prop=imageinfo&iiprop=url|size|extmetadata&iiextmetadatafilter=Artist|LicenseShortName|DateTimeOriginal|ImageDescription|Credit&iiurlwidth=800&format=json';
+https.get(u,{headers:{'User-Agent':'BillionDollarPDFsResearch/1.0'}},res=>{let s='';res.on('data',d=>s+=d);res.on('end',()=>{const j=JSON.parse(s);Object.values(j.query.pages).forEach(p=>{const i=p.imageinfo[0],m=i.extmetadata;const c=k=>((m[k]||{}).value||'').replace(/<[^>]+>/g,'').trim();console.log(JSON.stringify({t:p.title,url:i.url.split('?')[0],page:i.descriptionurl,thumb:i.thumburl,w:i.width,h:i.height,a:c('Artist'),l:c('LicenseShortName'),d:c('DateTimeOriginal'),desc:c('ImageDescription').slice(0,300)},null,0))})})})

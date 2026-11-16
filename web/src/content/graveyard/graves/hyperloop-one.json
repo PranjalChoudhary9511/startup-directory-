@@ -1,0 +1,382 @@
+{
+  "slug": "hyperloop-one",
+  "name": "Hyperloop One",
+  "region": "global",
+  "country": "United States",
+  "city": "Los Angeles, California",
+  "sector": "Futuristic transport (hyperloop)",
+  "founded": 2014,
+  "died": 2023,
+  "status": "shut-down",
+  "brandColor": "#d71920",
+  "founders": [
+    {
+      "name": "Shervin Pishevar",
+      "role": "Co-founder and early chairman"
+    },
+    {
+      "name": "Brogan BamBrogan",
+      "role": "Co-founder and early CTO (left 2016)"
+    },
+    {
+      "name": "Josh Giegel",
+      "role": "Co-founder, later CTO and CEO"
+    }
+  ],
+  "epitaph": "Promised 800 km/h. Peaked at 387 in a 500 m tube.",
+  "oneLiner": "Tried to build the 'hyperloop': pods shooting through low-pressure tubes at aeroplane speed, for passengers and later cargo.",
+  "causeOfDeath": "It built a fascinating test track but never won a real route to build, kept changing its plan, and ran out of investor patience.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Raised hundreds of millions (Wikipedia gives figures from $400M to over $485M by May 2019; TechCrunch says 'hundreds of millions'). Valuation never published. IP went to majority owner DP World; hard assets sold.",
+  "moneySrc": [
+    0,
+    1
+  ],
+  "inOneMinute": [
+    "Inspired by an **Elon Musk white paper**, Hyperloop One spent hundreds of millions trying to send pods through near-vacuum tubes at aeroplane speed.",
+    "In 2020 it carried its **first two passengers at 172 km/h** on a 500-metre test track in the Nevada desert.",
+    "It never built a single real route, **switched to cargo in 2022**, and shut down on 31 December 2023."
+  ],
+  "killerLine": "A cool demo is not a business. **Find the first paying customer** before you design the whole future.",
+  "numbers": [
+    {
+      "value": "500 m",
+      "label": "length of its only full test track, DevLoop",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "172 km/h",
+      "label": "top speed of its only human test ride (2020)",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "5",
+      "label": "brandings in nine years, using 4 different names",
+      "src": [
+        0
+      ]
+    },
+    {
+      "value": "~50%",
+      "label": "of staff laid off in the 2022 pivot to cargo",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a train in a vacuum tube",
+      "body": "In August 2013, Elon Musk published a white paper called **Hyperloop Alpha**. The idea: put passenger pods inside a long tube with most of the air pumped out, so there is almost no air resistance, and push them with electric motors at near-aeroplane speeds. Musk didn't build it himself. In June 2014, Shervin Pishevar, Brogan BamBrogan and engineer Josh Giegel started a company to do it, first called Hyperloop Technologies. It began in BamBrogan's garage in Los Angeles. By January 2015 it had raised $9 million. The dream was huge: **city to city in minutes**, cleaner than flying. Governments around the world, from Dubai to India, wanted to hear more.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The rise: tests, Virgin and big promises",
+      "body": "In May 2016, the company, now called Hyperloop One, ran its first open-air propulsion test: a sled hit **216 km/h in 2.3 seconds**. It built a 500-metre test tube, DevLoop, in the Nevada desert. In July 2017, its first pod reached about 310 km/h, and later **387 km/h**. The company said its Dubai–Abu Dhabi route could run at up to 500 mph (about 800 km/h). Richard Branson's Virgin Group invested and the company became Virgin Hyperloop One; by December 2017 funding had reached $295 million. Dubai's port giant DP World became the biggest owner. In India, Maharashtra signed an intent agreement in February 2018 for a **Mumbai–Pune hyperloop** that aimed to cut the trip from 180 minutes to 20, and in August 2019 approved the Virgin Hyperloop–DP World group as the project's lead. On 8 November 2020, two employees rode a pod at 172 km/h: the first human hyperloop ride.",
+      "src": [
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "title": "The cracks: drama and a moving target",
+      "body": "Behind the progress, things were messy. In 2016, co-founder BamBrogan left and sued, alleging misuse of company resources; the case was settled confidentially. Branson stepped down as chairman in 2018 after Saudi Arabia pulled a planned project following his criticism over the killing of journalist Jamal Khashoggi. The company changed its name **again and again**: Hyperloop Technologies, Hyperloop One, Virgin Hyperloop One, Virgin Hyperloop. The real problem was bigger. A hyperloop needs hundreds of kilometres of sealed tube, land, safety rules and government money. Showing a pod in a 500-metre tube was a long way from **anyone agreeing to pay for a full line**. No government signed a construction contract.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The fall: from passengers to boxes to nothing",
+      "body": "In February 2022, the company **dropped passengers and pivoted to cargo**, laying off more than 100 people, about half its staff. Virgin removed its name, and in November 2022 the company went back to being Hyperloop One. More layoffs followed in December 2022. In March 2023 it admitted a planned certification centre in West Virginia had been cancelled. Its first planned project was a freight link between Dubai and Abu Dhabi, but money was tighter as interest rates rose. On 21 December 2023, it announced it would shut, citing financial challenges and **failure to win contracts**. It stopped operating on **31 December 2023**. DP World got its intellectual property, and the test track and machinery were sold off.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Aug 2013",
+      "event": "Elon Musk publishes the Hyperloop Alpha white paper",
+      "kind": "start",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Jun 2014",
+      "event": "Hyperloop Technologies founded in Los Angeles",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "May 2016",
+      "event": "First open-air propulsion test: 216 km/h in 2.3 seconds",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2016",
+      "event": "Co-founder BamBrogan leaves and sues; settled in November",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "event": "Virgin joins; funding reaches $295M; pod hits 387 km/h",
+      "kind": "peak",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "event": "Maharashtra signs intent agreement for a Mumbai–Pune hyperloop",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "Branson steps down as chairman after a Saudi project is pulled",
+      "kind": "warning",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "8 Nov 2020",
+      "event": "First human ride: two employees at 172 km/h",
+      "kind": "peak",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2022",
+      "event": "Pivots from passengers to cargo; about half of staff laid off",
+      "kind": "crisis",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "event": "Virgin name removed; renamed Hyperloop One",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "31 Dec 2023",
+      "event": "Ceases operations; IP to DP World, test track sold",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Fastest test runs",
+      "unit": "km/h",
+      "kind": "bar",
+      "labels": [
+        "May 2016",
+        "Aug 2017",
+        "Dec 2017",
+        "Nov 2020"
+      ],
+      "series": [
+        {
+          "name": "Top speed",
+          "values": [
+            216,
+            309,
+            387,
+            172
+          ]
+        }
+      ],
+      "takeaway": "Its fastest run was 387 km/h with no one aboard. The only run with people (Nov 2020) reached 172 km/h, on a 500 m track.",
+      "src": [
+        0,
+        4
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Jan 2015",
+      "round": "Early venture funding (cumulative)",
+      "amountUsdM": 9,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        0
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "no-market",
+      "weight": 35
+    },
+    {
+      "key": "tech",
+      "weight": 25
+    },
+    {
+      "key": "focus",
+      "weight": 25
+    },
+    {
+      "key": "funding-dried",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "No customer for the real thing",
+      "explain": "A hyperloop line needs governments to provide land, rules and billions in funding. Despite agreements in places like Maharashtra and Saudi Arabia, **no one signed a contract to build a full route**. Without a paying customer, the test track was a science project, not a business.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Kept changing what it was",
+      "explain": "Passengers, then cargo. Hyperloop Technologies, Hyperloop One, Virgin Hyperloop One, Virgin Hyperloop, then Hyperloop One again. **Each pivot reset the story** for customers and investors, and cost staff and time. Every new direction meant new pitches, new partners and new engineering priorities.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Founder conflict early on",
+      "explain": "In 2016, a co-founder left and sued, alleging misuse of company resources; the company counter-sued before a confidential settlement. A founding team **fighting in court** in year two distracts from the hardest engineering and fundraising work. Founders who agree on roles and rules in writing are far less likely to end up in court.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "Depended on cheap money and patient owners",
+      "explain": "The company needed years of funding before any revenue. When interest rates rose, money for long-shot projects dried up. It shut citing **financial challenges, high interest rates and failure to win contracts**. When cheap money ended, a company with no revenue had nowhere left to turn.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your business need a government to spend billions before you earn your first rupee?",
+    "Have you changed your target customer or name more than twice?",
+    "Are your partnerships mostly 'intent agreements' and feasibility studies?",
+    "Are co-founders in a serious dispute about how the company is run?",
+    "Would rising interest rates make it impossible for you to raise your next round?",
+    "Is your best evidence a demo video rather than a signed contract?"
+  ],
+  "lessons": [
+    {
+      "title": "Find a small paying use first",
+      "detail": "Before designing a whole new transport system, ask: who would pay for a tiny version next year? A factory, a port, a campus? Start where one decision-maker can say yes."
+    },
+    {
+      "title": "Government deals take years: plan for it",
+      "detail": "If your customer is a state or city, expect long tenders, elections and policy changes. Keep enough cash and a private-sector side business to survive the wait."
+    },
+    {
+      "title": "Agree on co-founder rules early",
+      "detail": "Write down roles, decision rights and what happens if someone leaves, before money and fame arrive. A simple founders' agreement prevents most court fights."
+    },
+    {
+      "title": "Pivot rarely, and for a reason",
+      "detail": "Change direction when real customer data says so, not to chase the next headline. Each pivot costs trust. Explain it clearly to your team and investors."
+    },
+    {
+      "title": "Be honest about the gap between demo and reality",
+      "detail": "A 500-metre test is not a 150-kilometre line. Show investors the full path: permissions, cost per kilometre, safety approval. Honesty attracts the right, patient backers."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "Hyperloop One stopped operating on 31 December 2023. Majority owner DP World took its intellectual property, and its Nevada test track and machinery were sold. The Mumbai–Pune hyperloop never got built. As of 2026, no commercial hyperloop passenger system runs anywhere in the world, and two European hyperloop startups, Hardt in the Netherlands and Zeleros in Spain, went insolvent in March 2026. A few others, like Swisspod and TransPod, keep testing.",
+    "src": [
+      0,
+      1,
+      6
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia, 'Hyperloop One' (history, tests, funding, India project, shutdown)",
+      "url": "https://en.wikipedia.org/wiki/Hyperloop_One"
+    },
+    {
+      "label": "TechCrunch, 'Hyperloop One is shutting down' (21 Dec 2023)",
+      "url": "https://techcrunch.com/2023/12/21/hyperloop-one-shutting-down/"
+    },
+    {
+      "label": "Bloomberg, 'Hyperloop One to shut down after raising millions to reinvent transit' (21 Dec 2023) (as cited by Wikipedia)",
+      "url": "https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit"
+    },
+    {
+      "label": "The Verge, Hyperloop One shuts down; IP to DP World (21 Dec 2023) (as cited by Wikipedia)",
+      "url": "https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk"
+    },
+    {
+      "label": "TechCrunch, 'Hyperloop One's full-scale pod reaches 192 mph' (2 Aug 2017)",
+      "url": "https://techcrunch.com/2017/08/02/hyperloop-ones-full-scale-pod-reaches-192-mph-in-new-nevada-track-test/"
+    },
+    {
+      "label": "Times of India, 'Virgin Hyperloop hosts first human ride' (Nov 2020) (as cited by Wikipedia)",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/virgin-hyperloop-hosts-first-human-ride-on-new-transport-system/articleshow/79120791.cms"
+    },
+    {
+      "label": "Wikipedia, 'Hyperloop' (Musk's 2013 paper, India MoUs, industry status in 2026)",
+      "url": "https://en.wikipedia.org/wiki/Hyperloop"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Total amount raised",
+        "note": "Wikipedia gives $400M and 'over $485M' (both as of May 2019) in different sections; TechCrunch says 'hundreds of millions'. We leave the total as unknown."
+      },
+      {
+        "claim": "BamBrogan's lawsuit allegations, including a reported noose incident",
+        "note": "These were allegations in a lawsuit that was settled confidentially; never proven, so kept out of the story beyond the fact of the suit."
+      },
+      {
+        "claim": "Hyperloop pods could travel at about 1,220 km/h",
+        "note": "That was the projected top speed in Musk's 2013 white paper; Hyperloop One's own planned Dubai–Abu Dhabi route aimed at up to 500 mph (~800 km/h). No test came close."
+      }
+    ]
+  }
+}

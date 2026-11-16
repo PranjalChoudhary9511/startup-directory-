@@ -1,0 +1,412 @@
+{
+  "slug": "ftx",
+  "name": "FTX",
+  "region": "global",
+  "country": "Bahamas",
+  "city": "Nassau",
+  "sector": "Crypto exchange",
+  "founded": 2019,
+  "died": 2022,
+  "status": "bankrupt",
+  "brandColor": "#11a9bc",
+  "founders": [
+    {
+      "name": "Sam Bankman-Fried",
+      "role": "Co-founder and CEO"
+    },
+    {
+      "name": "Gary Wang",
+      "role": "Co-founder and CTO"
+    }
+  ],
+  "epitaph": "Your keys, our sister firm's coins.",
+  "oneLiner": "A crypto exchange where people bought, sold and stored digital coins, run by a celebrity founder worth billions on paper.",
+  "causeOfDeath": "Customer money was secretly funnelled to Sam Bankman-Fried's trading firm, Alameda; when customers rushed to withdraw, $8 billion was missing.",
+  "raisedUsdM": 1800,
+  "peakValuationUsdM": 32000,
+  "endValueUsdM": 0,
+  "moneyNote": "SEC says FTX raised \"more than $1.8 billion from equity investors\"; $32 billion was its January 2022 Series C valuation. Equity was wiped out in bankruptcy.",
+  "moneySrc": [
+    0,
+    6
+  ],
+  "inOneMinute": [
+    "FTX became the world's second-largest crypto exchange in about three years and was valued at **$32 billion** in January 2022.",
+    "Behind the scenes, Alameda, a trading firm also owned by Sam Bankman-Fried, had a **'virtually unlimited' line of credit funded by FTX customers' money**.",
+    "A leaked balance sheet sparked a run in November 2022. FTX went bankrupt within nine days. Bankman-Fried got **25 years in prison**."
+  ],
+  "killerLine": "If you hold other people's money, **it is never yours to borrow** — not for a day, not for a 'great trade'.",
+  "numbers": [
+    {
+      "value": "$32 billion",
+      "label": "valuation in January 2022",
+      "src": [
+        6
+      ]
+    },
+    {
+      "value": "$8 billion",
+      "label": "customer money lost, as found by the judge",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "9 days",
+      "label": "from the leaked Alameda report (2 Nov) to bankruptcy (11 Nov 2022)",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "25 years",
+      "label": "Bankman-Fried's prison sentence, plus $11 billion forfeiture",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a smarter crypto exchange",
+      "body": "A crypto exchange is like a stock market app for digital coins such as Bitcoin. You deposit money, trade, and the exchange holds your coins for you. Sam Bankman-Fried, a young American trader, already ran a trading firm called Alameda Research. In 2019 he co-founded FTX with Gary Wang. FTX grew at lightning speed. By January 2022 it raised $400 million from big names like SoftBank, Temasek and Paradigm, at a **$32 billion valuation**. It was once the second-biggest crypto exchange in the world. Bankman-Fried became a famous face of crypto, known for messy hair, shorts, and talk of giving his fortune away.",
+      "src": [
+        1,
+        6
+      ]
+    },
+    {
+      "title": "The rise: one owner, two companies",
+      "body": "Here was the hidden problem. Bankman-Fried controlled both FTX (which held customers' money) and Alameda (which made risky bets). The SEC (America's market regulator) later said Alameda got a **\"virtually unlimited 'line of credit' funded by the platform's customers\"** and was excused from FTX's normal safety rules. Customers' money was mixed with Alameda's and, the SEC said, used for venture investments, real estate and political donations. Inside, there were almost no controls. The new boss who took over in bankruptcy found that staff expense claims were approved in a chat **with emoji**, and private keys (the secret passwords that control crypto wallets) were shared through a group email account.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: a leaked balance sheet",
+      "body": "On 2 November 2022, the crypto news site CoinDesk reported that Alameda held a huge amount of FTT, a token that FTX itself had created. In simple words: Alameda's wealth was mostly a coin printed by its sister company. On 6 November, Binance, FTX's biggest rival, said it would sell all its FTT. Prices fell and customers panicked. They rushed to withdraw, the way people run to a bank they no longer trust. On 8 November Binance offered to buy FTX. One day later, after looking at the books, it **walked away**. The money customers wanted back simply was not there.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "The fall: bankruptcy, arrest, 25 years",
+      "body": "On 11 November 2022 FTX filed for bankruptcy and Bankman-Fried resigned. FTX listed more than 130 linked companies. In December he was arrested in the Bahamas and charged in the US. In November 2023 a New York jury **convicted him of seven counts of fraud and conspiracy**. On 28 March 2024 Judge Lewis Kaplan sentenced him to 25 years and ordered $11 billion forfeited. The judge found customers lost $8 billion, investors $1.7 billion and lenders $1.3 billion. Three former deputies pleaded guilty and testified against him. Caroline Ellison, who ran Alameda, got two years. Gary Wang and Nishad Singh got **no further prison time** for cooperating.",
+      "src": [
+        1,
+        2,
+        3,
+        8
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "Sam Bankman-Fried and Gary Wang launch FTX; Bankman-Fried already owns trading firm Alameda Research.",
+      "kind": "start",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "event": "FTX raises $420 million at a $25 billion valuation.",
+      "kind": "money",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2022",
+      "event": "$400 million Series C at a $32 billion valuation; SoftBank, Temasek, Paradigm invest.",
+      "kind": "peak",
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "2 Nov 2022",
+      "event": "CoinDesk reports Alameda's balance sheet is stuffed with FTT, FTX's own token.",
+      "kind": "warning",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "6–9 Nov 2022",
+      "event": "Binance says it will sell its FTT, offers to buy FTX, then walks away after seeing the books.",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "11 Nov 2022",
+      "event": "FTX files for bankruptcy; Bankman-Fried resigns; John Ray III takes over.",
+      "kind": "end",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Dec 2022",
+      "event": "Bankman-Fried arrested in the Bahamas and charged by US prosecutors.",
+      "kind": "after",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "event": "Jury convicts Bankman-Fried on all seven counts of fraud and conspiracy.",
+      "kind": "after",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "28 Mar 2024",
+      "event": "Sentenced to 25 years in prison and $11 billion forfeiture.",
+      "kind": "after",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Oct 2024",
+      "event": "Bankruptcy court approves FTX's plan to repay customers from about $16 billion in recovered assets.",
+      "kind": "after",
+      "src": [
+        9
+      ]
+    },
+    {
+      "date": "12 Jun 2026",
+      "event": "Appeals court unanimously upholds his conviction and sentence.",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2026",
+      "event": "Bankman-Fried asks the US Supreme Court to hear his case.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Who lost what in the FTX fraud",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": [
+        "Customers",
+        "Investors",
+        "Lenders to Alameda"
+      ],
+      "series": [
+        {
+          "name": "Loss found by the judge",
+          "values": [
+            8000,
+            1700,
+            1300
+          ]
+        }
+      ],
+      "takeaway": "The biggest victims were not rich investors but ordinary customers who trusted FTX to hold their money.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2021",
+      "round": "Series B-1",
+      "amountUsdM": 420,
+      "valuationUsdM": 25000,
+      "investors": [],
+      "src": [
+        6
+      ]
+    },
+    {
+      "date": "Jan 2022",
+      "round": "Series C",
+      "amountUsdM": 400,
+      "valuationUsdM": 32000,
+      "investors": [
+        "SoftBank",
+        "Temasek",
+        "Paradigm",
+        "Multicoin Capital"
+      ],
+      "src": [
+        6
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 65
+    },
+    {
+      "key": "governance",
+      "weight": 25
+    },
+    {
+      "key": "timing",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Using customer money as the founder's piggy bank",
+      "explain": "The whole fraud rested on one thing: **customer deposits were treated as money Alameda could borrow**. The SEC says it was used for risky bets, venture deals, property and political donations. Prosecutors said he also used it for Caribbean properties and private planes. Customers thought their coins were sitting safely in their accounts.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "One person controlled both the vault and the gambler",
+      "explain": "FTX held customer money; Alameda traded with it. Both were controlled by Bankman-Fried, and Alameda was **excused from FTX's normal safety rules**. When the same person owns the bank and the casino next door, nothing stops money flowing from one to the other.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "No grown-up controls at all",
+      "explain": "The bankruptcy CEO, who had cleaned up Enron, said he had never seen such a complete failure of controls. Expenses were approved **with emoji in a chat**. Secret wallet keys were shared over a group email. FTX had no proper list of its bank accounts or even its staff.",
+      "src": [
+        5
+      ]
+    },
+    {
+      "title": "Wealth built on a self-printed coin",
+      "explain": "Much of Alameda's balance sheet was FTT, a token FTX itself created. A coin you print yourself is only worth something while people believe in you. Once a rival started selling, **the 'assets' melted** in days. Real reserves like cash or government bonds hold their value in a panic; a token you mint yourself does the opposite.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Can your company dip into customer money for its own bets, bills or loans?",
+    "Does the founder own another company that does business with yours, with nobody independent checking those deals?",
+    "Would it take you more than a day to list every bank account, wallet and employee you have?",
+    "Are spending approvals done casually in chat, without written limits?",
+    "Is a big part of your 'value' a token, share or asset that you created yourself?",
+    "Has nobody outside the founding team seen your real balance sheet in the last three months?"
+  ],
+  "lessons": [
+    {
+      "title": "Customer money goes in a locked box",
+      "detail": "If you build anything that holds money — a wallet, a marketplace, a fintech app — keep customer funds in a separate account you can't use for company spending. Write this rule down on day one."
+    },
+    {
+      "title": "Never let your side business trade with your main business in secret",
+      "detail": "If you own two companies, any deal between them must be on paper, at fair terms, and reviewed by someone who doesn't report to you."
+    },
+    {
+      "title": "Boring controls are what make you trustworthy",
+      "detail": "Expense rules, two-person approval for big payments, real accountants. They feel slow at 10 people. At 300 people they are the difference between a company and a crime scene."
+    },
+    {
+      "title": "As an employee, ask where the money sits",
+      "detail": "If you work at a fintech, ask: 'Where are customer funds held, and who can move them?' If nobody can answer clearly, start looking for the exit."
+    },
+    {
+      "title": "As an investor, celebrity is not due diligence",
+      "detail": "FTX had SoftBank, Temasek and a famous founder. None of that checked the books. Ask for audited numbers and proof of reserves, and be wary of a board that is just the founder's friends."
+    }
+  ],
+  "quote": {
+    "text": "Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here.",
+    "who": "John J. Ray III, FTX's bankruptcy CEO (who also oversaw Enron's wind-down)",
+    "context": "First-day declaration in the FTX bankruptcy court, 17 November 2022",
+    "src": [
+      5,
+      10
+    ]
+  },
+  "afterlife": {
+    "text": "Bankman-Fried is serving 25 years in a low-security US prison; he is eligible for release in 2044. On 12 June 2026 the federal appeals court in New York unanimously upheld his conviction. In September 2026 he asked the US Supreme Court to hear his case, and he has applied to President Trump for a pardon; as of November 2026 neither had been granted. The FTX Recovery Trust had paid back about $10 billion to creditors by March 2026 — but at November 2022 coin prices, when Bitcoin was about $16,871.",
+    "src": [
+      3,
+      4,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "SEC press release 2022-219: SEC charges Samuel Bankman-Fried with defrauding investors in FTX",
+      "url": "https://www.sec.gov/news/press-release/2022-219"
+    },
+    {
+      "label": "AP (via Anchorage Daily News): Bankman-Fried sentenced to 25 years (Mar 2024)",
+      "url": "https://www.adn.com/nation-world/2024/03/28/fallen-crypto-mogul-sam-bankman-fried-sentenced-to-25-years-in-prison/"
+    },
+    {
+      "label": "AP (via Click2Houston): A timeline of the collapse at FTX (May 2024)",
+      "url": "https://www.click2houston.com/news/2024/05/08/a-timeline-of-the-collapse-at-ftx/"
+    },
+    {
+      "label": "Al Jazeera: Sam Bankman-Fried loses appeal to overturn fraud convictions (Jun 2026)",
+      "url": "https://www.aljazeera.com/economy/2026/6/12/sam-bankman-fried-loses-appeal-to-overturn-fraud-convictions-and-prison"
+    },
+    {
+      "label": "Bloomberg Government: Bankman-Fried asks Supreme Court to review his fraud conviction (Sep 2026)",
+      "url": "https://news.bgov.com/pharma-and-life-sciences/bankman-fried-asks-supreme-court-to-review-his-fraud-conviction"
+    },
+    {
+      "label": "Unchained: FTX bankruptcy overseer says collapse is worst he's ever seen (Nov 2022)",
+      "url": "https://unchainedcrypto.com/ftx-bankruptcy-overseer-says-companys-collapse-is-worst-hes-ever-seen/"
+    },
+    {
+      "label": "SiliconANGLE: FTX raises additional $400M at $32B valuation (Jan 2022)",
+      "url": "https://siliconangle.com/2022/01/31/cryptocurrency-exchange-ftx-raises-additional-400m-32b-valuation/"
+    },
+    {
+      "label": "Cointelegraph: FTX Recovery Trust to distribute $2.2B to creditors in March (2026)",
+      "url": "https://cointelegraph.com/news/ftx-recovery-trust-to-distribute-2-2b-to-creditors-in-march"
+    },
+    {
+      "label": "Protos: FTX and Alameda execs get a total of 34.5 years in prison (Nov 2024)",
+      "url": "https://protos.com/chart-ftx-and-alameda-execs-get-a-total-of-34-5-years-in-prison"
+    },
+    {
+      "label": "Reuters (via ThePrint): FTX's liquidation plan receives court approval (Oct 2024)",
+      "url": "https://theprint.in/tech/crypto-exchange-ftxs-liquidation-plan-receives-court-approval/2301734"
+    },
+    {
+      "label": "Bitcoin Magazine: FTX releases day-one bankruptcy filing (Nov 2022)",
+      "url": "https://bitcoinmagazine.com/business/ftx-exchange-release-day-one-bankruptcy-filing"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "FTX customers were 'made whole' or repaid more than 100%.",
+        "note": "The plan pays claims valued at November 2022 coin prices (Bitcoin ~$16,871). Creditor advocates such as Sunil Kavuri say creditors are not whole because coin prices later rose far higher."
+      },
+      {
+        "claim": "Bankman-Fried's pardon was denied.",
+        "note": "Some crypto outlets reported a denial; the Justice Department's pardon office has listed his application as pending. We found no official decision as of November 2026."
+      },
+      {
+        "claim": "FTX was actually solvent and could have repaid everyone without the bankruptcy.",
+        "note": "Bankman-Fried's defence argument; the trial judge excluded it and the appeals court (June 2026) said fraud happens when money is obtained by deception, even if the person meant to repay it."
+      }
+    ]
+  }
+}

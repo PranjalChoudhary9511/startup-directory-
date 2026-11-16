@@ -1,0 +1,401 @@
+{
+  "slug": "frank",
+  "name": "Frank",
+  "region": "global",
+  "country": "United States",
+  "city": "New York",
+  "sector": "Edtech / student finance",
+  "founded": 2016,
+  "died": 2023,
+  "status": "absorbed-and-closed",
+  "brandColor": "#3d5afe",
+  "founders": [
+    {
+      "name": "Charlie Javice",
+      "role": "Founder and CEO"
+    },
+    {
+      "name": "Olivier Amar",
+      "role": "Chief growth and acquisition officer (not a founder)"
+    }
+  ],
+  "epitaph": "4.25 million users. Most of them imaginary.",
+  "oneLiner": "A website that helped American students fill in the federal financial-aid form (FAFSA) and ask colleges for more aid.",
+  "causeOfDeath": "JPMorgan paid $175M believing Frank had 4.25M users; it had under 300,000. The bank shut it down and its founder went to prison.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 175,
+  "endValueUsdM": 0,
+  "moneyNote": "Frank's own fundraising totals are not reliably published. $175 million is JPMorgan's 2021 purchase price; the bank shut the site in Jan 2023, so end value is 0.",
+  "moneySrc": [
+    0,
+    1
+  ],
+  "inOneMinute": [
+    "Charlie Javice, a Forbes 30 Under 30 founder, sold her student-aid startup Frank to JPMorgan for **$175 million** in 2021.",
+    "She claimed 4.25 million student users. JPMorgan says the real number was **under 300,000** — and that a professor was paid $18,000 to generate fake ones.",
+    "JPMorgan shut Frank in January 2023. In 2025 a jury convicted Javice on **all four fraud counts**; she got 85 months in prison."
+  ],
+  "killerLine": "Your buyer will eventually email your users. **Make sure they exist.**",
+  "numbers": [
+    {
+      "value": "$175 million",
+      "label": "what JPMorgan paid for Frank in 2021",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "4.25M vs <300K",
+      "label": "users claimed vs real accounts, per JPMorgan",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "$18,000",
+      "label": "paid to a data science professor for a list of 4.265 million fake accounts (alleged in the lawsuit)",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "value": "85 months",
+      "label": "Javice's prison sentence (Sept 2025)",
+      "src": [
+        3,
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: making financial aid less painful",
+      "body": "In America, students fill in a long government form called the FAFSA to get money for college. Charlie Javice, a 2013 Wharton graduate, said she started Frank after her own **\"grueling\"** fight to renegotiate her aid at Penn. Frank promised to make the form simple and help students ask colleges for more money. It was a real problem, and Frank had real users. But there were early warning signs. In 2018 Frank settled with the US government over claims it **made students think it was linked to the Department of Education**. In 2019 Javice was named to the Forbes 30 Under 30 finance list.",
+      "src": [
+        5,
+        4
+      ]
+    },
+    {
+      "title": "The rise: a $175 million exit",
+      "body": "In September 2021 JPMorgan Chase, America's biggest bank, bought Frank for **$175 million**. The bank wanted a direct line to millions of young people who would one day need bank accounts and credit cards. Javice told the bank Frank had over **4.25 million students** who had started or finished the FAFSA through it. After the deal, Javice became a managing director at JPMorgan. For a young founder, it looked like the dream ending: a quick, big exit to a famous buyer, and a senior job on top. Nobody at the time asked loudly whether the users were real.",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "title": "The cracks: the emails that bounced",
+      "body": "After the deal, JPMorgan sent a test marketing email to 400,000 of the 'customers' it thought it had bought. Normally about 99% of such emails get delivered. Only **28% were delivered, and just 1.1% were opened**. The bank started digging. In its December 2022 lawsuit, JPMorgan said Frank had fewer than 300,000 real accounts. It alleged that when asked for proof, Javice first asked her engineering chief to create fake accounts. When he refused, she allegedly **paid a data science professor $18,000** to generate a list of 4.265 million fake students. Javice denied it and countersued, saying the bank was trying to avoid paying her.",
+      "src": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "title": "The fall: shut down, charged, convicted",
+      "body": "On 12 January 2023 JPMorgan switched off Frank's website. It now said \"Frank is no longer available\" and pointed students to the government's own site. In April 2023 federal prosecutors in New York charged Javice with conspiracy, wire fraud affecting a financial institution, bank fraud and securities fraud. Olivier Amar, Frank's growth chief, was charged too. On 28 March 2025 a jury **convicted both of them on all counts**. In September 2025 Judge Alvin Hellerstein sentenced Javice to 85 months (about seven years) in prison and ordered her to forfeit over $22 million. Javice and Amar were ordered to pay **$287.5 million** in restitution.",
+      "src": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "Charlie Javice founds Frank to simplify the US student financial-aid form.",
+      "kind": "start",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "date": "2018",
+      "event": "Frank settles US government claims that it implied ties to the Department of Education.",
+      "kind": "warning",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "date": "2019",
+      "event": "Javice named to the Forbes 30 Under 30 finance list.",
+      "kind": "peak",
+      "src": [
+        2,
+        5
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "event": "JPMorgan Chase buys Frank for $175 million; Javice becomes a managing director.",
+      "kind": "money",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "2021–22",
+      "event": "JPMorgan's test email to 400,000 'customers': 28% delivered, 1.1% opened.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Dec 2022",
+      "event": "JPMorgan sues Javice and Amar, alleging millions of fake accounts.",
+      "kind": "crisis",
+      "src": [
+        0,
+        6
+      ]
+    },
+    {
+      "date": "12 Jan 2023",
+      "event": "JPMorgan shuts down Frank's website.",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Apr 2023",
+      "event": "Javice charged with conspiracy, wire fraud, bank fraud and securities fraud; SEC files fraud charges too.",
+      "kind": "after",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "28 Mar 2025",
+      "event": "Jury convicts Javice and Amar on all counts.",
+      "kind": "after",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Sep 2025",
+      "event": "Javice sentenced to 85 months; $287.5 million restitution ordered.",
+      "kind": "after",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Jun 2026",
+      "event": "Javice reportedly seeks a pardon from President Trump while appealing.",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Users claimed vs users real",
+      "unit": "million accounts",
+      "kind": "bar",
+      "labels": [
+        "Claimed to JPMorgan",
+        "Real (per JPMorgan)"
+      ],
+      "series": [
+        {
+          "name": "Frank accounts",
+          "values": [
+            4.25,
+            0.3
+          ]
+        }
+      ],
+      "takeaway": "More than nine out of ten of the users JPMorgan paid for did not exist. (Real figure: 'fewer than 300,000'.)",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The email test that exposed it",
+      "unit": "% of emails",
+      "kind": "bar",
+      "labels": [
+        "Delivered",
+        "Opened"
+      ],
+      "series": [
+        {
+          "name": "Frank's 'customers'",
+          "values": [
+            28,
+            1.1
+          ]
+        },
+        {
+          "name": "Typical campaign",
+          "values": [
+            99,
+            30
+          ]
+        }
+      ],
+      "takeaway": "Real people get and open emails. Fake names on a list don't — one simple test caught it.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 80
+    },
+    {
+      "key": "governance",
+      "weight": 20
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Faking the one number the buyer cared about",
+      "explain": "JPMorgan bought Frank for its users. A jury found Javice lied about how many there were, and the lawsuit alleged **a professor was paid to generate 4.265 million fake students**. Lying about your core metric during a sale is not 'growth hacking' — it is fraud against the buyer.",
+      "src": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "title": "Asking your team to fake data",
+      "explain": "JPMorgan said Javice first asked her engineering chief to create fake accounts, and he refused. **That refusal was the moment to stop.** Instead, the bank alleged, she found someone outside the company to do it. When your own engineer says no, listen.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Ignoring the early warning about honesty",
+      "explain": "In 2018 Frank settled claims that it **made students think it was linked to the government**. Small misleading claims to customers are often a preview of bigger ones later. A culture of 'stretch the truth' rarely stays small. How a company talks to its customers usually predicts how it will talk to its investors.",
+      "src": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Hiding behind 'privacy' to dodge checks",
+      "explain": "When JPMorgan asked to see customer names, Javice first said privacy rules stopped her sharing them. Privacy is real, but **using it to block verification** is a red flag. Honest companies find a safe way to prove their numbers, such as an independent third-party check.",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is the user number in your deck bigger than the number of people who actually logged in last month?",
+    "Have you ever asked someone on your team to 'fill in' or 'model' data that should come from real customers?",
+    "Would your numbers fall apart if a buyer or investor emailed a random sample of your users?",
+    "Do you use privacy or confidentiality as a reason to refuse every kind of verification?",
+    "Has any regulator or customer complained that your marketing makes you look like something you're not?"
+  ],
+  "lessons": [
+    {
+      "title": "Know the difference between 'users' and 'active users'",
+      "detail": "Sign-ups, visitors, downloads, active users — define each one clearly and report the honest one. Founders get into trouble when they let a big vague number stand in for a small real one."
+    },
+    {
+      "title": "Never let a sale price pressure you into lying",
+      "detail": "A big exit can tempt you to round up. Remember: buyers check after they pay, and they have lawyers. A smaller honest deal beats a big one that ends in court."
+    },
+    {
+      "title": "Offer an independent check before anyone asks",
+      "detail": "If privacy limits what you can share, offer a neutral auditor or a random-sample test. It protects your users and proves your numbers."
+    },
+    {
+      "title": "As an employee, refuse and write it down",
+      "detail": "If a boss asks you to create fake data, say no, put it in writing, and keep a copy. Frank's engineering chief refusing was one of the cleanest moments in the whole story."
+    },
+    {
+      "title": "As a buyer or investor, test the users directly",
+      "detail": "JPMorgan only caught this after paying. A simple email or SMS test to a sample of users before signing would have shown the gap."
+    }
+  ],
+  "quote": {
+    "text": "After JPMC insisted, Javice chose to invent several million Frank customer accounts out of whole cloth",
+    "who": "JPMorgan Chase, in its lawsuit",
+    "context": "Allegation in JPMorgan's December 2022 complaint against Javice (later the subject of her criminal conviction)",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "Javice is serving an 85-month sentence. In March 2026 the trial judge rejected her bid to throw out the conviction over claimed conflicts involving two law clerks. As of June 2026 she was appealing and reportedly seeking a pardon from President Trump; no pardon had been granted as of that report. A Delaware court also ruled that JPMorgan had to pay her legal defence costs, which were expected to top $100 million — part of why the restitution order reached $287.5 million.",
+    "src": [
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "label": "CBS MoneyWatch: JPMorgan says Frank founder faked 4 million customers (Jan 2023)",
+      "url": "https://www.cbsnews.com/news/charlie-javice-frank-jpmorgan-chase-lawsuit-alleges-4-million-fake-customers/"
+    },
+    {
+      "label": "CNBC: JPMorgan Chase shutters student financial aid website Frank (Jan 2023)",
+      "url": "https://www.cnbc.com/2023/01/12/jpmorgan-chase-shutters-student-financial-aid-website-frank.html"
+    },
+    {
+      "label": "Fortune: Charlie Javice, ankle monitor and bail after conviction (Apr 2025)",
+      "url": "https://fortune.com/2025/04/02/charlie-javice-ankle-monitor-pilates-career-jpmorgan-fraud/"
+    },
+    {
+      "label": "CNBC: Charlie Javice reportedly seeking a pardon from Trump (Jun 2026)",
+      "url": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html"
+    },
+    {
+      "label": "Wikipedia: Charlie Javice (charges, verdict, sentence, restitution; citing NYT, Bloomberg, Reuters)",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Javice"
+    },
+    {
+      "label": "The Daily Pennsylvanian: Wharton graduate's startup Frank sued by JPMorgan (Jan 2023)",
+      "url": "https://www.thedp.com/article/2023/01/charlie-javice-wharton-graduate-frank-sued-jp-morgan"
+    },
+    {
+      "label": "Times of Israel: Young entrepreneur accused of conning America's largest bank (Jan 2023)",
+      "url": "https://www.timesofisrael.com/young-jewish-entrepreneur-accused-of-conning-americas-largest-bank/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Frank's founding year.",
+        "note": "Some reports say 2017 (CBS); Wikipedia and The Daily Pennsylvanian say 2016. We use 2016."
+      },
+      {
+        "claim": "Exact number of real Frank users.",
+        "note": "JPMorgan said 'fewer than 300,000'; one report quoting the complaint says never more than 250,000."
+      },
+      {
+        "claim": "JPMorgan was a victim of its own weak due diligence and was scapegoating Javice.",
+        "note": "Javice's defence and countersuit argued this; the jury convicted her on all counts in March 2025."
+      },
+      {
+        "claim": "Olivier Amar's sentence.",
+        "note": "Amar was convicted on all counts alongside Javice and is jointly liable for restitution; we could not verify his sentence from a source we read, so it is not stated here."
+      }
+    ]
+  }
+}

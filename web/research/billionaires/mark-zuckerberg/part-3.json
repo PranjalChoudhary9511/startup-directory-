@@ -1,0 +1,1962 @@
+{
+  "chapters": [
+    {
+      "id": "how-they-work",
+      "kicker": "How he runs it",
+      "title": "Thirty People, No One-on-Ones",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most mornings Mark Zuckerberg wakes between ==7:00 and 7:30 a.m.==, usually because one of his three daughters has woken him. He reaches for his phone straight away, and he says the news on it is mostly bad. Then he does something few chief executives do. He goes and fights.",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I compose myself and go fight for two hours, recenter myself, and it's like, now I can go deal with this stuff.",
+          "who": "Mark Zuckerberg, on Theo Von's podcast, 2025",
+          "src": [
+            0
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It started as a way to quiet his head. He told Joe Rogan he used to run, \"but the problem with running is you can think a lot.\" So he moved to jiu-jitsu and mixed martial arts, where a wandering mind gets you choked. He also told Rogan why the phone hurts so much first thing: \"People reserve the good stuff to tell me in person.\"",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Find the one hour when your brain cannot check the phone."
+        },
+        {
+          "t": "p",
+          "text": "The rest of the day has been described in pieces over the years. In a 2023 profile he aimed for eight hours of sleep and said \"I don't stay up super late at night.\" Priscilla Chan has said he tucks the children in unless he is travelling or has a board meeting. He told Lex Fridman he goes through what matters most in life with his daughters: health, friends, family and something to look forward to.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Clearing out the small decisions"
+        },
+        {
+          "t": "p",
+          "text": "In November 2014, at Facebook's first public town hall, someone asked why he wore the same gray T-shirt every day. His answer became one of the most copied habits in the startup world. Quartz pointed out the idea behind it, which psychologists call decision fatigue: even small choices, like breakfast or clothes, use up energy.",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I really want to clear my life to make it so that I have to make as few decisions as possible about anything except how to best serve the community.",
+          "who": "Mark Zuckerberg, Facebook town hall, November 2014",
+          "src": [
+            2
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The \"small group\""
+        },
+        {
+          "t": "p",
+          "text": "Meta has tens of thousands of staff, but Mark directly oversees only ==25 to 30 people==. He calls them the \"small group\", and he knows the name is a joke. He described them to Stripe's John Collison in May 2025 as a \"core army that can go get anything done across the company\". He spends real time making sure they are connected to each other and all know what is going on.",
+          "src": [
+            3,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Here is the surprising part. He has no recurring one-on-one meetings with any of them. He does keep only two standing weekly meetings with the group: an open-ended strategy talk and an operating review of company priorities. __The rest of his calendar stays loose on purpose, so he can jump on whatever matters that day.__",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I think if you're going to report to me, you need to be able to manage yourself.",
+          "who": "Mark Zuckerberg, Stripe Sessions, May 2025",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He was careful about how far this goes. \"I talk to all these people constantly, more than they want to talk to me, I'm sure,\" he said. He also said that for the rest of the company, management is important and is how people grow. So this rule is for one room, not the whole building.",
+          "src": [
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "No one-on-ones only works if every person can manage themselves."
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "25–30",
+              "label": "people who report directly to him",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "2",
+              "label": "standing weekly meetings with that group",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "~15",
+              "label": "product divisions under them",
+              "src": [
+                3
+              ]
+            },
+            {
+              "value": "66,775",
+              "label": "Meta employees, 30 September 2026",
+              "src": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: he told Forbes, \"For every hour of meeting that I have, the team sends out the pre-reads in advance.\" He wants at least an hour to prepare and another hour to follow up. So one hour in a room can cost him three hours of his day, which is why he keeps so few standing meetings.",
+          "src": [
+            1
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Running a company with memos and open questions"
+        },
+        {
+          "t": "p",
+          "text": "The best description of how he wanted Facebook to work is a document he wrote at 27: the letter in the 2012 IPO filing, which he called \"The Hacker Way\". He explained why the company holds hackathons every few months, and said Timeline, chat and video all came out of them. He also made every new engineer go through a training program called Bootcamp, even managers whose main job was not to write code. Investors were reading a stock offering, and it told them to expect engineers to win arguments by building things.",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Since then, the big decisions have reached staff as written memos. There was the November 2022 layoff message, the March 2023 \"Year of Efficiency\" note, the January 2025 note on low performers, and a June 2025 memo naming the first 11 people in his new AI lab. Several were leaked or obtained by reporters soon after, so anything he writes to staff can end up in the news.",
+          "src": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He also takes questions directly from employees. In 2019 The Verge published two hours of leaked audio from two internal meetings in July of that year. Staff asked him how worried he was about being broken up and what the plan was against TikTok, and he answered in plain, unpolished language. __You learn more about a founder from the questions his own people dare to ask than from any keynote.__",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Would your team dare to ask you the hard question?"
+        },
+        {
+          "t": "p",
+          "text": "Debate inside can get rough. In 2016 a senior executive, Andrew Bosworth, posted an internal memo called \"The Ugly\" arguing that \"all the work we do in growth is justified\", even if people died because of what happened on the platform. When it leaked in 2018, Bosworth said he had written it to provoke debate and did not agree with it. Mark called him a \"talented leader who says many provocative things\", and called the memo something \"that most people at Facebook including myself disagreed with strongly\".",
+          "src": [
+            11
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Flatter is faster"
+        },
+        {
+          "t": "p",
+          "text": "In March 2023, after laying off thousands, Mark set out a rule for how the company should be shaped. He removed several layers of management and asked many managers to go back to hands-on work. He also said no manager should have more than 10 direct reports, since many had only a few. His reasoning fits in one sentence: \"every layer of a hierarchy adds latency and risk aversion in information flow and decision-making.\"",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "In retrospect, I underestimated the indirect costs of lower priority projects.",
+          "who": "Mark Zuckerberg, \"Update on Meta's Year of Efficiency\", March 2023",
+          "src": [
+            7
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Very important for first-time founders! Side projects cost more than their budget."
+        },
+        {
+          "t": "h",
+          "text": "How he hires"
+        },
+        {
+          "t": "p",
+          "text": "At Mobile World Congress in Barcelona in 2015, he gave his hiring test in one line. At the same event he said the most important thing is to keep your team as small as possible, and pointed out that Facebook served more than a billion people with fewer than 10,000 staff. He also warned the room that \"Facebook is not a company for everyone in the world.\"",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I will only hire someone to work directly for me if I would work for that person.",
+          "who": "Mark Zuckerberg, Mobile World Congress, 2015",
+          "src": [
+            12
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He told Sam Altman in 2016 that Facebook looks for raw talent and is willing to hand people jobs they have never done before. The early days could be brutal. Noah Kagan, who joined in 2005, later described what it was like in a public post: \"My boss was fired the day I started. My next boss was fired a month later. I got fired in 9 months.\" That is one former employee's memory, and he added the reason as he saw it: \"Mark was intense about keeping A players only.\"",
+          "src": [
+            13,
+            14
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Fired after nine months. Still telling the story nearly twenty years later."
+        },
+        {
+          "t": "p",
+          "text": "In 2025 the most powerful person at Meta became its top recruiter. Bloomberg reported he was frustrated by Meta's AI shortfalls and was meeting researchers at his own homes, aiming to build a team of about 50. Reports described a target list, and said he often sent the first message himself. He also rearranged the office so the new hires would sit close to him.",
+          "src": [
+            15,
+            9,
+            16
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Rivals noticed. Sam Altman said Meta had dangled $100 million signing bonuses at OpenAI staff. OpenAI's research chief, Mark Chen, wrote in a leaked memo: \"I feel a visceral feeling right now, as if someone has broken into our home and stolen something.\" Whether huge offers build a great team is still open. One critic quoted by Fortune asked what happens when someone quits after a week and whether they would have to return the bonus.",
+          "src": [
+            9
+          ]
+        },
+        {
+          "t": "h",
+          "text": "How he fires"
+        },
+        {
+          "t": "p",
+          "text": "In January 2025 he told staff to expect an \"intense year\" and said he had \"decided to raise the bar on performance management and move out low performers faster\". Meta planned to exit roughly ==5%== of its lowest performers and fill those roles again. Fortune noted the difference from earlier rounds: this one was about performance, not cost. The company promised what it called generous severance.",
+          "src": [
+            8
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Letting people go is part of the job. Doing it decently is too."
+        },
+        {
+          "t": "h",
+          "text": "How big calls get made"
+        },
+        {
+          "t": "p",
+          "text": "For everyday product choices, he says, the answer is to get out of the way. He told Altman that engineers were running tens of thousands of versions of Facebook at any moment, each shown to perhaps 10,000 or 100,000 people, with results compared to the normal version. The company could not move that fast, he said, \"if every change had to be approved by me\". His method is data and user feedback to pick the problem, then intuition to guess a solution, then a test.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "For the biggest choices, he decides, and he is hard to move. In 2012 Facebook was so weak on phones that its IPO filing warned it made no meaningful mobile revenue. Nicola Mendelsohn, Meta's global head of advertising, later told a story from that period. When product teams kept working on the desktop site, she said, he had no meetings with them for two weeks because nobody had mobile work to show him.",
+          "src": [
+            17,
+            18
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: mobile was about 25% of Facebook's revenue at the end of 2012 and about 50% at the end of 2013. In 2015, Fortune reported, mobile brought in more than $4 billion and 80% of advertising revenue, less than four years after that warning to investors.",
+          "src": [
+            17
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Silence can be a very loud instruction."
+        },
+        {
+          "t": "h",
+          "text": "What it is like to work for him"
+        },
+        {
+          "t": "p",
+          "text": "The people around him describe very different bosses. Mendelsohn called him \"bold\" and \"an extraordinary human being\", and said he is \"always right\", which is high praise and also a small warning. Brian Acton, the WhatsApp co-founder, walked away from about $850 million in unvested stock after disagreeing over how to make money from WhatsApp. Instagram's founders left in 2018 too, though Kevin Systrom told WSJ Magazine there were no \"philosophical misalignments\".",
+          "src": [
+            18,
+            19
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Some accounts are harsher. Yann LeCun, Meta's departing chief AI scientist, told the Financial Times that after the Llama 4 AI model's published test results were, in his words, \"fudged a little bit\", Mark \"basically lost confidence in everyone who was involved\" and sidelined the whole group. Former product manager Antonio Garcia Martinez wrote in his book that during a 2011 company lockdown Mark seemed \"aloof and disconnected\". These are one-sided accounts from people who left, so read them that way.",
+          "src": [
+            20,
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Taken together, the on-record stories point one way. You get real freedom on small things: you can test an idea on 100,000 people without his approval. On the few things he cares about most, he decides, and he holds the votes to make it stick. __Founders often copy the speed and forget that it depends on hiring people who need no managing.__",
+          "src": [
+            13,
+            3
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Great place to learn. Hard place to win an argument about the big calls."
+        }
+      ]
+    },
+    {
+      "id": "mindset",
+      "kicker": "What he believes",
+      "title": "Eight Beliefs, Eight Stories",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mark rarely explains his beliefs in the abstract. He tells stories, usually about something that hurt. Here are eight ideas he keeps returning to, each with the moment that shows it in real life. Some of them made him rich. A couple of them also landed him in court.",
+          "src": [
+            22,
+            13
+          ]
+        },
+        {
+          "t": "h",
+          "text": "1. Start with the problem, not the company"
+        },
+        {
+          "t": "p",
+          "text": "On the night he launched the first version of Facebook, he went for pizza at Noch's with his friend KX Jin. He remembers saying that someone would one day connect the whole world. \"The thing is, it never even occurred to me that someone might be us,\" he said at Harvard in 2017. He assumed one of the big technology companies would do it.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "So when young founders ask for advice, he tells them to do it in that order. He told Sam Altman it feels \"really backwards\" that people decide to start a company before deciding what they want to do. He even told Peter Thiel, Facebook's first outside investor, that he and Dustin Moskovitz planned to go back to school. They took one semester off, then another, and never returned.",
+          "src": [
+            13,
+            23
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "The most important thing that entrepreneurs should do is pick something they care about, work on it, but don't actually commit to turning it into a company until it actually works.",
+          "who": "Mark Zuckerberg, to Sam Altman, 2016",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice if you have a pitch deck but no product."
+        },
+        {
+          "t": "h",
+          "text": "2. Say the mission out loud"
+        },
+        {
+          "t": "p",
+          "text": "When Yahoo offered ==$1 billion== in 2006, Mark did not want to sell. Nearly everyone else did. An advisor told him that if he refused he would regret it for the rest of his life. He refused, and within about a year every person on the management team had gone.",
+          "src": [
+            22,
+            13
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I believed in what we were doing, but I felt alone. And worse, it was my fault.",
+          "who": "Mark Zuckerberg, Harvard Commencement, 2017",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Why his fault? He told Altman that turning down the money was not the painful part. __The painful part was that he had never explained the mission, so people who joined expecting a big payday had every right to be angry.__ He was 22, and he wondered whether he was \"an imposter\". The lesson he took is that purpose has to be said out loud, because nobody can read it off your face.",
+          "src": [
+            13,
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In that same rough patch he took some odd advice. In 2015, with Prime Minister Narendra Modi beside him on stage, he said Steve Jobs had told him to visit a temple in India that Jobs himself had gone to early in Apple's life. Mark went, and spent almost a month travelling around the country. He said seeing how people connected there reinforced why the work mattered.",
+          "src": [
+            24
+          ]
+        },
+        {
+          "t": "p",
+          "text": "By the IPO he had turned this idea into a one-line creed. His 2012 letter told investors that the company did not wake up each morning with making money as its main goal. Readers can judge for themselves how that promise has held up, and our chapter on what went wrong gives you the evidence. Still, the line tells you how he wants to be understood.",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Simply put: we don't build services to make money; we make money to build better services.",
+          "who": "Mark Zuckerberg, letter to investors, 2012",
+          "src": [
+            5
+          ]
+        },
+        {
+          "t": "h",
+          "text": "3. Shipping beats arguing"
+        },
+        {
+          "t": "p",
+          "text": "The 2012 letter says Facebook had \"Done is better than perfect\" painted on its walls. It describes a mantra you would hear around the offices, \"Code wins arguments\", which meant that instead of debating for days you built a prototype and looked at it. The point was that the best idea should win, not the person who lobbies best or manages the most people. Five years later he gave students the same idea in plainer words.",
+          "src": [
+            5,
+            22
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started.",
+          "who": "Mark Zuckerberg, Harvard Commencement, 2017",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "p",
+          "text": "But he changed the most famous line of all. The letter said: \"Move fast and break things.\" In April 2014 he stood on stage at the F8 developer conference and joked that the motto was now \"Move Fast With Stable Infra\", meaning stable infrastructure. He also promised outside developers a two-year guarantee that core tools would not break without warning. __A rule that helps at 10 people can hurt thousands of developers who rely on you.__",
+          "src": [
+            5,
+            25
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Your rules should change when your company size changes."
+        },
+        {
+          "t": "h",
+          "text": "4. A company is a learning machine"
+        },
+        {
+          "t": "p",
+          "text": "Altman asked him how Facebook keeps innovating. His answer: \"companies are learning organisms and you can make decisions that either make it so that you learn faster or you learn slower.\" He compares building a company to the scientific method, where you try hypotheses and let the experiments teach you. Even News Feed was less of a leap than it looked, he said. People were already clicking through hundreds of profiles to see what had changed, so the product just saved them the clicks.",
+          "src": [
+            13
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He is honest about when this breaks. He said Facebook paid a lot for Oculus partly because it had not built that expertise inside earlier. Big dramatic moves, in his view, are often a sign that you stopped learning a few years ago. Yet he also says it is better to make the big move than to let pride stop you.",
+          "src": [
+            13,
+            23
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "I actually think when you do things well, you shouldn't have to do big crazy things.",
+          "who": "Mark Zuckerberg, to Sam Altman, 2016",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "h",
+          "text": "5. Not taking risks is the real risk"
+        },
+        {
+          "t": "p",
+          "text": "Altman asked him for the best advice Peter Thiel ever gave him, and the answer is below. A version of it also appears in his IPO letter as a company saying: \"The riskiest thing is to take no risks.\" He wrote that the company encourages bold decisions \"even if that means being wrong some of the time.\"",
+          "src": [
+            23,
+            5
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "In a world that's changing so quickly, the biggest risk you can take is not taking any risk.",
+          "who": "Mark Zuckerberg, recalling Peter Thiel's advice, 2016",
+          "src": [
+            23
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He has lived by it at a scale that scares people. Reality Labs, the virtual reality unit, lost $10.2 billion in 2021 and $13.72 billion in 2022, and he renamed the whole company for that bet. Asked in 2024 whether he regretted the name, he said only: \"Meta is a good name.\" Then he made an even bigger bet on AI.",
+          "src": [
+            26,
+            27,
+            28,
+            4
+          ]
+        },
+        {
+          "t": "note",
+          "text": "He can bet like this because no one can outvote him. You can't."
+        },
+        {
+          "t": "h",
+          "text": "6. Treat competition like war"
+        },
+        {
+          "t": "p",
+          "text": "Former Facebook product manager Antonio Garcia Martinez has described the day Google+ launched in 2011. He says it set off a \"lockdown\", which his book calls a \"state of war that dated to Facebook's earliest days\", during which nobody could leave the building. Mark finished his speech with a Latin line from ancient Rome: \"Carthago delenda est\", meaning Carthage must be destroyed. That is one man's account, but Mark's love of Roman history is well known.",
+          "src": [
+            21,
+            29
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The same instinct drove his deals. Emails shown at the FTC trial in 2025 had him agreeing, in 2012, that buying Instagram might help \"neutralise a competitor\". He told the court the deal was also meant to improve Facebook's quality. And in one line from those emails he said he wanted to use acquisitions to protect the business.",
+          "src": [
+            30,
+            31
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "use M&A to build a competitive moat around us on mobile and ads",
+          "who": "Mark Zuckerberg, email shown at the FTC trial, as reported by the Financial Times",
+          "src": [
+            30
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He ended up winning that case, as you will read later. But note how he thinks: he told the court Instagram \"was better, so I thought it was better to buy them.\" Most founders try hard not to admit a rival is better. He admits it and then acts.",
+          "src": [
+            32,
+            33
+          ]
+        },
+        {
+          "t": "h",
+          "text": "7. Keep the votes"
+        },
+        {
+          "t": "p",
+          "text": "Asked in a 2019 internal meeting about Senator Elizabeth Warren's plan to break up Facebook, he bet that a legal challenge would follow and that Facebook would win it. He said the fight would still \"suck\" for the company, and he did not want a major lawsuit against his own government. Then came the line reporters quoted for years.",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "But look, at the end of the day, if someone's going to try to threaten something that existential, you go to the mat and you fight.",
+          "who": "Mark Zuckerberg, leaked internal Q&A, July 2019",
+          "src": [
+            10
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His control is the reason he can talk this way. As of October 2026 he held about 13.4% of Meta's economic value but 60.6% of the votes. A filing that month says a special board committee first proposed a date when his extra voting power would end, and he would not accept it. __Control let him bet billions on ideas that outsiders mocked. It also means nobody inside can stop him when he is wrong.__",
+          "src": [
+            34
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Whistleblower Frances Haugen put that downside bluntly to US senators in 2021. \"In the end, the buck stops with Mark,\" she said. \"There is no one currently holding Mark accountable but himself.\"",
+          "src": [
+            35
+          ]
+        },
+        {
+          "t": "h",
+          "text": "8. Luck is real"
+        },
+        {
+          "t": "p",
+          "text": "This may be the belief that readers in India should hold on to most. In the same Harvard speech he reminded students that Facebook was not the first thing he built. He had also made games, chat systems, study tools and music players. And he said what many rich founders never say: that he could afford to fail.",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "If I had to support my family growing up instead of having time to code, if I didn't know I'd be fine if Facebook didn't work out, I wouldn't be standing here today.",
+          "who": "Mark Zuckerberg, Harvard Commencement, 2017",
+          "src": [
+            22
+          ]
+        },
+        {
+          "t": "note",
+          "text": "If you don't have that cushion, build yours first. No shame in it."
+        }
+      ]
+    },
+    {
+      "id": "personal-life",
+      "kicker": "The person",
+      "title": "Priscilla, a Ranch and a Pledge",
+      "blocks": [
+        {
+          "t": "h",
+          "text": "A line for the bathroom"
+        },
+        {
+          "t": "p",
+          "text": "He met Priscilla Chan in 2003 at what his friends thought was his going-away party. He had just launched his prank site Facemash, and everyone assumed Harvard's disciplinary board would expel him. His parents came to help him pack. Waiting in line for the bathroom he told her: \"I'm going to get kicked out in three days, so we need to go on a date quickly.\"",
+          "src": [
+            22,
+            36
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He wasn't kicked out, and they started dating. When a Hollywood film in 2010 showed him building Facebook to win over a girl, he corrected it in public: \"I've been dating the same girl since before Facebook.\" She became a doctor. At Harvard he called her \"the most important person in my life\".",
+          "src": [
+            37,
+            22,
+            38
+          ]
+        },
+        {
+          "t": "p",
+          "text": "To please her family he took on a hard project. So many of Priscilla's relatives speak only Mandarin that he began studying the language in 2010. His reward came when her grandmother was delighted to hear him ask, in Chinese, for her blessing to marry.",
+          "src": [
+            39
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: on 19 May 2012, the day after Facebook's stock began trading, fewer than 100 guests arrived at his home for what they thought was a party for Priscilla's medical school graduation. Once there, they learned it was a wedding. A guest said the timing with the IPO was largely a coincidence, because the IPO date kept moving and the wedding had been planned for months around her graduation.",
+          "src": [
+            38
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The loss they chose to talk about"
+        },
+        {
+          "t": "p",
+          "text": "In July 2015 he used a Facebook post to announce that they were expecting a daughter. In the same post he said they had been through three miscarriages over the past two years. It was very unusual for a man in his position to say this at all. He said he was sharing it because friends who had been through the same thing had given them hope.",
+          "src": [
+            40
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "It's a lonely experience. Most people don't discuss miscarriages because you worry your problems will distance you or reflect upon you -- as if you're defective or did something to cause this.",
+          "who": "Mark Zuckerberg, Facebook post, July 2015",
+          "src": [
+            40
+          ]
+        },
+        {
+          "t": "p",
+          "text": "That November he announced he would take two months of paternity leave, writing that \"outcomes are better for children and families\" when working parents spend time with newborns. He called the choice \"very personal\". Facebook offered its US staff up to four months of paid leave for new parents. The couple now have three daughters, and he has shared only what he and Priscilla choose to share.",
+          "src": [
+            41,
+            0
+          ]
+        },
+        {
+          "t": "note",
+          "text": "The boss took the leave himself. That tells staff the policy is real."
+        },
+        {
+          "t": "h",
+          "text": "The fighter"
+        },
+        {
+          "t": "p",
+          "text": "His training turned serious in his late thirties. In May 2023 he entered his first jiu-jitsu tournament and won a gold and a silver medal. That November he tore a knee ligament, his ACL, while sparring for a competitive MMA fight, and posted hospital photos on Instagram with Priscilla by his side. A much-hyped cage match with Elon Musk never happened. He ended it on Threads: \"we can all agree Elon isn't serious and it's time to move on.\"",
+          "src": [
+            42
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A new challenge every year"
+        },
+        {
+          "t": "p",
+          "text": "For about a decade starting in 2009, he set himself a yearly personal challenge to \"learn something about the world beyond my work at Facebook\". They ranged from sweet to odd. He has listed running 365 miles and reading 25 books among them, and one year he vowed to eat only meat he had killed himself. The list changed tone when the company's troubles took over his own New Year's resolution.",
+          "src": [
+            43,
+            44
+          ]
+        },
+        {
+          "t": "timeline",
+          "items": [
+            {
+              "when": "2010",
+              "text": "Learn Mandarin.",
+              "src": [
+                44
+              ]
+            },
+            {
+              "when": "2016",
+              "text": "Build a simple home AI, \"kind of like Jarvis in Iron Man\".",
+              "src": [
+                44
+              ]
+            },
+            {
+              "when": "2017",
+              "text": "Meet people in every US state.",
+              "src": [
+                44
+              ]
+            },
+            {
+              "when": "2018",
+              "text": "The challenge turns to fixing Facebook itself.",
+              "src": [
+                45
+              ]
+            },
+            {
+              "when": "2019",
+              "text": "Host public debates on technology; there were six, and just one was truly public.",
+              "src": [
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Giving it away: the $100 million lesson"
+        },
+        {
+          "t": "p",
+          "text": "His first giant gift went wrong in public. In 2010, aged 26, he went on The Oprah Winfrey Show beside New Jersey's governor and Newark's mayor to pledge ==$100 million== for Newark's failing schools. Other donors matched it. Five years later Fortune summed it up: the schools were still struggling and the $200 million was gone.",
+          "src": [
+            46,
+            47
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Journalist Dale Russakoff spent over four years on a book about it, called The Prize. She said the plan was sold like a startup, a \"proof point\" to scale nationally. She said he did not do the due diligence she would have expected, and had not realised that the teacher seniority rules he wanted changed were written into state law. __Money and a confident plan could not fix a problem the planners had not studied up close.__",
+          "src": [
+            46,
+            47
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Even a genius is a beginner outside his own field."
+        },
+        {
+          "t": "h",
+          "text": "The 99% pledge"
+        },
+        {
+          "t": "p",
+          "text": "When their first daughter, Max, was born in December 2015, the couple published a letter to her and pledged ==99%== of their Facebook shares, then worth about $45 billion, during their lifetimes. The first wave of praise turned to questions when reporters saw that the money would go through the Chan Zuckerberg Initiative, a limited liability company, rather than a charity. Critics asked whether this kept control and tax advantages with them.",
+          "src": [
+            48,
+            49
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He answered within days. By \"using an LLC instead of a traditional foundation, we receive no tax benefit\", he wrote, adding that a foundation would have given them an immediate tax benefit and that the LLC gave them \"flexibility\". The extra freedom was real: as experts told NPR, an LLC can fund political advocacy and for-profit companies, which a foundation cannot do so easily. The letter itself said, \"We must participate in policy and advocacy to shape debates.\"",
+          "src": [
+            48,
+            49
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In November 2025 they changed direction. Biohub, the science arm, became the main focus, with AI and biology aimed at detecting, preventing and curing disease, and it took over the AI lab EvolutionaryScale. The shift came with costs for others. AFP, citing media reports, said the initiative had stopped funding a primary school that gave education and health care to underserved children.",
+          "src": [
+            50,
+            51
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Giving money away well is a skill. They are still learning it."
+        },
+        {
+          "t": "h",
+          "text": "How he spends"
+        },
+        {
+          "t": "p",
+          "text": "On paper he is Meta's cheapest employee. He asked for just ==$1== a year in salary and receives no bonus or stock awards, according to the company's 2026 filing. His 2023 \"other compensation\" was still $24.4 million, much of it to keep him safe, including about $9.4 million for personal security, plus nearly $1 million for personal use of private planes. Meta's own explanation is striking: \"He is synonymous with Meta and, as a result, negative sentiment regarding our company is directly associated with, and often transferred to, Mr. Zuckerberg.\"",
+          "src": [
+            52,
+            53
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The rest of his spending has become part of his public image. On the Hawaiian island of Kauai he has a ranch of about 1,500 acres where he raises wagyu and angus cattle fed on macadamia meal and home-brewed beer. \"Of all my projects, this is the most delicious,\" he wrote. In August 2024 he shared a seven-foot statue of Priscilla by the artist Daniel Arsham, saying he was \"bringing back the Roman tradition of making sculptures of your wife.\"",
+          "src": [
+            29,
+            54
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kauai was also a real misstep. He came under fire for lawsuits that pressured Native Hawaiians over ancestral land. In 2017 he apologised in the local newspaper and promised to drop them.",
+          "src": [
+            54,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-brand",
+      "kicker": "The image",
+      "title": "From Hoodie to Gold Chain",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mark has had three public images. First came the awkward kid in a hoodie, then the sorry man in a suit, then the fighter with curls and a gold chain who says he is done apologising. All three were shaped by things he did on purpose, and by a film he never asked for.",
+          "src": [
+            37,
+            55,
+            28
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The film he could not control"
+        },
+        {
+          "t": "p",
+          "text": "The Social Network came out in 2010 and showed him as an awkward, brilliant nerd who screwed over his friends. That October, at Startup School at Stanford, he was asked about the old days. \"A movie just came out that is 100 percent accurate,\" he joked. He said it got a lot wrong and a few random details right, including every shirt and fleece the actor wore.",
+          "src": [
+            37
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "can't wrap their head around the idea that someone might build something because they like building things.",
+          "who": "Mark Zuckerberg on the filmmakers, Startup School, October 2010",
+          "src": [
+            37
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Humour is a great answer when you can't change the story."
+        },
+        {
+          "t": "h",
+          "text": "The man in the suit"
+        },
+        {
+          "t": "p",
+          "text": "In April 2018, aged 33, he testified for about five hours before US senators over Cambridge Analytica. He swapped the gray T-shirt for a suit, and Al Jazeera's reporter called it \"a solid performance\". He took all the blame himself. One analyst quoted by Al Jazeera said what the hearing really showed was that \"the US Senate does not understand technology very well\".",
+          "src": [
+            55
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "We didn't take a broad enough view of our responsibility, and that was a big mistake. And it was my mistake, and I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here.",
+          "who": "Mark Zuckerberg, US Senate, April 2018",
+          "src": [
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "His most painful public moment came on 31 January 2024. In a Senate hearing on child safety, parents held up photographs of children they had lost. Senator Josh Hawley pressed him: \"There's families of victims here. Would you like to apologize to them?\" He stood, turned away from the senators and faced them directly: \"I'm sorry for everything you have all been through.\"",
+          "src": [
+            56
+          ]
+        },
+        {
+          "t": "h",
+          "text": "\"I'm done apologising\""
+        },
+        {
+          "t": "p",
+          "text": "In September 2024 thousands of people filled the home arena of the Golden State Warriors to watch him at a live podcast. He wore a T-shirt he had designed himself that read \"learning through suffering\" in Greek letters. He joked that he was done apologising. Then he named his biggest career mistake, and it was the opposite of what people expected.",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He called it a political miscalculation and a \"20-year mistake\": he had taken too much responsibility for problems he says were not his fault. \"Some of the things they were asserting that we were doing or were responsible for, I don't actually think we were,\" he said. __Reasonable people disagree on whether that is honesty or a convenient rewrite, given the court cases coming in the next two years.__",
+          "src": [
+            28
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The look changed with the message: bouncy curls, a gold chain, boxy designer T-shirts. In July 2024 he called Donald Trump a \"badass\" after the assassination attempt, while stopping short of an endorsement. In January 2025 he told Joe Rogan that a lot of the corporate world had become \"culturally neutered\" and that it needed more \"masculine energy\". Fortune's response was a simple statistic: men run 89% of Fortune 500 companies.",
+          "src": [
+            28,
+            57,
+            58
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Notice how often he now picks friendly podcasts over tough interviews."
+        },
+        {
+          "t": "h",
+          "text": "How he talks to the world"
+        },
+        {
+          "t": "p",
+          "text": "He prefers his own channels. He announced the miscarriages and the paternity leave on Facebook, and his ACL surgery, his cattle and the statue on Instagram. The end of fact-checking came as a video, and his reply to Musk came on Threads. The interviews he picks, with Rogan, Theo Von, the Acquired hosts and John Collison, tend to be long, relaxed conversations.",
+          "src": [
+            40,
+            41,
+            42,
+            54,
+            29,
+            8,
+            57,
+            3,
+            28,
+            0
+          ]
+        },
+        {
+          "t": "h",
+          "text": "China: thirty minutes in bad Mandarin"
+        },
+        {
+          "t": "p",
+          "text": "On a visit to Tsinghua University in Beijing in October 2014 he took the microphone and said \"Da jia hao!\", hello everyone. The audience gasped and clapped, and he went on to answer questions for about 30 minutes entirely in Mandarin. NPR's verdict was kind and honest: his tones were all off and he opened by admitting his Mandarin was lousy, but people understood him. Foreign Policy called it terrible, and also impressive and brave.",
+          "src": [
+            39,
+            59
+          ]
+        },
+        {
+          "t": "h",
+          "text": "India: love, then a fight, then an apology"
+        },
+        {
+          "t": "p",
+          "text": "India holds a special place in his story, and he says so. On stage with Prime Minister Modi at Facebook's headquarters in September 2015 he told the temple story and said: \"India is very important to the history of our company.\" Three months later that warmth met its first real test.",
+          "src": [
+            24
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In December 2015 he took Free Basics, a free but limited internet service, straight to Indian readers in a Times of India article under the headline \"Free Basics protects net neutrality\". He wrote that India \"must choose facts over fiction\" and asked, \"Who could possibly be against this?\" A lot of Indians could, as it turned out. Net neutrality activists fought back, and in February 2016 India's regulator ruled against the idea.",
+          "src": [
+            60,
+            61,
+            62
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Read this twice. A big market can still say no to you."
+        },
+        {
+          "t": "p",
+          "text": "Ten years on, the relationship had moved to weddings and joint ventures. In March 2024 he and Priscilla were among the guests at the Ambani family's lavish pre-wedding party in Jamnagar. In August 2025 Reliance announced a joint venture with Meta to sell AI tools to Indian businesses using Meta's Llama models, with ==Rs 855 crore== of initial investment and Reliance holding 70%.",
+          "src": [
+            63,
+            64
+          ]
+        },
+        {
+          "t": "p",
+          "text": "India also caught him making a careless remark. On Rogan's podcast in January 2025 he said that in 2024's elections around the world \"the incumbents basically lost every single one\", and he named India. Nishikant Dubey, the MP who chairs Parliament's IT committee, said the panel would summon Meta, and a minister called the claim factually incorrect. Meta India's Shivnath Thukral apologised on the company's behalf for \"this inadvertent error\", and Dubey called it a \"win for 140 crore Indians\".",
+          "src": [
+            65,
+            66
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What people actually think"
+        },
+        {
+          "t": "p",
+          "text": "After 20 years of this, how does it look? In the US, not good. A Pew Research survey of 5,086 adults in early 2025 found that two-thirds of Americans view him unfavourably. That is more than Elon Musk's 54%, and unlike Musk, he is disliked by majorities in both parties. Only 2% said they view him \"very favorably\".",
+          "src": [
+            67
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "2 in 3",
+              "label": "Americans view him unfavourably (Pew, 2025)",
+              "src": [
+                67
+              ]
+            },
+            {
+              "value": "54%",
+              "label": "view Elon Musk unfavourably (same poll)",
+              "src": [
+                67
+              ]
+            },
+            {
+              "value": "About 1 in 4",
+              "label": "view him favourably",
+              "src": [
+                67
+              ]
+            },
+            {
+              "value": "6%",
+              "label": "have never heard of him",
+              "src": [
+                67
+              ]
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Meta has acknowledged the problem in its own filings, in the line about negative sentiment being \"transferred\" to him that justifies his security bill. A 2020 Fortune/SurveyMonkey poll had already found he was the only Big Tech chief with a net negative rating among Americans. __When a founder's name and company are one and the same, every scandal lands on him personally.__",
+          "src": [
+            53,
+            68
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-went-wrong",
+      "kicker": "The hard chapter",
+      "title": "What Not to Copy",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Much of what follows is serious, and some of it involves real harm to real people. We have tried to say exactly what was proved, what was settled and what is still under appeal. Mark and Meta dispute much of it, and we say that too. Read this as the most expensive business education you will ever get for free.",
+          "src": [
+            69,
+            33
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The wrong bet on phones"
+        },
+        {
+          "t": "p",
+          "text": "For about two years Facebook tried to build its mobile apps with HTML5, a web technology, instead of writing proper apps for each phone. The apps could not reach the quality people expected. In September 2012 he stood up at TechCrunch Disrupt and called it \"one of the biggest mistakes if not the biggest strategic mistakes we've ever made\". He then fixed it, and as you read earlier, mobile became 80% of advertising revenue by 2015.",
+          "src": [
+            70,
+            71,
+            17
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Copy this one: say it plainly, then change course fast."
+        },
+        {
+          "t": "h",
+          "text": "\"A pretty crazy idea\""
+        },
+        {
+          "t": "p",
+          "text": "Two days after the 2016 US election he told a conference that the notion of fake news on Facebook swaying the vote was \"a pretty crazy idea\". Investigations into Russian operations made the remark look badly judged. Ten months later he took it back: \"Calling that crazy was dismissive and I regret it.\" By April 2018 he was telling the Senate that \"One of my greatest regrets in running the company is that we were slow in identifying the Russian information operations in 2016.\"",
+          "src": [
+            72,
+            73,
+            55
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Myanmar"
+        },
+        {
+          "t": "p",
+          "text": "This is the most serious chapter in Facebook's history. In March 2018, UN investigators said social media had played a \"determining role\" in the crisis in Myanmar, where hundreds of thousands of Rohingya Muslims fled military violence. A report that Facebook itself commissioned, from the nonprofit Business for Social Responsibility, found the platform had been used to spread hate tied to offline violence. The company's response was written by a product policy manager: \"prior to this year, we weren't doing enough to help prevent our platform from being used to foment division and incite offline violence.\"",
+          "src": [
+            74
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Launching in a new country means you are responsible there too."
+        },
+        {
+          "t": "h",
+          "text": "Cambridge Analytica and the $5 billion question"
+        },
+        {
+          "t": "p",
+          "text": "In 2018 it emerged that data on about 87 million people had ended up with a political consulting firm. The detail to remember is how small the original mistake was. Facebook heard back from the firm that it was not using the data and had deleted it. He told senators, \"we considered it a closed case. In retrospect, that was clearly a mistake. We shouldn't have taken their word for it.\"",
+          "src": [
+            55
+          ]
+        },
+        {
+          "t": "p",
+          "text": "The bill took years to arrive. The FTC fined Facebook $5 billion, saying it had broken its earlier privacy agreement. Shareholders then sued him and other directors in Delaware for more than $8 billion, alleging that the deal shielded him personally. A former director testified the company did not pay to protect him, and the case settled just before the second day of trial in July 2025, on undisclosed terms and with no ruling on who was at fault. __One law professor said what was lost: a full public account of how it happened.__",
+          "src": [
+            75
+          ]
+        },
+        {
+          "t": "p",
+          "text": "It was not over even then. In late September 2026 a New Mexico jury found that Facebook had broken state law almost 44 million times with misleading statements. One category covered its commitment to investigate thoroughly after Cambridge Analytica. In 2018 he had told senators, \"We're investigating every single app that had access to a large amount of information in the past.\" We cannot say that exact sentence was one of those counted, but it shows why promises made in a crisis matter.",
+          "src": [
+            69,
+            55
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$5B",
+              "label": "FTC penalty after Cambridge Analytica",
+              "src": [
+                75
+              ]
+            },
+            {
+              "value": "$1.4B",
+              "label": "Texas biometric data settlement, 2024",
+              "src": [
+                76
+              ]
+            },
+            {
+              "value": "$650M",
+              "label": "Illinois face-recognition settlement, 2021",
+              "src": [
+                76
+              ]
+            },
+            {
+              "value": "$25B",
+              "label": "New Mexico penalty, Oct 2026 (Meta appealing)",
+              "src": [
+                69,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Children and teenagers"
+        },
+        {
+          "t": "p",
+          "text": "This is the case that could define his legacy. In 2021 Frances Haugen, a former product manager, told senators that Facebook's products harmed children and that the company put too few people on safety. He replied the same day that the claims did not reflect \"the company we know\" and that \"We care deeply about issues like safety, well-being and mental health.\" In a video deposition shown in court in 2026 he rejected the word \"addictive\": \"That's not what we're trying to do with the products, and it's not how I think they work.\"",
+          "src": [
+            77,
+            78
+          ]
+        },
+        {
+          "t": "p",
+          "text": "But he also conceded something in that deposition. He said Meta had once set goals for employees to increase the time teenagers spent on its platforms: \"Yes, I think we focused on time spent as one of the major engagement goals.\" He said that from about 2017 on it had moved to other measures. He was also asked about his choice to lift a temporary ban on Instagram cosmetic filters, and said he had not found clear evidence they were harmful.",
+          "src": [
+            78
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Then the juries began to speak. On 24 March 2026 a New Mexico jury found that Meta had violated consumer protection law, and ordered it to pay $375 million. The next day a Los Angeles jury found Meta and YouTube negligent in a case brought by one young woman and awarded $6 million in total, with Meta holding 70% of the responsibility. Meta said it disagreed and would appeal both.",
+          "src": [
+            79,
+            80
+          ]
+        },
+        {
+          "t": "p",
+          "text": "In August 2026 Meta agreed a deal with state attorneys general worth up to about $18.59 billion, part of it dependent on other companies adopting similar protections. It took a $9.89 billion charge for the deal in a single quarter. On 21 October 2026 Judge Francis Mathew ordered the separate $25 billion New Mexico penalty, writing about \"the involvement of senior Facebook leadership\" and \"the clearly intentional and systematic nature\" of the misstatements. It carries 15% yearly interest until paid, and Meta says it will appeal, so this is not final.",
+          "src": [
+            81,
+            4,
+            69
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Choose your metric carefully. Teams will chase whatever number you set."
+        },
+        {
+          "t": "h",
+          "text": "Old emails"
+        },
+        {
+          "t": "p",
+          "text": "In the FTC's case to force him to sell Instagram and WhatsApp, his own messages from 2012 were among the most uncomfortable evidence. Before the trial, a person familiar with the talks told the Financial Times, the FTC had demanded $30 billion to settle, and Meta offered $450 million and then $1 billion. The two sides went to court. He spent three days on the stand in April 2025.",
+          "src": [
+            30
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He won. On 18 November 2025 Judge James Boasberg ruled that the FTC had not proved Meta holds a monopoly today, because TikTok and YouTube now compete for the same attention. The FTC filed an appeal in January 2026, so the last word has not been written. __The emails looked terrible, but the law asks what the market looks like now, not what a founder was thinking years ago.__",
+          "src": [
+            33,
+            81,
+            30
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Winning in court does not erase what your emails say about you."
+        },
+        {
+          "t": "h",
+          "text": "The metaverse timing and the layoffs"
+        },
+        {
+          "t": "p",
+          "text": "He renamed the company in 2021 and went all in. In November 2022 he laid off more than 11,000 people and wrote that he had expected the pandemic online boom to last. It did not. \"I got this wrong, and I take responsibility for that.\" In October 2026 Meta said it expects Reality Labs to still lose around $15 billion next year, with investment shifting toward AI.",
+          "src": [
+            6,
+            4
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A very sudden change of heart"
+        },
+        {
+          "t": "p",
+          "text": "Facebook suspended Donald Trump's accounts after the 6 January 2021 attack on the Capitol. Trump sued, accused Mark of election interference and threatened him with life in prison. After the 2024 election Mark visited Mar-a-Lago, Meta gave $1 million to the inauguration fund, and on 7 January 2025 he ended US fact-checking, saying fact-checkers had \"destroyed more trust than they've created\". Later that month Meta agreed to pay $25 million to settle Trump's suit, $22 million of it for his presidential library.",
+          "src": [
+            82,
+            83
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He calls this getting back to free expression, and says he regrets not being more outspoken about government pressure during Covid. Dartmouth political scientist Brendan Nyhan called the wider trend \"performative fealty\". Both views can be held at once. Founders should know the price: when your values appear to shift with each election, nobody on either side trusts you, which fits what Pew found.",
+          "src": [
+            82,
+            28,
+            67
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Politics changes every four years. Your reputation has to outlast that."
+        },
+        {
+          "t": "h",
+          "text": "Handling critics"
+        },
+        {
+          "t": "p",
+          "text": "In November 2018 the New York Times reported that Facebook had hired a Republican-linked research firm, Definers, that sought to tie critics to financier George Soros. Facebook cut ties with the firm that day. He said on a press call that he only learned of the hiring from the newspaper, and many people found that hard to believe. The company also rejected parts of the story.",
+          "src": [
+            84
+          ]
+        },
+        {
+          "t": "h",
+          "text": "What a young founder should NOT copy"
+        },
+        {
+          "t": "p",
+          "text": "Do not copy the habit of fixing privacy problems only after they blow up. Each shortcut came back with interest, sometimes over a decade later. Do not copy the structure of no one-on-ones and total voting control until you have earned it, because it removes the people who could save you from yourself. Do not treat every rival as Carthage, since that same attitude is what government lawyers put in front of a judge.",
+          "src": [
+            75,
+            3,
+            30,
+            21
+          ]
+        },
+        {
+          "t": "p",
+          "text": "But do copy this: when he finally admits a mistake clearly, things tend to get better. \"I got this wrong\" in 2022 was followed by a strong recovery, with 2024 profit at $62.36 billion. __The founders who survive are not the ones who never make huge mistakes. They are the ones who can still say so out loud.__",
+          "src": [
+            6,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "kicker": "As of 2 November 2026",
+      "title": "Twenty-Two Years In, All In Again",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Mark Zuckerberg is 42 and still chairman and chief executive of the company he started in a dorm at 19. Forbes put his fortune at about ==$210.5 billion== on 29 October 2026, sixth in the world, and almost all of it is Meta stock. So it moves with the share price every day.",
+          "src": [
+            86,
+            67,
+            38,
+            23,
+            22,
+            34
+          ]
+        },
+        {
+          "t": "facts",
+          "items": [
+            {
+              "value": "$210.5B",
+              "label": "Forbes net worth, 29 Oct 2026 (#6)",
+              "src": [
+                86
+              ]
+            },
+            {
+              "value": "3.64B",
+              "label": "people using Meta apps daily, Q3 2026",
+              "src": [
+                4
+              ]
+            },
+            {
+              "value": "$64.6B",
+              "label": "Meta revenue, July–Sept 2026, up 26%",
+              "src": [
+                4
+              ]
+            },
+            {
+              "value": "$135–145B",
+              "label": "2026 capital spending plan",
+              "src": [
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "t": "h",
+          "text": "The bet: personal superintelligence"
+        },
+        {
+          "t": "p",
+          "text": "In July 2025 he published a letter saying AI superintelligence was \"now in sight\". He drew a line between Meta and rivals who, he said, want AI directed centrally \"towards automating all valuable work\". His pitch is a personal AI for each person, one that helps you achieve your goals and \"be a better friend to those you care about\". He also believes smart glasses will \"become our primary computing devices\".",
+          "src": [
+            87
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Muse, the personal AI agent, launched in 2026 and is the first real test of that pitch. In October he told analysts more than 10 million people in the US and Canada had set up accounts, and \"About 25% of people who have set up Muse use it on any given day.\" It costs a lot of computing power to run. He expects to cut that cost by more than 10 times within a year, \"which will enable it to be profitable once the revenue lines are at scale.\"",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "quote",
+          "text": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board.",
+          "who": "Mark Zuckerberg, Meta third-quarter results, 21 October 2026",
+          "src": [
+            4
+          ]
+        },
+        {
+          "t": "h",
+          "text": "A company being rebuilt around AI"
+        },
+        {
+          "t": "p",
+          "text": "He is also changing how the company itself works, and starting with his own job. On the January 2026 earnings call he said this would be the year AI starts \"to dramatically change the way\" Meta works, and that \"projects that used to require big teams now be accomplished by a single, very talented person.\" The Wall Street Journal reported in March that he was building an AI agent to help with his CEO duties, for now mostly to get information faster without going through layers. That report cited a person familiar with the project, and it is still in development.",
+          "src": [
+            88
+          ]
+        },
+        {
+          "t": "example",
+          "text": "For example: Meta had 66,775 employees on 30 September 2026, 15% fewer than a year before, after reported cuts of about 8,000 jobs that began in May. In the same period it planned to spend up to $145 billion on data centres and chips. The money is moving from people to computers.",
+          "src": [
+            4,
+            89
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Twenty-two years in, he is still trying to remove layers."
+        },
+        {
+          "t": "h",
+          "text": "Who he listens to now"
+        },
+        {
+          "t": "p",
+          "text": "His inner circle has changed along with his politics. He made Joel Kaplan, a Republican veteran, head of global policy, and put UFC chief Dana White on his board. The AP photographed him talking with President Trump outside the West Wing on 29 September 2026. Yann LeCun, his most famous scientist, has left to start his own company, and he predicted more people would go.",
+          "src": [
+            82,
+            4,
+            20
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Shareholders can show their views but cannot change the outcome. At the May 2026 annual meeting a proposal to report on tying executive pay to child safety improvements failed, while he himself was re-elected with about 4.65 billion votes for and 318 million against. Most of those votes are effectively his own, because of his super-voting shares.",
+          "src": [
+            90,
+            34
+          ]
+        },
+        {
+          "t": "h",
+          "text": "Locking in control"
+        },
+        {
+          "t": "p",
+          "text": "In October 2026 Meta announced a new type of share, Class C, with no votes. It lets the company raise money and pay staff in stock without weakening his majority. There will be no date on which his extra power ends. The filing's own phrase is that this allows him to \"maintain generational control\".",
+          "src": [
+            34,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Meanwhile California voters decide on 3 November 2026 on Proposition 40, a one-time 5% tax on billionaires. Fox Business, citing the Wall Street Journal, reported in February that he and Priscilla were buying a home in Florida, though the deal had not been confirmed as closed. The filing says 20% of his new Class C shares can be sold freely, partly so that he can pay the tax if it passes. By the time you read this, the outcome will be known.",
+          "src": [
+            91,
+            34
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Big question for every founder: how much control is too much?"
+        },
+        {
+          "t": "h",
+          "text": "What is still unsettled"
+        },
+        {
+          "t": "p",
+          "text": "Three questions remain open as this book goes out. Will the $25 billion New Mexico penalty and the other verdicts survive appeal? Will the FTC's appeal go anywhere? And will spending $135 billion to $145 billion a year on computing bring the payoff he promises?",
+          "src": [
+            69,
+            81,
+            4
+          ]
+        },
+        {
+          "t": "p",
+          "text": "He is also still pursuing a much longer goal outside the company. Through Biohub, he and Priscilla are betting that AI can help detect, prevent and cure disease. If that works, and if the glasses and agents work, he will have built the next era of computing as well as the last one. If not, he will have tied up one of the largest fortunes in history on a guess. __He has always said the bigger risk is not guessing at all.__",
+          "src": [
+            50,
+            23
+          ]
+        },
+        {
+          "t": "note",
+          "text": "Whatever happens next, nobody will be able to outvote him."
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Start before you feel ready.",
+      "text": "Mark told Harvard's 2017 graduates that if he had needed to understand everything about connecting people first, he would never have started Facebook. Ideas become clear only as you work on them. Pick the smallest version and begin this week."
+    },
+    {
+      "title": "Do not commit to \"a company\" too early.",
+      "text": "He told Peter Thiel in 2004 that he planned to go back to school, and he only formed a real company once people were already using the product. His advice is to pick something you care about and work on it until it works. A logo and a pitch deck can wait."
+    },
+    {
+      "title": "Say your mission out loud, early and often.",
+      "text": "When he refused Yahoo's $1 billion in 2006, the entire management team was gone within about a year, and he blamed himself for never explaining the goal. People cannot follow a mission that lives only in your head. Write it down in the first month."
+    },
+    {
+      "title": "Let working code settle the argument.",
+      "text": "\"Code wins arguments\" was a saying at Facebook because a prototype beats a debate. It also stops the loudest person in the room from winning. Next time your team argues for an hour, spend that hour building a test."
+    },
+    {
+      "title": "Test small, then decide.",
+      "text": "By 2016 Facebook was running tens of thousands of versions of itself at any moment, each shown to a slice of users. That let engineers learn without waiting for his approval. You can do the same with ten users and a free form."
+    },
+    {
+      "title": "Admit the wrong bet quickly.",
+      "text": "Two years on HTML5 nearly cost Facebook the phone era, and in 2012 he called it perhaps the biggest strategic mistake the company had made. Mobile went on to 80% of ad revenue by 2015. Early, plain admission is what made the turnaround possible."
+    },
+    {
+      "title": "Hire people you would work for.",
+      "text": "His 2015 rule is simple: he would only hire someone to work directly for him if he would happily work for that person. Apply it to your first three hires. If you would not take orders from them, keep looking."
+    },
+    {
+      "title": "Kill the side projects.",
+      "text": "In 2023, after two rounds of painful layoffs, he wrote that he had underestimated the indirect costs of lower-priority projects. Every small extra idea takes attention from your best people. List what you are doing, and stop the bottom third."
+    },
+    {
+      "title": "Remove the small decisions.",
+      "text": "The gray T-shirt was never about fashion. He said he wanted as few decisions as possible about anything except serving the community. Pick your uniform, your breakfast and your work hours once, then save your energy for what matters."
+    },
+    {
+      "title": "Protect your head first.",
+      "text": "He wakes up, reads bad news on his phone, then fights for two hours before dealing with any of it. You do not need a cage, but you do need something that forces your brain off the problem. Decisions made after that hour are better than decisions made in panic."
+    },
+    {
+      "title": "Never call a real worry crazy.",
+      "text": "In 2016 he dismissed the idea of fake news swaying an election as \"pretty crazy\"; ten months later he said that was dismissive and that he regretted it. Those two words became part of his public record. When people bring you a fear, investigate before you answer."
+    },
+    {
+      "title": "Verify, do not trust, when it is other people's data.",
+      "text": "Facebook took Cambridge Analytica's word that the data was deleted and treated it as a closed case. That shortcut was followed by a $5 billion penalty and years of court cases. If you hold anyone's data, check for yourself."
+    },
+    {
+      "title": "Choose your metric as if a jury will read it.",
+      "text": "In a deposition shown in court in 2026, he agreed Meta had once set goals around teens' time spent on its apps. Teams chase whatever number the founder sets, and later a court may ask why you set it. Ask what that number encourages your team to do to a 13-year-old."
+    },
+    {
+      "title": "Write every email as if a judge will read it.",
+      "text": "His 2012 line about using deals to build \"a competitive moat\" was read back to him in a federal court 13 years later. He won that case, but the words followed him for over a decade. Be honest in your messages, and be careful with them too."
+    },
+    {
+      "title": "Keep someone who can tell you no.",
+      "text": "He controls about 60.6% of Meta's votes, and one of his senior executives has called him \"always right\". A whistleblower told the US Senate that nobody holds him accountable but himself. When you build your company, make sure that at least one person can stop you."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Fortune, Alexa Mikhail, 'Mark Zuckerberg reveals the morning routine that's better than caffeine', 29 Apr 2025",
+      "url": "https://www.fortune.com/well/2025/04/29/mark-zuckerberg-morning-routine-caffeine"
+    },
+    {
+      "label": "Entrepreneur (from Business Insider), 'Mark Zuckerberg's Daily Routine', 27 Nov 2023",
+      "url": "https://www.entrepreneur.com/business-news/mark-zuckerbergs-daily-routine-meta-meetings-mma-money/465946"
+    },
+    {
+      "label": "Quartz, 'Why Mark Zuckerberg wears the same t-shirt every day', 7 Nov 2014",
+      "url": "https://qz.com/292993/why-mark-zuckerberg-wears-the-same-teeshirt-every-day"
+    },
+    {
+      "label": "Fortune, Beatrice Nolan, 'Mark Zuckerberg runs Meta by only managing a small group of 30', 9 May 2025",
+      "url": "https://fortune.com/2025/05/09/mark-zuckerberg-meta-managing-small-group-no-one-to-ones"
+    },
+    {
+      "label": "Associated Press via Click2Houston, 'Meta Q3 revenue tops estimates and Zuckerberg says Muse accounts have topped 10 million', 21 Oct 2026",
+      "url": "https://www.click2houston.com/business/2026/10/21/meta-q3-revenue-tops-estimates-and-zuckerberg-says-muse-accounts-have-topped-10-million/"
+    },
+    {
+      "label": "WIRED, full text of Mark Zuckerberg's IPO letter, 'The Hacker Way', 1 Feb 2012",
+      "url": "https://www.wired.com/2012/02/zuck-letter/"
+    },
+    {
+      "label": "Meta Newsroom, Mark Zuckerberg's message to employees on layoffs, 9 Nov 2022",
+      "url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/"
+    },
+    {
+      "label": "Meta Newsroom, Mark Zuckerberg, 'Update on Meta's Year of Efficiency', 14 Mar 2023",
+      "url": "https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency/"
+    },
+    {
+      "label": "Fortune, Beatrice Nolan, 'Mark Zuckerberg warns Meta staff of intense year', 15 Jan 2025",
+      "url": "https://fortune.com/2025/01/15/mark-zuckerberg-warns-meta-staff-of-intense-year-ahead-as-he-announces-low-performers-will-be-cut"
+    },
+    {
+      "label": "Fortune, Nino Paoli, 'Mark Zuckerberg has a literal list of AI all-stars', 1 July 2025",
+      "url": "https://fortune.com/2025/07/01/mark-zuckerberg-meta-superintelligence-lab-team-list-openai-edgar-perez"
+    },
+    {
+      "label": "The Verge, Casey Newton, transcript of leaked internal Facebook Q&As, 1 Oct 2019",
+      "url": "https://www.theverge.com/2019/10/1/20892354/mark-zuckerberg-full-transcript-leaked-facebook-meetings"
+    },
+    {
+      "label": "Associated Press via CBS Sacramento, 'Facebook Executive Disavows His Memo', 30 Mar 2018",
+      "url": "https://www.cbsnews.com/sacramento/news/facebook-exec-disavows-groth-memo"
+    },
+    {
+      "label": "Fortune, 'Here's the most important thing Mark Zuckerberg asks before hiring someone', 5 Mar 2015",
+      "url": "https://fortune.com/2015/03/05/zuckerberg-hiring"
+    },
+    {
+      "label": "Y Combinator, 'How to Build the Future: Mark Zuckerberg' with Sam Altman, 16 Aug 2016 (transcript on Rosetta)",
+      "url": "https://rosetta.to/u/ycombinator/mark-zuckerberg-how-to-build-the-future"
+    },
+    {
+      "label": "Benzinga, 'Facebook's Early Employee Shares Experience Of Working With Meta CEO', 20 May 2024",
+      "url": "https://www.benzinga.com/z/38913942"
+    },
+    {
+      "label": "Bloomberg, Kurt Wagner and Riley Griffin, 'Zuckerberg Is Personally Recruiting New Superintelligence AI Team', 10 June 2025",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-10/zuckerberg-recruits-new-superintelligence-ai-group-at-meta"
+    },
+    {
+      "label": "TechRepublic, 'Meta's $100M Job Offers: How Zuckerberg Chooses AI Researchers to Recruit', 2025",
+      "url": "https://www.techrepublic.com/article/news-meta-mark-zuckerberg-recruiting-ai-researchers/"
+    },
+    {
+      "label": "Fortune, Mathew Ingram, 'What Facebook's Mobile Turnaround Can Teach Media Companies', 28 Jan 2016",
+      "url": "https://fortune.com/2016/01/28/what-media-companies-can-learn-from-facebooks-incredible-mobile-turnaround/amp/"
+    },
+    {
+      "label": "Business Insider via Yahoo, 'The 2-week period when Mark Zuckerberg didn't take any meetings', 28 Sept 2022",
+      "url": "https://news.yahoo.com/2-week-period-mark-zuckerberg-192611040.html"
+    },
+    {
+      "label": "CNBC, 'WhatsApp co-founder who walked away from Facebook and $850 million', 26 Sept 2018",
+      "url": "https://www.cnbc.com/2018/09/26/whatsapp-co-founder-explains-why-he-left-facebook.html"
+    },
+    {
+      "label": "The Decoder, summary of Yann LeCun's Financial Times interview, 3 Jan 2026",
+      "url": "https://the-decoder.com/you-certainly-dont-tell-a-researcher-like-me-what-to-do-says-lecun-as-he-exits-meta-for-his-own-startup/"
+    },
+    {
+      "label": "Digit, excerpt of Antonio Garcia Martinez's 'Chaos Monkeys' via Vanity Fair, 'Zuckerberg reportedly put FB HQ on lockdown at Google+ launch', 2016",
+      "url": "https://www.digit.in/news/general/zuckerberg-reportedly-put-fb-hq-on-lockdown-at-google-launch-30510.html"
+    },
+    {
+      "label": "Harvard Gazette, Mark Zuckerberg's Commencement address as written, 25 May 2017",
+      "url": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/"
+    },
+    {
+      "label": "Fortune, '5 Things We Learned From This Mark Zuckerberg Interview', 16 Aug 2016",
+      "url": "https://fortune.com/2016/08/16/zuckerberg-y-combinator-interview/"
+    },
+    {
+      "label": "Business Insider India, Jillian D'Onfro, 'Mark Zuckerberg says that visiting an Indian temple at the urging of Steve Jobs helped him', 27 Sept 2015",
+      "url": "https://www.businessinsider.in/Mark-Zuckerberg-says-that-visiting-an-Indian-temple-at-the-urging-of-Steve-Jobs-helped-him-stick-to-Facebooks-mission/articleshow/49130605.cms"
+    },
+    {
+      "label": "TechCrunch, 'Facebook Themes f8 Around A Stable Mobile Platform', 30 Apr 2014",
+      "url": "https://techcrunch.com/2014/04/30/facebook-api-guarantee"
+    },
+    {
+      "label": "Meta press release, Fourth Quarter and Full Year 2021 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2022/Meta-Reports-Fourth-Quarter-and-Full-Year-2021-Results/default.aspx"
+    },
+    {
+      "label": "Meta press release, Fourth Quarter and Full Year 2022 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2023/Meta-Reports-Fourth-Quarter-and-Full-Year-2022-Results/default.aspx"
+    },
+    {
+      "label": "TechCrunch, Maxwell Zeff, 'Mark Zuckerberg says he's done apologizing', 11 Sept 2024",
+      "url": "https://techcrunch.com/2024/09/11/mark-zuckerberg-says-hes-done-apologizing"
+    },
+    {
+      "label": "Hyperallergic, Rhea Nayyar, 'Mark Zuckerberg Unveils New Statue of His Wife in the Roman Tradition', 15 Aug 2024",
+      "url": "https://hyperallergic.com/mark-zuckerberg-unveils-new-statue-of-his-wife-in-the-roman-tradition"
+    },
+    {
+      "label": "Financial Times via The Irish Times, 'Mark Zuckerberg haunted by old emails in high-stakes US trial', 24 Apr 2025",
+      "url": "https://www.irishtimes.com/business/2025/04/24/we-had-to-buy-them-old-emails-haunt-mark-zuckerberg-in-high-stakes-us-trial"
+    },
+    {
+      "label": "The Hill, 'FTC grills Zuckerberg over emails from Instagram, WhatsApp acquisitions', Apr 2025",
+      "url": "https://digital-release.thehill.com/?p=5250102"
+    },
+    {
+      "label": "TheWrap, 'Zuckerberg Admits Facebook Bought Instagram Because It Had a Better Camera', Apr 2025",
+      "url": "https://www.thewrap.com/?p=7740070"
+    },
+    {
+      "label": "NPR via NHPR, 'Judge sides with Meta in antitrust trial', 18 Nov 2025",
+      "url": "https://www.nhpr.org/2025-11-18/judge-sides-with-meta-in-antitrust-trial-will-not-spin-off-whatsapp-and-instagram"
+    },
+    {
+      "label": "Meta Platforms Schedule 14C preliminary information statement (Class C recapitalization), Oct 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066710/meta-20261021.htm"
+    },
+    {
+      "label": "BBC via MyJoyOnline, 'Mark Zuckerberg denies claims Facebook prioritises profit over user safety', Oct 2021",
+      "url": "https://www.myjoyonline.com/mark-zuckerberg-denies-claims-facebook-prioritises-profit-over-user-safety/"
+    },
+    {
+      "label": "The Harvard Crimson, 'Facemash Creator Survives Ad Board', 19 Nov 2003",
+      "url": "https://www.thecrimson.com/article/2003/11/19/facemash-creator-survives-ad-board-the/"
+    },
+    {
+      "label": "CBS News, 'Mark Zuckerberg: The Social Network Got My Shirts and Fleeces Right', 16 Oct 2010",
+      "url": "https://www.cbsnews.com/news/mark-zuckerberg-the-social-network-got-my-shirts-and-fleeces-right"
+    },
+    {
+      "label": "Times of Israel (AP), 'Status update: Hitched', 20 May 2012",
+      "url": "https://www.timesofisrael.com/status-update-hitched/"
+    },
+    {
+      "label": "NPR, Elise Hu, 'Mark Zuckerberg Shows Off His Mandarin Chinese Skills', 23 Oct 2014",
+      "url": "https://www.npr.org/sections/alltechconsidered/2014/10/23/358300880/mark-zuckerberg-shows-off-his-mandarin-chinese-skills"
+    },
+    {
+      "label": "CBS San Francisco, 'Facebook's Zuckerberg And Wife Announce Pregnancy, Open Up About Past Miscarriages', 31 July 2015",
+      "url": "https://www.cbsnews.com/amp/sanfrancisco/news/facebooks-zuckerberg-and-wife-announce-pregagncy-open-up-about-past-miscarriages"
+    },
+    {
+      "label": "ABC7 New York, 'Mark Zuckerberg to take 2 months of paternity leave', 20 Nov 2015",
+      "url": "https://abc7ny.com/mark-zuckerberg-facebook-baby-birth/1093703"
+    },
+    {
+      "label": "NBC News (from CNBC), 'Meta CEO Mark Zuckerberg tore his ACL while training for a competitive MMA fight', 4 Nov 2023",
+      "url": "https://www.nbcnews.com/news/us-news/meta-ceo-mark-zuckerberg-tore-acl-training-competitive-mma-fight-rcna123673"
+    },
+    {
+      "label": "South China Morning Post (from Business Insider), 'All Mark Zuckerberg's random New Year's resolutions', 19 Jan 2020",
+      "url": "https://www.scmp.com/magazines/style/celebrity/article/3046423/all-mark-zuckerbergs-random-new-years-resolutions-past"
+    },
+    {
+      "label": "Entrepreneur, 'What You Can Learn From Mark Zuckerberg's Past New Year Resolutions', 2017",
+      "url": "https://www.entrepreneur.com/article/287395"
+    },
+    {
+      "label": "InvestorPlace, 'Mark Zuckerberg Personal Challenge 2018: Fix Facebook', Jan 2018",
+      "url": "https://investorplace.com/?p=1098150"
+    },
+    {
+      "label": "Fortune, Aaron Task, 'How Mark Zuckerberg got schooled', 28 Oct 2015",
+      "url": "https://www.fortune.com/2015/10/28/mark-zuckerberg-100-million-education"
+    },
+    {
+      "label": "The Hechinger Report, 'What happened with the $100 million that Newark schools got from Facebook's Mark Zuckerberg?', 8 Sept 2015",
+      "url": "https://hechingerreport.org/what-happened-with-the-100-million-that-newark-schools-got-from-facebooks-mark-zuckerberg-not-much/"
+    },
+    {
+      "label": "NBC News, 'Facebook's Mark Zuckerberg Defends Giving Money to LLC', 4 Dec 2015",
+      "url": "https://www.nbcnews.com/tech/social-media/facebooks-mark-zuckerberg-defends-giving-money-llc-n474206"
+    },
+    {
+      "label": "NPR via Connecticut Public, 'An LLC? It Gives Facebook Founder More Freedom', 3 Dec 2015",
+      "url": "https://www.ctpublic.org/2015-12-03/facebook-founder-to-give-away-his-fortune-through-for-profit-company"
+    },
+    {
+      "label": "AFP via Space-Travel, 'Zuckerbergs put AI at heart of pledge to cure diseases', Nov 2025",
+      "url": "https://space-travel.com/zuckerbergs-put-ai-at-heart-of-pledge-to-cure-diseases-999/"
+    },
+    {
+      "label": "Pulse 2.0, 'Chan Zuckerberg Initiative Shifts Focus to AI-Powered Biology', Nov 2025",
+      "url": "https://pulse2.com/chan-zuckerberg-initiative-shifts-focus-to-ai-powered-biology-expands-biohub-as-core-effort/amp/"
+    },
+    {
+      "label": "Meta Platforms proxy statement (Form DEF 14A), 16 Apr 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
+    },
+    {
+      "label": "Fortune, Orianna Rosa Royle, 'Mark Zuckerberg got $24.4 million in other compensation in 2023', 24 Apr 2024",
+      "url": "https://fortune.com/2024/04/24/mark-zuckerberg-24-million-compensation-meta-median-employee-379000"
+    },
+    {
+      "label": "NBC News, 'Mark Zuckerberg shares he's raising cattle on beer and macadamia nuts', 10 Jan 2024",
+      "url": "https://www.nbcnews.com/tech/mark-zuckerberg-shares-raising-cattle-beer-macadamia-nuts-rcna133239"
+    },
+    {
+      "label": "Al Jazeera, 'Mark Zuckerberg's Congress testimony: What he said', 11 Apr 2018",
+      "url": "https://www.aljazeera.com/economy/2018/4/11/mark-zuckerbergs-congress-testimony-what-he-said"
+    },
+    {
+      "label": "Associated Press via CBC, 'Zuckerberg apologizes to families at heated U.S. Senate hearing', 31 Jan 2024",
+      "url": "https://amp.cbc.ca/lite/story/1.7100952"
+    },
+    {
+      "label": "Fortune, Emma Hinchliffe and Nina Ajemian, 'Mark Zuckerberg remakes a masculine Meta', 14 Jan 2025",
+      "url": "https://dc.fortune.com/2025/01/14/mark-zuckerberg-says-corporate-america-needs-more-masculine-energy-even-though-men-run-89-of-fortune-500-companies"
+    },
+    {
+      "label": "Yahoo News, 'Mark Zuckerberg Praises Masculine Corporate Energy Amid Meta's DEI Policy Reversal', Jan 2025",
+      "url": "https://www.yahoo.com/news/mark-zuckerberg-praises-masculine-corporate-070636287.html"
+    },
+    {
+      "label": "Foreign Policy, Isaac Stone Fish, 'Mark Zuckerberg Speaks Mandarin Like a Seven-Year-Old', 22 Oct 2014",
+      "url": "https://foreignpolicy.com/2014/10/22/mark-zuckerberg-speaks-mandarin-like-a-seven-year-old/"
+    },
+    {
+      "label": "BuzzFeed News, Alex Kantrowitz, 'Mark Zuckerberg on Free Basics: Who could possibly be against', Dec 2015",
+      "url": "https://www.buzzfeednews.com/article/alexkantrowitz/mark-zuckerberg-on-free-basics-who-could-possibly-be-against"
+    },
+    {
+      "label": "MediaPost, 'Zuckerberg Fires Back On Free Basics', Dec 2015",
+      "url": "https://www.mediapost.com/publications/article/265575/zuckerberg-fires-back-on-free-basics.html"
+    },
+    {
+      "label": "AFP via Phys.org, 'India regulator deals blow to Facebook in Internet row', 8 Feb 2016",
+      "url": "https://phys.org/news/2016-02-india-facebook-internet-row.html"
+    },
+    {
+      "label": "CNBC via NBC Los Angeles, 'Zuckerberg, Rihanna and Bill Gates were among guests at lavish bash for son of Asia's richest man', Mar 2024",
+      "url": "https://www.nbclosangeles.com/news/business/money-report/zuckerberg-rihanna-and-bill-gates-were-among-guests-at-lavish-bash-for-son-of-asias-richest-man/3354056/?amp=1"
+    },
+    {
+      "label": "Outlook Business, 'Reliance Goes the AI Way: Unveils Meta JV', 29 Aug 2025",
+      "url": "https://www.outlookbusiness.com/deeptech/artificial-intelligence/reliance-goes-the-ai-way-unveils-meta-jv-google-cloud-pact-launch-of-reliance-intelligence"
+    },
+    {
+      "label": "Scroll.in, 'Meta apologises for CEO Mark Zuckerberg's comments about Indian elections', 15 Jan 2025",
+      "url": "https://scroll.in/latest/1077976/meta-apologises-for-ceo-mark-zuckerbergs-comments-about-indian-elections"
+    },
+    {
+      "label": "The Week (India), 'Win for 140 crore Indians: Nishikant Dubey reacts', 15 Jan 2025",
+      "url": "https://www.theweek.in/news/india/2025/01/15/win-for-140-crore-indians-nishikant-dubey-reacts-after-meta-india-apologises-for-mark-zuckerberg-s-error.html"
+    },
+    {
+      "label": "Pew Research Center, 'How Americans view Elon Musk and Mark Zuckerberg', 19 Feb 2025",
+      "url": "https://www.pewresearch.org/short-reads/2025/02/19/how-americans-view-elon-musk-and-mark-zuckerberg/"
+    },
+    {
+      "label": "Fortune, Fortune/SurveyMonkey poll on Big Tech CEOs, 3 July 2020",
+      "url": "https://fortune.com/2020/07/03/facebook-ceo-mark-zuckerberg-poll-favorability-tim-cook-jeff-bezos-sundar-pichai-satya-nadella"
+    },
+    {
+      "label": "Source New Mexico, 'New Mexico judge orders Meta to pay state $25B', 21 Oct 2026",
+      "url": "https://sourcenm.com/2026/10/21/new-mexico-judge-orders-meta-to-pay-state-25b/"
+    },
+    {
+      "label": "Engadget, 'Zuckerberg: betting on HTML 5 for Facebook mobile app was a mistake', 11 Sept 2012",
+      "url": "https://www.engadget.com/2012-09-11-zuckerberg-html-5-facebook-mobile-app-mistake.html"
+    },
+    {
+      "label": "UPI, 'Facebook burned 2 years on wrong mobile tech', 12 Sept 2012",
+      "url": "https://www.upi.com/Top_News/US/2012/09/12/Facebook-burned-2-years-on-wrong-mobile-tech/74491347435000/"
+    },
+    {
+      "label": "NPR via WFDD, 'Zuckerberg denies fake news on Facebook had impact on the election', 11 Nov 2016",
+      "url": "https://wfdd.org/story/zuckerberg-denies-fake-news-facebook-had-impact-election"
+    },
+    {
+      "label": "Engadget, 'Mark Zuckerberg explains post-election comments he now regrets', 27 Sept 2017",
+      "url": "https://www.engadget.com/2017/09/27/mark-zuckerberg-election-2016-facebook/"
+    },
+    {
+      "label": "CBS News / CNET, 'Facebook says it didn't do enough to prevent offline violence in Myanmar', 5 Nov 2018",
+      "url": "https://www.cbsnews.com/news/facebook-myanmar-violence-rohingya-business-for-social-responsibility-report-today-2018-11-05"
+    },
+    {
+      "label": "BBC via Capital FM, 'Meta investors settle $8bn lawsuit with Zuckerberg over Facebook privacy', 18 July 2025",
+      "url": "https://capitalfm.africa/meta-investors-settle-8bn-lawsuit-with-zuckerberg-over-facebook-privacy/"
+    },
+    {
+      "label": "Associated Press via Fortune, 'Meta reaches record $1.4 billion settlement with Texas', 30 July 2024",
+      "url": "https://www.fortune.com/2024/07/30/meta-texas-privacy-lawsuit-settlement-mark-zuckerberg-facebook-facial-recognition"
+    },
+    {
+      "label": "The Hill, 'Zuckerberg responds to Facebook whistleblower's allegations', 5 Oct 2021",
+      "url": "https://digital-release.thehill.com/policy/technology/575477-zuckerberg-responds-to-facebook-whistleblowers-allegations"
+    },
+    {
+      "label": "Associated Press via Fortune, Morgan Lee, 'That's not what we're trying to do', 6 Mar 2026",
+      "url": "https://www.fortune.com/2026/03/06/mark-zuckerberg-deposition-facebook-and-instagram-addictive-new-mexico-social-media-trial"
+    },
+    {
+      "label": "Associated Press via WTOP, 'New Mexico jury finds Meta violated consumer protection law', Mar 2026",
+      "url": "https://wtop.com/national/2026/03/new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety"
+    },
+    {
+      "label": "ABC6, 'Jury awards $6 million in damages in landmark social media addiction trial in Los Angeles', Mar 2026",
+      "url": "https://6abc.com/18771272/"
+    },
+    {
+      "label": "Meta Platforms Form 10-Q for the quarter ended 30 Sept 2026 (SEC)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066773/meta-20260930.htm"
+    },
+    {
+      "label": "NPR via Connecticut Public, 'Meta says it will end fact-checking as Silicon Valley prepares for Trump', 7 Jan 2025",
+      "url": "https://www.ctpublic.org/2025-01-07/meta-says-it-will-end-fact-checking-as-silicon-valley-prepares-for-trump"
+    },
+    {
+      "label": "ABC News via ABC13, 'Meta agrees to pay $25 million to settle lawsuit with President Donald Trump', 29 Jan 2025",
+      "url": "https://abc13.com/post/meta-agrees-pay-25-million-settle-lawsuit-president-donald-trump/15847339/"
+    },
+    {
+      "label": "ABC News, 'Facebook CEO Mark Zuckerberg, Sheryl Sandberg under fire', Nov 2018",
+      "url": "https://www.goodmorningamerica.com/news/story/facebook-ceo-mark-zuckerberg-sheryl-sandberg-fire-mishandling-59220948"
+    },
+    {
+      "label": "Meta press release, Fourth Quarter and Full Year 2024 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx"
+    },
+    {
+      "label": "Forbes real-time profile, Mark Zuckerberg (accessed 29 Oct 2026)",
+      "url": "https://www.forbes.com/profile/mark-zuckerberg/"
+    },
+    {
+      "label": "TechRepublic, Fiona Jackson, 'Mark Zuckerberg Says Superintelligence is Now in Sight', 31 July 2025",
+      "url": "https://www.techrepublic.com/article/news-meta-mark-zuckerberg-personal-superintelligence/"
+    },
+    {
+      "label": "The Next Web, 'Meta's CEO is developing a personal AI assistant to handle executive duties', 23 Mar 2026",
+      "url": "https://thenextweb.com/news/mark-zuckerberg-is-building-an-ai-agent"
+    },
+    {
+      "label": "MediaPost, 'Meta To Reportedly Cut 8,000 Jobs In May', 2026",
+      "url": "https://www.mediapost.com/publications/article/414453/"
+    },
+    {
+      "label": "Meta Platforms Form 8-K, annual meeting vote results, 27 May 2026 (via StreetInsider)",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+8-K+Meta+Platforms%2C+Inc.+For%3A+May+27/26575413.html"
+    },
+    {
+      "label": "Fox Business, 'Mark Zuckerberg moves to Florida amid CA wealth tax', 10 Feb 2026",
+      "url": "https://www-ak-ms.foxbusiness.com/real-estate/mark-zuckerberg-becomes-latest-california-billionaire-relocate-florida-amid-tax-concerns"
+    }
+  ],
+  "factCheck": {
+    "method": "Written by the part-3 researcher on 2 November 2026. Stutters from the auto-generated Y Combinator transcript were removed from quotes; no words were changed. Primary and near-primary texts were read directly where possible: the IPO letter (WIRED full text), Harvard Gazette speech text, Meta Newsroom posts, The Verge's leaked-audio transcript, Y Combinator interview transcript, Pew Research. Press figures were read at the publisher where it allowed reading. Some sources could only be seen as search-result excerpts, because the run's web search budget ran out and some sites blocked automated reading, which we did not try to get around: Bloomberg (truncated), TheWrap, The Hill on the FTC emails, TechRepublic (recruiting), Yahoo (masculine energy), BuzzFeed, MediaPost on Free Basics, ABC13, ABC6, WTOP, Fortune 2020, Pulse 2.0, Entrepreneur on resolutions, InvestorPlace, Foreign Policy, NPR via WFDD, Engadget 2017, UPI, NBC Los Angeles, BBC via MyJoyOnline, ABC News on Definers, StreetInsider, Meta's 2026 proxy. The fact-checker should open these first. The Meta 10-Q, Schedule 14C, Forbes profile, MediaPost job-cut report, Phys.org on India's regulator, the 2003 Crimson article, Meta quarterly results and the 2022 layoff message were not re-read here; those figures are carried over from part-2 of this book, whose researcher read them, so the fact-checker should re-verify them. Quotes are verbatim as printed by the cited source. All interpretation sentences are our own reading of the cited evidence.",
+    "disputed": [
+      {
+        "claim": "Zuckerberg wakes at about 8 a.m.",
+        "note": "A 2023 Business Insider profile (via Entrepreneur) says about 8 a.m. Fortune's 2025 report on his Theo Von interview says 7:00 to 7:30. His routine may have changed; we lead with the more recent figure."
+      },
+      {
+        "claim": "He cancelled all meetings for two weeks in 2012 until staff brought mobile work.",
+        "note": "This rests on one recollection by Meta executive Nicola Mendelsohn on a 2022 podcast. We found no memo or second named witness, so we attribute it to her. A separate Fortune passage describes him threatening to throw out anyone showing a desktop product, but it does not clearly name the speaker, so we left that out."
+      },
+      {
+        "claim": "Meta offered $100 million signing bonuses to OpenAI staff.",
+        "note": "The figure comes from Sam Altman, a rival, as reported by Fortune. Exact pay was not confirmed by Meta, and some researchers reportedly declined. We attribute it to Altman."
+      },
+      {
+        "claim": "Llama 4's published results were \"fudged\" and Zuckerberg sidelined the GenAI group.",
+        "note": "Yann LeCun's account in the Financial Times, read here through The Decoder's summary. LeCun is a departing executive with his own views on AI, so we present it as his account."
+      },
+      {
+        "claim": "The Google+ \"lockdown\" and \"Carthago delenda est\" speech.",
+        "note": "Comes from Antonio Garcia Martinez's book Chaos Monkeys, read through a Digit report of the Vanity Fair excerpt. He is a former employee writing critically, and we did not find an independent second account, so it is attributed to him."
+      },
+      {
+        "claim": "HTML5 was Facebook's \"biggest mistake\".",
+        "note": "Wording differs. Engadget quotes \"one of the biggest mistakes if not the biggest strategic mistakes we've ever made\"; TechCrunch's headline has him saying \"Our Biggest Mistake Was Betting Too Much On HTML5\". We quote Engadget, which is the hedged version."
+      },
+      {
+        "claim": "The number of states in the August 2026 settlement.",
+        "note": "AP says 48 US states and $18 billion; Meta's 10-Q says up to about $18.59 billion with 52 attorneys general (as also noted in part 2). We use the 10-Q amount."
+      },
+      {
+        "claim": "New Mexico's count of violations.",
+        "note": "Source NM reports close to 44 million violations; part 2 of this book, from the filings, says more than 43 million. AP describes the case as deceiving users about privacy, while Source NM lists five categories of misstatement. There are also two different New Mexico money figures: $375 million (March 2026 child-safety verdict) and $25 billion (October 2026 penalty)."
+      },
+      {
+        "claim": "Zuckerberg has moved to Florida.",
+        "note": "Fox Business, citing the Wall Street Journal, said in February 2026 he was buying a Florida home with a move planned by April; it also said the deal was not confirmed as closed. Whether he has changed legal residency is not established. We leave out the location for privacy."
+      },
+      {
+        "claim": "Size of the Kauai property.",
+        "note": "Reports vary between about 1,400 and 1,500 acres. We use about 1,500, as in Hyperallergic."
+      },
+      {
+        "claim": "Wedding guest count.",
+        "note": "AP via Times of Israel says fewer than 100; other reports say about 100."
+      },
+      {
+        "claim": "The \"masculine energy\" wording.",
+        "note": "Reports of the Rogan interview use slightly different wording around \"culture that celebrates aggression\". We quote only the short phrases that match across sources."
+      },
+      {
+        "claim": "Who is responsible for the Newark outcome.",
+        "note": "Russakoff's book and interviews are critical. Some reviewers dispute how the money was split, and figures for the charter-school share vary, so we give no split. \"The money is gone\" is Fortune's summary of her reporting."
+      }
+    ]
+  }
+}

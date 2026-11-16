@@ -1,0 +1,656 @@
+{
+  "slug": "taj-hotels",
+  "company": "Taj Hotels (Indian Hotels Company Ltd)",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#8D7249",
+    "secondary": "#3A2E22",
+    "accent": "#C9A96E",
+    "ink": "#241C14",
+    "paper": "#F8F2E6",
+    "note": "Taj gold #8D7249 is the fill colour of the Taj Hotels logo file on Wikimedia Commons (tajhotels.com blocks automated reading). The deep bronze, light gold, ink and ivory paper are our own tints of that gold."
+  },
+  "tagline": "A mill-owner who never wanted to run a hotel built Bombay one anyway, and a century later its staff stayed at their posts to protect their guests.",
+  "hook": "When the Taj Mahal Hotel opened on 16 December 1903, it had just 17 paying guests, and some in Bombay called it 'Tata's white elephant'. Its builder, Jamsetji Tata, had tried to hand the lease to a European company because he had no wish to run a hotel. Today the company he set up has 670 hotels, open or signed.",
+  "hookSrc": [3, 7, 21],
+  "cast": [
+    {
+      "name": "Ajit Kerkar",
+      "role": "The manager who turned one hotel into a chain. He was put in charge of the run-down Bombay Taj at 28. With almost no money from Tata head office, he used partners and management contracts to open the Fort Aguada resort in Goa (1974), Rajasthan's palace hotels and a Delhi Taj, about 50 hotels in all. After 35 years he fell out with Ratan Tata's new leadership and resigned from every Tata company in September 1997.",
+      "photo": null,
+      "src": [15, 16, 17]
+    },
+    {
+      "name": "Karambir Singh Kang",
+      "role": "General manager of the Taj Mahal Palace from November 2007. On the first night of the November 2008 attack, his wife and their two young sons, who lived in the hotel's top-floor apartment, were killed. He stayed at his post through the siege and then led the rebuilding; parts of the hotel reopened 21 days later. He later ran Taj Boston and IHCL's US hotels.",
+      "photo": null,
+      "src": [11, 9, 12, 13]
+    },
+    {
+      "name": "Rohit Deshpandé",
+      "role": "Harvard Business School marketing professor who grew up in Bombay. He spent a week filming interviews with Taj staff for the case 'Terror at the Taj Bombay: Customer-Centric Leadership' (2011), and called it the hardest case he had ever worked on. With Anjali Raina he also wrote 'The Ordinary Heroes of the Taj' for Harvard Business Review.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Deshpande_en_Uruguay_%285929949547%29.jpg/1280px-Deshpande_en_Uruguay_%285929949547%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Deshpande_en_Uruguay_(5929949547).jpg",
+        "caption": "Rohit Deshpandé giving a talk on brand-building in Montevideo, Uruguay, July 2011",
+        "author": "Embajada de los Estados Unidos en Uruguay from Montevideo, Uruguay",
+        "license": "Public domain",
+        "year": 2011
+      },
+      "src": [9, 10, 14]
+    },
+    {
+      "name": "Puneet Chhatwal",
+      "role": "Managing director and CEO of IHCL since late 2017. He came from Germany's Deutsche Hospitality, where he was chief executive, having started his career in India. He took over a company still recovering from costly foreign hotel buys; by October 2026 IHCL had reported 18 record quarters in a row.",
+      "photo": null,
+      "src": [20, 19, 21]
+    }
+  ],
+  "founder": {
+    "name": "Jamsetji Nusserwanji Tata",
+    "role": "Founder of the Tata Group; builder of the Taj Mahal Hotel and founder of the Indian Hotels Company",
+    "born": "3 Mar 1839, Navsari, Gujarat",
+    "died": "19 May 1904, Bad Nauheim, Germany",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/JAMSETJI_N._TATA.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:JAMSETJI_N._TATA.jpg",
+      "caption": "Jamsetji Tata, painted by Edwin Arthur Ward in 1889, nine years before he announced the hotel",
+      "author": "Edwin Arthur Ward",
+      "license": "Public domain",
+      "year": 1889
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Taj_Mahal_Hotel%2C_Bombay_postcard_%281908%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Hotel,_Bombay_postcard_(1908).jpg",
+        "caption": "The Taj Mahal Hotel in 1908, five years after it opened and long before the Gateway of India stood beside it",
+        "author": "Underwood & Underwood Publishers",
+        "license": "Public domain",
+        "year": 1908
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Taj_Mahal_Palace_Hotel%2C_Mumbai%2C_India.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel,_Mumbai,_India.jpg",
+        "caption": "A Bombay Lithographic Co. postcard of the hotel, about 1910. A guest who mailed one in 1913 wrote: 'This is the finest place in India.'",
+        "author": "The Bombay Lithographic Co.",
+        "license": "CC BY 4.0",
+        "year": 1910
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Gateway_and_the_Taj_Hotel_next_to_it%3B_photo_c.1930.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Gateway_and_the_Taj_Hotel_next_to_it;_photo_c.1930.jpg",
+        "caption": "The Taj and, beside it, the Gateway of India, built some two decades after the hotel, in a photo from the 1930s",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "year": 1930
+      }
+    ],
+    "background": "Jamsetji was born in 1839 in Navsari, Gujarat, the first child and only son of Nusserwanji Tata, who left a long line of Parsi priests to try business. He joined his father in Bombay at 14 and graduated from Elphinstone College in 1858. By the 1890s he was a rich mill-owner and one of Bombay's most forward-looking property owners, already planning a steel plant, a hydro-electric scheme and a science institute. He had travelled across Europe, America and Japan, and had seen how far Bombay's hotels fell short of what visitors found abroad.",
+    "backgroundSrc": [0, 3, 2, 6],
+    "journey": [
+      {
+        "year": "1839",
+        "kind": "life",
+        "title": "Born in Navsari",
+        "detail": "The only son of Nusserwanji Tata, the first in a priestly Parsi family to go into business.",
+        "src": [0]
+      },
+      {
+        "year": "1853–1858",
+        "kind": "life",
+        "title": "Bombay and Elphinstone College",
+        "detail": "At 14 he joined his father in Bombay and passed out of Elphinstone College in 1858 as a 'green scholar'.",
+        "src": [0]
+      },
+      {
+        "year": "1859",
+        "kind": "job",
+        "title": "Joins his father's firm",
+        "detail": "At 20 he started work in the small trading and banking firm his father ran.",
+        "src": [0]
+      },
+      {
+        "year": "1868",
+        "kind": "attempt",
+        "title": "His own trading company",
+        "detail": "At 29 he set up a trading company with ₹21,000 and soon sailed to England to learn the textile trade.",
+        "src": [0]
+      },
+      {
+        "year": "1869–1877",
+        "kind": "breakthrough",
+        "title": "From a flipped mill to Empress Mills",
+        "detail": "He turned a bankrupt oil mill into a cotton mill and sold it at a profit, then opened Empress Mills in Nagpur on 1 January 1877.",
+        "src": [0]
+      },
+      {
+        "year": "1893",
+        "kind": "life",
+        "title": "Sees the world's best",
+        "detail": "He visited the World's Columbian Exposition in Chicago and sailed from Japan to Vancouver, part of decades of travel that showed him what a modern city offered visitors.",
+        "src": [6, 2]
+      },
+      {
+        "year": "1896–1897",
+        "kind": "life",
+        "title": "Plague empties Bombay",
+        "detail": "Bubonic plague killed up to 1,900 people a week in 1897. People and businesses fled the city.",
+        "src": [3, 4]
+      },
+      {
+        "year": "1898",
+        "kind": "attempt",
+        "title": "Announces a hotel, to everyone's surprise",
+        "detail": "He leased two and a quarter acres at Apollo Bunder from the Port Trust. One of his sisters asked why a man building steel and science projects wanted a 'bhatarkhana', an eating house.",
+        "src": [3, 0, 2]
+      },
+      {
+        "year": "1898–1903",
+        "kind": "failure",
+        "title": "Loses his architect",
+        "detail": "He chose a little-known Indian architect, Sitaram Khanderao Vaidya, who died before the building was finished. Engineer W. A. Chambers completed it, keeping most of Vaidya's design.",
+        "src": [4, 7]
+      },
+      {
+        "year": "1900–1902",
+        "kind": "attempt",
+        "title": "Shops the world for the hotel",
+        "detail": "In Paris he ordered spun-steel pillars for the ballroom. At the 1902 Düsseldorf exhibition, with his building contractor beside him, he bought lights, generators, lifts and engines.",
+        "src": [6, 1, 2]
+      },
+      {
+        "year": "Before 1903",
+        "kind": "failure",
+        "title": "Nobody will take the lease",
+        "detail": "He hoped to hand the hotel's lease to a European company, but the talks fell through. So the industrialist who did not want to run a hotel had to run one.",
+        "src": [3]
+      },
+      {
+        "year": "1902",
+        "kind": "life",
+        "title": "The Indian Hotels Company",
+        "detail": "The Indian Hotels Company Ltd, which still owns the Taj, was incorporated.",
+        "src": [2, 21]
+      },
+      {
+        "year": "1903",
+        "kind": "breakthrough",
+        "title": "The Taj opens",
+        "detail": "On 16 December 1903 the first 17 paying guests arrived. Rooms started at ₹6 a day, and Tata says it was the first building in Bombay lit by electricity.",
+        "src": [7, 3, 2, 1]
+      },
+      {
+        "year": "1904",
+        "kind": "life",
+        "title": "Dies five months later",
+        "detail": "He died at Bad Nauheim, Germany, in May 1904. The hotel was the only one of his great projects finished in his lifetime.",
+        "src": [6, 1]
+      },
+      {
+        "year": "Now",
+        "kind": "now",
+        "title": "From one hotel to 670",
+        "detail": "IHCL now has 670 hotels: 390 open and 280 signed and in the pipeline. The Taj Mahal Palace is still its flagship.",
+        "src": [21, 22]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "If no one else will build it, do it yourself",
+        "explain": "His assistant's notes say he saw a modern hotel as essential to Bombay's progress. Since no other investor was likely to take the risk, he felt it was his duty.",
+        "src": [3]
+      },
+      {
+        "idea": "The goal was the city, not the hotel",
+        "explain": "His friend Lovat Fraser, editor of The Times of India, said Jamsetji had 'not the slightest desire to own a hotel'. He wanted to draw visitors to India and improve Bombay.",
+        "src": [3, 4]
+      },
+      {
+        "idea": "Buy the world's best equipment, then make it Indian",
+        "explain": "He bought machinery in London, Düsseldorf, Berlin, Paris and New York, but gave the design to an Indian architect and mixed Moorish, Rajput and Florentine styles.",
+        "src": [2, 4, 1]
+      },
+      {
+        "idea": "Do not let doubters decide",
+        "explain": "His sons, friends and partners warned him the hotel would lose money. His reply, as Tata tells it: perhaps, but that made no difference.",
+        "src": [1, 0]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Planned trips around world exhibitions",
+        "detail": "He went to Chicago's 1893 exposition and the 1902 Düsseldorf industrial exhibition to see the newest machines first-hand.",
+        "src": [6]
+      },
+      {
+        "habit": "Took his builder shopping",
+        "detail": "At Düsseldorf he brought the Taj's contractor with him to choose lights, generators, lifts and engines together.",
+        "src": [6]
+      }
+    ],
+    "darkestHour": {
+      "title": "Building a 'white elephant' in a city of plague",
+      "story": "Jamsetji announced the hotel in 1898, a year after plague had killed up to 1,900 people a week and emptied Bombay of people and business. His sisters scoffed at the idea, and his sons, friends and partners warned him it would lose money. His architect died before the building was finished. He tried to pass the lease to a European company and failed, so he was stuck running a hotel he never wanted to run. Costs kept rising as he bought the best equipment in Europe and America, and people called it 'Tata's white elephant'. When it opened in December 1903, only 17 guests checked in. He kept going because he believed Bombay needed a first-class hotel to recover and to attract visitors. He died five months later, before he could see it succeed.",
+      "src": [3, 4, 1, 7]
+    },
+    "genuineness": {
+      "story": "Jamsetji's own circle described the Taj as something he built for Bombay, not for profit. He tried to hand it to someone else to run. Historian Charles Allen notes that for generations much of the hotel's post-tax profit went to the city's charities, and that even after Indian Hotels went public in 1970 a large share of its stock, held by the Tata Trusts, kept funding them.",
+      "src": [3, 4]
+    },
+    "now": "Jamsetji died in May 1904, five months after the hotel opened. His Indian Hotels Company now runs brands from Taj to Ginger, with 670 hotels open or in the pipeline as of October 2026. In 2026 Brand Finance named Taj the world's strongest luxury hotel brand and India's strongest brand.",
+    "nowSrc": [6, 21, 22, 24, 25, 26]
+  },
+  "numbers": [
+    {
+      "value": "17",
+      "label": "Paying guests on opening day, 16 December 1903",
+      "asOf": "1903",
+      "src": [7, 3]
+    },
+    {
+      "value": "₹6",
+      "label": "Starting price of a room per day when the Taj opened",
+      "asOf": "1903",
+      "src": [3]
+    },
+    {
+      "value": "≈50",
+      "label": "Hotels in the chain Ajit Kerkar built from one Bombay hotel",
+      "asOf": "1997",
+      "src": [15, 17]
+    },
+    {
+      "value": "59–60 hours",
+      "label": "Length of the 2008 siege at the Taj, by different counts",
+      "asOf": "Nov 2008",
+      "src": [9, 11]
+    },
+    {
+      "value": "670",
+      "label": "IHCL hotels: 390 open and 280 signed and in the pipeline",
+      "asOf": "Oct 2026",
+      "src": [21, 22, 23]
+    },
+    {
+      "value": "₹2,566 crore",
+      "label": "IHCL revenue for one quarter (up 21%), its 18th record quarter in a row",
+      "asOf": "Q2 FY2027",
+      "src": [21, 23]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1898",
+      "title": "The site",
+      "detail": "Jamsetji leases land at Apollo Bunder and lays foundations 40 feet deep.",
+      "src": [3, 1]
+    },
+    {
+      "year": "1903",
+      "title": "Opening day",
+      "detail": "The Taj Mahal Hotel opens on 16 December, more than 20 years before the Gateway of India is built next door.",
+      "src": [2, 7, 1]
+    },
+    {
+      "year": "1916",
+      "title": "A wartime hospital",
+      "detail": "During the First World War the hotel becomes a 600-bed military hospital.",
+      "src": [1, 2, 7]
+    },
+    {
+      "year": "1960s",
+      "title": "Saved from decay",
+      "detail": "Talks with Hilton fail; Hilton's boss jokes the old building stands only because 'the termites keep holding hands'. J. R. D. Tata backs a young manager, Ajit Kerkar, to fix it.",
+      "src": [4, 16]
+    },
+    {
+      "year": "1971",
+      "title": "A palace on a lake",
+      "detail": "Udaipur's Lake Palace, built in 1746, becomes a Taj hotel. Other Rajasthan palaces, such as Jaipur's Rambagh, follow under management contracts.",
+      "src": [18, 16]
+    },
+    {
+      "year": "1972–1973",
+      "title": "The Tower wing",
+      "detail": "A 23-storey tower opens beside the old hotel, on land where the Greens Hotel once stood.",
+      "src": [2, 1, 16]
+    },
+    {
+      "year": "1974",
+      "title": "Goa's first five-star resort",
+      "detail": "Fort Aguada opens, paid for by wealthy Taj guests Kerkar brought in as partners.",
+      "src": [15, 16]
+    },
+    {
+      "year": "1997",
+      "title": "Kerkar leaves",
+      "detail": "After 35 years and a month-long fight with the new Tata leadership, Kerkar resigns from every Tata company.",
+      "src": [17, 15, 16]
+    },
+    {
+      "year": "2008",
+      "title": "26/11",
+      "detail": "Ten gunmen attack Mumbai on 26 November. The siege at the Taj lasts about 59 hours, and Taj staff help guests to safety.",
+      "src": [9, 12, 11]
+    },
+    {
+      "year": "2010",
+      "title": "The palace wing returns",
+      "detail": "The restored heritage wing reopens on 15 August 2010, India's Independence Day.",
+      "src": [7, 13]
+    },
+    {
+      "year": "2017",
+      "title": "A new CEO after a near-death spell",
+      "detail": "IHCL names Puneet Chhatwal CEO, the same month that Cyrus Mistry's office said bad hotel buys had forced write-downs close to the company's whole net worth over four years.",
+      "src": [20, 19]
+    },
+    {
+      "year": "2026",
+      "title": "670 hotels and a top brand ranking",
+      "detail": "IHCL's portfolio reaches 670 hotels, open or signed. Brand Finance ranks Taj the world's strongest luxury hotel brand and, for the fifth year running, India's strongest brand.",
+      "src": [21, 24, 25]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "IHCL earns money two ways. In hotels it owns or leases, it keeps what guests pay for rooms, food, weddings and conferences. In hotels owned by someone else, it runs the hotel under one of its brands, such as Taj, Vivanta, Gateway or Ginger, and charges the owner a management fee. That second, lighter model is how it adds many new hotels each year without building them all.",
+    "flows": [
+      {
+        "from": "Guests",
+        "to": "Taj and other IHCL hotels",
+        "what": "Room nights, restaurant bills, weddings and conferences"
+      },
+      {
+        "from": "Hotel owners",
+        "to": "IHCL",
+        "what": "Management fees for running their hotels under IHCL brands (up 25% in Q2 FY2027)"
+      },
+      {
+        "from": "IHCL",
+        "to": "Shareholders",
+        "what": "Dividends and share-price gains"
+      }
+    ],
+    "src": [21, 22, 16]
+  },
+  "failures": [
+    {
+      "year": "1960s",
+      "title": "The grand hotel that fell apart",
+      "whatHappened": "By the early 1960s the Taj had run down so badly that J. R. D. Tata joked there was so much wrong he would not know where to start fixing it. Talks to bring in Hilton failed, and Hilton's president said the building stood only because 'the termites keep holding hands'.",
+      "lesson": "A famous name does not run itself. The Taj survived because the Tatas put a hungry young manager in charge and let him rebuild it.",
+      "src": [16, 4]
+    },
+    {
+      "year": "2000s–2017",
+      "title": "Paying too much to look global",
+      "whatHappened": "After Kerkar left, IHCL bought expensive hotels abroad, including The Pierre in New York and Taj Boston, plus the Sea Rock in Mumbai, and made a failed bid for Orient-Express Hotels. It also confused guests with new brand names. In 2017, in the middle of his fight with Tata Sons, Cyrus Mistry's office said write-downs over four years had come close to wiping out the company's whole net worth; IHCL's annual report had blamed bad timing and the 2008 crash for some of these deals.",
+      "lesson": "Big trophy buys can drain the business that pays for them. Grow where your brand already earns, and pay for hotels only when the numbers work.",
+      "src": [19, 16]
+    },
+    {
+      "year": "1997",
+      "title": "A star manager forced out",
+      "whatHappened": "Ajit Kerkar had run the Taj like his own company for 35 years. When Ratan Tata set out to bring Tata companies under closer central control, the two clashed and stopped talking. The Tatas accused Kerkar's team of breaking foreign-exchange rules, though Nani Palkhivala, who led the campaign against him, said there was no investigation, only lost confidence. Kerkar resigned from every Tata company in September 1997; asked why, he said simply that the Tatas had wanted him to.",
+      "lesson": "A business built around one person's way of working is fragile. Write down how decisions are made before the person who makes them leaves.",
+      "src": [17, 15, 16]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Jamsetji built the Taj because Watson's Hotel turned him away for being Indian.",
+      "fact": "No record shows it happened. Tata's own heritage page calls it a legend, and Tata's 150-year history lists it as one of 'many legends'. Even the hotel in the story changes: some versions name the Apollo Hotel instead. Historian Charles Allen called it a 'canard' and pointed instead to the plague, a Times of India editor's plea for a hotel worthy of the city, and Jamsetji's own wish to attract visitors.",
+      "src": [0, 5, 8, 4, 3]
+    },
+    {
+      "myth": "The hotel was built back to front because Indian builders misread a British architect's plans.",
+      "fact": "Charles Allen calls this British story as bogus as the Watson's tale. The original architect was an Indian, Sitaram Khanderao Vaidya.",
+      "src": [4, 7]
+    },
+    {
+      "myth": "The Taj's long list of 'firsts' is proven history.",
+      "fact": "Claims such as Bombay's first building lit by electricity, American fans, German lifts, Turkish baths and Mumbai's first licensed bar (the Harbour Bar, licence No. 1) come mainly from Tata and the hotel's own histories, which journalists repeat. We found no independent record either way, so read them as the company's claims.",
+      "src": [1, 2, 7, 3]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Perhaps it will, but that makes no difference.",
+      "who": "Jamsetji Tata, when told the hotel would lose money, as recounted by Tata",
+      "src": [1]
+    },
+    {
+      "text": "only so long as the termites keep holding hands",
+      "who": "Curt Strand, president of Hilton Hotels, on how long the decaying Taj would stand, late 1960s, as quoted by Charles Allen",
+      "src": [4]
+    },
+    {
+      "text": "A sense of loyalty to the hotel, a sense of responsibility to the guests.",
+      "who": "Karambir Singh Kang, Taj general manager, on why staff stayed during the 2008 attack",
+      "src": [9, 14]
+    },
+    {
+      "text": "But I can't teach them to be nice. I can't teach that spirit of ownership.",
+      "who": "Raymond Bickson, then CEO of Indian Hotels, on how the Taj hires",
+      "src": [9]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Build for the people you serve, not just the spreadsheet",
+      "detail": "Bombay called the Taj a white elephant and it opened to 17 guests. Jamsetji built it because the city needed it, and that purpose kept it alive for 120 years. Know who your work is for before you count the first month's sales."
+    },
+    {
+      "title": "Fix the flagship before you build the chain",
+      "detail": "Ajit Kerkar first rescued the run-down Bombay Taj, then used its name to open hotels across India. A strong first product is what makes the second and third easier to sell."
+    },
+    {
+      "title": "You can grow without owning everything",
+      "detail": "Kerkar got guests, a city council and palace owners to share the cost of new hotels. IHCL still grows by running hotels other people own. Look for partners who have the asset while you bring the skill."
+    },
+    {
+      "title": "Hire for character, train for skill",
+      "detail": "The Taj's CEO said he could teach anyone to be a waiter but could not teach them to be nice. On 26/11 that choice showed. When you hire your first team, test for honesty and care, not only marks."
+    },
+    {
+      "title": "Do not buy trophies to look big",
+      "detail": "IHCL's costly foreign hotels led to write-downs that Cyrus Mistry's office put close to its whole net worth. Growth that looks good in headlines can sink a company. Spend where your customers already value you."
+    }
+  ],
+  "moments": [
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 140,
+      "label": "What it was like inside the Taj on 26/11"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 267,
+      "label": "The story of Thomas Varghese"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 354,
+      "label": "Amit Peshave and the Taj control-room operators"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 437,
+      "label": "Why did Taj staff go beyond the call of duty?"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 479,
+      "label": "Hiring for character, not grades"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 559,
+      "label": "Recognition as a reward"
+    },
+    {
+      "youtubeId": "PHQQJFm2KjY",
+      "at": 597,
+      "label": "The criticism"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Tata Group heritage: Jamsetji Tata (tata.com)",
+      "url": "https://www.tata.com/about-us/tata-group-our-heritage/tata-titans/jamsetji-tata"
+    },
+    {
+      "label": "Tata newsroom: Taj, the diamond by the sea (tata.com)",
+      "url": "https://www.tata.com/newsroom/taj-diamond-by-the-sea"
+    },
+    {
+      "label": "Tata newsroom: 120 years of the Taj Mahal Palace, photo feature (tata.com, 2023)",
+      "url": "https://www.tata.com/newsroom/heritage/120-years-taj-mahal-photo-feature"
+    },
+    {
+      "label": "Scroll: Why did Jamsetji Tata build the Taj? (excerpt from Harish Bhat, Tata Stories, Penguin)",
+      "url": "https://scroll.in/article/1044517"
+    },
+    {
+      "label": "The Guardian: Charles Allen, The Taj Mahal hotel will, as before, survive the threat of destruction, 3 Dec 2008",
+      "url": "https://www.theguardian.com/commentisfree/2008/dec/03/taj-mahal-hotel-mumbai"
+    },
+    {
+      "label": "Tata Sons, The Tata Story: 150 Years, 1868–2018 (PDF)",
+      "url": "https://www.tata.com/content/dam/tata/pdf/the_tata_story_150_years_1868-2018.pdf"
+    },
+    {
+      "label": "Tata Group: Jamsetji Tata's travels (tata.com)",
+      "url": "https://tata.com/about-us/tata-group-our-heritage/jamsetji-tata-180-anniversary/jamsetji-tata-travel"
+    },
+    {
+      "label": "Outlook Traveller: Taj Mahal Palace, celebrating 120 years, Dec 2023",
+      "url": "https://www.outlooktraveller.com/celebrating-people/taj-mahal-palace-celebrating-120-years-of-excellence-and-heritage"
+    },
+    {
+      "label": "History News Network (AFP): Mumbai's Taj Mahal hotel a piece of Indian history, Nov 2008",
+      "url": "https://www.historynewsnetwork.org/article/57496"
+    },
+    {
+      "label": "Harvard Business School Working Knowledge: Terror at the Taj, Jan 2011",
+      "url": "https://www.library.hbs.edu/working-knowledge/terror-at-the-taj"
+    },
+    {
+      "label": "Harvard Business Review: Rohit Deshpandé and Anjali Raina, The Ordinary Heroes of the Taj, Dec 2011",
+      "url": "https://hbr.org/2011/12/the-ordinary-heroes-of-the-taj"
+    },
+    {
+      "label": "Business Today: The iron man (Karambir Kang), Dec 2008",
+      "url": "https://businesstoday.in/magazine/in-this-issue/story/the-iron-man-127864-2008-12-11"
+    },
+    {
+      "label": "TravelMole: Taj Hotel honours slain employees (Taj statement), 4 Dec 2008",
+      "url": "https://www.travelmole.com/news/taj-hotel-honours-slain-employees"
+    },
+    {
+      "label": "Boston University School of Hospitality: Karambir Singh Kang profile",
+      "url": "https://www.bu.edu/hospitality/profile/karambir-singh-kang"
+    },
+    {
+      "label": "Open: Case (study) for heroism, Jan 2011",
+      "url": "https://openthemagazine.com/shorts/case-study-for-heroism"
+    },
+    {
+      "label": "Outlook: Taj Demigod (profile of Ajit Kerkar, 1997)",
+      "url": "https://www.outlookindia.com/business/taj-demigod-news-204171"
+    },
+    {
+      "label": "Vir Sanghvi: the story of the Taj group and Ajit Kerkar (virsanghvi.com, c. 2016)",
+      "url": "https://virsanghvi.com/Article-Details.aspx?key=1290"
+    },
+    {
+      "label": "Business Standard: Kerkar severs links with Tata group firms, 16 Sep 1997",
+      "url": "https://www.business-standard.com/article/specials/kerkar-severs-links-with-tata-group-firms-197091601043_1.html"
+    },
+    {
+      "label": "The Independent: Taj Lake Palace, Udaipur, May 2015",
+      "url": "https://www.independent.co.uk/travel/hotels/taj-lake-palace-udaipur-raj-before-beauty-but-this-luxury-is-timeless-10235728.html"
+    },
+    {
+      "label": "The Economic Times: IHCL faced 'near-death experience' due to acquisitions, Cyrus Mistry office, Aug 2017",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ihcl-faced-near-death-experience-due-to-acquisitions-cyrus-p-mistry-office/articleshow/60163272.cms"
+    },
+    {
+      "label": "Hindu BusinessLine: Indian Hotels Company appoints Puneet Chhatwal as MD and CEO, 29 Aug 2017",
+      "url": "https://www.thehindubusinessline.com/companies/indian-hotels-company-appoints-puneet-chhatwal-as-md-and-ceo/article9835203.ece"
+    },
+    {
+      "label": "IHCL press release (NSE filing): IHCL announces financial results for Q2 FY2027, 21 Oct 2026 (PDF)",
+      "url": "https://nsearchives.nseindia.com/corporate/bakhtawar_irani_tajhotels_com_21102026170451_Press_Release.pdf"
+    },
+    {
+      "label": "Asian Hospitality: IHCL Q2 revenue growth and FY2027 outlook, Oct 2026",
+      "url": "https://www.asianhospitality.com/ihcl-q2-revenue-growth-fy2027-outlook/"
+    },
+    {
+      "label": "Free Press Journal: Indian Hotels Company reports 21% jump in Q2 FY27 revenue, Oct 2026",
+      "url": "https://www.freepressjournal.in/business/indian-hotels-company-reports-21-jump-in-q2-fy27-revenue-to-2566-crore-raises-full-year-guidance"
+    },
+    {
+      "label": "Brand Finance: Hilton tops luxury hotels by brand value, Taj retains crown as strongest luxury hotel brand (Hotels 50 2026), 23 Jul 2026",
+      "url": "https://brandfinance.com/press-releases/hilton-remains-the-worlds-most-valuable-luxury-hotel-brand-at-19-2-billion"
+    },
+    {
+      "label": "Brand Finance: India 100 2026, Taj Hotels named India's strongest brand, 14 Jul 2026",
+      "url": "https://brandfinance.com/press-releases/tata-group-accelerates-into-the-future-as-indias-most-valuable-brand-for-18th-year"
+    },
+    {
+      "label": "Brand Finance: Taj retains title as the world's strongest hotel brand ranked in 2025, 15 Jul 2025",
+      "url": "https://brandfinance.com/press-releases/taj-retains-title-as-the-worlds-strongest-hotel-brand-ranked-in-2025"
+    }
+  ],
+  "factCheck": {
+    "method": "Researched from 27 sources: Tata's own heritage pages and 150-year history, Harish Bhat's Tata Stories, historian Charles Allen, a 2008 AFP report, Harvard Business School, Business Today, the Taj's December 2008 statement, Kang's professional profile, IHCL's 21 Oct 2026 stock-exchange filing and Brand Finance's own press releases. Then independently re-checked claim by claim against the cited source plus a second source; all four quotes matched word for word to the articles that first printed them; the seven video moments checked against Mohak Mangal's own chapter list; photos checked on Wikimedia Commons, and one (of Puneet Chhatwal) removed because no caption on Commons or Flickr names the person shown. The ₹6 room rate rests on Harish Bhat's book alone.",
+    "disputed": [
+      {
+        "claim": "What the Taj cost",
+        "note": "Tata's heritage page says ₹4.21 crore; another Tata page says over ₹4 crore and also 'more than £300,000'; Harish Bhat's book gives ₹26 lakh. These cannot all be right, so we give no figure."
+      },
+      {
+        "claim": "Which hotel turned Jamsetji away",
+        "note": "The legend names Watson's Hotel in most versions and the Apollo Hotel in AFP's 2008 report. Tata's own pages call it a legend; Tata's 150-year history also mentions a Times of India editor urging him on."
+      },
+      {
+        "claim": "The Paris pillars",
+        "note": "One Tata page says he saw spun-iron pillars at the 1900 Paris exhibition and ordered 10; another says he ordered 'more than a score' on a 1902 visit. Outlook Traveller says the ballroom pillars are of the same steel as the Eiffel Tower."
+      },
+      {
+        "claim": "Year the Tower wing opened",
+        "note": "Vir Sanghvi gives 1972; Tata's pages give 1973. We write 1972–1973."
+      },
+      {
+        "claim": "Taj staff killed on 26/11",
+        "note": "The Taj's statement of 4 December 2008 said 10 colleagues died; Harvard Business School's 2011 write-up says 'a dozen employees'. We give no single number."
+      },
+      {
+        "claim": "Length of the siege",
+        "note": "Harvard Business School says 59 hours; Business Today and other reports say 60. We write 59–60."
+      },
+      {
+        "claim": "Lake Palace: owned or managed?",
+        "note": "The Independent says the Taj group has 'owned' the Lake Palace since 1971; Vir Sanghvi says the palace hotels were run on management contracts. We say it 'became a Taj hotel'."
+      },
+      {
+        "claim": "Asia's first air-conditioned hotel",
+        "note": "Outlook Traveller says the Taj had Asia's first air-conditioning in its suites. We found no independent record, so we left it out."
+      },
+      {
+        "claim": "Brand Finance titles",
+        "note": "In 2025 Brand Finance named Taj the world's strongest hotel brand overall. In 2026 it named Taj the world's strongest luxury hotel brand, while Vinpearl topped the overall strength ranking (Taj second), and separately named Taj India's strongest brand for the fifth consecutive year (BSI 93.5/100, AAA+)."
+      },
+      {
+        "claim": "Why Kerkar left",
+        "note": "Outlook (1997) says Ratan Tata reportedly suspected Kerkar was corrupt, and the Tatas accused his team of foreign-exchange (FERA) violations. Nani Palkhivala, who led the campaign, said there was no investigation, only lost confidence. Vir Sanghvi frames it as a clash of management styles. Nothing was proven against Kerkar, so we do not state wrongdoing as fact."
+      },
+      {
+        "claim": "Ahvaan 2025",
+        "note": "IHCL's 2021–25 growth plan was called Ahvaan 2025 and was followed by Accelerate 2030 (target: 700 hotels). We could confirm Accelerate 2030 in IHCL's own filing but could not open a primary source for Ahvaan 2025's targets, so we left its details out."
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+const fs=require('fs'),https=require('https');
+const f=process.argv[2];const b=JSON.parse(fs.readFileSync(f,'utf8'));
+const n=b.sources.length;const bad=[];const used=new Set();
+const chk=(a,w)=>{if(!Array.isArray(a)||!a.length)bad.push('nocite '+w);(a||[]).forEach(i=>{used.add(i);if(i<0||i>=n)bad.push('range '+w+' '+i)})};
+chk(b.hookSrc,'hook');b.glance.forEach((g,i)=>chk(g.src,'glance'+i));b.contact.channels.forEach((c,i)=>chk(c.src,'ch'+i));b.contact.socials.forEach((c,i)=>chk(c.src,'so'+i));
+console.log('sources',n,'channels',b.contact.channels.length,'socials',b.contact.socials.length,'glance',b.glance.length,'photos',b.photos.length,'titlewords',b.title.split(/\s+/).length);
+console.log('bad',bad);console.log('unused',[...Array(n).keys()].filter(i=>!used.has(i)).map(i=>i+':'+b.sources[i].label.slice(0,50)));
+const words=JSON.stringify([b.title,b.subtitle,b.hook,b.glance.map(g=>g.value),b.contact.howToReach,b.factCheck]).split(/\s+/).length;console.log('words~',words);
+const ph=[b.portrait,...b.photos];
+const head=u=>new Promise(res=>{const r=https.request(u,{method:'HEAD',headers:{'User-Agent':'BillionDollarPDFs-research/1.0 (read-only; low rate)'}},x=>res(x.statusCode+' '+x.headers['content-type']+' '+x.headers['content-length']));r.on('error',e=>res('ERR '+e.message));r.end()});
+(async()=>{for(const p of ph){console.log(await head(p.url),p.url.split('/').pop().slice(0,60));await new Promise(r=>setTimeout(r,2500))}})();

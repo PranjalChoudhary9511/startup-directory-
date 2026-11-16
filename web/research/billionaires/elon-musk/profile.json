@@ -1,0 +1,619 @@
+{
+  "name": "Elon Musk",
+  "title": "The Boy Who Bet on Mars",
+  "subtitle": "From a $500 video game in Pretoria to rockets, electric cars and the world's biggest fortune, and what it all cost him.",
+  "hook": "In December 2008, both of Elon Musk's companies were close to death. On 23 December, NASA picked SpaceX, whose Falcon 9 rocket had ==never flown a full mission==, for up to **$1.6 billion** of space-station cargo flights. The next evening, at ==6 pm on Christmas Eve==, Tesla's rescue funding round finally closed. Musk later wrote that it was the \"Last hour of last day possible\", with the company three days from bankruptcy.",
+  "hookSrc": [
+    0,
+    1
+  ],
+  "portrait": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_(cropped2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg",
+    "caption": "Elon Musk at the U.S. Air Force Academy in Colorado Springs, 7 April 2022, where he spoke at the Ira C. Eaker Distinguished Speaker event.",
+    "author": "U.S. Air Force / Trevor Cokley",
+    "license": "Public domain",
+    "year": 2022
+  },
+  "photos": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Falcon_1_Flight_4_launch.jpg/960px-Falcon_1_Flight_4_launch.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Falcon_1_Flight_4_launch.jpg",
+      "caption": "28 September 2008: SpaceX's Falcon 1 launches from Omelek Island in the Kwajalein Atoll on its fourth flight.",
+      "author": "SpaceX",
+      "license": "CC0",
+      "year": 2008
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barack_Obama_and_Elon_Musk_tour_commercial_rocket_processing_facility,_Cape_Canaveral_Air_Force_Station,_Florida,_April_15,_2010_(343681769).jpg/960px-Barack_Obama_and_Elon_Musk_tour_commercial_rocket_processing_facility,_Cape_Canaveral_Air_Force_Station,_Florida,_April_15,_2010_(343681769).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Barack_Obama_and_Elon_Musk_tour_commercial_rocket_processing_facility,_Cape_Canaveral_Air_Force_Station,_Florida,_April_15,_2010_(343681769).jpg",
+      "caption": "15 April 2010, Cape Canaveral: President Barack Obama talks with Col. Lee Rosen of the 45th Space Wing and SpaceX CEO and CTO Elon Musk before touring a commercial rocket processing facility.",
+      "author": "National Archives and Records Administration",
+      "license": "Public domain",
+      "year": 2010
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Elon_Musk%27s_Tesla_Roadster_(40143096241).jpg/960px-Elon_Musk%27s_Tesla_Roadster_(40143096241).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk%27s_Tesla_Roadster_(40143096241).jpg",
+      "caption": "February 2018: Elon Musk's own Tesla Roadster in space with Earth behind it, launched on the Falcon Heavy demo mission with a suited mannequin, \"Starman\", in the driver's seat.",
+      "author": "SpaceX",
+      "license": "CC0",
+      "year": 2018
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-06-11-tesla-shareholder-meeting-elon-musk-jb-straubel-drew-baglino.jpg/960px-2019-06-11-tesla-shareholder-meeting-elon-musk-jb-straubel-drew-baglino.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:2019-06-11-tesla-shareholder-meeting-elon-musk-jb-straubel-drew-baglino.jpg",
+      "caption": "Tesla's 2019 annual shareholder meeting: Elon Musk with J.B. Straubel and Drew Baglino, two engineers who had each spent more than 14 years at Tesla.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2019
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Starship_Booster_Landing_on_Mechzilla_(54064036815).jpg/960px-Starship_Booster_Landing_on_Mechzilla_(54064036815).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Starship_Booster_Landing_on_Mechzilla_(54064036815).jpg",
+      "caption": "13 October 2024: the Super Heavy booster is caught by the launch tower's arms during Starship flight test 5.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2024
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_(crop2).jpg/960px-Elon_Musk_Royal_Society_(crop2).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg",
+      "caption": "Elon Musk in a July 2018 portrait taken for the Royal Society in London.",
+      "author": "Debbie Rowe",
+      "license": "CC BY-SA 3.0",
+      "year": 2018
+    }
+  ],
+  "glance": [
+    {
+      "label": "Born",
+      "value": "28 June 1971, Pretoria, South Africa",
+      "src": [
+        2
+      ]
+    },
+    {
+      "label": "Grew up",
+      "value": "Pretoria, with a South African father and a Canadian mother. At 12 he sold the code for his space game Blastar to a magazine for $500.",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "label": "Left home",
+      "value": "Moved to Canada alone at 17 and worked on a cousin's farm in Saskatchewan",
+      "src": [
+        4,
+        2
+      ]
+    },
+    {
+      "label": "Toughest early job",
+      "value": "Cleaning out a lumber-mill boiler room in Vancouver for $18 an hour",
+      "src": [
+        4
+      ]
+    },
+    {
+      "label": "Education",
+      "value": "Two years at Queen's University, Canada, then the University of Pennsylvania: physics plus an economics/business degree from Wharton, dated 1997",
+      "src": [
+        5,
+        6,
+        2,
+        27
+      ]
+    },
+    {
+      "label": "First company",
+      "value": "Zip2 (1995, age 24, with brother Kimbal): online maps and directories for newspapers. Sold to Compaq in 1999 for $307 million.",
+      "src": [
+        7,
+        2
+      ]
+    },
+    {
+      "label": "Second company",
+      "value": "X.com (1999), which became PayPal. eBay bought PayPal for about $1.5 billion in stock in 2002.",
+      "src": [
+        2,
+        8
+      ]
+    },
+    {
+      "label": "Runs today",
+      "value": "CEO of Tesla and of SpaceX. SpaceX absorbed xAI (which owns X) in February 2026 and listed on Nasdaq in June 2026 in a record $75 billion IPO.",
+      "src": [
+        9,
+        10,
+        28
+      ]
+    },
+    {
+      "label": "Net worth",
+      "value": "About $924 billion (Forbes real-time, 29 Oct 2026), the richest person on Forbes's list. Forbes briefly had him above $1 trillion on 9 Oct 2026.",
+      "src": [
+        11,
+        28
+      ]
+    },
+    {
+      "label": "Family & home",
+      "value": "Divorced; father of 14 children, per Forbes. Lives in Austin, Texas.",
+      "src": [
+        11
+      ]
+    }
+  ],
+  "contact": {
+    "howToReach": "Musk's only personal public channel is his X account, @elonmusk, where he posts constantly and sometimes replies in public, but with an audience that size a cold DM almost never gets read. Classic press routes are close to dead too: Tesla disbanded its US PR team in 2020, and X's press inbox once auto-replied to journalists with a poop emoji. What does work is going to the right team for the right reason: investor questions to Tesla Investor Relations or SpaceX's corporate secretary, media questions to SpaceX's media desk, and jobs through hiring calls Musk posts himself, such as the August 2026 request for a résumé plus three bullet points of exceptional ability sent to datacenters@spacex.com. The Musk Foundation's website lists its focus areas but publishes no application process, so don't send grant pitches, and never pay a \"contact finder\" site or trust anyone who claims to be Musk and asks for money or crypto. Keep any message under 150 words: one line on who you are, three concrete bullets on what you have actually built, and one clear ask.",
+    "channels": [
+      {
+        "kind": "address",
+        "label": "Tesla head office (principal executive offices)",
+        "value": "Tesla, Inc., 1 Tesla Road, Austin, Texas 78725, USA",
+        "url": null,
+        "whose": "Tesla, Inc.",
+        "src": [
+          12
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "Tesla head office telephone (as filed with the SEC)",
+        "value": "+1 (512) 516-8177",
+        "url": "tel:+15125168177",
+        "whose": "Tesla, Inc.",
+        "src": [
+          12
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Tesla Investor Relations",
+        "value": "ir@tesla.com",
+        "url": "mailto:ir@tesla.com",
+        "whose": "Tesla, Inc.",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "Tesla shareholder mail (board nominations and shareholder notices)",
+        "value": "shareholdermail@tesla.com",
+        "url": "mailto:shareholdermail@tesla.com",
+        "whose": "Tesla, Inc.",
+        "src": [
+          13
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Tesla investor relations website",
+        "value": "ir.tesla.com",
+        "url": "https://ir.tesla.com",
+        "whose": "Tesla, Inc.",
+        "src": [
+          12
+        ]
+      },
+      {
+        "kind": "address",
+        "label": "SpaceX head office (principal executive offices)",
+        "value": "Space Exploration Technologies Corp., 1 Rocket Road, Starbase, Texas 78521, USA",
+        "url": null,
+        "whose": "SpaceX",
+        "src": [
+          14
+        ]
+      },
+      {
+        "kind": "phone",
+        "label": "SpaceX telephone (listed in its SEC registration statement)",
+        "value": "+1 (310) 363-6000",
+        "url": "tel:+13103636000",
+        "whose": "SpaceX",
+        "src": [
+          14
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "SpaceX corporate secretary (shareholder communications)",
+        "value": "corporatesecretary@spacex.com",
+        "url": "mailto:corporatesecretary@spacex.com",
+        "whose": "SpaceX",
+        "src": [
+          15
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "SpaceX investor updates sign-up (reports, filings, events)",
+        "value": "ir.spacex.com",
+        "url": "https://ir.spacex.com/",
+        "whose": "SpaceX",
+        "src": [
+          16
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "SpaceX media desk (launch and operations press)",
+        "value": "media@spacex.com",
+        "url": "mailto:media@spacex.com",
+        "whose": "SpaceX (as published by NASA JPL)",
+        "src": [
+          17
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "SpaceX hiring call for data-centre engineers and skilled trades (posted by Musk, Aug 2026)",
+        "value": "datacenters@spacex.com",
+        "url": "mailto:datacenters@spacex.com",
+        "whose": "SpaceX",
+        "src": [
+          25
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "xAI sales (Grok for business)",
+        "value": "sales@x.ai",
+        "url": "mailto:sales@x.ai",
+        "whose": "xAI (a SpaceX company)",
+        "src": [
+          18
+        ]
+      },
+      {
+        "kind": "email",
+        "label": "The Boring Company general contact",
+        "value": "tunnels@boringcompany.com",
+        "url": "mailto:tunnels@boringcompany.com",
+        "whose": "The Boring Company",
+        "src": [
+          19
+        ]
+      },
+      {
+        "kind": "form",
+        "label": "Neuralink patient registry (clinical-trial interest)",
+        "value": "neuralink.com/patient-registry",
+        "url": "https://neuralink.com/patient-registry",
+        "whose": "Neuralink",
+        "src": [
+          20
+        ]
+      },
+      {
+        "kind": "website",
+        "label": "Musk Foundation (grant focus areas; no public application form)",
+        "value": "muskfoundation.org",
+        "url": "https://www.muskfoundation.org/",
+        "whose": "Musk Foundation",
+        "src": [
+          21
+        ]
+      }
+    ],
+    "socials": [
+      {
+        "platform": "x",
+        "handle": "@elonmusk",
+        "url": "https://x.com/elonmusk",
+        "whose": "Elon Musk (personal)",
+        "src": [
+          29
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@Tesla",
+        "url": "https://x.com/Tesla",
+        "whose": "Tesla (company)",
+        "src": [
+          30
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@SpaceX",
+        "url": "https://x.com/SpaceX",
+        "whose": "SpaceX (company)",
+        "src": [
+          31
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@xai",
+        "url": "https://x.com/xai",
+        "whose": "xAI (company)",
+        "src": [
+          32
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@Starlink",
+        "url": "https://x.com/Starlink",
+        "whose": "Starlink (SpaceX)",
+        "src": [
+          35
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@neuralink",
+        "url": "https://x.com/neuralink",
+        "whose": "Neuralink (company)",
+        "src": [
+          33
+        ]
+      },
+      {
+        "platform": "x",
+        "handle": "@boringcompany",
+        "url": "https://x.com/boringcompany",
+        "whose": "The Boring Company (company)",
+        "src": [
+          34,
+          19
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "@SpaceX",
+        "url": "https://www.youtube.com/@SpaceX",
+        "whose": "SpaceX (company)",
+        "src": [
+          36
+        ]
+      },
+      {
+        "platform": "youtube",
+        "handle": "@tesla",
+        "url": "https://www.youtube.com/@tesla",
+        "whose": "Tesla (company)",
+        "src": [
+          37
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "Tesla",
+        "url": "https://www.linkedin.com/company/tesla-motors",
+        "whose": "Tesla (company)",
+        "src": [
+          38
+        ]
+      },
+      {
+        "platform": "linkedin",
+        "handle": "SpaceX",
+        "url": "https://www.linkedin.com/company/spacex",
+        "whose": "SpaceX (company)",
+        "src": [
+          39
+        ]
+      },
+      {
+        "platform": "instagram",
+        "handle": "@spacex",
+        "url": "https://www.instagram.com/spacex/",
+        "whose": "SpaceX (company)",
+        "src": [
+          40
+        ]
+      }
+    ]
+  },
+  "factCheck": {
+    "method": "Front matter and contact card built from primary records first: Tesla's FY2025 10-K and October 2026 proxy statement (SEC EDGAR), SpaceX's June 2026 S-1/A and its investor-relations pages, PayPal's 2002 SEC filing on the eBay deal, NASA JPL's press-kit contact list, and the companies' own websites. Biography facts were cross-checked against Britannica, Queen's University and Wharton publications, and established press (CNBC, Fortune, Spaceflight Now, Euronews). The hook's Christmas 2008 timing uses Spaceflight Now's same-day report and Musk's own post. Net worth is the Forbes real-time figure read on 29 Oct 2026. Photos and licences were read from the Wikimedia Commons API (imageinfo/extmetadata); thumbnails use the standard 960px size because Commons now rejects a 1000px width. Socials cite the official profiles themselves; no personal contacts, guessed emails or data-broker sites were used.",
+    "disputed": [
+      {
+        "claim": "Year Musk left South Africa for Canada",
+        "note": "Britannica says 1988; Queen's Alumni Review gives inconsistent years (1989–91 and 1990), and many accounts say June 1989, just before he turned 18. All agree he was 17, which is what we state."
+      },
+      {
+        "claim": "Musk enrolled at Stanford for two days in 1995",
+        "note": "Musk's long-told story (repeated by Britannica) is that he left a Stanford graduate programme after two days. In October 2024 the Washington Post reported he never took classes, and Stanford told CNN it had no record he enrolled, though he had been admitted to its materials science programme. We do not list Stanford in Education."
+      },
+      {
+        "claim": "Name of Musk's second Penn degree",
+        "note": "Often given as a BS in economics from Wharton; Knowledge at Wharton calls it an undergraduate business degree. Penn dates both degrees to 1997, though he left campus in 1995. We say 'economics/business degree from Wharton'."
+      },
+      {
+        "claim": "How many workers quit the boiler-room job",
+        "note": "CNBC (citing Ashlee Vance's biography) says 30 started and only three were left by the end of the week; other retellings say two of 30. We leave the number out."
+      },
+      {
+        "claim": "SpaceX head-office ZIP code",
+        "note": "SpaceX's S-1/A filed with the SEC gives Starbase, Texas 78521; its IR contact page printed 78725 (Tesla's Austin ZIP) when checked on 29 Oct 2026, likely a typo. We use the SEC filing."
+      },
+      {
+        "claim": "Is Musk a trillionaire?",
+        "note": "Forbes put him above $1 trillion on 9 Oct 2026 and the Daily Pennsylvanian called him the first trillionaire after the June 2026 SpaceX IPO, but Forbes's real-time figure was $977.2 billion on 13 Oct and $924 billion on 29 Oct 2026. The figure moves with SpaceX and Tesla shares, so we give the dated Forbes number."
+      },
+      {
+        "claim": "Musk's SpaceX ownership after the IPO",
+        "note": "Fortune (Oct 2026) says about 45% of shares and about 82% of votes; some IPO-day coverage said 49%. Not stated in our glance."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Spaceflight Now: NASA awards space station cargo contracts to SpaceX and Orbital (23 Dec 2008)",
+      "url": "https://spaceflightnow.com/news/n0812/23crsawards/"
+    },
+    {
+      "label": "Elon Musk on X: post on the Christmas Eve 2008 Tesla funding round (3 Nov 2020)",
+      "url": "https://twitter.com/elonmusk/status/1323637665829396480"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Elon Musk",
+      "url": "https://www.britannica.com/money/Elon-Musk"
+    },
+    {
+      "label": "Vice: Play the video game Elon Musk coded when he was 12 (Blastar)",
+      "url": "https://vice.com/en/article/play-the-video-game-elon-musk-coded-when-he-was-12"
+    },
+    {
+      "label": "CNBC: These are the odd jobs Elon Musk had after leaving home at 17 (3 Jan 2020)",
+      "url": "https://www.cnbc.com/2020/01/03/odd-jobs-elon-musk-had-when-he-was-younger.html"
+    },
+    {
+      "label": "Queen's Alumni Review: Elon Musk (1 Feb 2013)",
+      "url": "https://www.queensu.ca/alumnireview/articles/2013-02-01/elon-musk"
+    },
+    {
+      "label": "Wharton Magazine: Editor's Letter, Fall 2010 (Elon Musk C'97, W'97)",
+      "url": "https://magazine.wharton.upenn.edu/issues/fall-2010/editors-letter-5/"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Zip2",
+      "url": "https://www.britannica.com/money/Zip2"
+    },
+    {
+      "label": "PayPal Inc. Form 8-K, Exhibit 99.1: eBay completes acquisition of PayPal (Oct 2002), SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1103415/000091205702037693/a2090698zex-99_1.htm"
+    },
+    {
+      "label": "CNBC: Musk's xAI, SpaceX combo is the biggest merger of all time, valued at $1.25 trillion (3 Feb 2026)",
+      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html"
+    },
+    {
+      "label": "Euronews: SpaceX makes its Nasdaq debut after the largest public offering in history (12 Jun 2026)",
+      "url": "https://euronews.com/2026/06/12/spacex-makes-its-nasdaq-debut-after-the-largest-public-offering-in-history"
+    },
+    {
+      "label": "Forbes: Elon Musk profile, real-time net worth (read 29 Oct 2026)",
+      "url": "https://www.forbes.com/profile/elon-musk/"
+    },
+    {
+      "label": "Tesla, Inc. Annual Report on Form 10-K for fiscal 2025 (filed 29 Jan 2026), SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"
+    },
+    {
+      "label": "Tesla, Inc. 2026 proxy statement, DEF 14A (filed 19 Oct 2026), SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm"
+    },
+    {
+      "label": "Space Exploration Technologies Corp. Form S-1/A, Amendment No. 2 (filed 3 Jun 2026), SEC EDGAR",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026040364/spaceexplorationtechnologib.htm"
+    },
+    {
+      "label": "SpaceX Investor Relations: FAQs & Contact",
+      "url": "https://ir.spacex.com/faqs-and-contact/default.aspx"
+    },
+    {
+      "label": "SpaceX Investor Relations home page (investor updates sign-up)",
+      "url": "https://ir.spacex.com/"
+    },
+    {
+      "label": "NASA JPL: SPHEREx press kit, media services (SpaceX media contact)",
+      "url": "https://www.jpl.nasa.gov/press-kits/spherex/media-services"
+    },
+    {
+      "label": "xAI developer docs: FAQ, General (sales contact)",
+      "url": "https://docs.x.ai/developers/faq/general"
+    },
+    {
+      "label": "The Boring Company official website",
+      "url": "https://www.boringcompany.com/"
+    },
+    {
+      "label": "Neuralink: Patient Registry (official)",
+      "url": "https://neuralink.com/patient-registry"
+    },
+    {
+      "label": "Musk Foundation official website",
+      "url": "https://www.muskfoundation.org/"
+    },
+    {
+      "label": "Electrek: Tesla dissolves its PR department (6 Oct 2020)",
+      "url": "https://electrek.co/2020/10/06/tesla-dissolves-pr-department/"
+    },
+    {
+      "label": "Fortune: Elon Musk's secret PR machine at X (6 Oct 2023)",
+      "url": "https://fortune.com/2023/10/06/elon-musks-secret-pr-machine-x-twitter/"
+    },
+    {
+      "label": "Fox Business: Twitter sets automatic poop emoji response for all press requests (Mar 2023)",
+      "url": "https://www.foxbusiness.com/technology/elon-musk-sets-automatic-poop-emoji-response-all-press-requests"
+    },
+    {
+      "label": "Fortune: Elon Musk wants engineers and trade talent: 3 bullet points and a résumé (3 Aug 2026)",
+      "url": "https://fortune.com/2026/08/03/elon-musk-wants-engineers-and-trade-talent-all-you-need-is-3-bullet-points-a-resume-and-a-desire-to-create-the-best-data-centers-off-earth/"
+    },
+    {
+      "label": "The Star (Malaysia): Washington Post reports Elon Musk briefly worked illegally in US in 1990s (27 Oct 2024)",
+      "url": "https://www.thestar.com.my/news/world/2024/10/27/washington-post-reports-elon-musk-briefly-worked-illegally-in-us-in-1990s"
+    },
+    {
+      "label": "Knowledge at Wharton: Harnessing the Sun and Outer Space: Elon Musk's Sky-high Vision",
+      "url": "https://knowledge.wharton.upenn.edu/article/harnessing-the-sun-and-outer-space-elon-musks-sky-high-vision/"
+    },
+    {
+      "label": "Fortune: Elon Musk's $3.5 trillion Tesla-SpaceX merger talks put his accountability to the test (21 Oct 2026)",
+      "url": "https://fortune.com/2026/10/21/elon-musk-trillionaire-spacex-tesla-merger-corporate-accountability/"
+    },
+    {
+      "label": "Elon Musk on X (@elonmusk), official profile",
+      "url": "https://x.com/elonmusk"
+    },
+    {
+      "label": "Tesla on X (@Tesla), official profile",
+      "url": "https://x.com/Tesla"
+    },
+    {
+      "label": "SpaceX on X (@SpaceX), official profile",
+      "url": "https://x.com/SpaceX"
+    },
+    {
+      "label": "xAI on X (@xai), official profile",
+      "url": "https://x.com/xai"
+    },
+    {
+      "label": "Neuralink on X (@neuralink), official profile",
+      "url": "https://x.com/neuralink"
+    },
+    {
+      "label": "The Boring Company on X (@boringcompany), official profile",
+      "url": "https://x.com/boringcompany"
+    },
+    {
+      "label": "Starlink on X (@Starlink), official profile",
+      "url": "https://x.com/Starlink"
+    },
+    {
+      "label": "SpaceX on YouTube, official channel",
+      "url": "https://www.youtube.com/@SpaceX"
+    },
+    {
+      "label": "Tesla on YouTube, official channel",
+      "url": "https://www.youtube.com/@tesla"
+    },
+    {
+      "label": "Tesla on LinkedIn, official company page",
+      "url": "https://www.linkedin.com/company/tesla-motors"
+    },
+    {
+      "label": "SpaceX on LinkedIn, official company page",
+      "url": "https://www.linkedin.com/company/spacex"
+    },
+    {
+      "label": "SpaceX on Instagram (@spacex), official account",
+      "url": "https://www.instagram.com/spacex/"
+    },
+    {
+      "label": "The Daily Pennsylvanian: Nearly 30 years after leaving Penn, Elon Musk becomes world’s first trillionaire (Jun 2026)",
+      "url": "https://www.thedp.com/article/2026/06/penn-elon-musk-first-trillionaire-alumni-spacex-ipo"
+    }
+  ]
+}

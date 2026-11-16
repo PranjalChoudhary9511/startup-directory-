@@ -1,0 +1,7 @@
+const https=require('https');
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+function get(u){return new Promise((res,rej)=>{https.get(u,{headers:{'User-Agent':'BillionDollarPDFs-research/1.0 (read-only, low volume)'}},r=>{let d='';r.on('data',c=>d+=c);r.on('end',()=>res(d));}).on('error',rej);});}
+(async()=>{
+for(const q of ['Pathfinder 1 airship','Google first production server']){await wait(25000);const d=await get('https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srlimit=8&format=json&srsearch='+encodeURIComponent(q));console.log(q,d.trim().startsWith('{')?JSON.stringify(JSON.parse(d).query.search.map(s=>s.title)):'RATE');}
+for(const t of ["File:Googleplex HQ (cropped).jpg","File:Goodyear Airdock July 2024.jpg","File:Google's First Production Server.jpg"]){await wait(25000);const d=await get('https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=1000&titles='+encodeURIComponent(t));if(!d.trim().startsWith('{')){console.log('RATE',t);continue;}for(const p of Object.values(JSON.parse(d).query.pages)){const ii=p.imageinfo&&p.imageinfo[0];if(!ii){console.log('MISSING',p.title);continue;}const m=ii.extmetadata;const s=x=>m[x]&&String(m[x].value).replace(/<[^>]+>/g,'').trim();console.log(JSON.stringify({t:p.title,thumb:ii.thumburl,page:ii.descriptionurl,w:ii.width,artist:s('Artist'),lic:s('LicenseShortName'),date:s('DateTimeOriginal'),desc:(s('ImageDescription')||'').slice(0,300)}));}}
+})();

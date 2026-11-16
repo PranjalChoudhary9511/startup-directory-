@@ -1,0 +1,439 @@
+{
+  "slug": "friendster",
+  "name": "Friendster",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Social network",
+  "founded": 2002,
+  "died": 2015,
+  "status": "absorbed-and-closed",
+  "brandColor": "#2b5fa8",
+  "founders": [
+    {
+      "name": "Jonathan Abrams",
+      "role": "Founder and first CEO"
+    }
+  ],
+  "epitaph": "First to friend the world. Too slow to keep it.",
+  "oneLiner": "One of the first big social networks: you made a profile, added friends, and met friends of friends, years before Facebook.",
+  "causeOfDeath": "Its site slowed to a crawl as it grew, bosses kept changing, and users left for MySpace and Facebook; later owners turned it into a games site and shut it.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 53,
+  "endValueUsdM": 26.4,
+  "moneyNote": "Total funding was never published; known rounds include $3M and $10M in 2006 and $20M in 2008. $53M is the reported valuation in Oct 2003. MOL Global paid $39.5M in 2009, of which about $26.4M reached shareholders.",
+  "moneySrc": [
+    0,
+    2,
+    3
+  ],
+  "inOneMinute": [
+    "Friendster launched in 2003 and **invented much of what social networks look like**: profiles, friend lists, friends of friends. It hit 3 million users within months.",
+    "In 2003 it **turned down a $30 million offer from Google**. Then the site got painfully slow as it grew, and three CEOs came and went in about a year.",
+    "Americans moved to MySpace and Facebook. Friendster lived on in Southeast Asia, was **sold for about $26 million in 2009**, became a games site, and shut in 2015."
+  ],
+  "killerLine": "**Speed is a feature.** If your product gets slower as it gets popular, your users will find one that doesn't.",
+  "numbers": [
+    {
+      "value": "$30M",
+      "label": "Google's 2003 offer, which Friendster turned down",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "value": "~$180M",
+      "label": "what those Google shares would have been worth by 2009",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "89%",
+      "label": "of its monthly users who were in Asia, June 2008",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "$26.4M",
+      "label": "what shareholders got when it was sold in 2009",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: friends of friends, online",
+      "body": "In March 2002, a Canadian programmer in California named Jonathan Abrams founded Friendster. The idea was new at the time: **make a profile, add your real friends, and browse their friends**, meeting people through people you already trust. It launched in March 2003, before Facebook, before LinkedIn's rise and before MySpace took off. It spread fast by word of mouth and reached **3 million users by autumn 2003**. If you know the story of Orkut in India, you know the feeling: a social network that suddenly everyone was on. Friendster showed the world what a social network could be. Much of what we now take for granted, such as profiles and friend lists, was popularised here.",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "title": "The rise: Google comes knocking",
+      "body": "Friendster's growth caught the attention of Silicon Valley's biggest names. In 2003, **Google offered to buy it for $30 million**, paid in Google shares. Abrams said no and raised money from top venture firms (investors who fund young companies) instead. Kleiner Perkins and Benchmark invested in October 2003 at a reported $53 million valuation, and famous investors joined the board. It looked like the smart move: why sell early when you might be the next giant? Years later, TechCrunch worked out that those Google shares would have been worth **about $180 million** by 2009. The Associated Press would call staying independent one of the biggest blunders in Silicon Valley.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "title": "The cracks: slow pages, changing bosses",
+      "body": "As more people joined, Friendster got **slower and slower**. TechCrunch later blamed a disastrous initial architecture (the basic way the software was built) that just couldn't scale. Users waiting for pages to load drifted to MySpace, which overtook Friendster in page views around April 2004. That same month, Abrams was removed as CEO. Former Yahoo boss Tim Koogle stepped in, then Scott Sassa in June 2004, then Taek Kwon in May 2005: **three CEOs in about a year**. Insiders described fights between the product and engineering heads. A planned sale failed in late 2005, and the company had to be refinanced in early 2006. Meanwhile, Facebook was spreading quickly across US colleges.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "The fall: big in Asia, then gone",
+      "body": "Something surprising happened. While Americans left, Friendster became **huge in Southeast Asia**. In June 2008 it had 37.1 million monthly users, and 33 million of them were in Asia, especially Malaysia, the Philippines, Singapore and Indonesia. It raised $20 million and hired a former Google executive as CEO. But traffic soon fell again, to about 18 million monthly visitors. In December 2009, Malaysian company MOL Global bought it; shareholders received about $26.4 million. In 2011 the new owners **deleted members' profiles and photos** and turned Friendster into a games site. It never recovered. On 14 June 2015, Friendster shut down for good.",
+      "src": [
+        0,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Mar 2002",
+      "event": "Jonathan Abrams founds Friendster",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Mar 2003",
+      "event": "Launches; reaches 3 million users by autumn",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2003",
+      "event": "Turns down a $30 million offer from Google",
+      "kind": "peak",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Oct 2003",
+      "event": "Kleiner Perkins and Benchmark invest at a reported $53M valuation",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Apr 2004",
+      "event": "MySpace overtakes it in page views; Abrams removed as CEO",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2004–2005",
+      "event": "Three CEOs in about a year as the site struggles with speed",
+      "kind": "warning",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Early 2006",
+      "event": "Refinanced after a failed sale",
+      "kind": "crisis",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Aug 2008",
+      "event": "Raises $20M; 37.1M monthly users, 33M of them in Asia",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Dec 2009",
+      "event": "Sold to Malaysia's MOL Global; about $26.4M reaches shareholders",
+      "kind": "end",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "2011",
+      "event": "Profiles and photos deleted as it becomes a social games site",
+      "kind": "crisis",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "14 Jun 2015",
+      "event": "Friendster shuts down",
+      "kind": "end",
+      "src": [
+        0,
+        5
+      ]
+    },
+    {
+      "date": "2026",
+      "event": "An unrelated new team relaunches an app under the Friendster name",
+      "kind": "after",
+      "src": [
+        0,
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Monthly users after the Asia boom",
+      "unit": "million monthly users",
+      "kind": "bar",
+      "labels": [
+        "Jun 2008",
+        "Dec 2009"
+      ],
+      "series": [
+        {
+          "name": "Monthly users",
+          "values": [
+            37.1,
+            18
+          ]
+        }
+      ],
+      "takeaway": "Even its second life in Asia faded fast once Facebook arrived there too.",
+      "src": [
+        2,
+        3
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Oct 2003",
+      "round": "Venture round",
+      "amountUsdM": null,
+      "valuationUsdM": 53,
+      "investors": [
+        "Kleiner Perkins",
+        "Benchmark Capital"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Feb 2006",
+      "round": "Recapitalisation",
+      "amountUsdM": 3,
+      "valuationUsdM": null,
+      "investors": [
+        "Kleiner Perkins",
+        "Benchmark Capital"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2006",
+      "round": "Venture round",
+      "amountUsdM": 10,
+      "valuationUsdM": null,
+      "investors": [
+        "DAG Ventures"
+      ],
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Aug 2008",
+      "round": "Venture round",
+      "amountUsdM": 20,
+      "valuationUsdM": null,
+      "investors": [
+        "IDG Ventures",
+        "Kleiner Perkins",
+        "Benchmark Capital",
+        "DAG Ventures",
+        "Founders Fund"
+      ],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 35
+    },
+    {
+      "key": "competition",
+      "weight": 30
+    },
+    {
+      "key": "team",
+      "weight": 20
+    },
+    {
+      "key": "focus",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Let the site get slow",
+      "explain": "Friendster's software was **not built to handle millions of users**. TechCrunch described a massive slowdown as traffic grew, caused by an architecture that couldn't scale. On a social network, every second of waiting is a reason to leave, and MySpace was right there.",
+      "src": [
+        1
+      ]
+    },
+    {
+      "title": "Too many bosses, too fast",
+      "explain": "The founder was removed in April 2004, followed by **three CEOs in about a year**. Insiders also described fights between the heads of product and engineering. Each change meant new plans while the basic problem, speed, stayed unfixed. Meanwhile, rivals like MySpace kept shipping improvements every week.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Watched rivals take its users",
+      "explain": "MySpace overtook Friendster in page views around April 2004, and Facebook spread through US colleges soon after. Friendster had invented the category but **did not fix its product fast enough to defend it**. Users don't stay loyal to the inventor of an idea; they stay with whoever serves them best today.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Deleted its users' memories",
+      "explain": "In 2011 the new owners turned Friendster into a games site and **removed members' photos and profiles**. For many people, those years of memories were the only reason to come back. Wiping them destroyed the last bit of loyalty the brand had.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "Said no to Google, then stumbled",
+      "explain": "Turning down **$30 million from Google** in 2003 was a reasonable bet at the time. The real mistake was not executing afterwards. Those Google shares would have been worth about $180 million by 2009, while Friendster sold for far less.",
+      "src": [
+        1,
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is your app getting slower as more people use it?",
+    "Have you changed CEO or core leaders more than once in the past year?",
+    "Are your product and engineering leads arguing more than they're shipping?",
+    "Is a newer rival growing faster than you with a similar product?",
+    "Are you planning a pivot that would delete or lock away what your users already built?"
+  ],
+  "lessons": [
+    {
+      "title": "Fix speed before features",
+      "detail": "If pages load slowly, users don't complain, they leave. Measure load time every week, and when it rises, pause new features until it is fixed."
+    },
+    {
+      "title": "Build for 10x your current users",
+      "detail": "You don't need to over-engineer on day one, but know what will break at ten times your traffic, and fix it before you get there."
+    },
+    {
+      "title": "Stable leadership matters",
+      "detail": "Every new CEO brings a new plan. If you bring in experienced leaders, give them time and a clear mandate, and keep the founder's product knowledge close."
+    },
+    {
+      "title": "Respect what users have created",
+      "detail": "Photos, posts, playlists and saved data are your users' memories. Any pivot that deletes them burns trust. Let people export, and keep the core experience alive."
+    },
+    {
+      "title": "Know your real audience",
+      "detail": "Friendster's biggest fans ended up in Southeast Asia, not America. Track where your users actually are and design for them, like Orkut once found its crowd in India and Brazil."
+    }
+  ],
+  "quote": {
+    "text": "one of the biggest blunders in Silicon Valley",
+    "who": "The Associated Press",
+    "context": "Describing Friendster's decision to turn down Google's 2003 offer, in a 2007 report",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "MOL Global ran Friendster as a social games site popular in Singapore, Malaysia and the Philippines, but it closed on 14 June 2015. The idea Friendster pioneered became one of the biggest businesses in history through MySpace and then Facebook. In 2023 a new company bought the domain, and in 2026 it launched a Friendster app with no ads and no algorithmic feed. It has no link to the original company and none of its old data.",
+    "src": [
+      0,
+      4,
+      5
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Friendster (citing NYT 2006, AP 2007, CNET, comScore)",
+      "url": "https://en.wikipedia.org/wiki/Friendster"
+    },
+    {
+      "label": "TechCrunch: The Friendster tell-all story (Oct 2006)",
+      "url": "https://techcrunch.com/2006/10/15/the-friendster-tell-all-story/"
+    },
+    {
+      "label": "TechCrunch: Friendster valued at just $26.4 million in sale (Dec 2009)",
+      "url": "https://techcrunch.com/2009/12/15/friendster-valued-at-just-26-4-million-in-sale/"
+    },
+    {
+      "label": "VentureBeat: Friendster raises $20 million, nabs a Googler to be CEO (Aug 2008)",
+      "url": "https://venturebeat.com/2008/08/04/friendster-raises-20-million-nabs-a-googler-to-be-ceo/"
+    },
+    {
+      "label": "NBC News: Friendster relaunches as a social gaming site (Apr 2012)",
+      "url": "https://www.nbcnews.com/id/wbna47180617"
+    },
+    {
+      "label": "Philstar Tech: Friendster returns as ad-free social media (Apr 2026)",
+      "url": "https://philstartech.com/news/2026/04/29/18132/friendster-return-ad-free-social-media-no-ads-no-algorithms"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Pages took 40 seconds to load",
+        "note": "Often repeated from a 2006 NYT report; we could not read the original, so the story says only that the site became very slow."
+      },
+      {
+        "claim": "Facebook bought Friendster's patents for $40 million",
+        "note": "Reported in 2010; we could not open the original report."
+      },
+      {
+        "claim": "Friendster had 115 million registered users",
+        "note": "Wikipedia gives this figure inconsistently (2008 vs after 2011); not used."
+      },
+      {
+        "claim": "Friendster turned down a $150 million offer in 2008",
+        "note": "TechCrunch reported this from a single source."
+      }
+    ]
+  }
+}

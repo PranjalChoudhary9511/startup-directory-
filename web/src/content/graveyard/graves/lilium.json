@@ -1,0 +1,431 @@
+{
+  "slug": "lilium",
+  "name": "Lilium",
+  "region": "global",
+  "country": "Germany",
+  "city": "Near Munich",
+  "sector": "Electric air taxis (eVTOL)",
+  "founded": 2015,
+  "died": 2025,
+  "status": "insolvent",
+  "brandColor": "#0b1f3a",
+  "founders": [
+    {
+      "name": "Daniel Wiegand",
+      "role": "Co-founder and first CEO"
+    },
+    {
+      "name": "Sebastian Born",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Matthias Meiner",
+      "role": "Co-founder"
+    },
+    {
+      "name": "Patrick Nathen",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Ten years to lift off. Never cleared the runway.",
+  "oneLiner": "Designed an electric 'air taxi' jet that takes off straight up like a helicopter and flies like a plane, using 36 small electric fans.",
+  "causeOfDeath": "Certifying a brand-new kind of aircraft takes years and billions; Lilium ran out of money first, and its last two rescues fell through.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 2400,
+  "endValueUsdM": null,
+  "moneyNote": "Investors put in about €1.5B over its life (DPA via Yahoo Finance). Valued at $2.4B when it listed via SPAC in Sept 2021 (Wikipedia). No sale price published for the assets.",
+  "moneySrc": [
+    2,
+    3
+  ],
+  "inOneMinute": [
+    "Four Munich university students designed a **flying electric jet** for city-to-city air taxis. Investors put in about **€1.5 billion**.",
+    "It collected letters of intent for hundreds of jets, but **never got the aircraft certified** to carry paying passengers.",
+    "It went **insolvent twice**: in late 2024, and again in February 2025 when a promised €200M rescue never arrived."
+  ],
+  "killerLine": "In regulated hard tech, **the regulator's timeline is your runway**. Raise for it, not for your hopes.",
+  "numbers": [
+    {
+      "value": "€1.5B",
+      "label": "raised from investors over 10 years",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "36",
+      "label": "electric fans on each Lilium Jet",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "~1,000",
+      "label": "workers laid off in December 2024",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$0.95",
+      "label": "share price in March 2024, after a Nasdaq warning",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a jet for your commute",
+      "body": "In 2015, four engineers and PhD students at the Technical University of Munich, **Daniel Wiegand, Sebastian Born, Matthias Meiner and Patrick Nathen**, started Lilium. They named it after Otto Lilienthal, a German flight pioneer. Their dream was an eVTOL (electric vertical take-off and landing aircraft): a plane that lifts off straight up like a helicopter, then flies forward like a jet, with no runway needed. The Lilium Jet would use **36 small electric fans** set into its wings, and aimed for 300 km/h and a 300 km range. Picture flying from Munich to Nuremberg in under an hour, quietly and with zero emissions. A small unmanned prototype, the Eagle, first flew in April 2017.",
+      "src": [
+        3
+      ]
+    },
+    {
+      "title": "The rise: Tencent, a SPAC and 'orders'",
+      "body": "Investors loved the vision. Lilium raised $90 million in 2017 and **$240 million in March 2020**, led by China's Tencent. A five-seat prototype, Phoenix, flew in 2019. In September 2021, Lilium listed on Nasdaq by merging with Qell, a SPAC (a listed shell company that merges with a private firm so it can skip a normal IPO), at a **$2.4 billion** valuation. Airlines and operators signed up: Brazil's Azul signed a letter of intent for 220 jets, NetJets got rights to order up to 150, and Saudi airline Saudia signed a binding deal in July 2024 for 50 jets plus 50 options. But most of these were **MoUs or letters of intent** (non-binding promises), not paid orders. And no Lilium Jet had yet been certified.",
+      "src": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the long road to certification",
+      "body": "To carry passengers, a new aircraft needs a **type certificate** from aviation regulators like Europe's EASA, which means years of testing to prove it is safe. For a brand-new design, this is the hardest and slowest part. Lilium kept losing money: **€188 million in 2020, €253 million in 2022 and €263 million in 2023**. By March 2024, total losses had reached about €1.36 billion. In April 2023 it reported a **€300 million funding gap** before its first crewed flight. Customer deliveries kept moving out, to 2026. In February 2024, Nasdaq warned that its shares had traded below $1; by March 2024 they were at $0.95.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "The fall: two insolvencies in four months",
+      "body": "In autumn 2024, Lilium asked for a **€50 million loan guarantee** from government. When it failed to get emergency money, its board decided on 24 October 2024 to apply for insolvency in self-administration for its German subsidiaries (a German process where managers keep running the company under court supervision). On 20 December, operations stopped and about **1,000 workers** were laid off. Co-founder Patrick Nathen wrote: \"After 10 years and 10 months, it is a sad fact that Lilium has ceased operations.\" Days later, a group called Mobile Uplift Corporation agreed to buy the business and promised €200 million. But the money **never came through**. On 21 February 2025, Lilium filed for insolvency again, this time for good.",
+      "src": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2015",
+      "event": "Four TU Munich engineers found Lilium",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Apr 2017",
+      "event": "Unmanned Lilium Eagle prototype first flies",
+      "kind": "start",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Mar 2020",
+      "event": "Raises $240M led by Tencent",
+      "kind": "money",
+      "src": [
+        3,
+        5
+      ]
+    },
+    {
+      "date": "Aug 2021",
+      "event": "Azul signs letter of intent for 220 jets",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "event": "Lists on Nasdaq via SPAC merger with Qell at a $2.4B valuation",
+      "kind": "peak",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Apr 2023",
+      "event": "Reports a €300M funding gap before first crewed flight",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Feb 2024",
+      "event": "Nasdaq warns over sub-$1 share price",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "event": "Saudia signs binding deal for 50 jets plus 50 options",
+      "kind": "money",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "24 Oct 2024",
+      "event": "Fails to get government-backed emergency funding; applies for insolvency of German units",
+      "kind": "crisis",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "20 Dec 2024",
+      "event": "Ceases operations; about 1,000 workers laid off",
+      "kind": "crisis",
+      "src": [
+        1,
+        3
+      ]
+    },
+    {
+      "date": "24 Dec 2024",
+      "event": "Mobile Uplift Corporation agrees to buy the business, promising €200M",
+      "kind": "after",
+      "src": [
+        2,
+        3
+      ]
+    },
+    {
+      "date": "21 Feb 2025",
+      "event": "Rescue money never arrives; files for insolvency a second time",
+      "kind": "end",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Net loss by year",
+      "unit": "€ millions",
+      "kind": "bar",
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "series": [
+        {
+          "name": "Net loss",
+          "values": [
+            188,
+            null,
+            253,
+            263
+          ]
+        }
+      ],
+      "takeaway": "With no aircraft to sell, Lilium lost a quarter of a billion euros a year just to keep developing and testing.",
+      "src": [
+        3
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Sep 2017",
+      "round": "Series B",
+      "amountUsdM": 90,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Mar 2020",
+      "round": "Series C",
+      "amountUsdM": 240,
+      "valuationUsdM": null,
+      "investors": [
+        "Tencent (lead)",
+        "Atomico",
+        "Freigeist",
+        "LGT"
+      ],
+      "src": [
+        3,
+        5
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "round": "SPAC merger (Qell Acquisition Corp.)",
+      "amountUsdM": null,
+      "valuationUsdM": 2400,
+      "investors": [
+        "Qell Acquisition Corp. shareholders"
+      ],
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Jul 2023",
+      "round": "Capital increase",
+      "amountUsdM": 192,
+      "valuationUsdM": null,
+      "investors": [],
+      "src": [
+        3
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "tech",
+      "weight": 35
+    },
+    {
+      "key": "funding-dried",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "timing",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Raised for the dream, not the certification timeline",
+      "explain": "Lilium's customer delivery target kept moving, to 2026. Each year of delay cost about **€250 million**. In April 2023 it already had a €300 million gap. A new aircraft's path through regulators is long and fixed; **funding must cover the whole of it**, plus delays.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Counted MoUs as demand",
+      "explain": "Azul's 220-jet letter, NetJets' rights to 150 and many smaller MoUs sounded like a huge order book. Most were **non-binding**. They helped headlines, but they could not be turned into cash or loans when Lilium needed money. Lenders want signed, paid orders, not promises.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Depended on a last-minute rescuer",
+      "explain": "After the first insolvency, Lilium's survival rested on a new investor group promising €200 million. A key backer's money reportedly **never arrived**, and within two months Lilium was insolvent again. A rescue is not real until the money is in the account.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Listed publicly while still a research project",
+      "explain": "Going public via SPAC at $2.4 billion put a pre-revenue aircraft programme under quarterly market pressure. Its share price fell below $1 by early 2024, making it **much harder to raise new money** just when it needed it most. Private funding would have let it work toward certification away from daily share-price pressure.",
+      "src": [
+        0,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your launch depend on a regulator's approval you haven't started or can't time?",
+    "Is your runway shorter than the time left until your first sale?",
+    "Are most of your 'orders' MoUs or letters of intent?",
+    "Is your plan to survive this year based on one investor's promise?",
+    "Has your target launch date moved back more than once in the past two years?",
+    "Is your share price or valuation falling while you still need big new funding?"
+  ],
+  "lessons": [
+    {
+      "title": "Map the approval path first",
+      "detail": "For drones, health tech, fintech or food, list every licence and test you need and how long each really takes. Ask people who have done it. Build your budget on that calendar."
+    },
+    {
+      "title": "Raise for the slow scenario",
+      "detail": "Plan your cash for the case where everything takes 50% longer than you hope. In deep tech, that is the normal case, not the bad case."
+    },
+    {
+      "title": "Find a smaller first product",
+      "detail": "If the full product takes ten years, look for a smaller thing you can sell earlier: a component, a test service, a simpler version. Early revenue buys time and proof."
+    },
+    {
+      "title": "Turn MoUs into deposits",
+      "detail": "Ask partners who sign MoUs for even a small paid commitment. A few real deposits are worth more to lenders than hundreds of non-binding letters."
+    },
+    {
+      "title": "Line up several backers at once",
+      "detail": "Never let one investor be the only way out. Keep talking to others until money has actually landed, and have a plan for if it doesn't."
+    }
+  ],
+  "quote": {
+    "text": "After 10 years and 10 months, it is a sad fact that Lilium has ceased operations.",
+    "who": "Patrick Nathen, Lilium co-founder",
+    "context": "LinkedIn post after the company shut down and laid off about 1,000 workers, December 2024.",
+    "src": [
+      1
+    ]
+  },
+  "afterlife": {
+    "text": "After the second insolvency in February 2025, Lilium said a further rescue was very unlikely and operations would be discontinued. A Slovakian entrepreneur, Marian Boček, had been a main backer of the rescue group, but his funds reportedly did not come through. Lilium's story became a warning about how long and costly it is to certify a new kind of aircraft. Its co-founders' decade-long attempt remains one of Europe's most ambitious deep-tech bets.",
+    "src": [
+      2,
+      3
+    ]
+  },
+  "sources": [
+    {
+      "label": "Lilium N.V., Form 20-F annual report for 2023 (filed Mar 2024)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1855756/000141057824000206/lilm-20231231x20f.htm"
+    },
+    {
+      "label": "TechCrunch, 'Electric aircraft startup Lilium ceases operations, 1,000 workers laid off' (23 Dec 2024)",
+      "url": "https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/"
+    },
+    {
+      "label": "DPA via Yahoo Finance, 'German electric jet maker Lilium files for bankruptcy again' (22 Feb 2025)",
+      "url": "https://finance.yahoo.com/news/german-electric-jet-maker-lilium-201908488.html"
+    },
+    {
+      "label": "Wikipedia, 'Lilium GmbH' (history, funding, losses, orders)",
+      "url": "https://en.wikipedia.org/wiki/Lilium_GmbH"
+    },
+    {
+      "label": "Lilium, 'Saudia Group signs sales agreement with Lilium' (18 Jul 2024)",
+      "url": "https://lilium.com/newsroom-detail/saudia-group-signs-industry-leading-sales-agreement-with-lilium-to-acquire-up-to-100-evtol-jets"
+    },
+    {
+      "label": "TechCrunch, 'Lilium raises another $240M' (22 Mar 2020)",
+      "url": "https://techcrunch.com/2020/03/22/lilium-raises-another-240m-to-design-test-and-and-run-an-electric-aircraft-taxi-service/"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "SPAC valuation of $3.3 billion",
+        "note": "Often reported at the 2021 deal announcement; Wikipedia gives $2.4B at listing. We use $2.4B."
+      },
+      {
+        "claim": "Size and source of the refused guarantee",
+        "note": "Reports describe a €50M loan/guarantee from the Bavarian or German government; details of the federal vs state share vary."
+      },
+      {
+        "claim": "The ducted-fan design was physically inefficient for hovering",
+        "note": "Some engineers argued this; Lilium disputed it. It was never settled by a certification outcome, so we keep it out of the story."
+      }
+    ]
+  }
+}

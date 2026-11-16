@@ -1,0 +1,184 @@
+{
+  "slug": "satyam-computer-services",
+  "name": "Satyam Computer Services",
+  "region": "india",
+  "country": "India",
+  "city": "Hyderabad",
+  "sector": "IT services",
+  "founded": 1987,
+  "died": 2009,
+  "status": "absorbed-and-closed",
+  "brandColor": "#1b3f8b",
+  "founders": [
+    { "name": "B. Ramalinga Raju", "role": "Founder & chairman" },
+    { "name": "DVS Raju", "role": "Co-founder (brother-in-law)" }
+  ],
+
+  "epitaph": "Satyam means 'truth'. The accounts disagreed.",
+  "oneLiner": "One of India's top IT outsourcing firms, writing and running software for 185 Fortune 500 companies from Hyderabad.",
+  "causeOfDeath": "Its founder confessed that over $1 billion of its cash and profits were fake. The government took over the board and sold it to Tech Mahindra.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "Satyam was a listed company (on Indian exchanges and the NYSE), not a startup that raised rounds, so there is no 'total raised'. Tech Mahindra bought a 31% stake at a government-run auction in April 2009; we could not verify the price paid from sources we read.",
+  "moneySrc": [3, 5],
+
+  "inOneMinute": [
+    "Satyam was one of India's biggest IT firms, with **$2 billion+ in revenue** and about 52,000 staff in 2008.",
+    "On 7 January 2009, founder Ramalinga Raju confessed the books were cooked. The SEC later said **over $1 billion of cash was fictitious**.",
+    "The government replaced the board and **sold the company to Tech Mahindra** in April 2009. Raju was convicted in 2015."
+  ],
+  "killerLine": "A small lie in the accounts never stays small. **Every quarter you must tell a bigger one to hide the last.**",
+
+  "numbers": [
+    { "value": "$1 bn+", "label": "fictitious cash, about half the company's total assets, per the SEC", "src": [0] },
+    { "value": "6,000+", "label": "fake invoices created to inflate revenue", "src": [0, 1] },
+    { "value": "₹544 → ₹6.30", "label": "share price: 2008 high vs 9 January 2009", "src": [3] },
+    { "value": "7 years", "label": "jail sentence for Raju and others in April 2015 (suspended pending appeal)", "src": [3, 4] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: India's software dream",
+      "body": "In 1987, Ramalinga Raju and his brother-in-law DVS Raju started Satyam Computer Services in Secunderabad with about 20 employees. India had cheap, skilled engineers; Western companies needed software built and maintained. In 1991 Satyam won its first Fortune 500 client, John Deere, and in 1992 it went public. It rode **India's IT outsourcing boom**, and in 1999 it even launched an internet company, Satyam Infoway (later Sify). Over the next decade it would win clients across the world and list its shares in New York. The name Satyam means 'truth' in Sanskrit, a detail that would later become painfully ironic.",
+      "src": [4, 0]
+    },
+    {
+      "title": "The rise: 185 Fortune 500 clients",
+      "body": "By 2008, Satyam reported **over $2 billion in revenue**, about 52,000 IT professionals and 185 Fortune 500 clients. Its shares traded in India and as American Depository Shares on the New York Stock Exchange. Its share price hit ₹544 in 2008. To investors it looked like a model Indian company, steadily growing and reporting a huge pile of cash. That cash pile was the problem. According to the US Securities and Exchange Commission (SEC), senior managers had been inflating **revenue, income and cash by more than $1 billion over five years**, using more than 6,000 fake invoices and forged bank statements.",
+      "src": [0, 3, 5]
+    },
+    {
+      "title": "The cracks: the Maytas deal",
+      "body": "On 16 December 2008, Satyam's board approved buying **Maytas Infra and Maytas Properties for $1.6 billion**. Both were real-estate companies promoted by Raju's family. Investors were furious: why would an IT company spend its cash on its founder's family's property firms? Satyam's NYSE shares fell 55%, and the deal was dropped after the protests. The CBI later alleged the board got only three days' notice of the meeting, no agenda in advance, and that **no due diligence** (careful checking before a deal) was done. Four directors resigned on 29 December. In hindsight, the deal looked like an attempt to swap fake cash for real assets.",
+      "src": [5, 6]
+    },
+    {
+      "title": "The fall: the confession letter",
+      "body": "On 7 January 2009, Raju resigned and confessed in a letter to the board that the accounts had been falsified for years. He described it as being **'like riding a tiger, not knowing how to get off without being eaten'**. The shares crashed to ₹6.30 by 9 January. Raju and his brother were arrested. The government dissolved the board and appointed its own directors, including Deepak Parekh and Kiran Karnik, to save the company and its jobs. On 13 April 2009, Tech Mahindra won a public auction for a 31% stake. Satyam became Mahindra Satyam, and in **June 2013 it was merged into Tech Mahindra**.",
+      "src": [0, 3, 4]
+    }
+  ],
+
+  "timeline": [
+    { "date": "1987", "event": "Ramalinga Raju and DVS Raju found Satyam in Secunderabad with about 20 employees.", "kind": "start", "src": [4] },
+    { "date": "1991", "event": "Wins its first Fortune 500 client, John Deere.", "kind": "start", "src": [4] },
+    { "date": "1992", "event": "Satyam goes public.", "kind": "money", "src": [4] },
+    { "date": "2008", "event": "Reports $2 billion+ revenue, about 52,000 staff and 185 Fortune 500 clients; share price peaks at ₹544.", "kind": "peak", "src": [3, 5] },
+    { "date": "16 Dec 2008", "event": "Board approves a $1.6 billion purchase of Raju family-promoted Maytas firms; dropped after investor protests.", "kind": "warning", "src": [6] },
+    { "date": "29 Dec 2008", "event": "Four directors resign.", "kind": "warning", "src": [5] },
+    { "date": "7 Jan 2009", "event": "Raju resigns and confesses that the accounts were falsified for years.", "kind": "crisis", "src": [0, 3, 4] },
+    { "date": "9 Jan 2009", "event": "Shares fall to ₹6.30; Raju and his brother are arrested.", "kind": "crisis", "src": [3, 4] },
+    { "date": "13 Apr 2009", "event": "Tech Mahindra wins a government-run auction for a 31% stake.", "kind": "end", "src": [3] },
+    { "date": "5 Apr 2011", "event": "SEC fines Satyam $10 million and PwC's Indian affiliates $6 million.", "kind": "after", "src": [0, 2] },
+    { "date": "25 Jun 2013", "event": "Mahindra Satyam is legally merged into Tech Mahindra.", "kind": "after", "src": [3, 5] },
+    { "date": "9 Apr 2015", "event": "A Hyderabad court convicts Raju and nine others; seven years in jail. Sentences suspended on appeal in May 2015.", "kind": "after", "src": [3, 4] }
+  ],
+
+  "charts": [
+    {
+      "title": "Cash on the books vs cash in the bank",
+      "unit": "$ millions",
+      "kind": "bar",
+      "labels": ["Cash the auditors certified", "Cash that actually existed"],
+      "series": [
+        { "name": "Cash balance", "values": [1100, 78] }
+      ],
+      "takeaway": "About 93 of every 100 dollars of Satyam's reported cash did not exist.",
+      "src": [4]
+    },
+    {
+      "title": "Satyam's share price",
+      "unit": "₹ per share",
+      "kind": "bar",
+      "labels": ["2008 high", "9 Jan 2009"],
+      "series": [
+        { "name": "Share price", "values": [544, 6.3] }
+      ],
+      "takeaway": "Two days after the confession, the stock had lost about 99% of its 2008 peak.",
+      "src": [3]
+    }
+  ],
+
+  "rounds": [],
+
+  "causes": [
+    { "key": "fraud", "weight": 70 },
+    { "key": "governance", "weight": 30 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Faking the numbers",
+      "explain": "According to the SEC, Satyam's senior managers created **more than 6,000 fake invoices** and forged bank statements, inflating revenue, profit and cash by over $1 billion across five years. This was not a business that failed honestly. Raju confessed, and a court convicted him in 2015. Once the numbers are fiction, every decision built on them is too.",
+      "src": [0, 1, 4]
+    },
+    {
+      "title": "Trying to plug the hole with the family's companies",
+      "explain": "The $1.6 billion Maytas deal would have moved Satyam's 'cash' into **property firms promoted by Raju's family**. The CBI alleged the board got three days' notice, no agenda in advance, and no due diligence. Deals with your own family's companies are the ones that need the most scrutiny, not the least.",
+      "src": [6]
+    },
+    {
+      "title": "Auditors who didn't check the bank",
+      "explain": "PwC's Indian affiliates certified about $1.1 billion of cash when only $78 million existed. The SEC said they **failed to properly confirm cash balances** with banks, and fined them $6 million. SEBI later banned the firm from auditing listed companies for two years. An audit that trusts management's word is not an audit.",
+      "src": [2, 4, 7]
+    },
+    {
+      "title": "A board that didn't ask hard questions",
+      "explain": "Satyam's independent directors included respected professors and executives. Yet they **approved the Maytas deal** in a rushed meeting, according to the CBI's allegations, and only resigned after investors revolted. Independent directors exist to say 'no' to the founder. A board that only says 'yes' is decoration.",
+      "src": [5, 6]
+    }
+  ],
+
+  "warningSigns": [
+    "Are you, or anyone on your team, adjusting numbers to 'look better' for investors, even slightly?",
+    "Is your bank balance different from what your reports say it is?",
+    "Are you planning a deal with a company owned by your family or friends without independent checks?",
+    "Does your board or advisor approve big decisions without seeing the papers in advance?",
+    "Would you be uncomfortable if an outsider called your bank to confirm your balance?"
+  ],
+
+  "lessons": [
+    { "title": "Report the ugly number", "detail": "If a quarter goes badly, say so. A bad number is a problem you can fix; a faked number is a crime that only grows. Raju's 'tiger' started small." },
+    { "title": "Reconcile with the bank every month", "detail": "Match your books to actual bank statements every month, even in a tiny startup. It takes an hour and catches both mistakes and fraud early." },
+    { "title": "Put related-party deals in the light", "detail": "Any deal with your family's or friends' companies should be disclosed in writing, valued independently and approved by people with no stake in it." },
+    { "title": "Choose advisors who will say no", "detail": "Pick board members and mentors who will challenge you. Send them papers early and welcome hard questions; they are your early-warning system." },
+    { "title": "Protect the company from yourself", "detail": "Set rules early: two signatures on big payments, an outside accountant, open books for co-founders. Good systems keep honest founders honest under pressure." }
+  ],
+
+  "quote": {
+    "text": "was like riding a tiger, not knowing how to get off without being eaten.",
+    "who": "B. Ramalinga Raju, founder & chairman",
+    "context": "In his January 2009 confession letter, describing years of keeping up inflated results, as quoted by the US SEC.",
+    "src": [0]
+  },
+
+  "afterlife": {
+    "text": "Tech Mahindra bought control in April 2009, renamed it Mahindra Satyam, and merged it into Tech Mahindra in June 2013, saving the business and most of its jobs. In April 2011 the US SEC fined Satyam $10 million and PwC's Indian affiliates $6 million. In January 2018 SEBI barred PwC from auditing listed Indian companies for two years. On 9 April 2015, a Hyderabad court convicted Raju, his brothers and others, sentencing them to seven years in jail. On 11 May 2015 the sentences were suspended and they got bail while their appeals are heard; we could not confirm a final appeal outcome.",
+    "src": [0, 2, 3, 4, 7]
+  },
+
+  "sources": [
+    { "label": "US SEC press release 2011-81: SEC charges Satyam with fraud (5 Apr 2011)", "url": "https://www.sec.gov/news/press/2011/2011-81.htm" },
+    { "label": "US SEC litigation release LR-21915: SEC v. Satyam Computer Services", "url": "http://www.sec.gov/litigation/litreleases/lr-21915" },
+    { "label": "US SEC press release 2011-82: PwC India affiliates fined $6 million (5 Apr 2011)", "url": "https://www.sec.gov/news/press/2011/2011-82.htm" },
+    { "label": "Wikipedia: Satyam scandal (summary of cited reports)", "url": "https://en.wikipedia.org/wiki/Satyam_scandal" },
+    { "label": "Wikipedia: B. Ramalinga Raju (biography with citations)", "url": "https://en.wikipedia.org/wiki/B._Ramalinga_Raju" },
+    { "label": "Wikipedia: Satyam Computer Services / Mahindra Satyam", "url": "https://en.wikipedia.org/wiki/Satyam_Computer_Services" },
+    { "label": "Rediff / Business Standard: Raju pressured Satyam board (3 Dec 2009)", "url": "https://business.rediff.com/report/2009/dec/03/tech-raju-pressured-satyam-board.htm" },
+    { "label": "Bar & Bench: SEBI's 2-year bar against PwC over Satyam scam (11 Jan 2018)", "url": "https://www.barandbench.com/news/sebi-bar-against-pwc-not-first-controversy" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "13,000 non-existent employees", "note": "Investigators alleged in 2009 that Satyam had about 40,000 employees, not 53,000, and that ₹20 crore a month was drawn for fake staff. This was not part of the SEC's findings we read, so it is kept out of the story." },
+      { "claim": "Exact size of the fraud in rupees", "note": "Reports cite ₹7,000 crore (Raju's confession) or ₹7,136 crore, including ₹5,040 crore of non-existent cash. We use the SEC's 'more than $1 billion' figure." },
+      { "claim": "Fine amount and number of co-accused convicted in 2015", "note": "Wikipedia pages give different fines (₹5 crore vs ₹5.5 crore) and differ on whether nine or ten others were convicted alongside Raju. We did not state a fine." },
+      { "claim": "Appeal outcome and SEBI orders against Raju", "note": "We confirmed the 2015 conviction and the May 2015 suspension of sentence, but could not verify the current status of the appeal or the details of SEBI's orders against Raju from sources we read. Check before publishing." },
+      { "claim": "Maytas deal as a cover-up", "note": "The idea that Maytas was meant to swap fake cash for real assets is our reading and widely held analysis; the CBI's allegations about the rushed board meeting are charges, not court findings." },
+      { "claim": "Research limits", "note": "Our web search budget ran out and several news sites blocked our reader, so some facts rely on Wikipedia's summary of cited reports alongside SEC primary documents." }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "slug": "wirecard",
+  "name": "Wirecard",
+  "region": "global",
+  "country": "Germany",
+  "city": "Aschheim (Munich)",
+  "sector": "Payments / fintech",
+  "founded": 1999,
+  "died": 2020,
+  "status": "insolvent",
+  "brandColor": "#1d3c6e",
+  "founders": [
+    {
+      "name": "Markus Braun",
+      "role": "CEO from 2002 (not a founder; ran it for 18 years)"
+    },
+    {
+      "name": "Jan Marsalek",
+      "role": "COO from 2010"
+    }
+  ],
+  "epitaph": "€1.9 billion in the bank. Which bank? Good question.",
+  "oneLiner": "A German payments company that processed card payments for shops and apps, and became one of Germany's 30 most valuable listed firms.",
+  "causeOfDeath": "€1.9 billion of cash on its books turned out not to exist; once the auditor refused to sign, the company collapsed within a week.",
+  "raisedUsdM": null,
+  "peakValuationUsdM": 26700,
+  "endValueUsdM": null,
+  "moneyNote": "Listed company, so no venture 'raised' figure. Peak: market value of 'more than €23 billion' in Sept 2018, converted at ~1.16 USD per euro (2018). Assets were later sold off by the insolvency administrator.",
+  "moneySrc": [
+    2
+  ],
+  "inOneMinute": [
+    "Wirecard grew from processing payments for gambling and adult websites into a **DAX 30 company**, pushing banking giant Commerzbank out of Germany's top stock index in 2018.",
+    "For years the Financial Times reported fake contracts in Asia. Instead of investigating Wirecard, Germany's regulator **filed a criminal complaint against the journalists**.",
+    "In June 2020 the auditor could not find **€1.9 billion in cash**. It probably never existed. Wirecard went insolvent; its COO fled and is believed to be in Russia."
+  ],
+  "killerLine": "If your profits only exist in places nobody can visit, **they don't exist**.",
+  "numbers": [
+    {
+      "value": "€23 billion+",
+      "label": "market value when it joined the DAX 30 in 2018",
+      "src": [
+        2
+      ]
+    },
+    {
+      "value": "€1.9 billion",
+      "label": "cash in 'trust accounts' that probably never existed",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "value": "90%+",
+      "label": "share-price crash in one week, June 2020",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "6+ years",
+      "label": "ex-CEO Braun held in custody before a verdict (as of Oct 2026)",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: Germany's answer to PayPal",
+      "body": "Wirecard was founded in 1999 near Munich, at the height of the dot-com boom. Its first big business was processing card payments for **gambling and adult websites** — customers that ordinary banks often avoided. In 2002 Markus Braun, a former KPMG consultant, became CEO. He pitched Wirecard as a tech company, not a boring bank: software that helps shops, airlines and apps accept payments. In 2010 Jan Marsalek became chief operating officer. The company expanded fast into Asia, buying businesses and signing partners. Clients included Air France-KLM, Aldi and O2, and it partnered with Alipay and WeChat Pay. To German investors it looked like a rare homegrown tech champion.",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "title": "The rise: pushing out a giant bank",
+      "body": "In September 2018 Wirecard was worth **more than €23 billion**, over twice as much as Commerzbank, one of Germany's biggest banks. It replaced Commerzbank in the DAX 30, the index of Germany's 30 most valuable listed companies. There had been warnings. In 2016, short sellers (investors who bet a share price will fall) accused Wirecard of fraud. In January and February 2019 the Financial Times reported forged and backdated contracts in its Asian business. Wirecard denied everything and sued the FT. Germany's financial regulator, BaFin, banned short-selling of its shares and **filed a criminal complaint against two FT journalists**. The watchdog was guarding the wrong door.",
+      "src": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "title": "The cracks: the audit that couldn't finish",
+      "body": "Under pressure, Wirecard hired KPMG for a special audit in October 2019. In April 2020 KPMG said Wirecard **did not provide enough documents** to answer the allegations. The 2019 annual results were delayed three times. Then, on 18 June 2020, its regular auditor EY refused to sign the accounts. It could not confirm €1.9 billion of cash supposedly held in trust accounts (accounts where a third party holds money for you) — about a quarter of the whole balance sheet. Two Philippine banks named in the documents said they had **no relationship with Wirecard**. Braun quit the next day.",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "title": "The fall: insolvency and a vanished COO",
+      "body": "On 22 June 2020 Wirecard admitted the €1.9 billion **probably never existed**. On 25 June it filed for insolvency, owing creditors almost $4 billion. The share price fell from €104.50 to under €3 in about a week. Braun was arrested. Jan Marsalek disappeared, and German investigators issued a wanted notice. In 2022 prosecutors charged Braun and two other managers with **gang fraud on a commercial scale**, embezzlement and market manipulation, saying lenders and investors were cheated of about €3 billion. Braun denies everything and blames a fraud ring around Marsalek.",
+      "src": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1999",
+      "event": "Wirecard founded near Munich; early clients include gambling and adult websites.",
+      "kind": "start",
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "2002",
+      "event": "Former KPMG consultant Markus Braun becomes CEO.",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "2016",
+      "event": "Short sellers at Zatarra Research publish fraud and money-laundering allegations.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Sep 2018",
+      "event": "Worth over €23 billion, Wirecard replaces Commerzbank in the DAX 30.",
+      "kind": "peak",
+      "src": [
+        2,
+        8
+      ]
+    },
+    {
+      "date": "Jan–Feb 2019",
+      "event": "FT reports forged and backdated contracts in Asia; BaFin bans short-selling and later files a complaint against FT journalists.",
+      "kind": "warning",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "date": "Apr 2020",
+      "event": "KPMG special audit says Wirecard did not provide enough documents to clear it.",
+      "kind": "warning",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "18 Jun 2020",
+      "event": "EY refuses to sign the 2019 accounts: €1.9 billion of cash cannot be confirmed.",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "25 Jun 2020",
+      "event": "Wirecard files for insolvency, owing creditors almost $4 billion.",
+      "kind": "end",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "date": "Sep 2020",
+      "event": "Munich prosecutors drop the probe of FT journalists, calling their reporting \"fundamentally accurate\".",
+      "kind": "after",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "Dec 2022",
+      "event": "Criminal trial of Braun and two other ex-managers opens in Munich.",
+      "kind": "after",
+      "src": [
+        5,
+        9
+      ]
+    },
+    {
+      "date": "Mar 2025",
+      "event": "London jury convicts members of a spy ring that prosecutors said was run by Marsalek for Russia.",
+      "kind": "after",
+      "src": [
+        7
+      ]
+    },
+    {
+      "date": "Oct 2026",
+      "event": "Munich trial passes its 289th day; verdict still pending.",
+      "kind": "after",
+      "src": [
+        5
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Wirecard share price, one week in June 2020",
+      "unit": "€ per share",
+      "kind": "bar",
+      "labels": [
+        "17 Jun 2020",
+        "25 Jun 2020"
+      ],
+      "series": [
+        {
+          "name": "Share price (25 Jun: 'below €3')",
+          "values": [
+            104.5,
+            3
+          ]
+        }
+      ],
+      "takeaway": "When the missing €1.9 billion was confirmed, more than 90% of Wirecard's value disappeared in about a week.",
+      "src": [
+        1
+      ]
+    }
+  ],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "fraud",
+      "weight": 60
+    },
+    {
+      "key": "governance",
+      "weight": 30
+    },
+    {
+      "key": "regulation",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Profits that lived only on paper",
+      "explain": "Wirecard reported huge cash balances held far away, supposedly linked to partner businesses in Asia. The €1.9 billion **could not be found**, the banks named denied any relationship, and the insolvency administrator found no evidence that reported balances ever existed. Prosecutors allege the business behind them was invented; the court has not yet ruled.",
+      "src": [
+        0,
+        4,
+        5
+      ]
+    },
+    {
+      "title": "Fighting the messenger instead of answering",
+      "explain": "When the FT reported forged contracts, Wirecard **sued the newspaper** instead of opening its books. For more than a year it denied, delayed and attacked. Prosecutors later called the FT's reporting \"fundamentally accurate\". Every month spent fighting critics let the hole grow deeper.",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "title": "Board money spent without checking",
+      "explain": "In 2024 a Munich civil court found Braun and two other ex-board members **breached their duties** by approving a €100 million unsecured loan and buying over €100 million of bonds without proper checks. It ordered them to pay €140 million in damages. Braun denies wrongdoing.",
+      "src": [
+        6
+      ]
+    },
+    {
+      "title": "Watchdogs that protected the wrong side",
+      "explain": "Germany's financial regulator banned short-selling of Wirecard shares and **filed a criminal complaint against journalists**, sending the market a signal that the critics were the problem. After the collapse, BaFin's president stepped down and the regulator was given new powers.",
+      "src": [
+        0,
+        3
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Is any big cash balance held somewhere your auditor cannot confirm directly with the bank?",
+    "Does a large share of your profit come from partners or regions that no senior outsider has ever visited?",
+    "When a journalist or analyst raises a red flag, is your first move to call a lawyer rather than share documents?",
+    "Has your annual report or audit been delayed more than once?",
+    "Is the cash on your balance sheet growing much faster than the cash actually reaching your main bank accounts?"
+  ],
+  "lessons": [
+    {
+      "title": "Cash is the hardest thing to fake, so check it",
+      "detail": "Revenue and profit are opinions until money lands in your bank account. As a founder, reconcile (match) your bank statements with your books every month. As an investor, ask to see the bank statements."
+    },
+    {
+      "title": "Answer criticism with evidence, not lawsuits",
+      "detail": "If someone accuses your startup of something, share the proof. A company with nothing to hide can almost always show its receipts faster than it can sue."
+    },
+    {
+      "title": "Be extra careful with 'partner' revenue",
+      "detail": "If a big chunk of your income comes through a third party you don't control, insist on direct contracts, direct payments and site visits. That is where Wirecard's hole hid."
+    },
+    {
+      "title": "As an employee, notice delayed numbers",
+      "detail": "Results delayed again and again, auditors replaced or fighting with management, executives who are never reachable — these are signs to ask hard questions or update your CV."
+    },
+    {
+      "title": "Don't outsource your judgement to a regulator or an index",
+      "detail": "Being in the DAX 30 and having a regulator on your side made Wirecard look safe. Neither checked the cash. Do your own homework."
+    }
+  ],
+  "quote": null,
+  "afterlife": {
+    "text": "As of late October 2026, Braun's criminal trial in Munich had run for 289 days with no verdict; he has been in custody for over six years, denies all charges and blames Marsalek. Co-defendant Oliver Bellenhaus, who ran a Wirecard unit in Dubai, confirmed the prosecution's account. In September 2024 a Munich civil court ordered Braun and two ex-colleagues to pay €140 million in damages. Marsalek remains a fugitive believed to be in Russia; in a 2025 London spy trial, prosecutors said he directed a Russian spy ring. He was not charged in that trial.",
+    "src": [
+      5,
+      6,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "Euronews/Reuters: Wirecard accounts trial — timeline (Dec 2022)",
+      "url": "https://euronews.com/next/2022/12/06/wirecard-accounts-trial-timeline"
+    },
+    {
+      "label": "Fortune: Wirecard files for insolvency (Jun 2020)",
+      "url": "https://www.fortune.com/2020/06/25/wirecard-insolvency-accounting-scandal"
+    },
+    {
+      "label": "Taipei Times/AFP: German fintech pushes Commerzbank out of DAX 30 (Sep 2018)",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2018/09/07/2003699931"
+    },
+    {
+      "label": "AP: German prosecutors drop probe of journalists over Wirecard (Sep 2020)",
+      "url": "https://www.audacy.com/1010wins/articles/ap-news/german-prosecutors-drop-probe-of-journalists-over-wirecard"
+    },
+    {
+      "label": "Al Jazeera: Germany indicts Wirecard's ex-boss Markus Braun for fraud (Mar 2022)",
+      "url": "https://www.aljazeera.com/economy/2022/3/14/germany-indicts-wirecards-ex-boss-markus-braun-over-fraud"
+    },
+    {
+      "label": "beck-aktuell: Wirecard-Prozess vor Ende — letzte Frist für Verteidiger (28 Oct 2026)",
+      "url": "https://www.beck-aktuell.de/heute-im-recht/rechtsgeschehen/wirecard-prozess-beweisantraege-verteidiger-braun-2026-10-28"
+    },
+    {
+      "label": "Baker McKenzie: Wirecard board members liable for EUR 140 million (Jan 2025)",
+      "url": "https://globallitigationnews.bakermckenzie.com/2025/01/03/germany-wirecard-board-members-liable-for-eur-140-million/"
+    },
+    {
+      "label": "Ynet/Reuters: Bulgarians convicted in UK of being Russian spies working for Wirecard fugitive (Mar 2025)",
+      "url": "https://www.ynetnews.com/article/r14rjcoskx"
+    },
+    {
+      "label": "Deutsche Börse: Wirecard AG to be included in DAX (Sep 2018)",
+      "url": "https://www.deutsche-boerse.com/dbg-en/media/press-releases/Wirecard-AG-to-be-included-in-DAX-new-composition-for-TecDAX-MDAX-and-SDAX-1406616"
+    },
+    {
+      "label": "Al Jazeera: Germany opens Wirecard fraud trial over missing $2bn (Dec 2022)",
+      "url": "https://www.aljazeera.com/economy/2022/12/8/germany-opens-wirecard-fraud-trial-over-missing-2bn"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "Braun masterminded the fraud.",
+        "note": "Prosecutors' case; Braun denies all charges and says the business was real and Marsalek's circle stole the profits. No verdict as of Nov 2026; the presiding judge has called Braun's theory 'speculation'."
+      },
+      {
+        "claim": "Marsalek was a Russian intelligence agent all along / Wirecard was a spy front.",
+        "note": "Widely reported and alleged by UK prosecutors regarding a later spy ring, but no court has convicted Marsalek of anything; he was not a defendant in the London trial."
+      },
+      {
+        "claim": "Exact amount of the fraud.",
+        "note": "Prosecutors put investor and lender damage at about €3–3.2 billion; the €1.9 billion is the cash that went missing from the balance sheet. Final figures depend on the verdict."
+      }
+    ]
+  }
+}

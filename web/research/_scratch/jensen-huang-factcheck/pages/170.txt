@@ -1,0 +1,672 @@
+ Nvidia — Acquisition History | Top Bucket AI 
+ Skip to content top bucket AI 
+ Product Sourcing workflows Research agents Security Resources Request a demo 
+ Back to the archive Research archive NVIDIA acquisition history
+ Every major NVIDIA acquisition with deal value, strategic rationale, and a primary source. 9 transactions tracked.
+ Deal Timeline
+ Plotted by close date where disclosed, otherwise announcement. Select any marker to jump to the deal entry.
+ —
+ Apr 2001
+ 3dfx Interactive
+ $70M
+ Aug 2003
+ MediaQ
+ $52M
+ Feb 2006
+ ULi Electronics Inc.
+ —
+ Mar 2006
+ Hybrid Graphics Ltd.
+ $355M
+ Jan 2007
+ PortalPlayer
+ $367M
+ Jun 2011
+ Icera
+ $6.9B
+ Apr 2020
+ Mellanox Technologies
+ —
+ Jun 2020
+ Cumulus Networks
+ —
+ Aug 2021
+ DeepMap
+ —
+ Jan 2022
+ Bright Computing
+ —
+ Mar 2022
+ Excelero
+ —
+ Apr 2024
+ Run:ai
+ —
+ Dec 2025
+ SchedMD (Slurm)
+ The Acquisition Playbook .
+ Three patterns run through NVIDIA's acquisitions — what it looks for, how it pays, and how it folds in what it buys.
+ 01
+ Acquisition criteria
+ Buy software and interconnect that make the GPU more valuable.
+ Nvidia targets capabilities that deepen its platform — Mellanox for networking, Cumulus and Run:ai for the software stack, DeepMap for autonomous driving.
+ Bright Computing Excelero Run:ai SchedMD (Slurm) MediaQ 
+ 02
+ Capital deployment
+ One landmark deal, many tuck-ins.
+ Mellanox ($6.9B) is the outlier; most others — Cumulus, Bright Computing, Run:ai, Excelero — are undisclosed capability buys, and the $40B Arm attempt was abandoned.
+ Bright Computing Excelero Run:ai SchedMD (Slurm) MediaQ 
+ 03
+ Integration approach
+ Fold into the data-center platform.
+ Acquisitions are integrated to sell more full-stack accelerated computing, bundling networking, orchestration and software with the GPU.
+ Bright Computing Excelero Run:ai SchedMD (Slurm) MediaQ 
+ The Full Deal Book 
+ 28 acquisitions — each with the deal value, financing structure, target revenue, and executive commentary where disclosed.
+ 01 
+ Bright Computing · United States / Netherlands 
+ Not disclosed 
+ Announced Jan 2022 • Closed Jan 2022 
+ Bright Cluster Manager HPC cluster provisioning and orchestration edge-to-cloud management 
+ Bright Computing made software for provisioning and managing high-performance computing systems, with its Bright Cluster Manager used by more than 700 organizations. The software spans Arm and x86 CPUs, NVIDIA GPUs and Kubernetes containers, running at the edge, in datacenters and across hybrid clouds. NVIDIA acquired it to simplify HPC cluster deployment and management.
+ Why it was attractive
+ Widely deployed cluster manager and 700+ organization install base complementary to NVIDIA DGX/HPC
+ NVIDIA is changing the world as we know it, and we couldn't be more excited for our team and software to play a part in that. Bill Wagner — CEO, Bright Computing 
+ Deal value
+ Not disclosed
+ Announced
+ Jan 2022
+ Closed
+ Jan 2022
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Combined system software plus cluster management for faster HPC/AI datacenter operations.
+ Geography
+ United States / Netherlands
+ Segment
+ High-performance computing software
+ Integration unit
+ Joined NVIDIA's datacenter / DGX software organization.
+ Integration timeline
+ Announced January 10, 2022.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · Bright Computing ↗ 
+ 02 
+ Excelero · Tel Aviv, Israel 
+ Not disclosed 
+ Announced Mar 2022 • Closed Mar 2022 
+ NVMesh software-defined block storage NVMe flash virtualization Kubernetes support 
+ Excelero, based in Tel Aviv, built high-performance software-defined block storage, including its NVMesh software that pools virtual arrays of NVMe flash for cloud environments and supports Kubernetes. NVIDIA acquired the company to add block-storage capability to its enterprise software stack for HPC and AI clusters.
+ Why it was attractive
+ Proven high-performance storage software and an experienced Tel Aviv engineering team
+ The Excelero team is joining NVIDIA as demand is surging for high-performance computing and AI. Yaniv Romem — CEO and Co-founder, Excelero 
+ Deal value
+ Not disclosed
+ Announced
+ Mar 2022
+ Closed
+ Mar 2022
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Block storage integrated into NVIDIA's enterprise software and DOCA/DPU framework.
+ Geography
+ Tel Aviv, Israel
+ Segment
+ Data center / storage software
+ Integration unit
+ Joined NVIDIA's datacenter software organization.
+ Integration timeline
+ Announced March 7, 2022.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · Excelero ↗ 
+ 03 
+ Run:ai · Tel Aviv, Israel 
+ Not disclosed 
+ Announced Apr 2024 • Closed Apr 2024 
+ Kubernetes GPU orchestration cluster scheduling GPU pooling and utilization management 
+ Run:ai built a Kubernetes-based workload management and orchestration platform that lets enterprises pool and schedule GPU resources across on-premises, cloud and hybrid environments to raise utilization. NVIDIA, a close collaborator with Run:ai since 2020, agreed to acquire the company to help customers run large, distributed AI compute more efficiently.
+ Why it was attractive
+ Open
+ Kubernetes-native GPU orchestration used by large enterprises managing datacenter-scale clusters
+ Deal value
+ Not disclosed
+ Announced
+ Apr 2024
+ Closed
+ Apr 2024
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Deeper software control over GPU utilization across hybrid AI infrastructure; scheduler later open-sourced.
+ Geography
+ Tel Aviv, Israel
+ Segment
+ AI infrastructure software
+ Integration unit
+ Joined NVIDIA's software organization; Run:ai scheduler subsequently open-sourced.
+ Integration timeline
+ Announced April 24, 2024.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · Run:ai ↗ 
+ 04 
+ SchedMD (Slurm) · United States 
+ Not disclosed 
+ Announced Dec 2025 • Closed Dec 2025 
+ Slurm open-source workload scheduling cluster resource allocation HPC/AI job management 
+ SchedMD is the company behind Slurm, the open-source workload manager that queues, schedules and allocates compute across HPC and AI clusters and runs on more than half of the top 100 supercomputers. NVIDIA acquired SchedMD while pledging to keep distributing Slurm as vendor-neutral, open-source software and to accelerate its development for next-generation HPC and AI.
+ Why it was attractive
+ Stewardship of Slurm
+ the de facto scheduler across supercomputing and large AI training clusters
+ We're thrilled to join forces with NVIDIA, as this acquisition is the ultimate validation of Slurm's critical role in the world's most demanding HPC and AI environments. Danny Auble — CEO, SchedMD 
+ Deal value
+ Not disclosed
+ Announced
+ Dec 2025
+ Closed
+ Dec 2025
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Tighter co-design of scheduling software with NVIDIA HPC/AI systems; continued open-source distribution.
+ Geography
+ United States
+ Segment
+ HPC / AI workload management software
+ Integration unit
+ Joined NVIDIA while continuing to develop Slurm as open source.
+ Integration timeline
+ Announced December 15, 2025.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · SchedMD (Slurm) ↗ 
+ 05 
+ MediaQ, Inc. · United States (Santa Clara, California) 
+ $70M 
+ Announced Aug 2003 • Closed Aug 2003 
+ • Cash acquisition 
+ NVIDIA acquired MediaQ, a provider of graphics and multimedia processors for wireless and handheld mobile devices such as 3G and 2.5G handsets, PDAs and LCD displays. MediaQ's technology focused on enhancing visual display, improving connectivity and minimizing chip- and system-level power consumption, and shipped with drivers for major mobile operating systems. The deal extended NVIDIA's visual computing into the wireless mobile segment.
+ This acquisition supports NVIDIA's strategy of extending our platform reach and accelerates our entry into the wireless mobile markets. Jen-Hsun Huang — Chief Executive Officer, NVIDIA 
+ Deal value
+ $70M
+ $70 million 
+ Announced
+ Aug 2003
+ Closed
+ Aug 2003
+ Structure
+ Acquisition
+ Consideration
+ Cash acquisition
+ Geography
+ United States (Santa Clara, California)
+ Segment
+ Mobile / handheld graphics
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ Funding. Cash acquisition (predominantly cash consideration).
+ SEC 8-K · MediaQ ↗ 
+ 06 
+ iReady Corporation · United States (Santa Clara, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ • Asset acquisition 
+ NVIDIA purchased assets from iReady, a developer of TCP/IP offload and network-interface technology. NVIDIA stated the acquired assets would help expand its server and workstation business opportunities tied to its NVIDIA nForce3 Professional media and communications processors.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Consideration
+ Asset acquisition
+ Geography
+ United States (Santa Clara, California)
+ Segment
+ Networking
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ Funding. Asset acquisition (purchase of iReady assets).
+ SEC 8-K · iReady Corporation ↗ 
+ 07 
+ Mental Images GmbH · Germany (Berlin) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Mental Images, a developer of professional rendering and 3D software technology, including the widely used mental ray rendering engine and related tools used in design, visualization and film production. Following the acquisition Mental Images operated as a wholly owned NVIDIA subsidiary and became the basis for NVIDIA's Advanced Rendering technologies.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ Germany (Berlin)
+ Segment
+ Professional rendering / visualization software
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ SEC 8-K · Mental Images GmbH ↗ 
+ 08 
+ AGEIA Technologies, Inc. · United States (Santa Clara, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired AGEIA Technologies, the developer of the PhysX physics-simulation engine and dedicated physics-acceleration hardware. The acquisition brought PhysX software and the AGEIA engineering team into NVIDIA, and PhysX was subsequently integrated to run on NVIDIA GPUs. AGEIA became a wholly owned NVIDIA subsidiary.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Santa Clara, California)
+ Segment
+ Physics / GPU software
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ SEC 8-K · AGEIA Technologies ↗ 
+ 09 
+ The Portland Group, Inc. (PGI) · United States (Beaverton, Oregon) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired The Portland Group (PGI), a developer of high-performance computing compilers and development tools, including Fortran, C and C++ compilers used in scientific and technical computing. The acquisition strengthened NVIDIA's software tools for GPU-accelerated and parallel computing.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Beaverton, Oregon)
+ Segment
+ HPC compilers / developer tools
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ SEC 8-K · The Portland Group ↗ 
+ 10 
+ SwiftStack · United States (San Francisco, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired SwiftStack, a provider of object- and cloud-storage software and data-management technology for large-scale, multi-cloud environments. SwiftStack's technology and team supported NVIDIA's data-platform and AI-infrastructure efforts, and SwiftStack was reported as a wholly owned NVIDIA subsidiary in NVIDIA's SEC filings.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (San Francisco, California)
+ Segment
+ Data storage / AI infrastructure software
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ SEC 8-K · SwiftStack ↗ 
+ 11 
+ Stexar Corp. · United States (Oregon) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Stexar, a microprocessor engineering firm based in Oregon, adding a team of CPU and processor-design engineers. The acquisition primarily brought silicon engineering talent into NVIDIA rather than a commercial product line.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Oregon)
+ Segment
+ Processor engineering
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 12 
+ RayScale, Inc. · United States 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired RayScale, a developer of GPU-accelerated ray-tracing rendering software. The technology and team were folded into NVIDIA's advanced rendering and professional visualization efforts.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States
+ Segment
+ Rendering / ray-tracing software
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 13 
+ OmniML, Inc. · United States (Santa Clara, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired OmniML, a startup specializing in machine-learning model optimization that miniaturizes and adapts AI models to run efficiently across environments from cloud platforms to edge devices. Members of the OmniML team joined NVIDIA's deep learning algorithm and software groups, contributing to model-optimization tooling such as the TensorRT Model Optimizer.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Santa Clara, California)
+ Segment
+ AI / model optimization
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 14 
+ Deci AI Ltd. · Israel (Tel Aviv) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Deci, a deep-learning company whose platform combined Automated Neural Architecture Construction (AutoNAC) technology with hardware-aware optimization to help developers build, optimize and deploy more accurate and efficient models across edge, data-center and cloud environments. The Deci team was integrated into NVIDIA's AI software organization.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ Israel (Tel Aviv)
+ Segment
+ AI / deep learning optimization
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 15 
+ Shoreline.io, Inc. · United States (Redwood City, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Shoreline.io, a developer of automated incident-remediation and reliability software that helps operations teams detect, diagnose and automatically repair infrastructure issues. The technology and team supported NVIDIA's efforts to improve reliability and automation for large-scale computing environments.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Redwood City, California)
+ Segment
+ Infrastructure automation / reliability
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 16 
+ Brev.dev, Inc. · United States (San Francisco, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Brev.dev, a startup that helps AI developers discover and provision GPU compute across different cloud providers, simplifying the process of finding and launching GPU instances for development and training. The team joined NVIDIA to support its developer-tooling and cloud efforts.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (San Francisco, California)
+ Segment
+ AI developer tooling / cloud
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 17 
+ OctoAI (OctoML, Inc.) · United States (Seattle, Washington) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired OctoAI, formerly known as OctoML, a company focused on model-serving and inference optimization that helps run generative-AI models efficiently and cost-effectively across hardware. The team, with roots in the Apache TVM compiler project, joined NVIDIA's AI software efforts.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Seattle, Washington)
+ Segment
+ AI / inference optimization
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 18 
+ Gretel Labs, Inc. · United States (San Diego, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Gretel, a platform for generating safe, high-quality synthetic data for enterprises, addressing privacy and data-scarcity challenges in AI development. Gretel leadership, including its co-founder, joined NVIDIA to lead work at the intersection of synthetic data, privacy and trustworthy AI.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (San Diego, California)
+ Segment
+ AI / synthetic data
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 19 
+ CentML Inc. · Canada (Toronto, Ontario) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired CentML, a company whose software sits between AI models and the chips that run them, optimizing model execution to improve efficiency and reduce inference cost. The CentML team and technology supported NVIDIA's AI compiler and inference-optimization work.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ Canada (Toronto, Ontario)
+ Segment
+ AI / inference optimization
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 20 
+ Lepton AI, Inc. · United States (Cupertino, California) 
+ Not disclosed 
+ Disclosed in 8-K 
+ NVIDIA acquired Lepton AI, a startup providing a platform for renting and managing GPU compute across cloud providers to run AI workloads. The technology and team informed NVIDIA's GPU-cloud and AI-platform initiatives.
+ Deal value
+ Not disclosed
+ Structure
+ Acquisition
+ Geography
+ United States (Cupertino, California)
+ Segment
+ AI infrastructure / GPU cloud
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ 21 
+ DeepMap · United States 
+ Not disclosed 
+ Announced Jun 2021 • Closed Aug 2021 
+ HD mapping centimeter-level localization map update pipelines for AVs 
+ DeepMap was a startup building high-definition maps that let autonomous vehicles localize themselves with centimeter-level precision, using continuously updated maps drawn from vehicle sensor data. NVIDIA acquired the company to fold its mapping and localization technology into the NVIDIA DRIVE self-driving platform.
+ Why it was attractive
+ Proven HD-map and localization technology plus an experienced AV mapping team
+ DeepMap is expected to extend our mapping products, help us scale worldwide map operations and expand our full self-driving expertise. Ali Kani — Vice President and General Manager, Automotive, NVIDIA 
+ Deal value
+ Not disclosed
+ Announced
+ Jun 2021
+ Closed
+ Aug 2021
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Mapping and localization integrated into NVIDIA DRIVE.
+ Geography
+ United States
+ Segment
+ Autonomous vehicles / mapping
+ Integration unit
+ Joined NVIDIA's automotive / DRIVE organization.
+ Integration timeline
+ Announced June 10, 2021; completed August 26, 2021.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · DeepMap ↗ 
+ 22 
+ Cumulus Networks · United States 
+ Not disclosed 
+ Announced May 2020 • Closed Jun 2020 
+ Cumulus Linux switch OS NetQ network analytics open networking automation 
+ Cumulus Networks built open networking software, including the Cumulus Linux operating system for network switches plus analytics and management tooling, supporting more than 2,000 customers across roughly 130 hardware platforms. NVIDIA acquired it and placed it inside the networking business unit created by the Mellanox deal, pairing open network software with NVIDIA's switching hardware.
+ Why it was attractive
+ Mature switch operating system and a 2
+ 000+ customer base to complement Mellanox switching silicon
+ Deal value
+ Not disclosed
+ Announced
+ May 2020
+ Closed
+ Jun 2020
+ Structure
+ Full acquisition
+ Cash impact / synergies
+ Software-defined networking stack layered onto NVIDIA/Mellanox hardware for AI datacenters.
+ Geography
+ United States
+ Segment
+ Data center / networking software
+ Integration unit
+ Merged into NVIDIA's Networking business unit alongside Mellanox.
+ Integration timeline
+ Announced May 2020; became part of NVIDIA on June 16, 2020.
+ Not disclosed in filing Target revenue / EBITDA 
+ SEC 8-K · Cumulus Networks ↗ 
+ 23 
+ Mellanox Technologies · Yokneam, Israel 
+ $6.9B 
+ Announced Mar 2019 • Closed Apr 2020 
+ • All cash 
+ InfiniBand interconnects high-speed Ethernet datacenter networking SmartNICs 
+ Mellanox is a pioneer of high-performance datacenter interconnect technology, best known for originating InfiniBand and for a high-speed Ethernet product line. Its interconnects were used in more than half of the world's fastest supercomputers and across many hyperscale datacenters at the time of the deal. NVIDIA acquired it by merger for $125.00 per share in cash. The two companies had a long prior history of collaboration in high-performance computing.
+ Why it was attractive
+ Interconnect leadership complementary to NVIDIA GPUs
+ combined footprint powered over 250 of the TOP500 supercomputers
+ The emergence of AI and data science, as well as billions of simultaneous computer users, is fueling skyrocketing demand on the world's datacenters. Jensen Huang — Founder and CEO, NVIDIA 
+ Deal value
+ $6.9B
+ $6.9 billion 
+ Announced
+ Mar 2019
+ Closed
+ Apr 2020
+ Structure
+ Full acquisition
+ Consideration
+ All cash
+ Cash impact / synergies
+ Optimize datacenter-scale workloads across the full compute, networking and storage stack; expected immediate accretion to non-GAAP gross margin, EPS and free cash flow.
+ Geography
+ Yokneam, Israel
+ Segment
+ Data center / networking
+ Integration unit
+ Became the foundation of NVIDIA's Networking business unit.
+ Integration timeline
+ Announced March 2019; closed April 27, 2020 after regulatory clearances.
+ Not disclosed in filing Target revenue / EBITDA 
+ Funding. All cash.
+ SEC 8-K · Mellanox Technologies ↗ 
+ 24 
+ Icera · United Kingdom 
+ $367M 
+ Announced May 2011 • Closed Jun 2011 
+ • All cash 
+ 3G/4G baseband processors software-defined cellular modems RF technology 
+ Icera developed baseband processors for 3G and 4G cellular phones and tablets, holding more than 550 patents granted or pending and shipping soft-modem products approved by over 50 carriers worldwide. NVIDIA acquired it for $367 million in cash. The plan was to pair Icera's modems with NVIDIA's Tegra application processor so NVIDIA could offer both of the main processors inside a smartphone.
+ Why it was attractive
+ 550+ patents and carrier-approved modem IP to complement Tegra in the fast-growing mobile market
+ Deal value
+ $367M
+ $367 million 
+ Announced
+ May 2011
+ Closed
+ Jun 2011
+ Structure
+ Full acquisition
+ Consideration
+ All cash
+ Cash impact / synergies
+ Combined apps-plus-baseband offering; anticipated revenue synergies; expected accretive on an operating basis in H2 calendar 2012.
+ Geography
+ United Kingdom
+ Segment
+ Mobile / baseband processors
+ Integration unit
+ Integrated into NVIDIA's mobile/Tegra organization.
+ Integration timeline
+ Announced May 9, 2011; completed approximately 30 days later on June 10, 2011.
+ Not disclosed in filing Target revenue / EBITDA 
+ Funding. All cash.
+ SEC 8-K · Icera ↗ 
+ 25 
+ PortalPlayer · United States 
+ $355M 
+ Announced Nov 2006 • Closed Jan 2007 
+ • All cash 
+ Personal-media-player SoCs firmware secondary-display software 
+ PortalPlayer supplied semiconductors, firmware and software for personal media players and secondary-display-enabled computers. NVIDIA acquired it by merger under an agreement dated November 6, 2006, with each share converted to $13.50 in cash. The deal was positioned to accelerate NVIDIA's handheld product strategy, building on its low-power graphics, TV and video technology already used in portable media devices.
+ Why it was attractive
+ Handheld/media-player IP and engineering talent to build out a mobile product line
+ Deal value
+ $355M
+ $355 million 
+ Announced
+ Nov 2006
+ Closed
+ Jan 2007
+ Structure
+ Full acquisition
+ Consideration
+ All cash
+ Cash impact / synergies
+ Combine PortalPlayer's media-device silicon with NVIDIA's low-power graphics for portable devices.
+ Geography
+ United States
+ Segment
+ Handheld / consumer electronics semiconductors
+ Integration unit
+ Folded into NVIDIA's handheld/mobile efforts.
+ Integration timeline
+ Merger agreement November 6, 2006; closed January 5, 2007.
+ Not disclosed in filing Target revenue / EBITDA 
+ Funding. All cash.
+ SEC 8-K · PortalPlayer ↗ 
+ 26 
+ Hybrid Graphics Ltd. · Finland (Helsinki) 
+ Not disclosed 
+ Closed Mar 2006 
+ NVIDIA completed its acquisition of Hybrid Graphics, a developer of embedded 2D and 3D graphics software for handheld devices. NVIDIA stated the acquisition would enable customers of both companies to deploy rich graphics solutions for the worldwide handheld market.
+ Deal value
+ Not disclosed
+ Disclosed in 8-K
+ Mar 2006
+ Structure
+ Acquisition
+ Geography
+ Finland (Helsinki)
+ Segment
+ Embedded / handheld graphics software
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ SEC 8-K · Hybrid Graphics Ltd. ↗ 
+ 27 
+ ULi Electronics Inc. · Taiwan (Taipei) 
+ $52M 
+ Announced Dec 2005 • Closed Feb 2006 
+ • Cash acquisition 
+ NVIDIA acquired ULi Electronics, a Taipei-based developer of PC core-logic (chipset) technology as well as multimedia and embedded products. The acquisition supported NVIDIA's platform-solution strategy around its nForce media and communications processors and GeForce and Quadro GPUs, and strengthened its sales, marketing and customer-engineering presence in Taiwan and China. ULi's president and CEO joined NVIDIA to lead MCP sales, marketing and support functions in Asia.
+ Alex and his team have built a company admired for creating innovative products in the core logic arena. The acquisition provides an opportunity for NVIDIA to leverage a very talented engineering team in order to expand our MCP initiatives while building closer relationships with customers in Asia. Jen-Hsun Huang — President and Chief Executive Officer, NVIDIA 
+ Deal value
+ $52M
+ $52 million 
+ Announced
+ Dec 2005
+ Closed
+ Feb 2006
+ Structure
+ Acquisition
+ Consideration
+ Cash acquisition
+ Geography
+ Taiwan (Taipei)
+ Segment
+ Core logic / chipsets
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ Funding. Cash acquisition.
+ SEC 8-K · ULi Electronics Inc. ↗ 
+ 28 
+ 3dfx Interactive, Inc. · United States (San Jose, California) 
+ Not disclosed 
+ Closed Apr 2001 
+ • Asset acquisition 
+ NVIDIA acquired the core graphics assets of 3dfx Interactive, a pioneering consumer 3D-graphics company best known for its Voodoo accelerator product line. The transaction was structured as a purchase of 3dfx's intellectual property, patents and related graphics assets, and it brought a substantial part of 3dfx's engineering team into NVIDIA. NVIDIA completed the acquisition through its wholly owned subsidiary NVIDIA US Investment Company.
+ Deal value
+ Not disclosed
+ Disclosed in 8-K
+ Apr 2001
+ Structure
+ Acquisition
+ Consideration
+ Asset acquisition
+ Geography
+ United States (San Jose, California)
+ Segment
+ Graphics / GPU
+ Not disclosed in filing Target revenue / EBITDA · Cash impact / synergies · Integration unit · Integration timeline 
+ Funding. Asset acquisition (purchase of 3dfx's graphics intellectual property and related assets).
+ SEC 8-K · 3dfx Interactive ↗ 
+ More Acquirer Playbooks
+ Acquisition history
+ MCCORMICK & CO INC
+ Acquisition history
+ NEXTERA ENERGY INC
+ Acquisition history
+ O REILLY AUTOMOTIVE INC
+ See how Top Bucket AI works for your firm
+ Request Demo 
+ Top Bucket AI Research
+ Stay ahead of private markets
+ Research and market intelligence for private-markets professionals.
+ ✓
+ You're subscribed.
+ Thanks for signing up.
+ Dated reference snapshot as of September 10, 2026. This is not a live financial feed. Verify figures against primary filings before relying on them.
+ top bucket AI Deal sourcing and investment intelligence for managing directors.
+ Get in touch 
+ Platform Product Research agents Agentic civilizations Security 
+ Explore Sourcing workflows Deal sourcing Resources Documentation 
+ Connect Request a demo Case studies Privacy Terms 
+ © 2026 Top Bucket AI. Designed for what comes next. Back to top ↑ 
+ top bucket AI 
+ 

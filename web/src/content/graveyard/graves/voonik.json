@@ -1,0 +1,194 @@
+{
+  "slug": "voonik",
+  "name": "Voonik",
+  "region": "india",
+  "country": "India",
+  "city": "Bengaluru",
+  "sector": "Fashion e-commerce",
+  "founded": 2013,
+  "died": 2020,
+  "status": "sold-for-parts",
+  "brandColor": "#e4317f",
+  "founders": [
+    { "name": "Sujayath Ali", "role": "Co-founder, CEO" },
+    { "name": "Navaneetha Krishnan", "role": "Co-founder" }
+  ],
+
+  "epitaph": "Tried on five business models. None fit.",
+  "oneLiner": "A women's fashion app that started as a personal stylist on your phone, then became a marketplace, a premium store and a private label.",
+  "causeOfDeath": "It spent big on ads, hiring and acquisitions before the core business worked, then ran out of investor money and pivoted until nothing was left to sell.",
+
+  "raisedUsdM": 27,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "About $27M raised from 2013 to 2016, as reported by Inc42. No valuation or merger price was ever disclosed. Rupee figures are as filed; Inc42 converted FY16 at about ₹65 per dollar.",
+  "moneySrc": [0, 2],
+
+  "inOneMinute": [
+    "Voonik began as a clever **'personal stylist' app** for Indian women and grew to 10 million registered users.",
+    "In FY16 it **lost ₹84 crore on ₹16 crore of revenue**, spending heavily on ads, hiring and six small acquisitions.",
+    "After about **five pivots**, it was split up in 2020: its tech went to Bangladesh's ShopUp, its shop to a kidswear brand."
+  ],
+  "killerLine": "A pivot should be a step, not a habit. **Fix one business before you buy, launch or become another.**",
+
+  "numbers": [
+    { "value": "₹84 cr", "label": "loss in FY16, on just ₹16 crore of revenue", "src": [0, 1] },
+    { "value": "~$27 mn", "label": "total raised from investors like Sequoia, 2013–2016", "src": [0, 2] },
+    { "value": "6", "label": "small startups it acqui-hired in about a year, including a salon-booking app", "src": [6, 2] },
+    { "value": "~5", "label": "times it changed its business model before merging", "src": [2] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a stylist in every phone",
+      "body": "In 2013, Sujayath Ali and Navaneetha Krishnan started Voonik in Bengaluru as a **personal shopping app for women**. You told it about your body type, lifestyle and budget, and it suggested clothes from many online stores. You swiped yes or no on items, like a dating app for kurtas, and every swipe taught it your taste. Ali said the styling engine had \"more than 10,000 rules\". Voonik held no stock and did no deliveries. It sent orders to partner stores like Jabong and took about **15% commission**. By June 2015 it had around a million downloads and about 2,500 purchases a day, and Sequoia led a $5 million investment. It was a smart, low-cost model with a real customer problem behind it.",
+      "src": [2, 5]
+    },
+    {
+      "title": "The rise: buying, launching, spending",
+      "body": "Then Voonik sped up in every direction at once. From August 2015 it acqui-hired (bought mainly to get the team) a virtual dressing-room startup, a men's shopping app, a designer marketplace, an online silk saree store and even **a salon-booking app**, which simply stopped running. In June 2016 it raised **$20 million** led by Sequoia and Beenos and launched Vilara, a premium store for designers and boutiques. In September it bought Dekkoh, a styling app. It claimed 10 million registered users and 15 lakh products. But money was pouring out on hiring, marketing and advertising. In FY16 it **lost ₹84 crore on revenue of only ₹16 crore**. That is about ₹5 lost for every ₹1 earned.",
+      "src": [6, 0, 2, 1]
+    },
+    {
+      "title": "The cracks: the money stops",
+      "body": "After the June 2016 round, Voonik **could not raise fresh funding**. The market had turned. Online fashion was crowded with Myntra, Jabong, Amazon and Limeroad, and Aditya Birla had just shut its own fashion site, abof. In November 2017 reports said Voonik asked many employees to defer salaries. Ali denied the specific claim, but told ET that some staff were asked to \"self-select\" into a final push to profit, \"which includes deference of salary if required\". In January 2018 he said on Twitter that Voonik had reached **monthly EBITDA profit** (profit before interest, tax and some accounting costs). He said it came from \"change in fundamentals of the business\", not from cutting marketing.",
+      "src": [0, 1]
+    },
+    {
+      "title": "The fall: split into pieces",
+      "body": "The profit did not lead to growth. Voonik kept changing shape, about five times in all. In May 2019 it moved to selling only its own private-label clothes. By FY19, revenue had shrunk to **₹21 crore**, with a ₹17 crore loss. In February 2020 Voonik merged its business tools and technology into **ShopUp**, a Bangladesh startup that helps small sellers run shops on Facebook. Both founders joined ShopUp as co-founders. Voonik's consumer shop in India went to Schoolay, a kidswear maker run by a former Voonik executive. Media called it a distress sale, saying Voonik could not find buyers in India. Its FY20 accounts showed a ₹28.9 crore profit, but by then Voonik was no longer an independent company.",
+      "src": [2, 3, 7]
+    }
+  ],
+
+  "timeline": [
+    { "date": "2013", "event": "Voonik launches in Bengaluru as a personal shopping app for women", "kind": "start", "src": [2] },
+    { "date": "Jun 2015", "event": "Raises $5 million led by Sequoia; about 1 million downloads, 2,500 purchases a day", "kind": "money", "src": [5] },
+    { "date": "Aug 2015 – Feb 2016", "event": "Acqui-hires TrialKart (virtual dressing room) and Getsty (men's shopping)", "kind": "warning", "src": [6] },
+    { "date": "Jun 2016", "event": "Raises $20 million Series B; launches premium store Vilara; acqui-hires Zohraa, Picksilk and salon app Styl", "kind": "peak", "src": [0, 6] },
+    { "date": "Sep 2016", "event": "Buys styling app Dekkoh", "kind": "warning", "src": [2] },
+    { "date": "FY16 filings", "event": "Loss of ₹84 crore on ₹16 crore revenue", "kind": "warning", "src": [0] },
+    { "date": "Nov 2017", "event": "No new funding since 2016; reports of salary deferrals, partly denied by the CEO", "kind": "crisis", "src": [0] },
+    { "date": "Jan 2018", "event": "CEO says Voonik has hit monthly EBITDA profitability", "kind": "warning", "src": [1] },
+    { "date": "May 2019", "event": "Pivots again, to a fully private-label clothing business", "kind": "crisis", "src": [2] },
+    { "date": "Feb 2020", "event": "Tech and B2B arm merge into Bangladesh's ShopUp; consumer shop spun out with Schoolay; founders join ShopUp", "kind": "end", "src": [2, 7] },
+    { "date": "Oct 2020", "event": "ShopUp, now with Voonik's founders, raises $22.5 million led by Sequoia Capital India and Flourish", "kind": "after", "src": [3] }
+  ],
+
+  "charts": [
+    {
+      "title": "Revenue vs net result",
+      "unit": "₹ crore",
+      "kind": "bar",
+      "labels": ["FY16", "FY17", "FY18", "FY19", "FY20"],
+      "series": [
+        { "name": "Revenue", "values": [16, 117, null, 21.45, 44.76] },
+        { "name": "Net profit (minus = loss)", "values": [-84, null, null, -17.3, 28.9] }
+      ],
+      "takeaway": "Revenue jumped once money was spent on growth (FY17 is the company's own claim), then collapsed when the spending stopped.",
+      "src": [0, 1, 3]
+    }
+  ],
+
+  "rounds": [
+    { "date": "2013–2014", "round": "Seed", "amountUsdM": 0.39, "valuationUsdM": null, "investors": ["Seedfund"], "src": [0] },
+    { "date": "Jun 2015", "round": "Series A", "amountUsdM": 5, "valuationUsdM": null, "investors": ["Sequoia Capital", "Seedfund"], "src": [5, 0] },
+    { "date": "Jun 2016", "round": "Series B", "amountUsdM": 20, "valuationUsdM": null, "investors": ["Sequoia Capital", "Beenos"], "src": [0, 1] }
+  ],
+
+  "causes": [
+    { "key": "focus", "weight": 35 },
+    { "key": "burn", "weight": 30 },
+    { "key": "funding-dried", "weight": 20 },
+    { "key": "competition", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Spending like a giant before the model worked",
+      "explain": "In FY16, Voonik **lost ₹84 crore while earning ₹16 crore**. Inc42 said the burn \"skyrocketed\" from hiring, marketing and ads. That only works if the next funding round is certain. It was not: after June 2016, Voonik could not raise again, and every later decision was made under pressure.",
+      "src": [0, 1]
+    },
+    {
+      "title": "Six acquisitions in about a year",
+      "explain": "A dressing-room tool, a men's app, a designer marketplace, a silk store, a styling app and **a salon-booking app**. Each one needed attention and money. For a young startup, every acquisition is a new product to run. Most of these teams were absorbed and their products closed, as Styl's was right away.",
+      "src": [6, 2]
+    },
+    {
+      "title": "Pivoting again and again",
+      "explain": "Voonik went from stylist app to marketplace, premium store, styling chat, private label and B2B tools: **about five pivots**. Each change reset what customers knew about the brand and what the team was good at. Changing direction is fine once or twice. Doing it constantly means you never learn whether any one model could work.",
+      "src": [2, 3]
+    },
+    {
+      "title": "Fighting where giants were strongest",
+      "explain": "Its first model sent shoppers to big stores like Jabong for a 15% cut. That made Voonik **dependent on the very companies it competed with**. Myntra, Jabong and Amazon could outspend it on ads and discounts. Its real edge, personal styling, was never made big enough to stand alone.",
+      "src": [5, 1]
+    }
+  ],
+
+  "warningSigns": [
+    "Are we losing more than ₹2 for every ₹1 of revenue, with no clear date when that flips?",
+    "Is our plan to survive based on a funding round that has not been signed yet?",
+    "Have we bought or launched a product this year that has nothing to do with our main customer?",
+    "Would different people on our team describe what our business is in different ways?",
+    "Do our biggest partners also compete with us for the same customer?",
+    "Have we changed our business model more than twice in two years?"
+  ],
+
+  "lessons": [
+    {
+      "title": "Earn the right to spend",
+      "detail": "Before you spend heavily on ads, prove that a customer who comes once comes back on their own. If repeat buying is weak, more ads just buy more one-time visitors."
+    },
+    {
+      "title": "Say no to shiny acquisitions",
+      "detail": "Buying a small team can feel like progress. But each one brings new products, new people and new problems. Only buy what directly makes your main product better for your main customer."
+    },
+    {
+      "title": "Set a rule for pivots",
+      "detail": "Before you pivot, write down what you tried, how long you gave it, and the number that proved it failed. If you can't name that number, you may be quitting too early, or running away from a hard problem."
+    },
+    {
+      "title": "Grow your real edge",
+      "detail": "Voonik's styling engine was what made it different. Ask: is our special thing getting more money and attention every month, or less? If less, you are slowly turning into a copy of your rivals."
+    },
+    {
+      "title": "Plan for 'no new money'",
+      "detail": "Make a version of your plan that assumes no investor will give you money for 18 months. If the company dies in that version, cut costs now, while you still have choices, not after the bank balance forces you."
+    }
+  ],
+
+  "quote": {
+    "text": "Voonik is joining hands with ShopUp, a rocketship startup from Bangladesh.",
+    "who": "Sujayath Ali, co-founder and CEO of Voonik",
+    "context": "Announcing on Twitter in February 2020 that Voonik's business and team would merge into ShopUp.",
+    "src": [2]
+  },
+
+  "afterlife": {
+    "text": "Voonik's founders became co-founders of ShopUp in Dhaka, which helps small Bangladeshi sellers run Facebook shops and get loans. The Voonik platform was reused for ShopUp's business tools. In October 2020 ShopUp raised $22.5 million led by Sequoia Capital India and Flourish Ventures. It is a real comeback story: the product and the people found a second life, even if the Voonik brand did not.",
+    "src": [3, 7]
+  },
+
+  "sources": [
+    { "label": "Inc42: Voonik asks employees to defer salaries; burn and funding history (Nov 2017)", "url": "https://inc42.com/buzz/voonik-fashion-retailer-ecommerce/amp" },
+    { "label": "Inc42: Voonik CEO claims monthly EBITDA profitability (Jan 2018)", "url": "https://inc42.com/buzz/fashion-voonik-profitability" },
+    { "label": "Inc42: Voonik merges with Bangladesh's ShopUp after multiple pivots (Feb 2020)", "url": "https://inc42.com/buzz/voonik-merges-with-bangladesh-shopup-after-multiple-pivots/" },
+    { "label": "Inc42: Voonik turns profitable in FY20 after merger (Dec 2020)", "url": "https://inc42.com/buzz/voonik-turns-profitable-in-fy20-after-merger-with-bangladeshs-shopup" },
+    { "label": "Wikipedia: Voonik", "url": "https://en.wikipedia.org/wiki/Voonik" },
+    { "label": "TechCrunch: Voonik gets $5M from Sequoia and Seedfund (Jun 2015)", "url": "https://techcrunch.com/2015/06/10/voonik/" },
+    { "label": "MediaNama: Voonik launches Vilara, acqui-hires Zohraa, Styl and Picksilk (Jun 2016)", "url": "https://www.medianama.com/2016/06/223-voonik-launches-vilara/" },
+    { "label": "YourStory: Voonik merges with ShopUp; spins out B2C business with Schoolay (Feb 2020)", "url": "https://yourstory.com/2020/02/fashion-startup-voonik-bangladesh-shopup-b2c-schoolay" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Voonik asked 200 of its 350 staff to forgo three months' salary (Nov 2017).", "note": "Reported by Inc42 from unnamed sources; CEO Sujayath Ali denied it, while saying deferral 'if required' was part of a restructuring. Kept out of the story as a specific number." },
+      { "claim": "FY17 revenue of ₹117 crore and loss of about ₹130 crore.", "note": "Revenue was the company's own figure before filing; Inc42 could not verify it. The loss figure appears in Tofler-based reports we could not open, so it is left blank in the chart." },
+      { "claim": "A further $6 million from RB Investments in 2017.", "note": "Mentioned in a Mint headline cited by Wikipedia; amount and terms unclear, so not listed in rounds." },
+      { "claim": "The 2020 merger was a distress sale.", "note": "Media reports said so; the company did not disclose terms." },
+      { "claim": "FY20 net profit of ₹28.9 crore.", "note": "Reported from filings by Inc42; the sources do not explain how a shrinking business made this profit (it may include one-off items)." }
+    ]
+  }
+}

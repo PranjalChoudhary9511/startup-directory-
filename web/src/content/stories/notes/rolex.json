@@ -1,0 +1,270 @@
+{
+  "slug": "rolex",
+  "company": "Rolex",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#006039",
+    "secondary": "#A37E2C",
+    "accent": "#D4B26A",
+    "ink": "#0F2A1E",
+    "paper": "#F6F1E4",
+    "note": "Rolex green #006039 and gold #A37E2C are the logo colours listed by brand-colour references (rolex.com blocks automated reading); accent, ink and paper are our own tints of that green and gold."
+  },
+  "tagline": "An orphan with no factory sold proof, not promises, and then made sure nobody could ever sell his company.",
+  "hook": "The world's best-known Swiss watch was started in London, by a German orphan whose first watch job paid 80 francs a month. Today Rolex has no shareholders to please: a Geneva foundation he set up in 1945 owns all of it.",
+  "hookSrc": [0, 5],
+  "cast": [
+    {
+      "name": "Alfred James Davis",
+      "role": "Co-founder of Wilsdorf & Davis (1905) and Wilsdorf's brother-in-law: he married Wilsdorf's sister Anna in 1908. He put in capital as an equal partner but did not run the business. Almost nothing else is known about him.",
+      "photo": null,
+      "src": [0, 3]
+    },
+    {
+      "name": "Mercedes Gleitze",
+      "role": "London typist and long-distance swimmer (1900–1981). First British woman to swim the English Channel, on 7 October 1927. On her 21 October 'vindication swim' she wore a prototype Rolex Oyster on a ribbon round her neck, and became the first famous face in Rolex's advertising.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mercedes_Gleitze_NZ_crop_portrait.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Mercedes_Gleitze_NZ_crop_portrait.jpg",
+        "caption": "Mercedes Gleitze in a Crown Studios portrait from her New Zealand tour, December 1930, three years after her Channel swims.",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "year": 1930
+      },
+      "src": [18, 1, 3, 7]
+    },
+    {
+      "name": "André Heiniger",
+      "role": "Became managing director in 1963, three years after Wilsdorf died, and ran Rolex until 1992, when his son Patrick took over. He saw Rolex as being in the luxury business, not just the watch business, and kept it mechanical through the quartz crisis.",
+      "photo": null,
+      "src": [6, 23]
+    }
+  ],
+  "founder": {
+    "name": "Hans Wilsdorf",
+    "role": "Founder, Rolex",
+    "born": "22 Mar 1881, Kulmbach, Bavaria (Germany)",
+    "died": "6 Jul 1960, Geneva, Switzerland",
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Hans_Wilsdorf.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hans_Wilsdorf.jpg",
+      "caption": "Hans Wilsdorf (portrait; date not recorded, before 1960).",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "year": null
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Hans_Wilsdorf_Rolex_Founder_London_England_1908_Omnibus.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Hans_Wilsdorf_Rolex_Founder_London_England_1908_Omnibus.jpg",
+        "caption": "London, 1908: Wilsdorf riding a London omnibus, the kind of ride on which he later said the name 'Rolex' came to him.",
+        "author": "Rolex of Geneva",
+        "license": "Public domain",
+        "year": 1908
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/World%27s_1st_chronometer_wristwatch_-_Aegler.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:World%27s_1st_chronometer_wristwatch_-_Aegler.jpg",
+        "caption": "The 22 March 1910 first-class certificate from the official rating office in Bienne: the first wristwatch to be officially certified in Switzerland.",
+        "author": "Bureaux Officiels Communaux",
+        "license": "Public domain",
+        "year": 1910
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/1914_-_Kew_A_Certificate_Aegler.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:1914_-_Kew_A_Certificate_Aegler.jpg",
+        "caption": "July 1914: the Kew Observatory 'Class A' certificate, a rating usually won by large ship's chronometers, earned by a small Rolex wristwatch.",
+        "author": "National Physical Laboratory at Teddington, England",
+        "license": "Public domain",
+        "year": 1914
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tombe_de_la_famille_Wilsdorf%2C_cimeti%C3%A8re_des_Rois%2C_Gen%C3%A8ve.jpg/1280px-Tombe_de_la_famille_Wilsdorf%2C_cimeti%C3%A8re_des_Rois%2C_Gen%C3%A8ve.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Tombe_de_la_famille_Wilsdorf,_cimeti%C3%A8re_des_Rois,_Gen%C3%A8ve.jpg",
+        "caption": "The Wilsdorf family tomb in the Cimetière des Rois, Geneva.",
+        "author": "Yann Forget",
+        "license": "CC BY-SA 4.0",
+        "year": 2016
+      }
+    ],
+    "background": "Hans Wilsdorf was born in 1881 in Kulmbach, a small Bavarian town, the second of three children. His father ran a hardware and household-goods shop that his grandfather had started. His mother died young and his father soon after, so by 12 he was an orphan. His uncles sold the shop and used the money to send the children to a good boarding school in Coburg, where he liked maths and languages most. He later wrote that his uncles made him self-reliant very early, and that much of his success came from that.",
+    "backgroundSrc": [0, 2, 17],
+    "journey": [
+      { "year": "1881", "kind": "life", "title": "Born in Kulmbach, Bavaria", "detail": "Born on 22 March into a small-town shopkeeping family, the second of three children.", "src": [0, 2, 17] },
+      { "year": "1893", "kind": "life", "title": "Orphaned at 12", "detail": "Both parents had died. His uncles sold the family shop and sent the children to boarding school in Coburg.", "src": [0, 2, 17] },
+      { "year": "1890s", "kind": "job", "title": "Apprentice at a pearl exporter, Geneva", "detail": "A firm selling artificial pearls all over the world. He later said what he learned there helped him his whole career.", "src": [0, 3, 17] },
+      { "year": "1900", "kind": "job", "title": "English clerk at Cuno Korten, La Chaux-de-Fonds", "detail": "Aged 19, on 80 francs a month, he wrote letters to British, Anglo-Indian and American buyers of a watch exporter. He also wound and checked the watches.", "src": [0, 3, 17] },
+      { "year": "1902", "kind": "life", "title": "Called back for army service", "detail": "He had to return to Germany to do his military service before his next move.", "src": [3, 17] },
+      { "year": "1903", "kind": "job", "title": "Watch-trade job in London", "detail": "He moved to London and worked for a watch firm there, learning how the British trade bought and sold.", "src": [0, 3, 17] },
+      { "year": "1905", "kind": "attempt", "title": "Starts Wilsdorf & Davis", "detail": "At 24 he borrowed money from his brother and sister, and Alfred Davis put in an equal share. From 83 Hatton Garden they imported Swiss watches, with small movements from Aegler in Bienne.", "src": [0, 3] },
+      { "year": "1907", "kind": "attempt", "title": "Brand names that went nowhere", "detail": "On 1 November 1907 he registered 'Lusitania', 'Mauretania' and 'The Eastern Watch' as trademarks in Switzerland, then let them lapse.", "src": [0] },
+      { "year": "1908", "kind": "breakthrough", "title": "Invents the name 'Rolex'", "detail": "Registered in Switzerland on 2 July 1908. British shops refused to put a maker's name on their dials, and by his own account it took him about 20 years to get 'Rolex' onto every watch.", "src": [0, 1, 3] },
+      { "year": "1910", "kind": "breakthrough", "title": "A wristwatch passes an official accuracy test", "detail": "On 22 March 1910 a Rolex won a first-class certificate in Bienne, the first wristwatch officially certified in Switzerland. In July 1914 another won Kew's Class A certificate.", "src": [1, 3] },
+      { "year": "1915", "kind": "failure", "title": "War taxes hit his import business", "detail": "Britain put a 33⅓% duty on imported luxuries in September 1915 and in December 1916 banned gold watch imports. Amid anti-German feeling, the Rolex Watch Company Ltd was set up in London in November 1915.", "src": [1, 3] },
+      { "year": "1919", "kind": "life", "title": "Moves the business to Geneva", "detail": "He moved the headquarters from London to Geneva in 1919; on 16 January 1920 it became Montres Rolex SA, Geneva.", "src": [1, 3] },
+      { "year": "1926", "kind": "breakthrough", "title": "The waterproof Oyster", "detail": "He bought the rights to a screw-down crown patent in July 1926, then filed his own improved design in October.", "src": [1, 3] },
+      { "year": "1927", "kind": "breakthrough", "title": "A swimmer and a front page", "detail": "On 21 October Mercedes Gleitze wore an Oyster through more than 10 hours in the Channel, and it kept good time. On 24 November he paid £1,600 for the whole front page of the Daily Mail to launch the Oyster in Britain.", "src": [1, 18] },
+      { "year": "1931", "kind": "breakthrough", "title": "The self-winding 'Perpetual'", "detail": "A rotor that swings with your wrist winds the watch, so the crown is opened less and the case stays sealed.", "src": [1, 3] },
+      { "year": "1941", "kind": "failure", "title": "Under suspicion in wartime", "detail": "British files from 1941 to 1943 show officials suspected him of Nazi sympathies and even spying. Intelligence found no 'undesirable activities', and in 1943 MI5 advised against blacklisting the firm.", "src": [8, 9] },
+      { "year": "1945", "kind": "life", "title": "After his wife's death, a foundation", "detail": "His wife Florence died in 1944; the couple had no children. In 1945 he set up the Hans Wilsdorf Foundation and left it his Rolex shares.", "src": [0, 3, 5] },
+      { "year": "1960", "kind": "now", "title": "Dies in Geneva at 79", "detail": "He died on 6 July 1960. The foundation he created owns Rolex to this day.", "src": [1, 5] }
+    ],
+    "mindset": [
+      { "idea": "Bet on the thing people laugh at", "explain": "In the 1900s a wristwatch was seen as ladies' jewellery. Wilsdorf wrote that it was then 'an object of derision', yet in 1914 he predicted pocket watches would almost disappear.", "src": [0, 2] },
+      { "idea": "Proof beats promises", "explain": "He sent small wristwatches to official accuracy tests, at Bienne in 1910 and at Kew, best known for testing ships' chronometers, in 1914. Then he used a real Channel swim to show the Oyster was waterproof.", "src": [1, 3] },
+      { "idea": "A name anyone can say", "explain": "He wanted a short word that could be said in any language and looked neat on a dial. He combined letters into about a hundred names before choosing 'Rolex'.", "src": [0, 11] },
+      { "idea": "Hold one course for decades", "explain": "He wrote that he always had certain aims in mind and kept to a course from which he never deviated. By leaving Rolex to a foundation, he made sure it would not be sold or listed on a stock market.", "src": [2, 3, 5] },
+      { "idea": "Telling the story is part of the product", "explain": "From 1926 Rolex ran a long, costly advertising campaign: Oysters sat inside fish tanks in dealers' windows, and in 1927 it bought the whole front page of the Daily Mail.", "src": [1, 3] }
+    ],
+    "habits": [
+      { "habit": "Went to his supplier in person", "detail": "He travelled to the Aegler movement works in Bienne several times a year and worked closely with Hermann Aegler on new sizes.", "src": [3] },
+      { "habit": "Treated every watch like a test watch", "detail": "He asked Aegler to adjust all Rolex watches as if each one were going to an observatory trial.", "src": [1] },
+      { "habit": "Listed options before choosing", "detail": "For the brand name he wrote out letter combinations, about a hundred of them, until one felt right.", "src": [11, 3] }
+    ],
+    "darkestHour": {
+      "title": "1915–1919: a German-born importer in wartime London",
+      "story": "Wilsdorf was born German and had become a British citizen only in 1911. His whole business was bringing Swiss watches into Britain. In September 1915 Britain put a 33⅓% duty on imported luxuries, and in December 1916 it banned imports of gold watches and cases for the rest of the war. Amid anti-German feeling he renamed the firm the Rolex Watch Company. Instead of fighting the taxes, he moved the centre of the business to Switzerland, next to his movement maker, and by 1919 he was set up in Geneva. He then made the forced move part of the brand: Geneva already meant fine watches to buyers, and Rolex has been a Geneva company ever since.",
+      "src": [0, 1, 3]
+    },
+    "genuineness": {
+      "story": "In the Second World War, British airmen in German prison camps had their watches taken from them. Wilsdorf offered them Rolex watches, sent from Geneva through the Red Cross, on a gentleman's promise to pay after the war, with no way to know who would come home. RAF pilot Gerald Imeson, held at Stalag Luft III, received his watch this way and paid his £170 bill in 1947. In 1941 the British consul in Geneva wrote that this might be an impulse of generosity but, if other reports about Wilsdorf were true, that hardly seemed likely. The watches reached the camps all the same.",
+      "src": [10, 8]
+    },
+    "now": "Wilsdorf died in Geneva on 6 July 1960. Rolex has no outside shareholders: the Hans Wilsdorf Foundation, set up in 1945, owns the whole group and lives on its dividends. A team of about 30 people runs it, funding social and health work, training, culture and humanitarian projects in Geneva, plus animal and nature protection further afield.",
+    "nowSrc": [1, 5]
+  },
+  "numbers": [
+    { "value": "CHF 11 bn+", "label": "Wholesale sales (est., Morgan Stanley & LuxeConsult; Rolex publishes no figures)", "asOf": "2025", "src": [12, 13] },
+    { "value": "~1.15 million", "label": "Watches made (est.), 2% fewer than the year before", "asOf": "2025", "src": [12, 13] },
+    { "value": "~33%", "label": "Share of all Swiss watch sales by value (est.)", "asOf": "2025", "src": [12, 20] },
+    { "value": "80 francs", "label": "Wilsdorf's monthly pay in his first watch job", "asOf": "1900", "src": [0] },
+    { "value": "$1.7 million", "label": "Paid at Sotheby's Geneva for the Oyster Mercedes Gleitze wore in 1927", "asOf": "Nov 2025", "src": [7] },
+    { "value": "CHF 1 bn+", "label": "Reported price Rolex paid to buy its own movement maker in Bienne", "asOf": "2004", "src": [21, 1] }
+  ],
+  "milestones": [
+    { "year": "1905", "title": "Wilsdorf & Davis opens in London", "detail": "Founded on 22 June 1905 at 83 Hatton Garden to import Swiss watches into Britain.", "src": [0] },
+    { "year": "1908", "title": "'Rolex' registered", "detail": "Trademark registered in Switzerland on 2 July 1908.", "src": [0, 1] },
+    { "year": "1910", "title": "First officially certified wristwatch", "detail": "A Rolex passed the official tests in Bienne, a first for a wristwatch in Switzerland.", "src": [1, 3] },
+    { "year": "1914", "title": "Kew Class A certificate", "detail": "A small Rolex wristwatch earned a rating usually won by large ship's chronometers.", "src": [1, 3] },
+    { "year": "1920", "title": "Montres Rolex SA in Geneva", "detail": "After war duties pushed the firm out of London, it became Montres Rolex SA, based in Geneva, on 16 January 1920.", "src": [1, 3] },
+    { "year": "1926", "title": "The Oyster case", "detail": "A sealed case with a screw-down crown, sold as the first waterproof wristwatch.", "src": [1, 3, 7] },
+    { "year": "1927", "title": "Gleitze swim and the Daily Mail front page", "detail": "Rolex launched the Oyster in Britain with a full front-page ad on 24 November 1927.", "src": [1, 18] },
+    { "year": "1931", "title": "Oyster Perpetual", "detail": "The self-winding rotor joined the waterproof case.", "src": [1, 3] },
+    { "year": "1945", "title": "Foundation and Datejust", "detail": "The Hans Wilsdorf Foundation was created, and the Datejust launched for the firm's 40th year.", "src": [3, 5] },
+    { "year": "1953", "title": "Submariner and Explorer", "detail": "Tool watches for divers and climbers. The first Submariner, ref. 6204, was water-resistant to 100 metres.", "src": [4, 24] },
+    { "year": "2004", "title": "Buys its movement maker", "detail": "Rolex Geneva bought Rolex Bienne, the movement maker owned by Aegler's heirs, the Borer family, ending a partnership of more than 80 years.", "src": [1, 21] },
+    { "year": "2023", "title": "Buys Bucherer", "detail": "Rolex agreed to buy its biggest retailer, a Swiss chain with about 100 shops in Europe and the US.", "src": [14] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Rolex makes its own movements, cases and bracelets in four Swiss sites and sells the finished watches to authorised jewellers, who sell them to buyers. It makes fewer watches than people want, and it does not publish its accounts. Since 2023 it also owns Bucherer, its biggest retailer. Profits flow as dividends to the Hans Wilsdorf Foundation, which gives them away in Geneva.",
+    "flows": [
+      { "from": "Buyer", "to": "Authorised jeweller", "what": "Pays the retail price, often after a long wait" },
+      { "from": "Authorised jeweller", "to": "Rolex", "what": "Pays the wholesale price: about CHF 11 bn in 2025 (est.)" },
+      { "from": "Rolex", "to": "Hans Wilsdorf Foundation", "what": "Dividends, the foundation's income as owner" },
+      { "from": "Hans Wilsdorf Foundation", "to": "Geneva causes", "what": "Grants for social work, culture, training and humanitarian projects" }
+    ],
+    "src": [4, 5, 12, 14]
+  },
+  "failures": [
+    {
+      "year": "1915",
+      "title": "Taxed out of London",
+      "whatHappened": "A business built on importing watches into Britain was hit by a 33⅓% wartime duty and then a ban on gold watch imports. The firm had to move its base to Switzerland.",
+      "lesson": "If your business depends on one rule staying the same, have a plan for the day it changes.",
+      "src": [1, 3]
+    },
+    {
+      "year": "1956",
+      "title": "Watches nobody wanted at first",
+      "whatHappened": "The Milgauss (1956), built for scientists at CERN who worked near strong magnets, did not sell well outside CERN. For a time Rolex handed them to NASCAR race winners. It was dropped in 1988 and only came back in 2007; today collectors pay six figures for early ones.",
+      "lesson": "Not every product will land. Keep the core line strong so a miss does not sink you.",
+      "src": [22]
+    },
+    {
+      "year": "1970",
+      "title": "The quartz detour",
+      "whatHappened": "Cheap, accurate quartz watches crushed the Swiss industry: its jobs fell from 90,000 in 1970 to a little over 30,000 in 1984. Rolex's first quartz watch, the 5100, was a run of about 1,000, and its own Oysterquartz sold fewer than 25,000 in about 25 years. Rolex stayed mechanical and sold meaning, not just time.",
+      "lesson": "When a cheaper technology arrives, decide clearly what job your product really does for the buyer.",
+      "src": [15, 16, 6]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "'Rolex' is short for a French or Latin phrase, like 'horlogerie excellence'.",
+      "fact": "Wilsdorf never said that. He wanted a short word that worked in any language and looked good on a dial, and said the name came to him on a London omnibus.",
+      "src": [0, 11]
+    },
+    {
+      "myth": "Mercedes Gleitze swam across the Channel wearing a Rolex.",
+      "fact": "Her successful crossing on 7 October 1927 was done without one. She wore the Oyster on her 21 October 'vindication swim', which she had to abandon after more than 10 hours. The watch kept time.",
+      "src": [4, 18, 1]
+    },
+    {
+      "myth": "Rolex was started in Switzerland by a Swiss watchmaker.",
+      "fact": "It was started in London in 1905 by a German-born trader who did not make watches himself; it moved to Geneva only in 1919.",
+      "src": [0, 1, 6]
+    }
+  ],
+  "quotes": [
+    { "text": "My personal opinion is that pocket watches will almost completely disappear and that wrist watches will replace them definitively!", "who": "Hans Wilsdorf, 1914", "src": [2] },
+    { "text": "At that period, the wristlet watch was not at all popular; in fact it was an object of derision", "who": "Hans Wilsdorf, Rolex Jubilee Vade Mecum (1946), on the 1900s", "src": [0] },
+    { "text": "I had very early realized the manifold possibilities of the wristlet watch and, feeling sure that they would materialize in time, I resolutely went on my way.", "who": "Hans Wilsdorf, writing in the Rolex Jubilee (1946)", "src": [2] },
+    { "text": "My uncles made me become self-reliant very early in life. Looking back, I believe that it is to this, that much of my success is due.", "who": "Hans Wilsdorf, on being orphaned at 12", "src": [2] }
+  ],
+  "lessons": [
+    { "title": "Your first job can be your business school", "detail": "Wilsdorf learned world trade at a pearl exporter and watches as an 80-franc clerk before he started anything. A job at an exporter or trading house in Surat, Tiruppur or Moradabad can teach you buyers, prices and paperwork that no course will." },
+    { "title": "You do not need a factory to start", "detail": "Rolex did not fully own its movement maker until 2004. For about a century it relied on a close partnership with Aegler in Bienne. Find the best maker you can trust, stay close to them, and put your energy into quality checks and selling." },
+    { "title": "Prove it where strangers can check", "detail": "Wilsdorf won official certificates in Bienne and Kew, then let a swimmer test the Oyster in the Channel. An Indian founder can do the same with lab reports, BIS or FSSAI marks and live demos instead of big claims." },
+    { "title": "Turn a forced move into your story", "detail": "War taxes pushed Rolex out of London. Wilsdorf made Geneva part of the brand. When a rule or a market forces you to change, ask how the change can become a reason to trust you." },
+    { "title": "Decide early who will own your company", "detail": "Wilsdorf put Rolex into a foundation so it could never be sold, and it still plans in decades. Like the Tata Trusts that own most of Tata Sons, ownership shapes how patient a company can be. Think about it before investors decide it for you." }
+  ],
+  "moments": [
+    { "youtubeId": "EIzC-WXP8hw", "at": 1178, "label": "Ben Clymer tells the history of Rolex" },
+    { "youtubeId": "EIzC-WXP8hw", "at": 2325, "label": "Rolex's marketing and distribution" },
+    { "youtubeId": "EIzC-WXP8hw", "at": 2515, "label": "How Rolex makes decisions" },
+    { "youtubeId": "EIzC-WXP8hw", "at": 2834, "label": "The money: Rolex and other luxury watch brands" },
+    { "youtubeId": "EIzC-WXP8hw", "at": 3446, "label": "Negative lessons from Rolex" }
+  ],
+  "sources": [
+    { "label": "David Boettcher, 'Hans Wilsdorf: early life and career' (Vintage Watch Straps, quotes Wilsdorf's 1946 Rolex Jubilee Vade Mecum)", "url": "https://vintagewatchstraps.com/blogwilsdorfearlydays.php" },
+    { "label": "David Boettcher, 'Rolex history' (Vintage Watch Straps, dated trademark, patent and company records)", "url": "https://vintagewatchstraps.com/myrolexpage.php" },
+    { "label": "Founders podcast #351, 'The Founder of Rolex: Hans Wilsdorf', show notes with Wilsdorf's own words (Colossus, 2024)", "url": "https://colossus.com/episode/senra-351-the-founder-of-rolex-hans-wilsdorf/" },
+    { "label": "Fratello, 'A Brief History of Time: Rolex, Part One (1905–1945)'", "url": "https://fratellowatches.com/rolex-brand-history-part-one-1905-1945" },
+    { "label": "Benjamin Clymer, 'Inside All Four Rolex Manufacturing Facilities' (Hodinkee, 16 Mar 2015)", "url": "https://www.hodinkee.com/articles/inside-rolex" },
+    { "label": "Fondation Hans Wilsdorf, 'La fondation' (official site)", "url": "https://hanswilsdorf.ch/la-fondation" },
+    { "label": "Acquired podcast, 'Rolex' episode notes and corrections (Feb 2025)", "url": "https://www.acquired.fm/episodes/rolex" },
+    { "label": "National Jeweler, 'Historic Rolex Oyster fetches $1.7M at Sotheby's' (12 Nov 2025)", "url": "https://nationaljeweler.com/articles/14439-historic-rolex-oyster-fetches-1-7m-at-sotheby-s" },
+    { "label": "Steve Bird, 'Rolex founder was suspected Nazi spy' (The Telegraph via Yahoo News, 9 Aug 2025)", "url": "https://www.yahoo.com/news/articles/rolex-founder-suspected-nazi-spy-080000418.html" },
+    { "label": "Coronet, 'Hans Wilsdorf Foundation to probe World War II police report' (Mar 2024)", "url": "https://www.coronet.org/new-1minute-reads/hans-wilsdorf-police-report-nazism" },
+    { "label": "AFP, 'Great Escape' POW's Rolex up for auction (Taipei Times, 28 Oct 2013)", "url": "https://www.taipeitimes.com/News/world/archives/2013/10/28/2003575591" },
+    { "label": "Dennis Green, 'Here's where the name Rolex really came from' (Business Insider via Yahoo, 25 Apr 2017)", "url": "https://ca.finance.yahoo.com/news/heres-where-name-rolex-really-150136517.html" },
+    { "label": "Emily Yap, 'Watch giants fire back at Morgan Stanley's ninth annual Swiss Watcher report' (Options, The Edge Malaysia, 16 Mar 2026)", "url": "https://www.optionstheedge.com/node/4840" },
+    { "label": "MR Magazine, 'Rolex sold a record-breaking $14 billion worth of watches last year' (2026)", "url": "https://mr-mag.com/rolex-sold-a-record-breaking-14-billion-worth-of-watches-last-year-report/" },
+    { "label": "WatchesBySJX, 'Rolex acquires watch retailer Bucherer' (Aug 2023)", "url": "https://watchesbysjx.com/2023/08/rolex-bucherer-takeover.html" },
+    { "label": "Swissinfo, 'Watches tick to a different beat' (quartz watch history and Swiss job losses)", "url": "https://www.swissinfo.ch/eng/science/watches-tick-to-a-different-beat/2953178" },
+    { "label": "Bob's Watches, 'Rolex Oysterquartz Review & Ultimate Guide' (ref. 5100 and Oysterquartz production)", "url": "https://www.bobswatches.com/rolex-blog/editorial/rolex-oysterquartz-ultimate-guide-facts.html" },
+    { "label": "Crown & Caliber, 'Hans Wilsdorf: a founder and innovator'", "url": "https://www.crownandcaliber.com/posts/hans-wildorf-a-founder-and-innovator/" },
+    { "label": "History.com, Nate Barksdale on Mercedes Gleitze's swims", "url": "https://www.history.com/articles/english-woman-swimmer-europe-africa" },
+    { "label": "Business Breakdowns Ep. 65, 'Rolex: Timeless Excellence' with Ben Clymer (Colossus, video and chapter list)", "url": "https://www.youtube.com/watch?v=EIzC-WXP8hw" },
+    { "label": "Professional Watches, 'Morgan Stanley's top 20 Swiss watch company ranking for 2026' (18 Feb 2026)", "url": "https://professionalwatches.com/morgan-stanleys-top-20-swiss-watch-company-ranking-for-2026/" },
+    { "label": "JX Su, 'Rolex Billionaire Harry Borer Dies at 89' (WatchesBySJX, 20 Jun 2017): the 2004 purchase of Rolex Bienne", "url": "https://watchesbysjx.com/2017/06/rolex-billionaire-harry-borer-dies-at-89.html" },
+    { "label": "Logan Baker, 'What's The Legacy Of The Rolex Milgauss?' (Phillips, May 2023)", "url": "https://phillips.com/article/122097700/rolex-milgauss-vintage-1019-6541-discontinued" },
+    { "label": "Coronet, 'The Heinigers of Rolex'", "url": "https://www.coronet.org/1minute-reads/the-heinigers-of-rolex" },
+    { "label": "Ariel Adams, 'Submariner – 1953' (aBlogtoWatch, 18 Nov 2013)", "url": "https://www.ablogtowatch.com/first-rolex-submariner-watch/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 21 sources (Wilsdorf's own 1946 account as quoted by David Boettcher and the Founders podcast, plus Fratello, Hodinkee, the foundation's site and news reports); then independently re-checked claim by claim against the cited source plus a second source, which corrected the Heiniger dates, the Aegler owners' name (Borer), the Milgauss story and several photo captions, and added four sources. Quotes matched word for word to the Founders show notes and Boettcher's quotation of the Vade Mecum. Photo licences, authors and dates checked against the Commons API. Chapter timestamps checked against the creator's YouTube description and the Colossus show notes. Rolex publishes no accounts, so all sales figures are labelled analyst estimates.",
+    "disputed": [
+      { "claim": "Wilsdorf's inheritance was stolen on his way to London.", "note": "Fratello says thieves took 33,000 gold marks in 1903. Boettcher, working from Wilsdorf's own account, says only that he borrowed from his brother and sister in 1905. Left out of the story." },
+      { "claim": "When Alfred Davis left the business.", "note": "Fratello says Wilsdorf bought out Davis in 1919. Boettcher says next to nothing is known about Davis. We do not give an exit date." },
+      { "claim": "Wilsdorf's age at Cuno Korten.", "note": "Boettcher and Crown & Caliber say 19; Fratello says 20. He joined in 1900, born March 1881, so both are possible." },
+      { "claim": "How the name 'Rolex' came to him.", "note": "The 'genie on the omnibus' story comes from Wilsdorf's own later retelling (one source dates it to a 1958 speech). Exact wording differs between versions. The meaning of the word was never explained by him." },
+      { "claim": "Length of Gleitze's 'vindication swim'.", "note": "Boettcher gives 10 hours 24 minutes; History.com gives 10 hours 20 minutes. We say 'more than 10 hours'." },
+      { "claim": "Wilsdorf's wartime politics.", "note": "A 1941 Swiss police report (cited by business historian Pierre-Yves Donzé) called him a fervent admirer of the Hitler regime, and 1941–43 British files suspected him; the police found no suspicious activity, British intelligence found no undesirable activities, and in 1943 MI5 advised against blacklisting. In 2024 the Hans Wilsdorf Foundation said it would commission an independent historical investigation; in 2025 Rolex said historian Marc Perrenoud was researching it." },
+      { "claim": "Who ran Rolex between 1960 and 1963.", "note": "Wilsdorf died in 1960; André Heiniger became managing director in 1963. Our sources do not say who led the company in between." },
+      { "claim": "Rolex 'firsts' (first certified wristwatch, first wristwatch with a Kew Class A).", "note": "These come from Rolex's own history, repeated by watch media. Boettcher confirms the 1910 Bienne certificate and the 1914 Kew certificate (77.3 marks) but does not confirm the Kew 'first'. We say 'usually won by ship's chronometers' rather than 'only'." },
+      { "claim": "Were the prisoner-of-war watches free?", "note": "The Telegraph describes 'free' watches; the AFP report and auction records describe payment after the war (Imeson paid £170 in 1947). We follow the payment-after-the-war account." },
+      { "claim": "Rolex sales and market share.", "note": "Morgan Stanley and LuxeConsult estimate them; Rolex discloses nothing. Swatch Group and Rolex's sister brand Tudor publicly questioned the report's method in 2026." }
+    ]
+  }
+}

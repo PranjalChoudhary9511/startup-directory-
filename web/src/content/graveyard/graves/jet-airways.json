@@ -1,0 +1,178 @@
+{
+  "slug": "jet-airways",
+  "name": "Jet Airways",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Airline",
+  "founded": 1993,
+  "died": 2019,
+  "status": "bankrupt",
+  "brandColor": "#0b2a5b",
+  "founders": [
+    { "name": "Naresh Goyal", "role": "Founder & chairman (until March 2019)" }
+  ],
+
+  "epitaph": "Once India's No. 1. Grounded by ₹400 crore.",
+  "oneLiner": "India's biggest private full-service airline for years, flying from Mumbai to cities across India and to London, Amsterdam and beyond.",
+  "causeOfDeath": "Squeezed by cheaper rivals and buried under ₹8,500+ crore of debt, it ran out of cash; lenders refused emergency funds and it stopped flying in April 2019.",
+
+  "raisedUsdM": null,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "No lifetime total of equity plus debt was published in sources we read. Known pieces: a 2005 IPO that raised ₹1,890 crore, Etihad's $379 million for 24% in 2013, and overall debt of over ₹8,500 crore by 2019. The Supreme Court ordered liquidation in 2024; final recoveries are not yet published.",
+  "moneySrc": [0, 1],
+
+  "inOneMinute": [
+    "Naresh Goyal built Jet from an air-taxi firm in 1993 into **India's largest airline**, with 22.6% of the market in 2010.",
+    "Low-cost rivals took its passengers. Debt passed ₹8,500 crore, salaries went unpaid, and **lenders refused ₹400 crore of emergency money**.",
+    "It stopped flying on 17 April 2019. A rescue plan failed, and in November 2024 **the Supreme Court ordered it liquidated**."
+  ],
+  "killerLine": "Being the biggest is not a moat. **If rivals fly cheaper, your size becomes the weight that sinks you.**",
+
+  "numbers": [
+    { "value": "₹8,500 cr+", "label": "overall debt when it stopped flying in 2019", "src": [1] },
+    { "value": "₹400 cr", "label": "emergency funding lenders refused, the day before the last flight", "src": [0] },
+    { "value": "16,015", "label": "employees in 2017", "src": [0] },
+    { "value": "22.6% → 17.8%", "label": "its domestic market share, 2010 vs 2017", "src": [0] }
+  ],
+
+  "chapters": [
+    {
+      "title": "The idea: a travel agent builds an airline",
+      "body": "Naresh Goyal started as a cashier at his uncle's travel agency in 1967 and set up his own agency, Jetair, in 1974. When India opened its skies to private airlines, he launched Jet Airways. It began on 5 May 1993 as an air-taxi operator and got scheduled-airline status on 14 January 1995. In between, in 1975, he became Philippine Airlines' regional manager in India, learning the airline trade from the inside. Jet's promise was simple: **a private full-service airline** in a market long dominated by the government's carriers. Over the next 25 years it would grow to more than 120 aircraft and 16,000 employees.",
+      "src": [0, 2, 3]
+    },
+    {
+      "title": "The rise: No. 1 in India",
+      "body": "Jet grew fast. Its February 2005 IPO sold 20% of the company and raised **₹1,890 crore**, making Goyal a paper billionaire. It started international flights to Colombo in 2004 and London in 2005. In April 2007 it bought rival Air Sahara for ₹1,450 crore and renamed it JetLite. By the third quarter of 2010, Jet was **India's largest airline, with a 22.6% market share**. In 2013, Abu Dhabi's Etihad Airways paid $379 million for a 24% stake, while Goyal kept 51%. To most Indians, Jet was the gold standard of flying.",
+      "src": [0]
+    },
+    {
+      "title": "The cracks: cheaper rivals, heavier debt",
+      "body": "Low-cost airlines like IndiGo offered no-frills flights at lower fares, and many passengers chose price over service. Jet tried running its own budget brands, JetLite and later JetKonnect, but phased them out. Its market share slid to **17.8% by October 2017**, behind IndiGo. In FY2017–18 it earned ₹25,200 crore in revenue but still lost about ₹630 crore. Debt kept rising. By early 2019, lessors were taking back planes, about **80 of its 124 planes were grounded**, and employees had gone about three months without salary. On 25 March 2019, Goyal and his wife stepped down from the board and handed control to lenders led by SBI.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "The fall: the last flight and a five-year fight",
+      "body": "The lenders searched for a buyer, but Etihad and the Hinduja Group could not agree on a deal. Jet asked for **₹400 crore of emergency funding**. Lenders said no, and on 17 April 2019 Jet stopped flying. Its CEO and top executives resigned. In June 2019 lenders took it to the NCLT (the insolvency court) with about $1.2 billion of debt. A consortium called Jalan Kalrock won approval to revive it, but never did. On 7 November 2024, the Supreme Court ruled the buyer had broken the plan's terms and **ordered Jet liquidated** (its assets sold off to repay creditors).",
+      "src": [0, 1, 6]
+    }
+  ],
+
+  "timeline": [
+    { "date": "5 May 1993", "event": "Jet Airways begins as an air-taxi operator.", "kind": "start", "src": [0, 2] },
+    { "date": "14 Jan 1995", "event": "Gets scheduled-airline status.", "kind": "start", "src": [0] },
+    { "date": "Feb 2005", "event": "IPO sells 20% and raises ₹1,890 crore.", "kind": "money", "src": [0] },
+    { "date": "12 Apr 2007", "event": "Agrees to buy Air Sahara for ₹1,450 crore; renamed JetLite.", "kind": "money", "src": [0] },
+    { "date": "Q3 2010", "event": "Becomes India's largest airline with a 22.6% domestic market share.", "kind": "peak", "src": [0] },
+    { "date": "Nov 2013", "event": "Etihad Airways buys 24% for $379 million.", "kind": "money", "src": [0] },
+    { "date": "Oct 2017", "event": "Market share slips to 17.8%, behind IndiGo.", "kind": "warning", "src": [0] },
+    { "date": "25 Mar 2019", "event": "Naresh and Anita Goyal step down; lenders led by SBI take control.", "kind": "crisis", "src": [1, 2] },
+    { "date": "17 Apr 2019", "event": "Lenders refuse ₹400 crore of emergency funds; Jet stops flying.", "kind": "end", "src": [0] },
+    { "date": "17 Jun 2019", "event": "Lenders refer Jet to the NCLT with about $1.2 billion of debt.", "kind": "end", "src": [0] },
+    { "date": "1 Sep 2023", "event": "ED arrests Naresh Goyal in a money-laundering case linked to an alleged ₹538 crore loan default.", "kind": "after", "src": [4] },
+    { "date": "7 Nov 2024", "event": "Supreme Court sets aside the transfer to Jalan Kalrock and orders liquidation.", "kind": "after", "src": [6, 0] }
+  ],
+
+  "charts": [
+    {
+      "title": "Jet's share of India's domestic flyers",
+      "unit": "% market share",
+      "kind": "line",
+      "labels": ["Q3 2010", "Feb 2016", "Oct 2017"],
+      "series": [
+        { "name": "Jet Airways", "values": [22.6, 21.2, 17.8] }
+      ],
+      "takeaway": "Jet went from India's No. 1 to No. 2 as low-cost rivals took passengers, even before the cash ran out.",
+      "src": [0]
+    }
+  ],
+
+  "rounds": [
+    { "date": "Feb 2005", "round": "IPO (20% stake)", "amountUsdM": null, "valuationUsdM": null, "investors": ["Public shareholders"], "src": [0] },
+    { "date": "Nov 2013", "round": "Strategic stake (24%)", "amountUsdM": 379, "valuationUsdM": null, "investors": ["Etihad Airways"], "src": [0] }
+  ],
+
+  "causes": [
+    { "key": "burn", "weight": 35 },
+    { "key": "competition", "weight": 30 },
+    { "key": "governance", "weight": 20 },
+    { "key": "funding-dried", "weight": 15 }
+  ],
+
+  "mistakes": [
+    {
+      "title": "Fighting a price war with a premium cost base",
+      "explain": "Low-cost airlines ran simpler, cheaper operations and **won passengers on price**. Jet's market share fell from 22.6% to 17.8% between 2010 and 2017. Its own budget brands, JetLite and JetKonnect, were later phased out. When customers stop paying extra for your premium, your costs must come down fast, or the losses pile up.",
+      "src": [0]
+    },
+    {
+      "title": "Borrowing to keep flying",
+      "explain": "Even with ₹25,200 crore of revenue in FY2017–18, Jet lost money, and debt climbed past **₹8,500 crore**. Every loss was covered by more borrowing, until lessors took planes back and about 80 of its 124 aircraft were grounded. Debt buys time; it does not fix a business that loses money.",
+      "src": [0, 1, 3]
+    },
+    {
+      "title": "Letting the rescue come too late",
+      "explain": "Goyal and his wife handed control to lenders only on 25 March 2019, with planes already grounded and salaries unpaid. By then, rescuers like Etihad and the Hinduja Group could not agree on terms, and lenders refused the last **₹400 crore**. Founders who hold on too long often leave nothing left to save.",
+      "src": [0, 1]
+    },
+    {
+      "title": "Employees paid last",
+      "explain": "By May 2019, Jet had **not paid salaries for several months**, and top executives had resigned. Thousands of staff were left waiting for their dues for years; only in 2026 did the NCLAT confirm their provident fund and gratuity must be paid in full, outside the liquidation pool.",
+      "src": [1, 7]
+    }
+  ],
+
+  "warningSigns": [
+    "Are cheaper competitors winning your customers while your costs stay the same?",
+    "Are you borrowing new money just to cover this month's losses?",
+    "Are suppliers or landlords taking back equipment or space because you have not paid?",
+    "Have salaries been delayed for more than one cycle?",
+    "Are you, as founder, holding on to control even though outsiders are ready to rescue the business?"
+  ],
+
+  "lessons": [
+    { "title": "Watch your share, not just your size", "detail": "Track your market share every quarter. If it slips for two quarters in a row, find out why before your revenue follows." },
+    { "title": "Match your costs to what customers will pay", "detail": "If customers move to a cheaper option, cut costs or prove clearly why you are worth more. Hoping they come back is not a plan." },
+    { "title": "Debt is a tool, not a lifeline", "detail": "Borrow to grow something that already makes money. Borrowing to cover losses just makes the final bill bigger." },
+    { "title": "Ask for help early", "detail": "Bring in investors, partners or new leaders while there is still something to save. A rescue at 30% damage is possible; at 90%, it rarely is." },
+    { "title": "A signed deal is not a closed deal", "detail": "Jet's rescue plan was approved, then collapsed because the buyer did not meet its terms. Until money moves, keep your backup options alive." }
+  ],
+
+  "quote": {
+    "text": "the Jet Airways case has been an eye-opener",
+    "who": "Supreme Court of India",
+    "context": "While ordering Jet's liquidation and suggesting reforms to India's insolvency law, November 2024.",
+    "src": [5]
+  },
+
+  "afterlife": {
+    "text": "On 7 November 2024, the Supreme Court ordered Jet liquidated after finding that Jalan Kalrock had broken the resolution plan's terms. In 2026 the NCLAT ruled former employees' provident fund and gratuity must be paid in full outside the liquidation pool, and the Supreme Court declined to interfere. Naresh Goyal was arrested by the ED on 1 September 2023 in a money-laundering case based on Canara Bank's complaint alleging a ₹538 crore loan default. He was granted interim medical bail for cancer treatment in May 2024, made absolute by the Bombay High Court on 11 November 2024. In September 2025, the Bombay High Court set aside Bank of India's classification of his account as fraud (the bank may issue a fresh notice). He has not been convicted of any offence.",
+    "src": [4, 6, 7, 8, 9]
+  },
+
+  "sources": [
+    { "label": "Wikipedia: Jet Airways (summary of cited reports)", "url": "https://en.wikipedia.org/wiki/Jet_Airways" },
+    { "label": "Business Today: Naresh Goyal, wife stopped from leaving India (25 May 2019)", "url": "https://www.businesstoday.in/industry/aviation/story/jet-airways-crisis-naresh-goyal-wife-stopped-from-leaving-abroad-at-mumbai-airport-200272-2019-05-25" },
+    { "label": "Wikipedia: Naresh Goyal (biography with citations)", "url": "https://en.wikipedia.org/wiki/Naresh_Goyal" },
+    { "label": "AirlineGeeks: Nearly 70% of Jet Airways' fleet grounded (13 Apr 2019)", "url": "https://airlinegeeks.com/2019/04/13/jet-airways-suspends-international-operation/" },
+    { "label": "Bar & Bench: Mumbai court remands Naresh Goyal to ED custody (2 Sep 2023)", "url": "https://www.barandbench.com/news/naresh-goyal-ed-custody-september-11-mumbai-court" },
+    { "label": "Bar & Bench: Supreme Court says Jet Airways case an eye-opener (8 Nov 2024)", "url": "https://www.barandbench.com/news/supreme-court-says-jet-airways-case-eye-opener-suggests-reforms-ibc" },
+    { "label": "Bar & Bench: Supreme Court orders liquidation of Jet Airways (7 Nov 2024)", "url": "https://www.barandbench.com/news/supreme-court-orders-liquidation-jet-airways-sets-aside-transfer-ownership-jkc" },
+    { "label": "Bar & Bench: NCLAT backs full provident fund, gratuity for Jet staff (1 Jul 2026)", "url": "https://www.barandbench.com/news/jet-airways-liquidation-nclat-backs-full-provident-fund-gratuity-for-staff" },
+    { "label": "Bar & Bench: Bombay High Court grants medical bail to Naresh Goyal (11 Nov 2024)", "url": "https://www.barandbench.com/news/bombay-high-court-grants-medical-bail-naresh-goyal-ed-case" },
+    { "label": "Bar & Bench: Bombay HC sets aside Bank of India's fraud classification of Goyal's account (30 Sep 2025)", "url": "https://www.barandbench.com/news/litigation/bombay-high-court-sets-aside-bank-of-india-classification-of-naresh-goyals-account-as-fraud" }
+  ],
+
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      { "claim": "Size of the emergency funding request", "note": "Wikipedia says lenders rejected a ₹400 crore request just before the shutdown; Business Today said Jet failed to get an immediate infusion of about ₹1,500 crore. Both may be true at different stages; we use ₹400 crore for the final request." },
+      { "claim": "Naresh Goyal's guilt in the Canara Bank / ED case", "note": "These are allegations by the CBI and ED. Goyal is on medical bail and had not been convicted as of our check." },
+      { "claim": "FY2017–18 loss", "note": "We use Wikipedia's figure of about ₹630 crore; consolidated and standalone figures differ in other reports we could not open." },
+      { "claim": "How much of the fleet was grounded", "note": "AirlineGeeks reported about 80 of 124 aircraft (about 70%) grounded by 13 April 2019; Naresh Goyal's Wikipedia page says about two-thirds were grounded when he stepped down in March." },
+      { "claim": "Research limits", "note": "Our web search budget ran out and several major news sites blocked our reader, so some business facts rely on Wikipedia's summary of cited reports." }
+    ]
+  }
+}

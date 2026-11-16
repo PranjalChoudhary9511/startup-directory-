@@ -1,0 +1,281 @@
+{
+  "slug": "tesla",
+  "company": "Tesla",
+  "verifiedAt": "2026-10-29",
+  "palette": {
+    "primary": "#E31937",
+    "secondary": "#171A20",
+    "accent": "#8E9196",
+    "ink": "#1A1C20",
+    "paper": "#F5F3EF",
+    "note": "Tesla red #E31937 is the brand colour listed by brandcolorcode.com (tesla.com blocks automated reading); the near-black, steel-grey accent, ink and warm paper are our own tints in the same mood."
+  },
+  "tagline": "Two engineers started it, a 32-year-old investor took it over, and one terrible year nearly killed it before it became the world's best-known electric car maker.",
+  "hook": "Elon Musk did not start Tesla. Two engineers formed it in July 2003; Musk arrived as an investor in 2004, and only a 2009 legal settlement let him call himself a co-founder. By 2026 the company had delivered more than 10 million cars.",
+  "hookSrc": [5, 11, 7, 1],
+  "cast": [
+    {
+      "name": "Martin Eberhard",
+      "role": "Engineer who, with Marc Tarpenning, had built and sold the NuvoMedia e-reader company, then formed Tesla Motors in 2003 and became its first CEO. He stepped down as CEO in August 2007 after clashes with Musk, sued Musk in 2009 for libel and slander, and settled that September.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Martin_Eberhard_%28cropped%29.jpg/500px-Martin_Eberhard_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Martin_Eberhard_(cropped).jpg",
+        "caption": "Martin Eberhard in September 2006, while he was Tesla's CEO.",
+        "author": "Nicki Dugan",
+        "license": "CC BY-SA 2.0",
+        "year": 2006
+      },
+      "src": [12, 9, 10, 7]
+    },
+    {
+      "name": "Marc Tarpenning",
+      "role": "Eberhard's partner twice: they co-founded NuvoMedia in 1997 and sold it three years later for $187 million, then founded Tesla in 2003. He recalls that sealing Musk's investment took about five minutes. He later left Tesla's board, saying he would have stayed if Musk had become CEO six to nine months sooner.",
+      "photo": null,
+      "src": [12, 13, 11]
+    },
+    {
+      "name": "JB Straubel",
+      "role": "Stanford energy-systems engineer, named one of the five co-founders in the 2009 settlement. Tesla's chief technology officer from May 2005 to July 2019, then founder and CEO of the battery-recycling company Redwood Materials. Back on Tesla's board since 2023.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jeffrey_B._Straubel_3.JPG/1280px-Jeffrey_B._Straubel_3.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Jeffrey_B._Straubel_3.JPG",
+        "caption": "JB Straubel, then Tesla's chief technical officer, in May 2013.",
+        "author": "RudolfSimon",
+        "license": "CC BY-SA 3.0",
+        "year": 2013
+      },
+      "src": [1, 7]
+    }
+  ],
+  "founder": {
+    "name": "Elon Musk",
+    "role": "Co-founder (by 2009 legal settlement), CEO since 2008",
+    "born": "28 Jun 1971, Pretoria, South Africa",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/960px-Elon_Musk_2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_2015.jpg",
+      "caption": "Elon Musk at Tesla's annual shareholder meeting, June 2015.",
+      "author": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "year": 2015
+    },
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/OnInnovation_Interview_-_Elon_Musk_%284334236917%29.jpg/1280px-OnInnovation_Interview_-_Elon_Musk_%284334236917%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:OnInnovation_Interview_-_Elon_Musk_(4334236917).jpg",
+        "caption": "Musk at SpaceX on 26 June 2008, during an interview for The Henry Ford's OnInnovation project. Two Falcon 1 launches had already failed, and a third failure was still ahead.",
+        "author": "OnInnovation",
+        "license": "CC BY-SA 2.0",
+        "year": 2008
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elon_Musk_%283017880307%29.jpg/1280px-Elon_Musk_%283017880307%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(3017880307).jpg",
+        "caption": "Musk on 7 November 2008, a month after he took over as Tesla's CEO and seven weeks before the Christmas Eve funding that saved it.",
+        "author": "JD Lasica from Pleasanton, CA, US",
+        "license": "CC BY 2.0",
+        "year": 2008
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/First_production_Tesla_Model_S_delivered.jpg/1280px-First_production_Tesla_Model_S_delivered.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:First_production_Tesla_Model_S_delivered.jpg",
+        "caption": "1 June 2012: investor Steve Jurvetson, with JB Straubel, takes delivery of the first production Model S at Tesla's California headquarters.",
+        "author": "Steve Jurvetson",
+        "license": "CC BY 2.0",
+        "year": 2012
+      }
+    ],
+    "background": "Elon Musk was born in Pretoria in 1971, the eldest of three children of Maye, a Canadian-born dietitian and model, and Errol, a South African engineer. His parents divorced in 1979; about two years later he chose to live with his father, partly because Errol owned a computer and a set of Encyclopaedia Britannica. Elon and his brother Kimbal call their father a 'volatile fabulist' and no longer speak to him. At school Elon was bullied: one attack left him in hospital and out of school for a week. As a teenager he left South Africa alone, against his parents' wishes, for Canada, where his mother was born.",
+    "backgroundSrc": [33, 19, 15, 16],
+    "journey": [
+      { "year": "1971", "kind": "life", "title": "Born in Pretoria", "detail": "The eldest of three children. His mother Maye was born in Saskatchewan, Canada; his father Errol is an engineer.", "src": [33, 19] },
+      { "year": "1981", "kind": "life", "title": "Moves in with his father", "detail": "About two years after his parents' 1979 divorce, he went to live with Errol, who had a computer and an encyclopaedia set his mother could not afford.", "src": [19, 15] },
+      { "year": "1983", "kind": "attempt", "title": "Sells his first code at 12", "detail": "He wrote a space game called Blastar. A computer magazine, PC and Office Technology, paid him $500 and printed the code in 1984.", "src": [34, 33, 16] },
+      { "year": "1980s", "kind": "failure", "title": "Beaten up at school", "detail": "Boys kicked him in the head and pushed him down concrete steps. He was taken to hospital and missed a week of school.", "src": [15] },
+      { "year": "1989", "kind": "life", "title": "Leaves for Canada, alone", "detail": "He went first to a cousin's farm in Waldeck, Saskatchewan, growing vegetables and shovelling grain bins.", "src": [16, 17, 18] },
+      { "year": "1989", "kind": "job", "title": "Cleans a lumber mill boiler for $18 an hour", "detail": "According to Ashlee Vance's biography, in Vancouver he cut logs with a chainsaw, then took a better-paid job: putting on a hazmat suit, crawling through a narrow boiler-room tunnel at a lumber mill and shovelling out steaming-hot residue.", "src": [17, 18] },
+      { "year": "1990", "kind": "life", "title": "Queen's University, then Penn", "detail": "Two years at Queen's University in Kingston, Ontario, where he met his first wife Justine. He then transferred to the University of Pennsylvania: a B.A. in physics and a B.S. from its Wharton business school.", "src": [16, 33, 0] },
+      { "year": "1995", "kind": "attempt", "title": "Two days at Stanford, then Zip2", "detail": "Accepted into a Stanford PhD, he left after two days, aged 24, to start Zip2 with Kimbal. It made online city guides.", "src": [16, 33] },
+      { "year": "1999", "kind": "breakthrough", "title": "Zip2 sold to Compaq", "detail": "Compaq paid $307 million. Musk, who had given control to venture investors, got $22 million for his 7% stake.", "src": [16, 33, 0] },
+      { "year": "2000", "kind": "failure", "title": "Ousted as CEO of X.com", "detail": "His online bank X.com merged with Confinity, maker of PayPal. In September 2000, while he was on honeymoon, executives went to the board and he was replaced by Peter Thiel.", "src": [20, 16] },
+      { "year": "2002", "kind": "breakthrough", "title": "eBay buys PayPal", "detail": "eBay agreed in July 2002 to buy PayPal for about $1.5 billion in stock and closed in October. Musk got about $165 million in eBay stock.", "src": [21, 16, 33, 0] },
+      { "year": "2002", "kind": "attempt", "title": "Starts SpaceX", "detail": "In 2002 he founded Space Exploration Technologies (SpaceX); he has been its CEO and chief technology officer since May 2002. He later said 'so many people' tried to talk him out of starting a rocket company.", "src": [0, 33, 14] },
+      { "year": "2004", "kind": "job", "title": "Invests in Tesla and joins the board", "detail": "He led Tesla's first funding round, became its largest investor and joined the board in April 2004. Day-to-day running stayed with Eberhard.", "src": [0, 33, 11, 13, 10] },
+      { "year": "2008", "kind": "failure", "title": "The worst year of his life", "detail": "SpaceX had three failed launches, Tesla was losing money with flawed cars it could not deliver, the economy was in recession, and he was getting divorced.", "src": [14, 16] },
+      { "year": "2008", "kind": "breakthrough", "title": "Orbit, a NASA contract, a rescue", "detail": "Falcon 1 reached orbit on 28 September. He became Tesla's CEO in October. On 23 December NASA awarded SpaceX 12 cargo flights worth $1.6 billion, and on Christmas Eve Tesla's investors committed more money.", "src": [22, 0, 23, 14] },
+      { "year": "2018", "kind": "failure", "title": "'Production hell' and 'funding secured'", "detail": "He slept on the Model 3 factory floor while ripping out a failed conveyor system. His August tweet about taking Tesla private cost him and Tesla $20 million each and his chairmanship.", "src": [25, 26, 24] },
+      { "year": "2026", "kind": "now", "title": "Running Tesla and a listed SpaceX", "detail": "Still Tesla's CEO. SpaceX absorbed his AI company xAI in February 2026 and listed on Nasdaq in June after a record $75 billion IPO.", "src": [1, 31, 37] }
+    ],
+    "mindset": [
+      { "idea": "Try even when failure is likely", "explain": "He told 60 Minutes that if something is important enough you should try, even if the probable outcome is failure, and that many people tried to talk him out of starting a rocket company.", "src": [14] },
+      { "idea": "Put your own money on the line", "explain": "By late 2008 he had poured his fortune into Tesla and SpaceX. His brother Kimbal said he was 'In debt. More than broke.'", "src": [14] },
+      { "idea": "The boss should share the hardship", "explain": "During the 2018 Model 3 crisis he said people should not be suffering while the CEO is off on vacation, and moved onto the factory floor.", "src": [25] },
+      { "idea": "Rip out what does not work", "explain": "When Tesla's highly automated Model 3 line jammed, he told CBS the complex conveyor network was not working, so they got rid of it.", "src": [26] }
+    ],
+    "habits": [
+      { "habit": "Slept at the factory", "detail": "In April 2018 he said he was sleeping on the Fremont factory floor because he had no time to go home and shower.", "src": [25] },
+      { "habit": "Ran two companies at once", "detail": "From 2008 he was CEO of Tesla while also CEO and chief technology officer of SpaceX. Tesla's 2010 IPO prospectus warned investors he does not give Tesla his full time.", "src": [0, 5] },
+      { "habit": "Worked on the product, not the paperwork", "detail": "By his own account, in Tesla's early years he spent a lot of time on product details and the Roadster's body styling while leaving daily management to Eberhard.", "src": [10] }
+    ],
+    "darkestHour": {
+      "title": "2008: three rocket failures, a dying car company and a divorce",
+      "story": "By August 2008 SpaceX's Falcon 1 had failed three times. SpaceX was 'running on fumes', and Musk said a fourth failure would have been 'absolutely game over'. The fourth Falcon 1 reached orbit on 28 September, but the year was not over. Tesla was losing money, and its plant held flawed cars it could not deliver; when Musk asked investors for more cash, some were angry he had even called. His marriage was ending. He said he woke up on the Sunday before Christmas 2008 feeling he had never come closer to a nervous breakdown. Then the turns came. On 23 December NASA gave SpaceX a $1.6 billion contract for 12 space station cargo flights. On Christmas Eve, Tesla's investors decided to put in more money.",
+      "src": [14, 22, 23, 16]
+    },
+    "genuineness": {
+      "story": "In April 2018, with Model 3 output far behind his promises, Musk did not hide in the boardroom. He moved onto the factory floor, saying he did not believe workers should suffer while the CEO was off on vacation. He also admitted on national TV that the plan had gone wrong: the line's 'crazy, complex network of conveyor belts' was not working, so Tesla tore it out and put people back on the line. It was a public admission that his own big bet on automation had been a mistake.",
+      "src": [25, 26]
+    },
+    "now": "Musk is still Tesla's CEO, a role he has held since October 2008, and also runs SpaceX, which absorbed his AI company xAI in February 2026 and raised a record $75 billion when it listed on Nasdaq in June 2026. In November 2025 more than 75% of voting Tesla shareholders approved a pay plan worth up to $1 trillion in stock if he hits targets such as 20 million vehicles and 1 million humanoid robots over ten years. In 2025 he led the US government's Department of Government Efficiency (DOGE) before stepping back in May, and Tesla's sales fell for a second year.",
+    "nowSrc": [1, 31, 37, 30, 28]
+  },
+  "numbers": [
+    { "value": "$94.83 bn", "label": "Total revenue, down $2.86 bn from 2024", "asOf": "FY2025", "src": [2] },
+    { "value": "1.64 million", "label": "Vehicles delivered, a second straight yearly fall (about 9%)", "asOf": "FY2025", "src": [2, 28, 29] },
+    { "value": "486,532", "label": "Vehicles delivered in one quarter, 2.1% fewer than a year before", "asOf": "Q3 2026 (to 30 Sep 2026)", "src": [3, 4] },
+    { "value": "$28.05 bn", "label": "Quarterly revenue, flat year on year; net profit $787 million, down 43%", "asOf": "Q3 2026 (to 30 Sep 2026)", "src": [36, 4] },
+    { "value": "10 million+", "label": "Vehicles delivered since the company began", "asOf": "Q3 2026", "src": [1, 36] },
+    { "value": "$465 million", "label": "US Energy Department loan (2010), repaid nine years early", "asOf": "May 2013", "src": [27] }
+  ],
+  "milestones": [
+    { "year": "2003", "title": "Tesla Motors is formed", "detail": "Martin Eberhard and Marc Tarpenning formed the company in July 2003 to build electric cars, starting with a premium one.", "src": [5, 12, 11] },
+    { "year": "2004", "title": "Musk's money arrives", "detail": "Musk led the first funding round and joined the board in April 2004.", "src": [0, 11] },
+    { "year": "2007", "title": "The founder CEO steps down", "detail": "Eberhard was asked to step down as CEO in August 2007; Michael Marks became interim CEO.", "src": [10, 9] },
+    { "year": "2008", "title": "First Roadster delivered; Musk becomes CEO", "detail": "The first Roadster reached a customer in February 2008. Musk took over as CEO in October.", "src": [5, 0] },
+    { "year": "2009", "title": "Founder fight settled; Daimler signs on", "detail": "In September Eberhard and Musk settled, agreeing that five people are co-founders. In May Daimler had chosen Tesla to supply battery packs and invested.", "src": [7, 8, 5] },
+    { "year": "2010", "title": "Government loan and IPO filing", "detail": "Tesla closed a $465 million Energy Department loan in January and filed to go public, having sold 937 Roadsters in 18 countries.", "src": [5, 27] },
+    { "year": "2012", "title": "Model S ships", "detail": "Shipments of the Model S sedan began in June 2012. About 2,450 Roadsters had been delivered in total.", "src": [6] },
+    { "year": "2013", "title": "Loan paid back early", "detail": "Tesla wired $451.8 million to retire the Energy Department loan nine years early, weeks after its first quarterly profit.", "src": [27] },
+    { "year": "2018", "title": "Model 3 crisis and SEC settlement", "detail": "Musk slept at the factory to push Model 3 output, and settled SEC fraud charges over his 'funding secured' tweet.", "src": [25, 24] },
+    { "year": "2025", "title": "Sales fall, BYD passes Tesla", "detail": "Deliveries fell to 1.64 million and China's BYD, at 2.26 million, became the world's biggest EV maker.", "src": [28, 29] },
+    { "year": "2026", "title": "Cybercab production begins", "detail": "Tesla began building its two-seat Cybercab at Gigafactory Texas. On 3 September it started giving Robotaxi rides in Cybercabs in Austin, and in the same quarter it built and delivered its 10 millionth vehicle.", "src": [1, 36] }
+  ],
+  "howItMakesMoney": {
+    "summary": "Most of Tesla's money still comes from selling electric cars, mainly the Model 3 and Model Y. It also sells big battery systems that store electricity for homes and power grids, and sells regulatory credits to other carmakers. In Q3 2026 total revenue was $28.05 billion, of which energy generation and storage was $2.88 billion.",
+    "flows": [
+      { "from": "Car buyers", "to": "Tesla", "what": "The price of a Model 3, Model Y or other Tesla: most of the revenue" },
+      { "from": "Homes, businesses and utilities", "to": "Tesla", "what": "Energy storage: 46.7 GWh deployed in 2025; $2.88 bn revenue in Q3 2026" },
+      { "from": "Other carmakers", "to": "Tesla", "what": "Regulatory credits Tesla earns by selling only zero-emission cars" }
+    ],
+    "src": [2, 36, 4, 3]
+  },
+  "failures": [
+    {
+      "year": "2007",
+      "title": "The Roadster cost far more than planned",
+      "whatHappened": "In 2009 Musk wrote that it 'cost over $140M to bring the Roadster to market instead of the $25M' that Eberhard had estimated in the 2004 business plan. He said almost every major system on the car had to be redesigned, retooled or switched to a new supplier. Eberhard disputed the blame, and the fight ended up in court.",
+      "lesson": "Price your product from real supplier quotes, not hopes. A cost surprise can cost founders their company.",
+      "src": [35, 10, 9]
+    },
+    {
+      "year": "2018",
+      "title": "Too many robots, too soon",
+      "whatHappened": "Tesla missed its target of 2,500 Model 3s a week in early 2018. Its heavily automated line, including a complex conveyor network, did not work and had to be ripped out while Musk slept at the plant.",
+      "lesson": "Make a process work by hand first, then automate it.",
+      "src": [26, 25]
+    },
+    {
+      "year": "2018",
+      "title": "One tweet, $40 million",
+      "whatHappened": "On 7 August 2018 Musk tweeted that he could take Tesla private at $420 a share with funding secured. The SEC said he had not agreed terms with any financier. Musk and Tesla each paid $20 million, and he had to give up the chairman's job for three years.",
+      "lesson": "Once you run a listed company, every public word about money is regulated. In India, SEBI rules work the same way.",
+      "src": [24]
+    },
+    {
+      "year": "2025",
+      "title": "Two years of falling sales",
+      "whatHappened": "Deliveries fell about 9% in 2025 after falling in 2024. Reports point to the end of a $7,500 US tax credit, cheaper rivals such as BYD, and a backlash against Musk's role in the Trump administration.",
+      "lesson": "A founder's personal brand and the company's brand are tied together, for better and worse.",
+      "src": [28, 29]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Elon Musk founded Tesla.",
+      "fact": "Martin Eberhard and Marc Tarpenning formed Tesla Motors in July 2003. Musk invested and joined the board in 2004 and became CEO in 2008. A September 2009 settlement of Eberhard's lawsuit agreed that five people (Eberhard, Tarpenning, Musk, JB Straubel and Ian Wright) can be called co-founders.",
+      "src": [5, 11, 0, 7, 8]
+    },
+    {
+      "myth": "Musk built his companies with his father's emerald-mine money.",
+      "fact": "His biographer writes that Errol did get raw emeralds from a Zambian mine owner, until that business collapsed. Musk's own first fortune was the $22 million he got when Compaq bought Zip2 in 1999. Before that, in Canada, he had cleaned a lumber mill boiler for $18 an hour.",
+      "src": [15, 16, 17]
+    }
+  ],
+  "quotes": [
+    { "text": "That was definitely the worst year of my life.", "who": "Elon Musk on 2008, to 60 Minutes (2014)", "src": [14] },
+    { "text": "If something's important enough you should try. Even if you -- the probable outcome is failure.", "who": "Elon Musk, 60 Minutes (2014)", "src": [14] },
+    { "text": "Without Martin's indispensable efforts, Tesla Motors would not be here today.", "who": "Elon Musk, statement on settling Eberhard's lawsuit (Sept 2009)", "src": [7] },
+    { "text": "Yeah, I'm sleeping on the factory floor, not because I think that's a fun place to sleep.", "who": "Elon Musk to CBS during the Model 3 crisis (April 2018)", "src": [25] }
+  ],
+  "lessons": [
+    { "title": "Write down who the founders are on day one", "detail": "Tesla's founders fought in court for months over who could be called a founder. A short founders' agreement with titles, shares and vesting, signed before money arrives, prevents that fight." },
+    { "title": "The person with the money can end up in charge", "detail": "Eberhard and Tarpenning had the idea; Musk had the cash and became chairman, then CEO. When you raise money, read what control you are giving away, not just the valuation." },
+    { "title": "Know your true cost before you announce a price", "detail": "A $25 million estimate turned into more than $140 million to bring the Roadster to market. Get real quotes from suppliers before you promise customers a price or a date." },
+    { "title": "Plan for your worst year", "detail": "In 2008 Tesla was saved by money that arrived on Christmas Eve. Keep cash for bad months and line up backers before you need them, not when you are 'running on fumes'." },
+    { "title": "Own your mistakes in public", "detail": "Musk admitted the over-automated Model 3 line had failed and fixed it. The same founder's 'funding secured' tweet cost $40 million. Speak carefully, and correct yourself fast." }
+  ],
+  "moments": [
+    { "youtubeId": "MBItc_QAUUM", "at": 646, "label": "\"I didn't get into any of this with the expectation of success.\"" },
+    { "youtubeId": "MBItc_QAUUM", "at": 683, "label": "Why Musk went to Stanford in 1995" },
+    { "youtubeId": "MBItc_QAUUM", "at": 815, "label": "Humble beginnings: his first internet company" },
+    { "youtubeId": "MBItc_QAUUM", "at": 1001, "label": "Being CEO of two companies at the same time" },
+    { "youtubeId": "MBItc_QAUUM", "at": 1597, "label": "\"I used to talk to dates about electric cars.\"" },
+    { "youtubeId": "MBItc_QAUUM", "at": 1756, "label": "Tesla as a purpose-driven business" }
+  ],
+  "sources": [
+    { "label": "Tesla, Inc., Form 10-K/A for 2020: director biography of Elon Musk (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021022604/tsla-10ka_20201231.htm" },
+    { "label": "Tesla, Inc., 2026 proxy statement (DEF 14A): Musk and Straubel biographies, chair's letter (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000110465926116700/tm267596-1_def14a.htm" },
+    { "label": "Tesla, Inc., Form 10-K for fiscal 2025 (SEC, filed Jan 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm" },
+    { "label": "Tesla, Q3 2026 production, deliveries and deployments (8-K exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm" },
+    { "label": "Electrek, 'Tesla (TSLA) Q3 2026 financial results' (21 Oct 2026)", "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/" },
+    { "label": "Tesla Motors, Form S-1 IPO registration statement (SEC, Jan 2010)", "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312510017054/ds1.htm" },
+    { "label": "Tesla Motors, Form 10-K for fiscal 2012 (SEC)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000119312513096241/d452995d10k.htm" },
+    { "label": "Automotive Fleet, 'Tesla co-founders settle suit' (22 Sept 2009)", "url": "https://www.automotive-fleet.com/news/tesla-co-founders-settle-suit" },
+    { "label": "The Register, 'Tesla, founder Eberhard resolve lawsuit' (22 Sept 2009)", "url": "https://www.theregister.com/2009/09/22/tesla_eberhard_lawsuit_resolved" },
+    { "label": "The Register, 'Tesla founder sues Elon Musk' (11 June 2009)", "url": "https://www.theregister.com/2009/06/11/eberhard_v_musk_tesla_lawsuit/" },
+    { "label": "TechCrunch, 'Tesla CEO Elon Musk sets the record straight about pending lawsuit' (22 June 2009)", "url": "https://techcrunch.com/2009/06/22/tesla-ceo-elon-musk-sets-the-record-straight-about-pending-lawsuit/" },
+    { "label": "Market Realist, 'Two men created Tesla, so why does it have five co-founders?'", "url": "https://marketrealist.com/p/who-really-founded-tesla" },
+    { "label": "Marc Tarpenning, official site (biography)", "url": "https://marctarpenning.com/" },
+    { "label": "EVANNEX, 'Tesla founder tells the story of starting and building the company' (Marc Tarpenning talk, 6 Aug 2018)", "url": "https://evannex.com/blogs/news/tesla-founder-tells-the-story-of-starting-and-building-the-company" },
+    { "label": "CBS News / 60 Minutes, 'Tesla and SpaceX: Elon Musk's industrial empire' (Scott Pelley, 2014)", "url": "https://www.cbsnews.com/news/tesla-and-spacex-elon-musks-industrial-empire/" },
+    { "label": "CBS News, book excerpt from Walter Isaacson's 'Elon Musk' (Sept 2023)", "url": "https://www.cbsnews.com/news/book-excerpt-elon-musk-by-walter-isaacson" },
+    { "label": "Robin Keats, 'Rocket man', Queen's Alumni Review (Winter 2013)", "url": "https://www.queensu.ca/alumnireview/articles/2013-02-01/elon-musk" },
+    { "label": "Daily Hive, 'Elon Musk used to work as a lumberjack in Vancouver' (28 Apr 2023, citing Ashlee Vance's biography)", "url": "https://dailyhive.com/vancouver/elon-musk-tesla-vancouver-lumberjack" },
+    { "label": "Steven Porrello, 'From cleaning boiler rooms to Tesla', Motley Fool Canada (27 Jan 2022, citing Vance's biography)", "url": "https://www.fool.ca/2022/01/27/from-cleaning-boiler-rooms-to-tesla-how-elon-musk-made-money-before-he-was-elon-musk/" },
+    { "label": "Gulf News special report, 'Maye Musk: the flamboyant mother of the richest man on Earth' (updated Dec 2024)", "url": "https://gulfnews.com/special-reports/maye-musk-the-flamboyant-mother-of-the-richest-man-on-earth-1.1733939252662" },
+    { "label": "Fortune, 'Elon Musk's second try at X' (26 July 2023)", "url": "https://www.fortune.com/2023/07/26/elon-musk-second-try-twitter-x-dot-com-paypal" },
+    { "label": "eBay and PayPal joint press release, 8 July 2002 (PayPal 8-K exhibit 99.1, SEC)", "url": "https://www.sec.gov/Archives/edgar/data/1103415/000091205702026650/a2084015zex-99_1.htm" },
+    { "label": "Physics Today, 'SpaceX rocket reaches orbit after fourth attempt' (29 Sept 2008)", "url": "https://physicstoday.aip.org/news/spacex-rocket-reaches-orbit-after-fourth-attempt" },
+    { "label": "Spaceflight Now, NASA commercial resupply awards (23 Dec 2008)", "url": "https://spaceflightnow.com/news/n0812/23crsawards/" },
+    { "label": "US SEC press release 2018-226, 'Elon Musk settles SEC fraud charges' (29 Sept 2018)", "url": "https://www.sec.gov/newsroom/press-releases/2018-226" },
+    { "label": "Electrek, 'Elon Musk inside Tesla Model 3 production line' (11 Apr 2018)", "url": "https://electrek.co/2018/04/11/elon-musk-inside-tesla-model-3-production-line/" },
+    { "label": "Yahoo News, 'Elon Musk admits robots are slowing down Tesla production' (Apr 2018)", "url": "https://www.yahoo.com/news/elon-musk-admits-robots-slowing-164201990.html" },
+    { "label": "CBS San Francisco / AP, 'Tesla repays Energy Department loan 9 years early' (22 May 2013)", "url": "https://www.cbsnews.com/sanfrancisco/news/tesla-repays-energy-department-loan-9-years-early" },
+    { "label": "CBS News, Tesla 2025 deliveries fall for second year (2 Jan 2026)", "url": "https://www.cbsnews.com/news/tesla-sales-decline-tsla-stock-elon-musk" },
+    { "label": "CBT News, 'Tesla posts second consecutive annual delivery decline in 2025'", "url": "https://www.cbtnews.com/tesla-posts-second-consecutive-annual-delivery-decline-in-2025/" },
+    { "label": "FOX 5 New York / AP, 'Tesla investors approve Elon Musk's $1 trillion pay package' (6 Nov 2025)", "url": "https://www.fox5ny.com/news/tesla-investors-approve-elon-musks-1-trillion-pay-package" },
+    { "label": "CBS News, 'SpaceX stock soars 19% on first day of trading following record-breaking $75 billion IPO' (12 June 2026)", "url": "https://www.cbsnews.com/news/spacex-stock-price-ipo-spcx-initial-public-offering" },
+    { "label": "Stanford GSB, ENCORE Award fireside chat with Elon Musk (2013, video and chapter list)", "url": "https://www.youtube.com/watch?v=MBItc_QAUUM" },
+    { "label": "CNN, 'Elon Musk Fast Facts' (birth date and place, education, timeline)", "url": "https://www.cnn.com/world/elon-musk-fast-facts" },
+    { "label": "SlashGear, 'Elon Musk made this video game when he was 12 years old' (27 Nov 2022)", "url": "https://www.slashgear.com/1113788/elon-musk-made-this-video-game-when-he-was-12-years-old-heres-how-you-can-play-it" },
+    { "label": "The Register, 'Elon Musk hits out at co-founder's Tesla Roadster allegations' (23 June 2009, quoting Musk's blog post)", "url": "https://www.theregister.com/2009/06/23/musk_broadside_eberhard" },
+    { "label": "Tesla, Q3 2026 Update: financial summary and operational highlights (8-K exhibit 99.1, SEC, 21 Oct 2026)", "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/exhibit9914.htm" },
+    { "label": "Reuters (via The Spokesman-Review), 'SpaceX prices record $75 billion IPO at $135 a share' (11 June 2026)", "url": "https://www.spokesman.com/stories/2026/jun/11/spacex-prices-record-75-billion-ipo-at-135-a-share/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 38 sources; then independently re-checked claim by claim against the cited source plus a second source. Founding history checked against Tesla's SEC filings (2010 S-1, 2012 10-K, 10-K/A, 2026 proxy) and 2009 reporting of the lawsuit and settlement (Automotive Fleet, The Register, TechCrunch). 2025–26 figures checked against primary filings (FY2025 10-K, Q3 2026 deliveries release and Q3 2026 Update on SEC EDGAR) plus a second outlet (CBS News, Electrek); the xAI merger against Tesla's 2026 proxy and CBS News; the SpaceX IPO against Reuters and CBS News. The Roadster cost is given in Musk's own 2009 words. Quotes matched word for word to the 60 Minutes transcript, Electrek, Yahoo and the settlement reports. Photo licences, authors and dates checked through the Commons API; all six video moments matched to Stanford GSB's own chapter list (video published 9 Oct 2013).",
+    "disputed": [
+      { "claim": "The year Tesla was founded.", "note": "Tesla's 2010 S-1 says it was formed in July 2003; one 2009 news report (The Register) says Eberhard co-founded it in 2002. We follow Tesla's filing." },
+      { "claim": "How much Musk put into the first round.", "note": "Widely repeated figures say Musk invested $6.5 million of a $7.5 million Series A in February 2004 (one version says $6.35 million of $6.5 million). The primary sources we read confirm only that he led early funding and joined the board in April 2004, so we give no amount." },
+      { "claim": "Who was to blame for the Roadster's problems and Eberhard's exit.", "note": "Musk wrote that Eberhard was asked to step down and had badly underestimated costs ($25 million planned vs $140 million+ spent). Eberhard's lawsuit blamed Musk's micromanagement and said Musk tried to rewrite history; Tesla called the suit 'fictionalized'. The settlement terms are confidential." },
+      { "claim": "When Musk left South Africa.", "note": "Motley Fool Canada (from Vance's biography) says 1988; the Queen's Alumni Review says he was at Queen's from 1989 to 1991 but also that he came in 1990; CNN dates his Queen's years 1990–1992. We use 1989." },
+      { "claim": "The lumber-mill boiler job and its $18 hourly pay.", "note": "Both reports we found (Daily Hive and Motley Fool Canada) take the details from Ashlee Vance's 2015 biography of Musk; we could not see the book itself." },
+      { "claim": "Musk's share of the PayPal sale.", "note": "The Queen's Alumni Review and CNN say about $165 million; 60 Minutes (2014) said $180 million. We use $165 million." },
+      { "claim": "The value of SpaceX's December 2008 NASA contract.", "note": "Spaceflight Now, quoting NASA, says 12 flights worth $1.6 billion; on 60 Minutes Musk recalled it as a $1.5 billion contract." },
+      { "claim": "Musk's degrees.", "note": "Tesla's filings say a B.A. in physics from Penn and a B.S. in business from Wharton; Queen's and many reports call the Wharton degree economics." },
+      { "claim": "The school beating.", "note": "Isaacson reports that Musk's father sided with the other boy, whose father had recently died by suicide; Elon and Kimbal dispute their father's account." },
+      { "claim": "Why Tesla's sales fell in 2025.", "note": "Reports cite the end of the US tax credit, competition from BYD and others, and backlash against Musk's political role. How much each mattered cannot be measured." }
+    ]
+  }
+}

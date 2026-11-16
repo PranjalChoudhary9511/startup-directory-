@@ -1,0 +1,326 @@
+{
+  "slug": "juicero",
+  "name": "Juicero",
+  "region": "global",
+  "country": "United States",
+  "city": "San Francisco",
+  "sector": "Kitchen hardware and juice packs",
+  "founded": 2013,
+  "died": 2017,
+  "status": "shut-down",
+  "brandColor": "#8cc63f",
+  "founders": [
+    {
+      "name": "Doug Evans",
+      "role": "Founder, first CEO, later chairman"
+    }
+  ],
+  "epitaph": "Raised $120M. Lost to a pair of bare hands.",
+  "oneLiner": "A Wi-Fi connected juice press that squeezed sealed packs of chopped fruit and veg, sold with a pack subscription.",
+  "causeOfDeath": "A costly, over-engineered $699 machine did a job reporters showed hands could do, killing its value overnight; sales collapsed and cash ran out.",
+  "raisedUsdM": 118,
+  "peakValuationUsdM": null,
+  "endValueUsdM": null,
+  "moneyNote": "'More than $118M' (TechCrunch); other reports say about $120M. No valuation was confirmed publicly, and no buyer price was disclosed after it closed.",
+  "moneySrc": [
+    1,
+    4
+  ],
+  "inOneMinute": [
+    "Juicero raised about $120 million to build **a $699 Wi-Fi juice press** that squeezed packs of chopped fruit, sold on subscription.",
+    "In April 2017 Bloomberg showed **the packs could be squeezed by hand** into almost the same juice. The internet laughed for weeks.",
+    "A teardown found a machine so over-built that **just the door lock needed 10 custom plastic parts**. Juicero shut down that September."
+  ],
+  "killerLine": "Before you build a machine, ask the rudest question: **can a customer get the same result without it?**",
+  "numbers": [
+    {
+      "value": "$699",
+      "label": "launch price of the Juicero Press",
+      "src": [
+        0,
+        3
+      ]
+    },
+    {
+      "value": "$118M+",
+      "label": "raised from investors",
+      "src": [
+        1
+      ]
+    },
+    {
+      "value": "$5–7",
+      "label": "price of each juice pack",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "232",
+      "label": "employees in June 2017, three months before shutdown",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea: a coffee-pod machine for juice",
+      "body": "Doug Evans had built a juice business in New York called Organic Avenue, which he sold in 2012. In 2013 he started Juicero in San Francisco. The idea: a sleek machine on your kitchen counter, plus **sealed packs of fresh, chopped fruits and vegetables** delivered to your door. You put a pack into the Wi-Fi connected press, pressed a button, and fresh cold-pressed juice poured out, with no cleaning. Investors loved the 'razor and blades' model (sell the machine, then earn forever on refills). Google Ventures, Kleiner Perkins, Campbell Soup and basketball star Carmelo Anthony's fund invested.",
+      "src": [
+        1,
+        4
+      ]
+    },
+    {
+      "title": "The rise: $120 million before the first sale",
+      "body": "Juicero spent about two years developing the press and raised **nearly $120 million before shipping a single unit**. In March 2016, the Juicero Press launched at **$699**, with packs at $5 to $7 each. It was sold in just three US states: California, Nevada and Arizona. Sales were slow. In October 2016, Jeff Dunn, a former president of Coca-Cola North America, replaced Evans as CEO. In January 2017 Juicero cut the price to **$399**, 12 to 18 months earlier than planned. Dunn pointed to good signs: a Black Friday price test had doubled users in a day, and owners used about 10 packs a week, twice what the company expected.",
+      "src": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks: the squeeze heard round the world",
+      "body": "On 19 April 2017, Bloomberg published a story that became famous. Reporters took Juicero packs and **squeezed them by hand**. The juice came out nearly the same as from the machine. The internet exploded with jokes. The next day, Juicero offered **full refunds** to any unhappy customer. Then hardware investor Ben Einstein took the press apart. He found eight large machined metal parts, hardened steel gears, a custom power supply and a door lock built from **10 custom moulded parts, 2 steel parts, 4 bushings, a solenoid and a spring**. His verdict: \"All this just to keep the door closed.\"",
+      "src": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "title": "The fall: lights out in September",
+      "body": "Einstein argued that a simpler design could have cut **hundreds of dollars** from the price, and drew a hard lesson: \"unconstrained development is lethal.\" After the Bloomberg story, Juicero never recovered. It still had 232 employees in June 2017. On 1 September 2017, it announced it was **suspending sales of the press and packs immediately**, after selling over one million packs. It offered refunds for 90 days and said it would look for a buyer with \"an existing national fresh food supply chain\". No rescue came, and by December 2017 the company was gone. More than $118 million of investment had produced a machine people remember mainly as a joke.",
+      "src": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2013",
+      "event": "Doug Evans founds Juicero in San Francisco",
+      "kind": "start",
+      "src": [
+        0,
+        4
+      ]
+    },
+    {
+      "date": "2014–2016",
+      "event": "Raises about $120M before shipping a unit",
+      "kind": "money",
+      "src": [
+        2,
+        4
+      ]
+    },
+    {
+      "date": "Mar 2016",
+      "event": "Juicero Press launches at $699",
+      "kind": "start",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Oct 2016",
+      "event": "Ex-Coca-Cola executive Jeff Dunn replaces Evans as CEO",
+      "kind": "warning",
+      "src": [
+        4
+      ]
+    },
+    {
+      "date": "Jan 2017",
+      "event": "Price cut to $399 amid slow sales",
+      "kind": "warning",
+      "src": [
+        3
+      ]
+    },
+    {
+      "date": "19 Apr 2017",
+      "event": "Bloomberg shows the packs can be squeezed by hand",
+      "kind": "crisis",
+      "src": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "date": "20 Apr 2017",
+      "event": "Juicero offers full refunds to unhappy customers",
+      "kind": "crisis",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "24 Apr 2017",
+      "event": "Teardown reveals a hugely over-engineered machine",
+      "kind": "crisis",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "1 Sep 2017",
+      "event": "Sales suspended; refunds for 90 days; company seeks a buyer",
+      "kind": "end",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "event": "Juicero is defunct",
+      "kind": "end",
+      "src": [
+        0
+      ]
+    }
+  ],
+  "charts": [],
+  "rounds": [],
+  "causes": [
+    {
+      "key": "no-market",
+      "weight": 35
+    },
+    {
+      "key": "unit-economics",
+      "weight": 30
+    },
+    {
+      "key": "burn",
+      "weight": 20
+    },
+    {
+      "key": "tech",
+      "weight": 15
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Built a machine people didn't need",
+      "explain": "The core test of any gadget is: can people get the result without it? Bloomberg showed **hands could squeeze the packs almost as well**. Once customers saw that, the $399 machine looked pointless, and the brand became a joke. Juicero never seriously asked this question before spending $120 million.",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "title": "Engineering without limits",
+      "explain": "Ben Einstein's teardown found eight large machined parts making up over half the materials cost, hardened steel gears and a door lock with dozens of components. A simpler design could have cut hundreds of dollars. His lesson: **\"unconstrained development is lethal.\"** Engineers need a cost target, not just a quality goal.",
+      "src": [
+        2
+      ]
+    },
+    {
+      "title": "Priced for the rich, sold to everyone",
+      "explain": "At $699 plus $5–7 per pack, Juicero was a luxury. Even after the cut to $399, juice every day was expensive. **The price shrank the market** to wealthy health fans in a few US states, far too small for a company with 232 employees.",
+      "src": [
+        3,
+        0
+      ]
+    },
+    {
+      "title": "Raised huge money before proving demand",
+      "explain": "Juicero raised nearly $120 million before shipping a single press. **Big early money removed the pressure to keep things simple and cheap**. A smaller first batch, a cheaper machine or even just selling the packs could have tested demand for far less.",
+      "src": [
+        2
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Could a customer get roughly the same result without your product?",
+    "Is your hardware's cost driven by parts your customers never see or care about?",
+    "Is your price affordable only to a small group of wealthy buyers?",
+    "Have you raised big money before anyone outside your team has paid for the product?",
+    "Would one viral video or article make your product look silly?"
+  ],
+  "lessons": [
+    {
+      "title": "Run the 'without us' test",
+      "detail": "Write down what your customer would do if your product didn't exist. If that alternative is free or nearly as good, rethink before you build."
+    },
+    {
+      "title": "Give engineers a cost target",
+      "detail": "Set a maximum cost per unit before design starts. Every expensive part must earn its place by making the customer's life better."
+    },
+    {
+      "title": "Test the consumable first",
+      "detail": "Juicero's real business was the packs. You can test a subscription idea with a simple product, like ready-to-blend fruit packs, before building any machine."
+    },
+    {
+      "title": "Assume someone will try to break your story",
+      "detail": "Journalists, YouTubers and Reddit users test claims. Make sure your product survives the toughest honest test someone could run."
+    },
+    {
+      "title": "Price for the market you need",
+      "detail": "Work out how many customers you need to cover your costs, then check whether that many people can afford your price."
+    }
+  ],
+  "quote": {
+    "text": "All this just to keep the door closed.",
+    "who": "Ben Einstein, hardware investor at Bolt",
+    "context": "His teardown of the Juicero Press, describing its door-locking mechanism, April 2017",
+    "src": [
+      2
+    ]
+  },
+  "afterlife": {
+    "text": "Juicero stopped selling on 1 September 2017, offered 90 days of refunds and looked for a buyer with a national fresh-food supply chain; it was defunct by December 2017. Juicero has since become Silicon Valley's favourite example of over-funded, over-engineered hardware, and Ben Einstein's teardown is still widely read by hardware founders.",
+    "src": [
+      0,
+      1,
+      2
+    ]
+  },
+  "sources": [
+    {
+      "label": "Wikipedia: Juicero, for dates, staff numbers and refunds",
+      "url": "https://en.wikipedia.org/wiki/Juicero"
+    },
+    {
+      "label": "TechCrunch: RIP Juicero, the $400 venture-backed juice machine (Sep 2017)",
+      "url": "https://techcrunch.com/2017/09/01/rip-juicero-the-400-venture-backed-juice-machine/"
+    },
+    {
+      "label": "Bolt blog: Ben Einstein's teardown of the Juicero Press (Apr 2017)",
+      "url": "https://blog.bolt.io/juicero/"
+    },
+    {
+      "label": "Fortune: Juicero slashes connected juicer price from $699 to $399 (Jan 2017)",
+      "url": "http://fortune.com/2017/01/17/juicero-juicer-price-cut/"
+    },
+    {
+      "label": "TechCrunch: Juicero loses another member of its founding team (Jan 2017)",
+      "url": "https://techcrunch.com/2017/01/24/juicero-2/"
+    },
+    {
+      "label": "Bloomberg: Silicon Valley's $400 juicer may be feeling the squeeze (Apr 2017; original report, details via TechCrunch and Wikipedia)",
+      "url": "https://www.bloomberg.com/news/features/2017-04-19/silicon-valley-s-400-juicer-may-be-feeling-the-squeeze"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "The press squeezed with 'four tons of force'",
+        "note": "Widely quoted marketing claim; we could not confirm it from a source we read."
+      },
+      {
+        "claim": "Hand-squeezing was just as good",
+        "note": "Bloomberg found hand-squeezed juice nearly the same as the machine's. Juicero publicly defended the press after the story; we could not read its full response."
+      }
+    ]
+  }
+}

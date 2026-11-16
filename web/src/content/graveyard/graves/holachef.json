@@ -1,0 +1,475 @@
+{
+  "slug": "holachef",
+  "name": "Holachef",
+  "region": "india",
+  "country": "India",
+  "city": "Mumbai",
+  "sector": "Food delivery",
+  "founded": 2014,
+  "died": 2018,
+  "status": "shut-down",
+  "brandColor": "#e94e1b",
+  "founders": [
+    {
+      "name": "Saurabh Saxena",
+      "role": "Co-founder & CEO"
+    },
+    {
+      "name": "Anil Gelra",
+      "role": "Co-founder"
+    }
+  ],
+  "epitaph": "Changed the menu daily. Never the maths.",
+  "oneLiner": "A Mumbai app that sold single-person meals by professional and amateur chefs, on a new menu every day, delivered at a time you chose.",
+  "causeOfDeath": "It lost about ₹2.20 for every ₹1 it earned, and kept going on small top-ups and loans after food-tech funding dried up, until it stopped in 2018.",
+  "raisedUsdM": 10.1,
+  "peakValuationUsdM": 22,
+  "endValueUsdM": null,
+  "moneyNote": "Raised figure adds the reported rounds: $0.32M (₹2 crore, Feb 2015), $3.1M (₹20 crore, Jun 2015), $5M (2016), $1.38M (₹9 crore incl. ₹6 crore of debt, Dec 2017) and $0.31M (₹2 crore, Feb 2018), converted at each year's rate (about ₹62–65 per dollar). Ratan Tata's 2015 investment was never disclosed. Media citing Crunchbase put the total at $9.6M. Peak valuation is the ~$22M reported for the 2016 round. The Foodpanda sale price was not disclosed.",
+  "moneySrc": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "inOneMinute": [
+    "Holachef grew from **250 to over 1,000 orders a day** in four months, and even Ratan Tata invested personally.",
+    "Its filings showed a **₹24.8 crore loss on ₹11.3 crore of revenue** in FY16, just as food-tech funding halved.",
+    "In December 2017 it said it had turned profitable. By April 2018 it had **stopped cooking**; Foodpanda bought what was left."
+  ],
+  "killerLine": "Selling more meals is easy if each one is cheap. **The hard part is making each meal pay for itself.**",
+  "numbers": [
+    {
+      "value": "₹24.8 cr",
+      "label": "loss in FY16, on ₹11.3 crore of revenue",
+      "src": [
+        5
+      ]
+    },
+    {
+      "value": "250 → 1,000+",
+      "label": "orders a day, Feb to Jun 2015",
+      "src": [
+        0,
+        1
+      ]
+    },
+    {
+      "value": "~$22M",
+      "label": "valuation reported for its 2016 round",
+      "src": [
+        3
+      ]
+    },
+    {
+      "value": "4 months",
+      "label": "from 'turned profitable' claim to shutdown",
+      "src": [
+        5,
+        7
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The idea",
+      "body": "Saurabh Saxena had already built one company, a research-based education business, and was working at the edtech startup Toppr when he had a new idea. In September 2014 he and Anil Gelra started Holachef in Powai, Mumbai. Instead of a restaurant with one fixed menu, Holachef signed up **over 100 chefs**, some from fine-dining kitchens and some trained amateurs. Each day it showed a fresh menu of their dishes. You ordered a one-person meal, picked a delivery time slot, and Holachef's own delivery team brought it over. Holachef took a share of each dish. Leftovers went to NGOs. Saxena described it as a cross between **Zomato and a brick-and-mortar store**. By February 2015 it was doing about 250 orders a day.",
+      "src": [
+        0
+      ]
+    },
+    {
+      "title": "The rise",
+      "body": "In February 2015 India Quotient lent ₹2 crore as convertible notes (a loan that turns into shares at the next funding round). In June, Kalaari Capital led a **₹20 crore Series A**. Holachef said it was now serving over 1,000 orders a day, two-thirds of them through its app, with up to 50 dishes for lunch and dinner. Meals cost about ₹120 to ₹350. In September 2015 **Ratan Tata**, chairman emeritus of Tata Sons, invested his own money. In 2016 Kalaari, India Quotient and the venture arm of the government-owned bank SIDBI put in another $5 million, valuing Holachef at about $22 million. SIDBI's ₹13 crore cheque was unusually large for it.",
+      "src": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "title": "The cracks",
+      "body": "The filings told a harder story. In FY16 Holachef earned **₹11.3 crore in revenue and lost ₹24.8 crore**. For every rupee that came in, about ₹2.20 went out. Cooking good food, packing it and delivering it with your own team, one meal at a time, is expensive. Meanwhile the money mood had changed: food-tech funding in India fell from about $260 million in 2015 to about $125 million in 2016, and more than 18 food startups shut in the first five months of 2016. By late 2017 Mumbai was its only city, and it kept going on smaller amounts. In December 2017 it raised about ₹9 crore, of which **₹6 crore was venture debt** (a loan from InnoVen Capital that must be repaid).",
+      "src": [
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "title": "The fall",
+      "body": "In that same December 2017 report, Holachef said it had **\"turned profitable this year\"**, with ₹50 crore of GMV (gross merchandise value: the total price of all meals sold, before any costs). In February 2018 a diamond merchant put in ₹2 crore more. Then, around April 2018, **Holachef stopped operating**. In August, Mint reported that Ola-owned Foodpanda was in advanced talks to buy it, in what Entrackr called a distress sale. On 16 October 2018 Foodpanda announced the deal for an undisclosed price. It took over Holachef's kitchens, equipment and employees, and the two founders joined Foodpanda's leadership team to help build its cloud kitchens (kitchens that cook only for delivery).",
+      "src": [
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Sep 2014",
+      "event": "Saurabh Saxena and Anil Gelra start Holachef in Powai, Mumbai.",
+      "kind": "start",
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Feb 2015",
+      "event": "India Quotient invests ₹2 crore as convertible notes; about 250 orders a day.",
+      "kind": "money",
+      "src": [
+        0
+      ]
+    },
+    {
+      "date": "Jun 2015",
+      "event": "Raises ₹20 crore Series A led by Kalaari Capital; over 1,000 orders a day.",
+      "kind": "peak",
+      "src": [
+        1
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "event": "Ratan Tata makes a personal investment of an undisclosed amount.",
+      "kind": "money",
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Apr–Oct 2016",
+      "event": "Raises $5 million from Kalaari, SIDBI Venture Capital and India Quotient at about a $22 million valuation.",
+      "kind": "peak",
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "FY16",
+      "event": "Filings show a ₹24.8 crore loss on ₹11.3 crore of revenue.",
+      "kind": "warning",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "event": "Raises about ₹9 crore, mostly venture debt; says it has turned profitable.",
+      "kind": "warning",
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "event": "Raises ₹2 crore from diamond merchant Ashok Kumar Gajera.",
+      "kind": "money",
+      "src": [
+        6,
+        7
+      ]
+    },
+    {
+      "date": "Apr 2018",
+      "event": "Stops operations in Mumbai.",
+      "kind": "end",
+      "src": [
+        7,
+        6
+      ]
+    },
+    {
+      "date": "Oct 2018",
+      "event": "Ola-owned Foodpanda buys Holachef's kitchens, equipment and team for an undisclosed sum.",
+      "kind": "after",
+      "src": [
+        7,
+        8
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "title": "Orders per day in 2015",
+      "unit": "orders per day",
+      "kind": "line",
+      "labels": [
+        "Feb 2015",
+        "Jun 2015"
+      ],
+      "series": [
+        {
+          "name": "Orders a day (company figures)",
+          "values": [
+            250,
+            1000
+          ]
+        }
+      ],
+      "takeaway": "Orders quadrupled in four months. Growth was never the problem; the cost of each order was. June's figure was reported as 'over 1,000'.",
+      "src": [
+        0,
+        1
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "date": "Feb 2015",
+      "round": "Seed (convertible notes)",
+      "amountUsdM": 0.32,
+      "valuationUsdM": null,
+      "investors": [
+        "India Quotient"
+      ],
+      "src": [
+        0,
+        2
+      ]
+    },
+    {
+      "date": "Jun 2015",
+      "round": "Series A",
+      "amountUsdM": 3.1,
+      "valuationUsdM": null,
+      "investors": [
+        "Kalaari Capital",
+        "India Quotient"
+      ],
+      "src": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "round": "Angel",
+      "amountUsdM": null,
+      "valuationUsdM": null,
+      "investors": [
+        "Ratan Tata"
+      ],
+      "src": [
+        2
+      ]
+    },
+    {
+      "date": "Apr–Oct 2016",
+      "round": "Series B (extended, two tranches)",
+      "amountUsdM": 5,
+      "valuationUsdM": 22,
+      "investors": [
+        "Kalaari Capital",
+        "SIDBI Venture Capital",
+        "India Quotient"
+      ],
+      "src": [
+        3,
+        4
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "round": "Equity + venture debt",
+      "amountUsdM": 1.38,
+      "valuationUsdM": null,
+      "investors": [
+        "InnoVen Capital",
+        "IPI Technolab",
+        "Individual investors"
+      ],
+      "src": [
+        5
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "round": "Individual investment",
+      "amountUsdM": 0.31,
+      "valuationUsdM": null,
+      "investors": [
+        "Ashok Kumar Gajera"
+      ],
+      "src": [
+        6,
+        7
+      ]
+    }
+  ],
+  "causes": [
+    {
+      "key": "unit-economics",
+      "weight": 35
+    },
+    {
+      "key": "burn",
+      "weight": 30
+    },
+    {
+      "key": "funding-dried",
+      "weight": 25
+    },
+    {
+      "key": "competition",
+      "weight": 10
+    }
+  ],
+  "mistakes": [
+    {
+      "title": "Lost ₹2.20 for every ₹1 earned",
+      "explain": "In FY16 Holachef brought in ₹11.3 crore and lost ₹24.8 crore. Cheap one-person meals, from ₹120, leave very little room for chef pay, packaging, delivery and marketing. Growing from 250 to 1,000 orders a day felt like success, but **when each order loses money, more orders mean bigger losses**. The model needed fixing before the scaling.",
+      "src": [
+        5,
+        0,
+        2
+      ]
+    },
+    {
+      "title": "Ran a kitchen and a delivery fleet at once",
+      "explain": "Holachef did not just list chefs like a marketplace. It ran its own delivery team and, later, **its own kitchens**, which Foodpanda took over in 2018. That gave control over quality and timing, which customers liked. But it meant carrying the costs of a restaurant chain and a logistics company together, on meals priced like a tiffin.",
+      "src": [
+        0,
+        7,
+        8
+      ]
+    },
+    {
+      "title": "Scaled into a funding winter",
+      "explain": "Food-tech funding in India roughly halved from 2015 to 2016, and more than 18 startups shut in early 2016 alone. Holachef's next rounds were small: $5 million in two tranches, then ₹9 crore, then ₹2 crore. Each top-up **bought months, not a path to profit**. A deep cost reset in 2016, when the warning signs were loud, might have stretched the runway much further.",
+      "src": [
+        4,
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "title": "Leaned on a loan late in the game",
+      "explain": "Two-thirds of the December 2017 money was **venture debt**, a loan that has to be repaid on schedule whether or not sales grow. Debt can help a company that is already steady. For one still losing heavily, it adds a fixed bill. Four months later Holachef had stopped operating.",
+      "src": [
+        5,
+        7
+      ]
+    }
+  ],
+  "warningSigns": [
+    "Does your company lose money on an average order once you add delivery, packaging and discounts?",
+    "Are you celebrating order growth or GMV while your loss grows even faster?",
+    "Are you running two hard businesses at once, like cooking and delivery, without making money on either?",
+    "Are you surviving on small top-ups every few months rather than one plan that reaches profit?",
+    "Are you borrowing money to cover losses rather than to fund something that already earns?"
+  ],
+  "lessons": [
+    {
+      "title": "Price the meal, then the dream",
+      "detail": "Before launching, write down every cost of one meal: ingredients, chef, box, rider, payment fee, ad spend. If the price doesn't cover it with room to spare, change the price, the portion or the product."
+    },
+    {
+      "title": "Revenue isn't profit, and GMV isn't revenue",
+      "detail": "GMV counts the full price of everything sold. Revenue is your share. Profit is what's left after costs. Track all three honestly, and never let the biggest number become the only one you talk about."
+    },
+    {
+      "title": "Cut deep, once, when the weather turns",
+      "detail": "When funding in your sector halves, act within weeks. Shrink to the menu, area and team that can break even, instead of trimming a little every few months."
+    },
+    {
+      "title": "Borrow only against a steady business",
+      "detail": "A loan's repayments arrive every month no matter what. Take debt when your income is predictable, not to plug a hole that keeps growing."
+    },
+    {
+      "title": "A good team is an asset even in defeat",
+      "detail": "Foodpanda bought Holachef for its kitchens, staff and founders' know-how. Build skills and systems that someone would want, even if the company itself doesn't make it."
+    }
+  ],
+  "quote": {
+    "text": "In three years from now, we want to reach a monthly order target of 50,000 orders a month.",
+    "who": "Saurabh Saxena, co-founder & CEO",
+    "context": "Speaking to Smart CEO in February 2015. Almost exactly three years later, Holachef was weeks away from shutting down.",
+    "src": [
+      0
+    ]
+  },
+  "afterlife": {
+    "text": "In October 2018, Ola-owned Foodpanda bought Holachef for an undisclosed sum, taking its kitchens, equipment and staff. Foodpanda's India CEO said it wanted to build India's largest cloud kitchen network, and Holachef's founders Saurabh Saxena and Anil Gelra joined Foodpanda's leadership team. The kitchens were meant to give Foodpanda a head start on launching its own food brands.",
+    "src": [
+      8,
+      7
+    ]
+  },
+  "sources": [
+    {
+      "label": "Smart CEO: How Holachef built a tech-based food business (Feb 2015)",
+      "url": "https://smartceo.co/how-holachef-built-a-tech-based-food-business"
+    },
+    {
+      "label": "Restaurant India: Holachef raises Rs 20 crore from Kalaari Capital (Jun 2015)",
+      "url": "https://www.restaurantindia.in/news/holachef-raises-rs-20-crore-from-kalaari-capital.n9223"
+    },
+    {
+      "label": "Inc42: Ratan Tata invests in food startup Holachef (Sep 2015)",
+      "url": "https://inc42.com/?p=26414"
+    },
+    {
+      "label": "Inc42: Foodtech startup Holachef attracts $5 Mn from SIDBI Venture Capital, others (Apr 2017)",
+      "url": "https://inc42.com/buzz/holachef-funding-kalaari/"
+    },
+    {
+      "label": "The Ken: SIDBI seems to have latched onto food tech after the gold rush has faded (May 2017)",
+      "url": "https://the-ken.com/government-venture-capital-food-tech/"
+    },
+    {
+      "label": "Entrackr: Ratan Tata-backed Holachef secures Rs 9 crore in equity and debt funding (Dec 2017)",
+      "url": "https://entrackr.com/2017/12/holachef-secures-rs-9-crore"
+    },
+    {
+      "label": "Entrackr: Another distress sale? Ola-owned Foodpanda may acquire Holachef (Aug 2018)",
+      "url": "https://entrackr.com/2018/08/ola-foodpanda-acquire-holachef"
+    },
+    {
+      "label": "MediaNama: Foodpanda acquires HolaChef (Oct 2018)",
+      "url": "https://www.medianama.com/2018/10/223-foodpanda-acquires-holachef/"
+    },
+    {
+      "label": "Ola press release: Foodpanda acquires Holachef; aims to build India's largest cloud kitchen network (Oct 2018)",
+      "url": "https://olacabs.com/media/in/press/foodpanda-acquires-holachef-aims-to-build-indias-largest-cloud-kitchen-network"
+    }
+  ],
+  "factCheck": {
+    "verifiedAt": "2026-11-07",
+    "disputed": [
+      {
+        "claim": "FY16 revenue and loss.",
+        "note": "Entrackr reported ₹11.3 crore revenue and a ₹24.8 crore loss; The Ken, also citing filings, reported ₹10.9 crore and ₹25 crore. We use Entrackr's figures; both give a loss of more than twice revenue."
+      },
+      {
+        "claim": "Holachef 'turned profitable' in 2017 with ₹50 crore GMV.",
+        "note": "This was the company's own claim, reported by Entrackr. No audited profit figure was published, and the company stopped operating about four months later."
+      },
+      {
+        "claim": "Exact shutdown month.",
+        "note": "MediaNama said operations stopped nearly six months before the October 2018 sale (about April); Entrackr wrote on 2 August that it had stopped 'nearly three months ago' (about May). We use April 2018."
+      },
+      {
+        "claim": "₹6 crore from InnoVen Capital.",
+        "note": "The Ken listed ₹6 crore of InnoVen debt in FY16 filings, while Entrackr reported a ₹6 crore InnoVen investment in December 2017. These may be the same loan reported twice, or two loans; we count it once."
+      },
+      {
+        "claim": "February 2015 seed of $3 million.",
+        "note": "One Inc42 article printed '$3 Mn (INR 2 Cr)'; ₹2 crore was about $0.32 million, which matches Inc42's earlier figure of $315K."
+      },
+      {
+        "claim": "Total raised.",
+        "note": "Our sum of reported rounds is about $10.1 million; media citing Crunchbase said $9.6 million, and other databases range from about $10 million to $12 million."
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "slug": "zerodha",
+  "company": "Zerodha",
+  "verifiedAt": "2026-10-28",
+  "palette": {
+    "primary": "#387ED1",
+    "secondary": "#424242",
+    "accent": "#F6461A",
+    "ink": "#22262E",
+    "paper": "#F7F5F0",
+    "note": "Zerodha blue #387ED1 is the fill colour in the logo file on zerodha.com and the most-used colour in its stylesheet; #424242 is the site's body-text grey; #F6461A is the orange-red in the Kite logo. Ink and paper are our own picks."
+  },
+  "tagline": "A trader who hated the barriers he faced built India's most profitable broker on ₹10 lakh, and never took a rupee from investors.",
+  "hook": "The only money ever put into Zerodha was ₹10 lakh in 2010: ₹3 lakh for a website and ₹7 lakh for office computers. It has never raised outside capital. In FY2026 it made a net profit of ₹4,283 crore.",
+  "hookSrc": [8, 1, 20, 21],
+  "cast": [
+    {
+      "name": "Nikhil Kamath",
+      "role": "Co-founder and CFO, Nithin's younger brother. He joined Nithin's brokerage business in 2006. When Zerodha started in 2010, his job was to trade the little money the family had left so the company had enough runway to survive. Nithin calls him the best trader he knows. He later started the investment firm True Beacon.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Nikhil_Kamath_at_World_Economic_Forum.png/1280px-Nikhil_Kamath_at_World_Economic_Forum.png",
+        "page": "https://commons.wikimedia.org/wiki/File:Nikhil_Kamath_at_World_Economic_Forum.png",
+        "caption": "Nikhil Kamath at a World Economic Forum session, May 2022.",
+        "author": "SP2904",
+        "license": "CC BY-SA 4.0",
+        "year": 2022
+      },
+      "src": [1, 12, 0]
+    },
+    {
+      "name": "Kailash Nadh",
+      "role": "Joined in 2013 and is now CTO, with a PhD in artificial intelligence and computational linguistics. He built Zerodha's own trading platform, Kite, with a team of about 30 engineers, and doesn't like being called a co-founder. Nithin calls him his 'guruji' and credits him for keeping Zerodha sane.",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kailash_Nadh_2023_%28cropped%29.jpg/1280px-Kailash_Nadh_2023_%28cropped%29.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Kailash_Nadh_2023_(cropped).jpg",
+        "caption": "Kailash Nadh speaking at WikiConference India in Hyderabad, April 2023.",
+        "author": "Biswarup Ganguly",
+        "license": "CC BY 3.0",
+        "year": 2023
+      },
+      "src": [0, 1, 8]
+    },
+    {
+      "name": "Venu Madhav",
+      "role": "COO and employee number one. A chartered-accountancy dropout who, by Nithin's account, joined his small franchise in 2006. In Zerodha's early years he and his team stayed up late running operations on the cheapest, clunkiest back-office software the brothers could afford.",
+      "photo": null,
+      "src": [1, 25, 0]
+    },
+    {
+      "name": "Karthik Rangappa",
+      "role": "Chief of Education. A client from the franchise days, he joined in 2014 and almost single-handedly wrote Varsity, Zerodha's free course on markets. He also took the portrait of Nithin on this page.",
+      "photo": null,
+      "src": [1, 0]
+    }
+  ],
+  "founder": {
+    "name": "Nithin Kamath",
+    "role": "Founder & CEO, Zerodha",
+    "born": "1979, Shivamogga, Karnataka",
+    "died": null,
+    "portrait": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nithin_Kamath_%28Zerodha_Broking_Limited%29.jpg/1280px-Nithin_Kamath_%28Zerodha_Broking_Limited%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nithin_Kamath_(Zerodha_Broking_Limited).jpg",
+      "caption": "Nithin Kamath in December 2020, photographed by Karthik Rangappa, the Zerodha colleague who wrote Varsity.",
+      "author": "Karthik Rangappa",
+      "license": "CC BY 2.0",
+      "year": 2020
+    },
+    "photos": [],
+    "background": "Nithin was born in 1979 in Shivamogga, Karnataka. His father spent his whole working life at Canara Bank, and the family later settled in Bengaluru. As a teenager he was introduced to the stock market by some Marwari friends and began trading at 16 or 17, with seed money from his father. He studied engineering at the Bangalore Institute of Technology and says that if he had done well in college, Zerodha would never have happened. His father was also the first customer of everything the brothers tried.",
+    "backgroundSrc": [14, 17, 9, 18, 8],
+    "journey": [
+      {
+        "year": "1979",
+        "kind": "life",
+        "title": "A banker's son",
+        "detail": "Born in Shivamogga, Karnataka, to a father who spent his whole career at Canara Bank. The family later moved to Bengaluru.",
+        "src": [14, 17, 13]
+      },
+      {
+        "year": "c.1996",
+        "kind": "life",
+        "title": "First trades at 16 or 17",
+        "detail": "Marwari friends showed him the stock market while he was looking for pocket money. His father gave him his first capital to trade with.",
+        "src": [9, 18, 15]
+      },
+      {
+        "year": "Before 2010",
+        "kind": "attempt",
+        "title": "Multi-level marketing",
+        "detail": "One of several early schemes the brothers tried. Their father was the first customer, as he was for everything they attempted, 'no matter how foolish it seemed in hindsight', Nithin later wrote.",
+        "src": [17, 18]
+      },
+      {
+        "year": "Late 1990s",
+        "kind": "life",
+        "title": "Engineering, half-hearted",
+        "detail": "He studied engineering at the Bangalore Institute of Technology while trading. He says that if he had done well in college, Zerodha would not exist.",
+        "src": [14, 8]
+      },
+      {
+        "year": "2001",
+        "kind": "failure",
+        "title": "Wiped out in the crash",
+        "detail": "He had been trading futures and options with money borrowed from family and friends. When markets fell he lost all of it and was down about ₹2 lakh.",
+        "src": [11]
+      },
+      {
+        "year": "2001–04",
+        "kind": "job",
+        "title": "Night shifts at a call centre",
+        "detail": "He spent about four years at a Bengaluru call centre making unsolicited calls to people in the US. Working nights let him trade in the mornings.",
+        "src": [15, 9, 11]
+      },
+      {
+        "year": "2004–05",
+        "kind": "attempt",
+        "title": "Managing other people's money",
+        "detail": "His first client trusted him with a portfolio; Fortune India says an expatriate he met at a Jayanagar gym gave him ₹25 lakh to trade. Referrals followed, and he set up Kamath Associates.",
+        "src": [9, 11]
+      },
+      {
+        "year": "2006",
+        "kind": "job",
+        "title": "Sub-broker for Reliance Money",
+        "detail": "Kamath Associates ran as a franchise of big brokers including Reliance Money, which made a young outfit sound credible. Nikhil and Venu joined him.",
+        "src": [12, 11, 1]
+      },
+      {
+        "year": "2009",
+        "kind": "failure",
+        "title": "Missing the election rally",
+        "detail": "The brothers closed all their positions before the 2009 election results and missed a huge move. Nithin felt he was hitting his 'shelf life' as a day trader.",
+        "src": [12]
+      },
+      {
+        "year": "2010",
+        "kind": "breakthrough",
+        "title": "Zerodha opens",
+        "detail": "On 15 August 2010, from an office on Bannerghatta Road, Zerodha started charging a flat ₹20 per trade. NSE's free trading platform NOW let them start with no tech of their own.",
+        "src": [0, 11, 1]
+      },
+      {
+        "year": "2013",
+        "kind": "breakthrough",
+        "title": "Kailash arrives",
+        "detail": "Kailash Nadh joined and Zerodha began building its own technology. That year, at a startup conference where he first heard terms like 'CAC', Nithin was asked his customer-acquisition cost and answered 'Minus 500 rupees', because Zerodha charged ₹500 to open an account.",
+        "src": [1, 8]
+      },
+      {
+        "year": "2015",
+        "kind": "breakthrough",
+        "title": "Zero brokerage on investing",
+        "detail": "Zerodha stopped charging any brokerage on equity delivery trades, paid for by active traders. Within a few years most of the industry had moved to similar pricing.",
+        "src": [12, 2, 1]
+      },
+      {
+        "year": "2016",
+        "kind": "life",
+        "title": "Money stops mattering",
+        "detail": "He put a chunk of money in a bank fixed deposit so that 'even if the whole life goes to the dogs' he would be fine. He calls it the most peaceful thing he did.",
+        "src": [8]
+      },
+      {
+        "year": "2019",
+        "kind": "breakthrough",
+        "title": "India's largest broker",
+        "detail": "Reports in January 2019 showed Zerodha with 8.47 lakh clients, just ahead of ICICI Securities' 8.44 lakh, making it the biggest broker in the country by clients.",
+        "src": [23, 1]
+      },
+      {
+        "year": "2020",
+        "kind": "breakthrough",
+        "title": "The Covid flood",
+        "detail": "Sign-ups jumped from about 50,000 to 5 lakh a month. A second order-processing system went live in February 2020, just in time; without it, he says, Zerodha could not have scaled.",
+        "src": [24, 8]
+      },
+      {
+        "year": "2023–24",
+        "kind": "failure",
+        "title": "Father's death, then a stroke",
+        "detail": "His father died in December 2023. In January 2024, at 44 and very fit, Nithin had a stroke that left his face drooping and made reading and writing hard.",
+        "src": [4, 16, 8]
+      },
+      {
+        "year": "2024–25",
+        "kind": "failure",
+        "title": "Regulators cut the core business",
+        "detail": "SEBI's curbs on options trading began hitting in October 2024. Brokerage revenue fell about 40% year on year in the June 2025 quarter, and FY2025 profit fell 23%.",
+        "src": [5, 19]
+      },
+      {
+        "year": "Now",
+        "kind": "now",
+        "title": "No Act 2",
+        "detail": "Still CEO at 47. He says he has done nothing but trading, broking and teaching about markets since he was 17, and intends to keep running Zerodha 'as long as I am not senile'.",
+        "src": [8, 13]
+      }
+    ],
+    "mindset": [
+      {
+        "idea": "Don't do to customers what you wouldn't want done to you",
+        "explain": "He calls this Zerodha's only mission statement: don't push products, don't nudge people to trade more, and don't take risks with customer money you wouldn't take with your own.",
+        "src": [5, 6, 7]
+      },
+      {
+        "idea": "Always prepare for the worst",
+        "explain": "From the start he has kept 10% of profits aside as a war chest in case Zerodha has to pay customers back. In 2022 he said Zerodha could survive 13 years with zero revenue.",
+        "src": [8, 2]
+      },
+      {
+        "idea": "Compete with yourself, not rivals",
+        "explain": "If your time frame is forever, he says, business is not a horse race. The goal is to be the best version of yourself, not to react to every competitor.",
+        "src": [8]
+      },
+      {
+        "idea": "No investors means no pressure",
+        "explain": "Because nobody else owns a slice, he says Zerodha can skip ads, revenue targets and sales calls. He thinks it is 'next to impossible' to build a Zerodha with venture money today.",
+        "src": [7, 8]
+      },
+      {
+        "idea": "Stay small for your size",
+        "explain": "Fewer than 100 people across tech, product, business and operations run a company with crores of customers. He believes AI will make a small team an even bigger advantage.",
+        "src": [6, 1]
+      }
+    ],
+    "habits": [
+      {
+        "habit": "Up at 5, in bed by 9",
+        "detail": "He works out until 7, does an hour at his computer, reaches the office at 10 and is home by 6:30, then sauna, cold plunge, dinner with his wife Seema and their son.",
+        "src": [8]
+      },
+      {
+        "habit": "A five-year moving average",
+        "detail": "He judges the business on a five-year moving average of revenue, not quarterly or yearly numbers, so short dips don't push him into bad decisions.",
+        "src": [5]
+      },
+      {
+        "habit": "An open letter every anniversary",
+        "detail": "Every year around Zerodha's 15 August anniversary he writes a long public update with the year's numbers, mistakes and worries.",
+        "src": [1, 2, 4, 5, 6]
+      },
+      {
+        "habit": "No more 2 a.m. emails",
+        "detail": "He used to email his team at 2 or 3 in the morning. He now says late nights make you emotionally weak and push you into wrong choices.",
+        "src": [8]
+      }
+    ],
+    "darkestHour": {
+      "title": "2024: losing his father, then his words",
+      "story": "In December 2023 Nithin and Nikhil lost their father, the Canara Bank officer who had been their first customer for every venture. In January 2024 Nithin, known for his fitness, had a stroke. His face drooped, and he says his reading, speaking, singing, guitar and writing fell close to zero. Six weeks later he told the public, listing his father's death, poor sleep, exhaustion, dehydration and overworking out as possible causes. For two or three months he wondered whether to return to work, then decided he could not live a retired life. By 2025 he said he was about 90% back, but the aphasic stroke still slows his word retrieval, and he now thinks about who would run Zerodha if a second one struck.",
+      "src": [4, 5, 8, 16]
+    },
+    "genuineness": {
+      "story": "Zerodha builds features that cut its own revenue. In 2020 it added 'Nudge' warnings when users tried to buy risky penny stocks, and Nithin says penny-stock trading on Kite fell by more than half. It shut down a sales team that phoned people who had signed up but not finished, and the sign-up rate did not change. It has a kill switch that lets traders lock themselves out. In 2026, with margin lending making about 10% of revenue, Nithin wrote that the product is not good for most customers.",
+      "src": [1, 2, 24, 6]
+    },
+    "now": "At 47 Nithin is still CEO and sits on SEBI's Secondary Market Advisory Committee. Zerodha's revenue has been flat since the options curbs; he expects a pivot and has said Zerodha may have to start charging for delivery trades if weekly options are stopped. Much of his energy goes to Rainmatter, whose climate and deep-tech bets he thinks may one day be worth more than the broking business.",
+    "nowSrc": [0, 5, 6, 8, 13]
+  },
+  "numbers": [
+    {
+      "value": "₹8,847 crore",
+      "label": "Revenue from operations (Zerodha says FY2026 was about the same)",
+      "asOf": "FY2025",
+      "src": [19, 20, 21]
+    },
+    {
+      "value": "₹4,283 crore",
+      "label": "Net profit",
+      "asOf": "FY2026",
+      "src": [20, 21]
+    },
+    {
+      "value": "₹10 lakh",
+      "label": "All the money ever put into the business; zero outside funding",
+      "asOf": "2010",
+      "src": [8, 1, 7]
+    },
+    {
+      "value": "₹20",
+      "label": "Most it charges per executed intraday or F&O order (₹20 or 0.03%, whichever is lower; flat ₹20 on options), unchanged since 2010",
+      "asOf": "Oct 2026",
+      "src": [26, 2, 7]
+    },
+    {
+      "value": "₹9,000 crore",
+      "label": "Margin-trading (MTF) loan book",
+      "asOf": "Aug 2026",
+      "src": [6, 20]
+    },
+    {
+      "value": "1.8 crore+",
+      "label": "Clients (company figure)",
+      "asOf": "Oct 2026",
+      "src": [0]
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2010",
+      "title": "Zerodha opens",
+      "detail": "Operations start on 15 August in a rented office on Bannerghatta Road, with a flat ₹20 per order. The name joins 'zero' and 'rodha', Sanskrit for barrier.",
+      "src": [0, 11, 12]
+    },
+    {
+      "year": "2013",
+      "title": "Building its own tech",
+      "detail": "Kailash Nadh joins and starts the in-house technology team that later builds the Kite trading app.",
+      "src": [1, 8]
+    },
+    {
+      "year": "2015",
+      "title": "Free investing",
+      "detail": "Brokerage on equity delivery trades drops to zero.",
+      "src": [12, 2]
+    },
+    {
+      "year": "2019",
+      "title": "Number one broker",
+      "detail": "Reports in January 2019 show Zerodha overtaking ICICI Securities by client count, with 8.47 lakh clients.",
+      "src": [23, 1]
+    },
+    {
+      "year": "2020",
+      "title": "A 'unicorn' by its own maths",
+      "detail": "An employee share buyback at ₹700 a share values Zerodha at about ₹7,000 crore, roughly $1 billion, without any investor.",
+      "src": [22]
+    },
+    {
+      "year": "2020",
+      "title": "Rainmatter Foundation",
+      "detail": "Zerodha sets up a climate and environment foundation with a ₹750 crore commitment. Nithin now sets aside 10% of profits for it every year.",
+      "src": [2, 8]
+    },
+    {
+      "year": "2020–21",
+      "title": "Pandemic surge",
+      "detail": "Monthly sign-ups jump about tenfold, from roughly 50,000 to 5 lakh, and support queues buckle.",
+      "src": [24, 2]
+    },
+    {
+      "year": "2024",
+      "title": "Account opening made free",
+      "detail": "After losing share of active clients, Zerodha drops its account opening fee in February 2024.",
+      "src": [4, 5]
+    },
+    {
+      "year": "2024–25",
+      "title": "Options curbs bite",
+      "detail": "Higher STT, fewer weekly expiries and the end of exchange rebates cut brokerage revenue by about 40% in the June 2025 quarter.",
+      "src": [5, 19]
+    },
+    {
+      "year": "2026",
+      "title": "Sixteen years, flat revenue",
+      "detail": "Revenue holds steady, margin-trading interest replaces lost fees, and Zerodha says it now holds more retail and HNI assets than any Indian broker.",
+      "src": [6, 20]
+    }
+  ],
+  "howItMakesMoney": {
+    "summary": "Zerodha is a stockbroker. Active traders pay a flat ₹20 for each intraday or futures-and-options order, and Nithin says about 85% of revenue comes from these leveraged trades. Long-term investing in shares is free. Since December 2024 it also earns interest by lending customers money to buy shares (margin trading), now about 10% of revenue, plus small annual account charges worth about 2%.",
+    "flows": [
+      { "from": "Active traders", "to": "Zerodha", "what": "₹20 per executed intraday or F&O order" },
+      { "from": "Margin-trading customers", "to": "Zerodha", "what": "Interest on money borrowed to buy shares" },
+      { "from": "All demat holders", "to": "Zerodha", "what": "Annual account maintenance charges" },
+      { "from": "Zerodha", "to": "Rainmatter", "what": "About 10% of profits for startup investments and 10% for the climate foundation" }
+    ],
+    "src": [8, 6, 2, 20]
+  },
+  "failures": [
+    {
+      "year": "2010–13",
+      "title": "Renting technology",
+      "whatHappened": "Zerodha started on third-party trading and back-office software because it had no tech team. Nithin calls this the one thing he got completely wrong: even at the 1 lakh customers he first imagined, vendor tech would not have coped.",
+      "lesson": "If your product is the experience, own the technology as early as you can afford to.",
+      "src": [8, 1]
+    },
+    {
+      "year": "2020–22",
+      "title": "Support broke under growth",
+      "whatHappened": "When sign-ups exploded during Covid, customer support became what Nithin called the business's weakest link. It took about 18 months of changes to get call waits under two minutes.",
+      "lesson": "Growth you don't pay for in ads still has to be paid for in service.",
+      "src": [2, 24]
+    },
+    {
+      "year": "2020",
+      "title": "Too slow on video and small towns",
+      "whatHappened": "Nithin announced permanent work-from-home in 2020 and was slow to bring people back. Rivals spent on videos and IPL ads and won millions of first-time investors outside the metros. By July 2026 Groww had about 1.31 crore NSE active clients to Zerodha's 67.62 lakh.",
+      "lesson": "Refusing to advertise is a choice with a cost. Know what you are giving up.",
+      "src": [8, 20, 4]
+    },
+    {
+      "year": "2024–25",
+      "title": "One regulator, one hit",
+      "whatHappened": "Because almost all broking profits come from options traders, SEBI's curbs cut Zerodha's brokerage revenue by about 40% in a quarter and FY2025 profit fell about 23%.",
+      "lesson": "If most of your money comes from one thing a regulator can change overnight, diversify before it changes.",
+      "src": [5, 19]
+    }
+  ],
+  "mythVsFact": [
+    {
+      "myth": "Zerodha means 'zero brokerage'.",
+      "fact": "It joins 'zero' with 'rodha', the Sanskrit word for barrier. Nithin says the idea was removing every barrier for traders and investors, not free trading.",
+      "src": [10, 0, 12]
+    },
+    {
+      "myth": "Zerodha is free.",
+      "fact": "Only long-term share investing is free. Intraday and F&O orders cost ₹20 each, and Nithin has said Zerodha may have to charge for delivery trades if weekly options are stopped.",
+      "src": [2, 5]
+    },
+    {
+      "myth": "Zerodha is still India's biggest broker by every count.",
+      "fact": "Groww has more NSE active clients. Zerodha leads on the assets customers keep with it, which Nithin says is the number that matters.",
+      "src": [20, 6]
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Back in 2010, the only money that went into the business was ₹10 lakh.",
+      "who": "Nithin Kamath (The Back Office, 2026)",
+      "src": [8]
+    },
+    {
+      "text": "I spent four years at a call center, making unsolicited calls to people in the US.",
+      "who": "Nithin Kamath, on X (2024)",
+      "src": [15]
+    },
+    {
+      "text": "Like I always say, with broking, we have to keep running just to stand still.",
+      "who": "Nithin Kamath, 16 years of Zerodha (2026)",
+      "src": [6]
+    },
+    {
+      "text": "Around 2016, I realized that more money was not going to get me anything in life.",
+      "who": "Nithin Kamath (The Back Office, 2026)",
+      "src": [8]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Turn your pain into a product",
+      "detail": "Nithin spent 12 years as a trader, sub-broker and call-centre worker paying high, confusing fees. Zerodha's flat ₹20 and a brokerage calculator on day one came from that. The problem you have lived with is your best idea."
+    },
+    {
+      "title": "Make customers pay upfront if you can",
+      "detail": "A ₹500 account fee meant Zerodha's cost of getting a customer was 'minus 500 rupees'. Without ad spending to recover, it never had to push people to trade. Look for a model where the first transaction pays for itself."
+    },
+    {
+      "title": "Every investor is a boss",
+      "detail": "With only ₹10 lakh ever put in, Zerodha could build features that reduce trading and say no to targets. Before taking money, ask what it will force you to do later."
+    },
+    {
+      "title": "Save for the bad year in the good year",
+      "detail": "A 10% war chest, a fixed deposit in 2016 and years of runway meant a 40% fall in brokerage revenue in one 2025 quarter was a problem, not a crisis. Build your cushion while things are going well."
+    },
+    {
+      "title": "Your health is part of the business plan",
+      "detail": "A very fit 44-year-old had a stroke, and he names grief, poor sleep and exhaustion among the possible causes. Nithin is now in bed by 9 and thinks about succession. Sleep and rest are not laziness; they protect the company."
+    }
+  ],
+  "moments": [
+    { "youtubeId": "uH4ZEen-g2Q", "at": 51, "label": "Nithin on how Zerodha started" },
+    { "youtubeId": "1aREW_y9_Lw", "at": 310, "label": "How employee number one met Nithin" },
+    { "youtubeId": "1aREW_y9_Lw", "at": 1355, "label": "Shady broking in the 2000s and the ₹20 order" },
+    { "youtubeId": "LugscaCXcO4", "at": 465, "label": "The Zerodha philosophy" },
+    { "youtubeId": "0repTV34aPQ", "at": 1024, "label": "Building features that stop you trading" },
+    { "youtubeId": "LugscaCXcO4", "at": 2093, "label": "The crazy post-2020 period" },
+    { "youtubeId": "LugscaCXcO4", "at": 3266, "label": "Nithin on his mistakes" },
+    { "youtubeId": "LugscaCXcO4", "at": 4633, "label": "Life after the stroke" }
+  ],
+  "sources": [
+    { "label": "Zerodha: About us (company history and team)", "url": "https://zerodha.com/about/" },
+    { "label": "Z-Connect (Nithin Kamath): Our 10th anniversary and the future (15 Aug 2020)", "url": "https://zerodha.com/z-connect/general/our-10th-anniversary-and-the-future" },
+    { "label": "Z-Connect (Nithin Kamath): 12 years of Zerodha (Aug 2022)", "url": "https://zerodha.com/z-connect/general/12-years-of-zerodha" },
+    { "label": "Z-Connect (Nithin Kamath): 13 years of Zerodha and why we do what we do (Sep 2023)", "url": "https://zerodha.com/z-connect/general/business-updates-13-years-of-zerodha-and-why-we-do-what-we-do" },
+    { "label": "Z-Connect (Nithin Kamath): 14 years of Zerodha, the pivot? (Sep 2024)", "url": "https://zerodha.com/z-connect/business-updates/business-updates-14-years-of-zerodha-the-pivot" },
+    { "label": "Z-Connect (Nithin Kamath): 15 years of Zerodha, the risk crystallises (Sep 2025)", "url": "https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises" },
+    { "label": "Z-Connect (Nithin Kamath): 16 years of Zerodha, fresh enthusiasm (Aug 2026)", "url": "https://zerodha.com/z-connect/business-updates/16-years-of-zerodha-fresh-enthusiasm" },
+    { "label": "Z-Connect: A different way to run a brokerage (Apr 2026)", "url": "https://zerodha.com/z-connect/business-updates/different-way-to-run-brokerage" },
+    { "label": "Z-Connect: Welcome to The Back Office, with full transcript of episode 1 with Nithin Kamath (Jul 2026)", "url": "https://zerodha.com/z-connect/business-updates/welcome-to-the-back-office" },
+    { "label": "Z-Connect reprint of The New Indian Express: Nithin is a bull tamer in his own right (2013)", "url": "https://zerodha.com/z-connect/general/nithin-is-a-bull-tamer-in-his-own-right" },
+    { "label": "TradingQnA: Why Zerodha with Nithin, episode 1 (Nithin's reply on the name)", "url": "https://tradingqna.com/t/why-zerodha-with-nithin-episode-1/95558" },
+    { "label": "Fortune India: Zerodha & the zero sum game, by Pavan Lall (Sep 2021)", "url": "https://www.fortuneindia.com/enterprise/zerodha-the-zero-sum-game/105854" },
+    { "label": "Forbes India: Nithin and Nikhil Kamath, Code Zero (2018)", "url": "http://www.forbesindia.com/article/tycoons-of-tomorrow/nithin-and-nikhil-kamath-code-zero/51347/1" },
+    { "label": "Forbes: Nithin Kamath profile", "url": "https://www.forbes.com/profile/nithin-kamath/" },
+    { "label": "Business Outreach: Nithin Kamath, founder and CEO, Zerodha", "url": "https://www.businessoutreach.in/nithin-kamath-founder-and-ceo-zerodha/" },
+    { "label": "Business Today: Spam calls remind Nithin Kamath of his days as a call-centre worker (May 2024)", "url": "https://www.businesstoday.in/technology/news/story/karma-has-a-way-of-biting-back-spam-calls-remind-zerodhas-nithin-kamath-of-days-as-call-centre-worker-428285-2024-05-04" },
+    { "label": "The Week: Zerodha CEO Nithin Kamath suffers mild stroke (26 Feb 2024)", "url": "https://www.theweek.in/news/biz-tech/2024/02/26/zerodha-ceo-nithin-kamath-suffers-mild-stroke-says-poor-sleep-exhaustion-dehydration-could-be-the-reason.html" },
+    { "label": "Storyboard18: Nithin Kamath acknowledges his father's role (Dec 2023)", "url": "https://www.storyboard18.com/quantum-brief/zerodhas-nithin-kamath-acknowledges-fathers-role-in-the-kamath-brothers-success-19446.htm" },
+    { "label": "Indian Startup News: 'My father was my 1st customer', says Nithin Kamath (Dec 2023)", "url": "https://indianstartupnews.com/news/my-father-was-my-1st-customer-he-gave-me-seed-capital-to-trade-says-nithin-kamath-2056612" },
+    { "label": "Entrackr: Zerodha FY25 financials from RoC filings (Nov 2025)", "url": "https://entrackr.com/fintrackr/zerodha-cash-reserve-stands-at-rs-22679-cr-in-fy25-10799921" },
+    { "label": "Inc42: Zerodha's FY26, net profit up 1% at ₹4,283 crore (Aug 2026)", "url": "https://inc42.com/?p=570123" },
+    { "label": "IANS wire report via Investment Guru India: Zerodha's FY26 revenue and profit stay flat at about ₹8,500 crore and ₹4,300 crore (27 Aug 2026)", "url": "https://investmentguruindia.com/newsdetail/zerodha-s-fy26-revenue-profit-stay-flat-at-rs-8-500-crore-and-rs-4-300-crore941062" },
+    { "label": "Inc42: Zerodha claims unicorn valuation in ESOP buyback plan (Jun 2020)", "url": "https://inc42.com/buzz/zerodha-claims-unicorn-valuation-in-esops-buyback-plan/" },
+    { "label": "IBTimes India: Zerodha becomes top broker by clients (Jan 2019)", "url": "https://www.ibtimes.co.in/number-clients-zerodha-becomes-top-broker-upstages-established-houses-789701" },
+    { "label": "Zerodha on YouTube: The Back Office, episode 4 (description and chapters)", "url": "https://www.youtube.com/watch?v=0repTV34aPQ" },
+    { "label": "Zerodha on YouTube: The Back Office, episode 2 with Venu Madhav (description and chapters)", "url": "https://www.youtube.com/watch?v=1aREW_y9_Lw" },
+    { "label": "Zerodha: Brokerage charges and pricing page", "url": "https://zerodha.com/pricing/" }
+  ],
+  "factCheck": {
+    "method": "Researched from 26 sources, mainly Nithin Kamath's own words (his anniversary letters on Z-Connect from 2020 to 2026, the full Back Office transcript, his posts as quoted by the press) and RoC-based financial reports. Then independently re-checked claim by claim against the cited source plus a second source (Fortune India, Forbes India, Inc42, YourStory, Entrackr, The Week, Zerodha's About and pricing pages). Quotes, including 'Minus 500 rupees', were matched word for word to the Back Office transcript, the 2026 anniversary letter and Business Today. All eight video moments were matched to the chapter lists in the creator's own YouTube descriptions, and the photos were checked against the Commons API. A weak source (Sarkaritel) was replaced by the IANS wire report it was based on; YourStory (26 Aug 2026) also confirms the ₹4,283 crore profit but blocks automated link checks, so it is not listed. Family details found only in secondary profiles were removed. Conflicts are listed below.",
+    "disputed": [
+      { "claim": "Age he started trading", "note": "A 2013 New Indian Express profile says 16; Nithin himself (2026) and Forbes India say 17." },
+      { "claim": "Size of his 2001 loss", "note": "Nithin told Fortune India he was down about ₹2 lakh; several profiles say he lost ₹5 lakh over 2001–02. We use his own figure." },
+      { "claim": "Call-centre years", "note": "Profiles give January 2001 to January 2004; Nithin says 'four years'; the 2013 profile has him still working and trading in 2004–05." },
+      { "claim": "His first client", "note": "The 2013 profile says a retired man who wanted a portfolio; Fortune India (2021) says an expatriate he met at a Jayanagar gym in 2005 who gave him ₹25 lakh. Both may be true." },
+      { "claim": "Starting capital", "note": "Nithin says (2026) only ₹10 lakh ever went into the business. Some older press profiles, as summarised on Wikipedia, cite ₹2 crore of seed money; we could not read that original report." },
+      { "claim": "Founding date", "note": "Zerodha's About page and anniversary letters use 15 August 2010; the 2026 letter also says 'we started on Aug 16th, 2010'." },
+      { "claim": "When delivery brokerage went to zero", "note": "Forbes India and Nithin's 2022 letter say 2015 (Forbes: December 2015); in the 2026 Back Office interview he places it in 2016–17." },
+      { "claim": "When Varsity began", "note": "Nithin says in 2026 it has run since 2013; his 2020 letter says Varsity was born when Karthik Rangappa joined in 2014." },
+      { "claim": "When Venu Madhav joined", "note": "Nithin's 2020 letter says 2006; the Back Office episode 2 description says they reconnected on Orkut in 2007 before Venu quit his corporate job." },
+      { "claim": "FY2025 profit", "note": "Entrackr's RoC-based figure is ₹4,237 crore; Inc42 uses ₹4,231 crore as the FY2025 base. Inc42 first printed FY2026 profit as ₹4,238 crore, then corrected it to ₹4,283 crore; other reports quoting Nithin round it to about ₹4,300 crore." },
+      { "claim": "Number of clients", "note": "Zerodha's About page says 1.8 crore+ (Oct 2026); its 2026 YouTube descriptions say 'over 2 crore Indians'; ThePrint (Aug 2026) quoted the site as 1.6 crore+." },
+      { "claim": "Year of the stroke", "note": "Some summaries place Nithin's stroke in 2021. His 2024 letter says it came in January 2024, right after his father died in December 2023, and his 26 February 2024 post says it happened 'around 6 weeks ago'." },
+      { "claim": "Family details", "note": "Birthplace (Shivamogga), the Bangalore Institute of Technology and the family's move to Bengaluru come from secondary profiles (Business Outreach, Wikipedia), not from Nithin himself. Those profiles say his mother taught the veena, but a profile of Nikhil says she ran an event-management company, so we leave it out." },
+      { "claim": "FY2026 revenue", "note": "Zerodha shows its yearly numbers only as a rounded chart. Inc42 and YourStory say FY2026 revenue was flat on FY2025's audited ₹8,847 crore; IANS reads the chart as about ₹8,500 crore revenue and about ₹4,300 crore profit. The audited FY2026 figures were not yet public." }
+    ]
+  }
+}
